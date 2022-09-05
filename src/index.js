@@ -71,6 +71,8 @@ for (let i = 0; i < headWords.length; i++) {
   }
 }
 
+finalText += `<div class="stats">Number of headwords: ${headWords.length}</div>`;
+
 const isAllTranslations = false;
 const isNewTab = true;
 const format = "SCL";

@@ -498,7 +498,7 @@ beauty		Kp8
 leadership		Kp8
 followers		Kp8
 sovereignty		Kp8
-wheel-turning monarch		Kp8
+wheel-turning monarchs		Kp8
 heaven	vs. kingship	Kp8
 merit (puññā)	as support for nibbāna	Kp8
 good friends	as result of merit	Kp8
@@ -1132,4 +1132,31 @@ death (maraṇa)	of gods	Iti83
 gods	wishes of	Iti83
 Tathāgatas	benefiting the world	Iti84
 arahants	benefiting the world	Iti84
-disciple of the Buddha	benefiting the world	Iti84`;
+disciple of the Buddha	benefiting the world	Iti84
+meditation on ugliness		Iti85
+impermanence meditation		Iti85
+mindfulness of breathing		Iti85
+Dhamma	delight in	Iti86
+thoughts (vitakkā)	skillful and unskillful	Iti87
+unwholesome roots	as inner stains	Iti88
+friendship	bad	Iti89
+evil wishes		Iti89
+stopping when more left to do		Iti89
+harming a good person		Iti89
+confidence (aggappasāda)		Iti90
+Saṅgha	best of groups	Iti90
+livelihood	monastic	Iti91
+monastic life	wrongly practiced	Iti91
+monastic life	goal of	Iti91
+monastic life	simile of firebrand	Iti91
+alms food		Iti91
+iron ball	eating	Iti91
+Buddha, the	closeness to	Iti92
+Dhamma	seeing sees the Buddha	Iti92
+Buddha, the	seeing sees the Dhamma	Iti92
+greed, hatred, delusion	as fires	Iti93
+sensual pleasures		Iti95
+once returner	attached to sense pleasure	Iti96
+non-returner	attached to rebirth	Iti96
+danger in slightest fault		Iti97
+virtue	definition	Iti97`;

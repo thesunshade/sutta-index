@@ -2,6 +2,10 @@
     --indent: 1.5rem
 }
 
+body {
+    font-family: "Fira Sans";
+}
+
 p {
     margin: 0;
     font-family: "Fira Sans";
@@ -22,4 +26,12 @@ strong {
 
 .sub-word {
     padding-left: var(--indent);
+}
+
+.stats {
+    background-color: darkgoldenrod;
+    color: white;
+    font-weight: 600;
+    margin-top: 2rem;
+    padding: .5rem
 }
