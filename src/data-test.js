@@ -243,33 +243,33 @@ death (maraṇa)	universality of	AN5.48
 deathbed	conversation uppon	SN41.10
 deathbed	conversation uppon	MN143
 King of death		xref death (maraṇa)
-loving kindness (mettā)		Snp1.8
-loving kindness (mettā)		AN3.63
-loving kindness (mettā)		Ud5.1
-loving kindness (mettā)		MN7
-loving kindness (mettā)		AN9.22
-loving kindness (mettā)		Kp9
-loving kindness (mettā)		AN10.219
-loving kindness (mettā)		AN10.220
-loving kindness (mettā)		AN11.16
-loving kindness (mettā)		MN40
-loving kindness (mettā)		SN42.13
-loving kindness (mettā)		MN55
-loving kindness (mettā)		MN62
-loving kindness (mettā)		MN93
-loving kindness (mettā)		MN96
-loving kindness (mettā)		MN119
-loving kindness (mettā)		xref friendship
-loving kindness (mettā)	to abandon enmity	SN10.4
-loving kindness (mettā)	to abandon hatred	AN6.107
-loving kindness (mettā)	to abandon ill-will	AN1.17
-loving kindness (mettā)	to abandon ill-will	AN3.68
-loving kindness (mettā)	to abandon ill-will	AN9.1
-loving kindness (mettā)	to abandon ill-will	AN9.3
-loving kindness (mettā)	to abandon ill-will	SN46.51
-loving kindness (mettā)	to abandon resentment	AN5.161
-loving kindness (mettā)	under abuse	MN21
-loving kindness (mettā)	under abuse	MN50
+loving-kindness (mettā)		Snp1.8
+loving-kindness (mettā)		AN3.63
+loving-kindness (mettā)		Ud5.1
+loving-kindness (mettā)		MN7
+loving-kindness (mettā)		AN9.22
+loving-kindness (mettā)		Kp9
+loving-kindness (mettā)		AN10.219
+loving-kindness (mettā)		AN10.220
+loving-kindness (mettā)		AN11.16
+loving-kindness (mettā)		MN40
+loving-kindness (mettā)		SN42.13
+loving-kindness (mettā)		MN55
+loving-kindness (mettā)		MN62
+loving-kindness (mettā)		MN93
+loving-kindness (mettā)		MN96
+loving-kindness (mettā)		MN119
+loving-kindness (mettā)		xref friendship
+loving-kindness (mettā)	to abandon enmity	SN10.4
+loving-kindness (mettā)	to abandon hatred	AN6.107
+loving-kindness (mettā)	to abandon ill-will	AN1.17
+loving-kindness (mettā)	to abandon ill-will	AN3.68
+loving-kindness (mettā)	to abandon ill-will	AN9.1
+loving-kindness (mettā)	to abandon ill-will	AN9.3
+loving-kindness (mettā)	to abandon ill-will	SN46.51
+loving-kindness (mettā)	to abandon resentment	AN5.161
+loving-kindness (mettā)	under abuse	MN21
+loving-kindness (mettā)	under abuse	MN50
 realm of death (maccudheyya)		xref death (maraṇa)
 Dhamma discussion	time for	AN5.146
 Dhamma discussion	time for	AN5.147
@@ -511,7 +511,7 @@ gentleness	as criterion for loving-kindness	Kp9
 contentment	as criterion for loving-kindness	Kp9
 business		Kp9
 blame	by the wise	Kp9
-loving-kindness		Kp9
+loving-kindness (mettā)		Kp9
 meditation	postures	Kp9
 wrong views		Kp9
 virtue	as criterion for loving-kindness	Kp9
@@ -835,7 +835,7 @@ Dhamma	delight in	Dhp364
 envy	block to concentration	Dhp365
 livelihood	monastic	Dhp366
 praise by gods		Dhp366
-loving-kindness		Dhp368
+loving-kindness (mettā)		Dhp368
 sense desire	simile of iron ball	Dhp371
 wisdom	and concentration	Dhp372
 concentration (samādhi)	and wisdom	Dhp372
@@ -927,7 +927,7 @@ mental misconduct		Ud4.1
 friendship	helps with cetovimuttiya	Ud4.1
 speech	topics of discussion	Ud4.1
 perception of ugliness	to give up greed	Ud4.1
-loving-kindness	to give up hate	Ud4.1
+loving-kindness (mettā)	to give up hate	Ud4.1
 mindfulness of breathing	to cut off thinking	Ud4.1
 perception of impermanance	to remove conceit ‘I am’	Ud4.1
 monastic life	wrongly practiced	Ud4.2

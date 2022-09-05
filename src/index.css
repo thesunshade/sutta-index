@@ -4,6 +4,7 @@
 
 body {
     font-family: "Fira Sans";
+    margin-left: 1rem;
 }
 
 p {
@@ -29,7 +30,7 @@ strong {
 }
 
 .stats {
-    background-color: darkgoldenrod;
+    background-color: rgb(227, 148, 0);
     color: white;
     font-weight: 600;
     margin-top: 2rem;
