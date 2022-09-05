@@ -1,0 +1,25 @@
+:root {
+    --indent: 1.5rem
+}
+
+p {
+    margin: 0;
+    font-family: "Fira Sans";
+}
+
+a {
+    text-decoration: none;
+}
+
+strong {
+    font-weight: 500;
+}
+
+.head-word {
+    padding-left: var(--indent);
+    text-indent: calc(-1 * var(--indent));
+}
+
+.sub-word {
+    padding-left: var(--indent);
+}
