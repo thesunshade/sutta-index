@@ -1,3 +1,5 @@
+import natsort from "./natsort.js";
+
 export default function sortCitations(citations) {
   const orderedBooks = ["DN", "MN", "SN", "AN", "Kp", "Dhp", "Ud", "Iti", "Snp", "Vv", "Pv", "Thag", "Thig", "xref"];
 
@@ -28,7 +30,11 @@ export default function sortCitations(citations) {
 
   let bookSubList = [];
   for (let i = 0; i < orderedBooks.length; i++) {
-    bookSubList.push(citationsObject[orderedBooks[i]]);
+    const book = orderedBooks[i];
+    const sortedCitations = citationsObject[book].sort(natsort());
+    // console.log(citationsObject[book]);
+    // console.log(sortedCitations);
+    bookSubList.push(sortedCitations);
   }
   bookSubList = bookSubList.flat();
 

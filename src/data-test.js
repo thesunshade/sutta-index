@@ -355,7 +355,6 @@ speech	restraint	DN2
 speech		xref right speech (sammāvācā)
 right speech (sammāvācā)		AN10.176
 right speech (sammāvācā)		AN10.211
-right speech (sammāvācā)		AN10.176
 right speech (sammāvācā)		xref Noble Eightfold Path
 right speech (sammāvācā)		MN60
 right speech (sammāvācā)		MN117
@@ -1159,4 +1158,35 @@ sensual pleasures		Iti95
 once returner	attached to sense pleasure	Iti96
 non-returner	attached to rebirth	Iti96
 danger in slightest fault		Iti97
-virtue	definition	Iti97`;
+virtue	definition	Iti97
+knowledges, three		Iti99
+born from mouth	disciples of Buddha	Iti100
+Buddha, the	as doctor	Iti100
+requisites, four	as trifles	Iti101
+monastic life		xref requisites, four
+contentment	with requisites	Iti101
+heart’s release (cetovimutti)		Iti103
+release by wisdom (paññavimutti)		Iti103
+teachers	qualifications	Iti104
+requisites, four	source of craving	Iti105
+parents	honoring	Iti106
+teachers	parents as first	Iti106
+requisites, four	provided by laypeople	Iti107
+mutual dependence	of monastics and laypeople	Iti107
+monastic life	dependent on laypeople	Iti107
+monastic life	wrongly practiced	Iti108
+anger (kodha)	simile of waves	Iti109
+craving (taṇha)	simile of stream	Iti109
+sense pleasures	simile of whirlpool	Iti109
+renunciation	simile of against the stream	Iti109
+female	simile of crocodiles	Iti109
+tolerating bad thoughts		Iti110
+danger in slightest fault		Iti111
+postures	for practicing always	Iti110–11
+hindrances	constantly removing	Iti111
+world		Iti112
+Tathāgatas	definition	Iti112
+Buddha, the	his understanding	Iti112
+knower of the world	definition	Iti112
+Buddha, the	as best 	Iti112
+Buddha, the	without counterpart	Iti112`;
