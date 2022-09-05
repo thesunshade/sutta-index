@@ -93,12 +93,16 @@ export default function addLinks(props) {
         }${translator}]${citation}[/url]${notSeparator}`;
         break;
       case "html":
-        const suttaName = findSuttaName(book, { firstNumber, secondNumber });
-        // console.log(suttaName);
-
+        const suttaNameMain = findSuttaName(book, { firstNumber, secondNumber });
         returnString = `<a href="https://suttacentral.net/${book}${firstNumber}${
           secondNumber ? `.${secondNumber}` : ""
-        }${translator}" ${openInNewTab} title="${suttaName}${dhpTooltip}">${citation}</a>${notSeparator}`;
+        }${translator}" ${openInNewTab} title="${suttaNameMain}${dhpTooltip}">${citation}</a>${notSeparator}`;
+        break;
+      case "SCL":
+        const suttaName = findSuttaName(book, { firstNumber, secondNumber });
+        returnString = `<a href="https://sc.readingfaithfully.org/?q=${book}${firstNumber}${
+          secondNumber ? `.${secondNumber}` : ""
+        }" ${openInNewTab} title="${suttaName}${dhpTooltip}">${citation}</a>${notSeparator}`;
         break;
       default:
         console.error("something went wrong with the linking");

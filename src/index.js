@@ -73,6 +73,6 @@ for (let i = 0; i < headWords.length; i++) {
 
 const isAllTranslations = false;
 const isNewTab = true;
-const format = "html";
+const format = "SCL";
 
 indexArea.innerHTML = addLinks({ textToLink: finalText, format, isAllTranslations, isNewTab });
