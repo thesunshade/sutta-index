@@ -74,7 +74,6 @@ giving (dāna)	as good use of wealth	SN1.41
 giving (dāna)	as good use of wealth	AN4.61
 giving (dāna)	happiness after	AN8.37
 giving (dāna)	how to give	AN5.147
-giving (dāna)	how to give	AN5.147
 giving (dāna)	how to give	AN6.37
 giving (dāna)	how to give	AN7.52
 giving (dāna)	how to give	MN110
@@ -175,9 +174,9 @@ stinginess	types	AN5.254
 death (maraṇa)		SN1.20
 death (maraṇa)		SN1.66
 death (maraṇa)		SN1.67
-death (maraṇa)		xref Aging and death
+death (maraṇa)		xref aging and death
 death (maraṇa)		xref dependent origination
-death (maraṇa)		xref Old age, illness, death
+death (maraṇa)		xref old age, illness, death
 death (maraṇa)	abandoning the training as	MN105
 death (maraṇa)	army of	SN5.3
 death (maraṇa)	army of	SN6.14
@@ -271,8 +270,7 @@ loving-kindness (mettā)	to abandon resentment	AN5.161
 loving-kindness (mettā)	under abuse	MN21
 loving-kindness (mettā)	under abuse	MN50
 realm of death (maccudheyya)		xref death (maraṇa)
-Dhamma discussion	time for	AN5.146
-Dhamma discussion	time for	AN5.147
+Dhamma discussion		AN5.146
 false speech	definition	DN2
 false speech	for the sake of gain	SN17.11–20
 false speech	for the sake of gain	SN17.37–43
@@ -400,7 +398,6 @@ speech	with loving-kindness	AN5.198
 speech		xref wrong speech (micchāvacā)
 wrong speech (micchāvacā)		AN10.176
 wrong speech (micchāvacā)		AN10.211
-wrong speech (micchāvacā)		AN10.176
 wrong speech (micchāvacā)		MN60
 wrong speech (micchāvacā)		MN117
 speech		xref false speech
@@ -432,7 +429,7 @@ speech	well-spoken	Kp5
 parents	caring for	Kp5
 children	caring for	Kp5
 work		Kp5
-giving		Kp5
+giving (dāna)		Kp5
 righteous conduct		Kp5
 relatives		Kp5
 actions	blameless	Kp5
@@ -483,7 +480,7 @@ departed relatives	duty towards	Kp7
 merit (puññā)		Kp8
 money	saving	Kp8
 heirs		Kp8
-giving		Kp8
+giving (dāna)		Kp8
 virtue	as merit	Kp8
 restraint		Kp8
 shrines (cetiya)		Kp8
@@ -693,7 +690,7 @@ heedfulness (appamāda)	simile of moon	Dhp172–73
 heaven	simile of bird and net	Dhp174
 heaven	few reborn in	Dhp174
 lying		Dhp176
-giving	praised by wise	Dhp177
+giving (dāna)	praised by wise	Dhp177
 stream-enterer	better than heaven	Dhp178
 Buddha, the		Dhp chapter 14 
 Buddha, the	envied by gods	Dhp181
@@ -734,7 +731,7 @@ anger (kodha)	keep in check	Dhp222
 anger (kodha)	overcoming	Dhp223
 stinginess	overcoming	Dhp223
 lying	overcoming	Dhp223
-giving	rebirth in heaven	Dhp224
+giving (dāna)	rebirth in heaven	Dhp224
 truth	rebirth in heaven	Dhp224
 blame	inevitability of	Dhp227
 praise and blame		Dhp228
@@ -862,7 +859,7 @@ solitary Buddha		xref paccekabuddha
 Buddha, the	after enlightenment	Ud1.1–4
 dependent origination		Ud1.1–3
 brahmin	true meaning	Ud1.4–6
-giving	by gods	Ud1.6
+giving (dāna)	by gods	Ud1.6
 gods	offering food	Ud1.6
 alms food	from the poor	Ud1.6
 fear	overcoming	Ud1.7
@@ -905,10 +902,10 @@ imperturbable meditation (āneñjasamādhi)		Ud3.3
 arahant	simile of mountain	Ud3.4
 outcast (vasala)	accusation of being	Ud3.6
 habits over lifetimes		Ud3.6
-giving		xref alms food
+giving (dāna)		xref alms food
 gods	offering food	Ud3.7
 alms food	from the poor	Ud3.7
-giving	by gods	Ud3.7
+giving (dāna)	by gods	Ud3.7
 arahant	envied by gods	Ud3.7–8
 noble silence	vs. useless speech	Ud3.8–9
 alms food	for sake of popularity	Ud3.8
@@ -1006,7 +1003,7 @@ sensual pleasures	simile of fish in net	Ud7.4
 external qualities		Ud7.5
 good people	praised by gods	Ud7.6
 proliferation (papañca)		Ud7.7
-Buddha	psychic powers	Ud7.9
+Buddha, the	psychic powers	Ud7.9
 unborn (ajātaṁ)		Ud8.3
 escape (nissaraṇa)		Ud8.3
 nibbāna		Ud8.4

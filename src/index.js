@@ -1,4 +1,4 @@
-import { data } from "./data-test.js";
+import { data } from "./data/data.js";
 import addLinks from "./functions/addLinks.js";
 import sortCitations from "./functions/sortCitations.js";
 
@@ -12,6 +12,7 @@ let index = {};
 for (let i = 0; i < lines.length; i++) {
   rawIndexArray[i] = lines[i].split("\t");
 }
+
 for (let i = 0; i < rawIndexArray.length; i++) {
   const head = rawIndexArray[i][0].trim();
   const sub = rawIndexArray[i][1].trim();
@@ -35,13 +36,21 @@ function sortKeys(object) {
   return Object.keys(object).sort((a, b) => a.localeCompare(b, undefined, { sensitivity: "base" }));
 }
 
+function makeNormalizedId(text) {
+  return text
+    .normalize("NFD")
+    .replace(/[\u0300-\u036f]/g, "")
+    .replace(/\s/g, "-")
+    .replace(/[,\(\)]/, "");
+}
+
 const headWords = sortKeys(index);
 let finalText = "";
 
 for (let i = 0; i < headWords.length; i++) {
   const headWord = headWords[i];
 
-  finalText += `<p class="head-word"><strong>${headWord}</strong>`;
+  finalText += `<p class="head-word" id="${makeNormalizedId(headWord)}"><strong>${headWord}</strong>`;
 
   const subWords = sortKeys(index[headWord]);
 
@@ -60,10 +69,14 @@ for (let i = 0; i < headWords.length; i++) {
     }
     for (let a = 0; a < locators.length; a++) {
       let locator = locators[a];
-      if (subWords.length === 1 && subWords.length === 1) {
-        locator = locator.replace("xref", "<em>see</em>");
-      } else {
-        locator = locator.replace("xref", "<em>see also</em>");
+      if (locator.match(/xref/)) {
+        let locatorWithoutXref = locator.replace("xref ", "");
+        let xrefIdForLocator = makeNormalizedId(locatorWithoutXref);
+        if (subWords.length === 1 && subWords.length === 1) {
+          locator = `<em>see</em> <a href="#${xrefIdForLocator}">${locatorWithoutXref}</a>`;
+        } else {
+          locator = `<em>see also</em> <a href="#${xrefIdForLocator}">${locatorWithoutXref}</a>`;
+        }
       }
       finalText += `, ${locator}`;
     }

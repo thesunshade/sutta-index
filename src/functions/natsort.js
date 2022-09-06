@@ -1,3 +1,5 @@
+// https://github.com/bubkoo/natsort
+
 export default function natsort(options) {
   if (options === void 0) {
     options = {};
