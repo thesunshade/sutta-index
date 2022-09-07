@@ -23,10 +23,15 @@ strong {
 .head-word {
     padding-left: var(--indent);
     text-indent: calc(-1 * var(--indent));
+    padding-top: .4rem
 }
 
 .sub-word {
     padding-left: var(--indent);
+}
+
+.xref-link {
+    color: green
 }
 
 .stats {

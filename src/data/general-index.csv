@@ -1,4 +1,4 @@
-export const data = `generosity (cāga)		xref giving (dāna)
+generosity (cāga)		xref giving (dāna)
 generosity (cāga)		xref stinginess
 generosity (cāga)	as an accomplishment	AN5.46
 generosity (cāga)	as an accomplishment	AN5.91
@@ -1282,4 +1282,4 @@ Dhamma teaching	when not ready	Snp2.8
 association	with the wise	Snp2.8
 Dhamma teacher	simile of boat	Snp2.8
 listening to Dhamma		Snp2.9
-Dhamma	delight in	Snp2.9`;
+Dhamma	delight in	Snp2.9
