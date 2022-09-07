@@ -215,7 +215,8 @@ export const indexData =`{
           ],
           "purifying": [
                "AN4.78",
-               "MN142"
+               "MN142",
+               "Snp3.5"
           ],
           "qualities of giver": [
                "AN6.37"
@@ -311,7 +312,9 @@ export const indexData =`{
                "SN7.13",
                "AN8.59",
                "SN11.16",
-               "MN56"
+               "MN56",
+               "Snp3.4",
+               "Snp3.5"
           ],
           "praised by wise": [
                "Dhp177"
@@ -331,6 +334,13 @@ export const indexData =`{
           ],
           "friendship gained by": [
                "Snp1.10"
+          ],
+          "worthy of gifts": [
+               "Snp3.4",
+               "Snp3.5"
+          ],
+          "encouraging others to": [
+               "Snp3.7"
           ]
      },
      "stinginess": {
@@ -687,7 +697,8 @@ export const indexData =`{
                "MN58"
           ],
           "best kind of": [
-               "Thag21.1"
+               "Thag21.1",
+               "Snp3.3"
           ],
           "blameless": [
                "AN5.198"
@@ -725,7 +736,8 @@ export const indexData =`{
                "AN10.211"
           ],
           "factors of well spoken": [
-               "AN5.198"
+               "AN5.198",
+               "Snp3.3"
           ],
           "four kinds of bad": [
                "AN5.148"
@@ -953,13 +965,17 @@ export const indexData =`{
                "Kp3"
           ],
           "simile of pot": [
-               "Dhp40"
+               "Dhp40",
+               "Snp3.8"
           ],
           "simile of foam": [
                "Dhp46"
           ],
           "as fragile": [
                "Iti77"
+          ],
+          "": [
+               "xref perception of ugliness (asubhasañña)"
           ]
      },
      "food": {
@@ -1028,7 +1044,8 @@ export const indexData =`{
      "gods": {
           "asking questions": [
                "Kp5",
-               "Snp1.6"
+               "Snp1.6",
+               "Snp3.6"
           ],
           "offering food": [
                "Ud1.6",
@@ -1382,13 +1399,11 @@ export const indexData =`{
      "Buddha, the": {
           "": [
                "Kp6",
-               "Dhp chapter 14"
+               "Dhp chapter 14",
+               "xref Bodhisatta"
           ],
           "envied by gods": [
                "Dhp181"
-          ],
-          "rarity of": [
-               "Dhp182"
           ],
           "as best person": [
                "Dhp353"
@@ -1421,7 +1436,8 @@ export const indexData =`{
                "Iti92"
           ],
           "as doctor": [
-               "Iti100"
+               "Iti100",
+               "Snp3.7"
           ],
           "his understanding": [
                "Iti112"
@@ -1436,7 +1452,13 @@ export const indexData =`{
                "Snp1.2"
           ],
           "qualities of": [
-               "Snp1.9"
+               "Snp1.9",
+               "Snp3.4",
+               "Snp3.6",
+               "Snp3.7"
+          ],
+          "as king of Dhamma": [
+               "Snp3.7"
           ]
      },
      "Dhamma": {
@@ -1458,9 +1480,6 @@ export const indexData =`{
           ],
           "as best joy": [
                "Dhp354"
-          ],
-          "teaching": [
-               "Dhp363"
           ],
           "delight in": [
                "Dhp364",
@@ -1501,7 +1520,8 @@ export const indexData =`{
                "Kp7"
           ],
           "best recipient": [
-               "Dhp356–59"
+               "Dhp356–59",
+               "Snp3.7"
           ],
           "guarding precepts": [
                "Ud5.5"
@@ -1571,8 +1591,14 @@ export const indexData =`{
           "simile of flowering forest": [
                "Kp6"
           ],
+          "": [
+               "Dhp363"
+          ],
           "when not ready": [
                "Snp2.8"
+          ],
+          "as well spoken words": [
+               "Snp3.3"
           ]
      },
      "departed relatives": {
@@ -1836,6 +1862,12 @@ export const indexData =`{
           ],
           "simile of stream": [
                "Dhp337"
+          ],
+          "attacks the Buddha": [
+               "Snp3.2"
+          ],
+          "army of": [
+               "Snp3.2"
           ]
      },
      "laziness": {
@@ -1863,7 +1895,8 @@ export const indexData =`{
      "energy": {
           "": [
                "Dhp8",
-               "Dhp168"
+               "Dhp168",
+               "Snp2.10"
           ],
           "single day of": [
                "Dhp112"
@@ -1990,6 +2023,9 @@ export const indexData =`{
           "seeing fear in": [
                "Dhp31",
                "Dhp32"
+          ],
+          "as dust": [
+               "Snp2.10"
           ]
      },
      "diligence": {
@@ -2200,6 +2236,9 @@ export const indexData =`{
           ],
           "leading to mendicant’s decline": [
                "Iti79"
+          ],
+          "uselessness of": [
+               "Snp2.10"
           ]
      },
      "self taming": {
@@ -2466,6 +2505,18 @@ export const indexData =`{
      "human birth": {
           "rarity of": [
                "Dhp182"
+          ]
+     },
+     "Buddhas": {
+          "rarity of": [
+               "Dhp182",
+               "Snp3.7"
+          ],
+          "can live for eon": [
+               "Ud6.1"
+          ],
+          "revealing themselves when praised": [
+               "Snp3.7"
           ]
      },
      "sense pleasures in general": {
@@ -2757,16 +2808,24 @@ export const indexData =`{
                "Dhp302"
           ],
           "filled with duties": [
-               "Ud2.5"
+               "Ud2.5",
+               "Snp1.2"
           ],
           "attachments": [
-               "Ud2.5–6"
-          ],
-          "": [
+               "Ud2.5–6",
                "Snp1.2"
           ],
           "simile of peacock": [
                "Snp1.12"
+          ],
+          "duty to support saṅgha": [
+               "Snp2.14"
+          ],
+          "advice for": [
+               "Snp2.14"
+          ],
+          "uposatha practice": [
+               "Snp2.14"
           ]
      },
      "bad people": {
@@ -2835,6 +2894,11 @@ export const indexData =`{
           ],
           "simile of swan": [
                "Snp1.12"
+          ],
+          "advice for": [
+               "Snp2.11",
+               "Snp2.13",
+               "Snp2.14"
           ]
      },
      "self guarding": {
@@ -2917,6 +2981,11 @@ export const indexData =`{
                "Dhp355"
           ]
      },
+     "teaching Dhamma": {
+          "": [
+               "xref Dhamma teaching"
+          ]
+     },
      "envy": {
           "block to concentration": [
                "Dhp365"
@@ -2956,10 +3025,14 @@ export const indexData =`{
      },
      "mendicant": {
           "young": [
-               "Dhp382"
+               "Dhp382",
+               "Snp3.6"
           ],
           "evil": [
                "Iti48"
+          ],
+          "definition": [
+               "Snp3.6"
           ]
      },
      "brahmin": {
@@ -2999,6 +3072,9 @@ export const indexData =`{
           ],
           "free from": [
                "Snp1.3"
+          ],
+          "not relying on": [
+               "Snp3.4"
           ]
      },
      "brahmacariya": {
@@ -3213,6 +3289,10 @@ export const indexData =`{
      "Bodhisatta": {
           "mother": [
                "Ud5.2"
+          ],
+          "Gotama": [
+               "Snp3.1",
+               "Snp3.2"
           ]
      },
      "gradual instruction": {
@@ -3229,6 +3309,9 @@ export const indexData =`{
      "uposatha": {
           "": [
                "Ud5.5"
+          ],
+          "lay practice": [
+               "Snp2.14"
           ]
      },
      "sabath": {
@@ -3288,11 +3371,6 @@ export const indexData =`{
      "teasing": {
           "": [
                "Ud5.9"
-          ]
-     },
-     "Buddhas": {
-          "can live for eon": [
-               "Ud6.1"
           ]
      },
      "fourfold Saṅgha": {
@@ -3474,7 +3552,8 @@ export const indexData =`{
      "sacrifices": {
           "": [
                "Iti27",
-               "Snp2.7"
+               "Snp2.7",
+               "Snp3.4"
           ]
      },
      "senses": {
@@ -3722,10 +3801,14 @@ export const indexData =`{
                "Iti101"
           ],
           "source of craving": [
-               "Iti105"
+               "Iti105",
+               "Snp2.11"
           ],
           "provided by laypeople": [
                "Iti107"
+          ],
+          "using after reflecting": [
+               "Snp2.14"
           ]
      },
      "heart’s release (cetovimutti)": {
@@ -3852,7 +3935,8 @@ export const indexData =`{
      },
      "fire worship (aggika)": {
           "": [
-               "Snp1.7"
+               "Snp1.7",
+               "Snp3.4"
           ]
      },
      "debt": {
@@ -3867,7 +3951,8 @@ export const indexData =`{
      },
      "birth is not determinant": {
           "": [
-               "Snp1.7"
+               "Snp1.7",
+               "Snp3.4"
           ]
      },
      "truthfulness": {
@@ -3908,6 +3993,61 @@ export const indexData =`{
      "Dhamma teacher": {
           "simile of boat": [
                "Snp2.8"
+          ]
+     },
+     "unattractiveness": {
+          "": [
+               "xref perception of ugliness (asubhasañña)"
+          ]
+     },
+     "threefold knowledge": {
+          "": [
+               "xref knowledges, three"
+          ]
+     },
+     "triple knowledge": {
+          "": [
+               "xref knowledges, three"
+          ]
+     },
+     "familiarity breeds contempt": {
+          "": [
+               "Snp2.11"
+          ]
+     },
+     "sīlabbata-parāmāsa": {
+          "": [
+               "Snp2.13"
+          ]
+     },
+     "alms gathering practice": {
+          "": [
+               "Snp2.14"
+          ]
+     },
+     "brahmā world": {
+          "how to be reborn in": [
+               "Snp3.5"
+          ]
+     },
+     "Buddha, the word": {
+          "hard to find in world": [
+               "Snp3.7"
+          ]
+     },
+     "marks of a great man": {
+          "": [
+               "Snp.3.7"
+          ]
+     },
+     "thirty-two marks": {
+          "": [
+               "xref marks of a great man"
+          ]
+     },
+     "death": {
+          "inevitability of": [
+               "Snp3.8"
           ]
      }
 }`
