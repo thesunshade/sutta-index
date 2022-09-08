@@ -2659,7 +2659,7 @@ export const indexData =`{
           ],
           "as partner": [
                "Iti15",
-               ""
+               "Sn3.12"
           ],
           "three types": [
                "Iti58"
@@ -2779,7 +2779,7 @@ export const indexData =`{
                "Ud5.1"
           ],
           "analysis": [
-               ""
+               "Sn3.12"
           ]
      },
      "not-self": {
@@ -3134,7 +3134,7 @@ export const indexData =`{
                "Ud1.1–3"
           ],
           "through suffering": [
-               ""
+               "Sn3.12"
           ]
      },
      "alms food": {
