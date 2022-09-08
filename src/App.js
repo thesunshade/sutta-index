@@ -25,7 +25,7 @@ function App() {
                 value="SC"
                 defaultChecked={destination === "SC" ? "checked" : ""}
               />
-              SuttaCentral
+              SC
             </label>
             <label>
               <input
@@ -34,7 +34,7 @@ function App() {
                 value="CH"
                 defaultChecked={destination === "CH" ? "checked" : ""}
               />
-              Citation Helper
+              CH
             </label>
             <label>
               <input
@@ -43,7 +43,7 @@ function App() {
                 value="SCL"
                 defaultChecked={destination === "SCL" ? "checked" : ""}
               />
-              SC Light
+              SCL
             </label>
           </div>
         </div>
