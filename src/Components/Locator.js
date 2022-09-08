@@ -16,19 +16,23 @@ export default function Locator(props) {
     );
   }
 
+  function stripRangesFromUrls(locator) {
+    return locator.replace(/–.+/, "");
+  }
+
   let url = "";
   switch (destination) {
     case "SC":
-      url = `https://suttacentral.net/${location}/en/sujato`;
+      url = `https://suttacentral.net/${stripRangesFromUrls(location)}/en/sujato`;
       break;
     case "SCL":
-      url = `https://sc.readingfaithfully.org/?q=${location}`;
+      url = `https://sc.readingfaithfully.org/?q=${stripRangesFromUrls(location)}`;
       break;
     case "CH":
-      url = `https://sutta.readingfaithfully.org/?q=${location}`;
+      url = `https://sutta.readingfaithfully.org/?q=${stripRangesFromUrls(location)}`;
       break;
     default:
-      url = `https://suttacentral.net/${location}/en/sujato`;
+      url = `https://suttacentral.net/${stripRangesFromUrls(location)}/en/sujato`;
   }
 
   return (
