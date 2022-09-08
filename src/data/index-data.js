@@ -725,7 +725,9 @@ export const indexData =`{
           ],
           "disputes about Dhamma": [
                "SN22.3",
-               "SN56.9"
+               "SN56.9",
+               "Snp4.3",
+               "Snp4.5"
           ],
           "": [
                "xref divisive speech",
@@ -901,7 +903,8 @@ export const indexData =`{
      },
      "boasting": {
           "": [
-               "AN10.85"
+               "AN10.85",
+               "Snp4.3"
           ]
      },
      "criticizing noble ones": {
@@ -2556,6 +2559,9 @@ export const indexData =`{
           "those who desire": [
                "Ud2.3",
                "Ud5.1"
+          ],
+          "as suffering": [
+               "Snp3.12"
           ]
      },
      "love (non-hatred)": {
@@ -2620,6 +2626,9 @@ export const indexData =`{
           ],
           "sexual": [
                "Dhp284"
+          ],
+          "like fish in dried-up stream": [
+               "Snp4.2"
           ]
      },
      "craving (taṇha)": {
@@ -2780,6 +2789,9 @@ export const indexData =`{
           ],
           "analysis": [
                "Snp3.12"
+          ],
+          "like a leaky boat": [
+               "Snp4.1"
           ]
      },
      "not-self": {
@@ -3485,7 +3497,8 @@ export const indexData =`{
      },
      "conceit (māna)": {
           "and wrong views": [
-               "Ud6.6"
+               "Ud6.6",
+               "Snp4.5"
           ],
           "": [
                "Iti6",
@@ -3724,7 +3737,7 @@ export const indexData =`{
                "xref good actions"
           ]
      },
-     "purity": {
+     "purity (soceyya)": {
           "three types": [
                "Iti66"
           ]
@@ -3748,6 +3761,9 @@ export const indexData =`{
      "formless (arūpā)": {
           "": [
                "Iti73"
+          ],
+          "more peaceful than form": [
+               "Snp3.12"
           ]
      },
      "praise": {
@@ -4148,6 +4164,37 @@ export const indexData =`{
      "knowing does not speak much": {
           "": [
                "Snp3.11"
+          ]
+     },
+     "more peaceful": {
+          "": [
+               "Snp3.12"
+          ]
+     },
+     "against the stream": {
+          "Dhamma as": [
+               "Snp3.12"
+          ]
+     },
+     "sense pleasures": {
+          "": [
+               "Snp4.1"
+          ],
+          "to be avoided like snake head": [
+               "Snp4.1"
+          ],
+          "of the past and future": [
+               "Snp4.2"
+          ]
+     },
+     "boat, bailed out": {
+          "simile for escaping saṁsara": [
+               "Snp4.1"
+          ]
+     },
+     "purity (suddhi)": {
+          "": [
+               "Snp4.4"
           ]
      }
 }`
