@@ -2414,7 +2414,8 @@ export const indexData =`{
      },
      "old age": {
           "": [
-               "Dhp chapter 11"
+               "Dhp chapter 11",
+               "Snp.4.6"
           ],
           "simile of cranes": [
                "Dhp155"
@@ -2648,7 +2649,8 @@ export const indexData =`{
                "Dhp335"
           ],
           "simile of water drop on lotus leaf": [
-               "Dhp336"
+               "Dhp336",
+               "Snp.4.6"
           ],
           "simile of root digging": [
                "Dhp337"
@@ -2711,6 +2713,9 @@ export const indexData =`{
           ],
           "as sweetest taste": [
                "Snp1.10"
+          ],
+          "exclusivity of": [
+               "Snp4.8"
           ]
      },
      "praise and blame": {
@@ -2915,7 +2920,8 @@ export const indexData =`{
                "Iti91",
                "Iti108",
                "Snp1.5",
-               "Snp2.6"
+               "Snp2.6",
+               "Snp.4.7"
           ],
           "simile of kusa grass": [
                "Dhp311"
@@ -2947,6 +2953,9 @@ export const indexData =`{
           ],
           "like licking razor’s edge": [
                "Snp3.11"
+          ],
+          "rightly practiced": [
+               "Snp4.10"
           ]
      },
      "self guarding": {
@@ -3021,7 +3030,8 @@ export const indexData =`{
      },
      "past, present future": {
           "let go of": [
-               "Dhp348"
+               "Dhp348",
+               "Snp4.10"
           ]
      },
      "self destruction": {
@@ -3147,6 +3157,9 @@ export const indexData =`{
           ],
           "through suffering": [
                "Snp3.12"
+          ],
+          "variations on": [
+               "Snp4.11"
           ]
      },
      "alms food": {
@@ -3173,6 +3186,9 @@ export const indexData =`{
      "monastics": {
           "family of": [
                "Ud1.8"
+          ],
+          "sexual activity": [
+               "Snp.4.7"
           ]
      },
      "detachment": {
@@ -3479,10 +3495,15 @@ export const indexData =`{
      },
      "disputes": {
           "over views": [
-               "Ud6.4–6"
+               "Ud6.4–6",
+               "Snp4.8",
+               "Snp4.9"
           ],
           "over a woman": [
                "Ud6.8"
+          ],
+          "cause of": [
+               "Snp4.11"
           ]
      },
      "blind men and elephant": {
@@ -3498,7 +3519,8 @@ export const indexData =`{
      "conceit (māna)": {
           "and wrong views": [
                "Ud6.6",
-               "Snp4.5"
+               "Snp4.5",
+               "Snp4.9"
           ],
           "": [
                "Iti6",
@@ -4119,6 +4141,9 @@ export const indexData =`{
      "death": {
           "inevitability of": [
                "Snp3.8"
+          ],
+          "like dream gone when waking are the dead": [
+               "Snp.4.6"
           ]
      },
      "Kokālika": {
@@ -4195,6 +4220,39 @@ export const indexData =`{
      "purity (suddhi)": {
           "": [
                "Snp4.4"
+          ],
+          "by another": [
+               "Snp.4.6"
+          ]
+     },
+     "aging": {
+          "": [
+               "xref old age"
+          ]
+     },
+     "sexual activity": {
+          "by monastics": [
+               "Snp.4.7"
+          ]
+     },
+     "debates": {
+          "": [
+               "xref disputes"
+          ]
+     },
+     "Māgaṇḍiya": {
+          "father of Māgaṇḍiyā": [
+               "Snp4.9"
+          ]
+     },
+     "Māgaṇḍiyā": {
+          "daughter of Māgaṇḍiya": [
+               "Snp4.9"
+          ]
+     },
+     "quarrels": {
+          "": [
+               "xref disputes"
           ]
      }
 }`

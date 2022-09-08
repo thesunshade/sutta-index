@@ -13,3 +13,5 @@
 "An otherwise insignificant mention of a topic _outside_ of a stock passage that is usually treated in a stock passage should be indexed."
 
 While creating, focus mor on collecting than sorting
+
+Regarding English keywords with parenthetical Pali: subheads may not necessarily include the specific Pali word in keyword.
