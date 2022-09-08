@@ -11,3 +11,5 @@
 "The index should draw a person in and excite their curiosity."
 
 "An otherwise insignificant mention of a topic _outside_ of a stock passage that is usually treated in a stock passage should be indexed."
+
+While creating, focus mor on collecting than sorting

@@ -650,6 +650,9 @@ export const indexData =`{
           "small amount": [
                "Dhp100–2",
                "Dhp259"
+          ],
+          "real reason for": [
+               "Sn3.12"
           ]
      },
      "lying": {
@@ -808,7 +811,8 @@ export const indexData =`{
                "MN139"
           ],
           "simile of axe": [
-               "SN6.9"
+               "SN6.9",
+               "Snp3.10"
           ],
           "simile of dung": [
                "AN3.28"
@@ -903,7 +907,8 @@ export const indexData =`{
      "criticizing noble ones": {
           "": [
                "SN6.9",
-               "SN6.10"
+               "SN6.10",
+               "Snp3.10"
           ]
      },
      "divisive speech": {
@@ -1192,7 +1197,8 @@ export const indexData =`{
                "Dhp2"
           ],
           "not birth defines a person": [
-               "Snp1.7"
+               "Snp1.7",
+               "Snp3.9"
           ]
      },
      "evil": {
@@ -1459,6 +1465,9 @@ export const indexData =`{
           ],
           "as king of Dhamma": [
                "Snp3.7"
+          ],
+          "before enlightenment": [
+               "xref Bodhisatta"
           ]
      },
      "Dhamma": {
@@ -1639,6 +1648,12 @@ export const indexData =`{
           ],
           "death": [
                "Ud2.7"
+          ],
+          "wise do not": [
+               "Snp3.8"
+          ],
+          "uselessness of": [
+               "Snp3.8"
           ]
      },
      "money": {
@@ -2342,11 +2357,15 @@ export const indexData =`{
           ],
           "simile of snake skin": [
                "Snp1.1"
+          ],
+          "": [
+               "xref brahmin"
           ]
      },
      "harming a good person": {
           "simile of dust in wind": [
-               "Dhp125"
+               "Dhp125",
+               "Snp3.10"
           ],
           "": [
                "Iti89"
@@ -2639,7 +2658,8 @@ export const indexData =`{
                "Iti15"
           ],
           "as partner": [
-               "Iti15"
+               "Iti15",
+               ""
           ],
           "three types": [
                "Iti58"
@@ -2757,6 +2777,9 @@ export const indexData =`{
           "no one likes": [
                "Ud2.3",
                "Ud5.1"
+          ],
+          "analysis": [
+               ""
           ]
      },
      "not-self": {
@@ -2848,6 +2871,15 @@ export const indexData =`{
      "hell": {
           "": [
                "Dhp chapter 22"
+          ],
+          "lifespan in": [
+               "Snp3.10"
+          ],
+          "actions that lead to": [
+               "Snp3.10"
+          ],
+          "life in": [
+               "Snp3.10"
           ]
      },
      "bad monastics": {
@@ -2898,7 +2930,11 @@ export const indexData =`{
           "advice for": [
                "Snp2.11",
                "Snp2.13",
-               "Snp2.14"
+               "Snp2.14",
+               "Snp3.11"
+          ],
+          "like licking razor’s edge": [
+               "Snp3.11"
           ]
      },
      "self guarding": {
@@ -3040,6 +3076,12 @@ export const indexData =`{
                "Dhp chapter 26",
                "Ud1.4–6",
                "Ud1.8–9"
+          ],
+          "true meaning of": [
+               "Snp3.9"
+          ],
+          "": [
+               "xref arahant"
           ]
      },
      "retaliation": {
@@ -3090,6 +3132,9 @@ export const indexData =`{
      "dependent origination": {
           "": [
                "Ud1.1–3"
+          ],
+          "through suffering": [
+               ""
           ]
      },
      "alms food": {
@@ -3293,6 +3338,9 @@ export const indexData =`{
           "Gotama": [
                "Snp3.1",
                "Snp3.2"
+          ],
+          "birth of": [
+               "Snp3.11"
           ]
      },
      "gradual instruction": {
@@ -3880,6 +3928,9 @@ export const indexData =`{
      "illusion": {
           "life as": [
                "Snp1.1"
+          ],
+          "": [
+               "Snp3.8"
           ]
      },
      "companionship": {
@@ -3947,12 +3998,16 @@ export const indexData =`{
      "caste": {
           "": [
                "Snp1.7"
+          ],
+          "only conventional designation": [
+               "Snp3.9"
           ]
      },
      "birth is not determinant": {
           "": [
                "Snp1.7",
-               "Snp3.4"
+               "Snp3.4",
+               "Snp3.9"
           ]
      },
      "truthfulness": {
@@ -4048,6 +4103,51 @@ export const indexData =`{
      "death": {
           "inevitability of": [
                "Snp3.8"
+          ]
+     },
+     "Kokālika": {
+          "criticizes chief disciples": [
+               "Snp3.10"
+          ]
+     },
+     "Sahampati Brahmā": {
+          "reports Kokālika’s birth in hell": [
+               "Snp3.10"
+          ]
+     },
+     "mustard seeds, cartload": {
+          "like length of hell": [
+               "Snp3.10"
+          ]
+     },
+     "Tāvatiṁsa heaven": {
+          "celebrating the Buddha’s birth": [
+               "Snp3.11"
+          ]
+     },
+     "Asita, hermit": {
+          "meets Bodhisatta": [
+               "Snp3.11"
+          ]
+     },
+     "war": {
+          "between devas and asuras": [
+               "Snp3.11"
+          ]
+     },
+     "Sudhodana, king": {
+          "": [
+               "Snp3.11"
+          ]
+     },
+     "Nālaka, nephew of Asita": {
+          "": [
+               "Snp3.11"
+          ]
+     },
+     "knowing does not speak much": {
+          "": [
+               "Snp3.11"
           ]
      }
 }`
