@@ -1,43 +1,13 @@
-:root {
-    --indent: 1.5rem
-}
-
 body {
-    font-family: "Fira Sans";
-    margin-left: 1rem;
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }
 
-p {
-    margin: 0;
-    font-family: "Fira Sans";
-}
-
-a {
-    text-decoration: none;
-}
-
-strong {
-    font-weight: 500;
-}
-
-.head-word {
-    padding-left: var(--indent);
-    text-indent: calc(-1 * var(--indent));
-    padding-top: .4rem
-}
-
-.sub-word {
-    padding-left: var(--indent);
-}
-
-.xref-link {
-    color: green
-}
-
-.stats {
-    background-color: rgb(227, 148, 0);
-    color: white;
-    font-weight: 600;
-    margin-top: 2rem;
-    padding: .5rem
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
 }

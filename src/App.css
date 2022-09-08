@@ -1,0 +1,63 @@
+:root {
+  --indent: 1.5rem
+}
+
+html {
+  scroll-padding-top: 2rem;
+  /* height of sticky header */
+}
+
+body {
+  font-family: "Fira Sans";
+
+}
+
+.settings-bar {
+  background-color: #c0c0c0;
+  position: sticky;
+  top: 0;
+  width: 100%;
+  z-index: 100;
+  padding: .5rem
+}
+
+.sutta-index {
+  margin-left: 1rem;
+}
+
+p {
+  margin: 0;
+  font-family: "Fira Sans";
+}
+
+a {
+  text-decoration: none;
+}
+
+
+
+.head-word-area {
+  padding-left: var(--indent);
+  text-indent: calc(-1 * var(--indent));
+  padding-top: .4rem
+}
+
+.head-word {
+  font-weight: 500
+}
+
+.sub-word {
+  padding-left: var(--indent);
+}
+
+.xref-link {
+  color: green
+}
+
+.stats {
+  background-color: rgb(227, 148, 0);
+  color: white;
+  font-weight: 600;
+  margin-top: 2rem;
+  padding: .5rem
+}

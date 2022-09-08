@@ -2,7 +2,7 @@ const fs = require("fs");
 
 let data;
 try {
-  const tsvFileContents = fs.readFileSync("./data/general-index.csv", "utf8");
+  const tsvFileContents = fs.readFileSync("./src/data/general-index.csv", "utf8");
   data = tsvFileContents;
   console.log("successfully read");
 } catch (err) {
@@ -41,7 +41,7 @@ for (let i = 0; i < rawIndexArray.length - 1; i++) {
 const content = `export const indexData =\`${JSON.stringify(index, null, 5)}\``;
 
 try {
-  fs.writeFileSync("./data/index-data.js", content);
+  fs.writeFileSync("./src/data/index-data.js", content);
 } catch (err) {
   console.error(err);
 }

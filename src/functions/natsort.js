@@ -1,5 +1,6 @@
 // https://github.com/bubkoo/natsort
 
+/* eslint-disable */
 export default function natsort(options) {
   if (options === void 0) {
     options = {};
