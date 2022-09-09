@@ -1,10 +1,25 @@
 import "./App.css";
 import SuttaIndex from "./Components/SuttaIndex.js";
 import Stats from "./Components/Stats.js";
+import LocatorSortedTable from "./Components/LocatorSortedTable.js";
 import { useState } from "react";
 
 function App() {
   const [destination, setDestination] = useState(localStorage.destination ? localStorage.destination : "SC");
+  const [isLocatorView, setIsLocatorView] = useState(
+    localStorage.isLocatorView ? JSON.parse(localStorage.isLocatorView) : false
+  );
+
+  function toggleView() {
+    if (isLocatorView === false) {
+      setIsLocatorView(true);
+      localStorage.isLocatorView = "true";
+    } else {
+      setIsLocatorView(false);
+      localStorage.isLocatorView = "false";
+    }
+    console.log("hello");
+  }
 
   return (
     <div className="App">
@@ -46,9 +61,18 @@ function App() {
               SCL
             </label>
           </div>
-        </div>
+        </div>{" "}
+        <button
+          onClick={() => {
+            toggleView();
+          }}
+        >
+          Locators
+        </button>
       </div>
-      <SuttaIndex destination={destination} />
+      {/* close settings bar */}
+      {isLocatorView ? <LocatorSortedTable /> : <SuttaIndex destination={destination} />}
+
       <Stats />
     </div>
   );

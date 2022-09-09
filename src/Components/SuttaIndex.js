@@ -1,4 +1,4 @@
-import { indexData } from "../data/index-data";
+import { indexData } from "../data/index-data.js";
 import sortedKeys from "../functions/sortedKeys";
 import Headword from "./Headword";
 

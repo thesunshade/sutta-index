@@ -38,10 +38,33 @@ for (let i = 0; i < rawIndexArray.length - 1; i++) {
   }
 }
 
-const content = `export const indexData =\`${JSON.stringify(index, null, 5)}\``;
+const object = `export const indexData =\`${JSON.stringify(index, null, 5)}\``;
+
+let locatorFirstArray = [];
+
+for (let i = 0; i < rawIndexArray.length - 1; i++) {
+  // console.log(rawIndexArray[i][2].replace(/\r/, ""));
+  locatorFirstArray.push([rawIndexArray[i][2].replace(/\r/, ""), rawIndexArray[i][1], rawIndexArray[i][0]]);
+}
+// console.log(locatorFirstArray);
+
+locatorFirstArray.sort((a, b) => {
+  return a[0].localeCompare(b[0]);
+});
+
+// console.log(rawIndexArray);
+
+const array = `export const indexArray =\`${JSON.stringify(locatorFirstArray, null, 5)}\``;
 
 try {
-  fs.writeFileSync("./src/data/index-data.js", content);
+  fs.writeFileSync("./src/data/index-data.js", object);
+} catch (err) {
+  console.error(err);
+}
+
+try {
+  fs.writeFileSync("./src/data/index-array.js", array);
+  console.log("array written");
 } catch (err) {
   console.error(err);
 }

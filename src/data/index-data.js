@@ -76,7 +76,6 @@ export const indexData =`{
      },
      "giving (dāna)": {
           "": [
-               "",
                "SN1.41",
                "MN35",
                "SN41.10",
@@ -523,7 +522,12 @@ export const indexData =`{
                "xref death (maraṇa)"
           ]
      },
-     "loving-kindness (mettā)": {
+     "realm of death (maccudheyya)": {
+          "": [
+               "xref death (maraṇa)"
+          ]
+     },
+     "loving kindness (mettā)": {
           "": [
                "Snp1.8",
                "AN3.63",
@@ -541,9 +545,7 @@ export const indexData =`{
                "MN93",
                "MN96",
                "MN119",
-               "xref friendship",
-               "Kp9",
-               "Dhp368"
+               "xref friendship"
           ],
           "to abandon enmity": [
                "SN10.4"
@@ -565,19 +567,93 @@ export const indexData =`{
                "MN21",
                "MN50"
           ],
-          "to give up hate": [
-               "Ud4.1"
+          "as accompanying enlightenment factor": [
+               "SN46.54"
           ],
-          "simile of clear sky": [
+          "in action": [
+               "MN31",
+               "MN33",
+               "MN48",
+               "MN104",
+               "MN128"
+          ],
+          "as a basis for insight": [
+               "MN52"
+          ],
+          "benefits of": [
+               "AN8.1",
+               "AN11.15"
+          ],
+          "as cause for rebirth": [
+               "AN7.62"
+          ],
+          "as conditioned": [
+               "MN52"
+          ],
+          "as factor of uposatha": [
+               "AN9.19"
+          ],
+          "for a fingersnap": [
+               "AN1.53",
+               "AN1.54",
+               "AN1.55"
+          ],
+          "to gain the four assurances": [
+               "AN3.65"
+          ],
+          "grounds for making merit": [
+               "Iti22",
                "Iti27"
           ],
-          "simile of stars": [
-               "Iti27"
-          ]
-     },
-     "realm of death (maccudheyya)": {
-          "": [
-               "xref death (maraṇa)"
+          "as immeasurable deliverance": [
+               "MN43",
+               "MN127"
+          ],
+          "liberation of mind by": [
+               "AN1.17",
+               "AN3.68",
+               "AN6.13",
+               "AN8.1",
+               "AN8.63",
+               "SN20.3",
+               "SN20.4",
+               "SN20.5",
+               "SN42.8",
+               "SN46.54"
+          ],
+          "like a conch blower": [
+               "DN13",
+               "SN42.8"
+          ],
+          "measureless liberation of mind": [
+               "SN41.7"
+          ],
+          "more fruitful than giving": [
+               "SN20.4"
+          ],
+          "as a path to brahma world": [
+               "AN4.125",
+               "AN4.126",
+               "DN13",
+               "MN 83",
+               "MN97",
+               "MN99"
+          ],
+          "as principle of cordiality": [
+               "AN6.12",
+               "AN11.11",
+               "AN11.12"
+          ],
+          "as a protection": [
+               "AN3.67",
+               "SN20.3",
+               "SN20.5"
+          ],
+          "as the state of a brahmā": [
+               "AN4.190"
+          ],
+          "to weaken fetters": [
+               "AN8.1"
           ]
      },
      "Dhamma discussion": {
@@ -1787,6 +1863,21 @@ export const indexData =`{
           ],
           "inevitability of": [
                "Dhp227"
+          ]
+     },
+     "loving-kindness (mettā)": {
+          "": [
+               "Kp9",
+               "Dhp368"
+          ],
+          "to give up hate": [
+               "Ud4.1"
+          ],
+          "simile of clear sky": [
+               "Iti27"
+          ],
+          "simile of stars": [
+               "Iti27"
           ]
      },
      "meditation": {
@@ -3113,7 +3204,7 @@ export const indexData =`{
      },
      "cruelty (hiṁsa)": {
           "": [
-               ""
+               "Dhp390"
           ]
      },
      "learning": {

@@ -18,7 +18,10 @@ body {
   top: 0;
   width: 100%;
   z-index: 100;
-  padding: .5rem
+  padding: .5rem;
+  display: flex;
+  flex-direction: row;
+  column-gap: 1rem;
 }
 
 .sutta-index {
@@ -57,7 +60,33 @@ a {
 .stats {
   background-color: rgb(227, 148, 0);
   color: white;
-  font-weight: 600;
+
   margin-top: 2rem;
-  padding: .5rem
+  padding: .5rem;
+  display: flex;
+  column-gap: 1rem;
+}
+
+.number {
+  font-weight: 500;
+}
+
+.locator-sorted-table {
+  border-collapse: collapse;
+  max-width: 50rem;
+}
+
+.first-col {
+  width: 3rem
+}
+
+td,
+th {
+  border: 1px solid #a8a8a8;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
 }
