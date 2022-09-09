@@ -3,7 +3,7 @@
 }
 
 html {
-  scroll-padding-top: 2rem;
+  scroll-padding-top: 4rem;
   /* height of sticky header */
 }
 
@@ -21,6 +21,7 @@ body {
   padding: .5rem;
   display: flex;
   flex-direction: row;
+  flex-wrap: wrap;
   column-gap: .5rem;
 }
 
