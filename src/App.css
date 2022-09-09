@@ -49,6 +49,12 @@ a {
   font-weight: 500
 }
 
+.highlight {
+
+  padding: 0 .2rem;
+  background-color: orange;
+}
+
 .sub-word {
   padding-left: var(--indent);
 }

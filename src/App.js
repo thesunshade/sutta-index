@@ -9,6 +9,8 @@ function App() {
   const [isLocatorView, setIsLocatorView] = useState(
     localStorage.isLocatorView ? JSON.parse(localStorage.isLocatorView) : false
   );
+  const [filterInput, setFilterInput] = useState("");
+  const [filterByText, setFilterByText] = useState("");
 
   function toggleView() {
     if (isLocatorView === false) {
@@ -21,9 +23,28 @@ function App() {
     console.log("hello");
   }
 
+  function updateFilterByText(inputText) {
+    setFilterInput(inputText);
+    if (inputText.length > 2) {
+      setFilterByText(inputText);
+      console.log(inputText);
+    } else if (filterByText) {
+      setFilterByText("");
+    }
+  }
+
   return (
     <div className="App">
       <div className="settings-bar">
+        <label id="user-input-label" htmlFor="user-input"></label>
+        <input
+          id="user-input"
+          autoFocus
+          type="text"
+          value={filterInput}
+          onChange={event => updateFilterByText(event.target.value)}
+          placeholder="ex. dhamma"
+        />
         <div
           className="radiobuttonarea"
           onChange={e => {
@@ -72,7 +93,7 @@ function App() {
         <button onClick={() => window.scrollTo(0, 0)}>Top</button>
       </div>
       {/* close settings bar */}
-      {isLocatorView ? <LocatorSortedTable /> : <SuttaIndex destination={destination} />}
+      {isLocatorView ? <LocatorSortedTable /> : <SuttaIndex destination={destination} filterByText={filterByText} />}
 
       <Stats />
     </div>
