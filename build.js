@@ -46,13 +46,10 @@ for (let i = 0; i < rawIndexArray.length - 1; i++) {
   // console.log(rawIndexArray[i][2].replace(/\r/, ""));
   locatorFirstArray.push([rawIndexArray[i][2].replace(/\r/, ""), rawIndexArray[i][1], rawIndexArray[i][0]]);
 }
-// console.log(locatorFirstArray);
 
 locatorFirstArray.sort((a, b) => {
   return a[0].localeCompare(b[0]);
 });
-
-// console.log(rawIndexArray);
 
 const array = `export const indexArray =\`${JSON.stringify(locatorFirstArray, null, 5)}\``;
 
