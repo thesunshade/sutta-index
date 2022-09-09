@@ -292,7 +292,8 @@ export const indexData =`{
           "value in smallest gift": [
                "SN1.33",
                "AN3.57",
-               "Iti26"
+               "Iti26",
+               "Vv1.10"
           ],
           "what to give": [
                "SN1.41",
@@ -4412,6 +4413,46 @@ export const indexData =`{
      "perception of nothingness (natthi)": {
           "": [
                "Snp5.7"
+          ]
+     },
+     "Vakkali, Ven": {
+          "committed to faith": [
+               "Snp5.19"
+          ]
+     },
+     "mansions, heavenly": {
+          "": [
+               "xref devas"
+          ]
+     },
+     "heavenly mansions (vimāna)": {
+          "": [
+               "xref devas"
+          ]
+     },
+     "devas": {
+          "": [
+               "Vv"
+          ]
+     },
+     "gifts, specific types of": {
+          "chair": [
+               "Vv1.1",
+               "Vv1.2",
+               "Vv1.3",
+               "Vv1.4",
+               "Vv1.5"
+          ],
+          "water": [
+               "Vv1.6",
+               "Vv1.7",
+               "Vv1.8"
+          ],
+          "light": [
+               "Vv1.9"
+          ],
+          "sesame seeds": [
+               "Vv1.10"
           ]
      }
 }`

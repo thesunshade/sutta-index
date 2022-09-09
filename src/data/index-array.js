@@ -6255,6 +6255,11 @@ export const indexArray =`[
           "renunciation"
      ],
      [
+          "Snp5.19",
+          "committed to faith",
+          "Vakkali, Ven"
+     ],
+     [
           "Snp5.2",
           "",
           "name and form"
@@ -7170,6 +7175,66 @@ export const indexArray =`[
           "fire element"
      ],
      [
+          "Vv",
+          "",
+          "devas"
+     ],
+     [
+          "Vv1.1",
+          "chair",
+          "gifts, specific types of"
+     ],
+     [
+          "Vv1.10",
+          "sesame seeds",
+          "gifts, specific types of"
+     ],
+     [
+          "Vv1.10",
+          "value in smallest gift",
+          "giving (dāna)"
+     ],
+     [
+          "Vv1.2",
+          "chair",
+          "gifts, specific types of"
+     ],
+     [
+          "Vv1.3",
+          "chair",
+          "gifts, specific types of"
+     ],
+     [
+          "Vv1.4",
+          "chair",
+          "gifts, specific types of"
+     ],
+     [
+          "Vv1.5",
+          "chair",
+          "gifts, specific types of"
+     ],
+     [
+          "Vv1.6",
+          "water",
+          "gifts, specific types of"
+     ],
+     [
+          "Vv1.7",
+          "water",
+          "gifts, specific types of"
+     ],
+     [
+          "Vv1.8",
+          "water",
+          "gifts, specific types of"
+     ],
+     [
+          "Vv1.9",
+          "light",
+          "gifts, specific types of"
+     ],
+     [
           "xref aging and death",
           "",
           "death (maraṇa)"
@@ -7213,6 +7278,16 @@ export const indexArray =`[
           "xref dependent origination",
           "",
           "death (maraṇa)"
+     ],
+     [
+          "xref devas",
+          "",
+          "mansions, heavenly"
+     ],
+     [
+          "xref devas",
+          "",
+          "heavenly mansions (vimāna)"
      ],
      [
           "xref Dhamma teaching",
