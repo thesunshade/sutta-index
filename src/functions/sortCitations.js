@@ -32,11 +32,17 @@ export default function sortCitations(citations) {
   for (let i = 0; i < orderedBooks.length; i++) {
     const book = orderedBooks[i];
     const sortedCitations = citationsObject[book].sort(natsort());
-    // console.log(citationsObject[book]);
-    // console.log(sortedCitations);
     bookSubList.push(sortedCitations);
   }
   bookSubList = bookSubList.flat();
+
+  if (citations.length > bookSubList.length) {
+    console.warn(
+      "There is an invalid citation or a citation is missing. Check arrays below. Bad citations don't appear on the front end, so you will have to check original data"
+    );
+    console.log(citations);
+    console.log(bookSubList);
+  }
 
   return bookSubList;
 }
