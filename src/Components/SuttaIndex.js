@@ -6,7 +6,6 @@ export default function SuttaIndex(props) {
   const { destination, filterByText } = props;
   const index = JSON.parse(indexData);
   const headwordsArray = sortedKeys(index);
-  // console.log(index);
 
   return (
     <div className="sutta-index">

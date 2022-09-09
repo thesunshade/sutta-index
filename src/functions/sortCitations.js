@@ -40,8 +40,8 @@ export default function sortCitations(citations) {
     console.warn(
       "There is an invalid citation or a citation is missing. Check arrays below. Bad citations don't appear on the front end, so you will have to check original data"
     );
-    console.log(citations);
-    console.log(bookSubList);
+    console.table(citations);
+    console.table(bookSubList);
   }
 
   return bookSubList;

@@ -26,9 +26,6 @@ export default function addLinks(props) {
       citation = citation.slice(0, -1);
       notSeparator = separator;
     }
-    // console.log({ firstNumber });
-    // console.log({ secondNumber });
-    // console.log(validateCitation(book, { firstNumber, secondNumber }));
 
     let translator;
     if (isAllTranslations) {
@@ -70,7 +67,7 @@ export default function addLinks(props) {
     if (book === "sn" && secondNumber === "") {
       translator = "";
     }
-    // console.log(secondNumber);
+
     let dhpTooltip = "";
     if (book === "dhp") {
       for (let i = 0; i < dhammapada.length; i++) {

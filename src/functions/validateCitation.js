@@ -52,7 +52,7 @@ export default function validateCitation(book, numbers) {
           // convert chapter:sutta to sutta
 
           const offset = structure[book].conversion_offset[firstNumber];
-          console.log({ offset });
+
           firstNumber = secondNumber + offset;
           secondNumber = 0;
         }
@@ -159,6 +159,5 @@ export default function validateCitation(book, numbers) {
       error = error.replace(/Sutta/, "Rule");
     }
   }
-  console.log({ book, firstNumber, secondNumber, verseFlag, chapterFlag, error, warning });
   return { book, firstNumber, secondNumber, verseFlag, chapterFlag, error, warning };
 }

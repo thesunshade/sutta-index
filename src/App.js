@@ -20,7 +20,6 @@ function App() {
       setIsLocatorView(false);
       localStorage.isLocatorView = "false";
     }
-    console.log("hello");
   }
 
   function updateFilterByText(inputText) {
