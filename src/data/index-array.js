@@ -391,7 +391,7 @@ export const indexArray =`[
      ],
      [
           "AN4.57",
-          "of food",
+          "food",
           "giving (dāna)"
      ],
      [
@@ -401,7 +401,7 @@ export const indexArray =`[
      ],
      [
           "AN4.58",
-          "of food",
+          "food",
           "giving (dāna)"
      ],
      [
@@ -411,7 +411,7 @@ export const indexArray =`[
      ],
      [
           "AN4.59",
-          "of food",
+          "food",
           "giving (dāna)"
      ],
      [
@@ -701,7 +701,7 @@ export const indexArray =`[
      ],
      [
           "AN5.37",
-          "of food",
+          "food",
           "giving (dāna)"
      ],
      [
@@ -4676,7 +4676,7 @@ export const indexArray =`[
      ],
      [
           "SN1.41",
-          "of food",
+          "food",
           "giving (dāna)"
      ],
      [
@@ -7300,6 +7300,11 @@ export const indexArray =`[
           "gifts, specific types of"
      ],
      [
+          "Vv2.10",
+          "food",
+          "giving (dāna)"
+     ],
+     [
           "Vv2.2",
           "resulting in heaven",
           "uposatha"
@@ -7348,6 +7353,71 @@ export const indexArray =`[
           "Vv2.7",
           "gods that have become",
           "stream-enterer"
+     ],
+     [
+          "Vv3.1",
+          "criticizing",
+          "giving (dāna)"
+     ],
+     [
+          "Vv3.1",
+          "leads to heaven",
+          "giving (dāna)"
+     ],
+     [
+          "Vv3.10",
+          "flowers",
+          "gifts, specific types of"
+     ],
+     [
+          "Vv3.2",
+          "sugarcane",
+          "gifts, specific types of"
+     ],
+     [
+          "Vv3.2",
+          "criticizing",
+          "giving (dāna)"
+     ],
+     [
+          "Vv3.3",
+          "for lay people",
+          "celibacy"
+     ],
+     [
+          "Vv3.4",
+          "respectful",
+          "wives"
+     ],
+     [
+          "Vv3.5",
+          "long list of",
+          "gifts, specific types of"
+     ],
+     [
+          "Vv3.6",
+          "to Saṅgha is always more fruitful than individual gifts",
+          "giving (dāna)"
+     ],
+     [
+          "Vv3.7",
+          "offerings at",
+          "funeral"
+     ],
+     [
+          "Vv3.8",
+          "to relics",
+          "offerings"
+     ],
+     [
+          "Vv3.9",
+          "psychic powers",
+          "devas"
+     ],
+     [
+          "Vv3.9",
+          "to stupa",
+          "offerings"
      ],
      [
           "xref aging and death",
@@ -7460,6 +7530,11 @@ export const indexArray =`[
           "generosity (cāga)"
      ],
      [
+          "xref giving (dāna)",
+          "",
+          "alms food"
+     ],
+     [
           "xref going forth (pabbajja)",
           "",
           "ordaining"
@@ -7518,6 +7593,16 @@ export const indexArray =`[
           "xref Noble Eightfold Path",
           "",
           "right speech (sammāvācā)"
+     ],
+     [
+          "xref offerings",
+          "",
+          "giving (dāna)"
+     ],
+     [
+          "xref offerings",
+          "",
+          "stupa (thupa)"
      ],
      [
           "xref old age",

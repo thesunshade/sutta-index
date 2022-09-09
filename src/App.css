@@ -23,6 +23,7 @@ body {
   flex-direction: row;
   flex-wrap: wrap;
   column-gap: .5rem;
+  row-gap: .4rem
 }
 
 button {

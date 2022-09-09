@@ -84,7 +84,8 @@ export const indexData =`{
                "xref stinginess",
                "Kp5",
                "Kp8",
-               "xref alms food"
+               "xref alms food",
+               "xref offerings"
           ],
           "after giving": [
                "AN6.37"
@@ -140,12 +141,13 @@ export const indexData =`{
           "of fearlessness": [
                "AN8.39"
           ],
-          "of food": [
+          "food": [
                "SN1.41",
                "AN4.57",
                "AN4.58",
                "AN4.59",
-               "AN5.37"
+               "AN5.37",
+               "Vv2.10"
           ],
           "to gain rebirth": [
                "SN29.11–50",
@@ -342,6 +344,16 @@ export const indexData =`{
           ],
           "encouraging others to": [
                "Snp3.7"
+          ],
+          "criticizing": [
+               "Vv3.1",
+               "Vv3.2"
+          ],
+          "leads to heaven": [
+               "Vv3.1"
+          ],
+          "to Saṅgha is always more fruitful than individual gifts": [
+               "Vv3.6"
           ]
      },
      "stinginess": {
@@ -1443,6 +1455,9 @@ export const indexData =`{
           ],
           "brahmins": [
                "Snp2.7"
+          ],
+          "for lay people": [
+               "Vv3.3"
           ]
      },
      "nibbāna": {
@@ -1481,6 +1496,12 @@ export const indexData =`{
      "offerings": {
           "to gods": [
                "Kp6"
+          ],
+          "to relics": [
+               "Vv3.8"
+          ],
+          "to stupa": [
+               "Vv3.9"
           ]
      },
      "triple gem": {
@@ -3322,7 +3343,8 @@ export const indexData =`{
                "Ud8.5"
           ],
           "": [
-               "Iti91"
+               "Iti91",
+               "xref giving (dāna)"
           ]
      },
      "fear": {
@@ -3363,6 +3385,9 @@ export const indexData =`{
      "stupa (thupa)": {
           "built for individual": [
                "Ud1.10"
+          ],
+          "": [
+               "xref offerings"
           ]
      },
      "Bāhiya of the bark cloth": {
@@ -4477,6 +4502,9 @@ export const indexData =`{
           "stream enterers": [
                "Vv1.16",
                "Vv2.7"
+          ],
+          "psychic powers": [
+               "Vv3.9"
           ]
      },
      "gifts, specific types of": {
@@ -4501,6 +4529,15 @@ export const indexData =`{
           "cakes": [
                "Vv1.13",
                "Vv1.14"
+          ],
+          "sugarcane": [
+               "Vv3.2"
+          ],
+          "long list of": [
+               "Vv3.5"
+          ],
+          "flowers": [
+               "Vv3.10"
           ]
      },
      "fidelity in marriage": {
@@ -4516,6 +4553,16 @@ export const indexData =`{
      "worshiping (vandati)": {
           "leading to heaven": [
                "Vv2.4"
+          ]
+     },
+     "wives": {
+          "respectful": [
+               "Vv3.4"
+          ]
+     },
+     "funeral": {
+          "offerings at": [
+               "Vv3.7"
           ]
      }
 }`
