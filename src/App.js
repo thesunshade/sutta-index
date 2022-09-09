@@ -27,7 +27,6 @@ function App() {
     setFilterInput(inputText);
     if (inputText.length > 2) {
       setFilterByText(inputText);
-      console.log(inputText);
     } else if (filterByText) {
       setFilterByText("");
     }

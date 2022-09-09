@@ -1,14 +1,13 @@
 import sortedKeys from "../functions/sortedKeys";
 import LocatorList from "./LocatorList";
 import makeNormalizedId from "../functions/makeNormalizedId";
-import addFilterHighlight from "../functions/addFilterHighlight";
 import KeyWord from "./KeyWord";
 
 export default function Headword(props) {
   const { headword, headwordObject, destination, filterByText } = props;
   const sortedSubWords = sortedKeys(headwordObject);
   const headwordDataString = JSON.stringify(headwordObject) + headword;
-  const regex = new RegExp(filterByText);
+  const regex = new RegExp(filterByText, "i");
   if (!headwordDataString.match(regex)) return null;
 
   return (
