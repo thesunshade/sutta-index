@@ -1069,7 +1069,8 @@ export const indexData =`{
      },
      "name and form": {
           "": [
-               "Kp4"
+               "Kp4",
+               "Snp5.2"
           ]
      },
      "feelings": {
@@ -2670,6 +2671,9 @@ export const indexData =`{
           "as fire": [
                "Dhp202",
                "Dhp251"
+          ],
+          "like a flood": [
+               "Snp4.15"
           ]
      },
      "hunger": {
@@ -3040,13 +3044,18 @@ export const indexData =`{
                "Snp2.11",
                "Snp2.13",
                "Snp2.14",
-               "Snp3.11"
+               "Snp3.11",
+               "Snp4.16"
           ],
           "like licking razor’s edge": [
                "Snp3.11"
           ],
           "rightly practiced": [
-               "Snp4.10"
+               "Snp4.10",
+               "Snp4.14"
+          ],
+          "wrong livelihood": [
+               "Snp4.14"
           ]
      },
      "self guarding": {
@@ -3122,7 +3131,8 @@ export const indexData =`{
      "past, present future": {
           "let go of": [
                "Dhp348",
-               "Snp4.10"
+               "Snp4.10",
+               "Snp4.15"
           ]
      },
      "self destruction": {
@@ -3200,6 +3210,9 @@ export const indexData =`{
      "retaliation": {
           "": [
                "Dhp389"
+          ],
+          "virtuous do not": [
+               "Snp4.14"
           ]
      },
      "cruelty (hiṁsa)": {
@@ -3588,7 +3601,9 @@ export const indexData =`{
           "over views": [
                "Ud6.4–6",
                "Snp4.8",
-               "Snp4.9"
+               "Snp4.9",
+               "Snp4.12",
+               "Snp4.13"
           ],
           "over a woman": [
                "Ud6.8"
@@ -3723,11 +3738,12 @@ export const indexData =`{
                "Iti24"
           ]
      },
-     "sacrifices": {
+     "sacrifices (yañña)": {
           "": [
                "Iti27",
                "Snp2.7",
-               "Snp3.4"
+               "Snp3.4",
+               "Snp5.4"
           ]
      },
      "senses": {
@@ -4226,7 +4242,8 @@ export const indexData =`{
      },
      "thirty-two marks": {
           "": [
-               "xref marks of a great man"
+               "xref marks of a great man",
+               "Snp5.1"
           ]
      },
      "death": {
@@ -4314,6 +4331,9 @@ export const indexData =`{
           ],
           "by another": [
                "Snp.4.6"
+          ],
+          "here alone is": [
+               "Snp4.12"
           ]
      },
      "aging": {
@@ -4344,6 +4364,26 @@ export const indexData =`{
      "quarrels": {
           "": [
                "xref disputes"
+          ]
+     },
+     "peaceful person": {
+          "like  deep ocean is still": [
+               "Snp4.14"
+          ]
+     },
+     "Sāriputta, Ven.": {
+          "as inquirer": [
+               "Snp4.16"
+          ]
+     },
+     "Bāvari, ascetic": {
+          "": [
+               "Snp5.1"
+          ]
+     },
+     "head-splitting": {
+          "": [
+               "Snp5.1"
           ]
      }
 }`

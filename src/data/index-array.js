@@ -3192,7 +3192,7 @@ export const indexArray =`[
      [
           "Iti27",
           "",
-          "sacrifices"
+          "sacrifices (yañña)"
      ],
      [
           "Iti28–9",
@@ -5682,7 +5682,7 @@ export const indexArray =`[
      [
           "Snp2.7",
           "",
-          "sacrifices"
+          "sacrifices (yañña)"
      ],
      [
           "Snp2.8",
@@ -5907,7 +5907,7 @@ export const indexArray =`[
      [
           "Snp3.4",
           "",
-          "sacrifices"
+          "sacrifices (yañña)"
      ],
      [
           "Snp3.4",
@@ -6110,6 +6110,61 @@ export const indexArray =`[
           "dependent origination"
      ],
      [
+          "Snp4.12",
+          "over views",
+          "disputes"
+     ],
+     [
+          "Snp4.12",
+          "here alone is",
+          "purity (suddhi)"
+     ],
+     [
+          "Snp4.13",
+          "over views",
+          "disputes"
+     ],
+     [
+          "Snp4.14",
+          "like  deep ocean is still",
+          "peaceful person"
+     ],
+     [
+          "Snp4.14",
+          "rightly practiced",
+          "monastic life"
+     ],
+     [
+          "Snp4.14",
+          "wrong livelihood",
+          "monastic life"
+     ],
+     [
+          "Snp4.14",
+          "virtuous do not",
+          "retaliation"
+     ],
+     [
+          "Snp4.15",
+          "like a flood",
+          "greed"
+     ],
+     [
+          "Snp4.15",
+          "let go of",
+          "past, present future"
+     ],
+     [
+          "Snp4.16",
+          "as inquirer",
+          "Sāriputta, Ven."
+     ],
+     [
+          "Snp4.16",
+          "advice for",
+          "monastic life"
+     ],
+     [
           "Snp4.2",
           "of the past and future",
           "sense pleasures"
@@ -6173,6 +6228,31 @@ export const indexArray =`[
           "Snp4.9",
           "over views",
           "disputes"
+     ],
+     [
+          "Snp5.1",
+          "",
+          "Bāvari, ascetic"
+     ],
+     [
+          "Snp5.1",
+          "",
+          "thirty-two marks"
+     ],
+     [
+          "Snp5.1",
+          "",
+          "head-splitting"
+     ],
+     [
+          "Snp5.2",
+          "",
+          "name and form"
+     ],
+     [
+          "Snp5.4",
+          "",
+          "sacrifices (yañña)"
      ],
      [
           "Thag16.1",
