@@ -3107,7 +3107,7 @@ export const indexArray =`[
      [
           "Iti22",
           "rebirth as",
-          "brahmā"
+          "brahmās"
      ],
      [
           "Iti22",
@@ -7195,6 +7195,71 @@ export const indexArray =`[
           "giving (dāna)"
      ],
      [
+          "Vv1.11",
+          "",
+          "fidelity in marriage"
+     ],
+     [
+          "Vv1.11",
+          "leading to heaven",
+          "virtue"
+     ],
+     [
+          "Vv1.11",
+          "abstaining from",
+          "sexual misconduct"
+     ],
+     [
+          "Vv1.13",
+          "cakes",
+          "gifts, specific types of"
+     ],
+     [
+          "Vv1.14",
+          "cakes",
+          "gifts, specific types of"
+     ],
+     [
+          "Vv1.15",
+          "once returners",
+          "devas"
+     ],
+     [
+          "Vv1.15",
+          "resulting in heaven",
+          "uposatha"
+     ],
+     [
+          "Vv1.15",
+          "gods that have become",
+          "once returner"
+     ],
+     [
+          "Vv1.16",
+          "",
+          "gods that delight in creation"
+     ],
+     [
+          "Vv1.16",
+          "with psychic powers",
+          "devas"
+     ],
+     [
+          "Vv1.16",
+          "stream enterers",
+          "devas"
+     ],
+     [
+          "Vv1.16",
+          "gods that have become",
+          "stream-enterer"
+     ],
+     [
+          "Vv1.17",
+          "asking questions",
+          "Sakka"
+     ],
+     [
           "Vv1.2",
           "chair",
           "gifts, specific types of"
@@ -7235,6 +7300,56 @@ export const indexArray =`[
           "gifts, specific types of"
      ],
      [
+          "Vv2.2",
+          "resulting in heaven",
+          "uposatha"
+     ],
+     [
+          "Vv2.2",
+          "once returners",
+          "devas"
+     ],
+     [
+          "Vv2.2",
+          "gods that have become",
+          "once returner"
+     ],
+     [
+          "Vv2.3",
+          "asking questions",
+          "Sakka"
+     ],
+     [
+          "Vv2.3",
+          "value in smallest gift",
+          "giving (dāna)"
+     ],
+     [
+          "Vv2.3",
+          "not greatest happiness",
+          "wheel-turning monarchs"
+     ],
+     [
+          "Vv2.4",
+          "leading to heaven",
+          "worshiping (vandati)"
+     ],
+     [
+          "Vv2.7",
+          "over not making spiritual progress",
+          "regret"
+     ],
+     [
+          "Vv2.7",
+          "stream enterers",
+          "devas"
+     ],
+     [
+          "Vv2.7",
+          "gods that have become",
+          "stream-enterer"
+     ],
+     [
           "xref aging and death",
           "",
           "death (maraṇa)"
@@ -7258,6 +7373,11 @@ export const indexArray =`[
           "xref Bodhisatta",
           "before enlightenment",
           "Buddha, the"
+     ],
+     [
+          "xref brahmās",
+          "",
+          "gods"
      ],
      [
           "xref brahmin",
@@ -7288,6 +7408,11 @@ export const indexArray =`[
           "xref devas",
           "",
           "heavenly mansions (vimāna)"
+     ],
+     [
+          "xref devas",
+          "",
+          "gods"
      ],
      [
           "xref Dhamma teaching",

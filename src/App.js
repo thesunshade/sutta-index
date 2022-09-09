@@ -43,6 +43,14 @@ function App() {
           onChange={event => updateFilterByText(event.target.value)}
           placeholder="ex. dhamma"
         />
+        <button
+          onClick={() => {
+            setFilterInput("");
+            setFilterByText("");
+          }}
+        >
+          X
+        </button>
         <div
           className="radiobuttonarea"
           onChange={e => {

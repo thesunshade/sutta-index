@@ -293,7 +293,8 @@ export const indexData =`{
                "SN1.33",
                "AN3.57",
                "Iti26",
-               "Vv1.10"
+               "Vv1.10",
+               "Vv2.3"
           ],
           "what to give": [
                "SN1.41",
@@ -1142,6 +1143,10 @@ export const indexData =`{
           ],
           "wishes of": [
                "Iti83"
+          ],
+          "": [
+               "xref devas",
+               "xref brahmās"
           ]
      },
      "blessings (maṅgala)": {
@@ -1665,6 +1670,10 @@ export const indexData =`{
           ],
           "better than heaven": [
                "Dhp178"
+          ],
+          "gods that have become": [
+               "Vv1.16",
+               "Vv2.7"
           ]
      },
      "fetters (saṁyojana)": {
@@ -1768,6 +1777,9 @@ export const indexData =`{
           ],
           "definition": [
                "Iti97"
+          ],
+          "leading to heaven": [
+               "Vv1.11"
           ]
      },
      "restraint": {
@@ -1821,6 +1833,9 @@ export const indexData =`{
           "": [
                "Kp8",
                "Iti22"
+          ],
+          "not greatest happiness": [
+               "Vv2.3"
           ]
      },
      "heaven": {
@@ -2151,6 +2166,10 @@ export const indexData =`{
           "": [
                "Dhp31",
                "Iti22"
+          ],
+          "asking questions": [
+               "Vv1.17",
+               "Vv2.3"
           ]
      },
      "mind": {
@@ -2281,6 +2300,9 @@ export const indexData =`{
      "regret": {
           "": [
                "Dhp67-8"
+          ],
+          "over not making spiritual progress": [
+               "Vv2.7"
           ]
      },
      "results of actions": {
@@ -3021,6 +3043,9 @@ export const indexData =`{
           ],
           "": [
                "Snp1.6"
+          ],
+          "abstaining from": [
+               "Vv1.11"
           ]
      },
      "monastic life": {
@@ -3510,6 +3535,10 @@ export const indexData =`{
           ],
           "lay practice": [
                "Snp2.14"
+          ],
+          "resulting in heaven": [
+               "Vv1.15",
+               "Vv2.2"
           ]
      },
      "sabath": {
@@ -3738,7 +3767,7 @@ export const indexData =`{
                "Iti19"
           ]
      },
-     "brahmā": {
+     "brahmās": {
           "rebirth as": [
                "Iti22"
           ]
@@ -3987,6 +4016,10 @@ export const indexData =`{
      "once returner": {
           "attached to sense pleasure": [
                "Iti96"
+          ],
+          "gods that have become": [
+               "Vv1.15",
+               "Vv2.2"
           ]
      },
      "non-returner": {
@@ -4433,6 +4466,17 @@ export const indexData =`{
      "devas": {
           "": [
                "Vv"
+          ],
+          "once returners": [
+               "Vv1.15",
+               "Vv2.2"
+          ],
+          "with psychic powers": [
+               "Vv1.16"
+          ],
+          "stream enterers": [
+               "Vv1.16",
+               "Vv2.7"
           ]
      },
      "gifts, specific types of": {
@@ -4453,6 +4497,25 @@ export const indexData =`{
           ],
           "sesame seeds": [
                "Vv1.10"
+          ],
+          "cakes": [
+               "Vv1.13",
+               "Vv1.14"
+          ]
+     },
+     "fidelity in marriage": {
+          "": [
+               "Vv1.11"
+          ]
+     },
+     "gods that delight in creation": {
+          "": [
+               "Vv1.16"
+          ]
+     },
+     "worshiping (vandati)": {
+          "leading to heaven": [
+               "Vv2.4"
           ]
      }
 }`
