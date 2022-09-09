@@ -541,7 +541,7 @@ export const indexData =`{
                "xref death (maraṇa)"
           ]
      },
-     "loving kindness (mettā)": {
+     "loving-kindness (mettā)": {
           "": [
                "Snp1.8",
                "AN3.63",
@@ -559,7 +559,9 @@ export const indexData =`{
                "MN93",
                "MN96",
                "MN119",
-               "xref friendship"
+               "xref friendship",
+               "Kp9",
+               "Dhp368"
           ],
           "to abandon enmity": [
                "SN10.4"
@@ -668,6 +670,15 @@ export const indexData =`{
           ],
           "to weaken fetters": [
                "AN8.1"
+          ],
+          "to give up hate": [
+               "Ud4.1"
+          ],
+          "simile of clear sky": [
+               "Iti27"
+          ],
+          "simile of stars": [
+               "Iti27"
           ]
      },
      "Dhamma discussion": {
@@ -1904,21 +1915,6 @@ export const indexData =`{
           ],
           "inevitability of": [
                "Dhp227"
-          ]
-     },
-     "loving-kindness (mettā)": {
-          "": [
-               "Kp9",
-               "Dhp368"
-          ],
-          "to give up hate": [
-               "Ud4.1"
-          ],
-          "simile of clear sky": [
-               "Iti27"
-          ],
-          "simile of stars": [
-               "Iti27"
           ]
      },
      "meditation": {

@@ -2,12 +2,12 @@ export const indexArray =`[
      [
           "AN1.17",
           "to abandon ill-will",
-          "loving kindness (mettā)"
+          "loving-kindness (mettā)"
      ],
      [
           "AN1.17",
           "liberation of mind by",
-          "loving kindness (mettā)"
+          "loving-kindness (mettā)"
      ],
      [
           "AN1.322–3",
@@ -17,17 +17,17 @@ export const indexArray =`[
      [
           "AN1.53",
           "for a fingersnap",
-          "loving kindness (mettā)"
+          "loving-kindness (mettā)"
      ],
      [
           "AN1.54",
           "for a fingersnap",
-          "loving kindness (mettā)"
+          "loving-kindness (mettā)"
      ],
      [
           "AN1.55",
           "for a fingersnap",
-          "loving kindness (mettā)"
+          "loving-kindness (mettā)"
      ],
      [
           "AN10.176",
@@ -72,12 +72,12 @@ export const indexArray =`[
      [
           "AN10.219",
           "",
-          "loving kindness (mettā)"
+          "loving-kindness (mettā)"
      ],
      [
           "AN10.220",
           "",
-          "loving kindness (mettā)"
+          "loving-kindness (mettā)"
      ],
      [
           "AN10.44",
@@ -122,12 +122,12 @@ export const indexArray =`[
      [
           "AN11.11",
           "as principle of cordiality",
-          "loving kindness (mettā)"
+          "loving-kindness (mettā)"
      ],
      [
           "AN11.12",
           "as principle of cordiality",
-          "loving kindness (mettā)"
+          "loving-kindness (mettā)"
      ],
      [
           "AN11.13",
@@ -137,12 +137,12 @@ export const indexArray =`[
      [
           "AN11.15",
           "benefits of",
-          "loving kindness (mettā)"
+          "loving-kindness (mettā)"
      ],
      [
           "AN11.16",
           "",
-          "loving kindness (mettā)"
+          "loving-kindness (mettā)"
      ],
      [
           "AN2.141",
@@ -237,27 +237,27 @@ export const indexArray =`[
      [
           "AN3.63",
           "",
-          "loving kindness (mettā)"
+          "loving-kindness (mettā)"
      ],
      [
           "AN3.65",
           "to gain the four assurances",
-          "loving kindness (mettā)"
+          "loving-kindness (mettā)"
      ],
      [
           "AN3.67",
           "as a protection",
-          "loving kindness (mettā)"
+          "loving-kindness (mettā)"
      ],
      [
           "AN3.68",
           "to abandon ill-will",
-          "loving kindness (mettā)"
+          "loving-kindness (mettā)"
      ],
      [
           "AN3.68",
           "liberation of mind by",
-          "loving kindness (mettā)"
+          "loving-kindness (mettā)"
      ],
      [
           "AN3.69",
@@ -307,12 +307,12 @@ export const indexArray =`[
      [
           "AN4.125",
           "as a path to brahma world",
-          "loving kindness (mettā)"
+          "loving-kindness (mettā)"
      ],
      [
           "AN4.126",
           "as a path to brahma world",
-          "loving kindness (mettā)"
+          "loving-kindness (mettā)"
      ],
      [
           "AN4.183",
@@ -332,7 +332,7 @@ export const indexArray =`[
      [
           "AN4.190",
           "as the state of a brahmā",
-          "loving kindness (mettā)"
+          "loving-kindness (mettā)"
      ],
      [
           "AN4.197",
@@ -547,7 +547,7 @@ export const indexArray =`[
      [
           "AN5.161",
           "to abandon resentment",
-          "loving kindness (mettā)"
+          "loving-kindness (mettā)"
      ],
      [
           "AN5.176",
@@ -777,17 +777,17 @@ export const indexArray =`[
      [
           "AN6.107",
           "to abandon hatred",
-          "loving kindness (mettā)"
+          "loving-kindness (mettā)"
      ],
      [
           "AN6.12",
           "as principle of cordiality",
-          "loving kindness (mettā)"
+          "loving-kindness (mettā)"
      ],
      [
           "AN6.13",
           "liberation of mind by",
-          "loving kindness (mettā)"
+          "loving-kindness (mettā)"
      ],
      [
           "AN6.14",
@@ -902,7 +902,7 @@ export const indexArray =`[
      [
           "AN7.62",
           "as cause for rebirth",
-          "loving kindness (mettā)"
+          "loving-kindness (mettā)"
      ],
      [
           "AN7.74",
@@ -917,17 +917,17 @@ export const indexArray =`[
      [
           "AN8.1",
           "benefits of",
-          "loving kindness (mettā)"
+          "loving-kindness (mettā)"
      ],
      [
           "AN8.1",
           "liberation of mind by",
-          "loving kindness (mettā)"
+          "loving-kindness (mettā)"
      ],
      [
           "AN8.1",
           "to weaken fetters",
-          "loving kindness (mettā)"
+          "loving-kindness (mettā)"
      ],
      [
           "AN8.22",
@@ -1082,7 +1082,7 @@ export const indexArray =`[
      [
           "AN8.63",
           "liberation of mind by",
-          "loving kindness (mettā)"
+          "loving-kindness (mettā)"
      ],
      [
           "AN8.68–9",
@@ -1097,12 +1097,12 @@ export const indexArray =`[
      [
           "AN9.1",
           "to abandon ill-will",
-          "loving kindness (mettā)"
+          "loving-kindness (mettā)"
      ],
      [
           "AN9.19",
           "as factor of uposatha",
-          "loving kindness (mettā)"
+          "loving-kindness (mettā)"
      ],
      [
           "AN9.20",
@@ -1117,12 +1117,12 @@ export const indexArray =`[
      [
           "AN9.22",
           "",
-          "loving kindness (mettā)"
+          "loving-kindness (mettā)"
      ],
      [
           "AN9.3",
           "to abandon ill-will",
-          "loving kindness (mettā)"
+          "loving-kindness (mettā)"
      ],
      [
           "Dhp chapter 11",
@@ -2847,12 +2847,12 @@ export const indexArray =`[
      [
           "DN13",
           "like a conch blower",
-          "loving kindness (mettā)"
+          "loving-kindness (mettā)"
      ],
      [
           "DN13",
           "as a path to brahma world",
-          "loving kindness (mettā)"
+          "loving-kindness (mettā)"
      ],
      [
           "DN2",
@@ -3097,7 +3097,7 @@ export const indexArray =`[
      [
           "Iti22",
           "grounds for making merit",
-          "loving kindness (mettā)"
+          "loving-kindness (mettā)"
      ],
      [
           "Iti22",
@@ -3177,7 +3177,7 @@ export const indexArray =`[
      [
           "Iti27",
           "grounds for making merit",
-          "loving kindness (mettā)"
+          "loving-kindness (mettā)"
      ],
      [
           "Iti27",
@@ -4262,7 +4262,7 @@ export const indexArray =`[
      [
           "Kp9",
           "",
-          "loving kindness (mettā)"
+          "loving-kindness (mettā)"
      ],
      [
           "Kp9",
@@ -4317,12 +4317,12 @@ export const indexArray =`[
      [
           "MN 83",
           "as a path to brahma world",
-          "loving kindness (mettā)"
+          "loving-kindness (mettā)"
      ],
      [
           "MN104",
           "in action",
-          "loving kindness (mettā)"
+          "loving-kindness (mettā)"
      ],
      [
           "MN105",
@@ -4352,7 +4352,7 @@ export const indexArray =`[
      [
           "MN119",
           "",
-          "loving kindness (mettā)"
+          "loving-kindness (mettā)"
      ],
      [
           "MN120",
@@ -4362,12 +4362,12 @@ export const indexArray =`[
      [
           "MN127",
           "as immeasurable deliverance",
-          "loving kindness (mettā)"
+          "loving-kindness (mettā)"
      ],
      [
           "MN128",
           "in action",
-          "loving kindness (mettā)"
+          "loving-kindness (mettā)"
      ],
      [
           "MN130",
@@ -4437,7 +4437,7 @@ export const indexArray =`[
      [
           "MN21",
           "under abuse",
-          "loving kindness (mettā)"
+          "loving-kindness (mettā)"
      ],
      [
           "MN21",
@@ -4452,12 +4452,12 @@ export const indexArray =`[
      [
           "MN31",
           "in action",
-          "loving kindness (mettā)"
+          "loving-kindness (mettā)"
      ],
      [
           "MN33",
           "in action",
-          "loving kindness (mettā)"
+          "loving-kindness (mettā)"
      ],
      [
           "MN34",
@@ -4472,37 +4472,37 @@ export const indexArray =`[
      [
           "MN40",
           "",
-          "loving kindness (mettā)"
+          "loving-kindness (mettā)"
      ],
      [
           "MN43",
           "as immeasurable deliverance",
-          "loving kindness (mettā)"
+          "loving-kindness (mettā)"
      ],
      [
           "MN48",
           "in action",
-          "loving kindness (mettā)"
+          "loving-kindness (mettā)"
      ],
      [
           "MN50",
           "under abuse",
-          "loving kindness (mettā)"
+          "loving-kindness (mettā)"
      ],
      [
           "MN52",
           "as a basis for insight",
-          "loving kindness (mettā)"
+          "loving-kindness (mettā)"
      ],
      [
           "MN52",
           "as conditioned",
-          "loving kindness (mettā)"
+          "loving-kindness (mettā)"
      ],
      [
           "MN55",
           "",
-          "loving kindness (mettā)"
+          "loving-kindness (mettā)"
      ],
      [
           "MN56",
@@ -4547,7 +4547,7 @@ export const indexArray =`[
      [
           "MN62",
           "",
-          "loving kindness (mettā)"
+          "loving-kindness (mettā)"
      ],
      [
           "MN68",
@@ -4557,7 +4557,7 @@ export const indexArray =`[
      [
           "MN7",
           "",
-          "loving kindness (mettā)"
+          "loving-kindness (mettā)"
      ],
      [
           "MN87",
@@ -4577,17 +4577,17 @@ export const indexArray =`[
      [
           "MN93",
           "",
-          "loving kindness (mettā)"
+          "loving-kindness (mettā)"
      ],
      [
           "MN96",
           "",
-          "loving kindness (mettā)"
+          "loving-kindness (mettā)"
      ],
      [
           "MN97",
           "as a path to brahma world",
-          "loving kindness (mettā)"
+          "loving-kindness (mettā)"
      ],
      [
           "MN99",
@@ -4597,7 +4597,7 @@ export const indexArray =`[
      [
           "MN99",
           "as a path to brahma world",
-          "loving kindness (mettā)"
+          "loving-kindness (mettā)"
      ],
      [
           "SN1.20",
@@ -4742,7 +4742,7 @@ export const indexArray =`[
      [
           "SN10.4",
           "to abandon enmity",
-          "loving kindness (mettā)"
+          "loving-kindness (mettā)"
      ],
      [
           "SN11.16",
@@ -4802,32 +4802,32 @@ export const indexArray =`[
      [
           "SN20.3",
           "liberation of mind by",
-          "loving kindness (mettā)"
+          "loving-kindness (mettā)"
      ],
      [
           "SN20.3",
           "as a protection",
-          "loving kindness (mettā)"
+          "loving-kindness (mettā)"
      ],
      [
           "SN20.4",
           "liberation of mind by",
-          "loving kindness (mettā)"
+          "loving-kindness (mettā)"
      ],
      [
           "SN20.4",
           "more fruitful than giving",
-          "loving kindness (mettā)"
+          "loving-kindness (mettā)"
      ],
      [
           "SN20.5",
           "liberation of mind by",
-          "loving kindness (mettā)"
+          "loving-kindness (mettā)"
      ],
      [
           "SN20.5",
           "as a protection",
-          "loving kindness (mettā)"
+          "loving-kindness (mettā)"
      ],
      [
           "SN20.6",
@@ -4937,7 +4937,7 @@ export const indexArray =`[
      [
           "SN41.7",
           "measureless liberation of mind",
-          "loving kindness (mettā)"
+          "loving-kindness (mettā)"
      ],
      [
           "SN42.11",
@@ -4947,7 +4947,7 @@ export const indexArray =`[
      [
           "SN42.13",
           "",
-          "loving kindness (mettā)"
+          "loving-kindness (mettā)"
      ],
      [
           "SN42.13",
@@ -4957,12 +4957,12 @@ export const indexArray =`[
      [
           "SN42.8",
           "liberation of mind by",
-          "loving kindness (mettā)"
+          "loving-kindness (mettā)"
      ],
      [
           "SN42.8",
           "like a conch blower",
-          "loving kindness (mettā)"
+          "loving-kindness (mettā)"
      ],
      [
           "SN42.8",
@@ -4987,17 +4987,17 @@ export const indexArray =`[
      [
           "SN46.51",
           "to abandon ill-will",
-          "loving kindness (mettā)"
+          "loving-kindness (mettā)"
      ],
      [
           "SN46.54",
           "as accompanying enlightenment factor",
-          "loving kindness (mettā)"
+          "loving-kindness (mettā)"
      ],
      [
           "SN46.54",
           "liberation of mind by",
-          "loving kindness (mettā)"
+          "loving-kindness (mettā)"
      ],
      [
           "SN47.13",
@@ -5517,7 +5517,7 @@ export const indexArray =`[
      [
           "Snp1.8",
           "",
-          "loving kindness (mettā)"
+          "loving-kindness (mettā)"
      ],
      [
           "Snp1.9",
@@ -6782,7 +6782,7 @@ export const indexArray =`[
      [
           "Ud5.1",
           "",
-          "loving kindness (mettā)"
+          "loving-kindness (mettā)"
      ],
      [
           "Ud5.1",
@@ -7517,7 +7517,7 @@ export const indexArray =`[
      [
           "xref friendship",
           "",
-          "loving kindness (mettā)"
+          "loving-kindness (mettā)"
      ],
      [
           "xref generosity (cāga)",

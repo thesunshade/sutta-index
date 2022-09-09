@@ -1,0 +1,1 @@
+- [ ] remove non-letter characters from filter terms
