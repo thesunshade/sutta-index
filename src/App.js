@@ -69,6 +69,7 @@ function App() {
         >
           Locators
         </button>
+        <button onClick={() => window.scrollTo(0, 0)}>Top</button>
       </div>
       {/* close settings bar */}
       {isLocatorView ? <LocatorSortedTable /> : <SuttaIndex destination={destination} />}
