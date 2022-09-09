@@ -53,7 +53,7 @@ function App() {
           }}
         >
           <div>
-            <span className="button-title">Open in:</span>
+            <span className="button-title"></span>
             <label>
               <input
                 type="radio"
@@ -88,9 +88,9 @@ function App() {
             toggleView();
           }}
         >
-          Locators
+          table
         </button>
-        <button onClick={() => window.scrollTo(0, 0)}>Top</button>
+        <button onClick={() => window.scrollTo(0, 0)}>^</button>
       </div>
       {/* close settings bar */}
       {isLocatorView ? <LocatorSortedTable /> : <SuttaIndex destination={destination} filterByText={filterByText} />}
