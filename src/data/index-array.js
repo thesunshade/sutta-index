@@ -6245,6 +6245,16 @@ export const indexArray =`[
           "head-splitting"
      ],
      [
+          "Snp5.10",
+          "free from",
+          "hope"
+     ],
+     [
+          "Snp5.12",
+          "as sanctuary",
+          "renunciation"
+     ],
+     [
           "Snp5.2",
           "",
           "name and form"
@@ -6253,6 +6263,46 @@ export const indexArray =`[
           "Snp5.4",
           "",
           "sacrifices (yañña)"
+     ],
+     [
+          "Snp5.5",
+          "cause of",
+          "suffering"
+     ],
+     [
+          "Snp5.5",
+          "free from",
+          "hope"
+     ],
+     [
+          "Snp5.6",
+          "cannot release someone",
+          "Buddha, the"
+     ],
+     [
+          "Snp5.7",
+          "",
+          "perception of nothingness (natthi)"
+     ],
+     [
+          "Snp5.7",
+          "like a flame blown out",
+          "arahant"
+     ],
+     [
+          "Snp5.7",
+          "existing after death",
+          "arahant"
+     ],
+     [
+          "Snp5.8",
+          "definition",
+          "sage (muni)"
+     ],
+     [
+          "Snp5.8",
+          "in terms of vows",
+          "purity (suddhi)"
      ],
      [
           "Thag16.1",

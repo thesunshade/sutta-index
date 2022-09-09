@@ -1548,6 +1548,9 @@ export const indexData =`{
           ],
           "before enlightenment": [
                "xref Bodhisatta"
+          ],
+          "cannot release someone": [
+               "Snp5.6"
           ]
      },
      "Dhamma": {
@@ -2405,6 +2408,9 @@ export const indexData =`{
           ],
           "simile of fallen leaves": [
                "Snp1.3"
+          ],
+          "as sanctuary": [
+               "Snp5.12"
           ]
      },
      "mindful person": {
@@ -2455,6 +2461,12 @@ export const indexData =`{
           ],
           "": [
                "xref brahmin"
+          ],
+          "like a flame blown out": [
+               "Snp5.7"
+          ],
+          "existing after death": [
+               "Snp5.7"
           ]
      },
      "harming a good person": {
@@ -2892,6 +2904,9 @@ export const indexData =`{
           ],
           "like a leaky boat": [
                "Snp4.1"
+          ],
+          "cause of": [
+               "Snp5.5"
           ]
      },
      "not-self": {
@@ -3239,7 +3254,9 @@ export const indexData =`{
                "Ud3.9"
           ],
           "free from": [
-               "Snp1.3"
+               "Snp1.3",
+               "Snp5.5",
+               "Snp5.10"
           ],
           "not relying on": [
                "Snp3.4"
@@ -3880,6 +3897,9 @@ export const indexData =`{
           "": [
                "Iti67",
                "Snp1.12"
+          ],
+          "definition": [
+               "Snp5.8"
           ]
      },
      "wrong view (micchā diṭṭhi)": {
@@ -4334,6 +4354,9 @@ export const indexData =`{
           ],
           "here alone is": [
                "Snp4.12"
+          ],
+          "in terms of vows": [
+               "Snp5.8"
           ]
      },
      "aging": {
@@ -4384,6 +4407,11 @@ export const indexData =`{
      "head-splitting": {
           "": [
                "Snp5.1"
+          ]
+     },
+     "perception of nothingness (natthi)": {
+          "": [
+               "Snp5.7"
           ]
      }
 }`
