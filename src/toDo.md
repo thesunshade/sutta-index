@@ -1,1 +1,2 @@
 - [ ] remove non-letter characters from filter terms
+- [ ] clearing filter should put curson in input field

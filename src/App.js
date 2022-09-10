@@ -52,6 +52,7 @@ function App() {
               onClick={() => {
                 setFilterInput("");
                 setFilterByText("");
+                document.getElementById("user-input").focus();
               }}
             >
               X

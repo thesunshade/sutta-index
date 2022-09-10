@@ -360,6 +360,10 @@ export const indexData =`{
           ],
           "to Saṅgha is always more fruitful than individual gifts": [
                "Vv3.6"
+          ],
+          "small amount": [
+               "Vv5.8",
+               "Vv5.9"
           ]
      },
      "stinginess": {
@@ -513,7 +517,8 @@ export const indexData =`{
                "Dhp287"
           ],
           "cannot escape": [
-               "Dhp128"
+               "Dhp128",
+               "Vv5.13"
           ],
           "all fear": [
                "Dhp129"
@@ -525,7 +530,8 @@ export const indexData =`{
                "Ud4.3"
           ],
           "as universal": [
-               "Ud5.2"
+               "Ud5.2",
+               "Vv5.13"
           ],
           "of gods": [
                "Iti83"
@@ -1072,14 +1078,14 @@ export const indexData =`{
           ],
           "going for leads to heaven": [
                "Vv5.3"
+          ],
+          "attempting to go for refuge to individual monk": [
+               "Vv5.13"
           ]
      },
-     "precepts": {
-          "ten": [
-               "Kp2"
-          ],
+     "precepts, ten": {
           "": [
-               "Dhp333"
+               "Kp2"
           ]
      },
      "body": {
@@ -1241,6 +1247,10 @@ export const indexData =`{
           ],
           "grounds for making": [
                "Iti60"
+          ],
+          "small amounts give big results": [
+               "Vv5.3",
+               "Vv5.10"
           ]
      },
      "resolution/determination": {
@@ -1522,11 +1532,13 @@ export const indexData =`{
                "Kp6"
           ],
           "to relics": [
-               "Vv3.8"
+               "Vv3.8",
+               "Vv5.13"
           ],
           "to stupa": [
                "Vv3.9",
-               "Vv4.9"
+               "Vv4.9",
+               "Vv5.10"
           ]
      },
      "triple gem": {
@@ -1835,6 +1847,9 @@ export const indexData =`{
           ],
           "leading to heaven": [
                "Vv1.11"
+          ],
+          "": [
+               "xref precepts"
           ]
      },
      "restraint": {
@@ -1903,6 +1918,15 @@ export const indexData =`{
           ],
           "few reborn in": [
                "Dhp174"
+          ],
+          "precepts lead to": [
+               "Vv5.3"
+          ],
+          "refuges lead to": [
+               "Vv5.3"
+          ],
+          "": [
+               "xref giving (dāna)"
           ]
      },
      "good friends": {
@@ -3192,6 +3216,11 @@ export const indexData =`{
                "Dhp329–30",
                "Dhp404",
                "Ud3.9"
+          ]
+     },
+     "precepts": {
+          "": [
+               "Dhp333"
           ]
      },
      "sensual pleasures": {
@@ -4573,11 +4602,25 @@ export const indexData =`{
           "monastery": [
                "Vv4.6",
                "Vv4.8"
+          ],
+          "needle": [
+               "Vv5.8",
+               "Vv5.9"
+          ],
+          "dwelling": [
+               "Vv5.12"
+          ],
+          "food": [
+               "Vv6.1"
+          ],
+          "fruit": [
+               "Vv6.3"
           ]
      },
      "fidelity in marriage": {
           "": [
-               "Vv1.11"
+               "Vv1.11",
+               "Vv5.11"
           ]
      },
      "gods that delight in creation": {
@@ -4634,6 +4677,26 @@ export const indexData =`{
      "Chattamāṇavaka": {
           "": [
                "Vv5.3"
+          ]
+     },
+     "precepts, five": {
+          "leading to heaven": [
+               "Vv5.3"
+          ]
+     },
+     "Mahā Kaccāna": {
+          "teaches a hunter": [
+               "Vv5.13"
+          ]
+     },
+     "relics": {
+          "": [
+               "xref offerings"
+          ]
+     },
+     "Kassapa, Buddha": {
+          "": [
+               "Vv5.14"
           ]
      }
 }`

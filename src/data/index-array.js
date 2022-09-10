@@ -3771,8 +3771,8 @@ export const indexArray =`[
      ],
      [
           "Kp2",
-          "ten",
-          "precepts"
+          "",
+          "precepts, ten"
      ],
      [
           "Kp3",
@@ -7535,6 +7535,56 @@ export const indexArray =`[
           "listening to Dhamma"
      ],
      [
+          "Vv5.10",
+          "to stupa",
+          "offerings"
+     ],
+     [
+          "Vv5.10",
+          "small amounts give big results",
+          "merit (puññā)"
+     ],
+     [
+          "Vv5.11",
+          "",
+          "fidelity in marriage"
+     ],
+     [
+          "Vv5.12",
+          "dwelling",
+          "gifts, specific types of"
+     ],
+     [
+          "Vv5.13",
+          "teaches a hunter",
+          "Mahā Kaccāna"
+     ],
+     [
+          "Vv5.13",
+          "cannot escape ",
+          "death (maraṇa)"
+     ],
+     [
+          "Vv5.13",
+          "as universal",
+          "death (maraṇa)"
+     ],
+     [
+          "Vv5.13",
+          "attempting to go for refuge to individual monk",
+          "refuges"
+     ],
+     [
+          "Vv5.13",
+          "to relics",
+          "offerings"
+     ],
+     [
+          "Vv5.14",
+          "",
+          "Kassapa, Buddha"
+     ],
+     [
           "Vv5.2",
           "like relatives greeting us after long journey",
           "merit "
@@ -7568,6 +7618,56 @@ export const indexArray =`[
           "Vv5.3",
           "visiting beings about to die",
           "Buddha, the"
+     ],
+     [
+          "Vv5.3",
+          "leading to heaven",
+          "precepts, five"
+     ],
+     [
+          "Vv5.3",
+          "precepts lead to",
+          "heaven"
+     ],
+     [
+          "Vv5.3",
+          "refuges lead to",
+          "heaven"
+     ],
+     [
+          "Vv5.3",
+          "small amounts give big results",
+          "merit (puññā)"
+     ],
+     [
+          "Vv5.8",
+          "small amount",
+          "giving (dāna)"
+     ],
+     [
+          "Vv5.8",
+          "needle",
+          "gifts, specific types of"
+     ],
+     [
+          "Vv5.9",
+          "small amount",
+          "giving (dāna)"
+     ],
+     [
+          "Vv5.9",
+          "needle",
+          "gifts, specific types of"
+     ],
+     [
+          "Vv6.1",
+          "food",
+          "gifts, specific types of"
+     ],
+     [
+          "Vv6.3",
+          "fruit",
+          "gifts, specific types of"
      ],
      [
           "xref aging and death",
@@ -7690,6 +7790,11 @@ export const indexArray =`[
           "alms food"
      ],
      [
+          "xref giving (dāna)",
+          "",
+          "heaven"
+     ],
+     [
           "xref going forth (pabbajja)",
           "",
           "ordaining"
@@ -7760,6 +7865,11 @@ export const indexArray =`[
           "stupa (thupa)"
      ],
      [
+          "xref offerings",
+          "",
+          "relics"
+     ],
+     [
           "xref old age",
           "",
           "aging"
@@ -7793,6 +7903,11 @@ export const indexArray =`[
           "xref perception of ugliness (asubhasañña)",
           "",
           "unattractiveness"
+     ],
+     [
+          "xref precepts",
+          "",
+          "virtue"
      ],
      [
           "xref proper attention (yoniso manasikāra)",
