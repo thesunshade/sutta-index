@@ -15,7 +15,7 @@ export default function LocatorSortedTable() {
   return (
     <table className="locator-sorted-table">
       <colgroup>
-        <col class="first-col" />
+        <col className="first-col" />
         <col />
         <col />
       </colgroup>

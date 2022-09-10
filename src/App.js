@@ -4,6 +4,7 @@ import Stats from "./Components/Stats.js";
 import LocatorSortedTable from "./Components/LocatorSortedTable.js";
 import { useState } from "react";
 import settingsIcon from "./images/settings.png";
+import randomSuggestion from "./functions/randomSuggestion";
 
 function App() {
   const [destination, setDestination] = useState(localStorage.destination ? localStorage.destination : "SC");
@@ -44,7 +45,7 @@ function App() {
               type="text"
               value={filterInput}
               onChange={event => updateFilterByText(event.target.value)}
-              placeholder="ex. dhamma"
+              placeholder={"e.g. " + randomSuggestion()}
             />
             <button
               className="clear-filter-button"
