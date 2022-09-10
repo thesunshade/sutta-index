@@ -61,6 +61,11 @@ input::placeholder {
   input {
     max-width: 9rem;
   }
+
+  .radio-items {
+    display: flex;
+    flex-direction: column;
+  }
 }
 
 .hidden {
@@ -72,6 +77,8 @@ button {
   background: none;
   border: none */
 }
+
+
 
 .sutta-index {
   margin-left: 1rem;

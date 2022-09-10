@@ -84,7 +84,7 @@ function App() {
               localStorage.destination = e.target.value;
             }}
           >
-            <div>
+            <div className="radio-items">
               <span className="button-title"></span>
               Open in:
               <label>
