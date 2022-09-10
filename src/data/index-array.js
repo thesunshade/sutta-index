@@ -7665,9 +7665,139 @@ export const indexArray =`[
           "gifts, specific types of"
      ],
      [
+          "Vv6.10",
+          "as a deva",
+          "Uttara, servant of Pāyāsi"
+     ],
+     [
           "Vv6.3",
           "fruit",
           "gifts, specific types of"
+     ],
+     [
+          "Vv7.1",
+          "caring for",
+          "parents"
+     ],
+     [
+          "Vv7.10",
+          "reborn as Serissaka deva",
+          "Pāyāsi king"
+     ],
+     [
+          "Vv7.10",
+          "",
+          "travel"
+     ],
+     [
+          "Vv7.10",
+          "giving advice",
+          "devas"
+     ],
+     [
+          "Vv7.11",
+          "cleaning",
+          "stupa (thupa)"
+     ],
+     [
+          "Vv7.11",
+          "small amounts give big results",
+          "merit (puññā)"
+     ],
+     [
+          "Vv7.2",
+          "caring for",
+          "parents"
+     ],
+     [
+          "Vv7.3",
+          "planting",
+          "trees"
+     ],
+     [
+          "Vv7.3",
+          "monastery",
+          "gifts, specific types of"
+     ],
+     [
+          "Vv7.4",
+          "monastery",
+          "gifts, specific types of"
+     ],
+     [
+          "Vv7.5",
+          "bath",
+          "gifts, specific types of"
+     ],
+     [
+          "Vv7.5",
+          "getting a bath",
+          "Sāriputta, Ven."
+     ],
+     [
+          "Vv7.5",
+          "ingenuity while making",
+          "merit (puññā)"
+     ],
+     [
+          "Vv7.6",
+          "ingenuity while making",
+          "merit (puññā)"
+     ],
+     [
+          "Vv7.7",
+          "Bodhisatta’s horse",
+          "Kanthaka deva"
+     ],
+     [
+          "Vv7.7",
+          "great renunciation",
+          "Bodhisatta"
+     ],
+     [
+          "Vv7.8",
+          "encouraging others to",
+          "worshiping (vandati)"
+     ],
+     [
+          "Vv7.8",
+          "worshiping",
+          "stupa (thupa)"
+     ],
+     [
+          "Vv7.9",
+          "",
+          "Maṭṭakuṇḍalī"
+     ],
+     [
+          "Vv7.9",
+          "giving advice",
+          "devas"
+     ],
+     [
+          "Vv7.9",
+          "visiting beings about to die",
+          "Buddha, the"
+     ],
+     [
+          "Vv7.9",
+          "leading to heaven",
+          "worshiping (vandati)"
+     ],
+     [
+          "Vv7.9",
+          "caring for",
+          "parents"
+     ],
+     [
+          "Vv7.9",
+          "cause of grief",
+          "death (maraṇa)"
+     ],
+     [
+          "Vv7.9",
+          "overcoming grief",
+          "death (maraṇa)"
      ],
      [
           "xref aging and death",

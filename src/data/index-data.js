@@ -401,7 +401,8 @@ export const indexData =`{
           "cause of grief": [
                "SN3.22",
                "SN42.11",
-               "MN87"
+               "MN87",
+               "Vv7.9"
           ],
           "comes quickly": [
                "AN7.74",
@@ -535,6 +536,9 @@ export const indexData =`{
           ],
           "of gods": [
                "Iti83"
+          ],
+          "overcoming grief": [
+               "Vv7.9"
           ]
      },
      "deathbed": {
@@ -1250,7 +1254,12 @@ export const indexData =`{
           ],
           "small amounts give big results": [
                "Vv5.3",
-               "Vv5.10"
+               "Vv5.10",
+               "Vv7.11"
+          ],
+          "ingenuity while making": [
+               "Vv7.5",
+               "Vv7.6"
           ]
      },
      "resolution/determination": {
@@ -1280,7 +1289,10 @@ export const indexData =`{
           "caring for": [
                "Kp5",
                "Kp8",
-               "Dhp332"
+               "Dhp332",
+               "Vv7.1",
+               "Vv7.2",
+               "Vv7.9"
           ],
           "honoring": [
                "Iti106"
@@ -1619,7 +1631,8 @@ export const indexData =`{
           "visiting beings about to die": [
                "Vv2.4",
                "Vv5.3",
-               "Vv4.12"
+               "Vv4.12",
+               "Vv7.9"
           ]
      },
      "Dhamma": {
@@ -3439,6 +3452,12 @@ export const indexData =`{
           ],
           "": [
                "xref offerings"
+          ],
+          "worshiping": [
+               "Vv7.8"
+          ],
+          "cleaning": [
+               "Vv7.11"
           ]
      },
      "Bāhiya of the bark cloth": {
@@ -3592,6 +3611,9 @@ export const indexData =`{
           ],
           "birth of": [
                "Snp3.11"
+          ],
+          "great renunciation": [
+               "Vv7.7"
           ]
      },
      "gradual instruction": {
@@ -4510,6 +4532,9 @@ export const indexData =`{
      "Sāriputta, Ven.": {
           "as inquirer": [
                "Snp4.16"
+          ],
+          "getting a bath": [
+               "Vv7.5"
           ]
      },
      "Bāvari, ascetic": {
@@ -4560,6 +4585,10 @@ export const indexData =`{
           ],
           "psychic powers": [
                "Vv3.9"
+          ],
+          "giving advice": [
+               "Vv7.9",
+               "Vv7.10"
           ]
      },
      "gifts, specific types of": {
@@ -4601,7 +4630,9 @@ export const indexData =`{
           ],
           "monastery": [
                "Vv4.6",
-               "Vv4.8"
+               "Vv4.8",
+               "Vv7.3",
+               "Vv7.4"
           ],
           "needle": [
                "Vv5.8",
@@ -4615,6 +4646,9 @@ export const indexData =`{
           ],
           "fruit": [
                "Vv6.3"
+          ],
+          "bath": [
+               "Vv7.5"
           ]
      },
      "fidelity in marriage": {
@@ -4631,7 +4665,11 @@ export const indexData =`{
      "worshiping (vandati)": {
           "leading to heaven": [
                "Vv2.4",
-               "Vv4.11"
+               "Vv4.11",
+               "Vv7.9"
+          ],
+          "encouraging others to": [
+               "Vv7.8"
           ]
      },
      "wives": {
@@ -4697,6 +4735,36 @@ export const indexData =`{
      "Kassapa, Buddha": {
           "": [
                "Vv5.14"
+          ]
+     },
+     "Uttara, servant of Pāyāsi": {
+          "as a deva": [
+               "Vv6.10"
+          ]
+     },
+     "trees": {
+          "planting": [
+               "Vv7.3"
+          ]
+     },
+     "Kanthaka deva": {
+          "Bodhisatta’s horse": [
+               "Vv7.7"
+          ]
+     },
+     "Maṭṭakuṇḍalī": {
+          "": [
+               "Vv7.9"
+          ]
+     },
+     "Pāyāsi king": {
+          "reborn as Serissaka deva": [
+               "Vv7.10"
+          ]
+     },
+     "travel": {
+          "": [
+               "Vv7.10"
           ]
      }
 }`
