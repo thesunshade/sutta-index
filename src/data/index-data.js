@@ -215,7 +215,9 @@ export const indexData =`{
                "AN8.39"
           ],
           "preventing": [
-               "AN3.57"
+               "AN3.57",
+               "Pv2.7",
+               "Pv2.9"
           ],
           "purifying": [
                "AN4.78",
@@ -365,6 +367,9 @@ export const indexData =`{
           "small amount": [
                "Vv5.8",
                "Vv5.9"
+          ],
+          "to ordinary people less fruitful than gifts to Saṅgha": [
+               "Pv2.9"
           ]
      },
      "stinginess": {
@@ -403,7 +408,8 @@ export const indexData =`{
                "SN3.22",
                "SN42.11",
                "MN87",
-               "Vv7.9"
+               "Vv7.9",
+               "Pv2.6"
           ],
           "comes quickly": [
                "AN7.74",
@@ -414,7 +420,8 @@ export const indexData =`{
                "Ud1.10",
                "Ud5.3",
                "MN140",
-               "Ud5.3"
+               "Ud5.3",
+               "Vv4.9"
           ],
           "danger of": [
                "SN1.3",
@@ -457,7 +464,8 @@ export const indexData =`{
                "Snp3.8",
                "SN4.9",
                "Thag6.13",
-               "AN7.74"
+               "AN7.74",
+               "Snp3.8"
           ],
           "King of": [
                "SN4.25",
@@ -509,7 +517,8 @@ export const indexData =`{
                "MN26"
           ],
           "universality of": [
-               "AN5.48"
+               "AN5.48",
+               "Pv2.6"
           ],
           "leaving all behind": [
                "Kp8"
@@ -538,8 +547,15 @@ export const indexData =`{
           "of gods": [
                "Iti83"
           ],
+          "like dream gone when waking are the dead": [
+               "Snp.4.6"
+          ],
           "overcoming grief": [
-               "Vv7.9"
+               "Vv7.9",
+               "Pv2.6"
+          ],
+          "wise response to": [
+               "Pv1.12"
           ]
      },
      "deathbed": {
@@ -624,7 +640,7 @@ export const indexData =`{
                "MN52"
           ],
           "as factor of uposatha": [
-               "AN9.19"
+               "AN9.18"
           ],
           "for a fingersnap": [
                "AN1.53",
@@ -754,6 +770,9 @@ export const indexData =`{
           ],
           "result of": [
                "Dhp133"
+          ],
+          "rebirth in ghost realm": [
+               "Pv2.3"
           ]
      },
      "listening to Dhamma": {
@@ -819,8 +838,7 @@ export const indexData =`{
                "xref right speech (sammāvācā)",
                "xref wrong speech (micchāvacā)",
                "xref false speech",
-               "xref harsh speech",
-               "xref admonishment"
+               "xref harsh speech"
           ],
           "beneficial": [
                "AN5.198",
@@ -1299,10 +1317,14 @@ export const indexData =`{
           "grounds for making": [
                "Iti60"
           ],
+          "like relatives greeting us after long journey": [
+               "Vv5.2"
+          ],
           "small amounts give big results": [
                "Vv5.3",
                "Vv5.10",
-               "Vv7.11"
+               "Vv7.11",
+               "Pv2.9"
           ],
           "ingenuity while making": [
                "Vv7.5",
@@ -1481,6 +1503,9 @@ export const indexData =`{
           ],
           "of arahants": [
                "Ud4.9"
+          ],
+          "to those who have helped": [
+               "Pv2.9"
           ]
      },
      "patience": {
@@ -1742,7 +1767,9 @@ export const indexData =`{
           ],
           "best recipient": [
                "Dhp356–59",
-               "Snp3.7"
+               "Snp3.7",
+               "Pv2.8",
+               "Pv2.9"
           ],
           "guarding precepts": [
                "Ud5.5"
@@ -1764,6 +1791,9 @@ export const indexData =`{
           ],
           "best of groups": [
                "Iti90"
+          ],
+          "giving to the Saṅgha": [
+               "Pv2.1"
           ]
      },
      "concentration (samādhi)": {
@@ -1850,7 +1880,8 @@ export const indexData =`{
      "ghosts": {
           "sharing merit with": [
                "Kp7",
-               "Pv1.10"
+               "Pv1.10",
+               "Pv2.1"
           ],
           "": [
                "xref departed relatives",
@@ -1871,13 +1902,15 @@ export const indexData =`{
                "Pv1.11"
           ],
           "giving advice": [
-               "Pv1.11"
+               "Pv1.11",
+               "Pv2.7"
           ]
      },
      "ghost realm": {
           "qualities of": [
                "Kp7",
-               "Pv1.5"
+               "Pv1.5",
+               "Pv2.2"
           ],
           "food in": [
                "Pv1.9"
@@ -1909,7 +1942,8 @@ export const indexData =`{
                "Snp3.8",
                "Vv7.9",
                "Pv1.8",
-               "Pv1.12"
+               "Pv1.12",
+               "Pv2.6"
           ],
           "useless of": [
                "Pv1.4"
@@ -2259,6 +2293,9 @@ export const indexData =`{
           ],
           "": [
                "Snp2.2"
+          ],
+          "small amounts give big results": [
+               "Pv2.9"
           ]
      },
      "good actions": {
@@ -2662,12 +2699,15 @@ export const indexData =`{
           ]
      },
      "harming a good person": {
-          "simile of dust in wind": [
+          "like dust thrown into the wind": [
                "Dhp125",
-               "Snp3.10"
+               "Pv2.9"
           ],
           "": [
                "Iti89"
+          ],
+          "simile of dust in wind": [
+               "Snp3.10"
           ]
      },
      "karma": {
@@ -2900,6 +2940,9 @@ export const indexData =`{
                "Dhp209",
                "Ud2.4",
                "Ud4.8"
+          ],
+          "rebirth in ghost realm": [
+               "Pv2.3"
           ]
      },
      "love (piya)": {
@@ -4470,20 +4513,6 @@ export const indexData =`{
                "Snp5.1"
           ]
      },
-     "death": {
-          "inevitability of": [
-               "Snp3.8"
-          ],
-          "like dream gone when waking are the dead": [
-               "Snp.4.6"
-          ],
-          "by cow": [
-               "Vv4.9"
-          ],
-          "wise response to": [
-               "Pv1.12"
-          ]
-     },
      "Kokālika": {
           "criticizes chief disciples": [
                "Snp3.10"
@@ -4610,6 +4639,10 @@ export const indexData =`{
           ],
           "getting a bath": [
                "Vv7.5"
+          ],
+          "helps a ghost": [
+               "Pv2.1",
+               "Pv2.2"
           ]
      },
      "Bāvari, ascetic": {
@@ -4778,11 +4811,6 @@ export const indexData =`{
                "Vv5.1"
           ]
      },
-     "merit": {
-          "like relatives greeting us after long journey": [
-               "Vv5.2"
-          ]
-     },
      "tours": {
           "of heaven": [
                "Vv5.2"
@@ -4868,6 +4896,22 @@ export const indexData =`{
           "causing someone elses": [
                "Pv1.6",
                "Pv1.7"
+          ]
+     },
+     "wealthy people": {
+          "not giving": [
+               "Pv2.7",
+               "Pv2.8"
+          ]
+     },
+     "hand that juice flows from": {
+          "": [
+               "Pv2.9"
+          ]
+     },
+     "sadness": {
+          "from having no one to give to": [
+               "Pv2.9"
           ]
      }
 }`

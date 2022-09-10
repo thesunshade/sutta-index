@@ -1100,7 +1100,7 @@ export const indexArray =`[
           "loving-kindness (mettā)"
      ],
      [
-          "AN9.19",
+          "AN9.18",
           "as factor of uposatha",
           "loving-kindness (mettā)"
      ],
@@ -1296,7 +1296,7 @@ export const indexArray =`[
      ],
      [
           "Dhp125",
-          "simile of dust in wind",
+          "like dust thrown into the wind",
           "harming a good person"
      ],
      [
@@ -4652,7 +4652,7 @@ export const indexArray =`[
      [
           "Pv1.12",
           "wise response to",
-          "death"
+          "death (maraṇa)"
      ],
      [
           "Pv1.12",
@@ -4792,6 +4792,131 @@ export const indexArray =`[
      [
           "Pv1.9",
           "criticizing",
+          "giving (dāna)"
+     ],
+     [
+          "Pv2.1",
+          "helps a ghost",
+          "Sāriputta, Ven."
+     ],
+     [
+          "Pv2.1",
+          "giving to the Saṅgha",
+          "Saṅgha"
+     ],
+     [
+          "Pv2.1",
+          "sharing merit with",
+          "ghosts"
+     ],
+     [
+          "Pv2.2",
+          "helps a ghost",
+          "Sāriputta, Ven."
+     ],
+     [
+          "Pv2.2",
+          "qualities of",
+          "ghost realm"
+     ],
+     [
+          "Pv2.3",
+          "rebirth in ghost realm",
+          "harsh speech"
+     ],
+     [
+          "Pv2.3",
+          "rebirth in ghost realm",
+          "jealousy"
+     ],
+     [
+          "Pv2.6",
+          "universality of",
+          "death (maraṇa)"
+     ],
+     [
+          "Pv2.6",
+          "cause of grief",
+          "death (maraṇa)"
+     ],
+     [
+          "Pv2.6",
+          "uselessness of",
+          "grieving"
+     ],
+     [
+          "Pv2.6",
+          "overcoming grief",
+          "death (maraṇa)"
+     ],
+     [
+          "Pv2.7",
+          "preventing",
+          "giving (dāna)"
+     ],
+     [
+          "Pv2.7",
+          "not giving",
+          "wealthy people"
+     ],
+     [
+          "Pv2.7",
+          "giving advice",
+          "ghosts"
+     ],
+     [
+          "Pv2.8",
+          "not giving",
+          "wealthy people"
+     ],
+     [
+          "Pv2.8",
+          "best recipient",
+          "Saṅgha"
+     ],
+     [
+          "Pv2.9",
+          "to those who have helped",
+          "gratitude"
+     ],
+     [
+          "Pv2.9",
+          "like dust thrown into the wind",
+          "harming a good person"
+     ],
+     [
+          "Pv2.9",
+          "small amounts give big results ",
+          "merit (puññā)"
+     ],
+     [
+          "Pv2.9",
+          "",
+          "hand that juice flows from "
+     ],
+     [
+          "Pv2.9",
+          "small amounts give big results",
+          "bad actions"
+     ],
+     [
+          "Pv2.9",
+          "from having no one to give to",
+          "sadness"
+     ],
+     [
+          "Pv2.9",
+          "preventing",
+          "giving (dāna)"
+     ],
+     [
+          "Pv2.9",
+          "best recipient",
+          "Saṅgha"
+     ],
+     [
+          "Pv2.9",
+          "to ordinary people less fruitful than gifts to Saṅgha",
           "giving (dāna)"
      ],
      [
@@ -5332,7 +5457,7 @@ export const indexArray =`[
      [
           "Snp.4.6",
           "like dream gone when waking are the dead",
-          "death"
+          "death (maraṇa)"
      ],
      [
           "Snp.4.6",
@@ -6222,7 +6347,7 @@ export const indexArray =`[
      [
           "Snp3.8",
           "inevitability of",
-          "death"
+          "death (maraṇa)"
      ],
      [
           "Snp3.8",
@@ -7707,7 +7832,7 @@ export const indexArray =`[
      [
           "Vv4.9",
           "by cow ",
-          "death"
+          "death (maraṇa)"
      ],
      [
           "Vv4.9",
@@ -7782,7 +7907,7 @@ export const indexArray =`[
      [
           "Vv5.2",
           "like relatives greeting us after long journey",
-          "merit "
+          "merit (puññā)"
      ],
      [
           "Vv5.2",
@@ -7998,11 +8123,6 @@ export const indexArray =`[
           "Vv7.9",
           "overcoming grief",
           "death (maraṇa)"
-     ],
-     [
-          "xref admonishment",
-          "",
-          "speech"
      ],
      [
           "xref aging and death",
