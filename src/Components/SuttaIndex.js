@@ -11,13 +11,7 @@ export default function SuttaIndex(props) {
     <div className="sutta-index">
       {headwordsArray.map(headword => {
         return (
-          <Headword
-            key={headword}
-            headword={headword}
-            headwordObject={index[headword]}
-            destination={destination}
-            filterByText={filterByText}
-          />
+          <Headword key={headword} headword={headword} headwordObject={index[headword]} filterByText={filterByText} />
         );
       })}
     </div>

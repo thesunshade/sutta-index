@@ -4,7 +4,7 @@ import makeNormalizedId from "../functions/makeNormalizedId";
 import KeyWord from "./KeyWord";
 
 export default function Headword(props) {
-  const { headword, headwordObject, destination, filterByText } = props;
+  const { headword, headwordObject, filterByText } = props;
   const sortedSubWords = sortedKeys(headwordObject);
   const headwordDataString = JSON.stringify(headwordObject) + headword;
   const regex = new RegExp(filterByText, "i");
@@ -17,11 +17,7 @@ export default function Headword(props) {
           <KeyWord filterByText={filterByText} stringToHighlight={headword} />
         </span>
         {headwordObject.hasOwnProperty("") ? (
-          <LocatorList
-            headwordSubCount={sortedSubWords.length}
-            locatorArray={headwordObject[""]}
-            destination={destination}
-          />
+          <LocatorList headwordSubCount={sortedSubWords.length} locatorArray={headwordObject[""]} />
         ) : (
           ""
         )}
@@ -31,7 +27,7 @@ export default function Headword(props) {
         return (
           <div className="sub-word" key={subhead}>
             <KeyWord filterByText={filterByText} stringToHighlight={subhead} />{" "}
-            <LocatorList locatorArray={headwordObject[subhead]} destination={destination} />
+            <LocatorList locatorArray={headwordObject[subhead]} />
           </div>
         );
       })}

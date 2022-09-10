@@ -2,7 +2,7 @@ import sortCitations from "../functions/sortCitations";
 import Locator from "./Locator";
 
 export default function LocatorList(props) {
-  const { locatorArray, headwordSubCount, destination } = props;
+  const { locatorArray, headwordSubCount } = props;
   const sortedLocatorArray = sortCitations(locatorArray);
   return (
     <>
@@ -13,7 +13,6 @@ export default function LocatorList(props) {
             location={locator}
             headwordSubCount={headwordSubCount}
             locatorListCount={sortedLocatorArray.length}
-            destination={destination}
           />
         );
       })}
