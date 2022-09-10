@@ -1,2 +1,9 @@
 - [ ] remove non-letter characters from filter terms
-- [ ] clearing filter should put curson in input field
+- [x] ESC should clear filter should put curson in input field
+- [ ] clicking a xref should clear filter and input field.
+- [ ] http://localhost:3000/#perception-of-ugliness-asubhasanna) should not have )
+- [ ] fuzz filtering
+
+- [ ] split locators into array of citations and an array of xrefs
+- [ ] deal with commas in citation list
+- [ ] make single "see also" at start of semicolon separated list of xrefs

@@ -81,8 +81,8 @@ export const indexArray =`[
      ],
      [
           "AN10.44",
-          "admonishment",
-          "speech"
+          "",
+          "admonishment"
      ],
      [
           "AN10.44",
@@ -376,8 +376,8 @@ export const indexArray =`[
      ],
      [
           "AN4.42",
-          "answering questions",
-          "speech"
+          "",
+          "answering questions"
      ],
      [
           "AN4.53",
@@ -2501,7 +2501,7 @@ export const indexArray =`[
      ],
      [
           "Dhp40",
-          "simile of pot",
+          "like a pot",
           "body"
      ],
      [
@@ -4600,6 +4600,201 @@ export const indexArray =`[
           "loving-kindness (mettā)"
      ],
      [
+          "Pv",
+          "",
+          "ghosts"
+     ],
+     [
+          "Pv1.1",
+          "field of merit",
+          "Saṅgha"
+     ],
+     [
+          "Pv1.1",
+          "sharing merit with",
+          "departed relatives"
+     ],
+     [
+          "Pv1.10",
+          "dressed in hair",
+          "ghosts"
+     ],
+     [
+          "Pv1.10",
+          "sharing merit with",
+          "ghosts"
+     ],
+     [
+          "Pv1.10",
+          "cakes",
+          "gifts, specific types of"
+     ],
+     [
+          "Pv1.11",
+          "with hammers",
+          "ghosts"
+     ],
+     [
+          "Pv1.11",
+          "compared to parents",
+          "children"
+     ],
+     [
+          "Pv1.11",
+          "not making good use of",
+          "wealth"
+     ],
+     [
+          "Pv1.11",
+          "giving advice",
+          "ghosts"
+     ],
+     [
+          "Pv1.12",
+          "wise response to",
+          "death"
+     ],
+     [
+          "Pv1.12",
+          "wise do not",
+          "grieving"
+     ],
+     [
+          "Pv1.12",
+          "like a snake’s skin shed",
+          "body"
+     ],
+     [
+          "Pv1.12",
+          "uselessness of",
+          "grieving"
+     ],
+     [
+          "Pv1.13",
+          "like a pot",
+          "body"
+     ],
+     [
+          "Pv1.2",
+          "results of",
+          "wrong speech (micchāvacā)"
+     ],
+     [
+          "Pv1.3",
+          "reborn as ghost",
+          "monastic"
+     ],
+     [
+          "Pv1.3",
+          "results of",
+          "wrong speech (micchāvacā)"
+     ],
+     [
+          "Pv1.4",
+          "sharing merit with",
+          "departed relatives"
+     ],
+     [
+          "Pv1.4",
+          "sharing merit with",
+          "gods"
+     ],
+     [
+          "Pv1.4",
+          "useless of",
+          "grieving"
+     ],
+     [
+          "Pv1.4",
+          "immediate effect",
+          "merit sharing"
+     ],
+     [
+          "Pv1.5",
+          "returning as ghosts",
+          "departed relatives"
+     ],
+     [
+          "Pv1.5",
+          "sharing merit with",
+          "departed relatives"
+     ],
+     [
+          "Pv1.5",
+          "qualities of",
+          "ghost realm"
+     ],
+     [
+          "Pv1.5",
+          "like rain reaching the oceans",
+          "sharing merit"
+     ],
+     [
+          "Pv1.5",
+          "as a source of merit itself",
+          "sharing merit"
+     ],
+     [
+          "Pv1.6",
+          "false oath",
+          "speech"
+     ],
+     [
+          "Pv1.6",
+          "causing someone elses",
+          "abortion"
+     ],
+     [
+          "Pv1.6",
+          "child eating",
+          "ghosts"
+     ],
+     [
+          "Pv1.6",
+          "hunger",
+          "ghosts"
+     ],
+     [
+          "Pv1.7",
+          "false oath",
+          "speech"
+     ],
+     [
+          "Pv1.7",
+          "causing someone elses",
+          "abortion"
+     ],
+     [
+          "Pv1.7",
+          "child eating",
+          "ghosts"
+     ],
+     [
+          "Pv1.7",
+          "hunger",
+          "ghosts"
+     ],
+     [
+          "Pv1.8",
+          "overcoming",
+          "grieving"
+     ],
+     [
+          "Pv1.8",
+          "uselessness of",
+          "grieving"
+     ],
+     [
+          "Pv1.9",
+          "food in",
+          "ghost realm"
+     ],
+     [
+          "Pv1.9",
+          "criticizing",
+          "giving (dāna)"
+     ],
+     [
           "SN1.20",
           "",
           "death (maraṇa)"
@@ -4841,8 +5036,8 @@ export const indexArray =`[
      ],
      [
           "SN22.3",
-          "disputes about Dhamma",
-          "speech"
+          "about Dhamma",
+          "disputes"
      ],
      [
           "SN29.11–50",
@@ -5056,8 +5251,8 @@ export const indexArray =`[
      ],
      [
           "SN56.9",
-          "disputes about Dhamma",
-          "speech"
+          "about Dhamma",
+          "disputes"
      ],
      [
           "SN6.10",
@@ -5076,8 +5271,8 @@ export const indexArray =`[
      ],
      [
           "SN6.9",
-          "defamation",
-          "speech"
+          "",
+          "defamation"
      ],
      [
           "SN6.9",
@@ -6031,7 +6226,7 @@ export const indexArray =`[
      ],
      [
           "Snp3.8",
-          "simile of pot",
+          "like a pot",
           "body"
      ],
      [
@@ -6181,8 +6376,8 @@ export const indexArray =`[
      ],
      [
           "Snp4.3",
-          "disputes about Dhamma",
-          "speech"
+          "about Dhamma",
+          "disputes"
      ],
      [
           "Snp4.4",
@@ -6191,8 +6386,8 @@ export const indexArray =`[
      ],
      [
           "Snp4.5",
-          "disputes about Dhamma",
-          "speech"
+          "about Dhamma",
+          "disputes"
      ],
      [
           "Snp4.5",
@@ -7796,8 +7991,18 @@ export const indexArray =`[
      ],
      [
           "Vv7.9",
+          "uselessness of",
+          "grieving"
+     ],
+     [
+          "Vv7.9",
           "overcoming grief",
           "death (maraṇa)"
+     ],
+     [
+          "xref admonishment",
+          "",
+          "speech"
      ],
      [
           "xref aging and death",
@@ -7808,6 +8013,11 @@ export const indexArray =`[
           "xref alms food",
           "",
           "giving (dāna)"
+     ],
+     [
+          "xref answering questions",
+          "",
+          "speech"
      ],
      [
           "xref arahant",
@@ -7845,6 +8055,21 @@ export const indexArray =`[
           "realm of death (maccudheyya)"
      ],
      [
+          "xref defamation",
+          "",
+          "speech"
+     ],
+     [
+          "xref departed relatives",
+          "",
+          "merit, sharing"
+     ],
+     [
+          "xref departed relatives",
+          "",
+          "ghosts"
+     ],
+     [
           "xref dependent origination",
           "",
           "death (maraṇa)"
@@ -7868,6 +8093,11 @@ export const indexArray =`[
           "xref Dhamma teaching",
           "",
           "teaching Dhamma"
+     ],
+     [
+          "xref disputes",
+          "",
+          "speech"
      ],
      [
           "xref disputes",
@@ -7973,6 +8203,11 @@ export const indexArray =`[
           "xref mendicant",
           "",
           "monk"
+     ],
+     [
+          "xref merit sharing",
+          "",
+          "sharing merit"
      ],
      [
           "xref monastic life",

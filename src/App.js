@@ -24,6 +24,14 @@ function App() {
     }
   }
 
+  window.addEventListener("keydown", event => {
+    if (event.key === "Escape") {
+      setFilterInput("");
+      setFilterByText("");
+      document.getElementById("user-input").focus();
+    }
+  });
+
   function updateFilterByText(inputText) {
     setFilterInput(inputText);
     if (inputText.length > 2) {
@@ -34,7 +42,7 @@ function App() {
   }
 
   return (
-    <div className="App">
+    <div id="app" className="App">
       <div className="settings-bar">
         <div className="top-row">
           <div className="filter-area">

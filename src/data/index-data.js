@@ -353,7 +353,8 @@ export const indexData =`{
           "criticizing": [
                "Vv3.1",
                "Vv3.2",
-               "Vv4.10"
+               "Vv4.10",
+               "Pv1.9"
           ],
           "leads to heaven": [
                "Vv3.1"
@@ -807,14 +808,19 @@ export const indexData =`{
           "about others": [
                "AN4.73"
           ],
-          "admonishment": [
-               "AN10.44"
-          ],
           "and volition": [
                "AN10.217"
           ],
-          "answering questions": [
-               "AN4.42"
+          "": [
+               "xref answering questions",
+               "xref defamation",
+               "xref disputes",
+               "xref divisive speech",
+               "xref right speech (sammāvācā)",
+               "xref wrong speech (micchāvacā)",
+               "xref false speech",
+               "xref harsh speech",
+               "xref admonishment"
           ],
           "beneficial": [
                "AN5.198",
@@ -835,27 +841,11 @@ export const indexData =`{
                "AN4.250–53",
                "AN8.68–9"
           ],
-          "defamation": [
-               "SN6.9"
-          ],
           "denigration": [
                "AN4.84"
           ],
           "Dhamma": [
                "AN3.69"
-          ],
-          "disputes about Dhamma": [
-               "SN22.3",
-               "SN56.9",
-               "Snp4.3",
-               "Snp4.5"
-          ],
-          "": [
-               "xref divisive speech",
-               "xref right speech (sammāvācā)",
-               "xref wrong speech (micchāvacā)",
-               "xref false speech",
-               "xref harsh speech"
           ],
           "factor for rebirth": [
                "AN4.82–3",
@@ -1020,6 +1010,23 @@ export const indexData =`{
           ],
           "easy to speak to": [
                "Kp9"
+          ],
+          "false oath": [
+               "Pv1.6",
+               "Pv1.7"
+          ]
+     },
+     "admonishment": {
+          "": [
+               "AN10.44"
+          ],
+          "being easy to": [
+               "Kp5"
+          ]
+     },
+     "answering questions": {
+          "": [
+               "AN4.42"
           ]
      },
      "boasting": {
@@ -1033,6 +1040,35 @@ export const indexData =`{
                "SN6.9",
                "SN6.10",
                "Snp3.10"
+          ]
+     },
+     "defamation": {
+          "": [
+               "SN6.9"
+          ],
+          "of the Buddha": [
+               "Ud4.8"
+          ]
+     },
+     "disputes": {
+          "about Dhamma": [
+               "SN22.3",
+               "SN56.9",
+               "Snp4.3",
+               "Snp4.5"
+          ],
+          "over views": [
+               "Ud6.4–6",
+               "Snp4.8",
+               "Snp4.9",
+               "Snp4.12",
+               "Snp4.13"
+          ],
+          "over a woman": [
+               "Ud6.8"
+          ],
+          "cause of": [
+               "Snp4.11"
           ]
      },
      "divisive speech": {
@@ -1068,6 +1104,10 @@ export const indexData =`{
                "AN10.211",
                "MN60",
                "MN117"
+          ],
+          "results of": [
+               "Pv1.2",
+               "Pv1.3"
           ]
      },
      "refuges": {
@@ -1096,9 +1136,10 @@ export const indexData =`{
           "thirty-two parts": [
                "Kp3"
           ],
-          "simile of pot": [
+          "like a pot": [
                "Dhp40",
-               "Snp3.8"
+               "Snp3.8",
+               "Pv1.13"
           ],
           "simile of foam": [
                "Dhp46"
@@ -1108,6 +1149,9 @@ export const indexData =`{
           ],
           "": [
                "xref perception of ugliness (asubhasañña)"
+          ],
+          "like a snake’s skin shed": [
+               "Pv1.12"
           ]
      },
      "food": {
@@ -1193,6 +1237,9 @@ export const indexData =`{
           "": [
                "xref devas",
                "xref brahmās"
+          ],
+          "sharing merit with": [
+               "Pv1.4"
           ]
      },
      "blessings (maṅgala)": {
@@ -1307,7 +1354,8 @@ export const indexData =`{
                "Kp5"
           ],
           "compared to parents": [
-               "Iti74"
+               "Iti74",
+               "Pv1.11"
           ],
           "": [
                "xref loved ones"
@@ -1442,11 +1490,6 @@ export const indexData =`{
           ],
           "as austerity": [
                "Dhp184"
-          ]
-     },
-     "admonishment": {
-          "being easy to": [
-               "Kp5"
           ]
      },
      "association": {
@@ -1694,7 +1737,8 @@ export const indexData =`{
                "Kp6"
           ],
           "field of merit": [
-               "Kp7"
+               "Kp7",
+               "Pv1.1"
           ],
           "best recipient": [
                "Dhp356–59",
@@ -1785,7 +1829,10 @@ export const indexData =`{
      },
      "departed relatives": {
           "sharing merit with": [
-               "Kp7"
+               "Kp7",
+               "Pv1.1",
+               "Pv1.4",
+               "Pv1.5"
           ],
           "compassion towards": [
                "Kp7"
@@ -1795,16 +1842,45 @@ export const indexData =`{
           ],
           "duty towards": [
                "Kp7"
+          ],
+          "returning as ghosts": [
+               "Pv1.5"
           ]
      },
      "ghosts": {
           "sharing merit with": [
-               "Kp7"
+               "Kp7",
+               "Pv1.10"
+          ],
+          "": [
+               "xref departed relatives",
+               "Pv"
+          ],
+          "child eating": [
+               "Pv1.6",
+               "Pv1.7"
+          ],
+          "hunger": [
+               "Pv1.6",
+               "Pv1.7"
+          ],
+          "dressed in hair": [
+               "Pv1.10"
+          ],
+          "with hammers": [
+               "Pv1.11"
+          ],
+          "giving advice": [
+               "Pv1.11"
           ]
      },
      "ghost realm": {
           "qualities of": [
-               "Kp7"
+               "Kp7",
+               "Pv1.5"
+          ],
+          "food in": [
+               "Pv1.9"
           ]
      },
      "merit sharing": {
@@ -1813,6 +1889,9 @@ export const indexData =`{
           ],
           "simile of flowing rain": [
                "Kp7"
+          ],
+          "immediate effect": [
+               "Pv1.4"
           ]
      },
      "grieving": {
@@ -1823,10 +1902,20 @@ export const indexData =`{
                "Ud2.7"
           ],
           "wise do not": [
-               "Snp3.8"
+               "Snp3.8",
+               "Pv1.12"
           ],
           "uselessness of": [
-               "Snp3.8"
+               "Snp3.8",
+               "Vv7.9",
+               "Pv1.8",
+               "Pv1.12"
+          ],
+          "useless of": [
+               "Pv1.4"
+          ],
+          "overcoming": [
+               "Pv1.8"
           ]
      },
      "money": {
@@ -3586,11 +3675,6 @@ export const indexData =`{
                "Snp2.5"
           ]
      },
-     "defamation": {
-          "of the Buddha": [
-               "Ud4.8"
-          ]
-     },
      "rumors": {
           "": [
                "Ud4.8"
@@ -3740,21 +3824,6 @@ export const indexData =`{
           ],
           "honored when Buddhas don’t arise": [
                "Ud6.10"
-          ]
-     },
-     "disputes": {
-          "over views": [
-               "Ud6.4–6",
-               "Snp4.8",
-               "Snp4.9",
-               "Snp4.12",
-               "Snp4.13"
-          ],
-          "over a woman": [
-               "Ud6.8"
-          ],
-          "cause of": [
-               "Snp4.11"
           ]
      },
      "blind men and elephant": {
@@ -4315,6 +4384,9 @@ export const indexData =`{
      "wealth": {
           "gained by hard work": [
                "Snp1.10"
+          ],
+          "not making good use of": [
+               "Pv1.11"
           ]
      },
      "asubhasañña": {
@@ -4407,6 +4479,9 @@ export const indexData =`{
           ],
           "by cow": [
                "Vv4.9"
+          ],
+          "wise response to": [
+               "Pv1.12"
           ]
      },
      "Kokālika": {
@@ -4612,7 +4687,8 @@ export const indexData =`{
           ],
           "cakes": [
                "Vv1.13",
-               "Vv1.14"
+               "Vv1.14",
+               "Pv1.10"
           ],
           "sugarcane": [
                "Vv3.2",
@@ -4765,6 +4841,33 @@ export const indexData =`{
      "travel": {
           "": [
                "Vv7.10"
+          ]
+     },
+     "merit, sharing": {
+          "": [
+               "xref departed relatives"
+          ]
+     },
+     "monastic": {
+          "reborn as ghost": [
+               "Pv1.3"
+          ]
+     },
+     "sharing merit": {
+          "": [
+               "xref merit sharing"
+          ],
+          "like rain reaching the oceans": [
+               "Pv1.5"
+          ],
+          "as a source of merit itself": [
+               "Pv1.5"
+          ]
+     },
+     "abortion": {
+          "causing someone elses": [
+               "Pv1.6",
+               "Pv1.7"
           ]
      }
 }`

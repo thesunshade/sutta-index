@@ -11,7 +11,10 @@ export default function Locator(props) {
     const locationId = makeNormalizedId(location.replace("xref ", ""));
     return (
       <>
-        {xrefLabel} <a href={"#" + locationId}>{location.replace("xref ", "")}</a>
+        {xrefLabel}{" "}
+        <a href={"#" + locationId} onClick={() => console.log("hello")}>
+          {location.replace("xref ", "")}
+        </a>
       </>
     );
   }

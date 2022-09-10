@@ -343,9 +343,10 @@ speaking truth		AN3.28
 speaking truth		AN3.69
 speech	about oneself	AN4.73
 speech	about others	AN4.73
-speech	admonishment	AN10.44
+admonishment		AN10.44
 speech	and volition	AN10.217
-speech	answering questions	AN4.42
+speech		xref answering questions
+answering questions		AN4.42
 speech	beneficial	AN5.198
 speech	beneficial	MN58
 speech	best kind of	Thag21.1
@@ -357,11 +358,13 @@ criticizing noble ones		SN6.10
 speech	declarations	AN4.217–18
 speech	declarations	AN4.250–53
 speech	declarations	AN8.68–9
-speech	defamation	SN6.9
+speech		xref defamation
+defamation		SN6.9
 speech	denigration	AN4.84
 speech	Dhamma	AN3.69
-speech	disputes about Dhamma	SN22.3
-speech	disputes about Dhamma	SN56.9
+speech		xref disputes
+disputes	about Dhamma	SN22.3
+disputes	about Dhamma	SN56.9
 speech		xref divisive speech
 divisive speech		AN5.214
 divisive speech	results of	AN8.40
@@ -623,7 +626,7 @@ mind	tamed leads to happiness	Dhp35
 mind	as subtle	Dhp36
 mind	guarded leads to hppiness	Dhp36
 faith (saddhā)	lack of prevents wisdom	Dhp37
-body	simile of pot	Dhp40
+body	like a pot	Dhp40
 mind	simile of citadel	Dhp40
 death (maraṇa)	comes quickly	Dhp41
 mind	untrained worse than enemy	Dhp42
@@ -1385,7 +1388,7 @@ Buddhas	rarity of	Snp3.7
 Saṅgha	best recipient	Snp3.7
 Buddha, the	qualities of	Snp3.7
 death	inevitability of	Snp3.8
-body	simile of pot	Snp3.8
+body	like a pot	Snp3.8
 grieving	wise do not	Snp3.8
 grieving	uselessness of	Snp3.8
 illusion		Snp3.8
@@ -1429,9 +1432,9 @@ boat, bailed out	simile for escaping saṁsara	Snp4.1
 sense pleasures	of the past and future	Snp4.2
 attachment	like fish in dried-up stream	Snp4.2
 boasting		Snp4.3
-speech	disputes about Dhamma	Snp4.3
+disputes	about Dhamma	Snp4.3
 purity (suddhi)		Snp4.4
-speech	disputes about Dhamma	Snp4.5
+disputes	about Dhamma	Snp4.5
 conceit (māna)	and wrong views	Snp4.5
 aging		xref old age
 old age		Snp.4.6
@@ -1610,9 +1613,53 @@ Buddha, the	visiting beings about to die	Vv7.9
 worshiping (vandati)	leading to heaven	Vv7.9
 parents	caring for	Vv7.9
 death (maraṇa)	cause of grief	Vv7.9
+grieving	uselessness of	Vv7.9
 death (maraṇa)	overcoming grief	Vv7.9
 Pāyāsi king	reborn as Serissaka deva	Vv7.10
 travel		Vv7.10
 devas	giving advice	Vv7.10
 stupa (thupa)	cleaning	Vv7.11
 merit (puññā)	small amounts give big results	Vv7.11
+Saṅgha	field of merit	Pv1.1
+merit, sharing		xref departed relatives
+departed relatives	sharing merit with	Pv1.1
+ghosts		xref departed relatives
+wrong speech (micchāvacā)	results of	Pv1.2
+monastic	reborn as ghost	Pv1.3
+wrong speech (micchāvacā)	results of	Pv1.3
+departed relatives	sharing merit with	Pv1.4
+gods	sharing merit with	Pv1.4
+grieving	useless of	Pv1.4
+merit sharing	immediate effect	Pv1.4
+departed relatives	returning as ghosts	Pv1.5
+departed relatives	sharing merit with	Pv1.5
+ghost realm	qualities of	Pv1.5
+sharing merit		xref merit sharing
+sharing merit	like rain reaching the oceans	Pv1.5
+sharing merit	as a source of merit itself	Pv1.5
+ghosts		Pv
+speech	false oath	Pv1.6
+abortion	causing someone elses	Pv1.6
+ghosts	child eating	Pv1.6
+ghosts	hunger	Pv1.6
+speech	false oath	Pv1.7
+abortion	causing someone elses	Pv1.7
+ghosts	child eating	Pv1.7
+ghosts	hunger	Pv1.7
+grieving	overcoming	Pv1.8
+grieving	uselessness of	Pv1.8
+ghost realm	food in	Pv1.9
+giving (dāna)	criticizing	Pv1.9
+ghosts	dressed in hair	Pv1.10
+ghosts	sharing merit with	Pv1.10
+gifts, specific types of	cakes	Pv1.10
+ghosts	with hammers	Pv1.11
+children	compared to parents	Pv1.11
+wealth	not making good use of	Pv1.11
+ghosts	giving advice	Pv1.11
+death	wise response to	Pv1.12
+grieving	wise do not	Pv1.12
+body	like a snake’s skin shed	Pv1.12
+grieving	uselessness of	Pv1.12
+body	like a pot	Pv1.13
+speech		xref admonishment
