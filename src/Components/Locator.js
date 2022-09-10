@@ -38,10 +38,14 @@ export default function Locator(props) {
       url = `https://suttacentral.net/${stripRangesFromUrls(location)}/en/sujato`;
   }
 
+  function addHairSpace(location) {
+    return location.replace(/([A-Za-z])(\d)/, "$1 $2");
+  }
+
   return (
     <span>
       <a href={url} rel="noreferrer" target="_blank">
-        {location}
+        {addHairSpace(location)}
       </a>
       ,{" "}
     </span>

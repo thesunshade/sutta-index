@@ -13,7 +13,7 @@ body {
 }
 
 .settings-bar {
-  background-color: #c0c0c0;
+  background-color: orange;
   position: sticky;
   top: 0;
   width: 100%;
@@ -46,12 +46,13 @@ input {
   border: solid 1px black;
   font-size: 1rem;
   height: 1.2rem;
-  padding: .2rem
+  padding: .2rem;
+  background-color: orange;
 }
 
 input:focus {
   outline: none;
-  background-color: orange;
+  background-color: rgb(255, 243, 226);
 }
 
 input::placeholder {
@@ -120,7 +121,7 @@ a {
 }
 
 .stats {
-  background-color: rgb(227, 148, 0);
+  background-color: orange;
   color: white;
 
   margin-top: 2rem;
