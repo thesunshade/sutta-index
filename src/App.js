@@ -67,7 +67,7 @@ function App() {
           <button onClick={() => window.scrollTo(0, 0)}>^</button>
           <div className="settings-button">
             <img
-              width="15px"
+              width="17px"
               src={settingsIcon}
               alt="Settings Toggle"
               onClick={() => {
