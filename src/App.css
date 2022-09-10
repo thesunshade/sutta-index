@@ -57,6 +57,12 @@ input::placeholder {
   font-style: italic;
 }
 
+@media only screen and (max-width: 475px) {
+  input {
+    max-width: 7rem;
+  }
+}
+
 .hidden {
   display: none
 }
