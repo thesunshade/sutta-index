@@ -43,6 +43,9 @@ export default function Locator(props) {
     case "CH":
       url = `https://sutta.readingfaithfully.org/?q=${stripRangesFromUrls(location)}`;
       break;
+    case "SCV":
+      url = `https://voice.suttacentral.net/scv/index.html#/sutta?search=${stripRangesFromUrls(location)}`;
+      break;
     default:
       url = `https://suttacentral.net/${stripRangesFromUrls(location)}/en/sujato`;
   }

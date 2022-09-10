@@ -125,6 +125,15 @@ function App() {
                 />
                 SC Light
               </label>
+              <label>
+                <input
+                  type="radio"
+                  name="destination"
+                  value="SCV"
+                  defaultChecked={destination === "SCV" ? "checked" : ""}
+                />
+                SC Voice
+              </label>
             </div>
           </div>
         </div>
