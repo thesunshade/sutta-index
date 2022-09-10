@@ -58,6 +58,9 @@ export const indexData =`{
           "as a type of wealth": [
                "AN5.47",
                "AN7.6"
+          ],
+          "recollection of of ones own": [
+               "Vv4.6"
           ]
      },
      "reputation": {
@@ -291,12 +294,14 @@ export const indexData =`{
                "AN5.36",
                "AN8.37"
           ],
-          "value in smallest gift": [
+          "smallest gift has value": [
                "SN1.33",
                "AN3.57",
                "Iti26",
                "Vv1.10",
-               "Vv2.3"
+               "Vv2.3",
+               "Vv4.4",
+               "Vv4.9"
           ],
           "what to give": [
                "SN1.41",
@@ -347,7 +352,8 @@ export const indexData =`{
           ],
           "criticizing": [
                "Vv3.1",
-               "Vv3.2"
+               "Vv3.2",
+               "Vv4.10"
           ],
           "leads to heaven": [
                "Vv3.1"
@@ -754,6 +760,9 @@ export const indexData =`{
           ],
           "real reason for": [
                "Snp3.12"
+          ],
+          "by animal": [
+               "Vv5.1"
           ]
      },
      "lying": {
@@ -765,7 +774,8 @@ export const indexData =`{
                "Dhp223"
           ],
           "rebirth": [
-               "Dhp306"
+               "Dhp306",
+               "Vv5.2"
           ],
           "factor for rebirth": [
                "Ud4.8"
@@ -1059,6 +1069,9 @@ export const indexData =`{
           ],
           "seeing noble truths": [
                "Dhp190–92"
+          ],
+          "going for leads to heaven": [
+               "Vv5.3"
           ]
      },
      "precepts": {
@@ -1512,7 +1525,8 @@ export const indexData =`{
                "Vv3.8"
           ],
           "to stupa": [
-               "Vv3.9"
+               "Vv3.9",
+               "Vv4.9"
           ]
      },
      "triple gem": {
@@ -1589,6 +1603,11 @@ export const indexData =`{
           ],
           "cannot release someone": [
                "Snp5.6"
+          ],
+          "visiting beings about to die": [
+               "Vv2.4",
+               "Vv5.3",
+               "Vv4.12"
           ]
      },
      "Dhamma": {
@@ -1634,6 +1653,9 @@ export const indexData =`{
           ],
           "seeing sees the Buddha": [
                "Iti92"
+          ],
+          "sound of": [
+               "Vv5.1"
           ]
      },
      "Saṅgha": {
@@ -1696,7 +1718,7 @@ export const indexData =`{
                "Kp6"
           ]
      },
-     "stream-enterer": {
+     "stream-enterers": {
           "rebirth": [
                "Kp6"
           ],
@@ -1705,7 +1727,8 @@ export const indexData =`{
           ],
           "gods that have become": [
                "Vv1.16",
-               "Vv2.7"
+               "Vv2.7",
+               "Vv4.12"
           ]
      },
      "fetters (saṁyojana)": {
@@ -1867,7 +1890,8 @@ export const indexData =`{
                "Iti22"
           ],
           "not greatest happiness": [
-               "Vv2.3"
+               "Vv2.3",
+               "Vv4.5"
           ]
      },
      "heaven": {
@@ -2319,7 +2343,9 @@ export const indexData =`{
                "Dhp67-8"
           ],
           "over not making spiritual progress": [
-               "Vv2.7"
+               "Vv2.7",
+               "Vv4.2",
+               "Vv5.2"
           ]
      },
      "results of actions": {
@@ -4327,6 +4353,9 @@ export const indexData =`{
           ],
           "like dream gone when waking are the dead": [
                "Snp.4.6"
+          ],
+          "by cow": [
+               "Vv4.9"
           ]
      },
      "Kokālika": {
@@ -4495,9 +4524,10 @@ export const indexData =`{
           "with psychic powers": [
                "Vv1.16"
           ],
-          "stream enterers": [
+          "stream-enterers": [
                "Vv1.16",
-               "Vv2.7"
+               "Vv2.7",
+               "Vv4.12"
           ],
           "psychic powers": [
                "Vv3.9"
@@ -4527,13 +4557,22 @@ export const indexData =`{
                "Vv1.14"
           ],
           "sugarcane": [
-               "Vv3.2"
+               "Vv3.2",
+               "Vv4.10"
           ],
           "long list of": [
                "Vv3.5"
           ],
           "flowers": [
-               "Vv3.10"
+               "Vv3.10",
+               "Vv4.7"
+          ],
+          "robes": [
+               "Vv4.3"
+          ],
+          "monastery": [
+               "Vv4.6",
+               "Vv4.8"
           ]
      },
      "fidelity in marriage": {
@@ -4548,7 +4587,8 @@ export const indexData =`{
      },
      "worshiping (vandati)": {
           "leading to heaven": [
-               "Vv2.4"
+               "Vv2.4",
+               "Vv4.11"
           ]
      },
      "wives": {
@@ -4559,6 +4599,41 @@ export const indexData =`{
      "funeral": {
           "offerings at": [
                "Vv3.7"
+          ]
+     },
+     "rejoicing": {
+          "in someone else’s merit": [
+               "Vv4.6"
+          ]
+     },
+     "monastery": {
+          "": [
+               "xref gifts, specific types of"
+          ]
+     },
+     "suicide": {
+          "prevented": [
+               "Vv4.12"
+          ]
+     },
+     "animals": {
+          "listening to Dhamma": [
+               "Vv5.1"
+          ]
+     },
+     "merit": {
+          "like relatives greeting us after long journey": [
+               "Vv5.2"
+          ]
+     },
+     "tours": {
+          "of heaven": [
+               "Vv5.2"
+          ]
+     },
+     "Chattamāṇavaka": {
+          "": [
+               "Vv5.3"
           ]
      }
 }`

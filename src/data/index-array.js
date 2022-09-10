@@ -226,7 +226,7 @@ export const indexArray =`[
      ],
      [
           "AN3.57",
-          "value in smallest gift",
+          "smallest gift has value",
           "giving (dāna)"
      ],
      [
@@ -1582,7 +1582,7 @@ export const indexArray =`[
      [
           "Dhp178",
           "better than heaven",
-          "stream-enterer"
+          "stream-enterers"
      ],
      [
           "Dhp18",
@@ -3171,7 +3171,7 @@ export const indexArray =`[
      ],
      [
           "Iti26",
-          "value in smallest gift",
+          "smallest gift has value",
           "giving (dāna)"
      ],
      [
@@ -4067,7 +4067,7 @@ export const indexArray =`[
      [
           "Kp6",
           "rebirth",
-          "stream-enterer"
+          "stream-enterers"
      ],
      [
           "Kp6",
@@ -4636,7 +4636,7 @@ export const indexArray =`[
      ],
      [
           "SN1.33",
-          "value in smallest gift",
+          "smallest gift has value",
           "giving (dāna)"
      ],
      [
@@ -7191,7 +7191,7 @@ export const indexArray =`[
      ],
      [
           "Vv1.10",
-          "value in smallest gift",
+          "smallest gift has value",
           "giving (dāna)"
      ],
      [
@@ -7246,13 +7246,13 @@ export const indexArray =`[
      ],
      [
           "Vv1.16",
-          "stream enterers",
+          "stream-enterers",
           "devas"
      ],
      [
           "Vv1.16",
           "gods that have become",
-          "stream-enterer"
+          "stream-enterers"
      ],
      [
           "Vv1.17",
@@ -7326,13 +7326,18 @@ export const indexArray =`[
      ],
      [
           "Vv2.3",
-          "value in smallest gift",
+          "smallest gift has value",
           "giving (dāna)"
      ],
      [
           "Vv2.3",
           "not greatest happiness",
           "wheel-turning monarchs"
+     ],
+     [
+          "Vv2.4",
+          "visiting beings about to die",
+          "Buddha, the"
      ],
      [
           "Vv2.4",
@@ -7346,13 +7351,13 @@ export const indexArray =`[
      ],
      [
           "Vv2.7",
-          "stream enterers",
+          "stream-enterers",
           "devas"
      ],
      [
           "Vv2.7",
           "gods that have become",
-          "stream-enterer"
+          "stream-enterers"
      ],
      [
           "Vv3.1",
@@ -7418,6 +7423,151 @@ export const indexArray =`[
           "Vv3.9",
           "to stupa",
           "offerings"
+     ],
+     [
+          "Vv4.10",
+          "sugarcane",
+          "gifts, specific types of"
+     ],
+     [
+          "Vv4.10",
+          "criticizing",
+          "giving (dāna)"
+     ],
+     [
+          "Vv4.11",
+          "leading to heaven",
+          "worshiping (vandati)"
+     ],
+     [
+          "Vv4.12",
+          "prevented",
+          "suicide"
+     ],
+     [
+          "Vv4.12",
+          "gods that have become",
+          "stream-enterers"
+     ],
+     [
+          "Vv4.12",
+          "stream-enterers",
+          "devas"
+     ],
+     [
+          "Vv4.12",
+          "visiting beings about to die",
+          "Buddha, the"
+     ],
+     [
+          "Vv4.2",
+          "over not making spiritual progress",
+          "regret"
+     ],
+     [
+          "Vv4.3",
+          "robes",
+          "gifts, specific types of"
+     ],
+     [
+          "Vv4.4",
+          "smallest gift has value",
+          "giving (dāna)"
+     ],
+     [
+          "Vv4.5",
+          "not greatest happiness",
+          "wheel-turning monarchs"
+     ],
+     [
+          "Vv4.6",
+          "in someone else’s merit",
+          "rejoicing"
+     ],
+     [
+          "Vv4.6",
+          "monastery",
+          "gifts, specific types of"
+     ],
+     [
+          "Vv4.6",
+          "recollection of of ones own",
+          "generosity (cāga)"
+     ],
+     [
+          "Vv4.7",
+          "flowers",
+          "gifts, specific types of"
+     ],
+     [
+          "Vv4.8",
+          "monastery",
+          "gifts, specific types of"
+     ],
+     [
+          "Vv4.9",
+          "to stupa",
+          "offerings"
+     ],
+     [
+          "Vv4.9",
+          "by cow ",
+          "death"
+     ],
+     [
+          "Vv4.9",
+          "smallest gift has value",
+          "giving (dāna)"
+     ],
+     [
+          "Vv5.1",
+          "listening to Dhamma",
+          "animals"
+     ],
+     [
+          "Vv5.1",
+          "sound of",
+          "Dhamma"
+     ],
+     [
+          "Vv5.1",
+          "by animal",
+          "listening to Dhamma"
+     ],
+     [
+          "Vv5.2",
+          "like relatives greeting us after long journey",
+          "merit "
+     ],
+     [
+          "Vv5.2",
+          "of heaven",
+          "tours"
+     ],
+     [
+          "Vv5.2",
+          "rebirth",
+          "lying"
+     ],
+     [
+          "Vv5.2",
+          "over not making spiritual progress",
+          "regret"
+     ],
+     [
+          "Vv5.3",
+          "",
+          "Chattamāṇavaka"
+     ],
+     [
+          "Vv5.3",
+          "going for leads to heaven",
+          "refuges"
+     ],
+     [
+          "Vv5.3",
+          "visiting beings about to die",
+          "Buddha, the"
      ],
      [
           "xref aging and death",
@@ -7523,6 +7673,11 @@ export const indexArray =`[
           "xref generosity (cāga)",
           "",
           "giving (dāna)"
+     ],
+     [
+          "xref gifts, specific types of",
+          "",
+          "monastery"
      ],
      [
           "xref giving (dāna)",
