@@ -59,7 +59,7 @@ input::placeholder {
 
 @media only screen and (max-width: 475px) {
   input {
-    max-width: 7rem;
+    max-width: 9rem;
   }
 }
 
