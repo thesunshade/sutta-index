@@ -2,9 +2,11 @@ import "./App.css";
 import SuttaIndex from "./Components/SuttaIndex.js";
 import Stats from "./Components/Stats.js";
 import LocatorSortedTable from "./Components/LocatorSortedTable.js";
-import { useState } from "react";
+import { useState, createContext } from "react";
 import settingsIcon from "./images/settings.png";
 import randomSuggestion from "./functions/randomSuggestion";
+export const ContextDestination = createContext();
+export const ContextFilterSetters = createContext();
 
 function App() {
   const [destination, setDestination] = useState(localStorage.destination ? localStorage.destination : "SC");
@@ -128,7 +130,15 @@ function App() {
         </div>
       </div>
       {/* close settings bar */}
-      {isLocatorView ? <LocatorSortedTable /> : <SuttaIndex destination={destination} filterByText={filterByText} />}
+      {isLocatorView ? (
+        <LocatorSortedTable />
+      ) : (
+        <ContextFilterSetters.Provider value={[setFilterByText, setFilterInput]}>
+          <ContextDestination.Provider value={destination}>
+            <SuttaIndex filterByText={filterByText} />
+          </ContextDestination.Provider>
+        </ContextFilterSetters.Provider>
+      )}
 
       <Stats />
     </div>

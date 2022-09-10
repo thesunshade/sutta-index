@@ -1,8 +1,11 @@
 import makeNormalizedId from "../functions/makeNormalizedId";
+import { useContext } from "react";
+import { ContextDestination, ContextFilterSetters } from "../App.js";
 
 export default function Locator(props) {
-  let { location, locatorListCount, headwordSubCount, destination } = props;
-
+  let { location, locatorListCount, headwordSubCount } = props;
+  const destination = useContext(ContextDestination);
+  const [setFilterByText, setFilterInput] = useContext(ContextFilterSetters);
   if (location.match(/xref/)) {
     let xrefLabel = "see also";
     if (locatorListCount === 1 && headwordSubCount === 1) {
@@ -12,7 +15,13 @@ export default function Locator(props) {
     return (
       <>
         {xrefLabel}{" "}
-        <a href={"#" + locationId} onClick={() => console.log("hello")}>
+        <a
+          href={"#" + locationId}
+          onClick={() => {
+            setFilterByText("");
+            setFilterInput("");
+          }}
+        >
           {location.replace("xref ", "")}
         </a>
       </>
