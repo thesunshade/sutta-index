@@ -151,7 +151,8 @@ export const indexObject =`{
                     "xref gradual instruction",
                     "xref stinginess",
                     "xref alms food",
-                    "xref offerings"
+                    "xref offerings",
+                    "xref gifts, specific types of"
                ]
           },
           "after giving": {
@@ -235,7 +236,7 @@ export const indexObject =`{
                ],
                "xrefs": []
           },
-          "and faith": {
+          "faith and": {
                "locators": [
                     "SN1.33",
                     "SN1.43",
@@ -1384,7 +1385,7 @@ export const indexObject =`{
                ],
                "xrefs": []
           },
-          "as indicator of shamelessness": {
+          "indicator of shamelessness": {
                "locators": [
                     "Iti25"
                ],
@@ -1419,7 +1420,7 @@ export const indexObject =`{
                ],
                "xrefs": []
           },
-          "and volition": {
+          "volition and": {
                "locators": [
                     "AN10.217"
                ],
@@ -2456,7 +2457,7 @@ export const indexObject =`{
                ],
                "xrefs": []
           },
-          "and results": {
+          "results and": {
                "locators": [
                     "Dhp1",
                     "Dhp2"
@@ -2469,12 +2470,6 @@ export const indexObject =`{
                     "Snp3.9"
                ],
                "xrefs": []
-          },
-          "test": {
-               "locators": [],
-               "xrefs": [
-                    "xref abortion"
-               ]
           }
      },
      "evil": {
@@ -2760,7 +2755,7 @@ export const indexObject =`{
                ],
                "xrefs": []
           },
-          "for lay people": {
+          "lay people": {
                "locators": [
                     "Vv3.3"
                ],
@@ -2930,12 +2925,11 @@ export const indexObject =`{
           },
           "as doctor": {
                "locators": [
-                    "Iti100",
-                    "Snp3.7"
+                    "Iti100"
                ],
                "xrefs": []
           },
-          "his understanding": {
+          "understanding of": {
                "locators": [
                     "Iti112"
                ],
@@ -2953,7 +2947,7 @@ export const indexObject =`{
                ],
                "xrefs": []
           },
-          "his attainments": {
+          "attainments": {
                "locators": [
                     "Snp1.2"
                ],
@@ -2968,7 +2962,13 @@ export const indexObject =`{
                ],
                "xrefs": []
           },
-          "as king of Dhamma": {
+          "king of Dhamma": {
+               "locators": [
+                    "Snp3.7"
+               ],
+               "xrefs": []
+          },
+          "doctor": {
                "locators": [
                     "Snp3.7"
                ],
@@ -3001,7 +3001,7 @@ export const indexObject =`{
                ],
                "xrefs": []
           },
-          "as openhanded": {
+          "openhanded": {
                "locators": [
                     "Thag1.86"
                ],
@@ -3202,7 +3202,7 @@ export const indexObject =`{
                ],
                "xrefs": []
           },
-          "and wisdom": {
+          "wisdom": {
                "locators": [
                     "Dhp372"
                ],
@@ -3781,7 +3781,7 @@ export const indexObject =`{
                ],
                "xrefs": []
           },
-          "and wisdom": {
+          "wisdom and": {
                "locators": [
                     "Dhp282"
                ],
@@ -5602,7 +5602,7 @@ export const indexObject =`{
           }
      },
      "confidence": {
-          "and giving": {
+          "giving and": {
                "locators": [
                     "Dhp249"
                ],
@@ -5681,13 +5681,13 @@ export const indexObject =`{
           }
      },
      "wisdom": {
-          "and meditation": {
+          "meditation and": {
                "locators": [
                     "Dhp282"
                ],
                "xrefs": []
           },
-          "and concentration": {
+          "concentration and": {
                "locators": [
                     "Dhp372"
                ],
@@ -6963,7 +6963,7 @@ export const indexObject =`{
           }
      },
      "conceit (māna)": {
-          "and wrong views": {
+          "wrong views": {
                "locators": [
                     "Ud6.6",
                     "Snp4.5",
@@ -7143,7 +7143,7 @@ export const indexObject =`{
           }
      },
      "saṁsara": {
-          "and mountain of bones": {
+          "mountain of bones of one person": {
                "locators": [
                     "Iti24"
                ],

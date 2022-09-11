@@ -30,7 +30,7 @@ export default function LocatorList(props) {
           return (
             <span key={index}>
               <Xref xref={xref} />
-              {index < sortedXrefsArray.length - 1 ? ", " : ""}
+              {index < sortedXrefsArray.length - 1 ? "; " : ""}
             </span>
           );
         })}

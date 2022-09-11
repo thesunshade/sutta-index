@@ -55,10 +55,10 @@ giving (dāna)	Dhamma	Dhp354
 giving (dāna)	with equanimity	AN8.22
 giving (dāna)	expecting something in return	AN7.52
 giving (dāna)	expecting something in return	AN8.35
-giving (dāna)	and faith	SN1.33
-giving (dāna)	and faith	SN1.43
-giving (dāna)	and faith	SN2.23
-giving (dāna)	and faith	AN3.42
+giving (dāna)	faith and	SN1.33
+giving (dāna)	faith and	SN1.43
+giving (dāna)	faith and	SN2.23
+giving (dāna)	faith and	AN3.42
 giving (dāna)	of fearlessness	AN8.39
 giving (dāna)	food	SN1.41
 giving (dāna)	food	AN4.57
@@ -344,7 +344,7 @@ speaking truth		AN3.69
 speech	about oneself	AN4.73
 speech	about others	AN4.73
 admonishment		AN10.44
-speech	and volition	AN10.217
+speech	volition and	AN10.217
 speech		xref answering questions
 answering questions		AN4.42
 speech	beneficial	AN5.198
@@ -567,9 +567,9 @@ meditation	postures	Kp9
 wrong views		Kp9
 virtue	as criterion for loving-kindness	Kp9
 intention		Dhp1
-actions	and results	Dhp1
+actions	results and	Dhp1
 intention		Dhp2
-actions	and results	Dhp2
+actions	results and	Dhp2
 grudge		Dhp3
 accusation		Dhp3
 grudge		Dhp4
@@ -814,7 +814,7 @@ results of actions	simile of rust	Dhp240
 stains		Dhp241-42
 ignorance	as worst stain	Dhp243
 results of actions	harming oneself	Dhp247
-confidence	and giving	Dhp249
+confidence	giving and	Dhp249
 concentration (samādhi)	hindrances to	Dhp249–50
 greed	as fire	Dhp251
 hatred (dosa)	as crime	Dhp251
@@ -833,8 +833,8 @@ impermanence		Dhp277
 suffering		Dhp278
 not-self		Dhp279
 laziness		Dhp280
-meditation	and wisdom	Dhp282
-wisdom	and meditation	Dhp282
+meditation	wisdom and	Dhp282
+wisdom	meditation and	Dhp282
 attachment	simile of calf	Dhp284
 attachment	sexual	Dhp284
 death (maraṇa)	simile of flood	Dhp287
@@ -903,8 +903,8 @@ livelihood	monastic	Dhp366
 praise by gods		Dhp366
 loving-kindness (mettā)		Dhp368
 sense desire	simile of iron ball	Dhp371
-wisdom	and concentration	Dhp372
-concentration (samādhi)	and wisdom	Dhp372
+wisdom	concentration and	Dhp372
+concentration (samādhi)	wisdom	Dhp372
 mindfulness		Dhp374
 Vinaya		Dhp375
 restraint		Dhp375
@@ -1062,7 +1062,7 @@ followers of other paths		Ud6.4–6
 disputes	over views	Ud6.4–6
 blind men and elephant		Ud6.4
 elephants	blind men and	Ud6.4
-conceit (māna)	and wrong views	Ud6.6
+conceit (māna)	wrong views	Ud6.6
 training	as the essence	Ud6.8
 sensual pleasures	no harm in	Ud6.8
 disputes	over a woman	Ud6.8
@@ -1116,9 +1116,9 @@ self-control		Iti22
 restraint		Iti22
 heedfulness (appamāda)	results now and in future	Iti23
 heedfulness (appamāda)	in making merit	Iti23
-saṁsara	and mountain of bones	Iti24
+saṁsara	mountain of bones of one person	Iti24
 saṁsara	length of	Iti24
-lying	as indicator of shamelessness	Iti25
+lying	indicator of shamelessness	Iti25
 loving-kindness (mettā)	simile of clear sky	Iti27
 loving-kindness (mettā)	simile of stars	Iti27
 sacrifices (yañña)		Iti27
@@ -1253,7 +1253,7 @@ postures	for practicing always	Iti110–11
 hindrances	constantly removing	Iti111
 world		Iti112
 Tathāgatas	definition	Iti112
-Buddha, the	his understanding	Iti112
+Buddha, the	understanding of	Iti112
 knower of the world	definition	Iti112
 Buddha, the	as best 	Iti112
 Buddha, the	without counterpart	Iti112
@@ -1272,7 +1272,7 @@ lay life	attachments	Snp1.2
 monastic life		Snp1.2
 renunciation		Snp1.2
 work		Snp1.2
-Buddha, the	his attainments	Snp1.2
+Buddha, the	attainments	Snp1.2
 loved ones	as source of sorrow	Snp1.2
 solitude	better than association with fools	Snp1.3
 loved ones	as source of sorrow	Snp1.3
@@ -1399,8 +1399,8 @@ Buddha, the word	hard to find in world	Snp3.7
 marks of a great man		Snp.3.7
 thirty-two marks		xref marks of a great man
 Buddhas	revealing themselves when praised	Snp3.7
-Buddha, the	as king of Dhamma	Snp3.7
-Buddha, the	as doctor	Snp3.7
+Buddha, the	king of Dhamma	Snp3.7
+Buddha, the	doctor	Snp3.7
 Buddhas	rarity of	Snp3.7
 Saṅgha	best recipient	Snp3.7
 Buddha, the	qualities of	Snp3.7
@@ -1452,7 +1452,7 @@ boasting		Snp4.3
 disputes	about Dhamma	Snp4.3
 purity (suddhi)		Snp4.4
 disputes	about Dhamma	Snp4.5
-conceit (māna)	and wrong views	Snp4.5
+conceit (māna)	wrong views	Snp4.5
 aging		xref old age
 old age		Snp.4.6
 death (maraṇa)	like dream gone when waking are the dead	Snp.4.6
@@ -1466,7 +1466,7 @@ debates		xref disputes
 truth	exclusivity of	Snp4.8
 Māgaṇḍiya	father of Māgaṇḍiyā	Snp4.9
 Māgaṇḍiyā	daughter of Māgaṇḍiya	Snp4.9
-conceit (māna)	and wrong views	Snp4.9
+conceit (māna)	wrong views	Snp4.9
 disputes	over views	Snp4.9
 past, present future	let go of	Snp4.10
 monastic life	rightly practiced	Snp4.10
@@ -1546,7 +1546,7 @@ giving (dāna)	criticizing	Vv3.1
 giving (dāna)	leads to heaven	Vv3.1
 gifts, specific types of	sugarcane	Vv3.2
 giving (dāna)	criticizing	Vv3.2
-celibacy	for lay people	Vv3.3
+celibacy	lay people	Vv3.3
 wives	respectful	Vv3.4
 gifts, specific types of	long list of	Vv3.5
 giving (dāna)	to Saṅgha is always more fruitful than individual gifts	Vv3.6
@@ -1815,7 +1815,7 @@ association	with good people	Thag1.75
 mind	training like elephant trainer does	Thag1.77
 sleep	fondness for	Thag1.84
 socializing		Thag1.84
-Buddha, the	as openhanded	Thag1.86
+Buddha, the	openhanded	Thag1.86
 aggregates	remaining after enlightenment	Thag1.90
 Dhamma	as sweetest taste	Thag1.91
-actions	test	xref abortion
+giving (dāna)		xref gifts, specific types of

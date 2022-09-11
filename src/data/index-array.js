@@ -71,7 +71,7 @@ export const indexArray =`[
      ],
      [
           "AN10.217",
-          "and volition",
+          "volition and",
           "speech"
      ],
      [
@@ -206,7 +206,7 @@ export const indexArray =`[
      ],
      [
           "AN3.42",
-          "and faith",
+          "faith and",
           "giving (dāna)"
      ],
      [
@@ -1216,7 +1216,7 @@ export const indexArray =`[
      ],
      [
           "Dhp1",
-          "and results",
+          "results and",
           "actions"
      ],
      [
@@ -1726,7 +1726,7 @@ export const indexArray =`[
      ],
      [
           "Dhp2",
-          "and results",
+          "results and",
           "actions"
      ],
      [
@@ -1946,7 +1946,7 @@ export const indexArray =`[
      ],
      [
           "Dhp249",
-          "and giving",
+          "giving and",
           "confidence"
      ],
      [
@@ -2056,12 +2056,12 @@ export const indexArray =`[
      ],
      [
           "Dhp282",
-          "and wisdom",
+          "wisdom and",
           "meditation"
      ],
      [
           "Dhp282",
-          "and meditation",
+          "meditation and",
           "wisdom"
      ],
      [
@@ -2471,12 +2471,12 @@ export const indexArray =`[
      ],
      [
           "Dhp372",
-          "and concentration",
+          "concentration and",
           "wisdom"
      ],
      [
           "Dhp372",
-          "and wisdom",
+          "wisdom",
           "concentration (samādhi)"
      ],
      [
@@ -3111,7 +3111,7 @@ export const indexArray =`[
      ],
      [
           "Iti112",
-          "his understanding",
+          "understanding of",
           "Buddha, the"
      ],
      [
@@ -3231,7 +3231,7 @@ export const indexArray =`[
      ],
      [
           "Iti24",
-          "and mountain of bones",
+          "mountain of bones of one person",
           "saṁsara"
      ],
      [
@@ -3246,7 +3246,7 @@ export const indexArray =`[
      ],
      [
           "Iti25",
-          "as indicator of shamelessness",
+          "indicator of shamelessness",
           "lying"
      ],
      [
@@ -5356,7 +5356,7 @@ export const indexArray =`[
      ],
      [
           "SN1.33",
-          "and faith",
+          "faith and",
           "giving (dāna)"
      ],
      [
@@ -5416,7 +5416,7 @@ export const indexArray =`[
      ],
      [
           "SN1.43",
-          "and faith",
+          "faith and",
           "giving (dāna)"
      ],
      [
@@ -5511,7 +5511,7 @@ export const indexArray =`[
      ],
      [
           "SN2.23",
-          "and faith",
+          "faith and",
           "giving (dāna)"
      ],
      [
@@ -6046,7 +6046,7 @@ export const indexArray =`[
      ],
      [
           "Snp1.2",
-          "his attainments",
+          "attainments",
           "Buddha, the"
      ],
      [
@@ -6716,12 +6716,12 @@ export const indexArray =`[
      ],
      [
           "Snp3.7",
-          "as king of Dhamma",
+          "king of Dhamma",
           "Buddha, the"
      ],
      [
           "Snp3.7",
-          "as doctor",
+          "doctor",
           "Buddha, the"
      ],
      [
@@ -6921,7 +6921,7 @@ export const indexArray =`[
      ],
      [
           "Snp4.5",
-          "and wrong views",
+          "wrong views",
           "conceit (māna)"
      ],
      [
@@ -6946,7 +6946,7 @@ export const indexArray =`[
      ],
      [
           "Snp4.9",
-          "and wrong views",
+          "wrong views",
           "conceit (māna)"
      ],
      [
@@ -7251,7 +7251,7 @@ export const indexArray =`[
      ],
      [
           "Thag1.86",
-          "as openhanded",
+          "openhanded",
           "Buddha, the"
      ],
      [
@@ -8006,7 +8006,7 @@ export const indexArray =`[
      ],
      [
           "Ud6.6",
-          "and wrong views",
+          "wrong views",
           "conceit (māna)"
      ],
      [
@@ -8341,7 +8341,7 @@ export const indexArray =`[
      ],
      [
           "Vv3.3",
-          "for lay people",
+          "lay people",
           "celibacy"
      ],
      [
@@ -8760,11 +8760,6 @@ export const indexArray =`[
           "death (maraṇa)"
      ],
      [
-          "xref abortion",
-          "test",
-          "actions"
-     ],
-     [
           "xref aging and death",
           "",
           "death (maraṇa)"
@@ -8903,6 +8898,11 @@ export const indexArray =`[
           "xref gifts, specific types of",
           "",
           "monastery"
+     ],
+     [
+          "xref gifts, specific types of",
+          "",
+          "giving (dāna)"
      ],
      [
           "xref giving (dāna)",
