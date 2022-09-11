@@ -175,7 +175,7 @@ a:visited {
 }
 
 .xref-link {
-  color: green
+  font-style: italic;
 }
 
 .xref-label {
