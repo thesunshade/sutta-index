@@ -200,7 +200,8 @@ export const indexData =`{
                "AN8.37"
           ],
           "moderation in": [
-               "AN1.322–3"
+               "AN1.322",
+               "AN1.323"
           ],
           "as not enough": [
                "AN5.176"
@@ -870,7 +871,8 @@ export const indexData =`{
                "MN139"
           ],
           "declarations": [
-               "AN4.217–18",
+               "AN4.217",
+               "AN4.218",
                "AN4.250–53",
                "AN8.68–9"
           ],
@@ -881,7 +883,8 @@ export const indexData =`{
                "AN3.69"
           ],
           "factor for rebirth": [
-               "AN4.82–3",
+               "AN4.82",
+               "AN4.83",
                "AN10.211"
           ],
           "factors of well spoken": [
@@ -902,7 +905,8 @@ export const indexData =`{
                "SN1.78"
           ],
           "good conduct": [
-               "AN4.221–22"
+               "AN4.221",
+               "AN4.222"
           ],
           "harmless": [
                "SN8.5",
@@ -1036,7 +1040,8 @@ export const indexData =`{
                "AN5.198"
           ],
           "bad conduct": [
-               "AN4.221–22"
+               "AN4.221",
+               "AN4.222"
           ],
           "well-spoken": [
                "Kp5"
@@ -2047,7 +2052,8 @@ export const indexData =`{
                "Kp9"
           ],
           "as supreme fragrance": [
-               "Dhp55–6"
+               "Dhp55",
+               "Dhp56"
           ],
           "benefits of": [
                "Ud8.6"
@@ -2476,7 +2482,8 @@ export const indexData =`{
                "Dhp33"
           ],
           "as hard to control": [
-               "Dhp33–4"
+               "Dhp33",
+               "Dhp34"
           ],
           "simile of fish": [
                "Dhp34"

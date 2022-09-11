@@ -10,7 +10,12 @@ export const indexArray =`[
           "loving-kindness (mettā)"
      ],
      [
-          "AN1.322–3",
+          "AN1.322",
+          "moderation in",
+          "giving (dāna)"
+     ],
+     [
+          "AN1.323",
           "moderation in",
           "giving (dāna)"
      ],
@@ -340,17 +345,32 @@ export const indexArray =`[
           "giving (dāna)"
      ],
      [
-          "AN4.217–18",
+          "AN4.217",
           "declarations",
           "speech"
      ],
      [
-          "AN4.221–22",
+          "AN4.218",
+          "declarations",
+          "speech"
+     ],
+     [
+          "AN4.221",
           "good conduct",
           "speech"
      ],
      [
-          "AN4.221–22",
+          "AN4.221",
+          "bad conduct",
+          "speech"
+     ],
+     [
+          "AN4.222",
+          "good conduct",
+          "speech"
+     ],
+     [
+          "AN4.222",
           "bad conduct",
           "speech"
      ],
@@ -465,7 +485,12 @@ export const indexArray =`[
           "giving (dāna)"
      ],
      [
-          "AN4.82–3",
+          "AN4.82",
+          "factor for rebirth",
+          "speech"
+     ],
+     [
+          "AN4.83",
           "factor for rebirth",
           "speech"
      ],
@@ -2220,7 +2245,7 @@ export const indexArray =`[
           "mind"
      ],
      [
-          "Dhp33–4",
+          "Dhp33",
           "as hard to control",
           "mind"
      ],
@@ -2283,6 +2308,11 @@ export const indexArray =`[
           "Dhp338",
           "underlying tendency",
           "craving (taṇha)"
+     ],
+     [
+          "Dhp34",
+          "as hard to control",
+          "mind"
      ],
      [
           "Dhp34",
@@ -2600,7 +2630,12 @@ export const indexArray =`[
           "reputation"
      ],
      [
-          "Dhp55–6",
+          "Dhp55",
+          "as supreme fragrance",
+          "virtue"
+     ],
+     [
+          "Dhp56",
           "as supreme fragrance",
           "virtue"
      ],
