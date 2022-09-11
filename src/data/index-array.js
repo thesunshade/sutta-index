@@ -4681,8 +4681,8 @@ export const indexArray =`[
      ],
      [
           "Pv1.3",
-          "reborn as ghost",
-          "monastic"
+          "reborn as ghosts",
+          "monastics"
      ],
      [
           "Pv1.3",
@@ -4810,6 +4810,71 @@ export const indexArray =`[
           "ghosts"
      ],
      [
+          "Pv2.10",
+          "dressed in hair",
+          "ghosts"
+     ],
+     [
+          "Pv2.10",
+          "cannot take things directly",
+          "ghosts"
+     ],
+     [
+          "Pv2.10",
+          "preventing",
+          "giving (dāna)"
+     ],
+     [
+          "Pv2.11",
+          "mansion (petavimāna)",
+          "ghosts"
+     ],
+     [
+          "Pv2.11",
+          "thread",
+          "gifts, specific types of"
+     ],
+     [
+          "Pv2.11",
+          "small amounts give big results",
+          "giving (dāna)"
+     ],
+     [
+          "Pv2.11",
+          "passage of time in",
+          "ghost realm"
+     ],
+     [
+          "Pv2.12",
+          "",
+          "sexual misconduct"
+     ],
+     [
+          "Pv2.12",
+          "false oath",
+          "speech"
+     ],
+     [
+          "Pv2.12",
+          "eaten by dogs",
+          "ghosts"
+     ],
+     [
+          "Pv2.13",
+          "cause of grief",
+          "death (maraṇa)"
+     ],
+     [
+          "Pv2.13",
+          "uselessness of",
+          "grieving"
+     ],
+     [
+          "Pv2.13",
+          "overcoming grief",
+          "death (maraṇa)"
+     ],
+     [
           "Pv2.2",
           "helps a ghost",
           "Sāriputta, Ven."
@@ -4918,6 +4983,256 @@ export const indexArray =`[
           "Pv2.9",
           "to ordinary people less fruitful than gifts to Saṅgha",
           "giving (dāna)"
+     ],
+     [
+          "Pv3.1",
+          "not giving",
+          "wealthy people"
+     ],
+     [
+          "Pv3.1",
+          "receiver of gifts",
+          "insulting"
+     ],
+     [
+          "Pv3.1",
+          "advice from ghosts",
+          "merit (puññā)"
+     ],
+     [
+          "Pv3.10",
+          "insulting relic puja",
+          "relics"
+     ],
+     [
+          "Pv3.2",
+          "giving to the Saṅgha",
+          "Saṅgha"
+     ],
+     [
+          "Pv3.2",
+          "clothing",
+          "gifts, specific types of"
+     ],
+     [
+          "Pv3.2",
+          "sandals",
+          "gifts, specific types of"
+     ],
+     [
+          "Pv3.3",
+          "mansion (petavimāna)",
+          "ghosts"
+     ],
+     [
+          "Pv3.3",
+          "giving advice",
+          "ghosts"
+     ],
+     [
+          "Pv3.4",
+          "harming ",
+          "parents"
+     ],
+     [
+          "Pv3.4",
+          "greediness",
+          "ghosts"
+     ],
+     [
+          "Pv3.4",
+          "rebirth in ghost realm",
+          "lying"
+     ],
+     [
+          "Pv3.5",
+          "abandoned",
+          "children"
+     ],
+     [
+          "Pv3.5",
+          "to noble disciples",
+          "harsh speech"
+     ],
+     [
+          "Pv3.6",
+          "not giving",
+          "wealthy people"
+     ],
+     [
+          "Pv3.7",
+          "rebirth",
+          "hunters"
+     ],
+     [
+          "Pv3.7",
+          "limiting actions to limit results",
+          "bad actions"
+     ],
+     [
+          "Pv3.8",
+          "rebirth",
+          "hunters"
+     ],
+     [
+          "Pv3.8",
+          "limiting actions to limit results",
+          "bad actions"
+     ],
+     [
+          "Pv3.9",
+          "back-biting, results of",
+          "speech"
+     ],
+     [
+          "Pv3.9",
+          "results of",
+          "divisive speech"
+     ],
+     [
+          "Pv4.1",
+          "fixing, result of",
+          "roads"
+     ],
+     [
+          "Pv4.1",
+          "results of",
+          "joking"
+     ],
+     [
+          "Pv4.1",
+          "treating them badly",
+          "monastics"
+     ],
+     [
+          "Pv4.1",
+          "giving advice",
+          "ghosts"
+     ],
+     [
+          "Pv4.1",
+          "between human and ghost",
+          "friendship"
+     ],
+     [
+          "Pv4.10",
+          "cannot take things directly",
+          "ghosts"
+     ],
+     [
+          "Pv4.10",
+          "life in",
+          "ghost realm"
+     ],
+     [
+          "Pv4.12",
+          "",
+          "social mobility"
+     ],
+     [
+          "Pv4.13",
+          "small amounts give big results",
+          "merit (puññā)"
+     ],
+     [
+          "Pv4.15",
+          "not giving",
+          "wealthy people"
+     ],
+     [
+          "Pv4.16",
+          "with hammers",
+          "ghosts"
+     ],
+     [
+          "Pv4.3",
+          "leading to ghost world",
+          "wrong view"
+     ],
+     [
+          "Pv4.3",
+          "resulting in hell",
+          "wrong view"
+     ],
+     [
+          "Pv4.3",
+          "lifespan in",
+          "hell"
+     ],
+     [
+          "Pv4.3",
+          "sharing merit with",
+          "departed relatives"
+     ],
+     [
+          "Pv4.3",
+          "giving up like vomiting",
+          "wrong views"
+     ],
+     [
+          "Pv4.5",
+          "hunger",
+          "ghosts"
+     ],
+     [
+          "Pv4.6",
+          "not giving",
+          "wealthy people"
+     ],
+     [
+          "Pv4.6",
+          "disparaging",
+          "paccekabuddha"
+     ],
+     [
+          "Pv4.7",
+          "treating them badly",
+          "monastics"
+     ],
+     [
+          "Pv4.7",
+          "disparaging",
+          "paccekabuddha"
+     ],
+     [
+          "Pv4.7",
+          "life in",
+          "hell"
+     ],
+     [
+          "Pv4.7",
+          "results of",
+          "arrogance"
+     ],
+     [
+          "Pv4.8",
+          "",
+          "bad friends"
+     ],
+     [
+          "Pv4.8",
+          "reborn as ghosts",
+          "monastics"
+     ],
+     [
+          "Pv4.8",
+          "bad",
+          "monastics"
+     ],
+     [
+          "Pv4.9",
+          "",
+          "bad friends"
+     ],
+     [
+          "Pv4.9",
+          "reborn as ghosts",
+          "monastics"
+     ],
+     [
+          "Pv4.9",
+          "bad",
+          "monastics"
      ],
      [
           "SN1.20",
@@ -6630,6 +6945,141 @@ export const indexArray =`[
           "purity (suddhi)"
      ],
      [
+          "Thag1.13",
+          "as pleasing",
+          "nature"
+     ],
+     [
+          "Thag1.16",
+          "days pass peacefully",
+          "arahant"
+     ],
+     [
+          "Thag1.17",
+          "fondness for",
+          "sleep"
+     ],
+     [
+          "Thag1.18",
+          "",
+          "perception of skeleton (aṭṭhisaññāya)"
+     ],
+     [
+          "Thag1.19",
+          "simile of arrow maker",
+          "self taming"
+     ],
+     [
+          "Thag1.19",
+          "simile of irrigator",
+          "self taming"
+     ],
+     [
+          "Thag1.19",
+          "simile of carpenter",
+          "self taming"
+     ],
+     [
+          "Thag1.20",
+          "no fear of",
+          "death (maraṇa)"
+     ],
+     [
+          "Thag1.21",
+          "no fear of",
+          "fear"
+     ],
+     [
+          "Thag1.22",
+          "peacocks causing",
+          "waking up"
+     ],
+     [
+          "Thag1.23",
+          "mindfully",
+          "eating"
+     ],
+     [
+          "Thag1.3",
+          "excellence is like fire blazing",
+          "Buddha, the"
+     ],
+     [
+          "Thag1.30",
+          "mindfulness and",
+          "sickness"
+     ],
+     [
+          "Thag1.31",
+          "enduring like elephant at head of battle",
+          "insects"
+     ],
+     [
+          "Thag1.33",
+          "towards all as a mother towards child",
+          "skillfulness"
+     ],
+     [
+          "Thag1.34",
+          "avoiding women",
+          "monastic life"
+     ],
+     [
+          "Thag1.36",
+          "rightly practiced",
+          "monastic life"
+     ],
+     [
+          "Thag1.37",
+          "",
+          "travel"
+     ],
+     [
+          "Thag1.38",
+          "",
+          "psychic powers"
+     ],
+     [
+          "Thag1.38",
+          "praised by gods",
+          "arahant"
+     ],
+     [
+          "Thag1.39",
+          "",
+          "urgency (saṁvega)"
+     ],
+     [
+          "Thag1.39",
+          "like ones head on fire",
+          "urgency (saṁvega)"
+     ],
+     [
+          "Thag1.4",
+          "with the wise",
+          "association"
+     ],
+     [
+          "Thag1.40",
+          "like ones head on fire",
+          "urgency (saṁvega)"
+     ],
+     [
+          "Thag1.43",
+          "giving up",
+          "farming"
+     ],
+     [
+          "Thag1.45",
+          "recovering like thoroughbred",
+          "mistakes"
+     ],
+     [
+          "Thag1.7",
+          "army of pushed away like flood ",
+          "Māra"
+     ],
+     [
           "Thag16.1",
           "fear of",
           "death (maraṇa)"
@@ -8145,6 +8595,11 @@ export const indexArray =`[
           "brahmin"
      ],
      [
+          "Xref bad friends",
+          "",
+          "friendship"
+     ],
+     [
           "xref Bodhisatta",
           "",
           "Buddha, the"
@@ -8335,6 +8790,11 @@ export const indexArray =`[
           "brahmacariya"
      ],
      [
+          "xref monastics",
+          "",
+          "bad monastics"
+     ],
+     [
           "xref Noble Eightfold Path",
           "",
           "right speech (sammāvācā)"
@@ -8415,6 +8875,16 @@ export const indexArray =`[
           "speech"
      ],
      [
+          "xref sickness",
+          "",
+          "illness"
+     ],
+     [
+          "xref skillfulness",
+          "",
+          "wholesomeness"
+     ],
+     [
           "xref speech",
           "",
           "harsh speech"
@@ -8443,5 +8913,10 @@ export const indexArray =`[
           "xref wrong speech (micchāvacā)",
           "",
           "speech"
+     ],
+     [
+          "xref wrong views",
+          "",
+          "hell"
      ]
 ]`

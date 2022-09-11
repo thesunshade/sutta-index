@@ -217,7 +217,8 @@ export const indexData =`{
           "preventing": [
                "AN3.57",
                "Pv2.7",
-               "Pv2.9"
+               "Pv2.9",
+               "Pv2.10"
           ],
           "purifying": [
                "AN4.78",
@@ -370,6 +371,9 @@ export const indexData =`{
           ],
           "to ordinary people less fruitful than gifts to Saṅgha": [
                "Pv2.9"
+          ],
+          "small amounts give big results": [
+               "Pv2.11"
           ]
      },
      "stinginess": {
@@ -409,7 +413,8 @@ export const indexData =`{
                "SN42.11",
                "MN87",
                "Vv7.9",
-               "Pv2.6"
+               "Pv2.6",
+               "Pv2.13"
           ],
           "comes quickly": [
                "AN7.74",
@@ -552,10 +557,14 @@ export const indexData =`{
           ],
           "overcoming grief": [
                "Vv7.9",
-               "Pv2.6"
+               "Pv2.6",
+               "Pv2.13"
           ],
           "wise response to": [
                "Pv1.12"
+          ],
+          "no fear of": [
+               "Thag1.20"
           ]
      },
      "deathbed": {
@@ -773,6 +782,9 @@ export const indexData =`{
           ],
           "rebirth in ghost realm": [
                "Pv2.3"
+          ],
+          "to noble disciples": [
+               "Pv3.5"
           ]
      },
      "listening to Dhamma": {
@@ -812,6 +824,9 @@ export const indexData =`{
           ],
           "as indicator of shamelessness": [
                "Iti25"
+          ],
+          "rebirth in ghost realm": [
+               "Pv3.4"
           ]
      },
      "speaking truth": {
@@ -1031,7 +1046,11 @@ export const indexData =`{
           ],
           "false oath": [
                "Pv1.6",
-               "Pv1.7"
+               "Pv1.7",
+               "Pv2.12"
+          ],
+          "back-biting, results of": [
+               "Pv3.9"
           ]
      },
      "admonishment": {
@@ -1094,7 +1113,8 @@ export const indexData =`{
                "AN5.214"
           ],
           "results of": [
-               "AN8.40"
+               "AN8.40",
+               "Pv3.9"
           ],
           "definition": [
                "DN2"
@@ -1324,11 +1344,15 @@ export const indexData =`{
                "Vv5.3",
                "Vv5.10",
                "Vv7.11",
-               "Pv2.9"
+               "Pv2.9",
+               "Pv4.13"
           ],
           "ingenuity while making": [
                "Vv7.5",
                "Vv7.6"
+          ],
+          "advice from ghosts": [
+               "Pv3.1"
           ]
      },
      "resolution/determination": {
@@ -1369,6 +1393,9 @@ export const indexData =`{
           "not caring for": [
                "Snp1.6",
                "Snp1.7"
+          ],
+          "harming": [
+               "Pv3.4"
           ]
      },
      "children": {
@@ -1381,6 +1408,9 @@ export const indexData =`{
           ],
           "": [
                "xref loved ones"
+          ],
+          "abandoned": [
+               "Pv3.5"
           ]
      },
      "work": {
@@ -1551,7 +1581,8 @@ export const indexData =`{
           ],
           "with the wise": [
                "Snp2.6",
-               "Snp2.8"
+               "Snp2.8",
+               "Thag1.4"
           ]
      },
      "austerity": {
@@ -1701,6 +1732,9 @@ export const indexData =`{
                "Vv5.3",
                "Vv4.12",
                "Vv7.9"
+          ],
+          "excellence is like fire blazing": [
+               "Thag1.3"
           ]
      },
      "Dhamma": {
@@ -1793,7 +1827,8 @@ export const indexData =`{
                "Iti90"
           ],
           "giving to the Saṅgha": [
-               "Pv2.1"
+               "Pv2.1",
+               "Pv3.2"
           ]
      },
      "concentration (samādhi)": {
@@ -1862,7 +1897,8 @@ export const indexData =`{
                "Kp7",
                "Pv1.1",
                "Pv1.4",
-               "Pv1.5"
+               "Pv1.5",
+               "Pv4.3"
           ],
           "compassion towards": [
                "Kp7"
@@ -1893,17 +1929,36 @@ export const indexData =`{
           ],
           "hunger": [
                "Pv1.6",
-               "Pv1.7"
+               "Pv1.7",
+               "Pv4.5"
           ],
           "dressed in hair": [
-               "Pv1.10"
+               "Pv1.10",
+               "Pv2.10"
           ],
           "with hammers": [
-               "Pv1.11"
+               "Pv1.11",
+               "Pv4.16"
           ],
           "giving advice": [
                "Pv1.11",
-               "Pv2.7"
+               "Pv2.7",
+               "Pv3.3",
+               "Pv4.1"
+          ],
+          "cannot take things directly": [
+               "Pv2.10",
+               "Pv4.10"
+          ],
+          "mansion (petavimāna)": [
+               "Pv2.11",
+               "Pv3.3"
+          ],
+          "eaten by dogs": [
+               "Pv2.12"
+          ],
+          "greediness": [
+               "Pv3.4"
           ]
      },
      "ghost realm": {
@@ -1914,6 +1969,12 @@ export const indexData =`{
           ],
           "food in": [
                "Pv1.9"
+          ],
+          "passage of time in": [
+               "Pv2.11"
+          ],
+          "life in": [
+               "Pv4.10"
           ]
      },
      "merit sharing": {
@@ -1943,7 +2004,8 @@ export const indexData =`{
                "Vv7.9",
                "Pv1.8",
                "Pv1.12",
-               "Pv2.6"
+               "Pv2.6",
+               "Pv2.13"
           ],
           "useless of": [
                "Pv1.4"
@@ -2080,7 +2142,9 @@ export const indexData =`{
                "Kp8"
           ],
           "disparaging": [
-               "Ud5.3"
+               "Ud5.3",
+               "Pv4.7",
+               "Pv4.6"
           ]
      },
      "gentleness": {
@@ -2132,6 +2196,9 @@ export const indexData =`{
           ],
           "resulting in hell": [
                "Iti32"
+          ],
+          "giving up like vomiting": [
+               "Pv4.3"
           ]
      },
      "intention": {
@@ -2198,6 +2265,9 @@ export const indexData =`{
           ],
           "army of": [
                "Snp3.2"
+          ],
+          "army of pushed away like flood": [
+               "Thag1.7"
           ]
      },
      "laziness": {
@@ -2215,6 +2285,9 @@ export const indexData =`{
           ],
           "excessive": [
                "Iti28–9"
+          ],
+          "mindfully": [
+               "Thag1.23"
           ]
      },
      "beautiful": {
@@ -2296,6 +2369,10 @@ export const indexData =`{
           ],
           "small amounts give big results": [
                "Pv2.9"
+          ],
+          "limiting actions to limit results": [
+               "Pv3.7",
+               "Pv3.8"
           ]
      },
      "good actions": {
@@ -2544,7 +2621,8 @@ export const indexData =`{
                "Dhp323",
                "Dhp328",
                "Dhp331",
-               "Dhp376"
+               "Dhp376",
+               "Xref bad friends"
           ],
           "helps with cetovimuttiya": [
                "Ud4.1"
@@ -2566,6 +2644,9 @@ export const indexData =`{
           ],
           "true and false friends": [
                "Snp2.3"
+          ],
+          "between human and ghost": [
+               "Pv4.1"
           ]
      },
      "sleep": {
@@ -2581,6 +2662,9 @@ export const indexData =`{
           ],
           "uselessness of": [
                "Snp2.10"
+          ],
+          "fondness for": [
+               "Thag1.17"
           ]
      },
      "self taming": {
@@ -2592,15 +2676,18 @@ export const indexData =`{
           ],
           "simile of arrow maker": [
                "Dhp80",
-               "Dhp145"
+               "Dhp145",
+               "Thag1.19"
           ],
           "simile of irrigator": [
                "Dhp80",
-               "Dhp145"
+               "Dhp145",
+               "Thag1.19"
           ],
           "simile of carpenter": [
                "Dhp80",
-               "Dhp145"
+               "Dhp145",
+               "Thag1.19"
           ]
      },
      "blame and praise": {
@@ -2683,7 +2770,8 @@ export const indexData =`{
                "Iti44"
           ],
           "praised by gods": [
-               "Iti82"
+               "Iti82",
+               "Thag1.38"
           ],
           "simile of snake skin": [
                "Snp1.1"
@@ -2696,6 +2784,9 @@ export const indexData =`{
           ],
           "existing after death": [
                "Snp5.7"
+          ],
+          "days pass peacefully": [
+               "Thag1.16"
           ]
      },
      "harming a good person": {
@@ -3232,21 +3323,27 @@ export const indexData =`{
      },
      "hell": {
           "": [
-               "Dhp chapter 22"
+               "Dhp chapter 22",
+               "xref wrong views"
           ],
           "lifespan in": [
-               "Snp3.10"
+               "Snp3.10",
+               "Pv4.3"
           ],
           "actions that lead to": [
                "Snp3.10"
           ],
           "life in": [
-               "Snp3.10"
+               "Snp3.10",
+               "Pv4.7"
           ]
      },
      "bad monastics": {
           "rebirth": [
                "Dhp307–8"
+          ],
+          "": [
+               "xref monastics"
           ]
      },
      "sexual misconduct": {
@@ -3254,7 +3351,8 @@ export const indexData =`{
                "Dhp309–10"
           ],
           "": [
-               "Snp1.6"
+               "Snp1.6",
+               "Pv2.12"
           ],
           "abstaining from": [
                "Vv1.11"
@@ -3305,10 +3403,14 @@ export const indexData =`{
           ],
           "rightly practiced": [
                "Snp4.10",
-               "Snp4.14"
+               "Snp4.14",
+               "Thag1.36"
           ],
           "wrong livelihood": [
                "Snp4.14"
+          ],
+          "avoiding women": [
+               "Thag1.34"
           ]
      },
      "self guarding": {
@@ -3546,6 +3648,9 @@ export const indexData =`{
      "fear": {
           "overcoming": [
                "Ud1.7"
+          ],
+          "no fear of": [
+               "Thag1.21"
           ]
      },
      "monastics": {
@@ -3554,6 +3659,19 @@ export const indexData =`{
           ],
           "sexual activity": [
                "Snp.4.7"
+          ],
+          "reborn as ghosts": [
+               "Pv1.3",
+               "Pv4.8",
+               "Pv4.9"
+          ],
+          "treating them badly": [
+               "Pv4.1",
+               "Pv4.7"
+          ],
+          "bad": [
+               "Pv4.8",
+               "Pv4.9"
           ]
      },
      "detachment": {
@@ -4020,7 +4138,12 @@ export const indexData =`{
      },
      "urgency (saṁvega)": {
           "": [
-               "Iti37"
+               "Iti37",
+               "Thag1.39"
+          ],
+          "like ones head on fire": [
+               "Thag1.39",
+               "Thag1.40"
           ]
      },
      "sanctuary/security": {
@@ -4361,6 +4484,9 @@ export const indexData =`{
           ],
           "as metaphor": [
                "Snp1.4"
+          ],
+          "giving up": [
+               "Thag1.43"
           ]
      },
      "downfall (parābhava)": {
@@ -4758,6 +4884,15 @@ export const indexData =`{
           ],
           "bath": [
                "Vv7.5"
+          ],
+          "thread": [
+               "Pv2.11"
+          ],
+          "clothing": [
+               "Pv3.2"
+          ],
+          "sandals": [
+               "Pv3.2"
           ]
      },
      "fidelity in marriage": {
@@ -4834,6 +4969,9 @@ export const indexData =`{
      "relics": {
           "": [
                "xref offerings"
+          ],
+          "insulting relic puja": [
+               "Pv3.10"
           ]
      },
      "Kassapa, Buddha": {
@@ -4868,17 +5006,13 @@ export const indexData =`{
      },
      "travel": {
           "": [
-               "Vv7.10"
+               "Vv7.10",
+               "Thag1.37"
           ]
      },
      "merit, sharing": {
           "": [
                "xref departed relatives"
-          ]
-     },
-     "monastic": {
-          "reborn as ghost": [
-               "Pv1.3"
           ]
      },
      "sharing merit": {
@@ -4901,7 +5035,11 @@ export const indexData =`{
      "wealthy people": {
           "not giving": [
                "Pv2.7",
-               "Pv2.8"
+               "Pv2.8",
+               "Pv3.1",
+               "Pv3.6",
+               "Pv4.6",
+               "Pv4.15"
           ]
      },
      "hand that juice flows from": {
@@ -4912,6 +5050,101 @@ export const indexData =`{
      "sadness": {
           "from having no one to give to": [
                "Pv2.9"
+          ]
+     },
+     "insulting": {
+          "receiver of gifts": [
+               "Pv3.1"
+          ]
+     },
+     "hunters": {
+          "rebirth": [
+               "Pv3.7",
+               "Pv3.8"
+          ]
+     },
+     "roads": {
+          "fixing, result of": [
+               "Pv4.1"
+          ]
+     },
+     "joking": {
+          "results of": [
+               "Pv4.1"
+          ]
+     },
+     "wrong view": {
+          "leading to ghost world": [
+               "Pv4.3"
+          ],
+          "resulting in hell": [
+               "Pv4.3"
+          ]
+     },
+     "arrogance": {
+          "results of": [
+               "Pv4.7"
+          ]
+     },
+     "bad friends": {
+          "": [
+               "Pv4.8",
+               "Pv4.9"
+          ]
+     },
+     "social mobility": {
+          "": [
+               "Pv4.12"
+          ]
+     },
+     "nature": {
+          "as pleasing": [
+               "Thag1.13"
+          ]
+     },
+     "perception of skeleton (aṭṭhisaññāya)": {
+          "": [
+               "Thag1.18"
+          ]
+     },
+     "waking up": {
+          "peacocks causing": [
+               "Thag1.22"
+          ]
+     },
+     "sickness": {
+          "mindfulness and": [
+               "Thag1.30"
+          ]
+     },
+     "illness": {
+          "": [
+               "xref sickness"
+          ]
+     },
+     "insects": {
+          "enduring like elephant at head of battle": [
+               "Thag1.31"
+          ]
+     },
+     "skillfulness": {
+          "towards all as a mother towards child": [
+               "Thag1.33"
+          ]
+     },
+     "wholesomeness": {
+          "": [
+               "xref skillfulness"
+          ]
+     },
+     "psychic powers": {
+          "": [
+               "Thag1.38"
+          ]
+     },
+     "mistakes": {
+          "recovering like thoroughbred": [
+               "Thag1.45"
           ]
      }
 }`
