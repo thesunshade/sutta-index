@@ -1801,6 +1801,12 @@ export const indexObject =`{
                     "Pv3.9"
                ],
                "xrefs": []
+          },
+          "speaking little": {
+               "locators": [
+                    "Thag2.4"
+               ],
+               "xrefs": []
           }
      },
      "admonishment": {
@@ -2042,6 +2048,18 @@ export const indexObject =`{
                     "Kp4"
                ],
                "xrefs": []
+          },
+          "attachment to": {
+               "locators": [
+                    "Thag1.92"
+               ],
+               "xrefs": []
+          },
+          "doesn’t lead to peace": {
+               "locators": [
+                    "Thag2.2"
+               ],
+               "xrefs": []
           }
      },
      "name and form": {
@@ -2236,6 +2254,18 @@ export const indexObject =`{
           "your Dhamma teacher": {
                "locators": [
                     "Snp2.8–9"
+               ],
+               "xrefs": []
+          },
+          "subtle dart": {
+               "locators": [
+                    "Thag2.2"
+               ],
+               "xrefs": []
+          },
+          "source of jealousy": {
+               "locators": [
+                    "Thag2.17"
                ],
                "xrefs": []
           }
@@ -2708,7 +2738,8 @@ export const indexObject =`{
           },
           "with wicked": {
                "locators": [
-                    "Snp1.3"
+                    "Snp1.3",
+                    "Thag1.95"
                ],
                "xrefs": []
           },
@@ -2722,7 +2753,14 @@ export const indexObject =`{
           },
           "with good people": {
                "locators": [
-                    "Thag1.75"
+                    "Thag1.75",
+                    "Thag2.14"
+               ],
+               "xrefs": []
+          },
+          "with fools like floating on a small log at sea": {
+               "locators": [
+                    "Thag2.14"
                ],
                "xrefs": []
           }
@@ -2838,6 +2876,12 @@ export const indexObject =`{
                     "Vv3.9",
                     "Vv4.9",
                     "Vv5.10"
+               ],
+               "xrefs": []
+          },
+          "small amount gives big results": {
+               "locators": [
+                    "Thag1.96"
                ],
                "xrefs": []
           }
@@ -4342,6 +4386,18 @@ export const indexObject =`{
                     "Thag1.77"
                ],
                "xrefs": []
+          },
+          "monkey": {
+               "locators": [
+                    "Thag2.3"
+               ],
+               "xrefs": []
+          },
+          "like poorly/well roofed house": {
+               "locators": [
+                    "Thag2.7"
+               ],
+               "xrefs": []
           }
      },
      "faith (saddhā)": {
@@ -4886,6 +4942,12 @@ export const indexObject =`{
                     "Thag1.16"
                ],
                "xrefs": []
+          },
+          "becoming while a lay person": {
+               "locators": [
+                    "Thag1.117"
+               ],
+               "xrefs": []
           }
      },
      "storing up things": {
@@ -4999,6 +5061,12 @@ export const indexObject =`{
           "simile of arrows": {
                "locators": [
                     "Dhp156"
+               ],
+               "xrefs": []
+          },
+          "body in": {
+               "locators": [
+                    "Thag1.118"
                ],
                "xrefs": []
           }
@@ -5357,6 +5425,12 @@ export const indexObject =`{
           "like fish in dried-up stream": {
                "locators": [
                     "Snp4.2"
+               ],
+               "xrefs": []
+          },
+          "to people": {
+               "locators": [
+                    "Thag2.15"
                ],
                "xrefs": []
           }
@@ -5727,6 +5801,12 @@ export const indexObject =`{
                     "Dhp423"
                ],
                "xrefs": []
+          },
+          "past lives": {
+               "locators": [
+                    "Thag2.23"
+               ],
+               "xrefs": []
           }
      },
      "going forth (pabbajja)": {
@@ -5753,12 +5833,19 @@ export const indexObject =`{
                     "Thag1.46"
                ],
                "xrefs": []
+          },
+          "old age": {
+               "locators": [
+                    "Thag1.108"
+               ],
+               "xrefs": []
           }
      },
      "lay life": {
           "difficult": {
                "locators": [
-                    "Dhp302"
+                    "Dhp302",
+                    "Thag1.111"
                ],
                "xrefs": []
           },
@@ -5905,7 +5992,9 @@ export const indexObject =`{
                     "Iti108",
                     "Snp1.5",
                     "Snp2.6",
-                    "Snp.4.7"
+                    "Snp.4.7",
+                    "Thag1.101",
+                    "Thag1.114"
                ],
                "xrefs": []
           },
@@ -5986,6 +6075,24 @@ export const indexObject =`{
           "avoiding women": {
                "locators": [
                     "Thag1.34"
+               ],
+               "xrefs": []
+          },
+          "difficulty of": {
+               "locators": [
+                    "Thag1.111"
+               ],
+               "xrefs": []
+          },
+          "living with the Saṅgha": {
+               "locators": [
+                    "Thag2.11"
+               ],
+               "xrefs": []
+          },
+          "few posessions": {
+               "locators": [
+                    "Thag2.17"
                ],
                "xrefs": []
           }
@@ -6268,13 +6375,20 @@ export const indexObject =`{
                     "Dhp392"
                ],
                "xrefs": []
+          },
+          "eagerness to": {
+               "locators": [
+                    "Thag2.11"
+               ],
+               "xrefs": []
           }
      },
      "external qualities": {
           "": {
                "locators": [
                     "Dhp393–94",
-                    "Ud7.5"
+                    "Ud7.5",
+                    "Thag2.10"
                ],
                "xrefs": []
           }
@@ -7891,7 +8005,8 @@ export const indexObject =`{
      "charnel ground contemplation (sivathika)": {
           "": {
                "locators": [
-                    "Snp1.11"
+                    "Snp1.11",
+                    "Thag2.16"
                ],
                "xrefs": []
           }
@@ -8114,6 +8229,12 @@ export const indexObject =`{
           "of the past and future": {
                "locators": [
                     "Snp4.2"
+               ],
+               "xrefs": []
+          },
+          "suffering in": {
+               "locators": [
+                    "Thag1.93"
                ],
                "xrefs": []
           }
@@ -8768,7 +8889,8 @@ export const indexObject =`{
      "nature": {
           "as pleasing": {
                "locators": [
-                    "Thag1.13"
+                    "Thag1.13",
+                    "Thag1.113"
                ],
                "xrefs": []
           }
@@ -8835,6 +8957,12 @@ export const indexObject =`{
                     "Thag1.38"
                ],
                "xrefs": []
+          },
+          "recollection of past lives": {
+               "locators": [
+                    "Thag2.23"
+               ],
+               "xrefs": []
           }
      },
      "mistakes": {
@@ -8890,6 +9018,62 @@ export const indexObject =`{
           "": {
                "locators": [
                     "Thag1.84"
+               ],
+               "xrefs": []
+          }
+     },
+     "bowl": {
+          "": {
+               "locators": [
+                    "Thag1.97"
+               ],
+               "xrefs": []
+          }
+     },
+     "location": {
+          "leaving one not good for practice": {
+               "locators": [
+                    "Thag1.105"
+               ],
+               "xrefs": []
+          }
+     },
+     "women": {
+          "danger for monks": {
+               "locators": [
+                    "Thag2.9"
+               ],
+               "xrefs": []
+          }
+     },
+     "life": {
+          "shortness of": {
+               "locators": [
+                    "Thag2.13"
+               ],
+               "xrefs": []
+          }
+     },
+     "vanity": {
+          "": {
+               "locators": [
+                    "Thag2.19"
+               ],
+               "xrefs": []
+          }
+     },
+     "criticism": {
+          "wrongly directed": {
+               "locators": [
+                    "Thag2.20"
+               ],
+               "xrefs": []
+          }
+     },
+     "enlightenment": {
+          "while head being shaved": {
+               "locators": [
+                    "Thag2.25"
                ],
                "xrefs": []
           }

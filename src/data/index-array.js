@@ -7035,6 +7035,51 @@ export const indexArray =`[
           "purity (suddhi)"
      ],
      [
+          "Thag1.101",
+          "wrongly practiced",
+          "monastic life"
+     ],
+     [
+          "Thag1.105",
+          "leaving one not good for practice",
+          "location"
+     ],
+     [
+          "Thag1.108",
+          "old age",
+          "going forth (pabbajja)"
+     ],
+     [
+          "Thag1.111",
+          "difficulty of",
+          "monastic life"
+     ],
+     [
+          "Thag1.111",
+          "difficult",
+          "lay life"
+     ],
+     [
+          "Thag1.113",
+          "as pleasing",
+          "nature"
+     ],
+     [
+          "Thag1.114",
+          "wrongly practiced",
+          "monastic life"
+     ],
+     [
+          "Thag1.117",
+          "becoming while a lay person",
+          "arahant"
+     ],
+     [
+          "Thag1.118",
+          "body in",
+          "old age"
+     ],
+     [
           "Thag1.13",
           "as pleasing",
           "nature"
@@ -7265,9 +7310,139 @@ export const indexArray =`[
           "Dhamma"
      ],
      [
+          "Thag1.92",
+          "attachment to",
+          "food"
+     ],
+     [
+          "Thag1.93",
+          "suffering in",
+          "sense pleasures"
+     ],
+     [
+          "Thag1.95",
+          "with wicked",
+          "association"
+     ],
+     [
+          "Thag1.96",
+          "small amount gives big results",
+          "offerings"
+     ],
+     [
+          "Thag1.97",
+          "",
+          "bowl"
+     ],
+     [
           "Thag16.1",
           "fear of",
           "death (maraṇa)"
+     ],
+     [
+          "Thag2.10",
+          "",
+          "external qualities"
+     ],
+     [
+          "Thag2.11",
+          "eagerness to",
+          "learning"
+     ],
+     [
+          "Thag2.11",
+          "living with the Saṅgha",
+          "monastic life"
+     ],
+     [
+          "Thag2.13",
+          "shortness of",
+          "life"
+     ],
+     [
+          "Thag2.14",
+          "with good people",
+          "association"
+     ],
+     [
+          "Thag2.14",
+          "with fools like floating on a small log at sea",
+          "association"
+     ],
+     [
+          "Thag2.15",
+          "to people",
+          "attachment"
+     ],
+     [
+          "Thag2.16",
+          "",
+          "charnel ground contemplation (sivathika)"
+     ],
+     [
+          "Thag2.17",
+          "few posessions",
+          "monastic life"
+     ],
+     [
+          "Thag2.17",
+          "source of jealousy",
+          "honor"
+     ],
+     [
+          "Thag2.19",
+          "",
+          "vanity"
+     ],
+     [
+          "Thag2.2",
+          "subtle dart",
+          "honor"
+     ],
+     [
+          "Thag2.2",
+          "doesn’t lead to peace",
+          "food"
+     ],
+     [
+          "Thag2.20",
+          "wrongly directed",
+          "criticism"
+     ],
+     [
+          "Thag2.23",
+          "past lives",
+          "recollection"
+     ],
+     [
+          "Thag2.23",
+          "recollection of past lives",
+          "psychic powers"
+     ],
+     [
+          "Thag2.25",
+          "while head being shaved",
+          "enlightenment"
+     ],
+     [
+          "Thag2.3",
+          "monkey",
+          "mind"
+     ],
+     [
+          "Thag2.4",
+          "speaking little",
+          "speech"
+     ],
+     [
+          "Thag2.7",
+          "like poorly/well roofed house",
+          "mind"
+     ],
+     [
+          "Thag2.9",
+          "danger for monks",
+          "women"
      ],
      [
           "Thag21.1",
