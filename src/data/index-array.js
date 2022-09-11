@@ -1225,7 +1225,17 @@ export const indexArray =`[
           "robes"
      ],
      [
-          "Dhp100–2",
+          "Dhp100",
+          "small amount",
+          "listening to Dhamma"
+     ],
+     [
+          "Dhp101",
+          "small amount",
+          "listening to Dhamma"
+     ],
+     [
+          "Dhp102",
           "small amount",
           "listening to Dhamma"
      ],
@@ -1336,16 +1346,16 @@ export const indexArray =`[
      ],
      [
           "Dhp129",
-          "all fear",
-          "death (maraṇa)"
-     ],
-     [
-          "Dhp129–30",
           "",
           "killing"
      ],
      [
-          "Dhp129–30",
+          "Dhp129",
+          "all fear",
+          "death (maraṇa)"
+     ],
+     [
+          "Dhp129",
           "thinking of others as oneself",
           "killing"
      ],
@@ -1360,7 +1370,22 @@ export const indexArray =`[
           "lust (rāga)"
      ],
      [
-          "Dhp131–32",
+          "Dhp130",
+          "",
+          "killing"
+     ],
+     [
+          "Dhp130",
+          "thinking of others as oneself",
+          "killing"
+     ],
+     [
+          "Dhp131",
+          "result of",
+          "killing"
+     ],
+     [
+          "Dhp132",
           "result of",
           "killing"
      ],
@@ -2680,7 +2705,12 @@ export const indexArray =`[
           "self knowledge"
      ],
      [
-          "Dhp64–5",
+          "Dhp64",
+          "with wise",
+          "association"
+     ],
+     [
+          "Dhp65",
           "with wise",
           "association"
      ],
@@ -2730,7 +2760,12 @@ export const indexArray =`[
           "fame"
      ],
      [
-          "Dhp73–4",
+          "Dhp73",
+          "seeking power",
+          "fool"
+     ],
+     [
+          "Dhp74",
           "seeking power",
           "fool"
      ],
@@ -2890,7 +2925,12 @@ export const indexArray =`[
           "arahant"
      ],
      [
-          "Dhp98–9",
+          "Dhp98",
+          "residence of",
+          "arahant"
+     ],
+     [
+          "Dhp99",
           "residence of",
           "arahant"
      ],
@@ -8720,6 +8760,11 @@ export const indexArray =`[
           "death (maraṇa)"
      ],
      [
+          "xref abortion",
+          "test",
+          "actions"
+     ],
+     [
           "xref aging and death",
           "",
           "death (maraṇa)"
@@ -8963,11 +9008,6 @@ export const indexArray =`[
           "xref old age",
           "",
           "aging"
-     ],
-     [
-          "xref old age, illness, death",
-          "",
-          "death (maraṇa)"
      ],
      [
           "xref paccekabuddha",

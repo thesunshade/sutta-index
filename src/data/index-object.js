@@ -661,8 +661,7 @@ export const indexObject =`{
                ],
                "xrefs": [
                     "xref aging and death",
-                    "xref dependent origination",
-                    "xref old age, illness, death"
+                    "xref dependent origination"
                ]
           },
           "abandoning the training as": {
@@ -1337,7 +1336,9 @@ export const indexObject =`{
           },
           "small amount": {
                "locators": [
-                    "Dhp100–2",
+                    "Dhp100",
+                    "Dhp101",
+                    "Dhp102",
                     "Dhp259"
                ],
                "xrefs": []
@@ -2468,6 +2469,12 @@ export const indexObject =`{
                     "Snp3.9"
                ],
                "xrefs": []
+          },
+          "test": {
+               "locators": [],
+               "xrefs": [
+                    "xref abortion"
+               ]
           }
      },
      "evil": {
@@ -2657,7 +2664,8 @@ export const indexObject =`{
           "with wise": {
                "locators": [
                     "Kp5",
-                    "Dhp64–5",
+                    "Dhp64",
+                    "Dhp65",
                     "Dhp206–7",
                     "Iti76",
                     "Iti78",
@@ -4456,7 +4464,8 @@ export const indexObject =`{
           },
           "seeking power": {
                "locators": [
-                    "Dhp73–4"
+                    "Dhp73",
+                    "Dhp74"
                ],
                "xrefs": []
           }
@@ -4806,7 +4815,8 @@ export const indexObject =`{
           },
           "residence of": {
                "locators": [
-                    "Dhp98–9"
+                    "Dhp98",
+                    "Dhp99"
                ],
                "xrefs": []
           },
@@ -4918,19 +4928,22 @@ export const indexObject =`{
      "killing": {
           "": {
                "locators": [
-                    "Dhp129–30"
+                    "Dhp129",
+                    "Dhp130"
                ],
                "xrefs": []
           },
           "thinking of others as oneself": {
                "locators": [
-                    "Dhp129–30"
+                    "Dhp129",
+                    "Dhp130"
                ],
                "xrefs": []
           },
           "result of": {
                "locators": [
-                    "Dhp131–32"
+                    "Dhp131",
+                    "Dhp132"
                ],
                "xrefs": []
           }
