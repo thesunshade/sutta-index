@@ -7,11 +7,6 @@ import fuzz from "../functions/fuzz";
 export default function Headword(props) {
   const { headword, headwordObject, filterByText } = props;
   const sortedSubWords = sortedKeys(headwordObject);
-  const headwordDataString = JSON.stringify(headwordObject) + headword;
-
-  const regex = new RegExp(fuzz(filterByText), "i");
-
-  if (!fuzz(headwordDataString).match(regex)) return null;
 
   return (
     <div key={headword}>
@@ -20,7 +15,7 @@ export default function Headword(props) {
           <KeyWord filterByText={filterByText} stringToHighlight={headword} />
         </span>
         {headwordObject.hasOwnProperty("") ? (
-          <LocatorList headwordSubCount={sortedSubWords.length} locatorArray={headwordObject[""]} />
+          <LocatorList headwordSubCount={sortedSubWords.length} locatorXrefObject={headwordObject[""]} />
         ) : (
           ""
         )}
@@ -30,7 +25,7 @@ export default function Headword(props) {
         return (
           <div className="sub-word" key={subhead}>
             <KeyWord filterByText={filterByText} stringToHighlight={subhead} />{" "}
-            <LocatorList locatorArray={headwordObject[subhead]} />
+            <LocatorList locatorXrefObject={headwordObject[subhead]} />
           </div>
         );
       })}

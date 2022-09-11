@@ -1,10 +1,10 @@
-import { indexData } from "../data/index-data";
+import { indexObject } from "../data/index-object";
 import { indexArray } from "../data/index-array";
 import githubIcon from "../images/GitHub-Mark-64px-black.png";
 
 export default function Stats() {
   const index = JSON.parse(indexArray);
-  const headwords = Object.keys(JSON.parse(indexData));
+  const headwords = Object.keys(JSON.parse(indexObject));
   return (
     <>
       <div className="stats">

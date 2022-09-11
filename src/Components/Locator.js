@@ -1,32 +1,11 @@
-import makeNormalizedId from "../functions/makeNormalizedId";
+// import makeNormalizedId from "../functions/makeNormalizedId";
 import { useContext } from "react";
-import { ContextDestination, ContextFilterSetters } from "../App.js";
+import { ContextDestination } from "../App.js";
 
 export default function Locator(props) {
-  let { location, locatorListCount, headwordSubCount } = props;
+  let { location } = props;
   const destination = useContext(ContextDestination);
-  const [setFilterByText, setFilterInput] = useContext(ContextFilterSetters);
-  if (location.match(/xref/)) {
-    let xrefLabel = "see also";
-    if (locatorListCount === 1 && headwordSubCount === 1) {
-      xrefLabel = "see";
-    }
-    const locationId = makeNormalizedId(location.replace("xref ", ""));
-    return (
-      <>
-        {xrefLabel}{" "}
-        <a
-          href={"#" + locationId}
-          onClick={() => {
-            setFilterByText("");
-            setFilterInput("");
-          }}
-        >
-          {location.replace("xref ", "")}
-        </a>
-      </>
-    );
-  }
+  // const [setFilterByText, setFilterInput] = useContext(ContextFilterSetters);
 
   function stripRangesFromUrls(locator) {
     return locator.replace(/–.+/, "");
@@ -59,7 +38,6 @@ export default function Locator(props) {
       <a href={url} rel="noreferrer" target="_blank">
         {addHairSpace(location)}
       </a>
-      ,{" "}
     </span>
   );
 }

@@ -25,21 +25,37 @@ for (let i = 0; i < rawIndexArray.length - 1; i++) {
   const locator = rawIndexArray[i][2].trim();
 
   if (!index.hasOwnProperty(head)) {
-    // the key of the headword does not exist in the object yet, so create the key and add the value
-    index[head] = { [sub]: [locator] };
+    // the key of the headword does not exist in the object yet, so create the key and add the locator-xref object
+    index[head] = { [sub]: { locators: [], xrefs: [] } };
+    if (/xref/.test(locator)) {
+      index[head][sub].xrefs.push(locator);
+    } else {
+      index[head][sub].locators.push(locator);
+    }
   } else {
     if (!index[head].hasOwnProperty(sub)) {
       // the key for the headword exists, but the sub does not exist as a key
-      index[head][sub] = [locator];
+      index[head][sub] = { locators: [], xrefs: [] };
+
+      if (/xref/.test(locator)) {
+        index[head][sub].xrefs.push(locator);
+      } else {
+        index[head][sub].locators.push(locator);
+      }
     } else {
       // the head and sub already exist, so the locator must be pushed into the array
-      index[head][sub].push(locator);
+      if (/xref/.test(locator)) {
+        index[head][sub].xrefs.push(locator);
+      } else {
+        index[head][sub].locators.push(locator);
+      }
     }
   }
 }
 
-const object = `export const indexData =\`${JSON.stringify(index, null, 5)}\``;
+const object = `export const indexObject =\`${JSON.stringify(index, null, 5)}\``;
 
+// create the array sorted by locator first
 let locatorFirstArray = [];
 
 for (let i = 0; i < rawIndexArray.length - 1; i++) {
@@ -54,7 +70,7 @@ locatorFirstArray.sort((a, b) => {
 const array = `export const indexArray =\`${JSON.stringify(locatorFirstArray, null, 5)}\``;
 
 try {
-  fs.writeFileSync("./src/data/index-data.js", object);
+  fs.writeFileSync("./src/data/index-object.js", object);
 } catch (err) {
   console.error(err);
 }

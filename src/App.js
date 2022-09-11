@@ -48,8 +48,11 @@ function App() {
       <div className="settings-bar">
         <div className="top-row">
           <div className="filter-area">
-            <label id="user-input-label" htmlFor="user-input"></label>
+            <label id="user-input-label" htmlFor="user-input">
+              Filter by:
+            </label>
             <input
+              className="filter-input-box"
               id="user-input"
               autoFocus
               type="text"
