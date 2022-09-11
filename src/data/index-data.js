@@ -1223,6 +1223,9 @@ export const indexData =`{
           ],
           "as suffering": [
                "Dhp202"
+          ],
+          "remaining after enlightenment": [
+               "Thag1.90"
           ]
      },
      "sense fields": {
@@ -1583,6 +1586,9 @@ export const indexData =`{
                "Snp2.6",
                "Snp2.8",
                "Thag1.4"
+          ],
+          "with good people": [
+               "Thag1.75"
           ]
      },
      "austerity": {
@@ -1735,6 +1741,9 @@ export const indexData =`{
           ],
           "excellence is like fire blazing": [
                "Thag1.3"
+          ],
+          "as openhanded": [
+               "Thag1.86"
           ]
      },
      "Dhamma": {
@@ -1783,6 +1792,9 @@ export const indexData =`{
           ],
           "sound of": [
                "Vv5.1"
+          ],
+          "as sweetest taste": [
+               "Thag1.91"
           ]
      },
      "Saṅgha": {
@@ -1890,6 +1902,9 @@ export const indexData =`{
           ],
           "as well spoken words": [
                "Snp3.3"
+          ],
+          "to householders": [
+               "Thag1.65"
           ]
      },
      "departed relatives": {
@@ -2486,6 +2501,9 @@ export const indexData =`{
           ],
           "wrongly directed worse than enemy": [
                "Ud4.3"
+          ],
+          "training like elephant trainer does": [
+               "Thag1.77"
           ]
      },
      "faith (saddhā)": {
@@ -2664,7 +2682,8 @@ export const indexData =`{
                "Snp2.10"
           ],
           "fondness for": [
-               "Thag1.17"
+               "Thag1.17",
+               "Thag1.84"
           ]
      },
      "self taming": {
@@ -2701,6 +2720,9 @@ export const indexData =`{
      "wise people": {
           "simile of lake": [
                "Dhp82"
+          ],
+          "can identify fools and wise": [
+               "Thag1.61"
           ]
      },
      "sadness and happiness": {
@@ -2710,10 +2732,11 @@ export const indexData =`{
      },
      "renunciation": {
           "": [
-               "Dhp87–8",
+               "Dhp87",
+               "Dhp88",
                "Snp1.2"
           ],
-          "simile of swan": [
+          "like swan leaving home": [
                "Dhp91"
           ],
           "bliss of": [
@@ -2730,25 +2753,26 @@ export const indexData =`{
           ]
      },
      "mindful person": {
-          "simile of swan": [
+          "like swan leaving home": [
                "Dhp91"
           ]
      },
      "arahant": {
-          "simile of bird in sky": [
-               "Dhp92–3"
+          "like path of bird is hard to trace": [
+               "Dhp92",
+               "Dhp93"
           ],
           "envied by gods": [
                "Dhp94",
                "Ud3.7–8"
           ],
-          "simile of lake": [
+          "like clear lake": [
                "Dhp95"
           ],
-          "simile of earth": [
+          "like earth is undisturbed": [
                "Dhp95"
           ],
-          "simile of post": [
+          "like post is steady": [
                "Dhp95"
           ],
           "residence of": [
@@ -2787,6 +2811,11 @@ export const indexData =`{
           ],
           "days pass peacefully": [
                "Thag1.16"
+          ]
+     },
+     "storing up things": {
+          "": [
+               "Dhp92"
           ]
      },
      "harming a good person": {
@@ -3252,6 +3281,9 @@ export const indexData =`{
           ],
           "knowable through discussion": [
                "Ud6.2"
+          ],
+          "as higher than virtue": [
+               "Thag1.70"
           ]
      },
      "mindfulness of body": {
@@ -3277,6 +3309,9 @@ export const indexData =`{
           ],
           "gods rejoice": [
                "Iti82"
+          ],
+          "out of faith": [
+               "Thag1.46"
           ]
      },
      "lay life": {
@@ -3672,6 +3707,9 @@ export const indexData =`{
           "bad": [
                "Pv4.8",
                "Pv4.9"
+          ],
+          "people envy": [
+               "Thag1.62"
           ]
      },
      "detachment": {
@@ -4009,6 +4047,9 @@ export const indexData =`{
           ],
           "simile of flood": [
                "Snp1.1"
+          ],
+          "removed with conceit": [
+               "Thag1.64"
           ]
      },
      "moths into flame": {
@@ -5145,6 +5186,37 @@ export const indexData =`{
      "mistakes": {
           "recovering like thoroughbred": [
                "Thag1.45"
+          ]
+     },
+     "devoted to oneness (ekattanirata)": {
+          "": [
+               "Thag1.49"
+          ]
+     },
+     "without a partner (adutio)": {
+          "": [
+               "Thag1.54"
+          ]
+     },
+     "kutis": {
+          "": [
+               "Thag1.56",
+               "Thag1.57"
+          ]
+     },
+     "happiness through happiness": {
+          "": [
+               "Thag1.63"
+          ]
+     },
+     "divine messengers": {
+          "": [
+               "Thag1.73"
+          ]
+     },
+     "socializing": {
+          "": [
+               "Thag1.84"
           ]
      }
 }`

@@ -2795,7 +2795,12 @@ export const indexArray =`[
           "Dhamma"
      ],
      [
-          "Dhp87–8",
+          "Dhp87",
+          "",
+          "renunciation"
+     ],
+     [
+          "Dhp88",
           "",
           "renunciation"
      ],
@@ -2806,17 +2811,27 @@ export const indexArray =`[
      ],
      [
           "Dhp91",
-          "simile of swan",
+          "like swan leaving home",
           "mindful person"
      ],
      [
           "Dhp91",
-          "simile of swan",
+          "like swan leaving home",
           "renunciation"
      ],
      [
-          "Dhp92–3",
-          "simile of bird in sky",
+          "Dhp92",
+          "like path of bird is hard to trace",
+          "arahant"
+     ],
+     [
+          "Dhp92",
+          "",
+          "storing up things"
+     ],
+     [
+          "Dhp93",
+          "like path of bird is hard to trace",
           "arahant"
      ],
      [
@@ -2826,17 +2841,17 @@ export const indexArray =`[
      ],
      [
           "Dhp95",
-          "simile of lake",
+          "like clear lake",
           "arahant"
      ],
      [
           "Dhp95",
-          "simile of earth",
+          "like earth is undisturbed",
           "arahant"
      ],
      [
           "Dhp95",
-          "simile of post",
+          "like post is steady",
           "arahant"
      ],
      [
@@ -7075,9 +7090,104 @@ export const indexArray =`[
           "mistakes"
      ],
      [
+          "Thag1.46",
+          "out of faith",
+          "going forth (pabbajja)"
+     ],
+     [
+          "Thag1.49",
+          "",
+          "devoted to oneness (ekattanirata)"
+     ],
+     [
+          "Thag1.54",
+          "",
+          "without a partner (adutio)"
+     ],
+     [
+          "Thag1.56",
+          "",
+          "kutis"
+     ],
+     [
+          "Thag1.57",
+          "",
+          "kutis"
+     ],
+     [
+          "Thag1.61",
+          "can identify fools and wise",
+          "wise people"
+     ],
+     [
+          "Thag1.62",
+          "people envy",
+          "monastics"
+     ],
+     [
+          "Thag1.63",
+          "",
+          "happiness through happiness"
+     ],
+     [
+          "Thag1.64",
+          "removed with conceit",
+          "conceit (māna)"
+     ],
+     [
+          "Thag1.65",
+          "to householders",
+          "Dhamma teaching"
+     ],
+     [
           "Thag1.7",
           "army of pushed away like flood ",
           "Māra"
+     ],
+     [
+          "Thag1.70",
+          "as higher than virtue",
+          "wisdom"
+     ],
+     [
+          "Thag1.73",
+          "",
+          "divine messengers"
+     ],
+     [
+          "Thag1.75",
+          "with good people",
+          "association"
+     ],
+     [
+          "Thag1.77",
+          "training like elephant trainer does",
+          "mind"
+     ],
+     [
+          "Thag1.84",
+          "fondness for",
+          "sleep"
+     ],
+     [
+          "Thag1.84",
+          "",
+          "socializing"
+     ],
+     [
+          "Thag1.86",
+          "as openhanded",
+          "Buddha, the"
+     ],
+     [
+          "Thag1.90",
+          "remaining after enlightenment",
+          "aggregates"
+     ],
+     [
+          "Thag1.91",
+          "as sweetest taste",
+          "Dhamma"
      ],
      [
           "Thag16.1",

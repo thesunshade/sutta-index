@@ -68,14 +68,8 @@ function App() {
               X
             </button>
           </div>
-          <button
-            onClick={() => {
-              toggleView();
-            }}
-          >
-            table
-          </button>
-          <button onClick={() => window.scrollTo(0, 0)}>^</button>
+
+          <button onClick={() => window.scrollTo(0, 0)}>Go to Top</button>
           <div className="settings-button">
             <img
               width="17px"
@@ -88,6 +82,16 @@ function App() {
           </div>
         </div>
         <div id="options-area" className="options-area hidden">
+          <label className="table-view">
+            <button
+              onClick={() => {
+                toggleView();
+              }}
+            >
+              Toggle Table View
+            </button>{" "}
+            To see listing by book
+          </label>
           <div
             className="radiobuttonarea"
             onChange={e => {
