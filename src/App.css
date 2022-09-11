@@ -3,6 +3,14 @@
   --primary: #ff9100;
 }
 
+* {
+  box-sizing: border-box
+}
+
+App {
+  width: 100vw;
+}
+
 html {
   scroll-padding-top: 3rem;
   /* height of sticky header */
@@ -93,6 +101,11 @@ button {
   border: none */
 }
 
+.settings-notice {
+  margin-top: .5rem;
+  font-size: .9rem;
+  color: rgb(80, 80, 80)
+}
 
 
 .sutta-index {

@@ -136,6 +136,10 @@ function App() {
               </label>
             </div>
           </div>{" "}
+          <div className="settings-notice">
+            <i>Currently</i> the Citation Helper is the best choice. Links to other sites <i>may</i> be broken. Patience
+            is the highest virtue.
+          </div>
           <Stats />
         </div>
       </div>
