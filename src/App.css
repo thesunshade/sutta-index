@@ -76,6 +76,17 @@ input::placeholder {
   display: none
 }
 
+.settings-button img {
+  display: flex;
+  margin-top: 0.2rem;
+  rotate: 0deg;
+  transition: rotate ease-in-out 1s;
+}
+
+.settings-button img:hover {
+  rotate: 90deg;
+}
+
 button {
   /* padding: .1rem;
   background: none;

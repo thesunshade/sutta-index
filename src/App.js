@@ -135,7 +135,8 @@ function App() {
                 SC Voice
               </label>
             </div>
-          </div>
+          </div>{" "}
+          <Stats />
         </div>
       </div>
       {/* close settings bar */}
@@ -148,8 +149,6 @@ function App() {
           </ContextDestination.Provider>
         </ContextFilterSetters.Provider>
       )}
-
-      <Stats />
     </div>
   );
 }

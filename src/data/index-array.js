@@ -371,7 +371,7 @@ export const indexArray =`[
      ],
      [
           "AN4.34",
-          "to the sangha",
+          "to the Saṅgha",
           "giving (dāna)"
      ],
      [
@@ -416,7 +416,7 @@ export const indexArray =`[
      ],
      [
           "AN4.60",
-          "to the sangha",
+          "to the Saṅgha",
           "giving (dāna)"
      ],
      [
@@ -671,7 +671,7 @@ export const indexArray =`[
      ],
      [
           "AN5.32",
-          "to the sangha",
+          "to the Saṅgha",
           "giving (dāna)"
      ],
      [
@@ -851,7 +851,7 @@ export const indexArray =`[
      ],
      [
           "AN6.59",
-          "to the sangha",
+          "to the Saṅgha",
           "giving (dāna)"
      ],
      [
@@ -891,7 +891,7 @@ export const indexArray =`[
      ],
      [
           "AN7.53",
-          "to the sangha",
+          "to the Saṅgha",
           "giving (dāna)"
      ],
      [
@@ -956,7 +956,7 @@ export const indexArray =`[
      ],
      [
           "AN8.34",
-          "to the sangha",
+          "to the Saṅgha",
           "giving (dāna)"
      ],
      [
@@ -1071,7 +1071,7 @@ export const indexArray =`[
      ],
      [
           "AN8.59",
-          "to the sangha",
+          "to the Saṅgha",
           "giving (dāna)"
      ],
      [
@@ -1111,7 +1111,7 @@ export const indexArray =`[
      ],
      [
           "AN9.20",
-          "to the sangha",
+          "to the Saṅgha",
           "giving (dāna)"
      ],
      [
@@ -4426,7 +4426,7 @@ export const indexArray =`[
      ],
      [
           "MN142",
-          "to the sangha",
+          "to the Saṅgha",
           "giving (dāna)"
      ],
      [
@@ -5066,7 +5066,7 @@ export const indexArray =`[
      ],
      [
           "SN11.16",
-          "to the sangha",
+          "to the Saṅgha",
           "giving (dāna)"
      ],
      [

@@ -268,7 +268,7 @@ export const indexData =`{
                "Iti26",
                "MN135"
           ],
-          "to the sangha": [
+          "to the Saṅgha": [
                "AN4.34",
                "AN4.60",
                "AN5.32",

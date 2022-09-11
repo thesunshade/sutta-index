@@ -2,13 +2,16 @@ import sortedKeys from "../functions/sortedKeys";
 import LocatorList from "./LocatorList";
 import makeNormalizedId from "../functions/makeNormalizedId";
 import KeyWord from "./KeyWord";
+import fuzz from "../functions/fuzz";
 
 export default function Headword(props) {
   const { headword, headwordObject, filterByText } = props;
   const sortedSubWords = sortedKeys(headwordObject);
   const headwordDataString = JSON.stringify(headwordObject) + headword;
-  const regex = new RegExp(filterByText, "i");
-  if (!headwordDataString.match(regex)) return null;
+
+  const regex = new RegExp(fuzz(filterByText), "i");
+
+  if (!fuzz(headwordDataString).match(regex)) return null;
 
   return (
     <div key={headword}>

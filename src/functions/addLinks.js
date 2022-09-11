@@ -3,7 +3,6 @@
 
 import { dhammapada } from "../data/dhammapada.js";
 import findSuttaName from "./findSuttaName.js";
-import validateCitation from "./validateCitation.js";
 
 export default function addLinks(props) {
   const { textToLink, format, isAllTranslations, isNewTab } = props;
