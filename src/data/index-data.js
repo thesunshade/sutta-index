@@ -2622,7 +2622,7 @@ export const indexData =`{
                "Dhp328",
                "Dhp331",
                "Dhp376",
-               "Xref bad friends"
+               "xref bad friends"
           ],
           "helps with cetovimuttiya": [
                "Ud4.1"

@@ -8595,7 +8595,7 @@ export const indexArray =`[
           "brahmin"
      ],
      [
-          "Xref bad friends",
+          "xref bad friends",
           "",
           "friendship"
      ],
