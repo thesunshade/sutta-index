@@ -4,6 +4,6 @@
 - [x] http://localhost:3000/#perception-of-ugliness-asubhasanna) should not have )
 - [ ] fuzz filtering
 
-- [ ] split locators into array of citations and an array of xrefs
-- [ ] deal with commas in citation list
-- [ ] make single "see also" at start of semicolon separated list of xrefs
+- [x] split locators into array of citations and an array of xrefs
+- [x] deal with commas in citation list
+- [x] make single "see also" at start of semicolon separated list of xrefs

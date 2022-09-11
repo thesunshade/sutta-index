@@ -16,6 +16,20 @@ function App() {
   const [filterInput, setFilterInput] = useState("");
   const [filterByText, setFilterByText] = useState("");
 
+  if (localStorage.theme === "dark") {
+    document.body.classList.add("dark");
+  }
+
+  function toggleTheme() {
+    if (localStorage.theme === "light") {
+      document.body.classList.add("dark");
+      localStorage.theme = "dark";
+    } else {
+      document.body.classList.remove("dark");
+      localStorage.theme = "light";
+    }
+  }
+
   function toggleView() {
     if (isLocatorView === false) {
       setIsLocatorView(true);
@@ -71,7 +85,6 @@ function App() {
               X
             </button>
           </div>
-
           <button onClick={() => window.scrollTo(0, 0)}>Go to Top</button>
           <div className="settings-button">
             <img
@@ -82,6 +95,14 @@ function App() {
                 document.getElementById("options-area").classList.toggle("hidden");
               }}
             ></img>
+          </div>{" "}
+          <div id="theme-button" className="icon-button" onClick={toggleTheme}>
+            <svg xmlns="http://www.w3.org/2000/svg" height="14" viewBox="0 0 24 24">
+              <path
+                d="M0 12c0 6.627 5.373 12 12 12s12-5.373 12-12-5.373-12-12-12-12 5.373-12 12zm2 0c0-5.514 4.486-10 10-10v20c-5.514 0-10-4.486-10-10z"
+                fill="#989898"
+              />
+            </svg>
           </div>
         </div>
         <div id="options-area" className="options-area hidden">
