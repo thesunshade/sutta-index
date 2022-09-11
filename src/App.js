@@ -18,6 +18,8 @@ function App() {
 
   if (localStorage.theme === "dark") {
     document.body.classList.add("dark");
+  } else {
+    localStorage.theme = "light";
   }
 
   function toggleTheme() {

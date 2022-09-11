@@ -41,7 +41,8 @@ body {
   display: flex;
   flex-direction: column;
   flex-wrap: wrap;
-  row-gap: 1rem
+  row-gap: 1rem;
+  box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
 }
 
 .dark .settings-bar {
@@ -73,8 +74,9 @@ body {
   font-size: 1rem;
   height: 1.72rem;
   padding: .2rem;
-  background-color: var(--primary);
-  margin-left: .5rem
+  background-color: transparent;
+  margin-left: .5rem;
+
 }
 
 .dark .filter-input-box {
@@ -182,7 +184,6 @@ a:visited {
 }
 
 .stats {
-  /* background-color: var(--primary); */
   color: var(--offwhite);
   margin-top: 2rem;
   padding: .5rem;
