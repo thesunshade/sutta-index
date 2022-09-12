@@ -9765,7 +9765,7 @@ export const indexArray =`[
           "thirty-two marks"
      ],
      [
-          "Xref Māyā, queen Mahā",
+          "xref Māyā, queen Mahā",
           "",
           "Mahā Māyā, queen"
      ],

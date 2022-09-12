@@ -9690,10 +9690,10 @@ export const indexObject =`{
      },
      "Mahā Māyā, queen": {
           "": {
-               "locators": [
-                    "Xref Māyā, queen Mahā"
-               ],
-               "xrefs": []
+               "locators": [],
+               "xrefs": [
+                    "xref Māyā, queen Mahā"
+               ]
           }
      },
      "slow spiritual progress": {

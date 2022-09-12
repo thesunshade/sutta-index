@@ -152,6 +152,10 @@ html {
     font-family: "Fira Sans ExtraCompressed";
   }
 
+  .sutta-index {
+    line-height: 130%;
+  }
+
   input {
     max-width: 9rem;
   }
@@ -217,7 +221,7 @@ a:visited {
 }
 
 .head-word {
-  font-weight: 500
+  font-weight: bold
 }
 
 .highlight {
@@ -240,9 +244,16 @@ a:visited {
 
 .stats {
   color: var(--offwhite);
-  margin-top: 2rem;
+  margin-top: 1rem;
   padding: .5rem;
+
+
+}
+
+.row-1,
+.row-2 {
   display: flex;
+  flex-direction: row;
   column-gap: 1rem;
 }
 

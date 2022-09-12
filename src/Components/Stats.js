@@ -8,20 +8,27 @@ export default function Stats() {
   return (
     <>
       <div className="stats">
-        <div>
-          Number of headwords: <span className="number">{headwords.length}</span>
+        <div className="row-1">
+          <div>
+            Number of headwords: <span className="number">{headwords.length}</span>
+          </div>
+          <div>
+            Number of locators: <span className="number">{index.length}</span>
+          </div>
+          <a
+            href="https://github.com/thesunshade/sutta-index#readme"
+            title="The source code for this site"
+            rel="noreferrer"
+            target="_blank"
+          >
+            <img width="20px" src={githubIcon} alt="GitHub icon" />
+          </a>
         </div>
-        <div>
-          Number of locators: <span className="number">{index.length}</span>
-        </div>
-        <a
-          href="https://github.com/thesunshade/sutta-index#readme"
-          title="The source code for this site"
-          rel="noreferrer"
-          target="_blank"
-        >
-          <img width="20px" src={githubIcon} alt="GitHub icon" />
-        </a>
+      </div>
+      <div className="row-2">
+        Complete Books: Kp, Dhp, Ud, Iti, Snp, Vv, Pv
+        <br />
+        Planned Books: Thag, Thig, DN, MN, SN, AN
       </div>
     </>
   );

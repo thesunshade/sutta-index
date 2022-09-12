@@ -67,6 +67,18 @@ locatorFirstArray.sort((a, b) => {
   return a[0].localeCompare(b[0]);
 });
 
+// test for blank locator field
+for (let i = 0; i < locatorFirstArray.length; i++) {
+  if (locatorFirstArray[i][0] === "") {
+    console.error("Missing Locator:");
+    console.error(locatorFirstArray[i]);
+  }
+  if (!/(DN|MN|SN|AN|Kp|Dhp|Ud|Iti|Snp|Vv|Pv|Thag|Thig|xref)/.test(locatorFirstArray[i][0])) {
+    console.error("Badd citation or xref:");
+    console.error(locatorFirstArray[i]);
+  }
+}
+
 const array = `export const indexArray =\`${JSON.stringify(locatorFirstArray, null, 5)}\``;
 
 try {
