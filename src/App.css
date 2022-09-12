@@ -6,6 +6,60 @@
   --offblack: rgb(21, 13, 1);
 }
 
+@font-face {
+  font-family: "Fira Sans";
+  src: url("./fonts/firasans-regular-webfont.woff") format('woff'),
+    url("./fonts/firasans-regular-webfont.woff2") format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Fira Sans";
+  src: url("./fonts/firasans-bold-webfont.woff") format('woff'),
+    url("./fonts/firasans-bold-webfont.woff2") format('woff2');
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Fira Sans";
+  src: url("./fonts/firasans-italic-webfont.woff") format('woff'),
+    url("./fonts/firasans-italic-webfont.woff2") format('woff2');
+  font-weight: normal;
+  font-style: italic;
+}
+
+
+@font-face {
+  font-family: "Fira Sans ExtraCompressed";
+  src: url("./fonts/firasansextracondensed-regular-webfont.woff") format('woff'),
+    url("./fonts/firasansextracondensed-regular-webfont.woff2") format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Fira Sans ExtraCompressed";
+  src: url("./fonts/firasansextracondensed-bold-webfont.woff") format('woff'),
+    url("./fonts/firasansextracondensed-bold-webfont.woff2") format('woff2');
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Fira Sans ExtraCompressed";
+  src: url("./fonts/firasansextracondensed-italic-webfont.woff") format('woff'),
+    url("./fonts/firasansextracondensed-italic-webfont.woff2") format('woff2');
+  font-weight: normal;
+  font-style: italic;
+}
+
+body {
+  font-family: "Fira Sans";
+
+}
+
 body.dark {
   background-color: var(--offblack);
   color: var(--offwhite);
@@ -26,10 +80,7 @@ html {
   background-color: var(--offwhite);
 }
 
-body {
-  font-family: "Fira Sans";
 
-}
 
 .settings-bar {
   background-color: var(--primary);
@@ -97,6 +148,10 @@ body {
 }
 
 @media only screen and (max-width: 475px) {
+  body {
+    font-family: "Fira Sans ExtraCompressed";
+  }
+
   input {
     max-width: 9rem;
   }

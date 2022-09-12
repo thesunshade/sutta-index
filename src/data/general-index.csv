@@ -476,7 +476,7 @@ association with people		Kp5
 honor		Kp5
 region	suitable	Kp5
 merit (puññā)		Kp5
-resolution/determination		Kp5
+determination		Kp5
 education		Kp5
 discipline		Kp5
 training		Kp5
@@ -567,9 +567,9 @@ meditation	postures	Kp9
 wrong views		Kp9
 virtue	as criterion for loving-kindness	Kp9
 intention		Dhp1
-actions	results and	Dhp1
+actions (kamma)	results and	Dhp1
 intention		Dhp2
-actions	results and	Dhp2
+actions (kamma)	results and	Dhp2
 grudge		Dhp3
 accusation		Dhp3
 grudge		Dhp4
@@ -641,8 +641,8 @@ death (maraṇa)	simile of flood	Dhp47
 alms gatherer	simile of bee and flower	Dhp49
 faultfinding		Dhp50
 self examination		Dhp50
-beautiful words without practicing	simile of flower 	Dhp51
-beautiful words beneficial for the one who practices	simile of flower	Dhp52
+beautiful words without practicing	like flower without fragrance	Dhp51
+beautiful words beneficial for the one who practices	like flower with frangrance	Dhp52
 good actions	simile of garland maker	Dhp53
 reputation	simile of fragrance	Dhp54
 virtue	as supreme fragrance	Dhp55
@@ -1070,7 +1070,7 @@ sensual pleasures	as cause of disputes	Ud6.8
 moths into flame		Ud6.9
 followers of other paths	honored when Buddhas don’t arise	Ud6.10
 sensual pleasures	simile of fish in net	Ud7.4
-external qualities		Ud7.5
+external appearance		Ud7.5
 good people	praised by gods	Ud7.6
 proliferation (papañca)		Ud7.7
 Buddha, the	psychic powers	Ud7.9
@@ -1309,7 +1309,7 @@ debt	avoidance of paying	Snp1.7
 parents	not caring for	Snp1.7
 bad actions	not wanting to get caught	Snp1.7
 false spiritual claims		Snp1.7
-actions	not birth defines a person	Snp1.7
+actions (kamma)	not birth defines a person	Snp1.7
 caste		Snp1.7
 birth is not determinant		Snp1.7
 yakkha		Snp1.9
@@ -1414,7 +1414,7 @@ birth is not determinant		Snp3.9
 caste	only conventional designation	Snp3.9
 arahant		xref brahmin
 brahmin		xref arahant
-actions	not birth defines a person	Snp3.9
+actions (kamma)	not birth defines a person	Snp3.9
 criticizing noble ones		Snp3.10
 Kokālika	criticizes chief disciples	Snp3.10
 Sahampati Brahmā	reports Kokālika’s birth in hell	Snp3.10
@@ -1854,3 +1854,132 @@ criticism	wrongly directed	Thag2.20
 recollection	past lives	Thag2.23
 psychic powers	recollection of past lives	Thag2.23
 enlightenment	while head being shaved	Thag2.25
+Dhamma	mirror	Thag2.26
+body	emptiness of	Thag2.26
+body		xref mindfulness of body
+mindfulness of body		xref body
+mistakes	recovering like thoroughbred	Thag2.27
+lions roar	of disciples	Thag2.28
+lions roar	of disciples	Thag2.29
+learning	associating with good people	Thag2.30
+house builder	simile of 	Thag2.32
+house builder	simile of 	Dhp153
+house builder	simile of 	Dhp154
+Buddha, the	illness of 	Thag2.33
+learning	without practicing	Thag2.34
+mind	like steady rock	Thag2.36
+annoyances	not bothered by	Thag2.36
+alms gathering practice		Thag2.39
+sleepiness		Thag2.40
+external appearance		Thag2.44
+boasting		Thag2.45
+going forth (pabbajja)	easy to 	Thag2.46
+Bodhi Tree		Thag2.49
+fire worship (aggika)		Thag3.1
+determination	not to move until enlightened	Thag3.2
+talking without doing		Thag3.3
+contentment	with four requisites	Thag3.4
+excuses		Thag3.5
+loving-kindness (mettā)	mind of love makes merit	Thag3.7
+monastics	family of	Thag3.8
+Dhamma teaching	to ones family	Thag3.8
+solitary life	like a brahmā	Thag3.9
+living alone		xref solitary life
+companionship	as noisy	Thag3.9
+faith (saddhā)	changes	Thag3.10
+monastic life	advice for new mons	Thag3.11
+monastic life	living with the Saṅgha	Thag3.11
+Dhamma teaching	to ones family	Thag3.13
+rebirth	in various realms	Thag3.14
+talking without doing		Thag3.15
+association	with fools like floating on a small log at sea	Thag3.16
+women	danger for monks	Thag4.1
+walking meditation		Thag4.2
+sleepiness		Thag4.2
+respect	for spiritual companions	Thag4.3
+perception of ugliness (asubhasañña)		Thag4.4
+ascetic practices	uselessness of	Thag4.5
+Buddha, the	praise of	Thag4.6
+Rāhula, Ven		Thag4.8
+dangers	family life	Thag4.9
+nature	as pleasing	Thag4.11
+determination	not to move until enlightened	Thag4.12
+charnel ground contemplation (sivathika)		Thag5.1
+promises	keeping	Thag5.2
+beautiful words without practicing	like flower without fragrance	Thag5.2
+beautiful words beneficial for the one who practices	like flower with frangrance	Thag5.2
+fire worship (aggika)		Thag5.6
+impurity as purity		Thag5.6
+bathing	as ritual	Thag5.7
+recollection of the Buddha (buddhānussati)		Thag5.8
+mind	caging like an elephant	Thag5.9
+mind	trained like a horse	Thag5.9
+mindfulness	binding with	Thag5.9
+listening to Dhamma	fault-finding	Thag5.10
+reciting Dhamma	to the Buddha	Thag5.11
+reciting Dhamma	to the Buddha	Ud5.6
+peaceful person	like deep ocean is still	Thag5.12
+learning	living in line with what has been learned	Thag5.12
+recollection of the Buddha (buddhānussati)	for happiness	Thag6.2
+recollection of the Dhamma (dhammānussati)	for happiness	Thag6.2
+recollection of the Saṅgha (saṅghānussati)	for happiness	Thag6.2
+brahmaviharas		Thag6.2
+respect	for spiritual companions	Thag6.3
+charnel ground contemplation (sivathika)		Thag6.4
+perception of ugliness (asubhasañña)		Thag6.4
+heedlessness (pamāda)	like a monkey swinging	Thag6.5
+sorrow		xref sadness
+sorrow	like water falls off of louts leaf	Thag6.5
+monastic life	not getting results for a long time	Thag6.6
+suicide	aborted attempt	Thag6.6
+monastic life	advice for	Thag6.7
+laziness		Thag6.7
+thunderbolt	of knowledge	Thag6.8
+actions (kamma)	knowing actions as actions and results as results	Thag6.8
+arrogance		Thag6.9
+pride		xref arrogance
+respect	not giving	Thag6.9
+conceit of superiority (atimāna)		Thag6.9
+conceit of inferiority (omāno)		Thag6.9
+child arahants		Thag6.10
+arahant		xref child arahants
+Anotatta lake		Thag6.10
+humility	not wanting others to know attinments	Thag6.10
+sickness	practicing while	Thag6.11
+simile of the saw		Thag6.12
+simile of child’s flesh		Thag6.12
+anger (kodha)	keep in check	Thag6.12
+anger (kodha)	remove with simile of the saw	Thag6.12
+death (maraṇa)	coming like a wall of flame	Thag6.13
+wasting opportunity		Thag6.13
+death (maraṇa)	inevitability of	Thag6.13
+women	danger for monks	Thag6.14
+perception of ugliness (asubhasañña)		Thag6.14
+courtesans		Thag7.1
+monastic life	avoiding women	Thag7.1
+monastics	tempted by women	Thag7.1
+mindfulness of body	wishing for the world	Thag7.2
+external appearance	as deceiving	Thag7.2
+child arahants		Thag7.3
+child arahants		Thag7.4
+monastic rules (vinaya)	damaging plants	Thag7.5
+Buddhas	all teachings the same	Thag7.5
+work	caught up in	Thag8.1
+honor	like a bog	Thag8.1
+kamma		xref actions (kamma)
+actions (kamma)	as relative (kammabandhū)	Thag8.1
+wealth	loss of	Thag8.1
+determination	not to move until enlightened	Thag8.3
+resolution		xref determination
+hope	for success	Thag10.1
+family	benefited by arahant relative	Thag10.1
+Suddhodana, king		Thag10.1
+Māyā, queen Mahā		Thag10.1
+Mahā Māyā, queen		Xref Māyā, queen Mahā
+solitude	delight in	Thag10.1
+mindfulness of breathing		Thag10.3
+grieving	makes enemies rejoice	Thag10.3
+slow spiritual progress		Thag10.4
+monastic life	not getting results for a long time	Thag10.4
+clean cloth		xref cloth, clean
+cloth, clean	meditation on	Thag10.4

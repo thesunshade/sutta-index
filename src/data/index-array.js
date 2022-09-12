@@ -1217,7 +1217,7 @@ export const indexArray =`[
      [
           "Dhp1",
           "results and",
-          "actions"
+          "actions (kamma)"
      ],
      [
           "Dhp10",
@@ -1485,6 +1485,11 @@ export const indexArray =`[
           "unlearned person"
      ],
      [
+          "Dhp153",
+          "simile of ",
+          "house builder"
+     ],
+     [
           "Dhp153–54",
           "",
           "first verses of Buddha"
@@ -1493,6 +1498,11 @@ export const indexArray =`[
           "Dhp153–54",
           "",
           "rebirth"
+     ],
+     [
+          "Dhp154",
+          "simile of ",
+          "house builder"
      ],
      [
           "Dhp155 ",
@@ -1727,7 +1737,7 @@ export const indexArray =`[
      [
           "Dhp2",
           "results and",
-          "actions"
+          "actions (kamma)"
      ],
      [
           "Dhp20",
@@ -2636,12 +2646,12 @@ export const indexArray =`[
      ],
      [
           "Dhp51",
-          "simile of flower ",
+          "like flower without fragrance",
           "beautiful words without practicing"
      ],
      [
           "Dhp52",
-          "simile of flower",
+          "like flower with frangrance",
           "beautiful words beneficial for the one who practices"
      ],
      [
@@ -3952,7 +3962,7 @@ export const indexArray =`[
      [
           "Kp5",
           "",
-          "resolution/determination"
+          "determination"
      ],
      [
           "Kp5",
@@ -6227,7 +6237,7 @@ export const indexArray =`[
      [
           "Snp1.7",
           "not birth defines a person",
-          "actions"
+          "actions (kamma)"
      ],
      [
           "Snp1.7",
@@ -6792,7 +6802,7 @@ export const indexArray =`[
      [
           "Snp3.9",
           "not birth defines a person",
-          "actions"
+          "actions (kamma)"
      ],
      [
           "Snp4.1",
@@ -7335,6 +7345,56 @@ export const indexArray =`[
           "bowl"
      ],
      [
+          "Thag10.1",
+          "for success",
+          "hope"
+     ],
+     [
+          "Thag10.1",
+          "benefited by arahant relative",
+          "family"
+     ],
+     [
+          "Thag10.1",
+          "",
+          "Suddhodana, king"
+     ],
+     [
+          "Thag10.1",
+          "",
+          "Māyā, queen Mahā"
+     ],
+     [
+          "Thag10.1",
+          "delight in",
+          "solitude"
+     ],
+     [
+          "Thag10.3",
+          "",
+          "mindfulness of breathing"
+     ],
+     [
+          "Thag10.3",
+          "makes enemies rejoice",
+          "grieving"
+     ],
+     [
+          "Thag10.4",
+          "",
+          "slow spiritual progress"
+     ],
+     [
+          "Thag10.4",
+          "not getting results for a long time",
+          "monastic life"
+     ],
+     [
+          "Thag10.4",
+          "meditation on",
+          "cloth, clean"
+     ],
+     [
           "Thag16.1",
           "fear of",
           "death (maraṇa)"
@@ -7425,14 +7485,99 @@ export const indexArray =`[
           "enlightenment"
      ],
      [
+          "Thag2.26",
+          "mirror",
+          "Dhamma"
+     ],
+     [
+          "Thag2.26",
+          "emptiness of",
+          "body"
+     ],
+     [
+          "Thag2.27",
+          "recovering like thoroughbred",
+          "mistakes"
+     ],
+     [
+          "Thag2.28",
+          "of disciples",
+          "lions roar"
+     ],
+     [
+          "Thag2.29",
+          "of disciples",
+          "lions roar"
+     ],
+     [
           "Thag2.3",
           "monkey",
           "mind"
      ],
      [
+          "Thag2.30",
+          "associating with good people",
+          "learning"
+     ],
+     [
+          "Thag2.32",
+          "simile of ",
+          "house builder"
+     ],
+     [
+          "Thag2.33",
+          "illness of ",
+          "Buddha, the"
+     ],
+     [
+          "Thag2.34",
+          "without practicing",
+          "learning"
+     ],
+     [
+          "Thag2.36",
+          "like steady rock",
+          "mind"
+     ],
+     [
+          "Thag2.36",
+          "not bothered by",
+          "annoyances"
+     ],
+     [
+          "Thag2.39",
+          "",
+          "alms gathering practice"
+     ],
+     [
           "Thag2.4",
           "speaking little",
           "speech"
+     ],
+     [
+          "Thag2.40",
+          "",
+          "sleepiness"
+     ],
+     [
+          "Thag2.44",
+          "",
+          "external appearance"
+     ],
+     [
+          "Thag2.45",
+          "",
+          "boasting"
+     ],
+     [
+          "Thag2.46",
+          "easy to ",
+          "going forth (pabbajja)"
+     ],
+     [
+          "Thag2.49",
+          "",
+          "Bodhi Tree"
      ],
      [
           "Thag2.7",
@@ -7460,9 +7605,454 @@ export const indexArray =`[
           "speech"
      ],
      [
+          "Thag3.1",
+          "",
+          "fire worship (aggika)"
+     ],
+     [
+          "Thag3.10",
+          "changes",
+          "faith (saddhā)"
+     ],
+     [
+          "Thag3.11",
+          "advice for new mons",
+          "monastic life"
+     ],
+     [
+          "Thag3.11",
+          "living with the Saṅgha",
+          "monastic life"
+     ],
+     [
+          "Thag3.13",
+          "to ones family",
+          "Dhamma teaching"
+     ],
+     [
+          "Thag3.14",
+          "in various realms",
+          "rebirth"
+     ],
+     [
+          "Thag3.15",
+          "",
+          "talking without doing"
+     ],
+     [
+          "Thag3.16",
+          "with fools like floating on a small log at sea",
+          "association"
+     ],
+     [
+          "Thag3.2",
+          "not to move until enlightened",
+          "determination"
+     ],
+     [
+          "Thag3.3",
+          "",
+          "talking without doing"
+     ],
+     [
+          "Thag3.4",
+          "with four requisites",
+          "contentment"
+     ],
+     [
+          "Thag3.5",
+          "",
+          "excuses"
+     ],
+     [
+          "Thag3.7",
+          "mind of love makes merit",
+          "loving-kindness (mettā)"
+     ],
+     [
+          "Thag3.8",
+          "family of",
+          "monastics"
+     ],
+     [
+          "Thag3.8",
+          "to ones family",
+          "Dhamma teaching"
+     ],
+     [
+          "Thag3.9",
+          "like a brahmā",
+          "solitary life"
+     ],
+     [
+          "Thag3.9",
+          "as noisy",
+          "companionship"
+     ],
+     [
+          "Thag4.1",
+          "danger for monks",
+          "women"
+     ],
+     [
+          "Thag4.11",
+          "as pleasing",
+          "nature"
+     ],
+     [
+          "Thag4.12",
+          "not to move until enlightened",
+          "determination"
+     ],
+     [
+          "Thag4.2",
+          "",
+          "walking meditation"
+     ],
+     [
+          "Thag4.2",
+          "",
+          "sleepiness"
+     ],
+     [
+          "Thag4.3",
+          "for spiritual companions",
+          "respect"
+     ],
+     [
+          "Thag4.4",
+          "",
+          "perception of ugliness (asubhasañña)"
+     ],
+     [
+          "Thag4.5",
+          "uselessness of",
+          "ascetic practices"
+     ],
+     [
+          "Thag4.6",
+          "praise of",
+          "Buddha, the"
+     ],
+     [
+          "Thag4.8",
+          "",
+          "Rāhula, Ven"
+     ],
+     [
+          "Thag4.9",
+          "family life",
+          "dangers"
+     ],
+     [
+          "Thag5.1",
+          "",
+          "charnel ground contemplation (sivathika)"
+     ],
+     [
+          "Thag5.10",
+          "fault-finding",
+          "listening to Dhamma"
+     ],
+     [
+          "Thag5.11",
+          "to the Buddha",
+          "reciting Dhamma"
+     ],
+     [
+          "Thag5.12",
+          "like deep ocean is still",
+          "peaceful person"
+     ],
+     [
+          "Thag5.12",
+          "living in line with what has been learned",
+          "learning"
+     ],
+     [
+          "Thag5.2",
+          "keeping",
+          "promises"
+     ],
+     [
+          "Thag5.2",
+          "like flower without fragrance",
+          "beautiful words without practicing"
+     ],
+     [
+          "Thag5.2",
+          "like flower with frangrance",
+          "beautiful words beneficial for the one who practices"
+     ],
+     [
+          "Thag5.6",
+          "",
+          "fire worship (aggika)"
+     ],
+     [
+          "Thag5.6",
+          "",
+          "impurity as purity"
+     ],
+     [
+          "Thag5.7",
+          "as ritual",
+          "bathing"
+     ],
+     [
+          "Thag5.8",
+          "",
+          "recollection of the Buddha (buddhānussati)"
+     ],
+     [
+          "Thag5.9",
+          "caging like an elephant",
+          "mind"
+     ],
+     [
+          "Thag5.9",
+          "trained like a horse",
+          "mind"
+     ],
+     [
+          "Thag5.9",
+          "binding with",
+          "mindfulness"
+     ],
+     [
+          "Thag6.10",
+          "",
+          "child arahants"
+     ],
+     [
+          "Thag6.10",
+          "",
+          "Anotatta lake"
+     ],
+     [
+          "Thag6.10",
+          "not wanting others to know attinments",
+          "humility"
+     ],
+     [
+          "Thag6.11",
+          "practicing while",
+          "sickness"
+     ],
+     [
+          "Thag6.12",
+          "",
+          "simile of the saw"
+     ],
+     [
+          "Thag6.12",
+          "",
+          "simile of child’s flesh"
+     ],
+     [
+          "Thag6.12",
+          "keep in check",
+          "anger (kodha)"
+     ],
+     [
+          "Thag6.12",
+          "remove with simile of the saw",
+          "anger (kodha)"
+     ],
+     [
           "Thag6.13",
           "inevitability of",
           "death (maraṇa)"
+     ],
+     [
+          "Thag6.13",
+          "coming like a wall of flame",
+          "death (maraṇa)"
+     ],
+     [
+          "Thag6.13",
+          "",
+          "wasting opportunity"
+     ],
+     [
+          "Thag6.13",
+          "inevitability of",
+          "death (maraṇa)"
+     ],
+     [
+          "Thag6.14",
+          "danger for monks",
+          "women"
+     ],
+     [
+          "Thag6.14",
+          "",
+          "perception of ugliness (asubhasañña)"
+     ],
+     [
+          "Thag6.2",
+          "for happiness",
+          "recollection of the Buddha (buddhānussati)"
+     ],
+     [
+          "Thag6.2",
+          "for happiness",
+          "recollection of the Dhamma (dhammānussati)"
+     ],
+     [
+          "Thag6.2",
+          "for happiness",
+          "recollection of the Saṅgha (saṅghānussati)"
+     ],
+     [
+          "Thag6.2",
+          "",
+          "brahmaviharas"
+     ],
+     [
+          "Thag6.3",
+          "for spiritual companions",
+          "respect"
+     ],
+     [
+          "Thag6.4",
+          "",
+          "charnel ground contemplation (sivathika)"
+     ],
+     [
+          "Thag6.4",
+          "",
+          "perception of ugliness (asubhasañña)"
+     ],
+     [
+          "Thag6.5",
+          "like a monkey swinging",
+          "heedlessness (pamāda)"
+     ],
+     [
+          "Thag6.5",
+          "like water falls off of louts leaf",
+          "sorrow"
+     ],
+     [
+          "Thag6.6",
+          "not getting results for a long time",
+          "monastic life"
+     ],
+     [
+          "Thag6.6",
+          "aborted attempt",
+          "suicide"
+     ],
+     [
+          "Thag6.7",
+          "advice for",
+          "monastic life"
+     ],
+     [
+          "Thag6.7",
+          "",
+          "laziness"
+     ],
+     [
+          "Thag6.8",
+          "of knowledge",
+          "thunderbolt"
+     ],
+     [
+          "Thag6.8",
+          "knowing actions as actions and results as results",
+          "actions (kamma)"
+     ],
+     [
+          "Thag6.9",
+          "",
+          "arrogance"
+     ],
+     [
+          "Thag6.9",
+          "not giving",
+          "respect"
+     ],
+     [
+          "Thag6.9",
+          "",
+          "conceit of superiority (atimāna)"
+     ],
+     [
+          "Thag6.9",
+          "",
+          "conceit of inferiority (omāno)"
+     ],
+     [
+          "Thag7.1",
+          "",
+          "courtesans"
+     ],
+     [
+          "Thag7.1",
+          "avoiding women",
+          "monastic life"
+     ],
+     [
+          "Thag7.1",
+          "tempted by women",
+          "monastics"
+     ],
+     [
+          "Thag7.2",
+          "wishing for the world",
+          "mindfulness of body"
+     ],
+     [
+          "Thag7.2",
+          "as deceiving",
+          "external appearance"
+     ],
+     [
+          "Thag7.3",
+          "",
+          "child arahants"
+     ],
+     [
+          "Thag7.4",
+          "",
+          "child arahants"
+     ],
+     [
+          "Thag7.5",
+          "damaging plants",
+          "monastic rules (vinaya)"
+     ],
+     [
+          "Thag7.5",
+          "all teachings the same",
+          "Buddhas"
+     ],
+     [
+          "Thag8.1",
+          "caught up in",
+          "work"
+     ],
+     [
+          "Thag8.1",
+          "like a bog",
+          "honor"
+     ],
+     [
+          "Thag8.1",
+          "as relative (kammabandhū)",
+          "actions (kamma)"
+     ],
+     [
+          "Thag8.1",
+          "loss of",
+          "wealth"
+     ],
+     [
+          "Thag8.3",
+          "not to move until enlightened",
+          "determination"
      ],
      [
           "Thig3.5",
@@ -8065,6 +8655,11 @@ export const indexArray =`[
           "Chapter of the Eights"
      ],
      [
+          "Ud5.6",
+          "to the Buddha",
+          "reciting Dhamma"
+     ],
+     [
           "Ud5.7",
           "",
           "doubt"
@@ -8217,7 +8812,7 @@ export const indexArray =`[
      [
           "Ud7.5",
           "",
-          "external qualities"
+          "external appearance"
      ],
      [
           "Ud7.6",
@@ -8935,6 +9530,11 @@ export const indexArray =`[
           "death (maraṇa)"
      ],
      [
+          "xref actions (kamma)",
+          "",
+          "kamma"
+     ],
+     [
           "xref aging and death",
           "",
           "death (maraṇa)"
@@ -8955,6 +9555,11 @@ export const indexArray =`[
           "brahmin"
      ],
      [
+          "xref arrogance",
+          "",
+          "pride"
+     ],
+     [
           "xref bad friends",
           "",
           "friendship"
@@ -8970,6 +9575,11 @@ export const indexArray =`[
           "Buddha, the"
      ],
      [
+          "xref body",
+          "",
+          "mindfulness of body"
+     ],
+     [
           "xref brahmās",
           "",
           "gods"
@@ -8978,6 +9588,16 @@ export const indexArray =`[
           "xref brahmin",
           "",
           "arahant"
+     ],
+     [
+          "xref child arahants",
+          "",
+          "arahant"
+     ],
+     [
+          "xref cloth, clean",
+          "",
+          "clean cloth"
      ],
      [
           "xref death (maraṇa)",
@@ -9008,6 +9628,11 @@ export const indexArray =`[
           "xref dependent origination",
           "",
           "death (maraṇa)"
+     ],
+     [
+          "xref determination",
+          "",
+          "resolution"
      ],
      [
           "xref devas",
@@ -9140,6 +9765,11 @@ export const indexArray =`[
           "thirty-two marks"
      ],
      [
+          "Xref Māyā, queen Mahā",
+          "",
+          "Mahā Māyā, queen"
+     ],
+     [
           "xref mendicant",
           "",
           "monk"
@@ -9148,6 +9778,11 @@ export const indexArray =`[
           "xref merit sharing",
           "",
           "sharing merit"
+     ],
+     [
+          "xref mindfulness of body",
+          "",
+          "body"
      ],
      [
           "xref monastic life",
@@ -9235,6 +9870,11 @@ export const indexArray =`[
           "speech"
      ],
      [
+          "xref sadness",
+          "",
+          "sorrow"
+     ],
+     [
           "xref sickness",
           "",
           "illness"
@@ -9243,6 +9883,11 @@ export const indexArray =`[
           "xref skillfulness",
           "",
           "wholesomeness"
+     ],
+     [
+          "xref solitary life",
+          "",
+          "living alone"
      ],
      [
           "xref speech",

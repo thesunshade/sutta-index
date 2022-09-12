@@ -65,7 +65,7 @@ function App() {
         <div className="top-row">
           <div className="filter-area">
             <label id="user-input-label" htmlFor="user-input">
-              Filter by:
+              Filter:
             </label>
             <input
               className="filter-input-box"
@@ -87,7 +87,7 @@ function App() {
               X
             </button>
           </div>
-          <button onClick={() => window.scrollTo(0, 0)}>Go to Top</button>
+          <button onClick={() => window.scrollTo(0, 0)}>Top</button>
           <div className="settings-button">
             <img
               width="17px"
