@@ -1,5 +1,6 @@
 :root {
   --indent: 1.5rem;
+  --mobile-indent: .5rem;
   --primary: #ff9100;
   --dark-primary: #732d04;
   --offwhite: #fff9f1;
@@ -16,8 +17,8 @@
 
 @font-face {
   font-family: "Fira Sans";
-  src: url("./fonts/firasans-bold-webfont.woff") format('woff'),
-    url("./fonts/firasans-bold-webfont.woff2") format('woff2');
+  src: url("./fonts/firasans-medium-webfont.woff") format('woff'),
+    url("./fonts/firasans-medium-webfont.woff2") format('woff2');
   font-weight: bold;
   font-style: normal;
 }
@@ -41,8 +42,8 @@
 
 @font-face {
   font-family: "Fira Sans ExtraCompressed";
-  src: url("./fonts/firasansextracondensed-bold-webfont.woff") format('woff'),
-    url("./fonts/firasansextracondensed-bold-webfont.woff2") format('woff2');
+  src: url("./fonts/firasansextracondensed-medium-webfont.woff") format('woff'),
+    url("./fonts/firasansextracondensed-medium-webfont.woff2") format('woff2');
   font-weight: bold;
   font-style: normal;
 }
@@ -147,25 +148,7 @@ html {
   margin-top: 1rem
 }
 
-@media only screen and (max-width: 475px) {
-  body {
-    font-family: "Fira Sans ExtraCompressed";
-  }
 
-  .sutta-index {
-    line-height: 130%;
-  }
-
-  input {
-    max-width: 9rem;
-  }
-
-  .radio-items {
-    display: flex;
-    flex-direction: column;
-
-  }
-}
 
 .hidden {
   display: none
@@ -279,4 +262,34 @@ th {
 
 tr:nth-child(even) {
   background-color: #dddddd;
+}
+
+@media only screen and (max-width: 475px) {
+  body {
+    font-family: "Fira Sans ExtraCompressed";
+  }
+
+  .sutta-index {
+    line-height: 130%;
+  }
+
+  input {
+    max-width: 9rem;
+  }
+
+  .radio-items {
+    display: flex;
+    flex-direction: column;
+
+  }
+
+  .head-word-area {
+    padding-left: var(--mobile-indent);
+    text-indent: calc(-1 * var(--mobile-indent));
+    padding-top: .6rem
+  }
+
+  .sub-word {
+    padding-left: var(--mobile-indent);
+  }
 }
