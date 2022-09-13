@@ -6,18 +6,15 @@ export default function LocatorList(props) {
   const { locatorXrefObject, headwordSubCount } = props;
   const { locators, xrefs } = locatorXrefObject;
 
-  const sortedLocatorArray = sortCitations(locators);
-  const sortedXrefsArray = xrefs.sort();
-
   let xrefLabel = "";
-  if (sortedLocatorArray.length === 0 && sortedXrefsArray.length === 1 && headwordSubCount === 1) {
+  if (locators.length === 0 && xrefs.length === 1 && headwordSubCount === 1) {
     xrefLabel = "see ";
   } else {
     xrefLabel = "see also ";
   }
 
   let leadingCommaForXref = "";
-  if (sortedLocatorArray.length > 0) {
+  if (locators.length > 0) {
     leadingCommaForXref = ", ";
   }
 
@@ -26,11 +23,11 @@ export default function LocatorList(props) {
       <>
         {leadingCommaForXref}
         <span className="xref-label">{xrefLabel}</span>
-        {sortedXrefsArray.map((xref, index) => {
+        {xrefs.map((xref, index) => {
           return (
             <span key={index}>
               <Xref xref={xref} />
-              {index < sortedXrefsArray.length - 1 ? "; " : ""}
+              {index < xrefs.length - 1 ? "; " : ""}
             </span>
           );
         })}
@@ -40,15 +37,15 @@ export default function LocatorList(props) {
 
   return (
     <>
-      {sortedLocatorArray.map((locator, index) => {
+      {locators.map((locator, index) => {
         return (
           <span key={index}>
             <Locator location={locator} />
-            {index < sortedLocatorArray.length - 1 ? ", " : ""}
+            {index < locators.length - 1 ? ", " : ""}
           </span>
         );
       })}
-      {sortedXrefsArray.length > 0 ? <XrefsList /> : ""}
+      {xrefs.length > 0 ? <XrefsList /> : ""}
     </>
   );
 }

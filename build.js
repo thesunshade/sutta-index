@@ -1,5 +1,161 @@
 const fs = require("fs");
 
+function natsort(options) {
+  if (options === void 0) {
+    options = {};
+  }
+  var ore = /^0/;
+  var sre = /\s+/g;
+  var tre = /^\s+|\s+$/g;
+  // unicode
+  var ure = /[^\x00-\x80]/;
+  // hex
+  var hre = /^0x[0-9a-f]+$/i;
+  // numeric
+  var nre = /(0x[\da-fA-F]+|(^[\+\-]?\d+(?:\.\d*)?(?:[eE][+\-]?\d+)?(?=\D|\s|$))|\d+)/g;
+  // datetime
+  var dre =
+    /(^([\w ]+,?[\w ]+)?[\w ]+,?[\w ]+\d+:\d+(:\d+)?[\w ]?|^\d{1,4}[\/\-]\d{1,4}[\/\-]\d{1,4}|^\w+, \w+ \d+, \d{4})/; // tslint:disable-line
+  var toLowerCase = String.prototype.toLocaleLowerCase || String.prototype.toLowerCase;
+  var GREATER = options.desc ? -1 : 1;
+  var SMALLER = -GREATER;
+  var normalize = options.insensitive
+    ? function (s) {
+        return toLowerCase.call("".concat(s)).replace(tre, "");
+      }
+    : function (s) {
+        return "".concat(s).replace(tre, "");
+      };
+  function tokenize(s) {
+    return s.replace(nre, "\0$1\0").replace(/\0$/, "").replace(/^\0/, "").split("\0");
+  }
+  function parse(s, l) {
+    // normalize spaces; find floats not starting with '0',
+    // string or 0 if not defined (Clint Priest)
+    return ((!s.match(ore) || l === 1) && parseFloat(s)) || s.replace(sre, " ").replace(tre, "") || 0;
+  }
+  return function (a, b) {
+    // trim pre-post whitespace
+    var aa = normalize(a);
+    var bb = normalize(b);
+    // return immediately if at least one of the values is empty.
+    // empty string < any others
+    if (!aa && !bb) {
+      return 0;
+    }
+    if (!aa && bb) {
+      return SMALLER;
+    }
+    if (aa && !bb) {
+      return GREATER;
+    }
+    // tokenize: split numeric strings and default strings
+    var aArr = tokenize(aa);
+    var bArr = tokenize(bb);
+    // hex or date detection
+    var aHex = aa.match(hre);
+    var bHex = bb.match(hre);
+    var av = aHex && bHex ? parseInt(aHex[0], 16) : aArr.length !== 1 && Date.parse(aa);
+    var bv = aHex && bHex ? parseInt(bHex[0], 16) : (av && bb.match(dre) && Date.parse(bb)) || null;
+    // try and sort Hex codes or Dates
+    if (bv) {
+      if (av === bv) {
+        return 0;
+      }
+      if (av < bv) {
+        return SMALLER;
+      }
+      if (av > bv) {
+        return GREATER;
+      }
+    }
+    var al = aArr.length;
+    var bl = bArr.length;
+    // handle numeric strings and default strings
+    for (var i = 0, l = Math.max(al, bl); i < l; i += 1) {
+      var af = parse(aArr[i] || "", al);
+      var bf = parse(bArr[i] || "", bl);
+      // handle numeric vs string comparison.
+      // numeric < string
+      if (isNaN(af) !== isNaN(bf)) {
+        return isNaN(af) ? GREATER : SMALLER;
+      }
+      // if unicode use locale comparison
+      if (ure.test(af + bf) && af.localeCompare) {
+        var comp = af.localeCompare(bf);
+        if (comp > 0) {
+          return GREATER;
+        }
+        if (comp < 0) {
+          return SMALLER;
+        }
+        if (i === l - 1) {
+          return 0;
+        }
+      }
+      if (af < bf) {
+        return SMALLER;
+      }
+      if (af > bf) {
+        return GREATER;
+      }
+      if ("".concat(af) < "".concat(bf)) {
+        return SMALLER;
+      }
+      if ("".concat(af) > "".concat(bf)) {
+        return GREATER;
+      }
+    }
+    return 0;
+  };
+}
+
+function sortCitations(citations) {
+  const orderedBooks = ["DN", "MN", "SN", "AN", "Kp", "Dhp", "Ud", "Iti", "Snp", "Vv", "Pv", "Thag", "Thig"];
+
+  const citationsObject = {
+    DN: [],
+    MN: [],
+    SN: [],
+    AN: [],
+    Kp: [],
+    Dhp: [],
+    Ud: [],
+    Iti: [],
+    Snp: [],
+    Vv: [],
+    Pv: [],
+    Thag: [],
+    Thig: [],
+  };
+
+  for (let i = 0; i < citations.length; i++) {
+    for (let x = 0; x < orderedBooks.length; x++) {
+      if (citations[i].match(RegExp(orderedBooks[x]))) {
+        citationsObject[orderedBooks[x]].push(citations[i]);
+      }
+    }
+  }
+
+  let bookSubList = [];
+  for (let i = 0; i < orderedBooks.length; i++) {
+    const book = orderedBooks[i];
+    const sortedCitations = citationsObject[book].sort(natsort());
+    bookSubList.push(sortedCitations);
+  }
+  bookSubList = bookSubList.flat();
+
+  if (citations.length > bookSubList.length) {
+    console.warn(
+      "There is an invalid citation or a citation is missing. Check arrays below. Bad citations don't appear on the front end, so you will have to check original data"
+    );
+    console.table(citations);
+    console.table(bookSubList);
+  }
+
+  return bookSubList;
+}
+
 let data;
 try {
   const tsvFileContents = fs.readFileSync("./src/data/general-index.csv", "utf8");
@@ -53,9 +209,29 @@ for (let i = 0; i < rawIndexArray.length - 1; i++) {
   }
 }
 
+// sort locators
+const headwords = Object.keys(index);
+for (let i = 0; i < headwords.length; i++) {
+  const subs = Object.keys(index[headwords[i]]);
+
+  for (let x = 0; x < subs.length; x++) {
+    index[headwords[i]][subs[x]].locators = sortCitations(index[headwords[i]][subs[x]].locators);
+  }
+
+  for (let x = 0; x < subs.length; x++) {
+    index[headwords[i]][subs[x]].xrefs.sort();
+  }
+}
+
 const object = `export const indexObject =\`${JSON.stringify(index, null, 5)}\``;
 
-// create the array sorted by locator first
+try {
+  fs.writeFileSync("./src/data/index-object.js", object);
+} catch (err) {
+  console.error(err);
+}
+
+// ---------------------  create the array sorted by locator first
 let locatorFirstArray = [];
 
 for (let i = 0; i < rawIndexArray.length - 1; i++) {
@@ -80,12 +256,6 @@ for (let i = 0; i < locatorFirstArray.length; i++) {
 }
 
 const array = `export const indexArray =\`${JSON.stringify(locatorFirstArray, null, 5)}\``;
-
-try {
-  fs.writeFileSync("./src/data/index-object.js", object);
-} catch (err) {
-  console.error(err);
-}
 
 try {
   fs.writeFileSync("./src/data/index-array.js", array);

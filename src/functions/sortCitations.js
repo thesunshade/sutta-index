@@ -1,7 +1,7 @@
 import natsort from "./natsort.js";
 
 export default function sortCitations(citations) {
-  const orderedBooks = ["DN", "MN", "SN", "AN", "Kp", "Dhp", "Ud", "Iti", "Snp", "Vv", "Pv", "Thag", "Thig", "xref"];
+  const orderedBooks = ["DN", "MN", "SN", "AN", "Kp", "Dhp", "Ud", "Iti", "Snp", "Vv", "Pv", "Thag", "Thig"];
 
   const citationsObject = {
     DN: [],
@@ -17,7 +17,6 @@ export default function sortCitations(citations) {
     Pv: [],
     Thag: [],
     Thig: [],
-    xref: [],
   };
 
   for (let i = 0; i < citations.length; i++) {
