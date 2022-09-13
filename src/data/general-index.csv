@@ -402,14 +402,14 @@ speech	qualifying	MN139
 speech	reflecting on	MN61
 speech	reflecting on	AN10.44
 speech	restraint	DN2
-speech		xref right speech (sammāvācā)
-right speech (sammāvācā)		AN10.176
-right speech (sammāvācā)		AN10.211
-right speech (sammāvācā)		MN60
-right speech (sammāvācā)		MN117
-right speech (sammāvācā)		MN141
-right speech (sammāvācā)	abolishes wrong speech	MN117
-right speech (sammāvācā)	definition	SN45.8
+speech		xref right speech (sammā vācā)
+right speech (sammā vācā)		AN10.176
+right speech (sammā vācā)		AN10.211
+right speech (sammā vācā)		MN60
+right speech (sammā vācā)		MN117
+right speech (sammā vācā)		MN141
+right speech (sammā vācā)	abolishes wrong speech	MN117
+right speech (sammā vācā)	definition	SN45.8
 speech	self purification through	AN10.176
 speech	sharp	MN139
 speech	simile of axe	SN6.9
@@ -874,7 +874,7 @@ faith (saddhā)		Dhp333
 precepts		Dhp333
 craving (taṇha)		Dhp chapter 24
 craving (taṇha)	simile of creeper	Dhp334
-craving (taṇha)	like a money	Dhp334
+craving (taṇha)	like a monkey	Dhp334
 craving (taṇha) 	simile of grass in rain	Dhp335
 craving (taṇha)	simile of water drop on lotus leaf	Dhp336
 Māra	simile of stream	Dhp337
@@ -1092,7 +1092,7 @@ delusion (moha)		Iti3
 anger (kodha)		Iti4
 disdain (makkha)		Iti5
 conceit (māna)		Iti6
-all, the		Iti7
+“all”, the		Iti7
 conceit (māna)		Iti8
 ignorance	as hindrance	Iti14
 craving (taṇha) 	as fetter	Iti15
@@ -1248,7 +1248,7 @@ female	simile of crocodiles	Iti109
 tolerating bad thoughts		Iti110
 danger in slightest fault		Iti111
 postures	for practicing always	Iti110–11
-hindrances	constantly removing	Iti111
+hindrances (nīvarana)	constantly removing	Iti111
 world		Iti112
 Tathāgatas	definition	Iti112
 Buddha, the	understanding of	Iti112
@@ -1257,7 +1257,7 @@ Buddha, the	as best 	Iti112
 Buddha, the	without counterpart	Iti112
 anger (kodha)	removing	Snp1.1
 anger (kodha)	simile of venom	Snp1.1
-greed (rāga)	simile of plucked lotus	Snp1.1
+lust (rāga)	simile of plucked lotus	Snp1.1
 craving (taṇha)	simile of stream	Snp1.1
 conceit (māna)	simile of flood	Snp1.1
 essence (sāra)	simile of fig tree	Snp1.1
@@ -2103,3 +2103,34 @@ Moggallāna, Ven	praise of	Thag21.1
 Mahā Moggallāna		xref Moggallāna, Ven
 poetry	drunk on	Thag21.1
 Nigrodhakappa, Ven		Thag21.1
+kodha		xref anger (kodha)
+samādhi		xref concentration (samādhi)
+taṇha		xref craving (taṇha)
+maraṇa 		xref death (maraṇa)
+amata 		xref deathless (amata)
+āsava 		xref defilements (āsava)
+moha 		xref delusion (moha) 
+appamāda		xref heedfulness (appamāda)
+dibbacakkhu 		xref divine eye (dibbacakkhu) 
+nissaraṇa 		xref escape (nissaraṇa) 
+pāpa 		xref evil (pāpa)
+indriya 		xref faculties (indriya)
+saddhā 		xref faith (saddhā) 
+saṁyojana 		xref fetters (saṁyojana)
+cāga 		xref generosity (cāga) 
+dāna 		xref giving (dāna) 
+pabbajja 		xref going forth (pabbajja)
+rāga 		xref greed (rāga) 
+cetovimutti 		xref heart’s release (cetovimutti) 
+appamāda 		xref heedfulness (appamāda) 
+pamāda 		xref heedlessness (pamāda) 
+nīvarana		xref hindrances (nīvarana)
+mettā 		xref loving-kindness (mettā) 
+dosa		xref hatred (dosa)
+ottāpa 		xref prudence (ottāpa) 
+buddhānussati 		xref recollection of the Buddha (buddhānussati) 
+dhammānussati 		xref recollection of the Dhamma (dhammānussati)
+saṅghānussati 		xref recollection of the Saṅgha (saṅghānussati) 
+sammā vācā 		xref right speech (sammā vācā) 
+muni 		xref sage (muni) 
+thupa 		xref stupa (thupa) 

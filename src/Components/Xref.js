@@ -14,7 +14,7 @@ export default function Xref({ xref }) {
         setFilterInput("");
       }}
     >
-      {xref.replace("xref ", "")}
+      {xref.replace("xref ", "").replace(/\(.+\)/, "")}
     </a>
   );
 }

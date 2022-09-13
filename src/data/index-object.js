@@ -1467,7 +1467,7 @@ export const indexObject =`{
                     "xref divisive speech",
                     "xref false speech",
                     "xref harsh speech",
-                    "xref right speech (sammāvācā)",
+                    "xref right speech (sammā vācā)",
                     "xref wrong speech (micchā vacā)"
                ]
           },
@@ -1958,7 +1958,7 @@ export const indexObject =`{
                "xrefs": []
           }
      },
-     "right speech (sammāvācā)": {
+     "right speech (sammā vācā)": {
           "": {
                "locators": [
                     "MN60",
@@ -4311,6 +4311,12 @@ export const indexObject =`{
                     "Dhp14"
                ],
                "xrefs": []
+          },
+          "simile of plucked lotus": {
+               "locators": [
+                    "Snp1.1"
+               ],
+               "xrefs": []
           }
      },
      "bad actions": {
@@ -5794,7 +5800,7 @@ export const indexObject =`{
                ],
                "xrefs": []
           },
-          "like a money": {
+          "like a monkey": {
                "locators": [
                     "Dhp334"
                ],
@@ -7752,7 +7758,7 @@ export const indexObject =`{
                "xrefs": []
           }
      },
-     "all, the": {
+     "“all”, the": {
           "": {
                "locators": [
                     "Iti7"
@@ -8381,7 +8387,7 @@ export const indexObject =`{
                "xrefs": []
           }
      },
-     "hindrances": {
+     "hindrances (nīvarana)": {
           "constantly removing": {
                "locators": [
                     "Iti111"
@@ -8393,14 +8399,6 @@ export const indexObject =`{
           "definition": {
                "locators": [
                     "Iti112"
-               ],
-               "xrefs": []
-          }
-     },
-     "greed (rāga)": {
-          "simile of plucked lotus": {
-               "locators": [
-                    "Snp1.1"
                ],
                "xrefs": []
           }
@@ -10315,6 +10313,247 @@ export const indexObject =`{
                     "Thag21.1"
                ],
                "xrefs": []
+          }
+     },
+     "kodha": {
+          "": {
+               "locators": [],
+               "xrefs": [
+                    "xref anger (kodha)"
+               ]
+          }
+     },
+     "samādhi": {
+          "": {
+               "locators": [],
+               "xrefs": [
+                    "xref concentration (samādhi)"
+               ]
+          }
+     },
+     "taṇha": {
+          "": {
+               "locators": [],
+               "xrefs": [
+                    "xref craving (taṇha)"
+               ]
+          }
+     },
+     "maraṇa": {
+          "": {
+               "locators": [],
+               "xrefs": [
+                    "xref death (maraṇa)"
+               ]
+          }
+     },
+     "amata": {
+          "": {
+               "locators": [],
+               "xrefs": [
+                    "xref deathless (amata)"
+               ]
+          }
+     },
+     "āsava": {
+          "": {
+               "locators": [],
+               "xrefs": [
+                    "xref defilements (āsava)"
+               ]
+          }
+     },
+     "moha": {
+          "": {
+               "locators": [],
+               "xrefs": [
+                    "xref delusion (moha)"
+               ]
+          }
+     },
+     "appamāda": {
+          "": {
+               "locators": [],
+               "xrefs": [
+                    "xref heedfulness (appamāda)",
+                    "xref heedfulness (appamāda)"
+               ]
+          }
+     },
+     "dibbacakkhu": {
+          "": {
+               "locators": [],
+               "xrefs": [
+                    "xref divine eye (dibbacakkhu)"
+               ]
+          }
+     },
+     "nissaraṇa": {
+          "": {
+               "locators": [],
+               "xrefs": [
+                    "xref escape (nissaraṇa)"
+               ]
+          }
+     },
+     "pāpa": {
+          "": {
+               "locators": [],
+               "xrefs": [
+                    "xref evil (pāpa)"
+               ]
+          }
+     },
+     "indriya": {
+          "": {
+               "locators": [],
+               "xrefs": [
+                    "xref faculties (indriya)"
+               ]
+          }
+     },
+     "saddhā": {
+          "": {
+               "locators": [],
+               "xrefs": [
+                    "xref faith (saddhā)"
+               ]
+          }
+     },
+     "saṁyojana": {
+          "": {
+               "locators": [],
+               "xrefs": [
+                    "xref fetters (saṁyojana)"
+               ]
+          }
+     },
+     "cāga": {
+          "": {
+               "locators": [],
+               "xrefs": [
+                    "xref generosity (cāga)"
+               ]
+          }
+     },
+     "dāna": {
+          "": {
+               "locators": [],
+               "xrefs": [
+                    "xref giving (dāna)"
+               ]
+          }
+     },
+     "pabbajja": {
+          "": {
+               "locators": [],
+               "xrefs": [
+                    "xref going forth (pabbajja)"
+               ]
+          }
+     },
+     "rāga": {
+          "": {
+               "locators": [],
+               "xrefs": [
+                    "xref greed (rāga)"
+               ]
+          }
+     },
+     "cetovimutti": {
+          "": {
+               "locators": [],
+               "xrefs": [
+                    "xref heart’s release (cetovimutti)"
+               ]
+          }
+     },
+     "pamāda": {
+          "": {
+               "locators": [],
+               "xrefs": [
+                    "xref heedlessness (pamāda)"
+               ]
+          }
+     },
+     "nīvarana": {
+          "": {
+               "locators": [],
+               "xrefs": [
+                    "xref hindrances (nīvarana)"
+               ]
+          }
+     },
+     "mettā": {
+          "": {
+               "locators": [],
+               "xrefs": [
+                    "xref loving-kindness (mettā)"
+               ]
+          }
+     },
+     "dosa": {
+          "": {
+               "locators": [],
+               "xrefs": [
+                    "xref hatred (dosa)"
+               ]
+          }
+     },
+     "ottāpa": {
+          "": {
+               "locators": [],
+               "xrefs": [
+                    "xref prudence (ottāpa)"
+               ]
+          }
+     },
+     "buddhānussati": {
+          "": {
+               "locators": [],
+               "xrefs": [
+                    "xref recollection of the Buddha (buddhānussati)"
+               ]
+          }
+     },
+     "dhammānussati": {
+          "": {
+               "locators": [],
+               "xrefs": [
+                    "xref recollection of the Dhamma (dhammānussati)"
+               ]
+          }
+     },
+     "saṅghānussati": {
+          "": {
+               "locators": [],
+               "xrefs": [
+                    "xref recollection of the Saṅgha (saṅghānussati)"
+               ]
+          }
+     },
+     "sammā vācā": {
+          "": {
+               "locators": [],
+               "xrefs": [
+                    "xref right speech (sammā vācā)"
+               ]
+          }
+     },
+     "muni": {
+          "": {
+               "locators": [],
+               "xrefs": [
+                    "xref sage (muni)"
+               ]
+          }
+     },
+     "thupa": {
+          "": {
+               "locators": [],
+               "xrefs": [
+                    "xref stupa (thupa)"
+               ]
           }
      }
 }`

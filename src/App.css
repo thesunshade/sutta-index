@@ -195,6 +195,14 @@ a:visited {
   color: purple
 }
 
+.xref-link {
+  color: #007b00
+}
+
+.xref-link:visited {
+  color: rgb(141, 156, 0)
+}
+
 .dark a {
   color: rgb(114, 156, 255)
 }

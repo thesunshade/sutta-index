@@ -1,10527 +1,10682 @@
 export const indexArray =`[
      [
           "AN1.17",
-          "to abandon ill-will",
-          "loving-kindness (mettā)"
+          "loving-kindness (mettā)",
+          "to abandon ill-will"
      ],
      [
           "AN1.17",
-          "liberation of mind by",
-          "loving-kindness (mettā)"
+          "loving-kindness (mettā)",
+          "liberation of mind by"
      ],
      [
           "AN1.322",
-          "moderation in",
-          "giving (dāna)"
+          "giving (dāna)",
+          "moderation in"
      ],
      [
           "AN1.323",
-          "moderation in",
-          "giving (dāna)"
+          "giving (dāna)",
+          "moderation in"
      ],
      [
           "AN1.53",
-          "for a fingersnap",
-          "loving-kindness (mettā)"
+          "loving-kindness (mettā)",
+          "for a fingersnap"
      ],
      [
           "AN1.54",
-          "for a fingersnap",
-          "loving-kindness (mettā)"
+          "loving-kindness (mettā)",
+          "for a fingersnap"
      ],
      [
           "AN1.55",
-          "for a fingersnap",
-          "loving-kindness (mettā)"
+          "loving-kindness (mettā)",
+          "for a fingersnap"
      ],
      [
           "AN10.176",
-          "",
-          "right speech (sammāvācā)"
+          "right speech (sammā vācā)",
+          ""
      ],
      [
           "AN10.176",
-          "self purification through",
-          "speech"
+          "speech",
+          "self purification through"
      ],
      [
           "AN10.176",
-          "",
-          "wrong speech (micchā vacā)"
+          "wrong speech (micchā vacā)",
+          ""
      ],
      [
           "AN10.177",
-          "dedication to the dead",
-          "giving (dāna)"
+          "giving (dāna)",
+          "dedication to the dead"
      ],
      [
           "AN10.211",
-          "factor for rebirth",
-          "speech"
+          "speech",
+          "factor for rebirth"
      ],
      [
           "AN10.211",
-          "",
-          "right speech (sammāvācā)"
+          "right speech (sammā vācā)",
+          ""
      ],
      [
           "AN10.211",
-          "",
-          "wrong speech (micchā vacā)"
+          "wrong speech (micchā vacā)",
+          ""
      ],
      [
           "AN10.217",
-          "volition and",
-          "speech"
+          "speech",
+          "volition and"
      ],
      [
           "AN10.219",
-          "",
-          "loving-kindness (mettā)"
+          "loving-kindness (mettā)",
+          ""
      ],
      [
           "AN10.220",
-          "",
-          "loving-kindness (mettā)"
+          "loving-kindness (mettā)",
+          ""
      ],
      [
           "AN10.44",
-          "",
-          "admonishment"
+          "admonishment",
+          ""
      ],
      [
           "AN10.44",
-          "reflecting on",
-          "speech"
+          "speech",
+          "reflecting on"
      ],
      [
           "AN10.69",
-          "topics of discussion",
-          "speech"
+          "speech",
+          "topics of discussion"
      ],
      [
           "AN10.69",
-          "useless (tiracāna)",
-          "speech"
+          "speech",
+          "useless (tiracāna)"
      ],
      [
           "AN10.70",
-          "topics of discussion",
-          "speech"
+          "speech",
+          "topics of discussion"
      ],
      [
           "AN10.70",
-          "useless (tiracāna)",
-          "speech"
+          "speech",
+          "useless (tiracāna)"
      ],
      [
           "AN10.85",
-          "",
-          "boasting"
+          "boasting",
+          ""
      ],
      [
           "AN11.11",
-          "recollection of ones own",
-          "generosity (cāga)"
+          "generosity (cāga)",
+          "recollection of ones own"
      ],
      [
           "AN11.11",
-          "as principle of cordiality",
-          "loving-kindness (mettā)"
+          "loving-kindness (mettā)",
+          "as principle of cordiality"
      ],
      [
           "AN11.12",
-          "as principle of cordiality",
-          "loving-kindness (mettā)"
+          "loving-kindness (mettā)",
+          "as principle of cordiality"
      ],
      [
           "AN11.13",
-          "recollection of ones own",
-          "generosity (cāga)"
+          "generosity (cāga)",
+          "recollection of ones own"
      ],
      [
           "AN11.15",
-          "benefits of",
-          "loving-kindness (mettā)"
+          "loving-kindness (mettā)",
+          "benefits of"
      ],
      [
           "AN11.16",
-          "",
-          "loving-kindness (mettā)"
+          "loving-kindness (mettā)",
+          ""
      ],
      [
           "AN2.141",
-          "Dhamma",
-          "giving (dāna)"
+          "giving (dāna)",
+          "Dhamma"
      ],
      [
           "AN2.141",
-          "material things or Dhamma",
-          "giving (dāna)"
+          "giving (dāna)",
+          "material things or Dhamma"
      ],
      [
           "AN2.143",
-          "with material things and with Dhamma",
-          "generosity (cāga)"
+          "generosity (cāga)",
+          "with material things and with Dhamma"
      ],
      [
           "AN2.35",
-          "whom to give to",
-          "giving (dāna)"
+          "giving (dāna)",
+          "whom to give to"
      ],
      [
           "AN3.28",
-          "",
-          "harsh speech"
+          "harsh speech",
+          ""
      ],
      [
           "AN3.28",
-          "",
-          "speaking truth"
+          "speaking truth",
+          ""
      ],
      [
           "AN3.28",
-          "simile of dung",
-          "speech"
+          "speech",
+          "simile of dung"
      ],
      [
           "AN3.28",
-          "simile of flowers",
-          "speech"
+          "speech",
+          "simile of flowers"
      ],
      [
           "AN3.28",
-          "simile of honey",
-          "speech"
+          "speech",
+          "simile of honey"
      ],
      [
           "AN3.41",
-          "conditions for",
-          "giving (dāna)"
+          "giving (dāna)",
+          "conditions for"
      ],
      [
           "AN3.42",
-          "as a sign of faith",
-          "generosity (cāga)"
+          "generosity (cāga)",
+          "as a sign of faith"
      ],
      [
           "AN3.42",
-          "faith and",
-          "giving (dāna)"
+          "giving (dāna)",
+          "faith and"
      ],
      [
           "AN3.45",
-          "taught by the wise",
-          "giving (dāna)"
+          "giving (dāna)",
+          "taught by the wise"
      ],
      [
           "AN3.57",
-          "levels of",
-          "giving (dāna)"
+          "giving (dāna)",
+          "levels of"
      ],
      [
           "AN3.57",
-          "preventing",
-          "giving (dāna)"
+          "giving (dāna)",
+          "preventing"
      ],
      [
           "AN3.57",
-          "qualities of recipient",
-          "giving (dāna)"
+          "giving (dāna)",
+          "qualities of recipient"
      ],
      [
           "AN3.57",
-          "smallest gift has value",
-          "giving (dāna)"
+          "giving (dāna)",
+          "smallest gift has value"
      ],
      [
           "AN3.57",
-          "whom to give to",
-          "giving (dāna)"
+          "giving (dāna)",
+          "whom to give to"
      ],
      [
           "AN3.63",
-          "",
-          "loving-kindness (mettā)"
+          "loving-kindness (mettā)",
+          ""
      ],
      [
           "AN3.65",
-          "to gain the four assurances",
-          "loving-kindness (mettā)"
+          "loving-kindness (mettā)",
+          "to gain the four assurances"
      ],
      [
           "AN3.67",
-          "as a protection",
-          "loving-kindness (mettā)"
+          "loving-kindness (mettā)",
+          "as a protection"
      ],
      [
           "AN3.68",
-          "to abandon ill-will",
-          "loving-kindness (mettā)"
+          "loving-kindness (mettā)",
+          "to abandon ill-will"
      ],
      [
           "AN3.68",
-          "liberation of mind by",
-          "loving-kindness (mettā)"
+          "loving-kindness (mettā)",
+          "liberation of mind by"
      ],
      [
           "AN3.69",
-          "caused by unwholesome root",
-          "false speech"
+          "false speech",
+          "caused by unwholesome root"
      ],
      [
           "AN3.69",
-          "",
-          "speaking truth"
+          "speaking truth",
+          ""
      ],
      [
           "AN3.69",
-          "Dhamma",
-          "speech"
+          "speech",
+          "Dhamma"
      ],
      [
           "AN3.69",
-          "non-Dhamma",
-          "speech"
+          "speech",
+          "non-Dhamma"
      ],
      [
           "AN3.69",
-          "timely or untimely",
-          "speech"
+          "speech",
+          "timely or untimely"
      ],
      [
           "AN3.69",
-          "unwholesome root",
-          "speech"
+          "speech",
+          "unwholesome root"
      ],
      [
           "AN3.79",
-          "gained by generosity",
-          "reputation"
+          "reputation",
+          "gained by generosity"
      ],
      [
           "AN3.79",
-          "as cause for good reputation",
-          "generosity (cāga)"
+          "generosity (cāga)",
+          "as cause for good reputation"
      ],
      [
           "AN4.100",
-          "praise and dispraise",
-          "speech"
+          "speech",
+          "praise and dispraise"
      ],
      [
           "AN4.125",
-          "as a path to brahma world",
-          "loving-kindness (mettā)"
+          "loving-kindness (mettā)",
+          "as a path to brahma world"
      ],
      [
           "AN4.126",
-          "as a path to brahma world",
-          "loving-kindness (mettā)"
+          "loving-kindness (mettā)",
+          "as a path to brahma world"
      ],
      [
           "AN4.183",
-          "that increases unwholesome qualities",
-          "speech"
+          "speech",
+          "that increases unwholesome qualities"
      ],
      [
           "AN4.183",
-          "that increases wholesome qualities",
-          "speech"
+          "speech",
+          "that increases wholesome qualities"
      ],
      [
           "AN4.184",
-          "fear of",
-          "death (maraṇa)"
+          "death (maraṇa)",
+          "fear of"
      ],
      [
           "AN4.190",
-          "as the state of a brahmā",
-          "loving-kindness (mettā)"
+          "loving-kindness (mettā)",
+          "as the state of a brahmā"
      ],
      [
           "AN4.197",
-          "result of",
-          "giving (dāna)"
+          "giving (dāna)",
+          "result of"
      ],
      [
           "AN4.217",
-          "declarations",
-          "speech"
+          "speech",
+          "declarations"
      ],
      [
           "AN4.218",
-          "declarations",
-          "speech"
+          "speech",
+          "declarations"
      ],
      [
           "AN4.221",
-          "good conduct",
-          "speech"
+          "speech",
+          "good conduct"
      ],
      [
           "AN4.221",
-          "bad conduct",
-          "speech"
+          "speech",
+          "bad conduct"
      ],
      [
           "AN4.222",
-          "good conduct",
-          "speech"
+          "speech",
+          "good conduct"
      ],
      [
           "AN4.222",
-          "bad conduct",
-          "speech"
+          "speech",
+          "bad conduct"
      ],
      [
           "AN4.250–53",
-          "declarations",
-          "speech"
+          "speech",
+          "declarations"
      ],
      [
           "AN4.3",
-          "praise and dispraise",
-          "speech"
+          "speech",
+          "praise and dispraise"
      ],
      [
           "AN4.34",
-          "qualities of recipient",
-          "giving (dāna)"
+          "giving (dāna)",
+          "qualities of recipient"
      ],
      [
           "AN4.34",
-          "to the Saṅgha",
-          "giving (dāna)"
+          "giving (dāna)",
+          "to the Saṅgha"
      ],
      [
           "AN4.42",
-          "",
-          "answering questions"
+          "answering questions",
+          ""
      ],
      [
           "AN4.53",
-          "as a quality of a good person",
-          "generosity (cāga)"
+          "generosity (cāga)",
+          "as a quality of a good person"
      ],
      [
           "AN4.55",
-          "cause for rebirth",
-          "generosity (cāga)"
+          "generosity (cāga)",
+          "cause for rebirth"
      ],
      [
           "AN4.57",
-          "food",
-          "giving (dāna)"
+          "giving (dāna)",
+          "food"
      ],
      [
           "AN4.57",
-          "result of",
-          "giving (dāna)"
+          "giving (dāna)",
+          "result of"
      ],
      [
           "AN4.58",
-          "food",
-          "giving (dāna)"
+          "giving (dāna)",
+          "food"
      ],
      [
           "AN4.58",
-          "result of",
-          "giving (dāna)"
+          "giving (dāna)",
+          "result of"
      ],
      [
           "AN4.59",
-          "food",
-          "giving (dāna)"
+          "giving (dāna)",
+          "food"
      ],
      [
           "AN4.60",
-          "to the Saṅgha",
-          "giving (dāna)"
+          "giving (dāna)",
+          "to the Saṅgha"
      ],
      [
           "AN4.61",
-          "as cause for wealth",
-          "generosity (cāga)"
+          "generosity (cāga)",
+          "as cause for wealth"
      ],
      [
           "AN4.61",
-          "as good use of wealth",
-          "giving (dāna)"
+          "giving (dāna)",
+          "as good use of wealth"
      ],
      [
           "AN4.63",
-          "qualities of recipient",
-          "giving (dāna)"
+          "giving (dāna)",
+          "qualities of recipient"
      ],
      [
           "AN4.63",
-          "whom to give to",
-          "giving (dāna)"
+          "giving (dāna)",
+          "whom to give to"
      ],
      [
           "AN4.73",
-          "about oneself",
-          "speech"
+          "speech",
+          "about oneself"
      ],
      [
           "AN4.73",
-          "about others",
-          "speech"
+          "speech",
+          "about others"
      ],
      [
           "AN4.73",
-          "simile of new bride",
-          "speech"
+          "speech",
+          "simile of new bride"
      ],
      [
           "AN4.78",
-          "levels of",
-          "giving (dāna)"
+          "giving (dāna)",
+          "levels of"
      ],
      [
           "AN4.78",
-          "purifying",
-          "giving (dāna)"
+          "giving (dāna)",
+          "purifying"
      ],
      [
           "AN4.82",
-          "factor for rebirth",
-          "speech"
+          "speech",
+          "factor for rebirth"
      ],
      [
           "AN4.83",
-          "factor for rebirth",
-          "speech"
+          "speech",
+          "factor for rebirth"
      ],
      [
           "AN4.83",
-          "praise and dispraise",
-          "speech"
+          "speech",
+          "praise and dispraise"
      ],
      [
           "AN4.84",
-          "denigration",
-          "speech"
+          "speech",
+          "denigration"
      ],
      [
           "AN5.116–120",
-          "praise and dispraise",
-          "speech"
+          "speech",
+          "praise and dispraise"
      ],
      [
           "AN5.141",
-          "by bad person",
-          "giving (dāna)"
+          "giving (dāna)",
+          "by bad person"
      ],
      [
           "AN5.146",
-          "",
-          "Dhamma discussion"
+          "Dhamma discussion",
+          ""
      ],
      [
           "AN5.146",
-          "",
-          "listening to Dhamma"
+          "listening to Dhamma",
+          ""
      ],
      [
           "AN5.147",
-          "by bad person",
-          "giving (dāna)"
+          "giving (dāna)",
+          "by bad person"
      ],
      [
           "AN5.147",
-          "how to give",
-          "giving (dāna)"
+          "giving (dāna)",
+          "how to give"
      ],
      [
           "AN5.147",
-          "result of",
-          "giving (dāna)"
+          "giving (dāna)",
+          "result of"
      ],
      [
           "AN5.147",
-          "what to give",
-          "giving (dāna)"
+          "giving (dāna)",
+          "what to give"
      ],
      [
           "AN5.147",
-          "what to give",
-          "giving (dāna)"
+          "giving (dāna)",
+          "what to give"
      ],
      [
           "AN5.147",
-          "",
-          "listening to Dhamma"
+          "listening to Dhamma",
+          ""
      ],
      [
           "AN5.148",
-          "four kinds of bad",
-          "speech"
+          "speech",
+          "four kinds of bad"
      ],
      [
           "AN5.149",
-          "four kinds of good",
-          "speech"
+          "speech",
+          "four kinds of good"
      ],
      [
           "AN5.157",
-          "talk of",
-          "generosity (cāga)"
+          "generosity (cāga)",
+          "talk of"
      ],
      [
           "AN5.161",
-          "to abandon resentment",
-          "loving-kindness (mettā)"
+          "loving-kindness (mettā)",
+          "to abandon resentment"
      ],
      [
           "AN5.176",
-          "as not enough",
-          "giving (dāna)"
+          "giving (dāna)",
+          "as not enough"
      ],
      [
           "AN5.179",
-          "whom to give to",
-          "giving (dāna)"
+          "giving (dāna)",
+          "whom to give to"
      ],
      [
           "AN5.198",
-          "beneficial",
-          "speech"
+          "speech",
+          "beneficial"
      ],
      [
           "AN5.198",
-          "blameless",
-          "speech"
+          "speech",
+          "blameless"
      ],
      [
           "AN5.198",
-          "factors of well spoken",
-          "speech"
+          "speech",
+          "factors of well spoken"
      ],
      [
           "AN5.198",
-          "gentle",
-          "speech"
+          "speech",
+          "gentle"
      ],
      [
           "AN5.198",
-          "timely",
-          "speech"
+          "speech",
+          "timely"
      ],
      [
           "AN5.198",
-          "well spoken",
-          "speech"
+          "speech",
+          "well spoken"
      ],
      [
           "AN5.198",
-          "with loving-kindness",
-          "speech"
+          "speech",
+          "with loving-kindness"
      ],
      [
           "AN5.214",
-          "likely when talking a lot",
-          "false speech"
+          "false speech",
+          "likely when talking a lot"
      ],
      [
           "AN5.214",
-          "",
-          "harsh speech"
+          "harsh speech",
+          ""
      ],
      [
           "AN5.214",
-          "",
-          "divisive speech"
+          "divisive speech",
+          ""
      ],
      [
           "AN5.214",
-          "gentle",
-          "speech"
+          "speech",
+          "gentle"
      ],
      [
           "AN5.214",
-          "non-divisive",
-          "speech"
+          "speech",
+          "non-divisive"
      ],
      [
           "AN5.214",
-          "speaking much",
-          "speech"
+          "speech",
+          "speaking much"
      ],
      [
           "AN5.214",
-          "speaking right amount",
-          "speech"
+          "speech",
+          "speaking right amount"
      ],
      [
           "AN5.214",
-          "true",
-          "speech"
+          "speech",
+          "true"
      ],
      [
           "AN5.214",
-          "useful",
-          "speech"
+          "speech",
+          "useful"
      ],
      [
           "AN5.214",
-          "useless (tiracāna)",
-          "speech"
+          "speech",
+          "useless (tiracāna)"
      ],
      [
           "AN5.236–38",
-          "praise and dispraise",
-          "speech"
+          "speech",
+          "praise and dispraise"
      ],
      [
           "AN5.254",
-          "types",
-          "stinginess"
+          "stinginess",
+          "types"
      ],
      [
           "AN5.255",
-          "giving up",
-          "stinginess"
+          "stinginess",
+          "giving up"
      ],
      [
           "AN5.31",
-          "result of",
-          "giving (dāna)"
+          "giving (dāna)",
+          "result of"
      ],
      [
           "AN5.32",
-          "qualities of recipient",
-          "giving (dāna)"
+          "giving (dāna)",
+          "qualities of recipient"
      ],
      [
           "AN5.32",
-          "to the Saṅgha",
-          "giving (dāna)"
+          "giving (dāna)",
+          "to the Saṅgha"
      ],
      [
           "AN5.34",
-          "cause for rebirth",
-          "giving (dāna)"
+          "giving (dāna)",
+          "cause for rebirth"
      ],
      [
           "AN5.34",
-          "result directly visible",
-          "giving (dāna)"
+          "giving (dāna)",
+          "result directly visible"
      ],
      [
           "AN5.35",
-          "result of",
-          "giving (dāna)"
+          "giving (dāna)",
+          "result of"
      ],
      [
           "AN5.35",
-          "result of",
-          "giving (dāna)"
+          "giving (dāna)",
+          "result of"
      ],
      [
           "AN5.36",
-          "times for",
-          "giving (dāna)"
+          "giving (dāna)",
+          "times for"
      ],
      [
           "AN5.37",
-          "food",
-          "giving (dāna)"
+          "giving (dāna)",
+          "food"
      ],
      [
           "AN5.37",
-          "result of",
-          "giving (dāna)"
+          "giving (dāna)",
+          "result of"
      ],
      [
           "AN5.44",
-          "result of",
-          "giving (dāna)"
+          "giving (dāna)",
+          "result of"
      ],
      [
           "AN5.44",
-          "what to give",
-          "giving (dāna)"
+          "giving (dāna)",
+          "what to give"
      ],
      [
           "AN5.44",
-          "whom to give to",
-          "giving (dāna)"
+          "giving (dāna)",
+          "whom to give to"
      ],
      [
           "AN5.45",
-          "result of",
-          "giving (dāna)"
+          "giving (dāna)",
+          "result of"
      ],
      [
           "AN5.45",
-          "simile of ocean",
-          "giving (dāna)"
+          "giving (dāna)",
+          "simile of ocean"
      ],
      [
           "AN5.45",
-          "as stream of merit",
-          "giving (dāna)"
+          "giving (dāna)",
+          "as stream of merit"
      ],
      [
           "AN5.46",
-          "as an accomplishment",
-          "generosity (cāga)"
+          "generosity (cāga)",
+          "as an accomplishment"
      ],
      [
           "AN5.47",
-          "as a type of wealth",
-          "generosity (cāga)"
+          "generosity (cāga)",
+          "as a type of wealth"
      ],
      [
           "AN5.48",
-          "universality of",
-          "death (maraṇa)"
+          "death (maraṇa)",
+          "universality of"
      ],
      [
           "AN5.49",
-          "of relative",
-          "death (maraṇa)"
+          "death (maraṇa)",
+          "of relative"
      ],
      [
           "AN5.57",
-          "frequent recollection",
-          "death (maraṇa)"
+          "death (maraṇa)",
+          "frequent recollection"
      ],
      [
           "AN5.91",
-          "as an accomplishment",
-          "generosity (cāga)"
+          "generosity (cāga)",
+          "as an accomplishment"
      ],
      [
           "AN6.10",
-          "recollection of ones own",
-          "generosity (cāga)"
+          "generosity (cāga)",
+          "recollection of ones own"
      ],
      [
           "AN6.107",
-          "to abandon hatred",
-          "loving-kindness (mettā)"
+          "loving-kindness (mettā)",
+          "to abandon hatred"
      ],
      [
           "AN6.12",
-          "as principle of cordiality",
-          "loving-kindness (mettā)"
+          "loving-kindness (mettā)",
+          "as principle of cordiality"
      ],
      [
           "AN6.13",
-          "liberation of mind by",
-          "loving-kindness (mettā)"
+          "loving-kindness (mettā)",
+          "liberation of mind by"
      ],
      [
           "AN6.14",
-          "good",
-          "death (maraṇa)"
+          "death (maraṇa)",
+          "good"
      ],
      [
           "AN6.15",
-          "good",
-          "death (maraṇa)"
+          "death (maraṇa)",
+          "good"
      ],
      [
           "AN6.16",
-          "good",
-          "death (maraṇa)"
+          "death (maraṇa)",
+          "good"
      ],
      [
           "AN6.19",
-          "mindfulness of",
-          "death (maraṇa)"
+          "death (maraṇa)",
+          "mindfulness of"
      ],
      [
           "AN6.20",
-          "mindfulness of",
-          "death (maraṇa)"
+          "death (maraṇa)",
+          "mindfulness of"
      ],
      [
           "AN6.25",
-          "recollection of ones own",
-          "generosity (cāga)"
+          "generosity (cāga)",
+          "recollection of ones own"
      ],
      [
           "AN6.37",
-          "after giving",
-          "giving (dāna)"
+          "giving (dāna)",
+          "after giving"
      ],
      [
           "AN6.37",
-          "how to give",
-          "giving (dāna)"
+          "giving (dāna)",
+          "how to give"
      ],
      [
           "AN6.37",
-          "levels of",
-          "giving (dāna)"
+          "giving (dāna)",
+          "levels of"
      ],
      [
           "AN6.37",
-          "qualities of giver",
-          "giving (dāna)"
+          "giving (dāna)",
+          "qualities of giver"
      ],
      [
           "AN6.37",
-          "qualities of recipient",
-          "giving (dāna)"
+          "giving (dāna)",
+          "qualities of recipient"
      ],
      [
           "AN6.59",
-          "qualities of recipient",
-          "giving (dāna)"
+          "giving (dāna)",
+          "qualities of recipient"
      ],
      [
           "AN6.59",
-          "to the Saṅgha",
-          "giving (dāna)"
+          "giving (dāna)",
+          "to the Saṅgha"
      ],
      [
           "AN7.47",
-          "parents as worthy recipients",
-          "giving (dāna)"
+          "giving (dāna)",
+          "parents as worthy recipients"
      ],
      [
           "AN7.49",
-          "perception of",
-          "death (maraṇa)"
+          "death (maraṇa)",
+          "perception of"
      ],
      [
           "AN7.49",
-          "perception of as beneficial",
-          "death (maraṇa)"
+          "death (maraṇa)",
+          "perception of as beneficial"
      ],
      [
           "AN7.52",
-          "expecting something in return",
-          "giving (dāna)"
+          "giving (dāna)",
+          "expecting something in return"
      ],
      [
           "AN7.52",
-          "how to give",
-          "giving (dāna)"
+          "giving (dāna)",
+          "how to give"
      ],
      [
           "AN7.52",
-          "levels of",
-          "giving (dāna)"
+          "giving (dāna)",
+          "levels of"
      ],
      [
           "AN7.53",
-          "dedication to gods",
-          "giving (dāna)"
+          "giving (dāna)",
+          "dedication to gods"
      ],
      [
           "AN7.53",
-          "to the Saṅgha",
-          "giving (dāna)"
+          "giving (dāna)",
+          "to the Saṅgha"
      ],
      [
           "AN7.6",
-          "as a type of wealth",
-          "generosity (cāga)"
+          "generosity (cāga)",
+          "as a type of wealth"
      ],
      [
           "AN7.62",
-          "as cause for rebirth",
-          "loving-kindness (mettā)"
+          "loving-kindness (mettā)",
+          "as cause for rebirth"
      ],
      [
           "AN7.74",
-          "comes quickly",
-          "death (maraṇa)"
+          "death (maraṇa)",
+          "comes quickly"
      ],
      [
           "AN7.74",
-          "inevitability of",
-          "death (maraṇa)"
+          "death (maraṇa)",
+          "inevitability of"
      ],
      [
           "AN8.1",
-          "benefits of",
-          "loving-kindness (mettā)"
+          "loving-kindness (mettā)",
+          "benefits of"
      ],
      [
           "AN8.1",
-          "liberation of mind by",
-          "loving-kindness (mettā)"
+          "loving-kindness (mettā)",
+          "liberation of mind by"
      ],
      [
           "AN8.1",
-          "to weaken fetters",
-          "loving-kindness (mettā)"
+          "loving-kindness (mettā)",
+          "to weaken fetters"
      ],
      [
           "AN8.22",
-          "with equanimity",
-          "giving (dāna)"
+          "giving (dāna)",
+          "with equanimity"
      ],
      [
           "AN8.31",
-          "reasons for",
-          "giving (dāna)"
+          "giving (dāna)",
+          "reasons for"
      ],
      [
           "AN8.33",
-          "reasons for",
-          "giving (dāna)"
+          "giving (dāna)",
+          "reasons for"
      ],
      [
           "AN8.34",
-          "levels of",
-          "giving (dāna)"
+          "giving (dāna)",
+          "levels of"
      ],
      [
           "AN8.34",
-          "qualities of recipient",
-          "giving (dāna)"
+          "giving (dāna)",
+          "qualities of recipient"
      ],
      [
           "AN8.34",
-          "to the Saṅgha",
-          "giving (dāna)"
+          "giving (dāna)",
+          "to the Saṅgha"
      ],
      [
           "AN8.35",
-          "cause for rebirth",
-          "giving (dāna)"
+          "giving (dāna)",
+          "cause for rebirth"
      ],
      [
           "AN8.35",
-          "expecting something in return",
-          "giving (dāna)"
+          "giving (dāna)",
+          "expecting something in return"
      ],
      [
           "AN8.35",
-          "result of",
-          "giving (dāna)"
+          "giving (dāna)",
+          "result of"
      ],
      [
           "AN8.36",
-          "basis of merit",
-          "giving (dāna)"
+          "giving (dāna)",
+          "basis of merit"
      ],
      [
           "AN8.36",
-          "cause for rebirth",
-          "giving (dāna)"
+          "giving (dāna)",
+          "cause for rebirth"
      ],
      [
           "AN8.36",
-          "levels of",
-          "giving (dāna)"
+          "giving (dāna)",
+          "levels of"
      ],
      [
           "AN8.36",
-          "result of",
-          "giving (dāna)"
+          "giving (dāna)",
+          "result of"
      ],
      [
           "AN8.37",
-          "happiness after",
-          "giving (dāna)"
+          "giving (dāna)",
+          "happiness after"
      ],
      [
           "AN8.37",
-          "method of",
-          "giving (dāna)"
+          "giving (dāna)",
+          "method of"
      ],
      [
           "AN8.37",
-          "with regret",
-          "giving (dāna)"
+          "giving (dāna)",
+          "with regret"
      ],
      [
           "AN8.37",
-          "times for",
-          "giving (dāna)"
+          "giving (dāna)",
+          "times for"
      ],
      [
           "AN8.37",
-          "what to give",
-          "giving (dāna)"
+          "giving (dāna)",
+          "what to give"
      ],
      [
           "AN8.39",
-          "of fearlessness",
-          "giving (dāna)"
+          "giving (dāna)",
+          "of fearlessness"
      ],
      [
           "AN8.39",
-          "precepts as a gift",
-          "giving (dāna)"
+          "giving (dāna)",
+          "precepts as a gift"
      ],
      [
           "AN8.40",
-          "result of",
-          "giving (dāna)"
+          "giving (dāna)",
+          "result of"
      ],
      [
           "AN8.40",
-          "results",
-          "false speech"
+          "false speech",
+          "results"
      ],
      [
           "AN8.40",
-          "results of",
-          "harsh speech"
+          "harsh speech",
+          "results of"
      ],
      [
           "AN8.40",
-          "results of",
-          "divisive speech"
+          "divisive speech",
+          "results of"
      ],
      [
           "AN8.40",
-          "useless speech: results of",
-          "speech"
+          "speech",
+          "useless speech: results of"
      ],
      [
           "AN8.46",
-          "cause for rebirth",
-          "generosity (cāga)"
+          "generosity (cāga)",
+          "cause for rebirth"
      ],
      [
           "AN8.49",
-          "cause for rebirth",
-          "generosity (cāga)"
+          "generosity (cāga)",
+          "cause for rebirth"
      ],
      [
           "AN8.54",
-          "cause for rebirth",
-          "generosity (cāga)"
+          "generosity (cāga)",
+          "cause for rebirth"
      ],
      [
           "AN8.59",
-          "to the Saṅgha",
-          "giving (dāna)"
+          "giving (dāna)",
+          "to the Saṅgha"
      ],
      [
           "AN8.59",
-          "whom to give to",
-          "giving (dāna)"
+          "giving (dāna)",
+          "whom to give to"
      ],
      [
           "AN8.63",
-          "liberation of mind by",
-          "loving-kindness (mettā)"
+          "loving-kindness (mettā)",
+          "liberation of mind by"
      ],
      [
           "AN8.68–9",
-          "declarations",
-          "speech"
+          "speech",
+          "declarations"
      ],
      [
           "AN8.76",
-          "as an accomplishment",
-          "generosity (cāga)"
+          "generosity (cāga)",
+          "as an accomplishment"
      ],
      [
           "AN9.1",
-          "to abandon ill-will",
-          "loving-kindness (mettā)"
+          "loving-kindness (mettā)",
+          "to abandon ill-will"
      ],
      [
           "AN9.18",
-          "as factor of uposatha",
-          "loving-kindness (mettā)"
+          "loving-kindness (mettā)",
+          "as factor of uposatha"
      ],
      [
           "AN9.20",
-          "levels of",
-          "giving (dāna)"
+          "giving (dāna)",
+          "levels of"
      ],
      [
           "AN9.20",
-          "to the Saṅgha",
-          "giving (dāna)"
+          "giving (dāna)",
+          "to the Saṅgha"
      ],
      [
           "AN9.22",
-          "",
-          "loving-kindness (mettā)"
+          "loving-kindness (mettā)",
+          ""
      ],
      [
           "AN9.3",
-          "to abandon ill-will",
-          "loving-kindness (mettā)"
+          "loving-kindness (mettā)",
+          "to abandon ill-will"
      ],
      [
           "Dhp chapter 11",
-          "",
-          "old age"
+          "old age",
+          ""
      ],
      [
           "Dhp chapter 14 ",
-          "",
-          "Buddha, the"
+          "Buddha, the",
+          ""
      ],
      [
           "Dhp chapter 15",
-          "",
-          "happiness"
+          "happiness",
+          ""
      ],
      [
           "Dhp chapter 16",
-          "",
-          "love (piya)"
+          "love (piya)",
+          ""
      ],
      [
           "Dhp chapter 17",
-          "",
-          "anger (kodha)"
+          "anger (kodha)",
+          ""
      ],
      [
           "Dhp chapter 2",
-          "",
-          "heedfulness (appamāda)"
+          "heedfulness (appamāda)",
+          ""
      ],
      [
           "Dhp chapter 22",
-          "",
-          "hell"
+          "hell",
+          ""
      ],
      [
           "Dhp chapter 23",
-          "",
-          "elephant"
+          "elephant",
+          ""
      ],
      [
           "Dhp chapter 24",
-          "",
-          "craving (taṇha)"
+          "craving (taṇha)",
+          ""
      ],
      [
           "Dhp chapter 26",
-          "true meaning",
-          "brahmin"
+          "brahmin",
+          "true meaning"
      ],
      [
           "Dhp chapter 3",
-          "",
-          "mind"
+          "mind",
+          ""
      ],
      [
           "Dhp chapter 5",
-          "",
-          "fool"
+          "fool",
+          ""
      ],
      [
           "Dhp1",
-          "",
-          "intention"
+          "intention",
+          ""
      ],
      [
           "Dhp1",
-          "results and",
-          "actions (kamma)"
+          "actions (kamma)",
+          "results and"
      ],
      [
           "Dhp10",
-          "worthy of",
-          "robes"
+          "robes",
+          "worthy of"
      ],
      [
           "Dhp100",
-          "small amount",
-          "listening to Dhamma"
+          "listening to Dhamma",
+          "small amount"
      ],
      [
           "Dhp101",
-          "small amount",
-          "listening to Dhamma"
+          "listening to Dhamma",
+          "small amount"
      ],
      [
           "Dhp102",
-          "small amount",
-          "listening to Dhamma"
+          "listening to Dhamma",
+          "small amount"
      ],
      [
           "Dhp103–5",
-          "",
-          "self taming"
+          "self taming",
+          ""
      ],
      [
           "Dhp106–9",
-          "to the worthy",
-          "honor"
+          "honor",
+          "to the worthy"
      ],
      [
           "Dhp109",
-          "result of giving",
-          "honor"
+          "honor",
+          "result of giving"
      ],
      [
           "Dhp11",
-          "",
-          "domain (gocarā)"
+          "domain (gocarā)",
+          ""
      ],
      [
           "Dhp11",
-          "",
-          "essential/inessential"
+          "essential/inessential",
+          ""
      ],
      [
           "Dhp110–11",
-          "single day of",
-          "meditation"
+          "meditation",
+          "single day of"
      ],
      [
           "Dhp112",
-          "single day of",
-          "energy"
+          "energy",
+          "single day of"
      ],
      [
           "Dhp117",
-          "doing again and again",
-          "bad actions"
+          "bad actions",
+          "doing again and again"
      ],
      [
           "Dhp118",
-          "doing again and again",
-          "good actions"
+          "good actions",
+          "doing again and again"
      ],
      [
           "Dhp119",
-          "results come slowly",
-          "bad actions"
+          "bad actions",
+          "results come slowly"
      ],
      [
           "Dhp12",
-          "",
-          "domain (gocarā)"
+          "domain (gocarā)",
+          ""
      ],
      [
           "Dhp12",
-          "",
-          "essential/inessential"
+          "essential/inessential",
+          ""
      ],
      [
           "Dhp120",
-          "results come slowly",
-          "good actions"
+          "good actions",
+          "results come slowly"
      ],
      [
           "Dhp121",
-          "accumulating little by little",
-          "bad actions"
+          "bad actions",
+          "accumulating little by little"
      ],
      [
           "Dhp122",
-          "accumulating little by little",
-          "good actions"
+          "good actions",
+          "accumulating little by little"
      ],
      [
           "Dhp123",
-          "simile of merchant",
-          "evil"
+          "evil",
+          "simile of merchant"
      ],
      [
           "Dhp123",
-          "simile of poison",
-          "evil"
+          "evil",
+          "simile of poison"
      ],
      [
           "Dhp124",
-          "simile of poison",
-          "bad actions"
+          "bad actions",
+          "simile of poison"
      ],
      [
           "Dhp125",
-          "like dust thrown into the wind",
-          "harming a good person"
+          "harming a good person",
+          "like dust thrown into the wind"
      ],
      [
           "Dhp127",
-          "cannot escape results of ",
-          "karma"
+          "karma",
+          "cannot escape results of "
      ],
      [
           "Dhp128",
-          "cannot escape  ",
-          "death (maraṇa)"
+          "death (maraṇa)",
+          "cannot escape  "
      ],
      [
           "Dhp129",
-          "",
-          "killing"
+          "killing",
+          ""
      ],
      [
           "Dhp129",
-          "all fear",
-          "death (maraṇa)"
+          "death (maraṇa)",
+          "all fear"
      ],
      [
           "Dhp129",
-          "thinking of others as oneself",
-          "killing"
+          "killing",
+          "thinking of others as oneself"
      ],
      [
           "Dhp13",
-          "undeveloped mind",
-          "lust (rāga)"
+          "lust (rāga)",
+          "undeveloped mind"
      ],
      [
           "Dhp13",
-          "simile of rain and roof",
-          "lust (rāga)"
+          "lust (rāga)",
+          "simile of rain and roof"
      ],
      [
           "Dhp130",
-          "",
-          "killing"
+          "killing",
+          ""
      ],
      [
           "Dhp130",
-          "thinking of others as oneself",
-          "killing"
+          "killing",
+          "thinking of others as oneself"
      ],
      [
           "Dhp131",
-          "result of",
-          "killing"
+          "killing",
+          "result of"
      ],
      [
           "Dhp132",
-          "result of",
-          "killing"
+          "killing",
+          "result of"
      ],
      [
           "Dhp133",
-          "result of",
-          "harsh speech"
+          "harsh speech",
+          "result of"
      ],
      [
           "Dhp134",
-          "stopping",
-          "conflicts"
+          "conflicts",
+          "stopping"
      ],
      [
           "Dhp135",
-          "simile of cowherd",
-          "death (maraṇa)"
+          "death (maraṇa)",
+          "simile of cowherd"
      ],
      [
           "Dhp137–40",
-          "result of",
-          "violence"
+          "violence",
+          "result of"
      ],
      [
           "Dhp14",
-          "developed mind",
-          "lust (rāga)"
+          "lust (rāga)",
+          "developed mind"
      ],
      [
           "Dhp14",
-          "simile of rain and roof",
-          "lust (rāga)"
+          "lust (rāga)",
+          "simile of rain and roof"
      ],
      [
           "Dhp141",
-          "uselessness of",
-          "ascetic practices"
+          "ascetic practices",
+          "uselessness of"
      ],
      [
           "Dhp142",
-          "",
-          "outward appearance deceiving"
+          "outward appearance deceiving",
+          ""
      ],
      [
           "Dhp143–44",
-          "simile of horse and whip",
-          "conscience"
+          "conscience",
+          "simile of horse and whip"
      ],
      [
           "Dhp145",
-          "simile of arrow maker",
-          "self taming"
+          "self taming",
+          "simile of arrow maker"
      ],
      [
           "Dhp145",
-          "simile of irrigator",
-          "self taming"
+          "self taming",
+          "simile of irrigator"
      ],
      [
           "Dhp145",
-          "simile of carpenter",
-          "self taming"
+          "self taming",
+          "simile of carpenter"
      ],
      [
           "Dhp146",
-          "",
-          "urgency"
+          "urgency",
+          ""
      ],
      [
           "Dhp147–50",
-          "",
-          "perception of ugliness (asubhasañña)"
+          "perception of ugliness (asubhasañña)",
+          ""
      ],
      [
           "Dhp149",
-          "simile of gourds",
-          "bones"
+          "bones",
+          "simile of gourds"
      ],
      [
           "Dhp15",
-          "results of",
-          "bad actions"
+          "bad actions",
+          "results of"
      ],
      [
           "Dhp15",
-          "seeing results of",
-          "bad actions"
+          "bad actions",
+          "seeing results of"
      ],
      [
           "Dhp151",
-          "",
-          "impermanence"
+          "impermanence",
+          ""
      ],
      [
           "Dhp152",
-          "simile of ox",
-          "unlearned person"
+          "unlearned person",
+          "simile of ox"
      ],
      [
           "Dhp153",
-          "simile of ",
-          "house builder"
+          "house builder",
+          "simile of "
      ],
      [
           "Dhp153–54",
-          "",
-          "first verses of Buddha"
+          "first verses of Buddha",
+          ""
      ],
      [
           "Dhp153–54",
-          "",
-          "rebirth"
+          "rebirth",
+          ""
      ],
      [
           "Dhp154",
-          "simile of ",
-          "house builder"
+          "house builder",
+          "simile of "
      ],
      [
           "Dhp155 ",
-          "simile of cranes",
-          "old age"
+          "old age",
+          "simile of cranes"
      ],
      [
           "Dhp155–54",
-          "rejected in youth",
-          "holy life"
+          "holy life",
+          "rejected in youth"
      ],
      [
           "Dhp156",
-          "simile of arrows",
-          "old age"
+          "old age",
+          "simile of arrows"
      ],
      [
           "Dhp159–60",
-          "",
-          "self taming"
+          "self taming",
+          ""
      ],
      [
           "Dhp16",
-          "results of",
-          "good actions"
+          "good actions",
+          "results of"
      ],
      [
           "Dhp16",
-          "seeing results of",
-          "good actions"
+          "good actions",
+          "seeing results of"
      ],
      [
           "Dhp161",
-          "harming oneself",
-          "evil actions"
+          "evil actions",
+          "harming oneself"
      ],
      [
           "Dhp161",
-          "simile of diamond grinding",
-          "results of actions"
+          "results of actions",
+          "simile of diamond grinding"
      ],
      [
           "Dhp162",
-          "harming oneself",
-          "evil actions"
+          "evil actions",
+          "harming oneself"
      ],
      [
           "Dhp162",
-          "simile of creeper",
-          "immorality"
+          "immorality",
+          "simile of creeper"
      ],
      [
           "Dhp163",
-          "easy to do",
-          "bad actions"
+          "bad actions",
+          "easy to do"
      ],
      [
           "Dhp163",
-          "hard to do",
-          "good actions"
+          "good actions",
+          "hard to do"
      ],
      [
           "Dhp164",
-          "harming oneself",
-          "evil actions"
+          "evil actions",
+          "harming oneself"
      ],
      [
           "Dhp164",
-          "simile of bamboo",
-          "results of actions"
+          "results of actions",
+          "simile of bamboo"
      ],
      [
           "Dhp165",
-          "",
-          "self reliance"
+          "self reliance",
+          ""
      ],
      [
           "Dhp166",
-          "not neglecting ones own good",
-          "self sacrifice"
+          "self sacrifice",
+          "not neglecting ones own good"
      ],
      [
           "Dhp168",
-          "",
-          "energy"
+          "energy",
+          ""
      ],
      [
           "Dhp168–69",
-          "",
-          "sleep"
+          "sleep",
+          ""
      ],
      [
           "Dhp17",
-          "results of",
-          "bad actions"
+          "bad actions",
+          "results of"
      ],
      [
           "Dhp17",
-          "seeing results of",
-          "bad actions"
+          "bad actions",
+          "seeing results of"
      ],
      [
           "Dhp170",
-          "simile of bubble",
-          "world"
+          "world",
+          "simile of bubble"
      ],
      [
           "Dhp170",
-          "simile of mirage",
-          "world"
+          "world",
+          "simile of mirage"
      ],
      [
           "Dhp172–73",
-          "simile of moon",
-          "heedfulness (appamāda)"
+          "heedfulness (appamāda)",
+          "simile of moon"
      ],
      [
           "Dhp174",
-          "simile of bird and net",
-          "heaven"
+          "heaven",
+          "simile of bird and net"
      ],
      [
           "Dhp174",
-          "few reborn in",
-          "heaven"
+          "heaven",
+          "few reborn in"
      ],
      [
           "Dhp176",
-          "",
-          "lying"
+          "lying",
+          ""
      ],
      [
           "Dhp177",
-          "praised by wise",
-          "giving (dāna)"
+          "giving (dāna)",
+          "praised by wise"
      ],
      [
           "Dhp178",
-          "better than heaven",
-          "stream-enterers"
+          "stream-enterers",
+          "better than heaven"
      ],
      [
           "Dhp18",
-          "results of",
-          "good actions"
+          "good actions",
+          "results of"
      ],
      [
           "Dhp18",
-          "seeing results of",
-          "good actions"
+          "good actions",
+          "seeing results of"
      ],
      [
           "Dhp181",
-          "envied by gods",
-          "Buddha, the"
+          "Buddha, the",
+          "envied by gods"
      ],
      [
           "Dhp182",
-          "rarity of",
-          "human birth"
+          "human birth",
+          "rarity of"
      ],
      [
           "Dhp182",
-          "rarity of",
-          "Buddhas"
+          "Buddhas",
+          "rarity of"
      ],
      [
           "Dhp183",
-          "in brief",
-          "Dhamma"
+          "Dhamma",
+          "in brief"
      ],
      [
           "Dhp184",
-          "as austerity",
-          "patience"
+          "patience",
+          "as austerity"
      ],
      [
           "Dhp185",
-          "in brief",
-          "Dhamma"
+          "Dhamma",
+          "in brief"
      ],
      [
           "Dhp186",
-          "as insatiable",
-          "sense pleasures"
+          "sense pleasures",
+          "as insatiable"
      ],
      [
           "Dhp188–89",
-          "false",
-          "refuges"
+          "refuges",
+          "false"
      ],
      [
           "Dhp19",
-          "as not enough",
-          "recitation"
+          "recitation",
+          "as not enough"
      ],
      [
           "Dhp19",
-          "simile of cowherd",
-          "recitation"
+          "recitation",
+          "simile of cowherd"
      ],
      [
           "Dhp190–92",
-          "seeing noble truths",
-          "refuges"
+          "refuges",
+          "seeing noble truths"
      ],
      [
           "Dhp195–96",
-          "to the worthy",
-          "honor"
+          "honor",
+          "to the worthy"
      ],
      [
           "Dhp195–96",
-          "by honoring",
-          "merit (puññā)"
+          "merit (puññā)",
+          "by honoring"
      ],
      [
           "Dhp197",
-          "",
-          "love (non-hatred)"
+          "love (non-hatred)",
+          ""
      ],
      [
           "Dhp199–200",
-          "",
-          "contentment"
+          "contentment",
+          ""
      ],
      [
           "Dhp2",
-          "",
-          "intention"
+          "intention",
+          ""
      ],
      [
           "Dhp2",
-          "results and",
-          "actions (kamma)"
+          "actions (kamma)",
+          "results and"
      ],
      [
           "Dhp20",
-          "without recitation",
-          "practicing"
+          "practicing",
+          "without recitation"
      ],
      [
           "Dhp201",
-          "",
-          "victory and defeat"
+          "victory and defeat",
+          ""
      ],
      [
           "Dhp202",
-          "as fire",
-          "greed"
+          "greed",
+          "as fire"
      ],
      [
           "Dhp202",
-          "as crime",
-          "hatred (dosa)"
+          "hatred (dosa)",
+          "as crime"
      ],
      [
           "Dhp202",
-          "as suffering",
-          "aggregates"
+          "aggregates",
+          "as suffering"
      ],
      [
           "Dhp203",
-          "as illness",
-          "hunger"
+          "hunger",
+          "as illness"
      ],
      [
           "Dhp204",
-          "as blessing",
-          "health"
+          "health",
+          "as blessing"
      ],
      [
           "Dhp204",
-          "as wealth",
-          "contentment"
+          "contentment",
+          "as wealth"
      ],
      [
           "Dhp206–7",
-          "with wise",
-          "association"
+          "association",
+          "with wise"
      ],
      [
           "Dhp207",
-          "with fools",
-          "association "
+          "association ",
+          "with fools"
      ],
      [
           "Dhp208",
-          "simile of moon and stars",
-          "association "
+          "association ",
+          "simile of moon and stars"
      ],
      [
           "Dhp209",
-          "",
-          "priorities"
+          "priorities",
+          ""
      ],
      [
           "Dhp209",
-          "",
-          "jealousy"
+          "jealousy",
+          ""
      ],
      [
           "Dhp21",
-          "heedlessness as cause",
-          "death (maraṇa)"
+          "death (maraṇa)",
+          "heedlessness as cause"
      ],
      [
           "Dhp21",
-          "",
-          "deathless (amata)"
+          "deathless (amata)",
+          ""
      ],
      [
           "Dhp21",
-          "",
-          "heedfulness (appamāda)"
+          "heedfulness (appamāda)",
+          ""
      ],
      [
           "Dhp21",
-          "",
-          "heedlessness (pamāda)"
+          "heedlessness (pamāda)",
+          ""
      ],
      [
           "Dhp210",
-          "with loved and unloved",
-          "association "
+          "association ",
+          "with loved and unloved"
      ],
      [
           "Dhp211–12",
-          "clinging to",
-          "loved ones"
+          "loved ones",
+          "clinging to"
      ],
      [
           "Dhp214",
-          "as source of sorrow",
-          "attachment"
+          "attachment",
+          "as source of sorrow"
      ],
      [
           "Dhp215",
-          "as source of sorrow",
-          "craving (taṇha)"
+          "craving (taṇha)",
+          "as source of sorrow"
      ],
      [
           "Dhp219–20",
-          "rebirth",
-          "good actions"
+          "good actions",
+          "rebirth"
      ],
      [
           "Dhp22",
-          "rejoicing in",
-          "heedfulness (appamāda)"
+          "heedfulness (appamāda)",
+          "rejoicing in"
      ],
      [
           "Dhp222",
-          "simile of charioteer",
-          "anger (kodha)"
+          "anger (kodha)",
+          "simile of charioteer"
      ],
      [
           "Dhp222",
-          "keep in check",
-          "anger (kodha)"
+          "anger (kodha)",
+          "keep in check"
      ],
      [
           "Dhp223",
-          "overcoming",
-          "anger (kodha)"
+          "anger (kodha)",
+          "overcoming"
      ],
      [
           "Dhp223",
-          "overcoming",
-          "stinginess"
+          "stinginess",
+          "overcoming"
      ],
      [
           "Dhp223",
-          "overcoming",
-          "lying"
+          "lying",
+          "overcoming"
      ],
      [
           "Dhp224",
-          "rebirth in heaven",
-          "giving (dāna)"
+          "giving (dāna)",
+          "rebirth in heaven"
      ],
      [
           "Dhp224",
-          "rebirth in heaven",
-          "truth"
+          "truth",
+          "rebirth in heaven"
      ],
      [
           "Dhp227",
-          "inevitability of",
-          "blame"
+          "blame",
+          "inevitability of"
      ],
      [
           "Dhp228",
-          "",
-          "praise and blame"
+          "praise and blame",
+          ""
      ],
      [
           "Dhp230",
-          "praised by gods",
-          "good people"
+          "good people",
+          "praised by gods"
      ],
      [
           "Dhp232–33",
-          "giving up",
-          "misconduct"
+          "misconduct",
+          "giving up"
      ],
      [
           "Dhp236",
-          "",
-          "self reliance"
+          "self reliance",
+          ""
      ],
      [
           "Dhp238",
-          "",
-          "self reliance"
+          "self reliance",
+          ""
      ],
      [
           "Dhp239",
-          "simile of silversmith",
-          "self purification"
+          "self purification",
+          "simile of silversmith"
      ],
      [
           "Dhp24",
-          "",
-          "reputation"
+          "reputation",
+          ""
      ],
      [
           "Dhp240",
-          "harming oneself",
-          "results of actions"
+          "results of actions",
+          "harming oneself"
      ],
      [
           "Dhp240",
-          "simile of rust",
-          "results of actions"
+          "results of actions",
+          "simile of rust"
      ],
      [
           "Dhp241-42",
-          "",
-          "stains"
+          "stains",
+          ""
      ],
      [
           "Dhp243",
-          "as worst stain",
-          "ignorance"
+          "ignorance",
+          "as worst stain"
      ],
      [
           "Dhp247",
-          "harming oneself",
-          "results of actions"
+          "results of actions",
+          "harming oneself"
      ],
      [
           "Dhp249",
-          "giving and",
-          "confidence (pasāda)"
+          "confidence (pasāda)",
+          "giving and"
      ],
      [
           "Dhp249–50",
-          "hindrances to",
-          "concentration (samādhi)"
+          "concentration (samādhi)",
+          "hindrances to"
      ],
      [
           "Dhp25",
-          "simile of island",
-          "heedfulness (appamāda)"
+          "heedfulness (appamāda)",
+          "simile of island"
      ],
      [
           "Dhp251",
-          "as fire",
-          "greed"
+          "greed",
+          "as fire"
      ],
      [
           "Dhp251",
-          "as crime",
-          "hatred (dosa)"
+          "hatred (dosa)",
+          "as crime"
      ],
      [
           "Dhp252–3",
-          "",
-          "faultfinding"
+          "faultfinding",
+          ""
      ],
      [
           "Dhp256",
-          "",
-          "discernment"
+          "discernment",
+          ""
      ],
      [
           "Dhp259",
-          "as not enough",
-          "recitation"
+          "recitation",
+          "as not enough"
      ],
      [
           "Dhp259",
-          "small amount",
-          "listening to Dhamma"
+          "listening to Dhamma",
+          "small amount"
      ],
      [
           "Dhp26",
-          "as best treasure",
-          "heedfulness (appamāda)"
+          "heedfulness (appamāda)",
+          "as best treasure"
      ],
      [
           "Dhp260–1",
-          "true meaning",
-          "seniority"
+          "seniority",
+          "true meaning"
      ],
      [
           "Dhp262",
-          "",
-          "outward appearance deceiving"
+          "outward appearance deceiving",
+          ""
      ],
      [
           "Dhp264",
-          "",
-          "outward appearance deceiving"
+          "outward appearance deceiving",
+          ""
      ],
      [
           "Dhp265–72",
-          "true meaning",
-          "ascetic, mendicant, sage"
+          "ascetic, mendicant, sage",
+          "true meaning"
      ],
      [
           "Dhp273",
-          "as best path",
-          "noble eightfold path"
+          "noble eightfold path",
+          "as best path"
      ],
      [
           "Dhp274",
-          "as essential",
-          "noble eightfold path"
+          "noble eightfold path",
+          "as essential"
      ],
      [
           "Dhp276",
-          "",
-          "self reliance"
+          "self reliance",
+          ""
      ],
      [
           "Dhp277",
-          "",
-          "impermanence"
+          "impermanence",
+          ""
      ],
      [
           "Dhp278",
-          "",
-          "suffering"
+          "suffering",
+          ""
      ],
      [
           "Dhp279",
-          "",
-          "not-self"
+          "not-self",
+          ""
      ],
      [
           "Dhp28",
-          "simile of mountain-top",
-          "heedfulness (appamāda)"
+          "heedfulness (appamāda)",
+          "simile of mountain-top"
      ],
      [
           "Dhp280",
-          "",
-          "laziness"
+          "laziness",
+          ""
      ],
      [
           "Dhp282",
-          "wisdom and",
-          "meditation"
+          "meditation",
+          "wisdom and"
      ],
      [
           "Dhp282",
-          "meditation and",
-          "wisdom"
+          "wisdom",
+          "meditation and"
      ],
      [
           "Dhp284",
-          "simile of calf",
-          "attachment"
+          "attachment",
+          "simile of calf"
      ],
      [
           "Dhp284",
-          "sexual",
-          "attachment"
+          "attachment",
+          "sexual"
      ],
      [
           "Dhp287",
-          "simile of flood",
-          "death (maraṇa)"
+          "death (maraṇa)",
+          "simile of flood"
      ],
      [
           "Dhp29",
-          "simile of swift horse",
-          "heedfulness (appamāda)"
+          "heedfulness (appamāda)",
+          "simile of swift horse"
      ],
      [
           "Dhp290",
-          "with material things",
-          "happiness"
+          "happiness",
+          "with material things"
      ],
      [
           "Dhp291",
-          "through harming others",
-          "happiness"
+          "happiness",
+          "through harming others"
      ],
      [
           "Dhp293",
-          "",
-          "mindfulness of body"
+          "mindfulness of body",
+          ""
      ],
      [
           "Dhp296–298",
-          "waking well",
-          "sleep"
+          "sleep",
+          "waking well"
      ],
      [
           "Dhp296–298",
-          "of triple gem",
-          "recollection"
+          "recollection",
+          "of triple gem"
      ],
      [
           "Dhp3",
-          "",
-          "grudge"
+          "grudge",
+          ""
      ],
      [
           "Dhp3",
-          "",
-          "accusation"
+          "accusation",
+          ""
      ],
      [
           "Dhp30",
-          "as always praised",
-          "heedfulness (appamāda)"
+          "heedfulness (appamāda)",
+          "as always praised"
      ],
      [
           "Dhp302",
-          "difficult",
-          "going forth (pabbajja)"
+          "going forth (pabbajja)",
+          "difficult"
      ],
      [
           "Dhp302",
-          "difficult",
-          "lay life"
+          "lay life",
+          "difficult"
      ],
      [
           "Dhp304",
-          "simile of Himalaya",
-          "good people"
+          "good people",
+          "simile of Himalaya"
      ],
      [
           "Dhp304",
-          "simile of arrow",
-          "bad people"
+          "bad people",
+          "simile of arrow"
      ],
      [
           "Dhp305",
-          "",
-          "seclusion"
+          "seclusion",
+          ""
      ],
      [
           "Dhp306",
-          "rebirth",
-          "lying"
+          "lying",
+          "rebirth"
      ],
      [
           "Dhp307–8",
-          "rebirth",
-          "bad monastics"
+          "bad monastics",
+          "rebirth"
      ],
      [
           "Dhp309–10",
-          "result",
-          "sexual misconduct"
+          "sexual misconduct",
+          "result"
      ],
      [
           "Dhp31",
-          "",
-          "Sakka"
+          "Sakka",
+          ""
      ],
      [
           "Dhp31",
-          "simile of fire",
-          "heedfulness (appamāda)"
+          "heedfulness (appamāda)",
+          "simile of fire"
      ],
      [
           "Dhp31",
-          "seeing fear in",
-          "heedlessness (pamāda)"
+          "heedlessness (pamāda)",
+          "seeing fear in"
      ],
      [
           "Dhp311",
-          "wrongly practiced",
-          "monastic life"
+          "monastic life",
+          "wrongly practiced"
      ],
      [
           "Dhp311",
-          "simile of kusa grass",
-          "monastic life"
+          "monastic life",
+          "simile of kusa grass"
      ],
      [
           "Dhp313",
-          "wrongly practiced",
-          "monastic life"
+          "monastic life",
+          "wrongly practiced"
      ],
      [
           "Dhp315",
-          "like a citadel",
-          "self guarding"
+          "self guarding",
+          "like a citadel"
      ],
      [
           "Dhp316",
-          "",
-          "shame"
+          "shame",
+          ""
      ],
      [
           "Dhp316–18",
-          "",
-          "wrong views"
+          "wrong views",
+          ""
      ],
      [
           "Dhp319",
-          "",
-          "right view (sammā diṭṭhi)"
+          "right view (sammā diṭṭhi)",
+          ""
      ],
      [
           "Dhp32",
-          "seeing fear in",
-          "heedlessness (pamāda)"
+          "heedlessness (pamāda)",
+          "seeing fear in"
      ],
      [
           "Dhp320",
-          "simile of elephant",
-          "enduring abuse"
+          "enduring abuse",
+          "simile of elephant"
      ],
      [
           "Dhp320–21",
-          "",
-          "enduring abuse"
+          "enduring abuse",
+          ""
      ],
      [
           "Dhp322–23",
-          "",
-          "self taming"
+          "self taming",
+          ""
      ],
      [
           "Dhp323",
-          "",
-          "friendship"
+          "friendship",
+          ""
      ],
      [
           "Dhp324",
-          "elephant",
-          "Dhanapāla"
+          "Dhanapāla",
+          "elephant"
      ],
      [
           "Dhp325",
-          "simile of hog",
-          "overeating"
+          "overeating",
+          "simile of hog"
      ],
      [
           "Dhp327",
-          "simile of elephant",
-          "self reliance"
+          "self reliance",
+          "simile of elephant"
      ],
      [
           "Dhp328",
-          "",
-          "friendship"
+          "friendship",
+          ""
      ],
      [
           "Dhp329–30",
-          "",
-          "solitary life"
+          "solitary life",
+          ""
      ],
      [
           "Dhp33",
-          "simile of arrow maker",
-          "mind"
+          "mind",
+          "simile of arrow maker"
      ],
      [
           "Dhp33",
-          "as hard to control",
-          "mind"
+          "mind",
+          "as hard to control"
      ],
      [
           "Dhp331",
-          "",
-          "friendship"
+          "friendship",
+          ""
      ],
      [
           "Dhp331",
-          "",
-          "contentment"
+          "contentment",
+          ""
      ],
      [
           "Dhp332",
-          "caring for",
-          "parents"
+          "parents",
+          "caring for"
      ],
      [
           "Dhp333",
-          "",
-          "faith (saddhā)"
+          "faith (saddhā)",
+          ""
      ],
      [
           "Dhp333",
-          "",
-          "precepts"
+          "precepts",
+          ""
      ],
      [
           "Dhp334",
-          "simile of creeper",
-          "craving (taṇha)"
+          "craving (taṇha)",
+          "simile of creeper"
      ],
      [
           "Dhp334",
-          "like a money",
-          "craving (taṇha)"
+          "craving (taṇha)",
+          "like a monkey"
      ],
      [
           "Dhp335",
-          "simile of grass in rain",
-          "craving (taṇha) "
+          "craving (taṇha) ",
+          "simile of grass in rain"
      ],
      [
           "Dhp336",
-          "simile of water drop on lotus leaf",
-          "craving (taṇha)"
+          "craving (taṇha)",
+          "simile of water drop on lotus leaf"
      ],
      [
           "Dhp337",
-          "simile of stream",
-          "Māra"
+          "Māra",
+          "simile of stream"
      ],
      [
           "Dhp337",
-          "simile of root digging",
-          "craving (taṇha)"
+          "craving (taṇha)",
+          "simile of root digging"
      ],
      [
           "Dhp338",
-          "underlying tendency",
-          "craving (taṇha)"
+          "craving (taṇha)",
+          "underlying tendency"
      ],
      [
           "Dhp34",
-          "as hard to control",
-          "mind"
+          "mind",
+          "as hard to control"
      ],
      [
           "Dhp34",
-          "simile of fish",
-          "mind"
+          "mind",
+          "simile of fish"
      ],
      [
           "Dhp340",
-          "underlying tendency",
-          "craving (taṇha)"
+          "craving (taṇha)",
+          "underlying tendency"
      ],
      [
           "Dhp342–43",
-          "simile of rabbit",
-          "craving (taṇha)"
+          "craving (taṇha)",
+          "simile of rabbit"
      ],
      [
           "Dhp344",
-          "giving up",
-          "monastic life"
+          "monastic life",
+          "giving up"
      ],
      [
           "Dhp346–47",
-          "as fetter",
-          "sensual pleasures"
+          "sensual pleasures",
+          "as fetter"
      ],
      [
           "Dhp348",
-          "let go of",
-          "past, present future"
+          "past, present future",
+          "let go of"
      ],
      [
           "Dhp349",
-          "as fetter",
-          "sensual pleasures"
+          "sensual pleasures",
+          "as fetter"
      ],
      [
           "Dhp35",
-          "tamed leads to happiness",
-          "mind"
+          "mind",
+          "tamed leads to happiness"
      ],
      [
           "Dhp350–52",
-          "freedom from",
-          "craving (taṇha)"
+          "craving (taṇha)",
+          "freedom from"
      ],
      [
           "Dhp353",
-          "as best person",
-          "Buddha, the"
+          "Buddha, the",
+          "as best person"
+     ],
+     [
+          "Dhp354",
+          "giving (dāna)",
+          "Dhamma"
      ],
      [
           "Dhp354",
           "Dhamma",
-          "giving (dāna)"
+          "as best gift"
      ],
      [
           "Dhp354",
-          "as best gift",
-          "Dhamma"
-     ],
-     [
-          "Dhp354",
-          "as best joy",
-          "Dhamma"
+          "Dhamma",
+          "as best joy"
      ],
      [
           "Dhp355",
-          "",
-          "self destruction"
+          "self destruction",
+          ""
      ],
      [
           "Dhp356–59",
-          "best recipient",
-          "Saṅgha"
+          "Saṅgha",
+          "best recipient"
      ],
      [
           "Dhp36",
-          "as subtle",
-          "mind"
+          "mind",
+          "as subtle"
      ],
      [
           "Dhp36",
-          "guarded leads to hppiness",
-          "mind"
+          "mind",
+          "guarded leads to hppiness"
      ],
      [
           "Dhp360–63",
-          "",
-          "restraint"
+          "restraint",
+          ""
      ],
      [
           "Dhp363",
-          "",
-          "Dhamma teaching"
+          "Dhamma teaching",
+          ""
      ],
      [
           "Dhp364",
-          "delight in",
-          "Dhamma"
+          "Dhamma",
+          "delight in"
      ],
      [
           "Dhp365",
-          "block to concentration",
-          "envy"
+          "envy",
+          "block to concentration"
      ],
      [
           "Dhp366",
-          "monastic",
-          "livelihood"
+          "livelihood",
+          "monastic"
      ],
      [
           "Dhp366",
-          "",
-          "praise by gods"
+          "praise by gods",
+          ""
      ],
      [
           "Dhp368",
-          "",
-          "loving-kindness (mettā)"
+          "loving-kindness (mettā)",
+          ""
      ],
      [
           "Dhp37",
-          "lack of prevents wisdom",
-          "faith (saddhā)"
+          "faith (saddhā)",
+          "lack of prevents wisdom"
      ],
      [
           "Dhp371",
-          "simile of iron ball",
-          "sense desire"
-     ],
-     [
-          "Dhp372",
-          "concentration and",
-          "wisdom"
+          "sense desire",
+          "simile of iron ball"
      ],
      [
           "Dhp372",
           "wisdom",
-          "concentration (samādhi)"
+          "concentration and"
+     ],
+     [
+          "Dhp372",
+          "concentration (samādhi)",
+          "wisdom"
      ],
      [
           "Dhp374",
-          "",
-          "mindfulness"
+          "mindfulness",
+          ""
      ],
      [
           "Dhp375",
-          "",
-          "Vinaya"
+          "Vinaya",
+          ""
      ],
      [
           "Dhp375",
-          "",
-          "restraint"
+          "restraint",
+          ""
      ],
      [
           "Dhp376",
-          "",
-          "friendship"
+          "friendship",
+          ""
      ],
      [
           "Dhp379",
-          "",
-          "self reflection"
+          "self reflection",
+          ""
      ],
      [
           "Dhp380",
-          "simile of thoroughbred",
-          "restraint"
+          "restraint",
+          "simile of thoroughbred"
      ],
      [
           "Dhp382",
-          "young",
-          "mendicant"
+          "mendicant",
+          "young"
      ],
      [
           "Dhp389",
-          "",
-          "retaliation"
+          "retaliation",
+          ""
      ],
      [
           "Dhp390",
-          "",
-          "cruelty (hiṁsa)"
+          "cruelty (hiṁsa)",
+          ""
      ],
      [
           "Dhp392",
-          "",
-          "honor"
+          "honor",
+          ""
      ],
      [
           "Dhp392",
-          "",
-          "learning"
+          "learning",
+          ""
      ],
      [
           "Dhp393–94",
-          "",
-          "external qualities"
+          "external qualities",
+          ""
      ],
      [
           "Dhp399",
-          "",
-          "enduring abuse"
+          "enduring abuse",
+          ""
      ],
      [
           "Dhp399",
-          "",
-          "patience"
+          "patience",
+          ""
      ],
      [
           "Dhp4",
-          "",
-          "grudge"
+          "grudge",
+          ""
      ],
      [
           "Dhp40",
-          "like a pot",
-          "body"
+          "body",
+          "like a pot"
      ],
      [
           "Dhp40",
-          "guarded like a citadel",
-          "mind"
+          "mind",
+          "guarded like a citadel"
      ],
      [
           "Dhp404",
-          "",
-          "solitary life"
+          "solitary life",
+          ""
      ],
      [
           "Dhp41",
-          "comes quickly",
-          "death (maraṇa)"
+          "death (maraṇa)",
+          "comes quickly"
      ],
      [
           "Dhp410",
-          "",
-          "hope"
+          "hope",
+          ""
      ],
      [
           "Dhp411",
-          "",
-          "deathless (amata)"
+          "deathless (amata)",
+          ""
      ],
      [
           "Dhp42",
-          "untrained worse than enemy",
-          "mind"
+          "mind",
+          "untrained worse than enemy"
      ],
      [
           "Dhp423",
-          "of past lives",
-          "recollection"
+          "recollection",
+          "of past lives"
      ],
      [
           "Dhp43",
-          "trained better than family",
-          "mind"
+          "mind",
+          "trained better than family"
      ],
      [
           "Dhp46",
-          "simile of foam",
-          "body"
+          "body",
+          "simile of foam"
      ],
      [
           "Dhp47",
-          "simile of flood",
-          "death (maraṇa)"
+          "death (maraṇa)",
+          "simile of flood"
      ],
      [
           "Dhp49",
-          "simile of bee and flower",
-          "alms gatherer"
+          "alms gatherer",
+          "simile of bee and flower"
      ],
      [
           "Dhp5",
-          "",
-          "hatred (dosa)"
+          "hatred (dosa)",
+          ""
      ],
      [
           "Dhp5",
-          "",
-          "non-hatred"
+          "non-hatred",
+          ""
      ],
      [
           "Dhp50",
-          "",
-          "faultfinding"
+          "faultfinding",
+          ""
      ],
      [
           "Dhp50",
-          "",
-          "self examination"
+          "self examination",
+          ""
      ],
      [
           "Dhp51",
-          "like flower without fragrance",
-          "beautiful words without practicing"
+          "beautiful words without practicing",
+          "like flower without fragrance"
      ],
      [
           "Dhp52",
-          "like flower with frangrance",
-          "beautiful words beneficial for the one who practices"
+          "beautiful words beneficial for the one who practices",
+          "like flower with frangrance"
      ],
      [
           "Dhp53",
-          "simile of garland maker",
-          "good actions"
+          "good actions",
+          "simile of garland maker"
      ],
      [
           "Dhp54",
-          "simile of fragrance",
-          "reputation"
+          "reputation",
+          "simile of fragrance"
      ],
      [
           "Dhp55",
-          "as supreme fragrance",
-          "virtue"
+          "virtue",
+          "as supreme fragrance"
      ],
      [
           "Dhp56",
-          "as supreme fragrance",
-          "virtue"
+          "virtue",
+          "as supreme fragrance"
      ],
      [
           "Dhp57",
-          "cannot find the good",
-          "Māra"
+          "Māra",
+          "cannot find the good"
      ],
      [
           "Dhp59",
-          "simile of lotus in mud",
-          "disciple of the Buddha"
+          "disciple of the Buddha",
+          "simile of lotus in mud"
      ],
      [
           "Dhp6",
-          "",
-          "conflicts"
+          "conflicts",
+          ""
      ],
      [
           "Dhp60",
-          "long in saṁsara",
-          "fool"
+          "fool",
+          "long in saṁsara"
      ],
      [
           "Dhp61",
-          "don’t associate with",
-          "fool"
+          "fool",
+          "don’t associate with"
      ],
      [
           "Dhp61",
-          "better than association with fools",
-          "solitude"
+          "solitude",
+          "better than association with fools"
      ],
      [
           "Dhp62",
-          "not our own",
-          "possessions"
+          "possessions",
+          "not our own"
      ],
      [
           "Dhp63",
-          "",
-          "self knowledge"
+          "self knowledge",
+          ""
      ],
      [
           "Dhp64",
-          "with wise",
-          "association"
+          "association",
+          "with wise"
      ],
      [
           "Dhp65",
-          "with wise",
-          "association"
+          "association",
+          "with wise"
      ],
      [
           "Dhp66",
-          "own worst enemy",
-          "fool"
+          "fool",
+          "own worst enemy"
      ],
      [
           "Dhp67-8",
-          "",
-          "regret"
+          "regret",
+          ""
      ],
      [
           "Dhp7",
-          "attacks the lazy",
-          "Māra"
+          "Māra",
+          "attacks the lazy"
      ],
      [
           "Dhp7",
-          "simile of wind and weak tree",
-          "Māra"
+          "Māra",
+          "simile of wind and weak tree"
      ],
      [
           "Dhp7",
-          "",
-          "laziness"
+          "laziness",
+          ""
      ],
      [
           "Dhp7",
-          "immoderation",
-          "eating"
+          "eating",
+          "immoderation"
      ],
      [
           "Dhp7",
-          "sign of",
-          "beautiful"
+          "beautiful",
+          "sign of"
      ],
      [
           "Dhp71",
-          "delay in seeing",
-          "results of actions"
+          "results of actions",
+          "delay in seeing"
      ],
      [
           "Dhp72",
-          "danger of ",
-          "fame"
+          "fame",
+          "danger of "
      ],
      [
           "Dhp73",
-          "seeking power",
-          "fool"
+          "fool",
+          "seeking power"
      ],
      [
           "Dhp74",
-          "seeking power",
-          "fool"
+          "fool",
+          "seeking power"
      ],
      [
           "Dhp75",
-          "non-delight in",
-          "honor"
+          "honor",
+          "non-delight in"
      ],
      [
           "Dhp76",
-          "showing faults",
-          "friendship"
+          "friendship",
+          "showing faults"
      ],
      [
           "Dhp78",
-          "",
-          "friendship"
+          "friendship",
+          ""
      ],
      [
           "Dhp79",
-          "rejoicing in",
-          "Dhamma"
+          "Dhamma",
+          "rejoicing in"
      ],
      [
           "Dhp79",
-          "",
-          "sleep"
+          "sleep",
+          ""
      ],
      [
           "Dhp8",
-          "cannot attack the energetic",
-          "Māra"
+          "Māra",
+          "cannot attack the energetic"
      ],
      [
           "Dhp8",
-          "",
-          "energy"
+          "energy",
+          ""
      ],
      [
           "Dhp8",
-          "simile of wind and mountain",
-          "Māra"
+          "Māra",
+          "simile of wind and mountain"
      ],
      [
           "Dhp8",
-          "restraint",
-          "eating"
+          "eating",
+          "restraint"
      ],
      [
           "Dhp80",
-          "",
-          "self taming"
+          "self taming",
+          ""
      ],
      [
           "Dhp80",
-          "simile of arrow maker",
-          "self taming"
+          "self taming",
+          "simile of arrow maker"
      ],
      [
           "Dhp80",
-          "simile of irrigator",
-          "self taming"
+          "self taming",
+          "simile of irrigator"
      ],
      [
           "Dhp80",
-          "simile of carpenter",
-          "self taming"
+          "self taming",
+          "simile of carpenter"
      ],
      [
           "Dhp81",
-          "unaffected by",
-          "blame and praise"
+          "blame and praise",
+          "unaffected by"
      ],
      [
           "Dhp81",
-          "simile of rock",
-          "blame and praise"
+          "blame and praise",
+          "simile of rock"
      ],
      [
           "Dhp82",
-          "simile of lake",
-          "wise people"
+          "wise people",
+          "simile of lake"
      ],
      [
           "Dhp83",
-          "",
-          "sadness and happiness"
+          "sadness and happiness",
+          ""
      ],
      [
           "Dhp85",
-          "attained by few",
-          "nibbāna"
+          "nibbāna",
+          "attained by few"
      ],
      [
           "Dhp86",
-          "well explained",
-          "Dhamma"
+          "Dhamma",
+          "well explained"
      ],
      [
           "Dhp87",
-          "",
-          "renunciation"
+          "renunciation",
+          ""
      ],
      [
           "Dhp88",
-          "",
-          "renunciation"
+          "renunciation",
+          ""
      ],
      [
           "Dhp9",
-          "not worthy of",
-          "robes"
+          "robes",
+          "not worthy of"
      ],
      [
           "Dhp91",
-          "like swan leaving home",
-          "mindful person"
+          "mindful person",
+          "like swan leaving home"
      ],
      [
           "Dhp91",
-          "like swan leaving home",
-          "renunciation"
+          "renunciation",
+          "like swan leaving home"
      ],
      [
           "Dhp92",
-          "like path of bird is hard to trace",
-          "arahant"
+          "arahant",
+          "like path of bird is hard to trace"
      ],
      [
           "Dhp92",
-          "",
-          "storing up things"
+          "storing up things",
+          ""
      ],
      [
           "Dhp93",
-          "like path of bird is hard to trace",
-          "arahant"
+          "arahant",
+          "like path of bird is hard to trace"
      ],
      [
           "Dhp94",
-          "envied by gods",
-          "arahant"
+          "arahant",
+          "envied by gods"
      ],
      [
           "Dhp95",
-          "like clear lake",
-          "arahant"
+          "arahant",
+          "like clear lake"
      ],
      [
           "Dhp95",
-          "like earth is undisturbed",
-          "arahant"
+          "arahant",
+          "like earth is undisturbed"
      ],
      [
           "Dhp95",
-          "like post is steady",
-          "arahant"
+          "arahant",
+          "like post is steady"
      ],
      [
           "Dhp98",
-          "residence of",
-          "arahant"
+          "arahant",
+          "residence of"
      ],
      [
           "Dhp99",
-          "residence of",
-          "arahant"
+          "arahant",
+          "residence of"
      ],
      [
           "DN13",
-          "like a conch blower",
-          "loving-kindness (mettā)"
+          "loving-kindness (mettā)",
+          "like a conch blower"
      ],
      [
           "DN13",
-          "as a path to brahma world",
-          "loving-kindness (mettā)"
+          "loving-kindness (mettā)",
+          "as a path to brahma world"
      ],
      [
           "DN2",
-          "definition",
-          "false speech"
+          "false speech",
+          "definition"
      ],
      [
           "DN2",
-          "definition",
-          "harsh speech"
+          "harsh speech",
+          "definition"
      ],
      [
           "DN2",
-          "definition",
-          "divisive speech"
+          "divisive speech",
+          "definition"
      ],
      [
           "DN2",
-          "restraint",
-          "speech"
+          "speech",
+          "restraint"
      ],
      [
           "DN2",
-          "useless: definition",
-          "speech"
+          "speech",
+          "useless: definition"
      ],
      [
           "Iti1",
-          "",
-          "greed (lobha)"
+          "greed (lobha)",
+          ""
      ],
      [
           "Iti100",
-          "Dhamma",
-          "giving (dāna)"
+          "giving (dāna)",
+          "Dhamma"
      ],
      [
           "Iti100",
-          "material things or Dhamma",
-          "giving (dāna)"
+          "giving (dāna)",
+          "material things or Dhamma"
      ],
      [
           "Iti100",
-          "disciples of Buddha",
-          "born from mouth"
+          "born from mouth",
+          "disciples of Buddha"
      ],
      [
           "Iti100",
-          "as doctor",
-          "Buddha, the"
+          "Buddha, the",
+          "as doctor"
      ],
      [
           "Iti101",
-          "as trifles",
-          "requisites, four"
+          "requisites, four",
+          "as trifles"
      ],
      [
           "Iti101",
-          "with requisites",
-          "contentment"
+          "contentment",
+          "with requisites"
      ],
      [
           "Iti103",
-          "",
-          "heart’s release (cetovimutti)"
+          "heart’s release (cetovimutti)",
+          ""
      ],
      [
           "Iti103",
-          "",
-          "release by wisdom (paññavimutti)"
+          "release by wisdom (paññavimutti)",
+          ""
      ],
      [
           "Iti104",
-          "qualifications",
-          "teachers"
+          "teachers",
+          "qualifications"
      ],
      [
           "Iti105",
-          "source of craving",
-          "requisites, four"
+          "requisites, four",
+          "source of craving"
      ],
      [
           "Iti106",
-          "honoring",
-          "parents"
+          "parents",
+          "honoring"
      ],
      [
           "Iti106",
-          "parents as first",
-          "teachers"
+          "teachers",
+          "parents as first"
      ],
      [
           "Iti107",
-          "provided by laypeople",
-          "requisites, four"
+          "requisites, four",
+          "provided by laypeople"
      ],
      [
           "Iti107",
-          "of monastics and laypeople",
-          "mutual dependence"
+          "mutual dependence",
+          "of monastics and laypeople"
      ],
      [
           "Iti107",
-          "dependent on laypeople",
-          "monastic life"
+          "monastic life",
+          "dependent on laypeople"
      ],
      [
           "Iti108",
-          "wrongly practiced",
-          "monastic life"
+          "monastic life",
+          "wrongly practiced"
      ],
      [
           "Iti109",
-          "simile of waves",
-          "anger (kodha)"
+          "anger (kodha)",
+          "simile of waves"
      ],
      [
           "Iti109",
-          "simile of stream",
-          "craving (taṇha)"
+          "craving (taṇha)",
+          "simile of stream"
      ],
      [
           "Iti109",
-          "simile of whirlpool",
-          "sense pleasures, five "
+          "sense pleasures, five ",
+          "simile of whirlpool"
      ],
      [
           "Iti109",
-          "simile of against the stream",
-          "renunciation"
+          "renunciation",
+          "simile of against the stream"
      ],
      [
           "Iti109",
-          "simile of crocodiles",
-          "female"
+          "female",
+          "simile of crocodiles"
      ],
      [
           "Iti110",
-          "",
-          "tolerating bad thoughts"
+          "tolerating bad thoughts",
+          ""
      ],
      [
           "Iti110–11",
-          "for practicing always",
-          "postures"
+          "postures",
+          "for practicing always"
      ],
      [
           "Iti111",
-          "",
-          "danger in slightest fault"
+          "danger in slightest fault",
+          ""
      ],
      [
           "Iti111",
-          "constantly removing",
-          "hindrances"
+          "hindrances (nīvarana)",
+          "constantly removing"
      ],
      [
           "Iti112",
-          "",
-          "world"
+          "world",
+          ""
      ],
      [
           "Iti112",
-          "definition",
-          "Tathāgatas"
+          "Tathāgatas",
+          "definition"
      ],
      [
           "Iti112",
-          "understanding of",
-          "Buddha, the"
+          "Buddha, the",
+          "understanding of"
      ],
      [
           "Iti112",
-          "definition",
-          "knower of the world"
+          "knower of the world",
+          "definition"
      ],
      [
           "Iti112",
-          "as best ",
-          "Buddha, the"
+          "Buddha, the",
+          "as best "
      ],
      [
           "Iti112",
-          "without counterpart",
-          "Buddha, the"
+          "Buddha, the",
+          "without counterpart"
      ],
      [
           "Iti14",
-          "as hindrance",
-          "ignorance"
+          "ignorance",
+          "as hindrance"
      ],
      [
           "Iti15",
-          "as fetter",
-          "craving (taṇha) "
+          "craving (taṇha) ",
+          "as fetter"
      ],
      [
           "Iti15",
-          "as partner",
-          "craving (taṇha) "
+          "craving (taṇha) ",
+          "as partner"
      ],
      [
           "Iti16",
-          "as interior factor",
-          "proper attention (yoniso manasikāra)"
+          "proper attention (yoniso manasikāra)",
+          "as interior factor"
      ],
      [
           "Iti17",
-          "as external factor",
-          "friendship"
+          "friendship",
+          "as external factor"
      ],
      [
           "Iti18",
-          "as great harm",
-          "schism"
+          "schism",
+          "as great harm"
      ],
      [
           "Iti18",
-          "leading to hell",
-          "schism"
+          "schism",
+          "leading to hell"
      ],
      [
           "Iti19",
-          "as great happiness",
-          "harmony in Saṅgha"
+          "harmony in Saṅgha",
+          "as great happiness"
      ],
      [
           "Iti19",
-          "as cause of confidence",
-          "harmony in Saṅgha"
+          "harmony in Saṅgha",
+          "as cause of confidence"
      ],
      [
           "Iti19",
-          "leading to heaven",
-          "harmony in Saṅgha"
+          "harmony in Saṅgha",
+          "leading to heaven"
      ],
      [
           "Iti2",
-          "",
-          "hatred (dosa)"
+          "hatred (dosa)",
+          ""
      ],
      [
           "Iti22",
-          "grounds for making merit",
-          "loving-kindness (mettā)"
+          "loving-kindness (mettā)",
+          "grounds for making merit"
      ],
      [
           "Iti22",
-          "not to be feared",
-          "merit (puññā)"
+          "merit (puññā)",
+          "not to be feared"
      ],
      [
           "Iti22",
-          "rebirth as",
-          "brahmās"
+          "brahmās",
+          "rebirth as"
      ],
      [
           "Iti22",
-          "",
-          "Sakka"
+          "Sakka",
+          ""
      ],
      [
           "Iti22",
-          "",
-          "wheel-turning monarchs"
+          "wheel-turning monarchs",
+          ""
      ],
      [
           "Iti22",
-          "",
-          "self-control"
+          "self-control",
+          ""
      ],
      [
           "Iti22",
-          "",
-          "restraint"
+          "restraint",
+          ""
      ],
      [
           "Iti23",
-          "results now and in future",
-          "heedfulness (appamāda)"
+          "heedfulness (appamāda)",
+          "results now and in future"
      ],
      [
           "Iti23",
-          "in making merit",
-          "heedfulness (appamāda)"
+          "heedfulness (appamāda)",
+          "in making merit"
      ],
      [
           "Iti24",
-          "mountain of bones of one person",
-          "saṁsara"
+          "saṁsara",
+          "mountain of bones of one person"
      ],
      [
           "Iti24",
-          "length of",
-          "saṁsara"
+          "saṁsara",
+          "length of"
      ],
      [
           "Iti25",
-          "",
-          "false speech"
+          "false speech",
+          ""
      ],
      [
           "Iti25",
-          "indicator of shamelessness",
-          "lying"
+          "lying",
+          "indicator of shamelessness"
      ],
      [
           "Iti26",
-          "last bite of food",
-          "giving (dāna)"
+          "giving (dāna)",
+          "last bite of food"
      ],
      [
           "Iti26",
-          "result of",
-          "giving (dāna)"
+          "giving (dāna)",
+          "result of"
      ],
      [
           "Iti26",
-          "smallest gift has value",
-          "giving (dāna)"
+          "giving (dāna)",
+          "smallest gift has value"
      ],
      [
           "Iti27",
-          "grounds for making merit",
-          "loving-kindness (mettā)"
+          "loving-kindness (mettā)",
+          "grounds for making merit"
      ],
      [
           "Iti27",
-          "simile of clear sky",
-          "loving-kindness (mettā)"
+          "loving-kindness (mettā)",
+          "simile of clear sky"
      ],
      [
           "Iti27",
-          "simile of stars",
-          "loving-kindness (mettā)"
+          "loving-kindness (mettā)",
+          "simile of stars"
      ],
      [
           "Iti27",
-          "",
-          "sacrifices (yañña)"
+          "sacrifices (yañña)",
+          ""
      ],
      [
           "Iti28–9",
-          "excessive",
-          "eating"
+          "eating",
+          "excessive"
      ],
      [
           "Iti28–9",
-          "guarding",
-          "senses"
+          "senses",
+          "guarding"
      ],
      [
           "Iti3",
-          "",
-          "delusion (moha)"
+          "delusion (moha)",
+          ""
      ],
      [
           "Iti30–1",
-          "",
-          "self reflection"
+          "self reflection",
+          ""
      ],
      [
           "Iti32",
-          "resulting in hell",
-          "wrong views"
+          "wrong views",
+          "resulting in hell"
      ],
      [
           "Iti33",
-          "resulting in heaven",
-          "right view (sammā diṭṭhi)"
+          "right view (sammā diṭṭhi)",
+          "resulting in heaven"
      ],
      [
           "Iti34",
-          "",
-          "prudence (ottāpa)"
+          "prudence (ottāpa)",
+          ""
      ],
      [
           "Iti34",
-          "",
-          "keenness (ātāpi)"
+          "keenness (ātāpi)",
+          ""
      ],
      [
           "Iti35–6",
-          "reason for",
-          "holy life"
+          "holy life",
+          "reason for"
      ],
      [
           "Iti37",
-          "",
-          "urgency (saṁvega)"
+          "urgency (saṁvega)",
+          ""
      ],
      [
           "Iti38",
-          "",
-          "sanctuary/security"
+          "sanctuary/security",
+          ""
      ],
      [
           "Iti38",
-          "thoughts he has",
-          "Buddha, the"
+          "Buddha, the",
+          "thoughts he has"
      ],
      [
           "Iti39",
-          "seeing ",
-          "evil (pāpa)"
+          "evil (pāpa)",
+          "seeing "
      ],
      [
           "Iti4",
-          "",
-          "anger (kodha)"
+          "anger (kodha)",
+          ""
      ],
      [
           "Iti40",
-          "cause for rebirth",
-          "ignorance"
+          "ignorance",
+          "cause for rebirth"
      ],
      [
           "Iti42",
-          "",
-          "conscience and prudence"
+          "conscience and prudence",
+          ""
      ],
      [
           "Iti43",
-          "",
-          "unborn (ajātaṁ)"
+          "unborn (ajātaṁ)",
+          ""
      ],
      [
           "Iti44",
-          "with something left over (saupādisesā)",
-          "arahant"
+          "arahant",
+          "with something left over (saupādisesā)"
      ],
      [
           "Iti44",
-          "with nothing left over (anupādisesa)",
-          "arahant "
+          "arahant ",
+          "with nothing left over (anupādisesa)"
      ],
      [
           "Iti47",
-          "",
-          "wakeful (jāgara)"
+          "wakeful (jāgara)",
+          ""
      ],
      [
           "Iti48",
-          "false claim of",
-          "celibacy"
+          "celibacy",
+          "false claim of"
      ],
      [
           "Iti48",
-          "evil",
-          "mendicant"
-     ],
-     [
-          "Iti48",
-          "eating",
-          "iron ball"
-     ],
-     [
-          "Iti49",
-          "love of",
-          "existence"
-     ],
-     [
-          "Iti49",
-          "disgust with",
-          "existence"
-     ],
-     [
-          "Iti5",
-          "",
-          "disdain (makkha)"
-     ],
-     [
-          "Iti50",
-          "harming oneself",
-          "results of actions"
-     ],
-     [
-          "Iti51",
-          "form, formlessness, cessation",
-          "elements"
-     ],
-     [
-          "Iti52–3",
-          "three kinds",
-          "feelings"
-     ],
-     [
-          "Iti53",
-          "seen as suffering",
-          "pleasant feelings"
-     ],
-     [
-          "Iti53",
-          "seen as dart",
-          "painful feelings"
-     ],
-     [
-          "Iti53",
-          "seen as impermanent",
-          "neutral feelings"
-     ],
-     [
-          "Iti53",
-          "neutral feelings seen as ",
-          "impermanence"
-     ],
-     [
-          "Iti54–5",
-          "",
-          "searches"
-     ],
-     [
-          "Iti56–7",
-          "",
-          "defilements (āsava)"
-     ],
-     [
-          "Iti58",
-          "three types",
-          "craving (taṇha)"
-     ],
-     [
-          "Iti6",
-          "",
-          "conceit (māna)"
-     ],
-     [
-          "Iti60",
-          "grounds for making",
-          "merit (puññā)"
-     ],
-     [
-          "Iti60",
-          "grounds for making merit",
-          "giving (dāna)"
-     ],
-     [
-          "Iti60",
-          "grounds for making merit",
-          "virtue "
-     ],
-     [
-          "Iti60",
-          "grounds for making merit",
-          "meditation"
-     ],
-     [
-          "Iti61",
-          "",
-          "eyes"
-     ],
-     [
-          "Iti61",
-          "",
-          "divine eye (dibbacakkhu)"
-     ],
-     [
-          "Iti61",
-          "",
-          "eye of wisdom (paññācakkhu)"
-     ],
-     [
-          "Iti62",
-          "three ",
-          "faculties (indriya)"
-     ],
-     [
-          "Iti63",
-          "",
-          "time"
-     ],
-     [
-          "Iti64",
-          "three types",
-          "misconduct"
-     ],
-     [
-          "Iti65",
-          "three types",
-          "good actions"
-     ],
-     [
-          "Iti66",
-          "three types",
-          "purity (soceyya)"
-     ],
-     [
-          "Iti67",
-          "three types",
-          "sagacity/perfection (moneyya)"
-     ],
-     [
-          "Iti67",
-          "",
-          "sage (muni)"
-     ],
-     [
-          "Iti7",
-          "",
-          "all, the"
-     ],
-     [
-          "Iti70",
-          "noble ones",
-          "harassing"
-     ],
-     [
-          "Iti70",
-          "",
-          "wrong view (micchā diṭṭhi)"
-     ],
-     [
-          "Iti71",
-          "",
-          "right view (sammā diṭṭhi)"
-     ],
-     [
-          "Iti72",
-          "",
-          "escape (nissaraṇa)"
-     ],
-     [
-          "Iti73",
-          "",
-          "formless (arūpā)"
-     ],
-     [
-          "Iti74",
-          "compared to parents",
-          "children"
-     ],
-     [
-          "Iti75",
-          "to all",
-          "giving (dāna)"
-     ],
-     [
-          "Iti75",
-          "levels of",
-          "giving (dāna)"
-     ],
-     [
-          "Iti75",
-          "simile of cloud",
-          "giving (dāna)"
-     ],
-     [
-          "Iti76",
-          "wishing for",
-          "praise"
-     ],
-     [
-          "Iti76",
-          "wishing for",
-          "prosperity"
-     ],
-     [
-          "Iti76",
-          "with fools",
-          "association"
-     ],
-     [
-          "Iti76",
-          "with wise",
-          "association"
-     ],
-     [
-          "Iti76",
-          "simile of rotten fish",
-          "association"
-     ],
-     [
-          "Iti76",
-          "simile of sandalwood",
-          "association"
-     ],
-     [
-          "Iti77",
-          "as fragile",
-          "body"
-     ],
-     [
-          "Iti78",
-          "with similar people/like elements",
-          "association"
-     ],
-     [
-          "Iti78",
-          "with wise",
-          "association"
-     ],
-     [
-          "Iti78",
-          "with fools",
-          "association"
-     ],
-     [
-          "Iti79",
-          "leading to mendicant’s decline",
-          "work"
-     ],
-     [
-          "Iti79",
-          "leading to mendicant’s decline",
-          "talk (bhassa)"
-     ],
-     [
-          "Iti79",
-          "leading to mendicant’s decline",
-          "sleep"
-     ],
-     [
-          "Iti8",
-          "",
-          "conceit (māna)"
-     ],
-     [
-          "Iti81",
-          "wishing for",
-          "honor (sakkāra)"
-     ],
-     [
-          "Iti82",
-          "gods rejoice",
-          "going forth (pabbajja)"
-     ],
-     [
-          "Iti82",
-          "praised by gods",
-          "arahant"
-     ],
-     [
-          "Iti83",
-          "dying",
-          "gods"
-     ],
-     [
-          "Iti83",
-          "of gods",
-          "death (maraṇa)"
-     ],
-     [
-          "Iti83",
-          "wishes of",
-          "gods"
-     ],
-     [
-          "Iti84",
-          "benefiting the world",
-          "Tathāgatas"
-     ],
-     [
-          "Iti84",
-          "benefiting the world",
-          "arahants"
-     ],
-     [
-          "Iti84",
-          "benefiting the world",
-          "disciple of the Buddha"
-     ],
-     [
-          "Iti85",
-          "",
-          "perception of ugliness (asubhasañña)"
-     ],
-     [
-          "Iti85",
-          "",
-          "impermanence meditation"
-     ],
-     [
-          "Iti85",
-          "",
-          "mindfulness of breathing"
-     ],
-     [
-          "Iti86",
-          "delight in",
-          "Dhamma"
-     ],
-     [
-          "Iti87",
-          "skillful and unskillful",
-          "thoughts (vitakkā)"
-     ],
-     [
-          "Iti88",
-          "as inner stains",
-          "unwholesome roots"
-     ],
-     [
-          "Iti89",
-          "bad",
-          "friendship"
-     ],
-     [
-          "Iti89",
-          "",
-          "evil wishes"
-     ],
-     [
-          "Iti89",
-          "",
-          "stopping when more left to do"
-     ],
-     [
-          "Iti89",
-          "",
-          "harming a good person"
-     ],
-     [
-          "Iti90",
-          "",
-          "confidence (aggappasāda)"
-     ],
-     [
-          "Iti90",
-          "best of groups",
-          "Saṅgha"
-     ],
-     [
-          "Iti91",
-          "monastic",
-          "livelihood"
-     ],
-     [
-          "Iti91",
-          "wrongly practiced",
-          "monastic life"
-     ],
-     [
-          "Iti91",
-          "goal of",
-          "monastic life"
-     ],
-     [
-          "Iti91",
-          "simile of firebrand",
-          "monastic life"
-     ],
-     [
-          "Iti91",
-          "",
-          "alms food"
-     ],
-     [
-          "Iti91",
-          "eating",
-          "iron ball"
-     ],
-     [
-          "Iti92",
-          "closeness to",
-          "Buddha, the"
-     ],
-     [
-          "Iti92",
-          "seeing sees the Buddha",
-          "Dhamma"
-     ],
-     [
-          "Iti92",
-          "seeing sees the Dhamma",
-          "Buddha, the"
-     ],
-     [
-          "Iti93",
-          "as fires",
-          "greed, hatred, delusion"
-     ],
-     [
-          "Iti95",
-          "",
-          "sensual pleasures"
-     ],
-     [
-          "Iti96",
-          "attached to sense pleasure",
-          "once returner"
-     ],
-     [
-          "Iti96",
-          "attached to rebirth",
-          "non-returner"
-     ],
-     [
-          "Iti97",
-          "",
-          "danger in slightest fault"
-     ],
-     [
-          "Iti97",
-          "definition",
-          "virtue"
-     ],
-     [
-          "Iti98",
-          "Dhamma",
-          "giving (dāna)"
-     ],
-     [
-          "Iti98",
-          "material things or Dhamma",
-          "giving (dāna)"
-     ],
-     [
-          "Iti99",
-          "",
-          "knowledges, three"
-     ],
-     [
-          "Kp1",
-          "",
-          "refuges"
-     ],
-     [
-          "Kp2",
-          "",
-          "precepts, ten"
-     ],
-     [
-          "Kp3",
-          "thirty-two parts",
-          "body"
-     ],
-     [
-          "Kp4",
-          "",
-          "food"
-     ],
-     [
-          "Kp4",
-          "",
-          "name and form"
-     ],
-     [
-          "Kp4",
-          "",
-          "feelings"
-     ],
-     [
-          "Kp4",
-          "",
-          "four noble truths"
-     ],
-     [
-          "Kp4",
-          "",
-          "aggregates"
-     ],
-     [
-          "Kp4",
-          "",
-          "sense fields"
-     ],
-     [
-          "Kp4",
-          "",
-          "enlightenment factors"
-     ],
-     [
-          "Kp4",
-          "",
-          "noble eightfold path"
-     ],
-     [
-          "Kp4",
-          "nine",
-          "abodes of beings"
-     ],
-     [
-          "Kp4",
-          "",
-          "ten factors"
-     ],
-     [
-          "Kp5",
-          "asking questions",
-          "gods"
-     ],
-     [
-          "Kp5",
-          "",
-          "blessings (maṅgala)"
-     ],
-     [
-          "Kp5",
-          "",
-          "association with people"
-     ],
-     [
-          "Kp5",
-          "",
-          "honor"
-     ],
-     [
-          "Kp5",
-          "suitable",
-          "region"
-     ],
-     [
-          "Kp5",
-          "",
-          "merit (puññā)"
-     ],
-     [
-          "Kp5",
-          "",
-          "determination"
-     ],
-     [
-          "Kp5",
-          "",
-          "education"
-     ],
-     [
-          "Kp5",
-          "",
-          "discipline"
-     ],
-     [
-          "Kp5",
-          "",
-          "training"
-     ],
-     [
-          "Kp5",
-          "well-spoken",
-          "speech"
-     ],
-     [
-          "Kp5",
-          "caring for",
-          "parents"
-     ],
-     [
-          "Kp5",
-          "caring for",
-          "children"
-     ],
-     [
-          "Kp5",
-          "",
-          "work"
-     ],
-     [
-          "Kp5",
-          "",
-          "giving (dāna)"
-     ],
-     [
-          "Kp5",
-          "",
-          "righteous conduct"
-     ],
-     [
-          "Kp5",
-          "",
-          "relatives"
-     ],
-     [
-          "Kp5",
-          "blameless",
-          "actions"
-     ],
-     [
-          "Kp5",
-          "abandoning",
+          "mendicant",
           "evil"
      ],
      [
-          "Kp5",
-          "",
-          "alcohol"
+          "Iti48",
+          "iron ball",
+          "eating"
      ],
      [
-          "Kp5",
-          "",
-          "heedfulness (appamāda)"
+          "Iti49",
+          "existence",
+          "love of"
      ],
      [
-          "Kp5",
-          "",
-          "respect"
+          "Iti49",
+          "existence",
+          "disgust with"
      ],
      [
-          "Kp5",
-          "",
-          "humility"
+          "Iti5",
+          "disdain (makkha)",
+          ""
      ],
      [
-          "Kp5",
-          "",
-          "contentment"
+          "Iti50",
+          "results of actions",
+          "harming oneself"
      ],
      [
-          "Kp5",
-          "",
-          "gratitude"
+          "Iti51",
+          "elements",
+          "form, formlessness, cessation"
      ],
      [
-          "Kp5",
-          "timely",
-          "listening to Dhamma"
+          "Iti52–3",
+          "feelings",
+          "three kinds"
      ],
      [
-          "Kp5",
-          "",
-          "patience"
+          "Iti53",
+          "pleasant feelings",
+          "seen as suffering"
      ],
      [
-          "Kp5",
-          "being easy to",
-          "admonishment"
+          "Iti53",
+          "painful feelings",
+          "seen as dart"
      ],
      [
-          "Kp5",
-          "with wise",
-          "association"
+          "Iti53",
+          "neutral feelings",
+          "seen as impermanent"
      ],
      [
-          "Kp5",
-          "timely",
-          "Dhamma discussion"
+          "Iti53",
+          "impermanence",
+          "neutral feelings seen as "
      ],
      [
-          "Kp5",
-          "",
-          "austerity"
+          "Iti54–5",
+          "searches",
+          ""
      ],
      [
-          "Kp5",
-          "",
-          "celibacy"
+          "Iti56–7",
+          "defilements (āsava)",
+          ""
      ],
      [
-          "Kp5",
-          "",
-          "four noble truths"
+          "Iti58",
+          "craving (taṇha)",
+          "three types"
      ],
      [
-          "Kp5",
-          "",
-          "nibbāna"
+          "Iti6",
+          "conceit (māna)",
+          ""
      ],
      [
-          "Kp5",
-          "",
-          "worldly conditions"
+          "Iti60",
+          "merit (puññā)",
+          "grounds for making"
      ],
      [
-          "Kp5",
-          "",
-          "sorrowlessness"
+          "Iti60",
+          "giving (dāna)",
+          "grounds for making merit"
      ],
      [
-          "Kp5",
-          "",
-          "security (khema)"
+          "Iti60",
+          "virtue ",
+          "grounds for making merit"
      ],
      [
-          "Kp6",
-          "to gods",
-          "offerings"
+          "Iti60",
+          "meditation",
+          "grounds for making merit"
      ],
      [
-          "Kp6",
-          "",
-          "triple gem"
+          "Iti61",
+          "eyes",
+          ""
      ],
      [
-          "Kp6",
-          "",
-          "Buddha, the"
+          "Iti61",
+          "divine eye (dibbacakkhu)",
+          ""
      ],
      [
-          "Kp6",
-          "",
+          "Iti61",
+          "eye of wisdom (paññācakkhu)",
+          ""
+     ],
+     [
+          "Iti62",
+          "faculties (indriya)",
+          "three "
+     ],
+     [
+          "Iti63",
+          "time",
+          ""
+     ],
+     [
+          "Iti64",
+          "misconduct",
+          "three types"
+     ],
+     [
+          "Iti65",
+          "good actions",
+          "three types"
+     ],
+     [
+          "Iti66",
+          "purity (soceyya)",
+          "three types"
+     ],
+     [
+          "Iti67",
+          "sagacity/perfection (moneyya)",
+          "three types"
+     ],
+     [
+          "Iti67",
+          "sage (muni)",
+          ""
+     ],
+     [
+          "Iti7",
+          "“all”, the",
+          ""
+     ],
+     [
+          "Iti70",
+          "harassing",
+          "noble ones"
+     ],
+     [
+          "Iti70",
+          "wrong view (micchā diṭṭhi)",
+          ""
+     ],
+     [
+          "Iti71",
+          "right view (sammā diṭṭhi)",
+          ""
+     ],
+     [
+          "Iti72",
+          "escape (nissaraṇa)",
+          ""
+     ],
+     [
+          "Iti73",
+          "formless (arūpā)",
+          ""
+     ],
+     [
+          "Iti74",
+          "children",
+          "compared to parents"
+     ],
+     [
+          "Iti75",
+          "giving (dāna)",
+          "to all"
+     ],
+     [
+          "Iti75",
+          "giving (dāna)",
+          "levels of"
+     ],
+     [
+          "Iti75",
+          "giving (dāna)",
+          "simile of cloud"
+     ],
+     [
+          "Iti76",
+          "praise",
+          "wishing for"
+     ],
+     [
+          "Iti76",
+          "prosperity",
+          "wishing for"
+     ],
+     [
+          "Iti76",
+          "association",
+          "with fools"
+     ],
+     [
+          "Iti76",
+          "association",
+          "with wise"
+     ],
+     [
+          "Iti76",
+          "association",
+          "simile of rotten fish"
+     ],
+     [
+          "Iti76",
+          "association",
+          "simile of sandalwood"
+     ],
+     [
+          "Iti77",
+          "body",
+          "as fragile"
+     ],
+     [
+          "Iti78",
+          "association",
+          "with similar people/like elements"
+     ],
+     [
+          "Iti78",
+          "association",
+          "with wise"
+     ],
+     [
+          "Iti78",
+          "association",
+          "with fools"
+     ],
+     [
+          "Iti79",
+          "work",
+          "leading to mendicant’s decline"
+     ],
+     [
+          "Iti79",
+          "talk (bhassa)",
+          "leading to mendicant’s decline"
+     ],
+     [
+          "Iti79",
+          "sleep",
+          "leading to mendicant’s decline"
+     ],
+     [
+          "Iti8",
+          "conceit (māna)",
+          ""
+     ],
+     [
+          "Iti81",
+          "honor (sakkāra)",
+          "wishing for"
+     ],
+     [
+          "Iti82",
+          "going forth (pabbajja)",
+          "gods rejoice"
+     ],
+     [
+          "Iti82",
+          "arahant",
+          "praised by gods"
+     ],
+     [
+          "Iti83",
+          "gods",
+          "dying"
+     ],
+     [
+          "Iti83",
+          "death (maraṇa)",
+          "of gods"
+     ],
+     [
+          "Iti83",
+          "gods",
+          "wishes of"
+     ],
+     [
+          "Iti84",
+          "Tathāgatas",
+          "benefiting the world"
+     ],
+     [
+          "Iti84",
+          "arahants",
+          "benefiting the world"
+     ],
+     [
+          "Iti84",
+          "disciple of the Buddha",
+          "benefiting the world"
+     ],
+     [
+          "Iti85",
+          "perception of ugliness (asubhasañña)",
+          ""
+     ],
+     [
+          "Iti85",
+          "impermanence meditation",
+          ""
+     ],
+     [
+          "Iti85",
+          "mindfulness of breathing",
+          ""
+     ],
+     [
+          "Iti86",
+          "Dhamma",
+          "delight in"
+     ],
+     [
+          "Iti87",
+          "thoughts (vitakkā)",
+          "skillful and unskillful"
+     ],
+     [
+          "Iti88",
+          "unwholesome roots",
+          "as inner stains"
+     ],
+     [
+          "Iti89",
+          "friendship",
+          "bad"
+     ],
+     [
+          "Iti89",
+          "evil wishes",
+          ""
+     ],
+     [
+          "Iti89",
+          "stopping when more left to do",
+          ""
+     ],
+     [
+          "Iti89",
+          "harming a good person",
+          ""
+     ],
+     [
+          "Iti90",
+          "confidence (aggappasāda)",
+          ""
+     ],
+     [
+          "Iti90",
+          "Saṅgha",
+          "best of groups"
+     ],
+     [
+          "Iti91",
+          "livelihood",
+          "monastic"
+     ],
+     [
+          "Iti91",
+          "monastic life",
+          "wrongly practiced"
+     ],
+     [
+          "Iti91",
+          "monastic life",
+          "goal of"
+     ],
+     [
+          "Iti91",
+          "monastic life",
+          "simile of firebrand"
+     ],
+     [
+          "Iti91",
+          "alms food",
+          ""
+     ],
+     [
+          "Iti91",
+          "iron ball",
+          "eating"
+     ],
+     [
+          "Iti92",
+          "Buddha, the",
+          "closeness to"
+     ],
+     [
+          "Iti92",
+          "Dhamma",
+          "seeing sees the Buddha"
+     ],
+     [
+          "Iti92",
+          "Buddha, the",
+          "seeing sees the Dhamma"
+     ],
+     [
+          "Iti93",
+          "greed, hatred, delusion",
+          "as fires"
+     ],
+     [
+          "Iti95",
+          "sensual pleasures",
+          ""
+     ],
+     [
+          "Iti96",
+          "once returner",
+          "attached to sense pleasure"
+     ],
+     [
+          "Iti96",
+          "non-returner",
+          "attached to rebirth"
+     ],
+     [
+          "Iti97",
+          "danger in slightest fault",
+          ""
+     ],
+     [
+          "Iti97",
+          "virtue",
+          "definition"
+     ],
+     [
+          "Iti98",
+          "giving (dāna)",
           "Dhamma"
      ],
      [
-          "Kp6",
-          "",
-          "Saṅgha"
+          "Iti98",
+          "giving (dāna)",
+          "material things or Dhamma"
+     ],
+     [
+          "Iti99",
+          "knowledges, three",
+          ""
+     ],
+     [
+          "Kp1",
+          "refuges",
+          ""
+     ],
+     [
+          "Kp2",
+          "precepts, ten",
+          ""
+     ],
+     [
+          "Kp3",
+          "body",
+          "thirty-two parts"
+     ],
+     [
+          "Kp4",
+          "food",
+          ""
+     ],
+     [
+          "Kp4",
+          "name and form",
+          ""
+     ],
+     [
+          "Kp4",
+          "feelings",
+          ""
+     ],
+     [
+          "Kp4",
+          "four noble truths",
+          ""
+     ],
+     [
+          "Kp4",
+          "aggregates",
+          ""
+     ],
+     [
+          "Kp4",
+          "sense fields",
+          ""
+     ],
+     [
+          "Kp4",
+          "enlightenment factors",
+          ""
+     ],
+     [
+          "Kp4",
+          "noble eightfold path",
+          ""
+     ],
+     [
+          "Kp4",
+          "abodes of beings",
+          "nine"
+     ],
+     [
+          "Kp4",
+          "ten factors",
+          ""
+     ],
+     [
+          "Kp5",
+          "gods",
+          "asking questions"
+     ],
+     [
+          "Kp5",
+          "blessings (maṅgala)",
+          ""
+     ],
+     [
+          "Kp5",
+          "association with people",
+          ""
+     ],
+     [
+          "Kp5",
+          "honor",
+          ""
+     ],
+     [
+          "Kp5",
+          "region",
+          "suitable"
+     ],
+     [
+          "Kp5",
+          "merit (puññā)",
+          ""
+     ],
+     [
+          "Kp5",
+          "determination",
+          ""
+     ],
+     [
+          "Kp5",
+          "education",
+          ""
+     ],
+     [
+          "Kp5",
+          "discipline",
+          ""
+     ],
+     [
+          "Kp5",
+          "training",
+          ""
+     ],
+     [
+          "Kp5",
+          "speech",
+          "well-spoken"
+     ],
+     [
+          "Kp5",
+          "parents",
+          "caring for"
+     ],
+     [
+          "Kp5",
+          "children",
+          "caring for"
+     ],
+     [
+          "Kp5",
+          "work",
+          ""
+     ],
+     [
+          "Kp5",
+          "giving (dāna)",
+          ""
+     ],
+     [
+          "Kp5",
+          "righteous conduct",
+          ""
+     ],
+     [
+          "Kp5",
+          "relatives",
+          ""
+     ],
+     [
+          "Kp5",
+          "actions",
+          "blameless"
+     ],
+     [
+          "Kp5",
+          "evil",
+          "abandoning"
+     ],
+     [
+          "Kp5",
+          "alcohol",
+          ""
+     ],
+     [
+          "Kp5",
+          "heedfulness (appamāda)",
+          ""
+     ],
+     [
+          "Kp5",
+          "respect",
+          ""
+     ],
+     [
+          "Kp5",
+          "humility",
+          ""
+     ],
+     [
+          "Kp5",
+          "contentment",
+          ""
+     ],
+     [
+          "Kp5",
+          "gratitude",
+          ""
+     ],
+     [
+          "Kp5",
+          "listening to Dhamma",
+          "timely"
+     ],
+     [
+          "Kp5",
+          "patience",
+          ""
+     ],
+     [
+          "Kp5",
+          "admonishment",
+          "being easy to"
+     ],
+     [
+          "Kp5",
+          "association",
+          "with wise"
+     ],
+     [
+          "Kp5",
+          "Dhamma discussion",
+          "timely"
+     ],
+     [
+          "Kp5",
+          "austerity",
+          ""
+     ],
+     [
+          "Kp5",
+          "celibacy",
+          ""
+     ],
+     [
+          "Kp5",
+          "four noble truths",
+          ""
+     ],
+     [
+          "Kp5",
+          "nibbāna",
+          ""
+     ],
+     [
+          "Kp5",
+          "worldly conditions",
+          ""
+     ],
+     [
+          "Kp5",
+          "sorrowlessness",
+          ""
+     ],
+     [
+          "Kp5",
+          "security (khema)",
+          ""
      ],
      [
           "Kp6",
-          "",
-          "concentration (samādhi)"
+          "offerings",
+          "to gods"
      ],
      [
           "Kp6",
-          "",
-          "eight individuals"
+          "triple gem",
+          ""
      ],
      [
           "Kp6",
-          "",
-          "four pairs of people"
+          "Buddha, the",
+          ""
      ],
      [
           "Kp6",
-          "gifts to",
-          "Saṅgha"
+          "Dhamma",
+          ""
      ],
      [
           "Kp6",
-          "simile of pillar",
-          "Saṅgha"
+          "Saṅgha",
+          ""
      ],
      [
           "Kp6",
-          "rebirth",
-          "stream-enterers"
+          "concentration (samādhi)",
+          ""
      ],
      [
           "Kp6",
-          "three lower",
-          "fetters (saṁyojana)"
+          "eight individuals",
+          ""
      ],
      [
           "Kp6",
-          "",
-          "six grave crimes (chaccābhiṭhānāni abhabba)"
+          "four pairs of people",
+          ""
      ],
      [
           "Kp6",
-          "simile of flowering forest",
-          "Dhamma teaching"
+          "Saṅgha",
+          "gifts to"
      ],
      [
           "Kp6",
-          "simile of lamp going out",
-          "nibbāna"
+          "Saṅgha",
+          "simile of pillar"
+     ],
+     [
+          "Kp6",
+          "stream-enterers",
+          "rebirth"
+     ],
+     [
+          "Kp6",
+          "fetters (saṁyojana)",
+          "three lower"
+     ],
+     [
+          "Kp6",
+          "six grave crimes (chaccābhiṭhānāni abhabba)",
+          ""
+     ],
+     [
+          "Kp6",
+          "Dhamma teaching",
+          "simile of flowering forest"
+     ],
+     [
+          "Kp6",
+          "nibbāna",
+          "simile of lamp going out"
      ],
      [
           "Kp7",
-          "sharing merit with",
-          "departed relatives"
+          "departed relatives",
+          "sharing merit with"
      ],
      [
           "Kp7",
-          "compassion towards",
-          "departed relatives"
+          "departed relatives",
+          "compassion towards"
      ],
      [
           "Kp7",
-          "sharing merit with",
-          "ghosts"
+          "ghosts",
+          "sharing merit with"
      ],
      [
           "Kp7",
-          "qualities of",
-          "ghost realm"
+          "ghost realm",
+          "qualities of"
      ],
      [
           "Kp7",
-          "",
-          "merit sharing"
+          "merit sharing",
+          ""
      ],
      [
           "Kp7",
-          "simile of flowing rain",
-          "merit sharing"
+          "merit sharing",
+          "simile of flowing rain"
      ],
      [
           "Kp7",
-          "",
-          "grieving"
+          "grieving",
+          ""
      ],
      [
           "Kp7",
-          "field of merit",
-          "Saṅgha"
+          "Saṅgha",
+          "field of merit"
      ],
      [
           "Kp7",
-          "honoring",
-          "departed relatives"
+          "departed relatives",
+          "honoring"
      ],
      [
           "Kp7",
-          "duty towards",
-          "departed relatives"
+          "departed relatives",
+          "duty towards"
      ],
      [
           "Kp8",
-          "",
-          "merit (puññā)"
+          "merit (puññā)",
+          ""
      ],
      [
           "Kp8",
-          "saving",
-          "money"
+          "money",
+          "saving"
      ],
      [
           "Kp8",
-          "",
-          "heirs"
+          "heirs",
+          ""
      ],
      [
           "Kp8",
-          "",
-          "giving (dāna)"
+          "giving (dāna)",
+          ""
      ],
      [
           "Kp8",
-          "as merit",
-          "virtue"
+          "virtue",
+          "as merit"
      ],
      [
           "Kp8",
-          "",
-          "restraint"
+          "restraint",
+          ""
      ],
      [
           "Kp8",
-          "",
-          "shrines (cetiya)"
+          "shrines (cetiya)",
+          ""
      ],
      [
           "Kp8",
-          "caring for",
-          "parents"
+          "parents",
+          "caring for"
      ],
      [
           "Kp8",
-          "caring for",
-          "sibling"
+          "sibling",
+          "caring for"
      ],
      [
           "Kp8",
-          "leaving all behind",
-          "death (maraṇa)"
+          "death (maraṇa)",
+          "leaving all behind"
      ],
      [
           "Kp8",
-          "as true possession",
-          "merit (puññā) "
+          "merit (puññā) ",
+          "as true possession"
      ],
      [
           "Kp8",
-          "",
-          "beauty"
+          "beauty",
+          ""
      ],
      [
           "Kp8",
-          "",
-          "sweet voice"
+          "sweet voice",
+          ""
      ],
      [
           "Kp8",
-          "",
-          "beauty"
+          "beauty",
+          ""
      ],
      [
           "Kp8",
-          "",
-          "leadership"
+          "leadership",
+          ""
      ],
      [
           "Kp8",
-          "",
-          "followers"
+          "followers",
+          ""
      ],
      [
           "Kp8",
-          "",
-          "sovereignty"
+          "sovereignty",
+          ""
      ],
      [
           "Kp8",
-          "",
-          "wheel-turning monarchs"
+          "wheel-turning monarchs",
+          ""
      ],
      [
           "Kp8",
-          "vs. kingship",
-          "heaven"
+          "heaven",
+          "vs. kingship"
      ],
      [
           "Kp8",
-          "as support for nibbāna",
-          "merit (puññā)"
+          "merit (puññā)",
+          "as support for nibbāna"
      ],
      [
           "Kp8",
-          "as result of merit",
-          "good friends"
+          "good friends",
+          "as result of merit"
      ],
      [
           "Kp8",
-          "",
-          "analytical knowledge (paṭisambhidā)"
+          "analytical knowledge (paṭisambhidā)",
+          ""
      ],
      [
           "Kp8",
-          "",
-          "paccekabuddha"
+          "paccekabuddha",
+          ""
      ],
      [
           "Kp8",
-          "praised by wise",
-          "merit (puññā)"
+          "merit (puññā)",
+          "praised by wise"
      ],
      [
           "Kp9",
-          "",
-          "loving-kindness (mettā)"
+          "loving-kindness (mettā)",
+          ""
      ],
      [
           "Kp9",
-          "easy to speak to",
-          "speech"
+          "speech",
+          "easy to speak to"
      ],
      [
           "Kp9",
-          "as criterion for loving-kindness",
-          "humility"
+          "humility",
+          "as criterion for loving-kindness"
      ],
      [
           "Kp9",
-          "as criterion for loving-kindness",
-          "gentleness"
+          "gentleness",
+          "as criterion for loving-kindness"
      ],
      [
           "Kp9",
-          "as criterion for loving-kindness",
-          "contentment"
+          "contentment",
+          "as criterion for loving-kindness"
      ],
      [
           "Kp9",
-          "",
-          "business"
+          "business",
+          ""
      ],
      [
           "Kp9",
-          "by the wise",
-          "blame"
+          "blame",
+          "by the wise"
      ],
      [
           "Kp9",
-          "",
-          "loving-kindness (mettā)"
+          "loving-kindness (mettā)",
+          ""
      ],
      [
           "Kp9",
-          "postures",
-          "meditation"
+          "meditation",
+          "postures"
      ],
      [
           "Kp9",
-          "",
-          "wrong view (micchā diṭṭhi)"
+          "wrong view (micchā diṭṭhi)",
+          ""
      ],
      [
           "Kp9",
-          "as criterion for loving-kindness",
-          "virtue"
+          "virtue",
+          "as criterion for loving-kindness"
      ],
      [
           "MN 83",
-          "as a path to brahma world",
-          "loving-kindness (mettā)"
+          "loving-kindness (mettā)",
+          "as a path to brahma world"
      ],
      [
           "MN104",
-          "in action",
-          "loving-kindness (mettā)"
+          "loving-kindness (mettā)",
+          "in action"
      ],
      [
           "MN105",
-          "abandoning the training as",
-          "death (maraṇa)"
+          "death (maraṇa)",
+          "abandoning the training as"
      ],
      [
           "MN110",
-          "how to give",
-          "giving (dāna)"
+          "giving (dāna)",
+          "how to give"
      ],
      [
           "MN117",
-          "",
-          "right speech (sammāvācā)"
+          "right speech (sammā vācā)",
+          ""
      ],
      [
           "MN117",
-          "abolishes wrong speech",
-          "right speech (sammāvācā)"
+          "right speech (sammā vācā)",
+          "abolishes wrong speech"
      ],
      [
           "MN117",
-          "",
-          "wrong speech (micchā vacā)"
+          "wrong speech (micchā vacā)",
+          ""
      ],
      [
           "MN119",
-          "",
-          "loving-kindness (mettā)"
+          "loving-kindness (mettā)",
+          ""
      ],
      [
           "MN120",
-          "cause for rebirth",
-          "generosity (cāga)"
+          "generosity (cāga)",
+          "cause for rebirth"
      ],
      [
           "MN127",
-          "as immeasurable deliverance",
-          "loving-kindness (mettā)"
+          "loving-kindness (mettā)",
+          "as immeasurable deliverance"
      ],
      [
           "MN128",
-          "in action",
-          "loving-kindness (mettā)"
+          "loving-kindness (mettā)",
+          "in action"
      ],
      [
           "MN130",
-          "as divine messenger",
-          "death (maraṇa)"
+          "death (maraṇa)",
+          "as divine messenger"
      ],
      [
           "MN135",
-          "result of",
-          "giving (dāna)"
+          "giving (dāna)",
+          "result of"
      ],
      [
           "MN139",
-          "covert",
-          "speech"
+          "speech",
+          "covert"
      ],
      [
           "MN139",
-          "local language",
-          "speech"
+          "speech",
+          "local language"
      ],
      [
           "MN139",
-          "qualifying",
-          "speech"
+          "speech",
+          "qualifying"
      ],
      [
           "MN139",
-          "sharp",
-          "speech"
+          "speech",
+          "sharp"
      ],
      [
           "MN140",
-          "by cow",
-          "death (maraṇa)"
+          "death (maraṇa)",
+          "by cow"
      ],
      [
           "MN141",
-          "in four noble truths",
-          "death (maraṇa)"
+          "death (maraṇa)",
+          "in four noble truths"
      ],
      [
           "MN141",
-          "",
-          "right speech (sammāvācā)"
+          "right speech (sammā vācā)",
+          ""
      ],
      [
           "MN142",
-          "personal gifts",
-          "giving (dāna)"
+          "giving (dāna)",
+          "personal gifts"
      ],
      [
           "MN142",
-          "purifying",
-          "giving (dāna)"
+          "giving (dāna)",
+          "purifying"
      ],
      [
           "MN142",
-          "to the Saṅgha",
-          "giving (dāna)"
+          "giving (dāna)",
+          "to the Saṅgha"
      ],
      [
           "MN143",
-          "conversation uppon",
-          "deathbed"
+          "deathbed",
+          "conversation uppon"
      ],
      [
           "MN21",
-          "under abuse",
-          "loving-kindness (mettā)"
+          "loving-kindness (mettā)",
+          "under abuse"
      ],
      [
           "MN21",
-          "types of",
-          "speech"
+          "speech",
+          "types of"
      ],
      [
           "MN26",
-          "subject to",
-          "death (maraṇa)"
+          "death (maraṇa)",
+          "subject to"
      ],
      [
           "MN31",
-          "in action",
-          "loving-kindness (mettā)"
+          "loving-kindness (mettā)",
+          "in action"
      ],
      [
           "MN33",
-          "in action",
-          "loving-kindness (mettā)"
+          "loving-kindness (mettā)",
+          "in action"
      ],
      [
           "MN34",
-          "realm of death (maccudheyya)",
-          "death (maraṇa)"
+          "death (maraṇa)",
+          "realm of death (maccudheyya)"
      ],
      [
           "MN35",
-          "",
-          "giving (dāna)"
+          "giving (dāna)",
+          ""
      ],
      [
           "MN40",
-          "",
-          "loving-kindness (mettā)"
+          "loving-kindness (mettā)",
+          ""
      ],
      [
           "MN43",
-          "as immeasurable deliverance",
-          "loving-kindness (mettā)"
+          "loving-kindness (mettā)",
+          "as immeasurable deliverance"
      ],
      [
           "MN48",
-          "in action",
-          "loving-kindness (mettā)"
+          "loving-kindness (mettā)",
+          "in action"
      ],
      [
           "MN50",
-          "under abuse",
-          "loving-kindness (mettā)"
+          "loving-kindness (mettā)",
+          "under abuse"
      ],
      [
           "MN52",
-          "as a basis for insight",
-          "loving-kindness (mettā)"
+          "loving-kindness (mettā)",
+          "as a basis for insight"
      ],
      [
           "MN52",
-          "as conditioned",
-          "loving-kindness (mettā)"
+          "loving-kindness (mettā)",
+          "as conditioned"
      ],
      [
           "MN55",
-          "",
-          "loving-kindness (mettā)"
+          "loving-kindness (mettā)",
+          ""
      ],
      [
           "MN56",
-          "whom to give to",
-          "giving (dāna)"
+          "giving (dāna)",
+          "whom to give to"
      ],
      [
           "MN58",
-          "beneficial",
-          "speech"
+          "speech",
+          "beneficial"
      ],
      [
           "MN58",
-          "of a Buddha",
-          "speech"
+          "speech",
+          "of a Buddha"
      ],
      [
           "MN58",
-          "qualifying",
-          "speech"
+          "speech",
+          "qualifying"
      ],
      [
           "MN58",
-          "types of",
-          "speech"
+          "speech",
+          "types of"
      ],
      [
           "MN60",
-          "",
-          "right speech (sammāvācā)"
+          "right speech (sammā vācā)",
+          ""
      ],
      [
           "MN60",
-          "",
-          "wrong speech (micchā vacā)"
+          "wrong speech (micchā vacā)",
+          ""
      ],
      [
           "MN61",
-          "reflecting on",
-          "speech"
+          "speech",
+          "reflecting on"
      ],
      [
           "MN62",
-          "",
-          "loving-kindness (mettā)"
+          "loving-kindness (mettā)",
+          ""
      ],
      [
           "MN68",
-          "recollection of other's",
-          "generosity (cāga)"
+          "generosity (cāga)",
+          "recollection of other's"
      ],
      [
           "MN7",
-          "",
-          "loving-kindness (mettā)"
+          "loving-kindness (mettā)",
+          ""
      ],
      [
           "MN87",
-          "cause of grief",
-          "death (maraṇa)"
+          "death (maraṇa)",
+          "cause of grief"
      ],
      [
           "MN9",
-          "definition of",
-          "death (maraṇa)"
+          "death (maraṇa)",
+          "definition of"
      ],
      [
           "MN9",
-          "as part of right view",
-          "death (maraṇa)"
+          "death (maraṇa)",
+          "as part of right view"
      ],
      [
           "MN93",
-          "",
-          "loving-kindness (mettā)"
+          "loving-kindness (mettā)",
+          ""
      ],
      [
           "MN96",
-          "",
-          "loving-kindness (mettā)"
+          "loving-kindness (mettā)",
+          ""
      ],
      [
           "MN97",
-          "as a path to brahma world",
-          "loving-kindness (mettā)"
+          "loving-kindness (mettā)",
+          "as a path to brahma world"
      ],
      [
           "MN99",
-          "grounds for making merit",
-          "generosity (cāga)"
+          "generosity (cāga)",
+          "grounds for making merit"
      ],
      [
           "MN99",
-          "as a path to brahma world",
-          "loving-kindness (mettā)"
+          "loving-kindness (mettā)",
+          "as a path to brahma world"
      ],
      [
           "Pv",
-          "",
-          "ghosts"
+          "ghosts",
+          ""
      ],
      [
           "Pv1",
-          "field of merit",
-          "Saṅgha"
+          "Saṅgha",
+          "field of merit"
      ],
      [
           "Pv1",
-          "sharing merit with",
-          "departed relatives"
+          "departed relatives",
+          "sharing merit with"
      ],
      [
           "Pv10",
-          "dressed in hair",
-          "ghosts"
+          "ghosts",
+          "dressed in hair"
      ],
      [
           "Pv10",
-          "sharing merit with",
-          "ghosts"
+          "ghosts",
+          "sharing merit with"
      ],
      [
           "Pv10",
-          "cakes",
-          "gifts, specific types of"
+          "gifts, specific types of",
+          "cakes"
      ],
      [
           "Pv11",
-          "with hammers",
-          "ghosts"
+          "ghosts",
+          "with hammers"
      ],
      [
           "Pv11",
-          "compared to parents",
-          "children"
+          "children",
+          "compared to parents"
      ],
      [
           "Pv11",
-          "not making good use of",
-          "wealth"
+          "wealth",
+          "not making good use of"
      ],
      [
           "Pv11",
-          "giving advice",
-          "ghosts"
+          "ghosts",
+          "giving advice"
      ],
      [
           "Pv12",
-          "wise response to",
-          "death (maraṇa)"
+          "death (maraṇa)",
+          "wise response to"
      ],
      [
           "Pv12",
-          "wise do not",
-          "grieving"
+          "grieving",
+          "wise do not"
      ],
      [
           "Pv12",
-          "like a snake’s skin shed",
-          "body"
+          "body",
+          "like a snake’s skin shed"
      ],
      [
           "Pv12",
-          "uselessness of",
-          "grieving"
+          "grieving",
+          "uselessness of"
      ],
      [
           "Pv13",
-          "like a pot",
-          "body"
+          "body",
+          "like a pot"
      ],
      [
           "Pv13",
-          "helps a ghost",
-          "Sāriputta, Ven."
+          "Sāriputta, Ven.",
+          "helps a ghost"
      ],
      [
           "Pv13",
-          "giving to the Saṅgha",
-          "Saṅgha"
+          "Saṅgha",
+          "giving to the Saṅgha"
      ],
      [
           "Pv13",
-          "sharing merit with",
-          "ghosts"
+          "ghosts",
+          "sharing merit with"
      ],
      [
           "Pv14",
-          "helps a ghost",
-          "Sāriputta, Ven."
+          "Sāriputta, Ven.",
+          "helps a ghost"
      ],
      [
           "Pv14",
-          "qualities of",
-          "ghost realm"
+          "ghost realm",
+          "qualities of"
      ],
      [
           "Pv15",
-          "rebirth in ghost realm",
-          "harsh speech"
+          "harsh speech",
+          "rebirth in ghost realm"
      ],
      [
           "Pv15",
-          "rebirth in ghost realm",
-          "jealousy"
+          "jealousy",
+          "rebirth in ghost realm"
      ],
      [
           "Pv18",
-          "universality of",
-          "death (maraṇa)"
+          "death (maraṇa)",
+          "universality of"
      ],
      [
           "Pv18",
-          "cause of grief",
-          "death (maraṇa)"
+          "death (maraṇa)",
+          "cause of grief"
      ],
      [
           "Pv18",
-          "uselessness of",
-          "grieving"
+          "grieving",
+          "uselessness of"
      ],
      [
           "Pv18",
-          "overcoming grief",
-          "death (maraṇa)"
+          "death (maraṇa)",
+          "overcoming grief"
      ],
      [
           "Pv19",
-          "preventing",
-          "giving (dāna)"
+          "giving (dāna)",
+          "preventing"
      ],
      [
           "Pv19",
-          "not giving",
-          "wealthy people"
+          "wealthy people",
+          "not giving"
      ],
      [
           "Pv19",
-          "giving advice",
-          "ghosts"
+          "ghosts",
+          "giving advice"
      ],
      [
           "Pv2",
-          "results of",
-          "wrong speech (micchā vacā)"
+          "wrong speech (micchā vacā)",
+          "results of"
      ],
      [
           "Pv20",
-          "not giving",
-          "wealthy people"
+          "wealthy people",
+          "not giving"
      ],
      [
           "Pv20",
-          "best recipient",
-          "Saṅgha"
+          "Saṅgha",
+          "best recipient"
      ],
      [
           "Pv21",
-          "to those who have helped",
-          "gratitude"
+          "gratitude",
+          "to those who have helped"
      ],
      [
           "Pv21",
-          "like dust thrown into the wind",
-          "harming a good person"
+          "harming a good person",
+          "like dust thrown into the wind"
      ],
      [
           "Pv21",
-          "small amounts give big results ",
-          "merit (puññā)"
+          "merit (puññā)",
+          "small amounts give big results "
      ],
      [
           "Pv21",
-          "",
-          "hand that juice flows from "
+          "hand that juice flows from ",
+          ""
      ],
      [
           "Pv21",
-          "small amounts give big results",
-          "bad actions"
+          "bad actions",
+          "small amounts give big results"
      ],
      [
           "Pv21",
-          "from having no one to give to",
-          "sadness"
+          "sadness",
+          "from having no one to give to"
      ],
      [
           "Pv21",
-          "preventing",
-          "giving (dāna)"
+          "giving (dāna)",
+          "preventing"
      ],
      [
           "Pv21",
-          "best recipient",
-          "Saṅgha"
+          "Saṅgha",
+          "best recipient"
      ],
      [
           "Pv21",
-          "to ordinary people less fruitful than gifts to Saṅgha",
-          "giving (dāna)"
+          "giving (dāna)",
+          "to ordinary people less fruitful than gifts to Saṅgha"
      ],
      [
           "Pv22",
-          "dressed in hair",
-          "ghosts"
+          "ghosts",
+          "dressed in hair"
      ],
      [
           "Pv22",
-          "cannot take things directly",
-          "ghosts"
+          "ghosts",
+          "cannot take things directly"
      ],
      [
           "Pv22",
-          "preventing",
-          "giving (dāna)"
+          "giving (dāna)",
+          "preventing"
      ],
      [
           "Pv23",
-          "mansion (petavimāna)",
-          "ghosts"
+          "ghosts",
+          "mansion (petavimāna)"
      ],
      [
           "Pv23",
-          "thread",
-          "gifts, specific types of"
+          "gifts, specific types of",
+          "thread"
      ],
      [
           "Pv23",
-          "small amounts give big results",
-          "giving (dāna)"
+          "giving (dāna)",
+          "small amounts give big results"
      ],
      [
           "Pv23",
-          "passage of time in",
-          "ghost realm"
+          "ghost realm",
+          "passage of time in"
      ],
      [
           "Pv24",
-          "",
-          "sexual misconduct"
+          "sexual misconduct",
+          ""
      ],
      [
           "Pv24",
-          "false oath",
-          "speech"
+          "speech",
+          "false oath"
      ],
      [
           "Pv24",
-          "eaten by dogs",
-          "ghosts"
+          "ghosts",
+          "eaten by dogs"
      ],
      [
           "Pv25",
-          "cause of grief",
-          "death (maraṇa)"
+          "death (maraṇa)",
+          "cause of grief"
      ],
      [
           "Pv25",
-          "uselessness of",
-          "grieving"
+          "grieving",
+          "uselessness of"
      ],
      [
           "Pv25",
-          "overcoming grief",
-          "death (maraṇa)"
+          "death (maraṇa)",
+          "overcoming grief"
      ],
      [
           "Pv26",
-          "not giving",
-          "wealthy people"
+          "wealthy people",
+          "not giving"
      ],
      [
           "Pv26",
-          "receiver of gifts",
-          "insulting"
+          "insulting",
+          "receiver of gifts"
      ],
      [
           "Pv26",
-          "advice from ghosts",
-          "merit (puññā)"
+          "merit (puññā)",
+          "advice from ghosts"
      ],
      [
           "Pv27",
-          "giving to the Saṅgha",
-          "Saṅgha"
+          "Saṅgha",
+          "giving to the Saṅgha"
      ],
      [
           "Pv27",
-          "clothing",
-          "gifts, specific types of"
+          "gifts, specific types of",
+          "clothing"
      ],
      [
           "Pv27",
-          "sandals",
-          "gifts, specific types of"
+          "gifts, specific types of",
+          "sandals"
      ],
      [
           "Pv28",
-          "mansion (petavimāna)",
-          "ghosts"
+          "ghosts",
+          "mansion (petavimāna)"
      ],
      [
           "Pv28",
-          "giving advice",
-          "ghosts"
+          "ghosts",
+          "giving advice"
      ],
      [
           "Pv29",
-          "harming ",
-          "parents"
+          "parents",
+          "harming "
      ],
      [
           "Pv29",
-          "greediness",
-          "ghosts"
+          "ghosts",
+          "greediness"
      ],
      [
           "Pv29",
-          "rebirth in ghost realm",
-          "lying"
+          "lying",
+          "rebirth in ghost realm"
      ],
      [
           "Pv3",
-          "reborn as ghosts",
-          "monastics"
+          "monastics",
+          "reborn as ghosts"
      ],
      [
           "Pv3",
-          "results of",
-          "wrong speech (micchā vacā)"
+          "wrong speech (micchā vacā)",
+          "results of"
      ],
      [
           "Pv30",
-          "abandoned",
-          "children"
+          "children",
+          "abandoned"
      ],
      [
           "Pv30",
-          "to noble disciples",
-          "harsh speech"
+          "harsh speech",
+          "to noble disciples"
      ],
      [
           "Pv31",
-          "not giving",
-          "wealthy people"
+          "wealthy people",
+          "not giving"
      ],
      [
           "Pv32",
-          "rebirth",
-          "hunters"
+          "hunters",
+          "rebirth"
      ],
      [
           "Pv32",
-          "limiting actions to limit results",
-          "bad actions"
+          "bad actions",
+          "limiting actions to limit results"
      ],
      [
           "Pv33",
-          "rebirth",
-          "hunters"
+          "hunters",
+          "rebirth"
      ],
      [
           "Pv33",
-          "limiting actions to limit results",
-          "bad actions"
+          "bad actions",
+          "limiting actions to limit results"
      ],
      [
           "Pv34",
-          "back-biting, results of",
-          "speech"
+          "speech",
+          "back-biting, results of"
      ],
      [
           "Pv34",
-          "results of",
-          "divisive speech"
+          "divisive speech",
+          "results of"
      ],
      [
           "Pv35",
-          "insulting relic puja",
-          "relics"
+          "relics",
+          "insulting relic puja"
      ],
      [
           "Pv36",
-          "fixing, result of",
-          "roads"
+          "roads",
+          "fixing, result of"
      ],
      [
           "Pv36",
-          "results of",
-          "joking"
+          "joking",
+          "results of"
      ],
      [
           "Pv36",
-          "treating them badly",
-          "monastics"
+          "monastics",
+          "treating them badly"
      ],
      [
           "Pv36",
-          "giving advice",
-          "ghosts"
+          "ghosts",
+          "giving advice"
      ],
      [
           "Pv36",
-          "between human and ghost",
-          "friendship"
+          "friendship",
+          "between human and ghost"
      ],
      [
           "Pv38",
-          "leading to ghost world",
-          "wrong view (micchā diṭṭhi)"
+          "wrong view (micchā diṭṭhi)",
+          "leading to ghost world"
      ],
      [
           "Pv38",
-          "resulting in hell",
-          "wrong view (micchā diṭṭhi)"
+          "wrong view (micchā diṭṭhi)",
+          "resulting in hell"
      ],
      [
           "Pv38",
-          "lifespan in",
-          "hell"
+          "hell",
+          "lifespan in"
      ],
      [
           "Pv38",
-          "sharing merit with",
-          "departed relatives"
+          "departed relatives",
+          "sharing merit with"
      ],
      [
           "Pv38",
-          "giving up like vomiting",
-          "wrong views"
+          "wrong views",
+          "giving up like vomiting"
      ],
      [
           "Pv4",
-          "sharing merit with",
-          "departed relatives"
+          "departed relatives",
+          "sharing merit with"
      ],
      [
           "Pv4",
-          "sharing merit with",
-          "gods"
+          "gods",
+          "sharing merit with"
      ],
      [
           "Pv4",
-          "useless of",
-          "grieving"
+          "grieving",
+          "useless of"
      ],
      [
           "Pv4",
-          "immediate effect",
-          "merit sharing"
+          "merit sharing",
+          "immediate effect"
      ],
      [
           "Pv40",
-          "hunger",
-          "ghosts"
+          "ghosts",
+          "hunger"
      ],
      [
           "Pv41",
-          "not giving",
-          "wealthy people"
+          "wealthy people",
+          "not giving"
      ],
      [
           "Pv41",
-          "disparaging",
-          "paccekabuddha"
+          "paccekabuddha",
+          "disparaging"
      ],
      [
           "Pv42",
-          "treating them badly",
-          "monastics"
+          "monastics",
+          "treating them badly"
      ],
      [
           "Pv42",
-          "disparaging",
-          "paccekabuddha"
+          "paccekabuddha",
+          "disparaging"
      ],
      [
           "Pv42",
-          "life in",
-          "hell"
+          "hell",
+          "life in"
      ],
      [
           "Pv42",
-          "results of",
-          "arrogance"
+          "arrogance",
+          "results of"
      ],
      [
           "Pv43",
-          "",
-          "bad friends"
+          "bad friends",
+          ""
      ],
      [
           "Pv43",
-          "reborn as ghosts",
-          "monastics"
+          "monastics",
+          "reborn as ghosts"
      ],
      [
           "Pv43",
-          "bad",
-          "monastics"
+          "monastics",
+          "bad"
      ],
      [
           "Pv44",
-          "",
-          "bad friends"
+          "bad friends",
+          ""
      ],
      [
           "Pv44",
-          "reborn as ghosts",
-          "monastics"
+          "monastics",
+          "reborn as ghosts"
      ],
      [
           "Pv44",
-          "bad",
-          "monastics"
+          "monastics",
+          "bad"
      ],
      [
           "Pv45",
-          "cannot take things directly",
-          "ghosts"
+          "ghosts",
+          "cannot take things directly"
      ],
      [
           "Pv45",
-          "life in",
-          "ghost realm"
+          "ghost realm",
+          "life in"
      ],
      [
           "Pv47",
-          "",
-          "social mobility"
+          "social mobility",
+          ""
      ],
      [
           "Pv48",
-          "small amounts give big results",
-          "merit (puññā)"
+          "merit (puññā)",
+          "small amounts give big results"
      ],
      [
           "Pv5",
-          "returning as ghosts",
-          "departed relatives"
+          "departed relatives",
+          "returning as ghosts"
      ],
      [
           "Pv5",
-          "sharing merit with",
-          "departed relatives"
+          "departed relatives",
+          "sharing merit with"
      ],
      [
           "Pv5",
-          "qualities of",
-          "ghost realm"
+          "ghost realm",
+          "qualities of"
      ],
      [
           "Pv5",
-          "like rain reaching the oceans",
-          "sharing merit"
+          "sharing merit",
+          "like rain reaching the oceans"
      ],
      [
           "Pv5",
-          "as a source of merit itself",
-          "sharing merit"
+          "sharing merit",
+          "as a source of merit itself"
      ],
      [
           "Pv50",
-          "not giving",
-          "wealthy people"
+          "wealthy people",
+          "not giving"
      ],
      [
           "Pv51",
-          "with hammers",
-          "ghosts"
+          "ghosts",
+          "with hammers"
      ],
      [
           "Pv6",
-          "false oath",
-          "speech"
+          "speech",
+          "false oath"
      ],
      [
           "Pv6",
-          "causing someone elses",
-          "abortion"
+          "abortion",
+          "causing someone elses"
      ],
      [
           "Pv6",
-          "child eating",
-          "ghosts"
+          "ghosts",
+          "child eating"
      ],
      [
           "Pv6",
-          "hunger",
-          "ghosts"
+          "ghosts",
+          "hunger"
      ],
      [
           "Pv7",
-          "false oath",
-          "speech"
+          "speech",
+          "false oath"
      ],
      [
           "Pv7",
-          "causing someone elses",
-          "abortion"
+          "abortion",
+          "causing someone elses"
      ],
      [
           "Pv7",
-          "child eating",
-          "ghosts"
+          "ghosts",
+          "child eating"
      ],
      [
           "Pv7",
-          "hunger",
-          "ghosts"
+          "ghosts",
+          "hunger"
      ],
      [
           "Pv8",
-          "overcoming",
-          "grieving"
+          "grieving",
+          "overcoming"
      ],
      [
           "Pv8",
-          "uselessness of",
-          "grieving"
+          "grieving",
+          "uselessness of"
      ],
      [
           "Pv9",
-          "food in",
-          "ghost realm"
+          "ghost realm",
+          "food in"
      ],
      [
           "Pv9",
-          "criticizing",
-          "giving (dāna)"
+          "giving (dāna)",
+          "criticizing"
      ],
      [
           "SN1.20",
-          "",
-          "death (maraṇa)"
+          "death (maraṇa)",
+          ""
      ],
      [
           "SN1.3",
-          "danger of",
-          "death (maraṇa)"
+          "death (maraṇa)",
+          "danger of"
      ],
      [
           "SN1.32",
-          "by bad person",
-          "giving (dāna)"
+          "giving (dāna)",
+          "by bad person"
      ],
      [
           "SN1.32",
-          "levels of",
-          "giving (dāna)"
+          "giving (dāna)",
+          "levels of"
      ],
      [
           "SN1.32",
-          "result of",
-          "giving (dāna)"
+          "giving (dāna)",
+          "result of"
      ],
      [
           "SN1.32",
-          "",
-          "stinginess"
+          "stinginess",
+          ""
      ],
      [
           "SN1.33",
-          "faith and",
-          "giving (dāna)"
+          "giving (dāna)",
+          "faith and"
      ],
      [
           "SN1.33",
-          "smallest gift has value",
-          "giving (dāna)"
+          "giving (dāna)",
+          "smallest gift has value"
      ],
      [
           "SN1.33",
-          "",
-          "stinginess"
+          "stinginess",
+          ""
      ],
      [
           "SN1.34",
-          "realm of death (maccudheyya)",
-          "death (maraṇa)"
+          "death (maraṇa)",
+          "realm of death (maccudheyya)"
      ],
      [
           "SN1.38",
-          "realm of death (maccudheyya)",
-          "death (maraṇa)"
+          "death (maraṇa)",
+          "realm of death (maccudheyya)"
      ],
      [
           "SN1.4",
-          "danger of",
-          "death (maraṇa)"
+          "death (maraṇa)",
+          "danger of"
      ],
      [
           "SN1.4",
-          "danger of",
-          "death (maraṇa)"
+          "death (maraṇa)",
+          "danger of"
      ],
      [
           "SN1.41",
-          "",
-          "giving (dāna)"
+          "giving (dāna)",
+          ""
      ],
      [
           "SN1.41",
-          "cause for rebirth",
-          "giving (dāna)"
+          "giving (dāna)",
+          "cause for rebirth"
      ],
      [
           "SN1.41",
-          "food",
-          "giving (dāna)"
+          "giving (dāna)",
+          "food"
      ],
      [
           "SN1.41",
-          "as good use of wealth",
-          "giving (dāna)"
+          "giving (dāna)",
+          "as good use of wealth"
      ],
      [
           "SN1.41",
-          "what to give",
-          "giving (dāna)"
+          "giving (dāna)",
+          "what to give"
      ],
      [
           "SN1.43",
-          "faith and",
-          "giving (dāna)"
+          "giving (dāna)",
+          "faith and"
      ],
      [
           "SN1.43",
-          "result of",
-          "giving (dāna)"
+          "giving (dāna)",
+          "result of"
      ],
      [
           "SN1.43",
-          "",
-          "stinginess"
+          "stinginess",
+          ""
      ],
      [
           "SN1.49",
-          "cause for rebirth",
-          "generosity (cāga)"
+          "generosity (cāga)",
+          "cause for rebirth"
      ],
      [
           "SN1.49",
-          "as cause for wealth",
-          "generosity (cāga)"
+          "generosity (cāga)",
+          "as cause for wealth"
      ],
      [
           "SN1.66",
-          "",
-          "death (maraṇa)"
+          "death (maraṇa)",
+          ""
      ],
      [
           "SN1.67",
-          "",
-          "death (maraṇa)"
+          "death (maraṇa)",
+          ""
      ],
      [
           "SN1.78",
-          "good and bad",
-          "speech"
+          "speech",
+          "good and bad"
      ],
      [
           "SN1.9",
-          "realm of death (maccudheyya)",
-          "death (maraṇa)"
+          "death (maraṇa)",
+          "realm of death (maccudheyya)"
      ],
      [
           "SN10.12",
-          "to get friends",
-          "giving (dāna)"
+          "giving (dāna)",
+          "to get friends"
      ],
      [
           "SN10.4",
-          "to abandon enmity",
-          "loving-kindness (mettā)"
+          "loving-kindness (mettā)",
+          "to abandon enmity"
      ],
      [
           "SN11.16",
-          "to the Saṅgha",
-          "giving (dāna)"
+          "giving (dāna)",
+          "to the Saṅgha"
      ],
      [
           "SN11.16",
-          "whom to give to",
-          "giving (dāna)"
+          "giving (dāna)",
+          "whom to give to"
      ],
      [
           "SN11.5",
-          "well spoken",
-          "speech"
+          "speech",
+          "well spoken"
      ],
      [
           "SN12.2",
-          "definition of",
-          "death (maraṇa)"
+          "death (maraṇa)",
+          "definition of"
      ],
      [
           "SN17.11–20",
-          "for the sake of gain",
-          "false speech"
+          "false speech",
+          "for the sake of gain"
      ],
      [
           "SN17.37–43",
-          "for the sake of gain",
-          "false speech"
+          "false speech",
+          "for the sake of gain"
      ],
      [
           "SN2.1",
-          "well spoken",
-          "speech"
+          "speech",
+          "well spoken"
      ],
      [
           "SN2.19",
-          "danger of",
-          "death (maraṇa)"
+          "death (maraṇa)",
+          "danger of"
      ],
      [
           "SN2.23",
-          "faith and",
-          "giving (dāna)"
+          "giving (dāna)",
+          "faith and"
      ],
      [
           "SN2.23",
-          "result of",
-          "giving (dāna)"
+          "giving (dāna)",
+          "result of"
      ],
      [
           "SN2.27",
-          "danger of",
-          "death (maraṇa)"
+          "death (maraṇa)",
+          "danger of"
      ],
      [
           "SN20.3",
-          "liberation of mind by",
-          "loving-kindness (mettā)"
+          "loving-kindness (mettā)",
+          "liberation of mind by"
      ],
      [
           "SN20.3",
-          "as a protection",
-          "loving-kindness (mettā)"
+          "loving-kindness (mettā)",
+          "as a protection"
      ],
      [
           "SN20.4",
-          "liberation of mind by",
-          "loving-kindness (mettā)"
+          "loving-kindness (mettā)",
+          "liberation of mind by"
      ],
      [
           "SN20.4",
-          "more fruitful than giving",
-          "loving-kindness (mettā)"
+          "loving-kindness (mettā)",
+          "more fruitful than giving"
      ],
      [
           "SN20.5",
-          "liberation of mind by",
-          "loving-kindness (mettā)"
+          "loving-kindness (mettā)",
+          "liberation of mind by"
      ],
      [
           "SN20.5",
-          "as a protection",
-          "loving-kindness (mettā)"
+          "loving-kindness (mettā)",
+          "as a protection"
      ],
      [
           "SN20.6",
-          "comes quickly",
-          "death (maraṇa)"
+          "death (maraṇa)",
+          "comes quickly"
      ],
      [
           "SN21.11",
-          "of relative",
-          "death (maraṇa)"
+          "death (maraṇa)",
+          "of relative"
      ],
      [
           "SN22.3",
-          "about Dhamma",
-          "disputes"
+          "disputes",
+          "about Dhamma"
      ],
      [
           "SN29.11–50",
-          "to gain rebirth",
-          "giving (dāna)"
+          "giving (dāna)",
+          "to gain rebirth"
      ],
      [
           "SN3.20",
-          "with regret",
-          "giving (dāna)"
+          "giving (dāna)",
+          "with regret"
      ],
      [
           "SN3.22",
-          "cause of grief",
-          "death (maraṇa)"
+          "death (maraṇa)",
+          "cause of grief"
      ],
      [
           "SN3.22",
-          "inevitability of",
-          "death (maraṇa)"
+          "death (maraṇa)",
+          "inevitability of"
      ],
      [
           "SN3.24",
-          "qualities of recipient",
-          "giving (dāna)"
+          "giving (dāna)",
+          "qualities of recipient"
      ],
      [
           "SN3.24",
-          "whom to give to",
-          "giving (dāna)"
+          "giving (dāna)",
+          "whom to give to"
      ],
      [
           "SN3.25",
-          "inevitability of",
-          "death (maraṇa)"
+          "death (maraṇa)",
+          "inevitability of"
      ],
      [
           "SN3.25",
-          "reason to make merit",
-          "death (maraṇa)"
+          "death (maraṇa)",
+          "reason to make merit"
      ],
      [
           "SN3.3",
-          "inevitability of",
-          "death (maraṇa)"
+          "death (maraṇa)",
+          "inevitability of"
      ],
      [
           "SN3.7",
-          "for the sake of gain",
-          "false speech"
+          "false speech",
+          "for the sake of gain"
      ],
      [
           "SN30.10–46",
-          "to gain rebirth",
-          "giving (dāna)"
+          "giving (dāna)",
+          "to gain rebirth"
      ],
      [
           "SN31.3–112",
-          "to gain rebirth",
-          "giving (dāna)"
+          "giving (dāna)",
+          "to gain rebirth"
      ],
      [
           "SN32.3–52",
-          "to gain rebirth",
-          "giving (dāna)"
+          "giving (dāna)",
+          "to gain rebirth"
      ],
      [
           "SN4.24",
-          "realm of death (maccudheyya)",
-          "death (maraṇa)"
+          "death (maraṇa)",
+          "realm of death (maccudheyya)"
      ],
      [
           "SN4.25",
-          "King of",
-          "death (maraṇa)"
+          "death (maraṇa)",
+          "King of"
      ],
      [
           "SN4.9",
-          "inevitability of",
-          "death (maraṇa)"
+          "death (maraṇa)",
+          "inevitability of"
      ],
      [
           "SN41.10",
-          "",
-          "giving (dāna)"
+          "giving (dāna)",
+          ""
      ],
      [
           "SN41.10",
-          "conversation uppon",
-          "deathbed"
+          "deathbed",
+          "conversation uppon"
      ],
      [
           "SN41.7",
-          "measureless liberation of mind",
-          "loving-kindness (mettā)"
+          "loving-kindness (mettā)",
+          "measureless liberation of mind"
      ],
      [
           "SN42.11",
-          "cause of grief",
-          "death (maraṇa)"
+          "death (maraṇa)",
+          "cause of grief"
      ],
      [
           "SN42.13",
-          "",
-          "loving-kindness (mettā)"
+          "loving-kindness (mettā)",
+          ""
      ],
      [
           "SN42.13",
-          "praised by some",
-          "false speech"
+          "false speech",
+          "praised by some"
      ],
      [
           "SN42.8",
-          "liberation of mind by",
-          "loving-kindness (mettā)"
+          "loving-kindness (mettā)",
+          "liberation of mind by"
      ],
      [
           "SN42.8",
-          "like a conch blower",
-          "loving-kindness (mettā)"
+          "loving-kindness (mettā)",
+          "like a conch blower"
      ],
      [
           "SN42.8",
-          "regret over",
-          "false speech"
+          "false speech",
+          "regret over"
      ],
      [
           "SN42.8",
-          "results of",
-          "false speech"
+          "false speech",
+          "results of"
      ],
      [
           "SN42.9",
-          "leads to wealth",
-          "giving (dāna)"
+          "giving (dāna)",
+          "leads to wealth"
      ],
      [
           "SN45.8",
-          "definition",
-          "right speech (sammāvācā)"
+          "right speech (sammā vācā)",
+          "definition"
      ],
      [
           "SN46.51",
-          "to abandon ill-will",
-          "loving-kindness (mettā)"
+          "loving-kindness (mettā)",
+          "to abandon ill-will"
      ],
      [
           "SN46.54",
-          "as accompanying enlightenment factor",
-          "loving-kindness (mettā)"
+          "loving-kindness (mettā)",
+          "as accompanying enlightenment factor"
      ],
      [
           "SN46.54",
-          "liberation of mind by",
-          "loving-kindness (mettā)"
+          "loving-kindness (mettā)",
+          "liberation of mind by"
      ],
      [
           "SN47.13",
-          "reaction to hearing about",
-          "death (maraṇa)"
+          "death (maraṇa)",
+          "reaction to hearing about"
      ],
      [
           "SN47.14",
-          "reaction to hearing about",
-          "death (maraṇa)"
+          "death (maraṇa)",
+          "reaction to hearing about"
      ],
      [
           "SN5.3",
-          "army of",
-          "death (maraṇa)"
+          "death (maraṇa)",
+          "army of"
      ],
      [
           "SN55.21",
-          "good",
-          "death (maraṇa)"
+          "death (maraṇa)",
+          "good"
      ],
      [
           "SN55.27",
-          "fear of",
-          "death (maraṇa)"
+          "death (maraṇa)",
+          "fear of"
      ],
      [
           "SN55.32",
-          "stream of merit",
-          "generosity (cāga)"
+          "generosity (cāga)",
+          "stream of merit"
      ],
      [
           "SN55.37",
-          "as an accomplishment",
-          "generosity (cāga)"
+          "generosity (cāga)",
+          "as an accomplishment"
      ],
      [
           "SN55.6",
-          "quality of stream-enterer",
-          "generosity (cāga)"
+          "generosity (cāga)",
+          "quality of stream-enterer"
      ],
      [
           "SN55.7",
-          "no one likes to be lied to",
-          "false speech"
+          "false speech",
+          "no one likes to be lied to"
      ],
      [
           "SN56.10",
-          "topics of discussion",
-          "speech"
+          "speech",
+          "topics of discussion"
      ],
      [
           "SN56.10",
-          "useless (tiracāna)",
-          "speech"
+          "speech",
+          "useless (tiracāna)"
      ],
      [
           "SN56.9",
-          "about Dhamma",
-          "disputes"
+          "disputes",
+          "about Dhamma"
      ],
      [
           "SN6.10",
-          "",
-          "criticizing noble ones"
+          "criticizing noble ones",
+          ""
      ],
      [
           "SN6.14",
-          "army of",
-          "death (maraṇa)"
+          "death (maraṇa)",
+          "army of"
      ],
      [
           "SN6.9",
-          "",
-          "criticizing noble ones"
+          "criticizing noble ones",
+          ""
      ],
      [
           "SN6.9",
-          "",
-          "defamation"
+          "defamation",
+          ""
      ],
      [
           "SN6.9",
-          "praise and dispraise",
-          "speech"
+          "speech",
+          "praise and dispraise"
      ],
      [
           "SN6.9",
-          "simile of axe",
-          "speech"
+          "speech",
+          "simile of axe"
      ],
      [
           "SN7.13",
-          "whom to give to",
-          "giving (dāna)"
+          "giving (dāna)",
+          "whom to give to"
      ],
      [
           "SN7.16",
-          "well spoken",
-          "speech"
+          "speech",
+          "well spoken"
      ],
      [
           "SN8.5",
-          "harmless",
-          "speech"
+          "speech",
+          "harmless"
      ],
      [
           "SN8.5",
-          "on Dhamma",
-          "speech"
+          "speech",
+          "on Dhamma"
      ],
      [
           "SN8.5",
-          "well spoken",
-          "speech"
+          "speech",
+          "well spoken"
      ],
      [
           "SN8.6",
-          "well spoken",
-          "speech"
+          "speech",
+          "well spoken"
      ],
      [
           "SN9.7",
-          "King of",
-          "death (maraṇa)"
+          "death (maraṇa)",
+          "King of"
      ],
      [
           "Snp.3.7",
-          "",
-          "marks of a great man"
+          "marks of a great man",
+          ""
      ],
      [
           "Snp.4.6",
-          "",
-          "old age"
+          "old age",
+          ""
      ],
      [
           "Snp.4.6",
-          "like dream gone when waking are the dead",
-          "death (maraṇa)"
+          "death (maraṇa)",
+          "like dream gone when waking are the dead"
      ],
      [
           "Snp.4.6",
-          "simile of water drop on lotus leaf",
-          "craving (taṇha)"
+          "craving (taṇha)",
+          "simile of water drop on lotus leaf"
      ],
      [
           "Snp.4.6",
-          "by another",
-          "purity (suddhi)"
-     ],
-     [
-          "Snp.4.7",
-          "by monastics",
-          "sexual activity"
+          "purity (suddhi)",
+          "by another"
      ],
      [
           "Snp.4.7",
           "sexual activity",
-          "monastics"
+          "by monastics"
      ],
      [
           "Snp.4.7",
-          "wrongly practiced",
-          "monastic life"
+          "monastics",
+          "sexual activity"
+     ],
+     [
+          "Snp.4.7",
+          "monastic life",
+          "wrongly practiced"
      ],
      [
           "Snp1.1",
-          "removing",
-          "anger (kodha)"
+          "anger (kodha)",
+          "removing"
      ],
      [
           "Snp1.1",
-          "simile of venom",
-          "anger (kodha)"
+          "anger (kodha)",
+          "simile of venom"
      ],
      [
           "Snp1.1",
-          "simile of plucked lotus",
-          "greed (rāga)"
+          "lust (rāga)",
+          "simile of plucked lotus"
      ],
      [
           "Snp1.1",
-          "simile of stream",
-          "craving (taṇha)"
+          "craving (taṇha)",
+          "simile of stream"
      ],
      [
           "Snp1.1",
-          "simile of flood",
-          "conceit (māna)"
+          "conceit (māna)",
+          "simile of flood"
      ],
      [
           "Snp1.1",
-          "simile of fig tree",
-          "essence (sāra)"
+          "essence (sāra)",
+          "simile of fig tree"
      ],
      [
           "Snp1.1",
-          "arahant is free from",
-          "anger (kodha)"
+          "anger (kodha)",
+          "arahant is free from"
      ],
      [
           "Snp1.1",
-          "simile of snake skin",
-          "arahant"
+          "arahant",
+          "simile of snake skin"
      ],
      [
           "Snp1.1",
-          "",
-          "proliferation (papañca)"
+          "proliferation (papañca)",
+          ""
      ],
      [
           "Snp1.1",
-          "life as",
-          "illusion"
+          "illusion",
+          "life as"
      ],
      [
           "Snp1.10",
-          "",
-          "yakkha"
+          "yakkha",
+          ""
      ],
      [
           "Snp1.10",
-          "asking questions",
-          "yakkha"
+          "yakkha",
+          "asking questions"
      ],
      [
           "Snp1.10",
-          "as best wealth",
-          "faith (saddhā)"
+          "faith (saddhā)",
+          "as best wealth"
      ],
      [
           "Snp1.10",
-          "as sweetest taste",
-          "truth"
+          "truth",
+          "as sweetest taste"
      ],
      [
           "Snp1.10",
-          "as means of crossing flood",
-          "faith (saddhā)"
+          "faith (saddhā)",
+          "as means of crossing flood"
      ],
      [
           "Snp1.10",
-          "as cause for good reputation",
-          "truthfulness"
+          "truthfulness",
+          "as cause for good reputation"
      ],
      [
           "Snp1.10",
-          "gained by truthfulness",
-          "reputation"
+          "reputation",
+          "gained by truthfulness"
      ],
      [
           "Snp1.10",
-          "gained by hard work",
-          "wealth"
+          "wealth",
+          "gained by hard work"
      ],
      [
           "Snp1.10",
-          "gained by giving",
-          "friendship"
+          "friendship",
+          "gained by giving"
      ],
      [
           "Snp1.10",
-          "friendship gained by",
-          "giving (dāna)"
+          "giving (dāna)",
+          "friendship gained by"
      ],
      [
           "Snp1.11",
-          "",
-          "perception of ugliness (asubhasañña)"
+          "perception of ugliness (asubhasañña)",
+          ""
      ],
      [
           "Snp1.11",
-          "",
-          "charnel ground contemplation (sivathika)"
+          "charnel ground contemplation (sivathika)",
+          ""
      ],
      [
           "Snp1.12",
-          "",
-          "sage (muni)"
+          "sage (muni)",
+          ""
      ],
      [
           "Snp1.12",
-          "",
-          "solitude"
+          "solitude",
+          ""
      ],
      [
           "Snp1.12",
-          "simile of peacock",
-          "lay life"
+          "lay life",
+          "simile of peacock"
      ],
      [
           "Snp1.12",
-          "simile of swan",
-          "monastic life"
+          "monastic life",
+          "simile of swan"
      ],
      [
           "Snp1.2",
-          "filled with duties",
-          "lay life"
+          "lay life",
+          "filled with duties"
      ],
      [
           "Snp1.2",
-          "attachments",
-          "lay life"
+          "lay life",
+          "attachments"
      ],
      [
           "Snp1.2",
-          "",
-          "monastic life"
+          "monastic life",
+          ""
      ],
      [
           "Snp1.2",
-          "",
-          "renunciation"
+          "renunciation",
+          ""
      ],
      [
           "Snp1.2",
-          "",
-          "work"
+          "work",
+          ""
      ],
      [
           "Snp1.2",
-          "attainments",
-          "Buddha, the"
+          "Buddha, the",
+          "attainments"
      ],
      [
           "Snp1.2",
-          "as source of sorrow",
-          "loved ones"
+          "loved ones",
+          "as source of sorrow"
      ],
      [
           "Snp1.3",
-          "better than association with fools",
-          "solitude"
+          "solitude",
+          "better than association with fools"
      ],
      [
           "Snp1.3",
-          "as source of sorrow",
-          "loved ones"
+          "loved ones",
+          "as source of sorrow"
      ],
      [
           "Snp1.3",
-          "simile of fallen leaves",
-          "renunciation"
+          "renunciation",
+          "simile of fallen leaves"
      ],
      [
           "Snp1.3",
-          "stick with good friend",
-          "friendship"
+          "friendship",
+          "stick with good friend"
      ],
      [
           "Snp1.3",
-          "equal or better",
-          "friendship"
+          "friendship",
+          "equal or better"
      ],
      [
           "Snp1.3",
-          "simile of bracelets",
-          "companionship"
+          "companionship",
+          "simile of bracelets"
      ],
      [
           "Snp1.3",
-          "free from",
-          "hope"
+          "hope",
+          "free from"
      ],
      [
           "Snp1.3",
-          "with wise",
-          "association"
+          "association",
+          "with wise"
      ],
      [
           "Snp1.3",
-          "with wicked",
-          "association"
+          "association",
+          "with wicked"
      ],
      [
           "Snp1.3",
-          "simile of fish in net",
-          "fetters (saṁyojana)"
+          "fetters (saṁyojana)",
+          "simile of fish in net"
      ],
      [
           "Snp1.3",
-          "",
-          "seclusion"
+          "seclusion",
+          ""
      ],
      [
           "Snp1.3",
-          "",
-          "brahmaviharas"
+          "brahmaviharas",
+          ""
      ],
      [
           "Snp1.4",
-          "",
-          "farming"
+          "farming",
+          ""
      ],
      [
           "Snp1.4",
-          "as seed",
-          "faith (saddhā)"
+          "faith (saddhā)",
+          "as seed"
      ],
      [
           "Snp1.4",
-          "as metaphor",
-          "farming"
+          "farming",
+          "as metaphor"
      ],
      [
           "Snp1.4",
-          "to the Buddha",
-          "giving (dāna)"
+          "giving (dāna)",
+          "to the Buddha"
      ],
      [
           "Snp1.5",
-          "wrongly practiced",
-          "monastic life"
+          "monastic life",
+          "wrongly practiced"
      ],
      [
           "Snp1.6",
-          "asking questions",
-          "gods"
+          "gods",
+          "asking questions"
      ],
      [
           "Snp1.6",
-          "",
-          "downfall (parābhava)"
+          "downfall (parābhava)",
+          ""
      ],
      [
           "Snp1.6",
-          "delight in",
-          "Dhamma"
+          "Dhamma",
+          "delight in"
      ],
      [
           "Snp1.6",
-          "being fond of",
-          "companionship"
+          "companionship",
+          "being fond of"
      ],
      [
           "Snp1.6",
-          "not caring for",
-          "parents"
+          "parents",
+          "not caring for"
      ],
      [
           "Snp1.6",
-          "",
-          "womanizer (itthidhuta)"
+          "womanizer (itthidhuta)",
+          ""
      ],
      [
           "Snp1.6",
-          "",
-          "gambling"
+          "gambling",
+          ""
      ],
      [
           "Snp1.6",
-          "",
-          "sexual misconduct"
+          "sexual misconduct",
+          ""
      ],
      [
           "Snp1.6",
-          "to a younger partner",
-          "marriage"
+          "marriage",
+          "to a younger partner"
      ],
      [
           "Snp1.6",
-          "",
-          "alcoholics"
+          "alcoholics",
+          ""
      ],
      [
           "Snp1.6",
-          "unrealistic",
-          "ambition"
+          "ambition",
+          "unrealistic"
      ],
      [
           "Snp1.7",
-          "definition",
-          "outcast (vasala)"
+          "outcast (vasala)",
+          "definition"
      ],
      [
           "Snp1.7",
-          "",
-          "fire worship (aggika)"
+          "fire worship (aggika)",
+          ""
      ],
      [
           "Snp1.7",
-          "avoidance of paying",
-          "debt"
+          "debt",
+          "avoidance of paying"
      ],
      [
           "Snp1.7",
-          "not caring for",
-          "parents"
+          "parents",
+          "not caring for"
      ],
      [
           "Snp1.7",
-          "not wanting to get caught",
-          "bad actions"
+          "bad actions",
+          "not wanting to get caught"
      ],
      [
           "Snp1.7",
-          "",
-          "false spiritual claims"
+          "false spiritual claims",
+          ""
      ],
      [
           "Snp1.7",
-          "not birth defines a person",
-          "actions (kamma)"
+          "actions (kamma)",
+          "not birth defines a person"
      ],
      [
           "Snp1.7",
-          "",
-          "caste"
+          "caste",
+          ""
      ],
      [
           "Snp1.7",
-          "",
-          "birth is not determinant"
+          "birth is not determinant",
+          ""
      ],
      [
           "Snp1.8",
-          "",
-          "loving-kindness (mettā)"
+          "loving-kindness (mettā)",
+          ""
      ],
      [
           "Snp1.9",
-          "",
-          "yakkha"
+          "yakkha",
+          ""
      ],
      [
           "Snp1.9",
-          "asking questions",
-          "yakkha"
+          "yakkha",
+          "asking questions"
      ],
      [
           "Snp1.9",
-          "qualities of",
-          "Buddha, the"
+          "Buddha, the",
+          "qualities of"
      ],
      [
           "Snp1.9",
-          "discard desire for",
-          "sense pleasures, five "
+          "sense pleasures, five ",
+          "discard desire for"
      ],
      [
           "Snp2.10",
-          "uselessness of",
-          "sleep"
+          "sleep",
+          "uselessness of"
      ],
      [
           "Snp2.10",
-          "as dust",
-          "heedlessness (pamāda)"
+          "heedlessness (pamāda)",
+          "as dust"
      ],
      [
           "Snp2.10",
-          "",
-          "energy"
+          "energy",
+          ""
      ],
      [
           "Snp2.11",
-          "",
-          "familiarity breeds contempt"
+          "familiarity breeds contempt",
+          ""
      ],
      [
           "Snp2.11",
-          "source of craving",
-          "requisites, four"
+          "requisites, four",
+          "source of craving"
      ],
      [
           "Snp2.11",
-          "advice for",
-          "monastic life"
+          "monastic life",
+          "advice for"
      ],
      [
           "Snp2.13",
-          "",
-          "sīlabbata-parāmāsa"
+          "sīlabbata-parāmāsa",
+          ""
      ],
      [
           "Snp2.13",
-          "advice for",
-          "monastic life"
+          "monastic life",
+          "advice for"
      ],
      [
           "Snp2.14",
-          "",
-          "alms gathering practice"
+          "alms gathering practice",
+          ""
      ],
      [
           "Snp2.14",
-          "using after reflecting",
-          "requisites, four"
+          "requisites, four",
+          "using after reflecting"
      ],
      [
           "Snp2.14",
-          "duty to support saṅgha",
-          "lay life"
+          "lay life",
+          "duty to support saṅgha"
      ],
      [
           "Snp2.14",
-          "advice for",
-          "monastic life"
+          "monastic life",
+          "advice for"
      ],
      [
           "Snp2.14",
-          "advice for",
-          "lay life"
+          "lay life",
+          "advice for"
      ],
      [
           "Snp2.14",
-          "lay practice",
-          "uposatha"
+          "uposatha",
+          "lay practice"
      ],
      [
           "Snp2.14",
-          "uposatha practice",
-          "lay life"
+          "lay life",
+          "uposatha practice"
      ],
      [
           "Snp2.2",
-          "",
-          "meat eating"
+          "meat eating",
+          ""
      ],
      [
           "Snp2.2",
-          "",
-          "bad actions"
+          "bad actions",
+          ""
      ],
      [
           "Snp2.2",
-          "",
-          "austerity"
+          "austerity",
+          ""
      ],
      [
           "Snp2.3",
-          "",
-          "conscience and prudence"
+          "conscience and prudence",
+          ""
      ],
      [
           "Snp2.3",
-          "",
-          "talking but not doing"
+          "talking but not doing",
+          ""
      ],
      [
           "Snp2.3",
-          "true and false friends",
-          "friendship"
+          "friendship",
+          "true and false friends"
      ],
      [
           "Snp2.4",
-          "as a blessing",
-          "giving (dāna)"
+          "giving (dāna)",
+          "as a blessing"
      ],
      [
           "Snp2.5",
-          "asking questions",
-          "yakkha"
+          "yakkha",
+          "asking questions"
      ],
      [
           "Snp2.5",
-          "",
-          "unwholesome roots"
+          "unwholesome roots",
+          ""
      ],
      [
           "Snp2.6",
-          "wrongly practiced",
-          "monastic life"
+          "monastic life",
+          "wrongly practiced"
      ],
      [
           "Snp2.6",
-          "with the wise",
-          "association"
-     ],
-     [
-          "Snp2.7",
-          "ancient traditions",
-          "brahmins"
+          "association",
+          "with the wise"
      ],
      [
           "Snp2.7",
           "brahmins",
-          "celibacy"
+          "ancient traditions"
      ],
      [
           "Snp2.7",
-          "",
-          "sacrifices (yañña)"
+          "celibacy",
+          "brahmins"
+     ],
+     [
+          "Snp2.7",
+          "sacrifices (yañña)",
+          ""
      ],
      [
           "Snp2.8",
-          "when not ready",
-          "Dhamma teaching"
+          "Dhamma teaching",
+          "when not ready"
      ],
      [
           "Snp2.8",
-          "with the wise",
-          "association"
+          "association",
+          "with the wise"
      ],
      [
           "Snp2.8",
-          "simile of boat",
-          "Dhamma teacher"
+          "Dhamma teacher",
+          "simile of boat"
      ],
      [
           "Snp2.8–9",
-          "your Dhamma teacher",
-          "honor"
+          "honor",
+          "your Dhamma teacher"
      ],
      [
           "Snp2.9",
-          "",
-          "listening to Dhamma"
+          "listening to Dhamma",
+          ""
      ],
      [
           "Snp2.9",
-          "delight in",
-          "Dhamma"
+          "Dhamma",
+          "delight in"
      ],
      [
           "Snp3.1",
-          "Gotama",
-          "Bodhisatta"
+          "Bodhisatta",
+          "Gotama"
      ],
      [
           "Snp3.10",
-          "",
-          "criticizing noble ones"
+          "criticizing noble ones",
+          ""
      ],
      [
           "Snp3.10",
-          "criticizes chief disciples",
-          "Kokālika"
+          "Kokālika",
+          "criticizes chief disciples"
      ],
      [
           "Snp3.10",
-          "reports Kokālika’s birth in hell",
-          "Sahampati Brahmā"
+          "Sahampati Brahmā",
+          "reports Kokālika’s birth in hell"
      ],
      [
           "Snp3.10",
-          "lifespan in",
-          "hell"
+          "hell",
+          "lifespan in"
      ],
      [
           "Snp3.10",
-          "like length of hell",
-          "mustard seeds, cartload"
+          "mustard seeds, cartload",
+          "like length of hell"
      ],
      [
           "Snp3.10",
-          "simile of axe",
-          "speech"
+          "speech",
+          "simile of axe"
      ],
      [
           "Snp3.10",
-          "simile of dust in wind",
-          "harming a good person"
+          "harming a good person",
+          "simile of dust in wind"
      ],
      [
           "Snp3.10",
-          "actions that lead to",
-          "hell"
+          "hell",
+          "actions that lead to"
      ],
      [
           "Snp3.10",
-          "life in",
-          "hell"
+          "hell",
+          "life in"
      ],
      [
           "Snp3.11",
-          "celebrating the Buddha’s birth",
-          "Tāvatiṁsa heaven"
+          "Tāvatiṁsa heaven",
+          "celebrating the Buddha’s birth"
      ],
      [
           "Snp3.11",
-          "meets Bodhisatta",
-          "Asita, hermit"
+          "Asita, hermit",
+          "meets Bodhisatta"
      ],
      [
           "Snp3.11",
-          "between devas and asuras",
-          "war"
+          "war",
+          "between devas and asuras"
      ],
      [
           "Snp3.11",
-          "birth of",
-          "Bodhisatta"
+          "Bodhisatta",
+          "birth of"
      ],
      [
           "Snp3.11",
-          "",
-          "Sudhodana, king"
+          "Sudhodana, king",
+          ""
      ],
      [
           "Snp3.11",
-          "",
-          "Nālaka, nephew of Asita"
+          "Nālaka, nephew of Asita",
+          ""
      ],
      [
           "Snp3.11",
-          "advice for",
-          "monastic life"
+          "monastic life",
+          "advice for"
      ],
      [
           "Snp3.11",
-          "like licking razor’s edge",
-          "monastic life"
+          "monastic life",
+          "like licking razor’s edge"
      ],
      [
           "Snp3.11",
-          "",
-          "knowing does not speak much"
+          "knowing does not speak much",
+          ""
      ],
      [
           "Snp3.12",
-          "real reason for",
-          "listening to Dhamma"
+          "listening to Dhamma",
+          "real reason for"
      ],
      [
           "Snp3.12",
-          "analysis",
-          "suffering"
+          "suffering",
+          "analysis"
      ],
      [
           "Snp3.12",
-          "through suffering",
-          "dependent origination"
+          "dependent origination",
+          "through suffering"
      ],
      [
           "Snp3.12",
-          "as partner",
-          "craving (taṇha)"
+          "craving (taṇha)",
+          "as partner"
      ],
      [
           "Snp3.12",
-          "",
-          "more peaceful"
+          "more peaceful",
+          ""
      ],
      [
           "Snp3.12",
-          "Dhamma as",
-          "against the stream"
+          "against the stream",
+          "Dhamma as"
      ],
      [
           "Snp3.12",
-          "more peaceful than form",
-          "formless (arūpā)"
+          "formless (arūpā)",
+          "more peaceful than form"
      ],
      [
           "Snp3.12",
-          "as suffering",
-          "happiness"
+          "happiness",
+          "as suffering"
      ],
      [
           "Snp3.2",
-          "Gotama",
-          "Bodhisatta"
+          "Bodhisatta",
+          "Gotama"
      ],
      [
           "Snp3.2",
-          "attacks the Buddha",
-          "Māra"
+          "Māra",
+          "attacks the Buddha"
      ],
      [
           "Snp3.2",
-          "army of",
-          "Māra"
+          "Māra",
+          "army of"
      ],
      [
           "Snp3.3",
-          "harmless",
-          "speech"
+          "speech",
+          "harmless"
      ],
      [
           "Snp3.3",
-          "on Dhamma",
-          "speech"
+          "speech",
+          "on Dhamma"
      ],
      [
           "Snp3.3",
-          "well spoken",
-          "speech"
+          "speech",
+          "well spoken"
      ],
      [
           "Snp3.3",
-          "well spoken",
-          "speech"
+          "speech",
+          "well spoken"
      ],
      [
           "Snp3.3",
-          "factors of well spoken",
-          "speech"
+          "speech",
+          "factors of well spoken"
      ],
      [
           "Snp3.3",
-          "as well spoken words",
-          "Dhamma teaching"
+          "Dhamma teaching",
+          "as well spoken words"
      ],
      [
           "Snp3.3",
-          "best kind of",
-          "speech"
+          "speech",
+          "best kind of"
      ],
      [
           "Snp3.4",
-          "",
-          "fire worship (aggika)"
+          "fire worship (aggika)",
+          ""
      ],
      [
           "Snp3.4",
-          "",
-          "sacrifices (yañña)"
+          "sacrifices (yañña)",
+          ""
      ],
      [
           "Snp3.4",
-          "",
-          "birth is not determinant"
+          "birth is not determinant",
+          ""
      ],
      [
           "Snp3.4",
-          "whom to give to",
-          "giving (dāna)"
+          "giving (dāna)",
+          "whom to give to"
      ],
      [
           "Snp3.4",
-          "not relying on",
-          "hope"
+          "hope",
+          "not relying on"
      ],
      [
           "Snp3.4",
-          "qualities of",
-          "Buddha, the"
+          "Buddha, the",
+          "qualities of"
      ],
      [
           "Snp3.4",
-          "worthy of gifts",
-          "giving (dāna)"
+          "giving (dāna)",
+          "worthy of gifts"
      ],
      [
           "Snp3.5",
-          "worthy of gifts",
-          "giving (dāna)"
+          "giving (dāna)",
+          "worthy of gifts"
      ],
      [
           "Snp3.5",
-          "whom to give to",
-          "giving (dāna)"
+          "giving (dāna)",
+          "whom to give to"
      ],
      [
           "Snp3.5",
-          "purifying",
-          "giving (dāna)"
+          "giving (dāna)",
+          "purifying"
      ],
      [
           "Snp3.5",
-          "how to be reborn in",
-          "brahmā world"
+          "brahmā world",
+          "how to be reborn in"
      ],
      [
           "Snp3.6",
-          "asking questions",
-          "gods"
+          "gods",
+          "asking questions"
      ],
      [
           "Snp3.6",
-          "young",
-          "mendicant"
+          "mendicant",
+          "young"
      ],
      [
           "Snp3.6",
-          "definition",
-          "mendicant"
+          "mendicant",
+          "definition"
      ],
      [
           "Snp3.6",
-          "qualities of",
-          "Buddha, the"
+          "Buddha, the",
+          "qualities of"
      ],
      [
           "Snp3.7",
-          "encouraging others to",
-          "giving (dāna)"
+          "giving (dāna)",
+          "encouraging others to"
      ],
      [
           "Snp3.7",
-          "hard to find in world",
-          "Buddha, the word"
+          "Buddha, the word",
+          "hard to find in world"
      ],
      [
           "Snp3.7",
-          "revealing themselves when praised",
-          "Buddhas"
+          "Buddhas",
+          "revealing themselves when praised"
      ],
      [
           "Snp3.7",
-          "king of Dhamma",
-          "Buddha, the"
+          "Buddha, the",
+          "king of Dhamma"
      ],
      [
           "Snp3.7",
-          "doctor",
-          "Buddha, the"
+          "Buddha, the",
+          "doctor"
      ],
      [
           "Snp3.7",
-          "rarity of",
-          "Buddhas"
+          "Buddhas",
+          "rarity of"
      ],
      [
           "Snp3.7",
-          "best recipient",
-          "Saṅgha"
+          "Saṅgha",
+          "best recipient"
      ],
      [
           "Snp3.7",
-          "qualities of",
-          "Buddha, the"
+          "Buddha, the",
+          "qualities of"
      ],
      [
           "Snp3.8",
-          "inevitability of",
-          "death (maraṇa)"
+          "death (maraṇa)",
+          "inevitability of"
      ],
      [
           "Snp3.8",
-          "overcome grief of",
-          "death (maraṇa)"
+          "death (maraṇa)",
+          "overcome grief of"
      ],
      [
           "Snp3.8",
-          "inevitability of",
-          "death (maraṇa)"
+          "death (maraṇa)",
+          "inevitability of"
      ],
      [
           "Snp3.8",
-          "like a pot",
-          "body"
+          "body",
+          "like a pot"
      ],
      [
           "Snp3.8",
-          "wise do not",
-          "grieving"
+          "grieving",
+          "wise do not"
      ],
      [
           "Snp3.8",
-          "uselessness of",
-          "grieving"
+          "grieving",
+          "uselessness of"
      ],
      [
           "Snp3.8",
-          "",
-          "illusion"
+          "illusion",
+          ""
      ],
      [
           "Snp3.9",
-          "true meaning of",
-          "brahmin"
+          "brahmin",
+          "true meaning of"
      ],
      [
           "Snp3.9",
-          "",
-          "birth is not determinant"
+          "birth is not determinant",
+          ""
      ],
      [
           "Snp3.9",
-          "only conventional designation",
-          "caste"
+          "caste",
+          "only conventional designation"
      ],
      [
           "Snp3.9",
-          "not birth defines a person",
-          "actions (kamma)"
+          "actions (kamma)",
+          "not birth defines a person"
      ],
      [
           "Snp4.1",
-          "",
-          "sense pleasures"
+          "sense pleasures",
+          ""
      ],
      [
           "Snp4.1",
-          "to be avoided like snake head",
-          "sense pleasures"
+          "sense pleasures",
+          "to be avoided like snake head"
      ],
      [
           "Snp4.1",
-          "like a leaky boat",
-          "suffering"
+          "suffering",
+          "like a leaky boat"
      ],
      [
           "Snp4.1",
-          "simile for escaping saṁsara",
-          "boat, bailed out"
+          "boat, bailed out",
+          "simile for escaping saṁsara"
      ],
      [
           "Snp4.10",
-          "let go of",
-          "past, present future"
+          "past, present future",
+          "let go of"
      ],
      [
           "Snp4.10",
-          "rightly practiced",
-          "monastic life"
+          "monastic life",
+          "rightly practiced"
      ],
      [
           "Snp4.11",
-          "cause of",
-          "disputes"
+          "disputes",
+          "cause of"
      ],
      [
           "Snp4.11",
-          "variations on",
-          "dependent origination"
+          "dependent origination",
+          "variations on"
      ],
      [
           "Snp4.12",
-          "over views",
-          "disputes"
+          "disputes",
+          "over views"
      ],
      [
           "Snp4.12",
-          "here alone is",
-          "purity (suddhi)"
+          "purity (suddhi)",
+          "here alone is"
      ],
      [
           "Snp4.13",
-          "over views",
-          "disputes"
+          "disputes",
+          "over views"
      ],
      [
           "Snp4.14",
-          "like  deep ocean is still",
-          "peaceful person"
+          "peaceful person",
+          "like  deep ocean is still"
      ],
      [
           "Snp4.14",
-          "rightly practiced",
-          "monastic life"
+          "monastic life",
+          "rightly practiced"
      ],
      [
           "Snp4.14",
-          "wrong livelihood",
-          "monastic life"
+          "monastic life",
+          "wrong livelihood"
      ],
      [
           "Snp4.14",
-          "virtuous do not",
-          "retaliation"
+          "retaliation",
+          "virtuous do not"
      ],
      [
           "Snp4.15",
-          "like a flood",
-          "greed"
+          "greed",
+          "like a flood"
      ],
      [
           "Snp4.15",
-          "let go of",
-          "past, present future"
+          "past, present future",
+          "let go of"
      ],
      [
           "Snp4.16",
-          "as inquirer",
-          "Sāriputta, Ven."
+          "Sāriputta, Ven.",
+          "as inquirer"
      ],
      [
           "Snp4.16",
-          "advice for",
-          "monastic life"
+          "monastic life",
+          "advice for"
      ],
      [
           "Snp4.2",
-          "of the past and future",
-          "sense pleasures"
+          "sense pleasures",
+          "of the past and future"
      ],
      [
           "Snp4.2",
-          "like fish in dried-up stream",
-          "attachment"
+          "attachment",
+          "like fish in dried-up stream"
      ],
      [
           "Snp4.3",
-          "",
-          "boasting"
+          "boasting",
+          ""
      ],
      [
           "Snp4.3",
-          "about Dhamma",
-          "disputes"
+          "disputes",
+          "about Dhamma"
      ],
      [
           "Snp4.4",
-          "",
-          "purity (suddhi)"
+          "purity (suddhi)",
+          ""
      ],
      [
           "Snp4.5",
-          "about Dhamma",
-          "disputes"
+          "disputes",
+          "about Dhamma"
      ],
      [
           "Snp4.5",
-          "wrong views",
-          "conceit (māna)"
+          "conceit (māna)",
+          "wrong views"
      ],
      [
           "Snp4.8",
-          "over views",
-          "disputes"
+          "disputes",
+          "over views"
      ],
      [
           "Snp4.8",
-          "exclusivity of",
-          "truth"
+          "truth",
+          "exclusivity of"
      ],
      [
           "Snp4.9",
-          "father of Māgaṇḍiyā",
-          "Māgaṇḍiya"
+          "Māgaṇḍiya",
+          "father of Māgaṇḍiyā"
      ],
      [
           "Snp4.9",
-          "daughter of Māgaṇḍiya",
-          "Māgaṇḍiyā"
+          "Māgaṇḍiyā",
+          "daughter of Māgaṇḍiya"
      ],
      [
           "Snp4.9",
-          "wrong views",
-          "conceit (māna)"
+          "conceit (māna)",
+          "wrong views"
      ],
      [
           "Snp4.9",
-          "over views",
-          "disputes"
+          "disputes",
+          "over views"
      ],
      [
           "Snp5.1",
-          "",
-          "Bāvari, ascetic"
+          "Bāvari, ascetic",
+          ""
      ],
      [
           "Snp5.1",
-          "",
-          "marks of a great man"
+          "marks of a great man",
+          ""
      ],
      [
           "Snp5.1",
-          "",
-          "head-splitting"
+          "head-splitting",
+          ""
      ],
      [
           "Snp5.10",
-          "free from",
-          "hope"
+          "hope",
+          "free from"
      ],
      [
           "Snp5.12",
-          "as sanctuary",
-          "renunciation"
+          "renunciation",
+          "as sanctuary"
      ],
      [
           "Snp5.19",
-          "committed to faith",
-          "Vakkali, Ven"
+          "Vakkali, Ven",
+          "committed to faith"
      ],
      [
           "Snp5.2",
-          "",
-          "name and form"
+          "name and form",
+          ""
      ],
      [
           "Snp5.4",
-          "",
-          "sacrifices (yañña)"
+          "sacrifices (yañña)",
+          ""
      ],
      [
           "Snp5.5",
-          "cause of",
-          "suffering"
+          "suffering",
+          "cause of"
      ],
      [
           "Snp5.5",
-          "free from",
-          "hope"
+          "hope",
+          "free from"
      ],
      [
           "Snp5.6",
-          "cannot release someone",
-          "Buddha, the"
+          "Buddha, the",
+          "cannot release someone"
      ],
      [
           "Snp5.7",
-          "",
-          "perception of nothingness (natthi)"
+          "perception of nothingness (natthi)",
+          ""
      ],
      [
           "Snp5.7",
-          "like a flame blown out",
-          "arahant"
+          "arahant",
+          "like a flame blown out"
      ],
      [
           "Snp5.7",
-          "existing after death",
-          "arahant"
+          "arahant",
+          "existing after death"
      ],
      [
           "Snp5.8",
-          "definition",
-          "sage (muni)"
+          "sage (muni)",
+          "definition"
      ],
      [
           "Snp5.8",
-          "in terms of vows",
-          "purity (suddhi)"
+          "purity (suddhi)",
+          "in terms of vows"
      ],
      [
           "Thag1.101",
-          "wrongly practiced",
-          "monastic life"
+          "monastic life",
+          "wrongly practiced"
      ],
      [
           "Thag1.105",
-          "leaving one not good for practice",
-          "dwellings"
+          "dwellings",
+          "leaving one not good for practice"
      ],
      [
           "Thag1.108",
-          "old age",
-          "going forth (pabbajja)"
-     ],
-     [
-          "Thag1.111",
-          "difficulty of",
-          "monastic life"
-     ],
-     [
-          "Thag1.111",
-          "difficult",
-          "lay life"
-     ],
-     [
-          "Thag1.113",
-          "as pleasing",
-          "nature"
-     ],
-     [
-          "Thag1.114",
-          "wrongly practiced",
-          "monastic life"
-     ],
-     [
-          "Thag1.117",
-          "becoming while a lay person",
-          "arahant"
-     ],
-     [
-          "Thag1.118",
-          "body in",
+          "going forth (pabbajja)",
           "old age"
      ],
      [
+          "Thag1.111",
+          "monastic life",
+          "difficulty of"
+     ],
+     [
+          "Thag1.111",
+          "lay life",
+          "difficult"
+     ],
+     [
+          "Thag1.113",
+          "nature",
+          "as pleasing"
+     ],
+     [
+          "Thag1.114",
+          "monastic life",
+          "wrongly practiced"
+     ],
+     [
+          "Thag1.117",
+          "arahant",
+          "becoming while a lay person"
+     ],
+     [
+          "Thag1.118",
+          "old age",
+          "body in"
+     ],
+     [
           "Thag1.13",
-          "as pleasing",
-          "nature"
+          "nature",
+          "as pleasing"
      ],
      [
           "Thag1.16",
-          "days pass peacefully",
-          "arahant"
+          "arahant",
+          "days pass peacefully"
      ],
      [
           "Thag1.17",
-          "fondness for",
-          "sleep"
+          "sleep",
+          "fondness for"
      ],
      [
           "Thag1.18",
-          "",
-          "perception of skeleton (aṭṭhisaññāya)"
+          "perception of skeleton (aṭṭhisaññāya)",
+          ""
      ],
      [
           "Thag1.19",
-          "simile of arrow maker",
-          "self taming"
+          "self taming",
+          "simile of arrow maker"
      ],
      [
           "Thag1.19",
-          "simile of irrigator",
-          "self taming"
+          "self taming",
+          "simile of irrigator"
      ],
      [
           "Thag1.19",
-          "simile of carpenter",
-          "self taming"
+          "self taming",
+          "simile of carpenter"
      ],
      [
           "Thag1.19",
-          "mind like a",
-          "cat-skin bag"
+          "cat-skin bag",
+          "mind like a"
      ],
      [
           "Thag1.19",
-          "to a meditation object like elephant to post",
-          "mind"
+          "mind",
+          "to a meditation object like elephant to post"
      ],
      [
           "Thag1.20",
-          "no fear of",
-          "death (maraṇa)"
+          "death (maraṇa)",
+          "no fear of"
      ],
      [
           "Thag1.21",
-          "no fear of",
-          "fear"
+          "fear",
+          "no fear of"
      ],
      [
           "Thag1.22",
-          "peacocks causing",
-          "waking up"
+          "waking up",
+          "peacocks causing"
      ],
      [
           "Thag1.23",
-          "mindfully",
-          "eating"
+          "eating",
+          "mindfully"
      ],
      [
           "Thag1.3",
-          "excellence is like fire blazing",
-          "Buddha, the"
+          "Buddha, the",
+          "excellence is like fire blazing"
      ],
      [
           "Thag1.30",
-          "mindfulness and",
-          "sickness"
+          "sickness",
+          "mindfulness and"
      ],
      [
           "Thag1.31",
-          "enduring like elephant at head of battle",
-          "insects"
+          "insects",
+          "enduring like elephant at head of battle"
      ],
      [
           "Thag1.33",
-          "towards all as a mother towards child",
-          "skillfulness"
+          "skillfulness",
+          "towards all as a mother towards child"
      ],
      [
           "Thag1.34",
-          "avoiding women",
-          "monastic life"
+          "monastic life",
+          "avoiding women"
      ],
      [
           "Thag1.36",
-          "rightly practiced",
-          "monastic life"
+          "monastic life",
+          "rightly practiced"
      ],
      [
           "Thag1.37",
-          "",
-          "travel"
+          "travel",
+          ""
      ],
      [
           "Thag1.38",
-          "",
-          "psychic powers"
+          "psychic powers",
+          ""
      ],
      [
           "Thag1.38",
-          "praised by gods",
-          "arahant"
+          "arahant",
+          "praised by gods"
      ],
      [
           "Thag1.39",
-          "",
-          "urgency (saṁvega)"
+          "urgency (saṁvega)",
+          ""
      ],
      [
           "Thag1.39",
-          "like ones head on fire",
-          "urgency (saṁvega)"
+          "urgency (saṁvega)",
+          "like ones head on fire"
      ],
      [
           "Thag1.4",
-          "with the wise",
-          "association"
+          "association",
+          "with the wise"
      ],
      [
           "Thag1.40",
-          "like ones head on fire",
-          "urgency (saṁvega)"
+          "urgency (saṁvega)",
+          "like ones head on fire"
      ],
      [
           "Thag1.43",
-          "giving up",
-          "farming"
+          "farming",
+          "giving up"
      ],
      [
           "Thag1.45",
-          "recovering like thoroughbred",
-          "mistakes"
+          "mistakes",
+          "recovering like thoroughbred"
      ],
      [
           "Thag1.46",
-          "out of faith",
-          "going forth (pabbajja)"
+          "going forth (pabbajja)",
+          "out of faith"
      ],
      [
           "Thag1.49",
-          "",
-          "devoted to oneness (ekattanirata)"
+          "devoted to oneness (ekattanirata)",
+          ""
      ],
      [
           "Thag1.54",
-          "",
-          "without a partner (adutio)"
+          "without a partner (adutio)",
+          ""
      ],
      [
           "Thag1.56",
-          "",
-          "kutis"
+          "kutis",
+          ""
      ],
      [
           "Thag1.57",
-          "",
-          "kutis"
+          "kutis",
+          ""
      ],
      [
           "Thag1.61",
-          "can identify fools and wise",
-          "wise people"
+          "wise people",
+          "can identify fools and wise"
      ],
      [
           "Thag1.62",
-          "people envy",
-          "monastics"
+          "monastics",
+          "people envy"
      ],
      [
           "Thag1.63",
-          "",
-          "happiness through happiness"
+          "happiness through happiness",
+          ""
      ],
      [
           "Thag1.64",
-          "removed with conceit",
-          "conceit (māna)"
+          "conceit (māna)",
+          "removed with conceit"
      ],
      [
           "Thag1.65",
-          "to householders",
-          "Dhamma teaching"
+          "Dhamma teaching",
+          "to householders"
      ],
      [
           "Thag1.7",
-          "army of pushed away like flood ",
-          "Māra"
+          "Māra",
+          "army of pushed away like flood "
      ],
      [
           "Thag1.70",
-          "higher than virtue",
-          "wisdom"
+          "wisdom",
+          "higher than virtue"
      ],
      [
           "Thag1.73",
-          "",
-          "divine messengers"
+          "divine messengers",
+          ""
      ],
      [
           "Thag1.75",
-          "with good people",
-          "association"
+          "association",
+          "with good people"
      ],
      [
           "Thag1.77",
-          "training like elephant trainer does",
-          "mind"
+          "mind",
+          "training like elephant trainer does"
      ],
      [
           "Thag1.84",
-          "fondness for",
-          "sleep"
+          "sleep",
+          "fondness for"
      ],
      [
           "Thag1.84",
-          "",
-          "socializing"
+          "socializing",
+          ""
      ],
      [
           "Thag1.86",
-          "openhanded",
-          "Buddha, the"
+          "Buddha, the",
+          "openhanded"
      ],
      [
           "Thag1.90",
-          "remaining after enlightenment",
-          "aggregates"
+          "aggregates",
+          "remaining after enlightenment"
      ],
      [
           "Thag1.91",
-          "as sweetest taste",
-          "Dhamma"
+          "Dhamma",
+          "as sweetest taste"
      ],
      [
           "Thag1.92",
-          "attachment to",
-          "food"
+          "food",
+          "attachment to"
      ],
      [
           "Thag1.93",
-          "suffering in",
-          "sense pleasures"
+          "sense pleasures",
+          "suffering in"
      ],
      [
           "Thag1.95",
-          "with wicked",
-          "association"
+          "association",
+          "with wicked"
      ],
      [
           "Thag1.96",
-          "small amount gives big results",
-          "offerings"
+          "offerings",
+          "small amount gives big results"
      ],
      [
           "Thag1.97",
-          "",
-          "bowl"
+          "bowl",
+          ""
      ],
      [
           "Thag10.1",
-          "for success",
-          "hope"
+          "hope",
+          "for success"
      ],
      [
           "Thag10.1",
-          "benefited by arahant relative",
-          "family"
+          "family",
+          "benefited by arahant relative"
      ],
      [
           "Thag10.1",
-          "",
-          "Suddhodana, king"
+          "Suddhodana, king",
+          ""
      ],
      [
           "Thag10.1",
-          "",
-          "Māyā, queen Mahā"
+          "Māyā, queen Mahā",
+          ""
      ],
      [
           "Thag10.1",
-          "delight in",
-          "solitude"
+          "solitude",
+          "delight in"
      ],
      [
           "Thag10.3",
-          "",
-          "mindfulness of breathing"
+          "mindfulness of breathing",
+          ""
      ],
      [
           "Thag10.3",
-          "makes enemies rejoice",
-          "grieving"
+          "grieving",
+          "makes enemies rejoice"
      ],
      [
           "Thag10.4",
-          "",
-          "slow spiritual progress"
+          "slow spiritual progress",
+          ""
      ],
      [
           "Thag10.4",
-          "not getting results for a long time",
-          "monastic life"
+          "monastic life",
+          "not getting results for a long time"
      ],
      [
           "Thag10.4",
-          "meditation on",
-          "cloth, clean"
+          "cloth, clean",
+          "meditation on"
      ],
      [
           "Thag10.5",
-          "",
-          "perception of ugliness (asubhasañña)"
+          "perception of ugliness (asubhasañña)",
+          ""
      ],
      [
           "Thag10.5",
-          "shun body like snake smeared with dung",
-          "perception of ugliness (asubhasañña)"
+          "perception of ugliness (asubhasañña)",
+          "shun body like snake smeared with dung"
      ],
      [
           "Thag10.6",
-          "suitable",
-          "dwellings"
+          "dwellings",
+          "suitable"
      ],
      [
           "Thag10.6",
-          "",
-          "pretending to be stupid"
+          "pretending to be stupid",
+          ""
      ],
      [
           "Thag10.6",
-          "advice for",
-          "monastic life"
+          "monastic life",
+          "advice for"
      ],
      [
           "Thag10.6",
-          "before enlightenment",
-          "overconfidence"
+          "overconfidence",
+          "before enlightenment"
      ],
      [
           "Thag10.6",
-          "with four requisites",
-          "contentment"
+          "contentment",
+          "with four requisites"
      ],
      [
           "Thag10.7",
-          "suitable",
-          "dwellings"
+          "dwellings",
+          "suitable"
      ],
      [
           "Thag10.7",
-          "advice for",
-          "monastic life"
+          "monastic life",
+          "advice for"
      ],
      [
           "Thag12.1",
-          "leading to heaven",
-          "virtue"
+          "virtue",
+          "leading to heaven"
      ],
      [
           "Thag12.1",
-          "leading to happiness",
-          "virtue"
+          "virtue",
+          "leading to happiness"
      ],
      [
           "Thag12.1",
-          "",
-          "virtue"
+          "virtue",
+          ""
      ],
      [
           "Thag12.1",
-          "higher than virtue",
-          "wisdom"
+          "wisdom",
+          "higher than virtue"
      ],
      [
           "Thag12.2",
-          "low caste monk",
-          "caste"
+          "caste",
+          "low caste monk"
      ],
      [
           "Thag12.2",
-          "",
-          "“come, monk” ordination (ehi bhikkhu)"
+          "“come, monk” ordination (ehi bhikkhu)",
+          ""
      ],
      [
           "Thag13.1",
-          "like a well tuned lute",
-          "energy"
+          "energy",
+          "like a well tuned lute"
      ],
      [
           "Thag14.1",
-          "limitless",
-          "loving-kindness (mettā)"
+          "loving-kindness (mettā)",
+          "limitless"
      ],
      [
           "Thag14.2",
-          "",
-          "worldly conditions"
+          "worldly conditions",
+          ""
      ],
      [
           "Thag14.2",
-          "illegitimate",
-          "gain"
+          "gain",
+          "illegitimate"
      ],
      [
           "Thag14.2",
-          "of the unintelligent",
-          "fame"
+          "fame",
+          "of the unintelligent"
      ],
      [
           "Thag14.2",
-          "by fools",
-          "praise"
+          "praise",
+          "by fools"
      ],
      [
           "Thag14.2",
-          "suffering of",
-          "seclusion"
+          "seclusion",
+          "suffering of"
      ],
      [
           "Thag15.1",
-          "full of flavor (mahārassa)",
-          "Dhamma"
+          "Dhamma",
+          "full of flavor (mahārassa)"
      ],
      [
           "Thag15.2",
-          "as nāga",
-          "Buddha, the"
+          "Buddha, the",
+          "as nāga"
      ],
      [
           "Thag16.1",
-          "fear of",
-          "death (maraṇa)"
+          "death (maraṇa)",
+          "fear of"
      ],
      [
           "Thag16.1",
-          "without fear",
-          "death (maraṇa)"
+          "death (maraṇa)",
+          "without fear"
      ],
      [
           "Thag16.10",
-          "wrongly practiced in the future",
-          "monastic life"
+          "monastic life",
+          "wrongly practiced in the future"
      ],
      [
           "Thag16.10",
-          "decline of in future",
-          "Saṅgha"
+          "Saṅgha",
+          "decline of in future"
      ],
      [
           "Thag16.10",
-          "gone",
-          "senior monastics"
+          "senior monastics",
+          "gone"
      ],
      [
           "Thag16.10",
-          "over views",
-          "disputes"
+          "disputes",
+          "over views"
      ],
      [
           "Thag16.10",
-          "giving material things to lay people",
-          "monastics"
+          "monastics",
+          "giving material things to lay people"
      ],
      [
           "Thag16.10",
-          "like walking shoeless on thorny path",
-          "sense restraint"
+          "sense restraint",
+          "like walking shoeless on thorny path"
      ],
      [
           "Thag16.2",
-          "",
-          "sense restraint"
+          "sense restraint",
+          ""
      ],
      [
           "Thag16.2",
-          "knocking out faculties with faculties",
-          "faculties (indriya)"
+          "faculties (indriya)",
+          "knocking out faculties with faculties"
      ],
      [
           "Thag16.3",
-          "",
-          "slow spiritual progress"
+          "slow spiritual progress",
+          ""
      ],
      [
           "Thag16.3",
-          "",
-          "doubt"
+          "doubt",
+          ""
      ],
      [
           "Thag16.3",
-          "as doctor",
-          "Buddha, the"
+          "Buddha, the",
+          "as doctor"
      ],
      [
           "Thag16.4",
-          "",
-          "perception of ugliness (asubhasañña)"
+          "perception of ugliness (asubhasañña)",
+          ""
      ],
      [
           "Thag16.4",
-          "not giving",
-          "wealthy people"
+          "wealthy people",
+          "not giving"
      ],
      [
           "Thag16.4",
-          "unsatisfied",
-          "greed"
+          "greed",
+          "unsatisfied"
      ],
      [
           "Thag16.4",
-          "",
-          "grieving"
+          "grieving",
+          ""
      ],
      [
           "Thag16.4",
-          "left behind after death",
-          "wealth"
+          "wealth",
+          "left behind after death"
      ],
      [
           "Thag16.4",
-          "superior to wealth",
-          "wisdom"
+          "wisdom",
+          "superior to wealth"
      ],
      [
           "Thag16.4",
-          "like thief caught and punished",
-          "results of actions"
+          "results of actions",
+          "like thief caught and punished"
      ],
      [
           "Thag16.4",
-          "appearing in disguise",
-          "sensual pleasures"
+          "sensual pleasures",
+          "appearing in disguise"
      ],
      [
           "Thag16.4",
-          "like fruit falling from tree",
-          "death"
+          "death",
+          "like fruit falling from tree"
      ],
      [
           "Thag16.4",
-          "out of faith",
-          "going forth (pabbajja)"
+          "going forth (pabbajja)",
+          "out of faith"
      ],
      [
           "Thag16.5",
-          "clinging",
-          "sense contact"
+          "sense contact",
+          "clinging"
      ],
      [
           "Thag16.5",
-          "mindfulness ",
-          "sense contact"
+          "sense contact",
+          "mindfulness "
      ],
      [
           "Thag16.5",
-          "appearing on the Buddha",
-          "marks of a great man"
+          "marks of a great man",
+          "appearing on the Buddha"
      ],
      [
           "Thag16.5",
-          "king of Dhamma",
-          "Buddha, the"
+          "Buddha, the",
+          "king of Dhamma"
      ],
      [
           "Thag16.6",
-          "",
-          "general of the Dhamma (senāpati)"
+          "general of the Dhamma (senāpati)",
+          ""
      ],
      [
           "Thag16.7",
-          "with requisites",
-          "contentment"
+          "contentment",
+          "with requisites"
      ],
      [
           "Thag16.7",
-          "",
-          "ascetic practices (dhutaṅga)"
+          "ascetic practices (dhutaṅga)",
+          ""
      ],
      [
           "Thag16.7",
-          "",
-          "meditation (jhāyati)"
+          "meditation (jhāyati)",
+          ""
      ],
      [
           "Thag16.7",
-          "giving up valuable",
-          "bowl"
+          "bowl",
+          "giving up valuable"
      ],
      [
           "Thag16.8",
-          "like moon freed from clouds",
-          "heedfulness (appamāda)"
+          "heedfulness (appamāda)",
+          "like moon freed from clouds"
      ],
      [
           "Thag16.8",
-          "wishing for them to hear Dhamma",
-          "enemies"
+          "enemies",
+          "wishing for them to hear Dhamma"
      ],
      [
           "Thag16.9",
-          "",
-          "rag-robe wearing"
+          "rag-robe wearing",
+          ""
      ],
      [
           "Thag16.9",
-          "",
-          "few wishes (appiccha)"
+          "few wishes (appiccha)",
+          ""
      ],
      [
           "Thag16.9",
-          "",
-          "mind-made body (manomayena kāya)"
+          "mind-made body (manomayena kāya)",
+          ""
      ],
      [
           "Thag16.9",
-          "lying down to sleep",
-          "ascetic practices (dhutaṅga)"
+          "ascetic practices (dhutaṅga)",
+          "lying down to sleep"
      ],
      [
           "Thag16.9",
-          "",
-          "divine eye (dibbacakkhu)"
+          "divine eye (dibbacakkhu)",
+          ""
      ],
      [
           "Thag16.9",
-          "",
-          "past lives, knowledge of (pubbenivāsānussatiñāna)"
+          "past lives, knowledge of (pubbenivāsānussatiñāna)",
+          ""
      ],
      [
           "Thag17.1",
-          "decline of in future",
-          "Dhamma"
+          "Dhamma",
+          "decline of in future"
      ],
      [
           "Thag17.1",
-          "wrongly practiced in the future",
-          "monastic life"
+          "monastic life",
+          "wrongly practiced in the future"
      ],
      [
           "Thag17.1",
-          "not worthy of",
-          "robes"
+          "robes",
+          "not worthy of"
      ],
      [
           "Thag17.1",
-          "as sanctuary",
-          "heedfulness (appamāda)"
+          "heedfulness (appamāda)",
+          "as sanctuary"
      ],
      [
           "Thag17.2",
-          "restraint",
-          "eating"
+          "eating",
+          "restraint"
      ],
      [
           "Thag17.2",
-          "as suffering",
-          "happiness"
+          "happiness",
+          "as suffering"
      ],
      [
           "Thag17.2",
-          "giving up",
-          "proliferation (papañca)"
+          "proliferation (papañca)",
+          "giving up"
      ],
      [
           "Thag17.2",
-          "residence of",
-          "arahants"
+          "arahants",
+          "residence of"
      ],
      [
           "Thag17.2",
-          "like guide to hidden treasuer",
-          "admonishment"
+          "admonishment",
+          "like guide to hidden treasuer"
      ],
      [
           "Thag17.2",
-          "not required for arahant",
-          "psychic powers"
+          "psychic powers",
+          "not required for arahant"
      ],
      [
           "Thag17.2",
-          "",
-          "noble silence"
+          "noble silence",
+          ""
      ],
      [
           "Thag17.2",
-          "guarded like a citadel",
-          "mind"
+          "mind",
+          "guarded like a citadel"
      ],
      [
           "Thag17.2",
-          "becoming good",
-          "bad people"
+          "bad people",
+          "becoming good"
      ],
      [
           "Thag17.2",
-          "becoming bad",
-          "good people"
+          "good people",
+          "becoming bad"
      ],
      [
           "Thag17.3",
-          "with good people",
-          "association"
+          "association",
+          "with good people"
      ],
      [
           "Thag17.3",
-          "84,000 teachings",
-          "learning"
+          "learning",
+          "84,000 teachings"
      ],
      [
           "Thag17.3",
-          "like an ox is a person with little learning",
-          "learning"
+          "learning",
+          "like an ox is a person with little learning"
      ],
      [
           "Thag17.3",
-          "because of learning",
-          "arrogance"
+          "arrogance",
+          "because of learning"
      ],
      [
           "Thag17.3",
-          "arrogance because of",
-          "learning"
+          "learning",
+          "arrogance because of"
      ],
      [
           "Thag17.3",
-          "without practicing",
-          "learning"
+          "learning",
+          "without practicing"
      ],
      [
           "Thag17.3",
-          "with learned people",
-          "friendship"
+          "friendship",
+          "with learned people"
      ],
      [
           "Thag17.3",
-          "of the Buddha",
-          "attendant"
+          "attendant",
+          "of the Buddha"
      ],
      [
           "Thag18.1",
-          "like a bog",
-          "honor"
+          "honor",
+          "like a bog"
      ],
      [
           "Thag18.1",
-          "contentment with",
-          "requisites, four"
+          "requisites, four",
+          "contentment with"
      ],
      [
           "Thag18.1",
-          "as pleasing",
-          "nature"
+          "nature",
+          "as pleasing"
      ],
      [
           "Thag18.1",
-          "for spiritual companions",
-          "respect"
+          "respect",
+          "for spiritual companions"
      ],
      [
           "Thag18.1",
-          "",
-          "conceit (māna)"
+          "conceit (māna)",
+          ""
      ],
      [
           "Thag18.1",
-          "like monkey in lion skin not worthy of",
-          "robes"
+          "robes",
+          "like monkey in lion skin not worthy of"
      ],
      [
           "Thag18.1",
-          "praised by gods",
-          "arahants"
+          "arahants",
+          "praised by gods"
      ],
      [
           "Thag19.1",
-          "desire for",
-          "seclusion"
+          "seclusion",
+          "desire for"
      ],
      [
           "Thag19.1",
-          "",
-          "urgency (saṁvega)"
+          "urgency (saṁvega)",
+          ""
      ],
      [
           "Thag19.1",
-          "like a monkey",
-          "mind"
+          "mind",
+          "like a monkey"
      ],
      [
           "Thag19.1",
-          "to oneself",
-          "encouragement"
+          "encouragement",
+          "to oneself"
      ],
      [
           "Thag19.1",
-          "",
-          "doubt"
+          "doubt",
+          ""
      ],
      [
           "Thag19.1",
-          "like a traveller",
-          "mind"
+          "mind",
+          "like a traveller"
      ],
      [
           "Thag19.1",
-          "giving up like vomiting",
-          "sensual pleasures"
+          "sensual pleasures",
+          "giving up like vomiting"
      ],
      [
           "Thag19.1",
-          "mind causing",
-          "rebirth"
+          "rebirth",
+          "mind causing"
      ],
      [
           "Thag2.10",
-          "",
-          "external qualities"
+          "external qualities",
+          ""
      ],
      [
           "Thag2.11",
-          "eagerness to",
-          "learning"
+          "learning",
+          "eagerness to"
      ],
      [
           "Thag2.11",
-          "living with the Saṅgha",
-          "monastic life"
+          "monastic life",
+          "living with the Saṅgha"
      ],
      [
           "Thag2.13",
-          "shortness of",
-          "life"
+          "life",
+          "shortness of"
      ],
      [
           "Thag2.14",
-          "with good people",
-          "association"
+          "association",
+          "with good people"
      ],
      [
           "Thag2.14",
-          "with fools like floating on a small log at sea",
-          "association"
+          "association",
+          "with fools like floating on a small log at sea"
      ],
      [
           "Thag2.15",
-          "to people",
-          "attachment"
+          "attachment",
+          "to people"
      ],
      [
           "Thag2.16",
-          "",
-          "charnel ground contemplation (sivathika)"
+          "charnel ground contemplation (sivathika)",
+          ""
      ],
      [
           "Thag2.17",
-          "few posessions",
-          "monastic life"
+          "monastic life",
+          "few posessions"
      ],
      [
           "Thag2.17",
-          "source of jealousy",
-          "honor"
+          "honor",
+          "source of jealousy"
      ],
      [
           "Thag2.19",
-          "",
-          "vanity"
+          "vanity",
+          ""
      ],
      [
           "Thag2.2",
-          "subtle dart",
-          "honor"
+          "honor",
+          "subtle dart"
      ],
      [
           "Thag2.2",
-          "doesn’t lead to peace",
-          "food"
+          "food",
+          "doesn’t lead to peace"
      ],
      [
           "Thag2.20",
-          "wrongly directed",
-          "criticism"
+          "criticism",
+          "wrongly directed"
      ],
      [
           "Thag2.23",
-          "past lives",
-          "recollection"
+          "recollection",
+          "past lives"
      ],
      [
           "Thag2.23",
-          "recollection of past lives",
-          "psychic powers"
+          "psychic powers",
+          "recollection of past lives"
      ],
      [
           "Thag2.25",
-          "while head being shaved",
-          "enlightenment"
+          "enlightenment",
+          "while head being shaved"
      ],
      [
           "Thag2.26",
-          "mirror",
-          "Dhamma"
+          "Dhamma",
+          "mirror"
      ],
      [
           "Thag2.26",
-          "emptiness of",
-          "body"
+          "body",
+          "emptiness of"
      ],
      [
           "Thag2.27",
-          "recovering like thoroughbred",
-          "mistakes"
+          "mistakes",
+          "recovering like thoroughbred"
      ],
      [
           "Thag2.28",
-          "of disciples",
-          "lions roar"
+          "lions roar",
+          "of disciples"
      ],
      [
           "Thag2.29",
-          "of disciples",
-          "lions roar"
+          "lions roar",
+          "of disciples"
      ],
      [
           "Thag2.3",
-          "like a monkey",
-          "mind"
+          "mind",
+          "like a monkey"
      ],
      [
           "Thag2.30",
-          "associating with good people",
-          "learning"
+          "learning",
+          "associating with good people"
      ],
      [
           "Thag2.32",
-          "simile of ",
-          "house builder"
+          "house builder",
+          "simile of "
      ],
      [
           "Thag2.33",
-          "illness of ",
-          "Buddha, the"
+          "Buddha, the",
+          "illness of "
      ],
      [
           "Thag2.34",
-          "without practicing",
-          "learning"
+          "learning",
+          "without practicing"
      ],
      [
           "Thag2.36",
-          "like steady rock",
-          "mind"
+          "mind",
+          "like steady rock"
      ],
      [
           "Thag2.36",
-          "not bothered by",
-          "annoyances"
+          "annoyances",
+          "not bothered by"
      ],
      [
           "Thag2.39",
-          "",
-          "alms gathering practice"
+          "alms gathering practice",
+          ""
      ],
      [
           "Thag2.4",
-          "speaking little",
-          "speech"
+          "speech",
+          "speaking little"
      ],
      [
           "Thag2.40",
-          "",
-          "sleepiness"
+          "sleepiness",
+          ""
      ],
      [
           "Thag2.44",
-          "",
-          "external appearance"
+          "external appearance",
+          ""
      ],
      [
           "Thag2.45",
-          "",
-          "boasting"
+          "boasting",
+          ""
      ],
      [
           "Thag2.46",
-          "easy to ",
-          "going forth (pabbajja)"
+          "going forth (pabbajja)",
+          "easy to "
      ],
      [
           "Thag2.49",
-          "",
-          "Bodhi Tree"
+          "Bodhi Tree",
+          ""
      ],
      [
           "Thag2.7",
-          "like poorly/well roofed house",
-          "mind"
+          "mind",
+          "like poorly/well roofed house"
      ],
      [
           "Thag2.9",
-          "danger for monks",
-          "women"
+          "women",
+          "danger for monks"
      ],
      [
           "Thag20.1",
-          "",
-          "perception of ugliness (asubhasañña)"
+          "perception of ugliness (asubhasañña)",
+          ""
      ],
      [
           "Thag20.1",
-          "passing away",
-          "Sāriputta, Ven."
+          "Sāriputta, Ven.",
+          "passing away"
      ],
      [
           "Thag20.1",
-          "",
-          "Dūsī, Māra"
+          "Dūsī, Māra",
+          ""
      ],
      [
           "Thag20.1",
-          "",
-          "Vejayantapāsāda (Palace of Victory)"
+          "Vejayantapāsāda (Palace of Victory)",
+          ""
      ],
      [
           "Thag20.1",
-          "attacks the Buddha",
-          "Māra"
+          "Māra",
+          "attacks the Buddha"
      ],
      [
           "Thag21.1",
-          "best kind of",
-          "speech"
+          "speech",
+          "best kind of"
      ],
      [
           "Thag21.1",
-          "harmless",
-          "speech"
+          "speech",
+          "harmless"
      ],
      [
           "Thag21.1",
-          "lewd",
-          "speech"
+          "speech",
+          "lewd"
      ],
      [
           "Thag21.1",
-          "sixty",
-          "wrong views"
+          "wrong views",
+          "sixty"
      ],
      [
           "Thag21.1",
-          "praise of",
-          "Sāriputta, Ven."
+          "Sāriputta, Ven.",
+          "praise of"
      ],
      [
           "Thag21.1",
-          "praise of",
-          "Aññā Koṇḍaññn, Ven."
+          "Aññā Koṇḍaññn, Ven.",
+          "praise of"
      ],
      [
           "Thag21.1",
-          "praise of",
-          "Moggallāna, Ven"
+          "Moggallāna, Ven",
+          "praise of"
      ],
      [
           "Thag21.1",
-          "drunk on",
-          "poetry"
+          "poetry",
+          "drunk on"
      ],
      [
           "Thag21.1",
-          "",
-          "Nigrodhakappa, Ven"
+          "Nigrodhakappa, Ven",
+          ""
      ],
      [
           "Thag3.1",
-          "",
-          "fire worship (aggika)"
+          "fire worship (aggika)",
+          ""
      ],
      [
           "Thag3.10",
-          "changes",
-          "faith (saddhā)"
+          "faith (saddhā)",
+          "changes"
      ],
      [
           "Thag3.11",
-          "advice for new mons",
-          "monastic life"
+          "monastic life",
+          "advice for new mons"
      ],
      [
           "Thag3.11",
-          "living with the Saṅgha",
-          "monastic life"
+          "monastic life",
+          "living with the Saṅgha"
      ],
      [
           "Thag3.13",
-          "to ones family",
-          "Dhamma teaching"
+          "Dhamma teaching",
+          "to ones family"
      ],
      [
           "Thag3.14",
-          "in various realms",
-          "rebirth"
+          "rebirth",
+          "in various realms"
      ],
      [
           "Thag3.15",
-          "",
-          "talking without doing"
+          "talking without doing",
+          ""
      ],
      [
           "Thag3.16",
-          "with fools like floating on a small log at sea",
-          "association"
+          "association",
+          "with fools like floating on a small log at sea"
      ],
      [
           "Thag3.2",
-          "not to move until enlightened",
-          "determination"
+          "determination",
+          "not to move until enlightened"
      ],
      [
           "Thag3.3",
-          "",
-          "talking without doing"
+          "talking without doing",
+          ""
      ],
      [
           "Thag3.4",
-          "with four requisites",
-          "contentment"
+          "contentment",
+          "with four requisites"
      ],
      [
           "Thag3.5",
-          "",
-          "excuses"
+          "excuses",
+          ""
      ],
      [
           "Thag3.7",
-          "mind of love makes merit",
-          "loving-kindness (mettā)"
+          "loving-kindness (mettā)",
+          "mind of love makes merit"
      ],
      [
           "Thag3.8",
-          "family of",
-          "monastics"
+          "monastics",
+          "family of"
      ],
      [
           "Thag3.8",
-          "to ones family",
-          "Dhamma teaching"
+          "Dhamma teaching",
+          "to ones family"
      ],
      [
           "Thag3.9",
-          "like a brahmā",
-          "solitary life"
+          "solitary life",
+          "like a brahmā"
      ],
      [
           "Thag3.9",
-          "as noisy",
-          "companionship"
+          "companionship",
+          "as noisy"
      ],
      [
           "Thag4.1",
-          "danger for monks",
-          "women"
+          "women",
+          "danger for monks"
      ],
      [
           "Thag4.11",
-          "as pleasing",
-          "nature"
+          "nature",
+          "as pleasing"
      ],
      [
           "Thag4.12",
-          "not to move until enlightened",
-          "determination"
+          "determination",
+          "not to move until enlightened"
      ],
      [
           "Thag4.2",
-          "",
-          "walking meditation"
+          "walking meditation",
+          ""
      ],
      [
           "Thag4.2",
-          "",
-          "sleepiness"
+          "sleepiness",
+          ""
      ],
      [
           "Thag4.3",
-          "for spiritual companions",
-          "respect"
+          "respect",
+          "for spiritual companions"
      ],
      [
           "Thag4.4",
-          "",
-          "perception of ugliness (asubhasañña)"
+          "perception of ugliness (asubhasañña)",
+          ""
      ],
      [
           "Thag4.5",
-          "uselessness of",
-          "ascetic practices"
+          "ascetic practices",
+          "uselessness of"
      ],
      [
           "Thag4.6",
-          "praise of",
-          "Buddha, the"
+          "Buddha, the",
+          "praise of"
      ],
      [
           "Thag4.8",
-          "",
-          "Rāhula, Ven"
+          "Rāhula, Ven",
+          ""
      ],
      [
           "Thag4.9",
-          "family life",
-          "dangers"
+          "dangers",
+          "family life"
      ],
      [
           "Thag5.1",
-          "",
-          "charnel ground contemplation (sivathika)"
+          "charnel ground contemplation (sivathika)",
+          ""
      ],
      [
           "Thag5.10",
-          "fault-finding",
-          "listening to Dhamma"
+          "listening to Dhamma",
+          "fault-finding"
      ],
      [
           "Thag5.11",
-          "to the Buddha",
-          "reciting Dhamma"
+          "reciting Dhamma",
+          "to the Buddha"
      ],
      [
           "Thag5.12",
-          "like deep ocean is still",
-          "peaceful person"
+          "peaceful person",
+          "like deep ocean is still"
      ],
      [
           "Thag5.12",
-          "living in line with what has been learned",
-          "learning"
+          "learning",
+          "living in line with what has been learned"
      ],
      [
           "Thag5.2",
-          "keeping",
-          "promises"
+          "promises",
+          "keeping"
      ],
      [
           "Thag5.2",
-          "like flower without fragrance",
-          "beautiful words without practicing"
+          "beautiful words without practicing",
+          "like flower without fragrance"
      ],
      [
           "Thag5.2",
-          "like flower with frangrance",
-          "beautiful words beneficial for the one who practices"
+          "beautiful words beneficial for the one who practices",
+          "like flower with frangrance"
      ],
      [
           "Thag5.6",
-          "",
-          "fire worship (aggika)"
+          "fire worship (aggika)",
+          ""
      ],
      [
           "Thag5.6",
-          "",
-          "impurity as purity"
+          "impurity as purity",
+          ""
      ],
      [
           "Thag5.7",
-          "as ritual",
-          "bathing"
+          "bathing",
+          "as ritual"
      ],
      [
           "Thag5.8",
-          "",
-          "recollection of the Buddha (buddhānussati)"
+          "recollection of the Buddha (buddhānussati)",
+          ""
      ],
      [
           "Thag5.9",
-          "caging like an elephant",
-          "mind"
+          "mind",
+          "caging like an elephant"
      ],
      [
           "Thag5.9",
-          "trained like a horse",
-          "mind"
+          "mind",
+          "trained like a horse"
      ],
      [
           "Thag5.9",
-          "binding with",
-          "mindfulness"
+          "mindfulness",
+          "binding with"
      ],
      [
           "Thag6.10",
-          "",
-          "child arahants"
+          "child arahants",
+          ""
      ],
      [
           "Thag6.10",
-          "",
-          "Anotatta lake"
+          "Anotatta lake",
+          ""
      ],
      [
           "Thag6.10",
-          "not wanting others to know attinments",
-          "humility"
+          "humility",
+          "not wanting others to know attinments"
      ],
      [
           "Thag6.11",
-          "practicing while",
-          "sickness"
+          "sickness",
+          "practicing while"
      ],
      [
           "Thag6.12",
-          "",
-          "simile of the saw"
+          "simile of the saw",
+          ""
      ],
      [
           "Thag6.12",
-          "",
-          "simile of child’s flesh"
+          "simile of child’s flesh",
+          ""
      ],
      [
           "Thag6.12",
-          "keep in check",
-          "anger (kodha)"
+          "anger (kodha)",
+          "keep in check"
      ],
      [
           "Thag6.12",
-          "remove with simile of the saw",
-          "anger (kodha)"
+          "anger (kodha)",
+          "remove with simile of the saw"
      ],
      [
           "Thag6.13",
-          "inevitability of",
-          "death (maraṇa)"
+          "death (maraṇa)",
+          "inevitability of"
      ],
      [
           "Thag6.13",
-          "coming like a wall of flame",
-          "death (maraṇa)"
+          "death (maraṇa)",
+          "coming like a wall of flame"
      ],
      [
           "Thag6.13",
-          "",
-          "wasting opportunity"
+          "wasting opportunity",
+          ""
      ],
      [
           "Thag6.13",
-          "inevitability of",
-          "death (maraṇa)"
+          "death (maraṇa)",
+          "inevitability of"
      ],
      [
           "Thag6.14",
-          "danger for monks",
-          "women"
+          "women",
+          "danger for monks"
      ],
      [
           "Thag6.14",
-          "",
-          "perception of ugliness (asubhasañña)"
+          "perception of ugliness (asubhasañña)",
+          ""
      ],
      [
           "Thag6.2",
-          "for happiness",
-          "recollection of the Buddha (buddhānussati)"
+          "recollection of the Buddha (buddhānussati)",
+          "for happiness"
      ],
      [
           "Thag6.2",
-          "for happiness",
-          "recollection of the Dhamma (dhammānussati)"
+          "recollection of the Dhamma (dhammānussati)",
+          "for happiness"
      ],
      [
           "Thag6.2",
-          "for happiness",
-          "recollection of the Saṅgha (saṅghānussati)"
+          "recollection of the Saṅgha (saṅghānussati)",
+          "for happiness"
      ],
      [
           "Thag6.2",
-          "",
-          "brahmaviharas"
+          "brahmaviharas",
+          ""
      ],
      [
           "Thag6.3",
-          "for spiritual companions",
-          "respect"
+          "respect",
+          "for spiritual companions"
      ],
      [
           "Thag6.4",
-          "",
-          "charnel ground contemplation (sivathika)"
+          "charnel ground contemplation (sivathika)",
+          ""
      ],
      [
           "Thag6.4",
-          "",
-          "perception of ugliness (asubhasañña)"
+          "perception of ugliness (asubhasañña)",
+          ""
      ],
      [
           "Thag6.5",
-          "like a monkey swinging",
-          "heedlessness (pamāda)"
+          "heedlessness (pamāda)",
+          "like a monkey swinging"
      ],
      [
           "Thag6.5",
-          "like water falls off of louts leaf",
-          "sorrow"
+          "sorrow",
+          "like water falls off of louts leaf"
      ],
      [
           "Thag6.6",
-          "not getting results for a long time",
-          "monastic life"
+          "monastic life",
+          "not getting results for a long time"
      ],
      [
           "Thag6.6",
-          "aborted attempt",
-          "suicide"
+          "suicide",
+          "aborted attempt"
      ],
      [
           "Thag6.7",
-          "advice for",
-          "monastic life"
+          "monastic life",
+          "advice for"
      ],
      [
           "Thag6.7",
-          "",
-          "laziness"
+          "laziness",
+          ""
      ],
      [
           "Thag6.8",
-          "of knowledge",
-          "thunderbolt"
+          "thunderbolt",
+          "of knowledge"
      ],
      [
           "Thag6.8",
-          "knowing actions as actions and results as results",
-          "actions (kamma)"
+          "actions (kamma)",
+          "knowing actions as actions and results as results"
      ],
      [
           "Thag6.9",
-          "",
-          "arrogance"
+          "arrogance",
+          ""
      ],
      [
           "Thag6.9",
-          "not giving",
-          "respect"
+          "respect",
+          "not giving"
      ],
      [
           "Thag6.9",
-          "",
-          "conceit of superiority (atimāna)"
+          "conceit of superiority (atimāna)",
+          ""
      ],
      [
           "Thag6.9",
-          "",
-          "conceit of inferiority (omāno)"
+          "conceit of inferiority (omāno)",
+          ""
      ],
      [
           "Thag7.1",
-          "",
-          "courtesans"
+          "courtesans",
+          ""
      ],
      [
           "Thag7.1",
-          "avoiding women",
-          "monastic life"
+          "monastic life",
+          "avoiding women"
      ],
      [
           "Thag7.1",
-          "tempted by women",
-          "monastics"
+          "monastics",
+          "tempted by women"
      ],
      [
           "Thag7.2",
-          "wishing for the world",
-          "mindfulness of body"
+          "mindfulness of body",
+          "wishing for the world"
      ],
      [
           "Thag7.2",
-          "as deceiving",
-          "external appearance"
+          "external appearance",
+          "as deceiving"
      ],
      [
           "Thag7.3",
-          "",
-          "child arahants"
+          "child arahants",
+          ""
      ],
      [
           "Thag7.4",
-          "",
-          "child arahants"
+          "child arahants",
+          ""
      ],
      [
           "Thag7.5",
-          "damaging plants",
-          "monastic rules (vinaya)"
+          "monastic rules (vinaya)",
+          "damaging plants"
      ],
      [
           "Thag7.5",
-          "all teachings the same",
-          "Buddhas"
+          "Buddhas",
+          "all teachings the same"
      ],
      [
           "Thag8.1",
-          "caught up in",
-          "work"
+          "work",
+          "caught up in"
      ],
      [
           "Thag8.1",
-          "like a bog",
-          "honor"
+          "honor",
+          "like a bog"
      ],
      [
           "Thag8.1",
-          "as relative (kammabandhū)",
-          "actions (kamma)"
+          "actions (kamma)",
+          "as relative (kammabandhū)"
      ],
      [
           "Thag8.1",
-          "loss of",
-          "wealth"
+          "wealth",
+          "loss of"
      ],
      [
           "Thag8.3",
-          "not to move until enlightened",
-          "determination"
+          "determination",
+          "not to move until enlightened"
      ],
      [
           "Thig3.5",
-          "of relative",
-          "death (maraṇa)"
+          "death (maraṇa)",
+          "of relative"
      ],
      [
           "Thig6.1",
-          "of relative",
-          "death (maraṇa)"
+          "death (maraṇa)",
+          "of relative"
      ],
      [
           "Ud1.1–3",
-          "",
-          "dependent origination"
+          "dependent origination",
+          ""
      ],
      [
           "Ud1.1–4",
-          "after enlightenment",
-          "Buddha, the"
+          "Buddha, the",
+          "after enlightenment"
      ],
      [
           "Ud1.1–4",
-          "for seven days",
-          "meditation"
+          "meditation",
+          "for seven days"
      ],
      [
           "Ud1.10",
-          "by cow",
-          "death (maraṇa)"
+          "death (maraṇa)",
+          "by cow"
      ],
      [
           "Ud1.10",
-          "",
-          "false spiritual claims"
+          "false spiritual claims",
+          ""
      ],
      [
           "Ud1.10",
-          "built for individual",
-          "stupa (thupa)"
+          "stupa (thupa)",
+          "built for individual"
      ],
      [
           "Ud1.10",
-          "",
-          "Bāhiya of the bark cloth"
+          "Bāhiya of the bark cloth",
+          ""
      ],
      [
           "Ud1.10",
-          "",
-          "seen, heard, thought, known"
+          "seen, heard, thought, known",
+          ""
      ],
      [
           "Ud1.4–6",
-          "true meaning",
-          "brahmin"
+          "brahmin",
+          "true meaning"
      ],
      [
           "Ud1.6",
-          "by gods",
-          "giving (dāna)"
+          "giving (dāna)",
+          "by gods"
      ],
      [
           "Ud1.6",
-          "offering food",
-          "gods"
+          "gods",
+          "offering food"
      ],
      [
           "Ud1.6",
-          "from the poor",
-          "alms food"
+          "alms food",
+          "from the poor"
      ],
      [
           "Ud1.7",
-          "overcoming",
-          "fear"
+          "fear",
+          "overcoming"
      ],
      [
           "Ud1.8",
-          "family of",
-          "monastics"
+          "monastics",
+          "family of"
      ],
      [
           "Ud1.8",
-          "from family",
-          "detachment"
+          "detachment",
+          "from family"
      ],
      [
           "Ud1.8–9",
-          "true meaning",
-          "brahmin"
+          "brahmin",
+          "true meaning"
      ],
      [
           "Ud1.9",
-          "",
-          "jaṭilā ascetics"
+          "jaṭilā ascetics",
+          ""
      ],
      [
           "Ud1.9",
-          "with water",
-          "purification"
+          "purification",
+          "with water"
      ],
      [
           "Ud2.1",
-          "",
-          "Mucalinda"
+          "Mucalinda",
+          ""
      ],
      [
           "Ud2.1",
-          "through great noise",
-          "meditation"
+          "meditation",
+          "through great noise"
      ],
      [
           "Ud2.1",
-          "",
-          "conceit ‘I am’"
+          "conceit ‘I am’",
+          ""
      ],
      [
           "Ud2.1",
-          "as happiness",
-          "kindness"
+          "kindness",
+          "as happiness"
      ],
      [
           "Ud2.1",
-          "for seven days",
-          "meditation"
+          "meditation",
+          "for seven days"
      ],
      [
           "Ud2.10",
-          "",
-          "misjudging others"
+          "misjudging others",
+          ""
      ],
      [
           "Ud2.10",
-          "bliss of",
-          "renunciation"
+          "renunciation",
+          "bliss of"
      ],
      [
           "Ud2.2",
-          "keeping silent",
-          "speech"
+          "speech",
+          "keeping silent"
      ],
      [
           "Ud2.2",
-          "",
-          "useless speech (tiracāna)"
+          "useless speech (tiracāna)",
+          ""
      ],
      [
           "Ud2.2",
-          "vs. useless speech",
-          "noble silence"
+          "noble silence",
+          "vs. useless speech"
      ],
      [
           "Ud2.2",
-          "better happiness than heaven",
-          "nibbāna"
+          "nibbāna",
+          "better happiness than heaven"
      ],
      [
           "Ud2.3",
-          "harming an animal",
-          "children"
+          "children",
+          "harming an animal"
      ],
      [
           "Ud2.3",
-          "no one likes",
-          "suffering"
+          "suffering",
+          "no one likes"
      ],
      [
           "Ud2.3",
-          "those who desire",
-          "happiness"
+          "happiness",
+          "those who desire"
      ],
      [
           "Ud2.4",
-          "",
-          "jealousy"
+          "jealousy",
+          ""
      ],
      [
           "Ud2.4",
-          "",
-          "enduring abuse"
+          "enduring abuse",
+          ""
      ],
      [
           "Ud2.4",
-          "considering abuse",
-          "not-self"
+          "not-self",
+          "considering abuse"
      ],
      [
           "Ud2.5",
-          "filled with duties",
-          "lay life"
+          "lay life",
+          "filled with duties"
      ],
      [
           "Ud2.5–6",
-          "attachments",
-          "lay life"
+          "lay life",
+          "attachments"
      ],
      [
           "Ud2.6",
-          "",
-          "pregnancy"
+          "pregnancy",
+          ""
      ],
      [
           "Ud2.7",
-          "of relative",
-          "death (maraṇa)"
+          "death (maraṇa)",
+          "of relative"
      ],
      [
           "Ud2.7",
-          "death",
-          "grieving"
+          "grieving",
+          "death"
      ],
      [
           "Ud2.7",
-          "of loved ones",
-          "loss"
+          "loss",
+          "of loved ones"
      ],
      [
           "Ud2.8",
-          "difficult",
-          "pregnancy"
+          "pregnancy",
+          "difficult"
      ],
      [
           "Ud2.8",
-          "of triple gem",
-          "recollection"
+          "recollection",
+          "of triple gem"
      ],
      [
           "Ud2.8",
-          "guarantor",
-          "faith (saddhā)"
+          "faith (saddhā)",
+          "guarantor"
      ],
      [
           "Ud2.9",
-          "",
-          "subservience"
+          "subservience",
+          ""
      ],
      [
           "Ud3.10",
-          "after enlightenment",
-          "Buddha, the"
+          "Buddha, the",
+          "after enlightenment"
      ],
      [
           "Ud3.10",
-          "state of",
-          "world"
+          "world",
+          "state of"
      ],
      [
           "Ud3.10",
-          "for seven days",
-          "meditation"
+          "meditation",
+          "for seven days"
      ],
      [
           "Ud3.2",
-          "not delighting in",
-          "holy life"
+          "holy life",
+          "not delighting in"
      ],
      [
           "Ud3.2",
-          "bad",
-          "motivation"
+          "motivation",
+          "bad"
      ],
      [
           "Ud3.3",
-          "",
-          "imperturbable meditation (āneñjasamādhi)"
+          "imperturbable meditation (āneñjasamādhi)",
+          ""
      ],
      [
           "Ud3.4",
-          "simile of mountain",
-          "arahant"
+          "arahant",
+          "simile of mountain"
      ],
      [
           "Ud3.6",
-          "accusation of being",
-          "outcast (vasala)"
+          "outcast (vasala)",
+          "accusation of being"
      ],
      [
           "Ud3.6",
-          "",
-          "habits over lifetimes"
+          "habits over lifetimes",
+          ""
      ],
      [
           "Ud3.7",
-          "offering food",
-          "gods"
+          "gods",
+          "offering food"
      ],
      [
           "Ud3.7",
-          "from the poor",
-          "alms food"
+          "alms food",
+          "from the poor"
      ],
      [
           "Ud3.7",
-          "by gods",
-          "giving (dāna)"
+          "giving (dāna)",
+          "by gods"
      ],
      [
           "Ud3.7",
-          "for seven days",
-          "meditation"
+          "meditation",
+          "for seven days"
      ],
      [
           "Ud3.7–8",
-          "envied by gods",
-          "arahant"
+          "arahant",
+          "envied by gods"
      ],
      [
           "Ud3.8",
-          "for sake of popularity",
-          "alms food"
+          "alms food",
+          "for sake of popularity"
      ],
      [
           "Ud3.8",
-          " wrongly gained",
-          "popularity"
+          "popularity",
+          " wrongly gained"
      ],
      [
           "Ud3.8–9",
-          "vs. useless speech",
-          "noble silence"
+          "noble silence",
+          "vs. useless speech"
      ],
      [
           "Ud3.8–9",
-          "useless (tiracāna)",
-          "speech"
+          "speech",
+          "useless (tiracāna)"
      ],
      [
           "Ud3.9",
-          "uselessness of",
-          "hope"
+          "hope",
+          "uselessness of"
      ],
      [
           "Ud3.9",
-          "",
-          "solitary life"
+          "solitary life",
+          ""
      ],
      [
           "Ud4.1",
-          "",
-          "mental misconduct"
+          "mental misconduct",
+          ""
      ],
      [
           "Ud4.1",
-          "helps with cetovimuttiya",
-          "friendship"
+          "friendship",
+          "helps with cetovimuttiya"
      ],
      [
           "Ud4.1",
-          "topics of discussion",
-          "speech"
+          "speech",
+          "topics of discussion"
      ],
      [
           "Ud4.1",
-          "to give up greed",
-          "perception of ugliness (asubhasañña)"
+          "perception of ugliness (asubhasañña)",
+          "to give up greed"
      ],
      [
           "Ud4.1",
-          "to give up hate",
-          "loving-kindness (mettā)"
+          "loving-kindness (mettā)",
+          "to give up hate"
      ],
      [
           "Ud4.1",
-          "to cut off thinking",
-          "mindfulness of breathing"
+          "mindfulness of breathing",
+          "to cut off thinking"
      ],
      [
           "Ud4.1",
-          "to remove conceit ‘I am’",
-          "perception of impermanance"
+          "perception of impermanance",
+          "to remove conceit ‘I am’"
      ],
      [
           "Ud4.2",
-          "wrongly practiced",
-          "monastic life"
+          "monastic life",
+          "wrongly practiced"
      ],
      [
           "Ud4.3",
-          "by murder",
-          "death (maraṇa)"
+          "death (maraṇa)",
+          "by murder"
      ],
      [
           "Ud4.3",
-          "from the poor",
-          "alms food"
+          "alms food",
+          "from the poor"
      ],
      [
           "Ud4.3",
-          "immediately after giving",
-          "death (maraṇa)"
+          "death (maraṇa)",
+          "immediately after giving"
      ],
      [
           "Ud4.3",
-          "wrongly directed worse than enemy",
-          "mind"
+          "mind",
+          "wrongly directed worse than enemy"
      ],
      [
           "Ud4.4",
-          "attacks monk",
-          "yakkha"
+          "yakkha",
+          "attacks monk"
      ],
      [
           "Ud4.4",
-          "without psychic powers",
-          "arahant"
+          "arahant",
+          "without psychic powers"
      ],
      [
           "Ud4.4",
-          "simile of rock",
-          "arahant"
+          "arahant",
+          "simile of rock"
      ],
      [
           "Ud4.4",
-          "free from crowds",
-          "seclusion"
+          "seclusion",
+          "free from crowds"
      ],
      [
           "Ud4.8",
-          "",
-          "jealousy"
+          "jealousy",
+          ""
      ],
      [
           "Ud4.8",
-          "of the Buddha",
-          "defamation"
+          "defamation",
+          "of the Buddha"
      ],
      [
           "Ud4.8",
-          "",
-          "rumors"
+          "rumors",
+          ""
      ],
      [
           "Ud4.8",
-          "factor for rebirth",
-          "lying"
+          "lying",
+          "factor for rebirth"
      ],
      [
           "Ud4.8",
-          "",
-          "enduring abuse"
+          "enduring abuse",
+          ""
      ],
      [
           "Ud4.9",
-          "of arahants",
-          "gratitude"
+          "gratitude",
+          "of arahants"
      ],
      [
           "Ud5.1",
-          "",
-          "loving-kindness (mettā)"
+          "loving-kindness (mettā)",
+          ""
      ],
      [
           "Ud5.1",
-          "no one likes",
-          "suffering"
+          "suffering",
+          "no one likes"
      ],
      [
           "Ud5.1",
-          "those who desire",
-          "happiness"
+          "happiness",
+          "those who desire"
      ],
      [
           "Ud5.1",
-          "",
-          "oneself as most dear"
+          "oneself as most dear",
+          ""
      ],
      [
           "Ud5.2",
-          "reason to make merit",
-          "death (maraṇa)"
+          "death (maraṇa)",
+          "reason to make merit"
      ],
      [
           "Ud5.2",
-          "mother",
-          "Bodhisatta"
+          "Bodhisatta",
+          "mother"
      ],
      [
           "Ud5.2",
-          "as universal",
-          "death (maraṇa)"
+          "death (maraṇa)",
+          "as universal"
      ],
      [
           "Ud5.3",
-          "by cow",
-          "death (maraṇa)"
+          "death (maraṇa)",
+          "by cow"
      ],
      [
           "Ud5.3",
-          "",
-          "gradual instruction"
+          "gradual instruction",
+          ""
      ],
      [
           "Ud5.3",
-          "by cow",
-          "death (maraṇa)"
+          "death (maraṇa)",
+          "by cow"
      ],
      [
           "Ud5.3",
-          "disparaging",
-          "paccekabuddha"
+          "paccekabuddha",
+          "disparaging"
      ],
      [
           "Ud5.3",
-          "noble ones",
-          "harassing"
+          "harassing",
+          "noble ones"
      ],
      [
           "Ud5.4",
-          "harming an animal",
-          "boys"
+          "boys",
+          "harming an animal"
      ],
      [
           "Ud5.5",
-          "",
-          "uposatha"
+          "uposatha",
+          ""
      ],
      [
           "Ud5.5",
-          "",
-          "corrupt monk"
+          "corrupt monk",
+          ""
      ],
      [
           "Ud5.5",
-          "",
-          "asuras"
+          "asuras",
+          ""
      ],
      [
           "Ud5.5",
-          "loved by asuras",
-          "ocean"
+          "ocean",
+          "loved by asuras"
      ],
      [
           "Ud5.5",
-          "",
-          "gradual training"
+          "gradual training",
+          ""
      ],
      [
           "Ud5.5",
-          "simile of ocean",
-          "gradual training"
+          "gradual training",
+          "simile of ocean"
      ],
      [
           "Ud5.5",
-          "guarding precepts",
-          "Saṅgha"
+          "Saṅgha",
+          "guarding precepts"
      ],
      [
           "Ud5.5",
-          "removes corrupt members",
-          "Saṅgha"
+          "Saṅgha",
+          "removes corrupt members"
      ],
      [
           "Ud5.5",
-          "without caste distinctions",
-          "Saṅgha"
+          "Saṅgha",
+          "without caste distinctions"
      ],
      [
           "Ud5.5",
-          "river simile",
-          "Saṅgha"
+          "Saṅgha",
+          "river simile"
      ],
      [
           "Ud5.5",
-          "never fills up",
-          "nibbāna"
+          "nibbāna",
+          "never fills up"
      ],
      [
           "Ud5.5",
-          "has one taste",
-          "Dhamma"
+          "Dhamma",
+          "has one taste"
      ],
      [
           "Ud5.5",
-          "has many treasures",
-          "Dhamma"
+          "Dhamma",
+          "has many treasures"
      ],
      [
           "Ud5.5",
-          "simile of ocean",
-          "Dhamma"
+          "Dhamma",
+          "simile of ocean"
      ],
      [
           "Ud5.5",
-          "has many great beings",
-          "Saṅgha"
+          "Saṅgha",
+          "has many great beings"
      ],
      [
           "Ud5.5",
-          "simile of ocean",
-          "Saṅgha"
+          "Saṅgha",
+          "simile of ocean"
      ],
      [
           "Ud5.6",
-          "difficulty",
-          "going forth (pabbajja)"
+          "going forth (pabbajja)",
+          "difficulty"
      ],
      [
           "Ud5.6",
-          "",
-          "Chapter of the Eights"
+          "Chapter of the Eights",
+          ""
      ],
      [
           "Ud5.6",
-          "to the Buddha",
-          "reciting Dhamma"
+          "reciting Dhamma",
+          "to the Buddha"
      ],
      [
           "Ud5.7",
-          "",
-          "doubt"
+          "doubt",
+          ""
      ],
      [
           "Ud5.8",
-          "",
-          "schism"
+          "schism",
+          ""
      ],
      [
           "Ud5.8",
-          "easy to do good",
-          "good people"
+          "good people",
+          "easy to do good"
      ],
      [
           "Ud5.8",
-          "easy to do bad",
-          "bad people"
+          "bad people",
+          "easy to do bad"
      ],
      [
           "Ud5.9",
-          "",
-          "teasing"
+          "teasing",
+          ""
      ],
      [
           "Ud6.1",
-          "can live for eon",
-          "Buddhas"
+          "Buddhas",
+          "can live for eon"
      ],
      [
           "Ud6.1",
-          "Buddha’s determination to have",
-          "fourfold Saṅgha"
+          "fourfold Saṅgha",
+          "Buddha’s determination to have"
      ],
      [
           "Ud6.1",
-          "as teachers",
-          "laypeople"
+          "laypeople",
+          "as teachers"
      ],
      [
           "Ud6.1",
-          "popular and widespread",
-          "Dhamma"
+          "Dhamma",
+          "popular and widespread"
      ],
      [
           "Ud6.1",
-          "surrendering of",
-          "life force"
+          "life force",
+          "surrendering of"
      ],
      [
           "Ud6.10",
-          "honored when Buddhas don’t arise",
-          "followers of other paths"
+          "followers of other paths",
+          "honored when Buddhas don’t arise"
      ],
      [
           "Ud6.2",
-          "",
-          "jaṭilā ascetics"
+          "jaṭilā ascetics",
+          ""
      ],
      [
           "Ud6.2",
-          "",
-          "familiarity needed to judge"
+          "familiarity needed to judge",
+          ""
      ],
      [
           "Ud6.2",
-          "knowable through discussion",
-          "wisdom"
+          "wisdom",
+          "knowable through discussion"
      ],
      [
           "Ud6.2",
-          "",
-          "misjudging others"
+          "misjudging others",
+          ""
      ],
      [
           "Ud6.2",
-          "for money making",
-          "Dhamma"
+          "Dhamma",
+          "for money making"
      ],
      [
           "Ud6.4",
-          "existing after death",
-          "Tathāgatas"
+          "Tathāgatas",
+          "existing after death"
      ],
      [
           "Ud6.4",
-          "",
-          "blind men and elephant"
+          "blind men and elephant",
+          ""
      ],
      [
           "Ud6.4",
-          "blind men and",
-          "elephants"
+          "elephants",
+          "blind men and"
      ],
      [
           "Ud6.4–6",
-          "",
-          "wrong views"
+          "wrong views",
+          ""
      ],
      [
           "Ud6.4–6",
-          "",
-          "eternalism"
+          "eternalism",
+          ""
      ],
      [
           "Ud6.4–6",
-          "",
-          "followers of other paths (aññatitthiyā)"
+          "followers of other paths (aññatitthiyā)",
+          ""
      ],
      [
           "Ud6.4–6",
-          "over views",
-          "disputes"
+          "disputes",
+          "over views"
      ],
      [
           "Ud6.6",
-          "wrong views",
-          "conceit (māna)"
+          "conceit (māna)",
+          "wrong views"
      ],
      [
           "Ud6.8",
-          "as the essence",
-          "training"
+          "training",
+          "as the essence"
      ],
      [
           "Ud6.8",
-          "no harm in",
-          "sensual pleasures"
+          "sensual pleasures",
+          "no harm in"
      ],
      [
           "Ud6.8",
-          "over a woman",
-          "disputes"
+          "disputes",
+          "over a woman"
      ],
      [
           "Ud6.8",
-          "as cause of disputes",
-          "sensual pleasures"
+          "sensual pleasures",
+          "as cause of disputes"
      ],
      [
           "Ud6.9",
-          "",
-          "moths into flame"
+          "moths into flame",
+          ""
      ],
      [
           "Ud7.4",
-          "simile of fish in net",
-          "sensual pleasures"
+          "sensual pleasures",
+          "simile of fish in net"
      ],
      [
           "Ud7.5",
-          "",
-          "external appearance"
+          "external appearance",
+          ""
      ],
      [
           "Ud7.6",
-          "praised by gods",
-          "good people"
+          "good people",
+          "praised by gods"
      ],
      [
           "Ud7.7",
-          "",
-          "proliferation (papañca)"
+          "proliferation (papañca)",
+          ""
      ],
      [
           "Ud7.9",
-          "psychic powers",
-          "Buddha, the"
+          "Buddha, the",
+          "psychic powers"
      ],
      [
           "Ud8.3",
-          "",
-          "unborn (ajātaṁ)"
+          "unborn (ajātaṁ)",
+          ""
      ],
      [
           "Ud8.3",
-          "",
-          "escape (nissaraṇa)"
+          "escape (nissaraṇa)",
+          ""
      ],
      [
           "Ud8.4",
-          "",
-          "nibbāna"
+          "nibbāna",
+          ""
      ],
      [
           "Ud8.4",
-          "",
-          "wholesome chain of causality"
+          "wholesome chain of causality",
+          ""
      ],
      [
           "Ud8.5",
-          "last meal",
-          "Buddha, the"
+          "Buddha, the",
+          "last meal"
      ],
      [
           "Ud8.5",
-          "illness of ",
-          "Buddha, the"
+          "Buddha, the",
+          "illness of "
      ],
      [
           "Ud8.5",
-          "psychic powers",
-          "Buddha, the"
+          "Buddha, the",
+          "psychic powers"
      ],
      [
           "Ud8.5",
-          "most beneficial",
-          "alms food"
+          "alms food",
+          "most beneficial"
      ],
      [
           "Ud8.6",
-          "benefits of",
-          "virtue"
+          "virtue",
+          "benefits of"
      ],
      [
           "Ud8.6",
-          "psychic powers",
-          "Buddha, the"
+          "Buddha, the",
+          "psychic powers"
      ],
      [
           "Ud8.7",
-          "attendants",
-          "Buddha, the"
+          "Buddha, the",
+          "attendants"
      ],
      [
           "Ud8.8",
-          "of relative",
-          "death (maraṇa)"
+          "death (maraṇa)",
+          "of relative"
      ],
      [
           "Ud8.8",
-          "as source of sorrow",
-          "loved ones"
+          "loved ones",
+          "as source of sorrow"
      ],
      [
           "Ud8.9",
-          "as meditation",
-          "fire element"
+          "fire element",
+          "as meditation"
      ],
      [
           "Vv",
-          "",
-          "devas"
+          "devas",
+          ""
      ],
      [
           "Vv1",
-          "chair",
-          "gifts, specific types of"
+          "gifts, specific types of",
+          "chair"
      ],
      [
           "Vv10",
-          "sesame seeds",
-          "gifts, specific types of"
+          "gifts, specific types of",
+          "sesame seeds"
      ],
      [
           "Vv10",
-          "smallest gift has value",
-          "giving (dāna)"
+          "giving (dāna)",
+          "smallest gift has value"
      ],
      [
           "Vv11",
-          "",
-          "fidelity in marriage"
+          "fidelity in marriage",
+          ""
      ],
      [
           "Vv11",
-          "leading to heaven",
-          "virtue"
+          "virtue",
+          "leading to heaven"
      ],
      [
           "Vv11",
-          "abstaining from",
-          "sexual misconduct"
+          "sexual misconduct",
+          "abstaining from"
      ],
      [
           "Vv13",
-          "cakes",
-          "gifts, specific types of"
+          "gifts, specific types of",
+          "cakes"
      ],
      [
           "Vv14",
-          "cakes",
-          "gifts, specific types of"
+          "gifts, specific types of",
+          "cakes"
      ],
      [
           "Vv15",
-          "once returners",
-          "devas"
+          "devas",
+          "once returners"
      ],
      [
           "Vv15",
-          "resulting in heaven",
-          "uposatha"
+          "uposatha",
+          "resulting in heaven"
      ],
      [
           "Vv15",
-          "gods that have become",
-          "once returner"
+          "once returner",
+          "gods that have become"
      ],
      [
           "Vv16",
-          "",
-          "gods that delight in creation"
+          "gods that delight in creation",
+          ""
      ],
      [
           "Vv16",
-          "with psychic powers",
-          "devas"
+          "devas",
+          "with psychic powers"
+     ],
+     [
+          "Vv16",
+          "devas",
+          "stream-enterers"
      ],
      [
           "Vv16",
           "stream-enterers",
-          "devas"
-     ],
-     [
-          "Vv16",
-          "gods that have become",
-          "stream-enterers"
+          "gods that have become"
      ],
      [
           "Vv17",
-          "asking questions",
-          "Sakka"
+          "Sakka",
+          "asking questions"
      ],
      [
           "Vv19",
-          "resulting in heaven",
-          "uposatha"
+          "uposatha",
+          "resulting in heaven"
      ],
      [
           "Vv19",
-          "once returners",
-          "devas"
+          "devas",
+          "once returners"
      ],
      [
           "Vv19",
-          "gods that have become",
-          "once returner"
+          "once returner",
+          "gods that have become"
      ],
      [
           "Vv2",
-          "chair",
-          "gifts, specific types of"
+          "gifts, specific types of",
+          "chair"
      ],
      [
           "Vv20",
-          "asking questions",
-          "Sakka"
+          "Sakka",
+          "asking questions"
      ],
      [
           "Vv20",
-          "smallest gift has value",
-          "giving (dāna)"
+          "giving (dāna)",
+          "smallest gift has value"
      ],
      [
           "Vv20",
-          "not greatest happiness",
-          "wheel-turning monarchs"
+          "wheel-turning monarchs",
+          "not greatest happiness"
      ],
      [
           "Vv21",
-          "visiting beings about to die",
-          "Buddha, the"
+          "Buddha, the",
+          "visiting beings about to die"
      ],
      [
           "Vv21",
-          "leading to heaven",
-          "worshiping (vandati)"
+          "worshiping (vandati)",
+          "leading to heaven"
      ],
      [
           "Vv24",
-          "over not making spiritual progress",
-          "regret"
+          "regret",
+          "over not making spiritual progress"
+     ],
+     [
+          "Vv24",
+          "devas",
+          "stream-enterers"
      ],
      [
           "Vv24",
           "stream-enterers",
-          "devas"
-     ],
-     [
-          "Vv24",
-          "gods that have become",
-          "stream-enterers"
+          "gods that have become"
      ],
      [
           "Vv27",
-          "food",
-          "giving (dāna)"
+          "giving (dāna)",
+          "food"
      ],
      [
           "Vv29",
-          "criticizing",
-          "giving (dāna)"
+          "giving (dāna)",
+          "criticizing"
      ],
      [
           "Vv29",
-          "leads to heaven",
-          "giving (dāna)"
+          "giving (dāna)",
+          "leads to heaven"
      ],
      [
           "Vv3",
-          "chair",
-          "gifts, specific types of"
+          "gifts, specific types of",
+          "chair"
      ],
      [
           "Vv30",
-          "sugarcane",
-          "gifts, specific types of"
+          "gifts, specific types of",
+          "sugarcane"
      ],
      [
           "Vv30",
-          "criticizing",
-          "giving (dāna)"
+          "giving (dāna)",
+          "criticizing"
      ],
      [
           "Vv31",
-          "lay people",
-          "celibacy"
+          "celibacy",
+          "lay people"
      ],
      [
           "Vv32",
-          "respectful",
-          "wives"
+          "wives",
+          "respectful"
      ],
      [
           "Vv33",
-          "long list of",
-          "gifts, specific types of"
+          "gifts, specific types of",
+          "long list of"
      ],
      [
           "Vv34",
-          "to Saṅgha is always more fruitful than individual gifts",
-          "giving (dāna)"
+          "giving (dāna)",
+          "to Saṅgha is always more fruitful than individual gifts"
      ],
      [
           "Vv35",
-          "offerings at",
-          "funeral"
+          "funeral",
+          "offerings at"
      ],
      [
           "Vv36",
-          "to relics",
-          "offerings"
+          "offerings",
+          "to relics"
      ],
      [
           "Vv37",
-          "psychic powers",
-          "devas"
+          "devas",
+          "psychic powers"
      ],
      [
           "Vv37",
-          "to stupa",
-          "offerings"
+          "offerings",
+          "to stupa"
      ],
      [
           "Vv38",
-          "flowers",
-          "gifts, specific types of"
+          "gifts, specific types of",
+          "flowers"
      ],
      [
           "Vv4",
-          "chair",
-          "gifts, specific types of"
+          "gifts, specific types of",
+          "chair"
      ],
      [
           "Vv40",
-          "over not making spiritual progress",
-          "regret"
+          "regret",
+          "over not making spiritual progress"
      ],
      [
           "Vv41",
-          "robes",
-          "gifts, specific types of"
+          "gifts, specific types of",
+          "robes"
      ],
      [
           "Vv42",
-          "smallest gift has value",
-          "giving (dāna)"
+          "giving (dāna)",
+          "smallest gift has value"
      ],
      [
           "Vv43",
-          "not greatest happiness",
-          "wheel-turning monarchs"
+          "wheel-turning monarchs",
+          "not greatest happiness"
      ],
      [
           "Vv44",
-          "in someone else’s merit",
-          "rejoicing"
+          "rejoicing",
+          "in someone else’s merit"
      ],
      [
           "Vv44",
-          "monastery",
-          "gifts, specific types of"
+          "gifts, specific types of",
+          "monastery"
      ],
      [
           "Vv44",
-          "recollection of of ones own",
-          "generosity (cāga)"
+          "generosity (cāga)",
+          "recollection of of ones own"
      ],
      [
           "Vv45",
-          "flowers",
-          "gifts, specific types of"
+          "gifts, specific types of",
+          "flowers"
      ],
      [
           "Vv46",
-          "monastery",
-          "gifts, specific types of"
+          "gifts, specific types of",
+          "monastery"
      ],
      [
           "Vv47",
-          "to stupa",
-          "offerings"
+          "offerings",
+          "to stupa"
      ],
      [
           "Vv47",
-          "by cow ",
-          "death (maraṇa)"
+          "death (maraṇa)",
+          "by cow "
      ],
      [
           "Vv47",
-          "smallest gift has value",
-          "giving (dāna)"
+          "giving (dāna)",
+          "smallest gift has value"
      ],
      [
           "Vv48",
-          "sugarcane",
-          "gifts, specific types of"
+          "gifts, specific types of",
+          "sugarcane"
      ],
      [
           "Vv48",
-          "criticizing",
-          "giving (dāna)"
+          "giving (dāna)",
+          "criticizing"
      ],
      [
           "Vv49",
-          "leading to heaven",
-          "worshiping (vandati)"
+          "worshiping (vandati)",
+          "leading to heaven"
      ],
      [
           "Vv5",
-          "chair",
-          "gifts, specific types of"
+          "gifts, specific types of",
+          "chair"
      ],
      [
           "Vv50",
-          "prevented",
-          "suicide"
-     ],
-     [
-          "Vv50",
-          "gods that have become",
-          "stream-enterers"
+          "suicide",
+          "prevented"
      ],
      [
           "Vv50",
           "stream-enterers",
-          "devas"
+          "gods that have become"
      ],
      [
           "Vv50",
-          "visiting beings about to die",
-          "Buddha, the"
+          "devas",
+          "stream-enterers"
+     ],
+     [
+          "Vv50",
+          "Buddha, the",
+          "visiting beings about to die"
+     ],
+     [
+          "Vv51",
+          "animals",
+          "listening to Dhamma"
+     ],
+     [
+          "Vv51",
+          "Dhamma",
+          "sound of"
      ],
      [
           "Vv51",
           "listening to Dhamma",
-          "animals"
-     ],
-     [
-          "Vv51",
-          "sound of",
-          "Dhamma"
-     ],
-     [
-          "Vv51",
-          "by animal",
-          "listening to Dhamma"
+          "by animal"
      ],
      [
           "Vv52",
-          "like relatives greeting us after long journey",
-          "merit (puññā)"
+          "merit (puññā)",
+          "like relatives greeting us after long journey"
      ],
      [
           "Vv52",
-          "of heaven",
-          "tours"
+          "tours",
+          "of heaven"
      ],
      [
           "Vv52",
-          "rebirth",
-          "lying"
+          "lying",
+          "rebirth"
      ],
      [
           "Vv52",
-          "over not making spiritual progress",
-          "regret"
+          "regret",
+          "over not making spiritual progress"
      ],
      [
           "Vv53",
-          "",
-          "Chattamāṇavaka"
+          "Chattamāṇavaka",
+          ""
      ],
      [
           "Vv53",
-          "going for leads to heaven",
-          "refuges"
+          "refuges",
+          "going for leads to heaven"
      ],
      [
           "Vv53",
-          "visiting beings about to die",
-          "Buddha, the"
+          "Buddha, the",
+          "visiting beings about to die"
      ],
      [
           "Vv53",
-          "leading to heaven",
-          "precepts, five"
+          "precepts, five",
+          "leading to heaven"
      ],
      [
           "Vv53",
-          "precepts lead to",
-          "heaven"
+          "heaven",
+          "precepts lead to"
      ],
      [
           "Vv53",
-          "refuges lead to",
-          "heaven"
+          "heaven",
+          "refuges lead to"
      ],
      [
           "Vv53",
-          "small amounts give big results",
-          "merit (puññā)"
+          "merit (puññā)",
+          "small amounts give big results"
      ],
      [
           "Vv58",
-          "small amount",
-          "giving (dāna)"
+          "giving (dāna)",
+          "small amount"
      ],
      [
           "Vv58",
-          "needle",
-          "gifts, specific types of"
+          "gifts, specific types of",
+          "needle"
      ],
      [
           "Vv59",
-          "small amount",
-          "giving (dāna)"
+          "giving (dāna)",
+          "small amount"
      ],
      [
           "Vv59",
-          "needle",
-          "gifts, specific types of"
+          "gifts, specific types of",
+          "needle"
      ],
      [
           "Vv6",
-          "water",
-          "gifts, specific types of"
+          "gifts, specific types of",
+          "water"
      ],
      [
           "Vv60",
-          "to stupa",
-          "offerings"
+          "offerings",
+          "to stupa"
      ],
      [
           "Vv60",
-          "small amounts give big results",
-          "merit (puññā)"
+          "merit (puññā)",
+          "small amounts give big results"
      ],
      [
           "Vv61",
-          "",
-          "fidelity in marriage"
+          "fidelity in marriage",
+          ""
      ],
      [
           "Vv62",
-          "dwelling",
-          "gifts, specific types of"
+          "gifts, specific types of",
+          "dwelling"
      ],
      [
           "Vv63",
-          "teaches a hunter",
-          "Mahā Kaccāna"
+          "Mahā Kaccāna",
+          "teaches a hunter"
      ],
      [
           "Vv63",
-          "cannot escape ",
-          "death (maraṇa)"
+          "death (maraṇa)",
+          "cannot escape "
      ],
      [
           "Vv63",
-          "as universal",
-          "death (maraṇa)"
+          "death (maraṇa)",
+          "as universal"
      ],
      [
           "Vv63",
-          "attempting to go for refuge to individual monk",
-          "refuges"
+          "refuges",
+          "attempting to go for refuge to individual monk"
      ],
      [
           "Vv63",
-          "to relics",
-          "offerings"
+          "offerings",
+          "to relics"
      ],
      [
           "Vv64",
-          "",
-          "Kassapa, Buddha"
+          "Kassapa, Buddha",
+          ""
      ],
      [
           "Vv65",
-          "food",
-          "gifts, specific types of"
+          "gifts, specific types of",
+          "food"
      ],
      [
           "Vv67",
-          "fruit",
-          "gifts, specific types of"
+          "gifts, specific types of",
+          "fruit"
      ],
      [
           "Vv7",
-          "water",
-          "gifts, specific types of"
+          "gifts, specific types of",
+          "water"
      ],
      [
           "Vv74",
-          "as a deva",
-          "Uttara, servant of Pāyāsi"
+          "Uttara, servant of Pāyāsi",
+          "as a deva"
      ],
      [
           "Vv75",
-          "caring for",
-          "parents"
+          "parents",
+          "caring for"
      ],
      [
           "Vv76",
-          "caring for",
-          "parents"
+          "parents",
+          "caring for"
      ],
      [
           "Vv77",
-          "planting",
-          "trees"
+          "trees",
+          "planting"
      ],
      [
           "Vv77",
-          "monastery",
-          "gifts, specific types of"
-     ],
-     [
-          "Vv78",
-          "monastery",
-          "gifts, specific types of"
-     ],
-     [
-          "Vv79",
-          "bath",
-          "gifts, specific types of"
-     ],
-     [
-          "Vv79",
-          "getting a bath",
-          "Sāriputta, Ven."
-     ],
-     [
-          "Vv79",
-          "ingenuity while making",
-          "merit (puññā)"
-     ],
-     [
-          "Vv8",
-          "water",
-          "gifts, specific types of"
-     ],
-     [
-          "Vv80",
-          "ingenuity while making",
-          "merit (puññā)"
-     ],
-     [
-          "Vv81",
-          "Bodhisatta’s horse",
-          "Kanthaka deva"
-     ],
-     [
-          "Vv81",
-          "great renunciation",
-          "Bodhisatta"
-     ],
-     [
-          "Vv82",
-          "encouraging others to",
-          "worshiping (vandati)"
-     ],
-     [
-          "Vv82",
-          "worshiping",
-          "stupa (thupa)"
-     ],
-     [
-          "Vv83",
-          "",
-          "Maṭṭakuṇḍalī"
-     ],
-     [
-          "Vv83",
-          "giving advice",
-          "devas"
-     ],
-     [
-          "Vv83",
-          "visiting beings about to die",
-          "Buddha, the"
-     ],
-     [
-          "Vv83",
-          "leading to heaven",
-          "worshiping (vandati)"
-     ],
-     [
-          "Vv83",
-          "caring for",
-          "parents"
-     ],
-     [
-          "Vv83",
-          "cause of grief",
-          "death (maraṇa)"
-     ],
-     [
-          "Vv83",
-          "uselessness of",
-          "grieving"
-     ],
-     [
-          "Vv83",
-          "overcoming grief",
-          "death (maraṇa)"
-     ],
-     [
-          "Vv84",
-          "reborn as Serissaka deva",
-          "Pāyāsi king"
-     ],
-     [
-          "Vv84",
-          "",
-          "travel"
-     ],
-     [
-          "Vv84",
-          "giving advice",
-          "devas"
-     ],
-     [
-          "Vv85",
-          "cleaning",
-          "stupa (thupa)"
-     ],
-     [
-          "Vv85",
-          "small amounts give big results",
-          "merit (puññā)"
-     ],
-     [
-          "Vv9",
-          "light",
-          "gifts, specific types of"
-     ],
-     [
-          "xref “come, monk” ordination (ehi bhikkhu)",
-          "",
-          "ehi bhikkhu"
-     ],
-     [
-          "xref actions (kamma)",
-          "",
-          "kamma"
-     ],
-     [
-          "xref alms food",
-          "",
-          "giving (dāna)"
-     ],
-     [
-          "xref answering questions",
-          "",
-          "speech"
-     ],
-     [
-          "xref arahant",
-          "",
-          "brahmin"
-     ],
-     [
-          "xref arrogance",
-          "",
-          "pride"
-     ],
-     [
-          "xref bad friends",
-          "",
-          "friendship"
-     ],
-     [
-          "xref Bodhisatta",
-          "",
-          "Buddha, the"
-     ],
-     [
-          "xref Bodhisatta",
-          "before enlightenment",
-          "Buddha, the"
-     ],
-     [
-          "xref body",
-          "",
-          "mindfulness of body"
-     ],
-     [
-          "xref brahmās",
-          "",
-          "gods"
-     ],
-     [
-          "xref brahmin",
-          "",
-          "arahant"
-     ],
-     [
-          "xref charnel ground contemplation (sivathika)",
-          "",
-          "cemetery contemplation"
-     ],
-     [
-          "xref child arahants",
-          "",
-          "arahant"
-     ],
-     [
-          "xref children",
-          "",
-          "boys"
-     ],
-     [
-          "xref cloth, clean",
-          "",
-          "clean cloth"
-     ],
-     [
-          "xref death (maraṇa)",
-          "",
-          "King of death"
-     ],
-     [
-          "xref death (maraṇa)",
-          "",
-          "realm of death (maccudheyya)"
-     ],
-     [
-          "xref defamation",
-          "",
-          "speech"
-     ],
-     [
-          "xref departed relatives",
-          "",
-          "merit, sharing"
-     ],
-     [
-          "xref departed relatives",
-          "",
-          "ghosts"
-     ],
-     [
-          "xref dependent origination",
-          "",
-          "death (maraṇa)"
-     ],
-     [
-          "xref determination",
-          "",
-          "resolution"
-     ],
-     [
-          "xref devas",
-          "",
-          "mansions, heavenly"
-     ],
-     [
-          "xref devas",
-          "",
-          "heavenly mansions (vimāna)"
-     ],
-     [
-          "xref devas",
-          "",
-          "gods"
-     ],
-     [
-          "xref Dhamma teaching",
-          "",
-          "teaching Dhamma"
-     ],
-     [
-          "xref disputes",
-          "",
-          "speech"
-     ],
-     [
-          "xref disputes",
-          "",
-          "debates"
-     ],
-     [
-          "xref disputes",
-          "",
-          "quarrels"
-     ],
-     [
-          "xref divisive speech",
-          "",
-          "speech"
-     ],
-     [
-          "xref dwellings",
-          "",
-          "location"
-     ],
-     [
-          "xref false speech",
-          "",
-          "lying"
-     ],
-     [
-          "xref false speech",
-          "",
-          "speech"
-     ],
-     [
-          "xref friendship",
-          "",
-          "loving-kindness (mettā)"
-     ],
-     [
-          "xref generosity (cāga)",
-          "",
-          "giving (dāna)"
-     ],
-     [
-          "xref gifts, specific types of",
-          "",
+          "gifts, specific types of",
           "monastery"
      ],
      [
+          "Vv78",
+          "gifts, specific types of",
+          "monastery"
+     ],
+     [
+          "Vv79",
+          "gifts, specific types of",
+          "bath"
+     ],
+     [
+          "Vv79",
+          "Sāriputta, Ven.",
+          "getting a bath"
+     ],
+     [
+          "Vv79",
+          "merit (puññā)",
+          "ingenuity while making"
+     ],
+     [
+          "Vv8",
+          "gifts, specific types of",
+          "water"
+     ],
+     [
+          "Vv80",
+          "merit (puññā)",
+          "ingenuity while making"
+     ],
+     [
+          "Vv81",
+          "Kanthaka deva",
+          "Bodhisatta’s horse"
+     ],
+     [
+          "Vv81",
+          "Bodhisatta",
+          "great renunciation"
+     ],
+     [
+          "Vv82",
+          "worshiping (vandati)",
+          "encouraging others to"
+     ],
+     [
+          "Vv82",
+          "stupa (thupa)",
+          "worshiping"
+     ],
+     [
+          "Vv83",
+          "Maṭṭakuṇḍalī",
+          ""
+     ],
+     [
+          "Vv83",
+          "devas",
+          "giving advice"
+     ],
+     [
+          "Vv83",
+          "Buddha, the",
+          "visiting beings about to die"
+     ],
+     [
+          "Vv83",
+          "worshiping (vandati)",
+          "leading to heaven"
+     ],
+     [
+          "Vv83",
+          "parents",
+          "caring for"
+     ],
+     [
+          "Vv83",
+          "death (maraṇa)",
+          "cause of grief"
+     ],
+     [
+          "Vv83",
+          "grieving",
+          "uselessness of"
+     ],
+     [
+          "Vv83",
+          "death (maraṇa)",
+          "overcoming grief"
+     ],
+     [
+          "Vv84",
+          "Pāyāsi king",
+          "reborn as Serissaka deva"
+     ],
+     [
+          "Vv84",
+          "travel",
+          ""
+     ],
+     [
+          "Vv84",
+          "devas",
+          "giving advice"
+     ],
+     [
+          "Vv85",
+          "stupa (thupa)",
+          "cleaning"
+     ],
+     [
+          "Vv85",
+          "merit (puññā)",
+          "small amounts give big results"
+     ],
+     [
+          "Vv9",
+          "gifts, specific types of",
+          "light"
+     ],
+     [
+          "xref “come, monk” ordination (ehi bhikkhu)",
+          "ehi bhikkhu",
+          ""
+     ],
+     [
+          "xref actions (kamma)",
+          "kamma",
+          ""
+     ],
+     [
+          "xref alms food",
+          "giving (dāna)",
+          ""
+     ],
+     [
+          "xref anger (kodha)",
+          "kodha",
+          ""
+     ],
+     [
+          "xref answering questions",
+          "speech",
+          ""
+     ],
+     [
+          "xref arahant",
+          "brahmin",
+          ""
+     ],
+     [
+          "xref arrogance",
+          "pride",
+          ""
+     ],
+     [
+          "xref bad friends",
+          "friendship",
+          ""
+     ],
+     [
+          "xref Bodhisatta",
+          "Buddha, the",
+          ""
+     ],
+     [
+          "xref Bodhisatta",
+          "Buddha, the",
+          "before enlightenment"
+     ],
+     [
+          "xref body",
+          "mindfulness of body",
+          ""
+     ],
+     [
+          "xref brahmās",
+          "gods",
+          ""
+     ],
+     [
+          "xref brahmin",
+          "arahant",
+          ""
+     ],
+     [
+          "xref charnel ground contemplation (sivathika)",
+          "cemetery contemplation",
+          ""
+     ],
+     [
+          "xref child arahants",
+          "arahant",
+          ""
+     ],
+     [
+          "xref children",
+          "boys",
+          ""
+     ],
+     [
+          "xref cloth, clean",
+          "clean cloth",
+          ""
+     ],
+     [
+          "xref concentration (samādhi)",
+          "samādhi",
+          ""
+     ],
+     [
+          "xref craving (taṇha)",
+          "taṇha",
+          ""
+     ],
+     [
+          "xref death (maraṇa)",
+          "King of death",
+          ""
+     ],
+     [
+          "xref death (maraṇa)",
+          "realm of death (maccudheyya)",
+          ""
+     ],
+     [
+          "xref death (maraṇa)",
+          "maraṇa ",
+          ""
+     ],
+     [
+          "xref deathless (amata)",
+          "amata ",
+          ""
+     ],
+     [
+          "xref defamation",
+          "speech",
+          ""
+     ],
+     [
+          "xref defilements (āsava)",
+          "āsava ",
+          ""
+     ],
+     [
+          "xref delusion (moha) ",
+          "moha ",
+          ""
+     ],
+     [
+          "xref departed relatives",
+          "merit, sharing",
+          ""
+     ],
+     [
+          "xref departed relatives",
+          "ghosts",
+          ""
+     ],
+     [
+          "xref dependent origination",
+          "death (maraṇa)",
+          ""
+     ],
+     [
+          "xref determination",
+          "resolution",
+          ""
+     ],
+     [
+          "xref devas",
+          "mansions, heavenly",
+          ""
+     ],
+     [
+          "xref devas",
+          "heavenly mansions (vimāna)",
+          ""
+     ],
+     [
+          "xref devas",
+          "gods",
+          ""
+     ],
+     [
+          "xref Dhamma teaching",
+          "teaching Dhamma",
+          ""
+     ],
+     [
+          "xref disputes",
+          "speech",
+          ""
+     ],
+     [
+          "xref disputes",
+          "debates",
+          ""
+     ],
+     [
+          "xref disputes",
+          "quarrels",
+          ""
+     ],
+     [
+          "xref divine eye (dibbacakkhu) ",
+          "dibbacakkhu ",
+          ""
+     ],
+     [
+          "xref divisive speech",
+          "speech",
+          ""
+     ],
+     [
+          "xref dwellings",
+          "location",
+          ""
+     ],
+     [
+          "xref escape (nissaraṇa) ",
+          "nissaraṇa ",
+          ""
+     ],
+     [
+          "xref evil (pāpa)",
+          "pāpa ",
+          ""
+     ],
+     [
+          "xref faculties (indriya)",
+          "indriya ",
+          ""
+     ],
+     [
+          "xref faith (saddhā) ",
+          "saddhā ",
+          ""
+     ],
+     [
+          "xref false speech",
+          "lying",
+          ""
+     ],
+     [
+          "xref false speech",
+          "speech",
+          ""
+     ],
+     [
+          "xref fetters (saṁyojana)",
+          "saṁyojana ",
+          ""
+     ],
+     [
+          "xref friendship",
+          "loving-kindness (mettā)",
+          ""
+     ],
+     [
+          "xref generosity (cāga)",
+          "giving (dāna)",
+          ""
+     ],
+     [
+          "xref generosity (cāga) ",
+          "cāga ",
+          ""
+     ],
+     [
           "xref gifts, specific types of",
-          "",
-          "giving (dāna)"
+          "monastery",
+          ""
+     ],
+     [
+          "xref gifts, specific types of",
+          "giving (dāna)",
+          ""
      ],
      [
           "xref giving (dāna)",
-          "",
-          "generosity (cāga)"
+          "generosity (cāga)",
+          ""
      ],
      [
           "xref giving (dāna)",
-          "",
-          "alms food"
+          "alms food",
+          ""
      ],
      [
           "xref giving (dāna)",
-          "",
-          "heaven"
+          "heaven",
+          ""
+     ],
+     [
+          "xref giving (dāna) ",
+          "dāna ",
+          ""
      ],
      [
           "xref going forth (pabbajja)",
-          "",
-          "ordaining"
+          "ordaining",
+          ""
+     ],
+     [
+          "xref going forth (pabbajja)",
+          "pabbajja ",
+          ""
      ],
      [
           "xref good actions",
-          "",
-          "good conduct"
+          "good conduct",
+          ""
      ],
      [
           "xref gradual instruction",
-          "",
-          "giving (dāna)"
+          "giving (dāna)",
+          ""
+     ],
+     [
+          "xref greed (rāga) ",
+          "rāga ",
+          ""
      ],
      [
           "xref harsh speech",
-          "",
-          "speech"
+          "speech",
+          ""
+     ],
+     [
+          "xref hatred (dosa)",
+          "dosa",
+          ""
+     ],
+     [
+          "xref heart’s release (cetovimutti) ",
+          "cetovimutti ",
+          ""
      ],
      [
           "xref heedfulness (appamāda)",
-          "",
-          "diligence"
+          "diligence",
+          ""
+     ],
+     [
+          "xref heedfulness (appamāda)",
+          "appamāda",
+          ""
+     ],
+     [
+          "xref heedfulness (appamāda) ",
+          "appamāda ",
+          ""
+     ],
+     [
+          "xref heedlessness (pamāda) ",
+          "pamāda ",
+          ""
+     ],
+     [
+          "xref hindrances (nīvarana)",
+          "nīvarana",
+          ""
      ],
      [
           "xref knowledges, three",
-          "",
-          "threefold knowledge"
+          "threefold knowledge",
+          ""
      ],
      [
           "xref knowledges, three",
-          "",
-          "triple knowledge"
+          "triple knowledge",
+          ""
      ],
      [
           "xref learning",
-          "",
-          "listening to Dhamma"
+          "listening to Dhamma",
+          ""
      ],
      [
           "xref listening to Dhamma",
-          "",
-          "learning"
+          "learning",
+          ""
      ],
      [
           "xref loved ones",
-          "",
-          "children"
+          "children",
+          ""
      ],
      [
           "xref loving-kindness (mettā)",
-          "",
-          "goodwill"
+          "goodwill",
+          ""
+     ],
+     [
+          "xref loving-kindness (mettā) ",
+          "mettā ",
+          ""
      ],
      [
           "xref marks of a great man",
-          "",
-          "thirty-two marks"
+          "thirty-two marks",
+          ""
      ],
      [
           "xref Māyā, queen Mahā",
-          "",
-          "Mahā Māyā, queen"
+          "Mahā Māyā, queen",
+          ""
      ],
      [
           "xref mendicant",
-          "",
-          "monk"
+          "monk",
+          ""
      ],
      [
           "xref merit sharing",
-          "",
-          "sharing merit"
+          "sharing merit",
+          ""
      ],
      [
           "xref mindfulness of body",
-          "",
-          "body"
+          "body",
+          ""
      ],
      [
           "xref Moggallāna, Ven",
-          "",
-          "Mahā Moggallāna"
+          "Mahā Moggallāna",
+          ""
      ],
      [
           "xref monastic life",
-          "",
-          "brahmacariya"
+          "brahmacariya",
+          ""
      ],
      [
           "xref monastics",
-          "",
-          "bad monastics"
+          "bad monastics",
+          ""
      ],
      [
           "xref offerings",
-          "",
-          "giving (dāna)"
+          "giving (dāna)",
+          ""
      ],
      [
           "xref offerings",
-          "",
-          "stupa (thupa)"
+          "stupa (thupa)",
+          ""
      ],
      [
           "xref offerings",
-          "",
-          "relics"
+          "relics",
+          ""
      ],
      [
           "xref old age",
-          "",
-          "aging"
+          "aging",
+          ""
      ],
      [
           "xref paccekabuddha",
-          "",
-          "solitary Buddha"
+          "solitary Buddha",
+          ""
      ],
      [
           "xref perception of ugliness (asubhasañña)",
-          "",
-          "foulness of body"
+          "foulness of body",
+          ""
      ],
      [
           "xref perception of ugliness (asubhasañña)",
-          "",
-          "body"
+          "body",
+          ""
      ],
      [
           "xref perception of ugliness (asubhasañña)",
-          "",
-          "asubhasañña"
+          "asubhasañña",
+          ""
      ],
      [
           "xref perception of ugliness (asubhasañña)",
-          "",
-          "unattractiveness"
+          "unattractiveness",
+          ""
      ],
      [
           "xref precepts",
-          "",
-          "virtue"
+          "virtue",
+          ""
      ],
      [
           "xref proper attention (yoniso manasikāra)",
-          "",
-          "wise attention"
+          "wise attention",
+          ""
      ],
      [
           "xref proper attention (yoniso manasikāra)",
-          "",
-          "yoniso manasikāra"
+          "yoniso manasikāra",
+          ""
+     ],
+     [
+          "xref prudence (ottāpa) ",
+          "ottāpa ",
+          ""
      ],
      [
           "xref rag-robe wearing",
-          "",
-          "requisites, four"
+          "requisites, four",
+          ""
+     ],
+     [
+          "xref recollection of the Buddha (buddhānussati) ",
+          "buddhānussati ",
+          ""
+     ],
+     [
+          "xref recollection of the Dhamma (dhammānussati)",
+          "dhammānussati ",
+          ""
+     ],
+     [
+          "xref recollection of the Saṅgha (saṅghānussati) ",
+          "saṅghānussati ",
+          ""
      ],
      [
           "xref requisites, four",
-          "",
-          "monastic life"
+          "monastic life",
+          ""
      ],
      [
-          "xref right speech (sammāvācā)",
-          "",
-          "speech"
+          "xref right speech (sammā vācā)",
+          "speech",
+          ""
+     ],
+     [
+          "xref right speech (sammā vācā) ",
+          "sammā vācā ",
+          ""
      ],
      [
           "xref sadness",
-          "",
-          "sorrow"
+          "sorrow",
+          ""
+     ],
+     [
+          "xref sage (muni) ",
+          "muni ",
+          ""
      ],
      [
           "xref sickness",
-          "",
-          "illness"
+          "illness",
+          ""
      ],
      [
           "xref skillfulness",
-          "",
-          "wholesomeness"
+          "wholesomeness",
+          ""
      ],
      [
           "xref solitary life",
-          "",
-          "living alone"
+          "living alone",
+          ""
      ],
      [
           "xref speech",
-          "",
-          "harsh speech"
+          "harsh speech",
+          ""
      ],
      [
           "xref stinginess",
-          "",
-          "generosity (cāga)"
+          "generosity (cāga)",
+          ""
      ],
      [
           "xref stinginess",
-          "",
-          "giving (dāna)"
+          "giving (dāna)",
+          ""
+     ],
+     [
+          "xref stupa (thupa) ",
+          "thupa ",
+          ""
      ],
      [
           "xref uposatha",
-          "",
-          "sabath"
+          "sabath",
+          ""
      ],
      [
           "xref virtue",
-          "",
-          "morality"
+          "morality",
+          ""
      ],
      [
           "xref wrong speech (micchā vacā)",
-          "",
-          "speech"
+          "speech",
+          ""
      ],
      [
           "xref wrong views",
-          "",
-          "hell"
+          "hell",
+          ""
      ]
 ]`

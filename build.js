@@ -110,7 +110,7 @@ function natsort(options) {
   };
 }
 
-function sortCitations(citations) {
+function sortCitationsList(citations) {
   const orderedBooks = ["DN", "MN", "SN", "AN", "Kp", "Dhp", "Ud", "Iti", "Snp", "Vv", "Pv", "Thag", "Thig"];
 
   const citationsObject = {
@@ -215,7 +215,7 @@ for (let i = 0; i < headwords.length; i++) {
   const subs = Object.keys(index[headwords[i]]);
 
   for (let x = 0; x < subs.length; x++) {
-    index[headwords[i]][subs[x]].locators = sortCitations(index[headwords[i]][subs[x]].locators);
+    index[headwords[i]][subs[x]].locators = sortCitationsList(index[headwords[i]][subs[x]].locators);
   }
 
   for (let x = 0; x < subs.length; x++) {
@@ -236,7 +236,7 @@ let locatorFirstArray = [];
 
 for (let i = 0; i < rawIndexArray.length - 1; i++) {
   // console.log(rawIndexArray[i][2].replace(/\r/, ""));
-  locatorFirstArray.push([rawIndexArray[i][2].replace(/\r/, ""), rawIndexArray[i][1], rawIndexArray[i][0]]);
+  locatorFirstArray.push([rawIndexArray[i][2].replace(/\r/, ""), rawIndexArray[i][0], rawIndexArray[i][1]]);
 }
 
 locatorFirstArray.sort((a, b) => {
