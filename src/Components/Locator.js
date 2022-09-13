@@ -12,22 +12,24 @@ export default function Locator(props) {
     return locator.replace(/–.+/, "");
   }
 
+  const locationForUrl = stripRangesFromUrls(location).toLowerCase();
+
   let url = "";
   switch (destination) {
     case "SC":
-      url = `https://suttacentral.net/${stripRangesFromUrls(location)}/en/sujato`;
+      url = `https://suttacentral.net/${locationForUrl}/en/sujato`;
       break;
     case "SCL":
-      url = `https://sc.readingfaithfully.org/?q=${stripRangesFromUrls(location)}`;
+      url = `https://sc.readingfaithfully.org/?q=${locationForUrl}`;
       break;
     case "CH":
-      url = `https://sutta.readingfaithfully.org/?q=${stripRangesFromUrls(location)}`;
+      url = `https://sutta.readingfaithfully.org/?q=${locationForUrl}`;
       break;
     case "SCV":
-      url = `https://voice.suttacentral.net/scv/index.html#/sutta?search=${stripRangesFromUrls(location)}`;
+      url = `https://voice.suttacentral.net/scv/index.html#/sutta?search=${locationForUrl}`;
       break;
     default:
-      url = `https://suttacentral.net/${stripRangesFromUrls(location)}/en/sujato`;
+      url = `https://suttacentral.net/${locationForUrl}/en/sujato`;
   }
 
   function addHairSpace(location) {

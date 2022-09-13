@@ -170,6 +170,101 @@ export const indexArray =`[
           "whom to give to"
      ],
      [
+          "AN3.1",
+          "fools",
+          "dangers, perils, hazzards come from"
+     ],
+     [
+          "AN3.1",
+          "fools",
+          "like fire that spreads to houses"
+     ],
+     [
+          "AN3.10",
+          "jealousy",
+          "leading to hell"
+     ],
+     [
+          "AN3.10",
+          "stinginess",
+          "leading to hell"
+     ],
+     [
+          "AN3.10",
+          "jealousy",
+          "giving up leads to heaven"
+     ],
+     [
+          "AN3.10",
+          "stinginess",
+          "giving up leads to heaven"
+     ],
+     [
+          "AN3.11",
+          "mendicants",
+          "acting for the harm or welfare of beings"
+     ],
+     [
+          "AN3.11",
+          "encouragement",
+          "to others"
+     ],
+     [
+          "AN3.12",
+          "mendicants",
+          "places to remember"
+     ],
+     [
+          "AN3.13",
+          "hope",
+          "free from"
+     ],
+     [
+          "AN3.13",
+          "hope",
+          "having the hope to become enlightened"
+     ],
+     [
+          "AN3.14",
+          "wheel-turning monarchs",
+          "Dhamma is their king"
+     ],
+     [
+          "AN3.14",
+          "Buddha, the",
+          "honoring the Dhamma"
+     ],
+     [
+          "AN3.14",
+          "Dhamma",
+          "honored by the Buddha"
+     ],
+     [
+          "AN3.15",
+          "wheel",
+          "made well"
+     ],
+     [
+          "AN3.15",
+          "chariot-maker",
+          ""
+     ],
+     [
+          "AN3.15",
+          "Bodhisatta",
+          "as chariot-maker"
+     ],
+     [
+          "AN3.2",
+          "fools",
+          "known by actions"
+     ],
+     [
+          "AN3.2",
+          "wise people",
+          "known by actions"
+     ],
+     [
           "AN3.28",
           "harsh speech",
           ""
@@ -195,6 +290,26 @@ export const indexArray =`[
           "simile of honey"
      ],
      [
+          "AN3.3",
+          "fool",
+          "characteristics"
+     ],
+     [
+          "AN3.3",
+          "wise people",
+          "characteristics"
+     ],
+     [
+          "AN3.4",
+          "mistakes",
+          "recognizing"
+     ],
+     [
+          "AN3.4",
+          "confession",
+          "accepting"
+     ],
+     [
           "AN3.41",
           "giving (dāna)",
           "conditions for"
@@ -213,6 +328,16 @@ export const indexArray =`[
           "AN3.45",
           "giving (dāna)",
           "taught by the wise"
+     ],
+     [
+          "AN3.5",
+          "questions, asking",
+          ""
+     ],
+     [
+          "AN3.5",
+          "questions, answering ",
+          ""
      ],
      [
           "AN3.57",
@@ -238,6 +363,16 @@ export const indexArray =`[
           "AN3.57",
           "giving (dāna)",
           "whom to give to"
+     ],
+     [
+          "AN3.6",
+          "fools",
+          "characteristics"
+     ],
+     [
+          "AN3.6",
+          "wise people",
+          "characteristics"
      ],
      [
           "AN3.63",
@@ -396,7 +531,7 @@ export const indexArray =`[
      ],
      [
           "AN4.42",
-          "answering questions",
+          "questions, answering ",
           ""
      ],
      [
@@ -1206,7 +1341,7 @@ export const indexArray =`[
      ],
      [
           "Dhp chapter 5",
-          "fool",
+          "fools",
           ""
      ],
      [
@@ -2691,12 +2826,12 @@ export const indexArray =`[
      ],
      [
           "Dhp60",
-          "fool",
+          "fools",
           "long in saṁsara"
      ],
      [
           "Dhp61",
-          "fool",
+          "fools",
           "don’t associate with"
      ],
      [
@@ -2726,7 +2861,7 @@ export const indexArray =`[
      ],
      [
           "Dhp66",
-          "fool",
+          "fools",
           "own worst enemy"
      ],
      [
@@ -2771,12 +2906,12 @@ export const indexArray =`[
      ],
      [
           "Dhp73",
-          "fool",
+          "fools",
           "seeking power"
      ],
      [
           "Dhp74",
-          "fool",
+          "fools",
           "seeking power"
      ],
      [
@@ -10115,11 +10250,6 @@ export const indexArray =`[
           ""
      ],
      [
-          "xref answering questions",
-          "speech",
-          ""
-     ],
-     [
           "xref arahant",
           "brahmin",
           ""
@@ -10577,6 +10707,21 @@ export const indexArray =`[
      [
           "xref prudence (ottāpa) ",
           "ottāpa ",
+          ""
+     ],
+     [
+          "xref questions, answering ",
+          "speech",
+          ""
+     ],
+     [
+          "xref questions, answering ",
+          "answering questions",
+          ""
+     ],
+     [
+          "xref questions, asking",
+          "asking questions",
           ""
      ],
      [

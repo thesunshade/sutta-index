@@ -651,6 +651,18 @@ export const indexObject =`{
                     "Dhp223"
                ],
                "xrefs": []
+          },
+          "leading to hell": {
+               "locators": [
+                    "AN3.10"
+               ],
+               "xrefs": []
+          },
+          "giving up leads to heaven": {
+               "locators": [
+                    "AN3.10"
+               ],
+               "xrefs": []
           }
      },
      "death (maraṇa)": {
@@ -1461,12 +1473,12 @@ export const indexObject =`{
           "": {
                "locators": [],
                "xrefs": [
-                    "xref answering questions",
                     "xref defamation",
                     "xref disputes",
                     "xref divisive speech",
                     "xref false speech",
                     "xref harsh speech",
+                    "xref questions, answering",
                     "xref right speech (sammā vācā)",
                     "xref wrong speech (micchā vacā)"
                ]
@@ -1861,9 +1873,10 @@ export const indexObject =`{
                "xrefs": []
           }
      },
-     "answering questions": {
+     "questions, answering": {
           "": {
                "locators": [
+                    "AN3.5",
                     "AN4.42"
                ],
                "xrefs": []
@@ -3166,6 +3179,12 @@ export const indexObject =`{
                     "Thag15.2"
                ],
                "xrefs": []
+          },
+          "honoring the Dhamma": {
+               "locators": [
+                    "AN3.14"
+               ],
+               "xrefs": []
           }
      },
      "Dhamma": {
@@ -3278,6 +3297,12 @@ export const indexObject =`{
           "decline of in future": {
                "locators": [
                     "Thag17.1"
+               ],
+               "xrefs": []
+          },
+          "honored by the Buddha": {
+               "locators": [
+                    "AN3.14"
                ],
                "xrefs": []
           }
@@ -3871,6 +3896,12 @@ export const indexObject =`{
                "locators": [
                     "Vv20",
                     "Vv43"
+               ],
+               "xrefs": []
+          },
+          "Dhamma is their king": {
+               "locators": [
+                    "AN3.14"
                ],
                "xrefs": []
           }
@@ -4751,7 +4782,7 @@ export const indexObject =`{
                "xrefs": []
           }
      },
-     "fool": {
+     "fools": {
           "": {
                "locators": [
                     "Dhp chapter 5"
@@ -4780,6 +4811,30 @@ export const indexObject =`{
                "locators": [
                     "Dhp73",
                     "Dhp74"
+               ],
+               "xrefs": []
+          },
+          "dangers, perils, hazzards come from": {
+               "locators": [
+                    "AN3.1"
+               ],
+               "xrefs": []
+          },
+          "like fire that spreads to houses": {
+               "locators": [
+                    "AN3.1"
+               ],
+               "xrefs": []
+          },
+          "known by actions": {
+               "locators": [
+                    "AN3.2"
+               ],
+               "xrefs": []
+          },
+          "characteristics": {
+               "locators": [
+                    "AN3.6"
                ],
                "xrefs": []
           }
@@ -5058,6 +5113,19 @@ export const indexObject =`{
           "can identify fools and wise": {
                "locators": [
                     "Thag1.61"
+               ],
+               "xrefs": []
+          },
+          "known by actions": {
+               "locators": [
+                    "AN3.2"
+               ],
+               "xrefs": []
+          },
+          "characteristics": {
+               "locators": [
+                    "AN3.3",
+                    "AN3.6"
                ],
                "xrefs": []
           }
@@ -5721,6 +5789,18 @@ export const indexObject =`{
           "rebirth in ghost realm": {
                "locators": [
                     "Pv15"
+               ],
+               "xrefs": []
+          },
+          "leading to hell": {
+               "locators": [
+                    "AN3.10"
+               ],
+               "xrefs": []
+          },
+          "giving up leads to heaven": {
+               "locators": [
+                    "AN3.10"
                ],
                "xrefs": []
           }
@@ -6921,6 +7001,7 @@ export const indexObject =`{
           },
           "free from": {
                "locators": [
+                    "AN3.13",
                     "Snp1.3",
                     "Snp5.5",
                     "Snp5.10"
@@ -6936,6 +7017,12 @@ export const indexObject =`{
           "for success": {
                "locators": [
                     "Thag10.1"
+               ],
+               "xrefs": []
+          },
+          "having the hope to become enlightened": {
+               "locators": [
+                    "AN3.13"
                ],
                "xrefs": []
           }
@@ -7376,6 +7463,12 @@ export const indexObject =`{
           "great renunciation": {
                "locators": [
                     "Vv81"
+               ],
+               "xrefs": []
+          },
+          "as chariot-maker": {
+               "locators": [
+                    "AN3.15"
                ],
                "xrefs": []
           }
@@ -9602,6 +9695,12 @@ export const indexObject =`{
                     "Thag2.27"
                ],
                "xrefs": []
+          },
+          "recognizing": {
+               "locators": [
+                    "AN3.4"
+               ],
+               "xrefs": []
           }
      },
      "devoted to oneness (ekattanirata)": {
@@ -10249,6 +10348,12 @@ export const indexObject =`{
                     "Thag19.1"
                ],
                "xrefs": []
+          },
+          "to others": {
+               "locators": [
+                    "AN3.11"
+               ],
+               "xrefs": []
           }
      },
      "cat-skin bag": {
@@ -10554,6 +10659,76 @@ export const indexObject =`{
                "xrefs": [
                     "xref stupa (thupa)"
                ]
+          }
+     },
+     "fool": {
+          "characteristics": {
+               "locators": [
+                    "AN3.3"
+               ],
+               "xrefs": []
+          }
+     },
+     "confession": {
+          "accepting": {
+               "locators": [
+                    "AN3.4"
+               ],
+               "xrefs": []
+          }
+     },
+     "questions, asking": {
+          "": {
+               "locators": [
+                    "AN3.5"
+               ],
+               "xrefs": []
+          }
+     },
+     "answering questions": {
+          "": {
+               "locators": [],
+               "xrefs": [
+                    "xref questions, answering"
+               ]
+          }
+     },
+     "asking questions": {
+          "": {
+               "locators": [],
+               "xrefs": [
+                    "xref questions, asking"
+               ]
+          }
+     },
+     "mendicants": {
+          "acting for the harm or welfare of beings": {
+               "locators": [
+                    "AN3.11"
+               ],
+               "xrefs": []
+          },
+          "places to remember": {
+               "locators": [
+                    "AN3.12"
+               ],
+               "xrefs": []
+          }
+     },
+     "wheel": {
+          "made well": {
+               "locators": [
+                    "AN3.15"
+               ],
+               "xrefs": []
+          }
+     },
+     "chariot-maker": {
+          "": {
+               "locators": [
+                    "AN3.15"
+               ],
+               "xrefs": []
           }
      }
 }`
