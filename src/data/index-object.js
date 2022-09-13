@@ -953,6 +953,12 @@ export const indexObject =`{
                     "Thag6.13"
                ],
                "xrefs": []
+          },
+          "without fear": {
+               "locators": [
+                    "Thag16.1"
+               ],
+               "xrefs": []
           }
      },
      "deathbed": {
@@ -1210,6 +1216,12 @@ export const indexObject =`{
           "mind of love makes merit": {
                "locators": [
                     "Thag3.7"
+               ],
+               "xrefs": []
+          },
+          "limitless": {
+               "locators": [
+                    "Thag14.1"
                ],
                "xrefs": []
           }
@@ -2703,7 +2715,8 @@ export const indexObject =`{
           },
           "with four requisites": {
                "locators": [
-                    "Thag3.4"
+                    "Thag3.4",
+                    "Thag10.6"
                ],
                "xrefs": []
           }
@@ -2895,7 +2908,8 @@ export const indexObject =`{
      "worldly conditions": {
           "": {
                "locators": [
-                    "Kp5"
+                    "Kp5",
+                    "Thag14.2"
                ],
                "xrefs": []
           }
@@ -3116,6 +3130,12 @@ export const indexObject =`{
                     "Thag4.6"
                ],
                "xrefs": []
+          },
+          "as nāga": {
+               "locators": [
+                    "Thag15.2"
+               ],
+               "xrefs": []
           }
      },
      "Dhamma": {
@@ -3216,6 +3236,12 @@ export const indexObject =`{
           "mirror": {
                "locators": [
                     "Thag2.26"
+               ],
+               "xrefs": []
+          },
+          "full of flavor (mahārassa)": {
+               "locators": [
+                    "Thag15.1"
                ],
                "xrefs": []
           }
@@ -3377,7 +3403,7 @@ export const indexObject =`{
                "xrefs": []
           }
      },
-     "six grave crimes (Chaccābhiṭhānāni abhabba)": {
+     "six grave crimes (chaccābhiṭhānāni abhabba)": {
           "": {
                "locators": [
                     "Kp6"
@@ -3696,15 +3722,24 @@ export const indexObject =`{
           },
           "leading to heaven": {
                "locators": [
-                    "Vv1.11"
+                    "Vv1.11",
+                    "Thag12.1"
                ],
                "xrefs": []
           },
           "": {
-               "locators": [],
+               "locators": [
+                    "Thag12.1"
+               ],
                "xrefs": [
                     "xref precepts"
                ]
+          },
+          "leading to happiness": {
+               "locators": [
+                    "Thag12.1"
+               ],
+               "xrefs": []
           }
      },
      "restraint": {
@@ -4164,6 +4199,12 @@ export const indexObject =`{
           "single day of": {
                "locators": [
                     "Dhp112"
+               ],
+               "xrefs": []
+          },
+          "like a well tuned lute": {
+               "locators": [
+                    "Thag13.1"
                ],
                "xrefs": []
           }
@@ -4765,6 +4806,12 @@ export const indexObject =`{
                     "Dhp72"
                ],
                "xrefs": []
+          },
+          "of the uninteligent": {
+               "locators": [
+                    "Thag14.2"
+               ],
+               "xrefs": []
           }
      },
      "friendship": {
@@ -5240,13 +5287,20 @@ export const indexObject =`{
                     "Snp1.11",
                     "Thag4.4",
                     "Thag6.4",
-                    "Thag6.14"
+                    "Thag6.14",
+                    "Thag10.5"
                ],
                "xrefs": []
           },
           "to give up greed": {
                "locators": [
                     "Ud4.1"
+               ],
+               "xrefs": []
+          },
+          "shun body like snake smeared with dung": {
+               "locators": [
+                    "Thag10.5"
                ],
                "xrefs": []
           }
@@ -5436,10 +5490,34 @@ export const indexObject =`{
                "xrefs": []
           }
      },
-     "sense pleasures in general": {
+     "sense pleasures": {
           "as insatiable": {
                "locators": [
                     "Dhp186"
+               ],
+               "xrefs": []
+          },
+          "": {
+               "locators": [
+                    "Snp4.1"
+               ],
+               "xrefs": []
+          },
+          "to be avoided like snake head": {
+               "locators": [
+                    "Snp4.1"
+               ],
+               "xrefs": []
+          },
+          "of the past and future": {
+               "locators": [
+                    "Snp4.2"
+               ],
+               "xrefs": []
+          },
+          "suffering in": {
+               "locators": [
+                    "Thag1.93"
                ],
                "xrefs": []
           }
@@ -5951,7 +6029,8 @@ export const indexObject =`{
           },
           "as higher than virtue": {
                "locators": [
-                    "Thag1.70"
+                    "Thag1.70",
+                    "Thag12.1"
                ],
                "xrefs": []
           }
@@ -6105,6 +6184,12 @@ export const indexObject =`{
                     "Ud4.4"
                ],
                "xrefs": []
+          },
+          "suffering of": {
+               "locators": [
+                    "Thag14.2"
+               ],
+               "xrefs": []
           }
      },
      "hell": {
@@ -6239,7 +6324,9 @@ export const indexObject =`{
                     "Snp2.14",
                     "Snp3.11",
                     "Snp4.16",
-                    "Thag6.7"
+                    "Thag6.7",
+                    "Thag10.6",
+                    "Thag10.7"
                ],
                "xrefs": []
           },
@@ -7727,6 +7814,12 @@ export const indexObject =`{
                     "Iti62"
                ],
                "xrefs": []
+          },
+          "knocking out faculties with faculties": {
+               "locators": [
+                    "Thag16.2"
+               ],
+               "xrefs": []
           }
      },
      "time": {
@@ -7802,6 +7895,12 @@ export const indexObject =`{
           "wishing for": {
                "locators": [
                     "Iti76"
+               ],
+               "xrefs": []
+          },
+          "by fools": {
+               "locators": [
+                    "Thag14.2"
                ],
                "xrefs": []
           }
@@ -8233,6 +8332,12 @@ export const indexObject =`{
                     "Snp3.9"
                ],
                "xrefs": []
+          },
+          "low caste monk": {
+               "locators": [
+                    "Thag12.2"
+               ],
+               "xrefs": []
           }
      },
      "birth is not determinant": {
@@ -8491,32 +8596,6 @@ export const indexObject =`{
           "Dhamma as": {
                "locators": [
                     "Snp3.12"
-               ],
-               "xrefs": []
-          }
-     },
-     "sense pleasures": {
-          "": {
-               "locators": [
-                    "Snp4.1"
-               ],
-               "xrefs": []
-          },
-          "to be avoided like snake head": {
-               "locators": [
-                    "Snp4.1"
-               ],
-               "xrefs": []
-          },
-          "of the past and future": {
-               "locators": [
-                    "Snp4.2"
-               ],
-               "xrefs": []
-          },
-          "suffering in": {
-               "locators": [
-                    "Thag1.93"
                ],
                "xrefs": []
           }
@@ -9716,6 +9795,71 @@ export const indexObject =`{
           "meditation on": {
                "locators": [
                     "Thag10.4"
+               ],
+               "xrefs": []
+          }
+     },
+     "cemetery contemplation": {
+          "": {
+               "locators": [],
+               "xrefs": [
+                    "xref charnel ground contemplation (sivathika)"
+               ]
+          }
+     },
+     "dwellings": {
+          "suitable": {
+               "locators": [
+                    "Thag10.6",
+                    "Thag10.7"
+               ],
+               "xrefs": []
+          }
+     },
+     "pretending to be stupid": {
+          "": {
+               "locators": [
+                    "Thag10.6"
+               ],
+               "xrefs": []
+          }
+     },
+     "overconfidence": {
+          "before enlightenment": {
+               "locators": [
+                    "Thag10.6"
+               ],
+               "xrefs": []
+          }
+     },
+     "“come, monk” ordination (ehi bhikkhu)": {
+          "": {
+               "locators": [
+                    "Thag12.2"
+               ],
+               "xrefs": []
+          }
+     },
+     "ehi bhikkhu": {
+          "": {
+               "locators": [],
+               "xrefs": [
+                    "xref “come, monk” ordination (ehi bhikkhu)"
+               ]
+          }
+     },
+     "gain": {
+          "illegitimate": {
+               "locators": [
+                    "Thag14.2"
+               ],
+               "xrefs": []
+          }
+     },
+     "sense restraint": {
+          "": {
+               "locators": [
+                    "Thag16.2"
                ],
                "xrefs": []
           }

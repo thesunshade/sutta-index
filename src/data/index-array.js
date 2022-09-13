@@ -1687,7 +1687,7 @@ export const indexArray =`[
      [
           "Dhp186",
           "as insatiable",
-          "sense pleasures in general"
+          "sense pleasures"
      ],
      [
           "Dhp188–89",
@@ -4177,7 +4177,7 @@ export const indexArray =`[
      [
           "Kp6",
           "",
-          "six grave crimes (Chaccābhiṭhānāni abhabba)"
+          "six grave crimes (chaccābhiṭhānāni abhabba)"
      ],
      [
           "Kp6",
@@ -7395,9 +7395,144 @@ export const indexArray =`[
           "cloth, clean"
      ],
      [
+          "Thag10.5",
+          "",
+          "perception of ugliness (asubhasañña)"
+     ],
+     [
+          "Thag10.5",
+          "shun body like snake smeared with dung",
+          "perception of ugliness (asubhasañña)"
+     ],
+     [
+          "Thag10.6",
+          "suitable",
+          "dwellings"
+     ],
+     [
+          "Thag10.6",
+          "",
+          "pretending to be stupid"
+     ],
+     [
+          "Thag10.6",
+          "advice for",
+          "monastic life"
+     ],
+     [
+          "Thag10.6",
+          "before enlightenment",
+          "overconfidence"
+     ],
+     [
+          "Thag10.6",
+          "with four requisites",
+          "contentment"
+     ],
+     [
+          "Thag10.7",
+          "suitable",
+          "dwellings"
+     ],
+     [
+          "Thag10.7",
+          "advice for",
+          "monastic life"
+     ],
+     [
+          "Thag12.1",
+          "leading to heaven",
+          "virtue"
+     ],
+     [
+          "Thag12.1",
+          "leading to happiness",
+          "virtue"
+     ],
+     [
+          "Thag12.1",
+          "",
+          "virtue"
+     ],
+     [
+          "Thag12.1",
+          "as higher than virtue",
+          "wisdom"
+     ],
+     [
+          "Thag12.2",
+          "low caste monk",
+          "caste"
+     ],
+     [
+          "Thag12.2",
+          "",
+          "“come, monk” ordination (ehi bhikkhu)"
+     ],
+     [
+          "Thag13.1",
+          "like a well tuned lute",
+          "energy"
+     ],
+     [
+          "Thag14.1",
+          "limitless",
+          "loving-kindness (mettā)"
+     ],
+     [
+          "Thag14.2",
+          "",
+          "worldly conditions"
+     ],
+     [
+          "Thag14.2",
+          "illegitimate",
+          "gain"
+     ],
+     [
+          "Thag14.2",
+          "of the uninteligent",
+          "fame"
+     ],
+     [
+          "Thag14.2",
+          "by fools",
+          "praise"
+     ],
+     [
+          "Thag14.2",
+          "suffering of",
+          "seclusion"
+     ],
+     [
+          "Thag15.1",
+          "full of flavor (mahārassa)",
+          "Dhamma"
+     ],
+     [
+          "Thag15.2",
+          "as nāga",
+          "Buddha, the"
+     ],
+     [
           "Thag16.1",
           "fear of",
           "death (maraṇa)"
+     ],
+     [
+          "Thag16.1",
+          "without fear",
+          "death (maraṇa)"
+     ],
+     [
+          "Thag16.2",
+          "",
+          "sense restraint"
+     ],
+     [
+          "Thag16.2",
+          "knocking out faculties with faculties",
+          "faculties (indriya)"
      ],
      [
           "Thag2.10",
@@ -9530,6 +9665,11 @@ export const indexArray =`[
           "death (maraṇa)"
      ],
      [
+          "xref “come, monk” ordination (ehi bhikkhu)",
+          "",
+          "ehi bhikkhu"
+     ],
+     [
           "xref actions (kamma)",
           "",
           "kamma"
@@ -9588,6 +9728,11 @@ export const indexArray =`[
           "xref brahmin",
           "",
           "arahant"
+     ],
+     [
+          "xref charnel ground contemplation (sivathika)",
+          "",
+          "cemetery contemplation"
      ],
      [
           "xref child arahants",

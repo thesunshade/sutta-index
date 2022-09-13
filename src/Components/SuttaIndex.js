@@ -4,7 +4,7 @@ import Headword from "./Headword";
 import fuzz from "../functions/fuzz.js";
 
 export default function SuttaIndex(props) {
-  const { destination, filterByText } = props;
+  const { filterByText } = props;
   const index = JSON.parse(indexObject);
   const headwordsArray = sortedKeys(index);
 

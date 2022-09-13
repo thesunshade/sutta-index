@@ -10,9 +10,7 @@ export const ContextFilterSetters = createContext();
 
 function App() {
   const [destination, setDestination] = useState(localStorage.destination ? localStorage.destination : "SC");
-  const [isLocatorView, setIsLocatorView] = useState(
-    localStorage.isLocatorView ? JSON.parse(localStorage.isLocatorView) : false
-  );
+  const [isLocatorView, setIsLocatorView] = useState(false);
   const [filterInput, setFilterInput] = useState("");
   const [filterByText, setFilterByText] = useState("");
 
@@ -35,10 +33,8 @@ function App() {
   function toggleView() {
     if (isLocatorView === false) {
       setIsLocatorView(true);
-      localStorage.isLocatorView = "true";
     } else {
       setIsLocatorView(false);
-      localStorage.isLocatorView = "false";
     }
   }
 
