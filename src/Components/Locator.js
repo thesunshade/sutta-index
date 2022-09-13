@@ -1,6 +1,7 @@
 // import makeNormalizedId from "../functions/makeNormalizedId";
 import { useContext } from "react";
 import { ContextDestination } from "../App.js";
+import getSuttaTitle from "../functions/getSuttaTitle.js";
 
 export default function Locator(props) {
   let { location } = props;
@@ -35,7 +36,7 @@ export default function Locator(props) {
 
   return (
     <span>
-      <a href={url} rel="noreferrer" target="_blank">
+      <a href={url} rel="noreferrer" target="_blank" title={getSuttaTitle(location)}>
         {addHairSpace(location)}
       </a>
     </span>

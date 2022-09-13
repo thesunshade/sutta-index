@@ -26,9 +26,9 @@ export default function Stats() {
         </div>
       </div>
       <div className="row-2">
-        Complete Books: Kp, Dhp, Ud, Iti, Snp, Vv, Pv
+        Complete Books: Kp, Dhp, Ud, Iti, Snp, Vv, Pv, Thag
         <br />
-        Planned Books: Thag, Thig, DN, MN, SN, AN
+        Planned Books: Thig, DN, MN, SN, AN
       </div>
     </>
   );

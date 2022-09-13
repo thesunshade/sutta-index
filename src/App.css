@@ -58,7 +58,6 @@
 
 body {
   font-family: "Fira Sans";
-
 }
 
 body.dark {
@@ -196,6 +195,21 @@ a:visited {
   color: purple
 }
 
+.dark a {
+  color: rgb(114, 156, 255)
+}
+
+.dark a:visited {
+  color: rgb(180, 114, 255)
+}
+
+.dark .xref-link {
+  color: rgb(0, 175, 0)
+}
+
+.dark .xref-link:visited {
+  color: rgb(175, 175, 0)
+}
 
 .head-word-area {
   padding-left: var(--indent);

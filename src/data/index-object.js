@@ -106,7 +106,7 @@ export const indexObject =`{
           },
           "recollection of of ones own": {
                "locators": [
-                    "Vv4.6"
+                    "Vv44"
                ],
                "xrefs": []
           }
@@ -258,7 +258,7 @@ export const indexObject =`{
                     "AN4.58",
                     "AN4.59",
                     "AN5.37",
-                    "Vv2.10"
+                    "Vv27"
                ],
                "xrefs": []
           },
@@ -373,9 +373,9 @@ export const indexObject =`{
           "preventing": {
                "locators": [
                     "AN3.57",
-                    "Pv2.7",
-                    "Pv2.9",
-                    "Pv2.10"
+                    "Pv19",
+                    "Pv21",
+                    "Pv22"
                ],
                "xrefs": []
           },
@@ -500,10 +500,10 @@ export const indexObject =`{
                     "SN1.33",
                     "AN3.57",
                     "Iti26",
-                    "Vv1.10",
-                    "Vv2.3",
-                    "Vv4.4",
-                    "Vv4.9"
+                    "Vv10",
+                    "Vv20",
+                    "Vv42",
+                    "Vv47"
                ],
                "xrefs": []
           },
@@ -586,41 +586,41 @@ export const indexObject =`{
           },
           "criticizing": {
                "locators": [
-                    "Vv3.1",
-                    "Vv3.2",
-                    "Vv4.10",
-                    "Pv1.9"
+                    "Vv29",
+                    "Vv30",
+                    "Vv48",
+                    "Pv9"
                ],
                "xrefs": []
           },
           "leads to heaven": {
                "locators": [
-                    "Vv3.1"
+                    "Vv29"
                ],
                "xrefs": []
           },
           "to Saṅgha is always more fruitful than individual gifts": {
                "locators": [
-                    "Vv3.6"
+                    "Vv34"
                ],
                "xrefs": []
           },
           "small amount": {
                "locators": [
-                    "Vv5.8",
-                    "Vv5.9"
+                    "Vv58",
+                    "Vv59"
                ],
                "xrefs": []
           },
           "to ordinary people less fruitful than gifts to Saṅgha": {
                "locators": [
-                    "Pv2.9"
+                    "Pv21"
                ],
                "xrefs": []
           },
           "small amounts give big results": {
                "locators": [
-                    "Pv2.11"
+                    "Pv23"
                ],
                "xrefs": []
           }
@@ -661,7 +661,6 @@ export const indexObject =`{
                     "SN1.67"
                ],
                "xrefs": [
-                    "xref aging and death",
                     "xref dependent origination"
                ]
           },
@@ -683,9 +682,9 @@ export const indexObject =`{
                     "SN3.22",
                     "SN42.11",
                     "MN87",
-                    "Vv7.9",
-                    "Pv2.6",
-                    "Pv2.13"
+                    "Vv83",
+                    "Pv18",
+                    "Pv25"
                ],
                "xrefs": []
           },
@@ -703,7 +702,7 @@ export const indexObject =`{
                     "Ud5.3",
                     "MN140",
                     "Ud5.3",
-                    "Vv4.9"
+                    "Vv47"
                ],
                "xrefs": []
           },
@@ -867,7 +866,7 @@ export const indexObject =`{
           "universality of": {
                "locators": [
                     "AN5.48",
-                    "Pv2.6"
+                    "Pv18"
                ],
                "xrefs": []
           },
@@ -887,7 +886,7 @@ export const indexObject =`{
           "cannot escape": {
                "locators": [
                     "Dhp128",
-                    "Vv5.13"
+                    "Vv63"
                ],
                "xrefs": []
           },
@@ -912,7 +911,7 @@ export const indexObject =`{
           "as universal": {
                "locators": [
                     "Ud5.2",
-                    "Vv5.13"
+                    "Vv63"
                ],
                "xrefs": []
           },
@@ -930,15 +929,15 @@ export const indexObject =`{
           },
           "overcoming grief": {
                "locators": [
-                    "Vv7.9",
-                    "Pv2.6",
-                    "Pv2.13"
+                    "Vv83",
+                    "Pv18",
+                    "Pv25"
                ],
                "xrefs": []
           },
           "wise response to": {
                "locators": [
-                    "Pv1.12"
+                    "Pv12"
                ],
                "xrefs": []
           },
@@ -1334,13 +1333,13 @@ export const indexObject =`{
           },
           "rebirth in ghost realm": {
                "locators": [
-                    "Pv2.3"
+                    "Pv15"
                ],
                "xrefs": []
           },
           "to noble disciples": {
                "locators": [
-                    "Pv3.5"
+                    "Pv30"
                ],
                "xrefs": []
           }
@@ -1352,7 +1351,9 @@ export const indexObject =`{
                     "AN5.147",
                     "Snp2.9"
                ],
-               "xrefs": []
+               "xrefs": [
+                    "xref learning"
+               ]
           },
           "timely": {
                "locators": [
@@ -1377,7 +1378,7 @@ export const indexObject =`{
           },
           "by animal": {
                "locators": [
-                    "Vv5.1"
+                    "Vv51"
                ],
                "xrefs": []
           },
@@ -1406,7 +1407,7 @@ export const indexObject =`{
           "rebirth": {
                "locators": [
                     "Dhp306",
-                    "Vv5.2"
+                    "Vv52"
                ],
                "xrefs": []
           },
@@ -1424,7 +1425,7 @@ export const indexObject =`{
           },
           "rebirth in ghost realm": {
                "locators": [
-                    "Pv3.4"
+                    "Pv29"
                ],
                "xrefs": []
           }
@@ -1465,7 +1466,7 @@ export const indexObject =`{
                     "xref disputes",
                     "xref divisive speech",
                     "xref right speech (sammāvācā)",
-                    "xref wrong speech (micchāvacā)",
+                    "xref wrong speech (micchā vacā)",
                     "xref false speech",
                     "xref harsh speech"
                ]
@@ -1821,15 +1822,15 @@ export const indexObject =`{
           },
           "false oath": {
                "locators": [
-                    "Pv1.6",
-                    "Pv1.7",
-                    "Pv2.12"
+                    "Pv6",
+                    "Pv7",
+                    "Pv24"
                ],
                "xrefs": []
           },
           "back-biting, results of": {
                "locators": [
-                    "Pv3.9"
+                    "Pv34"
                ],
                "xrefs": []
           },
@@ -1850,6 +1851,12 @@ export const indexObject =`{
           "being easy to": {
                "locators": [
                     "Kp5"
+               ],
+               "xrefs": []
+          },
+          "like guide to hidden treasuer": {
+               "locators": [
+                    "Thag17.2"
                ],
                "xrefs": []
           }
@@ -1912,7 +1919,8 @@ export const indexObject =`{
                     "Snp4.8",
                     "Snp4.9",
                     "Snp4.12",
-                    "Snp4.13"
+                    "Snp4.13",
+                    "Thag16.10"
                ],
                "xrefs": []
           },
@@ -1939,7 +1947,7 @@ export const indexObject =`{
           "results of": {
                "locators": [
                     "AN8.40",
-                    "Pv3.9"
+                    "Pv34"
                ],
                "xrefs": []
           },
@@ -1959,9 +1967,7 @@ export const indexObject =`{
                     "MN117",
                     "MN141"
                ],
-               "xrefs": [
-                    "xref Noble Eightfold Path"
-               ]
+               "xrefs": []
           },
           "abolishes wrong speech": {
                "locators": [
@@ -1976,7 +1982,7 @@ export const indexObject =`{
                "xrefs": []
           }
      },
-     "wrong speech (micchāvacā)": {
+     "wrong speech (micchā vacā)": {
           "": {
                "locators": [
                     "AN10.176",
@@ -1988,8 +1994,8 @@ export const indexObject =`{
           },
           "results of": {
                "locators": [
-                    "Pv1.2",
-                    "Pv1.3"
+                    "Pv2",
+                    "Pv3"
                ],
                "xrefs": []
           }
@@ -2015,13 +2021,13 @@ export const indexObject =`{
           },
           "going for leads to heaven": {
                "locators": [
-                    "Vv5.3"
+                    "Vv53"
                ],
                "xrefs": []
           },
           "attempting to go for refuge to individual monk": {
                "locators": [
-                    "Vv5.13"
+                    "Vv63"
                ],
                "xrefs": []
           }
@@ -2045,7 +2051,7 @@ export const indexObject =`{
                "locators": [
                     "Dhp40",
                     "Snp3.8",
-                    "Pv1.13"
+                    "Pv13"
                ],
                "xrefs": []
           },
@@ -2070,7 +2076,7 @@ export const indexObject =`{
           },
           "like a snake’s skin shed": {
                "locators": [
-                    "Pv1.12"
+                    "Pv12"
                ],
                "xrefs": []
           },
@@ -2242,7 +2248,7 @@ export const indexObject =`{
           },
           "sharing merit with": {
                "locators": [
-                    "Pv1.4"
+                    "Pv4"
                ],
                "xrefs": []
           }
@@ -2310,7 +2316,8 @@ export const indexObject =`{
           },
           "like a bog": {
                "locators": [
-                    "Thag8.1"
+                    "Thag8.1",
+                    "Thag18.1"
                ],
                "xrefs": []
           }
@@ -2369,30 +2376,30 @@ export const indexObject =`{
           },
           "like relatives greeting us after long journey": {
                "locators": [
-                    "Vv5.2"
+                    "Vv52"
                ],
                "xrefs": []
           },
           "small amounts give big results": {
                "locators": [
-                    "Vv5.3",
-                    "Vv5.10",
-                    "Vv7.11",
-                    "Pv2.9",
-                    "Pv4.13"
+                    "Vv53",
+                    "Vv60",
+                    "Vv85",
+                    "Pv21",
+                    "Pv48"
                ],
                "xrefs": []
           },
           "ingenuity while making": {
                "locators": [
-                    "Vv7.5",
-                    "Vv7.6"
+                    "Vv79",
+                    "Vv80"
                ],
                "xrefs": []
           },
           "advice from ghosts": {
                "locators": [
-                    "Pv3.1"
+                    "Pv26"
                ],
                "xrefs": []
           }
@@ -2449,9 +2456,9 @@ export const indexObject =`{
                     "Kp5",
                     "Kp8",
                     "Dhp332",
-                    "Vv7.1",
-                    "Vv7.2",
-                    "Vv7.9"
+                    "Vv75",
+                    "Vv76",
+                    "Vv83"
                ],
                "xrefs": []
           },
@@ -2470,7 +2477,7 @@ export const indexObject =`{
           },
           "harming": {
                "locators": [
-                    "Pv3.4"
+                    "Pv29"
                ],
                "xrefs": []
           }
@@ -2482,10 +2489,16 @@ export const indexObject =`{
                ],
                "xrefs": []
           },
+          "harming an animal": {
+               "locators": [
+                    "Ud2.3"
+               ],
+               "xrefs": []
+          },
           "compared to parents": {
                "locators": [
                     "Iti74",
-                    "Pv1.11"
+                    "Pv11"
                ],
                "xrefs": []
           },
@@ -2497,7 +2510,7 @@ export const indexObject =`{
           },
           "abandoned": {
                "locators": [
-                    "Pv3.5"
+                    "Pv30"
                ],
                "xrefs": []
           }
@@ -2643,6 +2656,18 @@ export const indexObject =`{
                     "Iti23"
                ],
                "xrefs": []
+          },
+          "like moon freed from clouds": {
+               "locators": [
+                    "Thag16.8"
+               ],
+               "xrefs": []
+          },
+          "as sanctuary": {
+               "locators": [
+                    "Thag17.1"
+               ],
+               "xrefs": []
           }
      },
      "respect": {
@@ -2655,7 +2680,8 @@ export const indexObject =`{
           "for spiritual companions": {
                "locators": [
                     "Thag4.3",
-                    "Thag6.3"
+                    "Thag6.3",
+                    "Thag18.1"
                ],
                "xrefs": []
           },
@@ -2709,7 +2735,8 @@ export const indexObject =`{
           },
           "with requisites": {
                "locators": [
-                    "Iti101"
+                    "Iti101",
+                    "Thag16.7"
                ],
                "xrefs": []
           },
@@ -2736,7 +2763,7 @@ export const indexObject =`{
           },
           "to those who have helped": {
                "locators": [
-                    "Pv2.9"
+                    "Pv21"
                ],
                "xrefs": []
           }
@@ -2825,7 +2852,8 @@ export const indexObject =`{
           "with good people": {
                "locators": [
                     "Thag1.75",
-                    "Thag2.14"
+                    "Thag2.14",
+                    "Thag17.3"
                ],
                "xrefs": []
           },
@@ -2867,7 +2895,7 @@ export const indexObject =`{
           },
           "lay people": {
                "locators": [
-                    "Vv3.3"
+                    "Vv31"
                ],
                "xrefs": []
           }
@@ -2939,16 +2967,16 @@ export const indexObject =`{
           },
           "to relics": {
                "locators": [
-                    "Vv3.8",
-                    "Vv5.13"
+                    "Vv36",
+                    "Vv63"
                ],
                "xrefs": []
           },
           "to stupa": {
                "locators": [
-                    "Vv3.9",
-                    "Vv4.9",
-                    "Vv5.10"
+                    "Vv37",
+                    "Vv47",
+                    "Vv60"
                ],
                "xrefs": []
           },
@@ -3043,7 +3071,8 @@ export const indexObject =`{
           },
           "as doctor": {
                "locators": [
-                    "Iti100"
+                    "Iti100",
+                    "Thag16.3"
                ],
                "xrefs": []
           },
@@ -3082,7 +3111,8 @@ export const indexObject =`{
           },
           "king of Dhamma": {
                "locators": [
-                    "Snp3.7"
+                    "Snp3.7",
+                    "Thag16.5"
                ],
                "xrefs": []
           },
@@ -3106,10 +3136,10 @@ export const indexObject =`{
           },
           "visiting beings about to die": {
                "locators": [
-                    "Vv2.4",
-                    "Vv5.3",
-                    "Vv4.12",
-                    "Vv7.9"
+                    "Vv21",
+                    "Vv53",
+                    "Vv50",
+                    "Vv83"
                ],
                "xrefs": []
           },
@@ -3223,7 +3253,7 @@ export const indexObject =`{
           },
           "sound of": {
                "locators": [
-                    "Vv5.1"
+                    "Vv51"
                ],
                "xrefs": []
           },
@@ -3242,6 +3272,12 @@ export const indexObject =`{
           "full of flavor (mahārassa)": {
                "locators": [
                     "Thag15.1"
+               ],
+               "xrefs": []
+          },
+          "decline of in future": {
+               "locators": [
+                    "Thag17.1"
                ],
                "xrefs": []
           }
@@ -3268,7 +3304,7 @@ export const indexObject =`{
           "field of merit": {
                "locators": [
                     "Kp7",
-                    "Pv1.1"
+                    "Pv1"
                ],
                "xrefs": []
           },
@@ -3276,8 +3312,8 @@ export const indexObject =`{
                "locators": [
                     "Dhp356–59",
                     "Snp3.7",
-                    "Pv2.8",
-                    "Pv2.9"
+                    "Pv20",
+                    "Pv21"
                ],
                "xrefs": []
           },
@@ -3325,8 +3361,14 @@ export const indexObject =`{
           },
           "giving to the Saṅgha": {
                "locators": [
-                    "Pv2.1",
-                    "Pv3.2"
+                    "Pv13",
+                    "Pv27"
+               ],
+               "xrefs": []
+          },
+          "decline of in future": {
+               "locators": [
+                    "Thag16.10"
                ],
                "xrefs": []
           }
@@ -3382,9 +3424,9 @@ export const indexObject =`{
           },
           "gods that have become": {
                "locators": [
-                    "Vv1.16",
-                    "Vv2.7",
-                    "Vv4.12"
+                    "Vv16",
+                    "Vv24",
+                    "Vv50"
                ],
                "xrefs": []
           }
@@ -3454,10 +3496,10 @@ export const indexObject =`{
           "sharing merit with": {
                "locators": [
                     "Kp7",
-                    "Pv1.1",
-                    "Pv1.4",
-                    "Pv1.5",
-                    "Pv4.3"
+                    "Pv1",
+                    "Pv4",
+                    "Pv5",
+                    "Pv38"
                ],
                "xrefs": []
           },
@@ -3481,7 +3523,7 @@ export const indexObject =`{
           },
           "returning as ghosts": {
                "locators": [
-                    "Pv1.5"
+                    "Pv5"
                ],
                "xrefs": []
           }
@@ -3490,8 +3532,8 @@ export const indexObject =`{
           "sharing merit with": {
                "locators": [
                     "Kp7",
-                    "Pv1.10",
-                    "Pv2.1"
+                    "Pv10",
+                    "Pv13"
                ],
                "xrefs": []
           },
@@ -3505,65 +3547,65 @@ export const indexObject =`{
           },
           "child eating": {
                "locators": [
-                    "Pv1.6",
-                    "Pv1.7"
+                    "Pv6",
+                    "Pv7"
                ],
                "xrefs": []
           },
           "hunger": {
                "locators": [
-                    "Pv1.6",
-                    "Pv1.7",
-                    "Pv4.5"
+                    "Pv6",
+                    "Pv7",
+                    "Pv40"
                ],
                "xrefs": []
           },
           "dressed in hair": {
                "locators": [
-                    "Pv1.10",
-                    "Pv2.10"
+                    "Pv10",
+                    "Pv22"
                ],
                "xrefs": []
           },
           "with hammers": {
                "locators": [
-                    "Pv1.11",
-                    "Pv4.16"
+                    "Pv11",
+                    "Pv51"
                ],
                "xrefs": []
           },
           "giving advice": {
                "locators": [
-                    "Pv1.11",
-                    "Pv2.7",
-                    "Pv3.3",
-                    "Pv4.1"
+                    "Pv11",
+                    "Pv19",
+                    "Pv28",
+                    "Pv36"
                ],
                "xrefs": []
           },
           "cannot take things directly": {
                "locators": [
-                    "Pv2.10",
-                    "Pv4.10"
+                    "Pv22",
+                    "Pv45"
                ],
                "xrefs": []
           },
           "mansion (petavimāna)": {
                "locators": [
-                    "Pv2.11",
-                    "Pv3.3"
+                    "Pv23",
+                    "Pv28"
                ],
                "xrefs": []
           },
           "eaten by dogs": {
                "locators": [
-                    "Pv2.12"
+                    "Pv24"
                ],
                "xrefs": []
           },
           "greediness": {
                "locators": [
-                    "Pv3.4"
+                    "Pv29"
                ],
                "xrefs": []
           }
@@ -3572,26 +3614,26 @@ export const indexObject =`{
           "qualities of": {
                "locators": [
                     "Kp7",
-                    "Pv1.5",
-                    "Pv2.2"
+                    "Pv5",
+                    "Pv14"
                ],
                "xrefs": []
           },
           "food in": {
                "locators": [
-                    "Pv1.9"
+                    "Pv9"
                ],
                "xrefs": []
           },
           "passage of time in": {
                "locators": [
-                    "Pv2.11"
+                    "Pv23"
                ],
                "xrefs": []
           },
           "life in": {
                "locators": [
-                    "Pv4.10"
+                    "Pv45"
                ],
                "xrefs": []
           }
@@ -3611,7 +3653,7 @@ export const indexObject =`{
           },
           "immediate effect": {
                "locators": [
-                    "Pv1.4"
+                    "Pv4"
                ],
                "xrefs": []
           }
@@ -3619,7 +3661,8 @@ export const indexObject =`{
      "grieving": {
           "": {
                "locators": [
-                    "Kp7"
+                    "Kp7",
+                    "Thag16.4"
                ],
                "xrefs": []
           },
@@ -3632,30 +3675,30 @@ export const indexObject =`{
           "wise do not": {
                "locators": [
                     "Snp3.8",
-                    "Pv1.12"
+                    "Pv12"
                ],
                "xrefs": []
           },
           "uselessness of": {
                "locators": [
                     "Snp3.8",
-                    "Vv7.9",
-                    "Pv1.8",
-                    "Pv1.12",
-                    "Pv2.6",
-                    "Pv2.13"
+                    "Vv83",
+                    "Pv8",
+                    "Pv12",
+                    "Pv18",
+                    "Pv25"
                ],
                "xrefs": []
           },
           "useless of": {
                "locators": [
-                    "Pv1.4"
+                    "Pv4"
                ],
                "xrefs": []
           },
           "overcoming": {
                "locators": [
-                    "Pv1.8"
+                    "Pv8"
                ],
                "xrefs": []
           },
@@ -3722,7 +3765,7 @@ export const indexObject =`{
           },
           "leading to heaven": {
                "locators": [
-                    "Vv1.11",
+                    "Vv11",
                     "Thag12.1"
                ],
                "xrefs": []
@@ -3826,8 +3869,8 @@ export const indexObject =`{
           },
           "not greatest happiness": {
                "locators": [
-                    "Vv2.3",
-                    "Vv4.5"
+                    "Vv20",
+                    "Vv43"
                ],
                "xrefs": []
           }
@@ -3853,13 +3896,13 @@ export const indexObject =`{
           },
           "precepts lead to": {
                "locators": [
-                    "Vv5.3"
+                    "Vv53"
                ],
                "xrefs": []
           },
           "refuges lead to": {
                "locators": [
-                    "Vv5.3"
+                    "Vv53"
                ],
                "xrefs": []
           },
@@ -3896,8 +3939,8 @@ export const indexObject =`{
           "disparaging": {
                "locators": [
                     "Ud5.3",
-                    "Pv4.7",
-                    "Pv4.6"
+                    "Pv42",
+                    "Pv41"
                ],
                "xrefs": []
           }
@@ -3973,24 +4016,23 @@ export const indexObject =`{
                "xrefs": []
           }
      },
-     "wrong views": {
+     "wrong view (micchā diṭṭhi)": {
           "": {
                "locators": [
                     "Kp9",
-                    "Dhp316–18",
-                    "Ud6.4–6"
+                    "Iti70"
+               ],
+               "xrefs": []
+          },
+          "leading to ghost world": {
+               "locators": [
+                    "Pv38"
                ],
                "xrefs": []
           },
           "resulting in hell": {
                "locators": [
-                    "Iti32"
-               ],
-               "xrefs": []
-          },
-          "giving up like vomiting": {
-               "locators": [
-                    "Pv4.3"
+                    "Pv38"
                ],
                "xrefs": []
           }
@@ -4126,7 +4168,8 @@ export const indexObject =`{
           },
           "attacks the Buddha": {
                "locators": [
-                    "Snp3.2"
+                    "Snp3.2",
+                    "Thag20.1"
                ],
                "xrefs": []
           },
@@ -4162,7 +4205,8 @@ export const indexObject =`{
           },
           "restraint": {
                "locators": [
-                    "Dhp8"
+                    "Dhp8",
+                    "Thag17.2"
                ],
                "xrefs": []
           },
@@ -4212,13 +4256,20 @@ export const indexObject =`{
      "robes": {
           "not worthy of": {
                "locators": [
-                    "Dhp9"
+                    "Dhp9",
+                    "Thag17.1"
                ],
                "xrefs": []
           },
           "worthy of": {
                "locators": [
                     "Dhp10"
+               ],
+               "xrefs": []
+          },
+          "like monkey in lion skin not worthy of": {
+               "locators": [
+                    "Thag18.1"
                ],
                "xrefs": []
           }
@@ -4321,14 +4372,14 @@ export const indexObject =`{
           },
           "small amounts give big results": {
                "locators": [
-                    "Pv2.9"
+                    "Pv21"
                ],
                "xrefs": []
           },
           "limiting actions to limit results": {
                "locators": [
-                    "Pv3.7",
-                    "Pv3.8"
+                    "Pv32",
+                    "Pv33"
                ],
                "xrefs": []
           }
@@ -4468,8 +4519,8 @@ export const indexObject =`{
           },
           "asking questions": {
                "locators": [
-                    "Vv1.17",
-                    "Vv2.3"
+                    "Vv17",
+                    "Vv20"
                ],
                "xrefs": []
           }
@@ -4518,9 +4569,10 @@ export const indexObject =`{
                ],
                "xrefs": []
           },
-          "simile of citadel": {
+          "guarded like a citadel": {
                "locators": [
-                    "Dhp40"
+                    "Dhp40",
+                    "Thag17.2"
                ],
                "xrefs": []
           },
@@ -4548,9 +4600,10 @@ export const indexObject =`{
                ],
                "xrefs": []
           },
-          "monkey": {
+          "like a monkey": {
                "locators": [
-                    "Thag2.3"
+                    "Thag2.3",
+                    "Thag19.1"
                ],
                "xrefs": []
           },
@@ -4575,6 +4628,18 @@ export const indexObject =`{
           "trained like a horse": {
                "locators": [
                     "Thag5.9"
+               ],
+               "xrefs": []
+          },
+          "like a traveller": {
+               "locators": [
+                    "Thag19.1"
+               ],
+               "xrefs": []
+          },
+          "to a meditation object like elephant to post": {
+               "locators": [
+                    "Thag1.19"
                ],
                "xrefs": []
           }
@@ -4759,9 +4824,9 @@ export const indexObject =`{
           },
           "over not making spiritual progress": {
                "locators": [
-                    "Vv2.7",
-                    "Vv4.2",
-                    "Vv5.2"
+                    "Vv24",
+                    "Vv40",
+                    "Vv52"
                ],
                "xrefs": []
           }
@@ -4798,6 +4863,12 @@ export const indexObject =`{
                     "Dhp240"
                ],
                "xrefs": []
+          },
+          "like thief caught and punished": {
+               "locators": [
+                    "Thag16.4"
+               ],
+               "xrefs": []
           }
      },
      "fame": {
@@ -4807,7 +4878,7 @@ export const indexObject =`{
                ],
                "xrefs": []
           },
-          "of the uninteligent": {
+          "of the unintelligent": {
                "locators": [
                     "Thag14.2"
                ],
@@ -4877,7 +4948,13 @@ export const indexObject =`{
           },
           "between human and ghost": {
                "locators": [
-                    "Pv4.1"
+                    "Pv36"
+               ],
+               "xrefs": []
+          },
+          "with learned people": {
+               "locators": [
+                    "Thag17.3"
                ],
                "xrefs": []
           }
@@ -5162,7 +5239,7 @@ export const indexObject =`{
           "like dust thrown into the wind": {
                "locators": [
                     "Dhp125",
-                    "Pv2.9"
+                    "Pv21"
                ],
                "xrefs": []
           },
@@ -5284,11 +5361,14 @@ export const indexObject =`{
           "": {
                "locators": [
                     "Dhp147–50",
+                    "Iti85",
                     "Snp1.11",
                     "Thag4.4",
                     "Thag6.4",
                     "Thag6.14",
-                    "Thag10.5"
+                    "Thag10.5",
+                    "Thag16.4",
+                    "Thag20.1"
                ],
                "xrefs": []
           },
@@ -5362,6 +5442,12 @@ export const indexObject =`{
           "in various realms": {
                "locators": [
                     "Thag3.14"
+               ],
+               "xrefs": []
+          },
+          "mind causing": {
+               "locators": [
+                    "Thag19.1"
                ],
                "xrefs": []
           }
@@ -5550,7 +5636,8 @@ export const indexObject =`{
           },
           "as suffering": {
                "locators": [
-                    "Snp3.12"
+                    "Snp3.12",
+                    "Thag17.2"
                ],
                "xrefs": []
           }
@@ -5582,6 +5669,12 @@ export const indexObject =`{
           "like a flood": {
                "locators": [
                     "Snp4.15"
+               ],
+               "xrefs": []
+          },
+          "unsatisfied": {
+               "locators": [
+                    "Thag16.4"
                ],
                "xrefs": []
           }
@@ -5621,7 +5714,7 @@ export const indexObject =`{
           },
           "rebirth in ghost realm": {
                "locators": [
-                    "Pv2.3"
+                    "Pv15"
                ],
                "xrefs": []
           }
@@ -5701,7 +5794,7 @@ export const indexObject =`{
                ],
                "xrefs": []
           },
-          "simile of monkey": {
+          "like a money": {
                "locators": [
                     "Dhp334"
                ],
@@ -5877,6 +5970,12 @@ export const indexObject =`{
                     "Ud5.8"
                ],
                "xrefs": []
+          },
+          "becoming bad": {
+               "locators": [
+                    "Thag17.2"
+               ],
+               "xrefs": []
           }
      },
      "misconduct": {
@@ -5929,7 +6028,7 @@ export const indexObject =`{
                "xrefs": []
           }
      },
-     "confidence": {
+     "confidence (pasāda)": {
           "giving and": {
                "locators": [
                     "Dhp249"
@@ -6027,10 +6126,16 @@ export const indexObject =`{
                ],
                "xrefs": []
           },
-          "as higher than virtue": {
+          "higher than virtue": {
                "locators": [
                     "Thag1.70",
                     "Thag12.1"
+               ],
+               "xrefs": []
+          },
+          "superior to wealth": {
+               "locators": [
+                    "Thag16.4"
                ],
                "xrefs": []
           }
@@ -6093,7 +6198,8 @@ export const indexObject =`{
           },
           "out of faith": {
                "locators": [
-                    "Thag1.46"
+                    "Thag1.46",
+                    "Thag16.4"
                ],
                "xrefs": []
           },
@@ -6169,6 +6275,12 @@ export const indexObject =`{
                     "Ud5.8"
                ],
                "xrefs": []
+          },
+          "becoming good": {
+               "locators": [
+                    "Thag17.2"
+               ],
+               "xrefs": []
           }
      },
      "seclusion": {
@@ -6190,6 +6302,12 @@ export const indexObject =`{
                     "Thag14.2"
                ],
                "xrefs": []
+          },
+          "desire for": {
+               "locators": [
+                    "Thag19.1"
+               ],
+               "xrefs": []
           }
      },
      "hell": {
@@ -6204,7 +6322,7 @@ export const indexObject =`{
           "lifespan in": {
                "locators": [
                     "Snp3.10",
-                    "Pv4.3"
+                    "Pv38"
                ],
                "xrefs": []
           },
@@ -6217,7 +6335,7 @@ export const indexObject =`{
           "life in": {
                "locators": [
                     "Snp3.10",
-                    "Pv4.7"
+                    "Pv42"
                ],
                "xrefs": []
           }
@@ -6246,13 +6364,13 @@ export const indexObject =`{
           "": {
                "locators": [
                     "Snp1.6",
-                    "Pv2.12"
+                    "Pv24"
                ],
                "xrefs": []
           },
           "abstaining from": {
                "locators": [
-                    "Vv1.11"
+                    "Vv11"
                ],
                "xrefs": []
           }
@@ -6388,10 +6506,17 @@ export const indexObject =`{
                     "Thag10.4"
                ],
                "xrefs": []
+          },
+          "wrongly practiced in the future": {
+               "locators": [
+                    "Thag16.10",
+                    "Thag17.1"
+               ],
+               "xrefs": []
           }
      },
      "self guarding": {
-          "simile of citadel": {
+          "like a citadel": {
                "locators": [
                     "Dhp315"
                ],
@@ -6402,6 +6527,33 @@ export const indexObject =`{
           "": {
                "locators": [
                     "Dhp316"
+               ],
+               "xrefs": []
+          }
+     },
+     "wrong views": {
+          "": {
+               "locators": [
+                    "Dhp316–18",
+                    "Ud6.4–6"
+               ],
+               "xrefs": []
+          },
+          "resulting in hell": {
+               "locators": [
+                    "Iti32"
+               ],
+               "xrefs": []
+          },
+          "giving up like vomiting": {
+               "locators": [
+                    "Pv38"
+               ],
+               "xrefs": []
+          },
+          "sixty": {
+               "locators": [
+                    "Thag21.1"
                ],
                "xrefs": []
           }
@@ -6515,6 +6667,18 @@ export const indexObject =`{
           "": {
                "locators": [
                     "Iti95"
+               ],
+               "xrefs": []
+          },
+          "appearing in disguise": {
+               "locators": [
+                    "Thag16.4"
+               ],
+               "xrefs": []
+          },
+          "giving up like vomiting": {
+               "locators": [
+                    "Thag19.1"
                ],
                "xrefs": []
           }
@@ -6679,7 +6843,9 @@ export const indexObject =`{
                "locators": [
                     "Dhp392"
                ],
-               "xrefs": []
+               "xrefs": [
+                    "xref listening to Dhamma"
+               ]
           },
           "eagerness to": {
                "locators": [
@@ -6695,13 +6861,32 @@ export const indexObject =`{
           },
           "without practicing": {
                "locators": [
-                    "Thag2.34"
+                    "Thag2.34",
+                    "Thag17.3"
                ],
                "xrefs": []
           },
           "living in line with what has been learned": {
                "locators": [
                     "Thag5.12"
+               ],
+               "xrefs": []
+          },
+          "84,000 teachings": {
+               "locators": [
+                    "Thag17.3"
+               ],
+               "xrefs": []
+          },
+          "like an ox is a person with little learning": {
+               "locators": [
+                    "Thag17.3"
+               ],
+               "xrefs": []
+          },
+          "arrogance because of": {
+               "locators": [
+                    "Thag17.3"
                ],
                "xrefs": []
           }
@@ -6845,23 +7030,23 @@ export const indexObject =`{
           },
           "reborn as ghosts": {
                "locators": [
-                    "Pv1.3",
-                    "Pv4.8",
-                    "Pv4.9"
+                    "Pv3",
+                    "Pv43",
+                    "Pv44"
                ],
                "xrefs": []
           },
           "treating them badly": {
                "locators": [
-                    "Pv4.1",
-                    "Pv4.7"
+                    "Pv36",
+                    "Pv42"
                ],
                "xrefs": []
           },
           "bad": {
                "locators": [
-                    "Pv4.8",
-                    "Pv4.9"
+                    "Pv43",
+                    "Pv44"
                ],
                "xrefs": []
           },
@@ -6874,6 +7059,12 @@ export const indexObject =`{
           "tempted by women": {
                "locators": [
                     "Thag7.1"
+               ],
+               "xrefs": []
+          },
+          "giving material things to lay people": {
+               "locators": [
+                    "Thag16.10"
                ],
                "xrefs": []
           }
@@ -6927,13 +7118,13 @@ export const indexObject =`{
           },
           "worshiping": {
                "locators": [
-                    "Vv7.8"
+                    "Vv82"
                ],
                "xrefs": []
           },
           "cleaning": {
                "locators": [
-                    "Vv7.11"
+                    "Vv85"
                ],
                "xrefs": []
           }
@@ -6993,13 +7184,10 @@ export const indexObject =`{
                     "Ud3.8–9"
                ],
                "xrefs": []
-          }
-     },
-     "boys": {
-          "harming an animal": {
+          },
+          "": {
                "locators": [
-                    "Ud2.3",
-                    "Ud5.4"
+                    "Thag17.2"
                ],
                "xrefs": []
           }
@@ -7181,7 +7369,7 @@ export const indexObject =`{
           },
           "great renunciation": {
                "locators": [
-                    "Vv7.7"
+                    "Vv81"
                ],
                "xrefs": []
           }
@@ -7203,6 +7391,20 @@ export const indexObject =`{
                "xrefs": []
           }
      },
+     "boys": {
+          "harming an animal": {
+               "locators": [
+                    "Ud5.4"
+               ],
+               "xrefs": []
+          },
+          "": {
+               "locators": [],
+               "xrefs": [
+                    "xref children"
+               ]
+          }
+     },
      "uposatha": {
           "": {
                "locators": [
@@ -7218,8 +7420,8 @@ export const indexObject =`{
           },
           "resulting in heaven": {
                "locators": [
-                    "Vv1.15",
-                    "Vv2.2"
+                    "Vv15",
+                    "Vv19"
                ],
                "xrefs": []
           }
@@ -7289,7 +7491,9 @@ export const indexObject =`{
      "doubt": {
           "": {
                "locators": [
-                    "Ud5.7"
+                    "Ud5.7",
+                    "Thag16.3",
+                    "Thag19.1"
                ],
                "xrefs": []
           }
@@ -7382,16 +7586,10 @@ export const indexObject =`{
                "xrefs": []
           }
      },
-     "followers of other paths": {
+     "followers of other paths (aññatitthiyā)": {
           "": {
                "locators": [
                     "Ud6.4–6"
-               ],
-               "xrefs": []
-          },
-          "honored when Buddhas don’t arise": {
-               "locators": [
-                    "Ud6.10"
                ],
                "xrefs": []
           }
@@ -7424,7 +7622,8 @@ export const indexObject =`{
           "": {
                "locators": [
                     "Iti6",
-                    "Iti8"
+                    "Iti8",
+                    "Thag18.1"
                ],
                "xrefs": []
           },
@@ -7449,6 +7648,14 @@ export const indexObject =`{
                "xrefs": []
           }
      },
+     "followers of other paths": {
+          "honored when Buddhas don’t arise": {
+               "locators": [
+                    "Ud6.10"
+               ],
+               "xrefs": []
+          }
+     },
      "external appearance": {
           "": {
                "locators": [
@@ -7469,6 +7676,12 @@ export const indexObject =`{
                "locators": [
                     "Ud7.7",
                     "Snp1.1"
+               ],
+               "xrefs": []
+          },
+          "giving up": {
+               "locators": [
+                    "Thag17.2"
                ],
                "xrefs": []
           }
@@ -7660,7 +7873,8 @@ export const indexObject =`{
           "": {
                "locators": [
                     "Iti37",
-                    "Thag1.39"
+                    "Thag1.39",
+                    "Thag19.1"
                ],
                "xrefs": []
           },
@@ -7795,7 +8009,8 @@ export const indexObject =`{
      "divine eye (dibbacakkhu)": {
           "": {
                "locators": [
-                    "Iti61"
+                    "Iti61",
+                    "Thag16.9"
                ],
                "xrefs": []
           }
@@ -7869,14 +8084,6 @@ export const indexObject =`{
                "xrefs": []
           }
      },
-     "wrong view (micchā diṭṭhi)": {
-          "": {
-               "locators": [
-                    "Iti70"
-               ],
-               "xrefs": []
-          }
-     },
      "formless (arūpā)": {
           "": {
                "locators": [
@@ -7935,12 +8142,16 @@ export const indexObject =`{
                     "Iti84"
                ],
                "xrefs": []
-          }
-     },
-     "meditation on ugliness": {
-          "": {
+          },
+          "residence of": {
                "locators": [
-                    "Iti85"
+                    "Thag17.2"
+               ],
+               "xrefs": []
+          },
+          "praised by gods": {
+               "locators": [
+                    "Thag18.1"
                ],
                "xrefs": []
           }
@@ -8016,8 +8227,8 @@ export const indexObject =`{
           },
           "gods that have become": {
                "locators": [
-                    "Vv1.15",
-                    "Vv2.2"
+                    "Vv15",
+                    "Vv19"
                ],
                "xrefs": []
           }
@@ -8078,6 +8289,18 @@ export const indexObject =`{
           "using after reflecting": {
                "locators": [
                     "Snp2.14"
+               ],
+               "xrefs": []
+          },
+          "": {
+               "locators": [],
+               "xrefs": [
+                    "xref rag-robe wearing"
+               ]
+          },
+          "contentment with": {
+               "locators": [
+                    "Thag18.1"
                ],
                "xrefs": []
           }
@@ -8367,13 +8590,19 @@ export const indexObject =`{
           },
           "not making good use of": {
                "locators": [
-                    "Pv1.11"
+                    "Pv11"
                ],
                "xrefs": []
           },
           "loss of": {
                "locators": [
                     "Thag8.1"
+               ],
+               "xrefs": []
+          },
+          "left behind after death": {
+               "locators": [
+                    "Thag16.4"
                ],
                "xrefs": []
           }
@@ -8497,16 +8726,21 @@ export const indexObject =`{
      "marks of a great man": {
           "": {
                "locators": [
-                    "Snp.3.7"
+                    "Snp.3.7",
+                    "Snp5.1"
+               ],
+               "xrefs": []
+          },
+          "appearing on the Buddha": {
+               "locators": [
+                    "Thag16.5"
                ],
                "xrefs": []
           }
      },
      "thirty-two marks": {
           "": {
-               "locators": [
-                    "Snp5.1"
-               ],
+               "locators": [],
                "xrefs": [
                     "xref marks of a great man"
                ]
@@ -8705,14 +8939,26 @@ export const indexObject =`{
           },
           "getting a bath": {
                "locators": [
-                    "Vv7.5"
+                    "Vv79"
                ],
                "xrefs": []
           },
           "helps a ghost": {
                "locators": [
-                    "Pv2.1",
-                    "Pv2.2"
+                    "Pv13",
+                    "Pv14"
+               ],
+               "xrefs": []
+          },
+          "passing away": {
+               "locators": [
+                    "Thag20.1"
+               ],
+               "xrefs": []
+          },
+          "praise of": {
+               "locators": [
+                    "Thag21.1"
                ],
                "xrefs": []
           }
@@ -8774,35 +9020,35 @@ export const indexObject =`{
           },
           "once returners": {
                "locators": [
-                    "Vv1.15",
-                    "Vv2.2"
+                    "Vv15",
+                    "Vv19"
                ],
                "xrefs": []
           },
           "with psychic powers": {
                "locators": [
-                    "Vv1.16"
+                    "Vv16"
                ],
                "xrefs": []
           },
           "stream-enterers": {
                "locators": [
-                    "Vv1.16",
-                    "Vv2.7",
-                    "Vv4.12"
+                    "Vv16",
+                    "Vv24",
+                    "Vv50"
                ],
                "xrefs": []
           },
           "psychic powers": {
                "locators": [
-                    "Vv3.9"
+                    "Vv37"
                ],
                "xrefs": []
           },
           "giving advice": {
                "locators": [
-                    "Vv7.9",
-                    "Vv7.10"
+                    "Vv83",
+                    "Vv84"
                ],
                "xrefs": []
           }
@@ -8810,123 +9056,123 @@ export const indexObject =`{
      "gifts, specific types of": {
           "chair": {
                "locators": [
-                    "Vv1.1",
-                    "Vv1.2",
-                    "Vv1.3",
-                    "Vv1.4",
-                    "Vv1.5"
+                    "Vv1",
+                    "Vv2",
+                    "Vv3",
+                    "Vv4",
+                    "Vv5"
                ],
                "xrefs": []
           },
           "water": {
                "locators": [
-                    "Vv1.6",
-                    "Vv1.7",
-                    "Vv1.8"
+                    "Vv6",
+                    "Vv7",
+                    "Vv8"
                ],
                "xrefs": []
           },
           "light": {
                "locators": [
-                    "Vv1.9"
+                    "Vv9"
                ],
                "xrefs": []
           },
           "sesame seeds": {
                "locators": [
-                    "Vv1.10"
+                    "Vv10"
                ],
                "xrefs": []
           },
           "cakes": {
                "locators": [
-                    "Vv1.13",
-                    "Vv1.14",
-                    "Pv1.10"
+                    "Vv13",
+                    "Vv14",
+                    "Pv10"
                ],
                "xrefs": []
           },
           "sugarcane": {
                "locators": [
-                    "Vv3.2",
-                    "Vv4.10"
+                    "Vv30",
+                    "Vv48"
                ],
                "xrefs": []
           },
           "long list of": {
                "locators": [
-                    "Vv3.5"
+                    "Vv33"
                ],
                "xrefs": []
           },
           "flowers": {
                "locators": [
-                    "Vv3.10",
-                    "Vv4.7"
+                    "Vv38",
+                    "Vv45"
                ],
                "xrefs": []
           },
           "robes": {
                "locators": [
-                    "Vv4.3"
+                    "Vv41"
                ],
                "xrefs": []
           },
           "monastery": {
                "locators": [
-                    "Vv4.6",
-                    "Vv4.8",
-                    "Vv7.3",
-                    "Vv7.4"
+                    "Vv44",
+                    "Vv46",
+                    "Vv77",
+                    "Vv78"
                ],
                "xrefs": []
           },
           "needle": {
                "locators": [
-                    "Vv5.8",
-                    "Vv5.9"
+                    "Vv58",
+                    "Vv59"
                ],
                "xrefs": []
           },
           "dwelling": {
                "locators": [
-                    "Vv5.12"
+                    "Vv62"
                ],
                "xrefs": []
           },
           "food": {
                "locators": [
-                    "Vv6.1"
+                    "Vv65"
                ],
                "xrefs": []
           },
           "fruit": {
                "locators": [
-                    "Vv6.3"
+                    "Vv67"
                ],
                "xrefs": []
           },
           "bath": {
                "locators": [
-                    "Vv7.5"
+                    "Vv79"
                ],
                "xrefs": []
           },
           "thread": {
                "locators": [
-                    "Pv2.11"
+                    "Pv23"
                ],
                "xrefs": []
           },
           "clothing": {
                "locators": [
-                    "Pv3.2"
+                    "Pv27"
                ],
                "xrefs": []
           },
           "sandals": {
                "locators": [
-                    "Pv3.2"
+                    "Pv27"
                ],
                "xrefs": []
           }
@@ -8934,8 +9180,8 @@ export const indexObject =`{
      "fidelity in marriage": {
           "": {
                "locators": [
-                    "Vv1.11",
-                    "Vv5.11"
+                    "Vv11",
+                    "Vv61"
                ],
                "xrefs": []
           }
@@ -8943,7 +9189,7 @@ export const indexObject =`{
      "gods that delight in creation": {
           "": {
                "locators": [
-                    "Vv1.16"
+                    "Vv16"
                ],
                "xrefs": []
           }
@@ -8951,15 +9197,15 @@ export const indexObject =`{
      "worshiping (vandati)": {
           "leading to heaven": {
                "locators": [
-                    "Vv2.4",
-                    "Vv4.11",
-                    "Vv7.9"
+                    "Vv21",
+                    "Vv49",
+                    "Vv83"
                ],
                "xrefs": []
           },
           "encouraging others to": {
                "locators": [
-                    "Vv7.8"
+                    "Vv82"
                ],
                "xrefs": []
           }
@@ -8967,7 +9213,7 @@ export const indexObject =`{
      "wives": {
           "respectful": {
                "locators": [
-                    "Vv3.4"
+                    "Vv32"
                ],
                "xrefs": []
           }
@@ -8975,7 +9221,7 @@ export const indexObject =`{
      "funeral": {
           "offerings at": {
                "locators": [
-                    "Vv3.7"
+                    "Vv35"
                ],
                "xrefs": []
           }
@@ -8983,7 +9229,7 @@ export const indexObject =`{
      "rejoicing": {
           "in someone else’s merit": {
                "locators": [
-                    "Vv4.6"
+                    "Vv44"
                ],
                "xrefs": []
           }
@@ -8999,7 +9245,7 @@ export const indexObject =`{
      "suicide": {
           "prevented": {
                "locators": [
-                    "Vv4.12"
+                    "Vv50"
                ],
                "xrefs": []
           },
@@ -9013,7 +9259,7 @@ export const indexObject =`{
      "animals": {
           "listening to Dhamma": {
                "locators": [
-                    "Vv5.1"
+                    "Vv51"
                ],
                "xrefs": []
           }
@@ -9021,7 +9267,7 @@ export const indexObject =`{
      "tours": {
           "of heaven": {
                "locators": [
-                    "Vv5.2"
+                    "Vv52"
                ],
                "xrefs": []
           }
@@ -9029,7 +9275,7 @@ export const indexObject =`{
      "Chattamāṇavaka": {
           "": {
                "locators": [
-                    "Vv5.3"
+                    "Vv53"
                ],
                "xrefs": []
           }
@@ -9037,7 +9283,7 @@ export const indexObject =`{
      "precepts, five": {
           "leading to heaven": {
                "locators": [
-                    "Vv5.3"
+                    "Vv53"
                ],
                "xrefs": []
           }
@@ -9045,7 +9291,7 @@ export const indexObject =`{
      "Mahā Kaccāna": {
           "teaches a hunter": {
                "locators": [
-                    "Vv5.13"
+                    "Vv63"
                ],
                "xrefs": []
           }
@@ -9059,7 +9305,7 @@ export const indexObject =`{
           },
           "insulting relic puja": {
                "locators": [
-                    "Pv3.10"
+                    "Pv35"
                ],
                "xrefs": []
           }
@@ -9067,7 +9313,7 @@ export const indexObject =`{
      "Kassapa, Buddha": {
           "": {
                "locators": [
-                    "Vv5.14"
+                    "Vv64"
                ],
                "xrefs": []
           }
@@ -9075,7 +9321,7 @@ export const indexObject =`{
      "Uttara, servant of Pāyāsi": {
           "as a deva": {
                "locators": [
-                    "Vv6.10"
+                    "Vv74"
                ],
                "xrefs": []
           }
@@ -9083,7 +9329,7 @@ export const indexObject =`{
      "trees": {
           "planting": {
                "locators": [
-                    "Vv7.3"
+                    "Vv77"
                ],
                "xrefs": []
           }
@@ -9091,7 +9337,7 @@ export const indexObject =`{
      "Kanthaka deva": {
           "Bodhisatta’s horse": {
                "locators": [
-                    "Vv7.7"
+                    "Vv81"
                ],
                "xrefs": []
           }
@@ -9099,7 +9345,7 @@ export const indexObject =`{
      "Maṭṭakuṇḍalī": {
           "": {
                "locators": [
-                    "Vv7.9"
+                    "Vv83"
                ],
                "xrefs": []
           }
@@ -9107,7 +9353,7 @@ export const indexObject =`{
      "Pāyāsi king": {
           "reborn as Serissaka deva": {
                "locators": [
-                    "Vv7.10"
+                    "Vv84"
                ],
                "xrefs": []
           }
@@ -9115,7 +9361,7 @@ export const indexObject =`{
      "travel": {
           "": {
                "locators": [
-                    "Vv7.10",
+                    "Vv84",
                     "Thag1.37"
                ],
                "xrefs": []
@@ -9138,13 +9384,13 @@ export const indexObject =`{
           },
           "like rain reaching the oceans": {
                "locators": [
-                    "Pv1.5"
+                    "Pv5"
                ],
                "xrefs": []
           },
           "as a source of merit itself": {
                "locators": [
-                    "Pv1.5"
+                    "Pv5"
                ],
                "xrefs": []
           }
@@ -9152,8 +9398,8 @@ export const indexObject =`{
      "abortion": {
           "causing someone elses": {
                "locators": [
-                    "Pv1.6",
-                    "Pv1.7"
+                    "Pv6",
+                    "Pv7"
                ],
                "xrefs": []
           }
@@ -9161,12 +9407,13 @@ export const indexObject =`{
      "wealthy people": {
           "not giving": {
                "locators": [
-                    "Pv2.7",
-                    "Pv2.8",
-                    "Pv3.1",
-                    "Pv3.6",
-                    "Pv4.6",
-                    "Pv4.15"
+                    "Pv19",
+                    "Pv20",
+                    "Pv26",
+                    "Pv31",
+                    "Pv41",
+                    "Pv50",
+                    "Thag16.4"
                ],
                "xrefs": []
           }
@@ -9174,7 +9421,7 @@ export const indexObject =`{
      "hand that juice flows from": {
           "": {
                "locators": [
-                    "Pv2.9"
+                    "Pv21"
                ],
                "xrefs": []
           }
@@ -9182,7 +9429,7 @@ export const indexObject =`{
      "sadness": {
           "from having no one to give to": {
                "locators": [
-                    "Pv2.9"
+                    "Pv21"
                ],
                "xrefs": []
           }
@@ -9190,7 +9437,7 @@ export const indexObject =`{
      "insulting": {
           "receiver of gifts": {
                "locators": [
-                    "Pv3.1"
+                    "Pv26"
                ],
                "xrefs": []
           }
@@ -9198,8 +9445,8 @@ export const indexObject =`{
      "hunters": {
           "rebirth": {
                "locators": [
-                    "Pv3.7",
-                    "Pv3.8"
+                    "Pv32",
+                    "Pv33"
                ],
                "xrefs": []
           }
@@ -9207,7 +9454,7 @@ export const indexObject =`{
      "roads": {
           "fixing, result of": {
                "locators": [
-                    "Pv4.1"
+                    "Pv36"
                ],
                "xrefs": []
           }
@@ -9215,21 +9462,7 @@ export const indexObject =`{
      "joking": {
           "results of": {
                "locators": [
-                    "Pv4.1"
-               ],
-               "xrefs": []
-          }
-     },
-     "wrong view": {
-          "leading to ghost world": {
-               "locators": [
-                    "Pv4.3"
-               ],
-               "xrefs": []
-          },
-          "resulting in hell": {
-               "locators": [
-                    "Pv4.3"
+                    "Pv36"
                ],
                "xrefs": []
           }
@@ -9237,7 +9470,7 @@ export const indexObject =`{
      "arrogance": {
           "results of": {
                "locators": [
-                    "Pv4.7"
+                    "Pv42"
                ],
                "xrefs": []
           },
@@ -9246,13 +9479,19 @@ export const indexObject =`{
                     "Thag6.9"
                ],
                "xrefs": []
+          },
+          "because of learning": {
+               "locators": [
+                    "Thag17.3"
+               ],
+               "xrefs": []
           }
      },
      "bad friends": {
           "": {
                "locators": [
-                    "Pv4.8",
-                    "Pv4.9"
+                    "Pv43",
+                    "Pv44"
                ],
                "xrefs": []
           }
@@ -9260,7 +9499,7 @@ export const indexObject =`{
      "social mobility": {
           "": {
                "locators": [
-                    "Pv4.12"
+                    "Pv47"
                ],
                "xrefs": []
           }
@@ -9270,7 +9509,8 @@ export const indexObject =`{
                "locators": [
                     "Thag1.13",
                     "Thag1.113",
-                    "Thag4.11"
+                    "Thag4.11",
+                    "Thag18.1"
                ],
                "xrefs": []
           }
@@ -9349,6 +9589,12 @@ export const indexObject =`{
                     "Thag2.23"
                ],
                "xrefs": []
+          },
+          "not required for arahant": {
+               "locators": [
+                    "Thag17.2"
+               ],
+               "xrefs": []
           }
      },
      "mistakes": {
@@ -9415,12 +9661,25 @@ export const indexObject =`{
                     "Thag1.97"
                ],
                "xrefs": []
+          },
+          "giving up valuable": {
+               "locators": [
+                    "Thag16.7"
+               ],
+               "xrefs": []
           }
      },
-     "location": {
+     "dwellings": {
           "leaving one not good for practice": {
                "locators": [
                     "Thag1.105"
+               ],
+               "xrefs": []
+          },
+          "suitable": {
+               "locators": [
+                    "Thag10.6",
+                    "Thag10.7"
                ],
                "xrefs": []
           }
@@ -9778,7 +10037,8 @@ export const indexObject =`{
      "slow spiritual progress": {
           "": {
                "locators": [
-                    "Thag10.4"
+                    "Thag10.4",
+                    "Thag16.3"
                ],
                "xrefs": []
           }
@@ -9805,15 +10065,6 @@ export const indexObject =`{
                "xrefs": [
                     "xref charnel ground contemplation (sivathika)"
                ]
-          }
-     },
-     "dwellings": {
-          "suitable": {
-               "locators": [
-                    "Thag10.6",
-                    "Thag10.7"
-               ],
-               "xrefs": []
           }
      },
      "pretending to be stupid": {
@@ -9860,6 +10111,208 @@ export const indexObject =`{
           "": {
                "locators": [
                     "Thag16.2"
+               ],
+               "xrefs": []
+          },
+          "like walking shoeless on thorny path": {
+               "locators": [
+                    "Thag16.10"
+               ],
+               "xrefs": []
+          }
+     },
+     "location": {
+          "": {
+               "locators": [],
+               "xrefs": [
+                    "xref dwellings"
+               ]
+          }
+     },
+     "goodwill": {
+          "": {
+               "locators": [],
+               "xrefs": [
+                    "xref loving-kindness (mettā)"
+               ]
+          }
+     },
+     "death": {
+          "like fruit falling from tree": {
+               "locators": [
+                    "Thag16.4"
+               ],
+               "xrefs": []
+          }
+     },
+     "sense contact": {
+          "clinging": {
+               "locators": [
+                    "Thag16.5"
+               ],
+               "xrefs": []
+          },
+          "mindfulness": {
+               "locators": [
+                    "Thag16.5"
+               ],
+               "xrefs": []
+          }
+     },
+     "general of the Dhamma (senāpati)": {
+          "": {
+               "locators": [
+                    "Thag16.6"
+               ],
+               "xrefs": []
+          }
+     },
+     "ascetic practices (dhutaṅga)": {
+          "": {
+               "locators": [
+                    "Thag16.7"
+               ],
+               "xrefs": []
+          },
+          "lying down to sleep": {
+               "locators": [
+                    "Thag16.9"
+               ],
+               "xrefs": []
+          }
+     },
+     "meditation (jhāyati)": {
+          "": {
+               "locators": [
+                    "Thag16.7"
+               ],
+               "xrefs": []
+          }
+     },
+     "enemies": {
+          "wishing for them to hear Dhamma": {
+               "locators": [
+                    "Thag16.8"
+               ],
+               "xrefs": []
+          }
+     },
+     "rag-robe wearing": {
+          "": {
+               "locators": [
+                    "Thag16.9"
+               ],
+               "xrefs": []
+          }
+     },
+     "few wishes (appiccha)": {
+          "": {
+               "locators": [
+                    "Thag16.9"
+               ],
+               "xrefs": []
+          }
+     },
+     "mind-made body (manomayena kāya)": {
+          "": {
+               "locators": [
+                    "Thag16.9"
+               ],
+               "xrefs": []
+          }
+     },
+     "past lives, knowledge of (pubbenivāsānussatiñāna)": {
+          "": {
+               "locators": [
+                    "Thag16.9"
+               ],
+               "xrefs": []
+          }
+     },
+     "senior monastics": {
+          "gone": {
+               "locators": [
+                    "Thag16.10"
+               ],
+               "xrefs": []
+          }
+     },
+     "attendant": {
+          "of the Buddha": {
+               "locators": [
+                    "Thag17.3"
+               ],
+               "xrefs": []
+          }
+     },
+     "encouragement": {
+          "to oneself": {
+               "locators": [
+                    "Thag19.1"
+               ],
+               "xrefs": []
+          }
+     },
+     "cat-skin bag": {
+          "mind like a": {
+               "locators": [
+                    "Thag1.19"
+               ],
+               "xrefs": []
+          }
+     },
+     "Dūsī, Māra": {
+          "": {
+               "locators": [
+                    "Thag20.1"
+               ],
+               "xrefs": []
+          }
+     },
+     "Vejayantapāsāda (Palace of Victory)": {
+          "": {
+               "locators": [
+                    "Thag20.1"
+               ],
+               "xrefs": []
+          }
+     },
+     "Aññā Koṇḍaññn, Ven.": {
+          "praise of": {
+               "locators": [
+                    "Thag21.1"
+               ],
+               "xrefs": []
+          }
+     },
+     "Moggallāna, Ven": {
+          "praise of": {
+               "locators": [
+                    "Thag21.1"
+               ],
+               "xrefs": []
+          }
+     },
+     "Mahā Moggallāna": {
+          "": {
+               "locators": [],
+               "xrefs": [
+                    "xref Moggallāna, Ven"
+               ]
+          }
+     },
+     "poetry": {
+          "drunk on": {
+               "locators": [
+                    "Thag21.1"
+               ],
+               "xrefs": []
+          }
+     },
+     "Nigrodhakappa, Ven": {
+          "": {
+               "locators": [
+                    "Thag21.1"
                ],
                "xrefs": []
           }

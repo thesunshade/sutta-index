@@ -175,7 +175,6 @@ stinginess	types	AN5.254
 death (maraṇa)		SN1.20
 death (maraṇa)		SN1.66
 death (maraṇa)		SN1.67
-death (maraṇa)		xref aging and death
 death (maraṇa)		xref dependent origination
 death (maraṇa)	abandoning the training as	MN105
 death (maraṇa)	army of	SN5.3
@@ -406,7 +405,6 @@ speech	restraint	DN2
 speech		xref right speech (sammāvācā)
 right speech (sammāvācā)		AN10.176
 right speech (sammāvācā)		AN10.211
-right speech (sammāvācā)		xref Noble Eightfold Path
 right speech (sammāvācā)		MN60
 right speech (sammāvācā)		MN117
 right speech (sammāvācā)		MN141
@@ -448,11 +446,11 @@ speech	well spoken	SN11.5
 speech	well spoken	Snp3.3
 speech	well spoken	Snp3.3
 speech	with loving-kindness	AN5.198
-speech		xref wrong speech (micchāvacā)
-wrong speech (micchāvacā)		AN10.176
-wrong speech (micchāvacā)		AN10.211
-wrong speech (micchāvacā)		MN60
-wrong speech (micchāvacā)		MN117
+speech		xref wrong speech (micchā vacā)
+wrong speech (micchā vacā)		AN10.176
+wrong speech (micchā vacā)		AN10.211
+wrong speech (micchā vacā)		MN60
+wrong speech (micchā vacā)		MN117
 speech		xref false speech
 speech		xref harsh speech
 speech	bad conduct	AN4.221
@@ -564,7 +562,7 @@ business		Kp9
 blame	by the wise	Kp9
 loving-kindness (mettā)		Kp9
 meditation	postures	Kp9
-wrong views		Kp9
+wrong view (micchā diṭṭhi)		Kp9
 virtue	as criterion for loving-kindness	Kp9
 intention		Dhp1
 actions (kamma)	results and	Dhp1
@@ -632,7 +630,7 @@ mind	as subtle	Dhp36
 mind	guarded leads to hppiness	Dhp36
 faith (saddhā)	lack of prevents wisdom	Dhp37
 body	like a pot	Dhp40
-mind	simile of citadel	Dhp40
+mind	guarded like a citadel	Dhp40
 death (maraṇa)	comes quickly	Dhp41
 mind	untrained worse than enemy	Dhp42
 mind	trained better than family	Dhp43
@@ -814,7 +812,7 @@ results of actions	simile of rust	Dhp240
 stains		Dhp241-42
 ignorance	as worst stain	Dhp243
 results of actions	harming oneself	Dhp247
-confidence	giving and	Dhp249
+confidence (pasāda)	giving and	Dhp249
 concentration (samādhi)	hindrances to	Dhp249–50
 greed	as fire	Dhp251
 hatred (dosa)	as crime	Dhp251
@@ -855,7 +853,7 @@ sexual misconduct	result	Dhp309–10
 monastic life	wrongly practiced	Dhp311
 monastic life	simile of kusa grass	Dhp311
 monastic life	wrongly practiced	Dhp313
-self guarding	simile of citadel	Dhp315
+self guarding	like a citadel	Dhp315
 shame		Dhp316
 wrong views		Dhp316–18
 right view (sammā diṭṭhi)		Dhp319
@@ -876,7 +874,7 @@ faith (saddhā)		Dhp333
 precepts		Dhp333
 craving (taṇha)		Dhp chapter 24
 craving (taṇha)	simile of creeper	Dhp334
-craving (taṇha)	simile of monkey	Dhp334
+craving (taṇha)	like a money	Dhp334
 craving (taṇha) 	simile of grass in rain	Dhp335
 craving (taṇha)	simile of water drop on lotus leaf	Dhp336
 Māra	simile of stream	Dhp337
@@ -949,7 +947,7 @@ kindness	as happiness	Ud2.1
 useless speech (tiracāna)		Ud2.2
 noble silence	vs. useless speech	Ud2.2
 nibbāna	better happiness than heaven	Ud2.2
-boys	harming an animal	Ud2.3
+children	harming an animal	Ud2.3
 suffering	no one likes	Ud2.3
 happiness	those who desire	Ud2.3
 jealousy		Ud2.4
@@ -1058,7 +1056,7 @@ Dhamma	for money making	Ud6.2
 wrong views		Ud6.4–6
 eternalism		Ud6.4–6
 Tathāgatas	existing after death	Ud6.4
-followers of other paths		Ud6.4–6
+followers of other paths (aññatitthiyā)		Ud6.4–6
 disputes	over views	Ud6.4–6
 blind men and elephant		Ud6.4
 elephants	blind men and	Ud6.4
@@ -1199,7 +1197,7 @@ gods	wishes of	Iti83
 Tathāgatas	benefiting the world	Iti84
 arahants	benefiting the world	Iti84
 disciple of the Buddha	benefiting the world	Iti84
-meditation on ugliness		Iti85
+perception of ugliness (asubhasañña)		Iti85
 impermanence meditation		Iti85
 mindfulness of breathing		Iti85
 Dhamma	delight in	Iti86
@@ -1485,7 +1483,7 @@ past, present future	let go of	Snp4.15
 Sāriputta, Ven.	as inquirer	Snp4.16
 monastic life	advice for	Snp4.16
 Bāvari, ascetic		Snp5.1
-thirty-two marks		Snp5.1
+marks of a great man		Snp5.1
 head-splitting		Snp5.1
 name and form		Snp5.2
 sacrifices (yañña)		Snp5.4
@@ -1503,273 +1501,273 @@ Vakkali, Ven	committed to faith	Snp5.19
 mansions, heavenly		xref devas
 heavenly mansions (vimāna)		xref devas
 devas		Vv
-gifts, specific types of	chair	Vv1.1
-gifts, specific types of	chair	Vv1.2
-gifts, specific types of	chair	Vv1.3
-gifts, specific types of	chair	Vv1.4
-gifts, specific types of	chair	Vv1.5
-gifts, specific types of	water	Vv1.6
-gifts, specific types of	water	Vv1.7
-gifts, specific types of	water	Vv1.8
-gifts, specific types of	light	Vv1.9
-gifts, specific types of	sesame seeds	Vv1.10
-giving (dāna)	smallest gift has value	Vv1.10
-fidelity in marriage		Vv1.11
-virtue	leading to heaven	Vv1.11
-sexual misconduct	abstaining from	Vv1.11
-gifts, specific types of	cakes	Vv1.13
-gifts, specific types of	cakes	Vv1.14
-devas	once returners	Vv1.15
-uposatha	resulting in heaven	Vv1.15
-gods that delight in creation		Vv1.16
+gifts, specific types of	chair	Vv1
+gifts, specific types of	chair	Vv2
+gifts, specific types of	chair	Vv3
+gifts, specific types of	chair	Vv4
+gifts, specific types of	chair	Vv5
+gifts, specific types of	water	Vv6
+gifts, specific types of	water	Vv7
+gifts, specific types of	water	Vv8
+gifts, specific types of	light	Vv9
+gifts, specific types of	sesame seeds	Vv10
+giving (dāna)	smallest gift has value	Vv10
+fidelity in marriage		Vv11
+virtue	leading to heaven	Vv11
+sexual misconduct	abstaining from	Vv11
+gifts, specific types of	cakes	Vv13
+gifts, specific types of	cakes	Vv14
+devas	once returners	Vv15
+uposatha	resulting in heaven	Vv15
+gods that delight in creation		Vv16
 gods		xref devas
 gods		xref brahmās
-devas	with psychic powers	Vv1.16
-devas	stream-enterers	Vv1.16
-once returner	gods that have become	Vv1.15
-stream-enterers	gods that have become	Vv1.16
-Sakka	asking questions	Vv1.17
-uposatha	resulting in heaven	Vv2.2
-devas	once returners	Vv2.2
-once returner	gods that have become	Vv2.2
-Sakka	asking questions	Vv2.3
-giving (dāna)	smallest gift has value	Vv2.3
-wheel-turning monarchs	not greatest happiness	Vv2.3
-Buddha, the	visiting beings about to die	Vv2.4
-worshiping (vandati)	leading to heaven	Vv2.4
-regret	over not making spiritual progress	Vv2.7
-devas	stream-enterers	Vv2.7
-stream-enterers	gods that have become	Vv2.7
-giving (dāna)	food	Vv2.10
+devas	with psychic powers	Vv16
+devas	stream-enterers	Vv16
+once returner	gods that have become	Vv15
+stream-enterers	gods that have become	Vv16
+Sakka	asking questions	Vv17
+uposatha	resulting in heaven	Vv19
+devas	once returners	Vv19
+once returner	gods that have become	Vv19
+Sakka	asking questions	Vv20
+giving (dāna)	smallest gift has value	Vv20
+wheel-turning monarchs	not greatest happiness	Vv20
+Buddha, the	visiting beings about to die	Vv21
+worshiping (vandati)	leading to heaven	Vv21
+regret	over not making spiritual progress	Vv24
+devas	stream-enterers	Vv24
+stream-enterers	gods that have become	Vv24
+giving (dāna)	food	Vv27
 alms food		xref giving (dāna)
-giving (dāna)	criticizing	Vv3.1
-giving (dāna)	leads to heaven	Vv3.1
-gifts, specific types of	sugarcane	Vv3.2
-giving (dāna)	criticizing	Vv3.2
-celibacy	lay people	Vv3.3
-wives	respectful	Vv3.4
-gifts, specific types of	long list of	Vv3.5
-giving (dāna)	to Saṅgha is always more fruitful than individual gifts	Vv3.6
-funeral	offerings at	Vv3.7
-offerings	to relics	Vv3.8
+giving (dāna)	criticizing	Vv29
+giving (dāna)	leads to heaven	Vv29
+gifts, specific types of	sugarcane	Vv30
+giving (dāna)	criticizing	Vv30
+celibacy	lay people	Vv31
+wives	respectful	Vv32
+gifts, specific types of	long list of	Vv33
+giving (dāna)	to Saṅgha is always more fruitful than individual gifts	Vv34
+funeral	offerings at	Vv35
+offerings	to relics	Vv36
 giving (dāna)		xref offerings
-devas	psychic powers	Vv3.9
-offerings	to stupa	Vv3.9
+devas	psychic powers	Vv37
+offerings	to stupa	Vv37
 stupa (thupa)		xref offerings
-gifts, specific types of	flowers	Vv3.10
-regret	over not making spiritual progress	Vv4.2
-gifts, specific types of	robes	Vv4.3
-giving (dāna)	smallest gift has value	Vv4.4
-wheel-turning monarchs	not greatest happiness	Vv4.5
-rejoicing	in someone else’s merit	Vv4.6
-gifts, specific types of	monastery	Vv4.6
-generosity (cāga)	recollection of of ones own	Vv4.6
+gifts, specific types of	flowers	Vv38
+regret	over not making spiritual progress	Vv40
+gifts, specific types of	robes	Vv41
+giving (dāna)	smallest gift has value	Vv42
+wheel-turning monarchs	not greatest happiness	Vv43
+rejoicing	in someone else’s merit	Vv44
+gifts, specific types of	monastery	Vv44
+generosity (cāga)	recollection of of ones own	Vv44
 monastery		xref gifts, specific types of
-gifts, specific types of	flowers	Vv4.7
-gifts, specific types of	monastery	Vv4.8
-offerings	to stupa	Vv4.9
-death (maraṇa)	by cow 	Vv4.9
-giving (dāna)	smallest gift has value	Vv4.9
-gifts, specific types of	sugarcane	Vv4.10
-giving (dāna)	criticizing	Vv4.10
-worshiping (vandati)	leading to heaven	Vv4.11
-suicide	prevented	Vv4.12
-stream-enterers	gods that have become	Vv4.12
-devas	stream-enterers	Vv4.12
-animals	listening to Dhamma	Vv5.1
-Dhamma	sound of	Vv5.1
-listening to Dhamma	by animal	Vv5.1
-merit (puññā)	like relatives greeting us after long journey	Vv5.2
-tours	of heaven	Vv5.2
-lying	rebirth	Vv5.2
-regret	over not making spiritual progress	Vv5.2
-Chattamāṇavaka		Vv5.3
-refuges	going for leads to heaven	Vv5.3
-Buddha, the	visiting beings about to die	Vv5.3
-Buddha, the	visiting beings about to die	Vv4.12
-precepts, five	leading to heaven	Vv5.3
+gifts, specific types of	flowers	Vv45
+gifts, specific types of	monastery	Vv46
+offerings	to stupa	Vv47
+death (maraṇa)	by cow 	Vv47
+giving (dāna)	smallest gift has value	Vv47
+gifts, specific types of	sugarcane	Vv48
+giving (dāna)	criticizing	Vv48
+worshiping (vandati)	leading to heaven	Vv49
+suicide	prevented	Vv50
+stream-enterers	gods that have become	Vv50
+devas	stream-enterers	Vv50
+animals	listening to Dhamma	Vv51
+Dhamma	sound of	Vv51
+listening to Dhamma	by animal	Vv51
+merit (puññā)	like relatives greeting us after long journey	Vv52
+tours	of heaven	Vv52
+lying	rebirth	Vv52
+regret	over not making spiritual progress	Vv52
+Chattamāṇavaka		Vv53
+refuges	going for leads to heaven	Vv53
+Buddha, the	visiting beings about to die	Vv53
+Buddha, the	visiting beings about to die	Vv50
+precepts, five	leading to heaven	Vv53
 virtue		xref precepts
-heaven	precepts lead to	Vv5.3
-heaven	refuges lead to	Vv5.3
+heaven	precepts lead to	Vv53
+heaven	refuges lead to	Vv53
 heaven		xref giving (dāna)
-merit (puññā)	small amounts give big results	Vv5.3
-giving (dāna)	small amount	Vv5.8
-giving (dāna)	small amount	Vv5.9
-gifts, specific types of	needle	Vv5.8
-gifts, specific types of	needle	Vv5.9
-offerings	to stupa	Vv5.10
-merit (puññā)	small amounts give big results	Vv5.10
-fidelity in marriage		Vv5.11
-gifts, specific types of	dwelling	Vv5.12
-Mahā Kaccāna	teaches a hunter	Vv5.13
-death (maraṇa)	cannot escape 	Vv5.13
-death (maraṇa)	as universal	Vv5.13
-refuges	attempting to go for refuge to individual monk	Vv5.13
-offerings	to relics	Vv5.13
+merit (puññā)	small amounts give big results	Vv53
+giving (dāna)	small amount	Vv58
+giving (dāna)	small amount	Vv59
+gifts, specific types of	needle	Vv58
+gifts, specific types of	needle	Vv59
+offerings	to stupa	Vv60
+merit (puññā)	small amounts give big results	Vv60
+fidelity in marriage		Vv61
+gifts, specific types of	dwelling	Vv62
+Mahā Kaccāna	teaches a hunter	Vv63
+death (maraṇa)	cannot escape 	Vv63
+death (maraṇa)	as universal	Vv63
+refuges	attempting to go for refuge to individual monk	Vv63
+offerings	to relics	Vv63
 relics		xref offerings
-Kassapa, Buddha		Vv5.14
-gifts, specific types of	food	Vv6.1
-gifts, specific types of	fruit	Vv6.3
-Uttara, servant of Pāyāsi	as a deva	Vv6.10
-parents	caring for	Vv7.1
-parents	caring for	Vv7.2
-trees	planting	Vv7.3
-gifts, specific types of	monastery	Vv7.3
-gifts, specific types of	monastery	Vv7.4
-gifts, specific types of	bath	Vv7.5
-Sāriputta, Ven.	getting a bath	Vv7.5
-merit (puññā)	ingenuity while making	Vv7.5
-merit (puññā)	ingenuity while making	Vv7.6
-Kanthaka deva	Bodhisatta’s horse	Vv7.7
-Bodhisatta	great renunciation	Vv7.7
-worshiping (vandati)	encouraging others to	Vv7.8
-stupa (thupa)	worshiping	Vv7.8
-Maṭṭakuṇḍalī		Vv7.9
-devas	giving advice	Vv7.9
-Buddha, the	visiting beings about to die	Vv7.9
-worshiping (vandati)	leading to heaven	Vv7.9
-parents	caring for	Vv7.9
-death (maraṇa)	cause of grief	Vv7.9
-grieving	uselessness of	Vv7.9
-death (maraṇa)	overcoming grief	Vv7.9
-Pāyāsi king	reborn as Serissaka deva	Vv7.10
-travel		Vv7.10
-devas	giving advice	Vv7.10
-stupa (thupa)	cleaning	Vv7.11
-merit (puññā)	small amounts give big results	Vv7.11
-Saṅgha	field of merit	Pv1.1
+Kassapa, Buddha		Vv64
+gifts, specific types of	food	Vv65
+gifts, specific types of	fruit	Vv67
+Uttara, servant of Pāyāsi	as a deva	Vv74
+parents	caring for	Vv75
+parents	caring for	Vv76
+trees	planting	Vv77
+gifts, specific types of	monastery	Vv77
+gifts, specific types of	monastery	Vv78
+gifts, specific types of	bath	Vv79
+Sāriputta, Ven.	getting a bath	Vv79
+merit (puññā)	ingenuity while making	Vv79
+merit (puññā)	ingenuity while making	Vv80
+Kanthaka deva	Bodhisatta’s horse	Vv81
+Bodhisatta	great renunciation	Vv81
+worshiping (vandati)	encouraging others to	Vv82
+stupa (thupa)	worshiping	Vv82
+Maṭṭakuṇḍalī		Vv83
+devas	giving advice	Vv83
+Buddha, the	visiting beings about to die	Vv83
+worshiping (vandati)	leading to heaven	Vv83
+parents	caring for	Vv83
+death (maraṇa)	cause of grief	Vv83
+grieving	uselessness of	Vv83
+death (maraṇa)	overcoming grief	Vv83
+Pāyāsi king	reborn as Serissaka deva	Vv84
+travel		Vv84
+devas	giving advice	Vv84
+stupa (thupa)	cleaning	Vv85
+merit (puññā)	small amounts give big results	Vv85
+Saṅgha	field of merit	Pv1
 merit, sharing		xref departed relatives
-departed relatives	sharing merit with	Pv1.1
+departed relatives	sharing merit with	Pv1
 ghosts		xref departed relatives
-wrong speech (micchāvacā)	results of	Pv1.2
-monastics	reborn as ghosts	Pv1.3
-wrong speech (micchāvacā)	results of	Pv1.3
-departed relatives	sharing merit with	Pv1.4
-gods	sharing merit with	Pv1.4
-grieving	useless of	Pv1.4
-merit sharing	immediate effect	Pv1.4
-departed relatives	returning as ghosts	Pv1.5
-departed relatives	sharing merit with	Pv1.5
-ghost realm	qualities of	Pv1.5
+wrong speech (micchā vacā)	results of	Pv2
+monastics	reborn as ghosts	Pv3
+wrong speech (micchā vacā)	results of	Pv3
+departed relatives	sharing merit with	Pv4
+gods	sharing merit with	Pv4
+grieving	useless of	Pv4
+merit sharing	immediate effect	Pv4
+departed relatives	returning as ghosts	Pv5
+departed relatives	sharing merit with	Pv5
+ghost realm	qualities of	Pv5
 sharing merit		xref merit sharing
-sharing merit	like rain reaching the oceans	Pv1.5
-sharing merit	as a source of merit itself	Pv1.5
+sharing merit	like rain reaching the oceans	Pv5
+sharing merit	as a source of merit itself	Pv5
 ghosts		Pv
-speech	false oath	Pv1.6
-abortion	causing someone elses	Pv1.6
-ghosts	child eating	Pv1.6
-ghosts	hunger	Pv1.6
-speech	false oath	Pv1.7
-abortion	causing someone elses	Pv1.7
-ghosts	child eating	Pv1.7
-ghosts	hunger	Pv1.7
-grieving	overcoming	Pv1.8
-grieving	uselessness of	Pv1.8
-ghost realm	food in	Pv1.9
-giving (dāna)	criticizing	Pv1.9
-ghosts	dressed in hair	Pv1.10
-ghosts	sharing merit with	Pv1.10
-gifts, specific types of	cakes	Pv1.10
-ghosts	with hammers	Pv1.11
-children	compared to parents	Pv1.11
-wealth	not making good use of	Pv1.11
-ghosts	giving advice	Pv1.11
-death (maraṇa)	wise response to	Pv1.12
-grieving	wise do not	Pv1.12
-body	like a snake’s skin shed	Pv1.12
-grieving	uselessness of	Pv1.12
-body	like a pot	Pv1.13
-Sāriputta, Ven.	helps a ghost	Pv2.1
-Saṅgha	giving to the Saṅgha	Pv2.1
-ghosts	sharing merit with	Pv2.1
-Sāriputta, Ven.	helps a ghost	Pv2.2
-ghost realm	qualities of	Pv2.2
-harsh speech	rebirth in ghost realm	Pv2.3
-jealousy	rebirth in ghost realm	Pv2.3
-death (maraṇa)	universality of	Pv2.6
-death (maraṇa)	cause of grief	Pv2.6
-grieving	uselessness of	Pv2.6
-death (maraṇa)	overcoming grief	Pv2.6
-giving (dāna)	preventing	Pv2.7
-wealthy people	not giving	Pv2.7
-ghosts	giving advice	Pv2.7
-wealthy people	not giving	Pv2.8
-Saṅgha	best recipient	Pv2.8
-gratitude	to those who have helped	Pv2.9
-harming a good person	like dust thrown into the wind	Pv2.9
-merit (puññā)	small amounts give big results 	Pv2.9
-hand that juice flows from 		Pv2.9
-bad actions	small amounts give big results	Pv2.9
-sadness	from having no one to give to	Pv2.9
-giving (dāna)	preventing	Pv2.9
-Saṅgha	best recipient	Pv2.9
-giving (dāna)	to ordinary people less fruitful than gifts to Saṅgha	Pv2.9
-ghosts	dressed in hair	Pv2.10
-ghosts	cannot take things directly	Pv2.10
-giving (dāna)	preventing	Pv2.10
-ghosts	mansion (petavimāna)	Pv2.11
-gifts, specific types of	thread	Pv2.11
-giving (dāna)	small amounts give big results	Pv2.11
-ghost realm	passage of time in	Pv2.11
-sexual misconduct		Pv2.12
-speech	false oath	Pv2.12
-ghosts	eaten by dogs	Pv2.12
-death (maraṇa)	cause of grief	Pv2.13
-grieving	uselessness of	Pv2.13
-death (maraṇa)	overcoming grief	Pv2.13
-wealthy people	not giving	Pv3.1
-insulting	receiver of gifts	Pv3.1
-merit (puññā)	advice from ghosts	Pv3.1
-Saṅgha	giving to the Saṅgha	Pv3.2
-gifts, specific types of	clothing	Pv3.2
-gifts, specific types of	sandals	Pv3.2
-ghosts	mansion (petavimāna)	Pv3.3
-ghosts	giving advice	Pv3.3
-parents	harming 	Pv3.4
-ghosts	greediness	Pv3.4
-lying	rebirth in ghost realm	Pv3.4
-children	abandoned	Pv3.5
-harsh speech	to noble disciples	Pv3.5
-wealthy people	not giving	Pv3.6
-hunters	rebirth	Pv3.7
-bad actions	limiting actions to limit results	Pv3.7
-hunters	rebirth	Pv3.8
-bad actions	limiting actions to limit results	Pv3.8
-speech	back-biting, results of	Pv3.9
-divisive speech	results of	Pv3.9
-relics	insulting relic puja	Pv3.10
-roads	fixing, result of	Pv4.1
-joking	results of	Pv4.1
-monastics	treating them badly	Pv4.1
-ghosts	giving advice	Pv4.1
-friendship	between human and ghost	Pv4.1
-wrong view	leading to ghost world	Pv4.3
-wrong view	resulting in hell	Pv4.3
+speech	false oath	Pv6
+abortion	causing someone elses	Pv6
+ghosts	child eating	Pv6
+ghosts	hunger	Pv6
+speech	false oath	Pv7
+abortion	causing someone elses	Pv7
+ghosts	child eating	Pv7
+ghosts	hunger	Pv7
+grieving	overcoming	Pv8
+grieving	uselessness of	Pv8
+ghost realm	food in	Pv9
+giving (dāna)	criticizing	Pv9
+ghosts	dressed in hair	Pv10
+ghosts	sharing merit with	Pv10
+gifts, specific types of	cakes	Pv10
+ghosts	with hammers	Pv11
+children	compared to parents	Pv11
+wealth	not making good use of	Pv11
+ghosts	giving advice	Pv11
+death (maraṇa)	wise response to	Pv12
+grieving	wise do not	Pv12
+body	like a snake’s skin shed	Pv12
+grieving	uselessness of	Pv12
+body	like a pot	Pv13
+Sāriputta, Ven.	helps a ghost	Pv13
+Saṅgha	giving to the Saṅgha	Pv13
+ghosts	sharing merit with	Pv13
+Sāriputta, Ven.	helps a ghost	Pv14
+ghost realm	qualities of	Pv14
+harsh speech	rebirth in ghost realm	Pv15
+jealousy	rebirth in ghost realm	Pv15
+death (maraṇa)	universality of	Pv18
+death (maraṇa)	cause of grief	Pv18
+grieving	uselessness of	Pv18
+death (maraṇa)	overcoming grief	Pv18
+giving (dāna)	preventing	Pv19
+wealthy people	not giving	Pv19
+ghosts	giving advice	Pv19
+wealthy people	not giving	Pv20
+Saṅgha	best recipient	Pv20
+gratitude	to those who have helped	Pv21
+harming a good person	like dust thrown into the wind	Pv21
+merit (puññā)	small amounts give big results 	Pv21
+hand that juice flows from 		Pv21
+bad actions	small amounts give big results	Pv21
+sadness	from having no one to give to	Pv21
+giving (dāna)	preventing	Pv21
+Saṅgha	best recipient	Pv21
+giving (dāna)	to ordinary people less fruitful than gifts to Saṅgha	Pv21
+ghosts	dressed in hair	Pv22
+ghosts	cannot take things directly	Pv22
+giving (dāna)	preventing	Pv22
+ghosts	mansion (petavimāna)	Pv23
+gifts, specific types of	thread	Pv23
+giving (dāna)	small amounts give big results	Pv23
+ghost realm	passage of time in	Pv23
+sexual misconduct		Pv24
+speech	false oath	Pv24
+ghosts	eaten by dogs	Pv24
+death (maraṇa)	cause of grief	Pv25
+grieving	uselessness of	Pv25
+death (maraṇa)	overcoming grief	Pv25
+wealthy people	not giving	Pv26
+insulting	receiver of gifts	Pv26
+merit (puññā)	advice from ghosts	Pv26
+Saṅgha	giving to the Saṅgha	Pv27
+gifts, specific types of	clothing	Pv27
+gifts, specific types of	sandals	Pv27
+ghosts	mansion (petavimāna)	Pv28
+ghosts	giving advice	Pv28
+parents	harming 	Pv29
+ghosts	greediness	Pv29
+lying	rebirth in ghost realm	Pv29
+children	abandoned	Pv30
+harsh speech	to noble disciples	Pv30
+wealthy people	not giving	Pv31
+hunters	rebirth	Pv32
+bad actions	limiting actions to limit results	Pv32
+hunters	rebirth	Pv33
+bad actions	limiting actions to limit results	Pv33
+speech	back-biting, results of	Pv34
+divisive speech	results of	Pv34
+relics	insulting relic puja	Pv35
+roads	fixing, result of	Pv36
+joking	results of	Pv36
+monastics	treating them badly	Pv36
+ghosts	giving advice	Pv36
+friendship	between human and ghost	Pv36
+wrong view (micchā diṭṭhi)	leading to ghost world	Pv38
+wrong view (micchā diṭṭhi)	resulting in hell	Pv38
 hell		xref wrong views
-hell	lifespan in	Pv4.3
-departed relatives	sharing merit with	Pv4.3
-wrong views	giving up like vomiting	Pv4.3
-ghosts	hunger	Pv4.5
-wealthy people	not giving	Pv4.6
-monastics	treating them badly	Pv4.7
-paccekabuddha	disparaging	Pv4.7
-hell	life in	Pv4.7
-arrogance	results of	Pv4.7
-bad friends		Pv4.8
+hell	lifespan in	Pv38
+departed relatives	sharing merit with	Pv38
+wrong views	giving up like vomiting	Pv38
+ghosts	hunger	Pv40
+wealthy people	not giving	Pv41
+monastics	treating them badly	Pv42
+paccekabuddha	disparaging	Pv42
+hell	life in	Pv42
+arrogance	results of	Pv42
+bad friends		Pv43
 friendship		xref bad friends
-monastics	reborn as ghosts	Pv4.8
+monastics	reborn as ghosts	Pv43
 bad monastics		xref monastics
-monastics	bad	Pv4.8
-bad friends		Pv4.9
-monastics	reborn as ghosts	Pv4.9
-monastics	bad	Pv4.9
-ghosts	cannot take things directly	Pv4.10
-ghost realm	life in	Pv4.10
-social mobility		Pv4.12
-merit (puññā)	small amounts give big results	Pv4.13
-wealthy people	not giving	Pv4.15
-ghosts	with hammers	Pv4.16
-paccekabuddha	disparaging	Pv4.6
+monastics	bad	Pv43
+bad friends		Pv44
+monastics	reborn as ghosts	Pv44
+monastics	bad	Pv44
+ghosts	cannot take things directly	Pv45
+ghost realm	life in	Pv45
+social mobility		Pv47
+merit (puññā)	small amounts give big results	Pv48
+wealthy people	not giving	Pv50
+ghosts	with hammers	Pv51
+paccekabuddha	disparaging	Pv41
 Buddha, the	excellence is like fire blazing	Thag1.3
 association	with the wise	Thag1.4
 Māra	army of pushed away like flood 	Thag1.7
@@ -1809,7 +1807,7 @@ monastics	people envy	Thag1.62
 happiness through happiness		Thag1.63
 conceit (māna)	removed with conceit	Thag1.64
 Dhamma teaching	to householders	Thag1.65
-wisdom	as higher than virtue	Thag1.70
+wisdom	higher than virtue	Thag1.70
 divine messengers		Thag1.73
 association	with good people	Thag1.75
 mind	training like elephant trainer does	Thag1.77
@@ -1825,7 +1823,7 @@ association	with wicked	Thag1.95
 offerings	small amount gives big results	Thag1.96
 bowl		Thag1.97
 monastic life	wrongly practiced	Thag1.101
-location	leaving one not good for practice	Thag1.105
+dwellings	leaving one not good for practice	Thag1.105
 going forth (pabbajja)	old age	Thag1.108
 monastic life	difficulty of	Thag1.111
 lay life	difficult	Thag1.111
@@ -1835,7 +1833,7 @@ arahant	becoming while a lay person	Thag1.117
 old age	body in	Thag1.118
 honor	subtle dart	Thag2.2
 food	doesn’t lead to peace	Thag2.2
-mind	monkey	Thag2.3
+mind	like a monkey	Thag2.3
 speech	speaking little	Thag2.4
 mind	like poorly/well roofed house	Thag2.7
 women	danger for monks	Thag2.9
@@ -1996,7 +1994,7 @@ monastic life	advice for	Thag10.7
 virtue	leading to heaven	Thag12.1
 virtue	leading to happiness	Thag12.1
 virtue		Thag12.1
-wisdom	as higher than virtue	Thag12.1
+wisdom	higher than virtue	Thag12.1
 caste	low caste monk	Thag12.2
 “come, monk” ordination (ehi bhikkhu)		Thag12.2
 ehi bhikkhu		xref “come, monk” ordination (ehi bhikkhu)
@@ -2004,7 +2002,7 @@ energy	like a well tuned lute	Thag13.1
 loving-kindness (mettā)	limitless	Thag14.1
 worldly conditions		Thag14.2
 gain	illegitimate	Thag14.2
-fame	of the uninteligent	Thag14.2
+fame	of the unintelligent	Thag14.2
 praise	by fools	Thag14.2
 seclusion	suffering of	Thag14.2
 Dhamma	full of flavor (mahārassa)	Thag15.1
@@ -2012,3 +2010,96 @@ Buddha, the	as nāga	Thag15.2
 death (maraṇa)	without fear	Thag16.1
 sense restraint		Thag16.2
 faculties (indriya)	knocking out faculties with faculties	Thag16.2
+learning		xref listening to Dhamma
+listening to Dhamma		xref learning
+location		xref dwellings
+goodwill		xref loving-kindness (mettā)
+boys		xref children
+slow spiritual progress		Thag16.3
+doubt		Thag16.3
+Buddha, the	as doctor	Thag16.3
+perception of ugliness (asubhasañña)		Thag16.4
+wealthy people	not giving	Thag16.4
+greed	unsatisfied	Thag16.4
+grieving		Thag16.4
+wealth	left behind after death	Thag16.4
+wisdom	superior to wealth	Thag16.4
+results of actions	like thief caught and punished	Thag16.4
+sensual pleasures	appearing in disguise	Thag16.4
+death	like fruit falling from tree	Thag16.4
+going forth (pabbajja)	out of faith	Thag16.4
+sense contact	clinging	Thag16.5
+sense contact	mindfulness 	Thag16.5
+marks of a great man	appearing on the Buddha	Thag16.5
+Buddha, the	king of Dhamma	Thag16.5
+general of the Dhamma (senāpati)		Thag16.6
+contentment	with requisites	Thag16.7
+ascetic practices (dhutaṅga)		Thag16.7
+meditation (jhāyati)		Thag16.7
+bowl	giving up valuable	Thag16.7
+heedfulness (appamāda)	like moon freed from clouds	Thag16.8
+enemies	wishing for them to hear Dhamma	Thag16.8
+rag-robe wearing		Thag16.9
+requisites, four		xref rag-robe wearing
+few wishes (appiccha)		Thag16.9
+mind-made body (manomayena kāya)		Thag16.9
+ascetic practices (dhutaṅga)	lying down to sleep	Thag16.9
+divine eye (dibbacakkhu)		Thag16.9
+past lives, knowledge of (pubbenivāsānussatiñāna)		Thag16.9
+monastic life	wrongly practiced in the future	Thag16.10
+Saṅgha	decline of in future	Thag16.10
+senior monastics	gone	Thag16.10
+disputes	over views	Thag16.10
+monastics	giving material things to lay people	Thag16.10
+sense restraint	like walking shoeless on thorny path	Thag16.10
+Dhamma	decline of in future	Thag17.1
+monastic life	wrongly practiced in the future	Thag17.1
+robes	not worthy of	Thag17.1
+heedfulness (appamāda)	as sanctuary	Thag17.1
+eating	restraint	Thag17.2
+happiness	as suffering	Thag17.2
+proliferation (papañca)	giving up	Thag17.2
+arahants	residence of	Thag17.2
+admonishment	like guide to hidden treasuer	Thag17.2
+psychic powers	not required for arahant	Thag17.2
+noble silence		Thag17.2
+mind	guarded like a citadel	Thag17.2
+bad people	becoming good	Thag17.2
+good people	becoming bad	Thag17.2
+association	with good people	Thag17.3
+learning	84,000 teachings	Thag17.3
+learning	like an ox is a person with little learning	Thag17.3
+arrogance	because of learning	Thag17.3
+learning	arrogance because of	Thag17.3
+learning	without practicing	Thag17.3
+friendship	with learned people	Thag17.3
+attendant	of the Buddha	Thag17.3
+honor	like a bog	Thag18.1
+requisites, four	contentment with	Thag18.1
+nature	as pleasing	Thag18.1
+respect	for spiritual companions	Thag18.1
+conceit (māna)		Thag18.1
+robes	like monkey in lion skin not worthy of	Thag18.1
+arahants	praised by gods	Thag18.1
+seclusion	desire for	Thag19.1
+urgency (saṁvega)		Thag19.1
+mind	like a monkey	Thag19.1
+encouragement	to oneself	Thag19.1
+doubt		Thag19.1
+mind	like a traveller	Thag19.1
+sensual pleasures	giving up like vomiting	Thag19.1
+rebirth	mind causing	Thag19.1
+cat-skin bag	mind like a	Thag1.19
+mind	to a meditation object like elephant to post	Thag1.19
+perception of ugliness (asubhasañña)		Thag20.1
+Sāriputta, Ven.	passing away	Thag20.1
+Dūsī, Māra		Thag20.1
+Vejayantapāsāda (Palace of Victory)		Thag20.1
+Māra	attacks the Buddha	Thag20.1
+wrong views	sixty	Thag21.1
+Sāriputta, Ven.	praise of	Thag21.1
+Aññā Koṇḍaññn, Ven.	praise of	Thag21.1
+Moggallāna, Ven	praise of	Thag21.1
+Mahā Moggallāna		xref Moggallāna, Ven
+poetry	drunk on	Thag21.1
+Nigrodhakappa, Ven		Thag21.1

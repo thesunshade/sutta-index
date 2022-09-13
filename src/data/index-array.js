@@ -47,7 +47,7 @@ export const indexArray =`[
      [
           "AN10.176",
           "",
-          "wrong speech (micchāvacā)"
+          "wrong speech (micchā vacā)"
      ],
      [
           "AN10.177",
@@ -67,7 +67,7 @@ export const indexArray =`[
      [
           "AN10.211",
           "",
-          "wrong speech (micchāvacā)"
+          "wrong speech (micchā vacā)"
      ],
      [
           "AN10.217",
@@ -1957,7 +1957,7 @@ export const indexArray =`[
      [
           "Dhp249",
           "giving and",
-          "confidence"
+          "confidence (pasāda)"
      ],
      [
           "Dhp249–50",
@@ -2206,7 +2206,7 @@ export const indexArray =`[
      ],
      [
           "Dhp315",
-          "simile of citadel",
+          "like a citadel",
           "self guarding"
      ],
      [
@@ -2316,7 +2316,7 @@ export const indexArray =`[
      ],
      [
           "Dhp334",
-          "simile of monkey",
+          "like a money",
           "craving (taṇha)"
      ],
      [
@@ -2571,7 +2571,7 @@ export const indexArray =`[
      ],
      [
           "Dhp40",
-          "simile of citadel",
+          "guarded like a citadel",
           "mind"
      ],
      [
@@ -3717,7 +3717,7 @@ export const indexArray =`[
      [
           "Iti85",
           "",
-          "meditation on ugliness"
+          "perception of ugliness (asubhasañña)"
      ],
      [
           "Iti85",
@@ -4407,7 +4407,7 @@ export const indexArray =`[
      [
           "Kp9",
           "",
-          "wrong views"
+          "wrong view (micchā diṭṭhi)"
      ],
      [
           "Kp9",
@@ -4447,7 +4447,7 @@ export const indexArray =`[
      [
           "MN117",
           "",
-          "wrong speech (micchāvacā)"
+          "wrong speech (micchā vacā)"
      ],
      [
           "MN119",
@@ -4637,7 +4637,7 @@ export const indexArray =`[
      [
           "MN60",
           "",
-          "wrong speech (micchāvacā)"
+          "wrong speech (micchā vacā)"
      ],
      [
           "MN61",
@@ -4705,634 +4705,634 @@ export const indexArray =`[
           "ghosts"
      ],
      [
-          "Pv1.1",
+          "Pv1",
           "field of merit",
           "Saṅgha"
      ],
      [
-          "Pv1.1",
+          "Pv1",
           "sharing merit with",
           "departed relatives"
      ],
      [
-          "Pv1.10",
+          "Pv10",
           "dressed in hair",
           "ghosts"
      ],
      [
-          "Pv1.10",
+          "Pv10",
           "sharing merit with",
           "ghosts"
      ],
      [
-          "Pv1.10",
+          "Pv10",
           "cakes",
           "gifts, specific types of"
      ],
      [
-          "Pv1.11",
+          "Pv11",
           "with hammers",
           "ghosts"
      ],
      [
-          "Pv1.11",
+          "Pv11",
           "compared to parents",
           "children"
      ],
      [
-          "Pv1.11",
+          "Pv11",
           "not making good use of",
           "wealth"
      ],
      [
-          "Pv1.11",
+          "Pv11",
           "giving advice",
           "ghosts"
      ],
      [
-          "Pv1.12",
+          "Pv12",
           "wise response to",
           "death (maraṇa)"
      ],
      [
-          "Pv1.12",
+          "Pv12",
           "wise do not",
           "grieving"
      ],
      [
-          "Pv1.12",
+          "Pv12",
           "like a snake’s skin shed",
           "body"
      ],
      [
-          "Pv1.12",
+          "Pv12",
           "uselessness of",
           "grieving"
      ],
      [
-          "Pv1.13",
+          "Pv13",
           "like a pot",
           "body"
      ],
      [
-          "Pv1.2",
-          "results of",
-          "wrong speech (micchāvacā)"
-     ],
-     [
-          "Pv1.3",
-          "reborn as ghosts",
-          "monastics"
-     ],
-     [
-          "Pv1.3",
-          "results of",
-          "wrong speech (micchāvacā)"
-     ],
-     [
-          "Pv1.4",
-          "sharing merit with",
-          "departed relatives"
-     ],
-     [
-          "Pv1.4",
-          "sharing merit with",
-          "gods"
-     ],
-     [
-          "Pv1.4",
-          "useless of",
-          "grieving"
-     ],
-     [
-          "Pv1.4",
-          "immediate effect",
-          "merit sharing"
-     ],
-     [
-          "Pv1.5",
-          "returning as ghosts",
-          "departed relatives"
-     ],
-     [
-          "Pv1.5",
-          "sharing merit with",
-          "departed relatives"
-     ],
-     [
-          "Pv1.5",
-          "qualities of",
-          "ghost realm"
-     ],
-     [
-          "Pv1.5",
-          "like rain reaching the oceans",
-          "sharing merit"
-     ],
-     [
-          "Pv1.5",
-          "as a source of merit itself",
-          "sharing merit"
-     ],
-     [
-          "Pv1.6",
-          "false oath",
-          "speech"
-     ],
-     [
-          "Pv1.6",
-          "causing someone elses",
-          "abortion"
-     ],
-     [
-          "Pv1.6",
-          "child eating",
-          "ghosts"
-     ],
-     [
-          "Pv1.6",
-          "hunger",
-          "ghosts"
-     ],
-     [
-          "Pv1.7",
-          "false oath",
-          "speech"
-     ],
-     [
-          "Pv1.7",
-          "causing someone elses",
-          "abortion"
-     ],
-     [
-          "Pv1.7",
-          "child eating",
-          "ghosts"
-     ],
-     [
-          "Pv1.7",
-          "hunger",
-          "ghosts"
-     ],
-     [
-          "Pv1.8",
-          "overcoming",
-          "grieving"
-     ],
-     [
-          "Pv1.8",
-          "uselessness of",
-          "grieving"
-     ],
-     [
-          "Pv1.9",
-          "food in",
-          "ghost realm"
-     ],
-     [
-          "Pv1.9",
-          "criticizing",
-          "giving (dāna)"
-     ],
-     [
-          "Pv2.1",
+          "Pv13",
           "helps a ghost",
           "Sāriputta, Ven."
      ],
      [
-          "Pv2.1",
+          "Pv13",
           "giving to the Saṅgha",
           "Saṅgha"
      ],
      [
-          "Pv2.1",
+          "Pv13",
           "sharing merit with",
           "ghosts"
      ],
      [
-          "Pv2.10",
-          "dressed in hair",
-          "ghosts"
-     ],
-     [
-          "Pv2.10",
-          "cannot take things directly",
-          "ghosts"
-     ],
-     [
-          "Pv2.10",
-          "preventing",
-          "giving (dāna)"
-     ],
-     [
-          "Pv2.11",
-          "mansion (petavimāna)",
-          "ghosts"
-     ],
-     [
-          "Pv2.11",
-          "thread",
-          "gifts, specific types of"
-     ],
-     [
-          "Pv2.11",
-          "small amounts give big results",
-          "giving (dāna)"
-     ],
-     [
-          "Pv2.11",
-          "passage of time in",
-          "ghost realm"
-     ],
-     [
-          "Pv2.12",
-          "",
-          "sexual misconduct"
-     ],
-     [
-          "Pv2.12",
-          "false oath",
-          "speech"
-     ],
-     [
-          "Pv2.12",
-          "eaten by dogs",
-          "ghosts"
-     ],
-     [
-          "Pv2.13",
-          "cause of grief",
-          "death (maraṇa)"
-     ],
-     [
-          "Pv2.13",
-          "uselessness of",
-          "grieving"
-     ],
-     [
-          "Pv2.13",
-          "overcoming grief",
-          "death (maraṇa)"
-     ],
-     [
-          "Pv2.2",
+          "Pv14",
           "helps a ghost",
           "Sāriputta, Ven."
      ],
      [
-          "Pv2.2",
+          "Pv14",
           "qualities of",
           "ghost realm"
      ],
      [
-          "Pv2.3",
+          "Pv15",
           "rebirth in ghost realm",
           "harsh speech"
      ],
      [
-          "Pv2.3",
+          "Pv15",
           "rebirth in ghost realm",
           "jealousy"
      ],
      [
-          "Pv2.6",
+          "Pv18",
           "universality of",
           "death (maraṇa)"
      ],
      [
-          "Pv2.6",
+          "Pv18",
           "cause of grief",
           "death (maraṇa)"
      ],
      [
-          "Pv2.6",
+          "Pv18",
           "uselessness of",
           "grieving"
      ],
      [
-          "Pv2.6",
+          "Pv18",
           "overcoming grief",
           "death (maraṇa)"
      ],
      [
-          "Pv2.7",
+          "Pv19",
           "preventing",
           "giving (dāna)"
      ],
      [
-          "Pv2.7",
+          "Pv19",
           "not giving",
           "wealthy people"
      ],
      [
-          "Pv2.7",
+          "Pv19",
           "giving advice",
           "ghosts"
      ],
      [
-          "Pv2.8",
+          "Pv2",
+          "results of",
+          "wrong speech (micchā vacā)"
+     ],
+     [
+          "Pv20",
           "not giving",
           "wealthy people"
      ],
      [
-          "Pv2.8",
+          "Pv20",
           "best recipient",
           "Saṅgha"
      ],
      [
-          "Pv2.9",
+          "Pv21",
           "to those who have helped",
           "gratitude"
      ],
      [
-          "Pv2.9",
+          "Pv21",
           "like dust thrown into the wind",
           "harming a good person"
      ],
      [
-          "Pv2.9",
+          "Pv21",
           "small amounts give big results ",
           "merit (puññā)"
      ],
      [
-          "Pv2.9",
+          "Pv21",
           "",
           "hand that juice flows from "
      ],
      [
-          "Pv2.9",
+          "Pv21",
           "small amounts give big results",
           "bad actions"
      ],
      [
-          "Pv2.9",
+          "Pv21",
           "from having no one to give to",
           "sadness"
      ],
      [
-          "Pv2.9",
+          "Pv21",
           "preventing",
           "giving (dāna)"
      ],
      [
-          "Pv2.9",
+          "Pv21",
           "best recipient",
           "Saṅgha"
      ],
      [
-          "Pv2.9",
+          "Pv21",
           "to ordinary people less fruitful than gifts to Saṅgha",
           "giving (dāna)"
      ],
      [
-          "Pv3.1",
-          "not giving",
-          "wealthy people"
-     ],
-     [
-          "Pv3.1",
-          "receiver of gifts",
-          "insulting"
-     ],
-     [
-          "Pv3.1",
-          "advice from ghosts",
-          "merit (puññā)"
-     ],
-     [
-          "Pv3.10",
-          "insulting relic puja",
-          "relics"
-     ],
-     [
-          "Pv3.2",
-          "giving to the Saṅgha",
-          "Saṅgha"
-     ],
-     [
-          "Pv3.2",
-          "clothing",
-          "gifts, specific types of"
-     ],
-     [
-          "Pv3.2",
-          "sandals",
-          "gifts, specific types of"
-     ],
-     [
-          "Pv3.3",
-          "mansion (petavimāna)",
+          "Pv22",
+          "dressed in hair",
           "ghosts"
      ],
      [
-          "Pv3.3",
-          "giving advice",
-          "ghosts"
-     ],
-     [
-          "Pv3.4",
-          "harming ",
-          "parents"
-     ],
-     [
-          "Pv3.4",
-          "greediness",
-          "ghosts"
-     ],
-     [
-          "Pv3.4",
-          "rebirth in ghost realm",
-          "lying"
-     ],
-     [
-          "Pv3.5",
-          "abandoned",
-          "children"
-     ],
-     [
-          "Pv3.5",
-          "to noble disciples",
-          "harsh speech"
-     ],
-     [
-          "Pv3.6",
-          "not giving",
-          "wealthy people"
-     ],
-     [
-          "Pv3.7",
-          "rebirth",
-          "hunters"
-     ],
-     [
-          "Pv3.7",
-          "limiting actions to limit results",
-          "bad actions"
-     ],
-     [
-          "Pv3.8",
-          "rebirth",
-          "hunters"
-     ],
-     [
-          "Pv3.8",
-          "limiting actions to limit results",
-          "bad actions"
-     ],
-     [
-          "Pv3.9",
-          "back-biting, results of",
-          "speech"
-     ],
-     [
-          "Pv3.9",
-          "results of",
-          "divisive speech"
-     ],
-     [
-          "Pv4.1",
-          "fixing, result of",
-          "roads"
-     ],
-     [
-          "Pv4.1",
-          "results of",
-          "joking"
-     ],
-     [
-          "Pv4.1",
-          "treating them badly",
-          "monastics"
-     ],
-     [
-          "Pv4.1",
-          "giving advice",
-          "ghosts"
-     ],
-     [
-          "Pv4.1",
-          "between human and ghost",
-          "friendship"
-     ],
-     [
-          "Pv4.10",
+          "Pv22",
           "cannot take things directly",
           "ghosts"
      ],
      [
-          "Pv4.10",
-          "life in",
+          "Pv22",
+          "preventing",
+          "giving (dāna)"
+     ],
+     [
+          "Pv23",
+          "mansion (petavimāna)",
+          "ghosts"
+     ],
+     [
+          "Pv23",
+          "thread",
+          "gifts, specific types of"
+     ],
+     [
+          "Pv23",
+          "small amounts give big results",
+          "giving (dāna)"
+     ],
+     [
+          "Pv23",
+          "passage of time in",
           "ghost realm"
      ],
      [
-          "Pv4.12",
+          "Pv24",
           "",
-          "social mobility"
+          "sexual misconduct"
      ],
      [
-          "Pv4.13",
-          "small amounts give big results",
+          "Pv24",
+          "false oath",
+          "speech"
+     ],
+     [
+          "Pv24",
+          "eaten by dogs",
+          "ghosts"
+     ],
+     [
+          "Pv25",
+          "cause of grief",
+          "death (maraṇa)"
+     ],
+     [
+          "Pv25",
+          "uselessness of",
+          "grieving"
+     ],
+     [
+          "Pv25",
+          "overcoming grief",
+          "death (maraṇa)"
+     ],
+     [
+          "Pv26",
+          "not giving",
+          "wealthy people"
+     ],
+     [
+          "Pv26",
+          "receiver of gifts",
+          "insulting"
+     ],
+     [
+          "Pv26",
+          "advice from ghosts",
           "merit (puññā)"
      ],
      [
-          "Pv4.15",
+          "Pv27",
+          "giving to the Saṅgha",
+          "Saṅgha"
+     ],
+     [
+          "Pv27",
+          "clothing",
+          "gifts, specific types of"
+     ],
+     [
+          "Pv27",
+          "sandals",
+          "gifts, specific types of"
+     ],
+     [
+          "Pv28",
+          "mansion (petavimāna)",
+          "ghosts"
+     ],
+     [
+          "Pv28",
+          "giving advice",
+          "ghosts"
+     ],
+     [
+          "Pv29",
+          "harming ",
+          "parents"
+     ],
+     [
+          "Pv29",
+          "greediness",
+          "ghosts"
+     ],
+     [
+          "Pv29",
+          "rebirth in ghost realm",
+          "lying"
+     ],
+     [
+          "Pv3",
+          "reborn as ghosts",
+          "monastics"
+     ],
+     [
+          "Pv3",
+          "results of",
+          "wrong speech (micchā vacā)"
+     ],
+     [
+          "Pv30",
+          "abandoned",
+          "children"
+     ],
+     [
+          "Pv30",
+          "to noble disciples",
+          "harsh speech"
+     ],
+     [
+          "Pv31",
           "not giving",
           "wealthy people"
      ],
      [
-          "Pv4.16",
-          "with hammers",
-          "ghosts"
+          "Pv32",
+          "rebirth",
+          "hunters"
      ],
      [
-          "Pv4.3",
-          "leading to ghost world",
-          "wrong view"
+          "Pv32",
+          "limiting actions to limit results",
+          "bad actions"
      ],
      [
-          "Pv4.3",
-          "resulting in hell",
-          "wrong view"
+          "Pv33",
+          "rebirth",
+          "hunters"
      ],
      [
-          "Pv4.3",
-          "lifespan in",
-          "hell"
+          "Pv33",
+          "limiting actions to limit results",
+          "bad actions"
      ],
      [
-          "Pv4.3",
-          "sharing merit with",
-          "departed relatives"
+          "Pv34",
+          "back-biting, results of",
+          "speech"
      ],
      [
-          "Pv4.3",
-          "giving up like vomiting",
-          "wrong views"
+          "Pv34",
+          "results of",
+          "divisive speech"
      ],
      [
-          "Pv4.5",
-          "hunger",
-          "ghosts"
+          "Pv35",
+          "insulting relic puja",
+          "relics"
      ],
      [
-          "Pv4.6",
-          "not giving",
-          "wealthy people"
+          "Pv36",
+          "fixing, result of",
+          "roads"
      ],
      [
-          "Pv4.6",
-          "disparaging",
-          "paccekabuddha"
+          "Pv36",
+          "results of",
+          "joking"
      ],
      [
-          "Pv4.7",
+          "Pv36",
           "treating them badly",
           "monastics"
      ],
      [
-          "Pv4.7",
+          "Pv36",
+          "giving advice",
+          "ghosts"
+     ],
+     [
+          "Pv36",
+          "between human and ghost",
+          "friendship"
+     ],
+     [
+          "Pv38",
+          "leading to ghost world",
+          "wrong view (micchā diṭṭhi)"
+     ],
+     [
+          "Pv38",
+          "resulting in hell",
+          "wrong view (micchā diṭṭhi)"
+     ],
+     [
+          "Pv38",
+          "lifespan in",
+          "hell"
+     ],
+     [
+          "Pv38",
+          "sharing merit with",
+          "departed relatives"
+     ],
+     [
+          "Pv38",
+          "giving up like vomiting",
+          "wrong views"
+     ],
+     [
+          "Pv4",
+          "sharing merit with",
+          "departed relatives"
+     ],
+     [
+          "Pv4",
+          "sharing merit with",
+          "gods"
+     ],
+     [
+          "Pv4",
+          "useless of",
+          "grieving"
+     ],
+     [
+          "Pv4",
+          "immediate effect",
+          "merit sharing"
+     ],
+     [
+          "Pv40",
+          "hunger",
+          "ghosts"
+     ],
+     [
+          "Pv41",
+          "not giving",
+          "wealthy people"
+     ],
+     [
+          "Pv41",
           "disparaging",
           "paccekabuddha"
      ],
      [
-          "Pv4.7",
+          "Pv42",
+          "treating them badly",
+          "monastics"
+     ],
+     [
+          "Pv42",
+          "disparaging",
+          "paccekabuddha"
+     ],
+     [
+          "Pv42",
           "life in",
           "hell"
      ],
      [
-          "Pv4.7",
+          "Pv42",
           "results of",
           "arrogance"
      ],
      [
-          "Pv4.8",
+          "Pv43",
           "",
           "bad friends"
      ],
      [
-          "Pv4.8",
+          "Pv43",
           "reborn as ghosts",
           "monastics"
      ],
      [
-          "Pv4.8",
+          "Pv43",
           "bad",
           "monastics"
      ],
      [
-          "Pv4.9",
+          "Pv44",
           "",
           "bad friends"
      ],
      [
-          "Pv4.9",
+          "Pv44",
           "reborn as ghosts",
           "monastics"
      ],
      [
-          "Pv4.9",
+          "Pv44",
           "bad",
           "monastics"
+     ],
+     [
+          "Pv45",
+          "cannot take things directly",
+          "ghosts"
+     ],
+     [
+          "Pv45",
+          "life in",
+          "ghost realm"
+     ],
+     [
+          "Pv47",
+          "",
+          "social mobility"
+     ],
+     [
+          "Pv48",
+          "small amounts give big results",
+          "merit (puññā)"
+     ],
+     [
+          "Pv5",
+          "returning as ghosts",
+          "departed relatives"
+     ],
+     [
+          "Pv5",
+          "sharing merit with",
+          "departed relatives"
+     ],
+     [
+          "Pv5",
+          "qualities of",
+          "ghost realm"
+     ],
+     [
+          "Pv5",
+          "like rain reaching the oceans",
+          "sharing merit"
+     ],
+     [
+          "Pv5",
+          "as a source of merit itself",
+          "sharing merit"
+     ],
+     [
+          "Pv50",
+          "not giving",
+          "wealthy people"
+     ],
+     [
+          "Pv51",
+          "with hammers",
+          "ghosts"
+     ],
+     [
+          "Pv6",
+          "false oath",
+          "speech"
+     ],
+     [
+          "Pv6",
+          "causing someone elses",
+          "abortion"
+     ],
+     [
+          "Pv6",
+          "child eating",
+          "ghosts"
+     ],
+     [
+          "Pv6",
+          "hunger",
+          "ghosts"
+     ],
+     [
+          "Pv7",
+          "false oath",
+          "speech"
+     ],
+     [
+          "Pv7",
+          "causing someone elses",
+          "abortion"
+     ],
+     [
+          "Pv7",
+          "child eating",
+          "ghosts"
+     ],
+     [
+          "Pv7",
+          "hunger",
+          "ghosts"
+     ],
+     [
+          "Pv8",
+          "overcoming",
+          "grieving"
+     ],
+     [
+          "Pv8",
+          "uselessness of",
+          "grieving"
+     ],
+     [
+          "Pv9",
+          "food in",
+          "ghost realm"
+     ],
+     [
+          "Pv9",
+          "criticizing",
+          "giving (dāna)"
      ],
      [
           "SN1.20",
@@ -6972,7 +6972,7 @@ export const indexArray =`[
      [
           "Snp5.1",
           "",
-          "thirty-two marks"
+          "marks of a great man"
      ],
      [
           "Snp5.1",
@@ -7052,7 +7052,7 @@ export const indexArray =`[
      [
           "Thag1.105",
           "leaving one not good for practice",
-          "location"
+          "dwellings"
      ],
      [
           "Thag1.108",
@@ -7123,6 +7123,16 @@ export const indexArray =`[
           "Thag1.19",
           "simile of carpenter",
           "self taming"
+     ],
+     [
+          "Thag1.19",
+          "mind like a",
+          "cat-skin bag"
+     ],
+     [
+          "Thag1.19",
+          "to a meditation object like elephant to post",
+          "mind"
      ],
      [
           "Thag1.20",
@@ -7276,7 +7286,7 @@ export const indexArray =`[
      ],
      [
           "Thag1.70",
-          "as higher than virtue",
+          "higher than virtue",
           "wisdom"
      ],
      [
@@ -7456,7 +7466,7 @@ export const indexArray =`[
      ],
      [
           "Thag12.1",
-          "as higher than virtue",
+          "higher than virtue",
           "wisdom"
      ],
      [
@@ -7491,7 +7501,7 @@ export const indexArray =`[
      ],
      [
           "Thag14.2",
-          "of the uninteligent",
+          "of the unintelligent",
           "fame"
      ],
      [
@@ -7525,6 +7535,36 @@ export const indexArray =`[
           "death (maraṇa)"
      ],
      [
+          "Thag16.10",
+          "wrongly practiced in the future",
+          "monastic life"
+     ],
+     [
+          "Thag16.10",
+          "decline of in future",
+          "Saṅgha"
+     ],
+     [
+          "Thag16.10",
+          "gone",
+          "senior monastics"
+     ],
+     [
+          "Thag16.10",
+          "over views",
+          "disputes"
+     ],
+     [
+          "Thag16.10",
+          "giving material things to lay people",
+          "monastics"
+     ],
+     [
+          "Thag16.10",
+          "like walking shoeless on thorny path",
+          "sense restraint"
+     ],
+     [
           "Thag16.2",
           "",
           "sense restraint"
@@ -7533,6 +7573,341 @@ export const indexArray =`[
           "Thag16.2",
           "knocking out faculties with faculties",
           "faculties (indriya)"
+     ],
+     [
+          "Thag16.3",
+          "",
+          "slow spiritual progress"
+     ],
+     [
+          "Thag16.3",
+          "",
+          "doubt"
+     ],
+     [
+          "Thag16.3",
+          "as doctor",
+          "Buddha, the"
+     ],
+     [
+          "Thag16.4",
+          "",
+          "perception of ugliness (asubhasañña)"
+     ],
+     [
+          "Thag16.4",
+          "not giving",
+          "wealthy people"
+     ],
+     [
+          "Thag16.4",
+          "unsatisfied",
+          "greed"
+     ],
+     [
+          "Thag16.4",
+          "",
+          "grieving"
+     ],
+     [
+          "Thag16.4",
+          "left behind after death",
+          "wealth"
+     ],
+     [
+          "Thag16.4",
+          "superior to wealth",
+          "wisdom"
+     ],
+     [
+          "Thag16.4",
+          "like thief caught and punished",
+          "results of actions"
+     ],
+     [
+          "Thag16.4",
+          "appearing in disguise",
+          "sensual pleasures"
+     ],
+     [
+          "Thag16.4",
+          "like fruit falling from tree",
+          "death"
+     ],
+     [
+          "Thag16.4",
+          "out of faith",
+          "going forth (pabbajja)"
+     ],
+     [
+          "Thag16.5",
+          "clinging",
+          "sense contact"
+     ],
+     [
+          "Thag16.5",
+          "mindfulness ",
+          "sense contact"
+     ],
+     [
+          "Thag16.5",
+          "appearing on the Buddha",
+          "marks of a great man"
+     ],
+     [
+          "Thag16.5",
+          "king of Dhamma",
+          "Buddha, the"
+     ],
+     [
+          "Thag16.6",
+          "",
+          "general of the Dhamma (senāpati)"
+     ],
+     [
+          "Thag16.7",
+          "with requisites",
+          "contentment"
+     ],
+     [
+          "Thag16.7",
+          "",
+          "ascetic practices (dhutaṅga)"
+     ],
+     [
+          "Thag16.7",
+          "",
+          "meditation (jhāyati)"
+     ],
+     [
+          "Thag16.7",
+          "giving up valuable",
+          "bowl"
+     ],
+     [
+          "Thag16.8",
+          "like moon freed from clouds",
+          "heedfulness (appamāda)"
+     ],
+     [
+          "Thag16.8",
+          "wishing for them to hear Dhamma",
+          "enemies"
+     ],
+     [
+          "Thag16.9",
+          "",
+          "rag-robe wearing"
+     ],
+     [
+          "Thag16.9",
+          "",
+          "few wishes (appiccha)"
+     ],
+     [
+          "Thag16.9",
+          "",
+          "mind-made body (manomayena kāya)"
+     ],
+     [
+          "Thag16.9",
+          "lying down to sleep",
+          "ascetic practices (dhutaṅga)"
+     ],
+     [
+          "Thag16.9",
+          "",
+          "divine eye (dibbacakkhu)"
+     ],
+     [
+          "Thag16.9",
+          "",
+          "past lives, knowledge of (pubbenivāsānussatiñāna)"
+     ],
+     [
+          "Thag17.1",
+          "decline of in future",
+          "Dhamma"
+     ],
+     [
+          "Thag17.1",
+          "wrongly practiced in the future",
+          "monastic life"
+     ],
+     [
+          "Thag17.1",
+          "not worthy of",
+          "robes"
+     ],
+     [
+          "Thag17.1",
+          "as sanctuary",
+          "heedfulness (appamāda)"
+     ],
+     [
+          "Thag17.2",
+          "restraint",
+          "eating"
+     ],
+     [
+          "Thag17.2",
+          "as suffering",
+          "happiness"
+     ],
+     [
+          "Thag17.2",
+          "giving up",
+          "proliferation (papañca)"
+     ],
+     [
+          "Thag17.2",
+          "residence of",
+          "arahants"
+     ],
+     [
+          "Thag17.2",
+          "like guide to hidden treasuer",
+          "admonishment"
+     ],
+     [
+          "Thag17.2",
+          "not required for arahant",
+          "psychic powers"
+     ],
+     [
+          "Thag17.2",
+          "",
+          "noble silence"
+     ],
+     [
+          "Thag17.2",
+          "guarded like a citadel",
+          "mind"
+     ],
+     [
+          "Thag17.2",
+          "becoming good",
+          "bad people"
+     ],
+     [
+          "Thag17.2",
+          "becoming bad",
+          "good people"
+     ],
+     [
+          "Thag17.3",
+          "with good people",
+          "association"
+     ],
+     [
+          "Thag17.3",
+          "84,000 teachings",
+          "learning"
+     ],
+     [
+          "Thag17.3",
+          "like an ox is a person with little learning",
+          "learning"
+     ],
+     [
+          "Thag17.3",
+          "because of learning",
+          "arrogance"
+     ],
+     [
+          "Thag17.3",
+          "arrogance because of",
+          "learning"
+     ],
+     [
+          "Thag17.3",
+          "without practicing",
+          "learning"
+     ],
+     [
+          "Thag17.3",
+          "with learned people",
+          "friendship"
+     ],
+     [
+          "Thag17.3",
+          "of the Buddha",
+          "attendant"
+     ],
+     [
+          "Thag18.1",
+          "like a bog",
+          "honor"
+     ],
+     [
+          "Thag18.1",
+          "contentment with",
+          "requisites, four"
+     ],
+     [
+          "Thag18.1",
+          "as pleasing",
+          "nature"
+     ],
+     [
+          "Thag18.1",
+          "for spiritual companions",
+          "respect"
+     ],
+     [
+          "Thag18.1",
+          "",
+          "conceit (māna)"
+     ],
+     [
+          "Thag18.1",
+          "like monkey in lion skin not worthy of",
+          "robes"
+     ],
+     [
+          "Thag18.1",
+          "praised by gods",
+          "arahants"
+     ],
+     [
+          "Thag19.1",
+          "desire for",
+          "seclusion"
+     ],
+     [
+          "Thag19.1",
+          "",
+          "urgency (saṁvega)"
+     ],
+     [
+          "Thag19.1",
+          "like a monkey",
+          "mind"
+     ],
+     [
+          "Thag19.1",
+          "to oneself",
+          "encouragement"
+     ],
+     [
+          "Thag19.1",
+          "",
+          "doubt"
+     ],
+     [
+          "Thag19.1",
+          "like a traveller",
+          "mind"
+     ],
+     [
+          "Thag19.1",
+          "giving up like vomiting",
+          "sensual pleasures"
+     ],
+     [
+          "Thag19.1",
+          "mind causing",
+          "rebirth"
      ],
      [
           "Thag2.10",
@@ -7646,7 +8021,7 @@ export const indexArray =`[
      ],
      [
           "Thag2.3",
-          "monkey",
+          "like a monkey",
           "mind"
      ],
      [
@@ -7725,6 +8100,31 @@ export const indexArray =`[
           "women"
      ],
      [
+          "Thag20.1",
+          "",
+          "perception of ugliness (asubhasañña)"
+     ],
+     [
+          "Thag20.1",
+          "passing away",
+          "Sāriputta, Ven."
+     ],
+     [
+          "Thag20.1",
+          "",
+          "Dūsī, Māra"
+     ],
+     [
+          "Thag20.1",
+          "",
+          "Vejayantapāsāda (Palace of Victory)"
+     ],
+     [
+          "Thag20.1",
+          "attacks the Buddha",
+          "Māra"
+     ],
+     [
           "Thag21.1",
           "best kind of",
           "speech"
@@ -7738,6 +8138,36 @@ export const indexArray =`[
           "Thag21.1",
           "lewd",
           "speech"
+     ],
+     [
+          "Thag21.1",
+          "sixty",
+          "wrong views"
+     ],
+     [
+          "Thag21.1",
+          "praise of",
+          "Sāriputta, Ven."
+     ],
+     [
+          "Thag21.1",
+          "praise of",
+          "Aññā Koṇḍaññn, Ven."
+     ],
+     [
+          "Thag21.1",
+          "praise of",
+          "Moggallāna, Ven"
+     ],
+     [
+          "Thag21.1",
+          "drunk on",
+          "poetry"
+     ],
+     [
+          "Thag21.1",
+          "",
+          "Nigrodhakappa, Ven"
      ],
      [
           "Thag3.1",
@@ -8347,7 +8777,7 @@ export const indexArray =`[
      [
           "Ud2.3",
           "harming an animal",
-          "boys"
+          "children"
      ],
      [
           "Ud2.3",
@@ -8902,7 +9332,7 @@ export const indexArray =`[
      [
           "Ud6.4–6",
           "",
-          "followers of other paths"
+          "followers of other paths (aññatitthiyā)"
      ],
      [
           "Ud6.4–6",
@@ -9040,629 +9470,629 @@ export const indexArray =`[
           "devas"
      ],
      [
-          "Vv1.1",
+          "Vv1",
           "chair",
           "gifts, specific types of"
      ],
      [
-          "Vv1.10",
+          "Vv10",
           "sesame seeds",
           "gifts, specific types of"
      ],
      [
-          "Vv1.10",
+          "Vv10",
           "smallest gift has value",
           "giving (dāna)"
      ],
      [
-          "Vv1.11",
+          "Vv11",
           "",
           "fidelity in marriage"
      ],
      [
-          "Vv1.11",
+          "Vv11",
           "leading to heaven",
           "virtue"
      ],
      [
-          "Vv1.11",
+          "Vv11",
           "abstaining from",
           "sexual misconduct"
      ],
      [
-          "Vv1.13",
+          "Vv13",
           "cakes",
           "gifts, specific types of"
      ],
      [
-          "Vv1.14",
+          "Vv14",
           "cakes",
           "gifts, specific types of"
      ],
      [
-          "Vv1.15",
+          "Vv15",
           "once returners",
           "devas"
      ],
      [
-          "Vv1.15",
+          "Vv15",
           "resulting in heaven",
           "uposatha"
      ],
      [
-          "Vv1.15",
+          "Vv15",
           "gods that have become",
           "once returner"
      ],
      [
-          "Vv1.16",
+          "Vv16",
           "",
           "gods that delight in creation"
      ],
      [
-          "Vv1.16",
+          "Vv16",
           "with psychic powers",
           "devas"
      ],
      [
-          "Vv1.16",
+          "Vv16",
           "stream-enterers",
           "devas"
      ],
      [
-          "Vv1.16",
+          "Vv16",
           "gods that have become",
           "stream-enterers"
      ],
      [
-          "Vv1.17",
+          "Vv17",
           "asking questions",
           "Sakka"
      ],
      [
-          "Vv1.2",
-          "chair",
-          "gifts, specific types of"
-     ],
-     [
-          "Vv1.3",
-          "chair",
-          "gifts, specific types of"
-     ],
-     [
-          "Vv1.4",
-          "chair",
-          "gifts, specific types of"
-     ],
-     [
-          "Vv1.5",
-          "chair",
-          "gifts, specific types of"
-     ],
-     [
-          "Vv1.6",
-          "water",
-          "gifts, specific types of"
-     ],
-     [
-          "Vv1.7",
-          "water",
-          "gifts, specific types of"
-     ],
-     [
-          "Vv1.8",
-          "water",
-          "gifts, specific types of"
-     ],
-     [
-          "Vv1.9",
-          "light",
-          "gifts, specific types of"
-     ],
-     [
-          "Vv2.10",
-          "food",
-          "giving (dāna)"
-     ],
-     [
-          "Vv2.2",
+          "Vv19",
           "resulting in heaven",
           "uposatha"
      ],
      [
-          "Vv2.2",
+          "Vv19",
           "once returners",
           "devas"
      ],
      [
-          "Vv2.2",
+          "Vv19",
           "gods that have become",
           "once returner"
      ],
      [
-          "Vv2.3",
+          "Vv2",
+          "chair",
+          "gifts, specific types of"
+     ],
+     [
+          "Vv20",
           "asking questions",
           "Sakka"
      ],
      [
-          "Vv2.3",
+          "Vv20",
           "smallest gift has value",
           "giving (dāna)"
      ],
      [
-          "Vv2.3",
+          "Vv20",
           "not greatest happiness",
           "wheel-turning monarchs"
      ],
      [
-          "Vv2.4",
+          "Vv21",
           "visiting beings about to die",
           "Buddha, the"
      ],
      [
-          "Vv2.4",
+          "Vv21",
           "leading to heaven",
           "worshiping (vandati)"
      ],
      [
-          "Vv2.7",
+          "Vv24",
           "over not making spiritual progress",
           "regret"
      ],
      [
-          "Vv2.7",
+          "Vv24",
           "stream-enterers",
           "devas"
      ],
      [
-          "Vv2.7",
+          "Vv24",
           "gods that have become",
           "stream-enterers"
      ],
      [
-          "Vv3.1",
+          "Vv27",
+          "food",
+          "giving (dāna)"
+     ],
+     [
+          "Vv29",
           "criticizing",
           "giving (dāna)"
      ],
      [
-          "Vv3.1",
+          "Vv29",
           "leads to heaven",
           "giving (dāna)"
      ],
      [
-          "Vv3.10",
-          "flowers",
+          "Vv3",
+          "chair",
           "gifts, specific types of"
      ],
      [
-          "Vv3.2",
+          "Vv30",
           "sugarcane",
           "gifts, specific types of"
      ],
      [
-          "Vv3.2",
+          "Vv30",
           "criticizing",
           "giving (dāna)"
      ],
      [
-          "Vv3.3",
+          "Vv31",
           "lay people",
           "celibacy"
      ],
      [
-          "Vv3.4",
+          "Vv32",
           "respectful",
           "wives"
      ],
      [
-          "Vv3.5",
+          "Vv33",
           "long list of",
           "gifts, specific types of"
      ],
      [
-          "Vv3.6",
+          "Vv34",
           "to Saṅgha is always more fruitful than individual gifts",
           "giving (dāna)"
      ],
      [
-          "Vv3.7",
+          "Vv35",
           "offerings at",
           "funeral"
      ],
      [
-          "Vv3.8",
+          "Vv36",
           "to relics",
           "offerings"
      ],
      [
-          "Vv3.9",
+          "Vv37",
           "psychic powers",
           "devas"
      ],
      [
-          "Vv3.9",
+          "Vv37",
           "to stupa",
           "offerings"
      ],
      [
-          "Vv4.10",
-          "sugarcane",
-          "gifts, specific types of"
-     ],
-     [
-          "Vv4.10",
-          "criticizing",
-          "giving (dāna)"
-     ],
-     [
-          "Vv4.11",
-          "leading to heaven",
-          "worshiping (vandati)"
-     ],
-     [
-          "Vv4.12",
-          "prevented",
-          "suicide"
-     ],
-     [
-          "Vv4.12",
-          "gods that have become",
-          "stream-enterers"
-     ],
-     [
-          "Vv4.12",
-          "stream-enterers",
-          "devas"
-     ],
-     [
-          "Vv4.12",
-          "visiting beings about to die",
-          "Buddha, the"
-     ],
-     [
-          "Vv4.2",
-          "over not making spiritual progress",
-          "regret"
-     ],
-     [
-          "Vv4.3",
-          "robes",
-          "gifts, specific types of"
-     ],
-     [
-          "Vv4.4",
-          "smallest gift has value",
-          "giving (dāna)"
-     ],
-     [
-          "Vv4.5",
-          "not greatest happiness",
-          "wheel-turning monarchs"
-     ],
-     [
-          "Vv4.6",
-          "in someone else’s merit",
-          "rejoicing"
-     ],
-     [
-          "Vv4.6",
-          "monastery",
-          "gifts, specific types of"
-     ],
-     [
-          "Vv4.6",
-          "recollection of of ones own",
-          "generosity (cāga)"
-     ],
-     [
-          "Vv4.7",
+          "Vv38",
           "flowers",
           "gifts, specific types of"
      ],
      [
-          "Vv4.8",
-          "monastery",
+          "Vv4",
+          "chair",
           "gifts, specific types of"
      ],
      [
-          "Vv4.9",
-          "to stupa",
-          "offerings"
-     ],
-     [
-          "Vv4.9",
-          "by cow ",
-          "death (maraṇa)"
-     ],
-     [
-          "Vv4.9",
-          "smallest gift has value",
-          "giving (dāna)"
-     ],
-     [
-          "Vv5.1",
-          "listening to Dhamma",
-          "animals"
-     ],
-     [
-          "Vv5.1",
-          "sound of",
-          "Dhamma"
-     ],
-     [
-          "Vv5.1",
-          "by animal",
-          "listening to Dhamma"
-     ],
-     [
-          "Vv5.10",
-          "to stupa",
-          "offerings"
-     ],
-     [
-          "Vv5.10",
-          "small amounts give big results",
-          "merit (puññā)"
-     ],
-     [
-          "Vv5.11",
-          "",
-          "fidelity in marriage"
-     ],
-     [
-          "Vv5.12",
-          "dwelling",
-          "gifts, specific types of"
-     ],
-     [
-          "Vv5.13",
-          "teaches a hunter",
-          "Mahā Kaccāna"
-     ],
-     [
-          "Vv5.13",
-          "cannot escape ",
-          "death (maraṇa)"
-     ],
-     [
-          "Vv5.13",
-          "as universal",
-          "death (maraṇa)"
-     ],
-     [
-          "Vv5.13",
-          "attempting to go for refuge to individual monk",
-          "refuges"
-     ],
-     [
-          "Vv5.13",
-          "to relics",
-          "offerings"
-     ],
-     [
-          "Vv5.14",
-          "",
-          "Kassapa, Buddha"
-     ],
-     [
-          "Vv5.2",
-          "like relatives greeting us after long journey",
-          "merit (puññā)"
-     ],
-     [
-          "Vv5.2",
-          "of heaven",
-          "tours"
-     ],
-     [
-          "Vv5.2",
-          "rebirth",
-          "lying"
-     ],
-     [
-          "Vv5.2",
+          "Vv40",
           "over not making spiritual progress",
           "regret"
      ],
      [
-          "Vv5.3",
+          "Vv41",
+          "robes",
+          "gifts, specific types of"
+     ],
+     [
+          "Vv42",
+          "smallest gift has value",
+          "giving (dāna)"
+     ],
+     [
+          "Vv43",
+          "not greatest happiness",
+          "wheel-turning monarchs"
+     ],
+     [
+          "Vv44",
+          "in someone else’s merit",
+          "rejoicing"
+     ],
+     [
+          "Vv44",
+          "monastery",
+          "gifts, specific types of"
+     ],
+     [
+          "Vv44",
+          "recollection of of ones own",
+          "generosity (cāga)"
+     ],
+     [
+          "Vv45",
+          "flowers",
+          "gifts, specific types of"
+     ],
+     [
+          "Vv46",
+          "monastery",
+          "gifts, specific types of"
+     ],
+     [
+          "Vv47",
+          "to stupa",
+          "offerings"
+     ],
+     [
+          "Vv47",
+          "by cow ",
+          "death (maraṇa)"
+     ],
+     [
+          "Vv47",
+          "smallest gift has value",
+          "giving (dāna)"
+     ],
+     [
+          "Vv48",
+          "sugarcane",
+          "gifts, specific types of"
+     ],
+     [
+          "Vv48",
+          "criticizing",
+          "giving (dāna)"
+     ],
+     [
+          "Vv49",
+          "leading to heaven",
+          "worshiping (vandati)"
+     ],
+     [
+          "Vv5",
+          "chair",
+          "gifts, specific types of"
+     ],
+     [
+          "Vv50",
+          "prevented",
+          "suicide"
+     ],
+     [
+          "Vv50",
+          "gods that have become",
+          "stream-enterers"
+     ],
+     [
+          "Vv50",
+          "stream-enterers",
+          "devas"
+     ],
+     [
+          "Vv50",
+          "visiting beings about to die",
+          "Buddha, the"
+     ],
+     [
+          "Vv51",
+          "listening to Dhamma",
+          "animals"
+     ],
+     [
+          "Vv51",
+          "sound of",
+          "Dhamma"
+     ],
+     [
+          "Vv51",
+          "by animal",
+          "listening to Dhamma"
+     ],
+     [
+          "Vv52",
+          "like relatives greeting us after long journey",
+          "merit (puññā)"
+     ],
+     [
+          "Vv52",
+          "of heaven",
+          "tours"
+     ],
+     [
+          "Vv52",
+          "rebirth",
+          "lying"
+     ],
+     [
+          "Vv52",
+          "over not making spiritual progress",
+          "regret"
+     ],
+     [
+          "Vv53",
           "",
           "Chattamāṇavaka"
      ],
      [
-          "Vv5.3",
+          "Vv53",
           "going for leads to heaven",
           "refuges"
      ],
      [
-          "Vv5.3",
+          "Vv53",
           "visiting beings about to die",
           "Buddha, the"
      ],
      [
-          "Vv5.3",
+          "Vv53",
           "leading to heaven",
           "precepts, five"
      ],
      [
-          "Vv5.3",
+          "Vv53",
           "precepts lead to",
           "heaven"
      ],
      [
-          "Vv5.3",
+          "Vv53",
           "refuges lead to",
           "heaven"
      ],
      [
-          "Vv5.3",
+          "Vv53",
           "small amounts give big results",
           "merit (puññā)"
      ],
      [
-          "Vv5.8",
+          "Vv58",
           "small amount",
           "giving (dāna)"
      ],
      [
-          "Vv5.8",
+          "Vv58",
           "needle",
           "gifts, specific types of"
      ],
      [
-          "Vv5.9",
+          "Vv59",
           "small amount",
           "giving (dāna)"
      ],
      [
-          "Vv5.9",
+          "Vv59",
           "needle",
           "gifts, specific types of"
      ],
      [
-          "Vv6.1",
+          "Vv6",
+          "water",
+          "gifts, specific types of"
+     ],
+     [
+          "Vv60",
+          "to stupa",
+          "offerings"
+     ],
+     [
+          "Vv60",
+          "small amounts give big results",
+          "merit (puññā)"
+     ],
+     [
+          "Vv61",
+          "",
+          "fidelity in marriage"
+     ],
+     [
+          "Vv62",
+          "dwelling",
+          "gifts, specific types of"
+     ],
+     [
+          "Vv63",
+          "teaches a hunter",
+          "Mahā Kaccāna"
+     ],
+     [
+          "Vv63",
+          "cannot escape ",
+          "death (maraṇa)"
+     ],
+     [
+          "Vv63",
+          "as universal",
+          "death (maraṇa)"
+     ],
+     [
+          "Vv63",
+          "attempting to go for refuge to individual monk",
+          "refuges"
+     ],
+     [
+          "Vv63",
+          "to relics",
+          "offerings"
+     ],
+     [
+          "Vv64",
+          "",
+          "Kassapa, Buddha"
+     ],
+     [
+          "Vv65",
           "food",
           "gifts, specific types of"
      ],
      [
-          "Vv6.10",
-          "as a deva",
-          "Uttara, servant of Pāyāsi"
-     ],
-     [
-          "Vv6.3",
+          "Vv67",
           "fruit",
           "gifts, specific types of"
      ],
      [
-          "Vv7.1",
+          "Vv7",
+          "water",
+          "gifts, specific types of"
+     ],
+     [
+          "Vv74",
+          "as a deva",
+          "Uttara, servant of Pāyāsi"
+     ],
+     [
+          "Vv75",
           "caring for",
           "parents"
      ],
      [
-          "Vv7.10",
-          "reborn as Serissaka deva",
-          "Pāyāsi king"
-     ],
-     [
-          "Vv7.10",
-          "",
-          "travel"
-     ],
-     [
-          "Vv7.10",
-          "giving advice",
-          "devas"
-     ],
-     [
-          "Vv7.11",
-          "cleaning",
-          "stupa (thupa)"
-     ],
-     [
-          "Vv7.11",
-          "small amounts give big results",
-          "merit (puññā)"
-     ],
-     [
-          "Vv7.2",
+          "Vv76",
           "caring for",
           "parents"
      ],
      [
-          "Vv7.3",
+          "Vv77",
           "planting",
           "trees"
      ],
      [
-          "Vv7.3",
+          "Vv77",
           "monastery",
           "gifts, specific types of"
      ],
      [
-          "Vv7.4",
+          "Vv78",
           "monastery",
           "gifts, specific types of"
      ],
      [
-          "Vv7.5",
+          "Vv79",
           "bath",
           "gifts, specific types of"
      ],
      [
-          "Vv7.5",
+          "Vv79",
           "getting a bath",
           "Sāriputta, Ven."
      ],
      [
-          "Vv7.5",
+          "Vv79",
           "ingenuity while making",
           "merit (puññā)"
      ],
      [
-          "Vv7.6",
+          "Vv8",
+          "water",
+          "gifts, specific types of"
+     ],
+     [
+          "Vv80",
           "ingenuity while making",
           "merit (puññā)"
      ],
      [
-          "Vv7.7",
+          "Vv81",
           "Bodhisatta’s horse",
           "Kanthaka deva"
      ],
      [
-          "Vv7.7",
+          "Vv81",
           "great renunciation",
           "Bodhisatta"
      ],
      [
-          "Vv7.8",
+          "Vv82",
           "encouraging others to",
           "worshiping (vandati)"
      ],
      [
-          "Vv7.8",
+          "Vv82",
           "worshiping",
           "stupa (thupa)"
      ],
      [
-          "Vv7.9",
+          "Vv83",
           "",
           "Maṭṭakuṇḍalī"
      ],
      [
-          "Vv7.9",
+          "Vv83",
           "giving advice",
           "devas"
      ],
      [
-          "Vv7.9",
+          "Vv83",
           "visiting beings about to die",
           "Buddha, the"
      ],
      [
-          "Vv7.9",
+          "Vv83",
           "leading to heaven",
           "worshiping (vandati)"
      ],
      [
-          "Vv7.9",
+          "Vv83",
           "caring for",
           "parents"
      ],
      [
-          "Vv7.9",
+          "Vv83",
           "cause of grief",
           "death (maraṇa)"
      ],
      [
-          "Vv7.9",
+          "Vv83",
           "uselessness of",
           "grieving"
      ],
      [
-          "Vv7.9",
+          "Vv83",
           "overcoming grief",
           "death (maraṇa)"
+     ],
+     [
+          "Vv84",
+          "reborn as Serissaka deva",
+          "Pāyāsi king"
+     ],
+     [
+          "Vv84",
+          "",
+          "travel"
+     ],
+     [
+          "Vv84",
+          "giving advice",
+          "devas"
+     ],
+     [
+          "Vv85",
+          "cleaning",
+          "stupa (thupa)"
+     ],
+     [
+          "Vv85",
+          "small amounts give big results",
+          "merit (puññā)"
+     ],
+     [
+          "Vv9",
+          "light",
+          "gifts, specific types of"
      ],
      [
           "xref “come, monk” ordination (ehi bhikkhu)",
@@ -9673,11 +10103,6 @@ export const indexArray =`[
           "xref actions (kamma)",
           "",
           "kamma"
-     ],
-     [
-          "xref aging and death",
-          "",
-          "death (maraṇa)"
      ],
      [
           "xref alms food",
@@ -9738,6 +10163,11 @@ export const indexArray =`[
           "xref child arahants",
           "",
           "arahant"
+     ],
+     [
+          "xref children",
+          "",
+          "boys"
      ],
      [
           "xref cloth, clean",
@@ -9820,6 +10250,11 @@ export const indexArray =`[
           "speech"
      ],
      [
+          "xref dwellings",
+          "",
+          "location"
+     ],
+     [
           "xref false speech",
           "",
           "lying"
@@ -9900,9 +10335,24 @@ export const indexArray =`[
           "triple knowledge"
      ],
      [
+          "xref learning",
+          "",
+          "listening to Dhamma"
+     ],
+     [
+          "xref listening to Dhamma",
+          "",
+          "learning"
+     ],
+     [
           "xref loved ones",
           "",
           "children"
+     ],
+     [
+          "xref loving-kindness (mettā)",
+          "",
+          "goodwill"
      ],
      [
           "xref marks of a great man",
@@ -9930,6 +10380,11 @@ export const indexArray =`[
           "body"
      ],
      [
+          "xref Moggallāna, Ven",
+          "",
+          "Mahā Moggallāna"
+     ],
+     [
           "xref monastic life",
           "",
           "brahmacariya"
@@ -9938,11 +10393,6 @@ export const indexArray =`[
           "xref monastics",
           "",
           "bad monastics"
-     ],
-     [
-          "xref Noble Eightfold Path",
-          "",
-          "right speech (sammāvācā)"
      ],
      [
           "xref offerings",
@@ -10005,6 +10455,11 @@ export const indexArray =`[
           "yoniso manasikāra"
      ],
      [
+          "xref rag-robe wearing",
+          "",
+          "requisites, four"
+     ],
+     [
           "xref requisites, four",
           "",
           "monastic life"
@@ -10060,7 +10515,7 @@ export const indexArray =`[
           "morality"
      ],
      [
-          "xref wrong speech (micchāvacā)",
+          "xref wrong speech (micchā vacā)",
           "",
           "speech"
      ],
