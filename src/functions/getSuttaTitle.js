@@ -1,20 +1,8 @@
 import { allSuttasPaliNameDictionary } from "../data/allSuttasPaliNameDictionary";
+import { blurbs } from "../data/blurbs";
 
 export default function getSuttaTitle(citation) {
-  return allSuttasPaliNameDictionary[citation] ? allSuttasPaliNameDictionary[citation] : "";
+  let title = allSuttasPaliNameDictionary[citation] ? allSuttasPaliNameDictionary[citation] + ": " : "";
+  title += blurbs[citation.toLowerCase()] ? " " + blurbs[citation.toLowerCase()] : "";
+  return title;
 }
-
-// import { allSuttasPaliObject } from "../data/allSuttasPaliObject.js";
-
-// export default function getSuttaTitle(citation) {
-//   let suttaTitle = "";
-//   const book = citation.match(/(DN|MN|SN|AN|Kp|Dhp|Ud|Iti|Snp|Vv|Pv|Thag|Thig)/)[0];
-//   const numberOfSuttasInBook = allSuttasPaliObject[book].length;
-
-//   for (let i = 0; i < numberOfSuttasInBook; i++)
-//     if (citation === allSuttasPaliObject[book][i][0]) {
-//       suttaTitle = allSuttasPaliObject[book][i][1];
-//       i = numberOfSuttasInBook;
-//     }
-//   return suttaTitle;
-// }

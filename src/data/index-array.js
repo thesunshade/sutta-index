@@ -5990,46 +5990,6 @@ export const indexArray =`[
           "King of"
      ],
      [
-          "Snp.3.7",
-          "marks of a great man",
-          ""
-     ],
-     [
-          "Snp.4.6",
-          "old age",
-          ""
-     ],
-     [
-          "Snp.4.6",
-          "death (maraṇa)",
-          "like dream gone when waking are the dead"
-     ],
-     [
-          "Snp.4.6",
-          "craving (taṇha)",
-          "simile of water drop on lotus leaf"
-     ],
-     [
-          "Snp.4.6",
-          "purity (suddhi)",
-          "by another"
-     ],
-     [
-          "Snp.4.7",
-          "sexual activity",
-          "by monastics"
-     ],
-     [
-          "Snp.4.7",
-          "monastics",
-          "sexual activity"
-     ],
-     [
-          "Snp.4.7",
-          "monastic life",
-          "wrongly practiced"
-     ],
-     [
           "Snp1.1",
           "anger (kodha)",
           "removing"
@@ -6851,6 +6811,11 @@ export const indexArray =`[
      ],
      [
           "Snp3.7",
+          "marks of a great man",
+          ""
+     ],
+     [
+          "Snp3.7",
           "Buddhas",
           "revealing themselves when praised"
      ],
@@ -7063,6 +7028,41 @@ export const indexArray =`[
           "Snp4.5",
           "conceit (māna)",
           "wrong views"
+     ],
+     [
+          "Snp4.6",
+          "old age",
+          ""
+     ],
+     [
+          "Snp4.6",
+          "death (maraṇa)",
+          "like dream gone when waking are the dead"
+     ],
+     [
+          "Snp4.6",
+          "craving (taṇha)",
+          "simile of water drop on lotus leaf"
+     ],
+     [
+          "Snp4.6",
+          "purity (suddhi)",
+          "by another"
+     ],
+     [
+          "Snp4.7",
+          "sexual activity",
+          "by monastics"
+     ],
+     [
+          "Snp4.7",
+          "monastics",
+          "sexual activity"
+     ],
+     [
+          "Snp4.7",
+          "monastic life",
+          "wrongly practiced"
      ],
      [
           "Snp4.8",

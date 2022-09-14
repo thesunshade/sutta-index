@@ -935,7 +935,7 @@ export const indexObject =`{
           },
           "like dream gone when waking are the dead": {
                "locators": [
-                    "Snp.4.6"
+                    "Snp4.6"
                ],
                "xrefs": []
           },
@@ -5508,7 +5508,7 @@ export const indexObject =`{
           "": {
                "locators": [
                     "Dhp chapter 11",
-                    "Snp.4.6"
+                    "Snp4.6"
                ],
                "xrefs": []
           },
@@ -6045,7 +6045,7 @@ export const indexObject =`{
           "simile of water drop on lotus leaf": {
                "locators": [
                     "Dhp336",
-                    "Snp.4.6"
+                    "Snp4.6"
                ],
                "xrefs": []
           },
@@ -6660,7 +6660,7 @@ export const indexObject =`{
                     "Iti108",
                     "Snp1.5",
                     "Snp2.6",
-                    "Snp.4.7",
+                    "Snp4.7",
                     "Thag1.101",
                     "Thag1.114"
                ],
@@ -7392,7 +7392,7 @@ export const indexObject =`{
           },
           "sexual activity": {
                "locators": [
-                    "Snp.4.7"
+                    "Snp4.7"
                ],
                "xrefs": []
           },
@@ -9162,8 +9162,8 @@ export const indexObject =`{
      "marks of a great man": {
           "": {
                "locators": [
-                    "Snp5.1",
-                    "Snp.3.7"
+                    "Snp3.7",
+                    "Snp5.1"
                ],
                "xrefs": []
           },
@@ -9287,7 +9287,7 @@ export const indexObject =`{
           },
           "by another": {
                "locators": [
-                    "Snp.4.6"
+                    "Snp4.6"
                ],
                "xrefs": []
           },
@@ -9315,7 +9315,7 @@ export const indexObject =`{
      "sexual activity": {
           "by monastics": {
                "locators": [
-                    "Snp.4.7"
+                    "Snp4.7"
                ],
                "xrefs": []
           }

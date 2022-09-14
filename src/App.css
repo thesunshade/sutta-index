@@ -229,7 +229,7 @@ a:visited {
 }
 
 .xref-link:visited {
-  color: rgb(141, 156, 0)
+  color: #007b00
 }
 
 .dark a {
@@ -241,11 +241,11 @@ a:visited {
 }
 
 .dark .xref-link {
-  color: rgb(0, 175, 0)
+  color: #00af00
 }
 
 .dark .xref-link:visited {
-  color: rgb(175, 175, 0)
+  color: #00af00
 }
 
 .head-word-area {
