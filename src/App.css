@@ -106,7 +106,7 @@ html {
   display: flex;
   flex-direction: row;
   column-gap: 1rem;
-  align-items: flex-end;
+  align-items: center;
 }
 
 .filter-area {
@@ -115,19 +115,38 @@ html {
 }
 
 .clear-filter-button {
-  border: solid 1px black;
-  height: 1.72rem
+  /* border: solid 1px black; */
+  height: 1.72rem;
+  border: none;
+  background: none;
+  position: absolute;
+  right: .1rem;
+  top: .1rem;
+  color: gray;
+}
+
+#user-input-label {
+  position: relative
 }
 
 .filter-input-box {
   border: solid 1px black;
-  border-right: 0px;
+  /* border-right: 0px; */
   font-size: 1rem;
   height: 1.72rem;
-  padding: .2rem;
+  padding: .2rem 1.5rem .2rem .2rem;
   background-color: transparent;
   margin-left: .5rem;
 
+}
+
+.icon {
+  filter: brightness(0);
+}
+
+.dark .icon {
+  filter: brightness(1);
+  filter: invert(100%);
 }
 
 .dark .filter-input-box {
@@ -147,7 +166,17 @@ html {
   margin-top: 1rem
 }
 
+.theme-button {
+  position: relative;
+  top: .2rem
+}
 
+.up-icon {
+  background: none;
+  border: none;
+  position: relative;
+  top: .2rem
+}
 
 .hidden {
   display: none
@@ -160,7 +189,7 @@ html {
   transition: rotate ease-in-out 1s;
 }
 
-.settings-button img:hover {
+.settings-button img:active {
   rotate: 90deg;
 }
 

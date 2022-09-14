@@ -1321,7 +1321,7 @@ export const indexArray =`[
      ],
      [
           "Dhp chapter 23",
-          "elephant",
+          "elephants",
           ""
      ],
      [
@@ -4432,16 +4432,11 @@ export const indexArray =`[
      [
           "Kp8",
           "beauty",
-          ""
+          "as result of merit"
      ],
      [
           "Kp8",
           "sweet voice",
-          ""
-     ],
-     [
-          "Kp8",
-          "beauty",
           ""
      ],
      [
@@ -8755,14 +8750,649 @@ export const indexArray =`[
           "not to move until enlightened"
      ],
      [
+          "Thig1.1",
+          "desire",
+          "dried up like vegetables in pot"
+     ],
+     [
+          "Thig1.11",
+          "marriage",
+          "disenchantment with"
+     ],
+     [
+          "Thig1.11",
+          "lay life",
+          "disenchantment with"
+     ],
+     [
+          "Thig1.13",
+          "encouragement",
+          "to meditate"
+     ],
+     [
+          "Thig1.17",
+          "body",
+          "danger of"
+     ],
+     [
+          "Thig1.18",
+          "renunciation",
+          "giving up what one loves"
+     ],
+     [
+          "Thig1.2",
+          "alms food",
+          "free from debt"
+     ],
+     [
+          "Thig1.5",
+          "opportunities",
+          "missing"
+     ],
+     [
+          "Thig1.8",
+          "friendship",
+          "appreciating"
+     ],
+     [
+          "Thig10.1",
+          "association",
+          "with good people"
+     ],
+     [
+          "Thig10.1",
+          "friendship",
+          ""
+     ],
+     [
+          "Thig10.1",
+          "association",
+          "with wise, fool becomes wise"
+     ],
+     [
+          "Thig10.1",
+          "woman’s life",
+          "painful"
+     ],
+     [
+          "Thig10.1",
+          "pregnancy",
+          "giving birth on road"
+     ],
+     [
+          "Thig10.1",
+          "grieving",
+          "loss of family"
+     ],
+     [
+          "Thig11.1",
+          "co-wives",
+          ""
+     ],
+     [
+          "Thig11.1",
+          "renunciation",
+          "as sanctuary"
+     ],
+     [
+          "Thig11.1",
+          "Māra",
+          "harassing bhikkhunī"
+     ],
+     [
+          "Thig12.1",
+          "bathing",
+          "as ritual"
+     ],
+     [
+          "Thig12.1",
+          "purification",
+          "with water"
+     ],
+     [
+          "Thig13.1",
+          "body",
+          "grown old"
+     ],
+     [
+          "Thig13.1",
+          "old age",
+          "body in"
+     ],
+     [
+          "Thig13.1",
+          "beauty",
+          "as impermanent"
+     ],
+     [
+          "Thig13.1",
+          "perception of ugliness (asubhasañña)",
+          "body grown old"
+     ],
+     [
+          "Thig13.2",
+          "ascetics (samaṇa)",
+          "love for"
+     ],
+     [
+          "Thig13.2",
+          "monastics",
+          "criticizing"
+     ],
+     [
+          "Thig13.2",
+          "monastics",
+          "praise of"
+     ],
+     [
+          "Thig13.2",
+          "monastic life",
+          "rightly practiced"
+     ],
+     [
+          "Thig13.2",
+          "children",
+          "teaching Dhamma to parents"
+     ],
+     [
+          "Thig13.2",
+          "refuges",
+          "encouraging others to go for"
+     ],
+     [
+          "Thig13.3",
+          "going forth (pabbajja)",
+          "leaving behind children"
+     ],
+     [
+          "Thig13.4",
+          "grieving",
+          "overcoming"
+     ],
+     [
+          "Thig13.5",
+          "wealth",
+          "as unsatisfactory"
+     ],
+     [
+          "Thig13.5",
+          "sensual pleasures",
+          "as enemy"
+     ],
+     [
+          "Thig13.5",
+          "sensual pleasures",
+          "as murderer"
+     ],
+     [
+          "Thig13.5",
+          "sensual pleasures",
+          "danger of"
+     ],
+     [
+          "Thig13.5",
+          "bhikkhuni",
+          "praised by Sakka"
+     ],
+     [
+          "Thig14.1",
+          "sexual harassment",
+          ""
+     ],
+     [
+          "Thig14.1",
+          "disrobing",
+          "encouraging to"
+     ],
+     [
+          "Thig14.1",
+          "perception of ugliness (asubhasañña)",
+          ""
+     ],
+     [
+          "Thig14.1",
+          "puppet",
+          "as metaphor for body"
+     ],
+     [
+          "Thig14.1",
+          "distortion of perception",
+          "of body"
+     ],
+     [
+          "Thig15.1",
+          "marriage",
+          "problems with"
+     ],
+     [
+          "Thig15.1",
+          "going forth (pabbajja)",
+          "encouragement to collect merit at home instead"
+     ],
+     [
+          "Thig15.1",
+          "past lives, knowledge of (pubbenivāsānussatiñāna)",
+          "to understand this life"
+     ],
+     [
+          "Thig15.1",
+          "sexual misconduct",
+          "results of"
+     ],
+     [
+          "Thig15.1",
+          "rebirth",
+          "as animal"
+     ],
+     [
+          "Thig16.1",
+          "learned (bahussutā)",
+          "example of person who is"
+     ],
+     [
+          "Thig16.1",
+          "impermanence",
+          "even gods are"
+     ],
+     [
+          "Thig16.1",
+          "sensual pleasures",
+          "bitter like snake venom"
+     ],
+     [
+          "Thig16.1",
+          "heaven",
+          "life in is impermanent"
+     ],
+     [
+          "Thig16.1",
+          "hell",
+          "going forth is not possible"
+     ],
+     [
+          "Thig16.1",
+          "going forth (pabbajja)",
+          "threatening to not eat if not allowed to"
+     ],
+     [
+          "Thig16.1",
+          "marriage",
+          "rejecting to go forth"
+     ],
+     [
+          "Thig16.1",
+          "going forth (pabbajja)",
+          "encouragement to collect merit at home instead"
+     ],
+     [
+          "Thig16.1",
+          "perception of ugliness (asubhasañña)",
+          ""
+     ],
+     [
+          "Thig16.1",
+          "swords, three hundred ",
+          "simile of "
+     ],
+     [
+          "Thig16.1",
+          "sensual pleasures",
+          "like vomit"
+     ],
+     [
+          "Thig16.1",
+          "laypeople",
+          "attaining jhāna"
+     ],
+     [
+          "Thig16.1",
+          "sensual pleasures",
+          "burning like firebrand"
+     ],
+     [
+          "Thig16.1",
+          "sensual pleasures",
+          "impermanent"
+     ],
+     [
+          "Thig16.1",
+          "sensual pleasures",
+          "like lumps of meat"
+     ],
+     [
+          "Thig16.1",
+          "sensual pleasures",
+          "like dream"
+     ],
+     [
+          "Thig16.1",
+          "saṁsara",
+          "long for fools"
+     ],
+     [
+          "Thig16.1",
+          "ocean of tear",
+          "simile of "
+     ],
+     [
+          "Thig16.1",
+          "saṁsara",
+          "similes for"
+     ],
+     [
+          "Thig16.1",
+          "turtle and yoke",
+          "like rebirth in human world is rare"
+     ],
+     [
+          "Thig16.1",
+          "sensual pleasures",
+          "like a grass torch burns holder"
+     ],
+     [
+          "Thig16.1",
+          "dog with chain",
+          "like person attached to sensual pleasures"
+     ],
+     [
+          "Thig16.1",
+          "gifts, specific types of",
+          "monastery"
+     ],
+     [
+          "Thig2.1",
+          "perception of ugliness (asubhasañña)",
+          ""
+     ],
+     [
+          "Thig2.1",
+          "signless (animitta)",
+          "meditation on"
+     ],
+     [
+          "Thig2.1",
+          "conceit, underlying tendency (mānānussaya)",
+          ""
+     ],
+     [
+          "Thig2.1",
+          "slow spiritual progress",
+          ""
+     ],
+     [
+          "Thig2.2",
+          "awakening factors, seven",
+          "all developed"
+     ],
+     [
+          "Thig2.3",
+          "marriage",
+          "disenchantment with"
+     ],
+     [
+          "Thig2.3",
+          "lay life",
+          "disenchantment with"
+     ],
+     [
+          "Thig2.4",
+          "courtesans",
+          ""
+     ],
+     [
+          "Thig2.8",
+          "perception of ugliness (asubhasañña)",
+          ""
+     ],
+     [
+          "Thig3.1",
+          "slow spiritual progress",
+          ""
+     ],
+     [
+          "Thig3.2",
+          "slow spiritual progress",
+          ""
+     ],
+     [
+          "Thig3.2",
+          "meditation",
+          "for seven days"
+     ],
+     [
+          "Thig3.3",
+          "awakening factors, seven",
+          "all developed"
+     ],
+     [
+          "Thig3.3",
+          "children of the Buddha",
+          "rightful daughter"
+     ],
+     [
+          "Thig3.4",
+          "elephants",
+          "as inspiration for training"
+     ],
+     [
+          "Thig3.4",
+          "inspiration",
+          "from watching elephant trainer"
+     ],
+     [
           "Thig3.5",
           "death (maraṇa)",
           "of relative"
      ],
      [
+          "Thig3.5",
+          "grieving",
+          "overcoming"
+     ],
+     [
+          "Thig3.7",
+          "sensual pleasures",
+          "like swords and stakes"
+     ],
+     [
+          "Thig3.7",
+          "aggregates",
+          "like chopping block"
+     ],
+     [
+          "Thig3.7",
+          "Māra",
+          "encourages giving up monastic life"
+     ],
+     [
+          "Thig3.8",
+          "Māra",
+          "sexist attack"
+     ],
+     [
+          "Thig3.8",
+          "womanhood",
+          "as irrelevant for enlightenment"
+     ],
+     [
+          "Thig3.8",
+          "sexism",
+          "Māra’s attack"
+     ],
+     [
+          "Thig4.1",
+          "Mahā Kassapa, Ven",
+          "qualities of"
+     ],
+     [
+          "Thig4.1",
+          "Bhaddākāpilānī, Ven",
+          "attainments same as Mahā Kassapa"
+     ],
+     [
+          "Thig4.1",
+          "marriage",
+          "disenchantment with"
+     ],
+     [
+          "Thig5.1",
+          "slow spiritual progress",
+          ""
+     ],
+     [
+          "Thig5.1",
+          "psychic powers",
+          ""
+     ],
+     [
+          "Thig5.1",
+          "knowledges, six direct (chaḷabhiññā)",
+          ""
+     ],
+     [
+          "Thig5.1",
+          "inspiration",
+          "from watching water flowing"
+     ],
+     [
+          "Thig5.11",
+          "knowledges, three",
+          ""
+     ],
+     [
+          "Thig5.11",
+          "honor",
+          "your Dhamma teacher"
+     ],
+     [
+          "Thig5.12",
+          "widdows",
+          ""
+     ],
+     [
+          "Thig5.2",
+          "courtesans",
+          ""
+     ],
+     [
+          "Thig5.2",
+          "arrogance",
+          "because of body"
+     ],
+     [
+          "Thig5.3",
+          "sense pleasures",
+          "overcome by"
+     ],
+     [
+          "Thig5.3",
+          "suicide",
+          "aborted attempt"
+     ],
+     [
+          "Thig5.5",
+          "fire worship (aggika)",
+          ""
+     ],
+     [
+          "Thig5.6",
+          "urgency (saṁvega)",
+          ""
+     ],
+     [
+          "Thig5.8",
+          "going forth (pabbajja)",
+          "old age"
+     ],
+     [
+          "Thig5.8",
+          "signless (animitta)",
+          ""
+     ],
+     [
+          "Thig5.9",
+          "“come, monk” ordination (ehi bhikkhu)",
+          ""
+     ],
+     [
+          "Thig5.9",
+          "merit (puññā)",
+          "giving to noble disciples"
+     ],
+     [
           "Thig6.1",
           "death (maraṇa)",
           "of relative"
+     ],
+     [
+          "Thig6.1",
+          "grieving",
+          "overcoming"
+     ],
+     [
+          "Thig6.2",
+          "grieving",
+          "death"
+     ],
+     [
+          "Thig6.3",
+          "perception of ugliness (asubhasañña)",
+          ""
+     ],
+     [
+          "Thig6.3",
+          "sensual pleasures",
+          "like swords and stakes"
+     ],
+     [
+          "Thig6.3",
+          "aggregates",
+          "like chopping block"
+     ],
+     [
+          "Thig6.3",
+          "disrobing",
+          "encouraging to"
+     ],
+     [
+          "Thig6.6",
+          "rebirth",
+          "in various positions"
+     ],
+     [
+          "Thig6.8",
+          "slow spiritual progress",
+          ""
+     ],
+     [
+          "Thig7.2",
+          "followers of other paths",
+          ""
+     ],
+     [
+          "Thig7.3",
+          "disrobing",
+          "encouraging to"
+     ],
+     [
+          "Thig8.1",
+          "heavenly realms",
+          "life in"
+     ],
+     [
+          "Thig8.1",
+          "world",
+          "as if on fire"
+     ],
+     [
+          "Thig9.1",
+          "advice",
+          "from mother"
+     ],
+     [
+          "Thig9.1",
+          "defilements (āsava)",
+          "all ended"
      ],
      [
           "Ud1.1–3",
@@ -10285,6 +10915,11 @@ export const indexArray =`[
           ""
      ],
      [
+          "xref brahmās",
+          "heaven",
+          ""
+     ],
+     [
           "xref brahmin",
           "arahant",
           ""
@@ -10390,6 +11025,11 @@ export const indexArray =`[
           ""
      ],
      [
+          "xref devas",
+          "heaven",
+          ""
+     ],
+     [
           "xref Dhamma teaching",
           "teaching Dhamma",
           ""
@@ -10465,6 +11105,11 @@ export const indexArray =`[
           ""
      ],
      [
+          "xref friendship",
+          "association",
+          ""
+     ],
+     [
           "xref generosity (cāga)",
           "giving (dāna)",
           ""
@@ -10502,6 +11147,11 @@ export const indexArray =`[
      [
           "xref giving (dāna) ",
           "dāna ",
+          ""
+     ],
+     [
+          "xref gods",
+          "heaven",
           ""
      ],
      [

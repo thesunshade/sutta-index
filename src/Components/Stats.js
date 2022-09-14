@@ -5,6 +5,7 @@ import githubIcon from "../images/GitHub-Mark-64px-black.png";
 export default function Stats() {
   const index = JSON.parse(indexArray);
   const headwords = Object.keys(JSON.parse(indexObject));
+
   return (
     <>
       <div className="stats">
@@ -26,9 +27,9 @@ export default function Stats() {
         </div>
       </div>
       <div className="row-2">
-        Complete Books: Kp, Dhp, Ud, Iti, Snp, Vv, Pv, Thag
+        Complete Books: Kp, Dhp, Ud, Iti, Snp, Vv, Pv, Thag, Thig
         <br />
-        Planned Books: Thig, DN, MN, SN, AN
+        Planned Books: DN, MN, SN, AN
       </div>
     </>
   );
