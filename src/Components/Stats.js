@@ -22,7 +22,7 @@ export default function Stats() {
             rel="noreferrer"
             target="_blank"
           >
-            <img width="20px" src={githubIcon} alt="GitHub icon" />
+            <img class="icon" width="20px" src={githubIcon} alt="GitHub icon" />
           </a>
         </div>
       </div>

@@ -58,6 +58,7 @@
 
 body {
   font-family: "Fira Sans";
+  min-height: 100vh;
 }
 
 body.dark {
@@ -65,6 +66,9 @@ body.dark {
   color: var(--offwhite);
 }
 
+html {
+  scroll-behavior: smooth;
+}
 
 * {
   box-sizing: border-box
@@ -220,6 +224,10 @@ a {
   white-space: nowrap
 }
 
+a:hover {
+  text-decoration: underline;
+}
+
 a:visited {
   color: purple
 }
@@ -313,6 +321,17 @@ th {
 
 tr:nth-child(even) {
   background-color: #dddddd;
+}
+
+.no-results {
+  max-width: 30rem;
+  margin: 3rem auto auto auto;
+  text-align: center;
+}
+
+.no-results p {
+  margin-bottom: 1rem;
+  line-height: 1.4rem;
 }
 
 @media only screen and (max-width: 475px) {
