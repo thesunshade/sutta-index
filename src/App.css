@@ -67,6 +67,9 @@ body.dark {
 }
 
 html {
+  scroll-padding-top: 3rem;
+  /* height of sticky header */
+  background-color: var(--offwhite);
   scroll-behavior: smooth;
 }
 
@@ -76,12 +79,6 @@ html {
 
 App {
   width: 100vw;
-}
-
-html {
-  scroll-padding-top: 3rem;
-  /* height of sticky header */
-  background-color: var(--offwhite);
 }
 
 
@@ -211,7 +208,7 @@ html {
 
 
 .sutta-index {
-  margin-left: 1rem;
+  margin: auto 1rem;
 }
 
 p {
@@ -362,4 +359,32 @@ tr:nth-child(even) {
   .sub-word {
     padding-left: var(--mobile-indent);
   }
+}
+
+.icon-links-area {
+  display: flex;
+  flex-direction: row;
+  gap: 1rem;
+  justify-content: center;
+  margin-top: 0.5rem;
+}
+
+.icon-links-area a {
+  position: relative;
+  top: 0;
+  transition: top ease 0.5s;
+}
+
+.icon-links-area a:hover {
+  top: -5px;
+}
+
+.icon-links-area a.labs {
+  rotate: 0deg;
+  transition: rotate ease 1s;
+}
+
+.icon-links-area a.labs:hover {
+  rotate: 55deg;
+  top: 0px !important;
 }

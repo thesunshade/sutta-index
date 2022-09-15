@@ -1,6 +1,7 @@
 import "./App.css";
 import SuttaIndex from "./Components/SuttaIndex.js";
 import Stats from "./Components/Stats.js";
+import OtherToolsIcons from "./Components/OtherToolsIcons.js";
 import LocatorSortedTable from "./Components/LocatorSortedTable.js";
 import { useState, createContext } from "react";
 import settingsIcon from "./images/settings.png";
@@ -169,6 +170,7 @@ function App() {
             is the highest virtue.
           </div>
           <Stats />
+          <OtherToolsIcons />
         </div>
       </div>
       {/* close settings bar */}
