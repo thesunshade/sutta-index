@@ -332,13 +332,13 @@ false speech	no one likes to be lied to	SN55.7
 false speech		Iti25
 harsh speech	definition	DN2
 harsh speech	results of	AN8.40
-harsh speech		AN3.28
+harsh speech	speech like honey is ones who gives up	AN3.28
 harsh speech		AN5.214
 harsh speech		xref speech
 listening to Dhamma		AN5.146
 listening to Dhamma		AN5.147
 lying		xref false speech
-speaking truth		AN3.28
+speaking truth	speech like flowers	AN3.28
 speaking truth		AN3.69
 speech	about oneself	AN4.73
 speech	about others	AN4.73
@@ -412,10 +412,10 @@ right speech (sammā vācā)	abolishes wrong speech	MN117
 right speech (sammā vācā)	definition	SN45.8
 speech	self purification through	AN10.176
 speech	sharp	MN139
-speech	simile of axe	SN6.9
-speech	simile of dung	AN3.28
-speech	simile of flowers	AN3.28
-speech	simile of honey	AN3.28
+speech	like an axe	SN6.9
+speech	like dung	AN3.28
+speech	like flowers	AN3.28
+speech	like honey	AN3.28
 speech	simile of new bride	AN4.73
 speech	speaking much	AN5.214
 speech	speaking right amount	AN5.214
@@ -845,7 +845,7 @@ lay life	difficult	Dhp302
 good people	simile of Himalaya	Dhp304
 bad people	simile of arrow	Dhp304
 seclusion		Dhp305
-hell		Dhp chapter 22
+hell (niraya)		Dhp chapter 22
 lying	rebirth	Dhp306
 bad monastics	rebirth	Dhp307–8
 sexual misconduct	result	Dhp309–10
@@ -1136,7 +1136,7 @@ conscience and prudence		Iti42
 unborn (ajātaṁ)		Iti43
 arahant	with something left over (saupādisesā)	Iti44
 arahant 	with nothing left over (anupādisesa)	Iti44
-wakeful (jāgara)		Iti47
+wakefulness (jāgara)		Iti47
 celibacy	false claim of	Iti48
 monk		xref mendicant
 mendicant	evil	Iti48
@@ -1201,7 +1201,7 @@ impermanence meditation		Iti85
 mindfulness of breathing		Iti85
 Dhamma	delight in	Iti86
 thoughts (vitakkā)	skillful and unskillful	Iti87
-unwholesome roots	as inner stains	Iti88
+unwholesome roots (lobha, dosa, moha)	as inner stains	Iti88
 friendship	bad	Iti89
 evil wishes		Iti89
 stopping when more left to do		Iti89
@@ -1338,7 +1338,7 @@ conscience and prudence		Snp2.3
 talking but not doing		Snp2.3
 friendship	true and false friends	Snp2.3
 yakkha	asking questions	Snp2.5
-unwholesome roots		Snp2.5
+unwholesome roots (lobha, dosa, moha)		Snp2.5
 monastic life	wrongly practiced	Snp2.6
 association	with the wise	Snp2.6
 brahmins	ancient traditions	Snp2.7
@@ -1415,12 +1415,12 @@ actions (kamma)	not birth defines a person	Snp3.9
 criticizing noble ones		Snp3.10
 Kokālika	criticizes chief disciples	Snp3.10
 Sahampati Brahmā	reports Kokālika’s birth in hell	Snp3.10
-hell	lifespan in	Snp3.10
+hell (niraya)	lifespan in	Snp3.10
 mustard seeds, cartload	like length of hell	Snp3.10
 speech	simile of axe	Snp3.10
 harming a good person	simile of dust in wind	Snp3.10
-hell	actions that lead to	Snp3.10
-hell	life in	Snp3.10
+hell (niraya)	actions that lead to	Snp3.10
+hell (niraya)	torture in	Snp3.10
 Tāvatiṁsa heaven	celebrating the Buddha’s birth	Snp3.11
 Asita, hermit	meets Bodhisatta	Snp3.11
 war	between devas and asuras	Snp3.11
@@ -1742,15 +1742,15 @@ ghosts	giving advice	Pv36
 friendship	between human and ghost	Pv36
 wrong view (micchā diṭṭhi)	leading to ghost world	Pv38
 wrong view (micchā diṭṭhi)	resulting in hell	Pv38
-hell		xref wrong views
-hell	lifespan in	Pv38
+hell (niraya)		xref wrong views
+hell (niraya)	lifespan in	Pv38
 departed relatives	sharing merit with	Pv38
 wrong views	giving up like vomiting	Pv38
 ghosts	hunger	Pv40
 wealthy people	not giving	Pv41
 monastics	treating them badly	Pv42
 paccekabuddha	disparaging	Pv42
-hell	life in	Pv42
+hell (niraya)	torture in	Pv42
 arrogance	results of	Pv42
 bad friends		Pv43
 friendship		xref bad friends
@@ -1807,7 +1807,7 @@ happiness through happiness		Thag1.63
 conceit (māna)	removed with conceit	Thag1.64
 Dhamma teaching	to householders	Thag1.65
 wisdom	higher than virtue	Thag1.70
-divine messengers		Thag1.73
+divine messengers (devadūta)		Thag1.73
 association	with good people	Thag1.75
 mind	training like elephant trainer does	Thag1.77
 sleep	fondness for	Thag1.84
@@ -2144,24 +2144,6 @@ confession	accepting	AN3.4
 questions, asking		AN3.5
 answering questions		xref questions, answering 
 asking questions		xref questions, asking
-questions, answering 		AN3.5
-fools	characteristics	AN3.6
-wise people	characteristics	AN3.6
-jealousy	leading to hell	AN3.10
-stinginess	leading to hell	AN3.10
-jealousy	giving up leads to heaven	AN3.10
-stinginess	giving up leads to heaven	AN3.10
-mendicants	acting for the harm or welfare of beings	AN3.11
-encouragement	to others	AN3.11
-mendicants	places to remember	AN3.12
-hope	free from	AN3.13
-hope	having the hope to become enlightened	AN3.13
-wheel-turning monarchs	Dhamma is their king	AN3.14
-Buddha, the	honoring the Dhamma	AN3.14
-Dhamma	honored by the Buddha	AN3.14
-wheel	made well	AN3.15
-chariot-maker		AN3.15
-Bodhisatta	as chariot-maker	AN3.15
 desire	dried up like vegetables in pot	Thig1.1
 alms food	free from debt	Thig1.2
 opportunities	missing	Thig1.5
@@ -2274,7 +2256,7 @@ heaven	life in is impermanent	Thig16.1
 heaven		xref devas
 heaven		xref gods
 heaven		xref brahmās
-hell	going forth is not possible	Thig16.1
+hell (niraya)	going forth is not possible	Thig16.1
 going forth (pabbajja)	threatening to not eat if not allowed to	Thig16.1
 marriage	rejecting to go forth	Thig16.1
 going forth (pabbajja)	encouragement to collect merit at home instead	Thig16.1
@@ -2293,3 +2275,115 @@ turtle and yoke	like rebirth in human world is rare	Thig16.1
 sensual pleasures	like a grass torch burns holder	Thig16.1
 dog with chain	like person attached to sensual pleasures	Thig16.1
 gifts, specific types of	monastery	Thig16.1
+questions, answering 		AN3.5
+fools	characteristics	AN3.6
+wise people	characteristics	AN3.6
+jealousy	leading to hell	AN3.10
+stinginess	leading to hell	AN3.10
+jealousy	giving up leads to heaven	AN3.10
+stinginess	giving up leads to heaven	AN3.10
+mendicants	acting for the harm or welfare of beings	AN3.11
+encouragement	to others	AN3.11
+mendicants	places to remember	AN3.12
+hope	free from	AN3.13
+hope	having the hope to become enlightened	AN3.13
+wheel-turning monarchs	Dhamma is their king	AN3.14
+Buddha, the	honoring the Dhamma	AN3.14
+Dhamma	honored by the Buddha	AN3.14
+wheel	made well	AN3.15
+chariot-maker		AN3.15
+Bodhisatta	as chariot-maker	AN3.15
+Pacetana, king		AN3.15
+sense doors, guarding	definition	AN3.16
+eating in moderation	definition	AN3.16
+eating		xref eating in moderation
+wakefulness (jāgara)	definition	AN3.16
+defilements (āsava)	groundwork for ending	AN3.16
+wealth	shopkeeper increasing	AN3.19
+meditation	applying oneself to in morning, midday, afternoon	AN3.19
+wealth	shopkeeper increasing	AN3.20
+listening to Dhamma	a monastic who has “benefactors”	AN3.20
+Saviṭṭha, Ven.		AN3.21
+Mahā Koṭṭhita		AN3.21
+Sāriputta, Ven.		AN3.21
+personal witness (kāyasakkhī)		AN3.21
+one attained to view (diṭṭhippatto)		AN3.21
+one freed by faith (saddhāvimutto)		AN3.21
+patients	kinds of patients similar to kinds of people	AN3.22
+listening to Dhamma	some people will benefit, some will not	AN3.22
+choices		AN3.see formations(saṅkāra)
+formations(saṅkāra)	afflictive and unafflictive	AN3.23
+helpful people	by giving the refuges	AN3.24
+helpful people	by helping to understand four noble truths	AN3.24
+helpful people	by helping to attain nibbāna	AN3.24
+refuges	person who gives them 	AN3.24
+repaying help	some help is difficult to repay	AN3.24
+irritability	like an open sore	AN3.25
+temper	like an open sore	AN3.25
+advice	people who don’t take well	AN3.25
+mind	like lightning	AN3.25
+mind	like diamond	AN3.25
+worlds		xref abodes of beings
+abodes of beings		xref heavenly realms
+abodes of beings		xref ghost realm
+ghost realm		xref ghosts
+association	whom to not associate with	AN3.26
+association	whom to associate with	AN3.26
+Dhamma discussion	easy to talk to similar people	AN3.26
+association	with similar people/like elements	AN3.26
+association	with superior people causes one to improve	AN3.26
+honor	superior people	AN3.26
+association	with wicked	AN3.27
+reputation	bad reputation gained through association	AN3.27
+reputation	like snake smeared with dung	AN3.27
+equanimity	towards irritable people	AN3.27
+equanimity	towards irritable people like stirring a sewer	AN3.27
+reputation	good reputation gained through association 	AN3.27
+wealth	vision to increase wealth	AN3.29
+skillfulness and unskillfulness	vision to see the difference between	AN3.29
+listening to Dhamma	not paying attention while	AN3.30
+listening to Dhamma	forgetting afterwards	AN3.30
+listening to Dhamma	remembering	AN3.30
+wisdom	lap-like	AN3.30
+wisdom	upside-down 	AN3.30
+wisdom	wide	AN3.30
+parents	honoring	AN3.31
+teachers	parents as first	AN3.31
+brahmās	parents like	AN3.31
+brahmās	parents like	Iti106
+“The Way to the Beyond” (Pārāyana)		AN3.32
+heart’s release (cetovimutti)		AN3.32
+freedom of heart		xref heart’s release (cetovimutti)
+freedom by wisdom (paññāvimutti)		AN3.32
+Ānanda, Ven	asking about cetovimutti and paññāvimutti	AN3.32
+“The Way to the Beyond” (Pārāyana)		AN3.33
+heart’s release (cetovimutti)		AN3.33
+freedom by wisdom (paññāvimutti)		AN3.33
+causes (nidāna)	for actions	AN3.34
+unwholesome roots (lobha, dosa, moha)		AN3.34
+wholesome roots (alobha, adosa, amoha)		AN3.34
+destroyed seeds	simile of destruction of deeds	AN3.34
+Hatthaka of Āḷavī	asks the Buddha if he slept well	AN3.35
+sleep	sleeping well	AN3.35
+unwholesome roots (rāga, dosa, moha)	cause of bad sleep	AN3.35
+Buddha, the	sleeping well	AN3.35
+hell (niraya)	judgement by King Yama	AN3.36
+divine messengers (devadūta)		AN3.36
+old person	as divine messenger	AN3.36
+sick person	as divine messenger	AN3.36
+dead body	as divine messenger	AN3.36
+hell (niraya)	torture in	AN3.36
+Yama, King		AN3.36
+Four Great Kings, the (catumahārāja)	searching on uposatha for people making merit	AN3.37
+uposatha	Four Great Kings searching for people making merit	AN3.37
+Sakka	praising uposatha	AN3.37
+Sakka	praising uposatha	AN3.38
+palaces (pāsādā)	Bodhisatta’s three	AN3.39
+Bodhisatta	delicate lifestyle and three palaces	AN3.39
+youth	vanity of, giving up 	AN3.39
+health	vanity of, giving up 	AN3.39
+life	vanity of, giving up 	AN3.39
+bad actions	doing because of vanity of youth, health, life	AN3.39
+determination	putting oneself in charge	AN3.40
+Dhamma	putting the Dhamma in charge	AN3.40
+mind reading	guarding ones behaviour for fear of mind readers	AN3.40

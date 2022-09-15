@@ -255,6 +255,41 @@ export const indexArray =`[
           "as chariot-maker"
      ],
      [
+          "AN3.15",
+          "Pacetana, king",
+          ""
+     ],
+     [
+          "AN3.16",
+          "sense doors, guarding",
+          "definition"
+     ],
+     [
+          "AN3.16",
+          "eating in moderation",
+          "definition"
+     ],
+     [
+          "AN3.16",
+          "wakefulness (jāgara)",
+          "definition"
+     ],
+     [
+          "AN3.16",
+          "defilements (āsava)",
+          "groundwork for ending"
+     ],
+     [
+          "AN3.19",
+          "wealth",
+          "shopkeeper increasing"
+     ],
+     [
+          "AN3.19",
+          "meditation",
+          "applying oneself to in morning, midday, afternoon"
+     ],
+     [
           "AN3.2",
           "fools",
           "known by actions"
@@ -265,29 +300,204 @@ export const indexArray =`[
           "known by actions"
      ],
      [
+          "AN3.20",
+          "wealth",
+          "shopkeeper increasing"
+     ],
+     [
+          "AN3.20",
+          "listening to Dhamma",
+          "a monastic who has “benefactors”"
+     ],
+     [
+          "AN3.21",
+          "Saviṭṭha, Ven.",
+          ""
+     ],
+     [
+          "AN3.21",
+          "Mahā Koṭṭhita",
+          ""
+     ],
+     [
+          "AN3.21",
+          "Sāriputta, Ven.",
+          ""
+     ],
+     [
+          "AN3.21",
+          "personal witness (kāyasakkhī)",
+          ""
+     ],
+     [
+          "AN3.21",
+          "one attained to view (diṭṭhippatto)",
+          ""
+     ],
+     [
+          "AN3.21",
+          "one freed by faith (saddhāvimutto)",
+          ""
+     ],
+     [
+          "AN3.22",
+          "patients",
+          "kinds of patients similar to kinds of people"
+     ],
+     [
+          "AN3.22",
+          "listening to Dhamma",
+          "some people will benefit, some will not"
+     ],
+     [
+          "AN3.23",
+          "formations(saṅkāra)",
+          "afflictive and unafflictive"
+     ],
+     [
+          "AN3.24",
+          "helpful people",
+          "by giving the refuges"
+     ],
+     [
+          "AN3.24",
+          "helpful people",
+          "by helping to understand four noble truths"
+     ],
+     [
+          "AN3.24",
+          "helpful people",
+          "by helping to attain nibbāna"
+     ],
+     [
+          "AN3.24",
+          "refuges",
+          "person who gives them "
+     ],
+     [
+          "AN3.24",
+          "repaying help",
+          "some help is difficult to repay"
+     ],
+     [
+          "AN3.25",
+          "irritability",
+          "like an open sore"
+     ],
+     [
+          "AN3.25",
+          "temper",
+          "like an open sore"
+     ],
+     [
+          "AN3.25",
+          "advice",
+          "people who don’t take well"
+     ],
+     [
+          "AN3.25",
+          "mind",
+          "like lightning"
+     ],
+     [
+          "AN3.25",
+          "mind",
+          "like diamond"
+     ],
+     [
+          "AN3.26",
+          "association",
+          "whom to not associate with"
+     ],
+     [
+          "AN3.26",
+          "association",
+          "whom to associate with"
+     ],
+     [
+          "AN3.26",
+          "Dhamma discussion",
+          "easy to talk to similar people"
+     ],
+     [
+          "AN3.26",
+          "association",
+          "with similar people/like elements"
+     ],
+     [
+          "AN3.26",
+          "association",
+          "with superior people causes one to improve"
+     ],
+     [
+          "AN3.26",
+          "honor",
+          "superior people"
+     ],
+     [
+          "AN3.27",
+          "association",
+          "with wicked"
+     ],
+     [
+          "AN3.27",
+          "reputation",
+          "bad reputation gained through association"
+     ],
+     [
+          "AN3.27",
+          "reputation",
+          "like snake smeared with dung"
+     ],
+     [
+          "AN3.27",
+          "equanimity",
+          "towards irritable people"
+     ],
+     [
+          "AN3.27",
+          "equanimity",
+          "towards irritable people like stirring a sewer"
+     ],
+     [
+          "AN3.27",
+          "reputation",
+          "good reputation gained through association "
+     ],
+     [
           "AN3.28",
           "harsh speech",
-          ""
+          "speech like honey is ones who gives up"
      ],
      [
           "AN3.28",
           "speaking truth",
-          ""
+          "speech like flowers"
      ],
      [
           "AN3.28",
           "speech",
-          "simile of dung"
+          "like dung"
      ],
      [
           "AN3.28",
           "speech",
-          "simile of flowers"
+          "like flowers"
      ],
      [
           "AN3.28",
           "speech",
-          "simile of honey"
+          "like honey"
+     ],
+     [
+          "AN3.29",
+          "wealth",
+          "vision to increase wealth"
+     ],
+     [
+          "AN3.29",
+          "skillfulness and unskillfulness",
+          "vision to see the difference between"
      ],
      [
           "AN3.3",
@@ -300,6 +510,211 @@ export const indexArray =`[
           "characteristics"
      ],
      [
+          "AN3.30",
+          "listening to Dhamma",
+          "not paying attention while"
+     ],
+     [
+          "AN3.30",
+          "listening to Dhamma",
+          "forgetting afterwards"
+     ],
+     [
+          "AN3.30",
+          "listening to Dhamma",
+          "remembering"
+     ],
+     [
+          "AN3.30",
+          "wisdom",
+          "lap-like"
+     ],
+     [
+          "AN3.30",
+          "wisdom",
+          "upside-down "
+     ],
+     [
+          "AN3.30",
+          "wisdom",
+          "wide"
+     ],
+     [
+          "AN3.31",
+          "parents",
+          "honoring"
+     ],
+     [
+          "AN3.31",
+          "teachers",
+          "parents as first"
+     ],
+     [
+          "AN3.31",
+          "brahmās",
+          "parents like"
+     ],
+     [
+          "AN3.32",
+          "“The Way to the Beyond” (Pārāyana)",
+          ""
+     ],
+     [
+          "AN3.32",
+          "heart’s release (cetovimutti)",
+          ""
+     ],
+     [
+          "AN3.32",
+          "freedom by wisdom (paññāvimutti)",
+          ""
+     ],
+     [
+          "AN3.32",
+          "Ānanda, Ven",
+          "asking about cetovimutti and paññāvimutti"
+     ],
+     [
+          "AN3.33",
+          "“The Way to the Beyond” (Pārāyana)",
+          ""
+     ],
+     [
+          "AN3.33",
+          "heart’s release (cetovimutti)",
+          ""
+     ],
+     [
+          "AN3.33",
+          "freedom by wisdom (paññāvimutti)",
+          ""
+     ],
+     [
+          "AN3.34",
+          "causes (nidāna)",
+          "for actions"
+     ],
+     [
+          "AN3.34",
+          "unwholesome roots (lobha, dosa, moha)",
+          ""
+     ],
+     [
+          "AN3.34",
+          "wholesome roots (alobha, adosa, amoha)",
+          ""
+     ],
+     [
+          "AN3.34",
+          "destroyed seeds",
+          "simile of destruction of deeds"
+     ],
+     [
+          "AN3.35",
+          "Hatthaka of Āḷavī",
+          "asks the Buddha if he slept well"
+     ],
+     [
+          "AN3.35",
+          "sleep",
+          "sleeping well"
+     ],
+     [
+          "AN3.35",
+          "unwholesome roots (rāga, dosa, moha)",
+          "cause of bad sleep"
+     ],
+     [
+          "AN3.35",
+          "Buddha, the",
+          "sleeping well"
+     ],
+     [
+          "AN3.36",
+          "hell (niraya)",
+          "judgement by King Yama"
+     ],
+     [
+          "AN3.36",
+          "divine messengers (devadūta)",
+          ""
+     ],
+     [
+          "AN3.36",
+          "old person",
+          "as divine messenger"
+     ],
+     [
+          "AN3.36",
+          "sick person",
+          "as divine messenger"
+     ],
+     [
+          "AN3.36",
+          "dead body",
+          "as divine messenger"
+     ],
+     [
+          "AN3.36",
+          "hell (niraya)",
+          "torture in"
+     ],
+     [
+          "AN3.36",
+          "Yama, King",
+          ""
+     ],
+     [
+          "AN3.37",
+          "Four Great Kings, the (catumahārāja)",
+          "searching on uposatha for people making merit"
+     ],
+     [
+          "AN3.37",
+          "uposatha",
+          "Four Great Kings searching for people making merit"
+     ],
+     [
+          "AN3.37",
+          "Sakka",
+          "praising uposatha"
+     ],
+     [
+          "AN3.38",
+          "Sakka",
+          "praising uposatha"
+     ],
+     [
+          "AN3.39",
+          "palaces (pāsādā)",
+          "Bodhisatta’s three"
+     ],
+     [
+          "AN3.39",
+          "Bodhisatta",
+          "delicate lifestyle and three palaces"
+     ],
+     [
+          "AN3.39",
+          "youth",
+          "vanity of, giving up "
+     ],
+     [
+          "AN3.39",
+          "health",
+          "vanity of, giving up "
+     ],
+     [
+          "AN3.39",
+          "life",
+          "vanity of, giving up "
+     ],
+     [
+          "AN3.39",
+          "bad actions",
+          "doing because of vanity of youth, health, life"
+     ],
+     [
           "AN3.4",
           "mistakes",
           "recognizing"
@@ -308,6 +723,21 @@ export const indexArray =`[
           "AN3.4",
           "confession",
           "accepting"
+     ],
+     [
+          "AN3.40",
+          "determination",
+          "putting oneself in charge"
+     ],
+     [
+          "AN3.40",
+          "Dhamma",
+          "putting the Dhamma in charge"
+     ],
+     [
+          "AN3.40",
+          "mind reading",
+          "guarding ones behaviour for fear of mind readers"
      ],
      [
           "AN3.41",
@@ -438,6 +868,11 @@ export const indexArray =`[
           "AN3.79",
           "generosity (cāga)",
           "as cause for good reputation"
+     ],
+     [
+          "AN3.see formations(saṅkāra)",
+          "choices",
+          ""
      ],
      [
           "AN4.100",
@@ -1316,7 +1751,7 @@ export const indexArray =`[
      ],
      [
           "Dhp chapter 22",
-          "hell",
+          "hell (niraya)",
           ""
      ],
      [
@@ -3180,6 +3615,11 @@ export const indexArray =`[
           "parents as first"
      ],
      [
+          "Iti106",
+          "brahmās",
+          "parents like"
+     ],
+     [
           "Iti107",
           "requisites, four",
           "provided by laypeople"
@@ -3526,7 +3966,7 @@ export const indexArray =`[
      ],
      [
           "Iti47",
-          "wakeful (jāgara)",
+          "wakefulness (jāgara)",
           ""
      ],
      [
@@ -3876,7 +4316,7 @@ export const indexArray =`[
      ],
      [
           "Iti88",
-          "unwholesome roots",
+          "unwholesome roots (lobha, dosa, moha)",
           "as inner stains"
      ],
      [
@@ -5251,7 +5691,7 @@ export const indexArray =`[
      ],
      [
           "Pv38",
-          "hell",
+          "hell (niraya)",
           "lifespan in"
      ],
      [
@@ -5311,8 +5751,8 @@ export const indexArray =`[
      ],
      [
           "Pv42",
-          "hell",
-          "life in"
+          "hell (niraya)",
+          "torture in"
      ],
      [
           "Pv42",
@@ -5952,7 +6392,7 @@ export const indexArray =`[
      [
           "SN6.9",
           "speech",
-          "simile of axe"
+          "like an axe"
      ],
      [
           "SN7.13",
@@ -6481,7 +6921,7 @@ export const indexArray =`[
      ],
      [
           "Snp2.5",
-          "unwholesome roots",
+          "unwholesome roots (lobha, dosa, moha)",
           ""
      ],
      [
@@ -6561,7 +7001,7 @@ export const indexArray =`[
      ],
      [
           "Snp3.10",
-          "hell",
+          "hell (niraya)",
           "lifespan in"
      ],
      [
@@ -6581,13 +7021,13 @@ export const indexArray =`[
      ],
      [
           "Snp3.10",
-          "hell",
+          "hell (niraya)",
           "actions that lead to"
      ],
      [
           "Snp3.10",
-          "hell",
-          "life in"
+          "hell (niraya)",
+          "torture in"
      ],
      [
           "Snp3.11",
@@ -7421,7 +7861,7 @@ export const indexArray =`[
      ],
      [
           "Thag1.73",
-          "divine messengers",
+          "divine messengers (devadūta)",
           ""
      ],
      [
@@ -9006,7 +9446,7 @@ export const indexArray =`[
      ],
      [
           "Thig16.1",
-          "hell",
+          "hell (niraya)",
           "going forth is not possible"
      ],
      [
@@ -10865,6 +11305,11 @@ export const indexArray =`[
           ""
      ],
      [
+          "xref abodes of beings",
+          "worlds",
+          ""
+     ],
+     [
           "xref actions (kamma)",
           "kamma",
           ""
@@ -11065,6 +11510,11 @@ export const indexArray =`[
           ""
      ],
      [
+          "xref eating in moderation",
+          "eating",
+          ""
+     ],
+     [
           "xref escape (nissaraṇa) ",
           "nissaraṇa ",
           ""
@@ -11117,6 +11567,16 @@ export const indexArray =`[
      [
           "xref generosity (cāga) ",
           "cāga ",
+          ""
+     ],
+     [
+          "xref ghost realm",
+          "abodes of beings",
+          ""
+     ],
+     [
+          "xref ghosts",
+          "ghost realm",
           ""
      ],
      [
@@ -11190,8 +11650,18 @@ export const indexArray =`[
           ""
      ],
      [
+          "xref heart’s release (cetovimutti)",
+          "freedom of heart",
+          ""
+     ],
+     [
           "xref heart’s release (cetovimutti) ",
           "cetovimutti ",
+          ""
+     ],
+     [
+          "xref heavenly realms",
+          "abodes of beings",
           ""
      ],
      [
@@ -11471,7 +11941,7 @@ export const indexArray =`[
      ],
      [
           "xref wrong views",
-          "hell",
+          "hell (niraya)",
           ""
      ]
 ]`

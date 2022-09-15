@@ -168,6 +168,11 @@ App {
   color: var(--offwhite)
 }
 
+.filter-input-box:focus::placeholder {
+
+  color: black
+}
+
 .radio-items {
   margin-top: 1rem
 }
