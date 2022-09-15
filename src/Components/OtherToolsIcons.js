@@ -1,5 +1,6 @@
 // Just the row of buttons for other tools
 
+import citationHelperIcon from "../images/favicon-citaton-helper-black.png";
 import dppnIcon from "../images/favicon-dppn-black.png";
 import nameLookup from "../images/favicon-name-black.png";
 import pedIcon from "../images/favicon-ped-black.png";
@@ -19,25 +20,32 @@ export default function OtherToolsIcons() {
         rel="noreferrer"
         target="_blank"
       >
-        <img className="icons" width="20px" src={rfIcon} alt="ReadingFaithfully.org icon" />
-      </a>
-      <a href="http://daily.readingfaithfully.org" title="Daily Suttas" rel="noreferrer" target="_blank">
-        <img className="icons" width="20px" src={drfIcon} alt="Daily.ReadingFaithfully.org icon" />
-      </a>
-      <a href="http://r.readingfaithfully.org" title="Random Suttas" rel="noreferrer" target="_blank">
-        <img className="icons" width="20px" src={randomIcon} alt="R.ReadingFaithfully.org icon" />
-      </a>
-      <a href="https://name.readingfaithfully.org" title="Sutta Name Lookup Tool" rel="noreferrer" target="_blank">
-        <img className="icons" width="20px" src={nameLookup} alt="Sutta Name Lookup tool icon" />
+        <img className="icon" width="20px" src={rfIcon} alt="ReadingFaithfully.org icon" />
       </a>
       <a
-        className="icons"
+        href="http://sutta.readingfaithfully.org"
+        title="Look up suttas on web by citation"
+        rel="noreferrer"
+        target="_blank"
+      >
+        <img className="icon" width="20px" src={citationHelperIcon} alt="ReadingFaithfully.org icon" />
+      </a>
+      <a href="http://daily.readingfaithfully.org" title="Daily Suttas" rel="noreferrer" target="_blank">
+        <img className="icon" width="20px" src={drfIcon} alt="Daily.ReadingFaithfully.org icon" />
+      </a>
+      <a href="http://r.readingfaithfully.org" title="Random Suttas" rel="noreferrer" target="_blank">
+        <img className="icon" width="20px" src={randomIcon} alt="R.ReadingFaithfully.org icon" />
+      </a>
+      <a href="https://name.readingfaithfully.org" title="Sutta Name Lookup Tool" rel="noreferrer" target="_blank">
+        <img className="icon" width="20px" src={nameLookup} alt="Sutta Name Lookup tool icon" />
+      </a>
+      <a
         href="https://ped.readingfaithfully.org"
         title="Lightweight interface for the Pali English Dictionary"
         rel="noreferrer"
         target="_blank"
       >
-        <img className="icons" width="20px" src={pedIcon} alt="Lightweight PED lookup icon" />
+        <img className="icon" width="20px" src={pedIcon} alt="Lightweight PED lookup icon" />
       </a>
       <a
         href="https://sc.readingfaithfully.org"
@@ -45,7 +53,7 @@ export default function OtherToolsIcons() {
         rel="noreferrer"
         target="_blank"
       >
-        <img className="icons" width="20px" src={scLight} alt="SuttaCentral.org Lightweight interface icon" />
+        <img className="icon" width="20px" src={scLight} alt="SuttaCentral.org Lightweight interface icon" />
       </a>
       <a
         href="https://dppn.readingfaithfully.org"
@@ -53,7 +61,7 @@ export default function OtherToolsIcons() {
         rel="noreferrer"
         target="_blank"
       >
-        <img className="icons" width="20px" src={dppnIcon} alt="DPPN search icon" />
+        <img className="icon" width="20px" src={dppnIcon} alt="DPPN search icon" />
       </a>
       <a
         href="https://readingfaithfully.org/lab/"
@@ -63,7 +71,7 @@ export default function OtherToolsIcons() {
         className="labs"
       >
         <img
-          className="icons"
+          className="icon"
           width="17px"
           src={labsIcon}
           style={{ position: "relative", top: "2px" }}
@@ -71,12 +79,12 @@ export default function OtherToolsIcons() {
         />
       </a>
       <a
-        href="https://github.com/thesunshade/citation-helper#readme"
+        href="https://github.com/thesunshade/sutta-index#readme"
         title="The source code for this site"
         rel="noreferrer"
         target="_blank"
       >
-        <img className="icons" width="20px" src={githubIcon} alt="GitHub icon" />
+        <img className="icon" width="20px" src={githubIcon} alt="GitHub icon" />
       </a>
     </div>
   );

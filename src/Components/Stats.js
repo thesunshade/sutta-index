@@ -9,27 +9,24 @@ export default function Stats() {
   return (
     <>
       <div className="stats">
+        <div className="settings-notice">Stats:</div>
         <div className="row-1">
           <div>
-            Number of headwords: <span className="number">{headwords.length}</span>
+            Number of headwords: <span className="answer">{headwords.length}</span>
           </div>
           <div>
-            Number of locators: <span className="number">{index.length}</span>
+            Number of locators: <span className="answer">{index.length}</span>
           </div>
-          <a
-            href="https://github.com/thesunshade/sutta-index#readme"
-            title="The source code for this site"
-            rel="noreferrer"
-            target="_blank"
-          >
-            <img className="icon" width="20px" src={githubIcon} alt="GitHub icon" />
-          </a>
         </div>
-      </div>
-      <div className="row-2">
-        Complete Books: Kp, Dhp, Ud, Iti, Snp, Vv, Pv, Thag, Thig
-        <br />
-        Planned Books: DN, MN, SN, AN
+
+        <div className="row-2">
+          <div>
+            Complete Books: <span className="answer">Kp, Dhp, Ud, Iti, Snp, Vv, Pv, Thag, Thig</span>
+          </div>
+          <div>
+            Planned Books: <span className="answer">DN, MN, SN, AN</span>
+          </div>
+        </div>
       </div>
     </>
   );
