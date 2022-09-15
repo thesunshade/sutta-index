@@ -254,11 +254,12 @@ export const indexObject =`{
                ],
                "xrefs": []
           },
-          "faith and": {
+          "faith and giving": {
                "locators": [
                     "SN1.33",
                     "SN1.43",
                     "SN2.23",
+                    "AN3.41",
                     "AN3.42"
                ],
                "xrefs": []
@@ -591,6 +592,7 @@ export const indexObject =`{
           },
           "worthy of gifts": {
                "locators": [
+                    "AN3.41",
                     "Snp3.4",
                     "Snp3.5"
                ],
@@ -1273,6 +1275,12 @@ export const indexObject =`{
                     "AN3.26"
                ],
                "xrefs": []
+          },
+          "conversation flows when people understand": {
+               "locators": [
+                    "AN3.44"
+               ],
+               "xrefs": []
           }
      },
      "false speech": {
@@ -1456,6 +1464,12 @@ export const indexObject =`{
           "remembering": {
                "locators": [
                     "AN3.30"
+               ],
+               "xrefs": []
+          },
+          "people of faith like to": {
+               "locators": [
+                    "AN3.42"
                ],
                "xrefs": []
           }
@@ -2535,6 +2549,12 @@ export const indexObject =`{
                     "Thig5.9"
                ],
                "xrefs": []
+          },
+          "by supporting mendicants": {
+               "locators": [
+                    "AN3.46"
+               ],
+               "xrefs": []
           }
      },
      "determination": {
@@ -2618,6 +2638,12 @@ export const indexObject =`{
           "harming": {
                "locators": [
                     "Pv29"
+               ],
+               "xrefs": []
+          },
+          "caring for recommended by the wise": {
+               "locators": [
+                    "AN3.45"
                ],
                "xrefs": []
           }
@@ -3040,6 +3066,12 @@ export const indexObject =`{
           "with superior people causes one to improve": {
                "locators": [
                     "AN3.26"
+               ],
+               "xrefs": []
+          },
+          "with virtuous people": {
+               "locators": [
+                    "AN3.42"
                ],
                "xrefs": []
           }
@@ -3691,6 +3723,12 @@ export const indexObject =`{
                "locators": [
                     "Thag3.8",
                     "Thag3.13"
+               ],
+               "xrefs": []
+          },
+          "motivation for": {
+               "locators": [
+                    "AN3.43"
                ],
                "xrefs": []
           }
@@ -6670,6 +6708,12 @@ export const indexObject =`{
                     "Thig16.1"
                ],
                "xrefs": []
+          },
+          "recommended by the wise": {
+               "locators": [
+                    "AN3.45"
+               ],
+               "xrefs": []
           }
      },
      "lay life": {
@@ -8368,7 +8412,7 @@ export const indexObject =`{
                "xrefs": []
           }
      },
-     "“all”, the": {
+     "“all”, the (sabba)": {
           "": {
                "locators": [
                     "Iti7"
@@ -8502,6 +8546,12 @@ export const indexObject =`{
                     "Iti34"
                ],
                "xrefs": []
+          },
+          "to prevent bad, develop good, and endure pain": {
+               "locators": [
+                    "AN3.49"
+               ],
+               "xrefs": []
           }
      },
      "urgency (saṁvega)": {
@@ -8612,6 +8662,12 @@ export const indexObject =`{
           "seen as dart": {
                "locators": [
                     "Iti53"
+               ],
+               "xrefs": []
+          },
+          "enduring": {
+               "locators": [
+                    "AN3.49"
                ],
                "xrefs": []
           }
@@ -10730,6 +10786,12 @@ export const indexObject =`{
                     "Thag10.1"
                ],
                "xrefs": []
+          },
+          "grows in faith, virtue, and wisdom": {
+               "locators": [
+                    "AN3.48"
+               ],
+               "xrefs": []
           }
      },
      "Suddhodana, king": {
@@ -11915,6 +11977,46 @@ export const indexObject =`{
           "guarding ones behaviour for fear of mind readers": {
                "locators": [
                     "AN3.40"
+               ],
+               "xrefs": []
+          }
+     },
+     "characteristics (lakkhaṇa)": {
+          "of conditioned phenomena": {
+               "locators": [
+                    "AN3.47"
+               ],
+               "xrefs": []
+          }
+     },
+     "arising, vanishing, and change (uppādo, vayo, aññathatta)": {
+          "": {
+               "locators": [
+                    "AN3.47"
+               ],
+               "xrefs": []
+          }
+     },
+     "conditioned (saṅkhatata)": {
+          "characteristics": {
+               "locators": [
+                    "AN3.47"
+               ],
+               "xrefs": []
+          }
+     },
+     "unconditioned (asaṅkhata)": {
+          "characteristics": {
+               "locators": [
+                    "AN3.47"
+               ],
+               "xrefs": []
+          }
+     },
+     "sal tree": {
+          "supported by Himalayas like family supported by head with faith": {
+               "locators": [
+                    "AN3.48"
                ],
                "xrefs": []
           }

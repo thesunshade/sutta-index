@@ -3,6 +3,7 @@ import SuttaIndex from "./Components/SuttaIndex.js";
 import Stats from "./Components/Stats.js";
 import OtherToolsIcons from "./Components/OtherToolsIcons.js";
 import LocatorSortedTable from "./Components/LocatorSortedTable.js";
+import Alphabet from "./Components/Alphabet.js";
 import { useState, createContext } from "react";
 import settingsIcon from "./images/settings.png";
 import xIcon from "./images/30632_close_cross_x_icon.png";
@@ -106,6 +107,7 @@ function App() {
             ></img>
           </div>
         </div>
+        <Alphabet />
         <div id="options-area" className="options-area hidden">
           <label className="table-view">
             <button

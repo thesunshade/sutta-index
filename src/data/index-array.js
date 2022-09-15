@@ -745,6 +745,16 @@ export const indexArray =`[
           "conditions for"
      ],
      [
+          "AN3.41",
+          "giving (dāna)",
+          "faith and giving"
+     ],
+     [
+          "AN3.41",
+          "giving (dāna)",
+          "worthy of gifts"
+     ],
+     [
           "AN3.42",
           "generosity (cāga)",
           "as a sign of faith"
@@ -752,12 +762,87 @@ export const indexArray =`[
      [
           "AN3.42",
           "giving (dāna)",
-          "faith and"
+          "faith and giving"
+     ],
+     [
+          "AN3.42",
+          "association",
+          "with virtuous people"
+     ],
+     [
+          "AN3.42",
+          "listening to Dhamma",
+          "people of faith like to"
+     ],
+     [
+          "AN3.43",
+          "Dhamma teaching",
+          "motivation for"
+     ],
+     [
+          "AN3.44",
+          "Dhamma discussion",
+          "conversation flows when people understand"
      ],
      [
           "AN3.45",
           "giving (dāna)",
           "taught by the wise"
+     ],
+     [
+          "AN3.45",
+          "going forth (pabbajja)",
+          "recommended by the wise"
+     ],
+     [
+          "AN3.45",
+          "parents",
+          "caring for recommended by the wise"
+     ],
+     [
+          "AN3.46",
+          "merit (puññā)",
+          "by supporting mendicants"
+     ],
+     [
+          "AN3.47",
+          "characteristics (lakkhaṇa)",
+          "of conditioned phenomena"
+     ],
+     [
+          "AN3.47",
+          "arising, vanishing, and change (uppādo, vayo, aññathatta)",
+          ""
+     ],
+     [
+          "AN3.47",
+          "conditioned (saṅkhatata)",
+          "characteristics"
+     ],
+     [
+          "AN3.47",
+          "unconditioned (asaṅkhata)",
+          "characteristics"
+     ],
+     [
+          "AN3.48",
+          "sal tree",
+          "supported by Himalayas like family supported by head with faith"
+     ],
+     [
+          "AN3.48",
+          "family",
+          "grows in faith, virtue, and wisdom"
+     ],
+     [
+          "AN3.49",
+          "painful feelings",
+          "enduring"
+     ],
+     [
+          "AN3.49",
+          "keenness (ātāpi)",
+          "to prevent bad, develop good, and endure pain"
      ],
      [
           "AN3.5",
@@ -4126,7 +4211,7 @@ export const indexArray =`[
      ],
      [
           "Iti7",
-          "“all”, the",
+          "“all”, the (sabba)",
           ""
      ],
      [
@@ -5937,7 +6022,7 @@ export const indexArray =`[
      [
           "SN1.33",
           "giving (dāna)",
-          "faith and"
+          "faith and giving"
      ],
      [
           "SN1.33",
@@ -5997,7 +6082,7 @@ export const indexArray =`[
      [
           "SN1.43",
           "giving (dāna)",
-          "faith and"
+          "faith and giving"
      ],
      [
           "SN1.43",
@@ -6092,7 +6177,7 @@ export const indexArray =`[
      [
           "SN2.23",
           "giving (dāna)",
-          "faith and"
+          "faith and giving"
      ],
      [
           "SN2.23",
