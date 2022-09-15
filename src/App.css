@@ -1,8 +1,11 @@
 :root {
   --indent: 1.5rem;
   --mobile-indent: .5rem;
-  --primary: #ff9100;
-  --dark-primary: #732d04;
+  /* --primary: #ff9100; */
+  /* --primary: #ff5b03; */
+  --primary: #ee7121;
+  --dark-primary: #481213;
+  /* --dark-primary: #732d04; */
   --offwhite: #fff9f1;
   --offblack: rgb(21, 13, 1);
 }
@@ -30,7 +33,6 @@
   font-weight: normal;
   font-style: italic;
 }
-
 
 @font-face {
   font-family: "Fira Sans ExtraCompressed";
@@ -82,14 +84,21 @@ App {
   width: 100vw;
 }
 
+.icon {
+  filter: brightness(0);
+}
 
+.dark .icon {
+  filter: brightness(1);
+  filter: invert(100%);
+}
 
 .settings-bar {
   background-color: var(--primary);
   position: sticky;
   top: 0;
   width: 100%;
-  z-index: 100;
+  /* z-index: 100; */
   padding: .5rem;
   display: flex;
   flex-direction: column;
@@ -102,8 +111,6 @@ App {
 .dark .settings-bar {
   background-color: var(--dark-primary);
 }
-
-
 
 .top-row {
   display: flex;
@@ -141,29 +148,24 @@ App {
   padding: .2rem 1.5rem .2rem .2rem;
   background-color: transparent;
   margin-left: .5rem;
-
-}
-
-.icon {
-  filter: brightness(0);
-}
-
-.dark .icon {
-  filter: brightness(1);
-  filter: invert(100%);
+  color: var(--offwhite)
 }
 
 .dark .filter-input-box {
+  border-color: var(--offwhite);
   background-color: var(--dark-primary);
+
 }
 
 .filter-input-box:focus {
   outline: none;
   background-color: rgb(255, 243, 226);
+  color: black
 }
 
 .filter-input-box::placeholder {
   font-style: italic;
+  color: var(--offwhite)
 }
 
 .radio-items {
@@ -288,7 +290,8 @@ a:visited {
   margin-top: 1rem;
   padding: .5rem;
   line-height: 1.6rem;
-  border: solid 1px black
+  border: solid 1px black;
+  max-width: 29rem
 }
 
 .row-1 {
