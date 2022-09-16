@@ -14,11 +14,11 @@ export default function LocatorSortedTable() {
 
   return (
     <table className="locator-sorted-table">
-      <colgroup>
-        <col className="first-col" />
-        <col />
-        <col />
-      </colgroup>
+      <thead>
+        <th className="first-column">Citation</th>
+        <th className="second-column">Keyword</th>
+        <th className="third-column">SubHead</th>
+      </thead>
       <tbody>{table}</tbody>
     </table>
   );

@@ -235,8 +235,9 @@ try {
 let locatorFirstArray = [];
 
 for (let i = 0; i < rawIndexArray.length - 1; i++) {
-  // console.log(rawIndexArray[i][2].replace(/\r/, ""));
-  locatorFirstArray.push([rawIndexArray[i][2].replace(/\r/, ""), rawIndexArray[i][0], rawIndexArray[i][1]]);
+  if (!/xref/.test(rawIndexArray[i][2])) {
+    locatorFirstArray.push([rawIndexArray[i][2].replace(/\r/, ""), rawIndexArray[i][0], rawIndexArray[i][1]]);
+  }
 }
 
 locatorFirstArray.sort((a, b) => {

@@ -855,6 +855,76 @@ export const indexArray =`[
           ""
      ],
      [
+          "AN3.50",
+          "thief",
+          "as metaphor for bad monastic"
+     ],
+     [
+          "AN3.50",
+          "monastic life",
+          "wrongly practiced"
+     ],
+     [
+          "AN3.51",
+          "old age",
+          "regret at end of life over not practicing"
+     ],
+     [
+          "AN3.51",
+          "regret",
+          "over life poorly lived"
+     ],
+     [
+          "AN3.52",
+          "old age",
+          "regret at end of life over not practicing"
+     ],
+     [
+          "AN3.52",
+          "regret",
+          "over life poorly lived"
+     ],
+     [
+          "AN3.52",
+          "giving (dāna)",
+          "like rescuing pot from fire"
+     ],
+     [
+          "AN3.52",
+          "giving (dāna)",
+          "protects our next life"
+     ],
+     [
+          "AN3.53",
+          "Dhamma visible here and now (sandiṭṭiko)",
+          "definition"
+     ],
+     [
+          "AN3.53",
+          "unwholesome roots (rāga, dosa, moha)",
+          "revealing “visible here and now” quality of the Dhamma"
+     ],
+     [
+          "AN3.54",
+          "Dhamma visible here and now (sandiṭṭiko)",
+          "definition"
+     ],
+     [
+          "AN3.54",
+          "unwholesome roots (rāga, dosa, moha)",
+          "revealing “visible here and now” quality of the Dhamma"
+     ],
+     [
+          "AN3.55",
+          "nibbāna visible here and now (sandiṭṭiko)",
+          "definition"
+     ],
+     [
+          "AN3.56",
+          "population decline",
+          "reason for"
+     ],
+     [
           "AN3.57",
           "giving (dāna)",
           "levels of"
@@ -880,6 +950,71 @@ export const indexArray =`[
           "whom to give to"
      ],
      [
+          "AN3.57",
+          "giving (dāna)",
+          "“Gifts should only be given to the Buddha”"
+     ],
+     [
+          "AN3.57",
+          "giving (dāna)",
+          "preventing"
+     ],
+     [
+          "AN3.57",
+          "giving (dāna)",
+          "even to small creatures in water"
+     ],
+     [
+          "AN3.57",
+          "giving (dāna)",
+          "smallest gift has value"
+     ],
+     [
+          "AN3.57",
+          "giving (dāna)",
+          "to virtuous people"
+     ],
+     [
+          "AN3.57",
+          "Vacchagotta, wanderer",
+          "asking about giving"
+     ],
+     [
+          "AN3.58",
+          "Tikaṇṇa, brahmin",
+          "asking about triple knowledge"
+     ],
+     [
+          "AN3.58",
+          "knowledges, three",
+          ""
+     ],
+     [
+          "AN3.58",
+          "Jāṇussoṇi, brahmin",
+          "asking about triple knowledge"
+     ],
+     [
+          "AN3.58",
+          "brahmins",
+          "brahmins’ triple knowledge"
+     ],
+     [
+          "AN3.59",
+          "brahmins",
+          "brahmins’ triple knowledge"
+     ],
+     [
+          "AN3.59",
+          "sacrifices (yañña)",
+          "whom to offer to"
+     ],
+     [
+          "AN3.59",
+          "knowledges, three",
+          ""
+     ],
+     [
           "AN3.6",
           "fools",
           "characteristics"
@@ -890,9 +1025,164 @@ export const indexArray =`[
           "characteristics"
      ],
      [
+          "AN3.60",
+          "Saṅghārava, brahmin",
+          "asking how mendicants benefit others"
+     ],
+     [
+          "AN3.60",
+          "mendicants",
+          "benefiting the world"
+     ],
+     [
+          "AN3.60",
+          "going forth (pabbajja)",
+          "benefiting the world"
+     ],
+     [
+          "AN3.60",
+          "Ānanda, Ven",
+          "interrogating a brahmin about beneficial practice"
+     ],
+     [
+          "AN3.60",
+          "psychic powers",
+          "demonstration of"
+     ],
+     [
+          "AN3.60",
+          "demonstrations",
+          "three kinds"
+     ],
+     [
+          "AN3.60",
+          "mind reading",
+          "description of"
+     ],
+     [
+          "AN3.60",
+          "Dhamma teaching",
+          "as best kind of demonstration"
+     ],
+     [
+          "AN3.61",
+          "Dhamma",
+          "as irrefutable"
+     ],
+     [
+          "AN3.61",
+          "views of other sects",
+          "all results are because of past deeds"
+     ],
+     [
+          "AN3.61",
+          "views of other sects",
+          "all results are because of God"
+     ],
+     [
+          "AN3.61",
+          "views of other sects",
+          "all results are because of chance"
+     ],
+     [
+          "AN3.61",
+          "Dhamma",
+          "various aspects of"
+     ],
+     [
+          "AN3.61",
+          "elements",
+          "six"
+     ],
+     [
+          "AN3.61",
+          "mental preocupations (manopavicārāti)",
+          ""
+     ],
+     [
+          "AN3.61",
+          "dependent origination",
+          "as second noble truth"
+     ],
+     [
+          "AN3.62",
+          "perils (bhaya)",
+          "that separate mother and child"
+     ],
+     [
+          "AN3.62",
+          "noble eightfold path",
+          "as practice to remove perils of old age, etc"
+     ],
+     [
+          "AN3.62",
+          "old age, sickness, and death",
+          "as perils removed by noble eightfold path"
+     ],
+     [
           "AN3.63",
           "loving-kindness (mettā)",
           ""
+     ],
+     [
+          "AN3.63",
+          "Buddha, the",
+          "reputation definition"
+     ],
+     [
+          "AN3.63",
+          "luxuries",
+          "not allowed for mendicants"
+     ],
+     [
+          "AN3.63",
+          "gods",
+          "“luxurious beds” of"
+     ],
+     [
+          "AN3.63",
+          "brahmās",
+          "“luxurious beds” of"
+     ],
+     [
+          "AN3.63",
+          "noble ones (ariya)",
+          "“luxurious beds” of"
+     ],
+     [
+          "AN3.63",
+          "brahmaviharas",
+          "as “luxurious bed” of brahmās"
+     ],
+     [
+          "AN3.63",
+          "jhānas",
+          "as “luxurious bed” of gods"
+     ],
+     [
+          "AN3.63",
+          "unwholesome roots (rāga, dosa, moha)",
+          "removal of is “luxurious bed” of noble ones"
+     ],
+     [
+          "AN3.64",
+          "Sarabha, wanderer",
+          "false claims"
+     ],
+     [
+          "AN3.64",
+          "lions roar",
+          "of the Buddha"
+     ],
+     [
+          "AN3.64",
+          "false claims about the Buddha",
+          ""
+     ],
+     [
+          "AN3.64",
+          "false spiritual claims",
+          "to have learned the teachings"
      ],
      [
           "AN3.65",
@@ -900,9 +1190,114 @@ export const indexArray =`[
           "to gain the four assurances"
      ],
      [
+          "AN3.65",
+          "Kālāmas, people ",
+          ""
+     ],
+     [
+          "AN3.65",
+          "Kesamutta, town ",
+          ""
+     ],
+     [
+          "AN3.65",
+          "oral tradition (anussava)",
+          "going by"
+     ],
+     [
+          "AN3.65",
+          "lineage (paramparāya)",
+          "going by"
+     ],
+     [
+          "AN3.65",
+          "logic (takkahetu)",
+          "going by"
+     ],
+     [
+          "AN3.65",
+          "unwholesome roots (lobha, dosa, moha)",
+          "causes visible harm in a person"
+     ],
+     [
+          "AN3.65",
+          "blamed by the wise (viññugarahita)",
+          ""
+     ],
+     [
+          "AN3.65",
+          "skillfulness and unskillfulness",
+          "seeing difference between"
+     ],
+     [
+          "AN3.65",
+          "praised by the wise (viññuppasatthā)",
+          ""
+     ],
+     [
+          "AN3.65",
+          "assurances, four (assāsa)",
+          ""
+     ],
+     [
+          "AN3.66",
+          "Nandaka, Ven",
+          ""
+     ],
+     [
+          "AN3.66",
+          "unwholesome roots (lobha, dosa, moha)",
+          "as real"
+     ],
+     [
+          "AN3.66",
+          "oral tradition (anussava)",
+          "going by"
+     ],
+     [
+          "AN3.66",
+          "lineage (paramparāya)",
+          "going by"
+     ],
+     [
+          "AN3.66",
+          "logic (takkahetu)",
+          "going by"
+     ],
+     [
+          "AN3.66",
+          "unwholesome roots (lobha, dosa, moha)",
+          "causes visible harm in a person"
+     ],
+     [
+          "AN3.66",
+          "wholesome roots (alobha, adosa, amoha)",
+          "as real"
+     ],
+     [
+          "AN3.66",
+          "wholesome roots (alobha, adosa, amoha)",
+          "lead to good behavior"
+     ],
+     [
+          "AN3.66",
+          "skillfulness (kusala)",
+          "present in arahant"
+     ],
+     [
           "AN3.67",
           "loving-kindness (mettā)",
           "as a protection"
+     ],
+     [
+          "AN3.67",
+          "questions, answering ",
+          "three ways"
+     ],
+     [
+          "AN3.67",
+          "discussion",
+          "judging someone by"
      ],
      [
           "AN3.68",
@@ -913,6 +1308,76 @@ export const indexArray =`[
           "AN3.68",
           "loving-kindness (mettā)",
           "liberation of mind by"
+     ],
+     [
+          "AN3.68",
+          "unwholesome roots (rāga, dosa, moha)",
+          "difference between"
+     ],
+     [
+          "AN3.68",
+          "lust (rāga)",
+          "mildly blameworthy, slow to fade"
+     ],
+     [
+          "AN3.68",
+          "hatred (dosa)",
+          "very blameworthy, quick to fade"
+     ],
+     [
+          "AN3.68",
+          "delusion (moha)",
+          "very blameworthy, slow to fade"
+     ],
+     [
+          "AN3.68",
+          "sign of the beautiful (subhanimitta)",
+          "cause for greed"
+     ],
+     [
+          "AN3.68",
+          "feature of harshness (paṭighanimitta)",
+          "cause for hate"
+     ],
+     [
+          "AN3.68",
+          "",
+          "cause for delusion"
+     ],
+     [
+          "AN3.68",
+          "lust (rāga)",
+          "caused by sign of the beautiful"
+     ],
+     [
+          "AN3.68",
+          "hatred (dosa)",
+          "caused by feature of harshness"
+     ],
+     [
+          "AN3.68",
+          "delusion (moha)",
+          "caused by improper attention"
+     ],
+     [
+          "AN3.68",
+          "sign of the ugly (asubhanimitta)",
+          "cause for giving up lust, greed"
+     ],
+     [
+          "AN3.68",
+          "heart’s release by loving-kindness (mettā cetovimutti)",
+          "cause for giving up hatred"
+     ],
+     [
+          "AN3.68",
+          "hatred (dosa)",
+          "giving up"
+     ],
+     [
+          "AN3.68",
+          "proper attention (yoniso manasikāra)",
+          "cause for giving up delusion"
      ],
      [
           "AN3.69",
@@ -943,6 +1408,41 @@ export const indexArray =`[
           "AN3.69",
           "speech",
           "unwholesome root"
+     ],
+     [
+          "AN3.69",
+          "unwholesome roots (lobha, dosa, moha)",
+          "causing unwholesome actions"
+     ],
+     [
+          "AN3.69",
+          "unwholesome roots (lobha, dosa, moha)",
+          "like a creeper chokes a tree"
+     ],
+     [
+          "AN3.69",
+          "wholesome roots (alobha, adosa, amoha)",
+          "causing wholesome activities"
+     ],
+     [
+          "AN3.69",
+          "accusations",
+          "responding to"
+     ],
+     [
+          "AN3.69",
+          "creeper",
+          "simile for unwholesome roots"
+     ],
+     [
+          "AN3.70",
+          "uposatha",
+          ""
+     ],
+     [
+          "AN3.70",
+          "Visākhā, Migara’s mother",
+          "observing the uposatha"
      ],
      [
           "AN3.79",
@@ -2781,7 +3281,7 @@ export const indexArray =`[
      ],
      [
           "Dhp3",
-          "accusation",
+          "accusations",
           ""
      ],
      [
@@ -3411,8 +3911,8 @@ export const indexArray =`[
      ],
      [
           "Dhp7",
-          "beautiful",
-          "sign of"
+          "sign of the beautiful (subhanimitta)",
+          ""
      ],
      [
           "Dhp71",
@@ -7826,7 +8326,7 @@ export const indexArray =`[
      ],
      [
           "Thag1.33",
-          "skillfulness",
+          "skillfulness (kusala)",
           "towards all as a mother towards child"
      ],
      [
@@ -11383,650 +11883,5 @@ export const indexArray =`[
           "Vv9",
           "gifts, specific types of",
           "light"
-     ],
-     [
-          "xref “come, monk” ordination (ehi bhikkhu)",
-          "ehi bhikkhu",
-          ""
-     ],
-     [
-          "xref abodes of beings",
-          "worlds",
-          ""
-     ],
-     [
-          "xref actions (kamma)",
-          "kamma",
-          ""
-     ],
-     [
-          "xref alms food",
-          "giving (dāna)",
-          ""
-     ],
-     [
-          "xref anger (kodha)",
-          "kodha",
-          ""
-     ],
-     [
-          "xref arahant",
-          "brahmin",
-          ""
-     ],
-     [
-          "xref arrogance",
-          "pride",
-          ""
-     ],
-     [
-          "xref bad friends",
-          "friendship",
-          ""
-     ],
-     [
-          "xref Bodhisatta",
-          "Buddha, the",
-          ""
-     ],
-     [
-          "xref Bodhisatta",
-          "Buddha, the",
-          "before enlightenment"
-     ],
-     [
-          "xref body",
-          "mindfulness of body",
-          ""
-     ],
-     [
-          "xref brahmās",
-          "gods",
-          ""
-     ],
-     [
-          "xref brahmās",
-          "heaven",
-          ""
-     ],
-     [
-          "xref brahmin",
-          "arahant",
-          ""
-     ],
-     [
-          "xref charnel ground contemplation (sivathika)",
-          "cemetery contemplation",
-          ""
-     ],
-     [
-          "xref child arahants",
-          "arahant",
-          ""
-     ],
-     [
-          "xref children",
-          "boys",
-          ""
-     ],
-     [
-          "xref cloth, clean",
-          "clean cloth",
-          ""
-     ],
-     [
-          "xref concentration (samādhi)",
-          "samādhi",
-          ""
-     ],
-     [
-          "xref craving (taṇha)",
-          "taṇha",
-          ""
-     ],
-     [
-          "xref death (maraṇa)",
-          "King of death",
-          ""
-     ],
-     [
-          "xref death (maraṇa)",
-          "realm of death (maccudheyya)",
-          ""
-     ],
-     [
-          "xref death (maraṇa)",
-          "maraṇa ",
-          ""
-     ],
-     [
-          "xref deathless (amata)",
-          "amata ",
-          ""
-     ],
-     [
-          "xref defamation",
-          "speech",
-          ""
-     ],
-     [
-          "xref defilements (āsava)",
-          "āsava ",
-          ""
-     ],
-     [
-          "xref delusion (moha) ",
-          "moha ",
-          ""
-     ],
-     [
-          "xref departed relatives",
-          "merit, sharing",
-          ""
-     ],
-     [
-          "xref departed relatives",
-          "ghosts",
-          ""
-     ],
-     [
-          "xref dependent origination",
-          "death (maraṇa)",
-          ""
-     ],
-     [
-          "xref determination",
-          "resolution",
-          ""
-     ],
-     [
-          "xref devas",
-          "mansions, heavenly",
-          ""
-     ],
-     [
-          "xref devas",
-          "heavenly mansions (vimāna)",
-          ""
-     ],
-     [
-          "xref devas",
-          "gods",
-          ""
-     ],
-     [
-          "xref devas",
-          "heaven",
-          ""
-     ],
-     [
-          "xref Dhamma teaching",
-          "teaching Dhamma",
-          ""
-     ],
-     [
-          "xref disputes",
-          "speech",
-          ""
-     ],
-     [
-          "xref disputes",
-          "debates",
-          ""
-     ],
-     [
-          "xref disputes",
-          "quarrels",
-          ""
-     ],
-     [
-          "xref divine eye (dibbacakkhu) ",
-          "dibbacakkhu ",
-          ""
-     ],
-     [
-          "xref divisive speech",
-          "speech",
-          ""
-     ],
-     [
-          "xref dwellings",
-          "location",
-          ""
-     ],
-     [
-          "xref eating in moderation",
-          "eating",
-          ""
-     ],
-     [
-          "xref escape (nissaraṇa) ",
-          "nissaraṇa ",
-          ""
-     ],
-     [
-          "xref evil (pāpa)",
-          "pāpa ",
-          ""
-     ],
-     [
-          "xref faculties (indriya)",
-          "indriya ",
-          ""
-     ],
-     [
-          "xref faith (saddhā) ",
-          "saddhā ",
-          ""
-     ],
-     [
-          "xref false speech",
-          "lying",
-          ""
-     ],
-     [
-          "xref false speech",
-          "speech",
-          ""
-     ],
-     [
-          "xref fetters (saṁyojana)",
-          "saṁyojana ",
-          ""
-     ],
-     [
-          "xref friendship",
-          "loving-kindness (mettā)",
-          ""
-     ],
-     [
-          "xref friendship",
-          "association",
-          ""
-     ],
-     [
-          "xref generosity (cāga)",
-          "giving (dāna)",
-          ""
-     ],
-     [
-          "xref generosity (cāga) ",
-          "cāga ",
-          ""
-     ],
-     [
-          "xref ghost realm",
-          "abodes of beings",
-          ""
-     ],
-     [
-          "xref ghosts",
-          "ghost realm",
-          ""
-     ],
-     [
-          "xref gifts, specific types of",
-          "monastery",
-          ""
-     ],
-     [
-          "xref gifts, specific types of",
-          "giving (dāna)",
-          ""
-     ],
-     [
-          "xref giving (dāna)",
-          "generosity (cāga)",
-          ""
-     ],
-     [
-          "xref giving (dāna)",
-          "alms food",
-          ""
-     ],
-     [
-          "xref giving (dāna)",
-          "heaven",
-          ""
-     ],
-     [
-          "xref giving (dāna) ",
-          "dāna ",
-          ""
-     ],
-     [
-          "xref gods",
-          "heaven",
-          ""
-     ],
-     [
-          "xref going forth (pabbajja)",
-          "ordaining",
-          ""
-     ],
-     [
-          "xref going forth (pabbajja)",
-          "pabbajja ",
-          ""
-     ],
-     [
-          "xref good actions",
-          "good conduct",
-          ""
-     ],
-     [
-          "xref gradual instruction",
-          "giving (dāna)",
-          ""
-     ],
-     [
-          "xref greed (rāga) ",
-          "rāga ",
-          ""
-     ],
-     [
-          "xref harsh speech",
-          "speech",
-          ""
-     ],
-     [
-          "xref hatred (dosa)",
-          "dosa",
-          ""
-     ],
-     [
-          "xref heart’s release (cetovimutti)",
-          "freedom of heart",
-          ""
-     ],
-     [
-          "xref heart’s release (cetovimutti) ",
-          "cetovimutti ",
-          ""
-     ],
-     [
-          "xref heavenly realms",
-          "abodes of beings",
-          ""
-     ],
-     [
-          "xref heedfulness (appamāda)",
-          "diligence",
-          ""
-     ],
-     [
-          "xref heedfulness (appamāda)",
-          "appamāda",
-          ""
-     ],
-     [
-          "xref heedfulness (appamāda) ",
-          "appamāda ",
-          ""
-     ],
-     [
-          "xref heedlessness (pamāda) ",
-          "pamāda ",
-          ""
-     ],
-     [
-          "xref hindrances (nīvarana)",
-          "nīvarana",
-          ""
-     ],
-     [
-          "xref knowledges, three",
-          "threefold knowledge",
-          ""
-     ],
-     [
-          "xref knowledges, three",
-          "triple knowledge",
-          ""
-     ],
-     [
-          "xref learning",
-          "listening to Dhamma",
-          ""
-     ],
-     [
-          "xref listening to Dhamma",
-          "learning",
-          ""
-     ],
-     [
-          "xref loved ones",
-          "children",
-          ""
-     ],
-     [
-          "xref loving-kindness (mettā)",
-          "goodwill",
-          ""
-     ],
-     [
-          "xref loving-kindness (mettā) ",
-          "mettā ",
-          ""
-     ],
-     [
-          "xref marks of a great man",
-          "thirty-two marks",
-          ""
-     ],
-     [
-          "xref Māyā, queen Mahā",
-          "Mahā Māyā, queen",
-          ""
-     ],
-     [
-          "xref mendicant",
-          "monk",
-          ""
-     ],
-     [
-          "xref merit sharing",
-          "sharing merit",
-          ""
-     ],
-     [
-          "xref mindfulness of body",
-          "body",
-          ""
-     ],
-     [
-          "xref Moggallāna, Ven",
-          "Mahā Moggallāna",
-          ""
-     ],
-     [
-          "xref monastic life",
-          "brahmacariya",
-          ""
-     ],
-     [
-          "xref monastics",
-          "bad monastics",
-          ""
-     ],
-     [
-          "xref offerings",
-          "giving (dāna)",
-          ""
-     ],
-     [
-          "xref offerings",
-          "stupa (thupa)",
-          ""
-     ],
-     [
-          "xref offerings",
-          "relics",
-          ""
-     ],
-     [
-          "xref old age",
-          "aging",
-          ""
-     ],
-     [
-          "xref paccekabuddha",
-          "solitary Buddha",
-          ""
-     ],
-     [
-          "xref perception of ugliness (asubhasañña)",
-          "foulness of body",
-          ""
-     ],
-     [
-          "xref perception of ugliness (asubhasañña)",
-          "body",
-          ""
-     ],
-     [
-          "xref perception of ugliness (asubhasañña)",
-          "asubhasañña",
-          ""
-     ],
-     [
-          "xref perception of ugliness (asubhasañña)",
-          "unattractiveness",
-          ""
-     ],
-     [
-          "xref precepts",
-          "virtue",
-          ""
-     ],
-     [
-          "xref proper attention (yoniso manasikāra)",
-          "wise attention",
-          ""
-     ],
-     [
-          "xref proper attention (yoniso manasikāra)",
-          "yoniso manasikāra",
-          ""
-     ],
-     [
-          "xref prudence (ottāpa) ",
-          "ottāpa ",
-          ""
-     ],
-     [
-          "xref questions, answering ",
-          "speech",
-          ""
-     ],
-     [
-          "xref questions, answering ",
-          "answering questions",
-          ""
-     ],
-     [
-          "xref questions, asking",
-          "asking questions",
-          ""
-     ],
-     [
-          "xref rag-robe wearing",
-          "requisites, four",
-          ""
-     ],
-     [
-          "xref recollection of the Buddha (buddhānussati) ",
-          "buddhānussati ",
-          ""
-     ],
-     [
-          "xref recollection of the Dhamma (dhammānussati)",
-          "dhammānussati ",
-          ""
-     ],
-     [
-          "xref recollection of the Saṅgha (saṅghānussati) ",
-          "saṅghānussati ",
-          ""
-     ],
-     [
-          "xref requisites, four",
-          "monastic life",
-          ""
-     ],
-     [
-          "xref right speech (sammā vācā)",
-          "speech",
-          ""
-     ],
-     [
-          "xref right speech (sammā vācā) ",
-          "sammā vācā ",
-          ""
-     ],
-     [
-          "xref sadness",
-          "sorrow",
-          ""
-     ],
-     [
-          "xref sage (muni) ",
-          "muni ",
-          ""
-     ],
-     [
-          "xref sickness",
-          "illness",
-          ""
-     ],
-     [
-          "xref skillfulness",
-          "wholesomeness",
-          ""
-     ],
-     [
-          "xref solitary life",
-          "living alone",
-          ""
-     ],
-     [
-          "xref speech",
-          "harsh speech",
-          ""
-     ],
-     [
-          "xref stinginess",
-          "generosity (cāga)",
-          ""
-     ],
-     [
-          "xref stinginess",
-          "giving (dāna)",
-          ""
-     ],
-     [
-          "xref stupa (thupa) ",
-          "thupa ",
-          ""
-     ],
-     [
-          "xref uposatha",
-          "sabath",
-          ""
-     ],
-     [
-          "xref virtue",
-          "morality",
-          ""
-     ],
-     [
-          "xref wrong speech (micchā vacā)",
-          "speech",
-          ""
-     ],
-     [
-          "xref wrong views",
-          "hell (niraya)",
-          ""
      ]
 ]`

@@ -130,8 +130,13 @@ App {
 
 .alphabet {
   font-family: "Fira Code";
-  letter-spacing: 5px;
+  /* letter-spacing: 5px; */
   margin-bottom: .5rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  max-width: 35rem;
+
 }
 
 .alphabet a,
@@ -344,13 +349,13 @@ a:visited {
   max-width: 29rem
 }
 
-.row-1 {
+/* .row-1 {
   display: flex;
   flex-direction: row;
   column-gap: 1rem;
   max-width: 40rem;
   justify-content: flex-start;
-}
+} */
 
 .answer {
   font-weight: bold;
@@ -359,11 +364,17 @@ a:visited {
 
 .locator-sorted-table {
   border-collapse: collapse;
-  max-width: 50rem;
+  width: 40rem;
+  table-layout: fixed;
 }
 
-.first-col {
-  width: 1rem
+thead th.first-column {
+  width: 15% !important;
+}
+
+head th.second-column,
+head th.third-column {
+  width: 40% !important;
 }
 
 td,
@@ -371,6 +382,7 @@ th {
   border: 1px solid #a8a8a8;
   text-align: left;
   padding: 8px;
+
 }
 
 tr:nth-child(even) {
