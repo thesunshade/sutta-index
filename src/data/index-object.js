@@ -3254,6 +3254,12 @@ export const indexObject =`{
                     "Kp6"
                ],
                "xrefs": []
+          },
+          "qualities of": {
+               "locators": [
+                    "AN3.75"
+               ],
+               "xrefs": []
           }
      },
      "Buddha, the": {
@@ -3301,6 +3307,7 @@ export const indexObject =`{
           },
           "illness of": {
                "locators": [
+                    "AN3.73",
                     "Ud8.5",
                     "Thag2.33"
                ],
@@ -5095,6 +5102,12 @@ export const indexObject =`{
           "like diamond": {
                "locators": [
                     "AN3.25"
+               ],
+               "xrefs": []
+          },
+          "corrupted cleansed by effort": {
+               "locators": [
+                    "AN3.70"
                ],
                "xrefs": []
           }
@@ -8230,6 +8243,42 @@ export const indexObject =`{
                     "AN3.37"
                ],
                "xrefs": []
+          },
+          "of the cowherd": {
+               "locators": [
+                    "AN3.70"
+               ],
+               "xrefs": []
+          },
+          "thinking of tomorrow’s meal": {
+               "locators": [
+                    "AN3.70"
+               ],
+               "xrefs": []
+          },
+          "of the Nigaṇṭhas’": {
+               "locators": [
+                    "AN3.70"
+               ],
+               "xrefs": []
+          },
+          "in a limited way": {
+               "locators": [
+                    "AN3.70"
+               ],
+               "xrefs": []
+          },
+          "of the noble ones": {
+               "locators": [
+                    "AN3.70"
+               ],
+               "xrefs": []
+          },
+          "results in heavenly rebirth": {
+               "locators": [
+                    "AN3.70"
+               ],
+               "xrefs": []
           }
      },
      "sabath": {
@@ -10876,6 +10925,12 @@ export const indexObject =`{
                     "Thag6.2"
                ],
                "xrefs": []
+          },
+          "on uposatha": {
+               "locators": [
+                    "AN3.70"
+               ],
+               "xrefs": []
           }
      },
      "reciting Dhamma": {
@@ -10893,12 +10948,24 @@ export const indexObject =`{
                     "Thag6.2"
                ],
                "xrefs": []
+          },
+          "on uposatha": {
+               "locators": [
+                    "AN3.70"
+               ],
+               "xrefs": []
           }
      },
      "recollection of the Saṅgha (saṅghānussati)": {
           "for happiness": {
                "locators": [
                     "Thag6.2"
+               ],
+               "xrefs": []
+          },
+          "on uposatha": {
+               "locators": [
+                    "AN3.70"
                ],
                "xrefs": []
           }
@@ -11784,6 +11851,12 @@ export const indexObject =`{
                     "Thig8.1"
                ],
                "xrefs": []
+          },
+          "lifespan in": {
+               "locators": [
+                    "AN3.70"
+               ],
+               "xrefs": []
           }
      },
      "advice": {
@@ -12138,6 +12211,12 @@ export const indexObject =`{
                     "AN3.60"
                ],
                "xrefs": []
+          },
+          "unwholesome roots": {
+               "locators": [
+                    "AN3.71"
+               ],
+               "xrefs": []
           }
      },
      "causes (nidāna)": {
@@ -12213,6 +12292,18 @@ export const indexObject =`{
           "difference between": {
                "locators": [
                     "AN3.68"
+               ],
+               "xrefs": []
+          },
+          "noble eightfold path removes": {
+               "locators": [
+                    "AN3.71"
+               ],
+               "xrefs": []
+          },
+          "teaching for giving up": {
+               "locators": [
+                    "AN3.72"
                ],
                "xrefs": []
           }
@@ -12466,6 +12557,12 @@ export const indexObject =`{
                     "AN3.63"
                ],
                "xrefs": []
+          },
+          "uposatha practice": {
+               "locators": [
+                    "AN3.70"
+               ],
+               "xrefs": []
           }
      },
      "jhānas": {
@@ -12605,14 +12702,6 @@ export const indexObject =`{
                ]
           }
      },
-     "": {
-          "cause for delusion": {
-               "locators": [
-                    "AN3.68"
-               ],
-               "xrefs": []
-          }
-     },
      "unwise attention": {
           "": {
                "locators": [],
@@ -12649,6 +12738,84 @@ export const indexObject =`{
           "observing the uposatha": {
                "locators": [
                     "AN3.70"
+               ],
+               "xrefs": []
+          }
+     },
+     "recollection of virtue (sīlānussati)": {
+          "on uposatha": {
+               "locators": [
+                    "AN3.70"
+               ],
+               "xrefs": []
+          }
+     },
+     "recollection of deities (devata ānussati)": {
+          "on uposatha": {
+               "locators": [
+                    "AN3.70"
+               ],
+               "xrefs": []
+          }
+     },
+     "precepts, eight": {
+          "kept by noble disciples as a recollection on uposatha": {
+               "locators": [
+                    "AN3.70"
+               ],
+               "xrefs": []
+          }
+     },
+     "lifespans": {
+          "in heaven": {
+               "locators": [
+                    "AN3.70"
+               ],
+               "xrefs": []
+          }
+     },
+     "Mahānāma the Sakyan": {
+          "concentration and wisdom": {
+               "locators": [
+                    "AN3.73"
+               ],
+               "xrefs": []
+          }
+     },
+     "noble disciple (ariya sāvaka)": {
+          "virtue, concentration and wisdom of": {
+               "locators": [
+                    "AN3.73"
+               ],
+               "xrefs": []
+          },
+          "will not be reborn in lower worlds": {
+               "locators": [
+                    "AN3.75"
+               ],
+               "xrefs": []
+          }
+     },
+     "trainee (sekha)": {
+          "virtue, concentration and wisdom of": {
+               "locators": [
+                    "AN3.73"
+               ],
+               "xrefs": []
+          }
+     },
+     "Nigaṇṭha Nāṭaputta": {
+          "teachings of": {
+               "locators": [
+                    "AN3.74"
+               ],
+               "xrefs": []
+          }
+     },
+     "confidence (aveccappasāda)": {
+          "noble disciple with will not change": {
+               "locators": [
+                    "AN3.75"
                ],
                "xrefs": []
           }

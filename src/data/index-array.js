@@ -1341,11 +1341,6 @@ export const indexArray =`[
      ],
      [
           "AN3.68",
-          "",
-          "cause for delusion"
-     ],
-     [
-          "AN3.68",
           "lust (rāga)",
           "caused by sign of the beautiful"
      ],
@@ -1443,6 +1438,141 @@ export const indexArray =`[
           "AN3.70",
           "Visākhā, Migara’s mother",
           "observing the uposatha"
+     ],
+     [
+          "AN3.70",
+          "uposatha",
+          "of the cowherd"
+     ],
+     [
+          "AN3.70",
+          "uposatha",
+          "thinking of tomorrow’s meal"
+     ],
+     [
+          "AN3.70",
+          "uposatha",
+          "of the Nigaṇṭhas’"
+     ],
+     [
+          "AN3.70",
+          "uposatha",
+          "in a limited way"
+     ],
+     [
+          "AN3.70",
+          "uposatha",
+          "of the noble ones"
+     ],
+     [
+          "AN3.70",
+          "noble ones (ariya)",
+          "uposatha practice"
+     ],
+     [
+          "AN3.70",
+          "recollection of the Buddha (buddhānussati)",
+          "on uposatha"
+     ],
+     [
+          "AN3.70",
+          "recollection of the Dhamma (dhammānussati)",
+          "on uposatha"
+     ],
+     [
+          "AN3.70",
+          "recollection of the Saṅgha (saṅghānussati)",
+          "on uposatha"
+     ],
+     [
+          "AN3.70",
+          "recollection of virtue (sīlānussati)",
+          "on uposatha"
+     ],
+     [
+          "AN3.70",
+          "mind",
+          "corrupted cleansed by effort"
+     ],
+     [
+          "AN3.70",
+          "recollection of deities (devata ānussati)",
+          "on uposatha"
+     ],
+     [
+          "AN3.70",
+          "precepts, eight",
+          "kept by noble disciples as a recollection on uposatha"
+     ],
+     [
+          "AN3.70",
+          "uposatha",
+          "results in heavenly rebirth"
+     ],
+     [
+          "AN3.70",
+          "heavenly realms",
+          "lifespan in"
+     ],
+     [
+          "AN3.70",
+          "lifespans",
+          "in heaven"
+     ],
+     [
+          "AN3.71",
+          "Ānanda, Ven",
+          "unwholesome roots"
+     ],
+     [
+          "AN3.71",
+          "unwholesome roots (rāga, dosa, moha)",
+          "noble eightfold path removes"
+     ],
+     [
+          "AN3.72",
+          "unwholesome roots (rāga, dosa, moha)",
+          "teaching for giving up"
+     ],
+     [
+          "AN3.73",
+          "Buddha, the",
+          "illness of "
+     ],
+     [
+          "AN3.73",
+          "Mahānāma the Sakyan",
+          "concentration and wisdom"
+     ],
+     [
+          "AN3.73",
+          "noble disciple (ariya sāvaka)",
+          "virtue, concentration and wisdom of"
+     ],
+     [
+          "AN3.73",
+          "trainee (sekha)",
+          "virtue, concentration and wisdom of"
+     ],
+     [
+          "AN3.74",
+          "Nigaṇṭha Nāṭaputta",
+          "teachings of"
+     ],
+     [
+          "AN3.75",
+          "confidence (aveccappasāda)",
+          "noble disciple with will not change"
+     ],
+     [
+          "AN3.75",
+          "noble disciple (ariya sāvaka)",
+          "will not be reborn in lower worlds"
+     ],
+     [
+          "AN3.75",
+          "triple gem",
+          "qualities of"
      ],
      [
           "AN3.79",
