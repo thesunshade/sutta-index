@@ -1575,6 +1575,61 @@ export const indexArray =`[
           "qualities of"
      ],
      [
+          "AN3.76",
+          "becoming (bhava)",
+          ""
+     ],
+     [
+          "AN3.76",
+          "actions",
+          "as field"
+     ],
+     [
+          "AN3.76",
+          "consciousness (viññāṇa)",
+          "as seed"
+     ],
+     [
+          "AN3.76",
+          "craving (taṇha)",
+          "as moisture"
+     ],
+     [
+          "AN3.76",
+          "sensuous realm (kāmadhātu)",
+          "becoming "
+     ],
+     [
+          "AN3.76",
+          "form realm (rūpadhātu)",
+          "becoming "
+     ],
+     [
+          "AN3.76",
+          "formless realm (arūpadhatu)",
+          "becoming "
+     ],
+     [
+          "AN3.78",
+          "Ānanda, Ven",
+          "declared to be a trainee by the Buddha"
+     ],
+     [
+          "AN3.78",
+          "precepts and observances (sīlabbata)",
+          "fruitful when wholesome qualities grow"
+     ],
+     [
+          "AN3.78",
+          "lifestyles",
+          "fruitful when wholesome qualities grow"
+     ],
+     [
+          "AN3.78",
+          "spiritual path (brahmacariya)",
+          "fruitful when wholesome qualities grow"
+     ],
+     [
           "AN3.79",
           "reputation",
           "gained by generosity"
@@ -1583,6 +1638,201 @@ export const indexArray =`[
           "AN3.79",
           "generosity (cāga)",
           "as cause for good reputation"
+     ],
+     [
+          "AN3.79",
+          "reputation",
+          "like fragrance that goes against wind"
+     ],
+     [
+          "AN3.79",
+          "good people",
+          "praised by gods"
+     ],
+     [
+          "AN3.80",
+          "Sikhi Buddha",
+          ""
+     ],
+     [
+          "AN3.80",
+          "Abhibhū, disciple of Sikhi Buddha",
+          "voice spread through galaxy"
+     ],
+     [
+          "AN3.80",
+          "world system (lokadhātu)",
+          "size"
+     ],
+     [
+          "AN3.80",
+          "Jambudīpa (India)",
+          "one thousand in a world system"
+     ],
+     [
+          "AN3.80",
+          "Sineru, king of mountains",
+          "one thousand in a world system"
+     ],
+     [
+          "AN3.80",
+          "Realm of the Four Great Kings (cātumahārājikā)",
+          "one thousand in a world system"
+     ],
+     [
+          "AN3.80",
+          "brahmā realm (brahmalokā)",
+          "one thousand in a world system"
+     ],
+     [
+          "AN3.80",
+          "galaxies",
+          ""
+     ],
+     [
+          "AN3.80",
+          "Udāyī, Ven",
+          "questions Ven. Ānanada"
+     ],
+     [
+          "AN3.80",
+          "Ānanda, Ven",
+          "Buddha predicts will become an arahant in this life"
+     ],
+     [
+          "AN3.81",
+          "ascetic, mendicant, sage",
+          "duties of"
+     ],
+     [
+          "AN3.82",
+          "monastic life",
+          "donkey pretending to be a cow like wrongly practicing monastic"
+     ],
+     [
+          "AN3.82",
+          "monastic life",
+          "wrongly practiced"
+     ],
+     [
+          "AN3.83",
+          "mendicant",
+          "has duties like a farmer"
+     ],
+     [
+          "AN3.84",
+          "monastic rules (vinaya)",
+          "monk having difficulty following rules told to train in three things"
+     ],
+     [
+          "AN3.84",
+          "monastic rules (vinaya)",
+          "difficulty following"
+     ],
+     [
+          "AN3.85",
+          "trainee (sekha)",
+          "definition"
+     ],
+     [
+          "AN3.85",
+          "higher ethics, higher mind, higher wisdom",
+          ""
+     ],
+     [
+          "AN3.86",
+          "monastic rules (vinaya)",
+          "breaking rules"
+     ],
+     [
+          "AN3.86",
+          "monastic rules (vinaya)",
+          "not a waste"
+     ],
+     [
+          "AN3.86",
+          "monastic rules (vinaya)",
+          "partial practice, partial success"
+     ],
+     [
+          "AN3.86",
+          "higher ethics, higher mind, higher wisdom",
+          "relating to training rules"
+     ],
+     [
+          "AN3.86",
+          "monastic rules (vinaya)",
+          "fundamental rules"
+     ],
+     [
+          "AN3.86",
+          "monastic rules (vinaya)",
+          "connection to stages of enlightenment"
+     ],
+     [
+          "AN3.87",
+          "one-seeder (ekabīji)",
+          ""
+     ],
+     [
+          "AN3.87",
+          "enlightenment, stages of",
+          "in detail"
+     ],
+     [
+          "AN3.87",
+          "monastic rules (vinaya)",
+          "breaking rules"
+     ],
+     [
+          "AN3.87",
+          "monastic rules (vinaya)",
+          "not a waste"
+     ],
+     [
+          "AN3.87",
+          "monastic rules (vinaya)",
+          "partial practice, partial success"
+     ],
+     [
+          "AN3.87",
+          "higher ethics, higher mind, higher wisdom",
+          "relating to training rules"
+     ],
+     [
+          "AN3.87",
+          "monastic rules (vinaya)",
+          "difficulty following"
+     ],
+     [
+          "AN3.89",
+          "higher ethics, higher mind, higher wisdom",
+          "definition"
+     ],
+     [
+          "AN3.89",
+          "alms gathering practice",
+          "seeking in suitable places"
+     ],
+     [
+          "AN3.90",
+          "arahant",
+          "like a flame blown out"
+     ],
+     [
+          "AN3.91",
+          "mistakes",
+          "criticizing the Buddha"
+     ],
+     [
+          "AN3.91",
+          "asking forgiveness",
+          "for criticizing the Buddha"
+     ],
+     [
+          "AN3.91",
+          "monastic rules (vinaya)",
+          "Buddha giving a talk on"
      ],
      [
           "AN3.see formations(saṅkāra)",
@@ -3947,7 +4197,7 @@ export const indexArray =`[
      [
           "Dhp54",
           "reputation",
-          "simile of fragrance"
+          "like fragrance that goes against wind"
      ],
      [
           "Dhp55",
@@ -7931,7 +8181,7 @@ export const indexArray =`[
      ],
      [
           "Snp3.5",
-          "brahmā world",
+          "brahmā realm (brahmalokā)",
           "how to be reborn in"
      ],
      [

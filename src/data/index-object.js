@@ -124,8 +124,9 @@ export const indexObject =`{
                ],
                "xrefs": []
           },
-          "simile of fragrance": {
+          "like fragrance that goes against wind": {
                "locators": [
+                    "AN3.79",
                     "Dhp54"
                ],
                "xrefs": []
@@ -2778,6 +2779,12 @@ export const indexObject =`{
           "blameless": {
                "locators": [
                     "Kp5"
+               ],
+               "xrefs": []
+          },
+          "as field": {
+               "locators": [
+                    "AN3.76"
                ],
                "xrefs": []
           }
@@ -5736,6 +5743,7 @@ export const indexObject =`{
           },
           "like a flame blown out": {
                "locators": [
+                    "AN3.90",
                     "Snp5.7"
                ],
                "xrefs": []
@@ -6462,6 +6470,12 @@ export const indexObject =`{
                     "Snp1.1"
                ],
                "xrefs": []
+          },
+          "as moisture": {
+               "locators": [
+                    "AN3.76"
+               ],
+               "xrefs": []
           }
      },
      "anger (kodha)": {
@@ -6553,6 +6567,7 @@ export const indexObject =`{
      "good people": {
           "praised by gods": {
                "locators": [
+                    "AN3.79",
                     "Dhp230",
                     "Ud7.6"
                ],
@@ -6655,6 +6670,12 @@ export const indexObject =`{
           "true meaning": {
                "locators": [
                     "Dhp265–72"
+               ],
+               "xrefs": []
+          },
+          "duties of": {
+               "locators": [
+                    "AN3.81"
                ],
                "xrefs": []
           }
@@ -7054,6 +7075,7 @@ export const indexObject =`{
           "wrongly practiced": {
                "locators": [
                     "AN3.50",
+                    "AN3.82",
                     "Dhp311",
                     "Dhp313",
                     "Ud4.2",
@@ -7188,6 +7210,12 @@ export const indexObject =`{
                "locators": [
                     "Thag16.10",
                     "Thag17.1"
+               ],
+               "xrefs": []
+          },
+          "donkey pretending to be a cow like wrongly practicing monastic": {
+               "locators": [
+                    "AN3.82"
                ],
                "xrefs": []
           }
@@ -7546,6 +7574,12 @@ export const indexObject =`{
           "definition": {
                "locators": [
                     "Snp3.6"
+               ],
+               "xrefs": []
+          },
+          "has duties like a farmer": {
+               "locators": [
+                    "AN3.83"
                ],
                "xrefs": []
           }
@@ -9728,12 +9762,24 @@ export const indexObject =`{
                     "Thag2.39"
                ],
                "xrefs": []
+          },
+          "seeking in suitable places": {
+               "locators": [
+                    "AN3.89"
+               ],
+               "xrefs": []
           }
      },
-     "brahmā world": {
+     "brahmā realm (brahmalokā)": {
           "how to be reborn in": {
                "locators": [
                     "Snp3.5"
+               ],
+               "xrefs": []
+          },
+          "one thousand in a world system": {
+               "locators": [
+                    "AN3.80"
                ],
                "xrefs": []
           }
@@ -10660,6 +10706,12 @@ export const indexObject =`{
                     "AN3.4"
                ],
                "xrefs": []
+          },
+          "criticizing the Buddha": {
+               "locators": [
+                    "AN3.91"
+               ],
+               "xrefs": []
           }
      },
      "devoted to oneness (ekattanirata)": {
@@ -11072,6 +11124,58 @@ export const indexObject =`{
           "damaging plants": {
                "locators": [
                     "Thag7.5"
+               ],
+               "xrefs": []
+          },
+          "monk having difficulty following rules told to train in three things": {
+               "locators": [
+                    "AN3.84"
+               ],
+               "xrefs": []
+          },
+          "breaking rules": {
+               "locators": [
+                    "AN3.86",
+                    "AN3.87"
+               ],
+               "xrefs": []
+          },
+          "not a waste": {
+               "locators": [
+                    "AN3.86",
+                    "AN3.87"
+               ],
+               "xrefs": []
+          },
+          "partial practice, partial success": {
+               "locators": [
+                    "AN3.86",
+                    "AN3.87"
+               ],
+               "xrefs": []
+          },
+          "fundamental rules": {
+               "locators": [
+                    "AN3.86"
+               ],
+               "xrefs": []
+          },
+          "connection to stages of enlightenment": {
+               "locators": [
+                    "AN3.86"
+               ],
+               "xrefs": []
+          },
+          "difficulty following": {
+               "locators": [
+                    "AN3.84",
+                    "AN3.87"
+               ],
+               "xrefs": []
+          },
+          "Buddha giving a talk on": {
+               "locators": [
+                    "AN3.91"
                ],
                "xrefs": []
           }
@@ -12217,6 +12321,18 @@ export const indexObject =`{
                     "AN3.71"
                ],
                "xrefs": []
+          },
+          "declared to be a trainee by the Buddha": {
+               "locators": [
+                    "AN3.78"
+               ],
+               "xrefs": []
+          },
+          "Buddha predicts will become an arahant in this life": {
+               "locators": [
+                    "AN3.80"
+               ],
+               "xrefs": []
           }
      },
      "causes (nidāna)": {
@@ -12802,6 +12918,12 @@ export const indexObject =`{
                     "AN3.73"
                ],
                "xrefs": []
+          },
+          "definition": {
+               "locators": [
+                    "AN3.85"
+               ],
+               "xrefs": []
           }
      },
      "Nigaṇṭha Nāṭaputta": {
@@ -12816,6 +12938,187 @@ export const indexObject =`{
           "noble disciple with will not change": {
                "locators": [
                     "AN3.75"
+               ],
+               "xrefs": []
+          }
+     },
+     "continued existence": {
+          "": {
+               "locators": [],
+               "xrefs": [
+                    "xref becoming (bhava)"
+               ]
+          }
+     },
+     "becoming (bhava)": {
+          "": {
+               "locators": [
+                    "AN3.76"
+               ],
+               "xrefs": []
+          }
+     },
+     "consciousness (viññāṇa)": {
+          "as seed": {
+               "locators": [
+                    "AN3.76"
+               ],
+               "xrefs": []
+          }
+     },
+     "sensuous realm (kāmadhātu)": {
+          "becoming": {
+               "locators": [
+                    "AN3.76"
+               ],
+               "xrefs": []
+          }
+     },
+     "form realm (rūpadhātu)": {
+          "becoming": {
+               "locators": [
+                    "AN3.76"
+               ],
+               "xrefs": []
+          }
+     },
+     "formless realm (arūpadhatu)": {
+          "becoming": {
+               "locators": [
+                    "AN3.76"
+               ],
+               "xrefs": []
+          }
+     },
+     "precepts and observances (sīlabbata)": {
+          "fruitful when wholesome qualities grow": {
+               "locators": [
+                    "AN3.78"
+               ],
+               "xrefs": []
+          }
+     },
+     "lifestyles": {
+          "fruitful when wholesome qualities grow": {
+               "locators": [
+                    "AN3.78"
+               ],
+               "xrefs": []
+          }
+     },
+     "spiritual path (brahmacariya)": {
+          "fruitful when wholesome qualities grow": {
+               "locators": [
+                    "AN3.78"
+               ],
+               "xrefs": []
+          }
+     },
+     "Sikhi Buddha": {
+          "": {
+               "locators": [
+                    "AN3.80"
+               ],
+               "xrefs": []
+          }
+     },
+     "Abhibhū, disciple of Sikhi Buddha": {
+          "voice spread through galaxy": {
+               "locators": [
+                    "AN3.80"
+               ],
+               "xrefs": []
+          }
+     },
+     "world system (lokadhātu)": {
+          "size": {
+               "locators": [
+                    "AN3.80"
+               ],
+               "xrefs": []
+          }
+     },
+     "Jambudīpa (India)": {
+          "one thousand in a world system": {
+               "locators": [
+                    "AN3.80"
+               ],
+               "xrefs": []
+          }
+     },
+     "Sineru, king of mountains": {
+          "one thousand in a world system": {
+               "locators": [
+                    "AN3.80"
+               ],
+               "xrefs": []
+          }
+     },
+     "Realm of the Four Great Kings (cātumahārājikā)": {
+          "one thousand in a world system": {
+               "locators": [
+                    "AN3.80"
+               ],
+               "xrefs": []
+          }
+     },
+     "galaxies": {
+          "": {
+               "locators": [
+                    "AN3.80"
+               ],
+               "xrefs": []
+          }
+     },
+     "Udāyī, Ven": {
+          "questions Ven. Ānanada": {
+               "locators": [
+                    "AN3.80"
+               ],
+               "xrefs": []
+          }
+     },
+     "higher ethics, higher mind, higher wisdom": {
+          "": {
+               "locators": [
+                    "AN3.85"
+               ],
+               "xrefs": []
+          },
+          "relating to training rules": {
+               "locators": [
+                    "AN3.86",
+                    "AN3.87"
+               ],
+               "xrefs": []
+          },
+          "definition": {
+               "locators": [
+                    "AN3.89"
+               ],
+               "xrefs": []
+          }
+     },
+     "one-seeder (ekabīji)": {
+          "": {
+               "locators": [
+                    "AN3.87"
+               ],
+               "xrefs": []
+          }
+     },
+     "enlightenment, stages of": {
+          "in detail": {
+               "locators": [
+                    "AN3.87"
+               ],
+               "xrefs": []
+          }
+     },
+     "asking forgiveness": {
+          "for criticizing the Buddha": {
+               "locators": [
+                    "AN3.91"
                ],
                "xrefs": []
           }
