@@ -78,7 +78,7 @@ body.dark {
 }
 
 html {
-  scroll-padding-top: 3rem;
+  scroll-padding-top: 4rem;
   /* height of sticky header */
   background-color: var(--offwhite);
   scroll-behavior: smooth;
