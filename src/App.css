@@ -215,7 +215,8 @@ App {
 
 .filter-input-box::placeholder {
   font-style: italic;
-  color: var(--offwhite)
+  color: var(--offwhite);
+  opacity: .4
 }
 
 .filter-input-box:focus::placeholder {
