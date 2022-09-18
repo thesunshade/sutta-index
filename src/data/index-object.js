@@ -1081,7 +1081,7 @@ export const indexObject =`{
                     "MN119",
                     "SN42.13",
                     "AN3.63",
-                    "AN9.22",
+                    "AN9.20",
                     "AN10.219",
                     "AN10.220",
                     "AN11.16",
@@ -2027,6 +2027,14 @@ export const indexObject =`{
                     "AN3.67"
                ],
                "xrefs": []
+          },
+          "without faltering": {
+               "locators": [
+                    "AN3.140",
+                    "AN3.141",
+                    "AN3.142"
+               ],
+               "xrefs": []
           }
      },
      "boasting": {
@@ -2824,10 +2832,22 @@ export const indexObject =`{
                "xrefs": []
           }
      },
-     "relatives": {
+     "family": {
           "": {
                "locators": [
                     "Kp5"
+               ],
+               "xrefs": []
+          },
+          "benefited by arahant relative": {
+               "locators": [
+                    "Thag10.1"
+               ],
+               "xrefs": []
+          },
+          "grows in faith, virtue, and wisdom": {
+               "locators": [
+                    "AN3.48"
                ],
                "xrefs": []
           }
@@ -2960,6 +2980,19 @@ export const indexObject =`{
                     "Thag17.1"
                ],
                "xrefs": []
+          },
+          "leads to wholesome": {
+               "locators": [
+                    "AN1.59"
+               ],
+               "xrefs": []
+          },
+          "as very helpful": {
+               "locators": [
+                    "AN1.83",
+                    "AN1.99"
+               ],
+               "xrefs": []
           }
      },
      "respect": {
@@ -3004,7 +3037,7 @@ export const indexObject =`{
                "xrefs": []
           }
      },
-     "contentment": {
+     "contentment (santuṭṭhi)": {
           "": {
                "locators": [
                     "Kp5",
@@ -3036,6 +3069,18 @@ export const indexObject =`{
                "locators": [
                     "Thag3.4",
                     "Thag10.6"
+               ],
+               "xrefs": []
+          },
+          "leads to wholesome": {
+               "locators": [
+                    "AN1.65"
+               ],
+               "xrefs": []
+          },
+          "as very helpful": {
+               "locators": [
+                    "AN1.89"
                ],
                "xrefs": []
           }
@@ -3447,6 +3492,7 @@ export const indexObject =`{
           },
           "without counterpart": {
                "locators": [
+                    "AN1.174",
                     "Iti112"
                ],
                "xrefs": []
@@ -3557,6 +3603,24 @@ export const indexObject =`{
           "teaches with direct knowledge, reason, demonstrable base": {
                "locators": [
                     "AN3.125"
+               ],
+               "xrefs": []
+          },
+          "rarity of": {
+               "locators": [
+                    "AN1.171"
+               ],
+               "xrefs": []
+          },
+          "arising of is beneficial for all": {
+               "locators": [
+                    "AN1.170"
+               ],
+               "xrefs": []
+          },
+          "death is regreted": {
+               "locators": [
+                    "AN1.173"
                ],
                "xrefs": []
           }
@@ -3695,6 +3759,24 @@ export const indexObject =`{
           "various aspects of": {
                "locators": [
                     "AN3.61"
+               ],
+               "xrefs": []
+          },
+          "shines in the open": {
+               "locators": [
+                    "AN3.131"
+               ],
+               "xrefs": []
+          },
+          "decline, factors leading to": {
+               "locators": [
+                    "AN1.118-128"
+               ],
+               "xrefs": []
+          },
+          "continuation of, factors leading to": {
+               "locators": [
+                    "AN1.129"
                ],
                "xrefs": []
           }
@@ -3921,7 +4003,7 @@ export const indexObject =`{
                ],
                "xrefs": []
           },
-          "as best kind of demonstration": {
+          "as best kind of miracle": {
                "locators": [
                     "AN3.60"
                ],
@@ -3930,6 +4012,18 @@ export const indexObject =`{
           "by gods": {
                "locators": [
                     "AN3.127"
+               ],
+               "xrefs": []
+          },
+          "teaching non-Dhamma as very harmful": {
+               "locators": [
+                    "AN1.130-139"
+               ],
+               "xrefs": []
+          },
+          "correctly leads to continuation of Dhamma and much merit": {
+               "locators": [
+                    "AN1.140-142"
                ],
                "xrefs": []
           }
@@ -4356,7 +4450,7 @@ export const indexObject =`{
                "xrefs": []
           }
      },
-     "heaven": {
+     "heaven (sagga)": {
           "vs. kingship": {
                "locators": [
                     "Kp8"
@@ -4401,6 +4495,18 @@ export const indexObject =`{
                     "Thig16.1"
                ],
                "xrefs": []
+          },
+          "wholesome actions lead to": {
+               "locators": [
+                    "AN3.146"
+               ],
+               "xrefs": []
+          },
+          "pure mind leads to": {
+               "locators": [
+                    "AN1.44"
+               ],
+               "xrefs": []
           }
      },
      "good friends": {
@@ -4417,10 +4523,16 @@ export const indexObject =`{
                     "Kp8"
                ],
                "xrefs": []
+          },
+          "from the arising of the Buddha": {
+               "locators": [
+                    "AN1.176"
+               ],
+               "xrefs": []
           }
      },
      "paccekabuddha": {
-          "": {
+          "becoming through merit": {
                "locators": [
                     "Kp8"
                ],
@@ -4535,9 +4647,16 @@ export const indexObject =`{
           }
      },
      "intention": {
+          "precedes all": {
+               "locators": [
+                    "AN1.56",
+                    "AN1.57",
+                    "Dhp1"
+               ],
+               "xrefs": []
+          },
           "": {
                "locators": [
-                    "Dhp1",
                     "Dhp2"
                ],
                "xrefs": []
@@ -4730,12 +4849,25 @@ export const indexObject =`{
                "xrefs": []
           }
      },
-     "laziness": {
+     "laziness (kosajja)": {
           "": {
                "locators": [
                     "Dhp7",
                     "Dhp280",
                     "Thag6.7"
+               ],
+               "xrefs": []
+          },
+          "leads to unwholesome": {
+               "locators": [
+                    "AN1.60"
+               ],
+               "xrefs": []
+          },
+          "as very harmful": {
+               "locators": [
+                    "AN1.84",
+                    "AN1.100"
                ],
                "xrefs": []
           }
@@ -4783,6 +4915,12 @@ export const indexObject =`{
           "cause for greed": {
                "locators": [
                     "AN3.68"
+               ],
+               "xrefs": []
+          },
+          "cause for sense desire": {
+               "locators": [
+                    "AN1.11"
                ],
                "xrefs": []
           }
@@ -5057,6 +5195,12 @@ export const indexObject =`{
                     "Iti65"
                ],
                "xrefs": []
+          },
+          "all day long": {
+               "locators": [
+                    "AN3.155"
+               ],
+               "xrefs": []
           }
      },
      "recitation": {
@@ -5114,6 +5258,19 @@ export const indexObject =`{
           "like a monkey swinging": {
                "locators": [
                     "Thag6.5"
+               ],
+               "xrefs": []
+          },
+          "leads to unwholesome": {
+               "locators": [
+                    "AN1.58"
+               ],
+               "xrefs": []
+          },
+          "as very harmful": {
+               "locators": [
+                    "AN1.82",
+                    "AN1.98"
                ],
                "xrefs": []
           }
@@ -5309,6 +5466,103 @@ export const indexObject =`{
                     "AN3.117"
                ],
                "xrefs": []
+          },
+          "undeveloped mind is useless": {
+               "locators": [
+                    "AN1.21"
+               ],
+               "xrefs": []
+          },
+          "developed mind is workable": {
+               "locators": [
+                    "AN1.22"
+               ],
+               "xrefs": []
+          },
+          "undeveloped mind is very harmful": {
+               "locators": [
+                    "AN1.23"
+               ],
+               "xrefs": []
+          },
+          "developed mind is very beneficial": {
+               "locators": [
+                    "AN1.24"
+               ],
+               "xrefs": []
+          },
+          "undeveloped mind brings suffering": {
+               "locators": [
+                    "AN1.29"
+               ],
+               "xrefs": []
+          },
+          "developed mind brings happiness": {
+               "locators": [
+                    "AN1.30"
+               ],
+               "xrefs": []
+          },
+          "tamed mind is very beneficial": {
+               "locators": [
+                    "AN1.32"
+               ],
+               "xrefs": []
+          },
+          "wild mind is very harmful": {
+               "locators": [
+                    "AN1.31"
+               ],
+               "xrefs": []
+          },
+          "pointing wrong way like spike of rice": {
+               "locators": [
+                    "AN1.41"
+               ],
+               "xrefs": []
+          },
+          "corrupted mind leads to hell": {
+               "locators": [
+                    "AN1.43"
+               ],
+               "xrefs": []
+          },
+          "pure mind leads to heaven": {
+               "locators": [
+                    "AN1.44"
+               ],
+               "xrefs": []
+          },
+          "clouded like cloudy lake": {
+               "locators": [
+                    "AN1.45"
+               ],
+               "xrefs": []
+          },
+          "unclouded like transparent lake": {
+               "locators": [
+                    "AN1.46"
+               ],
+               "xrefs": []
+          },
+          "like workable wood": {
+               "locators": [
+                    "AN1.47"
+               ],
+               "xrefs": []
+          },
+          "quick to change": {
+               "locators": [
+                    "AN1.48"
+               ],
+               "xrefs": []
+          },
+          "as radiant but corrupted": {
+               "locators": [
+                    "AN1.49",
+                    "AN1.51"
+               ],
+               "xrefs": []
           }
      },
      "faith (saddhā)": {
@@ -5473,6 +5727,12 @@ export const indexObject =`{
                     "AN3.6"
                ],
                "xrefs": []
+          },
+          "harm themselves with bad action": {
+               "locators": [
+                    "AN3.150"
+               ],
+               "xrefs": []
           }
      },
      "solitude": {
@@ -5487,7 +5747,10 @@ export const indexObject =`{
                "locators": [
                     "Snp1.12"
                ],
-               "xrefs": []
+               "xrefs": [
+                    "xref seclusion",
+                    "xref solitary life"
+               ]
           },
           "delight in": {
                "locators": [
@@ -5599,6 +5862,18 @@ export const indexObject =`{
                     "Thag14.2"
                ],
                "xrefs": []
+          },
+          "loss of compared to wisdom": {
+               "locators": [
+                    "AN1.80"
+               ],
+               "xrefs": []
+          },
+          "growth of compared to wisdom": {
+               "locators": [
+                    "AN1.81"
+               ],
+               "xrefs": []
           }
      },
      "friendship": {
@@ -5618,7 +5893,7 @@ export const indexObject =`{
                     "Thig10.1"
                ],
                "xrefs": [
-                    "xref bad friends"
+                    "xref friends, bad"
                ]
           },
           "helps with cetovimuttiya": {
@@ -5630,12 +5905,6 @@ export const indexObject =`{
           "as external factor": {
                "locators": [
                     "Iti17"
-               ],
-               "xrefs": []
-          },
-          "bad": {
-               "locators": [
-                    "Iti89"
                ],
                "xrefs": []
           },
@@ -5678,6 +5947,18 @@ export const indexObject =`{
           "appreciating": {
                "locators": [
                     "Thig1.8"
+               ],
+               "xrefs": []
+          },
+          "qualities of a good friend": {
+               "locators": [
+                    "AN3.135"
+               ],
+               "xrefs": []
+          },
+          "good leads to wholesome": {
+               "locators": [
+                    "AN1.71"
                ],
                "xrefs": []
           }
@@ -5800,6 +6081,12 @@ export const indexObject =`{
                "locators": [
                     "AN3.3",
                     "AN3.6"
+               ],
+               "xrefs": []
+          },
+          "help themselves with good action": {
+               "locators": [
+                    "AN3.150"
                ],
                "xrefs": []
           }
@@ -6058,6 +6345,12 @@ export const indexObject =`{
                     "Thag4.5"
                ],
                "xrefs": []
+          },
+          "that are scorching": {
+               "locators": [
+                    "AN3.156"
+               ],
+               "xrefs": []
           }
      },
      "outward appearance deceiving": {
@@ -6086,13 +6379,13 @@ export const indexObject =`{
                ],
                "xrefs": []
           },
-          "simile of cranes": {
+          "like cranes in dried pond": {
                "locators": [
                     "Dhp155"
                ],
                "xrefs": []
           },
-          "simile of arrows": {
+          "like spent arrows": {
                "locators": [
                     "Dhp156"
                ],
@@ -6139,7 +6432,9 @@ export const indexObject =`{
                     "Thig14.1",
                     "Thig16.1"
                ],
-               "xrefs": []
+               "xrefs": [
+                    "xref sign of the ugly (asubhanimitta)"
+               ]
           },
           "to give up greed": {
                "locators": [
@@ -6193,6 +6488,12 @@ export const indexObject =`{
           "even gods are": {
                "locators": [
                     "Thig16.1"
+               ],
+               "xrefs": []
+          },
+          "“All conditions are impermanent.”": {
+               "locators": [
+                    "AN3.136"
                ],
                "xrefs": []
           }
@@ -6534,11 +6835,25 @@ export const indexObject =`{
                     "Ud2.4",
                     "Ud4.8"
                ],
-               "xrefs": []
+               "xrefs": [
+                    "xref envy"
+               ]
           },
           "rebirth in ghost realm": {
                "locators": [
                     "Pv15"
+               ],
+               "xrefs": []
+          },
+          "of monastic in the forest": {
+               "locators": [
+                    "Thag1.62"
+               ],
+               "xrefs": []
+          },
+          "like hell beings are of those going to heaven": {
+               "locators": [
+                    "Thag1.62"
                ],
                "xrefs": []
           },
@@ -6763,6 +7078,24 @@ export const indexObject =`{
                     "Thag6.12"
                ],
                "xrefs": []
+          },
+          "person often angry and stays long like line in stone": {
+               "locators": [
+                    "AN3.132"
+               ],
+               "xrefs": []
+          },
+          "person often angry and doesn’t stay long like line in sand": {
+               "locators": [
+                    "AN3.132"
+               ],
+               "xrefs": []
+          },
+          "person not angry like line in water": {
+               "locators": [
+                    "AN3.132"
+               ],
+               "xrefs": []
           }
      },
      "truth": {
@@ -6940,6 +7273,12 @@ export const indexObject =`{
                     "Snp5.5"
                ],
                "xrefs": []
+          },
+          "“All conditions are suffering.”": {
+               "locators": [
+                    "AN3.136"
+               ],
+               "xrefs": []
           }
      },
      "not-self": {
@@ -6952,6 +7291,12 @@ export const indexObject =`{
           "considering abuse": {
                "locators": [
                     "Ud2.4"
+               ],
+               "xrefs": []
+          },
+          "“All things are not-self.”": {
+               "locators": [
+                    "AN3.136"
                ],
                "xrefs": []
           }
@@ -7003,6 +7348,18 @@ export const indexObject =`{
           "wide": {
                "locators": [
                     "AN3.30"
+               ],
+               "xrefs": []
+          },
+          "loss of greater than loss of relatives": {
+               "locators": [
+                    "AN1.76"
+               ],
+               "xrefs": []
+          },
+          "growth of greater than growth of family": {
+               "locators": [
+                    "AN1.77"
                ],
                "xrefs": []
           }
@@ -7195,7 +7552,10 @@ export const indexObject =`{
                     "Dhp305",
                     "Snp1.3"
                ],
-               "xrefs": []
+               "xrefs": [
+                    "xref seclusion",
+                    "xref solitary life"
+               ]
           },
           "free from crowds": {
                "locators": [
@@ -7261,6 +7621,18 @@ export const indexObject =`{
           "judgement by King Yama": {
                "locators": [
                     "AN3.36"
+               ],
+               "xrefs": []
+          },
+          "unwholesome actions lead to": {
+               "locators": [
+                    "AN3.146"
+               ],
+               "xrefs": []
+          },
+          "corrupted mind leads to": {
+               "locators": [
+                    "AN1.43"
                ],
                "xrefs": []
           }
@@ -7505,7 +7877,8 @@ export const indexObject =`{
           },
           "that there is nothing wrong with sensual pleasures": {
                "locators": [
-                    "AN3.113"
+                    "AN3.113",
+                    "AN3.156"
                ],
                "xrefs": []
           }
@@ -7590,6 +7963,15 @@ export const indexObject =`{
                     "Dhp329–30",
                     "Dhp404",
                     "Ud3.9"
+               ],
+               "xrefs": [
+                    "xref seclusion",
+                    "xref solitude"
+               ]
+          },
+          "dissatisfaction with": {
+               "locators": [
+                    "Thag1.62"
                ],
                "xrefs": []
           },
@@ -7752,6 +8134,12 @@ export const indexObject =`{
                     "Dhp365"
                ],
                "xrefs": []
+          },
+          "": {
+               "locators": [],
+               "xrefs": [
+                    "xref jealousy"
+               ]
           }
      },
      "livelihood": {
@@ -7777,7 +8165,7 @@ export const indexObject =`{
                "xrefs": []
           }
      },
-     "sense desire": {
+     "sense pleasures (kāmaguṇa)": {
           "simile of iron ball": {
                "locators": [
                     "Dhp371"
@@ -7799,10 +8187,82 @@ export const indexObject =`{
                "xrefs": []
           }
      },
-     "Vinaya": {
+     "monastic rules (vinaya)": {
           "": {
                "locators": [
                     "Dhp375"
+               ],
+               "xrefs": []
+          },
+          "damaging plants": {
+               "locators": [
+                    "Thag7.5"
+               ],
+               "xrefs": []
+          },
+          "monk having difficulty following rules told to train in three things": {
+               "locators": [
+                    "AN3.84"
+               ],
+               "xrefs": []
+          },
+          "breaking rules": {
+               "locators": [
+                    "AN3.86",
+                    "AN3.87"
+               ],
+               "xrefs": []
+          },
+          "not a waste": {
+               "locators": [
+                    "AN3.86",
+                    "AN3.87"
+               ],
+               "xrefs": []
+          },
+          "partial practice, partial success": {
+               "locators": [
+                    "AN3.86",
+                    "AN3.87"
+               ],
+               "xrefs": []
+          },
+          "fundamental rules": {
+               "locators": [
+                    "AN3.86"
+               ],
+               "xrefs": []
+          },
+          "connection to stages of enlightenment": {
+               "locators": [
+                    "AN3.86"
+               ],
+               "xrefs": []
+          },
+          "difficulty following": {
+               "locators": [
+                    "AN3.84",
+                    "AN3.87"
+               ],
+               "xrefs": []
+          },
+          "Buddha giving a talk on": {
+               "locators": [
+                    "AN3.91"
+               ],
+               "xrefs": []
+          },
+          "teaching wrongly leads to decline": {
+               "locators": [
+                    "AN1.142",
+                    "AN1.150-159"
+               ],
+               "xrefs": []
+          },
+          "teaching rightly leads to continuation": {
+               "locators": [
+                    "AN1.143",
+                    "AN1.160-169"
                ],
                "xrefs": []
           }
@@ -8360,7 +8820,7 @@ export const indexObject =`{
                ],
                "xrefs": []
           },
-          "definition": {
+          "real meaning of": {
                "locators": [
                     "Snp1.7"
                ],
@@ -8661,12 +9121,24 @@ export const indexObject =`{
                "xrefs": []
           }
      },
-     "doubt": {
+     "doubt (vicikicchā)": {
           "": {
                "locators": [
                     "Ud5.7",
                     "Thag16.3",
                     "Thag19.1"
+               ],
+               "xrefs": []
+          },
+          "caused by improper attention": {
+               "locators": [
+                    "AN1.15"
+               ],
+               "xrefs": []
+          },
+          "removed by proper attention": {
+               "locators": [
+                    "AN1.20"
                ],
                "xrefs": []
           }
@@ -8985,13 +9457,36 @@ export const indexObject =`{
                     "AN3.68"
                ],
                "xrefs": []
+          },
+          "cause for removing doubt": {
+               "locators": [
+                    "AN1.20"
+               ],
+               "xrefs": []
+          },
+          "leads to wholesome": {
+               "locators": [
+                    "AN1.67"
+               ],
+               "xrefs": []
+          },
+          "leads to awakening factors": {
+               "locators": [
+                    "AN1.75"
+               ],
+               "xrefs": []
+          },
+          "as very helpful": {
+               "locators": [
+                    "AN1.91"
+               ],
+               "xrefs": []
           }
      },
      "wise attention": {
           "": {
                "locators": [],
                "xrefs": [
-                    "xref proper attention (yoniso manasikāra)",
                     "xref proper attention (yoniso manasikāra)"
                ]
           }
@@ -9525,6 +10020,28 @@ export const indexObject =`{
                "xrefs": []
           }
      },
+     "friends, bad": {
+          "": {
+               "locators": [
+                    "Iti89",
+                    "Pv43",
+                    "Pv44"
+               ],
+               "xrefs": []
+          },
+          "leads to unwholesome": {
+               "locators": [
+                    "AN1.70"
+               ],
+               "xrefs": []
+          },
+          "as very harmful": {
+               "locators": [
+                    "AN1.94"
+               ],
+               "xrefs": []
+          }
+     },
      "evil wishes": {
           "": {
                "locators": [
@@ -9557,7 +10074,7 @@ export const indexObject =`{
                "xrefs": []
           }
      },
-     "once returner": {
+     "once returner (sakadāgāmī)": {
           "attached to sense pleasure": {
                "locators": [
                     "Iti96"
@@ -9576,6 +10093,12 @@ export const indexObject =`{
           "attached to rebirth": {
                "locators": [
                     "Iti96"
+               ],
+               "xrefs": []
+          },
+          "able or unable to answer questions": {
+               "locators": [
+                    "AN3.141"
                ],
                "xrefs": []
           }
@@ -9970,8 +10493,9 @@ export const indexObject =`{
                ],
                "xrefs": []
           },
-          "loss of": {
+          "loss of compared to wisdom": {
                "locators": [
+                    "AN1.78",
                     "Thag8.1"
                ],
                "xrefs": []
@@ -9998,6 +10522,12 @@ export const indexObject =`{
           "vision to increase wealth": {
                "locators": [
                     "AN3.29"
+               ],
+               "xrefs": []
+          },
+          "growth of compared to wisdom": {
+               "locators": [
+                    "AN1.97"
                ],
                "xrefs": []
           }
@@ -10393,6 +10923,12 @@ export const indexObject =`{
                     "AN3.130"
                ],
                "xrefs": []
+          },
+          "rightly keeps rolling wheel of Dhamma": {
+               "locators": [
+                    "AN1.187"
+               ],
+               "xrefs": []
           }
      },
      "Bāvari, ascetic": {
@@ -10639,6 +11175,12 @@ export const indexObject =`{
           "encouraging others to": {
                "locators": [
                     "Vv82"
+               ],
+               "xrefs": []
+          },
+          "by body, speech and mind": {
+               "locators": [
+                    "AN3.154"
                ],
                "xrefs": []
           }
@@ -10932,15 +11474,6 @@ export const indexObject =`{
                "xrefs": []
           }
      },
-     "bad friends": {
-          "": {
-               "locators": [
-                    "Pv43",
-                    "Pv44"
-               ],
-               "xrefs": []
-          }
-     },
      "social mobility": {
           "": {
                "locators": [
@@ -11048,9 +11581,10 @@ export const indexObject =`{
                ],
                "xrefs": []
           },
-          "demonstration of": {
+          "miracle of": {
                "locators": [
-                    "AN3.60"
+                    "AN3.60",
+                    "AN3.144"
                ],
                "xrefs": []
           }
@@ -11169,6 +11703,12 @@ export const indexObject =`{
                     "AN3.129"
                ],
                "xrefs": []
+          },
+          "minds occupied by men": {
+               "locators": [
+                    "AN1.6-10"
+               ],
+               "xrefs": []
           }
      },
      "life": {
@@ -11242,7 +11782,7 @@ export const indexObject =`{
                "xrefs": []
           }
      },
-     "sleepiness": {
+     "drowsiness (middha)": {
           "": {
                "locators": [
                     "Thag2.40",
@@ -11488,66 +12028,6 @@ export const indexObject =`{
                "xrefs": []
           }
      },
-     "monastic rules (vinaya)": {
-          "damaging plants": {
-               "locators": [
-                    "Thag7.5"
-               ],
-               "xrefs": []
-          },
-          "monk having difficulty following rules told to train in three things": {
-               "locators": [
-                    "AN3.84"
-               ],
-               "xrefs": []
-          },
-          "breaking rules": {
-               "locators": [
-                    "AN3.86",
-                    "AN3.87"
-               ],
-               "xrefs": []
-          },
-          "not a waste": {
-               "locators": [
-                    "AN3.86",
-                    "AN3.87"
-               ],
-               "xrefs": []
-          },
-          "partial practice, partial success": {
-               "locators": [
-                    "AN3.86",
-                    "AN3.87"
-               ],
-               "xrefs": []
-          },
-          "fundamental rules": {
-               "locators": [
-                    "AN3.86"
-               ],
-               "xrefs": []
-          },
-          "connection to stages of enlightenment": {
-               "locators": [
-                    "AN3.86"
-               ],
-               "xrefs": []
-          },
-          "difficulty following": {
-               "locators": [
-                    "AN3.84",
-                    "AN3.87"
-               ],
-               "xrefs": []
-          },
-          "Buddha giving a talk on": {
-               "locators": [
-                    "AN3.91"
-               ],
-               "xrefs": []
-          }
-     },
      "kamma": {
           "": {
                "locators": [],
@@ -11562,20 +12042,6 @@ export const indexObject =`{
                "xrefs": [
                     "xref determination"
                ]
-          }
-     },
-     "family": {
-          "benefited by arahant relative": {
-               "locators": [
-                    "Thag10.1"
-               ],
-               "xrefs": []
-          },
-          "grows in faith, virtue, and wisdom": {
-               "locators": [
-                    "AN3.48"
-               ],
-               "xrefs": []
           }
      },
      "Suddhodana, king": {
@@ -11783,6 +12249,18 @@ export const indexObject =`{
                     "Thag16.9"
                ],
                "xrefs": []
+          },
+          "leads to wholesome": {
+               "locators": [
+                    "AN1.63"
+               ],
+               "xrefs": []
+          },
+          "as very beneficial": {
+               "locators": [
+                    "AN1.87"
+               ],
+               "xrefs": []
           }
      },
      "mind-made body (manomayena kāya)": {
@@ -11963,15 +12441,6 @@ export const indexObject =`{
                ]
           }
      },
-     "appamāda": {
-          "": {
-               "locators": [],
-               "xrefs": [
-                    "xref heedfulness (appamāda)",
-                    "xref heedfulness (appamāda)"
-               ]
-          }
-     },
      "dibbacakkhu": {
           "": {
                "locators": [],
@@ -12057,6 +12526,14 @@ export const indexObject =`{
                "locators": [],
                "xrefs": [
                     "xref heart’s release (cetovimutti)"
+               ]
+          }
+     },
+     "appamāda": {
+          "": {
+               "locators": [],
+               "xrefs": [
+                    "xref heedfulness (appamāda)"
                ]
           }
      },
@@ -12416,7 +12893,7 @@ export const indexObject =`{
                "xrefs": []
           }
      },
-     "ocean of tear": {
+     "ocean of tears": {
           "simile of": {
                "locators": [
                     "Thig16.1"
@@ -12986,10 +13463,19 @@ export const indexObject =`{
                "xrefs": []
           }
      },
-     "demonstrations": {
+     "miracles (pāṭihāriya)": {
           "three kinds": {
                "locators": [
                     "AN3.60"
+               ],
+               "xrefs": []
+          }
+     },
+     "miracle of instruction (anusāsanīpāṭihāriya)": {
+          "": {
+               "locators": [
+                    "AN3.60",
+                    "AN3.144"
                ],
                "xrefs": []
           }
@@ -13187,6 +13673,12 @@ export const indexObject =`{
                     "AN3.68"
                ],
                "xrefs": []
+          },
+          "cause for ill will (vyāpada)": {
+               "locators": [
+                    "AN1.12"
+               ],
+               "xrefs": []
           }
      },
      "ayoniso manasikāra": {
@@ -13211,6 +13703,12 @@ export const indexObject =`{
                     "AN3.68"
                ],
                "xrefs": []
+          },
+          "": {
+               "locators": [],
+               "xrefs": [
+                    "xref perception of ugliness (asubhasañña)"
+               ]
           }
      },
      "heart’s release by loving-kindness (mettā cetovimutti)": {
@@ -13529,7 +14027,8 @@ export const indexObject =`{
      "assemblies": {
           "three kinds": {
                "locators": [
-                    "AN3.95"
+                    "AN3.95",
+                    "AN3.134"
                ],
                "xrefs": []
           }
@@ -13562,6 +14061,18 @@ export const indexObject =`{
           "like cloth from Kāsi": {
                "locators": [
                     "AN3.99"
+               ],
+               "xrefs": []
+          },
+          "see things as “This is not mine, I am not this, this is not my self.”": {
+               "locators": [
+                    "AN3.133"
+               ],
+               "xrefs": []
+          },
+          "like a warrior": {
+               "locators": [
+                    "AN3.133"
                ],
                "xrefs": []
           }
@@ -13835,6 +14346,440 @@ export const indexObject =`{
           "enlightenment": {
                "locators": [
                     "AN3.130"
+               ],
+               "xrefs": []
+          }
+     },
+     "“This is not mine, I am not this, this is not my self.”": {
+          "past, present future": {
+               "locators": [
+                    "AN3.133"
+               ],
+               "xrefs": []
+          }
+     },
+     "Makkhali, teacher": {
+          "worst of all teachings, like a hair blanket": {
+               "locators": [
+                    "AN3.137"
+               ],
+               "xrefs": []
+          }
+     },
+     "accomplishments": {
+          "three types": {
+               "locators": [
+                    "AN3.138"
+               ],
+               "xrefs": []
+          }
+     },
+     "growth": {
+          "three types": {
+               "locators": [
+                    "AN3.139"
+               ],
+               "xrefs": []
+          }
+     },
+     "one beyond training (asekha)": {
+          "": {
+               "locators": [
+                    "AN3.143"
+               ],
+               "xrefs": []
+          }
+     },
+     "adept (asekha)": {
+          "": {
+               "locators": [],
+               "xrefs": [
+                    "xref one beyond training (asekha)"
+               ]
+          }
+     },
+     "demonstrations (pāṭihāriya)": {
+          "": {
+               "locators": [],
+               "xrefs": [
+                    "xref miracles (pāṭihāriya)"
+               ]
+          }
+     },
+     "right knowledge (sammā ñāṇa)": {
+          "quality of arahant": {
+               "locators": [
+                    "AN3.145"
+               ],
+               "xrefs": []
+          }
+     },
+     "right freedom (sammāvimutti)": {
+          "quality of arahant": {
+               "locators": [
+                    "AN3.145"
+               ],
+               "xrefs": []
+          }
+     },
+     "homage": {
+          "": {
+               "locators": [],
+               "xrefs": [
+                    "xref worshiping (vandati)"
+               ]
+          }
+     },
+     "middle path (majjhimā paṭipadā)": {
+          "": {
+               "locators": [
+                    "AN3.156"
+               ],
+               "xrefs": []
+          }
+     },
+     "bodhipakkhiyā dhammā": {
+          "as middle path": {
+               "locators": [
+                    "AN3.156"
+               ],
+               "xrefs": []
+          }
+     },
+     "thirty-seven aids to enlightenment": {
+          "": {
+               "locators": [],
+               "xrefs": [
+                    "xref bodhipakkhiyā dhammā"
+               ]
+          }
+     },
+     "wings to awakening": {
+          "": {
+               "locators": [],
+               "xrefs": [
+                    "xref bodhipakkhiyā dhammā"
+               ]
+          }
+     },
+     "men": {
+          "minds occupied by women": {
+               "locators": [
+                    "AN1.1-5"
+               ],
+               "xrefs": []
+          }
+     },
+     "sense desire (kāmacchanda)": {
+          "caused by sign of the beautiful": {
+               "locators": [
+                    "AN1.11"
+               ],
+               "xrefs": []
+          },
+          "removed by sign of sign of the ugly": {
+               "locators": [
+                    "AN1.16"
+               ],
+               "xrefs": []
+          }
+     },
+     "ill will (vyāpada, byāpada)": {
+          "caused by feature of harshness": {
+               "locators": [
+                    "AN1.12"
+               ],
+               "xrefs": []
+          },
+          "removed by heart’s release by loving-kindness": {
+               "locators": [
+                    "AN1.17"
+               ],
+               "xrefs": []
+          }
+     },
+     "dullness and drowsiness (thinamiddha)": {
+          "cause of": {
+               "locators": [
+                    "AN1.13"
+               ],
+               "xrefs": []
+          },
+          "cause for removing": {
+               "locators": [
+                    "AN1.18"
+               ],
+               "xrefs": []
+          }
+     },
+     "sleepiness": {
+          "": {
+               "locators": [],
+               "xrefs": [
+                    "xref drowsiness (middha)"
+               ]
+          }
+     },
+     "restlessness and remorse (uddhaccakukkucca)": {
+          "cause of": {
+               "locators": [
+                    "AN1.14"
+               ],
+               "xrefs": []
+          },
+          "cause for removing": {
+               "locators": [
+                    "AN1.19"
+               ],
+               "xrefs": []
+          }
+     },
+     "improper attention (ayoniso manasikara)": {
+          "cause of doubt": {
+               "locators": [
+                    "AN1.15"
+               ],
+               "xrefs": []
+          },
+          "leads to unwholesome": {
+               "locators": [
+                    "AN1.66"
+               ],
+               "xrefs": []
+          },
+          "prevents awakening factors": {
+               "locators": [
+                    "AN1.74"
+               ],
+               "xrefs": []
+          },
+          "as very harmful": {
+               "locators": [
+                    "AN1.90"
+               ],
+               "xrefs": []
+          }
+     },
+     "heart’s release by loving-kindness (mettā cetovimutti)": {
+          "cause for giving up ill will": {
+               "locators": [
+                    "AN1.17"
+               ],
+               "xrefs": []
+          }
+     },
+     "negligence": {
+          "": {
+               "locators": [],
+               "xrefs": [
+                    "xref heedlessness (pamāda)"
+               ]
+          }
+     },
+     "energy, stirring up (vīriyārambha)": {
+          "leads to wholesome": {
+               "locators": [
+                    "AN1.61"
+               ],
+               "xrefs": []
+          },
+          "as very helpful": {
+               "locators": [
+                    "AN1.85"
+               ],
+               "xrefs": []
+          },
+          "as helpful": {
+               "locators": [
+                    "AN1.101"
+               ],
+               "xrefs": []
+          }
+     },
+     "greed, many wishes (mahiccha)": {
+          "leads to unwholesome": {
+               "locators": [
+                    "AN1.62"
+               ],
+               "xrefs": []
+          },
+          "as very harmful": {
+               "locators": [
+                    "AN1.86"
+               ],
+               "xrefs": []
+          }
+     },
+     "discontent (asantuṭṭhi)": {
+          "leads to unwholesome": {
+               "locators": [
+                    "AN1.64"
+               ],
+               "xrefs": []
+          },
+          "as very harmful": {
+               "locators": [
+                    "AN1.88"
+               ],
+               "xrefs": []
+          }
+     },
+     "situational awareness (sampajañña)": {
+          "leads to wholesome": {
+               "locators": [
+                    "AN1.69"
+               ],
+               "xrefs": []
+          },
+          "lack of is harmful": {
+               "locators": [
+                    "AN1.92"
+               ],
+               "xrefs": []
+          },
+          "as very helpful": {
+               "locators": [
+                    "AN1.93"
+               ],
+               "xrefs": []
+          }
+     },
+     "clear comprehension": {
+          "": {
+               "locators": [],
+               "xrefs": [
+                    "xref situational awareness (sampajañña)"
+               ]
+          }
+     },
+     "sampajañña": {
+          "": {
+               "locators": [],
+               "xrefs": [
+                    "xref situational awareness (sampajañña)"
+               ]
+          }
+     },
+     "bad friends": {
+          "": {
+               "locators": [],
+               "xrefs": [
+                    "xref friends, bad"
+               ]
+          }
+     },
+     "awakening factors (bojjhaṅga)": {
+          "prevented by improper attention": {
+               "locators": [
+                    "AN1.74"
+               ],
+               "xrefs": []
+          },
+          "helped by proper attention": {
+               "locators": [
+                    "AN1.75"
+               ],
+               "xrefs": []
+          }
+     },
+     "factors of enlightenment (bojjhaṅga)": {
+          "": {
+               "locators": [],
+               "xrefs": [
+                    "xref awakening factors (bojjhaṅga)"
+               ]
+          }
+     },
+     "bojjhaṅga": {
+          "": {
+               "locators": [],
+               "xrefs": [
+                    "xref awakening factors (bojjhaṅga)"
+               ]
+          }
+     },
+     "seven factors of enlightenment": {
+          "": {
+               "locators": [],
+               "xrefs": [
+                    "xref awakening factors (bojjhaṅga)"
+               ]
+          }
+     },
+     "relatives": {
+          "": {
+               "locators": [],
+               "xrefs": [
+                    "xref family"
+               ]
+          },
+          "loss of compared to wisdom": {
+               "locators": [
+                    "AN1.76"
+               ],
+               "xrefs": []
+          },
+          "growth of compared to wisdom": {
+               "locators": [
+                    "AN1.77"
+               ],
+               "xrefs": []
+          }
+     },
+     "“should be practiced” (sikkhitabba)": {
+          "grow in wisdom": {
+               "locators": [
+                    "AN1.77",
+                    "AN1.79",
+                    "AN1.81"
+               ],
+               "xrefs": []
+          }
+     },
+     "many wishes": {
+          "": {
+               "locators": [],
+               "xrefs": [
+                    "xref greed, many wishes (mahiccha)"
+               ]
+          }
+     },
+     "friends, good": {
+          "as very helpful": {
+               "locators": [
+                    "AN1.95"
+               ],
+               "xrefs": []
+          }
+     },
+     "arousing energy": {
+          "": {
+               "locators": [],
+               "xrefs": [
+                    "xref energy, stirring up (vīriyārambha)"
+               ]
+          }
+     },
+     "stirring up energy": {
+          "": {
+               "locators": [],
+               "xrefs": [
+                    "xref energy, stirring up (vīriyārambha)"
+               ]
+          }
+     },
+     "Vinaya": {
+          "": {
+               "locators": [],
+               "xrefs": [
+                    "xref monastic rules (vinaya)"
+               ]
+          }
+     },
+     "stages of enlightenment": {
+          "from the arising of the Buddha": {
+               "locators": [
+                    "AN1.181-186"
                ],
                "xrefs": []
           }

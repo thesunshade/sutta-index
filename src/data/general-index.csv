@@ -246,7 +246,7 @@ loving-kindness (mettā)		Snp1.8
 loving-kindness (mettā)		AN3.63
 loving-kindness (mettā)		Ud5.1
 loving-kindness (mettā)		MN7
-loving-kindness (mettā)		AN9.22
+loving-kindness (mettā)		AN9.20
 loving-kindness (mettā)		Kp9
 loving-kindness (mettā)		AN10.219
 loving-kindness (mettā)		AN10.220
@@ -484,14 +484,14 @@ children	caring for	Kp5
 work		Kp5
 giving (dāna)		Kp5
 righteous conduct		Kp5
-relatives		Kp5
+family		Kp5
 actions	blameless	Kp5
 evil	abandoning	Kp5
 alcohol		Kp5
 heedfulness (appamāda)		Kp5
 respect		Kp5
 humility		Kp5
-contentment		Kp5
+contentment (santuṭṭhi)		Kp5
 gratitude		Kp5
 listening to Dhamma	timely	Kp5
 patience		Kp5
@@ -547,23 +547,23 @@ leadership		Kp8
 followers		Kp8
 sovereignty		Kp8
 wheel-turning monarchs		Kp8
-heaven	vs. kingship	Kp8
+heaven (sagga)	vs. kingship	Kp8
 merit (puññā)	as support for nibbāna	Kp8
 good friends	as result of merit	Kp8
 analytical knowledge (paṭisambhidā)		Kp8
-paccekabuddha		Kp8
+paccekabuddha	becoming through merit	Kp8
 merit (puññā)	praised by wise	Kp8
 speech	easy to speak to	Kp9
 humility	as criterion for loving-kindness	Kp9
 gentleness	as criterion for loving-kindness	Kp9
-contentment	as criterion for loving-kindness	Kp9
+contentment (santuṭṭhi)	as criterion for loving-kindness	Kp9
 business		Kp9
 blame	by the wise	Kp9
 loving-kindness (mettā)		Kp9
 meditation	postures	Kp9
 wrong view (micchā diṭṭhi)		Kp9
 virtue	as criterion for loving-kindness	Kp9
-intention		Dhp1
+intention	precedes all	Dhp1
 actions (kamma)	results and	Dhp1
 intention		Dhp2
 actions (kamma)	results and	Dhp2
@@ -575,7 +575,7 @@ non-hatred		Dhp5
 conflicts		Dhp6
 Māra	attacks the lazy	Dhp7
 Māra	simile of wind and weak tree	Dhp7
-laziness		Dhp7
+laziness (kosajja)		Dhp7
 eating	immoderation	Dhp7
 sign of the beautiful (subhanimitta)		Dhp7
 Māra	cannot attack the energetic	Dhp8
@@ -735,8 +735,8 @@ unlearned person	simile of ox	Dhp152
 first verses of Buddha		Dhp153–54
 rebirth		Dhp153–54
 holy life	rejected in youth	Dhp155–54
-old age	simile of cranes	Dhp155 
-old age	simile of arrows	Dhp156
+old age	like cranes in dried pond	Dhp155 
+old age	like spent arrows	Dhp156
 self taming		Dhp159–60
 evil actions	harming oneself	Dhp161
 results of actions	simile of diamond grinding	Dhp161
@@ -753,8 +753,8 @@ energy		Dhp168
 world	simile of bubble	Dhp170
 world	simile of mirage	Dhp170
 heedfulness (appamāda)	simile of moon	Dhp172–73
-heaven	simile of bird and net	Dhp174
-heaven	few reborn in	Dhp174
+heaven (sagga)	simile of bird and net	Dhp174
+heaven (sagga)	few reborn in	Dhp174
 lying		Dhp176
 giving (dāna)	praised by wise	Dhp177
 stream-enterers	better than heaven	Dhp178
@@ -772,14 +772,14 @@ honor	to the worthy	Dhp195–96
 merit (puññā)	by honoring	Dhp195–96
 happiness		Dhp chapter 15
 love (non-hatred)		Dhp197
-contentment		Dhp199–200
+contentment (santuṭṭhi)		Dhp199–200
 victory and defeat		Dhp201
 greed	as fire	Dhp202
 hatred (dosa)	as crime	Dhp202
 aggregates	as suffering	Dhp202
 hunger	as illness	Dhp203
 health	as blessing	Dhp204
-contentment	as wealth	Dhp204
+contentment (santuṭṭhi)	as wealth	Dhp204
 association	with wise	Dhp206–7
 association 	with fools	Dhp207
 association 	simile of moon and stars	Dhp208
@@ -829,7 +829,7 @@ self reliance		Dhp276
 impermanence		Dhp277
 suffering		Dhp278
 not-self		Dhp279
-laziness		Dhp280
+laziness (kosajja)		Dhp280
 meditation	wisdom and	Dhp282
 wisdom	meditation and	Dhp282
 attachment	simile of calf	Dhp284
@@ -867,7 +867,7 @@ self reliance	simile of elephant	Dhp327
 friendship		Dhp328
 solitary life		Dhp329–30
 friendship		Dhp331
-contentment		Dhp331
+contentment (santuṭṭhi)		Dhp331
 parents	caring for	Dhp332
 faith (saddhā)		Dhp333
 precepts		Dhp333
@@ -899,11 +899,11 @@ envy	block to concentration	Dhp365
 livelihood	monastic	Dhp366
 praise by gods		Dhp366
 loving-kindness (mettā)		Dhp368
-sense desire	simile of iron ball	Dhp371
+sense pleasures (kāmaguṇa)	simile of iron ball	Dhp371
 wisdom	concentration and	Dhp372
 concentration (samādhi)	wisdom	Dhp372
 mindfulness		Dhp374
-Vinaya		Dhp375
+monastic rules (vinaya)		Dhp375
 restraint		Dhp375
 friendship		Dhp376
 self reflection		Dhp379
@@ -1037,7 +1037,7 @@ Saṅgha	simile of ocean	Ud5.5
 going forth (pabbajja)	difficulty	Ud5.6
 ordaining		xref going forth (pabbajja)
 Chapter of the Eights		Ud5.6
-doubt		Ud5.7
+doubt (vicikicchā)		Ud5.7
 schism		Ud5.8
 good people	easy to do good	Ud5.8
 bad people	easy to do bad	Ud5.8
@@ -1202,7 +1202,7 @@ mindfulness of breathing		Iti85
 Dhamma	delight in	Iti86
 thoughts (vitakkā)	skillful and unskillful	Iti87
 unwholesome roots (lobha, dosa, moha)	as inner stains	Iti88
-friendship	bad	Iti89
+friends, bad		Iti89
 evil wishes		Iti89
 stopping when more left to do		Iti89
 harming a good person		Iti89
@@ -1219,7 +1219,7 @@ Dhamma	seeing sees the Buddha	Iti92
 Buddha, the	seeing sees the Dhamma	Iti92
 greed, hatred, delusion	as fires	Iti93
 sensual pleasures		Iti95
-once returner	attached to sense pleasure	Iti96
+once returner (sakadāgāmī)	attached to sense pleasure	Iti96
 non-returner	attached to rebirth	Iti96
 danger in slightest fault		Iti97
 virtue	definition	Iti97
@@ -1228,7 +1228,7 @@ born from mouth	disciples of Buddha	Iti100
 Buddha, the	as doctor	Iti100
 requisites, four	as trifles	Iti101
 monastic life		xref requisites, four
-contentment	with requisites	Iti101
+contentment (santuṭṭhi)	with requisites	Iti101
 heart’s release (cetovimutti)		Iti103
 release by wisdom (paññavimutti)		Iti103
 teachers	qualifications	Iti104
@@ -1300,7 +1300,7 @@ sexual misconduct		Snp1.6
 marriage	to a younger partner	Snp1.6
 alcoholics		Snp1.6
 ambition	unrealistic	Snp1.6
-outcast (vasala)	definition	Snp1.7
+outcast (vasala)	real meaning of	Snp1.7
 fire worship (aggika)		Snp1.7
 debt	avoidance of paying	Snp1.7
 parents	not caring for	Snp1.7
@@ -1523,12 +1523,12 @@ gods		xref devas
 gods		xref brahmās
 devas	with psychic powers	Vv16
 devas	stream-enterers	Vv16
-once returner	gods that have become	Vv15
+once returner (sakadāgāmī)	gods that have become	Vv15
 stream-enterers	gods that have become	Vv16
 Sakka	asking questions	Vv17
 uposatha	resulting in heaven	Vv19
 devas	once returners	Vv19
-once returner	gods that have become	Vv19
+once returner (sakadāgāmī)	gods that have become	Vv19
 Sakka	asking questions	Vv20
 giving (dāna)	smallest gift has value	Vv20
 wheel-turning monarchs	not greatest happiness	Vv20
@@ -1586,9 +1586,9 @@ Buddha, the	visiting beings about to die	Vv53
 Buddha, the	visiting beings about to die	Vv50
 precepts, five	leading to heaven	Vv53
 virtue		xref precepts
-heaven	precepts lead to	Vv53
-heaven	refuges lead to	Vv53
-heaven		xref giving (dāna)
+heaven (sagga)	precepts lead to	Vv53
+heaven (sagga)	refuges lead to	Vv53
+heaven (sagga)		xref giving (dāna)
 merit (puññā)	small amounts give big results	Vv53
 giving (dāna)	small amount	Vv58
 giving (dāna)	small amount	Vv59
@@ -1752,12 +1752,12 @@ monastics	treating them badly	Pv42
 paccekabuddha	disparaging	Pv42
 hell (niraya)	torture in	Pv42
 arrogance	results of	Pv42
-bad friends		Pv43
-friendship		xref bad friends
+friends, bad		Pv43
+friendship		xref friends, bad
 monastics	reborn as ghosts	Pv43
 bad monastics		xref monastics
 monastics	bad	Pv43
-bad friends		Pv44
+friends, bad		Pv44
 monastics	reborn as ghosts	Pv44
 monastics	bad	Pv44
 ghosts	cannot take things directly	Pv45
@@ -1803,7 +1803,10 @@ kutis		Thag1.56
 kutis		Thag1.57
 wise people	can identify fools and wise	Thag1.61
 monastics	people envy	Thag1.62
+jealousy	of monastic in the forest	Thag1.62
+jealousy	like hell beings are of those going to heaven	Thag1.62
 happiness through happiness		Thag1.63
+solitary life	dissatisfaction with	Thag1.62
 conceit (māna)	removed with conceit	Thag1.64
 Dhamma teaching	to householders	Thag1.65
 wisdom	higher than virtue	Thag1.70
@@ -1867,7 +1870,7 @@ learning	without practicing	Thag2.34
 mind	like steady rock	Thag2.36
 annoyances	not bothered by	Thag2.36
 alms gathering practice		Thag2.39
-sleepiness		Thag2.40
+drowsiness (middha)		Thag2.40
 external appearance		Thag2.44
 boasting		Thag2.45
 going forth (pabbajja)	easy to 	Thag2.46
@@ -1875,7 +1878,7 @@ Bodhi Tree		Thag2.49
 fire worship (aggika)		Thag3.1
 determination	not to move until enlightened	Thag3.2
 talking without doing		Thag3.3
-contentment	with four requisites	Thag3.4
+contentment (santuṭṭhi)	with four requisites	Thag3.4
 excuses		Thag3.5
 loving-kindness (mettā)	mind of love makes merit	Thag3.7
 monastics	family of	Thag3.8
@@ -1892,7 +1895,7 @@ talking without doing		Thag3.15
 association	with fools like floating on a small log at sea	Thag3.16
 women	danger for monks	Thag4.1
 walking meditation		Thag4.2
-sleepiness		Thag4.2
+drowsiness (middha)		Thag4.2
 respect	for spiritual companions	Thag4.3
 perception of ugliness (asubhasañña)		Thag4.4
 ascetic practices	uselessness of	Thag4.5
@@ -1930,7 +1933,7 @@ sorrow	like water falls off of louts leaf	Thag6.5
 monastic life	not getting results for a long time	Thag6.6
 suicide	aborted attempt	Thag6.6
 monastic life	advice for	Thag6.7
-laziness		Thag6.7
+laziness (kosajja)		Thag6.7
 thunderbolt	of knowledge	Thag6.8
 actions (kamma)	knowing actions as actions and results as results	Thag6.8
 arrogance		Thag6.9
@@ -1965,7 +1968,7 @@ work	caught up in	Thag8.1
 honor	like a bog	Thag8.1
 kamma		xref actions (kamma)
 actions (kamma)	as a relative (kammabandhū)	Thag8.1
-wealth	loss of	Thag8.1
+wealth	loss of compared to wisdom	Thag8.1
 determination	not to move until enlightened	Thag8.3
 resolution		xref determination
 hope	for success	Thag10.1
@@ -1987,7 +1990,7 @@ dwellings	suitable	Thag10.6
 pretending to be stupid		Thag10.6
 monastic life	advice for	Thag10.6
 overconfidence	before enlightenment	Thag10.6
-contentment	with four requisites	Thag10.6
+contentment (santuṭṭhi)	with four requisites	Thag10.6
 dwellings	suitable	Thag10.7
 monastic life	advice for	Thag10.7
 virtue	leading to heaven	Thag12.1
@@ -2015,7 +2018,7 @@ location		xref dwellings
 goodwill		xref loving-kindness (mettā)
 boys		xref children
 slow spiritual progress		Thag16.3
-doubt		Thag16.3
+doubt (vicikicchā)		Thag16.3
 Buddha, the	as doctor	Thag16.3
 perception of ugliness (asubhasañña)		Thag16.4
 wealthy people	not giving	Thag16.4
@@ -2032,7 +2035,7 @@ sense contact	mindfulness 	Thag16.5
 marks of a great man	appearing on the Buddha	Thag16.5
 Buddha, the	king of Dhamma	Thag16.5
 general of the Dhamma (senāpati)		Thag16.6
-contentment	with requisites	Thag16.7
+contentment (santuṭṭhi)	with requisites	Thag16.7
 ascetic practices (dhutaṅga)		Thag16.7
 meditation (jhāyati)		Thag16.7
 bowl	giving up valuable	Thag16.7
@@ -2084,7 +2087,7 @@ seclusion	desire for	Thag19.1
 urgency (saṁvega)		Thag19.1
 mind	like a monkey	Thag19.1
 encouragement	to oneself	Thag19.1
-doubt		Thag19.1
+doubt (vicikicchā)		Thag19.1
 mind	like a traveller	Thag19.1
 sensual pleasures	giving up like vomiting	Thag19.1
 rebirth	mind causing	Thag19.1
@@ -2109,7 +2112,6 @@ maraṇa 		xref death (maraṇa)
 amata 		xref deathless (amata)
 āsava 		xref defilements (āsava)
 moha 		xref delusion (moha) 
-appamāda		xref heedfulness (appamāda)
 dibbacakkhu 		xref divine eye (dibbacakkhu) 
 nissaraṇa 		xref escape (nissaraṇa) 
 pāpa 		xref evil (pāpa)
@@ -2252,10 +2254,10 @@ rebirth	as animal	Thig15.1
 learned (bahussutā)	example of person who is	Thig16.1
 impermanence	even gods are	Thig16.1
 sensual pleasures	bitter like snake venom	Thig16.1
-heaven	life in is impermanent	Thig16.1
-heaven		xref devas
-heaven		xref gods
-heaven		xref brahmās
+heaven (sagga)	life in is impermanent	Thig16.1
+heaven (sagga)		xref devas
+heaven (sagga)		xref gods
+heaven (sagga)		xref brahmās
 hell (niraya)	going forth is not possible	Thig16.1
 going forth (pabbajja)	threatening to not eat if not allowed to	Thig16.1
 marriage	rejecting to go forth	Thig16.1
@@ -2269,7 +2271,7 @@ sensual pleasures	impermanent	Thig16.1
 sensual pleasures	like lumps of meat	Thig16.1
 sensual pleasures	like dream	Thig16.1
 saṁsara	long for fools	Thig16.1
-ocean of tear	simile of 	Thig16.1
+ocean of tears	simile of 	Thig16.1
 saṁsara	similes for	Thig16.1
 turtle and yoke	like rebirth in human world is rare	Thig16.1
 sensual pleasures	like a grass torch burns holder	Thig16.1
@@ -2436,10 +2438,11 @@ Saṅghārava, brahmin	asking how mendicants benefit others	AN3.60
 mendicants	benefiting the world	AN3.60
 going forth (pabbajja)	benefiting the world	AN3.60
 Ānanda, Ven	interrogating a brahmin about beneficial practice	AN3.60
-psychic powers	demonstration of	AN3.60
-demonstrations	three kinds	AN3.60
+psychic powers	miracle of	AN3.60
+miracles (pāṭihāriya)	three kinds	AN3.60
+miracle of instruction (anusāsanīpāṭihāriya)		AN3.60
 mind reading	description of	AN3.60
-Dhamma teaching	as best kind of demonstration	AN3.60
+Dhamma teaching	as best kind of miracle	AN3.60
 Dhamma	as irrefutable	AN3.61
 views of other sects	all results are because of past deeds	AN3.61
 views of other sects	all results are because of God	AN3.61
@@ -2496,7 +2499,6 @@ ayoniso manasikāra		xref improper attention (ayoniso manasikara)
 lust (rāga)	caused by sign of the beautiful	AN3.68
 hatred (dosa)	caused by feature of harshness	AN3.68
 delusion (moha)	caused by improper attention	AN3.68
-wise attention		xref proper attention (yoniso manasikāra)
 unwise attention		xref improper attention (ayoniso manasikara)
 sign of the ugly (asubhanimitta)	cause for giving up lust, greed	AN3.68
 heart’s release by loving-kindness (mettā cetovimutti)	cause for giving up hatred	AN3.68
@@ -2703,3 +2705,164 @@ Anuruddha, Ven.	enlightenment	AN3.130
 divine eye (dibbacakkhu)	disturbing meditation	AN3.130
 conceit (māna)	from psychic powers	AN3.130
 Sāriputta, Ven.	advice for Ven. Anuruddha	AN3.130
+Dhamma	shines in the open	AN3.131
+anger (kodha)	person often angry and stays long like line in stone	AN3.132
+anger (kodha)	person often angry and doesn’t stay long like line in sand	AN3.132
+anger (kodha)	person not angry like line in water	AN3.132
+good monastics	see things as “This is not mine, I am not this, this is not my self.”	AN3.133
+“This is not mine, I am not this, this is not my self.”	past, present future	AN3.133
+good monastics	like a warrior	AN3.133
+assemblies	three kinds	AN3.134
+friendship	qualities of a good friend	AN3.135
+impermanence	“All conditions are impermanent.”	AN3.136
+suffering	“All conditions are suffering.”	AN3.136
+not-self	“All things are not-self.”	AN3.136
+Makkhali, teacher	worst of all teachings, like a hair blanket	AN3.137
+accomplishments	three types	AN3.138
+growth	three types	AN3.139
+questions, answering 	without faltering	AN3.140
+questions, answering 	without faltering	AN3.141
+non-returner	able or unable to answer questions	AN3.141
+questions, answering 	without faltering	AN3.142
+one beyond training (asekha)		AN3.143
+adept (asekha)		xref one beyond training (asekha)
+demonstrations (pāṭihāriya)		xref miracles (pāṭihāriya)
+psychic powers	miracle of	AN3.144
+miracle of instruction (anusāsanīpāṭihāriya)		AN3.144
+right knowledge (sammā ñāṇa)	quality of arahant	AN3.145
+right freedom (sammāvimutti)	quality of arahant	AN3.145
+hell (niraya)	unwholesome actions lead to	AN3.146
+heaven (sagga)	wholesome actions lead to	AN3.146
+fools	harm themselves with bad action	AN3.150
+wise people	help themselves with good action	AN3.150
+homage		xref worshiping (vandati) 
+worshiping (vandati)  	by body, speech and mind	AN3.154
+good actions	all day long	AN3.155
+wrong views	that there is nothing wrong with sensual pleasures	AN3.156
+ascetic practices	that are scorching	AN3.156
+middle path (majjhimā paṭipadā)		AN3.156
+bodhipakkhiyā dhammā	as middle path	AN3.156
+thirty-seven aids to enlightenment		xref bodhipakkhiyā dhammā
+wings to awakening		xref bodhipakkhiyā dhammā
+men	minds occupied by women	AN1.1-5
+women	minds occupied by men	AN1.6-10
+sign of the beautiful (subhanimitta)	cause for sense desire	AN1.11
+sense desire (kāmacchanda)	caused by sign of the beautiful	AN1.11
+feature of harshness (paṭighanimitta)	cause for ill will (vyāpada)	AN1.12
+ill will (vyāpada, byāpada)	caused by feature of harshness	AN1.12
+dullness and drowsiness (thinamiddha)	cause of	AN1.13
+sleepiness		xref drowsiness (middha)
+envy		xref jealousy
+jealousy		xref envy
+seclusion		xref solitary life
+seclusion		xref seclusion
+solitude		xref seclusion
+solitude		xref solitary life
+solitary life		xref seclusion
+solitary life		xref solitude
+restlessness and remorse (uddhaccakukkucca)	cause of	AN1.14
+improper attention (ayoniso manasikara)	cause of doubt	AN1.15
+doubt (vicikicchā)	caused by improper attention	AN1.15
+sense desire (kāmacchanda)	removed by sign of sign of the ugly	AN1.16
+sign of the ugly (asubhanimitta)		xref perception of ugliness (asubhasañña)
+perception of ugliness (asubhasañña)		xref sign of the ugly (asubhanimitta)
+ill will (vyāpada, byāpada)	removed by heart’s release by loving-kindness	AN1.17
+heart’s release by loving-kindness (mettā cetovimutti)  	cause for giving up ill will	AN1.17
+dullness and drowsiness (thinamiddha)	cause for removing	AN1.18
+restlessness and remorse (uddhaccakukkucca)	cause for removing	AN1.19
+doubt (vicikicchā)	removed by proper attention	AN1.20
+proper attention (yoniso manasikāra)	cause for removing doubt	AN1.20
+mind	undeveloped mind is useless 	AN1.21
+mind	developed mind is workable 	AN1.22
+mind	undeveloped mind is very harmful 	AN1.23
+mind	developed mind is very beneficial	AN1.24
+mind	undeveloped mind brings suffering 	AN1.29
+mind	developed mind brings happiness 	AN1.30
+mind	tamed mind is very beneficial 	AN1.32
+mind	wild mind is very harmful 	AN1.31
+mind	pointing wrong way like spike of rice	AN1.41
+mind	corrupted mind leads to hell	AN1.43
+hell (niraya)	corrupted mind leads to	AN1.43
+mind	pure mind leads to heaven	AN1.44
+heaven (sagga)	pure mind leads to	AN1.44
+mind	clouded like cloudy lake	AN1.45
+mind	unclouded like transparent lake	AN1.46
+mind	like workable wood	AN1.47
+mind	quick to change	AN1.48
+mind	as radiant but corrupted	AN1.49
+mind	as radiant but corrupted	AN1.51
+intention	precedes all	AN1.56
+intention	precedes all	AN1.57
+negligence		xref heedlessness (pamāda)
+heedlessness (pamāda)	leads to unwholesome	AN1.58
+heedfulness (appamāda)	leads to wholesome	AN1.59
+laziness (kosajja)	leads to unwholesome	AN1.60
+energy, stirring up (vīriyārambha)	leads to wholesome	AN1.61
+greed, many wishes (mahiccha)	leads to unwholesome	AN1.62
+few wishes (appiccha)	leads to wholesome	AN1.63
+discontent (asantuṭṭhi)	leads to unwholesome	AN1.64
+contentment (santuṭṭhi)	leads to wholesome	AN1.65
+improper attention (ayoniso manasikara)	leads to unwholesome	AN1.66
+proper attention (yoniso manasikāra)	leads to wholesome	AN1.67
+situational awareness (sampajañña)	leads to wholesome	AN1.69
+clear comprehension		xref situational awareness (sampajañña)
+sampajañña		xref situational awareness (sampajañña)
+bad friends		xref friends, bad
+friends, bad	leads to unwholesome	AN1.70
+friendship	good leads to wholesome	AN1.71
+awakening factors (bojjhaṅga)	prevented by improper attention	AN1.74
+factors of enlightenment (bojjhaṅga)		xref awakening factors (bojjhaṅga)
+bojjhaṅga		xref awakening factors (bojjhaṅga)
+seven factors of enlightenment		xref awakening factors (bojjhaṅga)
+improper attention (ayoniso manasikara)	prevents awakening factors	AN1.74
+proper attention (yoniso manasikāra)	leads to awakening factors	AN1.75
+awakening factors (bojjhaṅga)	helped by proper attention	AN1.75
+relatives		xref family
+relatives	loss of compared to wisdom	AN1.76
+wisdom	loss of greater than loss of relatives	AN1.76
+relatives	growth of compared to wisdom	AN1.77
+wisdom	growth of greater than growth of family	AN1.77
+“should be practiced” (sikkhitabba)	grow in wisdom	AN1.77
+wealth	loss of compared to wisdom	AN1.78
+wealth	growth of compared to wisdom	AN1.97
+“should be practiced” (sikkhitabba)	grow in wisdom	AN1.79
+fame	loss of compared to wisdom	AN1.80
+fame	growth of compared to wisdom	AN1.81
+“should be practiced” (sikkhitabba)	grow in wisdom	AN1.81
+heedlessness (pamāda)	as very harmful	AN1.82
+heedfulness (appamāda)	as very helpful	AN1.83
+laziness (kosajja)	as very harmful	AN1.84
+energy, stirring up (vīriyārambha)	as very helpful	AN1.85
+greed, many wishes (mahiccha)	as very harmful	AN1.86
+many wishes		xref greed, many wishes (mahiccha)
+few wishes (appiccha)	as very beneficial	AN1.87
+discontent (asantuṭṭhi)	as very harmful	AN1.88
+contentment (santuṭṭhi)	as very helpful	AN1.89
+improper attention (ayoniso manasikara)	as very harmful	AN1.90
+proper attention (yoniso manasikāra)	as very helpful	AN1.91
+situational awareness (sampajañña)	lack of is harmful	AN1.92
+situational awareness (sampajañña)	as very helpful	AN1.93
+friends, bad	as very harmful	AN1.94
+friends, good	as very helpful	AN1.95
+heedlessness (pamāda)	as very harmful	AN1.98
+heedfulness (appamāda)	as very helpful	AN1.99
+laziness (kosajja)	as very harmful	AN1.100
+arousing energy		xref energy, stirring up (vīriyārambha) 
+stirring up energy		xref energy, stirring up (vīriyārambha) 
+energy, stirring up (vīriyārambha)	as helpful	AN1.101
+Dhamma	decline, factors leading to	AN1.118-128
+Dhamma	continuation of, factors leading to	AN1.129
+Dhamma teaching	teaching non-Dhamma as very harmful	AN1.130-139
+Dhamma teaching	correctly leads to continuation of Dhamma and much merit	AN1.140-142
+Vinaya		xref monastic rules (vinaya) 
+monastic rules (vinaya)	teaching wrongly leads to decline	AN1.142
+monastic rules (vinaya)	teaching rightly leads to continuation	AN1.143
+monastic rules (vinaya)	teaching wrongly leads to decline	AN1.150-159
+monastic rules (vinaya)	teaching rightly leads to continuation	AN1.160-169
+Buddha, the	rarity of	AN1.171
+Buddha, the	arising of is beneficial for all	AN1.170
+Buddha, the	death is regreted	AN1.173
+Buddha, the	without counterpart	AN1.174
+analytical knowledge (paṭisambhidā)	from the arising of the Buddha	AN1.176
+stages of enlightenment	from the arising of the Buddha	AN1.181-186
+Sāriputta, Ven.	rightly keeps rolling wheel of Dhamma	AN1.187

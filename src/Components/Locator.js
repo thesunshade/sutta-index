@@ -1,4 +1,3 @@
-// import makeNormalizedId from "../functions/makeNormalizedId";
 import { useContext } from "react";
 import { ContextDestination } from "../App.js";
 import getSuttaTitle from "../functions/getSuttaTitle.js";
@@ -32,14 +31,14 @@ export default function Locator(props) {
       url = `https://suttacentral.net/${locationForUrl}/en/sujato`;
   }
 
-  function addHairSpace(location) {
-    return location.replace(/([A-Za-z])(\d)/, "$1 $2");
+  function addSpace(location) {
+    return location.replace(/([A-Za-z])(\d)/, "$1 $2");
   }
 
   return (
     <span>
       <a href={url} rel="noreferrer" target="_blank" title={getSuttaTitle(location)}>
-        {addHairSpace(location)}
+        {addSpace(location)}
       </a>
     </span>
   );

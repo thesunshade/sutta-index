@@ -1,11 +1,13 @@
 import "./App.css";
 import SuttaIndex from "./Components/SuttaIndex.js";
+import Info from "./Components/Info.js";
 import Stats from "./Components/Stats.js";
 import OtherToolsIcons from "./Components/OtherToolsIcons.js";
 import LocatorSortedTable from "./Components/LocatorSortedTable.js";
 import Alphabet from "./Components/Alphabet.js";
 import { useState, createContext } from "react";
 import settingsIcon from "./images/settings.png";
+import infoDot from "./images/info-dot.png";
 import xIcon from "./images/30632_close_cross_x_icon.png";
 import upIcon from "./images/7122424_chevron_up_double_icon.png";
 import themeIcon from "./images/8673129_ic_fluent_dark_theme_filled.png";
@@ -36,7 +38,19 @@ function App() {
     }
   }
 
-  function toggleView() {
+  function toggleArea(areaName) {
+    const area = document.getElementById(areaName);
+    if (area.classList.contains("hidden")) {
+      const allHideableAreas = document.getElementsByClassName("hideable-area");
+      console.log(allHideableAreas);
+      for (let i = 0; i < allHideableAreas.length; i++) {
+        allHideableAreas[i].classList.add("hidden");
+      }
+      area.classList.remove("hidden");
+    } else area.classList.add("hidden");
+  }
+
+  function toggleTableView() {
     if (isLocatorView === false) {
       setIsLocatorView(true);
     } else {
@@ -102,17 +116,31 @@ function App() {
               src={settingsIcon}
               alt="Settings Toggle"
               onClick={() => {
-                document.getElementById("options-area").classList.toggle("hidden");
+                toggleArea("options-area");
+              }}
+            ></img>
+          </div>
+          <div className="settings-button">
+            <img
+              className="icon"
+              width="17px"
+              src={infoDot}
+              alt="Settings Toggle"
+              onClick={() => {
+                toggleArea("info-area");
               }}
             ></img>
           </div>
         </div>
         <Alphabet />
-        <div id="options-area" className="options-area hidden">
+        <div id="info-area" className="info-area hidden hideable-area">
+          <Info />
+        </div>
+        <div id="options-area" className="options-area hidden  hideable-area">
           <label className="table-view">
             <button
               onClick={() => {
-                toggleView();
+                toggleTableView();
               }}
             >
               Toggle Table View
