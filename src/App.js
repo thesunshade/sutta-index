@@ -42,7 +42,6 @@ function App() {
     const area = document.getElementById(areaName);
     if (area.classList.contains("hidden")) {
       const allHideableAreas = document.getElementsByClassName("hideable-area");
-      console.log(allHideableAreas);
       for (let i = 0; i < allHideableAreas.length; i++) {
         allHideableAreas[i].classList.add("hidden");
       }
