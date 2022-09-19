@@ -516,3 +516,46 @@ tr:nth-child(even) {
   rotate: 55deg;
   top: 0px !important;
 }
+
+/*popup*/
+.popup-content {
+  margin: auto;
+  background: var(--dark-primary);
+  width: 50rem;
+  padding: 5px;
+  overflow-y: scroll;
+  overflow-x: hidden;
+  height: 50vh
+}
+
+.popup-content li {
+  list-style: none;
+
+}
+
+.popup-content li a {
+  text-decoration: none;
+  color: var(--offwhite);
+  word-spacing: inherit;
+}
+
+.popup-content li a:focus {
+  outline: none;
+}
+
+.popup-arrow {
+  color: rgb(0, 0, 0);
+}
+
+[role='tooltip'].popup-content {
+  width: 300px;
+  box-shadow: rgba(0, 0, 0, 0.16) 0px 0px 3px;
+}
+
+.popup-overlay {
+  background: rgba(0, 0, 0, 0.5);
+}
+
+[data-popup='tooltip'].popup-overlay {
+  background: rgba(0, 0, 0, 0.5);
+}

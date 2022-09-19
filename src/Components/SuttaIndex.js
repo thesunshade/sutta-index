@@ -7,68 +7,41 @@ import NoResults from "./NoResults.js";
 export default function SuttaIndex(props) {
   const { filterByText } = props;
   const index = JSON.parse(indexObject);
-  const headwordsArray = sortedKeys(index);
+  // const headwordsArray = sortedKeys(index);
   let isEmpty = true;
-  let alphabet = [
-    "A",
-    "B",
-    "C",
-    "D",
-    "E",
-    "F",
-    "G",
-    "H",
-    "I",
-    "J",
-    "K",
-    "L",
-    "M",
-    "N",
-    "O",
-    "P",
-    "Q",
-    "R",
-    "S",
-    "T",
-    "U",
-    "V",
-    "W",
-    "Y",
-    "Z",
-  ];
+  let alphabet = Object.keys(index);
+
   return (
     <>
       <div className="sutta-index">
-        {headwordsArray.map(headword => {
-          const regex = new RegExp(fuzz(filterByText), "i");
-          const headwordDataString = JSON.stringify(index[headword]) + headword;
-          if (!fuzz(headwordDataString).match(regex)) return null;
-          isEmpty = false;
+        {alphabet.map(letter => {
+          const headwordsObject = index[letter];
+          const headwordsArray = Object.keys(headwordsObject);
           return (
             <>
-              {alphabet.includes(headword.charAt(0).toLocaleUpperCase()) ? (
-                <div className="alphabet-anchor" id={headword.charAt(0).toLocaleUpperCase()}>
-                  {headword.charAt(0).toLocaleUpperCase()}
-                </div>
-              ) : (
-                ""
-              )}
-              {(() => {
-                if (alphabet.includes(headword.charAt(0).toLocaleUpperCase())) {
-                  alphabet = alphabet.filter(e => {
-                    return e !== headword.charAt(0).toLocaleUpperCase();
-                  });
-                }
-              })()}
-              <Headword
-                key={headword}
-                headword={headword}
-                headwordObject={index[headword]}
-                filterByText={filterByText}
-              />
+              <div className="alphabet-anchor" id={letter}>
+                {letter}
+              </div>
+              {headwordsArray.map(headword => {
+                const regex = new RegExp(fuzz(filterByText), "i");
+                const headwordDataString = JSON.stringify(headwordsObject[headword]) + headword;
+                if (!fuzz(headwordDataString).match(regex)) return null;
+                isEmpty = false;
+                return (
+                  <>
+                    <Headword
+                      key={headword}
+                      headword={headword}
+                      headwordObject={headwordsObject[headword]}
+                      filterByText={filterByText}
+                    />
+                  </>
+                );
+              })}
             </>
           );
         })}
+
         {isEmpty ? <NoResults /> : ""}
       </div>
     </>

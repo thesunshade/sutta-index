@@ -1,31 +1,33 @@
+import { indexObject } from "../data/index-object.js";
+import Popup from "reactjs-popup";
+// import "reactjs-popup/dist/index.css";
+import LetterHeadingsMenu from "./LetterHeadingsMenu.js";
+
 export default function Alphabet() {
+  const index = JSON.parse(indexObject);
+  const alphabet = Object.keys(index);
+
   return (
     <div className="alphabet">
-      <a href="#A">A</a>
-      <a href="#B">B</a>
-      <a href="#C">C</a>
-      <a href="#D">D</a>
-      <a href="#E">E</a>
-      <a href="#F">F</a>
-      <a href="#G">G</a>
-      <a href="#H">H</a>
-      <a href="#I">I</a>
-      <a href="#J">J</a>
-      <a href="#K">K</a>
-      <a href="#L">L</a>
-      <a href="#M">M</a>
-      <a href="#N">N</a>
-      <a href="#O">O</a>
-      <a href="#P">P</a>
-      <a href="#Q">Q</a>
-      <a href="#R">R</a>
-      <a href="#S">S</a>
-      <a href="#T">T</a>
-      <a href="#U">U</a>
-      <a href="#V">V</a>
-      <a href="#W">W</a>
-      <a href="#Y">Y</a>
-      <a href="#Z">Z</a>
+      {alphabet.map(letter => {
+        return (
+          <Popup
+            trigger={
+              <a key={letter} href={"#0"}>
+                {letter}
+              </a>
+            }
+            position={["bottom center", "bottom right", "bottom left"]}
+            keepTooltipInside="body"
+            on={["hover", "click", "focus"]}
+            closeOnDocumentClick
+          >
+            <div>
+              <LetterHeadingsMenu letter={letter} />
+            </div>
+          </Popup>
+        );
+      })}
     </div>
   );
 }

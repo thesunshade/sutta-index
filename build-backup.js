@@ -156,34 +156,6 @@ function sortCitationsList(citations) {
   return bookSubList;
 }
 
-let alphabetGroupedObject = {
-  A: {},
-  B: {},
-  C: {},
-  D: {},
-  E: {},
-  F: {},
-  G: {},
-  H: {},
-  I: {},
-  J: {},
-  K: {},
-  L: {},
-  M: {},
-  N: {},
-  O: {},
-  P: {},
-  Q: {},
-  R: {},
-  S: {},
-  T: {},
-  U: {},
-  V: {},
-  W: {},
-  Y: {},
-  Z: {},
-};
-
 let data;
 try {
   const tsvFileContents = fs.readFileSync("./src/data/general-index.csv", "utf8");
@@ -203,118 +175,55 @@ for (let i = 0; i < lines.length; i++) {
   rawIndexArray[i] = lines[i].split("\t");
 }
 
-function normalizeDiacriticString(string) {
-  return string
-    .normalize("NFD") /*separates diacritics from letter */
-    .replace(/[\u0300-\u036f]/g, ""); /*removes diacritic characters */
-}
-
 for (let i = 0; i < rawIndexArray.length - 1; i++) {
   const head = rawIndexArray[i][0].trim();
   const sub = rawIndexArray[i][1].trim();
   const locator = rawIndexArray[i][2].trim();
 
-  const headStartingWithLetter = head.replace("“", "");
-  const firstRealLetter = normalizeDiacriticString(headStartingWithLetter.charAt(0)).toUpperCase();
-
-  if (!alphabetGroupedObject[firstRealLetter].hasOwnProperty(head)) {
+  if (!index.hasOwnProperty(head)) {
     // the key of the headword does not exist in the object yet, so create the key and add the locator-xref object
-    alphabetGroupedObject[firstRealLetter][head] = { [sub]: { locators: [], xrefs: [] } };
+    index[head] = { [sub]: { locators: [], xrefs: [] } };
     if (/xref/.test(locator)) {
-      alphabetGroupedObject[firstRealLetter][head][sub].xrefs.push(locator);
+      index[head][sub].xrefs.push(locator);
     } else {
-      alphabetGroupedObject[firstRealLetter][head][sub].locators.push(locator);
+      index[head][sub].locators.push(locator);
     }
   } else {
-    if (!alphabetGroupedObject[firstRealLetter][head].hasOwnProperty(sub)) {
+    if (!index[head].hasOwnProperty(sub)) {
       // the key for the headword exists, but the sub does not exist as a key
-      alphabetGroupedObject[firstRealLetter][head][sub] = { locators: [], xrefs: [] };
+      index[head][sub] = { locators: [], xrefs: [] };
 
       if (/xref/.test(locator)) {
-        alphabetGroupedObject[firstRealLetter][head][sub].xrefs.push(locator);
+        index[head][sub].xrefs.push(locator);
       } else {
-        alphabetGroupedObject[firstRealLetter][head][sub].locators.push(locator);
+        index[head][sub].locators.push(locator);
       }
     } else {
       // the head and sub already exist, so the locator must be pushed into the array
       if (/xref/.test(locator)) {
-        alphabetGroupedObject[firstRealLetter][head][sub].xrefs.push(locator);
+        index[head][sub].xrefs.push(locator);
       } else {
-        alphabetGroupedObject[firstRealLetter][head][sub].locators.push(locator);
+        index[head][sub].locators.push(locator);
       }
     }
   }
 }
 
 // sort locators
+const headwords = Object.keys(index);
+for (let i = 0; i < headwords.length; i++) {
+  const subs = Object.keys(index[headwords[i]]);
 
-const alphabetArray = Object.keys(alphabetGroupedObject);
-for (let a = 0; a < alphabetArray.length; a++) {
-  const headwords = Object.keys(alphabetGroupedObject[alphabetArray[a]]);
+  for (let x = 0; x < subs.length; x++) {
+    index[headwords[i]][subs[x]].locators = sortCitationsList(index[headwords[i]][subs[x]].locators);
+  }
 
-  const alphabetObject = alphabetGroupedObject[alphabetArray[a]];
-
-  for (let i = 0; i < headwords.length; i++) {
-    const subs = Object.keys(alphabetObject[headwords[i]]);
-    const headWordObject = alphabetObject[headwords[i]];
-    for (let x = 0; x < subs.length; x++) {
-      headWordObject[subs[x]].locators = sortCitationsList(headWordObject[subs[x]].locators);
-    }
-
-    for (let x = 0; x < subs.length; x++) {
-      headWordObject[subs[x]].xrefs.sort();
-    }
+  for (let x = 0; x < subs.length; x++) {
+    index[headwords[i]][subs[x]].xrefs.sort();
   }
 }
 
-const newObject = {
-  A: {},
-  B: {},
-  C: {},
-  D: {},
-  E: {},
-  F: {},
-  G: {},
-  H: {},
-  I: {},
-  J: {},
-  K: {},
-  L: {},
-  M: {},
-  N: {},
-  O: {},
-  P: {},
-  Q: {},
-  R: {},
-  S: {},
-  T: {},
-  U: {},
-  V: {},
-  W: {},
-  Y: {},
-  Z: {},
-};
-
-function sortedKeys(object) {
-  return Object.keys(object).sort((a, b) => {
-    a = a.replace("“", "");
-    b = b.replace("“", "");
-    return a.localeCompare(b, undefined, { sensitivity: "base" });
-  });
-}
-
-const newObjectKeys = Object.keys(newObject);
-
-for (let i = 0; i < newObjectKeys.length; i++) {
-  const unsortHeadwObj = alphabetGroupedObject[newObjectKeys[i]];
-  const sortedHeadwObjArr = sortedKeys(unsortHeadwObj);
-  // console.log(sortedHeadwObjArr);
-  for (let x = 0; x < sortedHeadwObjArr.length; x++) {
-    newObject[newObjectKeys[i]][sortedHeadwObjArr[x]] = alphabetGroupedObject[newObjectKeys[i]][sortedHeadwObjArr[x]];
-  }
-}
-
-const object = `export const indexObject =\`${JSON.stringify(newObject, null, 5)}\``;
+const object = `export const indexObject =\`${JSON.stringify(index, null, 5)}\``;
 
 try {
   fs.writeFileSync("./src/data/index-object.js", object);

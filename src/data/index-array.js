@@ -160,9 +160,69 @@ export const indexArray =`[
           "rightly keeps rolling wheel of Dhamma"
      ],
      [
+          "AN1.188",
+          "Koṇḍañña, Añña Who Understood",
+          "foremost in seniority"
+     ],
+     [
+          "AN1.189",
+          "Sāriputta, Ven.",
+          "foremost in great wisdom"
+     ],
+     [
           "AN1.19",
           "restlessness and remorse (uddhaccakukkucca)",
           "cause for removing"
+     ],
+     [
+          "AN1.190",
+          "Mahāmoggallāna, Ven.",
+          "foremost in psychic power"
+     ],
+     [
+          "AN1.191",
+          "Mahākassapa, Ven.",
+          "foremost who speaks onnausterities"
+     ],
+     [
+          "AN1.192",
+          "Anuruddha, Ven.",
+          "foremost with divine eye"
+     ],
+     [
+          "AN1.193",
+          "Bhaddiya Kāḷigodhā, Ven.",
+          "foremost from eminent families "
+     ],
+     [
+          "AN1.194",
+          "Lakuṇṭaka Bhaddiya, Ven.",
+          "foremost with a beautiful voice"
+     ],
+     [
+          "AN1.195",
+          "Piṇḍola Bhāradvāja, Ven.",
+          "foremost with a lion’s roar "
+     ],
+     [
+          "AN1.196",
+          "Puṇṇa Mantāṇiputta, Ven.",
+          "foremost who speak on Dhamma"
+     ],
+     [
+          "AN1.197",
+          "Mahākaccāna, Ven.",
+          "foremost of those who speak in detail the meaning of a brief statement"
+     ],
+     [
+          "AN1.198",
+          "Cūḷapanthaka, Ven.",
+          "foremost in creating mind made body"
+     ],
+     [
+          "AN1.199",
+          "Cūḷapanthaka, Ven.",
+          "foremost in mental transformation"
      ],
      [
           "AN1.20",
@@ -175,9 +235,109 @@ export const indexArray =`[
           "cause for removing doubt"
      ],
      [
+          "AN1.200",
+          "Mahāpanthaka, Ven.",
+          "foremost in transformation of perception"
+     ],
+     [
+          "AN1.201",
+          "Subhūt, Ven.",
+          "foremost who dwell without conflict"
+     ],
+     [
+          "AN1.202",
+          "Subhūti, Ven.",
+          "foremost of those worthy of gifts"
+     ],
+     [
+          "AN1.203",
+          "Revata, Ven. Khadiravaniya ",
+          "foremost among forest dwellers"
+     ],
+     [
+          "AN1.204",
+          "Revata, Ven. Kaṅkhā",
+          "foremost of meditators"
+     ],
+     [
+          "AN1.205",
+          "Soṇa Koḷivisa, Ven.",
+          "foremost of those who arouse energy"
+     ],
+     [
+          "AN1.206",
+          "Soṇo Kuṭikaṇṇa, Ven.",
+          "foremost who is an excellent speaker"
+     ],
+     [
+          "AN1.207",
+          "Sīvali, Ven.",
+          "foremost of those who make gains"
+     ],
+     [
+          "AN1.208",
+          "Vakkalī, Ven.",
+          "foremost of those resolved through faith"
+     ],
+     [
+          "AN1.209",
+          "Rāhula, Ven.",
+          "foremost who desire to train"
+     ],
+     [
           "AN1.21",
           "mind",
           "undeveloped mind is useless "
+     ],
+     [
+          "AN1.210",
+          "Raṭṭhapāla, Ven.",
+          "foremost who went forth out of faith"
+     ],
+     [
+          "AN1.211",
+          "Kuṇḍadhāna, Ven.",
+          "foremost who are first to take a meal ticket"
+     ],
+     [
+          "AN1.212",
+          "Vaṅgīsa, Ven.",
+          "foremost of poets"
+     ],
+     [
+          "AN1.213",
+          "Upasena Vaṅgantaputta, Ven.",
+          "foremost who is impressive all around"
+     ],
+     [
+          "AN1.214",
+          "Dabba Mallaputta, Ven.",
+          "foremost in assigning lodgins"
+     ],
+     [
+          "AN1.215",
+          "Pilindavaccha, Ven.",
+          "foremost of those beloved by gods "
+     ],
+     [
+          "AN1.216",
+          "Bāhiyo Dārucīriya, Ven.",
+          "foremost with swift insight"
+     ],
+     [
+          "AN1.217",
+          "Kumārakassapa, Ven.",
+          "foremost with brilliant speech"
+     ],
+     [
+          "AN1.218",
+          "Mahākoṭṭhita, Ven.",
+          "foremost in analytical knowledge"
+     ],
+     [
+          "AN1.219",
+          "Ānanada, Ven.",
+          "foremost of very learned"
      ],
      [
           "AN1.22",
@@ -185,9 +345,109 @@ export const indexArray =`[
           "developed mind is workable "
      ],
      [
+          "AN1.220",
+          "Ānanada, Ven.",
+          "foremost with good memory"
+     ],
+     [
+          "AN1.221",
+          "Ānanada, Ven.",
+          "foremost with quick grasp"
+     ],
+     [
+          "AN1.222",
+          "Ānanada, Ven.",
+          "foremost who are resolute"
+     ],
+     [
+          "AN1.223",
+          "Ānanada, Ven.",
+          "foremost as personal attendant"
+     ],
+     [
+          "AN1.224",
+          "Uruvela Kassapa, Ven.",
+          "foremost with large congregation"
+     ],
+     [
+          "AN1.225",
+          "Kāḷudāyī, Ven.",
+          "foremost who inspires lay families"
+     ],
+     [
+          "AN1.226",
+          "Bakkula, Ven.",
+          "foremost with good health"
+     ],
+     [
+          "AN1.227",
+          "Sobhita, Ven.",
+          "foremost who recollects past lives"
+     ],
+     [
+          "AN1.228",
+          "Upāli, Ven.",
+          "foremost in monastic law"
+     ],
+     [
+          "AN1.229",
+          "Nandaka, Ven.",
+          "foremost who advises bhikkhunīs"
+     ],
+     [
           "AN1.23",
           "mind",
           "undeveloped mind is very harmful "
+     ],
+     [
+          "AN1.230",
+          "Nanda, Ven.",
+          "foremost who guards senses"
+     ],
+     [
+          "AN1.231",
+          "Mahākappina, Ven.",
+          "foremost who advises bhikkhus"
+     ],
+     [
+          "AN1.232",
+          "Sāgata, Ven.",
+          "foremost skilled in fire element"
+     ],
+     [
+          "AN1.233",
+          "Rādha, Ven.",
+          "foremost who receive eloquent teachings"
+     ],
+     [
+          "AN1.234",
+          "Mogharājā, Ven.",
+          "foremost who wears coarse robes"
+     ],
+     [
+          "AN1.235",
+          "Mahāpajāpatī Gotamī, Ven.",
+          "foremost in seniority"
+     ],
+     [
+          "AN1.236",
+          "Khemā, Ven.",
+          "foremost with great wisdom"
+     ],
+     [
+          "AN1.237",
+          "Uppalavaṇṇā, Ven.",
+          "foremost with psychic power"
+     ],
+     [
+          "AN1.238",
+          "Paṭācārā, Ven.",
+          "foremost in monastic law"
+     ],
+     [
+          "AN1.239",
+          "Dhammadinnā, Ven.",
+          "foremost who speak on Dhamma"
      ],
      [
           "AN1.24",
@@ -195,9 +455,244 @@ export const indexArray =`[
           "developed mind is very beneficial"
      ],
      [
+          "AN1.240",
+          "Nandā, Ven.",
+          "foremost in concentration"
+     ],
+     [
+          "AN1.241",
+          "Soṇā, Ven.",
+          "foremost in energy"
+     ],
+     [
+          "AN1.242",
+          "Sakulā, Ven.",
+          "foremost with divine eye"
+     ],
+     [
+          "AN1.243",
+          "Bhaddā Kuṇḍalakesā, Ven.",
+          "foremost with swift insight"
+     ],
+     [
+          "AN1.244",
+          "Bhaddā Kāpilānī, Ven.",
+          "foremost who recollects past lives"
+     ],
+     [
+          "AN1.245",
+          "Bhadda Kaccānā, Ven.",
+          "foremost who have attained swift insight"
+     ],
+     [
+          "AN1.246",
+          "Kisāgotamī, Ven.",
+          "foremost who wears coarse robes"
+     ],
+     [
+          "AN1.247",
+          "Siṅgālakamātā, Ven.",
+          "foremost who are committed to faith"
+     ],
+     [
+          "AN1.248",
+          "Tapussa and Bhallika, merchants",
+          "foremost in first to go for refuge"
+     ],
+     [
+          "AN1.249",
+          "Anāthapiṇḍika, householder",
+          "foremost as a donor"
+     ],
+     [
+          "AN1.250",
+          "Citta Macchikāsaṇḍika, householder",
+          "foremost who speak on Dhamma"
+     ],
+     [
+          "AN1.251",
+          "Hatthaka of Āḷavī, householder",
+          "foremost who attract a group"
+     ],
+     [
+          "AN1.252",
+          "Mahānāma Sakka, householder",
+          "foremost who donate fine things"
+     ],
+     [
+          "AN1.253",
+          "Ugga of Vesālī, householder",
+          "foremost who donate what is agreeable"
+     ],
+     [
+          "AN1.254",
+          "Hatthigāmaka Uggata gahapati, householder",
+          "foremost who attend on the Saṅgha"
+     ],
+     [
+          "AN1.255",
+          "Sūrambaṭṭha, householder",
+          "foremost with confirmed confidence"
+     ],
+     [
+          "AN1.256",
+          "Jīvaka Komārabhacca, householder",
+          "foremost who have confidence in a person"
+     ],
+     [
+          "AN1.257",
+          "Nakulapitā, householder",
+          "foremost who have trust"
+     ],
+     [
+          "AN1.258",
+          "Sujātā Seniyadhītā, householder",
+          "foremost in first to go for refuge"
+     ],
+     [
+          "AN1.259",
+          "Visākhā, Migara’s mother",
+          "foremost as a donor"
+     ],
+     [
+          "AN1.260",
+          "Khujjuttarā, householder",
+          "foremost who are very learned"
+     ],
+     [
+          "AN1.261",
+          "Sāmāvatī, householder",
+          "foremost who dwell in loving-kindness"
+     ],
+     [
+          "AN1.262",
+          "Uttarānanda Mātā, householder",
+          "foremost who practice concentration"
+     ],
+     [
+          "AN1.263",
+          "Suppavāsā Koliyadhītā, householder",
+          "foremost who give fine things"
+     ],
+     [
+          "AN1.264",
+          "Suppiyā, householder",
+          "foremost who care for the sick"
+     ],
+     [
+          "AN1.265",
+          "Kātiyānī, householder",
+          "foremost with confirmed confidence"
+     ],
+     [
+          "AN1.266",
+          "Nakulamātā, householder",
+          "foremost who have trust"
+     ],
+     [
+          "AN1.267",
+          "Kuraragharikā, householder",
+          "foremost whose confidence is based on oral transmission"
+     ],
+     [
+          "AN1.268-276",
+          "right view, person accomplished in (diṭṭhisampanna puggala)",
+          "impossibilities"
+     ],
+     [
+          "AN1.268-276",
+          "ordinary person (puthujjana)",
+          "possibilities"
+     ],
+     [
+          "AN1.271-276",
+          "heinous actions, five (ānantarika kamma)",
+          "possible for ordinary person"
+     ],
+     [
+          "AN1.271-276",
+          "heinous actions, five (ānantarika kamma)",
+          "impossible for person with right view"
+     ],
+     [
+          "AN1.277",
+          "Buddhas",
+          "impossible for two at the same time"
+     ],
+     [
+          "AN1.278",
+          "wheel-turning monarchs",
+          "impossible for two at the same time"
+     ],
+     [
+          "AN1.279",
+          "Buddhas",
+          "impossible for woman to be"
+     ],
+     [
+          "AN1.280",
+          "wheel-turning monarchs",
+          "impossible for woman to be"
+     ],
+     [
+          "AN1.281",
+          "Sakka",
+          "impossible for woman to be"
+     ],
+     [
+          "AN1.282",
+          "Māra",
+          "impossible for woman to be"
+     ],
+     [
+          "AN1.283",
+          "Brahmā",
+          "impossible for woman to be"
+     ],
+     [
+          "AN1.284",
+          "results of actions",
+          "bad actions give bad results"
+     ],
+     [
+          "AN1.285",
+          "results of actions",
+          "good actions give good results"
+     ],
+     [
           "AN1.29",
           "mind",
           "undeveloped mind brings suffering "
+     ],
+     [
+          "AN1.290-292",
+          "results of actions",
+          "bad action cannot cause rebirth in heaven"
+     ],
+     [
+          "AN1.293-295",
+          "results of actions",
+          "good action cannot cause rebirth in hell"
+     ],
+     [
+          "AN1.296",
+          "recollection of the Buddha (buddhānussati)",
+          "leads only to nibbāna"
+     ],
+     [
+          "AN1.297",
+          "recollection of the Dhamma (dhammānussati)",
+          "leads only to nibbāna"
+     ],
+     [
+          "AN1.298",
+          "recollection of the Saṅgha (saṅghānussati)",
+          "leads only to nibbāna"
+     ],
+     [
+          "AN1.299",
+          "recollection of virtue (sīlānussati)",
+          "leads only to nibbāna"
      ],
      [
           "AN1.30",
@@ -205,9 +700,109 @@ export const indexArray =`[
           "developed mind brings happiness "
      ],
      [
+          "AN1.300",
+          "recollection of generosity (cāgānussati)",
+          "leads only to nibbāna"
+     ],
+     [
+          "AN1.301",
+          "recollection of deities (devata ānussati)",
+          "leads only to nibbāna"
+     ],
+     [
+          "AN1.302",
+          "mindfulness of breathing (ānāpānassati) (ānāpānassati)",
+          "leads only to nibbāna"
+     ],
+     [
+          "AN1.303",
+          "mindfulness of death (maraṇassati)",
+          "leads only to nibbāna"
+     ],
+     [
+          "AN1.304",
+          "mindfulness of body (kāyagatāsati)",
+          "leads only to nibbāna"
+     ],
+     [
+          "AN1.305",
+          "recollection of peace (upasamānussati) ",
+          "leads only to nibbāna"
+     ],
+     [
+          "AN1.306",
+          "wrong view (micchā diṭṭhi)",
+          "leads to unwholesome"
+     ],
+     [
+          "AN1.307",
+          "right view (sammā diṭṭhi)",
+          "leads to wholesome"
+     ],
+     [
           "AN1.31",
           "mind",
           "wild mind is very harmful "
+     ],
+     [
+          "AN1.310",
+          "improper attention (ayoniso manasikara)",
+          "leads to wrong view"
+     ],
+     [
+          "AN1.311",
+          "proper attention (yoniso manasikāra)",
+          "leads to right view"
+     ],
+     [
+          "AN1.312",
+          "wrong view (micchā diṭṭhi)",
+          "resulting in hell"
+     ],
+     [
+          "AN1.313",
+          "right view (sammā diṭṭhi)",
+          "resulting in heaven"
+     ],
+     [
+          "AN1.314",
+          "wrong view (micchā diṭṭhi)",
+          "actions done with result in suffering"
+     ],
+     [
+          "AN1.314",
+          "wrong view (micchā diṭṭhi)",
+          "like seed that grows bitter things"
+     ],
+     [
+          "AN1.315",
+          "right view (sammā diṭṭhi)",
+          "actions done with result in happiness"
+     ],
+     [
+          "AN1.315",
+          "right view (sammā diṭṭhi)",
+          "like seed that grows sweet things"
+     ],
+     [
+          "AN1.316",
+          "wrong view (micchā diṭṭhi)",
+          "person with causes suffering for many"
+     ],
+     [
+          "AN1.317",
+          "right view (sammā diṭṭhi)",
+          "person with causes happiness for many"
+     ],
+     [
+          "AN1.318",
+          "wrong view (micchā diṭṭhi)",
+          "most blameworthy"
+     ],
+     [
+          "AN1.319",
+          "Makkhali, teacher",
+          "most harmful for all"
      ],
      [
           "AN1.32",
@@ -215,14 +810,49 @@ export const indexArray =`[
           "tamed mind is very beneficial "
      ],
      [
+          "AN1.321",
+          "Dhamma teaching",
+          "makes much merit"
+     ],
+     [
           "AN1.322",
           "giving (dāna)",
           "moderation in"
      ],
      [
+          "AN1.322",
+          "giving (dāna)",
+          "in a poorly explained teaching"
+     ],
+     [
           "AN1.323",
           "giving (dāna)",
           "moderation in"
+     ],
+     [
+          "AN1.323",
+          "receiving gifts",
+          "recipient should know moderation"
+     ],
+     [
+          "AN1.325",
+          "laziness (kosajja)",
+          ""
+     ],
+     [
+          "AN1.328-332",
+          "rebirth",
+          "Buddha doesn’t approve"
+     ],
+     [
+          "AN1.328-332",
+          "rebirth",
+          "like small bit of excrement"
+     ],
+     [
+          "AN1.328-332",
+          "finger-snap",
+          "rebirth not approved for even a fingersnap"
      ],
      [
           "AN1.41",
@@ -616,8 +1246,8 @@ export const indexArray =`[
      ],
      [
           "AN11.11",
-          "generosity (cāga)",
-          "recollection of ones own"
+          "recollection of generosity (cāgānussati)",
+          ""
      ],
      [
           "AN11.11",
@@ -631,8 +1261,8 @@ export const indexArray =`[
      ],
      [
           "AN11.13",
-          "generosity (cāga)",
-          "recollection of ones own"
+          "recollection of generosity (cāgānussati)",
+          ""
      ],
      [
           "AN11.15",
@@ -2351,7 +2981,7 @@ export const indexArray =`[
      ],
      [
           "AN3.66",
-          "Nandaka, Ven",
+          "Nandaka, Ven.",
           ""
      ],
      [
@@ -3070,9 +3700,54 @@ export const indexArray =`[
           ""
      ],
      [
+          "AN4.10",
+          "attachments (yoga)",
+          "to sensual pleasures, future lives, views, and ignorance "
+     ],
+     [
+          "AN4.10",
+          "attachment to future lives (bhavayoga)",
+          "definition"
+     ],
+     [
+          "AN4.10",
+          "attachment to sensual pleasures (kāmayoga)",
+          "definition"
+     ],
+     [
+          "AN4.10",
+          "attachment to views (diṭṭhiyog)",
+          "definition"
+     ],
+     [
+          "AN4.10",
+          "attachment to ignorance (avijjāyoga)",
+          "definition"
+     ],
+     [
           "AN4.100",
           "speech",
           "praise and dispraise"
+     ],
+     [
+          "AN4.11",
+          "wrong intention (micchā saṅkappa)",
+          "in four postures"
+     ],
+     [
+          "AN4.11",
+          "postures",
+          "for practicing always"
+     ],
+     [
+          "AN4.12",
+          "danger in slightest fault",
+          ""
+     ],
+     [
+          "AN4.12",
+          "hindrances (nīvarana)",
+          "removed in four postures"
      ],
      [
           "AN4.125",
@@ -3083,6 +3758,36 @@ export const indexArray =`[
           "AN4.126",
           "loving-kindness (mettā)",
           "as a path to brahma world"
+     ],
+     [
+          "AN4.13",
+          "right effort (sammā vāyāma)",
+          "definition"
+     ],
+     [
+          "AN4.14",
+          "right effort (sammā vāyāma)",
+          "regarding sense objects"
+     ],
+     [
+          "AN4.14",
+          "sense objects",
+          "and right effort"
+     ],
+     [
+          "AN4.14",
+          "right effort (sammā vāyāma)",
+          "and thoughts"
+     ],
+     [
+          "AN4.14",
+          "right effort (sammā vāyāma)",
+          "and factors of enlightenment"
+     ],
+     [
+          "AN4.14",
+          "right effort (sammā vāyāma)",
+          "and contemplation of corpse"
      ],
      [
           "AN4.183",
@@ -3150,6 +3855,16 @@ export const indexArray =`[
           "praise and dispraise"
      ],
      [
+          "AN4.3",
+          "criticism",
+          "wrongly directed"
+     ],
+     [
+          "AN4.3",
+          "criticism",
+          "rightly directed"
+     ],
+     [
           "AN4.34",
           "giving (dāna)",
           "qualities of recipient"
@@ -3160,8 +3875,28 @@ export const indexArray =`[
           "to the Saṅgha"
      ],
      [
+          "AN4.4",
+          "parents",
+          "harming "
+     ],
+     [
+          "AN4.4",
+          "parents",
+          "helping"
+     ],
+     [
           "AN4.42",
           "questions, answering ",
+          ""
+     ],
+     [
+          "AN4.5",
+          "non-returner",
+          "as steadfast person"
+     ],
+     [
+          "AN4.5",
+          "sensual pleasures",
           ""
      ],
      [
@@ -3200,6 +3935,21 @@ export const indexArray =`[
           "food"
      ],
      [
+          "AN4.6",
+          "learning",
+          "getting and not getting the point"
+     ],
+     [
+          "AN4.6",
+          "learned (bahussutā)",
+          ""
+     ],
+     [
+          "AN4.6",
+          "learning",
+          "without practicing"
+     ],
+     [
           "AN4.60",
           "giving (dāna)",
           "to the Saṅgha"
@@ -3223,6 +3973,11 @@ export const indexArray =`[
           "AN4.63",
           "giving (dāna)",
           "whom to give to"
+     ],
+     [
+          "AN4.7",
+          "learned (bahussutā)",
+          "monastics and lay people"
      ],
      [
           "AN4.73",
@@ -3250,6 +4005,11 @@ export const indexArray =`[
           "purifying"
      ],
      [
+          "AN4.8",
+          "Buddhas",
+          "self-assurances"
+     ],
+     [
           "AN4.82",
           "speech",
           "factor for rebirth"
@@ -3268,6 +4028,16 @@ export const indexArray =`[
           "AN4.84",
           "speech",
           "denigration"
+     ],
+     [
+          "AN4.9",
+          "requisites, four",
+          "source of craving"
+     ],
+     [
+          "AN4.9",
+          "craving (taṇha)",
+          "for specific rebirth"
      ],
      [
           "AN5.116–120",
@@ -3561,8 +4331,8 @@ export const indexArray =`[
      ],
      [
           "AN6.10",
-          "generosity (cāga)",
-          "recollection of ones own"
+          "recollection of generosity (cāgānussati)",
+          ""
      ],
      [
           "AN6.107",
@@ -3596,18 +4366,18 @@ export const indexArray =`[
      ],
      [
           "AN6.19",
-          "death (maraṇa)",
-          "mindfulness of"
+          "mindfulness of death (maraṇassati)",
+          ""
      ],
      [
           "AN6.20",
-          "death (maraṇa)",
-          "mindfulness of"
+          "mindfulness of death (maraṇassati)",
+          ""
      ],
      [
           "AN6.25",
-          "generosity (cāga)",
-          "recollection of ones own"
+          "recollection of generosity (cāgānussati)",
+          ""
      ],
      [
           "AN6.37",
@@ -6496,7 +7266,7 @@ export const indexArray =`[
      ],
      [
           "Iti85",
-          "mindfulness of breathing",
+          "mindfulness of breathing (ānāpānassati)",
           ""
      ],
      [
@@ -10161,7 +10931,7 @@ export const indexArray =`[
      ],
      [
           "Thag10.3",
-          "mindfulness of breathing",
+          "mindfulness of breathing (ānāpānassati)",
           ""
      ],
      [
@@ -12396,7 +13166,7 @@ export const indexArray =`[
      ],
      [
           "Ud4.1",
-          "mindfulness of breathing",
+          "mindfulness of breathing (ānāpānassati) (ānāpānassati)",
           "to cut off thinking"
      ],
      [
@@ -13136,8 +13906,8 @@ export const indexArray =`[
      ],
      [
           "Vv44",
-          "generosity (cāga)",
-          "recollection of of ones own"
+          "recollection of generosity (cāgānussati)",
+          ""
      ],
      [
           "Vv45",

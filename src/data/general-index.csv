@@ -18,10 +18,10 @@ generosity (cāga)	grounds for making merit	MN99
 generosity (cāga)	with material things and with Dhamma	AN2.143
 generosity (cāga)	as a quality of a good person	AN4.53
 generosity (cāga)	quality of stream-enterer	SN55.6
-generosity (cāga)	recollection of ones own	AN6.10
-generosity (cāga)	recollection of ones own	AN6.25
-generosity (cāga)	recollection of ones own	AN11.11
-generosity (cāga)	recollection of ones own	AN11.13
+recollection of generosity (cāgānussati)		AN6.10
+recollection of generosity (cāgānussati)		AN6.25
+recollection of generosity (cāgānussati)		AN11.11
+recollection of generosity (cāgānussati)		AN11.13
 generosity (cāga)	recollection of other's	MN68
 generosity (cāga)	as a sign of faith	AN3.42
 generosity (cāga)	stream of merit	SN55.32
@@ -214,8 +214,8 @@ death (maraṇa)	inevitability of	Thag6.13
 death (maraṇa)	inevitability of	AN7.74
 death (maraṇa)	King of	SN4.25
 death (maraṇa)	King of	SN9.7
-death (maraṇa)	mindfulness of	AN6.19
-death (maraṇa)	mindfulness of	AN6.20
+mindfulness of death (maraṇassati)		AN6.19
+mindfulness of death (maraṇassati)		AN6.20
 death (maraṇa)	by murder	Ud4.3
 death (maraṇa)	overcome grief of	Snp3.8
 death (maraṇa)	as part of right view	MN9
@@ -991,7 +991,7 @@ friendship	helps with cetovimuttiya	Ud4.1
 speech	topics of discussion	Ud4.1
 perception of ugliness (asubhasañña)	to give up greed	Ud4.1
 loving-kindness (mettā)	to give up hate	Ud4.1
-mindfulness of breathing	to cut off thinking	Ud4.1
+mindfulness of breathing (ānāpānassati) (ānāpānassati)	to cut off thinking	Ud4.1
 perception of impermanance	to remove conceit ‘I am’	Ud4.1
 monastic life	wrongly practiced	Ud4.2
 alms food	from the poor	Ud4.3
@@ -1198,7 +1198,7 @@ arahants	benefiting the world	Iti84
 disciple of the Buddha	benefiting the world	Iti84
 perception of ugliness (asubhasañña)		Iti85
 impermanence meditation		Iti85
-mindfulness of breathing		Iti85
+mindfulness of breathing (ānāpānassati)		Iti85
 Dhamma	delight in	Iti86
 thoughts (vitakkā)	skillful and unskillful	Iti87
 unwholesome roots (lobha, dosa, moha)	as inner stains	Iti88
@@ -1560,7 +1560,7 @@ giving (dāna)	smallest gift has value	Vv42
 wheel-turning monarchs	not greatest happiness	Vv43
 rejoicing	in someone else’s merit	Vv44
 gifts, specific types of	monastery	Vv44
-generosity (cāga)	recollection of of ones own	Vv44
+recollection of generosity (cāgānussati)		Vv44
 monastery		xref gifts, specific types of
 gifts, specific types of	flowers	Vv45
 gifts, specific types of	monastery	Vv46
@@ -1977,7 +1977,7 @@ Suddhodana, king		Thag10.1
 Māyā, queen Mahā		Thag10.1
 Mahā Māyā, queen		xref Māyā, queen Mahā
 solitude	delight in	Thag10.1
-mindfulness of breathing		Thag10.3
+mindfulness of breathing (ānāpānassati)		Thag10.3
 grieving	makes enemies rejoice	Thag10.3
 slow spiritual progress		Thag10.4
 monastic life	not getting results for a long time	Thag10.4
@@ -2477,7 +2477,7 @@ skillfulness and unskillfulness	seeing difference between	AN3.65
 praised by the wise (viññuppasatthā)		AN3.65
 assurances, four (assāsa)		AN3.65
 consolations		xref assurances, four (assāsa)
-Nandaka, Ven		AN3.66
+Nandaka, Ven.		AN3.66
 unwholesome roots (lobha, dosa, moha)	as real	AN3.66
 oral tradition (anussava)	going by	AN3.66
 lineage (paramparāya)	going by	AN3.66
@@ -2866,3 +2866,165 @@ Buddha, the	without counterpart	AN1.174
 analytical knowledge (paṭisambhidā)	from the arising of the Buddha	AN1.176
 stages of enlightenment	from the arising of the Buddha	AN1.181-186
 Sāriputta, Ven.	rightly keeps rolling wheel of Dhamma	AN1.187
+Koṇḍañña, Añña Who Understood	foremost in seniority	AN1.188
+Sāriputta, Ven.	foremost in great wisdom	AN1.189
+Mahāmoggallāna, Ven.	foremost in psychic power	AN1.190
+Mahākassapa, Ven.	foremost who speaks onnausterities	AN1.191
+Anuruddha, Ven.	foremost with divine eye	AN1.192
+Bhaddiya Kāḷigodhā, Ven.	foremost from eminent families 	AN1.193
+Lakuṇṭaka Bhaddiya, Ven.	foremost with a beautiful voice	AN1.194
+Piṇḍola Bhāradvāja, Ven.	foremost with a lion’s roar 	AN1.195
+Puṇṇa Mantāṇiputta, Ven.	foremost who speak on Dhamma	AN1.196
+Mahākaccāna, Ven.	foremost of those who speak in detail the meaning of a brief statement	AN1.197
+Cūḷapanthaka, Ven.	foremost in creating mind made body	AN1.198
+Cūḷapanthaka, Ven.	foremost in mental transformation	AN1.199
+Mahāpanthaka, Ven.	foremost in transformation of perception	AN1.200
+Subhūt, Ven.	foremost who dwell without conflict	AN1.201
+Subhūti, Ven.	foremost of those worthy of gifts	AN1.202
+Revata, Ven. Khadiravaniya 	foremost among forest dwellers	AN1.203
+Revata, Ven. Kaṅkhā	foremost of meditators	AN1.204
+Soṇa Koḷivisa, Ven.	foremost of those who arouse energy	AN1.205
+Soṇo Kuṭikaṇṇa, Ven.	foremost who is an excellent speaker	AN1.206
+Sīvali, Ven.	foremost of those who make gains	AN1.207
+Vakkalī, Ven.	foremost of those resolved through faith	AN1.208
+Rāhula, Ven.	foremost who desire to train	AN1.209
+Raṭṭhapāla, Ven.	foremost who went forth out of faith	AN1.210
+Kuṇḍadhāna, Ven.	foremost who are first to take a meal ticket	AN1.211
+Vaṅgīsa, Ven.	foremost of poets	AN1.212
+Upasena Vaṅgantaputta, Ven.	foremost who is impressive all around	AN1.213
+Dabba Mallaputta, Ven.	foremost in assigning lodgins	AN1.214
+Pilindavaccha, Ven.	foremost of those beloved by gods 	AN1.215
+Bāhiyo Dārucīriya, Ven.	foremost with swift insight	AN1.216
+Kumārakassapa, Ven.	foremost with brilliant speech	AN1.217
+Mahākoṭṭhita, Ven.	foremost in analytical knowledge	AN1.218
+Ānanada, Ven.	foremost of very learned	AN1.219
+Ānanada, Ven.	foremost with good memory	AN1.220
+Ānanada, Ven.	foremost with quick grasp	AN1.221
+Ānanada, Ven.	foremost who are resolute	AN1.222
+Ānanada, Ven.	foremost as personal attendant	AN1.223
+Uruvela Kassapa, Ven.	foremost with large congregation	AN1.224
+Kāḷudāyī, Ven.	foremost who inspires lay families	AN1.225
+Bakkula, Ven.	foremost with good health	AN1.226
+Sobhita, Ven.	foremost who recollects past lives	AN1.227
+Upāli, Ven.	foremost in monastic law	AN1.228
+Nandaka, Ven.	foremost who advises bhikkhunīs	AN1.229
+Nanda, Ven.	foremost who guards senses	AN1.230
+Mahākappina, Ven.	foremost who advises bhikkhus	AN1.231
+Sāgata, Ven.	foremost skilled in fire element	AN1.232
+Rādha, Ven.	foremost who receive eloquent teachings	AN1.233
+Mogharājā, Ven.	foremost who wears coarse robes	AN1.234
+Mahāpajāpatī Gotamī, Ven.	foremost in seniority	AN1.235
+Khemā, Ven.	foremost with great wisdom	AN1.236
+Uppalavaṇṇā, Ven.	foremost with psychic power	AN1.237
+Paṭācārā, Ven.	foremost in monastic law	AN1.238
+Dhammadinnā, Ven.	foremost who speak on Dhamma	AN1.239
+Nandā, Ven.	foremost in concentration	AN1.240
+Soṇā, Ven.	foremost in energy	AN1.241
+Sakulā, Ven.	foremost with divine eye	AN1.242
+Bhaddā Kuṇḍalakesā, Ven.	foremost with swift insight	AN1.243
+Bhaddā Kāpilānī, Ven.	foremost who recollects past lives	AN1.244
+Bhadda Kaccānā, Ven.	foremost who have attained swift insight	AN1.245
+Kisāgotamī, Ven.	foremost who wears coarse robes	AN1.246
+Siṅgālakamātā, Ven.	foremost who are committed to faith	AN1.247
+Tapussa and Bhallika, merchants	foremost in first to go for refuge	AN1.248
+Anāthapiṇḍika, householder	foremost as a donor	AN1.249
+Citta Macchikāsaṇḍika, householder	foremost who speak on Dhamma	AN1.250
+Hatthaka of Āḷavī, householder	foremost who attract a group	AN1.251
+Mahānāma Sakka, householder	foremost who donate fine things	AN1.252
+Ugga of Vesālī, householder	foremost who donate what is agreeable	AN1.253
+Hatthigāmaka Uggata gahapati, householder	foremost who attend on the Saṅgha	AN1.254
+Sūrambaṭṭha, householder	foremost with confirmed confidence	AN1.255
+Jīvaka Komārabhacca, householder	foremost who have confidence in a person	AN1.256
+Nakulapitā, householder	foremost who have trust	AN1.257
+Sujātā Seniyadhītā, householder	foremost in first to go for refuge	AN1.258
+Visākhā, Migara’s mother	foremost as a donor	AN1.259
+Khujjuttarā, householder	foremost who are very learned	AN1.260
+Sāmāvatī, householder	foremost who dwell in loving-kindness	AN1.261
+Uttarānanda Mātā, householder	foremost who practice concentration	AN1.262
+Suppavāsā Koliyadhītā, householder	foremost who give fine things	AN1.263
+Suppiyā, householder	foremost who care for the sick	AN1.264
+Kātiyānī, householder	foremost with confirmed confidence	AN1.265
+Nakulamātā, householder	foremost who have trust	AN1.266
+Kuraragharikā, householder	foremost whose confidence is based on oral transmission	AN1.267
+right view, person accomplished in (diṭṭhisampanna puggala)	impossibilities	AN1.268-276
+ordinary person (puthujjana)	possibilities	AN1.268-276
+worldling (puthujjana)		xref ordinary person (puthujjana)
+puthujjana		xref ordinary person (puthujjana)
+Buddhas	impossible for two at the same time	AN1.277
+heinous actions, five (ānantarika kamma)	possible for ordinary person	AN1.271-276
+ānantarika kamma		xref heinous actions, five (ānantarika kamma)
+heinous actions, five (ānantarika kamma)	impossible for person with right view	AN1.271-276
+wheel-turning monarchs	impossible for two at the same time	AN1.278
+Buddhas	impossible for woman to be	AN1.279
+wheel-turning monarchs	impossible for woman to be	AN1.280
+Sakka	impossible for woman to be	AN1.281
+Māra	impossible for woman to be	AN1.282
+Brahmā	impossible for woman to be	AN1.283
+results of actions	bad actions give bad results	AN1.284
+results of actions	good actions give good results	AN1.285
+results of actions	bad action cannot cause rebirth in heaven	AN1.290-292
+results of actions	good action cannot cause rebirth in hell	AN1.293-295
+recollection of the Buddha (buddhānussati)	leads only to nibbāna	AN1.296
+recollection of the Dhamma (dhammānussati)	leads only to nibbāna	AN1.297
+recollection of the Saṅgha (saṅghānussati)	leads only to nibbāna	AN1.298
+recollection of virtue (sīlānussati)	leads only to nibbāna	AN1.299
+recollection of generosity (cāgānussati)	leads only to nibbāna	AN1.300
+recollection of deities (devata ānussati)	leads only to nibbāna	AN1.301
+mindfulness of breathing (ānāpānassati) (ānāpānassati)	leads only to nibbāna	AN1.302
+mindfulness of death (maraṇassati)	leads only to nibbāna	AN1.303
+mindfulness of body (kāyagatāsati)	leads only to nibbāna	AN1.304
+generosity (cāga)		xref recollection of generosity (cāgānussati)
+death (maraṇa)		xref mindfulness of death (maraṇassati)
+ānāpānassati 		xref mindfulness of breathing (ānāpānassati)
+maraṇassati		xref mindfulness of death (maraṇassati)
+recollection of peace (upasamānussati) 	leads only to nibbāna	AN1.305
+wrong view (micchā diṭṭhi)	leads to unwholesome	AN1.306
+right view (sammā diṭṭhi)	leads to wholesome	AN1.307
+improper attention (ayoniso manasikara)	leads to wrong view	AN1.310
+proper attention (yoniso manasikāra)	leads to right view	AN1.311
+wrong view (micchā diṭṭhi)	resulting in hell	AN1.312
+right view (sammā diṭṭhi)	resulting in heaven	AN1.313
+wrong view (micchā diṭṭhi)	actions done with result in suffering	AN1.314
+right view (sammā diṭṭhi)	actions done with result in happiness	AN1.315
+wrong view (micchā diṭṭhi)	like seed that grows bitter things	AN1.314
+right view (sammā diṭṭhi)	like seed that grows sweet things	AN1.315
+wrong view (micchā diṭṭhi)	person with causes suffering for many	AN1.316
+right view (sammā diṭṭhi)	person with causes happiness for many	AN1.317
+wrong view (micchā diṭṭhi)	most blameworthy	AN1.318
+Makkhali, teacher	most harmful for all	AN1.319
+Dhamma teaching	makes much merit	AN1.321
+giving (dāna)	in a poorly explained teaching	AN1.322
+receiving gifts	recipient should know moderation	AN1.323
+laziness (kosajja)		AN1.325
+rebirth	Buddha doesn’t approve	AN1.328-332
+rebirth	like small bit of excrement	AN1.328-332
+finger-snap	rebirth not approved for even a fingersnap	AN1.328-332
+criticism	wrongly directed	AN4.3
+criticism	rightly directed	AN4.3
+parents	harming 	AN4.4
+parents	helping	AN4.4
+non-returner	as steadfast person	AN4.5
+sensual pleasures		AN4.5
+learning	getting and not getting the point	AN4.6
+learned (bahussutā)		AN4.6
+learning	without practicing	AN4.6
+learned (bahussutā)	monastics and lay people	AN4.7
+Buddhas	self-assurances	AN4.8
+requisites, four	source of craving	AN4.9
+craving (taṇha)	for specific rebirth	AN4.9
+attachments (yoga)	to sensual pleasures, future lives, views, and ignorance 	AN4.10
+attachment to future lives (bhavayoga)	definition	AN4.10
+attachment to sensual pleasures (kāmayoga)	definition	AN4.10
+attachment to views (diṭṭhiyog)	definition	AN4.10
+attachment to ignorance (avijjāyoga)	definition	AN4.10
+wrong intention (micchā saṅkappa)	in four postures	AN4.11
+postures	for practicing always	AN4.11
+danger in slightest fault		AN4.12
+hindrances (nīvarana)	removed in four postures	AN4.12
+right effort (sammā vāyāma)	definition	AN4.13
+effort (padhāna)		xref right effort (sammā vāyāma)
+right effort (sammā vāyāma)	regarding sense objects	AN4.14
+sense objects	and right effort	AN4.14
+right effort (sammā vāyāma)	and thoughts	AN4.14
+right effort (sammā vāyāma)	and factors of enlightenment	AN4.14
+right effort (sammā vāyāma)	and contemplation of corpse	AN4.14
