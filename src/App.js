@@ -80,7 +80,7 @@ function App() {
         <div className="top-row">
           <div className="filter-area">
             <label id="user-input-label" htmlFor="user-input">
-              Filter:
+              <span className="filter-label">Filter:</span>
               <input
                 className="filter-input-box"
                 id="user-input"
