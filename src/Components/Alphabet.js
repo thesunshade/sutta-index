@@ -13,9 +13,10 @@ export default function Alphabet() {
         return (
           <Popup
             trigger={<span key={letter}>{letter}</span>}
-            position={["bottom center", "bottom right", "bottom left"]}
-            keepTooltipInside="body"
+            position={["bottom right", "bottom center", "bottom left"]}
+            keepTooltipInside="#sutta-index"
             on={["click", "focus"]}
+            arrow={true}
             closeOnDocumentClick
           >
             <div>

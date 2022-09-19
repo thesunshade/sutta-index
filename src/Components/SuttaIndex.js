@@ -13,7 +13,7 @@ export default function SuttaIndex(props) {
 
   return (
     <>
-      <div className="sutta-index">
+      <div id="sutta-index" className="sutta-index">
         {alphabet.map(letter => {
           const headwordsObject = index[letter];
           const headwordsArray = Object.keys(headwordsObject);

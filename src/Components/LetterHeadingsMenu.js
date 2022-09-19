@@ -9,13 +9,15 @@ export default function LetterHeadingsMenu(props) {
   const headwordsArray = Object.keys(index[letter]);
   return (
     <>
-      {headwordsArray.map(headword => {
-        return (
-          <li key={headword}>
-            <a href={"#" + makeNormalizedId(headword)}>{headword}</a>
-          </li>
-        );
-      })}
+      <ul className="dropdown-list">
+        {headwordsArray.map(headword => {
+          return (
+            <li key={headword}>
+              <a href={"#" + makeNormalizedId(headword)}>{headword}</a>
+            </li>
+          );
+        })}
+      </ul>
     </>
   );
 }
