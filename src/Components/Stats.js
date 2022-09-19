@@ -18,15 +18,6 @@ export default function Stats() {
             Number of locators: <span className="answer">{index.length}</span>
           </div>
         </div>
-
-        <div className="row-2">
-          <div>
-            Complete Books: <span className="answer">Kp, Dhp, Ud, Iti, Snp, Vv, Pv, Thag, Thig</span>
-          </div>
-          <div>
-            Planned Books: <span className="answer">DN, MN, SN, AN</span>
-          </div>
-        </div>
       </div>
     </>
   );

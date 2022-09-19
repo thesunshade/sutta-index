@@ -129,23 +129,29 @@ App {
 
 .alphabet {
   font-family: "Fira Code";
-  /* letter-spacing: 5px; */
   margin-bottom: .5rem;
   display: flex;
   flex-direction: row;
   justify-content: space-between;
   max-width: 35rem;
+  min-width: 0;
 
+}
+
+@media only screen and (max-width: 475px) {
+  .alphabet {
+    max-width: 30rem !important;
+  }
 }
 
 .alphabet a,
 .alphabet a:visited {
-  color: black
+  color: black;
 }
 
 .alphabet a {
   border-radius: 5px;
-  padding: 4px 4px 3px 3px
+  padding: 4px 4px 3px 3px;
 }
 
 .alphabet a:hover {
@@ -157,6 +163,22 @@ App {
 .dark .alphabet a:hover {
   color: var(--dark-primary) !important;
   background-color: var(--offwhite);
+}
+
+@media only screen and (max-width: 475px) {
+  .alphabet a {
+    padding: 0px;
+  }
+
+  .alphabet a:hover {
+    color: rgb(109, 109, 109);
+    background-color: inherit;
+  }
+
+  .dark .alphabet a:hover {
+    color: var(--primary) !important;
+    background-color: inherit;
+  }
 }
 
 .dark .alphabet a,
@@ -271,10 +293,25 @@ App {
 .info-area {
   max-width: var(--max-width);
   padding: 1rem;
+  min-width: 10rem
+}
+
+@media only screen and (max-width: 475px) {
+  .info-area {
+    max-width: 100vw;
+
+  }
 }
 
 .info-area p {
   line-height: 130%;
+  margin-bottom: .7rem;
+
+}
+
+.info-area a,
+.info-area a:visited {
+  color: rgb(0, 48, 207)
 }
 
 .sutta-index {
