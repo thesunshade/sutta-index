@@ -12,14 +12,10 @@ export default function Alphabet() {
       {alphabet.map(letter => {
         return (
           <Popup
-            trigger={
-              <a key={letter} href={"#0"}>
-                {letter}
-              </a>
-            }
+            trigger={<span key={letter}>{letter}</span>}
             position={["bottom center", "bottom right", "bottom left"]}
             keepTooltipInside="body"
-            on={["hover", "click", "focus"]}
+            on={["click", "focus"]}
             closeOnDocumentClick
           >
             <div>
