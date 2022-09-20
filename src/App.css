@@ -129,7 +129,7 @@ App {
 
 .alphabet {
   font-family: "Fira Code";
-  margin-bottom: .5rem;
+  /* margin-bottom: .5rem; */
   display: flex;
   flex-direction: row;
   justify-content: space-between;
@@ -322,6 +322,7 @@ App {
 
 .sutta-index {
   margin: auto 1rem;
+
   max-width: var(--max-width)
 }
 
@@ -524,7 +525,7 @@ tr:nth-child(even) {
 }
 
 /*popup*/
-
+/* 
 .popup-content {
   margin: auto;
   background: var(--dark-primary);
@@ -532,7 +533,7 @@ tr:nth-child(even) {
   padding: 5px;
   overflow-y: scroll;
   overflow-x: hidden;
-  max-height: 50vh
+  max-height: 50vh;
 }
 
 .dropdown-list {
@@ -574,7 +575,8 @@ tr:nth-child(even) {
 
 [data-popup='tooltip'].popup-overlay {
   background: transparent;
-}
+} */
+
 
 /* 
 .popup-content {
@@ -600,3 +602,38 @@ tr:nth-child(even) {
 [data-popup='tooltip'].popup-overlay {
   background: transparent;
 } */
+
+.hidden-menu {
+  display: none;
+}
+
+.menu-dropdown-area {}
+
+.dropdown-list {
+  overflow-y: scroll;
+  overflow-x: hidden;
+  max-height: 20rem;
+  background-color: var(--dark-primary);
+  margin: 0
+}
+
+.dropdown-list a {
+  text-decoration: none;
+  color: var(--offwhite);
+  word-spacing: inherit;
+  white-space: inherit;
+}
+
+.dropdown-list a:hover li {
+  background-color: var(--primary);
+  color: black;
+  /* display: inline-block; */
+}
+
+.dropdown-list li {
+  list-style: none;
+}
+
+ul.dropdown-list {
+  padding: .5rem;
+}

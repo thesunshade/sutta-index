@@ -22,6 +22,15 @@ function App() {
   const [filterInput, setFilterInput] = useState("");
   const [filterByText, setFilterByText] = useState("");
 
+  document.addEventListener("click", e => {
+    if (!e.target.classList.contains("letter")) {
+      const subMenus = document.getElementsByClassName("dropdown-list");
+      for (let i = 0; i < subMenus.length; i++) {
+        subMenus[i].classList.add("hidden-menu");
+      }
+    }
+  });
+
   if (localStorage.theme === "dark") {
     document.body.classList.add("dark");
   } else {

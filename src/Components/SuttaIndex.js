@@ -19,7 +19,7 @@ export default function SuttaIndex(props) {
           const headwordsArray = Object.keys(headwordsObject);
           return (
             <>
-              <div className="alphabet-anchor" id={letter}>
+              <div key={letter + "anchor"} className="alphabet-anchor" id={letter}>
                 {letter}
               </div>
               {headwordsArray.map(headword => {
@@ -30,7 +30,7 @@ export default function SuttaIndex(props) {
                 return (
                   <>
                     <Headword
-                      key={headword}
+                      key={headword + "headword"}
                       headword={headword}
                       headwordObject={headwordsObject[headword]}
                       filterByText={filterByText}
