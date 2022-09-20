@@ -26,10 +26,17 @@ function App() {
     if (!e.target.classList.contains("letter")) {
       const subMenus = document.getElementsByClassName("dropdown-list");
       for (let i = 0; i < subMenus.length; i++) {
-        subMenus[i].classList.add("hidden-menu");
+        subMenus[i].classList.add("hidden");
       }
     }
   });
+
+  function closeAllDrawers() {
+    const allHideableAreas = document.getElementsByClassName("hideable-area");
+    for (let i = 0; i < allHideableAreas.length; i++) {
+      allHideableAreas[i].classList.add("hidden");
+    }
+  }
 
   if (localStorage.theme === "dark") {
     document.body.classList.add("dark");
@@ -111,7 +118,7 @@ function App() {
               </button>
             </label>
           </div>
-          <button className="up-icon" onClick={() => window.scrollTo(0, 0)}>
+          <button className="up-icon" onClick={() => closeAllDrawers()}>
             <img className="icon" height="20px" alt="Go to top" src={upIcon} />
           </button>
           <div id="theme-button" className="theme-button" onClick={toggleTheme}>

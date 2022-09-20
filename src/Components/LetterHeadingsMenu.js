@@ -10,12 +10,17 @@ export default function LetterHeadingsMenu(props) {
 
   function hideMenu() {
     const thisMenu = document.getElementById(letter + "-menu");
-    thisMenu.classList.add("hidden-menu");
+    thisMenu.classList.add("hidden");
   }
 
   return (
     <>
-      <ul id={letter + "-menu"} key={letter + "-menu"} className="dropdown-list hidden-menu" onClick={hideMenu}>
+      <ul
+        id={letter + "-menu"}
+        key={letter + "-menu"}
+        className="dropdown-list hidden hideable-area"
+        onClick={hideMenu}
+      >
         {headwordsArray.map(headword => {
           return (
             <a key={headword} href={"#" + makeNormalizedId(headword)}>

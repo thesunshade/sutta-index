@@ -603,18 +603,16 @@ tr:nth-child(even) {
   background: transparent;
 } */
 
-.hidden-menu {
-  display: none;
-}
 
-.menu-dropdown-area {}
+
 
 .dropdown-list {
-  overflow-y: scroll;
+  overflow-y: auto;
   overflow-x: hidden;
   max-height: 20rem;
   background-color: var(--dark-primary);
-  margin: 0
+  margin: 0 0 1rem 0;
+  max-width: var(--max-width)
 }
 
 .dropdown-list a {

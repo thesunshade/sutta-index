@@ -165,6 +165,11 @@ export const indexArray =`[
           "foremost in seniority"
      ],
      [
+          "AN1.188-267",
+          "foremost",
+          "disciples of Buddha"
+     ],
+     [
           "AN1.189",
           "Sāriputta, Ven.",
           "foremost in great wisdom"
@@ -1631,8 +1636,8 @@ export const indexArray =`[
      ],
      [
           "AN3.117",
-          "virtue",
-          "accomplishment in"
+          "accomplishment in virtue (sīlasampadā)",
+          ""
      ],
      [
           "AN3.117",
@@ -1996,7 +2001,7 @@ export const indexArray =`[
      ],
      [
           "AN3.16",
-          "sense doors, guarding",
+          "sense doors, guarding (indriyesu guttadvāra)",
           "definition"
      ],
      [
@@ -3790,6 +3795,76 @@ export const indexArray =`[
           "and contemplation of corpse"
      ],
      [
+          "AN4.15",
+          "foremost",
+          "size is Rāhu"
+     ],
+     [
+          "AN4.15",
+          "foremost",
+          "sensualist is King Mandhātā"
+     ],
+     [
+          "AN4.15",
+          "foremost",
+          "sovereignty is Māra"
+     ],
+     [
+          "AN4.15",
+          "foremost",
+          "in the world is the Buddha"
+     ],
+     [
+          "AN4.15",
+          "Māra",
+          "foremost in sovereighty"
+     ],
+     [
+          "AN4.17",
+          "decisions",
+          "making prejudiced"
+     ],
+     [
+          "AN4.17",
+          "cowardice ",
+          "making prejudiced decisions"
+     ],
+     [
+          "AN4.17",
+          "favouritism",
+          "making prejudiced decisions"
+     ],
+     [
+          "AN4.17",
+          "stupidity ",
+          "making prejudiced decisions"
+     ],
+     [
+          "AN4.17",
+          "desire (canda)",
+          "making prejudiced decisions"
+     ],
+     [
+          "AN4.17",
+          "hatred (dosa)",
+          "making prejudiced decisions"
+     ],
+     [
+          "AN4.17",
+          "delusion (moha)",
+          "making prejudiced decisions"
+     ],
+     [
+          "AN4.17",
+          "fear (bhaya)",
+          "making prejudiced decisions"
+     ],
+     [
+          "AN4.18",
+          "decisions",
+          "making unprejudiced decisions"
+     ],
+     [
           "AN4.183",
           "speech",
           "that increases unwholesome qualities"
@@ -3805,6 +3880,16 @@ export const indexArray =`[
           "fear of"
      ],
      [
+          "AN4.19",
+          "decisions",
+          "making prejudiced decisions"
+     ],
+     [
+          "AN4.19",
+          "decisions",
+          "making unprejudiced decisions"
+     ],
+     [
           "AN4.190",
           "loving-kindness (mettā)",
           "as the state of a brahmā"
@@ -3813,6 +3898,31 @@ export const indexArray =`[
           "AN4.197",
           "giving (dāna)",
           "result of"
+     ],
+     [
+          "AN4.20",
+          "meal allocator",
+          "going to hell"
+     ],
+     [
+          "AN4.21",
+          "respect (gārava)",
+          "one without lives in suffering"
+     ],
+     [
+          "AN4.21",
+          "Buddha, the",
+          "respects the Dhamma"
+     ],
+     [
+          "AN4.21",
+          "Sahampati Brahmā",
+          "agreeing with the Buddha"
+     ],
+     [
+          "AN4.21",
+          "Buddhas",
+          "all respected the Dhamma"
      ],
      [
           "AN4.217",
@@ -3825,6 +3935,16 @@ export const indexArray =`[
           "declarations"
      ],
      [
+          "AN4.22",
+          "Buddha, the",
+          "not bowing to elders"
+     ],
+     [
+          "AN4.22",
+          "seniority",
+          "true meaning"
+     ],
+     [
           "AN4.221",
           "speech",
           "good conduct"
@@ -3843,11 +3963,101 @@ export const indexArray =`[
           "AN4.222",
           "speech",
           "bad conduct"
+     ],
+     [
+          "AN4.24",
+          "Buddha, the",
+          "knowledge of the Buddha"
+     ],
+     [
+          "AN4.24",
+          "non-identification",
+          "with seen, heard, thought, known"
+     ],
+     [
+          "AN4.25",
+          "monastic life",
+          "goal of"
+     ],
+     [
+          "AN4.25",
+          "monastic life",
+          "wrongly practiced"
+     ],
+     [
+          "AN4.25",
+          "monastic life",
+          "for the sake of gain"
      ],
      [
           "AN4.250–53",
           "speech",
           "declarations"
+     ],
+     [
+          "AN4.26",
+          "monastic life",
+          "wrongly practiced"
+     ],
+     [
+          "AN4.27",
+          "requisites, four",
+          "as trifles"
+     ],
+     [
+          "AN4.27",
+          "contentment (santuṭṭhi)",
+          "with requisites"
+     ],
+     [
+          "AN4.28",
+          "contentment (santuṭṭhi)",
+          "with requisites"
+     ],
+     [
+          "AN4.28",
+          "meditation",
+          "love for"
+     ],
+     [
+          "AN4.28",
+          "noble traditions (ariyavaṁsa)",
+          ""
+     ],
+     [
+          "AN4.28",
+          "tradition (vaṁsa)",
+          ""
+     ],
+     [
+          "AN4.29",
+          "good will (abyāpāda, avyāpāda)",
+          "as footprint of the Dhamma"
+     ],
+     [
+          "AN4.29",
+          "footprints of the Dhamma (dhammapada)",
+          ""
+     ],
+     [
+          "AN4.29",
+          "contentment (santuṭṭhi)",
+          "as footprint of the Dhamma"
+     ],
+     [
+          "AN4.29",
+          "right mindfulness (sammā sati)",
+          "as footprint of the Dhamma"
+     ],
+     [
+          "AN4.29",
+          "right concentration (sammā samadhi)",
+          "as footprint of the Dhamma"
+     ],
+     [
+          "AN4.29",
+          "tradition (vaṁsa)",
+          ""
      ],
      [
           "AN4.3",
@@ -3865,6 +4075,66 @@ export const indexArray =`[
           "rightly directed"
      ],
      [
+          "AN4.30",
+          "views of other sects",
+          "against the footprints of Dhamma"
+     ],
+     [
+          "AN4.31",
+          "region",
+          "suitable"
+     ],
+     [
+          "AN4.31",
+          "merit (puññā)",
+          "done in the past"
+     ],
+     [
+          "AN4.31",
+          "determination",
+          ""
+     ],
+     [
+          "AN4.31",
+          "association",
+          "with good people"
+     ],
+     [
+          "AN4.32",
+          "friendship",
+          "attracting friends"
+     ],
+     [
+          "AN4.32",
+          "giving (dāna)",
+          "friendship gained by"
+     ],
+     [
+          "AN4.32",
+          "impartiality (samānattatā)",
+          "friendship gained by"
+     ],
+     [
+          "AN4.32",
+          "speech",
+          "kind words"
+     ],
+     [
+          "AN4.33",
+          "identity (sakkāya)",
+          "origin, cessation, etc."
+     ],
+     [
+          "AN4.33",
+          "identity (sakkāya)",
+          "cessation of causes fear among gods"
+     ],
+     [
+          "AN4.33",
+          "gods",
+          "afraid of Buddha’s teachings on identity"
+     ],
+     [
           "AN4.34",
           "giving (dāna)",
           "qualities of recipient"
@@ -3873,6 +4143,91 @@ export const indexArray =`[
           "AN4.34",
           "giving (dāna)",
           "to the Saṅgha"
+     ],
+     [
+          "AN4.35",
+          "Vassakāra, brahmin",
+          ""
+     ],
+     [
+          "AN4.35",
+          "great man (mahāpurisa)",
+          "defined by brahmins"
+     ],
+     [
+          "AN4.35",
+          "great man (mahāpurisa)",
+          "defined by Buddha"
+     ],
+     [
+          "AN4.36",
+          "Buddha, the",
+          "footprints"
+     ],
+     [
+          "AN4.36",
+          "Buddha, the",
+          "asked if he is a god"
+     ],
+     [
+          "AN4.36",
+          "gods",
+          "Buddha asked if he is a"
+     ],
+     [
+          "AN4.36",
+          "Doṇa, brahmin",
+          "asks Buddha if he is a god"
+     ],
+     [
+          "AN4.36",
+          "Buddha, the",
+          "like a lotus grown up out of mud"
+     ],
+     [
+          "AN4.37",
+          "sense doors, guarding (indriyesu guttadvāra)",
+          "mendicant with cannot decline"
+     ],
+     [
+          "AN4.37",
+          "accomplishment in virtue (sīlasampadā)",
+          "mendicant with cannot decline"
+     ],
+     [
+          "AN4.37",
+          "eating in moderation",
+          "mendicant who does cannot decline"
+     ],
+     [
+          "AN4.37",
+          "wakefulness (jāgara)",
+          "mendicant who is does cannot decline"
+     ],
+     [
+          "AN4.38",
+          "personal truths (paccekasacca)",
+          "one who has given up is “withdrawn”"
+     ],
+     [
+          "AN4.38",
+          "personal truths (paccekasacca)",
+          "definition"
+     ],
+     [
+          "AN4.38",
+          "searches (esana)",
+          "one who has given up is “withdrawn”"
+     ],
+     [
+          "AN4.38",
+          "stilling the physical process (passaddhakāyasaṅkhāra)",
+          "definition"
+     ],
+     [
+          "AN4.38",
+          "conceit ‘I am’ (asmimāna)",
+          "one who has given up is “withdrawn”"
      ],
      [
           "AN4.4",
@@ -6201,12 +6556,12 @@ export const indexArray =`[
      ],
      [
           "Dhp55",
-          "virtue",
+          "virtue (sīla)",
           "as supreme fragrance"
      ],
      [
           "Dhp56",
-          "virtue",
+          "virtue (sīla)",
           "as supreme fragrance"
      ],
      [
@@ -7001,8 +7356,8 @@ export const indexArray =`[
      ],
      [
           "Iti54–5",
-          "searches",
-          ""
+          "searches (esana)",
+          "three types"
      ],
      [
           "Iti56–7",
@@ -7031,7 +7386,7 @@ export const indexArray =`[
      ],
      [
           "Iti60",
-          "virtue ",
+          "virtue (sīla) ",
           "grounds for making merit"
      ],
      [
@@ -7386,7 +7741,7 @@ export const indexArray =`[
      ],
      [
           "Iti97",
-          "virtue",
+          "virtue (sīla)",
           "definition"
      ],
      [
@@ -7481,8 +7836,8 @@ export const indexArray =`[
      ],
      [
           "Kp5",
-          "association with people",
-          ""
+          "association",
+          "with good people"
      ],
      [
           "Kp5",
@@ -7497,7 +7852,7 @@ export const indexArray =`[
      [
           "Kp5",
           "merit (puññā)",
-          ""
+          "done in the past"
      ],
      [
           "Kp5",
@@ -7576,7 +7931,7 @@ export const indexArray =`[
      ],
      [
           "Kp5",
-          "respect",
+          "respect (gārava)",
           ""
      ],
      [
@@ -7801,7 +8156,7 @@ export const indexArray =`[
      ],
      [
           "Kp8",
-          "virtue",
+          "virtue (sīla)",
           "as merit"
      ],
      [
@@ -7946,7 +8301,7 @@ export const indexArray =`[
      ],
      [
           "Kp9",
-          "virtue",
+          "virtue (sīla)",
           "as criterion for loving-kindness"
      ],
      [
@@ -10676,7 +11031,7 @@ export const indexArray =`[
      ],
      [
           "Thag1.21",
-          "fear",
+          "fear (bhaya)",
           "no fear of"
      ],
      [
@@ -11001,17 +11356,17 @@ export const indexArray =`[
      ],
      [
           "Thag12.1",
-          "virtue",
+          "virtue (sīla)",
           "leading to heaven"
      ],
      [
           "Thag12.1",
-          "virtue",
+          "virtue (sīla)",
           "leading to happiness"
      ],
      [
           "Thag12.1",
-          "virtue",
+          "virtue (sīla)",
           ""
      ],
      [
@@ -11401,7 +11756,7 @@ export const indexArray =`[
      ],
      [
           "Thag18.1",
-          "respect",
+          "respect (gārava)",
           "for spiritual companions"
      ],
      [
@@ -11831,7 +12186,7 @@ export const indexArray =`[
      ],
      [
           "Thag4.3",
-          "respect",
+          "respect (gārava)",
           "for spiritual companions"
      ],
      [
@@ -12026,7 +12381,7 @@ export const indexArray =`[
      ],
      [
           "Thag6.3",
-          "respect",
+          "respect (gārava)",
           "for spiritual companions"
      ],
      [
@@ -12086,7 +12441,7 @@ export const indexArray =`[
      ],
      [
           "Thag6.9",
-          "respect",
+          "respect (gārava)",
           "not giving"
      ],
      [
@@ -12171,7 +12526,7 @@ export const indexArray =`[
      ],
      [
           "Thig1.1",
-          "desire",
+          "lust (rāga)",
           "dried up like vegetables in pot"
      ],
      [
@@ -12876,7 +13231,7 @@ export const indexArray =`[
      ],
      [
           "Ud1.7",
-          "fear",
+          "fear (bhaya)",
           "overcoming"
      ],
      [
@@ -12916,7 +13271,7 @@ export const indexArray =`[
      ],
      [
           "Ud2.1",
-          "conceit ‘I am’",
+          "conceit ‘I am’ (asmimāna)",
           ""
      ],
      [
@@ -13621,7 +13976,7 @@ export const indexArray =`[
      ],
      [
           "Ud8.6",
-          "virtue",
+          "virtue (sīla)",
           "benefits of"
      ],
      [
@@ -13676,7 +14031,7 @@ export const indexArray =`[
      ],
      [
           "Vv11",
-          "virtue",
+          "virtue (sīla)",
           "leading to heaven"
      ],
      [
