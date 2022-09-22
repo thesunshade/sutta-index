@@ -310,6 +310,11 @@ export const indexArray =`[
           "foremost of poets"
      ],
      [
+          "AN1.212",
+          "poetry",
+          "foremost of poets"
+     ],
+     [
           "AN1.213",
           "Upasena Vaṅgantaputta, Ven.",
           "foremost who is impressive all around"
@@ -510,6 +515,11 @@ export const indexArray =`[
           "foremost as a donor"
      ],
      [
+          "AN1.249",
+          "giving (dāna)",
+          "foremost givers"
+     ],
+     [
           "AN1.250",
           "Citta Macchikāsaṇḍika, householder",
           "foremost who speak on Dhamma"
@@ -525,14 +535,29 @@ export const indexArray =`[
           "foremost who donate fine things"
      ],
      [
+          "AN1.252",
+          "giving (dāna)",
+          "foremost givers"
+     ],
+     [
           "AN1.253",
           "Ugga of Vesālī, householder",
           "foremost who donate what is agreeable"
      ],
      [
+          "AN1.253",
+          "giving (dāna)",
+          "foremost givers"
+     ],
+     [
           "AN1.254",
           "Hatthigāmaka Uggata gahapati, householder",
           "foremost who attend on the Saṅgha"
+     ],
+     [
+          "AN1.254",
+          "giving (dāna)",
+          "foremost givers"
      ],
      [
           "AN1.255",
@@ -560,6 +585,11 @@ export const indexArray =`[
           "foremost as a donor"
      ],
      [
+          "AN1.259",
+          "giving (dāna)",
+          "foremost givers"
+     ],
+     [
           "AN1.260",
           "Khujjuttarā, householder",
           "foremost who are very learned"
@@ -580,9 +610,19 @@ export const indexArray =`[
           "foremost who give fine things"
      ],
      [
+          "AN1.263",
+          "giving (dāna)",
+          "foremost givers"
+     ],
+     [
           "AN1.264",
           "Suppiyā, householder",
           "foremost who care for the sick"
+     ],
+     [
+          "AN1.264",
+          "giving (dāna)",
+          "foremost givers"
      ],
      [
           "AN1.265",
@@ -1571,7 +1611,7 @@ export const indexArray =`[
      ],
      [
           "AN3.114",
-          "Dhamma teacher",
+          "Dhamma teachers",
           "rarity of"
      ],
      [
@@ -1802,17 +1842,22 @@ export const indexArray =`[
      [
           "AN3.132",
           "anger (kodha)",
-          "person often angry and stays long like line in stone"
+          "person often angry and stays long"
      ],
      [
           "AN3.132",
           "anger (kodha)",
-          "person often angry and doesn’t stay long like line in sand"
+          "person often angry and doesn’t stay long"
      ],
      [
           "AN3.132",
           "anger (kodha)",
-          "person not angry like line in water"
+          "like lines"
+     ],
+     [
+          "AN3.132",
+          "anger (kodha)",
+          "person not often angry"
      ],
      [
           "AN3.133",
@@ -1896,7 +1941,7 @@ export const indexArray =`[
      ],
      [
           "AN3.141",
-          "non-returner",
+          "non-returner (anāgāmi)",
           "able or unable to answer questions"
      ],
      [
@@ -3326,7 +3371,7 @@ export const indexArray =`[
      ],
      [
           "AN3.76",
-          "actions",
+          "actions (kamma)",
           "as field"
      ],
      [
@@ -3461,7 +3506,7 @@ export const indexArray =`[
      ],
      [
           "AN3.83",
-          "mendicant",
+          "mendicants",
           "has duties like a farmer"
      ],
      [
@@ -3561,7 +3606,7 @@ export const indexArray =`[
      ],
      [
           "AN3.90",
-          "arahant",
+          "arahants",
           "like a flame blown out"
      ],
      [
@@ -3661,12 +3706,12 @@ export const indexArray =`[
      ],
      [
           "AN3.96",
-          "mendicant",
+          "mendicants",
           "like a thoroughbred horse"
      ],
      [
           "AN3.97",
-          "mendicant",
+          "mendicants",
           "like a thoroughbred horse"
      ],
      [
@@ -3735,6 +3780,151 @@ export const indexArray =`[
           "praise and dispraise"
      ],
      [
+          "AN4.100",
+          "Potaliya the wanderer",
+          "praise and dispraise"
+     ],
+     [
+          "AN4.100",
+          "praise and blame",
+          "at proper times"
+     ],
+     [
+          "AN4.100",
+          "equanimity (upekkhā)",
+          "not always best"
+     ],
+     [
+          "AN4.100",
+          "speech",
+          "timely"
+     ],
+     [
+          "AN4.100",
+          "speech",
+          "timeliness as most important"
+     ],
+     [
+          "AN4.101",
+          "talking without doing",
+          "like clouds that thunder"
+     ],
+     [
+          "AN4.101",
+          "integrity",
+          "doing what you say you will do"
+     ],
+     [
+          "AN4.102",
+          "learning",
+          "without understanding"
+     ],
+     [
+          "AN4.102",
+          "learning",
+          "realizing Dhamma without much learning"
+     ],
+     [
+          "AN4.102",
+          "learning",
+          "with realization"
+     ],
+     [
+          "AN4.102",
+          "learning",
+          "like clouds"
+     ],
+     [
+          "AN4.103",
+          "external appearance",
+          "as deceiving"
+     ],
+     [
+          "AN4.103",
+          "external appearance",
+          "people like pots"
+     ],
+     [
+          "AN4.103",
+          "external appearance",
+          "matching internal"
+     ],
+     [
+          "AN4.103",
+          "external appearance",
+          "as deceiving"
+     ],
+     [
+          "AN4.104",
+          "external appearance",
+          "people like lakes"
+     ],
+     [
+          "AN4.104",
+          "external appearance",
+          "matching internal"
+     ],
+     [
+          "AN4.105",
+          "external appearance",
+          "people like mangos"
+     ],
+     [
+          "AN4.105",
+          "external appearance",
+          "matching internal"
+     ],
+     [
+          "AN4.105",
+          "external appearance",
+          "as deceiving"
+     ],
+     [
+          "AN4.107",
+          "learning",
+          "without understanding"
+     ],
+     [
+          "AN4.107",
+          "learning",
+          "realizing Dhamma without much learning"
+     ],
+     [
+          "AN4.107",
+          "learning",
+          "with realization"
+     ],
+     [
+          "AN4.107",
+          "learning",
+          "people like mice"
+     ],
+     [
+          "AN4.108",
+          "followers",
+          "leaders and how they treat followers"
+     ],
+     [
+          "AN4.108",
+          "leadership",
+          "how leaders treat followers"
+     ],
+     [
+          "AN4.108",
+          "leadership",
+          "leaders like oxen"
+     ],
+     [
+          "AN4.109",
+          "leadership",
+          "ethics of leaders and followers"
+     ],
+     [
+          "AN4.109",
+          "leadership",
+          "leaders like trees"
+     ],
+     [
           "AN4.11",
           "wrong intention (micchā saṅkappa)",
           "in four postures"
@@ -3743,6 +3933,141 @@ export const indexArray =`[
           "AN4.11",
           "postures",
           "for practicing always"
+     ],
+     [
+          "AN4.110",
+          "anger (kodha)",
+          "like venom"
+     ],
+     [
+          "AN4.110",
+          "anger (kodha)",
+          "person often angry and stays long"
+     ],
+     [
+          "AN4.110",
+          "anger (kodha)",
+          "person often angry and doesn’t stay long"
+     ],
+     [
+          "AN4.110",
+          "anger (kodha)",
+          "person not often angry"
+     ],
+     [
+          "AN4.111",
+          "Kesi the horse trainer",
+          ""
+     ],
+     [
+          "AN4.111",
+          "killing",
+          "as a metaphor for not teaching someone"
+     ],
+     [
+          "AN4.111",
+          "gentleness",
+          "of training"
+     ],
+     [
+          "AN4.111",
+          "training",
+          "gentle and harsh"
+     ],
+     [
+          "AN4.111",
+          "good actions",
+          "teaching about as gentle training"
+     ],
+     [
+          "AN4.111",
+          "bad actions",
+          "teaching about as harsh training"
+     ],
+     [
+          "AN4.113",
+          "urgency (saṁvega)",
+          "caused by death or illness of others or self"
+     ],
+     [
+          "AN4.113",
+          "death",
+          "wise response to"
+     ],
+     [
+          "AN4.113",
+          "death",
+          "causing urgency"
+     ],
+     [
+          "AN4.113",
+          "family",
+          "death of family as cause for urgency"
+     ],
+     [
+          "AN4.113",
+          "urgency (saṁvega)",
+          "like horses"
+     ],
+     [
+          "AN4.114",
+          "mendicants",
+          "like elephant"
+     ],
+     [
+          "AN4.114",
+          "mendicants",
+          "worthy of gifts"
+     ],
+     [
+          "AN4.114",
+          "listening to Dhamma",
+          "correctly"
+     ],
+     [
+          "AN4.114",
+          "abandoning (pajahati, pahāna)",
+          "unwholesome thoughts"
+     ],
+     [
+          "AN4.114",
+          "enduring (khanta)",
+          ""
+     ],
+     [
+          "AN4.114",
+          "enduring abuse",
+          ""
+     ],
+     [
+          "AN4.116",
+          "heedfulness (appamāda)",
+          ""
+     ],
+     [
+          "AN4.117",
+          "heedfulness (appamāda)",
+          ""
+     ],
+     [
+          "AN4.118",
+          "inspiration",
+          "four places"
+     ],
+     [
+          "AN4.118",
+          "pilgrimage",
+          "to four places"
+     ],
+     [
+          "AN4.118",
+          "Buddha, the",
+          "places significant in life of"
+     ],
+     [
+          "AN4.119",
+          "perils (bhaya)",
+          ""
      ],
      [
           "AN4.12",
@@ -3755,9 +4080,119 @@ export const indexArray =`[
           "removed in four postures"
      ],
      [
+          "AN4.120",
+          "perils (bhaya)",
+          ""
+     ],
+     [
+          "AN4.121",
+          "fear (bhaya)",
+          ""
+     ],
+     [
+          "AN4.121",
+          "self reproach (attānuvāda)",
+          ""
+     ],
+     [
+          "AN4.121",
+          "punishment (daṇḍa)",
+          "fear of"
+     ],
+     [
+          "AN4.121",
+          "shame",
+          "fear of"
+     ],
+     [
+          "AN4.121",
+          "rebirth",
+          "fear of rebirth in bad place"
+     ],
+     [
+          "AN4.122",
+          "dangers",
+          "to the monastic life"
+     ],
+     [
+          "AN4.122",
+          "monastic life",
+          "dangers to"
+     ],
+     [
+          "AN4.122",
+          "going forth (pabbajja)",
+          "in old age"
+     ],
+     [
+          "AN4.122",
+          "anger (kodha)",
+          "danger to monastic life"
+     ],
+     [
+          "AN4.122",
+          "monastic rules (vinaya)",
+          "difficulty following"
+     ],
+     [
+          "AN4.122",
+          "eating",
+          "and monastic rules"
+     ],
+     [
+          "AN4.122",
+          "women",
+          "danger for monks"
+     ],
+     [
+          "AN4.123",
+          "lifespans",
+          "in heaven"
+     ],
+     [
+          "AN4.123",
+          "jhānas",
+          "leading to heaven"
+     ],
+     [
+          "AN4.123",
+          "ordinary person (puthujjana)",
+          "compared to noble disciple with rebirth"
+     ],
+     [
+          "AN4.123",
+          "noble disciple (ariya sāvaka)",
+          "compared to an ordinary person with rebirth"
+     ],
+     [
+          "AN4.124",
+          "pure abodes(suddhāvāsā)",
+          ""
+     ],
+     [
+          "AN4.124",
+          "jhānas",
+          "leading to heaven"
+     ],
+     [
           "AN4.125",
           "loving-kindness (mettā)",
           "as a path to brahma world"
+     ],
+     [
+          "AN4.125",
+          "lifespans",
+          "in heaven"
+     ],
+     [
+          "AN4.125",
+          "brahmaviharas",
+          "leading to heaven"
+     ],
+     [
+          "AN4.125",
+          "meditation",
+          "enjoying"
      ],
      [
           "AN4.126",
@@ -3765,9 +4200,134 @@ export const indexArray =`[
           "as a path to brahma world"
      ],
      [
+          "AN4.127",
+          "incredible and amazing (acchariyā abbhutā)",
+          "events connected with the Buddha"
+     ],
+     [
+          "AN4.127",
+          "Buddha, the",
+          "incredible and amazing events"
+     ],
+     [
+          "AN4.128",
+          "Buddha, the",
+          "incredible and amazing events"
+     ],
+     [
+          "AN4.128",
+          "listening to Dhamma",
+          "amazing that people with defilements would listen"
+     ],
+     [
+          "AN4.129",
+          "Ānanda, Ven",
+          "incredible and amazing qualities"
+     ],
+     [
           "AN4.13",
           "right effort (sammā vāyāma)",
           "definition"
+     ],
+     [
+          "AN4.130",
+          "wheel-turning monarchs",
+          "incredible and amazing qualities"
+     ],
+     [
+          "AN4.130",
+          "Ānanda, Ven",
+          "incredible and amazing qualities"
+     ],
+     [
+          "AN4.131",
+          "stages of enlightenment",
+          "fetters removed at each"
+     ],
+     [
+          "AN4.131",
+          "fetters (saṁyojana)",
+          "stages of enlightenment"
+     ],
+     [
+          "AN4.131",
+          "heading upstream to the Akaniṭṭha realm (uddhaṁsotassa akaniṭṭhagāmino)",
+          ""
+     ],
+     [
+          "AN4.131",
+          "extinguished in-between (antarāparinibbāyī)",
+          ""
+     ],
+     [
+          "AN4.132",
+          "speech",
+          "on topic"
+     ],
+     [
+          "AN4.132",
+          "speech",
+          "fluently"
+     ],
+     [
+          "AN4.133",
+          "learning",
+          "getting and not getting the point"
+     ],
+     [
+          "AN4.133",
+          "learning",
+          "without understanding"
+     ],
+     [
+          "AN4.133",
+          "learning",
+          "rote"
+     ],
+     [
+          "AN4.133",
+          "understanding",
+          "immediately"
+     ],
+     [
+          "AN4.134",
+          "results of actions",
+          "living off the fruit of"
+     ],
+     [
+          "AN4.134",
+          "actions (kamma)",
+          "living off the fruit of current actions"
+     ],
+     [
+          "AN4.135",
+          "blame",
+          "levels of"
+     ],
+     [
+          "AN4.136",
+          "virtue, concentration, and wisdom (sīla, samadhi, paññā)",
+          "people with levels of"
+     ],
+     [
+          "AN4.137",
+          "virtue, concentration, and wisdom (sīla, samadhi, paññā)",
+          "people with levels of"
+     ],
+     [
+          "AN4.138",
+          "retreat",
+          "by body or mind"
+     ],
+     [
+          "AN4.138",
+          "right intention (sammā saṅkappa)",
+          ""
+     ],
+     [
+          "AN4.139",
+          "Dhamma teachers",
+          "on topic or off"
      ],
      [
           "AN4.14",
@@ -3795,6 +4355,96 @@ export const indexArray =`[
           "and contemplation of corpse"
      ],
      [
+          "AN4.140",
+          "Dhamma teachers",
+          "meaning and phrasing"
+     ],
+     [
+          "AN4.140",
+          "Dhamma teachers",
+          "analytical knowledge"
+     ],
+     [
+          "AN4.140",
+          "analytical knowledge (paṭisambhidā)",
+          ""
+     ],
+     [
+          "AN4.141-145",
+          "wisdom",
+          "best kind of illumination"
+     ],
+     [
+          "AN4.146",
+          "times",
+          "for different activities"
+     ],
+     [
+          "AN4.146",
+          "listening to Dhamma",
+          "time for"
+     ],
+     [
+          "AN4.146",
+          "Dhamma discussion",
+          "time for"
+     ],
+     [
+          "AN4.146",
+          "serenity (samatha)",
+          "time for"
+     ],
+     [
+          "AN4.146",
+          "vipassanā",
+          "time for"
+     ],
+     [
+          "AN4.147",
+          "listening to Dhamma",
+          "time for"
+     ],
+     [
+          "AN4.147",
+          "Dhamma discussion",
+          "time for"
+     ],
+     [
+          "AN4.147",
+          "serenity (samatha)",
+          "time for"
+     ],
+     [
+          "AN4.147",
+          "insight (vipassanā)",
+          "time for"
+     ],
+     [
+          "AN4.147",
+          "times",
+          "for different activities"
+     ],
+     [
+          "AN4.147",
+          "times",
+          "rightly developed are like rain on mountain top filling ocean"
+     ],
+     [
+          "AN4.148",
+          "bad actions",
+          "by speech"
+     ],
+     [
+          "AN4.148",
+          "speech",
+          "bad conduct"
+     ],
+     [
+          "AN4.149",
+          "speech",
+          "good conduct"
+     ],
+     [
           "AN4.15",
           "foremost",
           "size is Rāhu"
@@ -3818,6 +4468,241 @@ export const indexArray =`[
           "AN4.15",
           "Māra",
           "foremost in sovereighty"
+     ],
+     [
+          "AN4.150",
+          "essential/inessential",
+          ""
+     ],
+     [
+          "AN4.151",
+          "faculties (indriya)",
+          "four "
+     ],
+     [
+          "AN4.152",
+          "powers (bala)",
+          "four "
+     ],
+     [
+          "AN4.153",
+          "powers (bala)",
+          "wisdom, energy, blamelessness, and inclusiveness "
+     ],
+     [
+          "AN4.154",
+          "powers (bala)",
+          "mindfulness, immersion, blamelessness, and inclusiveness"
+     ],
+     [
+          "AN4.155",
+          "powers (bala)",
+          "reflection, development, blamelessness, and inclusiveness"
+     ],
+     [
+          "AN4.155",
+          "reflection (paṭisaṅkhā)",
+          "power of"
+     ],
+     [
+          "AN4.156",
+          "eon (kappa)",
+          "periods in"
+     ],
+     [
+          "AN4.157",
+          "sickness",
+          "mental and physical"
+     ],
+     [
+          "AN4.157",
+          "mental illness",
+          ""
+     ],
+     [
+          "AN4.157",
+          "greed, many wishes (mahiccha)",
+          "as illness for monastics"
+     ],
+     [
+          "AN4.157",
+          "monastic life",
+          "for the sake of gain"
+     ],
+     [
+          "AN4.158",
+          "skillfulness ",
+          "growing"
+     ],
+     [
+          "AN4.159",
+          "Ānanda, Ven",
+          "visits a bhikkhuni"
+     ],
+     [
+          "AN4.159",
+          "craving (taṇha)",
+          "using craving to remove craving"
+     ],
+     [
+          "AN4.159",
+          "food",
+          "reflecting on using food"
+     ],
+     [
+          "AN4.159",
+          "conceit (māna)",
+          "using conceit to remove conceit"
+     ],
+     [
+          "AN4.159",
+          "sexual activity",
+          "breaking off everything having to do with"
+     ],
+     [
+          "AN4.159",
+          "bhikkhuni",
+          "requests visit from Ven. Ānanada"
+     ],
+     [
+          "AN4.160",
+          "Well Gone One (sugato)",
+          "definition"
+     ],
+     [
+          "AN4.160",
+          "Dhamma",
+          "decline of in future"
+     ],
+     [
+          "AN4.160",
+          "monastics",
+          "difficult to admonish"
+     ],
+     [
+          "AN4.160",
+          "admonishment",
+          "being easy to"
+     ],
+     [
+          "AN4.160",
+          "admonishment",
+          "being difficult to"
+     ],
+     [
+          "AN4.160",
+          "Dhamma",
+          "repetition of"
+     ],
+     [
+          "AN4.160",
+          "Dhamma",
+          "memorization of"
+     ],
+     [
+          "AN4.161",
+          "practicing",
+          "four ways of"
+     ],
+     [
+          "AN4.162",
+          "greed, hatred, delusion",
+          "causing pain"
+     ],
+     [
+          "AN4.162",
+          "practicing",
+          "four ways of"
+     ],
+     [
+          "AN4.162",
+          "faculties (indriya)",
+          "five"
+     ],
+     [
+          "AN4.163",
+          "practicing",
+          "painful"
+     ],
+     [
+          "AN4.163",
+          "food",
+          "repulsiveness of"
+     ],
+     [
+          "AN4.163",
+          "powers of a trainee (sekha bala)",
+          ""
+     ],
+     [
+          "AN4.163",
+          "powers of a trainee (sekha bala)",
+          "compared to five faculties"
+     ],
+     [
+          "AN4.163",
+          "practicing",
+          "pleasant"
+     ],
+     [
+          "AN4.164",
+          "sense restraint ",
+          "as taming practice"
+     ],
+     [
+          "AN4.164",
+          "not tolerating unwholesome",
+          "as calming practice"
+     ],
+     [
+          "AN4.164",
+          "anger (kodha)",
+          "not responding to anger with anger"
+     ],
+     [
+          "AN4.164",
+          "patience",
+          "as practice"
+     ],
+     [
+          "AN4.165",
+          "enduring ",
+          "as a practice"
+     ],
+     [
+          "AN4.165",
+          "sense restraint ",
+          "as taming practice"
+     ],
+     [
+          "AN4.165",
+          "not tolerating unwholesome",
+          "as calming practice"
+     ],
+     [
+          "AN4.166",
+          "practicing",
+          ""
+     ],
+     [
+          "AN4.167",
+          "Moggallāna, Ven",
+          "type of practice"
+     ],
+     [
+          "AN4.168",
+          "Sāriputta, Ven.",
+          "type of practice"
+     ],
+     [
+          "AN4.169",
+          "practicing",
+          ""
+     ],
+     [
+          "AN4.169",
+          "stages of enlightenment",
+          ""
      ],
      [
           "AN4.17",
@@ -3860,9 +4745,189 @@ export const indexArray =`[
           "making prejudiced decisions"
      ],
      [
+          "AN4.170",
+          "serenity (samatha)",
+          "and insight"
+     ],
+     [
+          "AN4.170",
+          "insight (vipassanā)",
+          "and serenity"
+     ],
+     [
+          "AN4.170",
+          "concentration (samādhi)",
+          "and serenity and insight"
+     ],
+     [
+          "AN4.170",
+          "enlightenment",
+          "four paths"
+     ],
+     [
+          "AN4.170",
+          "arahants",
+          "paths to becoming arahant"
+     ],
+     [
+          "AN4.172",
+          "analytical knowledge (paṭisambhidā)",
+          "of Mahā Moggallāna"
+     ],
+     [
+          "AN4.172",
+          "Moggallāna, Ven",
+          "analytical knowledge"
+     ],
+     [
+          "AN4.173",
+          "Mahākoṭṭhita, Ven",
+          ""
+     ],
+     [
+          "AN4.173",
+          "Sāriputta, Ven.",
+          ""
+     ],
+     [
+          "AN4.173",
+          "sense contact",
+          "when they cease, does something remain"
+     ],
+     [
+          "AN4.174",
+          "Mahākoṭṭhita, Ven",
+          ""
+     ],
+     [
+          "AN4.174",
+          "Ānanda, Ven",
+          ""
+     ],
+     [
+          "AN4.175",
+          "end maker (antakara)",
+          ""
+     ],
+     [
+          "AN4.175",
+          "Sāriputta, Ven.",
+          ""
+     ],
+     [
+          "AN4.175",
+          "Upavāṇa, Ven",
+          ""
+     ],
+     [
+          "AN4.176",
+          "Moggallāna, Ven",
+          "standard to aspire to"
+     ],
+     [
+          "AN4.176",
+          "Sāriputta, Ven.",
+          "standard to aspire to"
+     ],
+     [
+          "AN4.176",
+          "Khemā, Ven.",
+          "standard to aspire to"
+     ],
+     [
+          "AN4.176",
+          "Uppalavaṇṇā, Ven.",
+          "standard to aspire to"
+     ],
+     [
+          "AN4.176",
+          "Citta of Āḷavī, householder",
+          "standard to aspire to"
+     ],
+     [
+          "AN4.176",
+          "Hatthaka of Āḷavī, householder",
+          "standard to aspire to"
+     ],
+     [
+          "AN4.176",
+          "Khujjuttarā, householder",
+          "standard to aspire to"
+     ],
+     [
+          "AN4.176",
+          "Veḷukaṇṭakī Nandamāta, householder",
+          "standard to aspire to"
+     ],
+     [
+          "AN4.177",
+          "earth element (pathavī dhātu)",
+          "“This is not mine”"
+     ],
+     [
+          "AN4.177",
+          "water element (āpo dhātu)",
+          "“This is not mine”"
+     ],
+     [
+          "AN4.177",
+          "fire element (tejo dhātu)",
+          "“This is not mine”"
+     ],
+     [
+          "AN4.177",
+          "air element (vāyo dhātu)",
+          "“This is not mine”"
+     ],
+     [
+          "AN4.177",
+          "Rāhula, Ven",
+          ""
+     ],
+     [
+          "AN4.178",
+          "heart’s release ",
+          ""
+     ],
+     [
+          "AN4.179",
+          "nibbāna",
+          "in the present life"
+     ],
+     [
           "AN4.18",
           "decisions",
           "making unprejudiced decisions"
+     ],
+     [
+          "AN4.180",
+          "Dhamma",
+          "how to evaluate what is and what isn’t"
+     ],
+     [
+          "AN4.180",
+          "great references (mahāpadesa)",
+          ""
+     ],
+     [
+          "AN4.181",
+          "mendicants",
+          "worthy of gifts"
+     ],
+     [
+          "AN4.181",
+          "mendicants",
+          "like a warrior"
+     ],
+     [
+          "AN4.182",
+          "old age, sickness, and death",
+          "no one can be guarantor"
+     ],
+     [
+          "AN4.182",
+          "results of actions",
+          "to be experienced as they should be experienced"
      ],
      [
           "AN4.183",
@@ -3875,9 +4940,94 @@ export const indexArray =`[
           "that increases wholesome qualities"
      ],
      [
+          "AN4.183",
+          "Vassakāra, brahmin",
+          "asks about speech"
+     ],
+     [
+          "AN4.183",
+          "skillfulness and unskillfulness",
+          "determines what should be talked about"
+     ],
+     [
+          "AN4.183",
+          "seen, heard, thought, known",
+          "talk about only what is skillful"
+     ],
+     [
+          "AN4.183",
+          "speech",
+          "that increases wholesome qualities"
+     ],
+     [
+          "AN4.183",
+          "speech",
+          "that increases unwholesome qualities"
+     ],
+     [
           "AN4.184",
           "death (maraṇa)",
           "fear of"
+     ],
+     [
+          "AN4.184",
+          "Jāṇussoṇi, brahmin",
+          "fear of death"
+     ],
+     [
+          "AN4.184",
+          "death",
+          "all fear"
+     ],
+     [
+          "AN4.184",
+          "death",
+          "fear of"
+     ],
+     [
+          "AN4.184",
+          "death",
+          "no fear of"
+     ],
+     [
+          "AN4.184",
+          "fear (bhaya)",
+          "of death"
+     ],
+     [
+          "AN4.184",
+          "doubt (vicikicchā)",
+          "causing fear of death"
+     ],
+     [
+          "AN4.184",
+          "sense pleasures (kāmaguṇa)",
+          "attachment to causes fear of death"
+     ],
+     [
+          "AN4.184",
+          "body",
+          "attachment to causes fear of death"
+     ],
+     [
+          "AN4.185",
+          "brahmins",
+          "truths"
+     ],
+     [
+          "AN4.186",
+          "world",
+          "led around by mind"
+     ],
+     [
+          "AN4.186",
+          "mind",
+          "leads the world on"
+     ],
+     [
+          "AN4.186",
+          "learned (bahussutā)",
+          "definition of"
      ],
      [
           "AN4.19",
@@ -4230,6 +5380,11 @@ export const indexArray =`[
           "one who has given up is “withdrawn”"
      ],
      [
+          "AN4.39",
+          "sacrifices (yañña)",
+          "kinds Buddha praised"
+     ],
+     [
           "AN4.4",
           "parents",
           "harming "
@@ -4240,13 +5395,98 @@ export const indexArray =`[
           "helping"
      ],
      [
+          "AN4.40",
+          "sacrifices (yañña)",
+          "kinds Buddha praised"
+     ],
+     [
+          "AN4.41",
+          "meditation",
+          "blissful in the present life"
+     ],
+     [
+          "AN4.41",
+          "knowledge and vision (ñāṇadassana)",
+          "perception of light leads to"
+     ],
+     [
+          "AN4.41",
+          "aggregates",
+          "seeing rise and fall of"
+     ],
+     [
           "AN4.42",
           "questions, answering ",
           ""
      ],
      [
+          "AN4.42",
+          "questions, answering ",
+          "four ways"
+     ],
+     [
+          "AN4.43",
+          "anger (kodha)",
+          "valuing more than the true Dhamma"
+     ],
+     [
+          "AN4.43",
+          "gain (lābha)",
+          "valuing more than the true Dhamma"
+     ],
+     [
+          "AN4.43",
+          "possessions",
+          "valuing more than the true Dhamma"
+     ],
+     [
+          "AN4.44",
+          "anger (kodha)",
+          "valuing more than the true Dhamma"
+     ],
+     [
+          "AN4.44",
+          "gain (lābha)",
+          "valuing more than the true Dhamma"
+     ],
+     [
+          "AN4.44",
+          "possessions",
+          "valuing more than the true Dhamma"
+     ],
+     [
+          "AN4.45",
+          "Rohitassa devaputta",
+          "seeing the end of the world"
+     ],
+     [
+          "AN4.45",
+          "world",
+          "seeing the end of"
+     ],
+     [
+          "AN4.45",
+          "body",
+          "as the world"
+     ],
+     [
+          "AN4.47",
+          "Dhamma",
+          "of virtuous far from the wicked"
+     ],
+     [
+          "AN4.48",
+          "Dhamma teaching",
+          "encouraging and inspiring"
+     ],
+     [
+          "AN4.49",
+          "perversion (vipāllasa)",
+          "of perception, mind, view"
+     ],
+     [
           "AN4.5",
-          "non-returner",
+          "non-returner (anāgāmi)",
           "as steadfast person"
      ],
      [
@@ -4255,9 +5495,89 @@ export const indexArray =`[
           ""
      ],
      [
+          "AN4.50",
+          "corruptions (upakkilesa)",
+          "of mendicants"
+     ],
+     [
+          "AN4.50",
+          "monastic life",
+          "corruptions of"
+     ],
+     [
+          "AN4.50",
+          "money",
+          "corruption of monastics"
+     ],
+     [
+          "AN4.50",
+          "sexual intercourse",
+          "corruption of monastics"
+     ],
+     [
+          "AN4.50",
+          "alcohol",
+          "corruption of monastics"
+     ],
+     [
+          "AN4.50",
+          "wrong livelihood (micchā ājīva)",
+          "corruption of monastics"
+     ],
+     [
+          "AN4.51",
+          "merit (puññā)",
+          "immeasurable amount"
+     ],
+     [
+          "AN4.51",
+          "giving (dāna)",
+          "when merit is immeasurable"
+     ],
+     [
+          "AN4.51",
+          "merit (puññā)",
+          "immeasurable like water in ocean"
+     ],
+     [
+          "AN4.52",
+          "merit (puññā)",
+          "immeasurable amount"
+     ],
+     [
+          "AN4.52",
+          "confidence (aveccappasāda)",
+          "immeasurable amount o fmerit"
+     ],
+     [
+          "AN4.52",
+          "virtue (sīla)",
+          "the virtue loved by noble ones"
+     ],
+     [
           "AN4.53",
           "generosity (cāga)",
           "as a quality of a good person"
+     ],
+     [
+          "AN4.53",
+          "zombie",
+          ""
+     ],
+     [
+          "AN4.53",
+          "marriage",
+          "partners with same or opposite qualities"
+     ],
+     [
+          "AN4.54",
+          "marriage",
+          "partners with same or opposite qualities"
+     ],
+     [
+          "AN4.54",
+          "zombie",
+          ""
      ],
      [
           "AN4.55",
@@ -4265,6 +5585,16 @@ export const indexArray =`[
           "cause for rebirth"
      ],
      [
+          "AN4.55",
+          "marriage",
+          "to be together in future lives"
+     ],
+     [
+          "AN4.56",
+          "marriage",
+          "to be together in future lives"
+     ],
+     [
           "AN4.57",
           "giving (dāna)",
           "food"
@@ -4275,6 +5605,16 @@ export const indexArray =`[
           "result of"
      ],
      [
+          "AN4.57",
+          "giving (dāna)",
+          "benefits to receiver and giver similar"
+     ],
+     [
+          "AN4.57",
+          "Suppavāsā Koliyadhītā, householder",
+          ""
+     ],
+     [
           "AN4.58",
           "giving (dāna)",
           "food"
@@ -4283,6 +5623,16 @@ export const indexArray =`[
           "AN4.58",
           "giving (dāna)",
           "result of"
+     ],
+     [
+          "AN4.58",
+          "giving (dāna)",
+          "benefits to receiver and giver similar"
+     ],
+     [
+          "AN4.58",
+          "Anāthapiṇḍika, householder",
+          ""
      ],
      [
           "AN4.59",
@@ -4310,6 +5660,16 @@ export const indexArray =`[
           "to the Saṅgha"
      ],
      [
+          "AN4.60",
+          "Anāthapiṇḍika, householder",
+          ""
+     ],
+     [
+          "AN4.60",
+          "giving (dāna)",
+          "four requisites"
+     ],
+     [
           "AN4.61",
           "generosity (cāga)",
           "as cause for wealth"
@@ -4318,6 +5678,116 @@ export const indexArray =`[
           "AN4.61",
           "giving (dāna)",
           "as good use of wealth"
+     ],
+     [
+          "AN4.61",
+          "Anāthapiṇḍika, householder",
+          "things likeable and hard to get"
+     ],
+     [
+          "AN4.61",
+          "generosity (cāga)",
+          "definition"
+     ],
+     [
+          "AN4.61",
+          "accomplishment in generosity (cāgasampadā)",
+          "definition"
+     ],
+     [
+          "AN4.61",
+          "hard to obtain (dullabha)",
+          "four things hard to obtain"
+     ],
+     [
+          "AN4.61",
+          "accomplishment in wisdom (paññāsampadā)",
+          "definition"
+     ],
+     [
+          "AN4.61",
+          "lay life",
+          "advice for"
+     ],
+     [
+          "AN4.61",
+          "hindrances (nīvarana)",
+          "removal as accomplishment of wisdom"
+     ],
+     [
+          "AN4.61",
+          "wealth",
+          "using to make people happy"
+     ],
+     [
+          "AN4.61",
+          "family",
+          "making happy with wealth"
+     ],
+     [
+          "AN4.61",
+          "wealth",
+          "threats to"
+     ],
+     [
+          "AN4.61",
+          "oblations",
+          ""
+     ],
+     [
+          "AN4.61",
+          "giving (dāna)",
+          "as good use of wealth"
+     ],
+     [
+          "AN4.61",
+          "wealth",
+          "gained by hard work"
+     ],
+     [
+          "AN4.62",
+          "lay life",
+          "kinds of happiness"
+     ],
+     [
+          "AN4.62",
+          "wealth",
+          "happiness of using"
+     ],
+     [
+          "AN4.62",
+          "debt",
+          "happiness of not having"
+     ],
+     [
+          "AN4.62",
+          "happiness",
+          "of ownership"
+     ],
+     [
+          "AN4.62",
+          "happiness",
+          "of using wealth"
+     ],
+     [
+          "AN4.62",
+          "merit (puññā)",
+          "happiness from using wealth"
+     ],
+     [
+          "AN4.62",
+          "happiness",
+          "of debtlessness"
+     ],
+     [
+          "AN4.62",
+          "happiness",
+          "of blamelessness"
+     ],
+     [
+          "AN4.62",
+          "blame",
+          "happiness of blamelessness"
      ],
      [
           "AN4.63",
@@ -4330,9 +5800,84 @@ export const indexArray =`[
           "whom to give to"
      ],
      [
+          "AN4.64",
+          "hell (niraya)",
+          "actions that lead to"
+     ],
+     [
+          "AN4.65",
+          "external appearance",
+          ""
+     ],
+     [
+          "AN4.65",
+          "judging",
+          ""
+     ],
+     [
+          "AN4.67",
+          "loving-kindness (mettā)",
+          "towards animals of all kinds"
+     ],
+     [
+          "AN4.67",
+          "death",
+          "by snake bite"
+     ],
+     [
+          "AN4.67",
+          "Khanda Paritta",
+          ""
+     ],
+     [
+          "AN4.67",
+          "protective chanting (paritta)",
+          "Khanda Paritta"
+     ],
+     [
+          "AN4.67",
+          "Buddhas, seven",
+          ""
+     ],
+     [
+          "AN4.68",
+          "Devadatta",
+          "ruin of"
+     ],
+     [
+          "AN4.68",
+          "Devadatta",
+          "like bamboo that fruits and dies"
+     ],
+     [
           "AN4.7",
           "learned (bahussutā)",
           "monastics and lay people"
+     ],
+     [
+          "AN4.70",
+          "kings",
+          "moral leaders"
+     ],
+     [
+          "AN4.70",
+          "unrighteous (adhammika)",
+          "leaders"
+     ],
+     [
+          "AN4.70",
+          "celestial bodies",
+          "becoming erratic"
+     ],
+     [
+          "AN4.71",
+          "certainty (apaṇṇaka)",
+          ""
+     ],
+     [
+          "AN4.72",
+          "certainty (apaṇṇaka)",
+          ""
      ],
      [
           "AN4.73",
@@ -4347,7 +5892,77 @@ export const indexArray =`[
      [
           "AN4.73",
           "speech",
-          "simile of new bride"
+          "like new bride"
+     ],
+     [
+          "AN4.73",
+          "conscience and prudence (hiri ottappa) ",
+          "towards monastics and lay people"
+     ],
+     [
+          "AN4.73",
+          "teachers",
+          "disrespect towards"
+     ],
+     [
+          "AN4.73",
+          "mendicants",
+          "newly ordained like new bride"
+     ],
+     [
+          "AN4.74",
+          "best things",
+          ""
+     ],
+     [
+          "AN4.75",
+          "best things",
+          ""
+     ],
+     [
+          "AN4.76",
+          "Buddha, the",
+          "time before passing away"
+     ],
+     [
+          "AN4.76",
+          "Buddha, the",
+          "asking monks if they have doubts"
+     ],
+     [
+          "AN4.76",
+          "Ānanda, Ven",
+          "speaking from faith about other monks attainments"
+     ],
+     [
+          "AN4.77",
+          "unthinkable (acinteyya)",
+          "four things that are"
+     ],
+     [
+          "AN4.77",
+          "results of actions",
+          "specific results are inconceivable"
+     ],
+     [
+          "AN4.77",
+          "Buddhas",
+          "scope of is inconceivable"
+     ],
+     [
+          "AN4.77",
+          "meditation (jhāyati)",
+          "scope of mind of one in jhāna is inconceivable"
+     ],
+     [
+          "AN4.77",
+          "insanity (ummāda)",
+          "caused by thinking about inconceivable things"
+     ],
+     [
+          "AN4.77",
+          "speculation about the world (lokacintā)",
+          "as inconceivable"
      ],
      [
           "AN4.78",
@@ -4360,14 +5975,44 @@ export const indexArray =`[
           "purifying"
      ],
      [
+          "AN4.79",
+          "giving (dāna)",
+          "not fulfilling an offer"
+     ],
+     [
+          "AN4.79",
+          "giving (dāna)",
+          "exceeding a request"
+     ],
+     [
+          "AN4.79",
+          "business",
+          "why some succeed and some fail"
+     ],
+     [
           "AN4.8",
           "Buddhas",
           "self-assurances"
      ],
      [
+          "AN4.80",
+          "women",
+          "with bad qualities"
+     ],
+     [
           "AN4.82",
           "speech",
           "factor for rebirth"
+     ],
+     [
+          "AN4.82",
+          "right speech (sammā vācā)",
+          "leads to heaven"
+     ],
+     [
+          "AN4.82",
+          "wrong speech (micchā vacā)",
+          "leads to hell"
      ],
      [
           "AN4.83",
@@ -4380,9 +6025,69 @@ export const indexArray =`[
           "praise and dispraise"
      ],
      [
+          "AN4.83",
+          "criticism",
+          "rightly directed"
+     ],
+     [
+          "AN4.83",
+          "criticism",
+          "wrongly directed"
+     ],
+     [
+          "AN4.83",
+          "confidence (pasāda)",
+          "rightly and wrongly encouraged"
+     ],
+     [
           "AN4.84",
           "speech",
           "denigration"
+     ],
+     [
+          "AN4.84",
+          "gain (lābha)",
+          "valuing more than the true Dhamma"
+     ],
+     [
+          "AN4.84",
+          "anger (kodha)",
+          "valuing more than the true Dhamma"
+     ],
+     [
+          "AN4.84",
+          "possessions",
+          "valuing more than the true Dhamma"
+     ],
+     [
+          "AN4.85",
+          "darkness, people living in",
+          ""
+     ],
+     [
+          "AN4.85",
+          "light, people living in",
+          ""
+     ],
+     [
+          "AN4.87",
+          "companionship",
+          "one treated well by companions"
+     ],
+     [
+          "AN4.88",
+          "stages of enlightenment",
+          ""
+     ],
+     [
+          "AN4.88",
+          "fetters (saṁyojana)",
+          "stages of enlightenment"
+     ],
+     [
+          "AN4.89",
+          "liberations, eight (vimokkha)",
+          ""
      ],
      [
           "AN4.9",
@@ -4393,6 +6098,96 @@ export const indexArray =`[
           "AN4.9",
           "craving (taṇha)",
           "for specific rebirth"
+     ],
+     [
+          "AN4.90",
+          "aggregates",
+          "seeing rise and fall of"
+     ],
+     [
+          "AN4.91",
+          "asuras",
+          "as simile for bad people"
+     ],
+     [
+          "AN4.91",
+          "association",
+          "with similar people/like elements"
+     ],
+     [
+          "AN4.91",
+          "association",
+          "with opposite people"
+     ],
+     [
+          "AN4.95",
+          "practicing",
+          "benefiting oneself and others"
+     ],
+     [
+          "AN4.95",
+          "practicing",
+          "person who benefits no one like firebrand"
+     ],
+     [
+          "AN4.95",
+          "practicing",
+          "for all like cream of ghee"
+     ],
+     [
+          "AN4.95",
+          "helpful people",
+          "practicing to benefit others"
+     ],
+     [
+          "AN4.96",
+          "practicing",
+          "benefiting oneself and others"
+     ],
+     [
+          "AN4.96",
+          "helpful people",
+          "practicing to benefit others"
+     ],
+     [
+          "AN4.97",
+          "quick-witted (khippanisanti)",
+          ""
+     ],
+     [
+          "AN4.97",
+          "practicing",
+          "benefiting oneself and others"
+     ],
+     [
+          "AN4.97",
+          "helpful people",
+          "practicing to benefit others"
+     ],
+     [
+          "AN4.97",
+          "Dhamma teaching",
+          "encouraging and inspiring"
+     ],
+     [
+          "AN4.97",
+          "Dhamma teaching",
+          "unable to teach"
+     ],
+     [
+          "AN4.99",
+          "practicing",
+          "benefiting oneself and others"
+     ],
+     [
+          "AN4.99",
+          "helpful people",
+          "practicing to benefit others"
+     ],
+     [
+          "AN4.99",
+          "encouragement",
+          "people who do and don’t encourage others"
      ],
      [
           "AN5.116–120",
@@ -4647,7 +6442,7 @@ export const indexArray =`[
      [
           "AN5.45",
           "giving (dāna)",
-          "simile of ocean"
+          "merit like water in ocean"
      ],
      [
           "AN5.45",
@@ -5341,7 +7136,7 @@ export const indexArray =`[
      ],
      [
           "Dhp146",
-          "urgency",
+          "urgency (saṁvega)",
           ""
      ],
      [
@@ -5531,7 +7326,7 @@ export const indexArray =`[
      ],
      [
           "Dhp178",
-          "stream-enterers",
+          "stream-enterers (sotāpanna)",
           "better than heaven"
      ],
      [
@@ -5576,7 +7371,7 @@ export const indexArray =`[
      ],
      [
           "Dhp186",
-          "sense pleasures",
+          "sense pleasures (kāmaguṇa)",
           "as insatiable"
      ],
      [
@@ -6411,7 +8206,7 @@ export const indexArray =`[
      ],
      [
           "Dhp382",
-          "mendicant",
+          "mendicants",
           "young"
      ],
      [
@@ -6791,7 +8586,7 @@ export const indexArray =`[
      ],
      [
           "Dhp92",
-          "arahant",
+          "arahants",
           "like path of bird is hard to trace"
      ],
      [
@@ -6801,37 +8596,37 @@ export const indexArray =`[
      ],
      [
           "Dhp93",
-          "arahant",
+          "arahants",
           "like path of bird is hard to trace"
      ],
      [
           "Dhp94",
-          "arahant",
+          "arahants",
           "envied by gods"
      ],
      [
           "Dhp95",
-          "arahant",
+          "arahants",
           "like clear lake"
      ],
      [
           "Dhp95",
-          "arahant",
+          "arahants",
           "like earth is undisturbed"
      ],
      [
           "Dhp95",
-          "arahant",
+          "arahants",
           "like post is steady"
      ],
      [
           "Dhp98",
-          "arahant",
+          "arahants",
           "residence of"
      ],
      [
           "Dhp99",
-          "arahant",
+          "arahants",
           "residence of"
      ],
      [
@@ -7276,12 +9071,12 @@ export const indexArray =`[
      ],
      [
           "Iti44",
-          "arahant",
+          "arahants",
           "with something left over (saupādisesā)"
      ],
      [
           "Iti44",
-          "arahant ",
+          "arahants",
           "with nothing left over (anupādisesa)"
      ],
      [
@@ -7296,7 +9091,7 @@ export const indexArray =`[
      ],
      [
           "Iti48",
-          "mendicant",
+          "mendicants",
           "evil"
      ],
      [
@@ -7416,7 +9211,7 @@ export const indexArray =`[
      ],
      [
           "Iti63",
-          "time",
+          "times",
           ""
      ],
      [
@@ -7492,7 +9287,7 @@ export const indexArray =`[
      [
           "Iti75",
           "giving (dāna)",
-          "simile of cloud"
+          "givers like clouds"
      ],
      [
           "Iti76",
@@ -7576,7 +9371,7 @@ export const indexArray =`[
      ],
      [
           "Iti82",
-          "arahant",
+          "arahants",
           "praised by gods"
      ],
      [
@@ -7731,7 +9526,7 @@ export const indexArray =`[
      ],
      [
           "Iti96",
-          "non-returner",
+          "non-returner (anāgāmi)",
           "attached to rebirth"
      ],
      [
@@ -7911,7 +9706,7 @@ export const indexArray =`[
      ],
      [
           "Kp5",
-          "actions",
+          "actions (kamma)",
           "blameless"
      ],
      [
@@ -7952,7 +9747,7 @@ export const indexArray =`[
      [
           "Kp5",
           "listening to Dhamma",
-          "timely"
+          "time for"
      ],
      [
           "Kp5",
@@ -7972,7 +9767,7 @@ export const indexArray =`[
      [
           "Kp5",
           "Dhamma discussion",
-          "timely"
+          "time for"
      ],
      [
           "Kp5",
@@ -8057,11 +9852,11 @@ export const indexArray =`[
      [
           "Kp6",
           "Saṅgha",
-          "simile of pillar"
+          "unshakeable like pillar"
      ],
      [
           "Kp6",
-          "stream-enterers",
+          "stream-enterers (sotāpanna)",
           "rebirth"
      ],
      [
@@ -9171,8 +10966,8 @@ export const indexArray =`[
      ],
      [
           "Pv6",
-          "abortion",
-          "causing someone elses"
+          "pregnancy",
+          "causing termination of someone else’s"
      ],
      [
           "Pv6",
@@ -9757,7 +11552,7 @@ export const indexArray =`[
      [
           "Snp1.1",
           "anger (kodha)",
-          "simile of venom"
+          "like venom"
      ],
      [
           "Snp1.1",
@@ -9786,7 +11581,7 @@ export const indexArray =`[
      ],
      [
           "Snp1.1",
-          "arahant",
+          "arahants",
           "simile of snake skin"
      ],
      [
@@ -10281,7 +12076,7 @@ export const indexArray =`[
      ],
      [
           "Snp2.8",
-          "Dhamma teacher",
+          "Dhamma teachers",
           "simile of boat"
      ],
      [
@@ -10546,12 +12341,12 @@ export const indexArray =`[
      ],
      [
           "Snp3.6",
-          "mendicant",
+          "mendicants",
           "young"
      ],
      [
           "Snp3.6",
-          "mendicant",
+          "mendicants",
           "definition"
      ],
      [
@@ -10661,12 +12456,12 @@ export const indexArray =`[
      ],
      [
           "Snp4.1",
-          "sense pleasures",
+          "sense pleasures (kāmaguṇa)",
           ""
      ],
      [
           "Snp4.1",
-          "sense pleasures",
+          "sense pleasures (kāmaguṇa)",
           "to be avoided like snake head"
      ],
      [
@@ -10756,7 +12551,7 @@ export const indexArray =`[
      ],
      [
           "Snp4.2",
-          "sense pleasures",
+          "sense pleasures (kāmaguṇa)",
           "of the past and future"
      ],
      [
@@ -10916,12 +12711,12 @@ export const indexArray =`[
      ],
      [
           "Snp5.7",
-          "arahant",
+          "arahants",
           "like a flame blown out"
      ],
      [
           "Snp5.7",
-          "arahant",
+          "arahants",
           "existing after death"
      ],
      [
@@ -10971,7 +12766,7 @@ export const indexArray =`[
      ],
      [
           "Thag1.117",
-          "arahant",
+          "arahants",
           "becoming while a lay person"
      ],
      [
@@ -10986,7 +12781,7 @@ export const indexArray =`[
      ],
      [
           "Thag1.16",
-          "arahant",
+          "arahants",
           "days pass peacefully"
      ],
      [
@@ -11086,7 +12881,7 @@ export const indexArray =`[
      ],
      [
           "Thag1.38",
-          "arahant",
+          "arahants",
           "praised by gods"
      ],
      [
@@ -11177,7 +12972,7 @@ export const indexArray =`[
      [
           "Thag1.64",
           "conceit (māna)",
-          "removed with conceit"
+          "using conceit to remove conceit"
      ],
      [
           "Thag1.65",
@@ -11241,7 +13036,7 @@ export const indexArray =`[
      ],
      [
           "Thag1.93",
-          "sense pleasures",
+          "sense pleasures (kāmaguṇa)",
           "suffering in"
      ],
      [
@@ -11401,7 +13196,7 @@ export const indexArray =`[
      ],
      [
           "Thag14.2",
-          "gain",
+          "gain (lābha)",
           "illegitimate"
      ],
      [
@@ -13056,7 +14851,7 @@ export const indexArray =`[
      ],
      [
           "Thig5.3",
-          "sense pleasures",
+          "sense pleasures (kāmaguṇa)",
           "overcome by"
      ],
      [
@@ -13177,7 +14972,7 @@ export const indexArray =`[
      [
           "Ud1.1–4",
           "Buddha, the",
-          "after enlightenment"
+          "time after enlightenment"
      ],
      [
           "Ud1.1–4",
@@ -13397,7 +15192,7 @@ export const indexArray =`[
      [
           "Ud3.10",
           "Buddha, the",
-          "after enlightenment"
+          "time after enlightenment"
      ],
      [
           "Ud3.10",
@@ -13426,7 +15221,7 @@ export const indexArray =`[
      ],
      [
           "Ud3.4",
-          "arahant",
+          "arahants",
           "simile of mountain"
      ],
      [
@@ -13461,7 +15256,7 @@ export const indexArray =`[
      ],
      [
           "Ud3.7–8",
-          "arahant",
+          "arahants",
           "envied by gods"
      ],
      [
@@ -13561,12 +15356,12 @@ export const indexArray =`[
      ],
      [
           "Ud4.4",
-          "arahant",
+          "arahants",
           "without psychic powers"
      ],
      [
           "Ud4.4",
-          "arahant",
+          "arahants",
           "simile of rock"
      ],
      [
@@ -14001,7 +15796,7 @@ export const indexArray =`[
      ],
      [
           "Ud8.9",
-          "fire element",
+          "fire element (tejo dhātu)",
           "as meditation"
      ],
      [
@@ -14081,7 +15876,7 @@ export const indexArray =`[
      ],
      [
           "Vv16",
-          "stream-enterers",
+          "stream-enterers (sotāpanna)",
           "gods that have become"
      ],
      [
@@ -14146,7 +15941,7 @@ export const indexArray =`[
      ],
      [
           "Vv24",
-          "stream-enterers",
+          "stream-enterers (sotāpanna)",
           "gods that have become"
      ],
      [
@@ -14316,7 +16111,7 @@ export const indexArray =`[
      ],
      [
           "Vv50",
-          "stream-enterers",
+          "stream-enterers (sotāpanna)",
           "gods that have become"
      ],
      [

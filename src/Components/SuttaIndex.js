@@ -18,7 +18,7 @@ export default function SuttaIndex(props) {
           const headwordsObject = index[letter];
           const headwordsArray = Object.keys(headwordsObject);
           return (
-            <>
+            <div key={letter + "-wholeLetter"}>
               <div key={letter + "anchor"} className="alphabet-anchor" id={letter}>
                 {letter}
               </div>
@@ -28,17 +28,15 @@ export default function SuttaIndex(props) {
                 if (!fuzz(headwordDataString).match(regex)) return null;
                 isEmpty = false;
                 return (
-                  <>
-                    <Headword
-                      key={headword + "headword"}
-                      headword={headword}
-                      headwordObject={headwordsObject[headword]}
-                      filterByText={filterByText}
-                    />
-                  </>
+                  <Headword
+                    key={headword + "headword"}
+                    headword={headword}
+                    headwordObject={headwordsObject[headword]}
+                    filterByText={filterByText}
+                  />
                 );
               })}
-            </>
+            </div>
           );
         })}
 

@@ -1,10 +1,17 @@
+import OtherToolsIcons from "./OtherToolsIcons";
+
 export default function Info() {
   return (
     <div>
+      <p>
+        This is an incomplete and unpublished draft of an index of the Sutta Piṭaka. For more information, visit the{" "}
+        <a href="https://github.com/thesunshade/sutta-index#readme" rel="noreferrer" target="_blank">
+          ReadMe.
+        </a>
+      </p>
       <p>In some instances, a specific word may be indexed but not appear in the sutta. </p>
       <p>
-        Pāli is given for important doctrinal terms. The Pāli is generally in the singular, though the term in the text
-        may be plural.
+        Pāli is given for some terms. The Pāli is generally in the singular, though the term in the text may be plural.
       </p>
       <p>
         While this index attempts to be more than just significant occurances, it is by no mean a complete{" "}
@@ -25,6 +32,7 @@ export default function Info() {
           Planned Books: <span className="answer">DN, MN, SN, AN</span>
         </div>
       </div>
+      <OtherToolsIcons />
     </div>
   );
 }

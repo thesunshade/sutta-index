@@ -37,7 +37,7 @@ export default function Locator(props) {
 
   return (
     <span>
-      <a href={url} rel="noreferrer" target="_blank" title={getSuttaTitle(location)}>
+      <a href={url} rel="noreferrer" target="_blank" title={getSuttaTitle(stripRangesFromUrls(location))}>
         {addSpace(location)}
       </a>
     </span>

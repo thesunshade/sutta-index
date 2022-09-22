@@ -18,6 +18,7 @@ export default function Alphabet() {
     }
     const thisMenu = document.getElementById(id + "-menu");
     thisMenu.classList.remove("hidden");
+    thisMenu.scrollTop = 0;
   }
 
   return (

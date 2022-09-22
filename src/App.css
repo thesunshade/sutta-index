@@ -6,6 +6,9 @@
   --dark-primary: #481213;
   --offwhite: #fff9f1;
   --offblack: rgb(21, 13, 1);
+  /* --dark-link: #b3caff; */
+  --dark-link: #729cff;
+  --dark-visited: #b472ff;
 }
 
 @font-face {
@@ -322,7 +325,7 @@ App {
 
 .sutta-index {
   margin: auto 1rem;
-
+  padding-bottom: 3rem;
   max-width: var(--max-width)
 }
 
@@ -344,6 +347,7 @@ a.xref-link {
 
 a:hover {
   text-decoration: underline;
+  text-decoration-thickness: .2rem;
 }
 
 a:visited {
@@ -359,11 +363,11 @@ a:visited {
 }
 
 .dark a {
-  color: #729cff
+  color: var(--dark-link)
 }
 
 .dark a:visited {
-  color: #b472ff
+  color: var(--dark-visited)
 }
 
 .dark .xref-link {
@@ -524,102 +528,43 @@ tr:nth-child(even) {
   top: 0px !important;
 }
 
-/*popup*/
-/* 
-.popup-content {
-  margin: auto;
-  background: var(--dark-primary);
-  width: 50rem;
-  padding: 5px;
-  overflow-y: scroll;
-  overflow-x: hidden;
-  max-height: 50vh;
-}
-
-.dropdown-list {
-  padding: 0px;
-  margin: 0
-}
-
-.popup-content li {
-  list-style: none;
-  text-indent: -1rem;
-  padding-left: 1rem;
-
-}
-
-.popup-content li a {
-  text-decoration: none;
-  color: var(--offwhite);
-  word-spacing: inherit;
-  white-space: inherit;
-}
-
-.popup-content li a:focus {
-  outline: none;
-}
-
-.popup-arrow {
-  color: rgb(255, 255, 255);
-}
-
-[role='tooltip'].popup-content {
-  width: 200px;
-
-  box-shadow: rgba(0, 0, 0, 0.16) 0px 0px 3px;
-}
-
-.popup-overlay {
-  background: rgba(0, 0, 0, 0.5);
-}
-
-[data-popup='tooltip'].popup-overlay {
-  background: transparent;
-} */
-
-
-/* 
-.popup-content {
-  margin: auto;
-  background: rgb(255, 255, 255);
-  width: 50%;
-  padding: 5px;
-}
-
-.popup-arrow {
-  color: rgb(255, 255, 255);
-}
-
-[role='tooltip'].popup-content {
-  width: 200px;
-  box-shadow: rgba(0, 0, 0, 0.16) 0px 0px 3px;
-}
-
-.popup-overlay {
-  background: rgba(0, 0, 0, 0.5);
-}
-
-[data-popup='tooltip'].popup-overlay {
-  background: transparent;
-} */
-
-
-
-
 .dropdown-list {
   overflow-y: auto;
   overflow-x: hidden;
   max-height: 20rem;
-  background-color: var(--dark-primary);
+  background-color: var(--offwhite);
   margin: 0 0 1rem 0;
-  max-width: var(--max-width)
+  max-width: var(--max-width);
 }
+
+.dark .dropdown-list {
+
+  background-color: var(--dark-primary);
+
+}
+
+@media only screen and (max-width: 475px) {
+  .dropdown-list {
+    font-size: 1.3rem;
+    line-height: 140%;
+  }
+
+  .alphabet {
+    margin-top: .75rem;
+    margin-bottom: .75rem
+  }
+}
+
 
 .dropdown-list a {
   text-decoration: none;
-  color: var(--offwhite);
+  /* color: var(--dark-link); */
   word-spacing: inherit;
   white-space: inherit;
+}
+
+.dropdown-list a:visited {
+  /* color: var(--dark-visited) */
 }
 
 .dropdown-list a:hover li {
