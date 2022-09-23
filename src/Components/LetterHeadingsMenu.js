@@ -29,7 +29,9 @@ export default function LetterHeadingsMenu(props) {
               key={headword}
               href={"#" + makeNormalizedId(headword)}
               onClick={e => {
-                setLastClickedLink(e.target.textContent);
+                setTimeout(() => {
+                  setLastClickedLink(e.target.textContent);
+                }, "500");
               }}
             >
               <li>{headword}</li>

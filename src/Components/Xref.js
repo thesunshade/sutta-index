@@ -14,7 +14,9 @@ export default function Xref({ xref }) {
   function handleClick() {
     setFilterByText("");
     setFilterInput("");
-    setLastClickedLink(xref.replace("xref ", ""));
+    setTimeout(() => {
+      setLastClickedLink(xref.replace("xref ", ""));
+    }, "500");
   }
 
   return (
