@@ -2031,7 +2031,7 @@ export const indexArray =`[
      ],
      [
           "AN3.156",
-          "ascetic practices",
+          "mortification (tapojigucchā)",
           "that are scorching"
      ],
      [
@@ -5027,7 +5027,57 @@ export const indexArray =`[
      [
           "AN4.186",
           "learned (bahussutā)",
-          "definition of"
+          "definition"
+     ],
+     [
+          "AN4.186",
+          "astute person (paṇḍita)",
+          "definition"
+     ],
+     [
+          "AN4.187",
+          "Vassakāra, brahmin",
+          "asking about bad people and good people"
+     ],
+     [
+          "AN4.187",
+          "good people",
+          "can know good and bad"
+     ],
+     [
+          "AN4.187",
+          "bad people",
+          "cannot know good and bad"
+     ],
+     [
+          "AN4.188",
+          "Upaka Maṇḍikāputt",
+          "complaining about people"
+     ],
+     [
+          "AN4.188",
+          "Ajātasattu, king",
+          ""
+     ],
+     [
+          "AN4.189",
+          "liberations, eight (vimokkha)",
+          "to be realized with meditative experience"
+     ],
+     [
+          "AN4.189",
+          "knowledge of passing away and rebirth of beings (cutūpapātañāna)",
+          "realized with vision"
+     ],
+     [
+          "AN4.189",
+          "past lives, knowledge of (pubbenivāsānussatiñāna)",
+          "realized with recollection"
+     ],
+     [
+          "AN4.189",
+          "knowledge of destruction of the taints (āsavakkhayañāṇa)",
+          "realized with wisdom"
      ],
      [
           "AN4.19",
@@ -5045,14 +5095,289 @@ export const indexArray =`[
           "as the state of a brahmā"
      ],
      [
+          "AN4.190",
+          "dimension of neither perception nor non-perception (nevasaññānāsaññāyatanaṁ)",
+          "“attained to the imperturbable”"
+     ],
+     [
+          "AN4.190",
+          "jhānas",
+          "“attained to the gods”"
+     ],
+     [
+          "AN4.190",
+          "brahmaviharas",
+          "“attained to Brahmā”"
+     ],
+     [
+          "AN4.191",
+          "mendicants",
+          "reborn as gods"
+     ],
+     [
+          "AN4.191",
+          "learned (bahussutā)",
+          "remember in next life"
+     ],
+     [
+          "AN4.191",
+          "Dhamma teaching",
+          "by gods"
+     ],
+     [
+          "AN4.191",
+          "Dhamma teaching",
+          "by monastics in heaven"
+     ],
+     [
+          "AN4.191",
+          "Dhamma",
+          "memorization of"
+     ],
+     [
+          "AN4.191",
+          "Dhamma",
+          "remembering in next life"
+     ],
+     [
+          "AN4.192",
+          "companionship",
+          "truly getting to know someone"
+     ],
+     [
+          "AN4.192",
+          "virtue",
+          "of others seen only over time"
+     ],
+     [
+          "AN4.192",
+          "integrity",
+          "seeing that someone is consistent"
+     ],
+     [
+          "AN4.192",
+          "worldly conditions",
+          "judging someone by how they respond"
+     ],
+     [
+          "AN4.192",
+          "discussion",
+          "judging someone by"
+     ],
+     [
+          "AN4.192",
+          "judging",
+          "people like observing fish"
+     ],
+     [
+          "AN4.192",
+          "questions, asking",
+          ""
+     ],
+     [
+          "AN4.193",
+          "Bhaddiya the Licchavi",
+          "asks if Buddha is magician"
+     ],
+     [
+          "AN4.193",
+          "oral tradition (anussava)",
+          "going by"
+     ],
+     [
+          "AN4.193",
+          "lineage (paramparāya)",
+          "going by"
+     ],
+     [
+          "AN4.193",
+          "logic (takkahetu)",
+          "going by"
+     ],
+     [
+          "AN4.193",
+          "skillfulness and unskillfulness",
+          "seeing difference between"
+     ],
+     [
+          "AN4.193",
+          "magic",
+          "conversion magic of Buddha"
+     ],
+     [
+          "AN4.193",
+          "conversion",
+          "Buddha not trying to convert people"
+     ],
+     [
+          "AN4.193",
+          "trees",
+          "being converted to Buddhism"
+     ],
+     [
+          "AN4.194",
+          "purity (suddhi, pārisuddhi)",
+          "factors for"
+     ],
+     [
+          "AN4.195",
+          "Vappa the Sakyan",
+          ""
+     ],
+     [
+          "AN4.195",
+          "results of actions",
+          "getting used up"
+     ],
+     [
+          "AN4.195",
+          "arahants",
+          "interacting with the world"
+     ],
+     [
+          "AN4.195",
+          "arahants",
+          "like shadow of pillar completely destroyed"
+     ],
+     [
+          "AN4.195",
+          "arahants",
+          "equanimity towards senses"
+     ],
+     [
+          "AN4.196",
+          "virtue",
+          "as one, but not only, factor of monastic life"
+     ],
+     [
+          "AN4.196",
+          "mortification (tapojigucchā)",
+          "purification through"
+     ],
+     [
           "AN4.197",
           "giving (dāna)",
           "result of"
      ],
      [
+          "AN4.197",
+          "Mallikā, Queen",
+          "asking about human variation"
+     ],
+     [
+          "AN4.197",
+          "results of actions",
+          "mixture of"
+     ],
+     [
+          "AN4.197",
+          "anger (kodha)",
+          "result of in future lives"
+     ],
+     [
+          "AN4.197",
+          "ugliness",
+          "result of anger"
+     ],
+     [
+          "AN4.197",
+          "beauty",
+          "as result of non-anger"
+     ],
+     [
+          "AN4.197",
+          "jealousy",
+          "result of in future lives"
+     ],
+     [
+          "AN4.197",
+          "insignificance, social",
+          "result of jealousy"
+     ],
+     [
+          "AN4.197",
+          "influential",
+          "result of non-jealousy"
+     ],
+     [
+          "AN4.197",
+          "wealth",
+          "as result of giving"
+     ],
+     [
+          "AN4.197",
+          "poverty",
+          "as a result of not giving"
+     ],
+     [
+          "AN4.197",
+          "results of actions",
+          "seeing results as encouragement for good actions"
+     ],
+     [
+          "AN4.198",
+          "mortification (tapojigucchā)",
+          "of oneself and others"
+     ],
+     [
+          "AN4.198",
+          "mortification (tapojigucchā)",
+          "definition"
+     ],
+     [
+          "AN4.198",
+          "sacrifices (yañña)",
+          "as harming others"
+     ],
+     [
+          "AN4.198",
+          "gradual training",
+          ""
+     ],
+     [
+          "AN4.199",
+          "craving (taṇha)",
+          "definition"
+     ],
+     [
+          "AN4.199",
+          "wrong views",
+          "and craving"
+     ],
+     [
+          "AN4.199",
+          "craving (taṇha)",
+          "like tangled yarn, ball of thread"
+     ],
+     [
           "AN4.20",
           "meal allocator",
           "going to hell"
+     ],
+     [
+          "AN4.200",
+          "love (pema)",
+          "caused by love and hate"
+     ],
+     [
+          "AN4.200",
+          "wrong views",
+          ""
+     ],
+     [
+          "AN4.200",
+          "conceit (māna)",
+          ""
+     ],
+     [
+          "AN4.200",
+          "hatred (dosa)",
+          "caused by love and hate"
+     ],
+     [
+          "AN4.200",
+          "aggregates (khandha)",
+          "seeing as self"
      ],
      [
           "AN4.21",
@@ -5411,7 +5736,7 @@ export const indexArray =`[
      ],
      [
           "AN4.41",
-          "aggregates",
+          "aggregates (khandha)",
           "seeing rise and fall of"
      ],
      [
@@ -6101,7 +6426,7 @@ export const indexArray =`[
      ],
      [
           "AN4.90",
-          "aggregates",
+          "aggregates (khandha)",
           "seeing rise and fall of"
      ],
      [
@@ -7106,7 +7431,7 @@ export const indexArray =`[
      ],
      [
           "Dhp141",
-          "ascetic practices",
+          "mortification (tapojigucchā)",
           "uselessness of"
      ],
      [
@@ -7446,7 +7771,7 @@ export const indexArray =`[
      ],
      [
           "Dhp202",
-          "aggregates",
+          "aggregates (khandha)",
           "as suffering"
      ],
      [
@@ -9591,7 +9916,7 @@ export const indexArray =`[
      ],
      [
           "Kp4",
-          "aggregates",
+          "aggregates (khandha)",
           ""
      ],
      [
@@ -12501,7 +12826,7 @@ export const indexArray =`[
      ],
      [
           "Snp4.12",
-          "purity (suddhi)",
+          "purity (suddhi, pārisuddhi)",
           "here alone is"
      ],
      [
@@ -12571,7 +12896,7 @@ export const indexArray =`[
      ],
      [
           "Snp4.4",
-          "purity (suddhi)",
+          "purity (suddhi, pārisuddhi)",
           ""
      ],
      [
@@ -12601,7 +12926,7 @@ export const indexArray =`[
      ],
      [
           "Snp4.6",
-          "purity (suddhi)",
+          "purity (suddhi, pārisuddhi)",
           "by another"
      ],
      [
@@ -12726,7 +13051,7 @@ export const indexArray =`[
      ],
      [
           "Snp5.8",
-          "purity (suddhi)",
+          "purity (suddhi, pārisuddhi)",
           "in terms of vows"
      ],
      [
@@ -13021,7 +13346,7 @@ export const indexArray =`[
      ],
      [
           "Thag1.90",
-          "aggregates",
+          "aggregates (khandha)",
           "remaining after enlightenment"
      ],
      [
@@ -13686,8 +14011,8 @@ export const indexArray =`[
      ],
      [
           "Thag2.23",
-          "psychic powers",
-          "recollection of past lives"
+          "past lives, knowledge of (pubbenivāsānussatiñāna)",
+          ""
      ],
      [
           "Thag2.25",
@@ -13991,7 +14316,7 @@ export const indexArray =`[
      ],
      [
           "Thag4.5",
-          "ascetic practices",
+          "mortification (tapojigucchā)",
           "uselessness of"
      ],
      [
@@ -14766,7 +15091,7 @@ export const indexArray =`[
      ],
      [
           "Thig3.7",
-          "aggregates",
+          "aggregates (khandha)",
           "like chopping block"
      ],
      [
@@ -14916,7 +15241,7 @@ export const indexArray =`[
      ],
      [
           "Thig6.3",
-          "aggregates",
+          "aggregates (khandha)",
           "like chopping block"
      ],
      [

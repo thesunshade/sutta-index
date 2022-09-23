@@ -130,6 +130,11 @@ App {
   padding: .5rem 0;
 }
 
+.favorites-button {
+  position: relative;
+  top: .25rem
+}
+
 .alphabet {
   font-family: "Fira Code";
   /* margin-bottom: .5rem; */

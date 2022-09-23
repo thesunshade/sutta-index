@@ -1,9 +1,11 @@
 import { indexObject } from "../data/index-object.js";
 import makeNormalizedId from "../functions/makeNormalizedId.js";
+import { LastClickedLink } from "../App.js";
+import { useContext } from "react";
 
 export default function LetterHeadingsMenu(props) {
   const index = JSON.parse(indexObject);
-
+  const [lastClickedLink, setLastClickedLink] = useContext(LastClickedLink);
   const { letter } = props;
 
   const headwordsArray = Object.keys(index[letter]);
@@ -23,7 +25,13 @@ export default function LetterHeadingsMenu(props) {
       >
         {headwordsArray.map(headword => {
           return (
-            <a key={headword} href={"#" + makeNormalizedId(headword)}>
+            <a
+              key={headword}
+              href={"#" + makeNormalizedId(headword)}
+              onClick={e => {
+                setLastClickedLink(e.target.textContent);
+              }}
+            >
               <li>{headword}</li>
             </a>
           );

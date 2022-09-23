@@ -462,7 +462,7 @@ food		Kp4
 name and form		Kp4
 feelings		Kp4
 four noble truths		Kp4
-aggregates		Kp4
+aggregates (khandha)		Kp4
 sense fields		Kp4
 enlightenment factors		Kp4
 noble eightfold path		Kp4
@@ -719,7 +719,7 @@ harsh speech	result of	Dhp133
 conflicts	stopping	Dhp134
 death (maraṇa)	simile of cowherd	Dhp135
 violence	result of	Dhp137–40
-ascetic practices	uselessness of	Dhp141
+mortification (tapojigucchā)	uselessness of	Dhp141
 outward appearance deceiving		Dhp142
 conscience	simile of horse and whip	Dhp143–44
 self taming	simile of arrow maker	Dhp145
@@ -776,7 +776,7 @@ contentment (santuṭṭhi)		Dhp199–200
 victory and defeat		Dhp201
 greed	as fire	Dhp202
 hatred (dosa)	as crime	Dhp202
-aggregates	as suffering	Dhp202
+aggregates (khandha)	as suffering	Dhp202
 hunger	as illness	Dhp203
 health	as blessing	Dhp204
 contentment (santuṭṭhi)	as wealth	Dhp204
@@ -1447,14 +1447,14 @@ sense pleasures (kāmaguṇa)	of the past and future	Snp4.2
 attachment	like fish in dried-up stream	Snp4.2
 boasting		Snp4.3
 disputes	about Dhamma	Snp4.3
-purity (suddhi)		Snp4.4
+purity (suddhi, pārisuddhi)		Snp4.4
 disputes	about Dhamma	Snp4.5
 conceit (māna)	wrong views	Snp4.5
 aging		xref old age
 old age		Snp4.6
 death (maraṇa)	like dream gone when waking are the dead	Snp4.6
 craving (taṇha)	simile of water drop on lotus leaf	Snp4.6
-purity (suddhi)	by another	Snp4.6
+purity (suddhi, pārisuddhi)	by another	Snp4.6
 sexual activity	by monastics	Snp4.7
 monastics	sexual activity	Snp4.7
 monastic life	wrongly practiced	Snp4.7
@@ -1471,7 +1471,7 @@ quarrels		xref disputes
 disputes	cause of	Snp4.11
 dependent origination	variations on	Snp4.11
 disputes	over views	Snp4.12
-purity (suddhi)	here alone is	Snp4.12
+purity (suddhi, pārisuddhi)	here alone is	Snp4.12
 disputes	over views	Snp4.13
 peaceful person	like  deep ocean is still	Snp4.14
 monastic life	rightly practiced	Snp4.14
@@ -1493,7 +1493,7 @@ perception of nothingness (natthi)		Snp5.7
 arahants	like a flame blown out	Snp5.7
 arahants	existing after death	Snp5.7
 sage (muni)	definition	Snp5.8
-purity (suddhi)	in terms of vows	Snp5.8
+purity (suddhi, pārisuddhi)	in terms of vows	Snp5.8
 hope	free from	Snp5.10
 renunciation	as sanctuary	Snp5.12
 Vakkali, Ven	committed to faith	Snp5.19
@@ -1816,7 +1816,7 @@ mind	training like elephant trainer does	Thag1.77
 sleep	fondness for	Thag1.84
 socializing		Thag1.84
 Buddha, the	openhanded	Thag1.86
-aggregates	remaining after enlightenment	Thag1.90
+aggregates (khandha)	remaining after enlightenment	Thag1.90
 Dhamma	as sweetest taste	Thag1.91
 giving (dāna)		xref gifts, specific types of
 food	attachment to	Thag1.92
@@ -1852,7 +1852,8 @@ honor	source of jealousy	Thag2.17
 vanity		Thag2.19
 criticism	wrongly directed	Thag2.20
 recollection	past lives	Thag2.23
-psychic powers	recollection of past lives	Thag2.23
+psychic powers		xref past lives, knowledge of (pubbenivāsānussatiñāna)
+past lives, knowledge of (pubbenivāsānussatiñāna)		Thag2.23
 enlightenment	while head being shaved	Thag2.25
 Dhamma	mirror	Thag2.26
 body	emptiness of	Thag2.26
@@ -1898,7 +1899,7 @@ walking meditation		Thag4.2
 drowsiness (middha)		Thag4.2
 respect (gārava)	for spiritual companions	Thag4.3
 perception of ugliness (asubhasañña)		Thag4.4
-ascetic practices	uselessness of	Thag4.5
+mortification (tapojigucchā)	uselessness of	Thag4.5
 Buddha, the	praise of	Thag4.6
 Rāhula, Ven		Thag4.8
 dangers	family life	Thag4.9
@@ -2172,7 +2173,7 @@ children of the Buddha	rightful daughter	Thig3.3
 elephants	as inspiration for training	Thig3.4
 grieving	overcoming	Thig3.5
 sensual pleasures	like swords and stakes	Thig3.7
-aggregates	like chopping block	Thig3.7
+aggregates (khandha)	like chopping block	Thig3.7
 Māra	encourages giving up monastic life	Thig3.7
 Māra	sexist attack	Thig3.8
 womanhood	as irrelevant for enlightenment	Thig3.8
@@ -2202,7 +2203,7 @@ grieving	overcoming	Thig6.1
 grieving	death	Thig6.2
 perception of ugliness (asubhasañña)		Thig6.3
 sensual pleasures	like swords and stakes	Thig6.3
-aggregates	like chopping block	Thig6.3
+aggregates (khandha)	like chopping block	Thig6.3
 rebirth	in various positions	Thig6.6
 slow spiritual progress		Thig6.8
 followers of other paths		Thig7.2
@@ -2740,7 +2741,7 @@ homage		xref worshiping (vandati)
 worshiping (vandati)  	by body, speech and mind	AN3.154
 good actions	all day long	AN3.155
 wrong views	that there is nothing wrong with sensual pleasures	AN3.156
-ascetic practices	that are scorching	AN3.156
+mortification (tapojigucchā)	that are scorching	AN3.156
 middle path (majjhimā paṭipadā)		AN3.156
 bodhipakkhiyā dhammā	as middle path	AN3.156
 thirty-seven aids to enlightenment		xref bodhipakkhiyā dhammā
@@ -3129,7 +3130,7 @@ sacrifices (yañña)	kinds Buddha praised	AN4.39
 sacrifices (yañña)	kinds Buddha praised	AN4.40
 meditation	blissful in the present life	AN4.41
 knowledge and vision (ñāṇadassana)	perception of light leads to	AN4.41
-aggregates	seeing rise and fall of	AN4.41
+aggregates (khandha)	seeing rise and fall of	AN4.41
 questions, answering 	four ways	AN4.42
 anger (kodha)	valuing more than the true Dhamma	AN4.43
 gain (lābha)	valuing more than the true Dhamma	AN4.43
@@ -3250,7 +3251,7 @@ companionship	one treated well by companions	AN4.87
 stages of enlightenment		AN4.88
 fetters (saṁyojana)	stages of enlightenment	AN4.88
 liberations, eight (vimokkha)		AN4.89
-aggregates	seeing rise and fall of	AN4.90
+aggregates (khandha)	seeing rise and fall of	AN4.90
 asuras	as simile for bad people	AN4.91
 association	with similar people/like elements	AN4.91
 association	with opposite people	AN4.91
@@ -3525,4 +3526,81 @@ body	attachment to causes fear of death	AN4.184
 brahmins	truths	AN4.185
 world	led around by mind	AN4.186
 mind	leads the world on	AN4.186
-learned (bahussutā)	definition of	AN4.186
+learned (bahussutā)	definition	AN4.186
+astute person (paṇḍita)	definition	AN4.186
+Vassakāra, brahmin	asking about bad people and good people	AN4.187
+good people		xref bad people
+bad people		xref good people
+good people	can know good and bad	AN4.187
+bad people	cannot know good and bad	AN4.187
+Upaka Maṇḍikāputt	complaining about people	AN4.188
+Ajātasattu, king		AN4.188
+liberations, eight (vimokkha)	to be realized with meditative experience	AN4.189
+recollection of past lives		xref past lives, knowledge of (pubbenivāsānussatiñāna)
+knowledge of past lives		xref past lives, knowledge of (pubbenivāsānussatiñāna)
+knowledge of passing away and rebirth of beings (cutūpapātañāna)	realized with vision	AN4.189
+past lives, knowledge of (pubbenivāsānussatiñāna)	realized with recollection	AN4.189
+knowledge of destruction of the taints (āsavakkhayañāṇa)	realized with wisdom	AN4.189
+psychic powers		xref knowledge of passing away and rebirth of beings (cutūpapātañāna)
+psychic powers		xref divine eye (dibbacakkhu)
+knowledge of passing away and rebirth of beings (cutūpapātañāna)		xref divine eye (dibbacakkhu)
+divine eye (dibbacakkhu)		xref knowledge of passing away and rebirth of beings (cutūpapātañāna)
+dimension of neither perception nor non-perception (nevasaññānāsaññāyatanaṁ)	“attained to the imperturbable”	AN4.190
+jhānas	“attained to the gods”	AN4.190
+brahmaviharas	“attained to Brahmā”	AN4.190
+mendicants	reborn as gods	AN4.191
+learned (bahussutā)	remember in next life	AN4.191
+Dhamma teaching	by gods	AN4.191
+Dhamma teaching	by monastics in heaven	AN4.191
+Dhamma	memorization of	AN4.191
+Dhamma	remembering in next life	AN4.191
+companionship	truly getting to know someone	AN4.192
+virtue	of others seen only over time	AN4.192
+integrity	seeing that someone is consistent	AN4.192
+worldly conditions	judging someone by how they respond	AN4.192
+discussion	judging someone by	AN4.192
+judging	people like observing fish	AN4.192
+questions, asking		AN4.192
+Bhaddiya the Licchavi	asks if Buddha is magician	AN4.193
+oral tradition (anussava)	going by	AN4.193
+lineage (paramparāya)	going by	AN4.193
+logic (takkahetu)	going by	AN4.193
+skillfulness and unskillfulness	seeing difference between	AN4.193
+magic	conversion magic of Buddha	AN4.193
+conversion	Buddha not trying to convert people	AN4.193
+trees	being converted to Buddhism	AN4.193
+purity (suddhi, pārisuddhi)	factors for	AN4.194
+Vappa the Sakyan		AN4.195
+results of actions	getting used up	AN4.195
+arahants	interacting with the world	AN4.195
+arahants	like shadow of pillar completely destroyed	AN4.195
+arahants	equanimity towards senses	AN4.195
+virtue	as one, but not only, factor of monastic life	AN4.196
+mortification (tapojigucchā)	purification through	AN4.196
+ascetic practices (dhutaṅga)		xref mortification (tapojigucchā)
+self mortification		xref mortification (tapojigucchā)
+austerity practices		xref mortification (tapojigucchā)
+purification		xref mortification (tapojigucchā)
+Mallikā, Queen	asking about human variation	AN4.197
+results of actions	mixture of	AN4.197
+anger (kodha)	result of in future lives	AN4.197
+ugliness	result of anger	AN4.197
+beauty	as result of non-anger	AN4.197
+jealousy	result of in future lives	AN4.197
+insignificance, social	result of jealousy	AN4.197
+influential	result of non-jealousy	AN4.197
+wealth	as result of giving	AN4.197
+poverty	as a result of not giving	AN4.197
+results of actions	seeing results as encouragement for good actions	AN4.197
+mortification (tapojigucchā)	of oneself and others	AN4.198
+mortification (tapojigucchā)	definition	AN4.198
+sacrifices (yañña)	as harming others	AN4.198
+gradual training		AN4.198
+craving (taṇha)	definition	AN4.199
+wrong views	and craving	AN4.199
+craving (taṇha)	like tangled yarn, ball of thread	AN4.199
+love (pema)	caused by love and hate	AN4.200
+wrong views		AN4.200
+conceit (māna)		AN4.200
+hatred (dosa)	caused by love and hate	AN4.200
+aggregates (khandha)	seeing as self	AN4.200

@@ -5,7 +5,6 @@ import getSuttaTitle from "../functions/getSuttaTitle.js";
 export default function Locator(props) {
   let { location } = props;
   const destination = useContext(ContextDestination);
-  // const [setFilterByText, setFilterInput] = useContext(ContextFilterSetters);
 
   function stripRangesFromUrls(locator) {
     return locator.replace(/–.+/, "");

@@ -2,12 +2,14 @@ import "./App.css";
 import SuttaIndex from "./Components/SuttaIndex.js";
 import Info from "./Components/Info.js";
 import Stats from "./Components/Stats.js";
+import Favorites from "./Components/Favorites.js";
 import OtherToolsIcons from "./Components/OtherToolsIcons.js";
 import LocatorSortedTable from "./Components/LocatorSortedTable.js";
 import Alphabet from "./Components/Alphabet.js";
 import { useState, createContext } from "react";
 import settingsIcon from "./images/settings.png";
 import infoDot from "./images/info-dot.png";
+import favoritesDot from "./images/favorites-dot.png";
 import xIcon from "./images/30632_close_cross_x_icon.png";
 import upIcon from "./images/7122424_chevron_up_double_icon.png";
 import themeIcon from "./images/8673129_ic_fluent_dark_theme_filled.png";
@@ -15,12 +17,14 @@ import randomSuggestion from "./functions/randomSuggestion";
 
 export const ContextDestination = createContext();
 export const ContextFilterSetters = createContext();
+export const LastClickedLink = createContext();
 
 function App() {
   const [destination, setDestination] = useState(localStorage.destination ? localStorage.destination : "SC");
   const [isLocatorView, setIsLocatorView] = useState(false);
   const [filterInput, setFilterInput] = useState("");
   const [filterByText, setFilterByText] = useState("");
+  const [lastClickedLink, setLastClickedLink] = useState("");
 
   document.addEventListener("click", e => {
     if (!e.target.classList.contains("letter")) {
@@ -146,10 +150,26 @@ function App() {
               }}
             ></img>
           </div>
+          <div className="favorites-button">
+            <img
+              className="icon"
+              width="22px"
+              src={favoritesDot}
+              alt="Favorites Toggle"
+              onClick={() => {
+                toggleArea("favorites-area");
+              }}
+            ></img>
+          </div>
         </div>
-        <Alphabet />
+        <LastClickedLink.Provider value={[lastClickedLink, setLastClickedLink]}>
+          <Alphabet />
+        </LastClickedLink.Provider>
         <div id="info-area" className="info-area hidden hideable-area">
           <Info />
+        </div>
+        <div id="favorites-area" className="favorites-area hidden hideable-area">
+          <Favorites lastClickedLink={lastClickedLink} />
         </div>
         <div id="options-area" className="options-area hidden  hideable-area">
           <label className="table-view">
@@ -220,9 +240,11 @@ function App() {
         <LocatorSortedTable />
       ) : (
         <ContextFilterSetters.Provider value={[setFilterByText, setFilterInput]}>
-          <ContextDestination.Provider value={destination}>
-            <SuttaIndex filterByText={filterByText} />
-          </ContextDestination.Provider>
+          <LastClickedLink.Provider value={[lastClickedLink, setLastClickedLink]}>
+            <ContextDestination.Provider value={destination}>
+              <SuttaIndex filterByText={filterByText} />
+            </ContextDestination.Provider>
+          </LastClickedLink.Provider>
         </ContextFilterSetters.Provider>
       )}
     </div>

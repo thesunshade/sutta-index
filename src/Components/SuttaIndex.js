@@ -1,5 +1,4 @@
 import { indexObject } from "../data/index-object.js";
-import sortedKeys from "../functions/sortedKeys.js";
 import Headword from "./Headword";
 import fuzz from "../functions/fuzz.js";
 import NoResults from "./NoResults.js";
