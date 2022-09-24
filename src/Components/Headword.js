@@ -2,7 +2,7 @@ import sortedKeys from "../functions/sortedKeys";
 import LocatorList from "./LocatorList";
 import makeNormalizedId from "../functions/makeNormalizedId";
 import KeyWord from "./KeyWord";
-import { ContextFilterSetters, LastClickedLink } from "../App.js";
+import { LastClickedLink } from "../App.js";
 import { useContext } from "react";
 import linkIcon from "../images/link-icon.png";
 
