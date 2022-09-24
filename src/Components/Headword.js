@@ -9,7 +9,7 @@ import linkIcon from "../images/link-icon.png";
 export default function Headword(props) {
   const { headword, headwordObject, filterByText } = props;
   const sortedSubWords = sortedKeys(headwordObject);
-  const [lastClickedLink, setLastClickedLink] = useContext(LastClickedLink);
+  const { setLastClickedLink } = useContext(LastClickedLink);
 
   return (
     <div key={headword}>
@@ -18,7 +18,7 @@ export default function Headword(props) {
           onClick={e => {
             setTimeout(() => {
               setLastClickedLink(e.target.textContent);
-            }, "500");
+            }, "1000");
           }}
           className="headword-link"
           href={"#" + makeNormalizedId(headword)}

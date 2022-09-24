@@ -5,7 +5,7 @@ import { useContext } from "react";
 export default function Xref({ xref }) {
   const locationId = makeNormalizedId(xref);
   const [setFilterByText, setFilterInput] = useContext(ContextFilterSetters);
-  const [lastClickedLink, setLastClickedLink] = useContext(LastClickedLink);
+  const { setLastClickedLink } = useContext(LastClickedLink);
 
   function cleanUpXref(xref) {
     return xref.replace("xref ", "").replace(/\(.+\)/, "");
@@ -14,9 +14,12 @@ export default function Xref({ xref }) {
   function handleClick() {
     setFilterByText("");
     setFilterInput("");
+    console.log(setLastClickedLink);
+    // setLastClickedLink(xref.replace("xref ", ""));
+
     setTimeout(() => {
       setLastClickedLink(xref.replace("xref ", ""));
-    }, "500");
+    }, "1000");
   }
 
   return (

@@ -5,7 +5,7 @@ import { useContext } from "react";
 
 export default function LetterHeadingsMenu(props) {
   const index = JSON.parse(indexObject);
-  const [lastClickedLink, setLastClickedLink] = useContext(LastClickedLink);
+  const { setLastClickedLink } = useContext(LastClickedLink);
   const { letter } = props;
 
   const headwordsArray = Object.keys(index[letter]);
@@ -31,7 +31,7 @@ export default function LetterHeadingsMenu(props) {
               onClick={e => {
                 setTimeout(() => {
                   setLastClickedLink(e.target.textContent);
-                }, "500");
+                }, "1000");
               }}
             >
               <li>{headword}</li>
