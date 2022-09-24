@@ -452,6 +452,13 @@ a:visited {
   font-weight: bold
 }
 
+.headwrd-link,
+.headwrd-link:visited {
+  color: var(--offblack);
+  padding-right: .5rem;
+  word-spacing: inherit;
+}
+
 .highlight {
   padding: 0 .1rem;
   background-color: var(--primary);

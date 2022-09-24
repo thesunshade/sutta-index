@@ -2136,7 +2136,7 @@ export const indexArray =`[
      ],
      [
           "AN3.23",
-          "formations(saṅkāra)",
+          "formations (saṅkāra)",
           "afflictive and unafflictive"
      ],
      [
@@ -3743,11 +3743,6 @@ export const indexArray =`[
           "AN3.99",
           "listening to Dhamma",
           "from good senior monastics"
-     ],
-     [
-          "AN3.see formations(saṅkāra)",
-          "choices",
-          ""
      ],
      [
           "AN4.10",
@@ -5380,6 +5375,201 @@ export const indexArray =`[
           "seeing as self"
      ],
      [
+          "AN4.201",
+          "bad people",
+          "definition"
+     ],
+     [
+          "AN4.201",
+          "bad people",
+          "even worse when they encourage others"
+     ],
+     [
+          "AN4.201",
+          "good people",
+          "definition"
+     ],
+     [
+          "AN4.201",
+          "good people",
+          "even better when they encourage others"
+     ],
+     [
+          "AN4.201",
+          "encouragement",
+          "to do good"
+     ],
+     [
+          "AN4.201",
+          "encouragement",
+          "to do bad"
+     ],
+     [
+          "AN4.202",
+          "bad people",
+          "definition"
+     ],
+     [
+          "AN4.202",
+          "bad people",
+          "even worse when they encourage others"
+     ],
+     [
+          "AN4.202",
+          "good people",
+          "definition"
+     ],
+     [
+          "AN4.202",
+          "good people",
+          "even better when they encourage others"
+     ],
+     [
+          "AN4.202",
+          "encouragement",
+          "to do good"
+     ],
+     [
+          "AN4.202",
+          "encouragement",
+          "to do bad"
+     ],
+     [
+          "AN4.203",
+          "bad people",
+          "definition"
+     ],
+     [
+          "AN4.203",
+          "bad people",
+          "even worse when they encourage others"
+     ],
+     [
+          "AN4.203",
+          "good people",
+          "definition"
+     ],
+     [
+          "AN4.203",
+          "good people",
+          "even better when they encourage others"
+     ],
+     [
+          "AN4.203",
+          "encouragement",
+          "to do good"
+     ],
+     [
+          "AN4.203",
+          "encouragement",
+          "to do bad"
+     ],
+     [
+          "AN4.204",
+          "bad people",
+          "definition"
+     ],
+     [
+          "AN4.204",
+          "bad people",
+          "even worse when they encourage others"
+     ],
+     [
+          "AN4.204",
+          "good people",
+          "definition"
+     ],
+     [
+          "AN4.204",
+          "good people",
+          "even better when they encourage others"
+     ],
+     [
+          "AN4.204",
+          "encouragement",
+          "to do good"
+     ],
+     [
+          "AN4.204",
+          "encouragement",
+          "to do bad"
+     ],
+     [
+          "AN4.205",
+          "bad people",
+          "definition"
+     ],
+     [
+          "AN4.205",
+          "bad people",
+          "even worse when they encourage others"
+     ],
+     [
+          "AN4.205",
+          "good people",
+          "definition"
+     ],
+     [
+          "AN4.205",
+          "good people",
+          "even better when they encourage others"
+     ],
+     [
+          "AN4.205",
+          "encouragement",
+          "to do good"
+     ],
+     [
+          "AN4.205",
+          "encouragement",
+          "to do bad"
+     ],
+     [
+          "AN4.205",
+          "wrong eightfold path",
+          "person who possesses"
+     ],
+     [
+          "AN4.205",
+          "noble eightfold path",
+          "person who possesses"
+     ],
+     [
+          "AN4.205",
+          "noble eightfold path",
+          "encouraging others to practice"
+     ],
+     [
+          "AN4.206",
+          "bad people",
+          "definition"
+     ],
+     [
+          "AN4.206",
+          "bad people",
+          "even worse when they encourage others"
+     ],
+     [
+          "AN4.206",
+          "good people",
+          "definition"
+     ],
+     [
+          "AN4.206",
+          "good people",
+          "even better when they encourage others"
+     ],
+     [
+          "AN4.206",
+          "encouragement",
+          "to do good"
+     ],
+     [
+          "AN4.206",
+          "encouragement",
+          "to do bad"
+     ],
+     [
           "AN4.21",
           "respect (gārava)",
           "one without lives in suffering"
@@ -5400,14 +5590,104 @@ export const indexArray =`[
           "all respected the Dhamma"
      ],
      [
+          "AN4.211",
+          "assemblies",
+          "who corrupts and who beautifies"
+     ],
+     [
+          "AN4.212",
+          "hell (niraya)",
+          "actions that lead to"
+     ],
+     [
+          "AN4.212",
+          "hell (niraya)",
+          "wrong view leads to "
+     ],
+     [
+          "AN4.212",
+          "heaven",
+          "actions that lead to"
+     ],
+     [
+          "AN4.212",
+          "heaven",
+          "right view leads to"
+     ],
+     [
+          "AN4.212",
+          "right view",
+          "resulting in heaven"
+     ],
+     [
+          "AN4.212",
+          "wrong view",
+          "resulting in hell"
+     ],
+     [
+          "AN4.213",
+          "hell (niraya)",
+          "actions that lead to"
+     ],
+     [
+          "AN4.214",
+          "hell (niraya)",
+          "wrong view leads to "
+     ],
+     [
+          "AN4.215",
+          "heaven",
+          "actions that lead to"
+     ],
+     [
+          "AN4.216",
+          "heaven",
+          "right view leads to"
+     ],
+     [
           "AN4.217",
           "speech",
           "declarations"
      ],
      [
+          "AN4.217",
+          "gratitude",
+          "leading to heaven"
+     ],
+     [
+          "AN4.217",
+          "lying",
+          "leading to hell"
+     ],
+     [
+          "AN4.217",
+          "truthfulness",
+          "leading to heaven"
+     ],
+     [
           "AN4.218",
           "speech",
           "declarations"
+     ],
+     [
+          "AN4.218",
+          "ingratitude",
+          "leading to hell"
+     ],
+     [
+          "AN4.218",
+          "lying",
+          "leading to hell"
+     ],
+     [
+          "AN4.218",
+          "truthfulness",
+          "leading to heaven"
+     ],
+     [
+          "AN4.219",
+          "faith (saddhā)",
+          "lack of leading to hell"
      ],
      [
           "AN4.22",
@@ -5420,6 +5700,11 @@ export const indexArray =`[
           "true meaning"
      ],
      [
+          "AN4.220",
+          "faith (saddhā)",
+          "lack of leading to hell"
+     ],
+     [
           "AN4.221",
           "speech",
           "good conduct"
@@ -5430,6 +5715,16 @@ export const indexArray =`[
           "bad conduct"
      ],
      [
+          "AN4.221",
+          "speech",
+          "four kinds of good"
+     ],
+     [
+          "AN4.221",
+          "speech",
+          "four kinds of bad"
+     ],
+     [
           "AN4.222",
           "speech",
           "good conduct"
@@ -5438,6 +5733,106 @@ export const indexArray =`[
           "AN4.222",
           "speech",
           "bad conduct"
+     ],
+     [
+          "AN4.222",
+          "criticism",
+          "rightly directed"
+     ],
+     [
+          "AN4.223",
+          "criticism",
+          "rightly directed"
+     ],
+     [
+          "AN4.224",
+          "astute person (paṇḍita)",
+          "makes merit"
+     ],
+     [
+          "AN4.224",
+          "fools",
+          "make bad karma"
+     ],
+     [
+          "AN4.231",
+          "poetry",
+          "types of poets"
+     ],
+     [
+          "AN4.232",
+          "actions (kamma)",
+          "bright and dark"
+     ],
+     [
+          "AN4.232",
+          "actions (kamma)",
+          "neither bright nor dark"
+     ],
+     [
+          "AN4.232",
+          "results of actions",
+          "bright and dark"
+     ],
+     [
+          "AN4.232",
+          "results of actions",
+          "neither bright nor dark"
+     ],
+     [
+          "AN4.233",
+          "actions (kamma)",
+          "bright and dark: definition"
+     ],
+     [
+          "AN4.233",
+          "results of actions",
+          "bright and dark: definition"
+     ],
+     [
+          "AN4.233",
+          "heavenly realms",
+          "that are exclusively happy"
+     ],
+     [
+          "AN4.233",
+          "heavenly realms",
+          "that have mixed pleasure and pain"
+     ],
+     [
+          "AN4.233",
+          "human birth",
+          "has mixed pleasure and pain"
+     ],
+     [
+          "AN4.233",
+          "hell (niraya)",
+          "exclusively painful"
+     ],
+     [
+          "AN4.233",
+          "intention (cetana)",
+          "to give up good and bad actions"
+     ],
+     [
+          "AN4.235",
+          "actions (kamma)",
+          "bright and dark"
+     ],
+     [
+          "AN4.235",
+          "actions (kamma)",
+          "neither bright nor dark"
+     ],
+     [
+          "AN4.236",
+          "actions (kamma)",
+          "bright and dark: definition"
+     ],
+     [
+          "AN4.237",
+          "actions (kamma)",
+          "neither bright nor dark: definition"
      ],
      [
           "AN4.24",
@@ -5448,6 +5843,71 @@ export const indexArray =`[
           "AN4.24",
           "non-identification",
           "with seen, heard, thought, known"
+     ],
+     [
+          "AN4.241",
+          "lions roar",
+          "only here are noble disciples"
+     ],
+     [
+          "AN4.241",
+          "stages of enlightenment",
+          "and fetters"
+     ],
+     [
+          "AN4.242",
+          "good people",
+          "benefit of relying on"
+     ],
+     [
+          "AN4.242",
+          "association",
+          "with superior people causes one to improve"
+     ],
+     [
+          "AN4.243",
+          "Anuruddha, Ven.",
+          "not involved with disciplinary issues"
+     ],
+     [
+          "AN4.243",
+          "Ānanda, Ven",
+          "and disciplinary issue"
+     ],
+     [
+          "AN4.243",
+          "schisms",
+          "bad monk loves"
+     ],
+     [
+          "AN4.243",
+          "bad monastics",
+          "love schisms"
+     ],
+     [
+          "AN4.244",
+          "perils (bhaya)",
+          "of bad actions"
+     ],
+     [
+          "AN4.244",
+          "crime",
+          "punishments"
+     ],
+     [
+          "AN4.244",
+          "punishment (daṇḍa)",
+          "fear of"
+     ],
+     [
+          "AN4.244",
+          "punishment (daṇḍa)",
+          "as motivation to do good"
+     ],
+     [
+          "AN4.244",
+          "monastic rules (vinaya)",
+          "danger of breaking"
      ],
      [
           "AN4.25",
@@ -9181,12 +9641,12 @@ export const indexArray =`[
      ],
      [
           "Iti18",
-          "schism",
+          "schisms",
           "as great harm"
      ],
      [
           "Iti18",
-          "schism",
+          "schisms",
           "leading to hell"
      ],
      [
@@ -15891,7 +16351,7 @@ export const indexArray =`[
      ],
      [
           "Ud5.8",
-          "schism",
+          "schisms",
           ""
      ],
      [
