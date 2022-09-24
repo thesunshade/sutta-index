@@ -2771,8 +2771,8 @@ export const indexArray =`[
      ],
      [
           "AN3.58",
-          "knowledges, three",
-          ""
+          "knowledges (vijja)",
+          "three"
      ],
      [
           "AN3.58",
@@ -2796,8 +2796,8 @@ export const indexArray =`[
      ],
      [
           "AN3.59",
-          "knowledges, three",
-          ""
+          "knowledges (vijja)",
+          "three"
      ],
      [
           "AN3.6",
@@ -4477,7 +4477,7 @@ export const indexArray =`[
      [
           "AN4.152",
           "powers (bala)",
-          "four "
+          "faith, energy, mindfulness, and immersion"
      ],
      [
           "AN4.153",
@@ -5011,7 +5011,7 @@ export const indexArray =`[
      ],
      [
           "AN4.186",
-          "world",
+          "world, the",
           "led around by mind"
      ],
      [
@@ -5621,7 +5621,7 @@ export const indexArray =`[
      ],
      [
           "AN4.212",
-          "wrong view",
+          "wrong view (micchā diṭṭhi)",
           "resulting in hell"
      ],
      [
@@ -5910,6 +5910,101 @@ export const indexArray =`[
           "danger of breaking"
      ],
      [
+          "AN4.245",
+          "training",
+          "benefit of spiritual life"
+     ],
+     [
+          "AN4.245",
+          "fundamentals of the spiritual life (ādibrahmacariya)",
+          "training like elephant trainer does"
+     ],
+     [
+          "AN4.245",
+          "wisdom",
+          "as overseer of spiritual life"
+     ],
+     [
+          "AN4.245",
+          "monastic life",
+          "freedom as core"
+     ],
+     [
+          "AN4.245",
+          "monastic life",
+          "mindfulness as ruler"
+     ],
+     [
+          "AN4.245",
+          "monastic life",
+          "training as benefit"
+     ],
+     [
+          "AN4.246",
+          "lying posture",
+          "four ways"
+     ],
+     [
+          "AN4.247",
+          "stupa (thupa)",
+          "people worthy of"
+     ],
+     [
+          "AN4.247",
+          "paccekabuddha",
+          "worthy of stupa"
+     ],
+     [
+          "AN4.247",
+          "wheel-turning monarchs",
+          "worthy of stupa"
+     ],
+     [
+          "AN4.247",
+          "arahants",
+          "worthy of stupa"
+     ],
+     [
+          "AN4.247",
+          "Buddhas",
+          "worthy of stupa"
+     ],
+     [
+          "AN4.248",
+          "wisdom",
+          "things that lead to growth"
+     ],
+     [
+          "AN4.248",
+          "association",
+          "with good people grows wisdom"
+     ],
+     [
+          "AN4.248",
+          "listening to Dhamma",
+          "grows wisdom"
+     ],
+     [
+          "AN4.248",
+          "proper attention (yoniso manasikāra)",
+          "leads to wisdom"
+     ],
+     [
+          "AN4.248",
+          "practicing",
+          "in line with Dhamma leads to wisdom"
+     ],
+     [
+          "AN4.248",
+          "lying",
+          ""
+     ],
+     [
+          "AN4.248",
+          "truthfulness",
+          ""
+     ],
+     [
           "AN4.25",
           "monastic life",
           "goal of"
@@ -5930,9 +6025,159 @@ export const indexArray =`[
           "declarations"
      ],
      [
+          "AN4.254",
+          "direct knowledges (abhiññā)",
+          "function of"
+     ],
+     [
+          "AN4.254",
+          "aggregates (khandha)",
+          "understood by direct knowledge"
+     ],
+     [
+          "AN4.254",
+          "ignorance",
+          "given up by direct knowledge"
+     ],
+     [
+          "AN4.254",
+          "craving for existence (bhavataṇhā)",
+          "given up by direct knowledge"
+     ],
+     [
+          "AN4.254",
+          "serenity (samatha)",
+          "developed with direct knowledge"
+     ],
+     [
+          "AN4.254",
+          "vipassanā",
+          "developed with direct knowledge"
+     ],
+     [
+          "AN4.254",
+          "knowledge and vision (ñāṇadassana)",
+          "realized by direct knowledge "
+     ],
+     [
+          "AN4.255",
+          "searches (esana)",
+          "noble and ignoble"
+     ],
+     [
+          "AN4.256",
+          "friendship",
+          "attracting friends"
+     ],
+     [
+          "AN4.256",
+          "giving (dāna)",
+          "friendship gained by"
+     ],
+     [
+          "AN4.256",
+          "impartiality (samānattatā)",
+          "friendship gained by"
+     ],
+     [
+          "AN4.256",
+          "speech",
+          "kind words"
+     ],
+     [
+          "AN4.257",
+          "Dhamma",
+          "in brief"
+     ],
+     [
+          "AN4.257",
+          "requisites, four",
+          "source of craving"
+     ],
+     [
+          "AN4.257",
+          "Māluṅkyaputta, Ven",
+          "asking for Dhamma in brief"
+     ],
+     [
+          "AN4.258",
+          "wealth",
+          "loosing and keeping"
+     ],
+     [
+          "AN4.258",
+          "alcohol",
+          "cause of loosing wealth"
+     ],
+     [
+          "AN4.258",
+          "employees",
+          "cause of loosing and keeping wealth"
+     ],
+     [
           "AN4.26",
           "monastic life",
           "wrongly practiced"
+     ],
+     [
+          "AN4.261",
+          "powers (bala)",
+          "energy, mindfulness, immersion, and wisdom "
+     ],
+     [
+          "AN4.262",
+          "wilderness (arañña)",
+          "qualities needed to live in"
+     ],
+     [
+          "AN4.262",
+          "stupidity ",
+          "and living in wildernes"
+     ],
+     [
+          "AN4.262",
+          "fools",
+          "harm themselves with bad action"
+     ],
+     [
+          "AN4.264",
+          "killing",
+          "leading to hell"
+     ],
+     [
+          "AN4.264-273",
+          "encouragement",
+          "to do bad"
+     ],
+     [
+          "AN4.264-273",
+          "encouragement",
+          "to do good"
+     ],
+     [
+          "AN4.265",
+          "stealing",
+          "leading to hell"
+     ],
+     [
+          "AN4.266",
+          "sexual misconduct",
+          "leading to hell"
+     ],
+     [
+          "AN4.267",
+          "lying",
+          "leading to hell"
+     ],
+     [
+          "AN4.268",
+          "divisive speech",
+          "leading to hell"
+     ],
+     [
+          "AN4.269",
+          "harsh speech",
+          "leading to hell"
      ],
      [
           "AN4.27",
@@ -5943,6 +6188,41 @@ export const indexArray =`[
           "AN4.27",
           "contentment (santuṭṭhi)",
           "with requisites"
+     ],
+     [
+          "AN4.270",
+          "useless speech (tiracāna)",
+          "leading to hell"
+     ],
+     [
+          "AN4.271",
+          "covetousness (abhijjhā)",
+          "leading to hell"
+     ],
+     [
+          "AN4.272",
+          "ill will (vyāpada, byāpada)",
+          "leading to hell"
+     ],
+     [
+          "AN4.273",
+          "wrong view (micchā diṭṭhi)",
+          "leading to hell"
+     ],
+     [
+          "AN4.274",
+          "foundations of mindfulness (satipaṭṭhāna)",
+          "insight into greed"
+     ],
+     [
+          "AN4.275",
+          "right effort (sammā vāyāma)",
+          "insight into greed"
+     ],
+     [
+          "AN4.276",
+          "bases of psychic power (iddhipāda)",
+          "insight into greed"
      ],
      [
           "AN4.28",
@@ -6246,7 +6526,7 @@ export const indexArray =`[
      ],
      [
           "AN4.45",
-          "world",
+          "world, the",
           "seeing the end of"
      ],
      [
@@ -8076,12 +8356,12 @@ export const indexArray =`[
      ],
      [
           "Dhp170",
-          "world",
+          "world, the",
           "simile of bubble"
      ],
      [
           "Dhp170",
-          "world",
+          "world, the",
           "simile of mirage"
      ],
      [
@@ -8576,7 +8856,7 @@ export const indexArray =`[
      ],
      [
           "Dhp293",
-          "mindfulness of body",
+          "mindfulness of body (kāyagatāsati)",
           ""
      ],
      [
@@ -9586,7 +9866,7 @@ export const indexArray =`[
      ],
      [
           "Iti112",
-          "world",
+          "world, the",
           ""
      ],
      [
@@ -10336,8 +10616,8 @@ export const indexArray =`[
      ],
      [
           "Iti99",
-          "knowledges, three",
-          ""
+          "knowledges (vijja)",
+          "three"
      ],
      [
           "Kp1",
@@ -11042,7 +11322,12 @@ export const indexArray =`[
      [
           "MN40",
           "loving-kindness (mettā)",
-          ""
+          "to gain inner peace"
+     ],
+     [
+          "MN40",
+          "loving-kindness (mettā)",
+          "the way proper for an ascetic"
      ],
      [
           "MN43",
@@ -11072,7 +11357,12 @@ export const indexArray =`[
      [
           "MN55",
           "loving-kindness (mettā)",
-          ""
+          "meat eating and"
+     ],
+     [
+          "MN55",
+          "loving-kindness (mettā)",
+          "Buddha truly abides in"
      ],
      [
           "MN56",
@@ -11127,7 +11417,7 @@ export const indexArray =`[
      [
           "MN7",
           "loving-kindness (mettā)",
-          ""
+          "enlightenment and"
      ],
      [
           "MN87",
@@ -15051,7 +15341,7 @@ export const indexArray =`[
      ],
      [
           "Thag7.2",
-          "mindfulness of body",
+          "mindfulness of body (kāyagatāsati)",
           "wishing for the world"
      ],
      [
@@ -15601,8 +15891,8 @@ export const indexArray =`[
      ],
      [
           "Thig5.1",
-          "knowledges, six direct (chaḷabhiññā)",
-          ""
+          "direct knowledges (abhiññā)",
+          "six direct (chaḷabhiññā)"
      ],
      [
           "Thig5.1",
@@ -15611,8 +15901,8 @@ export const indexArray =`[
      ],
      [
           "Thig5.11",
-          "knowledges, three",
-          ""
+          "knowledges (vijja)",
+          "three"
      ],
      [
           "Thig5.11",
@@ -15736,7 +16026,7 @@ export const indexArray =`[
      ],
      [
           "Thig8.1",
-          "world",
+          "world, the",
           "as if on fire"
      ],
      [
@@ -15981,7 +16271,7 @@ export const indexArray =`[
      ],
      [
           "Ud3.10",
-          "world",
+          "world, the",
           "state of"
      ],
      [

@@ -245,15 +245,17 @@ realm of death (maccudheyya)		xref death (maraṇa)
 loving-kindness (mettā)		Snp1.8
 loving-kindness (mettā)		AN3.63
 loving-kindness (mettā)		Ud5.1
-loving-kindness (mettā)		MN7
+loving-kindness (mettā)	enlightenment and	MN7
 loving-kindness (mettā)		AN9.20
 loving-kindness (mettā)		Kp9
 loving-kindness (mettā)		AN10.219
 loving-kindness (mettā)		AN10.220
 loving-kindness (mettā)		AN11.16
-loving-kindness (mettā)		MN40
+loving-kindness (mettā)	to gain inner peace	MN40
+loving-kindness (mettā)	the way proper for an ascetic	MN40
 loving-kindness (mettā)		SN42.13
-loving-kindness (mettā)		MN55
+loving-kindness (mettā)	meat eating and	MN55
+loving-kindness (mettā)	Buddha truly abides in	MN55
 loving-kindness (mettā)		MN62
 loving-kindness (mettā)		MN93
 loving-kindness (mettā)		MN96
@@ -750,8 +752,8 @@ self reliance		Dhp165
 self sacrifice	not neglecting ones own good	Dhp166
 sleep		Dhp168–69
 energy		Dhp168
-world	simile of bubble	Dhp170
-world	simile of mirage	Dhp170
+world, the	simile of bubble	Dhp170
+world, the	simile of mirage	Dhp170
 heedfulness (appamāda)	simile of moon	Dhp172–73
 heaven (sagga)	simile of bird and net	Dhp174
 heaven (sagga)	few reborn in	Dhp174
@@ -837,7 +839,7 @@ attachment	sexual	Dhp284
 death (maraṇa)	simile of flood	Dhp287
 happiness	with material things	Dhp290
 happiness	through harming others	Dhp291
-mindfulness of body		Dhp293
+mindfulness of body (kāyagatāsati)		Dhp293
 sleep	waking well	Dhp296–298
 recollection	of triple gem	Dhp296–298
 going forth (pabbajja)	difficult	Dhp302
@@ -981,7 +983,7 @@ speech	useless (tiracāna)	Ud3.8–9
 hope	uselessness of	Ud3.9
 solitary life		Ud3.9
 Buddha, the	time after enlightenment	Ud3.10
-world	state of	Ud3.10
+world, the	state of	Ud3.10
 meditation	for seven days	Ud3.10
 meditation	for seven days	Ud1.1–4
 meditation	for seven days	Ud2.1
@@ -1223,7 +1225,7 @@ once returner (sakadāgāmī)	attached to sense pleasure	Iti96
 non-returner (anāgāmi)	attached to rebirth	Iti96
 danger in slightest fault		Iti97
 virtue (sīla)	definition	Iti97
-knowledges, three		Iti99
+knowledges (vijja)	three	Iti99
 born from mouth	disciples of Buddha	Iti100
 Buddha, the	as doctor	Iti100
 requisites, four	as trifles	Iti101
@@ -1248,7 +1250,7 @@ tolerating bad thoughts		Iti110
 danger in slightest fault		Iti111
 postures	for practicing always	Iti110–11
 hindrances (nīvarana)	constantly removing	Iti111
-world		Iti112
+world, the		Iti112
 Tathāgatas	definition	Iti112
 Buddha, the	understanding of	Iti112
 knower of the world	definition	Iti112
@@ -1351,8 +1353,8 @@ Dhamma teachers	simile of boat	Snp2.8
 listening to Dhamma		Snp2.9
 Dhamma	delight in	Snp2.9
 unattractiveness		xref perception of ugliness (asubhasañña)
-threefold knowledge		xref knowledges, three
-triple knowledge		xref knowledges, three
+threefold knowledge		xref knowledges (vijja)
+triple knowledge		xref knowledges (vijja)
 sleep	uselessness of	Snp2.10
 heedlessness (pamāda)	as dust	Snp2.10
 energy		Snp2.10
@@ -1857,8 +1859,8 @@ past lives, knowledge of (pubbenivāsānussatiñāna)		Thag2.23
 enlightenment	while head being shaved	Thag2.25
 Dhamma	mirror	Thag2.26
 body	emptiness of	Thag2.26
-body		xref mindfulness of body
-mindfulness of body		xref body
+body		xref mindfulness of body (kāyagatāsati)
+mindfulness of body (kāyagatāsati)		xref body
 mistakes	recovering like thoroughbred	Thag2.27
 lions roar	of disciples	Thag2.28
 lions roar	of disciples	Thag2.29
@@ -1959,7 +1961,7 @@ perception of ugliness (asubhasañña)		Thag6.14
 courtesans		Thag7.1
 monastic life	avoiding women	Thag7.1
 monastics	tempted by women	Thag7.1
-mindfulness of body	wishing for the world	Thag7.2
+mindfulness of body (kāyagatāsati)	wishing for the world	Thag7.2
 external appearance	as deceiving	Thag7.2
 child arahants		Thag7.3
 child arahants		Thag7.4
@@ -2183,7 +2185,7 @@ Bhaddākāpilānī, Ven	attainments same as Mahā Kassapa	Thig4.1
 marriage	disenchantment with	Thig4.1
 slow spiritual progress		Thig5.1
 psychic powers		Thig5.1
-knowledges, six direct (chaḷabhiññā)		Thig5.1
+direct knowledges (abhiññā)	six direct (chaḷabhiññā)	Thig5.1
 courtesans		Thig5.2
 arrogance	because of body	Thig5.2
 sense pleasures (kāmaguṇa)	overcome by	Thig5.3
@@ -2196,7 +2198,7 @@ signless (animitta)		Thig5.8
 merit (puññā)	giving to noble disciples	Thig5.9
 inspiration	from watching water flowing	Thig5.1
 inspiration	from watching elephant trainer	Thig3.4
-knowledges, three		Thig5.11
+knowledges (vijja)	three	Thig5.11
 honor	your Dhamma teacher	Thig5.11
 widdows		Thig5.12
 grieving	overcoming	Thig6.1
@@ -2210,7 +2212,7 @@ followers of other paths		Thig7.2
 disrobing	encouraging to	Thig7.3
 disrobing	encouraging to	Thig6.3
 heavenly realms	life in	Thig8.1
-world	as if on fire	Thig8.1
+world, the	as if on fire	Thig8.1
 advice	from mother	Thig9.1
 defilements (āsava)	all ended	Thig9.1
 association	with good people	Thig10.1
@@ -2429,12 +2431,12 @@ giving (dāna)	smallest gift has value	AN3.57
 giving (dāna)	to virtuous people	AN3.57
 Vacchagotta, wanderer	asking about giving	AN3.57
 Tikaṇṇa, brahmin	asking about triple knowledge	AN3.58
-knowledges, three		AN3.58
+knowledges (vijja)	three	AN3.58
 Jāṇussoṇi, brahmin	asking about triple knowledge	AN3.58
 brahmins	brahmins’ triple knowledge	AN3.58
 brahmins	brahmins’ triple knowledge	AN3.59
 sacrifices (yañña)	whom to offer to	AN3.59
-knowledges, three		AN3.59
+knowledges (vijja)	three	AN3.59
 Saṅghārava, brahmin	asking how mendicants benefit others	AN3.60
 mendicants	benefiting the world	AN3.60
 going forth (pabbajja)	benefiting the world	AN3.60
@@ -3137,7 +3139,7 @@ gain (lābha)	valuing more than the true Dhamma	AN4.43
 anger (kodha)	valuing more than the true Dhamma	AN4.44
 gain (lābha)	valuing more than the true Dhamma	AN4.44
 Rohitassa devaputta	seeing the end of the world	AN4.45
-world	seeing the end of	AN4.45
+world, the	seeing the end of	AN4.45
 body	as the world	AN4.45
 Dhamma	of virtuous far from the wicked	AN4.47
 Dhamma teaching	encouraging and inspiring	AN4.48
@@ -3230,7 +3232,7 @@ meditation (jhāyati)	scope of mind of one in jhāna is inconceivable	AN4.77
 jhānas		xref meditation (jhāyati)
 insanity (ummāda)	caused by thinking about inconceivable things	AN4.77
 speculation about the world (lokacintā)	as inconceivable	AN4.77
-world		xref speculation about the world (lokacintā)
+world, the		xref speculation about the world (lokacintā)
 giving (dāna)	not fulfilling an offer	AN4.79
 giving (dāna)	exceeding a request	AN4.79
 business	why some succeed and some fail	AN4.79
@@ -3416,7 +3418,7 @@ speech	bad conduct	AN4.148
 speech	good conduct	AN4.149
 essential/inessential		AN4.150
 faculties (indriya)	four 	AN4.151
-powers (bala)	four 	AN4.152
+powers (bala)	faith, energy, mindfulness, and immersion	AN4.152
 powers (bala)	wisdom, energy, blamelessness, and inclusiveness 	AN4.153
 powers (bala)	mindfulness, immersion, blamelessness, and inclusiveness	AN4.154
 powers (bala)	reflection, development, blamelessness, and inclusiveness	AN4.155
@@ -3524,7 +3526,7 @@ doubt (vicikicchā)	causing fear of death	AN4.184
 sense pleasures (kāmaguṇa)	attachment to causes fear of death	AN4.184
 body	attachment to causes fear of death	AN4.184
 brahmins	truths	AN4.185
-world	led around by mind	AN4.186
+world, the	led around by mind	AN4.186
 mind	leads the world on	AN4.186
 learned (bahussutā)	definition	AN4.186
 astute person (paṇḍita)	definition	AN4.186
@@ -3649,7 +3651,7 @@ hell (niraya)	wrong view leads to 	AN4.212
 heaven	actions that lead to	AN4.212
 heaven	right view leads to	AN4.212
 right view	resulting in heaven	AN4.212
-wrong view	resulting in hell	AN4.212
+wrong view (micchā diṭṭhi)	resulting in hell	AN4.212
 hell (niraya)	actions that lead to	AN4.213
 hell (niraya)	wrong view leads to 	AN4.214
 heaven	actions that lead to	AN4.215
@@ -3698,3 +3700,67 @@ crime	punishments	AN4.244
 punishment (daṇḍa)	fear of	AN4.244
 punishment (daṇḍa)	as motivation to do good	AN4.244
 monastic rules (vinaya)	danger of breaking	AN4.244
+monastic life		xref training
+training	benefit of spiritual life	AN4.245
+fundamentals of the spiritual life (ādibrahmacariya)	training like elephant trainer does	AN4.245
+wisdom	as overseer of spiritual life	AN4.245
+monastic life	freedom as core	AN4.245
+monastic life	mindfulness as ruler	AN4.245
+monastic life	training as benefit	AN4.245
+lying posture	four ways	AN4.246
+stupa (thupa)	people worthy of	AN4.247
+paccekabuddha	worthy of stupa	AN4.247
+wheel-turning monarchs	worthy of stupa	AN4.247
+arahants	worthy of stupa	AN4.247
+Buddhas	worthy of stupa	AN4.247
+wisdom	things that lead to growth	AN4.248
+association	with good people grows wisdom	AN4.248
+listening to Dhamma	grows wisdom	AN4.248
+proper attention (yoniso manasikāra)	leads to wisdom	AN4.248
+practicing	in line with Dhamma leads to wisdom	AN4.248
+lying		AN4.248
+truthfulness		AN4.248
+direct knowledges (abhiññā)	function of	AN4.254
+knowledges, direct (abhiññā)		xref direct knowledges (abhiññā)
+aggregates (khandha)	understood by direct knowledge	AN4.254
+ignorance	given up by direct knowledge	AN4.254
+craving for existence (bhavataṇhā)	given up by direct knowledge	AN4.254
+craving (taṇha)		xref craving for existence (bhavataṇhā)
+craving for existence (bhavataṇhā)		xref craving (taṇha)
+bhavataṇhā		xref craving for existence (bhavataṇhā)
+serenity (samatha)	developed with direct knowledge	AN4.254
+vipassanā	developed with direct knowledge	AN4.254
+knowledge and vision (ñāṇadassana)	realized by direct knowledge 	AN4.254
+searches (esana)	noble and ignoble	AN4.255
+friendship	attracting friends	AN4.256
+giving (dāna)	friendship gained by	AN4.256
+impartiality (samānattatā)	friendship gained by	AN4.256
+speech	kind words	AN4.256
+Dhamma	in brief	AN4.257
+requisites, four	source of craving	AN4.257
+Māluṅkyaputta, Ven	asking for Dhamma in brief	AN4.257
+wealth	loosing and keeping	AN4.258
+alcohol	cause of loosing wealth	AN4.258
+employees	cause of loosing and keeping wealth	AN4.258
+powers (bala)	energy, mindfulness, immersion, and wisdom 	AN4.261
+wilderness (arañña)	qualities needed to live in	AN4.262
+jungle		xref wilderness (arañña)
+seclusion		xref wilderness (arañña)
+stupidity 	and living in wildernes	AN4.262
+fools	harm themselves with bad action	AN4.262
+killing	leading to hell	AN4.264
+stealing	leading to hell	AN4.265
+sexual misconduct	leading to hell	AN4.266
+lying	leading to hell	AN4.267
+divisive speech	leading to hell	AN4.268
+harsh speech	leading to hell	AN4.269
+useless speech (tiracāna)	leading to hell	AN4.270
+covetousness (abhijjhā)	leading to hell	AN4.271
+ill will (vyāpada, byāpada)	leading to hell	AN4.272
+wrong view (micchā diṭṭhi)	leading to hell	AN4.273
+encouragement	to do bad	AN4.264-273
+encouragement	to do good	AN4.264-273
+foundations of mindfulness (satipaṭṭhāna)	insight into greed	AN4.274
+satipaṭṭhāna		xref foundations of mindfulness (satipaṭṭhāna)
+right effort (sammā vāyāma)	insight into greed	AN4.275
+bases of psychic power (iddhipāda)	insight into greed	AN4.276
