@@ -463,6 +463,11 @@ a:visited {
   white-space: inherit;
 }
 
+.dark .headword-link,
+.dark .headword-link:visited {
+  color: var(--offwhite)
+}
+
 .link-icon {
   position: absolute;
   /* top: .35rem; */
