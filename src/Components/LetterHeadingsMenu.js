@@ -20,7 +20,7 @@ export default function LetterHeadingsMenu(props) {
       <ul
         id={letter + "-menu"}
         key={letter + "-menu"}
-        className="dropdown-list hidden hideable-area"
+        className="dropdown-list hidden hideable-area link-list"
         onClick={hideMenu}
       >
         {headwordsArray.map(headword => {

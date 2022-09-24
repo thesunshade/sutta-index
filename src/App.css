@@ -135,6 +135,65 @@ App {
   top: .25rem
 }
 
+.favorites-area {
+  max-width: var(--max-width);
+  padding: 1rem;
+  min-width: 10rem
+}
+
+@media only screen and (max-width: 475px) {
+  .favorites-area {
+    max-width: 100vw;
+
+  }
+}
+
+.favorites-header {
+  display: flex;
+  justify-content: space-between;
+}
+
+.to-be-added-area {
+  border: solid 1px black;
+  padding: .2rem .2rem .2rem .4rem
+}
+
+.to-be-added {
+  font-style: italic;
+  padding-right: .5rem;
+}
+
+.to-be-added-area button {
+  border: solid 1px black;
+  background-color: #dddddd;
+  border-radius: 0;
+}
+
+
+.favorites-area h2 {
+  margin: 0;
+  font-size: 1.2rem;
+  font-weight: normal;
+  color: #dddddd
+}
+
+.favorites-instructions {
+  font-size: .9rem;
+  font-style: italic;
+  color: #716363
+}
+
+.bottom-fav-row {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.clear-button {
+  margin-top: 0rem;
+}
+
+
+
 .alphabet {
   font-family: "Fira Code";
   /* margin-bottom: .5rem; */
@@ -533,7 +592,7 @@ tr:nth-child(even) {
   top: 0px !important;
 }
 
-.dropdown-list {
+.link-list {
   overflow-y: auto;
   overflow-x: hidden;
   max-height: 20rem;
@@ -542,14 +601,14 @@ tr:nth-child(even) {
   max-width: var(--max-width);
 }
 
-.dark .dropdown-list {
+.dark .link-list {
 
   background-color: var(--dark-primary);
 
 }
 
 @media only screen and (max-width: 475px) {
-  .dropdown-list {
+  .link-list {
     font-size: 1.3rem;
     line-height: 140%;
   }
@@ -561,27 +620,27 @@ tr:nth-child(even) {
 }
 
 
-.dropdown-list a {
+.link-list a {
   text-decoration: none;
   /* color: var(--dark-link); */
   word-spacing: inherit;
   white-space: inherit;
 }
 
-.dropdown-list a:visited {
+.link-list a:visited {
   /* color: var(--dark-visited) */
 }
 
-.dropdown-list a:hover li {
+.link-list a:hover li {
   background-color: var(--primary);
   color: black;
   /* display: inline-block; */
 }
 
-.dropdown-list li {
+.link-list li {
   list-style: none;
 }
 
-ul.dropdown-list {
+ul.link-list {
   padding: .5rem;
 }
