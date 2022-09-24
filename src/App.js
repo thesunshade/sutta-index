@@ -162,7 +162,7 @@ function App() {
             ></img>
           </div>
         </div>
-        <LastClickedLink.Provider value={[lastClickedLink, setLastClickedLink]}>
+        <LastClickedLink.Provider value={{ setLastClickedLink }}>
           <Alphabet />
         </LastClickedLink.Provider>
         <div id="info-area" className="info-area hidden hideable-area">
@@ -240,7 +240,7 @@ function App() {
         <LocatorSortedTable />
       ) : (
         <ContextFilterSetters.Provider value={[setFilterByText, setFilterInput]}>
-          <LastClickedLink.Provider value={[lastClickedLink, setLastClickedLink]}>
+          <LastClickedLink.Provider value={{ lastClickedLink, setLastClickedLink }}>
             <ContextDestination.Provider value={destination}>
               <SuttaIndex filterByText={filterByText} />
             </ContextDestination.Provider>
