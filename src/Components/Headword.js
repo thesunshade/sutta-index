@@ -16,9 +16,11 @@ export default function Headword(props) {
       <div className="head-word-area" id={makeNormalizedId(headword)}>
         <a
           onClick={e => {
-            setTimeout(() => {
-              setLastClickedLink(e.target.textContent);
-            }, "1000");
+            setLastClickedLink(e.target.textContent);
+
+            // setTimeout(() => {
+            //   setLastClickedLink(e.target.textContent);
+            // }, "1000");
           }}
           className="headword-link"
           href={"#" + makeNormalizedId(headword)}

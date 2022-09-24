@@ -14,12 +14,11 @@ export default function Xref({ xref }) {
   function handleClick() {
     setFilterByText("");
     setFilterInput("");
-    console.log(setLastClickedLink);
-    // setLastClickedLink(xref.replace("xref ", ""));
+    setLastClickedLink(xref.replace("xref ", ""));
 
-    setTimeout(() => {
-      setLastClickedLink(xref.replace("xref ", ""));
-    }, "1000");
+    // setTimeout(() => {
+    //   setLastClickedLink(xref.replace("xref ", ""));
+    // }, "1000");
   }
 
   return (

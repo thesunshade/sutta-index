@@ -240,7 +240,7 @@ function App() {
         <LocatorSortedTable />
       ) : (
         <ContextFilterSetters.Provider value={[setFilterByText, setFilterInput]}>
-          <LastClickedLink.Provider value={{ lastClickedLink, setLastClickedLink }}>
+          <LastClickedLink.Provider value={{ setLastClickedLink }}>
             <ContextDestination.Provider value={destination}>
               <SuttaIndex filterByText={filterByText} />
             </ContextDestination.Provider>
