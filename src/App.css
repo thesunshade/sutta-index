@@ -116,6 +116,7 @@ App {
   flex-wrap: wrap;
   box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
   padding: 0 1rem;
+  z-index: 100;
 }
 
 .dark .settings-bar {
@@ -452,11 +453,28 @@ a:visited {
   font-weight: bold
 }
 
-.headwrd-link,
-.headwrd-link:visited {
+.headword-link,
+.headword-link:visited {
   color: var(--offblack);
-  padding-right: .5rem;
+  padding-right: 1.5rem;
   word-spacing: inherit;
+  position: relative;
+  text-decoration: none !important;
+  white-space: inherit;
+}
+
+.link-icon {
+  position: absolute;
+  /* top: .35rem; */
+  padding-left: .1rem;
+}
+
+.headword-link .link-icon {
+  display: none;
+}
+
+.headword-link:hover .link-icon {
+  display: inherit;
 }
 
 .highlight {

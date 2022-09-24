@@ -4,6 +4,7 @@ import makeNormalizedId from "../functions/makeNormalizedId";
 import KeyWord from "./KeyWord";
 import { ContextFilterSetters, LastClickedLink } from "../App.js";
 import { useContext } from "react";
+import linkIcon from "../images/link-icon.png";
 
 export default function Headword(props) {
   const { headword, headwordObject, filterByText } = props;
@@ -19,12 +20,13 @@ export default function Headword(props) {
               setLastClickedLink(e.target.textContent);
             }, "500");
           }}
-          className="headwrd-link"
+          className="headword-link"
           href={"#" + makeNormalizedId(headword)}
         >
           <span className="head-word">
             <KeyWord filterByText={filterByText} stringToHighlight={headword} />
           </span>
+          <img alt="link-icon" className="icon link-icon" height="18" src={linkIcon} />
         </a>
         {headwordObject.hasOwnProperty("") ? (
           <LocatorList headwordSubCount={sortedSubWords.length} locatorXrefObject={headwordObject[""]} />
