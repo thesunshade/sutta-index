@@ -57,8 +57,10 @@ export default function Favorites(props) {
   }
 
   function clearFavorites() {
-    setFavoritesList([]);
-    localStorage.removeItem("favoritesList");
+    if (window.confirm("Do you really want to delete them?") === true) {
+      setFavoritesList([]);
+      localStorage.removeItem("favoritesList");
+    }
   }
 
   //   console.log(favoritesList);
