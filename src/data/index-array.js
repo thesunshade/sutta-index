@@ -6605,6 +6605,11 @@ export const indexArray =`[
           "immeasurable like water in ocean"
      ],
      [
+          "AN4.51",
+          "requisites, four",
+          "donors collect merit when used by monastics"
+     ],
+     [
           "AN4.52",
           "merit (puññā)",
           "immeasurable amount"
@@ -7255,9 +7260,49 @@ export const indexArray =`[
           "people who do and don’t encourage others"
      ],
      [
+          "AN5.1",
+          "powers of a trainee (sekha bala)",
+          "faith, conscience, prudence, energy, and wisdom "
+     ],
+     [
+          "AN5.10",
+          "disrespect (agārava)",
+          "powers of a trainee"
+     ],
+     [
+          "AN5.11",
+          "powers of a Tathāgata",
+          "faith, conscience, prudence, energy, and wisdom "
+     ],
+     [
           "AN5.116–120",
           "speech",
           "praise and dispraise"
+     ],
+     [
+          "AN5.12",
+          "powers of a trainee (sekha bala)",
+          "wisdom is the chief"
+     ],
+     [
+          "AN5.12",
+          "wisdom",
+          "chief of powers of a trainee"
+     ],
+     [
+          "AN5.12",
+          "roof peak",
+          "like wisdom"
+     ],
+     [
+          "AN5.12",
+          "powers (bala)",
+          "faith, energy, mindfulness, immersion, and wisdom "
+     ],
+     [
+          "AN5.14",
+          "powers ",
+          "five: definition"
      ],
      [
           "AN5.141",
@@ -7315,14 +7360,59 @@ export const indexArray =`[
           "four kinds of good"
      ],
      [
+          "AN5.15",
+          "powers ",
+          "five: where they are seen"
+     ],
+     [
+          "AN5.15",
+          "faith (saddhā)",
+          "power: seen in factors of stream entry"
+     ],
+     [
+          "AN5.15",
+          "energy",
+          "power: seen in four right efforts"
+     ],
+     [
+          "AN5.15",
+          "mindfulness",
+          "power: seen in four foundations of"
+     ],
+     [
+          "AN5.15",
+          "concentration (samādhi)",
+          "power: seen in jhāna"
+     ],
+     [
+          "AN5.15",
+          "wisdom",
+          "power: seen in four noble truths"
+     ],
+     [
           "AN5.157",
           "generosity (cāga)",
           "talk of"
      ],
      [
+          "AN5.16",
+          "roof peak",
+          "like wisdom"
+     ],
+     [
           "AN5.161",
           "loving-kindness (mettā)",
           "to abandon resentment"
+     ],
+     [
+          "AN5.17",
+          "encouragement",
+          "not encouraging"
+     ],
+     [
+          "AN5.17",
+          "practicing",
+          "benefiting oneself only"
      ],
      [
           "AN5.176",
@@ -7333,6 +7423,16 @@ export const indexArray =`[
           "AN5.179",
           "giving (dāna)",
           "whom to give to"
+     ],
+     [
+          "AN5.18",
+          "encouragement",
+          "not personally accomplished"
+     ],
+     [
+          "AN5.19",
+          "practicing",
+          "not benefiting anyone"
      ],
      [
           "AN5.198",
@@ -7368,6 +7468,26 @@ export const indexArray =`[
           "AN5.198",
           "speech",
           "with loving-kindness"
+     ],
+     [
+          "AN5.2",
+          "powers of a trainee (sekha bala)",
+          "definition"
+     ],
+     [
+          "AN5.20",
+          "practicing",
+          "for benefit of all"
+     ],
+     [
+          "AN5.20",
+          "encouragement",
+          "for benefit of all"
+     ],
+     [
+          "AN5.20",
+          "wholesome chain of causality",
+          ""
      ],
      [
           "AN5.214",
@@ -7420,9 +7540,69 @@ export const indexArray =`[
           "useless (tiracāna)"
      ],
      [
+          "AN5.23",
+          "hindrances (nīvarana)",
+          "as corruptions of the mind (upakkilesā)"
+     ],
+     [
+          "AN5.23",
+          "corruptions (upakkilesa)",
+          "five hindrances"
+     ],
+     [
+          "AN5.23",
+          "gold",
+          "corruptions of like five hindrances"
+     ],
+     [
+          "AN5.23",
+          "psychic powers",
+          "when hindrances are removed"
+     ],
+     [
+          "AN5.23",
+          "enlightenment",
+          "when hindrances are removed"
+     ],
+     [
+          "AN5.23",
+          "hindrances (nīvarana)",
+          "blocking psychic powers"
+     ],
+     [
+          "AN5.23",
+          "hindrances (nīvarana)",
+          "blocking enlightenment"
+     ],
+     [
           "AN5.236–38",
           "speech",
           "praise and dispraise"
+     ],
+     [
+          "AN5.24",
+          "wholesome chain of causality",
+          "virtue to knowledge and vision of freedom"
+     ],
+     [
+          "AN5.24",
+          "trees",
+          "like one without conditions for wholesome"
+     ],
+     [
+          "AN5.25",
+          "right view (sammā diṭṭhi)",
+          "supporting factors"
+     ],
+     [
+          "AN5.25",
+          "Dhamma discussion",
+          "condition for right view"
+     ],
+     [
+          "AN5.25",
+          "vipassanā",
+          "condition for right view"
      ],
      [
           "AN5.254",
@@ -7435,9 +7615,174 @@ export const indexArray =`[
           "giving up"
      ],
      [
+          "AN5.26",
+          "wholesome chain of causality",
+          "inspiration to concentration"
+     ],
+     [
+          "AN5.26",
+          "freedom (vimutti)",
+          "opportunities for"
+     ],
+     [
+          "AN5.26",
+          "listening to Dhamma",
+          "from good senior monastics"
+     ],
+     [
+          "AN5.26",
+          "listening to Dhamma",
+          "opportunity for freedom"
+     ],
+     [
+          "AN5.26",
+          "inspiration",
+          "opportunity for freedom"
+     ],
+     [
+          "AN5.26",
+          "Dhamma",
+          "memorization of"
+     ],
+     [
+          "AN5.26",
+          "meditation",
+          "meditation subject"
+     ],
+     [
+          "AN5.27",
+          "concentration (samādhi)",
+          "knowledges arise from"
+     ],
+     [
+          "AN5.28",
+          "right concentration (sammā samadhi)",
+          "five factors"
+     ],
+     [
+          "AN5.28",
+          "jhānas",
+          "similes for"
+     ],
+     [
+          "AN5.28",
+          "reviewing (paccavekkhaṇā)",
+          "jhāna"
+     ],
+     [
+          "AN5.28",
+          "reviewing (paccavekkhaṇā)",
+          "like looking at another person"
+     ],
+     [
+          "AN5.28",
+          "right concentration (sammā samadhi)",
+          "like water jar filled to brim"
+     ],
+     [
+          "AN5.28",
+          "right concentration (sammā samadhi)",
+          "like lotus pond filled to brim"
+     ],
+     [
+          "AN5.28",
+          "right concentration (sammā samadhi)",
+          "like chariot and charioteer"
+     ],
+     [
+          "AN5.28",
+          "right concentration (sammā samadhi)",
+          "psychic powers"
+     ],
+     [
+          "AN5.28",
+          "psychic powers",
+          "right concentration"
+     ],
+     [
+          "AN5.29",
+          "walking meditation",
+          "benefits "
+     ],
+     [
+          "AN5.29",
+          "eating",
+          "walking meditation"
+     ],
+     [
+          "AN5.29",
+          "concentration (samādhi)",
+          "walking meditation"
+     ],
+     [
+          "AN5.3",
+          "powers of a trainee (sekha bala)",
+          "cause for happy life"
+     ],
+     [
+          "AN5.3",
+          "powers of a trainee (sekha bala)",
+          "cause for good rebirth"
+     ],
+     [
+          "AN5.30",
+          "Buddha, the",
+          "praise of"
+     ],
+     [
+          "AN5.30",
+          "Nāgita, Ven",
+          "Buddha’s attendant"
+     ],
+     [
+          "AN5.30",
+          "fame",
+          "Buddha rejects"
+     ],
+     [
+          "AN5.30",
+          "food",
+          "ends up as excrement"
+     ],
+     [
+          "AN5.30",
+          "grieving",
+          "loss of family"
+     ],
+     [
+          "AN5.30",
+          "sign of the beautiful (subhanimitta)",
+          "revulsion at"
+     ],
+     [
+          "AN5.30",
+          "sign of the ugly (asubhanimitta)",
+          "development"
+     ],
+     [
+          "AN5.30",
+          "impermanence meditation",
+          "towards sense contact"
+     ],
+     [
+          "AN5.30",
+          "aggregates (khandha)",
+          "seeing rise and fall of"
+     ],
+     [
           "AN5.31",
           "giving (dāna)",
           "result of"
+     ],
+     [
+          "AN5.31",
+          "Sumanā, Princess",
+          "asks about giving"
+     ],
+     [
+          "AN5.31",
+          "giving (dāna)",
+          "benefits in future lives"
      ],
      [
           "AN5.32",
@@ -7450,6 +7795,21 @@ export const indexArray =`[
           "to the Saṅgha"
      ],
      [
+          "AN5.32",
+          "Cundī, Princess",
+          "asks about rebirth"
+     ],
+     [
+          "AN5.33",
+          "Uggaha Meṇḍakanattā ",
+          "advice for daughters"
+     ],
+     [
+          "AN5.33",
+          "wives",
+          "advice for"
+     ],
+     [
           "AN5.34",
           "giving (dāna)",
           "cause for rebirth"
@@ -7460,9 +7820,19 @@ export const indexArray =`[
           "result directly visible"
      ],
      [
-          "AN5.35",
-          "giving (dāna)",
-          "result of"
+          "AN5.34",
+          "Sīha, general",
+          "giving "
+     ],
+     [
+          "AN5.34",
+          "faith (saddhā)",
+          "not needed when truth is known"
+     ],
+     [
+          "AN5.34",
+          "lay life",
+          "duty to support saṅgha"
      ],
      [
           "AN5.35",
@@ -7475,6 +7845,11 @@ export const indexArray =`[
           "times for"
      ],
      [
+          "AN5.36",
+          "travel",
+          "giving "
+     ],
+     [
           "AN5.37",
           "giving (dāna)",
           "food"
@@ -7483,6 +7858,136 @@ export const indexArray =`[
           "AN5.37",
           "giving (dāna)",
           "result of"
+     ],
+     [
+          "AN5.37",
+          "giving (dāna)",
+          "benefits to receiver and giver similar"
+     ],
+     [
+          "AN5.38",
+          "faith (saddhā)",
+          "benefits "
+     ],
+     [
+          "AN5.38",
+          "faith (saddhā)",
+          "leading to heaven"
+     ],
+     [
+          "AN5.38",
+          "faith (saddhā)",
+          "person with like a tree"
+     ],
+     [
+          "AN5.38",
+          "trees",
+          "like person with faith"
+     ],
+     [
+          "AN5.39",
+          "parents",
+          "wanting children"
+     ],
+     [
+          "AN5.39",
+          "sharing merit",
+          "parents hope children will share"
+     ],
+     [
+          "AN5.39",
+          "children",
+          "caring for parents"
+     ],
+     [
+          "AN5.4",
+          "powers of a trainee (sekha bala)",
+          "leading to heaven"
+     ],
+     [
+          "AN5.4",
+          "powers of a trainee (sekha bala)",
+          "lack of leading to hell"
+     ],
+     [
+          "AN5.4",
+          "hell (niraya)",
+          "qualities that lead to"
+     ],
+     [
+          "AN5.4",
+          "heaven",
+          "qualities that lead to"
+     ],
+     [
+          "AN5.40",
+          "sal tree",
+          "supported by Himalayas like family supported by head with faith"
+     ],
+     [
+          "AN5.40",
+          "family",
+          "head has faith"
+     ],
+     [
+          "AN5.41",
+          "Anāthapiṇḍika, householder",
+          "reasons to get rich"
+     ],
+     [
+          "AN5.41",
+          "wealth",
+          "reasons to get rich"
+     ],
+     [
+          "AN5.41",
+          "wealth",
+          "using to make people happy"
+     ],
+     [
+          "AN5.41",
+          "wealth",
+          "as protection"
+     ],
+     [
+          "AN5.41",
+          "offerings",
+          "to gods"
+     ],
+     [
+          "AN5.42",
+          "good people",
+          "benefit family"
+     ],
+     [
+          "AN5.43",
+          "practicing",
+          "not wishing"
+     ],
+     [
+          "AN5.43",
+          "prayer",
+          "ineffective for getting what one wants"
+     ],
+     [
+          "AN5.43",
+          "long life",
+          "not gained by wishing"
+     ],
+     [
+          "AN5.43",
+          "wishing",
+          "doesn’t bring results"
+     ],
+     [
+          "AN5.43",
+          "fame",
+          "wishing for"
+     ],
+     [
+          "AN5.43",
+          "heaven",
+          "wishing for"
      ],
      [
           "AN5.44",
@@ -7500,6 +8005,36 @@ export const indexArray =`[
           "whom to give to"
      ],
      [
+          "AN5.44",
+          "Ugga of Vesālī, householder",
+          "giving to Buddha"
+     ],
+     [
+          "AN5.44",
+          "giving (dāna)",
+          "benefits to receiver and giver similar"
+     ],
+     [
+          "AN5.44",
+          "gifts, specific types of",
+          "pork"
+     ],
+     [
+          "AN5.44",
+          "gifts, specific types of",
+          "vegetables"
+     ],
+     [
+          "AN5.44",
+          "gifts, specific types of",
+          "sandalwood"
+     ],
+     [
+          "AN5.44",
+          "gods",
+          "who were human disciples of the Buddha"
+     ],
+     [
           "AN5.45",
           "giving (dāna)",
           "result of"
@@ -7515,9 +8050,34 @@ export const indexArray =`[
           "as stream of merit"
      ],
      [
+          "AN5.45",
+          "merit (puññā)",
+          "immeasurable amount"
+     ],
+     [
+          "AN5.45",
+          "giving (dāna)",
+          "when merit is immeasurable"
+     ],
+     [
+          "AN5.45",
+          "merit (puññā)",
+          "immeasurable like water in ocean"
+     ],
+     [
+          "AN5.45",
+          "requisites, four",
+          "donors collect merit when used by monastics"
+     ],
+     [
           "AN5.46",
           "generosity (cāga)",
           "as an accomplishment"
+     ],
+     [
+          "AN5.46",
+          "accomplishments",
+          "faith, ethics, learning, generosity, and wisdom "
      ],
      [
           "AN5.47",
@@ -7525,9 +8085,19 @@ export const indexArray =`[
           "as a type of wealth"
      ],
      [
+          "AN5.47",
+          "wealth",
+          "faith, ethics, learning, generosity, and wisdom "
+     ],
+     [
           "AN5.48",
           "death (maraṇa)",
           "universality of"
+     ],
+     [
+          "AN5.48",
+          "reflection (paṭisaṅkhā)",
+          "on aging, sickness, etc"
      ],
      [
           "AN5.49",
@@ -7535,9 +8105,69 @@ export const indexArray =`[
           "of relative"
      ],
      [
+          "AN5.5",
+          "disrobing",
+          "caused by lack of powers of trainee"
+     ],
+     [
+          "AN5.5",
+          "disrobing",
+          "criticism of"
+     ],
+     [
+          "AN5.5",
+          "monastic life",
+          "living with pain and sadness"
+     ],
+     [
           "AN5.57",
           "death (maraṇa)",
           "frequent recollection"
+     ],
+     [
+          "AN5.6",
+          "unskillfulness (akusala)",
+          "does not arise in one with powers of a trainee"
+     ],
+     [
+          "AN5.7",
+          "going forth (pabbajja)",
+          "as youth"
+     ],
+     [
+          "AN5.7",
+          "sensual pleasures",
+          "abandoned when going forth"
+     ],
+     [
+          "AN5.7",
+          "baby",
+          "getting stick caught in throat"
+     ],
+     [
+          "AN5.7",
+          "nurse",
+          "caring for baby like Buddha caring for new monastics"
+     ],
+     [
+          "AN5.7",
+          "Buddha, the",
+          "caring for new monks who don’t have powers of trainee"
+     ],
+     [
+          "AN5.7",
+          "powers of a trainee (sekha bala)",
+          "ability to look after oneself"
+     ],
+     [
+          "AN5.9",
+          "respect (gārava)",
+          "powers of a trainee"
+     ],
+     [
+          "AN5.9",
+          "disrespect (agārava)",
+          "powers of a trainee"
      ],
      [
           "AN5.91",

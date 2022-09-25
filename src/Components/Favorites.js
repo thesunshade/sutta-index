@@ -63,7 +63,6 @@ export default function Favorites(props) {
     }
   }
 
-  //   console.log(favoritesList);
   return (
     <div>
       <div className="favorites-header">
