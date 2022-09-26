@@ -957,17 +957,17 @@ export const indexArray =`[
      [
           "AN1.53",
           "loving-kindness (mettā)",
-          "for a fingersnap"
+          "for time of a fingersnap"
      ],
      [
           "AN1.54",
           "loving-kindness (mettā)",
-          "for a fingersnap"
+          "for time of a fingersnap"
      ],
      [
           "AN1.55",
           "loving-kindness (mettā)",
-          "for a fingersnap"
+          "for time of a fingersnap"
      ],
      [
           "AN1.56",
@@ -1551,7 +1551,7 @@ export const indexArray =`[
      ],
      [
           "AN3.109",
-          "death",
+          "death (maraṇa)",
           "good when mind is protected"
      ],
      [
@@ -2912,7 +2912,7 @@ export const indexArray =`[
      [
           "AN3.63",
           "loving-kindness (mettā)",
-          ""
+          "as “luxurious bed” of brahmās "
      ],
      [
           "AN3.63",
@@ -3986,12 +3986,12 @@ export const indexArray =`[
      ],
      [
           "AN4.113",
-          "death",
+          "death (maraṇa)",
           "wise response to"
      ],
      [
           "AN4.113",
-          "death",
+          "death (maraṇa)",
           "causing urgency"
      ],
      [
@@ -4971,17 +4971,17 @@ export const indexArray =`[
      ],
      [
           "AN4.184",
-          "death",
+          "death (maraṇa)",
           "all fear"
      ],
      [
           "AN4.184",
-          "death",
+          "death (maraṇa)",
           "fear of"
      ],
      [
           "AN4.184",
-          "death",
+          "death (maraṇa)",
           "no fear of"
      ],
      [
@@ -6891,7 +6891,7 @@ export const indexArray =`[
      ],
      [
           "AN4.67",
-          "death",
+          "death (maraṇa)",
           "by snake bite"
      ],
      [
@@ -7270,9 +7270,114 @@ export const indexArray =`[
           "powers of a trainee"
      ],
      [
+          "AN5.100",
+          "Kakudha, god",
+          "warns Ven. Moggallāna"
+     ],
+     [
+          "AN5.100",
+          "Devadatta",
+          "bad teachers"
+     ],
+     [
+          "AN5.100",
+          "Dhamma teachers",
+          "corrupt"
+     ],
+     [
+          "AN5.102",
+          "alms gathering practice",
+          "seeking in unsuitable places"
+     ],
+     [
+          "AN5.103",
+          "thief",
+          "as metaphor for bad monastic"
+     ],
+     [
+          "AN5.103",
+          "monastic life",
+          "wrongly practiced"
+     ],
+     [
+          "AN5.104",
+          "monastic",
+          "exquisite ascetic"
+     ],
+     [
+          "AN5.105",
+          "principle of cordiality ",
+          "way of living comfortably"
+     ],
+     [
+          "AN5.106",
+          "Saṅgha",
+          "living comfortably in"
+     ],
+     [
+          "AN5.107",
+          "giving (dāna)",
+          "worthy of gifts"
+     ],
+     [
+          "AN5.108",
+          "giving (dāna)",
+          "worthy of gifts"
+     ],
+     [
           "AN5.11",
           "powers of a Tathāgata",
           "faith, conscience, prudence, energy, and wisdom "
+     ],
+     [
+          "AN5.110",
+          "wilderness (arañña)",
+          "qualities needed to live in"
+     ],
+     [
+          "AN5.111",
+          "monastic life",
+          "wrongly practiced"
+     ],
+     [
+          "AN5.111",
+          "monastic life",
+          "associating with lay people"
+     ],
+     [
+          "AN5.112",
+          "alms gathering practice",
+          "who to go on alms round with"
+     ],
+     [
+          "AN5.113",
+          "enduring (khama)",
+          "concentration and"
+     ],
+     [
+          "AN5.114",
+          "monastic life",
+          "advice for new monastics"
+     ],
+     [
+          "AN5.114",
+          "wilderness (arañña)",
+          "newly ordained monastics"
+     ],
+     [
+          "AN5.115",
+          "bhikkhuni",
+          "qualities of and rebirth"
+     ],
+     [
+          "AN5.116",
+          "bhikkhuni",
+          "qualities of and rebirth"
+     ],
+     [
+          "AN5.116",
+          "wasting gifts",
+          ""
      ],
      [
           "AN5.116–120",
@@ -8100,6 +8205,31 @@ export const indexArray =`[
           "on aging, sickness, etc"
      ],
      [
+          "AN5.48",
+          "old age, sickness, and death",
+          "cannot be escaped"
+     ],
+     [
+          "AN5.48",
+          "old age, sickness, and death",
+          "should be reflected on"
+     ],
+     [
+          "AN5.48",
+          "old age, sickness, and death",
+          "universality of"
+     ],
+     [
+          "AN5.48",
+          "grieving",
+          "uselessness of"
+     ],
+     [
+          "AN5.48",
+          "grieving",
+          "makes enemies rejoice"
+     ],
+     [
           "AN5.49",
           "death (maraṇa)",
           "of relative"
@@ -8120,14 +8250,419 @@ export const indexArray =`[
           "living with pain and sadness"
      ],
      [
+          "AN5.50",
+          "Nārada, Ven.",
+          "counselling King Muṇḍa"
+     ],
+     [
+          "AN5.50",
+          "old age, sickness, and death",
+          "universality of"
+     ],
+     [
+          "AN5.50",
+          "old age, sickness, and death",
+          "should be reflected on"
+     ],
+     [
+          "AN5.50",
+          "sorrow",
+          "pulling out sorrow’s arrow"
+     ],
+     [
+          "AN5.51",
+          "hindrances (nīvarana)",
+          "parasites of the mind"
+     ],
+     [
+          "AN5.51",
+          "wisdom",
+          "removing the hindrances"
+     ],
+     [
+          "AN5.51",
+          "hindrances (nīvarana)",
+          "like channels that disperse a river"
+     ],
+     [
+          "AN5.51",
+          "knowing ones own good",
+          ""
+     ],
+     [
+          "AN5.52",
+          "hindrances (nīvarana)",
+          "heap of the unskillful"
+     ],
+     [
+          "AN5.53",
+          "meditation",
+          "factors that support"
+     ],
+     [
+          "AN5.53",
+          "digestion",
+          "good digestion helps meditation"
+     ],
+     [
+          "AN5.53",
+          "health",
+          "helps meditation"
+     ],
+     [
+          "AN5.53",
+          "honesty",
+          "helps meditation"
+     ],
+     [
+          "AN5.54",
+          "monastics",
+          "old age"
+     ],
+     [
+          "AN5.54",
+          "old age",
+          "not good for meditation"
+     ],
+     [
+          "AN5.54",
+          "sickness",
+          "not good for meditation"
+     ],
+     [
+          "AN5.54",
+          "famine",
+          "not good for meditation"
+     ],
+     [
+          "AN5.54",
+          "schisms",
+          "not good for meditation"
+     ],
+     [
+          "AN5.54",
+          "youth",
+          "good time for meditation"
+     ],
+     [
+          "AN5.54",
+          "health",
+          "good time for meditation"
+     ],
+     [
+          "AN5.54",
+          "harmony in Saṅgha",
+          "good time for meditation"
+     ],
+     [
+          "AN5.55",
+          "monastics",
+          "tempted by women"
+     ],
+     [
+          "AN5.55",
+          "men",
+          "minds occupied by women"
+     ],
+     [
+          "AN5.55",
+          "sexual activity",
+          "by monastics"
+     ],
+     [
+          "AN5.55",
+          "sexual activity",
+          "between mother and son"
+     ],
+     [
+          "AN5.56",
+          "upajjhāya",
+          ""
+     ],
+     [
+          "AN5.56",
+          "monastic life",
+          "dissatisfaction with"
+     ],
+     [
+          "AN5.56",
+          "sense doors, guarding (indriyesu guttadvāra)",
+          "not guarding leads to dissatisfaction"
+     ],
+     [
+          "AN5.56",
+          "eating in moderation",
+          "not eating in moderation leads to dissatisfaction"
+     ],
+     [
+          "AN5.56",
+          "wakefulness (jāgara)",
+          "not devoted to wakefulness leads to dissatisfaction"
+     ],
+     [
+          "AN5.56",
+          "skillfulness ",
+          "not discerning leads to dissastisfaction"
+     ],
+     [
           "AN5.57",
           "death (maraṇa)",
           "frequent recollection"
      ],
      [
+          "AN5.57",
+          "reviewing (paccavekkhaṇā)",
+          "things to always reflect on"
+     ],
+     [
+          "AN5.57",
+          "old age, sickness, and death",
+          "things to always reflect on"
+     ],
+     [
+          "AN5.57",
+          "separation from the loved",
+          "things to always reflect on"
+     ],
+     [
+          "AN5.57",
+          "actions (kamma)",
+          "being the owner of ones own"
+     ],
+     [
+          "AN5.57",
+          "subjects",
+          "to be reflected on"
+     ],
+     [
+          "AN5.57",
+          "old age, sickness, and death",
+          "overcome intoxication with youth, health, life"
+     ],
+     [
+          "AN5.57",
+          "reviewing (paccavekkhaṇā)",
+          "leads to wholesome actions"
+     ],
+     [
+          "AN5.57",
+          "old age, sickness, and death",
+          "universality of"
+     ],
+     [
+          "AN5.57",
+          "separation from the loved",
+          "universality of"
+     ],
+     [
+          "AN5.57",
+          "actions (kamma)",
+          "all are owner of their actions"
+     ],
+     [
+          "AN5.57",
+          "fetters (saṁyojana)",
+          "removed by reviewing five subjects"
+     ],
+     [
+          "AN5.57",
+          "underlying tendencies (anusaya)",
+          "removed by reviewing five subjects"
+     ],
+     [
+          "AN5.58",
+          "Mahānāma the Licchavi",
+          ""
+     ],
+     [
+          "AN5.58",
+          "wealth",
+          "using to care for family"
+     ],
+     [
+          "AN5.58",
+          "wealth",
+          "using to honor, respect and esteme"
+     ],
+     [
+          "AN5.58",
+          "offerings",
+          "to gods"
+     ],
+     [
+          "AN5.58",
+          "wealth",
+          "proper use of"
+     ],
+     [
+          "AN5.58",
+          "business",
+          "proper use of wealth"
+     ],
+     [
+          "AN5.59",
+          "going forth (pabbajja)",
+          "in old age"
+     ],
+     [
           "AN5.6",
           "unskillfulness (akusala)",
           "does not arise in one with powers of a trainee"
+     ],
+     [
+          "AN5.60",
+          "going forth (pabbajja)",
+          "in old age"
+     ],
+     [
+          "AN5.60",
+          "admonishment",
+          "being difficult to"
+     ],
+     [
+          "AN5.60",
+          "teaching Dhamma",
+          "by one gone forth when old"
+     ],
+     [
+          "AN5.61",
+          "perception of ugliness (asubhasañña)",
+          "culminates in deathless"
+     ],
+     [
+          "AN5.61",
+          "perception of death (maraṇasañña)",
+          "culminates in deathless"
+     ],
+     [
+          "AN5.61",
+          "perception of danger/drawback (ādīnavasañña)",
+          "culminates in deathless"
+     ],
+     [
+          "AN5.61",
+          "perception of repulsiveness of food (āhāre paṭikūlasañña)",
+          "culminates in deathless"
+     ],
+     [
+          "AN5.61",
+          "perception of dissatisfaction with the whole world (sabbaloke anabhiratasañña)",
+          "culminates in deathless"
+     ],
+     [
+          "AN5.62",
+          "perception of impermanence (aniccasañña)",
+          "culminates in deathless"
+     ],
+     [
+          "AN5.62",
+          "perception of not self (anattasañña)",
+          "culminates in deathless"
+     ],
+     [
+          "AN5.62",
+          "perception of death (maraṇasañña)",
+          "culminates in deathless"
+     ],
+     [
+          "AN5.62",
+          "perception of repulsiveness of food (āhāre paṭikūlasañña)",
+          "culminates in deathless"
+     ],
+     [
+          "AN5.62",
+          "perception of dissatisfaction with the whole world (sabbaloke anabhiratasañña)",
+          "culminates in deathless"
+     ],
+     [
+          "AN5.63",
+          "growth",
+          "in faith, ethics, learning, generosity, and wisdom "
+     ],
+     [
+          "AN5.64",
+          "women",
+          "growth"
+     ],
+     [
+          "AN5.65",
+          "Dhamma discussion",
+          "one qualified to have"
+     ],
+     [
+          "AN5.65",
+          "questions, answering ",
+          "one qualified to"
+     ],
+     [
+          "AN5.65",
+          "knowledge and vision of freedom (vimuttiñāṇadassana)",
+          "accomplishment in"
+     ],
+     [
+          "AN5.66",
+          "questions, answering ",
+          "one qualified to"
+     ],
+     [
+          "AN5.66",
+          "companionship",
+          "suitable"
+     ],
+     [
+          "AN5.67",
+          "bases of psychic power (iddhipāda)",
+          "lead to nibbāna"
+     ],
+     [
+          "AN5.67",
+          "vigor (ussoḷi)",
+          "leads to nibbāna"
+     ],
+     [
+          "AN5.68",
+          "bases of psychic power (iddhipāda)",
+          "psychic powers"
+     ],
+     [
+          "AN5.68",
+          "Bodhisatta",
+          "development of bases of psychic power"
+     ],
+     [
+          "AN5.68",
+          "Buddha, the",
+          "psychic powers"
+     ],
+     [
+          "AN5.69",
+          "disillusionment (nibbidā)",
+          "things leading to"
+     ],
+     [
+          "AN5.69",
+          "perception of ugliness (asubhasañña)",
+          "leading to disillusionment"
+     ],
+     [
+          "AN5.69",
+          "perception of repulsiveness of food (āhāre paṭikūlasañña)",
+          "leading to disillusionment"
+     ],
+     [
+          "AN5.69",
+          "perception of dissatisfaction with the whole world (sabbaloke anabhiratasañña)",
+          "leading to disillusionment"
+     ],
+     [
+          "AN5.69",
+          "perception of impermanence (aniccasañña)",
+          "leading to disillusionment"
+     ],
+     [
+          "AN5.69",
+          "perception of death (maraṇasañña)",
+          "leading to disillusionment"
      ],
      [
           "AN5.7",
@@ -8160,6 +8695,426 @@ export const indexArray =`[
           "ability to look after oneself"
      ],
      [
+          "AN5.70",
+          "perception of ugliness (asubhasañña)",
+          "leading to ending of defilements (āsava)"
+     ],
+     [
+          "AN5.70",
+          "perception of repulsiveness of food (āhāre paṭikūlasañña)",
+          "leading to ending of defilements (āsava)"
+     ],
+     [
+          "AN5.70",
+          "perception of dissatisfaction with the whole world (sabbaloke anabhiratasañña)",
+          "leading to ending of defilements (āsava)"
+     ],
+     [
+          "AN5.70",
+          "perception of impermanence (aniccasañña)",
+          "leading to ending of defilements (āsava)"
+     ],
+     [
+          "AN5.70",
+          "perception of death (maraṇasañña)",
+          "leading to ending of defilements (āsava)"
+     ],
+     [
+          "AN5.71",
+          "perception of ugliness (asubhasañña)",
+          "result in cetovimutti"
+     ],
+     [
+          "AN5.71",
+          "perception of repulsiveness of food (āhāre paṭikūlasañña)",
+          "result in cetovimutti"
+     ],
+     [
+          "AN5.71",
+          "perception of dissatisfaction with the whole world (sabbaloke anabhiratasañña)",
+          "result in cetovimutti"
+     ],
+     [
+          "AN5.71",
+          "perception of impermanence (aniccasañña)",
+          "result in cetovimutti"
+     ],
+     [
+          "AN5.71",
+          "perception of death (maraṇasañña)",
+          "result in cetovimutti"
+     ],
+     [
+          "AN5.71",
+          "perception of ugliness (asubhasañña)",
+          "result in paññāvmutti"
+     ],
+     [
+          "AN5.71",
+          "perception of repulsiveness of food (āhāre paṭikūlasañña)",
+          "result in paññāvmutti"
+     ],
+     [
+          "AN5.71",
+          "perception of dissatisfaction with the whole world (sabbaloke anabhiratasañña)",
+          "result in paññāvmutti"
+     ],
+     [
+          "AN5.71",
+          "perception of impermanence (aniccasañña)",
+          "result in paññāvmutti"
+     ],
+     [
+          "AN5.71",
+          "perception of death (maraṇasañña)",
+          "result in paññāvmutti"
+     ],
+     [
+          "AN5.71",
+          "cross-bar, lifted up",
+          "definition"
+     ],
+     [
+          "AN5.71",
+          "trench, filled in",
+          "definition"
+     ],
+     [
+          "AN5.71",
+          "pillar, pulled up",
+          "definition"
+     ],
+     [
+          "AN5.71",
+          "unbarred",
+          "definition"
+     ],
+     [
+          "AN5.71",
+          "banner and burden put down",
+          "definition"
+     ],
+     [
+          "AN5.72",
+          "perception of impermanence (aniccasañña)",
+          "result in cetovimutti"
+     ],
+     [
+          "AN5.72",
+          "perception of suffering (dukkhasañña)",
+          "result in cetovimutti"
+     ],
+     [
+          "AN5.72",
+          "perception of suffering in impermanence (dukkhe anattasañña)",
+          "result in cetovimutti"
+     ],
+     [
+          "AN5.72",
+          "perception of giving up (pahānasaññ)",
+          "result in cetovimutti"
+     ],
+     [
+          "AN5.72",
+          "perception of fading away (virāgasaññ)",
+          "result in cetovimutti"
+     ],
+     [
+          "AN5.72",
+          "perception of impermanence (aniccasañña)",
+          "result in paññāvmutti"
+     ],
+     [
+          "AN5.72",
+          "perception of suffering (dukkhasañña)",
+          "result in paññāvmutti"
+     ],
+     [
+          "AN5.72",
+          "perception of suffering in impermanence (dukkhe anattasañña)",
+          "result in paññāvmutti"
+     ],
+     [
+          "AN5.72",
+          "perception of giving up (pahānasaññ)",
+          "result in paññāvmutti"
+     ],
+     [
+          "AN5.72",
+          "perception of fading away (virāgasaññ)",
+          "result in paññāvmutti"
+     ],
+     [
+          "AN5.73",
+          "learning",
+          "without practicing"
+     ],
+     [
+          "AN5.73",
+          "learning",
+          "living in line with what has been learned"
+     ],
+     [
+          "AN5.73",
+          "living according to the teachings (dhammavihārī)",
+          "definition"
+     ],
+     [
+          "AN5.74",
+          "living according to the teachings (dhammavihārī)",
+          "definition"
+     ],
+     [
+          "AN5.74",
+          "learning",
+          "without understanding"
+     ],
+     [
+          "AN5.75",
+          "mendicants",
+          "like warriors"
+     ],
+     [
+          "AN5.75",
+          "warriors",
+          "like mendicants"
+     ],
+     [
+          "AN5.75",
+          "monastics",
+          "tempted by women"
+     ],
+     [
+          "AN5.75",
+          "disrobing",
+          "sensual desire"
+     ],
+     [
+          "AN5.75",
+          "defeat (pārājika)",
+          ""
+     ],
+     [
+          "AN5.76",
+          "mendicants",
+          "like warriors"
+     ],
+     [
+          "AN5.76",
+          "warriors",
+          "like mendicants"
+     ],
+     [
+          "AN5.76",
+          "monastics",
+          "tempted by women"
+     ],
+     [
+          "AN5.76",
+          "disrobing",
+          "sensual desire"
+     ],
+     [
+          "AN5.76",
+          "defeat (pārājika)",
+          ""
+     ],
+     [
+          "AN5.76",
+          "disrobing",
+          "encouragement not to"
+     ],
+     [
+          "AN5.76",
+          "sensual pleasures",
+          "similes for"
+     ],
+     [
+          "AN5.76",
+          "monastic life",
+          "dissatisfaction with"
+     ],
+     [
+          "AN5.76",
+          "sense restraint",
+          "like a warrior"
+     ],
+     [
+          "AN5.77",
+          "perils (bhaya)",
+          "future"
+     ],
+     [
+          "AN5.77",
+          "mindfulness of death (maraṇassati)",
+          "using future perils"
+     ],
+     [
+          "AN5.78",
+          "mindfulness of death (maraṇassati)",
+          "using future perils"
+     ],
+     [
+          "AN5.78",
+          "schisms",
+          "not good for meditation"
+     ],
+     [
+          "AN5.78",
+          "famine",
+          "not good for meditation"
+     ],
+     [
+          "AN5.78",
+          "old age",
+          "not good for meditation"
+     ],
+     [
+          "AN5.78",
+          "sickness",
+          "not good for meditation"
+     ],
+     [
+          "AN5.79",
+          "perils (bhaya)",
+          "future"
+     ],
+     [
+          "AN5.79",
+          "poetry",
+          "will become more popular"
+     ],
+     [
+          "AN5.79",
+          "senior monastics",
+          "will become corrupt"
+     ],
+     [
+          "AN5.80",
+          "requisites, four",
+          "attachment to causes danger for community"
+     ],
+     [
+          "AN5.80",
+          "perils (bhaya)",
+          "future"
+     ],
+     [
+          "AN5.80",
+          "monks",
+          "mixing with nuns"
+     ],
+     [
+          "AN5.80",
+          "disrobing",
+          "due to mixing with nuns"
+     ],
+     [
+          "AN5.80",
+          "senior monastics",
+          "desirable and undesirable"
+     ],
+     [
+          "AN5.81",
+          "senior monastics",
+          "desirable and undesirable"
+     ],
+     [
+          "AN5.82",
+          "senior monastics",
+          "desirable and undesirable"
+     ],
+     [
+          "AN5.82",
+          "companionship",
+          "undesireable"
+     ],
+     [
+          "AN5.83",
+          "pursuing gain with gain (lābhena ca lābhaṁ)",
+          "senior monastics"
+     ],
+     [
+          "AN5.83",
+          "flattery (lapaka)",
+          "senior monastics"
+     ],
+     [
+          "AN5.83",
+          "deceit (kuhaka)",
+          "senior monastics"
+     ],
+     [
+          "AN5.83",
+          "companionship",
+          "undesireable"
+     ],
+     [
+          "AN5.84",
+          "companionship",
+          "undesireable"
+     ],
+     [
+          "AN5.84",
+          "senior monastics",
+          "desirable and undesirable"
+     ],
+     [
+          "AN5.85",
+          "senior monastics",
+          "desirable and undesirable"
+     ],
+     [
+          "AN5.85",
+          "enduring (khama)",
+          "sense objects"
+     ],
+     [
+          "AN5.86",
+          "senior monastics",
+          "desirable and undesirable"
+     ],
+     [
+          "AN5.86",
+          "analytical knowledge (paṭisambhidā)",
+          "senior monastics"
+     ],
+     [
+          "AN5.86",
+          "work",
+          "monastics able to do skillfully"
+     ],
+     [
+          "AN5.87",
+          "senior monastics",
+          "desirable and undesirable"
+     ],
+     [
+          "AN5.88",
+          "senior monastics",
+          "desirable and undesirable"
+     ],
+     [
+          "AN5.88",
+          "senior monastics",
+          "with wrong view"
+     ],
+     [
+          "AN5.89",
+          "trainee (sekha)",
+          "things that lead to decline"
+     ],
+     [
+          "AN5.89",
+          "work",
+          "caught up in"
+     ],
+     [
+          "AN5.89",
+          "reviewing (paccavekkhaṇā)",
+          "trainee"
+     ],
+     [
           "AN5.9",
           "respect (gārava)",
           "powers of a trainee"
@@ -8170,9 +9125,134 @@ export const indexArray =`[
           "powers of a trainee"
      ],
      [
+          "AN5.90",
+          "work",
+          "having much and competent in"
+     ],
+     [
+          "AN5.90",
+          "seclusion",
+          "not dedicated to leads to decline"
+     ],
+     [
+          "AN5.90",
+          "socializing",
+          "leads to decline"
+     ],
+     [
+          "AN5.90",
+          "speech",
+          "topics of discussion"
+     ],
+     [
           "AN5.91",
           "generosity (cāga)",
           "as an accomplishment"
+     ],
+     [
+          "AN5.91",
+          "accomplishments",
+          "in faith, ethics, learning, generosity, and wisdom "
+     ],
+     [
+          "AN5.92",
+          "accomplishments",
+          "in ethics, immersion, wisdom, freedom, and the knowledge and vision of freedom "
+     ],
+     [
+          "AN5.93",
+          "declaring enlightenment",
+          "rightly and wrongly"
+     ],
+     [
+          "AN5.94",
+          "jhānas",
+          "as way of living comfortably"
+     ],
+     [
+          "AN5.94",
+          "enlightenment",
+          "as way of living comfortably"
+     ],
+     [
+          "AN5.95",
+          "analytical knowledge (paṭisambhidā)",
+          "penetrating the unshakeable"
+     ],
+     [
+          "AN5.96",
+          "mindfulness of breathing (ānāpānassati)",
+          "learning and"
+     ],
+     [
+          "AN5.96",
+          "mindfulness of breathing (ānāpānassati)",
+          "few duties and"
+     ],
+     [
+          "AN5.96",
+          "mindfulness of breathing (ānāpānassati)",
+          "eating little and"
+     ],
+     [
+          "AN5.96",
+          "mindfulness of breathing (ānāpānassati)",
+          "wakefulness and"
+     ],
+     [
+          "AN5.96",
+          "mindfulness of breathing (ānāpānassati)",
+          "reviewing and"
+     ],
+     [
+          "AN5.96",
+          "learned (bahussutā)",
+          "mindfulness of breathing and"
+     ],
+     [
+          "AN5.96",
+          "work",
+          "mindfulness of breathing and"
+     ],
+     [
+          "AN5.96",
+          "wakefulness (jāgara)",
+          "mindfulness of breathing and"
+     ],
+     [
+          "AN5.97",
+          "contentment (santuṭṭhi)",
+          "mindfulness of breathing and"
+     ],
+     [
+          "AN5.97",
+          "mindfulness of breathing (ānāpānassati)",
+          "Dhamma discussion and"
+     ],
+     [
+          "AN5.98",
+          "mindfulness of breathing (ānāpānassati)",
+          "living in wilderness"
+     ],
+     [
+          "AN5.98",
+          "wilderness (arañña)",
+          "mindfulness of breathing and"
+     ],
+     [
+          "AN5.99",
+          "lions roar",
+          "of the Buddha"
+     ],
+     [
+          "AN5.99",
+          "Buddha, the",
+          "teaches carefully"
+     ],
+     [
+          "AN5.99",
+          "Dhamma",
+          "Buddha has respect for"
      ],
      [
           "AN6.10",
@@ -8522,7 +9602,7 @@ export const indexArray =`[
      [
           "AN9.20",
           "loving-kindness (mettā)",
-          ""
+          "for the time to pull a cow udder"
      ],
      [
           "AN9.3",
@@ -13072,7 +14152,7 @@ export const indexArray =`[
      [
           "SN42.13",
           "loving-kindness (mettā)",
-          ""
+          "to prepare the mind for reflection"
      ],
      [
           "SN42.13",
@@ -14411,7 +15491,7 @@ export const indexArray =`[
      ],
      [
           "Snp5.7",
-          "perception of nothingness (natthi)",
+          "perception of nothingness (natthi sañña)",
           ""
      ],
      [
@@ -14496,7 +15576,7 @@ export const indexArray =`[
      ],
      [
           "Thag1.18",
-          "perception of skeleton (aṭṭhisaññāya)",
+          "perception of skeleton (aṭṭhisañña)",
           ""
      ],
      [
@@ -14717,7 +15797,7 @@ export const indexArray =`[
      [
           "Thag1.84",
           "socializing",
-          ""
+          "leaving not time for practice"
      ],
      [
           "Thag1.86",
@@ -17026,7 +18106,7 @@ export const indexArray =`[
      ],
      [
           "Ud4.1",
-          "perception of impermanance",
+          "perception of impermanence (aniccasañña)",
           "to remove conceit ‘I am’"
      ],
      [

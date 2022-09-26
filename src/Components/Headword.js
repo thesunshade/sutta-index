@@ -16,28 +16,29 @@ export default function Headword(props) {
       <div className="head-word-area" id={makeNormalizedId(headword)}>
         <a
           onClick={e => {
+            // e.preventDefault();
+            // e.nativeEvent.stopImmediatePropagation();
             // setLastClickedLink(e.target.textContent);
-
-            setTimeout(() => {
-              setLastClickedLink(e.target.textContent);
-            }, "1000");
+            // setTimeout(() => {
+            //   setLastClickedLink(e.target.textContent);
+            // }, "1000");
           }}
           className="headword-link"
           href={"#" + makeNormalizedId(headword)}
         >
           <span className="head-word">
+            <img
+              alt="link-icon"
+              className="icon link-icon"
+              height="18"
+              src={linkIcon}
+              onClick={e => {
+                e.preventDefault();
+                navigator.clipboard.writeText(`index.readingfaithfully.org/#${makeNormalizedId(headword)}`);
+              }}
+            />
             <KeyWord filterByText={filterByText} stringToHighlight={headword} />
           </span>
-          <img
-            alt="link-icon"
-            className="icon link-icon"
-            height="18"
-            src={linkIcon}
-            onClick={e => {
-              e.preventDefault();
-              navigator.clipboard.writeText(`index.readingfaithfully.org/#${makeNormalizedId(headword)}`);
-            }}
-          />
         </a>
         {headwordObject.hasOwnProperty("") ? (
           <LocatorList headwordSubCount={sortedSubWords.length} locatorXrefObject={headwordObject[""]} />

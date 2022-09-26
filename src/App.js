@@ -150,7 +150,7 @@ function App() {
               }}
             ></img>
           </div>
-          <div className="favorites-button">
+          {/* <div className="favorites-button">
             <img
               className="icon"
               width="22px"
@@ -160,7 +160,7 @@ function App() {
                 toggleArea("favorites-area");
               }}
             ></img>
-          </div>
+          </div> */}
         </div>
         <LastClickedLink.Provider value={{ setLastClickedLink }}>
           <Alphabet />
@@ -168,9 +168,9 @@ function App() {
         <div id="info-area" className="info-area hidden hideable-area">
           <Info />
         </div>
-        <div id="favorites-area" className="favorites-area hidden hideable-area">
+        {/* <div id="favorites-area" className="favorites-area hidden hideable-area">
           <Favorites lastClickedLink={lastClickedLink} />
-        </div>
+        </div> */}
         <div id="options-area" className="options-area hidden  hideable-area">
           <label className="table-view">
             <button

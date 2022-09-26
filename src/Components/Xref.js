@@ -11,18 +11,24 @@ export default function Xref({ xref }) {
     return xref.replace("xref ", "").replace(/\(.+\)/, "");
   }
 
-  function handleClick() {
+  function handleClick(e) {
+    e.preventDefault();
+    // Window.history.push("#" + locationId);
+    // window.history.pushState({ page: 1 }, "title 1", "#" + locationId);
+    window.location.hash = locationId;
     setFilterByText("");
     setFilterInput("");
+
+    // setLastClickedLink("");
     // setLastClickedLink(xref.replace("xref ", ""));
 
-    setTimeout(() => {
-      setLastClickedLink(xref.replace("xref ", ""));
-    }, "2000");
+    // setTimeout(() => {
+    //   setLastClickedLink(xref.replace("xref ", ""));
+    // }, "2000");
   }
 
   return (
-    <a className="xref-link" href={"#" + locationId} onClick={handleClick}>
+    <a className="xref-link" href={"#" + locationId} onClick={e => handleClick(e)}>
       {cleanUpXref(xref)}
     </a>
   );

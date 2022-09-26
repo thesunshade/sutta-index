@@ -1,6 +1,6 @@
 :root {
   --max-width: 35rem;
-  --indent: 1.5rem;
+  --indent: 2.5rem;
   --mobile-indent: .5rem;
   --primary: #ee7121;
   --dark-primary: #481213;
@@ -389,7 +389,7 @@ App {
 }
 
 .sutta-index {
-  margin: auto 1rem;
+  margin: 6rem 1rem auto 2rem;
   padding-bottom: 3rem;
   max-width: var(--max-width)
 }
@@ -449,6 +449,8 @@ a:visited {
   padding-top: .4rem
 }
 
+
+
 .head-word {
   font-weight: bold
 }
@@ -456,7 +458,7 @@ a:visited {
 .headword-link,
 .headword-link:visited {
   color: var(--offblack);
-  padding-right: 1.5rem;
+  /* padding-right: 1.5rem; */
   word-spacing: inherit;
   position: relative;
   text-decoration: none !important;
@@ -469,17 +471,26 @@ a:visited {
 }
 
 .link-icon {
-  position: absolute;
-  /* top: .35rem; */
-  padding-left: .1rem;
+  position: relative;
+  top: .2rem;
+  /* left: -1rem; */
+  padding-right: .1rem;
 }
 
 .headword-link .link-icon {
-  display: none;
+  visibility: hidden;
 }
 
-.headword-link:hover .link-icon {
-  display: inherit;
+@media only screen and (max-width: 475px) {
+
+  .link-icon {
+    display: none
+  }
+}
+
+.headword-link:hover .link-icon,
+.link-icon:hover {
+  visibility: inherit;
 }
 
 .highlight {
@@ -568,6 +579,7 @@ tr:nth-child(even) {
 
   .sutta-index {
     line-height: 130%;
+    margin: 6rem 1rem;
   }
 
   input {
