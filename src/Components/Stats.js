@@ -1,5 +1,6 @@
 import { indexObject } from "../data/index-object";
 import { indexArray } from "../data/index-array";
+import statsIcon from "../images/stats-icon.png";
 
 export default function Stats() {
   const index = JSON.parse(indexArray);
@@ -29,7 +30,10 @@ export default function Stats() {
   return (
     <>
       <div className="stats">
-        <div className="settings-notice">Stats:</div>
+        <div className="settings-notice">
+          <img className="icon stats-icon" width="20px" src={statsIcon} alt="Settings Toggle" title="Filter"></img>
+          Stats:
+        </div>
         <div className="row-1">
           <div>
             Number of headwords: <span className="answer">{headwords - xrefsCount}</span>

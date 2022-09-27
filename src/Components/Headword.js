@@ -32,6 +32,7 @@ export default function Headword(props) {
               className="icon link-icon"
               height="18"
               src={linkIcon}
+              title="Copy Link to Heading"
               onClick={e => {
                 e.preventDefault();
                 navigator.clipboard.writeText(`index.readingfaithfully.org/#${makeNormalizedId(headword)}`);

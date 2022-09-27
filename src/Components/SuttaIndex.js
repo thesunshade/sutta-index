@@ -10,6 +10,11 @@ export default function SuttaIndex(props) {
   let isEmpty = true;
   let alphabet = Object.keys(index);
 
+  const alphabetHeadings = document.getElementsByClassName("alphabet-anchor");
+  for (let i = 0; i < alphabetHeadings.length; i++) {
+    alphabetHeadings[i].classList.remove("hidden");
+  }
+
   return (
     <>
       <div id="sutta-index" className="sutta-index">

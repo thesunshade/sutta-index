@@ -1,6 +1,19 @@
 import OtherToolsIcons from "./OtherToolsIcons";
 
 export default function Info() {
+  const allDetails = document.querySelectorAll("details");
+
+  allDetails.forEach(details => {
+    details.addEventListener("toggle", e => {
+      if (details.open) {
+        allDetails.forEach(details => {
+          if (details != e.target && details.open) {
+            details.open = false;
+          }
+        });
+      }
+    });
+  });
   return (
     <div>
       <p>
@@ -10,9 +23,6 @@ export default function Info() {
         </a>
       </p>
       <p>In some instances, a specific word may be indexed but not appear in the sutta. </p>
-      <p>
-        Pāli is given for some terms. The Pāli is generally in the singular, though the term in the text may be plural.
-      </p>
       <p>
         While this index attempts to be more than just significant occurances, it is by no mean a complete{" "}
         <a href="https://en.wikipedia.org/wiki/Concordance_(publishing)" rel="noreferrer" target="_blank">
@@ -24,14 +34,42 @@ export default function Info() {
         </a>
         .
       </p>
-      <div className="row-2">
-        <div>
-          Complete Books: <span className="answer">Kp, Dhp, Ud, Iti, Snp, Vv, Pv, Thag, Thig</span>
+      <details>
+        <summary>How to find things</summary>
+        <p>
+          First, look things up by <em>noun</em> followed by an <em>adjective</em>.
+        </p>
+      </details>
+      <details>
+        <summary>Pāli</summary>
+        <p>
+          Pāli is given for some terms. The Pāli is generally in the singular, though the term in the text may be
+          plural.
+        </p>
+        <p>
+          Generally, headwords will be in English. For some words where the Pāli is more concise and well known (e.g.
+          Bodhisatta, paccekabuddha) it will be listed under Pāli.
+        </p>
+        <p>
+          In some cases, although a Pāli word may appear in parentheses in the head word, the Pāli word may not appear
+          in the text.
+        </p>
+      </details>
+      <details>
+        <summary>Coverage</summary>
+
+        <div className="row-2">
+          <div>
+            Complete Books: <span className="answer">Kp, Dhp, Ud, Iti, Snp, Vv, Pv, Thag, Thig</span>
+          </div>
+          <div>
+            In Progress: <span className="answer">AN</span>
+          </div>
+          <div>
+            Planned Books: <span className="answer">DN, MN, SN, AN</span>
+          </div>
         </div>
-        <div>
-          Planned Books: <span className="answer">DN, MN, SN, AN</span>
-        </div>
-      </div>
+      </details>
       <OtherToolsIcons />
     </div>
   );

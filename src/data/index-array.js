@@ -331,7 +331,7 @@ export const indexArray =`[
      ],
      [
           "AN1.216",
-          "Bāhiyo Dārucīriya, Ven.",
+          "Bāhiya Dārucīriya, Ven.",
           "foremost with swift insight"
      ],
      [
@@ -1051,7 +1051,7 @@ export const indexArray =`[
      ],
      [
           "AN1.74",
-          "awakening factors (bojjhaṅga)",
+          "awakening factors, seven (bojjhaṅga)",
           "prevented by improper attention"
      ],
      [
@@ -1066,7 +1066,7 @@ export const indexArray =`[
      ],
      [
           "AN1.75",
-          "awakening factors (bojjhaṅga)",
+          "awakening factors, seven (bojjhaṅga)",
           "helped by proper attention"
      ],
      [
@@ -2356,7 +2356,7 @@ export const indexArray =`[
      ],
      [
           "AN3.32",
-          "Ānanda, Ven",
+          "Ānanda, Ven.",
           "asking about cetovimutti and paññāvimutti"
      ],
      [
@@ -2826,7 +2826,7 @@ export const indexArray =`[
      ],
      [
           "AN3.60",
-          "Ānanda, Ven",
+          "Ānanda, Ven.",
           "interrogating a brahmin about beneficial practice"
      ],
      [
@@ -3311,7 +3311,7 @@ export const indexArray =`[
      ],
      [
           "AN3.71",
-          "Ānanda, Ven",
+          "Ānanda, Ven.",
           "unwholesome roots"
      ],
      [
@@ -3401,7 +3401,7 @@ export const indexArray =`[
      ],
      [
           "AN3.78",
-          "Ānanda, Ven",
+          "Ānanda, Ven.",
           "declared to be a trainee by the Buddha"
      ],
      [
@@ -3486,7 +3486,7 @@ export const indexArray =`[
      ],
      [
           "AN3.80",
-          "Ānanda, Ven",
+          "Ānanda, Ven.",
           "Buddha predicts will become an arahant in this life"
      ],
      [
@@ -3761,7 +3761,7 @@ export const indexArray =`[
      ],
      [
           "AN4.10",
-          "attachment to views (diṭṭhiyog)",
+          "attachment to views (diṭṭhiyoga)",
           "definition"
      ],
      [
@@ -4216,7 +4216,7 @@ export const indexArray =`[
      ],
      [
           "AN4.129",
-          "Ānanda, Ven",
+          "Ānanda, Ven.",
           "incredible and amazing qualities"
      ],
      [
@@ -4231,7 +4231,7 @@ export const indexArray =`[
      ],
      [
           "AN4.130",
-          "Ānanda, Ven",
+          "Ānanda, Ven.",
           "incredible and amazing qualities"
      ],
      [
@@ -4531,7 +4531,7 @@ export const indexArray =`[
      ],
      [
           "AN4.159",
-          "Ānanda, Ven",
+          "Ānanda, Ven.",
           "visits a bhikkhuni"
      ],
      [
@@ -4796,7 +4796,7 @@ export const indexArray =`[
      ],
      [
           "AN4.174",
-          "Ānanda, Ven",
+          "Ānanda, Ven.",
           ""
      ],
      [
@@ -5871,7 +5871,7 @@ export const indexArray =`[
      ],
      [
           "AN4.243",
-          "Ānanda, Ven",
+          "Ānanda, Ven.",
           "and disciplinary issue"
      ],
      [
@@ -7001,7 +7001,7 @@ export const indexArray =`[
      ],
      [
           "AN4.76",
-          "Ānanda, Ven",
+          "Ānanda, Ven.",
           "speaking from faith about other monks attainments"
      ],
      [
@@ -7385,6 +7385,31 @@ export const indexArray =`[
           "praise and dispraise"
      ],
      [
+          "AN5.117",
+          "jealousy",
+          "leading to hell"
+     ],
+     [
+          "AN5.118",
+          "wrong intention (micchā saṅkappa)",
+          "leading to "
+     ],
+     [
+          "AN5.118",
+          "right intention (sammā saṅkappa)",
+          "leading to heaven"
+     ],
+     [
+          "AN5.119",
+          "wrong speech (micchā vacā)",
+          "leading to hell"
+     ],
+     [
+          "AN5.119",
+          "right speech (sammā vācā)",
+          "leading to heaven"
+     ],
+     [
           "AN5.12",
           "powers of a trainee (sekha bala)",
           "wisdom is the chief"
@@ -7403,6 +7428,206 @@ export const indexArray =`[
           "AN5.12",
           "powers (bala)",
           "faith, energy, mindfulness, immersion, and wisdom "
+     ],
+     [
+          "AN5.120",
+          "wrong effort (micchāvāyāma)",
+          "leading to hell"
+     ],
+     [
+          "AN5.120",
+          "right effort (sammā vāyāma)",
+          "leading to heaven"
+     ],
+     [
+          "AN5.121",
+          "sickness",
+          "meditations to practice while sick"
+     ],
+     [
+          "AN5.121",
+          "perception of ugliness (asubhasañña)",
+          "practicing while sick"
+     ],
+     [
+          "AN5.121",
+          "perception of repulsiveness of food (āhāre paṭikūlasañña)",
+          "practicing while sick"
+     ],
+     [
+          "AN5.121",
+          "perception of dissatisfaction with the whole world (sabbaloke anabhiratasañña)",
+          "practicing while sick"
+     ],
+     [
+          "AN5.121",
+          "perception of impermanence (aniccasañña)",
+          "practicing while sick"
+     ],
+     [
+          "AN5.121",
+          "perception of death (maraṇasañña)",
+          "practicing while sick"
+     ],
+     [
+          "AN5.123",
+          "sick person",
+          "difficult and easy to care for"
+     ],
+     [
+          "AN5.124",
+          "caregiver",
+          "qualified and unqualified"
+     ],
+     [
+          "AN5.125",
+          "long life",
+          "promoting and impeding"
+     ],
+     [
+          "AN5.125",
+          "food",
+          "and long life"
+     ],
+     [
+          "AN5.125",
+          "celibacy",
+          "and long life"
+     ],
+     [
+          "AN5.126",
+          "food",
+          "and long life"
+     ],
+     [
+          "AN5.126",
+          "long life",
+          "promoting and impeding"
+     ],
+     [
+          "AN5.127",
+          "solitude",
+          "qualifications for living alone"
+     ],
+     [
+          "AN5.127",
+          "contentment (santuṭṭhi)",
+          "qualification for living alone"
+     ],
+     [
+          "AN5.127",
+          "renunciation",
+          "qualification for living alone"
+     ],
+     [
+          "AN5.128",
+          "monastic life",
+          "dissatisfaction with"
+     ],
+     [
+          "AN5.128",
+          "contentment (santuṭṭhi)",
+          "lack of is suffering for monastic"
+     ],
+     [
+          "AN5.129",
+          "heinous actions, five (ānantarika kamma)",
+          "as fatal wounds"
+     ],
+     [
+          "AN5.129",
+          "parents",
+          "killing leads to hell"
+     ],
+     [
+          "AN5.129",
+          "schisms",
+          "leads to hell"
+     ],
+     [
+          "AN5.130",
+          "loss",
+          "of loved ones"
+     ],
+     [
+          "AN5.130",
+          "wealth",
+          "loss of"
+     ],
+     [
+          "AN5.130",
+          "wealth",
+          "loss of compared to wisdom"
+     ],
+     [
+          "AN5.130",
+          "health",
+          "loss of"
+     ],
+     [
+          "AN5.130",
+          "wisdom",
+          "loss of greater than loss of relatives"
+     ],
+     [
+          "AN5.130",
+          "wisdom",
+          "loss of"
+     ],
+     [
+          "AN5.130",
+          "right view (sammā diṭṭhi)",
+          "loss of"
+     ],
+     [
+          "AN5.131",
+          "wheel-turning monarchs",
+          "wielding power righteously"
+     ],
+     [
+          "AN5.131",
+          "Buddhas",
+          "teach Dhamma righteously"
+     ],
+     [
+          "AN5.132",
+          "wheel-turning monarchs",
+          "sons of"
+     ],
+     [
+          "AN5.132",
+          "Sāriputta, Ven.",
+          "rightly keeps rolling wheel of Dhamma"
+     ],
+     [
+          "AN5.133",
+          "Buddhas",
+          "all respected the Dhamma"
+     ],
+     [
+          "AN5.133",
+          "wheel-turning monarchs",
+          "Dhamma is their king"
+     ],
+     [
+          "AN5.134",
+          "kings",
+          "qualities of"
+     ],
+     [
+          "AN5.137",
+          "sleep",
+          "who sleeps little"
+     ],
+     [
+          "AN5.138",
+          "monastics",
+          "like a bad elephant"
+     ],
+     [
+          "AN5.139",
+          "monastics",
+          "like a bad elephant"
      ],
      [
           "AN5.14",
@@ -9796,7 +10021,7 @@ export const indexArray =`[
      ],
      [
           "Dhp127",
-          "karma",
+          "actions (kamma)",
           "cannot escape results of "
      ],
      [
@@ -10587,7 +10812,7 @@ export const indexArray =`[
      [
           "Dhp3",
           "accusations",
-          ""
+          "don’t end hatred"
      ],
      [
           "Dhp30",
@@ -11081,7 +11306,7 @@ export const indexArray =`[
      ],
      [
           "Dhp49",
-          "alms gatherer",
+          "alms gathering practice",
           "simile of bee and flower"
      ],
      [
@@ -12492,7 +12717,7 @@ export const indexArray =`[
      [
           "Kp5",
           "alcohol",
-          ""
+          "abstaining from is a blessing"
      ],
      [
           "Kp5",
@@ -13771,11 +13996,6 @@ export const indexArray =`[
      ],
      [
           "Pv7",
-          "abortion",
-          "causing someone elses"
-     ],
-     [
-          "Pv7",
           "ghosts",
           "child eating"
      ],
@@ -14627,12 +14847,17 @@ export const indexArray =`[
      [
           "Snp1.6",
           "alcoholics",
-          ""
+          "putting in charge"
      ],
      [
           "Snp1.6",
           "ambition",
           "unrealistic"
+     ],
+     [
+          "Snp1.6",
+          "alcohol",
+          "causing downlfall"
      ],
      [
           "Snp1.7",
@@ -15146,7 +15371,7 @@ export const indexArray =`[
      ],
      [
           "Snp3.7",
-          "Buddha, the word",
+          "“Buddha”, the word",
           "hard to find in world"
      ],
      [
@@ -15837,7 +16062,7 @@ export const indexArray =`[
      [
           "Thag1.97",
           "bowl",
-          ""
+          "giving up valuable"
      ],
      [
           "Thag10.1",
@@ -16636,7 +16861,7 @@ export const indexArray =`[
      ],
      [
           "Thag21.1",
-          "Aññā Koṇḍaññn, Ven.",
+          "Aññā Koṇḍañña, Ven.",
           "praise of"
      ],
      [
@@ -17476,7 +17701,7 @@ export const indexArray =`[
      ],
      [
           "Thig2.2",
-          "awakening factors, seven",
+          "awakening factors, seven (bojjhaṅga)",
           "all developed"
      ],
      [
@@ -17516,7 +17741,7 @@ export const indexArray =`[
      ],
      [
           "Thig3.3",
-          "awakening factors, seven",
+          "awakening factors, seven (bojjhaṅga)",
           "all developed"
      ],
      [
@@ -17581,7 +17806,7 @@ export const indexArray =`[
      ],
      [
           "Thig4.1",
-          "Bhaddākāpilānī, Ven",
+          "Bhaddā Kāpilānī, Ven.",
           "attainments same as Mahā Kassapa"
      ],
      [
@@ -17781,7 +18006,7 @@ export const indexArray =`[
      ],
      [
           "Ud1.10",
-          "Bāhiya of the bark cloth",
+          "Bāhiya Dārucīriya, Ven.",
           ""
      ],
      [
@@ -18226,7 +18451,7 @@ export const indexArray =`[
      ],
      [
           "Ud5.3",
-          "gradual instruction",
+          "gradual training",
           ""
      ],
      [
@@ -18262,7 +18487,7 @@ export const indexArray =`[
      [
           "Ud5.5",
           "asuras",
-          ""
+          "love of ocean"
      ],
      [
           "Ud5.5",

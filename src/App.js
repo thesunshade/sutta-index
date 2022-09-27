@@ -10,8 +10,9 @@ import { useState, createContext } from "react";
 import settingsIcon from "./images/settings.png";
 import infoDot from "./images/info-dot.png";
 import favoritesDot from "./images/favorites-dot.png";
-import xIcon from "./images/30632_close_cross_x_icon.png";
+import xIcon from "./images/x-icon.png";
 import upIcon from "./images/7122424_chevron_up_double_icon.png";
+import filterIcon from "./images/filter-icon.png";
 import themeIcon from "./images/8673129_ic_fluent_dark_theme_filled.png";
 import randomSuggestion from "./functions/randomSuggestion";
 
@@ -100,7 +101,16 @@ function App() {
         <div className="top-row">
           <div className="filter-area">
             <label id="user-input-label" htmlFor="user-input">
-              <span className="filter-label">Filter:</span>
+              {/* <span className="filter-label">Filter:</span> */}
+
+              <img
+                className="icon filter-icon"
+                width="20px"
+                src={filterIcon}
+                alt="Settings Toggle"
+                title="Filter"
+              ></img>
+
               <input
                 className="filter-input-box"
                 id="user-input"
@@ -118,7 +128,7 @@ function App() {
                   document.getElementById("user-input").focus();
                 }}
               >
-                <img height="20" alt="clear filter" src={xIcon} />
+                <img height="10" className="icon x-icon" alt="clear filter" src={xIcon} />
               </button>
             </label>
           </div>

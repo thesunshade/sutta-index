@@ -1,6 +1,12 @@
 import sadFace from "../images/9024994_smiley_sad_light_icon.png";
 
 export default function NoResults() {
+  const alphabetHeadings = document.getElementsByClassName("alphabet-anchor");
+  for (let i = 0; i < alphabetHeadings.length; i++) {
+    alphabetHeadings[i].classList.add("hidden");
+  }
+  window.scrollTo(1, 1);
+
   return (
     <div className="no-results">
       <p>No entries match your filter.</p>
