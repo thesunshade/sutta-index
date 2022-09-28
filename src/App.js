@@ -6,7 +6,7 @@ import Favorites from "./Components/Favorites.js";
 import OtherToolsIcons from "./Components/OtherToolsIcons.js";
 import LocatorSortedTable from "./Components/LocatorSortedTable.js";
 import Alphabet from "./Components/Alphabet.js";
-import { useState, createContext } from "react";
+import { useState, createContext, useEffect } from "react";
 import settingsIcon from "./images/settings.png";
 import infoDot from "./images/info-dot.png";
 import favoritesDot from "./images/favorites-dot.png";
@@ -26,6 +26,7 @@ function App() {
   const [filterInput, setFilterInput] = useState("");
   const [filterByText, setFilterByText] = useState("");
   const [lastClickedLink, setLastClickedLink] = useState("");
+  const [showVisited, setShowVisited] = useState(localStorage.showVisited ? localStorage.showVisited : "on");
 
   document.addEventListener("click", e => {
     if (!e.target.classList.contains("letter")) {
@@ -35,6 +36,20 @@ function App() {
       }
     }
   });
+
+  if (showVisited === "on") {
+    document.body.classList.remove("dont-show-visited");
+  } else if (showVisited === "off") {
+    document.body.classList.add("dont-show-visited");
+  }
+  useEffect(() => {
+    console.log(showVisited);
+    if (showVisited === "on") {
+      document.body.classList.remove("dont-show-visited");
+    } else if (showVisited === "off") {
+      document.body.classList.add("dont-show-visited");
+    }
+  }, [showVisited]);
 
   function closeAllDrawers() {
     const allHideableAreas = document.getElementsByClassName("hideable-area");
@@ -240,7 +255,22 @@ function App() {
               </label>
             </div>
           </div>{" "}
-          <div className="settings-notice"></div>
+          <label>
+            <input
+              type="checkbox"
+              checked={showVisited}
+              onChange={e => {
+                // setShowVisited(!showVisited);
+                if (showVisited === "on") {
+                  setShowVisited("off");
+                } else if (showVisited === "off") {
+                  setShowVisited("on");
+                }
+                localStorage.showVisited = e.target.checked;
+              }}
+            ></input>{" "}
+            Indicate visited links
+          </label>
           <Stats />
           <OtherToolsIcons />
         </div>

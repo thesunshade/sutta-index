@@ -7630,14 +7630,124 @@ export const indexArray =`[
           "like a bad elephant"
      ],
      [
+          "AN5.139",
+          "enduring ",
+          "like a royal elephant"
+     ],
+     [
           "AN5.14",
           "powers ",
           "five: definition"
      ],
      [
+          "AN5.140",
+          "listening to Dhamma",
+          "paying close attention"
+     ],
+     [
+          "AN5.140",
+          "enduring ",
+          "like a royal elephant"
+     ],
+     [
           "AN5.141",
           "giving (dāna)",
           "by bad person"
+     ],
+     [
+          "AN5.141",
+          "giving (dāna)",
+          "and scorning"
+     ],
+     [
+          "AN5.141",
+          "companionship",
+          "living together then scorning"
+     ],
+     [
+          "AN5.141",
+          "gossip",
+          "gullible for"
+     ],
+     [
+          "AN5.141",
+          "impulsiveness",
+          "in faith, devotion, fondness, and confidence "
+     ],
+     [
+          "AN5.141",
+          "stupidity ",
+          "definition"
+     ],
+     [
+          "AN5.142",
+          "regret",
+          "having and not having"
+     ],
+     [
+          "AN5.142",
+          "regret",
+          "without having done wrong"
+     ],
+     [
+          "AN5.143",
+          "gratitude",
+          "hard to find in world"
+     ],
+     [
+          "AN5.143",
+          "treasures",
+          "ordinary and spiritual"
+     ],
+     [
+          "AN5.143",
+          "Buddhas",
+          "rarity of"
+     ],
+     [
+          "AN5.143",
+          "Dhamma teachers",
+          "rarity of"
+     ],
+     [
+          "AN5.143",
+          "practicing",
+          "person who practices is rare"
+     ],
+     [
+          "AN5.144",
+          "repulsive",
+          "seeing repulsive and unrepulsive in"
+     ],
+     [
+          "AN5.144",
+          "greed (rāga)",
+          "removing by seeing repulsive in unrepulsive"
+     ],
+     [
+          "AN5.144",
+          "hatred (dosa)",
+          "removing by seeing unrepulsive in repulsive"
+     ],
+     [
+          "AN5.144",
+          "equanimity (upekkhā)",
+          "towards repulsive an unrepulsive"
+     ],
+     [
+          "AN5.145",
+          "hell (niraya)",
+          "breaking five precepts leads to"
+     ],
+     [
+          "AN5.145",
+          "heaven (sagga)",
+          "not breaking five precepts leads to"
+     ],
+     [
+          "AN5.145",
+          "alcohol",
+          "causing rebirth in hell"
      ],
      [
           "AN5.146",
@@ -7648,6 +7758,31 @@ export const indexArray =`[
           "AN5.146",
           "listening to Dhamma",
           ""
+     ],
+     [
+          "AN5.146",
+          "work",
+          "don’t associate with monk who starts lots of"
+     ],
+     [
+          "AN5.146",
+          "disputes",
+          "don’t associate with monk who makes"
+     ],
+     [
+          "AN5.146",
+          "travel",
+          "aimless wanderings"
+     ],
+     [
+          "AN5.146",
+          "good friends",
+          "qualities of"
+     ],
+     [
+          "AN5.146",
+          "bad friends",
+          "qualities of"
      ],
      [
           "AN5.147",
@@ -7680,9 +7815,34 @@ export const indexArray =`[
           ""
      ],
      [
+          "AN5.147",
+          "giving ",
+          "how to give"
+     ],
+     [
           "AN5.148",
           "speech",
           "four kinds of bad"
+     ],
+     [
+          "AN5.148",
+          "giving ",
+          "how to give"
+     ],
+     [
+          "AN5.148",
+          "giving ",
+          "results of depending on how gift was given"
+     ],
+     [
+          "AN5.148",
+          "giving ",
+          "faith and giving"
+     ],
+     [
+          "AN5.148",
+          "giving ",
+          "timely gifts"
      ],
      [
           "AN5.149",
@@ -7720,14 +7880,129 @@ export const indexArray =`[
           "power: seen in four noble truths"
      ],
      [
+          "AN5.151",
+          "listening to Dhamma",
+          "properly and improperly"
+     ],
+     [
+          "AN5.152",
+          "listening to Dhamma",
+          "properly and improperly"
+     ],
+     [
+          "AN5.152",
+          "stupidity ",
+          "listening to Dhamma"
+     ],
+     [
+          "AN5.153",
+          "listening to Dhamma",
+          "properly and improperly"
+     ],
+     [
+          "AN5.153",
+          "stupidity ",
+          "listening to Dhamma"
+     ],
+     [
+          "AN5.154",
+          "listening to Dhamma",
+          "continuation of Dhamma"
+     ],
+     [
+          "AN5.154",
+          "practicing",
+          "helps Dhamma continue"
+     ],
+     [
+          "AN5.154",
+          "memorizing",
+          "helps Dhamma continue"
+     ],
+     [
+          "AN5.154",
+          "Dhamma",
+          "continuation of, factors leading to"
+     ],
+     [
+          "AN5.155",
+          "Dhamma",
+          "continuation of, factors leading to"
+     ],
+     [
+          "AN5.155",
+          "memorizing",
+          "helps Dhamma continue"
+     ],
+     [
+          "AN5.155",
+          "Dhamma teaching",
+          "helps Dhamma continue"
+     ],
+     [
+          "AN5.156",
+          "memorizing",
+          "helps Dhamma continue"
+     ],
+     [
+          "AN5.156",
+          "Dhamma",
+          "continuation of, factors leading to"
+     ],
+     [
+          "AN5.156",
+          "admonishment",
+          "monastics being difficult to is cause for decline of Dhamma"
+     ],
+     [
+          "AN5.156",
+          "senior monastics",
+          "being slack leads to decline of Dhamma"
+     ],
+     [
+          "AN5.156",
+          "schisms",
+          "leads to decline of Dhamma"
+     ],
+     [
+          "AN5.156",
+          "harmony in Saṅgha",
+          "helps Dhamma continue"
+     ],
+     [
           "AN5.157",
           "generosity (cāga)",
           "talk of"
      ],
      [
+          "AN5.157",
+          "Dhamma teaching",
+          "wrongly directed topics"
+     ],
+     [
+          "AN5.158",
+          "timidity (sārajja)",
+          "qualities that make one"
+     ],
+     [
+          "AN5.159",
+          "Udāyī, Ven",
+          "teaching Dhamma"
+     ],
+     [
+          "AN5.159",
+          "Dhamma teaching",
+          "how to "
+     ],
+     [
           "AN5.16",
           "roof peak",
           "like wisdom"
+     ],
+     [
+          "AN5.160",
+          "travel",
+          "urge to"
      ],
      [
           "AN5.161",

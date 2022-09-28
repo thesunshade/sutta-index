@@ -56,6 +56,10 @@ export default function Info() {
         </p>
       </details>
       <details>
+        <summary>Sutta Summaries</summary>
+        <p>Desktop users can hover over citations to see a summary of the sutta.</p>
+      </details>
+      <details>
         <summary>Coverage</summary>
 
         <div className="row-2">

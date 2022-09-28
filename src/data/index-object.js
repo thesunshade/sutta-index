@@ -304,6 +304,12 @@ export const indexObject =`{
                          "AN5.60"
                     ],
                     "xrefs": []
+               },
+               "monastics being difficult to is cause for decline of Dhamma": {
+                    "locators": [
+                         "AN5.156"
+                    ],
+                    "xrefs": []
                }
           },
           "advice": {
@@ -441,6 +447,12 @@ export const indexObject =`{
                "cause of loosing wealth": {
                     "locators": [
                          "AN4.258"
+                    ],
+                    "xrefs": []
+               },
+               "causing rebirth in hell": {
+                    "locators": [
+                         "AN5.145"
                     ],
                     "xrefs": []
                }
@@ -1655,6 +1667,12 @@ export const indexObject =`{
                     "xrefs": [
                          "xref friends, bad"
                     ]
+               },
+               "qualities of": {
+                    "locators": [
+                         "AN5.146"
+                    ],
+                    "xrefs": []
                }
           },
           "bad monastics": {
@@ -2669,6 +2687,7 @@ export const indexObject =`{
                "rarity of": {
                     "locators": [
                          "AN3.114",
+                         "AN5.143",
                          "Dhp182",
                          "Snp3.7"
                     ],
@@ -3122,6 +3141,12 @@ export const indexObject =`{
                          "AN5.82",
                          "AN5.83",
                          "AN5.84"
+                    ],
+                    "xrefs": []
+               },
+               "living together then scorning": {
+                    "locators": [
+                         "AN5.141"
                     ],
                     "xrefs": []
                }
@@ -4623,7 +4648,10 @@ export const indexObject =`{
                },
                "continuation of, factors leading to": {
                     "locators": [
-                         "AN1.129"
+                         "AN1.129",
+                         "AN5.154",
+                         "AN5.155",
+                         "AN5.156"
                     ],
                     "xrefs": []
                },
@@ -4715,7 +4743,8 @@ export const indexObject =`{
                },
                "rarity of": {
                     "locators": [
-                         "AN3.114"
+                         "AN3.114",
+                         "AN5.143"
                     ],
                     "xrefs": []
                },
@@ -4843,6 +4872,24 @@ export const indexObject =`{
                "by monastics in heaven": {
                     "locators": [
                          "AN4.191"
+                    ],
+                    "xrefs": []
+               },
+               "helps Dhamma continue": {
+                    "locators": [
+                         "AN5.155"
+                    ],
+                    "xrefs": []
+               },
+               "wrongly directed topics": {
+                    "locators": [
+                         "AN5.157"
+                    ],
+                    "xrefs": []
+               },
+               "how to": {
+                    "locators": [
+                         "AN5.159"
                     ],
                     "xrefs": []
                }
@@ -5076,6 +5123,12 @@ export const indexObject =`{
                "indicator of having given up right intention": {
                     "locators": [
                          "AN3.124"
+                    ],
+                    "xrefs": []
+               },
+               "don’t associate with monk who makes": {
+                    "locators": [
+                         "AN5.146"
                     ],
                     "xrefs": []
                }
@@ -5562,6 +5615,13 @@ export const indexObject =`{
                          "AN4.165"
                     ],
                     "xrefs": []
+               },
+               "like a royal elephant": {
+                    "locators": [
+                         "AN5.139",
+                         "AN5.140"
+                    ],
+                    "xrefs": []
                }
           },
           "enduring (khama)": {
@@ -5752,6 +5812,12 @@ export const indexObject =`{
                "not always best": {
                     "locators": [
                          "AN4.100"
+                    ],
+                    "xrefs": []
+               },
+               "towards repulsive an unrepulsive": {
+                    "locators": [
+                         "AN5.144"
                     ],
                     "xrefs": []
                }
@@ -7408,6 +7474,33 @@ export const indexObject =`{
                     "xrefs": []
                }
           },
+          "giving": {
+               "how to give": {
+                    "locators": [
+                         "AN5.147",
+                         "AN5.148"
+                    ],
+                    "xrefs": []
+               },
+               "results of depending on how gift was given": {
+                    "locators": [
+                         "AN5.148"
+                    ],
+                    "xrefs": []
+               },
+               "faith and giving": {
+                    "locators": [
+                         "AN5.148"
+                    ],
+                    "xrefs": []
+               },
+               "timely gifts": {
+                    "locators": [
+                         "AN5.148"
+                    ],
+                    "xrefs": []
+               }
+          },
           "giving (dāna)": {
                "": {
                     "locators": [
@@ -8003,6 +8096,12 @@ export const indexObject =`{
                          "AN5.31"
                     ],
                     "xrefs": []
+               },
+               "and scorning": {
+                    "locators": [
+                         "AN5.141"
+                    ],
+                    "xrefs": []
                }
           },
           "giving up": {
@@ -8314,6 +8413,12 @@ export const indexObject =`{
                     "xrefs": [
                          "xref friendship"
                     ]
+               },
+               "qualities of": {
+                    "locators": [
+                         "AN5.146"
+                    ],
+                    "xrefs": []
                }
           },
           "good monastics": {
@@ -8424,6 +8529,14 @@ export const indexObject =`{
                     "xrefs": []
                }
           },
+          "gossip": {
+               "gullible for": {
+                    "locators": [
+                         "AN5.141"
+                    ],
+                    "xrefs": []
+               }
+          },
           "gradual training": {
                "": {
                     "locators": [
@@ -8498,6 +8611,12 @@ export const indexObject =`{
                          "AN4.217"
                     ],
                     "xrefs": []
+               },
+               "hard to find in world": {
+                    "locators": [
+                         "AN5.143"
+                    ],
+                    "xrefs": []
                }
           },
           "great man (mahāpurisa)": {
@@ -8547,6 +8666,14 @@ export const indexObject =`{
                "": {
                     "locators": [
                          "Iti1"
+                    ],
+                    "xrefs": []
+               }
+          },
+          "greed (rāga)": {
+               "removing by seeing repulsive in unrepulsive": {
+                    "locators": [
+                         "AN5.144"
                     ],
                     "xrefs": []
                }
@@ -8838,6 +8965,12 @@ export const indexObject =`{
                          "AN5.54"
                     ],
                     "xrefs": []
+               },
+               "helps Dhamma continue": {
+                    "locators": [
+                         "AN5.156"
+                    ],
+                    "xrefs": []
                }
           },
           "harsh speech": {
@@ -8934,6 +9067,12 @@ export const indexObject =`{
                "caused by love and hate": {
                     "locators": [
                          "AN4.200"
+                    ],
+                    "xrefs": []
+               },
+               "removing by seeing unrepulsive in repulsive": {
+                    "locators": [
+                         "AN5.144"
                     ],
                     "xrefs": []
                }
@@ -9151,6 +9290,12 @@ export const indexObject =`{
                "pure mind leads to": {
                     "locators": [
                          "AN1.44"
+                    ],
+                    "xrefs": []
+               },
+               "not breaking five precepts leads to": {
+                    "locators": [
+                         "AN5.145"
                     ],
                     "xrefs": []
                }
@@ -9428,6 +9573,12 @@ export const indexObject =`{
                "qualities that lead to": {
                     "locators": [
                          "AN5.4"
+                    ],
+                    "xrefs": []
+               },
+               "breaking five precepts leads to": {
+                    "locators": [
+                         "AN5.145"
                     ],
                     "xrefs": []
                }
@@ -9956,6 +10107,14 @@ export const indexObject =`{
                "leads to wrong view": {
                     "locators": [
                          "AN1.310"
+                    ],
+                    "xrefs": []
+               }
+          },
+          "impulsiveness": {
+               "in faith, devotion, fondness, and confidence": {
+                    "locators": [
+                         "AN5.141"
                     ],
                     "xrefs": []
                }
@@ -11172,6 +11331,26 @@ export const indexObject =`{
                          "AN5.26"
                     ],
                     "xrefs": []
+               },
+               "paying close attention": {
+                    "locators": [
+                         "AN5.140"
+                    ],
+                    "xrefs": []
+               },
+               "properly and improperly": {
+                    "locators": [
+                         "AN5.151",
+                         "AN5.152",
+                         "AN5.153"
+                    ],
+                    "xrefs": []
+               },
+               "continuation of Dhamma": {
+                    "locators": [
+                         "AN5.154"
+                    ],
+                    "xrefs": []
                }
           },
           "livelihood": {
@@ -12199,6 +12378,16 @@ export const indexObject =`{
                "scope of mind of one in jhāna is inconceivable": {
                     "locators": [
                          "AN4.77"
+                    ],
+                    "xrefs": []
+               }
+          },
+          "memorizing": {
+               "helps Dhamma continue": {
+                    "locators": [
+                         "AN5.154",
+                         "AN5.155",
+                         "AN5.156"
                     ],
                     "xrefs": []
                }
@@ -15200,6 +15389,18 @@ export const indexObject =`{
                          "AN5.43"
                     ],
                     "xrefs": []
+               },
+               "person who practices is rare": {
+                    "locators": [
+                         "AN5.143"
+                    ],
+                    "xrefs": []
+               },
+               "helps Dhamma continue": {
+                    "locators": [
+                         "AN5.154"
+                    ],
+                    "xrefs": []
                }
           },
           "praise": {
@@ -16078,6 +16279,18 @@ export const indexObject =`{
                          "AN3.52"
                     ],
                     "xrefs": []
+               },
+               "having and not having": {
+                    "locators": [
+                         "AN5.142"
+                    ],
+                    "xrefs": []
+               },
+               "without having done wrong": {
+                    "locators": [
+                         "AN5.142"
+                    ],
+                    "xrefs": []
                }
           },
           "rejoicing": {
@@ -16187,6 +16400,14 @@ export const indexObject =`{
                "some help is difficult to repay": {
                     "locators": [
                          "AN3.24"
+                    ],
+                    "xrefs": []
+               }
+          },
+          "repulsive": {
+               "seeing repulsive and unrepulsive in": {
+                    "locators": [
+                         "AN5.144"
                     ],
                     "xrefs": []
                }
@@ -17335,6 +17556,12 @@ export const indexObject =`{
                          "AN5.129"
                     ],
                     "xrefs": []
+               },
+               "leads to decline of Dhamma": {
+                    "locators": [
+                         "AN5.156"
+                    ],
+                    "xrefs": []
                }
           },
           "searches (esana)": {
@@ -17584,6 +17811,12 @@ export const indexObject =`{
                "with wrong view": {
                     "locators": [
                          "AN5.88"
+                    ],
+                    "xrefs": []
+               },
+               "being slack leads to decline of Dhamma": {
+                    "locators": [
+                         "AN5.156"
                     ],
                     "xrefs": []
                }
@@ -19285,6 +19518,19 @@ export const indexObject =`{
                          "AN4.262"
                     ],
                     "xrefs": []
+               },
+               "definition": {
+                    "locators": [
+                         "AN5.141"
+                    ],
+                    "xrefs": []
+               },
+               "listening to Dhamma": {
+                    "locators": [
+                         "AN5.152",
+                         "AN5.153"
+                    ],
+                    "xrefs": []
                }
           },
           "Subhūt, Ven.": {
@@ -19681,6 +19927,14 @@ export const indexObject =`{
                     "xrefs": []
                }
           },
+          "timidity (sārajja)": {
+               "qualities that make one": {
+                    "locators": [
+                         "AN5.158"
+                    ],
+                    "xrefs": []
+               }
+          },
           "tolerating bad thoughts": {
                "": {
                     "locators": [
@@ -19768,6 +20022,26 @@ export const indexObject =`{
                "giving": {
                     "locators": [
                          "AN5.36"
+                    ],
+                    "xrefs": []
+               },
+               "aimless wanderings": {
+                    "locators": [
+                         "AN5.146"
+                    ],
+                    "xrefs": []
+               },
+               "urge to": {
+                    "locators": [
+                         "AN5.160"
+                    ],
+                    "xrefs": []
+               }
+          },
+          "treasures": {
+               "ordinary and spiritual": {
+                    "locators": [
+                         "AN5.143"
                     ],
                     "xrefs": []
                }
@@ -19883,6 +20157,12 @@ export const indexObject =`{
                "questions Ven. Ānanada": {
                     "locators": [
                          "AN3.80"
+                    ],
+                    "xrefs": []
+               },
+               "teaching Dhamma": {
+                    "locators": [
+                         "AN5.159"
                     ],
                     "xrefs": []
                }
@@ -21279,6 +21559,12 @@ export const indexObject =`{
                "mindfulness of breathing and": {
                     "locators": [
                          "AN5.96"
+                    ],
+                    "xrefs": []
+               },
+               "don’t associate with monk who starts lots of": {
+                    "locators": [
+                         "AN5.146"
                     ],
                     "xrefs": []
                }
