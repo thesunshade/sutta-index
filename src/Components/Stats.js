@@ -1,6 +1,9 @@
 import { indexObject } from "../data/index-object";
 import { indexArray } from "../data/index-array";
 import statsIcon from "../images/stats-icon.png";
+import headIcon from "../images/head-icon.png";
+import locatorIcon from "../images/locator-icon.png";
+import xrefIcon from "../images/xref-icon.png";
 
 export default function Stats() {
   const alphabetLetters = Object.keys(indexObject);
@@ -28,18 +31,21 @@ export default function Stats() {
     <>
       <div className="stats">
         <div className="settings-notice">
-          <img className="icon stats-icon" width="20px" src={statsIcon} alt="Settings Toggle" title="Filter"></img>
+          {/* <img className="icon stats-icon" width="20px" src={statsIcon} alt="" /> */}
           Stats:
         </div>
         <div className="row-1">
           <div>
-            Number of headwords: <span className="answer">{headwords - xrefsCount}</span>
+            <img className="icon head-icon" width="13px" src={headIcon} alt="" />
+            Headwords: <span className="answer">{headwords - xrefsCount}</span>
           </div>
           <div>
-            Number of locators: <span className="answer">{indexArray.length - xrefsCount}</span>
+            <img className="icon locator-icon" width="16px" src={locatorIcon} alt="" />
+            Locators: <span className="answer">{indexArray.length - xrefsCount}</span>
           </div>
           <div>
-            Number of xref headwords: <span className="answer">{xrefsCount}</span>
+            <img className="icon head-icon" width="16px" src={xrefIcon} alt="" />
+            Xref headwords: <span className="answer">{xrefsCount}</span>
           </div>
         </div>
       </div>

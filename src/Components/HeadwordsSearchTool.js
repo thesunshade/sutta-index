@@ -34,6 +34,7 @@ export default function HeadwordsSearchTool(props) {
             onChange={event => setSearchText(event.target.value)}
             placeholder={"e.g. Dhamma "}
             tabIndex="1"
+            onFocus={e => e.target.select()}
           />
           <button
             className="clear-filter-button"

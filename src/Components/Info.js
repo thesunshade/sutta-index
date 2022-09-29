@@ -22,60 +22,67 @@ export default function Info() {
           ReadMe.
         </a>
       </p>
-      <p>In some instances, a specific word may be indexed but not appear in the sutta. </p>
 
       <details>
         <summary>How to find things</summary>
-        <p>
-          First, look things up by <em>noun</em> followed by an <em>adjective</em>. If that doesn't work, then try the
-          adjective.
-        </p>
+        <div>
+          <p>
+            First, look things up by <em>noun</em> followed by an <em>adjective</em>. If that doesn't work, then try the
+            adjective.
+          </p>
+          <p>In some instances, a specific word may be indexed but not appear in the sutta. </p>
+        </div>
       </details>
       <details>
         <summary>Pāli</summary>
-        <p>
-          Pāli is given for some terms. The Pāli is generally in the singular, though the term in the text may be
-          plural.
-        </p>
-        <p>
-          Generally, headwords will be in English. For some words where the Pāli is more concise and well known (e.g.
-          Bodhisatta, paccekabuddha) it will be listed under Pāli.
-        </p>
-        <p>
-          In some cases, although a Pāli word may appear in parentheses in the head word, the Pāli word may not appear
-          in the text.
-        </p>
+        <div>
+          <p>
+            Pāli is given for some terms. The Pāli is generally in the singular, though the term in the text may be
+            plural.
+          </p>
+          <p>
+            Generally, headwords will be in English. For some words where the Pāli is more concise and well known (e.g.
+            Bodhisatta, paccekabuddha) it will be listed under Pāli.
+          </p>
+          <p>
+            In some cases, although a Pāli word may appear in parentheses in the head word, the Pāli word may not appear
+            in the text.
+          </p>
+        </div>
       </details>
       <details>
         <summary>Sutta Summaries</summary>
-        <p>Desktop users can hover over citations to see a summary of the sutta.</p>
+        <div>
+          <p>Desktop users can hover over citations to see a summary of the sutta.</p>
+        </div>
       </details>
       <details>
         <summary>More Resources</summary>
-        <p>
-          While this index attempts to be more than just significant occurrences, it is by no mean a complete{" "}
-          <a href="https://en.wikipedia.org/wiki/Concordance_(publishing)" rel="noreferrer" target="_blank">
-            concordance
-          </a>{" "}
-          of all words in the Sutta Piṭaka. For that you may want to try using{" "}
-          <a href="https://www.digitalpalireader.online" rel="noreferrer" target="_blank">
-            the DigitalPaliReader.online
-          </a>
-          .
-        </p>
+        <div>
+          <p>
+            While this index attempts to be more than just significant occurrences, it is by no mean a complete{" "}
+            <a href="https://en.wikipedia.org/wiki/Concordance_(publishing)" rel="noreferrer" target="_blank">
+              concordance
+            </a>{" "}
+            of all words in the Sutta Piṭaka. For that you may want to try using{" "}
+            <a href="https://www.digitalpalireader.online" rel="noreferrer" target="_blank">
+              the DigitalPaliReader.online
+            </a>
+            .
+          </p>
+        </div>
       </details>
       <details>
         <summary>Coverage</summary>
-
         <div className="row-2">
           <div>
-            Complete Books: <span className="answer">Kp, Dhp, Ud, Iti, Snp, Vv, Pv, Thag, Thig</span>
+            Complete: <span className="answer">Kp, Dhp, Ud, Iti, Snp, Vv, Pv, Thag, Thig</span>
           </div>
           <div>
             In Progress: <span className="answer">AN</span>
           </div>
           <div>
-            Planned Books: <span className="answer">DN, MN, SN, AN</span>
+            Planned: <span className="answer">DN, MN, SN, AN</span>
           </div>
         </div>
       </details>
