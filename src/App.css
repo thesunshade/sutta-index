@@ -494,7 +494,7 @@ a:visited {
 .head-word-area {
   padding-left: var(--indent);
   text-indent: calc(-1 * var(--indent));
-  padding-top: .4rem
+  padding-top: .0rem
 }
 
 
@@ -690,7 +690,7 @@ tr:nth-child(even) {
   flex-direction: row;
   gap: 1rem;
   justify-content: center;
-  margin: 2rem 0;
+  margin: 1rem 0 0;
   max-width: 40rem
 }
 

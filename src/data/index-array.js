@@ -1320,6 +1320,61 @@ export const indexArray =[
           ""
      ],
      [
+          "AN2.1",
+          "punishment (daṇḍa)",
+          "as motivation to do good"
+     ],
+     [
+          "AN2.1",
+          "hell (niraya)",
+          "as motivation to do good"
+     ],
+     [
+          "AN2.10",
+          "rainy season",
+          ""
+     ],
+     [
+          "AN2.11",
+          "powers ",
+          "reflection, development "
+     ],
+     [
+          "AN2.11",
+          "reflection (paṭisaṅkhā)",
+          "power of"
+     ],
+     [
+          "AN2.11",
+          "development (bhāvanā)",
+          "power of"
+     ],
+     [
+          "AN2.12",
+          "powers ",
+          "reflection, development "
+     ],
+     [
+          "AN2.12",
+          "awakening factors, seven (bojjhaṅga)",
+          "development"
+     ],
+     [
+          "AN2.13",
+          "powers ",
+          "reflection, development "
+     ],
+     [
+          "AN2.13",
+          "development (bhāvanā)",
+          "jhāna"
+     ],
+     [
+          "AN2.14",
+          "Dhamma teaching",
+          "brief and detail"
+     ],
+     [
           "AN2.141",
           "giving (dāna)",
           "Dhamma"
@@ -1335,9 +1390,144 @@ export const indexArray =[
           "with material things and with Dhamma"
      ],
      [
+          "AN2.15",
+          "reviewing (paccavekkhaṇā)",
+          "admonishment and"
+     ],
+     [
+          "AN2.15",
+          "admonishment",
+          "self reviewing"
+     ],
+     [
+          "AN2.16",
+          "rebirth",
+          "actions as cause for"
+     ],
+     [
+          "AN2.17",
+          "rebirth",
+          "actions as cause for"
+     ],
+     [
+          "AN2.17",
+          "Jāṇussoṇi, brahmin",
+          "asking about rebirth"
+     ],
+     [
+          "AN2.18",
+          "reputation",
+          "bad reputation gained through unvirtuous behavior"
+     ],
+     [
+          "AN2.18",
+          "death",
+          "time of"
+     ],
+     [
+          "AN2.19",
+          "unskillfulness (akusala)",
+          "possible to give up"
+     ],
+     [
+          "AN2.19",
+          "skillfulness (kusala)",
+          "possible to develop"
+     ],
+     [
+          "AN2.19",
+          "unskillfulness (akusala)",
+          "giving up leads to happiness"
+     ],
+     [
+          "AN2.19",
+          "skillfulness (kusala)",
+          "developing leads to happiness"
+     ],
+     [
+          "AN2.2",
+          "lay life",
+          "duty to support saṅgha"
+     ],
+     [
+          "AN2.2",
+          "attachment",
+          "difficulty of letting go of"
+     ],
+     [
+          "AN2.20",
+          "Dhamma",
+          "decline of in future"
+     ],
+     [
+          "AN2.20",
+          "Dhamma",
+          "continuation of, factors leading to"
+     ],
+     [
+          "AN2.21",
+          "mistakes",
+          "realizing when you have made one"
+     ],
+     [
+          "AN2.21",
+          "confession",
+          "accepting"
+     ],
+     [
+          "AN2.21",
+          "fools",
+          ""
+     ],
+     [
+          "AN2.3",
+          "self reflection",
+          ""
+     ],
+     [
           "AN2.35",
           "giving (dāna)",
           "whom to give to"
+     ],
+     [
+          "AN2.4",
+          "self reflection",
+          ""
+     ],
+     [
+          "AN2.5",
+          "determination",
+          "not to move until enlightened"
+     ],
+     [
+          "AN2.5",
+          "skillful qualities (kusala dhamma)",
+          "not being satisfied with"
+     ],
+     [
+          "AN2.5",
+          "energy",
+          "never stop trying"
+     ],
+     [
+          "AN2.6",
+          "disenchantment (nibbidā)",
+          "with things that can fetter"
+     ],
+     [
+          "AN2.7",
+          "conscience and prudence (hiri ottappa) ",
+          "lack of as dark"
+     ],
+     [
+          "AN2.8",
+          "conscience and prudence (hiri ottappa) ",
+          "as bright"
+     ],
+     [
+          "AN2.9",
+          "conscience and prudence (hiri ottappa) ",
+          "protectors of the world"
      ],
      [
           "AN3.1",
@@ -4526,7 +4716,7 @@ export const indexArray =[
      ],
      [
           "AN4.158",
-          "skillfulness ",
+          "skillfulness (kusala)",
           "growing"
      ],
      [
@@ -10116,7 +10306,7 @@ export const indexArray =[
      ],
      [
           "AN5.56",
-          "skillfulness ",
+          "skillfulness (kusala)",
           "not discerning leads to dissastisfaction"
      ],
      [

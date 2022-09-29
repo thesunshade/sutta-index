@@ -23,17 +23,7 @@ export default function Info() {
         </a>
       </p>
       <p>In some instances, a specific word may be indexed but not appear in the sutta. </p>
-      <p>
-        While this index attempts to be more than just significant occurrences, it is by no mean a complete{" "}
-        <a href="https://en.wikipedia.org/wiki/Concordance_(publishing)" rel="noreferrer" target="_blank">
-          concordance
-        </a>{" "}
-        of all words in the Sutta Piṭaka. For that you may want to try using{" "}
-        <a href="https://www.digitalpalireader.online" rel="noreferrer" target="_blank">
-          the DigitalPaliReader.online
-        </a>
-        .
-      </p>
+
       <details>
         <summary>How to find things</summary>
         <p>
@@ -59,6 +49,20 @@ export default function Info() {
       <details>
         <summary>Sutta Summaries</summary>
         <p>Desktop users can hover over citations to see a summary of the sutta.</p>
+      </details>
+      <details>
+        <summary>More Resources</summary>
+        <p>
+          While this index attempts to be more than just significant occurrences, it is by no mean a complete{" "}
+          <a href="https://en.wikipedia.org/wiki/Concordance_(publishing)" rel="noreferrer" target="_blank">
+            concordance
+          </a>{" "}
+          of all words in the Sutta Piṭaka. For that you may want to try using{" "}
+          <a href="https://www.digitalpalireader.online" rel="noreferrer" target="_blank">
+            the DigitalPaliReader.online
+          </a>
+          .
+        </p>
       </details>
       <details>
         <summary>Coverage</summary>

@@ -338,6 +338,12 @@ export const indexObject ={
                          "AN5.167"
                     ],
                     "xrefs": []
+               },
+               "self reviewing": {
+                    "locators": [
+                         "AN2.15"
+                    ],
+                    "xrefs": []
                }
           },
           "advice": {
@@ -1505,6 +1511,12 @@ export const indexObject ={
                          "Thag2.15"
                     ],
                     "xrefs": []
+               },
+               "difficulty of letting go of": {
+                    "locators": [
+                         "AN2.2"
+                    ],
+                    "xrefs": []
                }
           },
           "attachment to future lives (bhavayoga)": {
@@ -1595,6 +1607,12 @@ export const indexObject ={
                "helped by proper attention": {
                     "locators": [
                          "AN1.75"
+                    ],
+                    "xrefs": []
+               },
+               "development": {
+                    "locators": [
+                         "AN2.12"
                     ],
                     "xrefs": []
                }
@@ -3548,6 +3566,7 @@ export const indexObject ={
           "confession": {
                "accepting": {
                     "locators": [
+                         "AN2.21",
                          "AN3.4"
                     ],
                     "xrefs": []
@@ -3642,6 +3661,24 @@ export const indexObject ={
                "towards monastics and lay people": {
                     "locators": [
                          "AN4.73"
+                    ],
+                    "xrefs": []
+               },
+               "lack of as dark": {
+                    "locators": [
+                         "AN2.7"
+                    ],
+                    "xrefs": []
+               },
+               "as bright": {
+                    "locators": [
+                         "AN2.8"
+                    ],
+                    "xrefs": []
+               },
+               "protectors of the world": {
+                    "locators": [
+                         "AN2.9"
                     ],
                     "xrefs": []
                }
@@ -4107,6 +4144,14 @@ export const indexObject ={
                "as divine messenger": {
                     "locators": [
                          "AN3.36"
+                    ],
+                    "xrefs": []
+               }
+          },
+          "death": {
+               "time of": {
+                    "locators": [
+                         "AN2.18"
                     ],
                     "xrefs": []
                }
@@ -4713,6 +4758,7 @@ export const indexObject ={
                },
                "not to move until enlightened": {
                     "locators": [
+                         "AN2.5",
                          "Thag3.2",
                          "Thag4.12",
                          "Thag8.3"
@@ -4784,6 +4830,20 @@ export const indexObject ={
                     "locators": [
                          "Vv83",
                          "Vv84"
+                    ],
+                    "xrefs": []
+               }
+          },
+          "development (bhāvanā)": {
+               "power of": {
+                    "locators": [
+                         "AN2.11"
+                    ],
+                    "xrefs": []
+               },
+               "jhāna": {
+                    "locators": [
+                         "AN2.13"
                     ],
                     "xrefs": []
                }
@@ -4912,6 +4972,7 @@ export const indexObject ={
                },
                "decline of in future": {
                     "locators": [
+                         "AN2.20",
                          "AN4.160",
                          "Thag17.1"
                     ],
@@ -4957,6 +5018,7 @@ export const indexObject ={
                "continuation of, factors leading to": {
                     "locators": [
                          "AN1.129",
+                         "AN2.20",
                          "AN5.154",
                          "AN5.155",
                          "AN5.156",
@@ -5203,6 +5265,12 @@ export const indexObject ={
                          "AN5.159"
                     ],
                     "xrefs": []
+               },
+               "brief and detail": {
+                    "locators": [
+                         "AN2.14"
+                    ],
+                    "xrefs": []
                }
           },
           "Dhamma visible here and now (sandiṭṭiko)": {
@@ -5385,6 +5453,14 @@ export const indexObject ={
                "": {
                     "locators": [
                          "Iti5"
+                    ],
+                    "xrefs": []
+               }
+          },
+          "disenchantment (nibbidā)": {
+               "with things that can fetter": {
+                    "locators": [
+                         "AN2.6"
                     ],
                     "xrefs": []
                }
@@ -6094,6 +6170,12 @@ export const indexObject ={
                "power: seen in four right efforts": {
                     "locators": [
                          "AN5.15"
+                    ],
+                    "xrefs": []
+               },
+               "never stop trying": {
+                    "locators": [
+                         "AN2.5"
                     ],
                     "xrefs": []
                }
@@ -7124,6 +7206,7 @@ export const indexObject ={
           "fools": {
                "": {
                     "locators": [
+                         "AN2.21",
                          "Dhp chapter 5"
                     ],
                     "xrefs": []
@@ -10119,6 +10202,12 @@ export const indexObject ={
                          "AN5.216"
                     ],
                     "xrefs": []
+               },
+               "as motivation to do good": {
+                    "locators": [
+                         "AN2.1"
+                    ],
+                    "xrefs": []
                }
           },
           "helpful people": {
@@ -10927,6 +11016,12 @@ export const indexObject ={
                          "AN4.184"
                     ],
                     "xrefs": []
+               },
+               "asking about rebirth": {
+                    "locators": [
+                         "AN2.17"
+                    ],
+                    "xrefs": []
                }
           },
           "jaṭilā ascetics": {
@@ -11498,6 +11593,7 @@ export const indexObject ={
                },
                "duty to support saṅgha": {
                     "locators": [
+                         "AN2.2",
                          "AN5.34",
                          "AN5.228",
                          "Snp2.14"
@@ -13888,6 +13984,12 @@ export const indexObject ={
                          "AN3.91"
                     ],
                     "xrefs": []
+               },
+               "realizing when you have made one": {
+                    "locators": [
+                         "AN2.21"
+                    ],
+                    "xrefs": []
                }
           },
           "Moggallāna, Ven": {
@@ -16034,6 +16136,14 @@ export const indexObject ={
                          "AN5.15"
                     ],
                     "xrefs": []
+               },
+               "reflection, development": {
+                    "locators": [
+                         "AN2.11",
+                         "AN2.12",
+                         "AN2.13"
+                    ],
+                    "xrefs": []
                }
           },
           "powers (bala)": {
@@ -16575,6 +16685,7 @@ export const indexObject ={
                },
                "as motivation to do good": {
                     "locators": [
+                         "AN2.1",
                          "AN4.244"
                     ],
                     "xrefs": []
@@ -16831,6 +16942,14 @@ export const indexObject ={
                     "xrefs": []
                }
           },
+          "rainy season": {
+               "": {
+                    "locators": [
+                         "AN2.10"
+                    ],
+                    "xrefs": []
+               }
+          },
           "Raṭṭhapāla, Ven.": {
                "foremost who went forth out of faith": {
                     "locators": [
@@ -16907,6 +17026,13 @@ export const indexObject ={
                "fear of rebirth in bad place": {
                     "locators": [
                          "AN4.121"
+                    ],
+                    "xrefs": []
+               },
+               "actions as cause for": {
+                    "locators": [
+                         "AN2.16",
+                         "AN2.17"
                     ],
                     "xrefs": []
                }
@@ -17101,6 +17227,7 @@ export const indexObject ={
           "reflection (paṭisaṅkhā)": {
                "power of": {
                     "locators": [
+                         "AN2.11",
                          "AN4.155"
                     ],
                     "xrefs": []
@@ -17377,6 +17504,7 @@ export const indexObject ={
                },
                "bad reputation gained through unvirtuous behavior": {
                     "locators": [
+                         "AN2.18",
                          "AN5.213"
                     ],
                     "xrefs": []
@@ -17736,6 +17864,12 @@ export const indexObject ={
                "trainee": {
                     "locators": [
                          "AN5.89"
+                    ],
+                    "xrefs": []
+               },
+               "admonishment and": {
+                    "locators": [
+                         "AN2.15"
                     ],
                     "xrefs": []
                }
@@ -18688,6 +18822,8 @@ export const indexObject ={
           "self reflection": {
                "": {
                     "locators": [
+                         "AN2.3",
+                         "AN2.4",
                          "Dhp379",
                          "Iti30–1"
                     ],
@@ -19587,16 +19723,10 @@ export const indexObject ={
                     "xrefs": []
                }
           },
-          "skillfulness": {
-               "growing": {
+          "skillful qualities (kusala dhamma)": {
+               "not being satisfied with": {
                     "locators": [
-                         "AN4.158"
-                    ],
-                    "xrefs": []
-               },
-               "not discerning leads to dissastisfaction": {
-                    "locators": [
-                         "AN5.56"
+                         "AN2.5"
                     ],
                     "xrefs": []
                }
@@ -19613,6 +19743,36 @@ export const indexObject ={
                          "AN3.66"
                     ],
                     "xrefs": []
+               },
+               "growing": {
+                    "locators": [
+                         "AN4.158"
+                    ],
+                    "xrefs": []
+               },
+               "not discerning leads to dissastisfaction": {
+                    "locators": [
+                         "AN5.56"
+                    ],
+                    "xrefs": []
+               },
+               "possible to develop": {
+                    "locators": [
+                         "AN2.19"
+                    ],
+                    "xrefs": []
+               },
+               "developing leads to happiness": {
+                    "locators": [
+                         "AN2.19"
+                    ],
+                    "xrefs": []
+               },
+               "": {
+                    "locators": [],
+                    "xrefs": [
+                         "xref unskillfulness (akusala)"
+                    ]
                }
           },
           "skillfulness and unskillfulness": {
@@ -21460,6 +21620,24 @@ export const indexObject ={
                          "AN5.6"
                     ],
                     "xrefs": []
+               },
+               "possible to give up": {
+                    "locators": [
+                         "AN2.19"
+                    ],
+                    "xrefs": []
+               },
+               "giving up leads to happiness": {
+                    "locators": [
+                         "AN2.19"
+                    ],
+                    "xrefs": []
+               },
+               "": {
+                    "locators": [],
+                    "xrefs": [
+                         "xref skillfulness (kusala)"
+                    ]
                }
           },
           "unthinkable (acinteyya)": {
