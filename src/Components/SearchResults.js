@@ -10,12 +10,12 @@ export default function SearchResults(props) {
     <>
       <div id="search-results" className="search-results dropdown-list hidden">
         <ul className="link-list">
-          {headwordsArray.map(headword => {
+          {headwordsArray.map((headword, index) => {
             if (searchText.length < 3) return null;
             const regex = new RegExp(searchText, "gi");
             if (regex.test(headword)) {
               return (
-                <a key={headword} href={"#" + makeNormalizedId(headword)}>
+                <a tabIndex={index + 2} key={headword} href={"#" + makeNormalizedId(headword)}>
                   <li>{headword}</li>
                 </a>
               );
