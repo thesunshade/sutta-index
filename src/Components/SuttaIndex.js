@@ -2,13 +2,12 @@ import { indexObject } from "../data/index-object.js";
 import Headword from "./Headword";
 import fuzz from "../functions/fuzz.js";
 import NoResults from "./NoResults.js";
+import { memo } from "react";
 
-export default function SuttaIndex(props) {
-  const { filterByText } = props;
-  const index = JSON.parse(indexObject);
+function SuttaIndex() {
   // const headwordsArray = sortedKeys(index);
   let isEmpty = true;
-  let alphabet = Object.keys(index);
+  let alphabet = Object.keys(indexObject);
 
   const alphabetHeadings = document.getElementsByClassName("alphabet-anchor");
   for (let i = 0; i < alphabetHeadings.length; i++) {
@@ -19,7 +18,7 @@ export default function SuttaIndex(props) {
     <>
       <div id="sutta-index" className="sutta-index">
         {alphabet.map(letter => {
-          const headwordsObject = index[letter];
+          const headwordsObject = indexObject[letter];
           const headwordsArray = Object.keys(headwordsObject);
           return (
             <div key={letter + "-wholeLetter"}>
@@ -27,16 +26,11 @@ export default function SuttaIndex(props) {
                 {letter}
               </div>
               {headwordsArray.map(headword => {
-                const regex = new RegExp(fuzz(filterByText), "i");
-                const headwordDataString = JSON.stringify(headwordsObject[headword]) + headword;
-                if (!fuzz(headwordDataString).match(regex)) return null;
-                isEmpty = false;
                 return (
                   <Headword
-                    key={headword + "headword"}
+                    key={headword + "-headword"}
                     headword={headword}
                     headwordObject={headwordsObject[headword]}
-                    filterByText={filterByText}
                   />
                 );
               })}
@@ -49,3 +43,5 @@ export default function SuttaIndex(props) {
     </>
   );
 }
+
+export default memo(SuttaIndex);

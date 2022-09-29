@@ -292,7 +292,7 @@ App {
   }
 }
 
-.filter-input-box {
+.input-box {
   border: solid 2px black;
   border-radius: 5px;
   font-size: 1rem;
@@ -303,31 +303,31 @@ App {
   color: var(--offwhite)
 }
 
-.dark .filter-input-box {
+.dark .input-box {
   border-color: var(--offwhite);
   background-color: var(--dark-primary);
 
 }
 
-.filter-input-box:focus {
+.input-box:focus {
   outline: none;
   background-color: rgb(255, 243, 226);
   color: black
 }
 
-.filter-input-box::placeholder {
+.input-box::placeholder {
   font-style: italic;
   color: var(--offwhite);
   opacity: .4
 }
 
-.filter-input-box:focus::placeholder {
+.input-box:focus::placeholder {
   color: black
 }
 
 .x-icon {
   position: relative;
-  top: -.1rem;
+  top: .15rem;
   left: -.2rem
 }
 
@@ -530,6 +530,11 @@ a:visited {
   top: .2rem;
 }
 
+.search-icon {
+  position: relative;
+  top: .3rem;
+}
+
 .stats-icon {
   position: relative;
   top: .2rem;
@@ -537,8 +542,18 @@ a:visited {
 
 }
 
+.search-results {
+  height: 10rem;
+  overflow-y: auto;
+  overflow-x: hidden;
+}
+
 .headword-link .link-icon {
   visibility: hidden;
+}
+
+.keyword {
+  padding-right: .5rem;
 }
 
 @media only screen and (max-width: 475px) {
@@ -738,7 +753,15 @@ tr:nth-child(even) {
   /* color: var(--dark-visited) */
 }
 
+/*below may be out of use*/
 .link-list a:hover li {
+  background-color: var(--primary);
+  color: black;
+  /* display: inline-block; */
+}
+
+/*or this may be*/
+.link-list .menu-item:hover li {
   background-color: var(--primary);
   color: black;
   /* display: inline-block; */

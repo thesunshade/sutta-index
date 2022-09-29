@@ -1,4 +1,4 @@
-export const indexArray =`[
+export const indexArray =[
      [
           "AN1.1-5",
           "men",
@@ -1356,7 +1356,7 @@ export const indexArray =`[
      ],
      [
           "AN3.10",
-          "stinginess",
+          "stinginess (maccharī)",
           "leading to hell"
      ],
      [
@@ -1366,7 +1366,7 @@ export const indexArray =`[
      ],
      [
           "AN3.10",
-          "stinginess",
+          "stinginess (maccharī)",
           "giving up leads to heaven"
      ],
      [
@@ -1992,7 +1992,7 @@ export const indexArray =`[
      [
           "AN3.15",
           "chariot-maker",
-          ""
+          "Bodhisatta as"
      ],
      [
           "AN3.15",
@@ -4702,7 +4702,7 @@ export const indexArray =`[
      [
           "AN4.17",
           "decisions",
-          "making prejudiced"
+          "making prejudiced decisions"
      ],
      [
           "AN4.17",
@@ -7222,7 +7222,7 @@ export const indexArray =`[
      [
           "AN4.97",
           "quick-witted (khippanisanti)",
-          ""
+          "regarding skillful teachings"
      ],
      [
           "AN4.97",
@@ -7816,7 +7816,7 @@ export const indexArray =`[
      ],
      [
           "AN5.147",
-          "giving ",
+          "giving (dāna)",
           "how to give"
      ],
      [
@@ -7826,22 +7826,22 @@ export const indexArray =`[
      ],
      [
           "AN5.148",
-          "giving ",
+          "giving (dāna)",
           "how to give"
      ],
      [
           "AN5.148",
-          "giving ",
+          "giving (dāna)",
           "results of depending on how gift was given"
      ],
      [
           "AN5.148",
-          "giving ",
+          "giving (dāna)",
           "faith and giving"
      ],
      [
           "AN5.148",
-          "giving ",
+          "giving (dāna)",
           "timely gifts"
      ],
      [
@@ -8010,6 +8010,136 @@ export const indexArray =`[
           "to abandon resentment"
      ],
      [
+          "AN5.161",
+          "resentment (āghāta)",
+          "overcoming"
+     ],
+     [
+          "AN5.161",
+          "brahmaviharas",
+          "to overcome resentment"
+     ],
+     [
+          "AN5.161",
+          "actions (kamma)",
+          "all are owner of their actions"
+     ],
+     [
+          "AN5.162",
+          "resentment (āghāta)",
+          "overcoming"
+     ],
+     [
+          "AN5.163",
+          "Dhamma discussion",
+          "one qualified to have"
+     ],
+     [
+          "AN5.164",
+          "companionship",
+          "suitable qualifications"
+     ],
+     [
+          "AN5.165",
+          "questions, asking",
+          "reasons for asking"
+     ],
+     [
+          "AN5.165",
+          "Sāriputta, Ven.",
+          "reasons he asks questions"
+     ],
+     [
+          "AN5.165",
+          "stupidity ",
+          "asking questions because of"
+     ],
+     [
+          "AN5.166",
+          "Udāyī, Ven",
+          "contradicting Ven. Sāriputta"
+     ],
+     [
+          "AN5.166",
+          "cessation of perception and feeling (saññāvedayitanirodha)",
+          ""
+     ],
+     [
+          "AN5.166",
+          "senior monastics",
+          "desirable qualities"
+     ],
+     [
+          "AN5.166",
+          "Upavāṇa, Ven.",
+          "qualities of senior monastics"
+     ],
+     [
+          "AN5.166",
+          "mind-made body (manomayena kāya)",
+          ""
+     ],
+     [
+          "AN5.167",
+          "accusations",
+          "preparing to make an accusation"
+     ],
+     [
+          "AN5.167",
+          "loving-kindness (mettā)",
+          "accusations and"
+     ],
+     [
+          "AN5.167",
+          "admonishment",
+          "being easy to"
+     ],
+     [
+          "AN5.167",
+          "Sāriputta, Ven.",
+          "told to exhort the monks"
+     ],
+     [
+          "AN5.167",
+          "admonishment",
+          "who to give up on"
+     ],
+     [
+          "AN5.167",
+          "admonishment",
+          "preparing to make an accusation "
+     ],
+     [
+          "AN5.167",
+          "bad monastics",
+          "gone forth for wrong reason"
+     ],
+     [
+          "AN5.168",
+          "virtue (sīla)",
+          "as condition for concentration"
+     ],
+     [
+          "AN5.168",
+          "virtue (sīla)",
+          "like foliage is condition for tree"
+     ],
+     [
+          "AN5.169",
+          "learned (bahussutā)",
+          "definition"
+     ],
+     [
+          "AN5.169",
+          "quick-witted (khippanisanti)",
+          "definition"
+     ],
+     [
+          "AN5.169",
+          "Ānanda, Ven.",
+          "quick-witted"
+     ],
+     [
           "AN5.17",
           "encouragement",
           "not encouraging"
@@ -8020,9 +8150,144 @@ export const indexArray =`[
           "benefiting oneself only"
      ],
      [
+          "AN5.170",
+          "Bhaddaji, Ven.",
+          "best sight, etc."
+     ],
+     [
+          "AN5.170",
+          "Ānanda, Ven.",
+          "best sight, etc."
+     ],
+     [
+          "AN5.170",
+          "Brahmā",
+          "best sight"
+     ],
+     [
+          "AN5.170",
+          "defilements (āsava)",
+          "ending is the best"
+     ],
+     [
+          "AN5.171",
+          "timidity (sārajja)",
+          "qualities that make one"
+     ],
+     [
+          "AN5.171",
+          "precepts, five",
+          "breaking them makes you timit"
+     ],
+     [
+          "AN5.172",
+          "self assured (visārada)",
+          "qualities that make one"
+     ],
+     [
+          "AN5.173",
+          "precepts, five",
+          "breaking leads to hell"
+     ],
+     [
+          "AN5.173",
+          "precepts, five",
+          "leading to heaven"
+     ],
+     [
+          "AN5.174",
+          "Anāthapiṇḍika, householder",
+          "precepts "
+     ],
+     [
+          "AN5.174",
+          "perils (bhaya)",
+          "of breaking precepts"
+     ],
+     [
+          "AN5.174",
+          "precepts, five",
+          "breaking leads to hell"
+     ],
+     [
+          "AN5.175",
+          "outcast (caṇḍāla)",
+          "real meaning of"
+     ],
+     [
+          "AN5.175",
+          "superstitions (maṅgalika)",
+          "making one an “outcast”"
+     ],
+     [
           "AN5.176",
           "giving (dāna)",
           "as not enough"
+     ],
+     [
+          "AN5.176",
+          "Anāthapiṇḍika, householder",
+          "told giving is not enough"
+     ],
+     [
+          "AN5.176",
+          "suffering",
+          "connected with unskillful"
+     ],
+     [
+          "AN5.176",
+          "suffering",
+          "connected with sense pleasures"
+     ],
+     [
+          "AN5.176",
+          "sense pleasures",
+          "suffering connected with"
+     ],
+     [
+          "AN5.177",
+          "business",
+          "wrong livelihood"
+     ],
+     [
+          "AN5.177",
+          "weapons",
+          "wrong livelihood"
+     ],
+     [
+          "AN5.177",
+          "wrong livelihood (micchā ājīva)",
+          "trades"
+     ],
+     [
+          "AN5.177",
+          "meat",
+          "wrong livelihood"
+     ],
+     [
+          "AN5.177",
+          "intoxicants",
+          "wrong livelihood"
+     ],
+     [
+          "AN5.177",
+          "poisons",
+          "wrong livelihood"
+     ],
+     [
+          "AN5.178",
+          "precepts, five",
+          "punished for keeping?"
+     ],
+     [
+          "AN5.178",
+          "precepts, five",
+          "punished for breaking"
+     ],
+     [
+          "AN5.178",
+          "punishment (daṇḍa)",
+          "for breaking precepts"
      ],
      [
           "AN5.179",
@@ -8030,14 +8295,269 @@ export const indexArray =`[
           "whom to give to"
      ],
      [
+          "AN5.179",
+          "lay life",
+          "higher practices"
+     ],
+     [
+          "AN5.179",
+          "precepts, five",
+          "and stream entry"
+     ],
+     [
+          "AN5.179",
+          "faith (saddhā)",
+          "in triple gem"
+     ],
+     [
           "AN5.18",
           "encouragement",
           "not personally accomplished"
      ],
      [
+          "AN5.180",
+          "Buddha, the",
+          "smiling"
+     ],
+     [
+          "AN5.180",
+          "Kassapa, Buddha",
+          "and lay follower Gavesī"
+     ],
+     [
+          "AN5.180",
+          "leadership",
+          "inspiration"
+     ],
+     [
+          "AN5.180",
+          "inspiration",
+          "from leaders"
+     ],
+     [
+          "AN5.180",
+          "going forth (pabbajja)",
+          "inspired by others"
+     ],
+     [
+          "AN5.180",
+          "gradual training",
+          "taking on more aspects"
+     ],
+     [
+          "AN5.181",
+          "wilderness (arañña)",
+          "kinds of wilderness dwellers"
+     ],
+     [
+          "AN5.181",
+          "mental illness",
+          "reason for living in wilderness"
+     ],
+     [
+          "AN5.181",
+          "few wishes (appiccha)",
+          "reason for living in wilderness"
+     ],
+     [
+          "AN5.181-190",
+          "ascetic practices (dhutaṅga)",
+          "reasons for"
+     ],
+     [
+          "AN5.182",
+          "rag-robe wearing",
+          "reasons for"
+     ],
+     [
+          "AN5.182",
+          "mental illness",
+          "reason for rag-robe wearing"
+     ],
+     [
+          "AN5.182",
+          "few wishes (appiccha)",
+          "reason for rag-robe wearing"
+     ],
+     [
+          "AN5.183",
+          "tree root dwelling (rukkhamūlika)",
+          "reasons for"
+     ],
+     [
+          "AN5.183",
+          "few wishes (appiccha)",
+          "reason for tree root dwelling"
+     ],
+     [
+          "AN5.184",
+          "charnel ground living",
+          "reason for"
+     ],
+     [
+          "AN5.184",
+          "few wishes (appiccha)",
+          "reason for charnel ground living"
+     ],
+     [
+          "AN5.185",
+          "open air dwelling (abbhokāsika)",
+          "reason for"
+     ],
+     [
+          "AN5.185",
+          "few wishes (appiccha)",
+          "reason for open air dwelling"
+     ],
+     [
+          "AN5.186",
+          "never lying down practice",
+          "reason for"
+     ],
+     [
+          "AN5.188",
+          "eating in one sitting (ekāsanik)",
+          "reason for"
+     ],
+     [
           "AN5.19",
           "practicing",
           "not benefiting anyone"
+     ],
+     [
+          "AN5.191",
+          "brahmins",
+          "ancient traditions"
+     ],
+     [
+          "AN5.191",
+          "sexual activity",
+          "of brahmins"
+     ],
+     [
+          "AN5.191",
+          "dogs",
+          "compared to brahmins"
+     ],
+     [
+          "AN5.192",
+          "Doṇa, brahmin",
+          "asking Buddha why he doesn’t bow"
+     ],
+     [
+          "AN5.192",
+          "Buddha, the",
+          "not bowing to elders"
+     ],
+     [
+          "AN5.192",
+          "brahmins",
+          "ancient traditions"
+     ],
+     [
+          "AN5.192",
+          "brahmaviharas",
+          "as practiced by brahmins"
+     ],
+     [
+          "AN5.192",
+          "sexual activity",
+          "of brahmins"
+     ],
+     [
+          "AN5.192",
+          "marriage",
+          "practices of brahmins"
+     ],
+     [
+          "AN5.193",
+          "memorizing",
+          "why some things are not remembered"
+     ],
+     [
+          "AN5.193",
+          "memorizing",
+          "five hindrances and"
+     ],
+     [
+          "AN5.193",
+          "hindrances (nīvarana)",
+          "similes for"
+     ],
+     [
+          "AN5.193",
+          "Saṅgārava, brahmin",
+          "asking about memorization"
+     ],
+     [
+          "AN5.194",
+          "Piṅgiyānī, brahmin",
+          "opinion of the Buddha"
+     ],
+     [
+          "AN5.194",
+          "Buddha, the",
+          "praise of"
+     ],
+     [
+          "AN5.194",
+          "Dhamma",
+          "rejoicing in"
+     ],
+     [
+          "AN5.194",
+          "Kāraṇapālī, brahmin",
+          "asking about the Buddha"
+     ],
+     [
+          "AN5.195",
+          "Piṅgiyānī, brahmin",
+          "praising the Buddha"
+     ],
+     [
+          "AN5.195",
+          "gratitude",
+          "hard to find in world"
+     ],
+     [
+          "AN5.195",
+          "treasures",
+          "ordinary and spiritual"
+     ],
+     [
+          "AN5.195",
+          "Buddhas",
+          "rarity of"
+     ],
+     [
+          "AN5.195",
+          "Dhamma teachers",
+          "rarity of"
+     ],
+     [
+          "AN5.195",
+          "practicing",
+          "person who practices is rare"
+     ],
+     [
+          "AN5.196",
+          "Bodhisatta",
+          "dreams"
+     ],
+     [
+          "AN5.196",
+          "dreams",
+          "of the Bodhisatta"
+     ],
+     [
+          "AN5.196",
+          "caste",
+          "all castes followed the Buddha"
+     ],
+     [
+          "AN5.197",
+          "weather",
+          "reasons for"
      ],
      [
           "AN5.198",
@@ -8075,6 +8595,26 @@ export const indexArray =`[
           "with loving-kindness"
      ],
      [
+          "AN5.199",
+          "monastics",
+          "visiting families as opportunity for merit"
+     ],
+     [
+          "AN5.199",
+          "merit (puññā)",
+          "made when monastics visit families"
+     ],
+     [
+          "AN5.199",
+          "respect (gārava)",
+          "as source of merit"
+     ],
+     [
+          "AN5.199",
+          "questions, asking",
+          "as source of merit"
+     ],
+     [
           "AN5.2",
           "powers of a trainee (sekha bala)",
           "definition"
@@ -8093,6 +8633,226 @@ export const indexArray =`[
           "AN5.20",
           "wholesome chain of causality",
           ""
+     ],
+     [
+          "AN5.200",
+          "loving-kindness (mettā)",
+          "to abandon ill-will"
+     ],
+     [
+          "AN5.200",
+          "sense desire (kāmacchanda)",
+          "renunciation to abandon"
+     ],
+     [
+          "AN5.200",
+          "ill will (vyāpada, byāpada)",
+          "removed by loving-kindness"
+     ],
+     [
+          "AN5.200",
+          "formless (arūpā)",
+          "to overcome attachment to form"
+     ],
+     [
+          "AN5.200",
+          "identity (sakkāya)",
+          "removed by ending identity"
+     ],
+     [
+          "AN5.200",
+          "escape (nissaraṇa)",
+          "elements of"
+     ],
+     [
+          "AN5.201",
+          "Kimbila, Ven.",
+          "why Dhamma lasts long"
+     ],
+     [
+          "AN5.201",
+          "Dhamma",
+          "decline, factors leading to"
+     ],
+     [
+          "AN5.201",
+          "Dhamma",
+          "continuation of, factors leading to"
+     ],
+     [
+          "AN5.201",
+          "respect (gārava)",
+          "Dhamma lasting long and"
+     ],
+     [
+          "AN5.202",
+          "listening to Dhamma",
+          "benefits "
+     ],
+     [
+          "AN5.203",
+          "giving (dāna)",
+          "worthy of gifts"
+     ],
+     [
+          "AN5.204",
+          "powers (bala)",
+          "faith, conscience, prudence, energy, and wisdom "
+     ],
+     [
+          "AN5.205",
+          "mental barrenness (cetokhila)",
+          ""
+     ],
+     [
+          "AN5.205",
+          "doubt (vicikicchā)",
+          "mental barrenness"
+     ],
+     [
+          "AN5.205",
+          "companionship",
+          "angry at companions as mental barrenness"
+     ],
+     [
+          "AN5.206",
+          "bondages of the mind (cetovinibaddha)",
+          ""
+     ],
+     [
+          "AN5.206",
+          "sensual pleasures",
+          "bondage of the mind"
+     ],
+     [
+          "AN5.206",
+          "body",
+          "greed for as bondage of the mind"
+     ],
+     [
+          "AN5.206",
+          "form (rūpa)",
+          "greed for as bondage of the mind"
+     ],
+     [
+          "AN5.206",
+          "overeating",
+          "bondage of the mind"
+     ],
+     [
+          "AN5.206",
+          "gods",
+          "wish to be reborn as through observances"
+     ],
+     [
+          "AN5.207",
+          "porridge (yāgu)",
+          "benefits of"
+     ],
+     [
+          "AN5.207",
+          "hunger",
+          "porridge"
+     ],
+     [
+          "AN5.207",
+          "digestion",
+          "porridge"
+     ],
+     [
+          "AN5.208",
+          "brushing teeth",
+          ""
+     ],
+     [
+          "AN5.209",
+          "reciting Dhamma",
+          "with a drawn-out, singing sound"
+     ],
+     [
+          "AN5.209",
+          "singing",
+          "reciting with singing sound"
+     ],
+     [
+          "AN5.210",
+          "sleep",
+          "falling asleep unmindfully"
+     ],
+     [
+          "AN5.210",
+          "dreams",
+          "cause of bad dreams"
+     ],
+     [
+          "AN5.210",
+          "seminal emission",
+          "mindfulness"
+     ],
+     [
+          "AN5.211",
+          "criticizing noble ones",
+          "results of"
+     ],
+     [
+          "AN5.211",
+          "hell (niraya)",
+          "criticizing noble ones"
+     ],
+     [
+          "AN5.211",
+          "death (maraṇa)",
+          "time of"
+     ],
+     [
+          "AN5.212",
+          "death (maraṇa)",
+          "time of"
+     ],
+     [
+          "AN5.212",
+          "disputes",
+          "in the Saṅgha "
+     ],
+     [
+          "AN5.212",
+          "reputation",
+          "bad reputation gained through disputes"
+     ],
+     [
+          "AN5.212",
+          "disputes",
+          "causing rebirth in hell"
+     ],
+     [
+          "AN5.213",
+          "reputation",
+          "bad reputation gained through unvirtuous behavior"
+     ],
+     [
+          "AN5.213",
+          "wealth",
+          "loss through unvirtuous behavior"
+     ],
+     [
+          "AN5.213",
+          "timidity (sārajja)",
+          "through unvirtuous behavior"
+     ],
+     [
+          "AN5.213",
+          "death (maraṇa)",
+          "time of"
+     ],
+     [
+          "AN5.213",
+          "hell (niraya)",
+          "from unvirtuous behavior"
+     ],
+     [
+          "AN5.213",
+          "wealth",
+          "gained by virtuous behavior"
      ],
      [
           "AN5.214",
@@ -8145,6 +8905,226 @@ export const indexArray =`[
           "useless (tiracāna)"
      ],
      [
+          "AN5.214",
+          "speech",
+          "speaking much"
+     ],
+     [
+          "AN5.214",
+          "hell (niraya)",
+          "from speaking much"
+     ],
+     [
+          "AN5.214",
+          "lying",
+          "from speaking much"
+     ],
+     [
+          "AN5.214",
+          "divisive speech",
+          "from speaking much"
+     ],
+     [
+          "AN5.214",
+          "useless speech (tiracāna)",
+          "from speaking much"
+     ],
+     [
+          "AN5.214",
+          "harsh speech",
+          "from speaking much"
+     ],
+     [
+          "AN5.215",
+          "impatience (akkhanti)",
+          "drawbacks of"
+     ],
+     [
+          "AN5.215",
+          "hell (niraya)",
+          "result of being impatient"
+     ],
+     [
+          "AN5.215",
+          "love (piya)",
+          "result of patience"
+     ],
+     [
+          "AN5.216",
+          "impatience (akkhanti)",
+          "drawbacks of"
+     ],
+     [
+          "AN5.216",
+          "hell (niraya)",
+          "result of being impatient"
+     ],
+     [
+          "AN5.216",
+          "love (piya)",
+          "result of patience"
+     ],
+     [
+          "AN5.217",
+          "self reproach (attānuvāda)",
+          "from bad conduct"
+     ],
+     [
+          "AN5.217",
+          "bad actions",
+          "drawbacks of"
+     ],
+     [
+          "AN5.217",
+          "inspiration",
+          "from conduct"
+     ],
+     [
+          "AN5.218",
+          "confidence (pasāda)",
+          "causing or destroying"
+     ],
+     [
+          "AN5.218",
+          "inspiration",
+          "from conduct"
+     ],
+     [
+          "AN5.219",
+          "fire ",
+          "disadvantages of"
+     ],
+     [
+          "AN5.219",
+          "useless speech (tiracāna)",
+          "caused by fire"
+     ],
+     [
+          "AN5.221",
+          "travel",
+          "disadvantages of long wanderings"
+     ],
+     [
+          "AN5.221",
+          "friendship",
+          "reduced by long wanderings"
+     ],
+     [
+          "AN5.221",
+          "travel",
+          "advantages of moderate wandering"
+     ],
+     [
+          "AN5.221",
+          "friendship",
+          "increased by moderate wandering"
+     ],
+     [
+          "AN5.222",
+          "travel",
+          "disadvantages of long wanderings"
+     ],
+     [
+          "AN5.222",
+          "friendship",
+          "reduced by long wanderings"
+     ],
+     [
+          "AN5.222",
+          "travel",
+          "advantages of moderate wandering"
+     ],
+     [
+          "AN5.222",
+          "friendship",
+          "increased by moderate wandering"
+     ],
+     [
+          "AN5.223",
+          "work",
+          "lots of duties accumulated when staying in one place"
+     ],
+     [
+          "AN5.223",
+          "staying long in one place",
+          ""
+     ],
+     [
+          "AN5.223",
+          "socializing",
+          "from staying long in one place"
+     ],
+     [
+          "AN5.224",
+          "stinginess (maccharī)",
+          "from staying long in one place"
+     ],
+     [
+          "AN5.224",
+          "stinginess (maccharī)",
+          "with teachings"
+     ],
+     [
+          "AN5.225",
+          "socializing",
+          "danger for monks"
+     ],
+     [
+          "AN5.225",
+          "monastic rules (vinaya)",
+          "visiting families"
+     ],
+     [
+          "AN5.226",
+          "socializing",
+          "danger for monks"
+     ],
+     [
+          "AN5.227",
+          "wealth",
+          "dangers of"
+     ],
+     [
+          "AN5.227",
+          "wealth",
+          "loss of"
+     ],
+     [
+          "AN5.227",
+          "wealth",
+          "proper use of"
+     ],
+     [
+          "AN5.227",
+          "wealth",
+          "using to care for family"
+     ],
+     [
+          "AN5.227",
+          "wealth",
+          "happiness of using"
+     ],
+     [
+          "AN5.227",
+          "wealth",
+          "advantages of"
+     ],
+     [
+          "AN5.228",
+          "eating",
+          "drawbacks of eating late for lay people"
+     ],
+     [
+          "AN5.228",
+          "lay life",
+          "duty to support saṅgha"
+     ],
+     [
+          "AN5.229",
+          "women",
+          "drawbacks of"
+     ],
+     [
           "AN5.23",
           "hindrances (nīvarana)",
           "as corruptions of the mind (upakkilesā)"
@@ -8180,9 +9160,109 @@ export const indexArray =`[
           "blocking enlightenment"
      ],
      [
+          "AN5.230",
+          "women",
+          "drawbacks of"
+     ],
+     [
+          "AN5.231",
+          "monastics",
+          "admirable and not"
+     ],
+     [
+          "AN5.232",
+          "monastics",
+          "admirable and not"
+     ],
+     [
+          "AN5.233",
+          "monastics",
+          "admirable and not"
+     ],
+     [
+          "AN5.234",
+          "monastics",
+          "admirable and not"
+     ],
+     [
+          "AN5.234",
+          "encouragement",
+          "resident monastics encouraging lay people to give to visiting monastics"
+     ],
+     [
+          "AN5.234",
+          "giving (dāna)",
+          "encouraging others to"
+     ],
+     [
+          "AN5.235",
+          "monastics",
+          "showing compassion to lay people"
+     ],
+     [
+          "AN5.235",
+          "mutual dependence",
+          "of monastics and laypeople"
+     ],
+     [
+          "AN5.236",
+          "wasting gifts",
+          ""
+     ],
+     [
+          "AN5.236",
+          "criticism",
+          "rightly directed"
+     ],
+     [
+          "AN5.236",
+          "criticism",
+          "wrongly directed"
+     ],
+     [
           "AN5.236–38",
           "speech",
           "praise and dispraise"
+     ],
+     [
+          "AN5.237",
+          "wasting gifts",
+          ""
+     ],
+     [
+          "AN5.237",
+          "criticism",
+          "rightly directed"
+     ],
+     [
+          "AN5.237",
+          "criticism",
+          "wrongly directed"
+     ],
+     [
+          "AN5.237",
+          "stinginess (maccharī)",
+          "leading to hell"
+     ],
+     [
+          "AN5.238",
+          "criticism",
+          "rightly directed"
+     ],
+     [
+          "AN5.238",
+          "criticism",
+          "wrongly directed"
+     ],
+     [
+          "AN5.238",
+          "stinginess (maccharī)",
+          "leading to hell"
+     ],
+     [
+          "AN5.239",
+          "stinginess (maccharī)",
+          "leading to hell"
      ],
      [
           "AN5.24",
@@ -8193,6 +9273,31 @@ export const indexArray =`[
           "AN5.24",
           "trees",
           "like one without conditions for wholesome"
+     ],
+     [
+          "AN5.245-248",
+          "bad actions",
+          ""
+     ],
+     [
+          "AN5.249",
+          "charnel ground ",
+          "drawbacks of"
+     ],
+     [
+          "AN5.249",
+          "charnel ground ",
+          "people like a"
+     ],
+     [
+          "AN5.249",
+          "bad people",
+          "like a charnel ground"
+     ],
+     [
+          "AN5.249",
+          "association",
+          "with similar people/like elements"
      ],
      [
           "AN5.25",
@@ -8210,14 +9315,59 @@ export const indexArray =`[
           "condition for right view"
      ],
      [
+          "AN5.250",
+          "confidence (pasāda)",
+          "danger when placed in an individual"
+     ],
+     [
+          "AN5.251",
+          "going forth (pabbajja)",
+          "who is qualified to ordain"
+     ],
+     [
+          "AN5.252",
+          "dependence (nissaya)",
+          "who is qualified to give"
+     ],
+     [
+          "AN5.253",
+          "attendant",
+          "who should have"
+     ],
+     [
           "AN5.254",
-          "stinginess",
+          "stinginess (maccharī)",
           "types"
      ],
      [
+          "AN5.254",
+          "stinginess (maccharī)",
+          "types"
+     ],
+     [
+          "AN5.254",
+          "stinginess (maccharī)",
+          "worst kind is of teachings"
+     ],
+     [
           "AN5.255",
-          "stinginess",
+          "stinginess (maccharī)",
           "giving up"
+     ],
+     [
+          "AN5.255",
+          "stinginess (maccharī)",
+          "giving up"
+     ],
+     [
+          "AN5.256",
+          "stinginess (maccharī)",
+          "prevents jhāna"
+     ],
+     [
+          "AN5.256-259",
+          "jhānas",
+          "prevented by stinginess"
      ],
      [
           "AN5.26",
@@ -8255,9 +9405,39 @@ export const indexArray =`[
           "meditation subject"
      ],
      [
+          "AN5.260-263",
+          "stages of enlightenment",
+          "prevented by stinginess"
+     ],
+     [
+          "AN5.264",
+          "stinginess (maccharī)",
+          "prevents jhāna"
+     ],
+     [
+          "AN5.264-267",
+          "jhānas",
+          "prevented by stinginess"
+     ],
+     [
+          "AN5.268-271",
+          "stages of enlightenment",
+          "prevented by stinginess"
+     ],
+     [
           "AN5.27",
           "concentration (samādhi)",
           "knowledges arise from"
+     ],
+     [
+          "AN5.272",
+          "meal allocator",
+          "going to hell"
+     ],
+     [
+          "AN5.273-285",
+          "work",
+          "various monastic jobs"
      ],
      [
           "AN5.28",
@@ -8320,6 +9500,16 @@ export const indexArray =`[
           "walking meditation"
      ],
      [
+          "AN5.293",
+          "ājīvakas",
+          "going to hell"
+     ],
+     [
+          "AN5.294-302",
+          "other sects",
+          "going to hell"
+     ],
+     [
           "AN5.3",
           "powers of a trainee (sekha bala)",
           "cause for happy life"
@@ -8373,6 +9563,31 @@ export const indexArray =`[
           "AN5.30",
           "aggregates (khandha)",
           "seeing rise and fall of"
+     ],
+     [
+          "AN5.303",
+          "greed (rāga)",
+          "insight into greed"
+     ],
+     [
+          "AN5.304",
+          "greed (rāga)",
+          "insight into greed"
+     ],
+     [
+          "AN5.305",
+          "greed (rāga)",
+          "insight into greed"
+     ],
+     [
+          "AN5.306",
+          "greed (rāga)",
+          "insight into greed"
+     ],
+     [
+          "AN5.307",
+          "greed (rāga)",
+          "insight into greed"
      ],
      [
           "AN5.31",
@@ -10831,7 +12046,7 @@ export const indexArray =`[
      ],
      [
           "Dhp223",
-          "stinginess",
+          "stinginess (maccharī)",
           "overcoming"
      ],
      [
@@ -14326,7 +15541,7 @@ export const indexArray =`[
      ],
      [
           "SN1.32",
-          "stinginess",
+          "stinginess (maccharī)",
           ""
      ],
      [
@@ -14341,7 +15556,7 @@ export const indexArray =`[
      ],
      [
           "SN1.33",
-          "stinginess",
+          "stinginess (maccharī)",
           ""
      ],
      [
@@ -14401,7 +15616,7 @@ export const indexArray =`[
      ],
      [
           "SN1.43",
-          "stinginess",
+          "stinginess (maccharī)",
           ""
      ],
      [
@@ -18756,8 +19971,8 @@ export const indexArray =`[
      ],
      [
           "Ud5.5",
-          "corrupt monk",
-          ""
+          "bad monastics",
+          "in pātimokkha recitation"
      ],
      [
           "Ud5.5",
@@ -19714,4 +20929,4 @@ export const indexArray =`[
           "gifts, specific types of",
           "light"
      ]
-]`
+]

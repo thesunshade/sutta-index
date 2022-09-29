@@ -1,8 +1,9 @@
 import { useContext } from "react";
 import { ContextDestination } from "../App.js";
 import getSuttaTitle from "../functions/getSuttaTitle.js";
+import { memo } from "react";
 
-export default function Locator(props) {
+function Locator(props) {
   let { location } = props;
   const destination = useContext(ContextDestination);
 
@@ -42,3 +43,5 @@ export default function Locator(props) {
     </span>
   );
 }
+
+export default memo(Locator);

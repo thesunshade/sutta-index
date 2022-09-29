@@ -1,14 +1,11 @@
 import { indexObject } from "../data/index-object.js";
 import makeNormalizedId from "../functions/makeNormalizedId.js";
-import { LastClickedLink } from "../App.js";
-import { useContext } from "react";
+import { memo } from "react";
 
-export default function LetterHeadingsMenu(props) {
-  const index = JSON.parse(indexObject);
-  const { setLastClickedLink } = useContext(LastClickedLink);
+function LetterHeadingsMenu(props) {
   const { letter } = props;
 
-  const headwordsArray = Object.keys(index[letter]);
+  const headwordsArray = Object.keys(indexObject[letter]);
 
   function hideMenu() {
     const thisMenu = document.getElementById(letter + "-menu");
@@ -25,21 +22,23 @@ export default function LetterHeadingsMenu(props) {
       >
         {headwordsArray.map(headword => {
           return (
-            <a
+            <span
               key={headword}
-              href={"#" + makeNormalizedId(headword)}
+              // href={"#" + makeNormalizedId(headword)}
+              className="menu-item"
               onClick={e => {
-                // setLastClickedLink(e.target.textContent);
-                // setTimeout(() => {
-                //   setLastClickedLink(e.target.textContent);
-                // }, "2000");
+                e.preventDefault();
+                document.getElementById(makeNormalizedId(headword)).scrollIntoView(true);
+                window.history.pushState({ page: 1 }, "foo", "#" + makeNormalizedId(headword));
               }}
             >
               <li>{headword}</li>
-            </a>
+            </span>
           );
         })}
       </ul>
     </>
   );
 }
+
+export default memo(LetterHeadingsMenu);

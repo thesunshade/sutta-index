@@ -1,11 +1,8 @@
 import makeNormalizedId from "../functions/makeNormalizedId";
-import { ContextFilterSetters, LastClickedLink } from "../App.js";
-import { useContext } from "react";
+import { memo } from "react";
 
-export default function Xref({ xref }) {
+function Xref({ xref }) {
   const locationId = makeNormalizedId(xref);
-  const [setFilterByText, setFilterInput] = useContext(ContextFilterSetters);
-  const { setLastClickedLink } = useContext(LastClickedLink);
 
   function cleanUpXref(xref) {
     return xref.replace("xref ", "").replace(/\(.+\)/, "");
@@ -16,8 +13,6 @@ export default function Xref({ xref }) {
     // Window.history.push("#" + locationId);
     // window.history.pushState({ page: 1 }, "title 1", "#" + locationId);
     window.location.hash = locationId;
-    setFilterByText("");
-    setFilterInput("");
 
     // setLastClickedLink("");
     // setLastClickedLink(xref.replace("xref ", ""));
@@ -33,3 +28,5 @@ export default function Xref({ xref }) {
     </a>
   );
 }
+
+export default memo(Xref);

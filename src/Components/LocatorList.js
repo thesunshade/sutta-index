@@ -1,8 +1,9 @@
 import sortCitations from "../functions/sortCitations";
 import Locator from "./Locator";
 import Xref from "./Xref.js";
+import { memo } from "react";
 
-export default function LocatorList(props) {
+function LocatorList(props) {
   const { locatorXrefObject, headwordSubCount } = props;
   const { locators, xrefs } = locatorXrefObject;
 
@@ -49,3 +50,5 @@ export default function LocatorList(props) {
     </>
   );
 }
+
+export default memo(LocatorList);

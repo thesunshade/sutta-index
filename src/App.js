@@ -2,31 +2,24 @@ import "./App.css";
 import SuttaIndex from "./Components/SuttaIndex.js";
 import Info from "./Components/Info.js";
 import Stats from "./Components/Stats.js";
-import Favorites from "./Components/Favorites.js";
+// import Favorites from "./Components/Favorites.js";
 import OtherToolsIcons from "./Components/OtherToolsIcons.js";
+import HeadwordsSearchTool from "./Components/HeadwordsSearchTool.js";
+import SearchResults from "./Components/SearchResults.js";
 import LocatorSortedTable from "./Components/LocatorSortedTable.js";
 import Alphabet from "./Components/Alphabet.js";
-import { useState, createContext, useEffect } from "react";
+import { useState, useEffect, createContext } from "react";
 import settingsIcon from "./images/settings.png";
 import infoDot from "./images/info-dot.png";
-import favoritesDot from "./images/favorites-dot.png";
-import xIcon from "./images/x-icon.png";
+// import favoritesDot from "./images/favorites-dot.png";
 import upIcon from "./images/7122424_chevron_up_double_icon.png";
-import filterIcon from "./images/filter-icon.png";
 import themeIcon from "./images/8673129_ic_fluent_dark_theme_filled.png";
-import randomSuggestion from "./functions/randomSuggestion";
-
 export const ContextDestination = createContext();
-export const ContextFilterSetters = createContext();
-export const LastClickedLink = createContext();
-
 function App() {
   const [destination, setDestination] = useState(localStorage.destination ? localStorage.destination : "SC");
   const [isLocatorView, setIsLocatorView] = useState(false);
-  const [filterInput, setFilterInput] = useState("");
-  const [filterByText, setFilterByText] = useState("");
-  const [lastClickedLink, setLastClickedLink] = useState("");
   const [showVisited, setShowVisited] = useState(localStorage.showVisited ? localStorage.showVisited : "on");
+  const [searchText, setSearchText] = useState("");
 
   document.addEventListener("click", e => {
     if (!e.target.classList.contains("letter")) {
@@ -93,60 +86,12 @@ function App() {
     }
   }
 
-  window.addEventListener("keydown", event => {
-    if (event.key === "Escape") {
-      setFilterInput("");
-      setFilterByText("");
-      document.getElementById("user-input").focus();
-    }
-  });
-
-  function updateFilterByText(inputText) {
-    setFilterInput(inputText);
-    if (inputText.length > 2) {
-      setFilterByText(inputText);
-    } else if (filterByText) {
-      setFilterByText("");
-    }
-  }
-
   return (
     <div id="app" className="App">
       <div className="settings-bar">
         <div className="top-row">
-          <div className="filter-area">
-            <label id="user-input-label" htmlFor="user-input">
-              {/* <span className="filter-label">Filter:</span> */}
+          <HeadwordsSearchTool searchText={searchText} setSearchText={setSearchText} />
 
-              <img
-                className="icon filter-icon"
-                width="20px"
-                src={filterIcon}
-                alt="Settings Toggle"
-                title="Filter"
-              ></img>
-
-              <input
-                className="filter-input-box"
-                id="user-input"
-                autoFocus
-                type="text"
-                value={filterInput}
-                onChange={event => updateFilterByText(event.target.value)}
-                placeholder={"e.g. " + randomSuggestion()}
-              />
-              <button
-                className="clear-filter-button"
-                onClick={() => {
-                  setFilterInput("");
-                  setFilterByText("");
-                  document.getElementById("user-input").focus();
-                }}
-              >
-                <img height="10" className="icon x-icon" alt="clear filter" src={xIcon} />
-              </button>
-            </label>
-          </div>
           <button className="up-icon" onClick={() => closeAllDrawers()}>
             <img className="icon" height="20px" alt="Go to top" src={upIcon} />
           </button>
@@ -187,15 +132,16 @@ function App() {
             ></img>
           </div> */}
         </div>
-        <LastClickedLink.Provider value={{ setLastClickedLink }}>
-          <Alphabet />
-        </LastClickedLink.Provider>
+
+        <Alphabet />
+
         <div id="info-area" className="info-area hidden hideable-area">
           <Info />
         </div>
         {/* <div id="favorites-area" className="favorites-area hidden hideable-area">
           <Favorites lastClickedLink={lastClickedLink} />
         </div> */}
+        <SearchResults searchText={searchText} setSearchText={setSearchText} />
         <div id="options-area" className="options-area hidden  hideable-area">
           <label className="table-view">
             <button
@@ -279,13 +225,9 @@ function App() {
       {isLocatorView ? (
         <LocatorSortedTable />
       ) : (
-        <ContextFilterSetters.Provider value={[setFilterByText, setFilterInput]}>
-          <LastClickedLink.Provider value={{ setLastClickedLink }}>
-            <ContextDestination.Provider value={destination}>
-              <SuttaIndex filterByText={filterByText} />
-            </ContextDestination.Provider>
-          </LastClickedLink.Provider>
-        </ContextFilterSetters.Provider>
+        <ContextDestination.Provider value={destination}>
+          <SuttaIndex />
+        </ContextDestination.Provider>
       )}
     </div>
   );

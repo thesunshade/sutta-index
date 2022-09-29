@@ -6,8 +6,7 @@ import { indexObject } from "../data/index-object.js";
 import LetterHeadingsMenu from "./LetterHeadingsMenu.js";
 
 export default function Alphabet() {
-  const index = JSON.parse(indexObject);
-  const alphabet = Object.keys(index);
+  const alphabet = Object.keys(indexObject);
 
   function toggleMenu(e) {
     // todo close all info/settings pann

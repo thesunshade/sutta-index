@@ -1,8 +1,7 @@
 import { indexArray } from "../data/index-array";
-const index = JSON.parse(indexArray);
 
 export default function LocatorSortedTable() {
-  const table = index.map((data, index) => (
+  const table = indexArray.map((data, index) => (
     <tr key={index}>
       <td>
         <a href={`https://suttacentral.net/${data[0]}/en/sujato`}>{data[0]}</a>

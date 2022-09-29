@@ -24,7 +24,7 @@ export default function Info() {
       </p>
       <p>In some instances, a specific word may be indexed but not appear in the sutta. </p>
       <p>
-        While this index attempts to be more than just significant occurances, it is by no mean a complete{" "}
+        While this index attempts to be more than just significant occurrences, it is by no mean a complete{" "}
         <a href="https://en.wikipedia.org/wiki/Concordance_(publishing)" rel="noreferrer" target="_blank">
           concordance
         </a>{" "}
@@ -37,7 +37,8 @@ export default function Info() {
       <details>
         <summary>How to find things</summary>
         <p>
-          First, look things up by <em>noun</em> followed by an <em>adjective</em>.
+          First, look things up by <em>noun</em> followed by an <em>adjective</em>. If that doesn't work, then try the
+          adjective.
         </p>
       </details>
       <details>

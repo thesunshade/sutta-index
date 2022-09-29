@@ -317,10 +317,27 @@ for (let i = 0; i < newObjectKeys.length; i++) {
   }
 }
 
-const object = `export const indexObject =\`${JSON.stringify(newObject, null, 5)}\``;
+const object = `export const indexObject =${JSON.stringify(newObject, null, 5)}`;
 
 try {
   fs.writeFileSync("./src/data/index-object.js", object);
+} catch (err) {
+  console.error(err);
+}
+
+// --------------- create array of headings
+let listOfHeadwords = [];
+for (let i = 0; i < newObjectKeys.length; i++) {
+  const headwords = Object.keys(newObject[newObjectKeys[i]]);
+  listOfHeadwords.push(headwords);
+}
+listOfHeadwords = listOfHeadwords.flat();
+
+const headwordsArray = `export const headwordsArray =${JSON.stringify(listOfHeadwords, null, 5)}`;
+
+try {
+  fs.writeFileSync("./src/data/headwords-array.js", headwordsArray);
+  console.log("headwords array written");
 } catch (err) {
   console.error(err);
 }
@@ -350,7 +367,7 @@ for (let i = 0; i < locatorFirstArray.length; i++) {
   }
 }
 
-const array = `export const indexArray =\`${JSON.stringify(locatorFirstArray, null, 5)}\``;
+const array = `export const indexArray =${JSON.stringify(locatorFirstArray, null, 5)}`;
 
 try {
   fs.writeFileSync("./src/data/index-array.js", array);
