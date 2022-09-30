@@ -1,5 +1,6 @@
 import { headwordsArray } from "../data/headwords-array.js";
 import makeNormalizedId from "../functions/makeNormalizedId.js";
+import fuzz from "../functions/fuzz";
 
 export default function SearchResults(props) {
   let { searchText } = props;
@@ -18,10 +19,15 @@ export default function SearchResults(props) {
         <ul className="link-list">
           {headwordsArray.map((headword, index) => {
             if (searchText.length < 2) return null;
-            const regex = new RegExp(searchText, "gi");
-            if (regex.test(headword)) {
+            const regex = new RegExp(fuzz(searchText), "gi");
+            if (regex.test(fuzz(headword))) {
               return (
-                <a tabIndex={index + 2} key={headword} href={"#" + makeNormalizedId(headword)}>
+                <a
+                  className="search-result"
+                  tabIndex={index + 2}
+                  key={headword}
+                  href={"#" + makeNormalizedId(headword)}
+                >
                   <li>{headword}</li>
                 </a>
               );

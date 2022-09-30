@@ -1,8 +1,5 @@
-// import { headwordsArray } from "../data/headwords-array.js";
 import searchIcon from "../images/search-icon.png";
 import xIcon from "../images/x-icon.png";
-// import { useState } from "react";
-// import makeNormalizedId from "../functions/makeNormalizedId.js";
 
 export default function HeadwordsSearchTool(props) {
   let { searchText, setSearchText } = props;
@@ -12,6 +9,18 @@ export default function HeadwordsSearchTool(props) {
       document.getElementById("search-input").focus();
     }
   });
+
+  //allows enter press to go to first result
+  function handleKeyPress(event) {
+    const firstHeadLink = document.querySelector(".search-result");
+    if (event.key === "Enter" && firstHeadLink) {
+      window.open(firstHeadLink, "_self");
+      const allHideableAreas = document.getElementsByClassName("hideable-area");
+      for (let i = 0; i < allHideableAreas.length; i++) {
+        allHideableAreas[i].classList.add("hidden");
+      }
+    }
+  }
 
   return (
     <>
@@ -31,10 +40,16 @@ export default function HeadwordsSearchTool(props) {
             autoFocus
             type="text"
             value={searchText}
-            onChange={event => setSearchText(event.target.value)}
+            onChange={e => setSearchText(e.target.value)}
             placeholder={"e.g. Dhamma "}
             tabIndex="1"
-            onFocus={e => e.target.select()}
+            onFocus={e => {
+              e.target.select();
+              if (searchText.length >= 2) {
+                document.getElementById("search-results").classList.remove("hidden");
+              }
+            }}
+            onKeyPress={handleKeyPress}
           />
           <button
             className="clear-filter-button"

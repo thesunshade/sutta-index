@@ -132,7 +132,7 @@ export const indexArray =[
      [
           "AN1.173",
           "Buddha, the",
-          "death is regreted"
+          "death is regretted"
      ],
      [
           "AN1.174",
@@ -1480,9 +1480,209 @@ export const indexArray =[
           ""
      ],
      [
+          "AN2.23",
+          "misrepresenting the Buddha",
+          ""
+     ],
+     [
+          "AN2.23",
+          "Dhamma teaching",
+          "misrepresenting Dhamma"
+     ],
+     [
+          "AN2.24",
+          "misrepresenting the Buddha",
+          ""
+     ],
+     [
+          "AN2.24",
+          "Dhamma teaching",
+          "misrepresenting Dhamma"
+     ],
+     [
+          "AN2.24",
+          "explicit meaning",
+          ""
+     ],
+     [
+          "AN2.24",
+          "interpreted meaning",
+          ""
+     ],
+     [
+          "AN2.24",
+          "Dhamma teaching",
+          "explicit vs. interpreted"
+     ],
+     [
+          "AN2.24",
+          "inaction (akiriya)",
+          "how Buddha teaches"
+     ],
+     [
+          "AN2.25",
+          "Dhamma teaching",
+          "explicit vs. interpreted"
+     ],
+     [
+          "AN2.25",
+          "misrepresenting the Buddha",
+          ""
+     ],
+     [
+          "AN2.26",
+          "hiding misdeeds",
+          "result"
+     ],
+     [
+          "AN2.26",
+          "animal realm",
+          "hiding misdeeds leads to"
+     ],
+     [
+          "AN2.26",
+          "hell (niraya)",
+          "hiding misdeeds leads to"
+     ],
+     [
+          "AN2.27",
+          "wrong view (micchā diṭṭhi)",
+          "leading to hell"
+     ],
+     [
+          "AN2.27",
+          "wrong view (micchā diṭṭhi)",
+          "leading to animal world"
+     ],
+     [
+          "AN2.27",
+          "animal realm",
+          "wrong view leads to "
+     ],
+     [
+          "AN2.27",
+          "hell (niraya)",
+          "wrong view leads to "
+     ],
+     [
+          "AN2.28",
+          "right view (sammā diṭṭhi)",
+          "leads to heaven"
+     ],
+     [
+          "AN2.28",
+          "right view (sammā diṭṭhi)",
+          "leads to human world"
+     ],
+     [
+          "AN2.28",
+          "human birth",
+          "right view leads to"
+     ],
+     [
+          "AN2.28",
+          "heaven (sagga)",
+          "right view leads to"
+     ],
+     [
+          "AN2.29",
+          "unvirtuous people",
+          "hell and animal realm"
+     ],
+     [
+          "AN2.29",
+          "virtuous people",
+          "heaven and human world"
+     ],
+     [
           "AN2.3",
           "self reflection",
           ""
+     ],
+     [
+          "AN2.30",
+          "wilderness (arañña)",
+          "reasons for living in"
+     ],
+     [
+          "AN2.30",
+          "compassion for future generations",
+          "wilderness living"
+     ],
+     [
+          "AN2.30",
+          "happiness in the present life (diṭṭhadhammasukhavihāra)",
+          "wilderness living"
+     ],
+     [
+          "AN2.31",
+          "serenity (samatha)",
+          "and insight"
+     ],
+     [
+          "AN2.31",
+          "insight (vipassanā)",
+          "and serenity"
+     ],
+     [
+          "AN2.31",
+          "serenity (samatha)",
+          "benefit of "
+     ],
+     [
+          "AN2.31",
+          "insight (vipassanā)",
+          "benefit of "
+     ],
+     [
+          "AN2.31",
+          "serenity (samatha)",
+          "playing a part in realization"
+     ],
+     [
+          "AN2.31",
+          "insight (vipassanā)",
+          "playing a part in realization"
+     ],
+     [
+          "AN2.31",
+          "greed (rāga)",
+          "given up when mind is developed"
+     ],
+     [
+          "AN2.31",
+          "ignorance (avijjā)",
+          "given up when wisdom is developed"
+     ],
+     [
+          "AN2.32",
+          "bad people (asappurisa)",
+          "ungrateful and thankless"
+     ],
+     [
+          "AN2.32",
+          "good people (sappurisa)",
+          "grateful and thankful"
+     ],
+     [
+          "AN2.32",
+          "gratitude",
+          "good people (sappurisa)"
+     ],
+     [
+          "AN2.32",
+          "ingratitude",
+          "bad people (asappurisa)"
+     ],
+     [
+          "AN2.33",
+          "parents",
+          "not easy to repay"
+     ],
+     [
+          "AN2.33",
+          "parents",
+          "repaying through establishing in Dhamma"
      ],
      [
           "AN2.35",
@@ -1490,9 +1690,204 @@ export const indexArray =[
           "whom to give to"
      ],
      [
+          "AN2.35",
+          "giving (dāna)",
+          "worthy of"
+     ],
+     [
+          "AN2.35",
+          "trainee (sekha)",
+          "worthy of gifts"
+     ],
+     [
+          "AN2.36",
+          "fetters (saṁyojana)",
+          "internal and external"
+     ],
+     [
+          "AN2.36",
+          "gods",
+          "rejoicing in Dhamma"
+     ],
+     [
+          "AN2.36",
+          "non-returner (anāgāmi)",
+          "fettered externally"
+     ],
+     [
+          "AN2.36",
+          "followers of other paths (aññatitthiyā)",
+          "lost without the Dhamma"
+     ],
+     [
+          "AN2.36",
+          "Sāriputta, Ven.",
+          "teaching about fetters"
+     ],
+     [
+          "AN2.37",
+          "“Namo tassa bhagavato…”",
+          ""
+     ],
+     [
+          "AN2.37",
+          "Mahākaccāna, Ven.",
+          "cause of fighting"
+     ],
+     [
+          "AN2.37",
+          "attachment to views (diṭṭhiyoga)",
+          "causing fights"
+     ],
+     [
+          "AN2.37",
+          "disputes",
+          "over views"
+     ],
+     [
+          "AN2.37",
+          "attachment to sensual pleasures (kāmayoga)",
+          "causing fights"
+     ],
+     [
+          "AN2.37",
+          "sense pleasures (kāmaguṇa)",
+          "causing fights"
+     ],
+     [
+          "AN2.38",
+          "Mahākaccāna, Ven.",
+          "not bowing to elders"
+     ],
+     [
+          "AN2.38",
+          "seniority",
+          "true meaning"
+     ],
+     [
+          "AN2.38",
+          "youth",
+          "true meaning"
+     ],
+     [
+          "AN2.39",
+          "bad monastics",
+          "good monastics weak when bad monastics are strong"
+     ],
+     [
+          "AN2.39",
+          "good monastics",
+          "bad monastics weak when good monastics strong"
+     ],
+     [
           "AN2.4",
           "self reflection",
           ""
+     ],
+     [
+          "AN2.40",
+          "practices (paṭipatti)",
+          "wrong and right for monks and lay people"
+     ],
+     [
+          "AN2.40",
+          "lay life",
+          "right and wrong practice"
+     ],
+     [
+          "AN2.41",
+          "memorizing",
+          "helps Dhamma continue"
+     ],
+     [
+          "AN2.41",
+          "Dhamma",
+          "continuation of, factors leading to"
+     ],
+     [
+          "AN2.42",
+          "assemblies",
+          "shallow and deep"
+     ],
+     [
+          "AN2.43",
+          "assemblies",
+          "divided and harmonious"
+     ],
+     [
+          "AN2.43",
+          "harmony in Saṅgha",
+          ""
+     ],
+     [
+          "AN2.44",
+          "assemblies",
+          "of best and worst"
+     ],
+     [
+          "AN2.45",
+          "senior monastics",
+          "good and bad"
+     ],
+     [
+          "AN2.45",
+          "assemblies",
+          "noble and ignoble"
+     ],
+     [
+          "AN2.46",
+          "decisions",
+          "making prejudiced decisions"
+     ],
+     [
+          "AN2.46",
+          "decisions",
+          "making unprejudiced decisions"
+     ],
+     [
+          "AN2.47",
+          "listening to Dhamma",
+          "not paying attention while"
+     ],
+     [
+          "AN2.47",
+          "listening to Dhamma",
+          "correctly"
+     ],
+     [
+          "AN2.47",
+          "poetry",
+          "preferred to Dhamma"
+     ],
+     [
+          "AN2.47",
+          "questions, asking",
+          "to clarify meaning"
+     ],
+     [
+          "AN2.48",
+          "assemblies",
+          "valuing material things vs. Dhamma"
+     ],
+     [
+          "AN2.48",
+          "requisites, four",
+          "getting through unscrupulous means"
+     ],
+     [
+          "AN2.48",
+          "praise",
+          "in order to get material things"
+     ],
+     [
+          "AN2.49",
+          "assemblies",
+          "just and unjust"
+     ],
+     [
+          "AN2.49",
+          "monastic rules (vinaya)",
+          "legal procedures"
      ],
      [
           "AN2.5",
@@ -1510,9 +1905,134 @@ export const indexArray =[
           "never stop trying"
      ],
      [
+          "AN2.51",
+          "monastic rules (vinaya)",
+          "legal procedures"
+     ],
+     [
+          "AN2.52",
+          "Buddhas",
+          "appear for welfare of beings"
+     ],
+     [
+          "AN2.52",
+          "wheel-turning monarchs",
+          "appear for welfare of beings"
+     ],
+     [
+          "AN2.53",
+          "Buddhas",
+          "incredible humans"
+     ],
+     [
+          "AN2.53",
+          "wheel-turning monarchs",
+          "incredible humans"
+     ],
+     [
+          "AN2.54",
+          "Buddhas",
+          "death is regretted"
+     ],
+     [
+          "AN2.54",
+          "wheel-turning monarchs",
+          "death is regretted"
+     ],
+     [
+          "AN2.55",
+          "Buddhas",
+          "worthy of stupa"
+     ],
+     [
+          "AN2.55",
+          "wheel-turning monarchs",
+          "worthy of stupa"
+     ],
+     [
+          "AN2.55",
+          "stupa (thupa)",
+          "people worthy of"
+     ],
+     [
+          "AN2.56",
+          "Buddhas",
+          "two kinds"
+     ],
+     [
+          "AN2.56",
+          "paccekabuddha",
+          "one of two kinds of Buddhas"
+     ],
+     [
+          "AN2.57",
+          "fear (bhaya)",
+          "not scared by thunder"
+     ],
+     [
+          "AN2.58",
+          "fear (bhaya)",
+          "not scared by thunder"
+     ],
+     [
+          "AN2.59",
+          "fear (bhaya)",
+          "not scared by thunder"
+     ],
+     [
           "AN2.6",
           "disenchantment (nibbidā)",
           "with things that can fetter"
+     ],
+     [
+          "AN2.60",
+          "kinnara (kiṁpurisa)",
+          "don’t speak"
+     ],
+     [
+          "AN2.60",
+          "lying",
+          "kinnara don’t speak for fear of"
+     ],
+     [
+          "AN2.61",
+          "sexual intercourse",
+          "desire for is never satisfied"
+     ],
+     [
+          "AN2.61",
+          "pregnancy",
+          "desire for giving birth is never satisfied"
+     ],
+     [
+          "AN2.61",
+          "women",
+          "desire"
+     ],
+     [
+          "AN2.62",
+          "admonishment",
+          "being difficult to"
+     ],
+     [
+          "AN2.62",
+          "admonishment",
+          "being easy to"
+     ],
+     [
+          "AN2.62",
+          "admonishment",
+          "not wanting to be admonished"
+     ],
+     [
+          "AN2.62",
+          "bad monastics",
+          "admonishment and"
+     ],
+     [
+          "AN2.62",
+          "good monastics",
+          "admonishment and"
      ],
      [
           "AN2.7",
@@ -6746,7 +7266,7 @@ export const indexArray =[
      ],
      [
           "AN4.5",
-          "sensual pleasures",
+          "sense pleasures (kāmaguṇa)",
           ""
      ],
      [
@@ -8431,7 +8951,7 @@ export const indexArray =[
      ],
      [
           "AN5.176",
-          "sense pleasures",
+          "sense pleasures (kāmaguṇa)",
           "suffering connected with"
      ],
      [
@@ -8911,7 +9431,7 @@ export const indexArray =[
      ],
      [
           "AN5.206",
-          "sensual pleasures",
+          "sense pleasures (kāmaguṇa)",
           "bondage of the mind"
      ],
      [
@@ -10576,7 +11096,7 @@ export const indexArray =[
      ],
      [
           "AN5.7",
-          "sensual pleasures",
+          "sense pleasures (kāmaguṇa)",
           "abandoned when going forth"
      ],
      [
@@ -10831,7 +11351,7 @@ export const indexArray =[
      ],
      [
           "AN5.76",
-          "sensual pleasures",
+          "sense pleasures (kāmaguṇa)",
           "similes for"
      ],
      [
@@ -12736,7 +13256,7 @@ export const indexArray =[
      ],
      [
           "Dhp346–47",
-          "sensual pleasures",
+          "sense pleasures (kāmaguṇa)",
           "as fetter"
      ],
      [
@@ -12746,7 +13266,7 @@ export const indexArray =[
      ],
      [
           "Dhp349",
-          "sensual pleasures",
+          "sense pleasures (kāmaguṇa)",
           "as fetter"
      ],
      [
@@ -14196,7 +14716,7 @@ export const indexArray =[
      ],
      [
           "Iti95",
-          "sensual pleasures",
+          "sense pleasures (kāmaguṇa)",
           ""
      ],
      [
@@ -18016,7 +18536,7 @@ export const indexArray =[
      ],
      [
           "Thag16.4",
-          "sensual pleasures",
+          "sense pleasures (kāmaguṇa)",
           "appearing in disguise"
      ],
      [
@@ -18291,7 +18811,7 @@ export const indexArray =[
      ],
      [
           "Thag19.1",
-          "sensual pleasures",
+          "sense pleasures (kāmaguṇa)",
           "giving up like vomiting"
      ],
      [
@@ -18372,7 +18892,7 @@ export const indexArray =[
      [
           "Thag2.23",
           "recollection",
-          "past lives"
+          "of past lives"
      ],
      [
           "Thag2.23",
@@ -19176,17 +19696,17 @@ export const indexArray =[
      ],
      [
           "Thig13.5",
-          "sensual pleasures",
+          "sense pleasures (kāmaguṇa)",
           "as enemy"
      ],
      [
           "Thig13.5",
-          "sensual pleasures",
+          "sense pleasures (kāmaguṇa)",
           "as murderer"
      ],
      [
           "Thig13.5",
-          "sensual pleasures",
+          "sense pleasures (kāmaguṇa)",
           "danger of"
      ],
      [
@@ -19256,7 +19776,7 @@ export const indexArray =[
      ],
      [
           "Thig16.1",
-          "sensual pleasures",
+          "sense pleasures (kāmaguṇa)",
           "bitter like snake venom"
      ],
      [
@@ -19296,7 +19816,7 @@ export const indexArray =[
      ],
      [
           "Thig16.1",
-          "sensual pleasures",
+          "sense pleasures (kāmaguṇa)",
           "like vomit"
      ],
      [
@@ -19306,22 +19826,22 @@ export const indexArray =[
      ],
      [
           "Thig16.1",
-          "sensual pleasures",
+          "sense pleasures (kāmaguṇa)",
           "burning like firebrand"
      ],
      [
           "Thig16.1",
-          "sensual pleasures",
+          "sense pleasures (kāmaguṇa)",
           "impermanent"
      ],
      [
           "Thig16.1",
-          "sensual pleasures",
+          "sense pleasures (kāmaguṇa)",
           "like lumps of meat"
      ],
      [
           "Thig16.1",
-          "sensual pleasures",
+          "sense pleasures (kāmaguṇa)",
           "like dream"
      ],
      [
@@ -19346,7 +19866,7 @@ export const indexArray =[
      ],
      [
           "Thig16.1",
-          "sensual pleasures",
+          "sense pleasures (kāmaguṇa)",
           "like a grass torch burns holder"
      ],
      [
@@ -19451,7 +19971,7 @@ export const indexArray =[
      ],
      [
           "Thig3.7",
-          "sensual pleasures",
+          "sense pleasures (kāmaguṇa)",
           "like swords and stakes"
      ],
      [
@@ -19601,7 +20121,7 @@ export const indexArray =[
      ],
      [
           "Thig6.3",
-          "sensual pleasures",
+          "sense pleasures (kāmaguṇa)",
           "like swords and stakes"
      ],
      [
@@ -20376,7 +20896,7 @@ export const indexArray =[
      ],
      [
           "Ud6.8",
-          "sensual pleasures",
+          "sense pleasures (kāmaguṇa)",
           "no harm in"
      ],
      [
@@ -20386,7 +20906,7 @@ export const indexArray =[
      ],
      [
           "Ud6.8",
-          "sensual pleasures",
+          "sense pleasures (kāmaguṇa)",
           "as cause of disputes"
      ],
      [
@@ -20396,7 +20916,7 @@ export const indexArray =[
      ],
      [
           "Ud7.4",
-          "sensual pleasures",
+          "sense pleasures (kāmaguṇa)",
           "simile of fish in net"
      ],
      [

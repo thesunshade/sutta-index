@@ -37,15 +37,15 @@ export default function Stats() {
         <div className="row-1">
           <div>
             <img className="icon head-icon" width="13px" src={headIcon} alt="" />
-            Headwords: <span className="answer">{headwords - xrefsCount}</span>
+            <span className="answer">{headwords - xrefsCount}</span> Headwords
           </div>
           <div>
             <img className="icon locator-icon" width="16px" src={locatorIcon} alt="" />
-            Locators: <span className="answer">{indexArray.length - xrefsCount}</span>
+            <span className="answer">{indexArray.length - xrefsCount}</span> Locators
           </div>
           <div>
-            <img className="icon head-icon" width="16px" src={xrefIcon} alt="" />
-            Xref headwords: <span className="answer">{xrefsCount}</span>
+            <img className="icon head-icon" width="14px" src={xrefIcon} alt="" />
+            <span className="answer">{xrefsCount}</span> Xref headwords
           </div>
         </div>
       </div>

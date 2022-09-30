@@ -22,7 +22,7 @@ function App() {
   const [searchText, setSearchText] = useState("");
 
   document.addEventListener("click", e => {
-    if (!e.target.classList.contains("letter")) {
+    if (!e.target.classList.contains("letter") && !e.target.classList.contains("input-box")) {
       const subMenus = document.getElementsByClassName("dropdown-list");
       for (let i = 0; i < subMenus.length; i++) {
         subMenus[i].classList.add("hidden");
@@ -36,7 +36,6 @@ function App() {
     document.body.classList.add("dont-show-visited");
   }
   useEffect(() => {
-    console.log(showVisited);
     if (showVisited === "on") {
       document.body.classList.remove("dont-show-visited");
     } else if (showVisited === "off") {
