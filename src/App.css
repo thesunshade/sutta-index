@@ -1,6 +1,6 @@
 :root {
   --max-width: 35rem;
-  --indent: 2.5rem;
+  --indent: 3.5rem;
   --mobile-indent: .5rem;
   --primary: #ee7121;
   --dark-primary: #481213;
@@ -505,6 +505,12 @@ a:visited {
   color: #00af00
 }
 
+.sutta-name {
+  font-size: .9rem;
+  word-spacing: initial;
+  font-style: italic
+}
+
 .head-word-area {
   padding-left: var(--indent);
   text-indent: calc(-1 * var(--indent));
@@ -535,7 +541,12 @@ a:visited {
 .link-icon {
   position: relative;
   top: .2rem;
-  /* left: -1rem; */
+  padding-right: .1rem;
+}
+
+.copy-icon {
+  position: relative;
+  top: .1rem;
   padding-right: .1rem;
 }
 
@@ -574,7 +585,8 @@ a:visited {
   overflow-x: hidden;
 }
 
-.headword-link .link-icon {
+.headword-link .link-icon,
+.headword-link .copy-icon {
   visibility: hidden;
 }
 
@@ -584,13 +596,16 @@ a:visited {
 
 @media only screen and (max-width: 475px) {
 
-  .link-icon {
+  .link-icon,
+  .copy-icon {
     display: none
   }
 }
 
 .headword-link:hover .link-icon,
-.link-icon:hover {
+.link-icon:hover,
+.headword-link:hover .copy-icon,
+.copy-icon:hover {
   visibility: inherit;
 }
 
@@ -600,8 +615,12 @@ a:visited {
 }
 
 .sub-word {
-  padding-left: var(--indent);
+  /* padding-left: var(--indent); */
+  padding-left: 6.5rem;
+  text-indent: -2rem;
 }
+
+
 
 .xref-link {
   font-style: italic;
@@ -706,6 +725,7 @@ tr:nth-child(even) {
 
   .sub-word {
     padding-left: var(--mobile-indent);
+    text-indent: initial;
   }
 }
 
@@ -764,6 +784,10 @@ tr:nth-child(even) {
   .alphabet {
     margin-top: .75rem;
     margin-bottom: .75rem
+  }
+
+  .sutta-name {
+    display: none;
   }
 }
 

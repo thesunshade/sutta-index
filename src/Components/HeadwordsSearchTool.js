@@ -1,5 +1,6 @@
 import searchIcon from "../images/search-icon.png";
 import xIcon from "../images/x-icon.png";
+import randomSuggestion from "../functions/randomSuggestion";
 
 export default function HeadwordsSearchTool(props) {
   let { searchText, setSearchText } = props;
@@ -41,7 +42,7 @@ export default function HeadwordsSearchTool(props) {
             type="text"
             value={searchText}
             onChange={e => setSearchText(e.target.value)}
-            placeholder={"e.g. Dhamma "}
+            placeholder={"e.g. " + randomSuggestion()}
             tabIndex="1"
             onFocus={e => {
               e.target.select();

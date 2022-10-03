@@ -1,5 +1,6 @@
 import { useContext } from "react";
 import { ContextDestination } from "../App.js";
+import getSuttaTitleBlurb from "../functions/getSuttaTitleBlurb.js";
 import getSuttaTitle from "../functions/getSuttaTitle.js";
 import { memo } from "react";
 
@@ -35,10 +36,13 @@ function Locator(props) {
     return location.replace(/([A-Za-z])(\d)/, "$1 $2");
   }
 
+  const suttaNameJsx = <span className="sutta-name"> {getSuttaTitle(location)}</span>;
+
   return (
     <span>
-      <a href={url} rel="noreferrer" target="_blank" title={getSuttaTitle(stripRangesFromUrls(location))}>
+      <a href={url} rel="noreferrer" target="_blank" title={getSuttaTitleBlurb(stripRangesFromUrls(location))}>
         {addSpace(location)}
+        {getSuttaTitle(location) ? suttaNameJsx : ""}
       </a>
     </span>
   );

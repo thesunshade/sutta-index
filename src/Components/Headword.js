@@ -2,7 +2,9 @@ import sortedKeys from "../functions/sortedKeys";
 import LocatorList from "./LocatorList";
 import makeNormalizedId from "../functions/makeNormalizedId";
 import { memo } from "react";
-import linkIcon from "../images/link-icon.png";
+import iconLink from "../images/link-icon.png";
+// import iconCopy from "../images/icon-copy.png";
+import iconCopy from "../images/copy-icon2.png";
 
 function Headword(props) {
   const { headword, headwordObject } = props;
@@ -14,10 +16,21 @@ function Headword(props) {
         <a onClick={e => {}} className="headword-link" href={"#" + makeNormalizedId(headword)}>
           <span className="head-word">
             <img
+              alt="copy icon"
+              className="icon copy-icon"
+              height="16"
+              src={iconCopy}
+              title="Copy Heading Text"
+              onClick={e => {
+                e.preventDefault();
+                navigator.clipboard.writeText(headword);
+              }}
+            />
+            <img
               alt="link-icon"
               className="icon link-icon"
               height="18"
-              src={linkIcon}
+              src={iconLink}
               title="Copy Link to Heading"
               onClick={e => {
                 e.preventDefault();

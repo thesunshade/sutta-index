@@ -79,7 +79,7 @@ export const allSuttasPaliNameDictionary = {
   MN44: "Cūḷavedalla",
   MN45: "Cūḷadhammasamādāna",
   MN46: "Mahādhammasamādāna",
-  MN47: "Vīmaṃsaka",
+  MN47: "Vīmaṁsaka",
   MN48: "Kosambiya",
   MN49: "Brahmanimantanika",
   MN50: "Māratajjanīya",
@@ -282,7 +282,7 @@ export const allSuttasPaliNameDictionary = {
   "SN1.39": "Paṭhama Pajjunnadhītu",
   "SN1.40": "Dutiya Pajjunnadhītu",
   "SN1.41": "Āditta",
-  "SN1.42": "Kiṃdada",
+  "SN1.42": "Kiṁdada",
   "SN1.43": "Anna",
   "SN1.44": "Ekamūla",
   "SN1.45": "Anoma",
@@ -304,7 +304,7 @@ export const allSuttasPaliNameDictionary = {
   "SN1.61": "Nāma",
   "SN1.62": "Citta",
   "SN1.63": "Taṇhā",
-  "SN1.64": "Saṃyojana",
+  "SN1.64": "Saṁyojana",
   "SN1.65": "Bandhana",
   "SN1.66": "Abbhāhata",
   "SN1.67": "Uḍḍita",
@@ -431,7 +431,7 @@ export const allSuttasPaliNameDictionary = {
   "SN7.2": "Akkosa",
   "SN7.3": "Asurindaka",
   "SN7.4": "Bilaṅgika",
-  "SN7.5": "Ahiṃsaka",
+  "SN7.5": "Ahiṁsaka",
   "SN7.6": "Jaṭā",
   "SN7.7": "Suddhika",
   "SN7.8": "Aggika",
@@ -562,7 +562,7 @@ export const allSuttasPaliNameDictionary = {
   "SN12.48": "Lokāyatika",
   "SN12.49": "Paṭhama Ariyasāvaka",
   "SN12.50": "Dutiya Ariyasāvaka",
-  "SN12.51": "Parivīmaṃsana",
+  "SN12.51": "Parivīmaṁsana",
   "SN12.52": "Upādāna",
   "SN12.53": "Paṭhama Saññojana",
   "SN12.54": "Dutiya Saññojana",
@@ -574,7 +574,7 @@ export const allSuttasPaliNameDictionary = {
   "SN12.60": "Nidāna (paṭiccasamuppāda)",
   "SN12.61": "Paṭhama Assutavantu",
   "SN12.62": "Dutiya Assutavantu",
-  "SN12.63": "Puttamaṃsa",
+  "SN12.63": "Puttamaṁsa",
   "SN12.64": "Atthirāga",
   "SN12.65": "Nagara",
   "SN12.66": "Sammasana",
@@ -592,7 +592,7 @@ export const allSuttasPaliNameDictionary = {
   "SN12.78": "Saḷāyatana",
   "SN12.79": "Nāmarūpa",
   "SN12.80": "Viññāṇa",
-  "SN12.81": "Saṃkhāra",
+  "SN12.81": "Saṁkhāra",
   "SN12.82": "Satthā",
   "SN12.83": "Sikkhā",
   "SN12.84": "Yoga",
@@ -648,7 +648,7 @@ export const allSuttasPaliNameDictionary = {
   "SN14.30": "Catudhātu",
   "SN14.31": "Pubba",
   "SN14.32": "Assādapariyesana",
-  "SN14.33": "Nocedaṃ",
+  "SN14.33": "Nocedaṁ",
   "SN14.34": "Dukkhalakkhaṇa",
   "SN14.35": "Abhinandana",
   "SN14.36": "Uppāda",
@@ -667,7 +667,7 @@ export const allSuttasPaliNameDictionary = {
   "SN15.10": "Ekapuggala",
   "SN15.11": "Duggata",
   "SN15.12": "Sukhita",
-  "SN15.13": "Tiṃsamatta",
+  "SN15.13": "Tiṁsamatta",
   "SN15.14": "Mātu",
   "SN15.15": "Pitu",
   "SN15.16": "Bhātu",
@@ -754,8 +754,8 @@ export const allSuttasPaliNameDictionary = {
   "SN18.21": "Mānānusaya",
   "SN18.22": "Mānāpagata",
   "SN19.1": "Aṭṭhi",
-  "SN19.2": "Maṃsapesi",
-  "SN19.3": "Maṃsapiṇḍa",
+  "SN19.2": "Maṁsapesi",
+  "SN19.3": "Maṁsapiṇḍa",
   "SN19.4": "Nicchavi",
   "SN19.5": "Asiloma",
   "SN19.6": "Sattiloma",
@@ -813,7 +813,7 @@ export const allSuttasPaliNameDictionary = {
   "SN22.13": "Dukkha",
   "SN22.14": "Anatta",
   "SN22.15": "Yadanicca",
-  "SN22.16": "Yaṃdukkha",
+  "SN22.16": "Yaṁdukkha",
   "SN22.17": "Yadanatta",
   "SN22.18": "Paṭhama Hetu",
   "SN22.19": "Dutiya Hetu",
@@ -826,10 +826,10 @@ export const allSuttasPaliNameDictionary = {
   "SN22.26": "Paṭhama Assāda",
   "SN22.27": "Dutiya Assāda",
   "SN22.28": "Tatiya Assāda",
-  "SN22.29": "Abhinandanaṃ",
+  "SN22.29": "Abhinandanaṁ",
   "SN22.30": "Uppāda",
   "SN22.31": "Aghamūla",
-  "SN22.32": "Pabhaṃgu",
+  "SN22.32": "Pabhaṁgu",
   "SN22.33": "Paṭhama Natumhāka",
   "SN22.34": "Dutiya Natumhāka",
   "SN22.35": "Paṭhama Bhikkhu",
@@ -948,7 +948,7 @@ export const allSuttasPaliNameDictionary = {
   "SN22.148": "Dukkhānupassanā",
   "SN22.149": "Anattānupassanā",
   "SN22.150": "Ajjhatta",
-  "SN22.151": "Etaṃ mama",
+  "SN22.151": "Etaṁ mama",
   "SN22.152": "So atta",
   "SN22.153": "No ca me siyā",
   "SN22.154": "Micchādiṭṭhi",
@@ -971,7 +971,7 @@ export const allSuttasPaliNameDictionary = {
   "SN23.12": "Māradhamma",
   "SN23.13": "Anicca",
   "SN23.14": "Aniccadhamma",
-  "SN23.15": "Dukkhaṃ",
+  "SN23.15": "Dukkhaṁ",
   "SN23.16": "Dukkhadhamma",
   "SN23.17": "Anatta",
   "SN23.18": "Anattadhamma",
@@ -1004,7 +1004,7 @@ export const allSuttasPaliNameDictionary = {
   "SN23.45": "Samudayadhamma",
   "SN23.46": "Nirodhadhamma",
   "SN24.1": "Vāta",
-  "SN24.2": "Etaṃ mama",
+  "SN24.2": "Etaṁ mama",
   "SN24.3": "So attā",
   "SN24.4": "No ca me siyā",
   "SN24.5": "Natthi dinna",
@@ -1015,14 +1015,14 @@ export const allSuttasPaliNameDictionary = {
   "SN24.10": "Asassataloka",
   "SN24.11": "Antavā",
   "SN24.12": "Anantavā",
-  "SN24.13": "Taṃ jivaṃ taṃ sarira",
-  "SN24.14": "Aññaṃ jīvaṃ aññaṃ sarīra",
+  "SN24.13": "Taṁ jivaṁ taṁ sarira",
+  "SN24.14": "Aññaṁ jīvaṁ aññaṁ sarīra",
   "SN24.15": "Hoti tathāgata",
   "SN24.16": "Na hoti tathāgata",
   "SN24.17": "Hoti ca na ca hoti tathāgata",
   "SN24.18": "Neva hoti na nahoti tathāgata",
   "SN24.19": "Vāta",
-  "SN24.20": "Etaṃ mama",
+  "SN24.20": "Etaṁ mama",
   "SN24.21": "So attā",
   "SN24.22": "No ca me siyā",
   "SN24.23": "Natthi dinna",
@@ -1033,8 +1033,8 @@ export const allSuttasPaliNameDictionary = {
   "SN24.28": "Asassataloka",
   "SN24.29": "Antavāloka",
   "SN24.30": "Anantavāloka",
-  "SN24.31": "Taṃ jivaṃ taṃ sarira",
-  "SN24.32": "Aññaṃ jīvaṃ aññaṃ sarīra",
+  "SN24.31": "Taṁ jivaṁ taṁ sarira",
+  "SN24.32": "Aññaṁ jīvaṁ aññaṁ sarīra",
   "SN24.33": "Hoti tathāgata",
   "SN24.34": "Na hoti tathāgata",
   "SN24.35": "Hoti ca na ca hoti tathāgata",
@@ -1048,7 +1048,7 @@ export const allSuttasPaliNameDictionary = {
   "SN24.43": "Sukhadukkhī attā",
   "SN24.44": "Adukkhamasukhī attā",
   "SN24.45": "Vāta",
-  "SN24.46": "Etaṃ mama",
+  "SN24.46": "Etaṁ mama",
   "SN24.47": "So attā",
   "SN24.48": "No ca me siyā",
   "SN24.49": "Natthi dinna",
@@ -1059,8 +1059,8 @@ export const allSuttasPaliNameDictionary = {
   "SN24.54": "Asassataloka",
   "SN24.55": "Antavāloka",
   "SN24.56": "Anantavāloka",
-  "SN24.57": "Taṃ jivaṃ taṃ sarira",
-  "SN24.58": "Aññaṃ jīvaṃ aññaṃ sarīra",
+  "SN24.57": "Taṁ jivaṁ taṁ sarira",
+  "SN24.58": "Aññaṁ jīvaṁ aññaṁ sarīra",
   "SN24.59": "Hoti tathāgata",
   "SN24.60": "Na hoti tathāgata",
   "SN24.61": "Hoti ca na ca hoti tathāgata",
@@ -1074,7 +1074,7 @@ export const allSuttasPaliNameDictionary = {
   "SN24.69": "Sukhadukkhī attā",
   "SN24.70": "Adukkhamasukhī attā",
   "SN24.71": "Vāta",
-  "SN24.72": "Etaṃ mama",
+  "SN24.72": "Etaṁ mama",
   "SN24.73": "So attā",
   "SN24.74": "No ca me siyā",
   "SN24.75": "Natthi dinna",
@@ -1085,8 +1085,8 @@ export const allSuttasPaliNameDictionary = {
   "SN24.80": "Asassataloka",
   "SN24.81": "Antavāloka",
   "SN24.82": "Anantavāloka",
-  "SN24.83": "Taṃ jivaṃ taṃ sarira",
-  "SN24.84": "Aññaṃ jīvaṃ aññaṃ sarīra",
+  "SN24.83": "Taṁ jivaṁ taṁ sarira",
+  "SN24.84": "Aññaṁ jīvaṁ aññaṁ sarīra",
   "SN24.85": "Hoti tathāgata",
   "SN24.86": "Na hoti tathāgata",
   "SN24.87": "Hoti ca na ca hoti tathāgata",
@@ -1169,16 +1169,16 @@ export const allSuttasPaliNameDictionary = {
   "SN29.28": "Seyyadāyaka jalābuja",
   "SN29.29": "Āvasathadāyaka jalābuja",
   "SN29.30": "Padīpeyyadāyaka jalābuja",
-  "SN29.31": "Annadāyaka saṃsedaja",
-  "SN29.32": "Pānadāyaka saṃsedaja",
-  "SN29.33": "Vatthadāyaka saṃsedaja",
-  "SN29.34": "Yānadāyaka saṃsedaja",
-  "SN29.35": "Mālādāyaka saṃsedaja",
-  "SN29.36": "Gandhadāyaka saṃsedaja",
-  "SN29.37": "Vilepanadāyaka saṃsedaja",
-  "SN29.38": "Seyyadāyaka saṃsedaja",
-  "SN29.39": "Āvasathadāyaka saṃsedaja",
-  "SN29.40": "Padīpeyyadāyaka saṃsedaja",
+  "SN29.31": "Annadāyaka saṁsedaja",
+  "SN29.32": "Pānadāyaka saṁsedaja",
+  "SN29.33": "Vatthadāyaka saṁsedaja",
+  "SN29.34": "Yānadāyaka saṁsedaja",
+  "SN29.35": "Mālādāyaka saṁsedaja",
+  "SN29.36": "Gandhadāyaka saṁsedaja",
+  "SN29.37": "Vilepanadāyaka saṁsedaja",
+  "SN29.38": "Seyyadāyaka saṁsedaja",
+  "SN29.39": "Āvasathadāyaka saṁsedaja",
+  "SN29.40": "Padīpeyyadāyaka saṁsedaja",
   "SN29.41": "Annadāyaka opapātika",
   "SN29.42": "Pānadāyaka opapātika",
   "SN29.43": "Vatthadāyaka opapātika",
@@ -1215,16 +1215,16 @@ export const allSuttasPaliNameDictionary = {
   "SN30.24": "Seyyadāyaka jalābuja",
   "SN30.25": "Āvasathadāyaka jalābuja",
   "SN30.26": "Padīpeyyadāyaka jalābuja",
-  "SN30.27": "Annadāyaka saṃsedaja",
-  "SN30.28": "Pānadāyaka saṃsedaja",
-  "SN30.29": "Vatthadāyaka saṃsedaja",
-  "SN30.30": "Yānadāyaka saṃsedaja",
-  "SN30.31": "Mālādāyaka saṃsedaja",
-  "SN30.32": "Gandhadāyaka saṃsedaja",
-  "SN30.33": "Vilepanadāyaka saṃsedaja",
-  "SN30.34": "Seyyadāyaka saṃsedaja",
-  "SN30.35": "Āvasathadāyaka saṃsedaja",
-  "SN30.36": "Padīpeyyadāyaka saṃsedaja",
+  "SN30.27": "Annadāyaka saṁsedaja",
+  "SN30.28": "Pānadāyaka saṁsedaja",
+  "SN30.29": "Vatthadāyaka saṁsedaja",
+  "SN30.30": "Yānadāyaka saṁsedaja",
+  "SN30.31": "Mālādāyaka saṁsedaja",
+  "SN30.32": "Gandhadāyaka saṁsedaja",
+  "SN30.33": "Vilepanadāyaka saṁsedaja",
+  "SN30.34": "Seyyadāyaka saṁsedaja",
+  "SN30.35": "Āvasathadāyaka saṁsedaja",
+  "SN30.36": "Padīpeyyadāyaka saṁsedaja",
   "SN30.37": "Annadāyaka opapātika",
   "SN30.38": "Pānadāyaka opapātika",
   "SN30.39": "Vatthadāyaka opapātika",
@@ -1407,37 +1407,37 @@ export const allSuttasPaliNameDictionary = {
   "SN33.1": "Rūpa aññāṇa",
   "SN33.2": "Vedanā aññāṇa",
   "SN33.3": "Saññā aññāṇa",
-  "SN33.4": "Saṃkhāra aññāṇa",
+  "SN33.4": "Saṁkhāra aññāṇa",
   "SN33.5": "Viññāṇa aññāṇa",
   "SN33.6": "Rūpa adassana",
   "SN33.7": "Vedanā adassana",
   "SN33.8": "Saññā adassana",
-  "SN33.9": "Saṃkhāra adassana",
+  "SN33.9": "Saṁkhāra adassana",
   "SN33.10": "Viññāṇa adassana",
   "SN33.11": "Rūpa anabhisamaya",
   "SN33.12": "Vedanā anabhisamaya",
   "SN33.13": "Saññā anabhisamaya",
-  "SN33.14": "Saṃkhāra anabhisamaya",
+  "SN33.14": "Saṁkhāra anabhisamaya",
   "SN33.15": "Viññāṇa anabhisamaya",
   "SN33.16": "Rūpa ananubodha",
   "SN33.17": "Vavavavedanā ananubodha",
   "SN33.18": "Saññā ananubodha",
-  "SN33.19": "Saṃkhāra ananubodha",
+  "SN33.19": "Saṁkhāra ananubodha",
   "SN33.20": "Viññāṇa ananubodha",
   "SN33.21": "Rūpa appaṭivedha",
   "SN33.22": "Vedanā appaṭivedha",
   "SN33.23": "Saññā appaṭivedha",
-  "SN33.24": "Saṃkhāra appaṭivedha",
+  "SN33.24": "Saṁkhāra appaṭivedha",
   "SN33.25": "Viññāṇa appaṭivedha",
   "SN33.26": "Rūpa asallakkhaṇa",
   "SN33.27": "Vedanā asallakkhaṇa",
   "SN33.28": "Saññā asallakkhaṇa",
-  "SN33.29": "Saṃkhāra asallakkhaṇa",
+  "SN33.29": "Saṁkhāra asallakkhaṇa",
   "SN33.30": "Viññāṇa asallakkhaṇa",
   "SN33.31": "Rūpa anupalakkhaṇa",
   "SN33.32": "Vedanā anupalakkhaṇa",
   "SN33.33": "Saññā anupalakkhaṇa",
-  "SN33.34": "Saṃkhāra anupalakkhaṇa",
+  "SN33.34": "Saṁkhāra anupalakkhaṇa",
   "SN33.35": "Viññāṇa anupalakkhaṇa",
   "SN33.36": "Rūpa apaccupalakkhaṇa",
   "SN33.37": "Vedanā apaccupalakkhaṇa",
@@ -1447,17 +1447,17 @@ export const allSuttasPaliNameDictionary = {
   "SN33.41": "Rūpa asamapekkhaṇa",
   "SN33.42": "Vedanā asamapekkhaṇa",
   "SN33.43": "Saññā asamapekkhaṇa",
-  "SN33.44": "Saṃkhāra asamapekkhaṇa",
+  "SN33.44": "Saṁkhāra asamapekkhaṇa",
   "SN33.45": "Viññāṇa asamapekkhaṇa",
   "SN33.46": "Rūpa apaccupekkhaṇa",
   "SN33.47": "Vedanā apaccupekkhaṇa",
   "SN33.48": "Saññā apaccupekkhaṇa",
-  "SN33.49": "Saṃkhāra apaccupekkhaṇa",
+  "SN33.49": "Saṁkhāra apaccupekkhaṇa",
   "SN33.50": "Viññāṇa apaccupekkhaṇa",
   "SN33.51": "Rūpa apaccakkhakamma",
   "SN33.52": "Vedanā apaccakkhakamma",
   "SN33.53": "Saññā apaccakkhakamma",
-  "SN33.54": "Saṃkhāra apaccakkhakamma",
+  "SN33.54": "Saṁkhāra apaccakkhakamma",
   "SN33.55": "Viññāṇa apaccakkhakamma",
   "SN34.1": "Samādhisamāpatti",
   "SN34.2": "Ṭhiti",
@@ -1551,7 +1551,7 @@ export const allSuttasPaliNameDictionary = {
   "SN35.35": "Vyādhidhamma",
   "SN35.36": "Maraṇadhamma",
   "SN35.37": "Sokadhamma",
-  "SN35.38": "Saṃkilesadhamma",
+  "SN35.38": "Saṁkilesadhamma",
   "SN35.39": "Khayadhamma",
   "SN35.40": "Vayadhamma",
   "SN35.41": "Samudayadhamma",
@@ -1611,7 +1611,7 @@ export const allSuttasPaliNameDictionary = {
   "SN35.95": "Māluṅkyaputta",
   "SN35.96": "Parihānadhamma",
   "SN35.97": "Pamādavihāri",
-  "SN35.98": "Saṃvara",
+  "SN35.98": "Saṁvara",
   "SN35.99": "Samādhi",
   "SN35.100": "Paṭisallāna",
   "SN35.101": "Paṭhama Natumhāka",
@@ -1720,18 +1720,18 @@ export const allSuttasPaliNameDictionary = {
   "SN35.204": "Atītayadanicca",
   "SN35.205": "Anāgatayadanicca",
   "SN35.206": "Paccuppannayadanicca",
-  "SN35.207": "Atīta yaṃ dukkha",
-  "SN35.208": "Anāgata yaṃ dukkha",
-  "SN35.209": "Paccuppanna yaṃ dukkha",
+  "SN35.207": "Atīta yaṁ dukkha",
+  "SN35.208": "Anāgata yaṁ dukkha",
+  "SN35.209": "Paccuppanna yaṁ dukkha",
   "SN35.210": "Atīta yadanatta",
   "SN35.211": "Anāgata yadanatta",
   "SN35.212": "Paccuppanna yadanta",
   "SN35.213": "Bāhirātīta yadanicca",
   "SN35.214": "Bāhirānāgata yadanicca",
   "SN35.215": "Bāhira paccuppanna yadanicca",
-  "SN35.216": "Bāhirātīta yaṃ dukkha",
-  "SN35.217": "Bāhirānāgata yaṃ dukkha",
-  "SN35.218": "Bāhirapaccuppanna yaṃ dukkha",
+  "SN35.216": "Bāhirātīta yaṁ dukkha",
+  "SN35.217": "Bāhirānāgata yaṁ dukkha",
+  "SN35.218": "Bāhirapaccuppanna yaṁ dukkha",
   "SN35.219": "Bāhirātīta yadanatta",
   "SN35.220": "Bāhirānāgata yadanatta",
   "SN35.221": "Bāhirapaccuppanna yadanta",
@@ -1758,7 +1758,7 @@ export const allSuttasPaliNameDictionary = {
   "SN35.242": "Dutiya Dārukkhandhopama",
   "SN35.243": "Avassutapariyāya",
   "SN35.244": "Dukkhadhamma",
-  "SN35.245": "Kiṃsukopama",
+  "SN35.245": "Kiṁsukopama",
   "SN35.246": "Vīṇopama",
   "SN35.247": "Chappāṇaka",
   "SN35.248": "Yavakalāpī",
@@ -1870,7 +1870,7 @@ export const allSuttasPaliNameDictionary = {
   "SN40.9": "Animitta",
   "SN40.10": "Sakka",
   "SN40.11": "Candana",
-  "SN41.1": "Saṃyojana",
+  "SN41.1": "Saṁyojana",
   "SN41.2": "Paṭhama Isidatta",
   "SN41.3": "Dutiya Isidatta",
   "SN41.4": "Mahaka",
@@ -1989,7 +1989,7 @@ export const allSuttasPaliNameDictionary = {
   "SN45.39": "Paṭhama Brahmacariya",
   "SN45.40": "Dutiya Brahmacariya",
   "SN45.41": "Virāga",
-  "SN45.42": "Saṃyojana",
+  "SN45.42": "Saṁyojana",
   "SN45.43": "Anusaya",
   "SN45.44": "Addhāna",
   "SN45.45": "Āsavakkhaya",
@@ -2126,8 +2126,8 @@ export const allSuttasPaliNameDictionary = {
   "SN45.176": "Kāmaguṇa",
   "SN45.177": "Nīvaraṇa",
   "SN45.178": "Upādānakkhandha",
-  "SN45.179": "Orambhāgiyasaṃyojana",
-  "SN45.180": "Uddhambhāgiyasaṃyojana",
+  "SN45.179": "Orambhāgiyasaṁyojana",
+  "SN45.180": "Uddhambhāgiyasaṁyojana",
   "SN46.1": "Himavanta",
   "SN46.2": "Kāya",
   "SN46.3": "Sīla",
@@ -2256,8 +2256,8 @@ export const allSuttasPaliNameDictionary = {
   "SN46.126": "Kāmaguṇa",
   "SN46.127": "Nīvaraṇa",
   "SN46.128": "Upādānakkhandha",
-  "SN46.129": "Orambhāgiyasaṃyojana",
-  "SN46.130": "Uddhambhāgiyasaṃyojana",
+  "SN46.129": "Orambhāgiyasaṁyojana",
+  "SN46.130": "Uddhambhāgiyasaṁyojana",
   "SN46.131": "Paṭhama Pācīnaninna",
   "SN46.132": "Dutiya Pācīnaninna",
   "SN46.133": "Tatiya Pācīnaninna",
@@ -2310,8 +2310,8 @@ export const allSuttasPaliNameDictionary = {
   "SN46.180": "Kāmaguṇa",
   "SN46.181": "Nīvaraṇa",
   "SN46.182": "Upādānakkhandha",
-  "SN46.183": "Orambhāgiyasaṃyojana",
-  "SN46.184": "Uddhambhāgiyasaṃyojana",
+  "SN46.183": "Orambhāgiyasaṁyojana",
+  "SN46.184": "Uddhambhāgiyasaṁyojana",
   "SN47.1": "Ambapāli",
   "SN47.2": "Sato",
   "SN47.3": "Bhikkhu",
@@ -2414,8 +2414,8 @@ export const allSuttasPaliNameDictionary = {
   "SN47.100": "Kāmaguṇa",
   "SN47.101": "Nīvaraṇa",
   "SN47.102": "Upādānakkhandha",
-  "SN47.103": "Orambhāgiyasaṃyojana",
-  "SN47.104": "Uddhambhāgiyasaṃyojana",
+  "SN47.103": "Orambhāgiyasaṁyojana",
+  "SN47.104": "Uddhambhāgiyasaṁyojana",
   "SN48.1": "Suddhaka",
   "SN48.2": "Paṭhama Sota",
   "SN48.3": "Dutiya Sota",
@@ -2476,7 +2476,7 @@ export const allSuttasPaliNameDictionary = {
   "SN48.58": "Sūkarakhata",
   "SN48.59": "Paṭhama Uppāda",
   "SN48.60": "Dutiya Uppāda",
-  "SN48.61": "Saṃyojana",
+  "SN48.61": "Saṁyojana",
   "SN48.62": "Anusaya",
   "SN48.63": "Addhāna",
   "SN48.64": "Āsavakkhaya",
@@ -2538,8 +2538,8 @@ export const allSuttasPaliNameDictionary = {
   "SN48.120": "Kāmaguṇa",
   "SN48.121": "Nīvaraṇa",
   "SN48.122": "Upādānakkhandha",
-  "SN48.123": "Orambhāgiyasaṃyojana",
-  "SN48.124": "Uddhambhāgiyasaṃyojana",
+  "SN48.123": "Orambhāgiyasaṁyojana",
+  "SN48.124": "Uddhambhāgiyasaṁyojana",
   "SN48.125": "Paṭhama Pācīnaninna",
   "SN48.126": "Dutiya Pācīnaninna",
   "SN48.127": "Tatiya Pācīnaninna",
@@ -2592,8 +2592,8 @@ export const allSuttasPaliNameDictionary = {
   "SN48.174": "Kāmaguṇa",
   "SN48.175": "Nīvaraṇa",
   "SN48.176": "Upādānakkhandha",
-  "SN48.177": "Orambhāgiyasaṃyojana",
-  "SN48.178": "Uddhambhāgiyasaṃyojana",
+  "SN48.177": "Orambhāgiyasaṁyojana",
+  "SN48.178": "Uddhambhāgiyasaṁyojana",
   "SN49.1": "Paṭhama Pācīnaninna",
   "SN49.2": "Dutiya Pācīnaninna",
   "SN49.3": "Tatiya Pācīnaninna",
@@ -2646,8 +2646,8 @@ export const allSuttasPaliNameDictionary = {
   "SN49.50": "Kāmaguṇa",
   "SN49.51": "Nīvaraṇa",
   "SN49.52": "Upādānakkhandha",
-  "SN49.53": "Orambhāgiyasaṃyojana",
-  "SN49.54": "Uddhambhāgiyasaṃyojana",
+  "SN49.53": "Orambhāgiyasaṁyojana",
+  "SN49.54": "Uddhambhāgiyasaṁyojana",
   "SN50.1": "Paṭhama Pācīnaninna - Samuddaninna 6",
   "SN50.2": "Dutiya Pācīnaninna",
   "SN50.3": "Tatiya Pācīnaninna",
@@ -2700,8 +2700,8 @@ export const allSuttasPaliNameDictionary = {
   "SN50.50": "Kāmaguṇa",
   "SN50.51": "Nīvaraṇa",
   "SN50.52": "Upādānakkhandha",
-  "SN50.53": "Orambhāgiyasaṃyojana",
-  "SN50.54": "Uddhambhāgiyasaṃyojana",
+  "SN50.53": "Orambhāgiyasaṁyojana",
+  "SN50.54": "Uddhambhāgiyasaṁyojana",
   "SN50.55": "Paṭhama Pācīnaninna",
   "SN50.56": "Dutiya Pācīnaninna",
   "SN50.57": "Tatiya Pācīnaninna",
@@ -2754,8 +2754,8 @@ export const allSuttasPaliNameDictionary = {
   "SN50.104": "Kāmaguṇa",
   "SN50.105": "Nīvaraṇa",
   "SN50.106": "Upādānakkhandha",
-  "SN50.107": "Orambhāgiyasaṃyojana",
-  "SN50.108": "Uddhambhāgiyasaṃyojana",
+  "SN50.107": "Orambhāgiyasaṁyojana",
+  "SN50.108": "Uddhambhāgiyasaṁyojana",
   "SN51.1": "Apāra",
   "SN51.2": "Viraddha",
   "SN51.3": "Ariya",
@@ -2840,8 +2840,8 @@ export const allSuttasPaliNameDictionary = {
   "SN51.82": "Kāmaguṇa",
   "SN51.83": "Nīvaraṇa",
   "SN51.84": "Upādānakkhandha",
-  "SN51.85": "Orambhāgiyasaṃyojana",
-  "SN51.86": "Uddhambhāgiyasaṃyojana",
+  "SN51.85": "Orambhāgiyasaṁyojana",
+  "SN51.86": "Uddhambhāgiyasaṁyojana",
   "SN52.1": "Paṭhama Rahogata",
   "SN52.2": "Dutiya Rahogata",
   "SN52.3": "Sutanu",
@@ -2918,8 +2918,8 @@ export const allSuttasPaliNameDictionary = {
   "SN53.50": "Kāmaguṇa",
   "SN53.51": "Nīvaraṇa",
   "SN53.52": "Upādānakkhandha",
-  "SN53.53": "Orambhāgiyasaṃyojana",
-  "SN53.54": "Uddhambhāgiyasaṃyojana",
+  "SN53.53": "Orambhāgiyasaṁyojana",
+  "SN53.54": "Uddhambhāgiyasaṁyojana",
   "SN54.1": "Ekadhamma",
   "SN54.2": "Bojajhaṅga",
   "SN54.3": "Suddhaka",
@@ -2936,7 +2936,7 @@ export const allSuttasPaliNameDictionary = {
   "SN54.14": "Dutiya Ānanda",
   "SN54.15": "Paṭhama Bhikkhu",
   "SN54.16": "Dutiya Bhikkhu",
-  "SN54.17": "Saṃyojana",
+  "SN54.17": "Saṁyojana",
   "SN54.18": "Anusaya",
   "SN54.19": "Addhāna",
   "SN54.20": "Āsavakkhaya",
@@ -2991,7 +2991,7 @@ export const allSuttasPaliNameDictionary = {
   "SN55.49": "Mahānāma",
   "SN55.50": "Aṅga",
   "SN55.51": "Sagāthaka",
-  "SN55.52": "Vassaṃvuttha",
+  "SN55.52": "Vassaṁvuttha",
   "SN55.53": "Dhammadinna",
   "SN55.54": "Gilāna",
   "SN55.55": "Paṭhama Phala",
@@ -3044,7 +3044,7 @@ export const allSuttasPaliNameDictionary = {
   "SN56.28": "Loka",
   "SN56.29": "Pariññeyya",
   "SN56.30": "Gavamapati",
-  "SN56.31": "Siṃsapā",
+  "SN56.31": "Siṁsapā",
   "SN56.32": "Khadira",
   "SN56.33": "Daṇḍa",
   "SN56.34": "Cela",
@@ -3098,7 +3098,7 @@ export const allSuttasPaliNameDictionary = {
   "SN56.82": "Uccāsayana",
   "SN56.83": "Jātarūpa",
   "SN56.84": "Āmakadhañña",
-  "SN56.85": "Āmakamaṃsa",
+  "SN56.85": "Āmakamaṁsa",
   "SN56.86": "Kumārika",
   "SN56.87": "Dāsidāsa",
   "SN56.88": "Ajeḷaka",
@@ -3416,7 +3416,7 @@ export const allSuttasPaliNameDictionary = {
   "AN3.10": "Mala",
   "AN3.11": "Ñāta",
   "AN3.12": "Sāraṇīya",
-  "AN3.13": "Āsaṃsa",
+  "AN3.13": "Āsaṁsa",
   "AN3.14": "Cakkavatti",
   "AN3.15": "Pacetana [Sacetana]",
   "AN3.16": "Apaṇṇaka",
@@ -3504,7 +3504,7 @@ export const allSuttasPaliNameDictionary = {
   "AN3.98": "Tatiya Ājānīya",
   "AN3.99": "Potthaka",
   "AN3.100": "Loṇakapalla",
-  "AN3.101": "Paṃsudhovaka",
+  "AN3.101": "Paṁsudhovaka",
   "AN3.102": "Nimitta",
   "AN3.103": "Pubbevasambodha",
   "AN3.104": "Paṭhama Assāda",
@@ -3576,7 +3576,7 @@ export const allSuttasPaliNameDictionary = {
   "AN4.11": "Caranta [Cara]",
   "AN4.12": "Sīla",
   "AN4.13": "Padhāna",
-  "AN4.14": "Saṃvarappadhāna [Saṃvara]",
+  "AN4.14": "Saṁvarappadhāna [Saṁvara]",
   "AN4.15": "Aggapaññatti [Paññatti]",
   "AN4.16": "Sokhumma",
   "AN4.17": "Agati [Paṭhama Agati]",
@@ -3590,7 +3590,7 @@ export const allSuttasPaliNameDictionary = {
   "AN4.25": "Brahmacariya",
   "AN4.26": "Kuhaka [Kuha]",
   "AN4.27": "Santuṭṭhi",
-  "AN4.28": "Ariyavaṃsa",
+  "AN4.28": "Ariyavaṁsa",
   "AN4.29": "Dhammapada",
   "AN4.30": "Paribbājaka",
   "AN4.31": "Cakka",
@@ -3615,8 +3615,8 @@ export const allSuttasPaliNameDictionary = {
   "AN4.50": "Upakkilesa",
   "AN4.51": "Paṭhama Puññābhisanda",
   "AN4.52": "Dutiya Puññābhisanda",
-  "AN4.53": "Paṭhama Saṃvāsa",
-  "AN4.54": "Dutiya Saṃvāsa",
+  "AN4.53": "Paṭhama Saṁvāsa",
+  "AN4.54": "Dutiya Saṁvāsa",
   "AN4.55": "Paṭhama Samajīvī",
   "AN4.56": "Dutiya Samajīvī",
   "AN4.57": "Suppavāsā",
@@ -3650,7 +3650,7 @@ export const allSuttasPaliNameDictionary = {
   "AN4.85": "Tamotamaparāyana [Tamotama]",
   "AN4.86": "Onatonata [Oṇatoṇata]",
   "AN4.87": "Samaṇamacala putta [Putta]",
-  "AN4.88": "Samaṇamacala saññojana [Saṃyojana]",
+  "AN4.88": "Samaṇamacala saññojana [Saṁyojana]",
   "AN4.89": "Samaṇamacala diṭṭhi [Sammādiṭṭhi]",
   "AN4.90": "Samaṇamacala khandha [Khandha]",
   "AN4.91": "Asura",
@@ -3680,7 +3680,7 @@ export const allSuttasPaliNameDictionary = {
   "AN4.115": "Ṭhāna",
   "AN4.116": "Appamāda",
   "AN4.117": "Ārakkha",
-  "AN4.118": "Saṃvejanīya",
+  "AN4.118": "Saṁvejanīya",
   "AN4.119": "Paṭhama Bhaya",
   "AN4.120": "Dutiya Bhaya",
   "AN4.121": "Tatiya Bhaya [Attānuvāda]",
@@ -3693,7 +3693,7 @@ export const allSuttasPaliNameDictionary = {
   "AN4.128": "Dutiya Tathāgatacchariya [Dutiya Tathāgataacchariya]",
   "AN4.129": "Ānandācchariya",
   "AN4.130": "Cakkavattiacchariya",
-  "AN4.131": "Saṃyojanapuggala [Saṃyojana]",
+  "AN4.131": "Saṁyojanapuggala [Saṁyojana]",
   "AN4.132": "Paṭibhānapuggala [Paṭibhāna]",
   "AN4.133": "Neyyapuggala [Ugghaṭitaññū]",
   "AN4.134": "Phalupajivīpuggala [Uṭṭhānaphala]",
@@ -3723,7 +3723,7 @@ export const allSuttasPaliNameDictionary = {
   "AN4.158": "Parihāṇi [Parihāni]",
   "AN4.159": "Bhikkhunī",
   "AN4.160": "Sugatavinaya",
-  "AN4.161": "Paṭhama Paṭipadā [Saṃkhitta]",
+  "AN4.161": "Paṭhama Paṭipadā [Saṁkhitta]",
   "AN4.162": "Dutiya Paṭipadā [Vitthāra]",
   "AN4.163": "Tatiya Paṭipadā [Asubha]",
   "AN4.164": "Paṭipadā 4 [Paṭhama Khama]",
@@ -3794,20 +3794,20 @@ export const allSuttasPaliNameDictionary = {
   "AN4.229": "Ahirika [Bālapaṇḍita 8]",
   "AN4.230": "Duppañña [Bālapaṇḍita 9]",
   "AN4.231": "Kavi",
-  "AN4.232": "Saṃkhitta [Paṭhama Kamma]",
+  "AN4.232": "Saṁkhitta [Paṭhama Kamma]",
   "AN4.233": "Vitthāra [Dutiya Kamma]",
   "AN4.234": "Soṇakāyana [Tatiya Kamma]",
   "AN4.235": "Paṭhama Sikkhāpada [Catuttha Kamma]",
-  "AN4.236": "Dutiya Sikkhāpada Kamma 5]",
+  "AN4.236": "Dutiya Sikkhāpada [Kamma 5]",
   "AN4.237": "Ariyamagga [Kamma 6]",
   "AN4.238": "Bojjhaṅga [Kamma 7]",
   "AN4.239": "Sāvajja anavajjakamma [Sāvajja]",
   "AN4.240": "Sabyāpajjha abyāpajjhakamma [Abyābajjha]",
   "AN4.241": "Samaṇa",
-  "AN4.242": "Sappurisānisaṃsa",
+  "AN4.242": "Sappurisānisaṁsa",
   "AN4.243": "Saṅghabhedaka [Pāpabhikkhu]",
   "AN4.244": "Āpattibhaya",
-  "AN4.245": "Sikkhānisaṃsa",
+  "AN4.245": "Sikkhānisaṁsa",
   "AN4.246": "Seyyā",
   "AN4.247": "Thūpāraha",
   "AN4.248": "Paññāvuddhi",
@@ -3864,7 +3864,7 @@ export const allSuttasPaliNameDictionary = {
   "AN4.694-723": "Atimāna peyyāla",
   "AN4.724-753": "Pamāda peyyāla",
   "AN4.754-783": "Macchariya peyyāla",
-  "AN5.1": "Sekhabalasaṅkhitta [Saṃkhitta]",
+  "AN5.1": "Sekhabalasaṅkhitta [Saṁkhitta]",
   "AN5.2": "Sekhabalavitthata [Vitthata]",
   "AN5.3": "Dukkha",
   "AN5.4": "Yathābhata",
@@ -3876,7 +3876,7 @@ export const allSuttasPaliNameDictionary = {
   "AN5.10": "Dutiya Agārava",
   "AN5.11": "Tathāgatabala [Ananussuta]",
   "AN5.12": "Sekhabala agga [Kūṭa]",
-  "AN5.13": "Balasaṅkhitta [Saṃkhitta]",
+  "AN5.13": "Balasaṅkhitta [Saṁkhitta]",
   "AN5.14": "Balavitthata [Vitthata]",
   "AN5.15": "Baladaṭṭhabba [Daṭṭhabba]",
   "AN5.16": "Bala agga [Punakūṭa]",
@@ -3892,13 +3892,13 @@ export const allSuttasPaliNameDictionary = {
   "AN5.26": "Vimuttāyatana",
   "AN5.27": "Samādhi",
   "AN5.28": "Pañcaṅgikasamādhi [Pañcaṅgika]",
-  "AN5.29": "Caṅkamānisaṃsa [Caṅkama]",
+  "AN5.29": "Caṅkamānisaṁsa [Caṅkama]",
   "AN5.30": "Nāgita",
   "AN5.31": "Sumanā [Sumana]",
   "AN5.32": "Cundī",
   "AN5.33": "Uggaha",
   "AN5.34": "Sīhasenāpati",
-  "AN5.35": "Dānānisaṃsa",
+  "AN5.35": "Dānānisaṁsa",
   "AN5.36": "Kāladāna",
   "AN5.37": "Bhojana",
   "AN5.38": "Saddha",
@@ -3928,8 +3928,8 @@ export const allSuttasPaliNameDictionary = {
   "AN5.62": "Dutiya Saññā",
   "AN5.63": "Paṭhama Vaḍḍhī [Paṭhama Vaḍḍhi]",
   "AN5.64": "Dutiya Vaḍḍhī [Dutiya Vaḍḍhi]",
-  "AN5.65": "Alaṃsākaccha [Sākaccha]",
-  "AN5.66": "Alaṃsājīva [Sājīva]",
+  "AN5.65": "Alaṁsākaccha [Sākaccha]",
+  "AN5.66": "Alaṁsājīva [Sājīva]",
   "AN5.67": "Paṭhama Iddhipāda",
   "AN5.68": "Dutiya Iddhipāda",
   "AN5.69": "Nibbidā",
@@ -3997,10 +3997,10 @@ export const allSuttasPaliNameDictionary = {
   "AN5.131": "Paṭhama Cakkānuvattana",
   "AN5.132": "Dutiya Cakkānuvattana",
   "AN5.133": "Dhammarāja [Dhammarājā]",
-  "AN5.134": "Khattiyarāja [Yassaṃdisaṃ]",
+  "AN5.134": "Khattiyarāja [Yassaṁdisaṁ]",
   "AN5.135": "Paṭhama Patthanā",
   "AN5.136": "Dutiya Patthanā",
-  "AN5.137": "Appaṃsupati",
+  "AN5.137": "Appaṁsupati",
   "AN5.138": "Bhattādaka",
   "AN5.139": "Akkhama",
   "AN5.140": "Sotāra [Sota]",
@@ -4045,7 +4045,7 @@ export const allSuttasPaliNameDictionary = {
   "AN5.179": "Gihī [Gihi]",
   "AN5.180": "Gavesī",
   "AN5.181": "Āraññaka [Āraññika]",
-  "AN5.182": "Paṃsukūlika [Cīvara]",
+  "AN5.182": "Paṁsukūlika [Cīvara]",
   "AN5.183": "Rukkhamūlika",
   "AN5.184": "Sosānika",
   "AN5.185": "Abbhokāsika",
@@ -4241,7 +4241,7 @@ export const allSuttasPaliNameDictionary = {
   "AN6.47": "Paṭhama Sandiṭṭhika",
   "AN6.48": "Dutiya Sandiṭṭhika",
   "AN6.49": "Khema",
-  "AN6.50": "Indriyasaṃvara",
+  "AN6.50": "Indriyasaṁvara",
   "AN6.51": "Ānanda",
   "AN6.52": "Khattiya",
   "AN6.53": "Appamāda",
@@ -4288,7 +4288,7 @@ export const allSuttasPaliNameDictionary = {
   "AN6.94": "Tatiya Abhabbaṭṭhāna",
   "AN6.95": "Catuttha Abhabbaṭṭhāna",
   "AN6.96": "Pātubhāva",
-  "AN6.97": "Ānisaṃsa",
+  "AN6.97": "Ānisaṁsa",
   "AN6.98": "Anicca",
   "AN6.99": "Dukkha",
   "AN6.100": "Anatta",
@@ -4319,14 +4319,14 @@ export const allSuttasPaliNameDictionary = {
   "AN6.170-649": "Dosādi peyyāla",
   "AN7.1": "Paṭhama Piyabhikkhū [Paṭhama Piya]",
   "AN7.2": "Dutiya Piyabhikkhū [Dutiya Piya]",
-  "AN7.3": "Saṅkhittasattabala [Saṃkhittabala]",
+  "AN7.3": "Saṅkhittasattabala [Saṁkhittabala]",
   "AN7.4": "Vitthatasattabala [Vitthatabala]",
-  "AN7.5": "Saṅkhittadhana [Saṃkhittadhana]",
+  "AN7.5": "Saṅkhittadhana [Saṁkhittadhana]",
   "AN7.6": "Vitthatadhana",
   "AN7.7": "Uggamahāmatta [Ugga]",
-  "AN7.8": "Sattasaññojana [Saṃyojana]",
+  "AN7.8": "Sattasaññojana [Saṁyojana]",
   "AN7.9": "Saññojanappahāna [Pahāna]",
-  "AN7.10": "Macchariyasaṃyojana [Macchariya]",
+  "AN7.10": "Macchariyasaṁyojana [Macchariya]",
   "AN7.11": "Anusaya [Paṭhama Anusaya]",
   "AN7.12": "Anusayappahāna [Dutiya Anusaya]",
   "AN7.13": "Kulūpagamana [Kula]",
@@ -4367,7 +4367,7 @@ export const allSuttasPaliNameDictionary = {
   "AN7.48": "Saṅkhittasattasaññā [Paṭhama Saññā]",
   "AN7.49": "Vitthatasattasaññā [Dutiya Saññā]",
   "AN7.50": "Methuna",
-  "AN7.51": "Saṃyogavisaṃyoga dhammapariyāya [Saṃyoga]",
+  "AN7.51": "Saṁyogavisaṁyoga dhammapariyāya [Saṁyoga]",
   "AN7.52": "Dānamahapphala",
   "AN7.53": "Nandamātā",
   "AN7.54": "Abyākatavatthu [Abyākata]",
@@ -4416,7 +4416,7 @@ export const allSuttasPaliNameDictionary = {
   "AN7.103-614": "Sotāniccānupassī peyyāla",
   "AN7.615-644": "Rāga peyyāla",
   "AN7.645-1124": "Dosādi peyyāla",
-  "AN8.1": "Mettānisaṃsa [Mettā]",
+  "AN8.1": "Mettānisaṁsa [Mettā]",
   "AN8.2": "Ādibrahmacariyapaññā [Paññā]",
   "AN8.3": "Paṭhama Piya [Paṭhama Appiya]",
   "AN8.4": "Dutiya Piya [Dutiya Appiya]",
@@ -4455,8 +4455,8 @@ export const allSuttasPaliNameDictionary = {
   "AN8.37": "Sappurisadāna",
   "AN8.38": "Sappurisa",
   "AN8.39": "Puññābhisanda [Abhisanda]",
-  "AN8.40": "Apāyasaṃvattanika [Duccaritavipāka]",
-  "AN8.41": "Saṅkhitta aṭṭhaṅguposatha [Saṃkhittūposatha]",
+  "AN8.40": "Apāyasaṁvattanika [Duccaritavipāka]",
+  "AN8.41": "Saṅkhitta aṭṭhaṅguposatha [Saṁkhittūposatha]",
   "AN8.42": "Vitthata aṭṭhaṅguposatha [Vitthatūposatha]",
   "AN8.43": "Visākhūposatha [Visākhā]",
   "AN8.44": "Vāseṭṭhuposatha [Vāseṭṭha]",
@@ -4468,7 +4468,7 @@ export const allSuttasPaliNameDictionary = {
   "AN8.50": "Dutiya Lokavijaya [Dutiya Idhalokika]",
   "AN8.51": "Gotamī",
   "AN8.52": "Bhikkhunovādaka [Ovāda]",
-  "AN8.53": "Saṅkhitta gotamiyovāda [Saṃkhitta]",
+  "AN8.53": "Saṅkhitta gotamiyovāda [Saṁkhitta]",
   "AN8.54": "Byagghapajja [Dīghajāṇu]",
   "AN8.55": "Ujjaya",
   "AN8.56": "Kāmādhivacana [Bhaya]",
@@ -4477,8 +4477,8 @@ export const allSuttasPaliNameDictionary = {
   "AN8.59": "Paṭhama Aṭṭhapuggala [Paṭhama Puggala]",
   "AN8.60": "Dutiya Aṭṭhapuggala [Dutiya Puggala]",
   "AN8.61": "Lābhicchā [Icchā]",
-  "AN8.62": "Alaṃ",
-  "AN8.63": "Saṅkhittadesita [Saṃkhitta]",
+  "AN8.62": "Alaṁ",
+  "AN8.63": "Saṅkhittadesita [Saṁkhitta]",
   "AN8.64": "Adhidevañāṇadassana [Gayāsīsa]",
   "AN8.65": "Abhibhāyatana",
   "AN8.66": "Vimokkha",
@@ -4493,12 +4493,12 @@ export const allSuttasPaliNameDictionary = {
   "AN8.75": "Paṭhama Sampadā",
   "AN8.76": "Dutiya Sampadā",
   "AN8.77": "Icchā",
-  "AN8.78": "Alaṃ",
+  "AN8.78": "Alaṁ",
   "AN8.79": "Sekhaparihāniya [Parihāna]",
   "AN8.80": "Kusītārambhavatthu",
   "AN8.81": "Satisampajañña",
   "AN8.82": "Puṇṇiya",
-  "AN8.83": "Kiṃmūlaka [Mūlaka]",
+  "AN8.83": "Kiṁmūlaka [Mūlaka]",
   "AN8.84": "Mahācoraṅga [Cora]",
   "AN8.85": "Tathāgatādhivacana [Samaṇa]",
   "AN8.86": "Nāgita [Yasa]",
@@ -4620,7 +4620,7 @@ export const allSuttasPaliNameDictionary = {
   "AN10.10": "Vijjā",
   "AN10.11": "Senāsana",
   "AN10.12": "Pañcaṅga",
-  "AN10.13": "Saṃyojana",
+  "AN10.13": "Saṁyojana",
   "AN10.14": "Cetokhila",
   "AN10.15": "Appamāda",
   "AN10.16": "Āhuneyya",
@@ -4700,7 +4700,7 @@ export const allSuttasPaliNameDictionary = {
   "AN10.90": "Khīṇāsavabala [Bala]",
   "AN10.91": "Kāmabhogī",
   "AN10.92": "Bhaya [Vera]",
-  "AN10.93": "Kiṃdiṭṭhika [Diṭṭhi]",
+  "AN10.93": "Kiṁdiṭṭhika [Diṭṭhi]",
   "AN10.94": "Vajjiyamāhita [Vajja]",
   "AN10.95": "Uttiya",
   "AN10.96": "Kokanada [Kokanuda]",
@@ -4802,7 +4802,7 @@ export const allSuttasPaliNameDictionary = {
   "AN10.213": "Mātugāma",
   "AN10.214": "Upāsikā",
   "AN10.215": "Visārada",
-  "AN10.216": "Saṃsappaniya pariyāya [Saṃsappanīya]",
+  "AN10.216": "Saṁsappaniya pariyāya [Saṁsappanīya]",
   "AN10.217": "Paṭhama Sañcetanika",
   "AN10.218": "Dutiya Sañcetanika",
   "AN10.219": "Karajakāya",
@@ -4832,7 +4832,7 @@ export const allSuttasPaliNameDictionary = {
   "AN11.12": "Dutiya Mahānāma",
   "AN11.13": "Nandiya",
   "AN11.14": "Subhūti",
-  "AN11.15": "Mettānisaṃsa [Mettā]",
+  "AN11.15": "Mettānisaṁsa [Mettā]",
   "AN11.16": "Aṭṭhakanāgara [Dasama]",
   "AN11.17": "Gopālaka [Gopāla]",
   "AN11.18": "Paṭhama Samādhi",
@@ -4852,826 +4852,18 @@ export const allSuttasPaliNameDictionary = {
   "AN11.982-1151": "Rāgādi peyyāla",
   Kp1: "Saraṇattaya [Saraṇagamana]",
   Kp2: "Dasasikkhāpada",
-  Kp3: "Dvattiṃsākāra",
+  Kp3: "Dvattiṁsākāra",
   Kp4: "Kumārapañhā [Samanerapañhā]",
   Kp5: "Maṅgala",
   Kp6: "Ratana",
   Kp7: "Tirokuṭṭa [Tirokuddakaṇḍa]",
   Kp8: "Nidhikaṇḍa",
   Kp9: "Metta [Karaṇīyamettā]",
-  Dhp1: "1. Intention shapes experiences;\nintention is first, they’re made by intention.\nIf with corrupt intent\nyou speak or act,\nsuffering follows you,\nlike a wheel, the ox’s foot.\n",
-  Dhp2: "2. Intention shapes experiences;\nintention is first, they’re made by intention.\nIf with pure intent\nyou speak or act,\nhappiness follows you\nlike a shadow that never leaves.\n",
-  Dhp3: "3. “They abused me, they hit me!\nThey beat me, they robbed me!”\nFor those who bear such a grudge,\nhatred never ends.\n",
-  Dhp4: "4. “They abused me, they hit me!\nThey beat me, they robbed me!”\nFor those who bear no such grudge,\nhatred has an end.\n",
-  Dhp5: "5. For never is hatred\nsettled by hate,\nit’s only settled by love:\nthis is an ancient law. \n",
-  Dhp6: "6. Others don’t understand\nthat here we need to be restrained.\nBut those who do understand this,\nbeing clever, settle their conflicts.\n",
-  Dhp7: "7. Those who contemplate the beautiful,\ntheir faculties unrestrained,\nimmoderate in eating,\nlazy, lacking energy:\nMāra strikes them down\nlike the wind, a feeble tree.\n",
-  Dhp8: "8. Those who contemplate the ugly,\ntheir faculties well-restrained,\neating in moderation, \nfaithful and energetic:\nMāra cannot strike them down,\nlike the wind, a rocky mountain.\n",
-  Dhp9: "9. One who, not free of stains themselves,\nwould wear the robe stained in ocher,\nbereft of self-control and of truth:\nthey are not worthy of the ocher robe.\n",
-  Dhp10:
-    "10. One who’s purged all their stains,\nsteady in ethics,\npossessed of self-control and of truth,\nthey are truly worthy of the ocher robe.\n",
-  Dhp11:
-    "11. Thinking the inessential is essential,\nseeing the essential as inessential;\nthey don’t realize the essential,\nfor wrong thoughts are their pasture.\n",
-  Dhp12:
-    "12. Having known the essential as essential,\nand the inessential as inessential;\nthey realize the essential,\nfor right thoughts are their pasture.\n",
-  Dhp13: "13. Just as rain seeps into\na poorly roofed house,\nlust seeps into\nan undeveloped mind.\n",
-  Dhp14: "14. Just as rain doesn’t seep into\na well roofed house,\nlust doesn’t seep into\na well developed mind.\n",
-  Dhp15:
-    "15. Here they grieve, hereafter they grieve,\nan evildoer grieves in both places.\nThey grieve and fret,\nseeing their own corrupt deeds.\n",
-  Dhp16:
-    "16. Here they rejoice, hereafter they rejoice,\none who does good rejoices in both places.\nThey rejoice and celebrate,\nseeing their own pure deeds.\n",
-  Dhp17:
-    "17. Here they’re tormented, hereafter they’re tormented,\nan evildoer is tormented in both places.\nThey’re tormented thinking of bad things they’ve done;\nwhen gone to a bad place, they’re tormented all the more.\n",
-  Dhp18:
-    "18. Here they delight, hereafter they delight,\none who does good delights in both places.\nThey delight thinking of good things they’ve done;\nwhen gone to a good place, they delight all the more.\n",
-  Dhp19:
-    "19. Much though they may recite scripture,\nif a negligent person does not apply them,\nthen, like a cowherd who counts the cattle of others,\nthey miss out on the blessings of the ascetic life.\n",
-  Dhp20:
-    "20. Little though they may recite scripture,\nif they live in line with the teachings,\nhaving given up greed, hate, and delusion,\nwith deep understanding and heart well-freed,\nnot grasping to this world or the next,\nthey share in the blessings of the ascetic life.\n",
-  Dhp21:
-    "21. Heedfulness is the deathless state;\nheedlessness is the state of death.\nThe heedful do not die,\nwhile the heedless are like the dead.\n",
-  Dhp22:
-    "22. Understanding this distinction\nwhen it comes to heedfulness,\nthe astute rejoice in heedfulness,\nhappy in the noble ones’ domain.\n",
-  Dhp23:
-    "23. They who regularly meditate,\nalways staunchly vigorous;\nthose wise ones realize quenching,\nthe supreme sanctuary. \n",
-  Dhp24:
-    "24. For the hard-working and mindful,\npure of deed and attentive,\nrestrained, living righteously, and diligent,\ntheir reputation only grows.\n",
-  Dhp25:
-    "25. By hard work and diligence,\nby restraint and by self-control,\na smart person would build an island\nthat the floods cannot overflow.\n",
-  Dhp26:
-    "26. Fools and half-wits\ndevote themselves to negligence.\nBut the wise protect diligence\nas their best treasure.\n",
-  Dhp27:
-    "27. Don’t devote yourself to negligence,\nor delight in sexual intimacy.\nFor if you’re diligent and meditate,\nyou’ll attain abundant happiness. \n",
-  Dhp28:
-    "28. When the astute dispel negligence\nby means of diligence,\nascending the palace of wisdom,\nsorrowless, they behold this generation of sorrow,\nas a wise man on a mountain-top\nbeholds the fools below.\n",
-  Dhp29:
-    "29. Heedful among the heedless,\nwide awake while others sleep—\na true sage leaves them behind,\nlike a swift horse passing a feeble.\n",
-  Dhp30:
-    "30. Maghavā became chief of the gods\nby means of diligence.\nPeople praise diligence,\nwhile negligence is always deplored.\n",
-  Dhp31:
-    "31. A mendicant who loves to be diligent,\nseeing fear in negligence—\nadvances like fire, \nburning up fetters big and small.\n",
-  Dhp32:
-    "32. A mendicant who loves to be diligent,\nseeing fear in negligence—\nsuch a one can’t decline,\nand has drawn near to extinguishment.\n",
-  Dhp33:
-    "33. The mind quivers and shakes,\nhard to guard, hard to curb.\nThe discerning straighten it out,\nlike a fletcher straightens an arrow.\n",
-  Dhp34:
-    "34. Like a fish pulled from the sea\nand cast upon the shore,\nthis mind flounders about,\ntrying to throw off Māra’s sway.\n",
-  Dhp35:
-    "35. Hard to hold back, flighty,\nalighting where it will;\nit’s good to tame the mind;\na tamed mind leads to bliss.\n",
-  Dhp36:
-    "36. So hard to see, so subtle,\nalighting where it will;\nthe discerning protect the mind,\na guarded mind leads to bliss.\n",
-  Dhp37:
-    "37. The mind travels far, wandering alone;\nincorporeal, it hides in a cave.\nThose who will restrain the mind\nare freed from Māra’s bonds. \n",
-  Dhp38:
-    "38. Those of unsteady mind,\nwho don’t understand the true teaching,\nand whose confidence wavers,\ndo not perfect their wisdom.\n",
-  Dhp39:
-    "39. One whose mind is uncorrupted,\nwhose heart is undamaged,\nwho’s given up right and wrong,\nalert, has nothing to fear.\n",
-  Dhp40:
-    "40. Knowing this body breaks like a pot,\nand fortifying the mind like a citadel,\nattack Māra with the sword of wisdom,\nguard your conquest, and never settle.\n",
-  Dhp41:
-    "41. All too soon this body\nwill lie upon the earth,\nbereft of consciousness,\ntossed aside like a useless log.\n",
-  Dhp42: "42. A wrongly directed mind\nwould do you more harm\nthan a hater to the hated,\nor an enemy to their foe.\n",
-  Dhp43: "43. A rightly directed mind\nwould do you more good\nthan your mother or father\nor any other relative.\n",
-  Dhp44:
-    "44. Who shall explore this land,\nand the Yama realm with its gods?\nWho shall examine the well-taught word of truth,\nas an expert examines a flower?\n",
-  Dhp45:
-    "45. A trainee shall explore this land,\nand the Yama realm with its gods.\nA trainee shall examine the well-taught word of truth,\nas an expert examines a flower.\n",
-  Dhp46:
-    "46. Knowing this body’s like foam,\nrealizing it’s all just a mirage,\nand cutting off Māra’s blossoming,\nvanish from the King of Death.\n",
-  Dhp47:
-    "47. As a mighty flood sweeps off a sleeping village,\ndeath steals away a man\neven as he gathers flowers,\nhis mind caught up in them.\n",
-  Dhp48:
-    "48. The terminator gains control of the man\nwho has not had his fill of pleasures,\neven as he gathers flowers,\nhis mind caught up in them.\n",
-  Dhp49:
-    "49. A bee takes the nectar\nand moves on, doing no damage\nto the flower’s beauty and fragrance;\nand that’s how a sage should walk in the village.\n",
-  Dhp50:
-    "50. Don’t find fault with others,\nwith what they’ve done or left undone.\nYou should only watch yourself,\nwhat you’ve done or left undone.\n",
-  Dhp51:
-    "51. Just like a glorious flower\nthat’s colorful but lacks fragrance;\neloquent speech is fruitless\nfor one who does not act on it.\n",
-  Dhp52:
-    "52. Just like a glorious flower\nthat’s both colorful and fragrant,\neloquent speech is fruitful\nfor one who acts on it.\n",
-  Dhp53:
-    "53. Just as one would create many garlands\nfrom a heap of flowers,\nwhen a person has come to be born,\nthey should do many skillful things.\n",
-  Dhp54:
-    "54. The fragrance of flowers doesn’t spread upwind,\nnor sandalwood, pinwheel, or jasmine;\nbut the fragrance of the good spreads upwind;\na good person’s virtue spreads in every direction.\n",
-  Dhp55:
-    "55. Among all the fragrances—\nsandalwood or pinwheel\nor lotus or jasmine—\nthe fragrance of virtue is supreme.\n",
-  Dhp56:
-    "56. Faint is the fragrance\nof sandal or pinwheel;\nbut the fragrance of the virtuous\nfloats to the highest gods.\n",
-  Dhp57:
-    "57. For those accomplished in ethics,\nmeditating diligently,\nfreed through the highest knowledge,\nMāra cannot find their path.\n",
-  Dhp58: "58. From a forsaken heap\ndiscarded on the highway,\na lotus might blossom,\nfragrant and delightful.\n",
-  Dhp59:
-    "59. So too, among the forsaken,\na disciple of the perfect Buddha\noutshines with their wisdom\nthe blind ordinary folk.\n",
-  Dhp60:
-    "60. Long is the night for the wakeful;\nlong is the league for the weary;\nlong transmigrate the fools\nwho don’t understand the true teaching.\n",
-  Dhp61:
-    "61. If while wandering you find no partner\nequal or better than yourself,\nthen firmly resolve to wander alone—\nthere’s no fellowship with fools.\n",
-  Dhp62:
-    "62. “Sons are mine, wealth is mine”—\nthus the fool frets.\nBut you can’t even call your self your own,\nlet alone your sons or wealth.\n",
-  Dhp63:
-    "63. The fool who thinks they’re a fool\nis wise at least to that extent.\nBut the true fool is said to be one\nwho imagines that they are wise.\n",
-  Dhp64:
-    "64. Though a fool attends to the wise\neven for the rest of their life,\nthey still don’t experience the teaching,\nlike a spoon the taste of the soup.\n",
-  Dhp65:
-    "65. If a clever person attends to the wise\neven just for an hour or so,\nthey swiftly experience the teaching,\nlike a tongue the taste of the soup.\n",
-  Dhp66: "66. Witless fools behave\nlike their own worst enemies,\ndoing wicked deeds\nthat ripen as bitter fruit.\n",
-  Dhp67:
-    "67. It’s not good to do a deed\nthat plagues you later on,\nfor which you weep and wail,\nas its effect stays with you.\n",
-  Dhp68:
-    "68. It is good to do a deed\nthat doesn’t plague you later on,\nthat gladdens and cheers,\nas its effect stays with you.\n",
-  Dhp69:
-    "69. The fool imagines that evil is sweet,\nso long as it has not yet ripened.\nBut as soon as that evil ripens,\nthey fall into suffering.\n",
-  Dhp70:
-    "70. Month after month a fool may eat\nfood from a grass-blade’s tip;\nbut they’ll never be worth a sixteenth part\nof one who has fathomed the teaching.\n",
-  Dhp71:
-    "71. For a wicked deed that has been done\ndoes not spoil quickly like milk.\nSmoldering, it follows the fool,\nlike a fire smothered over with ash.\n",
-  Dhp72:
-    "72. Whatever fame a fool may get,\nit only gives rise to harm.\nWhatever good features they have it ruins,\nand blows their head into bits.\n",
-  Dhp73:
-    "73. They’d seek the esteem that they lack,\nand status among the mendicants;\nauthority over monasteries,\nand honor among other families.\n",
-  Dhp74:
-    "74. “Let both layfolk and renunciants think\nthe work was done by me alone.\nIn anything at all that’s to be done,\nlet them fall under my sway alone.”\nSo thinks the fool,\ntheir greed and pride only growing.\n",
-  Dhp75:
-    "75. For the means to profit and the path to quenching\nare two quite different things.\nA mendicant disciple of the Buddha,\nunderstanding what this really means,\nwould never delight in honors,\nbut rather would foster seclusion.\n",
-  Dhp76:
-    "76. Regard one who sees your faults\nas a guide to a hidden treasure.\nStay close to one so wise and astute\nwho corrects you when you need it.\nSticking close to such an impartial person,\nthings get better, not worse. \n",
-  Dhp77: "77. Advise and instruct;\ncurb wickedness:\nfor you shall be loved by the good,\nand disliked by the bad.\n",
-  Dhp78:
-    "78. Don’t mix with bad friends,\nnor with the worst of men.\nMix with spiritual friends,\nand with the best of men.\n",
-  Dhp79:
-    "79. Through joy in the teaching you sleep at ease,\nwith clear and confident heart.\nAn astute person always delights in the teaching\nproclaimed by the Noble One.\n",
-  Dhp80:
-    "80. While irrigators guide water,\nfletchers straighten arrows,\nand carpenters carve timber,\nthe astute tame themselves.\n",
-  Dhp81: "81. As the wind cannot stir\na solid mass of rock,\nso too praise and blame\ndo not affect the wise.\n",
-  Dhp82: "82. Like a deep lake,\nclear and unclouded,\nso clear are the astute\nwhen they hear the teachings.\n",
-  Dhp83:
-    "83. Good people give up everything,\nthey don’t cajole for the things they desire.\nThough touched by sadness or happiness,\nthe astute appear neither depressed nor elated.\n",
-  Dhp84:
-    "84. Never wish for success by unjust means,\nfor your own sake or that of another,\ndesiring children, wealth, or nation;\nrather, be virtuous, wise, and just.\n",
-  Dhp85: "85. Few are those among humans\nwho cross to the far shore.\nThe rest just run around\non the near shore. \n",
-  Dhp86:
-    "86. When the teaching is well explained,\nthose who practice accordingly\nwill cross over \nDeath’s domain so hard to pass.\n",
-  Dhp87:
-    "87. Rid of dark qualities,\nan astute person should develop the bright.\nLeaving home behind \nfor the seclusion so hard to enjoy, \n",
-  Dhp88:
-    "88. find delight there,\nhaving left behind sensual pleasures.\nWith no possessions, an astute person\nwould cleanse themselves of mental corruptions. \n",
-  Dhp89:
-    "89. Those whose minds are rightly developed\nin the awakening factors;\nwho, letting go of attachments,\ndelight in not grasping:\nwith defilements ended, brilliant,\nthey in this world are quenched.\n",
-  Dhp90: "90. At journey’s end, rid of sorrow;\neverywhere free,\nall ties given up, \nno fever is found in them.\n",
-  Dhp91:
-    "91. The mindful apply themselves;\nthey delight in no abode.\nLike a swan from the marsh that’s gone,\nthey leave behind home after home.\n",
-  Dhp92:
-    "92. Those with nothing stored up,\nwho have understood their food,\nwhose domain is the liberation\nof the signless and the empty:\ntheir path is hard to trace,\nlike birds in the sky.\n",
-  Dhp93:
-    "93. One whose defilements have ended;\nwho’s not attached to food;\nwhose domain is the liberation\nof the signless and the empty:\ntheir track is hard to trace,\nlike birds in the sky.\n",
-  Dhp94:
-    "94. Whose faculties have become serene,\nlike horses tamed by a charioteer,\nwho has abandoned conceit and defilements;\nthe poised one is envied by even the gods.\n",
-  Dhp95:
-    "95. Undisturbed like the earth,\ntrue to their vows, steady as a post,\nlike a lake clear of mud;\nsuch a one does not transmigrate.\n",
-  Dhp96:
-    "96. Their mind is peaceful,\npeaceful are their speech and deeds.\nSuch a one is at peace,\nrightly freed through enlightenment.\n",
-  Dhp97:
-    "97. Lacking faith, a house-breaker,\none who acknowledges nothing,\npurged of hope, they’ve wasted their chance:\nthat is indeed the supreme person!\n",
-  Dhp98:
-    "98. Whether in village or wilderness,\nin a valley or the uplands,\nwherever the perfected ones live\nis a delightful place.\n",
-  Dhp99:
-    "99. Delightful are the wildernesses\nwhere no people delight.\nThose free of greed will delight there,\nnot those who seek sensual pleasures.\n",
-  Dhp100:
-    "100. Better than a thousand\nmeaningless sayings\nis a single meaningful saying,\nhearing which brings you peace.\n",
-  Dhp101:
-    "101. Better than a thousand\nmeaningless verses\nis a single meaningful verse,\nhearing which brings you peace.\n",
-  Dhp102:
-    "102. Better than reciting\na hundred meaningless verses\nis a single saying of Dhamma,\nhearing which brings you peace.\n",
-  Dhp103:
-    "103. The supreme conqueror is\nnot he who conquers a million men in battle,\nbut he who conquers a single man:\nhimself.\n",
-  Dhp104:
-    "104. It is surely better to conquer oneself\nthan all those other folk.\nWhen a person has tamed themselves,\nalways living restrained,\n",
-  Dhp105: "105. no god nor fairy,\nnor Māra nor Brahmā,\ncan undo the victory\nof such a one.\n",
-  Dhp106:
-    "106. Rather than a thousand-fold sacrifice,\nevery month for a hundred years,\nit’s better to honor for a single moment\none who has developed themselves.\nThat offering is better\nthan the hundred year sacrifice.\n",
-  Dhp107:
-    "107. Rather than serve the sacred flame\nin the forest for a hundred years,\nit’s better to honor for a single moment\none who has developed themselves.\nThat offering is better\nthan the hundred year sacrifice.\n",
-  Dhp108:
-    "108. Whatever sacrifice or offering in the world\na seeker of merit may make for a year,\nnone of it is worth a quarter\nof bowing to the upright.\n",
-  Dhp109:
-    "109. For one in the habit of bowing,\nalways honoring the elders,\nfour blessings grow:\nlifespan, beauty, happiness, and strength. \n",
-  Dhp110:
-    "110. Better to live a single day\nethical and absorbed in meditation\nthan to live a hundred years\nunethical and lacking immersion.\n",
-  Dhp111:
-    "111. Better to live a single day\nwise and absorbed in meditation\nthan to live a hundred years\nwitless and lacking immersion.\n",
-  Dhp112:
-    "112. Better to live a single day\nenergetic and strong,\nthan to live a hundred years\nlazy and lacking energy.\n",
-  Dhp113:
-    "113. Better to live a single day\nseeing rise and fall\nthan to live a hundred years\nblind to rise and fall.\n",
-  Dhp114:
-    "114. Better to live a single day\nseeing the deathless state\nthan to live a hundred years\nblind to the deathless state.\n",
-  Dhp115:
-    "115. Better to live a single day\nseeing the supreme teaching\nthan to live a hundred years\nblind to the supreme teaching.\n",
-  Dhp116:
-    "116. Rush to do good,\nshield your mind from evil;\nfor when you’re slow to do good,\nyour thoughts delight in wickedness.\n",
-  Dhp117:
-    "117. If you do something bad,\ndon’t do it again and again,\ndon’t set your heart on it,\nfor piling up evil is suffering.\n",
-  Dhp118:
-    "118. If you do something good,\ndo it again and again,\nset your heart on it,\nfor piling up goodness is joyful.\n",
-  Dhp119:
-    "119. Even the wicked see good things,\nso long as their wickedness has not ripened. \nBut as soon as that wickedness ripens,\nthen the wicked see wicked things.\n",
-  Dhp120:
-    "120. Even the good see wicked things,\nso long as their goodness has not ripened.\nBut as soon as that goodness ripens,\nthen the good see good things.\n",
-  Dhp121:
-    "121. Think not lightly of evil,\nthat it won’t come back to you.\nThe pot is filled with water\nfalling drop by drop;\nthe fool is filled with wickedness\npiled up bit by bit.\n",
-  Dhp122:
-    "122. Think not lightly of goodness,\nthat it won’t come back to you.\nThe pot is filled with water\nfalling drop by drop;\nthe sage is filled with goodness\npiled up bit by bit.\n",
-  Dhp123:
-    "123. Avoid wickedness,\nas a merchant with rich cargo and small escort\nwould avoid a dangerous road,\nor one who loves life would avoid drinking poison.\n",
-  Dhp124:
-    "124. You can carry poison in your hand\nif it has no wound,\nfor poison does not infect without a wound;\nnothing bad happens unless you do bad.\n",
-  Dhp125:
-    "125. Whoever wrongs a man who has done no wrong,\na pure man who has not a blemish,\nthe evil backfires on the fool, \nlike fine dust thrown upwind.\n",
-  Dhp126:
-    "126. Some are born in a womb;\nevil-doers go to hell;\nthe virtuous go to heaven;\nthe stainless are extinguished.\n",
-  Dhp127:
-    "127. Not in the sky, nor mid-ocean,\nnor hiding in a mountain cleft;\nyou’ll find no place in the world\nto escape your wicked deeds.\n",
-  Dhp128:
-    "128. Not in the sky, nor mid-ocean,\nnor hiding in a mountain cleft;\nyou’ll find no place in the world\nwhere you won’t be vanquished by death.\n",
-  Dhp129:
-    "129. All tremble at the rod,\nall fear death.\nTreating others like oneself,\nneither kill nor incite to kill.\n",
-  Dhp130:
-    "130. All tremble at the rod,\nall love life.\nTreating others like oneself,\nneither kill nor incite to kill.\n",
-  Dhp131:
-    "131. Creatures love happiness,\nso if you harm them with a stick\nin search of your own happiness,\nafter death you won’t find happiness.\n",
-  Dhp132:
-    "132. Creatures love happiness,\nso if you don’t hurt them with a stick\nin search of your own happiness,\nafter death you will find happiness.\n",
-  Dhp133:
-    "133. Don’t speak harshly,\nthey may speak harshly back.\nFor aggressive speech is painful,\nand the rod may spring back on you.\n",
-  Dhp134: "134. If you still yourself\nlike a broken gong,\nyou’re quenched\nand conflict-free.\n",
-  Dhp135:
-    "135. As a cowherd drives the cows\nto pasture with the rod,\nso too old age and death\ndrive life from living beings.\n",
-  Dhp136:
-    "136. The fool does not understand\nthe evil that they do.\nBut because of those deeds, that dullard\nis tormented as if burnt by fire.\n",
-  Dhp137: "137. One who violently attacks\nthe peaceful and the innocent\nswiftly falls\nto one of ten bad states:\n",
-  Dhp138: "138. harsh pain; loss;\nthe breakup of the body;\nserious illness;\nmental distress;\n",
-  Dhp139: "139. hazards from rulers;\nvicious slander;\nloss of kin;\ndestruction of wealth;\n",
-  Dhp140:
-    "140. or else their home\nis consumed by fire.\nWhen their body breaks up, that witless person\nis reborn in hell. \n",
-  Dhp141:
-    "141. Not nakedness, nor matted hair, nor mud,\nnor fasting, nor lying on bare ground,\nnor wearing dust and dirt, or squatting on the heels,\nwill cleanse a mortal not free of doubt.\n",
-  Dhp142:
-    "142. Dressed-up they may be, but if they live well—\npeaceful, tamed, committed to the spiritual path,\nhaving laid aside violence towards all creatures—\nthey are a brahmin, an ascetic, a mendicant.\n",
-  Dhp143:
-    "143. Can a person constrained by conscience\nbe found in the world?\nWho shies away from blame, \nlike a fine horse from the whip?\n",
-  Dhp144:
-    "144. Like a fine horse under the whip,\nbe keen and full of urgency.\nWith faith, ethics, and energy,\nimmersion, and investigation of principles,\naccomplished in knowledge and conduct, mindful,\ngive up this vast suffering.\n",
-  Dhp145:
-    "145. While irrigators guide water,\nfletchers shape arrows,\nand carpenters carve timber—\nthose true to their vows tame themselves.\n",
-  Dhp146:
-    "146. What is joy, what is laughter,\nwhen the flames are ever burning?\nShrouded by darkness,\nwould you not seek a light?\n",
-  Dhp147:
-    "147. See this fancy puppet,\na body built of sores,\ndiseased, obsessed over,\nin which nothing lasts at all.\n",
-  Dhp148:
-    "148. This body is decrepit and frail,\na nest of disease.\nThis foul carcass falls apart,\nfor life ends only in death.\n",
-  Dhp149:
-    "149. These dove-grey bones\nare tossed away like\ndried gourds in the autumn—\nwhat joy is there in such a sight?\n",
-  Dhp150:
-    "150. In this city built of bones,\nplastered with flesh and blood,\nold age and death are stashed away,\nalong with conceit and contempt.\n",
-  Dhp151:
-    "151. Fancy chariots of kings wear out,\nand even this body gets old.\nBut the teaching of the good never gets old;\nso the true and the good proclaim.\n",
-  Dhp152: "152. A person of little learning\nages like an ox—\ntheir flesh grows,\nbut not their wisdom.\n",
-  Dhp153:
-    "153. Transmigrating through countless rebirths,\nI’ve journeyed without reward,\nsearching for the house-builder;\npainful is birth again and again.\n",
-  Dhp154:
-    "154. I’ve seen you, house-builder!\nYou won’t build a house again!\nYour rafters are all broken,\nyour roof-peak is demolished.\nMy mind, set on demolition,\nhas reached the end of craving.\n",
-  Dhp155:
-    "155. When young they spurned the spiritual path\nand failed to earn any wealth.\nNow they languish like old cranes\nin a pond bereft of fish.\n",
-  Dhp156:
-    "156. When young they spurned the spiritual path\nand failed to earn any wealth.\nNow they lie like spent arrows,\nbemoaning over things past.\n",
-  Dhp157:
-    "157. If you’d only love yourself,\nyou’d look after yourself right well.\nIn one of the night’s three watches,\nan astute person would remain alert.\n",
-  Dhp158:
-    "158. The astute would avoid being corrupted\nby grounding themselves first of all\nin what is suitable,\nand only then instructing others. \n",
-  Dhp159:
-    "159. If one so acts\nas one instructs,\nthe well-tamed would tame others,\nfor the self is hard to tame, they say.\n",
-  Dhp160:
-    "160. Self is indeed the lord of self,\nfor who else would be one’s lord?\nWhen one’s self is well-tamed,\none gains a lord that’s rare indeed.\n",
-  Dhp161:
-    "161. For the evil that one does,\nborn and produced in oneself,\ngrinds down a fool,\nas diamond grinds a lesser gem.\n",
-  Dhp162: "162. One choked by immorality,\nas a sal tree by a creeper,\ndoes to themselves\nwhat a foe only wishes.\n",
-  Dhp163:
-    "163. It’s easy to do bad things\nharmful to oneself,\nbut good things that are helpful\nare the hardest things to do.\n",
-  Dhp164:
-    "164. On account of wicked views—\nscorning the guidance\nof the perfected ones,\nthe noble ones living righteously—\nthe idiot begets their own demise,\nlike the bamboo bearing fruit.\n",
-  Dhp165:
-    "165. For it is by oneself that evil’s done,\none is corrupted by oneself.\nIt’s by oneself that evil’s not done,\none is purified by oneself.\nPurity and impurity are personal matters,\nno one can purify another.\n",
-  Dhp166:
-    "166. Never neglect your own good\nfor the sake of another, however great.\nKnowing well what’s good for you,\nbe intent upon your true goal.\n",
-  Dhp167:
-    "167. Don’t resort to lowly things,\ndon’t abide in negligence,\ndon’t resort to wrong views,\ndon’t perpetuate the world.\n",
-  Dhp168:
-    "168. Get up, don’t be heedless,\nlive by principle, with good conduct.\nFor one of good conduct sleeps at ease,\nin this world and the next. \n",
-  Dhp169:
-    "169. Live by principle, with good conduct,\ndon’t conduct yourself badly.\nFor one of good conduct sleeps at ease,\nin this world and the next. \n",
-  Dhp170: "170. Look upon the world\nas a bubble\nor a mirage,\nthen the King of Death won’t see you.\n",
-  Dhp171:
-    "171. Come, see this world decked out\nlike a fancy royal chariot.\nHere fools flounder,\nbut the discerning are not chained.\n",
-  Dhp172:
-    "172. He who once was heedless,\nbut turned to heedfulness,\nlights up the world\nlike the moon freed from clouds.\n",
-  Dhp173:
-    "173. Someone whose bad deed\nis supplanted by the good,\nlights up the world,\nlike the moon freed from clouds.\n",
-  Dhp174:
-    "174. Blind is the world,\nfew are those who clearly see.\nOnly a handful go to heaven,\nlike a bird freed from a net.\n",
-  Dhp175:
-    "175. Swans fly by the sun’s path,\npsychic sages fly through space.\nThe wise leave the world, \nhaving vanquished Māra and his mount.\n",
-  Dhp176:
-    "176. When a person, spurning the hereafter,\ntransgresses in just one thing—\nlying—\nthere is no evil they would not do.\n",
-  Dhp177:
-    "177. The miserly don’t ascend to heaven,\nit takes a fool to not praise giving.\nThe wise celebrate giving,\nand so find happiness in the hereafter.\n",
-  Dhp178:
-    "178. The fruit of stream-entry is better\nthan being the one king of the earth,\nthan going to heaven,\nthan lordship over all the world.\n",
-  Dhp179:
-    "179. He whose victory may not be undone,\na victory unrivaled in all the world;\nby what track would you trace that Buddha,\nwho leaves no track in his infinite range?\n",
-  Dhp180:
-    "180. Of craving, the weaver, the clinger, he has none:\nso where can he be traced?\nBy what track would you trace that Buddha,\nwho leaves no track in his infinite range?\n",
-  Dhp181:
-    "181. The wise intent on absorption,\nwho love the peace of renunciation,\nthe Buddhas, ever mindful,\nare envied by even the gods.\n",
-  Dhp182:
-    "182. It’s hard to gain a human birth;\nthe life of mortals is hard;\nit’s hard to hear the true teaching;\nthe arising of Buddhas is hard.\n",
-  Dhp183:
-    "183. Not to do any evil; \nto embrace the good;\nto purify one’s mind:\nthis is the instruction of the Buddhas.\n",
-  Dhp184:
-    "184. Patient acceptance is the ultimate austerity.\nExtinguishment is the ultimate, say the Buddhas. \nNo true renunciate injures another,\nnor does an ascetic hurt another. \n",
-  Dhp185:
-    "185. Not speaking ill nor doing harm;\nrestraint in the monastic code;\nmoderation in eating; \nstaying in remote lodgings;\ncommitment to the higher mind—\nthis is the instruction of the Buddhas.\n",
-  Dhp186:
-    "186. Even if it were raining money,\nyou’d not be sated in sensual pleasures.\nAn astute person understands that sensual pleasures\noffer little gratification and much suffering.\n",
-  Dhp187:
-    "187. Thus they find no delight\neven in celestial pleasures.\nA disciple of the fully awakened Buddha\ndelights in the ending of craving.\n",
-  Dhp188:
-    "188. So many go for refuge\nto mountains and forest groves,\nto tree shrines in tended parks;\nthose people are driven by fear.\n",
-  Dhp189:
-    "189. But such refuge is no sanctuary,\nit is no supreme refuge.\nBy going to that refuge,\nyou’re not released from suffering.\n",
-  Dhp190:
-    "190. One gone for refuge to the Buddha,\nto his teaching and to the Saṅgha,\nsees the four noble truths\nwith right understanding:\n",
-  Dhp191:
-    "191. suffering, suffering’s origin,\nsuffering’s transcendence,\nand the noble eightfold path\nthat leads to the stilling of suffering.\n",
-  Dhp192:
-    "192. Such refuge is a sanctuary,\nit is the supreme refuge.\nBy going to that refuge,\nyou’re released from all suffering.\n",
-  Dhp193:
-    "193. It’s hard to find a thoroughbred man\nthey’re not born just anywhere.\nA family where that sage is born\nprospers in happiness.\n",
-  Dhp194:
-    "194. Happy, the arising of Buddhas!\nHappy, the teaching of Dhamma!\nHappy is the harmony of the Saṅgha,\nand the striving of the harmonious is happy.\n",
-  Dhp195:
-    "195. When a person venerates the worthy—\nthe Buddha or his disciple,\nwho have transcended proliferation,\nand have left behind grief and lamentation,\n",
-  Dhp196:
-    "196. quenched, fearing nothing from any quarter—\nthe merit of one venerating such as these,\ncannot be calculated by anyone,\nsaying it is just this much.\n",
-  Dhp197:
-    "197. Let us live so very happily,\nloving among the hostile.\nAmong hostile people,\nlet us live with love.\n",
-  Dhp198: "198. Let us live so very happily,\nhealthy among the ailing.\nAmong ailing people\nlet us live healthily.\n",
-  Dhp199: "199. Let us live so very happily,\ncontent among the greedy.\nAmong greedy people,\nlet us live content.\n",
-  Dhp200:
-    "200. Let us live so very happily,\nwe who have nothing.\nWe shall feed on rapture, \nlike the gods of streaming radiance.\n",
-  Dhp201:
-    "201. Victory breeds enmity; \nthe defeated sleep badly. \nThe peaceful sleep at ease,\nhaving left victory and defeat behind.\n",
-  Dhp202:
-    "202. There is no fire like greed,\nno crime like hate,\nno suffering like the aggregates,\nno bliss beyond peace.\n",
-  Dhp203:
-    "203. Hunger is the worst illness,\nconditions are the worst suffering,\nFor one who truly knows this,\nextinguishment is the ultimate happiness. \n",
-  Dhp204:
-    "204. Health is the ultimate blessing;\ncontentment, the ultimate wealth;\ntrust is the ultimate family;\nextinguishment, the ultimate happiness. \n",
-  Dhp205:
-    "205. Having drunk the nectar of seclusion\nand the nectar of peace,\nfree of stress, free of evil,\none drinks the joyous nectar of Dhamma.\n",
-  Dhp206:
-    "206. It’s good to see the noble ones,\nstaying with them is always good.\nWere you not to see fools,\nyou’d always be happy.\n",
-  Dhp207:
-    "207. For one who consorts with fools\ngrieves long.\nPainful is dwelling with fools,\nlike being stuck with your enemy.\nHappy is dwelling with a sage,\nlike meeting with your kin.\n",
-  Dhp208:
-    "208. Therefore:\nA sage, wise and learned,\na mammoth of virtue, true to their vows, noble:\nfollow a good and intelligent person such as this,\nas the moon tracks the path of the stars.\n",
-  Dhp209:
-    "209. Applying yourself where you ought not,\nneglecting what you should be doing,\nforgetting your goal, you cling to what you hold dear,\njealous of those devoted to their own goal.\n",
-  Dhp210:
-    "210. Don’t ever get too close\nto those you like or dislike.\nFor not seeing the liked is suffering,\nand so is seeing the disliked.\n",
-  Dhp211:
-    "211. Therefore don’t hold anything dear,\nfor it’s bad to lose those you love.\nNo ties are found in they who\nhold nothing loved or loathed.\n",
-  Dhp212:
-    "212. Sorrow springs from what we hold dear,\nfear springs from what we hold dear;\none free from holding anything dear\nhas no sorrow, let alone fear.\n",
-  Dhp213:
-    "213. Sorrow springs from attachment,\nfear springs from attachment;\none free from attachment\nhas no sorrow, let alone fear.\n",
-  Dhp214:
-    "214. Sorrow springs from relishing,\nfear springs from relishing;\none free from relishing\nhas no sorrow, let alone fear.\n",
-  Dhp215:
-    "215. Sorrow springs from desire,\nfear springs from desire;\none free from desire\nhas no sorrow, let alone fear.\n",
-  Dhp216:
-    "216. Sorrow springs from craving,\nfear springs from craving;\none free from craving\nhas no sorrow, let alone fear.\n",
-  Dhp217:
-    "217. One accomplished in virtue and vision,\nfirm in principle, and truthful,\ndoing oneself what ought be done:\nthat’s who the people love.\n",
-  Dhp218:
-    "218. One eager to realize the ineffable\nwould be filled with awareness.\nTheir mind not bound to pleasures of sense,\nthey’re said to be heading upstream.\n",
-  Dhp219:
-    "219. When a man returns safely\nafter a long time spent abroad,\nfamily, friends, and loved ones\ncelebrate his return.\n",
-  Dhp220:
-    "220. Just so, when one who has done good\ngoes from this world to the next,\ntheir good deeds receive them there,\nas family welcomes home one they love.\n",
-  Dhp221:
-    "221. Give up anger, get rid of conceit,\nand escape every fetter.\nSufferings don’t befall one who has nothing,\nnot clinging to name and form. \n",
-  Dhp222:
-    "222. When anger surges like a lurching chariot,\nkeep it in check.\nThat’s what I call a charioteer;\nothers just hold the reins.\n",
-  Dhp223: "223. Defeat anger with kindness,\nvillainy with virtue,\nstinginess with giving,\nand lies with truth.\n",
-  Dhp224:
-    "224. Speak the truth, do not be angry,\nand give when asked, if only a little.\nBy these three means,\nyou may enter the presence of the gods.\n",
-  Dhp225:
-    "225. Those harmless sages,\nalways restrained in body,\ngo to the imperishable state,\nwhere there is no sorrow. \n",
-  Dhp226:
-    "226. Always wakeful,\npracticing night and day,\nfocused only on quenching,\ntheir defilements come to an end.\n",
-  Dhp227:
-    "227. It’s always been like this,\nit’s not just today.\nThey blame you when you’re silent,\nthey blame you when you speak a lot,\nand even when you speak just right:\nno-one in the world escapes blame.\n",
-  Dhp228:
-    "228. There never was, nor will be,\nnor is there today,\nsomeone who is wholly praised \nor wholly blamed.\n",
-  Dhp229:
-    "229. If, after watching them day in day out,\ndiscerning people praise\nthat sage of impeccable conduct,\nendowed with ethics and wisdom;\n",
-  Dhp230:
-    "230. like a pendant of river gold,\nwho is worthy to criticize them?\nEven the gods praise them, \nand by Brahmā, too, they’re praised.\n",
-  Dhp231:
-    "231. Guard against ill-tempered deeds,\nbe restrained in body.\nGiving up bad bodily conduct,\nconduct yourself well in body.\n",
-  Dhp232:
-    "232. Guard against ill-tempered words,\nbe restrained in speech.\nGiving up bad verbal conduct,\nconduct yourself well in speech.\n",
-  Dhp233:
-    "233. Guard against ill-tempered thoughts,\nbe restrained in mind.\nGiving up bad mental conduct,\nconduct yourself well in mind.\n",
-  Dhp234:
-    "234. A sage is restrained in body\nrestrained also in speech,\nin thought, too, they are restrained:\nthey are restrained in every way.\n",
-  Dhp235:
-    "235. Today you’re like a withered leaf,\nYama’s men await you.\nYou stand at the departure gates,\nyet you have no supplies for the road.\n",
-  Dhp236:
-    "236. Make an island of yourself!\nSwiftly strive, learn to be wise!\nPurged of stains, flawless,\nyou’ll go to the divine realm of the noble ones.\n",
-  Dhp237:
-    "237. You’ve journeyed the stages of life,\nand now you set out to meet Yama.\nAlong the way there’s nowhere to stay,\nyet you have no supplies for the road.\n",
-  Dhp238:
-    "238. Make an island of yourself!\nSwiftly strive, learn to be wise!\nPurged of stains, flawless,\nyou’ll not come again to rebirth and old age.\n",
-  Dhp239:
-    "239. A smart person would purge\ntheir own stains gradually,\nbit by bit, moment by moment,\nlike a smith smelting silver.\n",
-  Dhp240:
-    "240. It is the rust born on the iron\nthat eats away the place it arose.\nAnd so it is their own deeds\nthat lead the overly-ascetic to a bad place.\n",
-  Dhp241:
-    "241. Not reciting is the stain of hymns.\nThe stain of houses is neglect.\nLaziness is the stain of beauty. \nA guard’s stain is negligence. \n",
-  Dhp242:
-    "242. Misconduct is a woman’s stain.\nA giver’s stain is stinginess.\nBad qualities are a stain \nin this world and the next. \n",
-  Dhp243:
-    "243. But a worse stain than these\nis ignorance, the worst stain of all.\nHaving given up that stain,\nbe without stains, mendicants! \n",
-  Dhp244:
-    "244. Life is easy for the shameless.\nWith all the rude courage of a crow,\nthey live pushy,\nrude, and corrupt.\n",
-  Dhp245:
-    "245. Life is hard for the conscientious,\nalways seeking purity,\nneither clinging nor rude,\npure of livelihood and discerning.\n",
-  Dhp246: "246. Take anyone in this world\nwho kills living creatures,\nspeaks falsely, steals,\ncommits adultery, \n",
-  Dhp247: "247. and indulges in drinking \nalcohol and liquor.\nRight here they dig up\nthe root of their own self.\n",
-  Dhp248:
-    "248. Know this, good sir:\nthey are unrestrained and wicked.\nDon’t let greed and hate\nsubject you to pain for long.\n",
-  Dhp249:
-    "249. The people give according to their faith,\naccording to their confidence.\nIf you get upset over that,\nover other’s food and drink,\nyou’ll not, by day or by night,\nbecome immersed in samādhi.\n",
-  Dhp250:
-    "250. Those who have cut that out,\ndug it up at the root, eradicated it,\nthey will, by day or by night,\nbecome immersed in samādhi.\n",
-  Dhp251: "251. There is no fire like greed,\nno crime like hate,\nno net like delusion,\nno river like craving.\n",
-  Dhp252:
-    "252. It’s easy to see the faults of others,\nhard to see one’s own.\nFor the faults of others \nare tossed high like chaff,\nwhile one’s own are hidden,\nas a cheat hides a bad hand.\n",
-  Dhp253:
-    "253. When you look for the flaws of others,\nalways finding fault,\nyour defilements only grow,\nyou’re far from ending defilements.\n",
-  Dhp254:
-    "254. In the sky there is no track,\nthere’s no true ascetic outside here.\nPeople enjoy proliferation,\nthe Realized Ones are free of proliferation.\n",
-  Dhp255:
-    "255. In the sky there is no track,\nthere’s no true ascetic outside here.\nNo conditions last forever,\nthe Awakened Ones are not shaken.\n",
-  Dhp256:
-    "256. You don’t become just\nby passing hasty judgement.\nAn astute person evaluates both\nwhat is pertinent and what is irrelevant.\n",
-  Dhp257:
-    "257. A wise one judges others without haste,\njustly and impartially;\nthat guardian of the law\nis said to be just.\n",
-  Dhp258:
-    "258. You’re not an astute scholar\njust because you speak a lot.\nOne who is secure, free of enmity and fear,\nis said to be astute.\n",
-  Dhp259:
-    "259. You’re not one who has memorized the teaching\njust because you recite a lot.\nSomeone who directly sees the teaching\nafter hearing only a little\nis truly one who has memorized the teaching,\nfor they can never forget it.\n",
-  Dhp260:
-    "260. You don’t become a senior\nby getting some grey hairs;\nfor one ripe only in age,\nis said to have aged in vain.\n",
-  Dhp261:
-    "261. One who has truth and principle,\nharmlessness, restraint, and self-control,\nthat wise one, purged of stains,\nis said to be a senior.\n",
-  Dhp262:
-    "262. Not by mere eloquence,\nor a beautiful complexion\ndoes a person appear holy,\nif they’re jealous, stingy, and devious. \n",
-  Dhp263:
-    "263. But if they’ve cut that out,\ndug it up at the root, eradicated it,\nthat wise one, purged of vice,\nis said to be holy.\n",
-  Dhp264:
-    "264. A liar and breaker of vows is no ascetic\njust because they shave their head.\nHow on earth can one be an ascetic\nwho’s full of desire and greed?\n",
-  Dhp265:
-    "265. One who stops all wicked deeds,\ngreat and small,\nbecause of stopping wicked deeds\nis said to be an ascetic.\n",
-  Dhp266:
-    "266. You don’t become a mendicant\njust by begging from others.\nOne who has undertaken domestic duties \nhas not yet become a mendicant. \n",
-  Dhp267:
-    "267. But one living a spiritual life,\nwho has banished both merit and evil,\nwho wanders having assessed the world,\nis said to be a mendicant.\n",
-  Dhp268:
-    "268. You don’t become a sage by silence,\nwhile still confused and ignorant.\nThe astute one holds up the scales,\ntaking only the best,\n",
-  Dhp269:
-    "269. and rejecting the bad;\na sage becomes a sage by measuring.\nOne who measures good and bad in the world,\nis thereby said to be a sage.\n",
-  Dhp270:
-    "270. You don’t become a noble one\nby harming living beings.\nOne harmless towards all living beings\nis said to be a noble one.\n",
-  Dhp271:
-    "271. Not by precepts and observances,\nnor by much learning,\nnor by meditative immersion,\nnor by living in seclusion,\n",
-  Dhp272:
-    "272. do I experience the bliss of renunciation\nnot frequented by ordinary people.\nA mendicant cannot rest confident\nwithout attaining the end of defilements.\n",
-  Dhp273:
-    "273. Of paths, the eightfold is the best;\nof truths, the four statements;\ndispassion is the best of things,\nand the Seer is the best of humans.\n",
-  Dhp274:
-    "274. *This* is the path, there is no other\nfor the purification of vision.\nYou all must practice this,\nit is the way to baffle Māra.\n",
-  Dhp275:
-    "275. When you all are practicing this,\nyou will make an end of suffering.\nI have explained the path to you\nfor extracting the thorn with wisdom.\n",
-  Dhp276:
-    "276. You yourselves must do the work,\nthe Realized Ones just show the way.\nMeditators practicing absorption\nare released from Māra’s bonds.\n",
-  Dhp277:
-    "277. All conditions are impermanent—\nwhen this is seen with wisdom,\none grows disillusioned with suffering:\nthis is the path to purity.\n",
-  Dhp278:
-    "278. All conditions are suffering—\nwhen this is seen with wisdom,\none grows disillusioned with suffering:\nthis is the path to purity.\n",
-  Dhp279:
-    "279. All things are not-self—\nwhen this is seen with wisdom,\none grows disillusioned with suffering:\nthis is the path to purity.\n",
-  Dhp280:
-    "280. They don’t get going when it’s time to start;\nthey’re young and strong, but given to sloth.\nTheir mind depressed in sunken thought,\nlazy and slothful, they can’t discern the path.\n",
-  Dhp281:
-    "281. Guarded in speech, restrained in mind,\ndoing no unskillful bodily deed.\nPurify these three ways of performing deeds,\nand win the path known to hermits.\n",
-  Dhp282:
-    "282. From meditation springs wisdom,\nwithout meditation, wisdom ends.\nKnowing these two paths—\nof progress and decline—\nyou should conduct yourself\nso that wisdom grows.\n",
-  Dhp283:
-    "283. Cut down the jungle, not just a tree;\nfrom the jungle springs fear.\nHaving cut down jungle and vine,\nbe free of jungles, mendicants! \n",
-  Dhp284:
-    "284. So long as the vine, no matter how small,\nthat ties a man to women is not cut,\nhis mind remains trapped,\nlike a calf suckling its mother.\n",
-  Dhp285:
-    "285. Cut out fondness for oneself,\nlike plucking an autumn lotus.\nFoster only the path to peace,\nthe quenching the Holy One taught.\n",
-  Dhp286:
-    "286. “Here I will stay for the rains;\nhere for winter, here the summer”;\nthus the fool thinks,\nnot realizing the danger.\n",
-  Dhp287:
-    "287. As a mighty flood sweeps away a sleeping village,\ndeath steals away a man\nwho dotes on children and cattle,\nhis mind caught up in them.\n",
-  Dhp288:
-    "288. Children provide you no shelter,\nnor does father, nor relatives.\nWhen you’re seized by the terminator,\nthere’s no shelter in family.\n",
-  Dhp289:
-    "289. Knowing the reason for this,\nastute, and ethically restrained,\none would quickly clear the path\nthat leads to extinguishment.\n",
-  Dhp290:
-    "290. If by giving up material happiness\none sees abundant happiness,\na wise one would give up material happiness,\nseeing the abundant happiness.\n",
-  Dhp291:
-    "291. Some seek their own happiness\nby imposing suffering on others.\nLiving intimate with enmity,\nthey’re not freed from enmity. \n",
-  Dhp292:
-    "292. They disregard what should be done,\nand do what should not be done.\nFor the insolent and the negligent,\ntheir defilements only grow.\n",
-  Dhp293:
-    "293. Those that have properly undertaken\nconstant mindfulness of the body,\ndon’t cultivate what should not be done,\nbut always do what should be done.\nMindful and aware,\ntheir defilements come to an end.\n",
-  Dhp294:
-    "294. Having slain mother and father,\nand two aristocratic kings,\nand having wiped out the kingdom with its subjects,\nthe brahmin walks on without worry.\n",
-  Dhp295:
-    "295. Having slain mother and father,\nand two aristocratic kings,\nand a tiger as the fifth,\nthe brahmin walks on without worry.\n",
-  Dhp296:
-    "296. The disciples of Gotama\nalways wake up refreshed,\nwho day and night\nconstantly recollect the Buddha.\n",
-  Dhp297:
-    "297. The disciples of Gotama\nalways wake up refreshed,\nwho day and night\nconstantly recollect the teaching.\n",
-  Dhp298:
-    "298. The disciples of Gotama\nalways wake up refreshed,\nwho day and night\nconstantly recollect the Saṅgha.\n",
-  Dhp299:
-    "299. The disciples of Gotama\nalways wake up refreshed,\nwho day and night\nare constantly mindful of the body.\n",
-  Dhp300:
-    "300. The disciples of Gotama\nalways wake up refreshed,\nwhose minds day and night\ndelight in harmlessness.\n",
-  Dhp301:
-    "301. The disciples of Gotama\nalways wake up refreshed,\nwhose minds day and night\ndelight in meditation.\n",
-  Dhp302:
-    "302. Going forth is hard, it’s hard to be happy;\nlife at home is hard too, and painful,\nit’s painful to stay when you’ve nothing in common.\nA traveler is a prey to pain,\nso don’t be a traveler,\ndon’t be prey to pain.\n",
-  Dhp303:
-    "303. One who is faithful, accomplished in ethics,\nblessed with fame and wealth,\nis honored in whatever place\nthey frequent.\n",
-  Dhp304:
-    "304. The good shine from afar,\nlike the Himalayan peaks,\nbut the wicked are not seen,\nlike arrows scattered in the night.\n",
-  Dhp305:
-    "305. Sitting alone, sleeping alone,\ntirelessly wandering alone;\none who tames themselves alone\nwould delight within a forest.\n",
-  Dhp306:
-    "306. A liar goes to hell, \nas does one who denies what they did.\nBoth are equal in the hereafter,\nthose men of base deeds.\n",
-  Dhp307:
-    "307. Many who wrap their necks in ocher robes\nare unrestrained and wicked.\nBeing wicked, they are reborn in hell\ndue to their bad deeds.\n",
-  Dhp308:
-    "308. It’d be better for the immoral and unrestrained\nto eat an iron ball,\nscorching, like a burning flame,\nthan to eat the nation’s alms.\n",
-  Dhp309:
-    "309. Four things befall a heedless man\nwho sleeps with another’s wife:\nbad karma, poor sleep,\nill-repute, and rebirth in hell.\n",
-  Dhp310:
-    "310. He accrues bad karma and is reborn in a bad place,\nall so a frightened couple may snatch a moment’s pleasure,\nfor which rulers impose a heavy punishment.\nThat’s why a man should not sleep with another’s wife.\n",
-  Dhp311:
-    "311. When kusa grass is wrongly grasped\nit only cuts the hand.\nSo too, the ascetic life, when wrongly taken,\ndrags you to hell.\n",
-  Dhp312: "312. Any lax act,\nany corrupt observance, \nor suspicious spiritual life,\nis not very fruitful.\n",
-  Dhp313:
-    "313. If one is to do what should be done,\none should staunchly strive.\nFor the life gone forth when laxly led \njust stirs up dust all the more. \n",
-  Dhp314:
-    "314. A bad deed is better left undone,\nfor it will plague you later on.\nA good deed is better done,\none that does not plague you.\n",
-  Dhp315:
-    "315. As a frontier city\nis guarded inside and out,\nso you should ward yourselves—\ndon’t let the moment pass you by.\nFor if you miss your moment\nyou’ll grieve when sent to hell.\n",
-  Dhp316:
-    "316. Unashamed of what is shameful,\nashamed of what is not shameful;\nbeings who uphold wrong view\ngo to a bad place.\n",
-  Dhp317:
-    "317. Seeing danger where there is none,\nand blind to the actual danger,\nbeings who uphold wrong view\ngo to a bad place.\n",
-  Dhp318:
-    "318. Seeing fault where there is none,\nand blind to the actual fault,\nbeings who uphold wrong view\ngo to a bad place.\n",
-  Dhp319:
-    "319. Knowing a fault as a fault\nand the faultless as faultless,\nbeings who uphold right view\ngo to a good place.\n",
-  Dhp320:
-    "320. Like an elephant struck\nwith arrows in battle,\nI shall put up with abuse,\nfor so many folk are badly behaved.\n",
-  Dhp321:
-    "321. The well-tamed beast is the one led to the crowd;\nthe tamed elephant’s the one the king mounts;\nthe tamed person who endures abuse\nis the best of human beings.\n",
-  Dhp322:
-    "322. Those who have tamed themselves are better\nthan fine tamed mules,\nthoroughbreds from Sindh,\nor giant tuskers.\n",
-  Dhp323:
-    "323. For not on those mounts\nwould you go to the untrodden place,\nwhereas, with the help of one whose self is well tamed,\nyou go there, tamed by the tamed.\n",
-  Dhp324:
-    "324. The tusker named Dhanapāla\nis musky in rut, hard to control.\nBound, he eats not a bite,\nfor he misses the elephant forest.\n",
-  Dhp325:
-    "325. One who gets drowsy from overeating,\nfond of sleep, rolling round the bed\nlike a great hog stuffed with grain:\nthat idiot is reborn again and again. \n",
-  Dhp326:
-    "326. In the past my mind wandered\nhow it wished, where it liked, as it pleased.\nNow I’ll carefully guide it,\nas a trainer with a hook guides a rutting elephant.\n",
-  Dhp327:
-    "327. Delight in diligence!\nTake good care of your mind!\nPull yourself out of this pit,\nlike an elephant sunk in a bog.\n",
-  Dhp328:
-    "328. If you find an alert companion,\na wise and virtuous friend,\nthen, overcoming all adversities, \nwander with them, joyful and mindful. \n",
-  Dhp329:
-    "329. If you find no alert companion,\nno wise and virtuous friend,\nthen, like a king who flees his conquered realm,\nwander alone like a tusker in the wilds. \n",
-  Dhp330:
-    "330. It’s better to wander alone,\nthere’s no fellowship with fools.\nWander alone and do no wrong, \nat ease like a tusker in the wilds.\n",
-  Dhp331:
-    "331. A friend in need is a blessing;\nit’s a blessing to be content with whatever;\ngood deeds are a blessing at the end of life,\nand giving up all suffering is a blessing.\n",
-  Dhp332:
-    "332. In this world it’s a blessing to serve\none’s mother and one’s father.\nAnd it’s a blessing also to serve\nascetics and brahmins.\n",
-  Dhp333:
-    "333. It’s a blessing to keep precepts until you grow old;\na blessing to be grounded in faith;\nthe getting of wisdom’s a blessing;\nand it’s a blessing to avoid doing wrong.\n",
-  Dhp334:
-    "334. When a person lives heedlessly,\ncraving grows in them like a parasitic creeper.\nThey jump from life to life, like a monkey\ngreedy for fruit in a forest grove.\n",
-  Dhp335:
-    "335. Whoever is beaten by this wretched craving,\nthis attachment to the world,\ntheir sorrow grows,\nlike grass in the rain.\n",
-  Dhp336:
-    "336. But whoever prevails over this wretched craving,\nso hard to get over in the world,\ntheir sorrows fall from them,\nlike a drop from a lotus-leaf.\n",
-  Dhp337:
-    "337. I say this to you, good people,\nall those who have gathered here:\ndig up the root of craving,\nas you’d dig up grass in search of roots.\nDon’t let Māra break you again and again,\nlike a stream breaking a reed.\n",
-  Dhp338:
-    "338. A tree grows back even when cut down,\nso long as its roots are healthy;\nsuffering springs up again and again,\nso long as the tendency to craving is not pulled out.\n",
-  Dhp339:
-    "339. A person of low views\nin whom the thirty-six streams\nthat flow to pleasure are mighty,\nis swept away by lustful thoughts.\n",
-  Dhp340:
-    "340. The streams flow everywhere;\na weed springs up and remains.\nSeeing this weed that has been born, \ncut the root with wisdom.\n",
-  Dhp341:
-    "341. A persons’s joys\nflow from senses and cravings.\nSeekers of happiness, bent on pleasure,\ncontinue to be reborn and grow old. \n",
-  Dhp342:
-    "342. People governed by thirst,\ncrawl about like a trapped rabbit.\nBound and fettered, for a long time\nthey return to pain time and again.\n",
-  Dhp343:
-    "343. People governed by thirst,\ncrawl about like a trapped rabbit.\nThat’s why one who longs for dispassion\nshould dispel thirst.\n",
-  Dhp344:
-    "344. Rejecting the household jungle, they set out for the real jungle,\nthen they run right back to the jungle they left behind.\nJust look at this person!\nFreed, they run to bondage.\n",
-  Dhp345:
-    "345. The wise say that shackle is not strong\nthat’s made of iron, wood, or knots.\nBut obsession with jeweled earrings, \nconcern for your partners and children: \n",
-  Dhp346:
-    "346. this, say the wise, is a strong shackle\ndragging the indulgent down, hard to escape.\nHaving cut this one too they go forth,\nunconcerned, having given up sensual pleasures.\n",
-  Dhp347:
-    "347. Besotted by lust they fall into the stream,\nlike a spider caught in the web she wove.\nThe wise proceed, having cut this one too,\nunconcerned, having given up all suffering.\n",
-  Dhp348:
-    "348. Let go of the past, let go of the future,\nlet go of the present, having gone beyond rebirth.\nWith your heart freed in every respect,\nyou’ll not come again to rebirth and old age.\n",
-  Dhp349:
-    "349. For a person crushed by thoughts,\nvery lustful, focusing on beauty,\ntheir craving grows and grows,\ntying them with a stout bond.\n",
-  Dhp350:
-    "350. But one who loves to calm their thoughts,\ndeveloping perception of ugliness, ever mindful,\nwill surely eliminate that craving,\ncutting off the bonds of Māra.\n",
-  Dhp351:
-    "351. One who is confident, unafraid,\nrid of craving, free of blemish,\nhaving struck down the arrows flying to future lives,\nthis bag of bones is their last.\n",
-  Dhp352:
-    "352. Rid of craving, free of grasping,\nexpert in the interpretation of terms,\nknowing the correct\nstructure and sequence of syllables,\nthey are said to be one who bears their final body,\none of great wisdom, a great person.\n",
-  Dhp353:
-    "353. I am the champion, the knower of all,\nunsullied in the midst of all things.\nI’ve given up all, freed in the ending of craving.\nSince I know for myself, whose follower should I be?\n",
-  Dhp354:
-    "354. The gift of the teaching beats all other gifts;\nthe taste of the teaching beats all other tastes;\nthe joy of the teaching beats all other joys;\none who has ended craving beats all suffering.\n",
-  Dhp355:
-    "355. Riches ruin an idiot,\nbut not a seeker of the far shore.\nFrom craving for wealth, an idiot\nruins themselves and others.\n",
-  Dhp356:
-    "356. Weeds are the bane of crops,\nbut greed is these folk’s bane.\nThat’s why a gift to one rid of greed\nis so very fruitful.\n",
-  Dhp357:
-    "357. Weeds are the bane of crops,\nbut hate is these folk’s bane.\nThat’s why a gift to one rid of hate\nis so very fruitful.\n",
-  Dhp358:
-    "358. Weeds are the bane of crops,\nbut delusion is these folk’s bane.\nThat’s why a gift to one rid of delusion\nis so very fruitful.\n",
-  Dhp359:
-    "359. Weeds are the bane of crops,\nbut desire is these folk’s bane.\nThat’s why a gift to one rid of desire\nis so very fruitful.\n",
-  Dhp360:
-    "360. Restraint of the eye is good;\ngood is restraint of the ear;\nrestraint of the nose is good; \ngood is restraint of the tongue.\n",
-  Dhp361:
-    "361. Restraint of the body is good;\ngood is restraint of speech;\nrestraint of mind is good; \neverywhere, restraint is good.\nThe mendicant restrained everywhere\nis released from suffering.\n",
-  Dhp362:
-    "362. One restrained in hand and foot,\nand in speech, the supreme restraint;\nhappy inside, serene, \nsolitary, content, I call a mendicant.\n",
-  Dhp363:
-    "363. When a mendicant of restrained mouth,\nthoughtful in counsel, and stable,\nexplains the text and its meaning,\ntheir words are sweet.\n",
-  Dhp364:
-    "364. Delighting in the teaching, enjoying the teaching,\ncontemplating the teaching,\na mendicant who recollects the teaching\ndoesn’t decline in the true teaching.\n",
-  Dhp365:
-    "365. A well-off mendicant ought not look down\non others, nor should they be envious.\nA mendicant who envies others\ndoes not achieve immersion.\n",
-  Dhp366:
-    "366. If a mendicant is poor in offerings,\nthe well-to-do ought not look down on them.\nFor the gods indeed praise them,\nwho are tireless and pure of livelihood.\n",
-  Dhp367:
-    "367. One who has no sense of ownership\nin the whole realm of name and form,\nwho does not grieve for that which is not,\nis said to be a mendicant.\n",
-  Dhp368:
-    "368. A mendicant who meditates on love,\ndevoted to the Buddha’s teaching,\nwould realize the peaceful state,\nthe blissful stilling of conditions.\n",
-  Dhp369:
-    "369. Bail out this boat, mendicant!\nWhen bailed out it will float lightly.\nHaving cut off desire and hate,\nyou shall reach quenching.\n",
-  Dhp370:
-    "370. Five to cut, five to drop,\nand five more to develop.\nA mendicant who escapes five chains \nis said to have crossed the flood.\n",
-  Dhp371:
-    "371. Practice absorption, don’t be negligent!\nDon’t let the mind delight in the senses!\nDon’t heedlessly swallow a hot iron ball!\nAnd when it burns, don’t cry, “Oh, the pain!”\n",
-  Dhp372:
-    "372. No absorption for one without wisdom,\nno wisdom for one without absorption.\nBut one with absorption and wisdom—\nthey have truly drawn near to extinguishment.\n",
-  Dhp373:
-    "373. A mendicant who enters an empty hut\nwith mind at peace\nfinds a superhuman delight\nas they rightly discern the Dhamma.\n",
-  Dhp374:
-    "374. Whenever they are mindful\nof the rise and fall of the aggregates,\nthey feel rapture and joy:\nthat is the deathless for one who knows.\n",
-  Dhp375:
-    "375. This is the very start of the path\nfor a wise mendicant:\nguarding the senses, contentment,\nand restraint in the monastic code.\n",
-  Dhp376:
-    "376. Mix with spiritual friends,\nwho are tireless and pure of livelihood.\nShare what you have with others,\nbeing skillful in your conduct.\nAnd when you’re full of joy, \nyou’ll make an end to suffering.\n",
-  Dhp377: "377. As a jasmine sheds\nits withered flowers,\nO mendicants,\ncast off greed and hate.\n",
-  Dhp378:
-    "378. Calm in body, calm in speech,\npeaceful and serene;\na mendicant who’s spat out the world’s bait\nis said to be one at peace.\n",
-  Dhp379:
-    "379. Urge yourself on,\nreflect on yourself.\nA mendicant self-controlled and mindful\nwill always dwell in happiness.\n",
-  Dhp380:
-    "380. Self is indeed the lord of self,\nfor who else would be one’s lord?\nSelf is indeed the home of self,\nso restrain yourself,\nas a merchant his thoroughbred steed.\n",
-  Dhp381:
-    "381. A monk full of joy\ntrusting in the Buddha’s teaching,\nwould realize the peaceful state,\nthe blissful stilling of conditions.\n",
-  Dhp382:
-    "382. A young mendicant\ndevoted to the Buddha’s teaching,\nlights up the world,\nlike the moon freed from a cloud.\n",
-  Dhp383:
-    "383. Strive and cut the stream!\nDispel sensual pleasures, brahmin.\nKnowing the ending of conditions,\nknow the uncreated, brahmin.\n",
-  Dhp384: "384. When a brahmin\nhas gone beyond two things,\nthen they consciously\nmake an end of all fetters.\n",
-  Dhp385:
-    "385. When one does not recognize the near shore,\nthe far shore, or both;\nstress-free, detached,\nthat’s who I call a brahmin. \n",
-  Dhp386:
-    "386. Absorbed, rid of hopes,\ntheir task completed, without defilements,\narrived at the highest goal: \nthat’s who I call a brahmin. \n",
-  Dhp387:
-    "387. The sun blazes by day, \nthe moon glows at night, \nthe aristocrat shines in armor,\nand the brahmin shines in absorption. \nBut all day and all night, \nthe Buddha shines with glory.\n",
-  Dhp388:
-    "388. A brahmin’s so-called because they have banished evil,\nan ascetic’s so-called since they live a serene life.\nOne who has renounced all stains\nis said to be a “renunciant”.\n",
-  Dhp389:
-    "389. One should never strike a brahmin,\nnor should a brahmin retaliate.\nWoe to the one who hurts a brahmin,\nand woe for the one who retaliates.\n",
-  Dhp390:
-    "390. Nothing is better for a brahmin\nthan to hold their mind back from attachment.\nAs cruelty in the mind gradually subsides,\nsuffering also subsides.\n",
-  Dhp391:
-    "391. Who does nothing wrong\nby body, speech or mind,\nrestrained in these three respects,\nthat’s who I call a brahmin. \n",
-  Dhp392:
-    "392. You should graciously honor\nthe one from whom you learn the Dhamma\ntaught by the awakened Buddha,\nas a brahmin honors the sacred flame.\n",
-  Dhp393:
-    "393. Not by matted hair or family,\nor birth is one a brahmin.\nThose who have truth and principle:\nthey are pure, they are brahmins.\n",
-  Dhp394:
-    "394. Why the matted hair, you fool,\nand why the skin of deer?\nThe tangle is inside you,\nyet you polish up your outsides.\n",
-  Dhp395:
-    "395. A person who wears robes of rags,\nlean, their limbs showing veins,\nmeditating alone in the forest,\nthat’s who I call a brahmin. \n",
-  Dhp396:
-    "396. I don’t call someone a brahmin\nafter the mother or womb they came from.\nIf they still have attachments,\nthey’re just someone who says “sir”.\nHaving nothing, taking nothing: \nthat’s who I call a brahmin. \n",
-  Dhp397:
-    "397. Having cut off all fetters\nthey have no anxiety.\nThey’ve got over clinging, and are detached:\nthat’s who I call a brahmin. \n",
-  Dhp398:
-    "398. They’ve cut the strap and harness,\nthe reins and bridle too,\nwith cross-bar lifted, they’re awakened: \nthat’s who I call a brahmin. \n",
-  Dhp399:
-    "399. Abuse, killing, caging: \nthey endure these without anger.\nPatience is their powerful army: \nthat’s who I call a brahmin. \n",
-  Dhp400:
-    "400. Not irritable or stuck up,\ndutiful in precepts and observances,\ntamed, bearing their final body:\nthat’s who I call a brahmin. \n",
-  Dhp401:
-    "401. Like water from a lotus leaf,\nlike a mustard seed off a pin-point,\nsensual pleasures slip off them: \nthat’s who I call a brahmin. \n",
-  Dhp402:
-    "402. They understand for themselves\nthe end of suffering in this life;\nwith burden put down, detached: \nthat’s who I call a brahmin. \n",
-  Dhp403:
-    "403. Deep in wisdom, intelligent,\nexpert in the variety of paths;\narrived at the highest goal: \nthat’s who I call a brahmin. \n",
-  Dhp404:
-    "404. Socializing with neither \nhouseholders nor the homeless.\nA migrant with no shelter, few in wishes:\nthat’s who I call a brahmin. \n",
-  Dhp405:
-    "405. They’ve laid aside violence\nagainst creatures firm and frail;\nnot killing or making others kill: \nthat’s who I call a brahmin. \n",
-  Dhp406:
-    "406. Not fighting among those who fight,\nextinguished among those who are armed,\nnot taking among those who take:\nthat’s who I call a brahmin. \n",
-  Dhp407:
-    "407. They’ve discarded greed and hate,\nalong with conceit and contempt,\nlike a mustard seed off the point of a pin:\nthat’s who I call a brahmin. \n",
-  Dhp408:
-    "408. The words they utter \nare sweet, informative, and true,\nand don’t offend anyone: \nthat’s who I call a brahmin. \n",
-  Dhp409:
-    "409. They don’t steal anything in the world,\nlong or short,\nfine or coarse, beautiful or ugly: \nthat’s who I call a brahmin. \n",
-  Dhp410:
-    "410. They have no hope \nin this world or the next. \nwith no need for hope, detached:\nthat’s who I call a brahmin. \n",
-  Dhp411:
-    "411. They have no clinging, \nknowledge has freed them of indecision,\nthey’ve plunged right into the deathless:\nthat’s who I call a brahmin. \n",
-  Dhp412:
-    "412. They’ve escaped clinging \nto both good and bad deeds; \nsorrowless, stainless, pure:\nthat’s who I call a brahmin. \n",
-  Dhp413:
-    "413. Pure as the spotless moon,\nclear and undisturbed,\nthey’ve ended desire to be reborn: \nthat’s who I call a brahmin. \n",
-  Dhp414:
-    "414. They’ve got past this grueling swamp\nof delusion, transmigration.\nThey’ve crossed over to the far shore,\nstilled and free of indecision.\nThey’re extinguished by not grasping: \nthat’s who I call a brahmin. \n",
-  Dhp415:
-    "415. They’ve given up sensual stimulations,\nand have gone forth from lay life;\nthey’ve ended rebirth in the sensual realm:\nthat’s who I call a brahmin. \n",
-  Dhp416:
-    "416. They’ve given up craving,\nand have gone forth from lay life;\nthey’ve ended craving to be reborn: \nthat’s who I call a brahmin. \n",
-  Dhp417:
-    "417. They’ve given up human bonds,\nand gone beyond heavenly bonds;\ndetached from all attachments: \nthat’s who I call a brahmin. \n",
-  Dhp418:
-    "418. Giving up discontent and desire,\nthey’re cooled and free of attachments;\na hero, master of the whole world:\nthat’s who I call a brahmin. \n",
-  Dhp419:
-    "419. They know the passing away\nand rebirth of all beings;\nunattached, holy, awakened: \nthat’s who I call a brahmin. \n",
-  Dhp420:
-    "420. Gods, fairies, and humans\ndon’t know their destiny;\nthe perfected ones with defilements ended:\nthat’s who I call a brahmin. \n",
-  Dhp421:
-    "421. They have nothing before or after,\nor even in between.\nHaving nothing, taking nothing: \nthat’s who I call a brahmin. \n",
-  Dhp422:
-    "422. Leader of the herd, excellent hero,\ngreat hermit and victor;\nunstirred, washed, awakened: \nthat’s who I call a brahmin. \n",
-  Dhp423:
-    "423. They know their past lives,\nseeing heaven and places of loss,\nand have attained the end of rebirth;\nthat sage who has perfect insight,\nat the summit of spiritual perfection:\nthat’s who I call a brahmin. \n",
+
   "Ud1.1": "Paṭhama Bodhi",
   "Ud1.2": "Dutiya Bodhi",
   "Ud1.3": "Tatiya Bodhi",
-  "Ud1.4": "Huṃhuṅka [Nigrodha]",
+  "Ud1.4": "Huṁhuṅka [Nigrodha]",
   "Ud1.5": "Brāhmaṇa [Thera]",
   "Ud1.6": "Mahākassapa",
   "Ud1.7": "Ajakalāpaka",
@@ -5738,10 +4930,10 @@ export const allSuttasPaliNameDictionary = {
   "Ud7.8": "Kaccāna",
   "Ud7.9": "Udapāna",
   "Ud7.10": "Udena",
-  "Ud8.1": "Paṭhama Nibbānapaṭisaṃyutta [Paṭhama Parinibbāna]",
-  "Ud8.2": "Dutiya Nibbānapaṭisaṃyutta [Dutiya Parinibbāna]",
-  "Ud8.3": "Tatiya Nibbānapaṭisaṃyutta [Tatiya Parinibbāna]",
-  "Ud8.4": "Catuttha Nibbānapaṭisaṃyutta [Catuttha Catuttha Parinibbāna]",
+  "Ud8.1": "Paṭhama Nibbānapaṭisaṁyutta [Paṭhama Parinibbāna]",
+  "Ud8.2": "Dutiya Nibbānapaṭisaṁyutta [Dutiya Parinibbāna]",
+  "Ud8.3": "Tatiya Nibbānapaṭisaṁyutta [Tatiya Parinibbāna]",
+  "Ud8.4": "Catuttha Nibbānapaṭisaṁyutta [Catuttha Catuttha Parinibbāna]",
   "Ud8.5": "Cunda",
   "Ud8.6": "Pāṭaligāmiya",
   "Ud8.7": "Dvidhāpatha",
@@ -5762,7 +4954,7 @@ export const allSuttasPaliNameDictionary = {
   Iti12: "Kodhapariññā",
   Iti13: "Makkhapariññā",
   Iti14: "Avijjānīvaraṇa",
-  Iti15: "Taṇhāsaṃyojana",
+  Iti15: "Taṇhāsaṁyojana",
   Iti16: "Paṭhama Sekha",
   Iti17: "Dutiya Sekha",
   Iti18: "Saṅghabheda",
@@ -5793,7 +4985,7 @@ export const allSuttasPaliNameDictionary = {
   Iti43: "Ajāta",
   Iti44: "Nibbānadhātu",
   Iti45: "Paṭisallāna",
-  Iti46: "Sikkhānisaṃsa",
+  Iti46: "Sikkhānisaṁsa",
   Iti47: "Jāgariya",
   Iti48: "Āpāyika",
   Iti49: "Diṭṭhigata",
@@ -5825,7 +5017,7 @@ export const allSuttasPaliNameDictionary = {
   Iti75: "Avuṭṭhika",
   Iti76: "Sukhapatthanā",
   Iti77: "Bhidura [Bhindanā]",
-  Iti78: "Dhātusosaṃsandana",
+  Iti78: "Dhātusosaṁsandana",
   Iti79: "Parihāna",
   Iti80: "Vitakka",
   Iti81: "Sakkāra",
@@ -5880,7 +5072,7 @@ export const allSuttasPaliNameDictionary = {
   "Snp2.6": "Dhammacariya",
   "Snp2.7": "Brāhmaṇadhammika",
   "Snp2.8": "Nāvā",
-  "Snp2.9": "Kiṃsīla",
+  "Snp2.9": "Kiṁsīla",
   "Snp2.10": "Uṭṭhāna",
   "Snp2.11": "Rāhula",
   "Snp2.12": "Nigrodhakappa [Vaṅgīsa]",
