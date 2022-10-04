@@ -15,7 +15,7 @@
   },
   "scripts": {
     "start:preprocess": "node build.js",
-    "start:cra": "node build.js && react-scripts start",
+    "start:cra": "react-scripts start",
     "start": "run-s start:preprocess start:cra",
     "build": "react-scripts build",
     "test": "react-scripts test",

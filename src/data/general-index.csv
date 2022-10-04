@@ -483,7 +483,7 @@ parents	caring for	Kp5
 children	caring for	Kp5
 work		Kp5
 giving (dāna)		Kp5
-righteous conduct		Kp5
+righteous conduct (dhammacāri)		Kp5
 family		Kp5
 actions (kamma)	blameless	Kp5
 evil	abandoning	Kp5
@@ -579,7 +579,7 @@ laziness (kosajja)		Dhp7
 eating	immoderation	Dhp7
 sign of the beautiful (subhanimitta)		Dhp7
 Māra	cannot attack the energetic	Dhp8
-energy		Dhp8
+energy (vīriya)		Dhp8
 Māra	simile of wind and mountain	Dhp8
 eating	restraint	Dhp8
 robes	not worthy of	Dhp9
@@ -695,7 +695,7 @@ self taming		Dhp103–5
 honor	to the worthy	Dhp106–9
 honor	result of giving	Dhp109
 meditation	single day of	Dhp110–11
-energy	single day of	Dhp112
+energy (vīriya)	single day of	Dhp112
 bad actions	doing again and again	Dhp117
 good actions	doing again and again	Dhp118
 bad actions	results come slowly	Dhp119
@@ -749,7 +749,7 @@ results of actions	simile of bamboo	Dhp164
 self reliance		Dhp165
 self sacrifice	not neglecting ones own good	Dhp166
 sleep		Dhp168–69
-energy		Dhp168
+energy (vīriya)		Dhp168
 world, the	simile of bubble	Dhp170
 world, the	simile of mirage	Dhp170
 heedfulness (appamāda)	simile of moon	Dhp172–73
@@ -911,7 +911,7 @@ restraint	simile of thoroughbred	Dhp380
 mendicants	young	Dhp382
 brahmin	true meaning	Dhp chapter 26
 retaliation		Dhp389
-cruelty (hiṁsa)		Dhp390
+cruelty (hiṁsa, vihiṁsa)		Dhp390
 honor		Dhp392
 learning		Dhp392
 external qualities		Dhp393–94
@@ -1356,7 +1356,7 @@ threefold knowledge		xref knowledges (vijja)
 triple knowledge		xref knowledges (vijja)
 sleep	uselessness of	Snp2.10
 heedlessness (pamāda)	as dust	Snp2.10
-energy		Snp2.10
+energy (vīriya)		Snp2.10
 familiarity breeds contempt		Snp2.11
 requisites, four	source of craving	Snp2.11
 monastic life	advice for	Snp2.11
@@ -1559,7 +1559,7 @@ regret	over not making spiritual progress	Vv40
 gifts, specific types of	robes	Vv41
 giving (dāna)	smallest gift has value	Vv42
 wheel-turning monarchs	not greatest happiness	Vv43
-rejoicing	in someone else’s merit	Vv44
+rejoicing (mudita)	in someone else’s merit	Vv44
 gifts, specific types of	monastery	Vv44
 recollection of generosity (cāgānussati)		Vv44
 monastery		xref gifts, specific types of
@@ -2000,7 +2000,7 @@ wisdom (paññā)	higher than virtue	Thag12.1
 caste	low caste monk	Thag12.2
 “come, monk” ordination (ehi bhikkhu)		Thag12.2
 “ehi bhikkhu”		xref “come, monk” ordination (ehi bhikkhu)
-energy	like a well tuned lute	Thag13.1
+energy (vīriya)	like a well tuned lute	Thag13.1
 loving-kindness (mettā)	limitless	Thag14.1
 worldly conditions		Thag14.2
 gain (lābha)	illegitimate	Thag14.2
@@ -2544,9 +2544,9 @@ becoming (bhava)		AN3.76
 actions (kamma)	as field	AN3.76
 consciousness (viññāṇa)	as seed	AN3.76
 craving (taṇha)	as moisture	AN3.76
-sensuous realm (kāmadhātu)	becoming 	AN3.76
-form realm (rūpadhātu)	becoming 	AN3.76
-formless realm (arūpadhatu)	becoming 	AN3.76
+sensuous realm (kāmabhava)	becoming 	AN3.76
+form realm (rūpabhava)	becoming 	AN3.76
+formless realm (arūpabhava)	becoming 	AN3.76
 Ānanda, Ven.	declared to be a trainee by the Buddha	AN3.78
 precepts and observances (sīlabbata)	fruitful when wholesome qualities grow	AN3.78
 lifestyles	fruitful when wholesome qualities grow	AN3.78
@@ -2592,7 +2592,7 @@ mistakes	criticizing the Buddha	AN3.91
 asking forgiveness	for criticizing the Buddha	AN3.91
 monastic rules (vinaya)	Buddha giving a talk on	AN3.91
 farming	like mendicant practicing	AN3.92
-zeal (canda)		AN3.92
+zeal (chanda)		AN3.92
 wishing	doesn’t bring results	AN3.92
 rag-robe wearing	of other sects	AN3.93
 alms food	of other sects	AN3.93
@@ -3049,8 +3049,8 @@ decisions	making prejudiced decisions	AN4.17
 cowardice 	making prejudiced decisions	AN4.17
 favouritism	making prejudiced decisions	AN4.17
 stupidity 	making prejudiced decisions	AN4.17
-desire (canda)		xref zeal (canda)
-desire (canda)	making prejudiced decisions	AN4.17
+desire (chanda)		xref zeal (chanda)
+desire (chanda)	making prejudiced decisions	AN4.17
 hatred (dosa)	making prejudiced decisions	AN4.17
 delusion (moha)	making prejudiced decisions	AN4.17
 fear (bhaya)	making prejudiced decisions	AN4.17
@@ -3792,7 +3792,7 @@ powers (bala)	faith, energy, mindfulness, immersion, and wisdom 	AN5.12
 powers 	five: definition	AN5.14
 powers 	five: where they are seen	AN5.15
 faith (saddhā)	power: seen in factors of stream entry	AN5.15
-energy	power: seen in four right efforts	AN5.15
+energy (vīriya)	power: seen in four right efforts	AN5.15
 mindfulness	power: seen in four foundations of	AN5.15
 concentration (samādhi)	power: seen in jhāna	AN5.15
 wisdom (paññā)	power: seen in four noble truths	AN5.15
@@ -3910,6 +3910,8 @@ digestion	good digestion helps meditation	AN5.53
 health	helps meditation	AN5.53
 honesty	helps meditation	AN5.53
 monastics	old age	AN5.54
+meditation	times not conducive for	AN5.54
+practicing	times not conducive for	AN5.54
 old age	not good for meditation	AN5.54
 sickness	not good for meditation	AN5.54
 famine	not good for meditation	AN5.54
@@ -4516,7 +4518,7 @@ self reflection		AN2.3
 self reflection		AN2.4
 determination	not to move until enlightened	AN2.5
 skillful qualities (kusala dhamma)	not being satisfied with	AN2.5
-energy	never stop trying	AN2.5
+energy (vīriya)	never stop trying	AN2.5
 disenchantment (nibbidā)	with things that can fetter	AN2.6
 conscience and prudence (hiri ottappa) 	lack of as dark	AN2.7
 conscience and prudence (hiri ottappa) 	as bright	AN2.8
@@ -4811,7 +4813,7 @@ work		xref wrong livelihood (micchā ājīva)
 work		xref livelihood
 killing	doesn’t lead to prosperity	AN6.18
 butchers		AN6.18
-zeal (canda)	mindfulness of death	AN6.20
+zeal (chanda)	mindfulness of death	AN6.20
 head on fire	mindfulness of death	AN6.20
 reviewing (paccavekkhaṇā)	mindfulness of death	AN6.20
 gods	seeing bad qualities of monks	AN6.21
@@ -4992,7 +4994,7 @@ thieves	what do they want	AN6.52
 bandits		xref thieves
 ascetics (samaṇa)	what do they want	AN6.52
 goals	of various groups of people	AN6.52
-desire (canda)	desires of various groups	AN6.52
+desire (chanda)	desires of various groups	AN6.52
 heedfulness (appamāda)	results now and in future	AN6.53
 heedfulness (appamāda)	like elephant footprint	AN6.53
 heedfulness (appamāda)	like ridge pole in roof	AN6.53
@@ -5011,8 +5013,8 @@ insulting	person with right view	AN6.54
 Soṇa Koḷivisa, Ven.	thinking of disrobing	AN6.55
 disrobing	Ven. Soṇa considers	AN6.55
 Buddha, the	visiting monks in trouble	AN6.55
-energy	like a well tuned vina (lute)	AN6.55
-energy	too much leads to restlessness	AN6.55
+energy (vīriya)	like a well tuned vina (lute)	AN6.55
+energy (vīriya)	too much leads to restlessness	AN6.55
 arahants	life after attainment	AN6.55
 arahants	like mountain unshaken	AN6.55
 arahants	nothing more to do	AN6.55
@@ -5100,3 +5102,228 @@ non-returner (anāgāmi)	cannot attain without giving up certain things	AN6.65
 stages of enlightenment	factors that must be abandoned	AN6.65
 stages of enlightenment	factors that must be abandoned	AN6.66
 arahants	cannot become without abandoning certain factors	AN6.66
+friends, bad	impossible to progress when following	AN6.67
+trainee (sekha)	practice of	AN6.67
+socializing	impossible to enjoy seclusion	AN6.68
+seclusion	possible to learn the patterns of the mind	AN6.68
+seclusion	leads to nibbāna	AN6.68
+respect (gārava)	doesn’t lead to decline	AN6.69
+admonishment	being easy to (sovacassatā)	AN6.69
+friends, good	doesn’t lead to decline	AN6.69
+encouragement	to be respectful	AN6.69
+concentration (samādhi)	without it, psychic powers are impossible	AN6.70
+concentration (samādhi)	without it, enlightenment not possible	AN6.70
+enlightenment	not possible without concentration	AN6.70
+concentration (samādhi)	skills related to	AN6.72
+jhānas	first jhāna not possible with hindrances	AN6.73
+jhānas	first jhāna not possible without seeing danger of sensual pleasures	AN6.73
+jhānas	qualities that prevent first jhāna	AN6.74
+arahantship	qualities that prevent	AN6.76
+conceit (māna)	prevents arahantship	AN6.76
+conceit of inferiority (omāno)	prevents arahantship	AN6.76
+conceit of superiority (atimāna)	prevents arahantship	AN6.76
+overestimation (adhimāna)	prevents arahantship	AN6.76
+obstinacy (thambha)	prevents arahantship	AN6.76
+superhuman states (uttari manussadhamma)	qualities needed to reach	AN6.77
+mindfulness	needed to reach superhuman states	AN6.77
+situational awareness (sampajañña)	needed to reach superhuman states	AN6.77
+sense doors, guarding (indriyesu guttadvāra)	needed to reach superhuman states	AN6.77
+eating in moderation	needed to reach superhuman states	AN6.77
+deceit (kuhaka)	blocks superhuman states	AN6.77
+flattery (lapaka)	blocks superhuman states	AN6.77
+happiness in the present life (diṭṭhadhammasukhavihāra)	things that give	AN6.78
+meditation	happiness in present life	AN6.78
+joy in the Dhamma (dhammārāma)	happiness in present life	AN6.78
+proliferation (papañca)	happiness in present life	AN6.78
+seclusion 	happiness in present life	AN6.78
+killing	leading to hell 	AN6.81
+stealing	leading to hell 	AN6.81
+sexual misconduct	leading to hell 	AN6.81
+lying	leading to hell 	AN6.81
+evil wishes (pāpiccha)	leading to hell 	AN6.81
+wrong view (micchā diṭṭhi)	leading to hell 	AN6.81
+greedy (luddha)	leading to hell 	AN6.82
+rudeness (pagabbha)	leading to hell 	AN6.82
+listening to Dhamma	properly and improperly	AN6.86
+listening to Dhamma	obstacles	AN6.86
+actions (kamma)	obstructions to listening to Dhamma	AN6.86
+results of actions	obstructions to listening to Dhamma	AN6.86
+faith (saddhā)	listening to Dhamma	AN6.86
+zeal (chanda)	listening to Dhamma	AN6.86
+wisdom (paññā)	listening to Dhamma	AN6.86
+heinous actions, five (ānantarika kamma)	block enlightenment	AN6.87
+heavy kamma		xref heinous actions, five (ānantarika kamma)
+weighty kamma		xref heinous actions, five (ānantarika kamma)
+stupidity 	block enlightenment	AN6.87
+listening to Dhamma	properly and improperly	AN6.88
+listening to Dhamma	not paying attention while	AN6.88
+wrong views	block enlightenment	AN6.88
+listening to Dhamma	desire to	AN6.88
+accomplishment in view (diṭṭhisampadā)	things that block	AN6.89
+fetters (saṁyojana)	blocking accomplishment in view	AN6.89
+identity view (sakkāyadiṭṭhi)	blocking accomplishment in view	AN6.89
+doubt (vicikicchā)	blocking accomplishment in view	AN6.89
+sīlabbata-parāmāsa	blocking accomplishment in view	AN6.89
+identity view (sakkāyadiṭṭhi)		xref fetters (saṁyojana)
+doubt (vicikicchā)		xref fetters (saṁyojana)
+sīlabbata-parāmāsa		xref fetters (saṁyojana)
+fetters (saṁyojana)		xref identity view (sakkāyadiṭṭhi)
+fetters (saṁyojana)		xref doubt (vicikicchā)
+fetters (saṁyojana)		xref sīlabbata-parāmāsa
+accomplishment in view (diṭṭhisampadā)	things given up	AN6.90
+accomplishment in view (diṭṭhisampadā)	things given up	AN6.91
+stream-enterers (sotāpanna)	things they cannot do	AN6.92
+stream-enterers (sotāpanna)		xref accomplishment in view (diṭṭhisampadā)
+accomplishment in view (diṭṭhisampadā)		xref stream-enterers (sotāpanna)
+rebirth	stream-enterers cannot take eighth	AN6.92
+accomplishment in view (diṭṭhisampadā)	things someone who is cannot do	AN6.92
+disrespect (agārava)	stream-enterers cannot be disrespectful towards triple gem	AN6.92
+accomplishment in view (diṭṭhisampadā)	things someone who is cannot do	AN6.93
+stream-enterers (sotāpanna)	things they cannot do	AN6.93
+heinous actions, five (ānantarika kamma)	stream-enterers cannot do	AN6.93
+accomplishment in view (diṭṭhisampadā)	things someone who is cannot do	AN6.94
+stream-enterers (sotāpanna)	things they cannot do	AN6.94
+heinous actions, five (ānantarika kamma)	stream-enterers cannot do	AN6.94
+heinous actions, five (ānantarika kamma)		xref schisms
+heinous actions, five (ānantarika kamma)		xref six grave crimes (chaccābhiṭhānāni abhabba)
+six grave crimes (chaccābhiṭhānāni abhabba)		xref heinous actions, five (ānantarika kamma)
+accomplishment in view (diṭṭhisampadā)	things someone who is cannot do	AN6.95
+stream-enterers (sotāpanna)	things they cannot do	AN6.95
+views of other sects	cannot be taken up by stream-enterer	AN6.95
+views of other sects	cannot be taken up by one accomplished in view	AN6.95
+Buddhas	rarity of	AN6.96
+Dhamma teachers	rarity of	AN6.96
+rebirth	in civilized place: rarity of	AN6.96
+stream-enterers (sotāpanna)	benefits of becoming	AN6.97
+stages of enlightenment	prevented by wrong view	AN6.98
+stages of enlightenment	prevented by wrong view	AN6.99
+stages of enlightenment	prevented by wrong view	AN6.100
+nibbāna	regarding as suffering	AN6.101
+suffering (dukkha)	regarding nibbāna as	AN6.101
+perception of impermanence (aniccasañña)	benefits of	AN6.102
+perception of suffering (dukkhasañña)	benefits of	AN6.103
+perception of not self (anattasañña)	benefits of	AN6.104
+higher ethics, higher mind, higher wisdom	to give up craving	AN6.105
+craving for sensual pleasures (kāmataṇhā)	should be given up	AN6.105
+craving for existence (bhavataṇhā)	should be given up	AN6.105
+craving to end existence (vibhavataṇhā)	should be given up	AN6.105
+craving for sensual pleasures (kāmataṇhā)	should be given up	AN6.106
+craving for existence (bhavataṇhā)	should be given up	AN6.106
+craving to end existence (vibhavataṇhā)	should be given up	AN6.106
+conceit (māna)	should be given up	AN6.106
+conceit of inferiority (omāno)	should be given up	AN6.106
+conceit of superiority (atimāna)	should be given up	AN6.106
+perception of ugliness (asubhasañña)	to give up greed	AN6.107
+loving-kindness (mettā)	to give up hate	AN6.107
+wisdom (paññā)	to give up delusion	AN6.107
+greed (rāga)	perception of ugliness to give up	AN6.107
+hatred (dosa)	loving-kindness to give up	AN6.107
+delusion (moha)	wisdom to give up	AN6.107
+opposites	good to give up bad	AN6.108
+bad actions	good actions to give up	AN6.108
+thoughts (vitakkā)	good to give up bad	AN6.109
+perceptions (saññā)	good to give up bad	AN6.111
+elements	of sensuality, malice, and cruelty 	AN6.111
+perception of impermanence (aniccasañña)	to give up view that things are gratifying	AN6.112
+perception of not self (anattasañña)	to give up view of self	AN6.112
+right view (sammā diṭṭhi)	to give up wrong view	AN6.112
+discontent (arati)	rejoicing (mudita) to give up 	AN6.113
+rejoicing (mudita)	to remove discontent	AN6.113
+sympathetic joy		xref rejoicing (mudita)
+cruelty (hiṁsa, vihiṁsa)	removed by harmlessness	AN6.113
+harmlessness (avihiṁsā)	to remove cruelty	AN6.113
+unrighteous conduct (adhammacārī)	removed by righteous conduct	AN6.113
+righteous conduct (dhammacāri)	to remove unrighteous conduct	AN6.113
+discontent (asantuṭṭhi)	removed by contentment	AN6.114
+contentment (santuṭṭhi)	removes discontent	AN6.114
+situational awareness (sampajañña)	removes lack of	AN6.114
+greed, many wishes (mahiccha)	removed by having few wishes	AN6.114
+few wishes (appiccha)	removes having many wishes	AN6.114
+mind	distracted removed by mindfulness of breathing	AN6.115
+mindfulness of breathing (ānāpānassati)	removes distracted mind	AN6.115
+admonishment	being difficult to	AN6.115
+friends, bad	overcome by having good friends	AN6.115
+friends, good		xref friends, bad
+friends, bad		xref friends, good
+restlessness (uddhacca)	removed by serenety	AN6.116
+serenity (samatha)	removes restlessness	AN6.116
+restraint	to remove lack of restraint	AN6.116
+heedlessness (pamāda)	removed by heedfulness	AN6.116
+heedfulness (appamāda)	removes heedlessness	AN6.116
+mindfulness of body (kāyānupassana)	factors that block	AN6.117
+work	relishing prevents mindfulness of body	AN6.117
+sleep	relishing prevents mindfulness of body	AN6.117
+socializing	relishing prevents mindfulness of body	AN6.117
+overeating	relishing prevents mindfulness of body	AN6.117
+sense doors, guarding (indriyesu guttadvāra)	needed for mindfulness of body	AN6.117
+mindfulness of body (kāyānupassana)	factors that block	AN6.118
+work	relishing prevents mindfulness of body	AN6.118
+sleep	relishing prevents mindfulness of body	AN6.118
+socializing	relishing prevents mindfulness of body	AN6.118
+overeating	relishing prevents mindfulness of body	AN6.118
+sense doors, guarding (indriyesu guttadvāra)	needed for mindfulness of body	AN6.118
+stream-enterers (sotāpanna)	list of 	AN6.119-139
+gain (lābha)	one who desires gain will not be respected by his companions	AN7.1
+conscience and prudence (hiri ottappa)	one who lacks will not be respected by his companions	AN7.1
+evil wishes (pāpiccha)	one who has will not be respected by companions	AN7.1
+wrong view (micchā diṭṭhi)	one who has will not be respected by companions	AN7.1
+community	qualities that make one not respected by companions	AN7.1
+bad monastics	qualities that make one not respected by companions	AN7.1
+respect (gārava)	for spiritual companions	AN7.1
+community	qualities that make one not respected by companions	AN7.2
+bad monastics	qualities that make one not respected by companions	AN7.2
+respect (gārava)	for spiritual companions	AN7.2
+jealousy	one who has will not be respected by companions	AN7.2
+stinginess (maccharī)	one who has will not be respected by companions	AN7.2
+powers 	faith, energy, conscience, prudence, mindfulness, immersion, and wisdom 	AN7.3
+Dhamma	examination of	AN7.3
+faith (saddhā)	definition	AN7.4
+energy (vīriya)	definition	AN7.4
+conscience (hiri)	definition	AN7.4
+prudence (ottāpa)	definition	AN7.4
+mindfulness	definition	AN7.4
+wisdom (paññā)	definition	AN7.4
+faith (saddhā)	power	AN7.4
+energy (vīriya)	power	AN7.4
+conscience (hiri)	power	AN7.4
+prudence (ottāpa)	power	AN7.4
+mindfulness	power	AN7.4
+wisdom (paññā)	power	AN7.4
+concentration (samādhi)	power	AN7.4
+Dhamma	examination of	AN7.4
+wealth	faith, ethical conduct, conscience, prudence, learning, generosity, and wisdom 	AN7.5
+learning	as wealth	AN7.5
+learning	definition	AN7.6
+learning	as wealth	AN7.6
+generosity (cāga)	as wealth	AN7.6
+generosity (cāga)	definition	AN7.6
+virtue (sīla)	definition	AN7.6
+virtue (sīla)	as wealth	AN7.6
+Ugga the government minster	wealth	AN7.7
+Migāra of Rohaṇa	wealthy	AN7.7
+wealth	faith, ethical conduct, conscience, prudence, learning, generosity, and wisdom 	AN7.7
+wealth	that cannot be taken away	AN7.7
+fetters (saṁyojana)	attraction, repulsion, views, doubt, conceit, desire to be reborn, and ignorance. 	AN7.8
+fetters (saṁyojana)	attraction, repulsion, views, doubt, conceit, desire to be reborn, and ignorance. 	AN7.9
+fetters (saṁyojana)	attraction, repulsion, views, doubt, conceit, jealousy, and stinginess 	AN7.10
+underlying tendencies (anusaya)	sensual desire, repulsion, views, doubt, conceit, desire to be reborn, and ignorance 	AN7.11
+underlying tendencies (anusaya)	sensual desire, repulsion, views, doubt, conceit, desire to be reborn, and ignorance 	AN7.12
+giving (dāna)	properly and improperly	AN7.13
+monastics	visiting families as opportunity for merit	AN7.13
+one freed both ways (ubhatobhāgavimutta)	worthy of gifts	AN7.14
+one freed by wisdom (paññāvimutta)	worthy of gifts	AN7.14
+personal witness (kāyasakkhī)	worthy of gifts	AN7.14
+one attained to view (diṭṭhippatto)	worthy of gifts	AN7.14
+one freed by faith (saddhāvimutto)	worthy of gifts	AN7.14
+follower of the teachings (dhammānusārī) 	worthy of gifts	AN7.14
+follower by faith (saddhānusārī)	worthy of gifts	AN7.14
+faith follower		xref follower by faith (saddhānusārī)
+Dhamma follower (dhammānusārī)		xref follower of the teachings (dhammānusārī) 
+water	simile of seven kinds of people	AN7.15
+stream-enterers (sotāpanna)	like a person in water who rises up then sees and discerns	AN7.15
+once returner (sakadāgāmī)	like a person in water who rises up and crosses over	AN7.15
+non-returner (anāgāmi)	like a person in water who rises up and finds a footing	AN7.15
+stages of enlightenment	simile of person in water	AN7.15
+arahants	like a person in water who rises up, crosses over, and gone beyond	AN7.15
+impermanence meditation	person who does is worthy of gifts	AN7.16
+stages of enlightenment	for someone practicing impermanence meditation	AN7.16

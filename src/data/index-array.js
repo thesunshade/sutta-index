@@ -2211,7 +2211,7 @@ export const indexArray =[
      ],
      [
           "AN2.5",
-          "energy",
+          "energy (vīriya)",
           "never stop trying"
      ],
      [
@@ -4586,17 +4586,17 @@ export const indexArray =[
      ],
      [
           "AN3.76",
-          "sensuous realm (kāmadhātu)",
+          "sensuous realm (kāmabhava)",
           "becoming "
      ],
      [
           "AN3.76",
-          "form realm (rūpadhātu)",
+          "form realm (rūpabhava)",
           "becoming "
      ],
      [
           "AN3.76",
-          "formless realm (arūpadhatu)",
+          "formless realm (arūpabhava)",
           "becoming "
      ],
      [
@@ -4831,7 +4831,7 @@ export const indexArray =[
      ],
      [
           "AN3.92",
-          "zeal (canda)",
+          "zeal (chanda)",
           ""
      ],
      [
@@ -5921,7 +5921,7 @@ export const indexArray =[
      ],
      [
           "AN4.17",
-          "desire (canda)",
+          "desire (chanda)",
           "making prejudiced decisions"
      ],
      [
@@ -9056,7 +9056,7 @@ export const indexArray =[
      ],
      [
           "AN5.15",
-          "energy",
+          "energy (vīriya)",
           "power: seen in four right efforts"
      ],
      [
@@ -11231,6 +11231,16 @@ export const indexArray =[
      ],
      [
           "AN5.54",
+          "meditation",
+          "times not conducive for"
+     ],
+     [
+          "AN5.54",
+          "practicing",
+          "times not conducive for"
+     ],
+     [
+          "AN5.54",
           "old age",
           "not good for meditation"
      ],
@@ -12215,9 +12225,134 @@ export const indexArray =[
           "inspiration to concentration"
      ],
      [
+          "AN6.100",
+          "stages of enlightenment",
+          "prevented by wrong view"
+     ],
+     [
+          "AN6.101",
+          "nibbāna",
+          "regarding as suffering"
+     ],
+     [
+          "AN6.101",
+          "suffering (dukkha)",
+          "regarding nibbāna as"
+     ],
+     [
+          "AN6.102",
+          "perception of impermanence (aniccasañña)",
+          "benefits of"
+     ],
+     [
+          "AN6.103",
+          "perception of suffering (dukkhasañña)",
+          "benefits of"
+     ],
+     [
+          "AN6.104",
+          "perception of not self (anattasañña)",
+          "benefits of"
+     ],
+     [
+          "AN6.105",
+          "higher ethics, higher mind, higher wisdom",
+          "to give up craving"
+     ],
+     [
+          "AN6.105",
+          "craving for sensual pleasures (kāmataṇhā)",
+          "should be given up"
+     ],
+     [
+          "AN6.105",
+          "craving for existence (bhavataṇhā)",
+          "should be given up"
+     ],
+     [
+          "AN6.105",
+          "craving to end existence (vibhavataṇhā)",
+          "should be given up"
+     ],
+     [
+          "AN6.106",
+          "craving for sensual pleasures (kāmataṇhā)",
+          "should be given up"
+     ],
+     [
+          "AN6.106",
+          "craving for existence (bhavataṇhā)",
+          "should be given up"
+     ],
+     [
+          "AN6.106",
+          "craving to end existence (vibhavataṇhā)",
+          "should be given up"
+     ],
+     [
+          "AN6.106",
+          "conceit (māna)",
+          "should be given up"
+     ],
+     [
+          "AN6.106",
+          "conceit of inferiority (omāno)",
+          "should be given up"
+     ],
+     [
+          "AN6.106",
+          "conceit of superiority (atimāna)",
+          "should be given up"
+     ],
+     [
           "AN6.107",
           "loving-kindness (mettā)",
           "to abandon hatred"
+     ],
+     [
+          "AN6.107",
+          "perception of ugliness (asubhasañña)",
+          "to give up greed"
+     ],
+     [
+          "AN6.107",
+          "loving-kindness (mettā)",
+          "to give up hate"
+     ],
+     [
+          "AN6.107",
+          "wisdom (paññā)",
+          "to give up delusion"
+     ],
+     [
+          "AN6.107",
+          "greed (rāga)",
+          "perception of ugliness to give up"
+     ],
+     [
+          "AN6.107",
+          "hatred (dosa)",
+          "loving-kindness to give up"
+     ],
+     [
+          "AN6.107",
+          "delusion (moha)",
+          "wisdom to give up"
+     ],
+     [
+          "AN6.108",
+          "opposites",
+          "good to give up bad"
+     ],
+     [
+          "AN6.108",
+          "bad actions",
+          "good actions to give up"
+     ],
+     [
+          "AN6.109",
+          "thoughts (vitakkā)",
+          "good to give up bad"
      ],
      [
           "AN6.11",
@@ -12233,6 +12368,196 @@ export const indexArray =[
           "AN6.11",
           "monastic rules (vinaya)",
           "principles of cordiality"
+     ],
+     [
+          "AN6.111",
+          "perceptions (saññā)",
+          "good to give up bad"
+     ],
+     [
+          "AN6.111",
+          "elements",
+          "of sensuality, malice, and cruelty "
+     ],
+     [
+          "AN6.112",
+          "perception of impermanence (aniccasañña)",
+          "to give up view that things are gratifying"
+     ],
+     [
+          "AN6.112",
+          "perception of not self (anattasañña)",
+          "to give up view of self"
+     ],
+     [
+          "AN6.112",
+          "right view (sammā diṭṭhi)",
+          "to give up wrong view"
+     ],
+     [
+          "AN6.113",
+          "discontent (arati)",
+          "rejoicing (mudita) to give up "
+     ],
+     [
+          "AN6.113",
+          "rejoicing (mudita)",
+          "to remove discontent"
+     ],
+     [
+          "AN6.113",
+          "cruelty (hiṁsa, vihiṁsa)",
+          "removed by harmlessness"
+     ],
+     [
+          "AN6.113",
+          "harmlessness (avihiṁsā)",
+          "to remove cruelty"
+     ],
+     [
+          "AN6.113",
+          "unrighteous conduct (adhammacārī)",
+          "removed by righteous conduct"
+     ],
+     [
+          "AN6.113",
+          "righteous conduct (dhammacāri)",
+          "to remove unrighteous conduct"
+     ],
+     [
+          "AN6.114",
+          "discontent (asantuṭṭhi)",
+          "removed by contentment"
+     ],
+     [
+          "AN6.114",
+          "contentment (santuṭṭhi)",
+          "removes discontent"
+     ],
+     [
+          "AN6.114",
+          "situational awareness (sampajañña)",
+          "removes lack of"
+     ],
+     [
+          "AN6.114",
+          "greed, many wishes (mahiccha)",
+          "removed by having few wishes"
+     ],
+     [
+          "AN6.114",
+          "few wishes (appiccha)",
+          "removes having many wishes"
+     ],
+     [
+          "AN6.115",
+          "mind",
+          "distracted removed by mindfulness of breathing"
+     ],
+     [
+          "AN6.115",
+          "mindfulness of breathing (ānāpānassati)",
+          "removes distracted mind"
+     ],
+     [
+          "AN6.115",
+          "admonishment",
+          "being difficult to"
+     ],
+     [
+          "AN6.115",
+          "friends, bad",
+          "overcome by having good friends"
+     ],
+     [
+          "AN6.116",
+          "restlessness (uddhacca)",
+          "removed by serenety"
+     ],
+     [
+          "AN6.116",
+          "serenity (samatha)",
+          "removes restlessness"
+     ],
+     [
+          "AN6.116",
+          "restraint",
+          "to remove lack of restraint"
+     ],
+     [
+          "AN6.116",
+          "heedlessness (pamāda)",
+          "removed by heedfulness"
+     ],
+     [
+          "AN6.116",
+          "heedfulness (appamāda)",
+          "removes heedlessness"
+     ],
+     [
+          "AN6.117",
+          "mindfulness of body (kāyānupassana)",
+          "factors that block"
+     ],
+     [
+          "AN6.117",
+          "work",
+          "relishing prevents mindfulness of body"
+     ],
+     [
+          "AN6.117",
+          "sleep",
+          "relishing prevents mindfulness of body"
+     ],
+     [
+          "AN6.117",
+          "socializing",
+          "relishing prevents mindfulness of body"
+     ],
+     [
+          "AN6.117",
+          "overeating",
+          "relishing prevents mindfulness of body"
+     ],
+     [
+          "AN6.117",
+          "sense doors, guarding (indriyesu guttadvāra)",
+          "needed for mindfulness of body"
+     ],
+     [
+          "AN6.118",
+          "mindfulness of body (kāyānupassana)",
+          "factors that block"
+     ],
+     [
+          "AN6.118",
+          "work",
+          "relishing prevents mindfulness of body"
+     ],
+     [
+          "AN6.118",
+          "sleep",
+          "relishing prevents mindfulness of body"
+     ],
+     [
+          "AN6.118",
+          "socializing",
+          "relishing prevents mindfulness of body"
+     ],
+     [
+          "AN6.118",
+          "overeating",
+          "relishing prevents mindfulness of body"
+     ],
+     [
+          "AN6.118",
+          "sense doors, guarding (indriyesu guttadvāra)",
+          "needed for mindfulness of body"
+     ],
+     [
+          "AN6.119-139",
+          "stream-enterers (sotāpanna)",
+          "list of "
      ],
      [
           "AN6.12",
@@ -12401,7 +12726,7 @@ export const indexArray =[
      ],
      [
           "AN6.20",
-          "zeal (canda)",
+          "zeal (chanda)",
           "mindfulness of death"
      ],
      [
@@ -13146,7 +13471,7 @@ export const indexArray =[
      ],
      [
           "AN6.52",
-          "desire (canda)",
+          "desire (chanda)",
           "desires of various groups"
      ],
      [
@@ -13241,12 +13566,12 @@ export const indexArray =[
      ],
      [
           "AN6.55",
-          "energy",
+          "energy (vīriya)",
           "like a well tuned vina (lute)"
      ],
      [
           "AN6.55",
-          "energy",
+          "energy (vīriya)",
           "too much leads to restlessness"
      ],
      [
@@ -13690,14 +14015,664 @@ export const indexArray =[
           "cannot become without abandoning certain factors"
      ],
      [
+          "AN6.67",
+          "friends, bad",
+          "impossible to progress when following"
+     ],
+     [
+          "AN6.67",
+          "trainee (sekha)",
+          "practice of"
+     ],
+     [
+          "AN6.68",
+          "socializing",
+          "impossible to enjoy seclusion"
+     ],
+     [
+          "AN6.68",
+          "seclusion",
+          "possible to learn the patterns of the mind"
+     ],
+     [
+          "AN6.68",
+          "seclusion",
+          "leads to nibbāna"
+     ],
+     [
+          "AN6.69",
+          "respect (gārava)",
+          "doesn’t lead to decline"
+     ],
+     [
+          "AN6.69",
+          "admonishment",
+          "being easy to (sovacassatā)"
+     ],
+     [
+          "AN6.69",
+          "friends, good",
+          "doesn’t lead to decline"
+     ],
+     [
+          "AN6.69",
+          "encouragement",
+          "to be respectful"
+     ],
+     [
           "AN6.7",
           "enduring (khama)",
           "sense objects: makes one worthy of gifts"
      ],
      [
+          "AN6.70",
+          "concentration (samādhi)",
+          "without it, psychic powers are impossible"
+     ],
+     [
+          "AN6.70",
+          "concentration (samādhi)",
+          "without it, enlightenment not possible"
+     ],
+     [
+          "AN6.70",
+          "enlightenment",
+          "not possible without concentration"
+     ],
+     [
+          "AN6.72",
+          "concentration (samādhi)",
+          "skills related to"
+     ],
+     [
+          "AN6.73",
+          "jhānas",
+          "first jhāna not possible with hindrances"
+     ],
+     [
+          "AN6.73",
+          "jhānas",
+          "first jhāna not possible without seeing danger of sensual pleasures"
+     ],
+     [
+          "AN6.74",
+          "jhānas",
+          "qualities that prevent first jhāna"
+     ],
+     [
+          "AN6.76",
+          "arahantship",
+          "qualities that prevent"
+     ],
+     [
+          "AN6.76",
+          "conceit (māna)",
+          "prevents arahantship"
+     ],
+     [
+          "AN6.76",
+          "conceit of inferiority (omāno)",
+          "prevents arahantship"
+     ],
+     [
+          "AN6.76",
+          "conceit of superiority (atimāna)",
+          "prevents arahantship"
+     ],
+     [
+          "AN6.76",
+          "overestimation (adhimāna)",
+          "prevents arahantship"
+     ],
+     [
+          "AN6.76",
+          "obstinacy (thambha)",
+          "prevents arahantship"
+     ],
+     [
+          "AN6.77",
+          "superhuman states (uttari manussadhamma)",
+          "qualities needed to reach"
+     ],
+     [
+          "AN6.77",
+          "mindfulness",
+          "needed to reach superhuman states"
+     ],
+     [
+          "AN6.77",
+          "situational awareness (sampajañña)",
+          "needed to reach superhuman states"
+     ],
+     [
+          "AN6.77",
+          "sense doors, guarding (indriyesu guttadvāra)",
+          "needed to reach superhuman states"
+     ],
+     [
+          "AN6.77",
+          "eating in moderation",
+          "needed to reach superhuman states"
+     ],
+     [
+          "AN6.77",
+          "deceit (kuhaka)",
+          "blocks superhuman states"
+     ],
+     [
+          "AN6.77",
+          "flattery (lapaka)",
+          "blocks superhuman states"
+     ],
+     [
+          "AN6.78",
+          "happiness in the present life (diṭṭhadhammasukhavihāra)",
+          "things that give"
+     ],
+     [
+          "AN6.78",
+          "meditation",
+          "happiness in present life"
+     ],
+     [
+          "AN6.78",
+          "joy in the Dhamma (dhammārāma)",
+          "happiness in present life"
+     ],
+     [
+          "AN6.78",
+          "proliferation (papañca)",
+          "happiness in present life"
+     ],
+     [
+          "AN6.78",
+          "seclusion ",
+          "happiness in present life"
+     ],
+     [
+          "AN6.81",
+          "killing",
+          "leading to hell "
+     ],
+     [
+          "AN6.81",
+          "stealing",
+          "leading to hell "
+     ],
+     [
+          "AN6.81",
+          "sexual misconduct",
+          "leading to hell "
+     ],
+     [
+          "AN6.81",
+          "lying",
+          "leading to hell "
+     ],
+     [
+          "AN6.81",
+          "evil wishes (pāpiccha)",
+          "leading to hell "
+     ],
+     [
+          "AN6.81",
+          "wrong view (micchā diṭṭhi)",
+          "leading to hell "
+     ],
+     [
+          "AN6.82",
+          "greedy (luddha)",
+          "leading to hell "
+     ],
+     [
+          "AN6.82",
+          "rudeness (pagabbha)",
+          "leading to hell "
+     ],
+     [
+          "AN6.86",
+          "listening to Dhamma",
+          "properly and improperly"
+     ],
+     [
+          "AN6.86",
+          "listening to Dhamma",
+          "obstacles"
+     ],
+     [
+          "AN6.86",
+          "actions (kamma)",
+          "obstructions to listening to Dhamma"
+     ],
+     [
+          "AN6.86",
+          "results of actions",
+          "obstructions to listening to Dhamma"
+     ],
+     [
+          "AN6.86",
+          "faith (saddhā)",
+          "listening to Dhamma"
+     ],
+     [
+          "AN6.86",
+          "zeal (chanda)",
+          "listening to Dhamma"
+     ],
+     [
+          "AN6.86",
+          "wisdom (paññā)",
+          "listening to Dhamma"
+     ],
+     [
+          "AN6.87",
+          "heinous actions, five (ānantarika kamma)",
+          "block enlightenment"
+     ],
+     [
+          "AN6.87",
+          "stupidity ",
+          "block enlightenment"
+     ],
+     [
+          "AN6.88",
+          "listening to Dhamma",
+          "properly and improperly"
+     ],
+     [
+          "AN6.88",
+          "listening to Dhamma",
+          "not paying attention while"
+     ],
+     [
+          "AN6.88",
+          "wrong views",
+          "block enlightenment"
+     ],
+     [
+          "AN6.88",
+          "listening to Dhamma",
+          "desire to"
+     ],
+     [
+          "AN6.89",
+          "accomplishment in view (diṭṭhisampadā)",
+          "things that block"
+     ],
+     [
+          "AN6.89",
+          "fetters (saṁyojana)",
+          "blocking accomplishment in view"
+     ],
+     [
+          "AN6.89",
+          "identity view (sakkāyadiṭṭhi)",
+          "blocking accomplishment in view"
+     ],
+     [
+          "AN6.89",
+          "doubt (vicikicchā)",
+          "blocking accomplishment in view"
+     ],
+     [
+          "AN6.89",
+          "sīlabbata-parāmāsa",
+          "blocking accomplishment in view"
+     ],
+     [
           "AN6.9",
           "recollection (anussati)",
           "topics for"
+     ],
+     [
+          "AN6.90",
+          "accomplishment in view (diṭṭhisampadā)",
+          "things given up"
+     ],
+     [
+          "AN6.91",
+          "accomplishment in view (diṭṭhisampadā)",
+          "things given up"
+     ],
+     [
+          "AN6.92",
+          "stream-enterers (sotāpanna)",
+          "things they cannot do"
+     ],
+     [
+          "AN6.92",
+          "rebirth",
+          "stream-enterers cannot take eighth"
+     ],
+     [
+          "AN6.92",
+          "accomplishment in view (diṭṭhisampadā)",
+          "things someone who is cannot do"
+     ],
+     [
+          "AN6.92",
+          "disrespect (agārava)",
+          "stream-enterers cannot be disrespectful towards triple gem"
+     ],
+     [
+          "AN6.93",
+          "accomplishment in view (diṭṭhisampadā)",
+          "things someone who is cannot do"
+     ],
+     [
+          "AN6.93",
+          "stream-enterers (sotāpanna)",
+          "things they cannot do"
+     ],
+     [
+          "AN6.93",
+          "heinous actions, five (ānantarika kamma)",
+          "stream-enterers cannot do"
+     ],
+     [
+          "AN6.94",
+          "accomplishment in view (diṭṭhisampadā)",
+          "things someone who is cannot do"
+     ],
+     [
+          "AN6.94",
+          "stream-enterers (sotāpanna)",
+          "things they cannot do"
+     ],
+     [
+          "AN6.94",
+          "heinous actions, five (ānantarika kamma)",
+          "stream-enterers cannot do"
+     ],
+     [
+          "AN6.95",
+          "accomplishment in view (diṭṭhisampadā)",
+          "things someone who is cannot do"
+     ],
+     [
+          "AN6.95",
+          "stream-enterers (sotāpanna)",
+          "things they cannot do"
+     ],
+     [
+          "AN6.95",
+          "views of other sects",
+          "cannot be taken up by stream-enterer"
+     ],
+     [
+          "AN6.95",
+          "views of other sects",
+          "cannot be taken up by one accomplished in view"
+     ],
+     [
+          "AN6.96",
+          "Buddhas",
+          "rarity of"
+     ],
+     [
+          "AN6.96",
+          "Dhamma teachers",
+          "rarity of"
+     ],
+     [
+          "AN6.96",
+          "rebirth",
+          "in civilized place: rarity of"
+     ],
+     [
+          "AN6.97",
+          "stream-enterers (sotāpanna)",
+          "benefits of becoming"
+     ],
+     [
+          "AN6.98",
+          "stages of enlightenment",
+          "prevented by wrong view"
+     ],
+     [
+          "AN6.99",
+          "stages of enlightenment",
+          "prevented by wrong view"
+     ],
+     [
+          "AN7.1",
+          "gain (lābha)",
+          "one who desires gain will not be respected by his companions"
+     ],
+     [
+          "AN7.1",
+          "conscience and prudence (hiri ottappa)",
+          "one who lacks will not be respected by his companions"
+     ],
+     [
+          "AN7.1",
+          "evil wishes (pāpiccha)",
+          "one who has will not be respected by companions"
+     ],
+     [
+          "AN7.1",
+          "wrong view (micchā diṭṭhi)",
+          "one who has will not be respected by companions"
+     ],
+     [
+          "AN7.1",
+          "community",
+          "qualities that make one not respected by companions"
+     ],
+     [
+          "AN7.1",
+          "bad monastics",
+          "qualities that make one not respected by companions"
+     ],
+     [
+          "AN7.1",
+          "respect (gārava)",
+          "for spiritual companions"
+     ],
+     [
+          "AN7.10",
+          "fetters (saṁyojana)",
+          "attraction, repulsion, views, doubt, conceit, jealousy, and stinginess "
+     ],
+     [
+          "AN7.11",
+          "underlying tendencies (anusaya)",
+          "sensual desire, repulsion, views, doubt, conceit, desire to be reborn, and ignorance "
+     ],
+     [
+          "AN7.12",
+          "underlying tendencies (anusaya)",
+          "sensual desire, repulsion, views, doubt, conceit, desire to be reborn, and ignorance "
+     ],
+     [
+          "AN7.13",
+          "giving (dāna)",
+          "properly and improperly"
+     ],
+     [
+          "AN7.13",
+          "monastics",
+          "visiting families as opportunity for merit"
+     ],
+     [
+          "AN7.14",
+          "one freed both ways (ubhatobhāgavimutta)",
+          "worthy of gifts"
+     ],
+     [
+          "AN7.14",
+          "one freed by wisdom (paññāvimutta)",
+          "worthy of gifts"
+     ],
+     [
+          "AN7.14",
+          "personal witness (kāyasakkhī)",
+          "worthy of gifts"
+     ],
+     [
+          "AN7.14",
+          "one attained to view (diṭṭhippatto)",
+          "worthy of gifts"
+     ],
+     [
+          "AN7.14",
+          "one freed by faith (saddhāvimutto)",
+          "worthy of gifts"
+     ],
+     [
+          "AN7.14",
+          "follower of the teachings (dhammānusārī) ",
+          "worthy of gifts"
+     ],
+     [
+          "AN7.14",
+          "follower by faith (saddhānusārī)",
+          "worthy of gifts"
+     ],
+     [
+          "AN7.15",
+          "water",
+          "simile of seven kinds of people"
+     ],
+     [
+          "AN7.15",
+          "stream-enterers (sotāpanna)",
+          "like a person in water who rises up then sees and discerns"
+     ],
+     [
+          "AN7.15",
+          "once returner (sakadāgāmī)",
+          "like a person in water who rises up and crosses over"
+     ],
+     [
+          "AN7.15",
+          "non-returner (anāgāmi)",
+          "like a person in water who rises up and finds a footing"
+     ],
+     [
+          "AN7.15",
+          "stages of enlightenment",
+          "simile of person in water"
+     ],
+     [
+          "AN7.15",
+          "arahants",
+          "like a person in water who rises up, crosses over, and gone beyond"
+     ],
+     [
+          "AN7.16",
+          "impermanence meditation",
+          "person who does is worthy of gifts"
+     ],
+     [
+          "AN7.16",
+          "stages of enlightenment",
+          "for someone practicing impermanence meditation"
+     ],
+     [
+          "AN7.2",
+          "community",
+          "qualities that make one not respected by companions"
+     ],
+     [
+          "AN7.2",
+          "bad monastics",
+          "qualities that make one not respected by companions"
+     ],
+     [
+          "AN7.2",
+          "respect (gārava)",
+          "for spiritual companions"
+     ],
+     [
+          "AN7.2",
+          "jealousy",
+          "one who has will not be respected by companions"
+     ],
+     [
+          "AN7.2",
+          "stinginess (maccharī)",
+          "one who has will not be respected by companions"
+     ],
+     [
+          "AN7.3",
+          "powers ",
+          "faith, energy, conscience, prudence, mindfulness, immersion, and wisdom "
+     ],
+     [
+          "AN7.3",
+          "Dhamma",
+          "examination of"
+     ],
+     [
+          "AN7.4",
+          "faith (saddhā)",
+          "definition"
+     ],
+     [
+          "AN7.4",
+          "energy (vīriya)",
+          "definition"
+     ],
+     [
+          "AN7.4",
+          "conscience (hiri)",
+          "definition"
+     ],
+     [
+          "AN7.4",
+          "prudence (ottāpa)",
+          "definition"
+     ],
+     [
+          "AN7.4",
+          "mindfulness",
+          "definition"
+     ],
+     [
+          "AN7.4",
+          "wisdom (paññā)",
+          "definition"
+     ],
+     [
+          "AN7.4",
+          "faith (saddhā)",
+          "power"
+     ],
+     [
+          "AN7.4",
+          "energy (vīriya)",
+          "power"
+     ],
+     [
+          "AN7.4",
+          "conscience (hiri)",
+          "power"
+     ],
+     [
+          "AN7.4",
+          "prudence (ottāpa)",
+          "power"
+     ],
+     [
+          "AN7.4",
+          "mindfulness",
+          "power"
+     ],
+     [
+          "AN7.4",
+          "wisdom (paññā)",
+          "power"
+     ],
+     [
+          "AN7.4",
+          "concentration (samādhi)",
+          "power"
+     ],
+     [
+          "AN7.4",
+          "Dhamma",
+          "examination of"
      ],
      [
           "AN7.47",
@@ -13713,6 +14688,16 @@ export const indexArray =[
           "AN7.49",
           "death (maraṇa)",
           "perception of as beneficial"
+     ],
+     [
+          "AN7.5",
+          "wealth",
+          "faith, ethical conduct, conscience, prudence, learning, generosity, and wisdom "
+     ],
+     [
+          "AN7.5",
+          "learning",
+          "as wealth"
      ],
      [
           "AN7.52",
@@ -13745,9 +14730,59 @@ export const indexArray =[
           "as a type of wealth"
      ],
      [
+          "AN7.6",
+          "learning",
+          "definition"
+     ],
+     [
+          "AN7.6",
+          "learning",
+          "as wealth"
+     ],
+     [
+          "AN7.6",
+          "generosity (cāga)",
+          "as wealth"
+     ],
+     [
+          "AN7.6",
+          "generosity (cāga)",
+          "definition"
+     ],
+     [
+          "AN7.6",
+          "virtue (sīla)",
+          "definition"
+     ],
+     [
+          "AN7.6",
+          "virtue (sīla)",
+          "as wealth"
+     ],
+     [
           "AN7.62",
           "loving-kindness (mettā)",
           "as cause for rebirth"
+     ],
+     [
+          "AN7.7",
+          "Ugga the government minster",
+          "wealth"
+     ],
+     [
+          "AN7.7",
+          "Migāra of Rohaṇa",
+          "wealthy"
+     ],
+     [
+          "AN7.7",
+          "wealth",
+          "faith, ethical conduct, conscience, prudence, learning, generosity, and wisdom "
+     ],
+     [
+          "AN7.7",
+          "wealth",
+          "that cannot be taken away"
      ],
      [
           "AN7.74",
@@ -13758,6 +14793,16 @@ export const indexArray =[
           "AN7.74",
           "death (maraṇa)",
           "inevitability of"
+     ],
+     [
+          "AN7.8",
+          "fetters (saṁyojana)",
+          "attraction, repulsion, views, doubt, conceit, desire to be reborn, and ignorance. "
+     ],
+     [
+          "AN7.9",
+          "fetters (saṁyojana)",
+          "attraction, repulsion, views, doubt, conceit, desire to be reborn, and ignorance. "
      ],
      [
           "AN8.1",
@@ -14091,7 +15136,7 @@ export const indexArray =[
      ],
      [
           "Dhp112",
-          "energy",
+          "energy (vīriya)",
           "single day of"
      ],
      [
@@ -14406,7 +15451,7 @@ export const indexArray =[
      ],
      [
           "Dhp168",
-          "energy",
+          "energy (vīriya)",
           ""
      ],
      [
@@ -15351,7 +16396,7 @@ export const indexArray =[
      ],
      [
           "Dhp390",
-          "cruelty (hiṁsa)",
+          "cruelty (hiṁsa, vihiṁsa)",
           ""
      ],
      [
@@ -15631,7 +16676,7 @@ export const indexArray =[
      ],
      [
           "Dhp8",
-          "energy",
+          "energy (vīriya)",
           ""
      ],
      [
@@ -16831,7 +17876,7 @@ export const indexArray =[
      ],
      [
           "Kp5",
-          "righteous conduct",
+          "righteous conduct (dhammacāri)",
           ""
      ],
      [
@@ -19076,7 +20121,7 @@ export const indexArray =[
      ],
      [
           "Snp2.10",
-          "energy",
+          "energy (vīriya)",
           ""
      ],
      [
@@ -20326,7 +21371,7 @@ export const indexArray =[
      ],
      [
           "Thag13.1",
-          "energy",
+          "energy (vīriya)",
           "like a well tuned lute"
      ],
      [
@@ -23196,7 +24241,7 @@ export const indexArray =[
      ],
      [
           "Vv44",
-          "rejoicing",
+          "rejoicing (mudita)",
           "in someone else’s merit"
      ],
      [
