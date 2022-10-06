@@ -470,7 +470,7 @@ a.xref-link {
 
 a:hover {
   text-decoration: underline;
-  text-decoration-thickness: .2rem;
+  text-decoration-thickness: .1rem;
 }
 
 a:visited {
@@ -767,6 +767,7 @@ tr:nth-child(even) {
   background-color: var(--offwhite);
   margin: 0 0 1rem 0;
   max-width: var(--max-width);
+  overscroll-behavior: contain;
 }
 
 .dark .link-list {
@@ -776,10 +777,10 @@ tr:nth-child(even) {
 }
 
 @media only screen and (max-width: 475px) {
-  .link-list {
+  /* .link-list {
     font-size: 1.3rem;
     line-height: 140%;
-  }
+  } */
 
   .alphabet {
     margin-top: .75rem;

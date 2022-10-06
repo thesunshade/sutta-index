@@ -351,9 +351,11 @@ for (let i = 0; i < rawIndexArray.length - 1; i++) {
   }
 }
 
-locatorFirstArray.sort((a, b) => {
-  return a[0].localeCompare(b[0]);
-});
+// locatorFirstArray.sort((a, b) => {
+//   return a[0].localeCompare(b[0]);
+// });
+
+locatorFirstArray = locatorFirstArray.sort(natsort());
 
 // test for blank locator field
 for (let i = 0; i < locatorFirstArray.length; i++) {
@@ -375,3 +377,13 @@ try {
 } catch (err) {
   console.error(err);
 }
+
+const locatorObject = {};
+for (let i = 0; i < locatorFirstArray.length; i++) {
+  if (locatorObject.hasOwnProperty(locatorFirstArray[i][0])) {
+    locatorObject[locatorFirstArray[i][0]].push(locatorFirstArray[i][1] + ", " + locatorFirstArray[i][2]);
+  } else {
+    locatorObject[locatorFirstArray[i][0]] = [locatorFirstArray[i][1] + ", " + locatorFirstArray[i][2]];
+  }
+}
+// console.log(locatorObject);

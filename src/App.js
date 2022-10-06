@@ -20,6 +20,9 @@ function App() {
   const [isLocatorView, setIsLocatorView] = useState(false);
   const [showVisited, setShowVisited] = useState(localStorage.showVisited ? localStorage.showVisited : "on");
   const [searchText, setSearchText] = useState("");
+  const [namesIsChecked, setNamesIsChecked] = useState(
+    localStorage.namesIsChecked ? JSON.parse(localStorage.namesIsChecked) : true
+  );
 
   document.addEventListener("click", e => {
     if (!e.target.classList.contains("letter") && !e.target.classList.contains("input-box")) {
@@ -215,6 +218,20 @@ function App() {
               }}
             ></input>{" "}
             Indicate visited links
+          </label>
+          <label>
+            <input
+              type="checkbox"
+              id="sutta-names-setting"
+              name="sutta-names"
+              value="sutta-names"
+              checked={namesIsChecked}
+              onChange={e => {
+                setNamesIsChecked(!namesIsChecked);
+                localStorage.namesIsChecked = JSON.stringify(!e.target.value);
+              }}
+            />
+            Show Pāli Sutta Title
           </label>
           <Stats />
           <OtherToolsIcons />

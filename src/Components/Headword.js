@@ -40,12 +40,14 @@ function Headword(props) {
             <span className="keyword">{headword}</span>
           </span>
         </a>
-        {headwordObject.hasOwnProperty("") ? (
-          <LocatorList headwordSubCount={sortedSubWords.length} locatorXrefObject={headwordObject[""]} />
-        ) : (
-          ""
-        )}
       </div>
+      {headwordObject.hasOwnProperty("") ? (
+        <div className="sub-word">
+          <LocatorList headwordSubCount={sortedSubWords.length} locatorXrefObject={headwordObject[""]} />
+        </div>
+      ) : (
+        ""
+      )}
       {sortedSubWords.map(subhead => {
         if (subhead === "") return null;
         return (
