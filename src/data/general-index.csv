@@ -28,9 +28,8 @@ generosity (cāga)	stream of merit	SN55.32
 generosity (cāga)	talk of	AN5.157
 generosity (cāga)	as a type of wealth	AN5.47
 generosity (cāga)	as a type of wealth	AN7.6
-giving (dāna)		SN1.41
-giving (dāna)		MN35
-giving (dāna)		SN41.10
+giving (dāna)	qualities of recipient	MN35
+giving (dāna)	encouraging others to	SN41.10
 giving (dāna)		xref generosity (cāga)
 giving (dāna)		xref gradual instruction
 giving (dāna)		xref stinginess (maccharī)
@@ -60,7 +59,6 @@ giving (dāna)	faith and giving	SN1.43
 giving (dāna)	faith and giving	SN2.23
 giving (dāna)	faith and giving	AN3.42
 giving (dāna)	of fearlessness	AN8.39
-giving (dāna)	food	SN1.41
 giving (dāna)	food	AN4.57
 giving (dāna)	food	AN4.58
 giving (dāna)	food	AN4.59
@@ -333,7 +331,7 @@ false speech		Iti25
 harsh speech	definition	DN2
 harsh speech	results of	AN8.40
 harsh speech	speech like honey is ones who gives up	AN3.28
-harsh speech		AN5.214
+harsh speech	likely when talking a lot	AN5.214
 harsh speech		xref speech
 listening to Dhamma		AN5.146
 listening to Dhamma		AN5.147
@@ -455,7 +453,7 @@ speech		xref false speech
 speech		xref harsh speech
 speech	bad conduct	AN4.221
 speech	bad conduct	AN4.222
-refuges		Kp1
+refuges	formula for taking	Kp1
 precepts, ten		Kp2
 body	thirty-two parts	Kp3
 food		Kp4
@@ -471,36 +469,36 @@ ten factors		Kp4
 gods	asking questions	Kp5
 blessings (maṅgala)		Kp5
 association	with good people	Kp5
-honor		Kp5
+honor	as a blessing	Kp5
 region	suitable	Kp5
 merit (puññā)	done in the past	Kp5
-determination		Kp5
-education		Kp5
-discipline		Kp5
-training		Kp5
+determination	as a blessing	Kp5
+education	as a blessing	Kp5
+discipline	as a blessing	Kp5
+training	as a blessing	Kp5
 speech	well-spoken	Kp5
 parents	caring for	Kp5
 children	caring for	Kp5
 work		Kp5
-giving (dāna)		Kp5
-righteous conduct (dhammacāri)		Kp5
-family		Kp5
+giving (dāna)	as a blessing	Kp5
+righteous conduct (dhammacāri)	as a blessing	Kp5
+family	caring for as a blessing	Kp5
 actions (kamma)	blameless	Kp5
 evil	abandoning	Kp5
 alcohol	abstaining from is a blessing	Kp5
-heedfulness (appamāda)		Kp5
-respect (gārava)		Kp5
-humility		Kp5
-contentment (santuṭṭhi)		Kp5
-gratitude		Kp5
+heedfulness (appamāda)	as a blessing	Kp5
+respect (gārava)	as a blessing	Kp5
+humility	as a blessing	Kp5
+contentment (santuṭṭhi)	as a blessing	Kp5
+gratitude	as a blessing	Kp5
 listening to Dhamma	time for	Kp5
-patience		Kp5
+patience	as a blessing	Kp5
 admonishment	being easy to (sovacassatā)	Kp5
 association	with wise	Kp5
 Dhamma discussion	time for	Kp5
-austerity		Kp5
-celibacy		Kp5
-four noble truths		Kp5
+austerity	as a blessing	Kp5
+celibacy	as a blessing	Kp5
+four noble truths	as a blessing	Kp5
 nibbāna		Kp5
 worldly conditions		Kp5
 sorrowlessness		Kp5
@@ -532,8 +530,8 @@ departed relatives	honoring	Kp7
 departed relatives	duty towards	Kp7
 merit (puññā)		Kp8
 money	saving	Kp8
-heirs		Kp8
-giving (dāna)		Kp8
+heirs	stealing money	Kp8
+giving (dāna)	to protect wealth	Kp8
 virtue (sīla)	as merit	Kp8
 restraint		Kp8
 shrines (cetiya)		Kp8
@@ -570,8 +568,8 @@ actions (kamma)	results and	Dhp2
 grudge		Dhp3
 accusations	don’t end hatred	Dhp3
 grudge		Dhp4
-hatred (dosa)		Dhp5
-non-hatred		Dhp5
+hatred (dosa)	removed by non-hatred	Dhp5
+non-hatred	removes hatred	Dhp5
 conflicts		Dhp6
 Māra	attacks the lazy	Dhp7
 Māra	simile of wind and weak tree	Dhp7
@@ -607,7 +605,7 @@ deathless (amata)		Dhp21
 heedfulness (appamāda)		Dhp21
 heedlessness (pamāda)		Dhp21
 heedfulness (appamāda)	rejoicing in	Dhp22
-reputation		Dhp24
+reputation	how reputation grows	Dhp24
 diligence		xref heedfulness (appamāda)
 heedfulness (appamāda)	simile of island	Dhp25
 heedfulness (appamāda)	as best treasure	Dhp26
@@ -636,7 +634,7 @@ mind	trained better than family	Dhp43
 body	simile of foam	Dhp46
 death (maraṇa)	simile of flood	Dhp47
 alms gathering practice	simile of bee and flower	Dhp49
-faultfinding		Dhp50
+faul-tfinding		Dhp50
 self examination		Dhp50
 beautiful words without practicing	like flower without fragrance	Dhp51
 beautiful words beneficial for the one who practices	like flower with frangrance	Dhp52
@@ -815,7 +813,7 @@ confidence (pasāda)	giving and	Dhp249
 concentration (samādhi)	hindrances to	Dhp249–50
 greed	as fire	Dhp251
 hatred (dosa)	as crime	Dhp251
-faultfinding		Dhp252–3
+fault-finding		Dhp252–3
 discernment		Dhp256
 recitation	as not enough	Dhp259
 listening to Dhamma	small amount	Dhp259
@@ -826,9 +824,9 @@ ascetic, mendicant, sage	true meaning	Dhp265–72
 noble eightfold path	as best path	Dhp273
 noble eightfold path	as essential	Dhp274
 self reliance		Dhp276
-impermanence		Dhp277
-suffering (dukkha)		Dhp278
-not-self		Dhp279
+impermanence	all conditioned things are	Dhp277
+suffering (dukkha)	all conditioned things are	Dhp278
+not-self	all things are	Dhp279
 laziness (kosajja)		Dhp280
 meditation	wisdom and	Dhp282
 wisdom (paññā)	meditation and	Dhp282
@@ -855,7 +853,7 @@ monastic life	wrongly practiced	Dhp313
 self guarding	like a citadel	Dhp315
 shame		Dhp316
 wrong views		Dhp316–18
-right view (sammā diṭṭhi)		Dhp319
+right view (sammā diṭṭhi)	leads to good rebirth	Dhp319
 elephants		Dhp chapter 23
 enduring abuse	simile of elephant	Dhp320
 enduring abuse		Dhp320–21
@@ -869,8 +867,8 @@ solitary life		Dhp329–30
 friendship		Dhp331
 contentment (santuṭṭhi)		Dhp331
 parents	caring for	Dhp332
-faith (saddhā)		Dhp333
-precepts		Dhp333
+faith (saddhā)	blessing	Dhp333
+precepts	blessing	Dhp333
 craving (taṇha)		Dhp chapter 24
 craving (taṇha)	simile of creeper	Dhp334
 craving (taṇha)	like a monkey	Dhp334
@@ -897,7 +895,7 @@ Dhamma teaching		Dhp363
 Dhamma	delight in	Dhp364
 envy	block to concentration	Dhp365
 livelihood	monastic	Dhp366
-praise by gods		Dhp366
+praise	by gods	Dhp366
 loving-kindness (mettā)		Dhp368
 sense pleasures (kāmaguṇa)	simile of iron ball	Dhp371
 wisdom (paññā)	concentration and	Dhp372
@@ -1085,12 +1083,18 @@ Buddha, the	psychic powers	Ud8.6
 Buddha, the	attendants	Ud8.7
 loved ones	as source of sorrow	Ud8.8
 fire element (tejo dhātu)	as meditation	Ud8.9
-greed (lobha)		Iti1
-hatred (dosa)		Iti2
-delusion (moha)		Iti3
-anger (kodha)		Iti4
-disdain (makkha)		Iti5
-conceit (māna)		Iti6
+greed (lobha)	giving up guarentees non-return	Iti1
+hatred (dosa)	giving up guarentees non-return	Iti2
+delusion (moha)	giving up guarentees non-return	Iti3
+anger (kodha)	giving up guarentees non-return	Iti4
+disdain (makkha)	giving up guarentees non-return	Iti5
+conceit (māna)	giving up guarentees non-return	Iti6
+non-returner (anāgāmi)	giving up greed to become	Iti1
+non-returner (anāgāmi)	giving up hatred to become	Iti2
+non-returner (anāgāmi)	giving up delusion to become	Iti3
+non-returner (anāgāmi)	giving up anger to become	Iti4
+non-returner (anāgāmi)	giving up distain to become	Iti5
+non-returner (anāgāmi)	giving up conceit to become	Iti6
 “all”, the (sabba)		Iti7
 conceit (māna)		Iti8
 ignorance	as hindrance	Iti14
@@ -1170,7 +1174,7 @@ sagacity/perfection (moneyya)	three types	Iti67
 sage (muni)		Iti67
 harassing	noble ones	Iti70
 wrong view (micchā diṭṭhi)		Iti70
-right view (sammā diṭṭhi)		Iti71
+right view (sammā diṭṭhi)	resulting in heaven	Iti71
 escape (nissaraṇa)		Iti72
 formless (arūpā)		Iti73
 children	compared to parents	Iti74
@@ -1484,7 +1488,7 @@ Sāriputta, Ven.	as inquirer	Snp4.16
 monastic life	advice for	Snp4.16
 Bāvari, ascetic		Snp5.1
 marks of a great man		Snp5.1
-head-splitting		Snp5.1
+head-splitting	causes of	Snp5.1
 name and form (nāma rūpa)		Snp5.2
 sacrifices (yañña)		Snp5.4
 suffering (dukkha)	cause of	Snp5.5
@@ -2366,7 +2370,7 @@ causes (nidāna)	for actions	AN3.34
 unwholesome roots (lobha, dosa, moha)		AN3.34
 wholesome roots (alobha, adosa, amoha)		AN3.34
 destroyed seeds	simile of destruction of deeds	AN3.34
-Hatthaka of Āḷavī	asks the Buddha if he slept well	AN3.35
+Hatthaka of Āḷavī, householder	asks the Buddha if he slept well	AN3.35
 sleep	sleeping well	AN3.35
 unwholesome roots (rāga, dosa, moha)	cause of bad sleep	AN3.35
 Buddha, the	sleeping well	AN3.35
@@ -2939,7 +2943,7 @@ Mahānāma Sākyan, householder	foremost who donate fine things	AN1.252
 giving (dāna)	foremost givers	AN1.252
 Ugga of Vesālī, householder	foremost who donate what is agreeable	AN1.253
 giving (dāna)	foremost givers	AN1.253
-Hatthigāmaka Uggata gahapati, householder	foremost who attend on the Saṅgha	AN1.254
+Uggata of Hatthigāmaka, householder	foremost who attend on the Saṅgha	AN1.254
 giving (dāna)	foremost givers	AN1.254
 Sūrambaṭṭha, householder	foremost with confirmed confidence	AN1.255
 Jīvaka Komārabhacca, householder	foremost who have confidence in a person	AN1.256
@@ -3333,7 +3337,7 @@ perils (bhaya)		AN4.119
 perils (bhaya)		AN4.120
 fear (bhaya)		xref perils (bhaya)
 perils (bhaya)		xref fear (bhaya)
-fear (bhaya)		AN4.121
+fear (bhaya)	of guilt, shame, punishment, and going to a bad place 	AN4.121
 self reproach (attānuvāda)		AN4.121
 guilt		xref self reproach (attānuvāda)
 punishment (daṇḍa)	fear of	AN4.121
@@ -3717,8 +3721,8 @@ association	with good people grows wisdom	AN4.248
 listening to Dhamma	grows wisdom	AN4.248
 proper attention (yoniso manasikāra)	leads to wisdom	AN4.248
 practicing	in line with Dhamma leads to wisdom	AN4.248
-lying		AN4.248
-truthfulness		AN4.248
+lying		AN4.250
+truthfulness		AN4.251
 direct knowledges (abhiññā)	function of	AN4.254
 knowledges, direct (abhiññā)		xref direct knowledges (abhiññā)
 aggregates (khandha)	understood by direct knowledge	AN4.254
@@ -3923,7 +3927,7 @@ monastics	tempted by women	AN5.55
 men	minds occupied by women	AN5.55
 sexual activity	by monastics	AN5.55
 sexual activity	between mother and son	AN5.55
-preceptor (upajjhāya)		AN5.56
+preceptor (upajjhāya)	helping his student	AN5.56
 monastic life	dissatisfaction with	AN5.56
 sense doors, guarding (indriyesu guttadvāra)	not guarding leads to dissatisfaction	AN5.56
 eating in moderation	not eating in moderation leads to dissatisfaction	AN5.56
@@ -4567,7 +4571,7 @@ animal realm	wrong view leads to 	AN2.27
 hell (niraya)	wrong view leads to 	AN2.27
 animal realm	hiding misdeeds leads to	AN2.26
 hell (niraya)	hiding misdeeds leads to	AN2.26
-right view (sammā diṭṭhi)	leads to heaven	AN2.28
+right view (sammā diṭṭhi)	resulting in heaven	AN2.28
 right view (sammā diṭṭhi)	leads to human world	AN2.28
 human birth	right view leads to	AN2.28
 heaven (sagga)	right view leads to	AN2.28
@@ -5398,7 +5402,7 @@ hospitality (paṭisanthāra)	respect for	AN6.69
 conscience and prudence (hiri ottappa)	respect for	AN7.33
 admonishment	being easy to (sovacassatā)	AN7.34
 encouragement	to have good qualities	AN7.35
-giving 	what is hard to give	AN7.36
+giving (dāna)	what is hard to give	AN7.36
 friends, good	qualities of	AN7.36
 enduring (khama)	what is hard to endure as quality of good friend	AN7.36
 secrets (guyhamanta)	and good friends	AN7.36
@@ -5463,3 +5467,7 @@ giving (dāna)	to make the mind clear and joyful	AN7.52
 giving (dāna)	as an adornment for the mind	AN7.52
 giving (dāna)	rebirth in realm of the Four Great Kings	AN7.52
 giving (dāna)	rebirth among gods of Brahmā’s Host	AN7.52
+tours		xref travel
+travel		xref tours
+caregiver		xref nurse
+nurse		xref caregiver

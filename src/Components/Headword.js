@@ -11,8 +11,8 @@ function Headword(props) {
   const sortedSubWords = sortedKeys(headwordObject);
 
   return (
-    <div key={headword}>
-      <div className="head-word-area" id={makeNormalizedId(headword)}>
+    <div key={headword} id={makeNormalizedId(headword)}>
+      <div className="head-word-area">
         <a onClick={e => {}} className="headword-link" href={"#" + makeNormalizedId(headword)}>
           <span className="head-word">
             <img

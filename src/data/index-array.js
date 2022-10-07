@@ -881,7 +881,7 @@ export const indexArray =[
      ],
      [
           "AN1.254",
-          "Hatthigāmaka Uggata gahapati, householder",
+          "Uggata of Hatthigāmaka, householder",
           "foremost who attend on the Saṅgha"
      ],
      [
@@ -1492,12 +1492,12 @@ export const indexArray =[
      [
           "AN2.28",
           "right view (sammā diṭṭhi)",
-          "leads to heaven"
+          "leads to human world"
      ],
      [
           "AN2.28",
           "right view (sammā diṭṭhi)",
-          "leads to human world"
+          "resulting in heaven"
      ],
      [
           "AN2.29",
@@ -2901,7 +2901,7 @@ export const indexArray =[
      ],
      [
           "AN3.35",
-          "Hatthaka of Āḷavī",
+          "Hatthaka of Āḷavī, householder",
           "asks the Buddha if he slept well"
      ],
      [
@@ -6387,7 +6387,7 @@ export const indexArray =[
      [
           "AN4.121",
           "fear (bhaya)",
-          ""
+          "of guilt, shame, punishment, and going to a bad place "
      ],
      [
           "AN4.121",
@@ -8131,11 +8131,6 @@ export const indexArray =[
      ],
      [
           "AN4.248",
-          "lying",
-          ""
-     ],
-     [
-          "AN4.248",
           "practicing",
           "in line with Dhamma leads to wisdom"
      ],
@@ -8146,11 +8141,6 @@ export const indexArray =[
      ],
      [
           "AN4.248",
-          "truthfulness",
-          ""
-     ],
-     [
-          "AN4.248",
           "wisdom (paññā)",
           "things that lead to growth"
      ],
@@ -8158,6 +8148,16 @@ export const indexArray =[
           "AN4.250–53",
           "speech",
           "declarations"
+     ],
+     [
+          "AN4.250",
+          "lying",
+          ""
+     ],
+     [
+          "AN4.251",
+          "truthfulness",
+          ""
      ],
      [
           "AN4.254",
@@ -9242,7 +9242,7 @@ export const indexArray =[
      [
           "AN5.56",
           "preceptor (upajjhāya)",
-          ""
+          "helping his student"
      ],
      [
           "AN5.56",
@@ -11557,12 +11557,12 @@ export const indexArray =[
      [
           "AN5.214",
           "harsh speech",
-          ""
+          "from speaking much"
      ],
      [
           "AN5.214",
           "harsh speech",
-          "from speaking much"
+          "likely when talking a lot"
      ],
      [
           "AN5.214",
@@ -12616,6 +12616,11 @@ export const indexArray =[
      ],
      [
           "AN6.34",
+          "Tissa, Brahma",
+          "former monk"
+     ],
+     [
+          "AN6.34",
           "gods",
           "that are stream-enterers"
      ],
@@ -12633,11 +12638,6 @@ export const indexArray =[
           "AN6.34",
           "stream-enterers (sotāpanna)",
           "gods that have become"
-     ],
-     [
-          "AN6.34",
-          "Tissa, Brahma",
-          "former monk"
      ],
      [
           "AN6.36",
@@ -14671,11 +14671,6 @@ export const indexArray =[
      ],
      [
           "AN7.21",
-          "respect (gārava)",
-          "leads to growth"
-     ],
-     [
-          "AN7.21",
           "sexual misconduct",
           "leads to decline in a society"
      ],
@@ -14697,6 +14692,11 @@ export const indexArray =[
      [
           "AN7.21",
           "harmony (samagga)",
+          "leads to growth"
+     ],
+     [
+          "AN7.21",
+          "respect (gārava)",
           "leads to growth"
      ],
      [
@@ -15001,7 +15001,7 @@ export const indexArray =[
      ],
      [
           "AN7.36",
-          "giving ",
+          "giving (dāna)",
           "what is hard to give"
      ],
      [
@@ -15747,12 +15747,12 @@ export const indexArray =[
      [
           "Dhp5",
           "hatred (dosa)",
-          ""
+          "removed by non-hatred"
      ],
      [
           "Dhp5",
           "non-hatred",
-          ""
+          "removes hatred"
      ],
      [
           "Dhp6",
@@ -15937,7 +15937,7 @@ export const indexArray =[
      [
           "Dhp24",
           "reputation",
-          ""
+          "how reputation grows"
      ],
      [
           "Dhp25",
@@ -16066,7 +16066,7 @@ export const indexArray =[
      ],
      [
           "Dhp50",
-          "faultfinding",
+          "faul-tfinding",
           ""
      ],
      [
@@ -16936,7 +16936,7 @@ export const indexArray =[
      ],
      [
           "Dhp252–3",
-          "faultfinding",
+          "fault-finding",
           ""
      ],
      [
@@ -16992,17 +16992,17 @@ export const indexArray =[
      [
           "Dhp277",
           "impermanence",
-          ""
+          "all conditioned things are"
      ],
      [
           "Dhp278",
           "suffering (dukkha)",
-          ""
+          "all conditioned things are"
      ],
      [
           "Dhp279",
           "not-self",
-          ""
+          "all things are"
      ],
      [
           "Dhp280",
@@ -17132,7 +17132,7 @@ export const indexArray =[
      [
           "Dhp319",
           "right view (sammā diṭṭhi)",
-          ""
+          "leads to good rebirth"
      ],
      [
           "Dhp320–21",
@@ -17197,12 +17197,12 @@ export const indexArray =[
      [
           "Dhp333",
           "faith (saddhā)",
-          ""
+          "blessing"
      ],
      [
           "Dhp333",
           "precepts",
-          ""
+          "blessing"
      ],
      [
           "Dhp334",
@@ -17331,8 +17331,8 @@ export const indexArray =[
      ],
      [
           "Dhp366",
-          "praise by gods",
-          ""
+          "praise",
+          "by gods"
      ],
      [
           "Dhp368",
@@ -17507,32 +17507,62 @@ export const indexArray =[
      [
           "Iti1",
           "greed (lobha)",
-          ""
+          "giving up guarentees non-return"
+     ],
+     [
+          "Iti1",
+          "non-returner (anāgāmi)",
+          "giving up greed to become"
      ],
      [
           "Iti2",
           "hatred (dosa)",
-          ""
+          "giving up guarentees non-return"
+     ],
+     [
+          "Iti2",
+          "non-returner (anāgāmi)",
+          "giving up hatred to become"
      ],
      [
           "Iti3",
           "delusion (moha)",
-          ""
+          "giving up guarentees non-return"
+     ],
+     [
+          "Iti3",
+          "non-returner (anāgāmi)",
+          "giving up delusion to become"
      ],
      [
           "Iti4",
           "anger (kodha)",
-          ""
+          "giving up guarentees non-return"
+     ],
+     [
+          "Iti4",
+          "non-returner (anāgāmi)",
+          "giving up anger to become"
      ],
      [
           "Iti5",
           "disdain (makkha)",
-          ""
+          "giving up guarentees non-return"
+     ],
+     [
+          "Iti5",
+          "non-returner (anāgāmi)",
+          "giving up distain to become"
      ],
      [
           "Iti6",
           "conceit (māna)",
-          ""
+          "giving up guarentees non-return"
+     ],
+     [
+          "Iti6",
+          "non-returner (anāgāmi)",
+          "giving up conceit to become"
      ],
      [
           "Iti7",
@@ -17942,7 +17972,7 @@ export const indexArray =[
      [
           "Iti71",
           "right view (sammā diṭṭhi)",
-          ""
+          "resulting in heaven"
      ],
      [
           "Iti72",
@@ -18397,7 +18427,7 @@ export const indexArray =[
      [
           "Kp1",
           "refuges",
-          ""
+          "formula for taking"
      ],
      [
           "Kp2",
@@ -18492,7 +18522,7 @@ export const indexArray =[
      [
           "Kp5",
           "austerity",
-          ""
+          "as a blessing"
      ],
      [
           "Kp5",
@@ -18502,7 +18532,7 @@ export const indexArray =[
      [
           "Kp5",
           "celibacy",
-          ""
+          "as a blessing"
      ],
      [
           "Kp5",
@@ -18512,22 +18542,22 @@ export const indexArray =[
      [
           "Kp5",
           "contentment (santuṭṭhi)",
-          ""
+          "as a blessing"
      ],
      [
           "Kp5",
           "determination",
-          ""
+          "as a blessing"
      ],
      [
           "Kp5",
           "discipline",
-          ""
+          "as a blessing"
      ],
      [
           "Kp5",
           "education",
-          ""
+          "as a blessing"
      ],
      [
           "Kp5",
@@ -18537,17 +18567,17 @@ export const indexArray =[
      [
           "Kp5",
           "family",
-          ""
+          "caring for as a blessing"
      ],
      [
           "Kp5",
           "four noble truths",
-          ""
+          "as a blessing"
      ],
      [
           "Kp5",
           "giving (dāna)",
-          ""
+          "as a blessing"
      ],
      [
           "Kp5",
@@ -18557,22 +18587,22 @@ export const indexArray =[
      [
           "Kp5",
           "gratitude",
-          ""
+          "as a blessing"
      ],
      [
           "Kp5",
           "heedfulness (appamāda)",
-          ""
+          "as a blessing"
      ],
      [
           "Kp5",
           "honor",
-          ""
+          "as a blessing"
      ],
      [
           "Kp5",
           "humility",
-          ""
+          "as a blessing"
      ],
      [
           "Kp5",
@@ -18597,7 +18627,7 @@ export const indexArray =[
      [
           "Kp5",
           "patience",
-          ""
+          "as a blessing"
      ],
      [
           "Kp5",
@@ -18607,12 +18637,12 @@ export const indexArray =[
      [
           "Kp5",
           "respect (gārava)",
-          ""
+          "as a blessing"
      ],
      [
           "Kp5",
           "righteous conduct (dhammacāri)",
-          ""
+          "as a blessing"
      ],
      [
           "Kp5",
@@ -18632,7 +18662,7 @@ export const indexArray =[
      [
           "Kp5",
           "training",
-          ""
+          "as a blessing"
      ],
      [
           "Kp5",
@@ -18792,7 +18822,7 @@ export const indexArray =[
      [
           "Kp8",
           "giving (dāna)",
-          ""
+          "to protect wealth"
      ],
      [
           "Kp8",
@@ -18807,7 +18837,7 @@ export const indexArray =[
      [
           "Kp8",
           "heirs",
-          ""
+          "stealing money"
      ],
      [
           "Kp8",
@@ -18987,7 +19017,7 @@ export const indexArray =[
      [
           "MN35",
           "giving (dāna)",
-          ""
+          "qualities of recipient"
      ],
      [
           "MN40",
@@ -19937,22 +19967,12 @@ export const indexArray =[
      [
           "SN1.41",
           "giving (dāna)",
-          ""
-     ],
-     [
-          "SN1.41",
-          "giving (dāna)",
           "as good use of wealth"
      ],
      [
           "SN1.41",
           "giving (dāna)",
           "cause for rebirth"
-     ],
-     [
-          "SN1.41",
-          "giving (dāna)",
-          "food"
      ],
      [
           "SN1.41",
@@ -20272,7 +20292,7 @@ export const indexArray =[
      [
           "SN41.10",
           "giving (dāna)",
-          ""
+          "encouraging others to"
      ],
      [
           "SN42.8",
@@ -21231,16 +21251,6 @@ export const indexArray =[
      ],
      [
           "Snp3.11",
-          "Nālaka, nephew of Asita",
-          ""
-     ],
-     [
-          "Snp3.11",
-          "Suddhodana, king",
-          ""
-     ],
-     [
-          "Snp3.11",
           "knowing does not speak much",
           ""
      ],
@@ -21253,6 +21263,16 @@ export const indexArray =[
           "Snp3.11",
           "monastic life",
           "like licking razor’s edge"
+     ],
+     [
+          "Snp3.11",
+          "Nālaka, nephew of Asita",
+          ""
+     ],
+     [
+          "Snp3.11",
+          "Suddhodana, king",
+          ""
      ],
      [
           "Snp3.11",
@@ -21507,7 +21527,7 @@ export const indexArray =[
      [
           "Snp5.1",
           "head-splitting",
-          ""
+          "causes of"
      ],
      [
           "Snp5.1",
@@ -22546,11 +22566,6 @@ export const indexArray =[
      ],
      [
           "Thag10.1",
-          "Suddhodana, king",
-          ""
-     ],
-     [
-          "Thag10.1",
           "family",
           "benefited by arahant relative"
      ],
@@ -22562,6 +22577,11 @@ export const indexArray =[
      [
           "Thag10.1",
           "Māyā, queen Mahā",
+          ""
+     ],
+     [
+          "Thag10.1",
+          "Suddhodana, king",
           ""
      ],
      [
@@ -24321,6 +24341,16 @@ export const indexArray =[
      ],
      [
           "Ud5.5",
+          "asuras",
+          "love of ocean"
+     ],
+     [
+          "Ud5.5",
+          "bad monastics",
+          "in pātimokkha recitation"
+     ],
+     [
+          "Ud5.5",
           "Dhamma",
           "has many treasures"
      ],
@@ -24333,16 +24363,6 @@ export const indexArray =[
           "Ud5.5",
           "Dhamma",
           "simile of ocean"
-     ],
-     [
-          "Ud5.5",
-          "asuras",
-          "love of ocean"
-     ],
-     [
-          "Ud5.5",
-          "bad monastics",
-          "in pātimokkha recitation"
      ],
      [
           "Ud5.5",

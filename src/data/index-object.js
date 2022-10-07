@@ -910,8 +910,7 @@ export const indexObject ={
           "anger (kodha)": {
                "": {
                     "locators": [
-                         "Dhp chapter 17",
-                         "Iti4"
+                         "Dhp chapter 17"
                     ],
                     "xrefs": [
                          "xref temper"
@@ -933,6 +932,12 @@ export const indexObject ={
                "overcoming": {
                     "locators": [
                          "Dhp223"
+                    ],
+                    "xrefs": []
+               },
+               "giving up guarentees non-return": {
+                    "locators": [
+                         "Iti4"
                     ],
                     "xrefs": []
                },
@@ -1860,9 +1865,14 @@ export const indexObject ={
                }
           },
           "austerity": {
+               "as a blessing": {
+                    "locators": [
+                         "Kp5"
+                    ],
+                    "xrefs": []
+               },
                "": {
                     "locators": [
-                         "Kp5",
                          "Snp2.2"
                     ],
                     "xrefs": []
@@ -3512,6 +3522,12 @@ export const indexObject ={
                          "AN5.124"
                     ],
                     "xrefs": []
+               },
+               "": {
+                    "locators": [],
+                    "xrefs": [
+                         "xref nurse"
+                    ]
                }
           },
           "carer": {
@@ -3582,13 +3598,11 @@ export const indexObject ={
                }
           },
           "celibacy": {
-               "": {
+               "as a blessing": {
                     "locators": [
                          "Kp5"
                     ],
-                    "xrefs": [
-                         "xref sexual intercourse"
-                    ]
+                    "xrefs": []
                },
                "false claim of": {
                     "locators": [
@@ -3631,6 +3645,12 @@ export const indexObject ={
                          "AN7.50"
                     ],
                     "xrefs": []
+               },
+               "": {
+                    "locators": [],
+                    "xrefs": [
+                         "xref sexual intercourse"
+                    ]
                }
           },
           "cemetery": {
@@ -4011,10 +4031,15 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
+               "giving up guarentees non-return": {
+                    "locators": [
+                         "Iti6"
+                    ],
+                    "xrefs": []
+               },
                "": {
                     "locators": [
                          "AN4.200",
-                         "Iti6",
                          "Iti8",
                          "Thag18.1"
                     ],
@@ -4395,17 +4420,22 @@ export const indexObject ={
                }
           },
           "contentment (santuṭṭhi)": {
-               "": {
+               "as a blessing": {
                     "locators": [
-                         "Kp5",
-                         "Dhp199–200",
-                         "Dhp331"
+                         "Kp5"
                     ],
                     "xrefs": []
                },
                "as criterion for loving-kindness": {
                     "locators": [
                          "Kp9"
+                    ],
+                    "xrefs": []
+               },
+               "": {
+                    "locators": [
+                         "Dhp199–200",
+                         "Dhp331"
                     ],
                     "xrefs": []
                },
@@ -5492,7 +5522,7 @@ export const indexObject ={
                }
           },
           "delusion (moha)": {
-               "": {
+               "giving up guarentees non-return": {
                     "locators": [
                          "Iti3"
                     ],
@@ -5638,9 +5668,8 @@ export const indexObject ={
                }
           },
           "determination": {
-               "": {
+               "as a blessing": {
                     "locators": [
-                         "AN4.31",
                          "Kp5"
                     ],
                     "xrefs": []
@@ -5657,6 +5686,12 @@ export const indexObject ={
                "putting oneself in charge": {
                     "locators": [
                          "AN3.40"
+                    ],
+                    "xrefs": []
+               },
+               "": {
+                    "locators": [
+                         "AN4.31"
                     ],
                     "xrefs": []
                }
@@ -6383,7 +6418,7 @@ export const indexObject ={
                }
           },
           "discipline": {
-               "": {
+               "as a blessing": {
                     "locators": [
                          "Kp5"
                     ],
@@ -6434,7 +6469,7 @@ export const indexObject ={
                }
           },
           "disdain (makkha)": {
-               "": {
+               "giving up guarentees non-return": {
                     "locators": [
                          "Iti5"
                     ],
@@ -7012,7 +7047,7 @@ export const indexObject ={
                }
           },
           "education": {
-               "": {
+               "as a blessing": {
                     "locators": [
                          "Kp5"
                     ],
@@ -7827,13 +7862,11 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "": {
+               "blessing": {
                     "locators": [
                          "Dhp333"
                     ],
-                    "xrefs": [
-                         "xref confidence (pasāda)"
-                    ]
+                    "xrefs": []
                },
                "guarantor": {
                     "locators": [
@@ -7908,6 +7941,12 @@ export const indexObject ={
                          "AN5.38"
                     ],
                     "xrefs": []
+               },
+               "": {
+                    "locators": [],
+                    "xrefs": [
+                         "xref confidence (pasāda)"
+                    ]
                },
                "unsurpassable acquisition": {
                     "locators": [
@@ -8099,7 +8138,7 @@ export const indexObject ={
                }
           },
           "family": {
-               "": {
+               "caring for as a blessing": {
                     "locators": [
                          "Kp5"
                     ],
@@ -8171,10 +8210,17 @@ export const indexObject ={
                     "xrefs": []
                }
           },
-          "faultfinding": {
+          "faul-tfinding": {
                "": {
                     "locators": [
-                         "Dhp50",
+                         "Dhp50"
+                    ],
+                    "xrefs": []
+               }
+          },
+          "fault-finding": {
+               "": {
+                    "locators": [
                          "Dhp252–3"
                     ],
                     "xrefs": []
@@ -8216,12 +8262,16 @@ export const indexObject ={
                     "xrefs": []
                },
                "": {
-                    "locators": [
-                         "AN4.121"
-                    ],
+                    "locators": [],
                     "xrefs": [
                          "xref perils (bhaya)"
                     ]
+               },
+               "of guilt, shame, punishment, and going to a bad place": {
+                    "locators": [
+                         "AN4.121"
+                    ],
+                    "xrefs": []
                },
                "of death": {
                     "locators": [
@@ -8853,7 +8903,12 @@ export const indexObject ={
           "four noble truths": {
                "": {
                     "locators": [
-                         "Kp4",
+                         "Kp4"
+                    ],
+                    "xrefs": []
+               },
+               "as a blessing": {
+                    "locators": [
                          "Kp5"
                     ],
                     "xrefs": []
@@ -9558,23 +9613,31 @@ export const indexObject ={
                     "xrefs": []
                }
           },
-          "giving": {
-               "what is hard to give": {
-                    "locators": [
-                         "AN7.36"
-                    ],
-                    "xrefs": []
-               }
-          },
           "giving (dāna)": {
-               "": {
+               "qualities of recipient": {
                     "locators": [
                          "MN35",
-                         "SN1.41",
-                         "SN41.10",
-                         "Kp5",
-                         "Kp8"
+                         "SN3.24",
+                         "AN3.57",
+                         "AN4.34",
+                         "AN4.63",
+                         "AN5.32",
+                         "AN6.37",
+                         "AN6.59",
+                         "AN8.34"
                     ],
+                    "xrefs": []
+               },
+               "encouraging others to": {
+                    "locators": [
+                         "SN41.10",
+                         "AN5.234",
+                         "Snp3.7"
+                    ],
+                    "xrefs": []
+               },
+               "": {
+                    "locators": [],
                     "xrefs": [
                          "xref alms food",
                          "xref generosity (cāga)",
@@ -9612,6 +9675,7 @@ export const indexObject ={
                },
                "as a blessing": {
                     "locators": [
+                         "Kp5",
                          "Snp2.4"
                     ],
                     "xrefs": []
@@ -9684,7 +9748,6 @@ export const indexObject ={
                },
                "food": {
                     "locators": [
-                         "SN1.41",
                          "AN4.57",
                          "AN4.58",
                          "AN4.59",
@@ -9829,19 +9892,6 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "qualities of recipient": {
-                    "locators": [
-                         "SN3.24",
-                         "AN3.57",
-                         "AN4.34",
-                         "AN4.63",
-                         "AN5.32",
-                         "AN6.37",
-                         "AN6.59",
-                         "AN8.34"
-                    ],
-                    "xrefs": []
-               },
                "reasons for": {
                     "locators": [
                          "AN8.31",
@@ -9969,6 +10019,12 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
+               "to protect wealth": {
+                    "locators": [
+                         "Kp8"
+                    ],
+                    "xrefs": []
+               },
                "praised by wise": {
                     "locators": [
                          "Dhp177"
@@ -10020,13 +10076,6 @@ export const indexObject ={
                          "AN7.17",
                          "Snp3.4",
                          "Snp3.5"
-                    ],
-                    "xrefs": []
-               },
-               "encouraging others to": {
-                    "locators": [
-                         "AN5.234",
-                         "Snp3.7"
                     ],
                     "xrefs": []
                },
@@ -10229,6 +10278,12 @@ export const indexObject ={
                "outside of the community": {
                     "locators": [
                          "AN7.29"
+                    ],
+                    "xrefs": []
+               },
+               "what is hard to give": {
+                    "locators": [
+                         "AN7.36"
                     ],
                     "xrefs": []
                },
@@ -10842,7 +10897,7 @@ export const indexObject ={
                }
           },
           "gratitude": {
-               "": {
+               "as a blessing": {
                     "locators": [
                          "Kp5"
                     ],
@@ -10924,7 +10979,7 @@ export const indexObject ={
                }
           },
           "greed (lobha)": {
-               "": {
+               "giving up guarentees non-return": {
                     "locators": [
                          "Iti1"
                     ],
@@ -11416,10 +11471,14 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "": {
+               "likely when talking a lot": {
                     "locators": [
                          "AN5.214"
                     ],
+                    "xrefs": []
+               },
+               "": {
+                    "locators": [],
                     "xrefs": [
                          "xref speech"
                     ]
@@ -11456,19 +11515,22 @@ export const indexObject ={
                }
           },
           "hatred (dosa)": {
-               "": {
+               "removed by non-hatred": {
                     "locators": [
-                         "Dhp5",
-                         "Iti2"
+                         "Dhp5"
                     ],
-                    "xrefs": [
-                         "xref resentment (āghāta)"
-                    ]
+                    "xrefs": []
                },
                "as crime": {
                     "locators": [
                          "Dhp202",
                          "Dhp251"
+                    ],
+                    "xrefs": []
+               },
+               "giving up guarentees non-return": {
+                    "locators": [
+                         "Iti2"
                     ],
                     "xrefs": []
                },
@@ -11508,6 +11570,12 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
+               "": {
+                    "locators": [],
+                    "xrefs": [
+                         "xref resentment (āghāta)"
+                    ]
+               },
                "loving-kindness to give up": {
                     "locators": [
                          "AN6.107"
@@ -11515,15 +11583,13 @@ export const indexObject ={
                     "xrefs": []
                }
           },
-          "Hatthaka of Āḷavī": {
+          "Hatthaka of Āḷavī, householder": {
                "asks the Buddha if he slept well": {
                     "locators": [
                          "AN3.35"
                     ],
                     "xrefs": []
-               }
-          },
-          "Hatthaka of Āḷavī, householder": {
+               },
                "foremost who attract a group": {
                     "locators": [
                          "AN1.251"
@@ -11551,14 +11617,6 @@ export const indexObject ={
                     "xrefs": []
                }
           },
-          "Hatthigāmaka Uggata gahapati, householder": {
-               "foremost who attend on the Saṅgha": {
-                    "locators": [
-                         "AN1.254"
-                    ],
-                    "xrefs": []
-               }
-          },
           "head on fire": {
                "mindfulness of death": {
                     "locators": [
@@ -11568,7 +11626,7 @@ export const indexObject ={
                }
           },
           "head-splitting": {
-               "": {
+               "causes of": {
                     "locators": [
                          "Snp5.1"
                     ],
@@ -11825,11 +11883,16 @@ export const indexObject ={
                }
           },
           "heedfulness (appamāda)": {
+               "as a blessing": {
+                    "locators": [
+                         "Kp5"
+                    ],
+                    "xrefs": []
+               },
                "": {
                     "locators": [
                          "AN4.116",
                          "AN4.117",
-                         "Kp5",
                          "Dhp21",
                          "Dhp chapter 2"
                     ],
@@ -12045,7 +12108,7 @@ export const indexObject ={
                }
           },
           "heirs": {
-               "": {
+               "stealing money": {
                     "locators": [
                          "Kp8"
                     ],
@@ -12384,10 +12447,9 @@ export const indexObject ={
                }
           },
           "honor": {
-               "": {
+               "as a blessing": {
                     "locators": [
-                         "Kp5",
-                         "Dhp392"
+                         "Kp5"
                     ],
                     "xrefs": []
                },
@@ -12407,6 +12469,12 @@ export const indexObject ={
                "result of giving": {
                     "locators": [
                          "Dhp109"
+                    ],
+                    "xrefs": []
+               },
+               "": {
+                    "locators": [
+                         "Dhp392"
                     ],
                     "xrefs": []
                },
@@ -12559,7 +12627,7 @@ export const indexObject ={
                }
           },
           "humility": {
-               "": {
+               "as a blessing": {
                     "locators": [
                          "Kp5"
                     ],
@@ -12780,7 +12848,12 @@ export const indexObject ={
           "impermanence": {
                "": {
                     "locators": [
-                         "Dhp151",
+                         "Dhp151"
+                    ],
+                    "xrefs": []
+               },
+               "all conditioned things are": {
+                    "locators": [
                          "Dhp277"
                     ],
                     "xrefs": []
@@ -15025,7 +15098,7 @@ export const indexObject ={
           "lying": {
                "": {
                     "locators": [
-                         "AN4.248",
+                         "AN4.250",
                          "Dhp176"
                     ],
                     "xrefs": [
@@ -17632,7 +17705,7 @@ export const indexObject ={
                }
           },
           "non-hatred": {
-               "": {
+               "removes hatred": {
                     "locators": [
                          "Dhp5"
                     ],
@@ -17656,6 +17729,42 @@ export const indexObject ={
                }
           },
           "non-returner (anāgāmi)": {
+               "giving up greed to become": {
+                    "locators": [
+                         "Iti1"
+                    ],
+                    "xrefs": []
+               },
+               "giving up hatred to become": {
+                    "locators": [
+                         "Iti2"
+                    ],
+                    "xrefs": []
+               },
+               "giving up delusion to become": {
+                    "locators": [
+                         "Iti3"
+                    ],
+                    "xrefs": []
+               },
+               "giving up anger to become": {
+                    "locators": [
+                         "Iti4"
+                    ],
+                    "xrefs": []
+               },
+               "giving up distain to become": {
+                    "locators": [
+                         "Iti5"
+                    ],
+                    "xrefs": []
+               },
+               "giving up conceit to become": {
+                    "locators": [
+                         "Iti6"
+                    ],
+                    "xrefs": []
+               },
                "attached to rebirth": {
                     "locators": [
                          "Iti96"
@@ -17717,7 +17826,7 @@ export const indexObject ={
                }
           },
           "not-self": {
-               "": {
+               "all things are": {
                     "locators": [
                          "Dhp279"
                     ],
@@ -17742,6 +17851,12 @@ export const indexObject ={
                          "AN5.7"
                     ],
                     "xrefs": []
+               },
+               "": {
+                    "locators": [],
+                    "xrefs": [
+                         "xref caregiver"
+                    ]
                }
           }
      },
@@ -18407,16 +18522,21 @@ export const indexObject ={
                }
           },
           "patience": {
-               "": {
+               "as a blessing": {
                     "locators": [
-                         "Kp5",
-                         "Dhp399"
+                         "Kp5"
                     ],
                     "xrefs": []
                },
                "as austerity": {
                     "locators": [
                          "Dhp184"
+                    ],
+                    "xrefs": []
+               },
+               "": {
+                    "locators": [
+                         "Dhp399"
                     ],
                     "xrefs": []
                },
@@ -19518,6 +19638,12 @@ export const indexObject ={
                }
           },
           "praise": {
+               "by gods": {
+                    "locators": [
+                         "Dhp366"
+                    ],
+                    "xrefs": []
+               },
                "wishing for": {
                     "locators": [
                          "Iti76"
@@ -19569,14 +19695,6 @@ export const indexObject ={
                     "xrefs": []
                }
           },
-          "praise by gods": {
-               "": {
-                    "locators": [
-                         "Dhp366"
-                    ],
-                    "xrefs": []
-               }
-          },
           "praised by the wise (viññuppasatthā)": {
                "": {
                     "locators": [
@@ -19594,7 +19712,7 @@ export const indexObject ={
                }
           },
           "preceptor (upajjhāya)": {
-               "": {
+               "helping his student": {
                     "locators": [
                          "AN5.56"
                     ],
@@ -19602,7 +19720,7 @@ export const indexObject ={
                }
           },
           "precepts": {
-               "": {
+               "blessing": {
                     "locators": [
                          "Dhp333"
                     ],
@@ -20635,7 +20753,7 @@ export const indexObject ={
                }
           },
           "refuges": {
-               "": {
+               "formula for taking": {
                     "locators": [
                          "Kp1"
                     ],
@@ -20882,7 +21000,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "": {
+               "how reputation grows": {
                     "locators": [
                          "Dhp24"
                     ],
@@ -21018,13 +21136,11 @@ export const indexObject ={
                }
           },
           "respect (gārava)": {
-               "": {
+               "as a blessing": {
                     "locators": [
                          "Kp5"
                     ],
-                    "xrefs": [
-                         "xref honor (sakkāra)"
-                    ]
+                    "xrefs": []
                },
                "for spiritual companions": {
                     "locators": [
@@ -21041,6 +21157,12 @@ export const indexObject ={
                          "Thag6.9"
                     ],
                     "xrefs": []
+               },
+               "": {
+                    "locators": [],
+                    "xrefs": [
+                         "xref honor (sakkāra)"
+                    ]
                },
                "one without lives in suffering": {
                     "locators": [
@@ -21564,20 +21686,19 @@ export const indexObject ={
                }
           },
           "right view (sammā diṭṭhi)": {
-               "": {
+               "leads to good rebirth": {
                     "locators": [
-                         "Dhp319",
-                         "Iti71"
+                         "Dhp319"
                     ],
-                    "xrefs": [
-                         "xref principles of cordiality (dhammā sāraṇīyā)"
-                    ]
+                    "xrefs": []
                },
                "resulting in heaven": {
                     "locators": [
                          "AN1.313",
+                         "AN2.28",
                          "AN4.212",
-                         "Iti33"
+                         "Iti33",
+                         "Iti71"
                     ],
                     "xrefs": []
                },
@@ -21623,12 +21744,6 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "leads to heaven": {
-                    "locators": [
-                         "AN2.28"
-                    ],
-                    "xrefs": []
-               },
                "leads to human world": {
                     "locators": [
                          "AN2.28"
@@ -21640,6 +21755,12 @@ export const indexObject ={
                          "AN2.126"
                     ],
                     "xrefs": []
+               },
+               "": {
+                    "locators": [],
+                    "xrefs": [
+                         "xref principles of cordiality (dhammā sāraṇīyā)"
+                    ]
                },
                "to give up wrong view": {
                     "locators": [
@@ -21657,7 +21778,7 @@ export const indexObject ={
                }
           },
           "righteous conduct (dhammacāri)": {
-               "": {
+               "as a blessing": {
                     "locators": [
                          "Kp5"
                     ],
@@ -24806,7 +24927,7 @@ export const indexObject ={
                }
           },
           "suffering (dukkha)": {
-               "": {
+               "all conditioned things are": {
                     "locators": [
                          "Dhp278"
                     ],
@@ -25336,6 +25457,12 @@ export const indexObject ={
                          "Vv52"
                     ],
                     "xrefs": []
+               },
+               "": {
+                    "locators": [],
+                    "xrefs": [
+                         "xref travel"
+                    ]
                }
           },
           "trades": {
@@ -25403,7 +25530,7 @@ export const indexObject ={
                }
           },
           "training": {
-               "": {
+               "as a blessing": {
                     "locators": [
                          "Kp5"
                     ],
@@ -25484,6 +25611,12 @@ export const indexObject ={
                          "AN5.222"
                     ],
                     "xrefs": []
+               },
+               "": {
+                    "locators": [],
+                    "xrefs": [
+                         "xref tours"
+                    ]
                }
           },
           "treasures": {
@@ -25623,7 +25756,7 @@ export const indexObject ={
                },
                "": {
                     "locators": [
-                         "AN4.248"
+                         "AN4.251"
                     ],
                     "xrefs": []
                }
@@ -25690,6 +25823,14 @@ export const indexObject ={
                "advice for daughters": {
                     "locators": [
                          "AN5.33"
+                    ],
+                    "xrefs": []
+               }
+          },
+          "Uggata of Hatthigāmaka, householder": {
+               "foremost who attend on the Saṅgha": {
+                    "locators": [
+                         "AN1.254"
                     ],
                     "xrefs": []
                }

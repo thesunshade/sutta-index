@@ -514,7 +514,11 @@ a:visited {
 .head-word-area {
   padding-left: var(--indent);
   text-indent: calc(-1 * var(--indent));
-  padding-top: .0rem
+  padding-top: .50rem;
+  padding-bottom: .2rem;
+  position: sticky;
+  top: 4.6rem;
+  background-color: var(--offwhite);
 }
 
 
