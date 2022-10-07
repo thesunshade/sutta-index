@@ -2371,7 +2371,7 @@ export const indexArray =[
      ],
      [
           "AN2.137",
-          "disciple of the Buddha",
+          "disciples of the Buddha",
           "acting rightly and wrongly towards"
      ],
      [
@@ -2916,17 +2916,17 @@ export const indexArray =[
      ],
      [
           "AN3.36",
+          "Yama, King",
+          ""
+     ],
+     [
+          "AN3.36",
           "dead body",
           "as divine messenger"
      ],
      [
           "AN3.36",
           "divine messengers (devadūta)",
-          ""
-     ],
-     [
-          "AN3.36",
-          "Yama, King",
           ""
      ],
      [
@@ -8801,6 +8801,11 @@ export const indexArray =[
      ],
      [
           "AN5.34",
+          "faith (saddhā)",
+          "relying on faith for those things that are not directly visible"
+     ],
+     [
+          "AN5.34",
           "giving (dāna)",
           "cause for rebirth"
      ],
@@ -11362,7 +11367,7 @@ export const indexArray =[
      [
           "AN5.201",
           "Kimbila, Ven.",
-          "why Dhamma lasts long"
+          "Dhamma not lasting long"
      ],
      [
           "AN5.201",
@@ -12616,11 +12621,6 @@ export const indexArray =[
      ],
      [
           "AN6.34",
-          "Tissa, Brahma",
-          "former monk"
-     ],
-     [
-          "AN6.34",
           "gods",
           "that are stream-enterers"
      ],
@@ -12632,12 +12632,17 @@ export const indexArray =[
      [
           "AN6.34",
           "Mahāmoggallāna, Ven.",
-          "visiting brahma world"
+          "visiting brahmā world"
      ],
      [
           "AN6.34",
           "stream-enterers (sotāpanna)",
           "gods that have become"
+     ],
+     [
+          "AN6.34",
+          "Tissa, Brahma",
+          "former monk"
      ],
      [
           "AN6.36",
@@ -15326,6 +15331,21 @@ export const indexArray =[
      ],
      [
           "AN7.53",
+          "death (maraṇa)",
+          "not causing sorrow"
+     ],
+     [
+          "AN7.53",
+          "departed relatives",
+          "not causing sorrow"
+     ],
+     [
+          "AN7.53",
+          "fidelity in marriage",
+          "Veḷukaṇṭakī Nandamāta"
+     ],
+     [
+          "AN7.53",
           "giving (dāna)",
           "dedication to gods"
      ],
@@ -15333,6 +15353,341 @@ export const indexArray =[
           "AN7.53",
           "giving (dāna)",
           "to the Saṅgha"
+     ],
+     [
+          "AN7.53",
+          "gods",
+          "sharing merit with"
+     ],
+     [
+          "AN7.53",
+          "jhānas",
+          "lay people attaining"
+     ],
+     [
+          "AN7.53",
+          "merit sharing",
+          "with gods"
+     ],
+     [
+          "AN7.53",
+          "non-returner (anāgāmi)",
+          "Veḷukaṇṭakī Nandamāta"
+     ],
+     [
+          "AN7.53",
+          "reciting Dhamma",
+          "lay people reciting"
+     ],
+     [
+          "AN7.53",
+          "Veḷukaṇṭakī Nandamāta, householder",
+          "incredible and amazing qualities"
+     ],
+     [
+          "AN7.53",
+          "Veḷukaṇṭakī Nandamāta, householder",
+          "reciting Way to the Beyond"
+     ],
+     [
+          "AN7.53",
+          "Vessavaṇa, King",
+          "hearing Veḷukaṇṭakī Nandamāta,reciting"
+     ],
+     [
+          "AN7.53",
+          "Way to the Beyond (Pārāyana)",
+          "recited by Veḷukaṇṭakī Nandamāta, householder"
+     ],
+     [
+          "AN7.54",
+          "uncdeclared (abyākata)",
+          "doubt over"
+     ],
+     [
+          "AN7.54",
+          "wrong views",
+          "undeclared points"
+     ],
+     [
+          "AN7.55",
+          "extinguished in-between (antarāparinibbāyī)",
+          "like a spark"
+     ],
+     [
+          "AN7.55",
+          "extinguished upon landing (upahaccaparinibbāyī)",
+          "like a spark"
+     ],
+     [
+          "AN7.55",
+          "extinguished with extra effort (sasaṅkhāraparinibbāyī)",
+          "like a spark"
+     ],
+     [
+          "AN7.55",
+          "extinguished without extra effort (asaṅkhāraparinibbāyī)",
+          "like a spark"
+     ],
+     [
+          "AN7.55",
+          "extinguishment by not grasping (anupādāparinibbāna)",
+          "definition"
+     ],
+     [
+          "AN7.55",
+          "heading upstream to the Akaniṭṭha realm (uddhaṁsotassa akaniṭṭhagāmino)",
+          "like a spark"
+     ],
+     [
+          "AN7.55",
+          "stages of enlightenment",
+          ""
+     ],
+     [
+          "AN7.56",
+          "Dhamma follower (dhammānusārī)",
+          "known by gods of Brahmā’s Host"
+     ],
+     [
+          "AN7.56",
+          "freedom by wisdom (paññāvimutti)",
+          "known by gods of Brahmā’s Host"
+     ],
+     [
+          "AN7.56",
+          "gods of Brahmā’s Host (brahmakāyika)",
+          "knowing stages of enlightenment"
+     ],
+     [
+          "AN7.56",
+          "Mahāmoggallāna, Ven.",
+          "visiting brahmā world"
+     ],
+     [
+          "AN7.56",
+          "one attained to view (diṭṭhippatto)",
+          "known by gods of Brahmā’s Host"
+     ],
+     [
+          "AN7.56",
+          "one freed both ways (ubhatobhāgavimutta)",
+          "known by gods of Brahmā’s Host"
+     ],
+     [
+          "AN7.56",
+          "Tissa, Brahma",
+          "former monk"
+     ],
+     [
+          "AN7.56",
+          "mendicants",
+          "reborn as gods"
+     ],
+     [
+          "AN7.56",
+          "one freed by faith (saddhāvimutto)",
+          "known by gods of Brahmā’s Host"
+     ],
+     [
+          "AN7.56",
+          "personal witness (kāyasakkhī)",
+          "known by gods of Brahmā’s Host"
+     ],
+     [
+          "AN7.56",
+          "signless meditator (animittavihāri)",
+          ""
+     ],
+     [
+          "AN7.57",
+          "Dhamma teaching",
+          "to faithful, generous people first"
+     ],
+     [
+          "AN7.57",
+          "faith (saddhā)",
+          "not needed when truth is known"
+     ],
+     [
+          "AN7.57",
+          "faith (saddhā)",
+          "relying on faith for those things that are not directly visible"
+     ],
+     [
+          "AN7.57",
+          "giving (dāna)",
+          "cause for rebirth"
+     ],
+     [
+          "AN7.57",
+          "giving (dāna)",
+          "result directly visible"
+     ],
+     [
+          "AN7.57",
+          "monastics",
+          "showing compassion to lay people"
+     ],
+     [
+          "AN7.57",
+          "reputation",
+          "good reputation gained through giving"
+     ],
+     [
+          "AN7.57",
+          "self assured (visārada)",
+          "by giving"
+     ],
+     [
+          "AN7.57",
+          "Sīha, general",
+          ""
+     ],
+     [
+          "AN7.58",
+          "Buddha, the",
+          "irreproachable"
+     ],
+     [
+          "AN7.58",
+          "Buddha, the",
+          "nothing to hide"
+     ],
+     [
+          "AN7.58",
+          "Dhamma",
+          "well explained"
+     ],
+     [
+          "AN7.58",
+          "disciples of the Buddha",
+          "Buddha has hundreds of"
+     ],
+     [
+          "AN7.59",
+          "concentration (samādhi)",
+          "respect for"
+     ],
+     [
+          "AN7.59",
+          "Dhamma",
+          "decline, factors leading to"
+     ],
+     [
+          "AN7.59",
+          "heedfulness (appamāda)",
+          "respect for"
+     ],
+     [
+          "AN7.59",
+          "hospitality (paṭisanthāra)",
+          "respect for and Dhamma lasting long"
+     ],
+     [
+          "AN7.59",
+          "Kimbila, Ven.",
+          "Dhamma not lasting long"
+     ],
+     [
+          "AN7.59",
+          "respect (gārava)",
+          "Dhamma lasting long and"
+     ],
+     [
+          "AN7.59",
+          "training",
+          "respect for"
+     ],
+     [
+          "AN7.60",
+          "energetic (āraddhavīriya)",
+          "leads to enlightenment soon"
+     ],
+     [
+          "AN7.60",
+          "faith (saddhā)",
+          "leads to enlightenment soon"
+     ],
+     [
+          "AN7.60",
+          "learned (bahussutā)",
+          "leads to enlightenment soon"
+     ],
+     [
+          "AN7.60",
+          "mindfulness (sati)",
+          "leads to enlightenment soon"
+     ],
+     [
+          "AN7.60",
+          "seclusion (paṭisallīna)",
+          "leads to enlightenment soon"
+     ],
+     [
+          "AN7.60",
+          "virtue (sīla)",
+          "leads to enlightenment soon"
+     ],
+     [
+          "AN7.60",
+          "wisdom (paññā)",
+          "leads to enlightenment soon"
+     ],
+     [
+          "AN7.61",
+          "Buddha, the",
+          "visiting monks in trouble"
+     ],
+     [
+          "AN7.61",
+          "Dhamma",
+          "reflecting on to overcome drowsiness"
+     ],
+     [
+          "AN7.61",
+          "drowsiness (middha)",
+          "overcoming"
+     ],
+     [
+          "AN7.61",
+          "ears",
+          "pinching to overcome drowsiness"
+     ],
+     [
+          "AN7.61",
+          "lion’s posture (sīhaseyyā)",
+          "to overcome drowsiness"
+     ],
+     [
+          "AN7.61",
+          "Mahāmoggallāna, Ven.",
+          "nodding off in meditation"
+     ],
+     [
+          "AN7.61",
+          "perception of light (ālokasañña)",
+          "to overcome drowsiness"
+     ],
+     [
+          "AN7.61",
+          "reciting Dhamma",
+          "to overcome drowsiness"
+     ],
+     [
+          "AN7.61",
+          "stars",
+          "looking at to overcome drowsiness61"
+     ],
+     [
+          "AN7.61",
+          "walking meditation",
+          "to overcome drowsiness"
+     ],
+     [
+          "AN7.61",
+          "water",
+          "using to overcome drowsiness"
      ],
      [
           "AN7.62",
@@ -16111,7 +16466,7 @@ export const indexArray =[
      ],
      [
           "Dhp59",
-          "disciple of the Buddha",
+          "disciples of the Buddha",
           "simile of lotus in mud"
      ],
      [
@@ -18106,7 +18461,7 @@ export const indexArray =[
      ],
      [
           "Iti84",
-          "disciple of the Buddha",
+          "disciples of the Buddha",
           "benefiting the world"
      ],
      [
@@ -18491,11 +18846,6 @@ export const indexArray =[
      ],
      [
           "Kp5",
-          "Dhamma discussion",
-          "time for"
-     ],
-     [
-          "Kp5",
           "actions (kamma)",
           "blameless"
      ],
@@ -18521,18 +18871,8 @@ export const indexArray =[
      ],
      [
           "Kp5",
-          "austerity",
-          "as a blessing"
-     ],
-     [
-          "Kp5",
           "blessings (maṅgala)",
           ""
-     ],
-     [
-          "Kp5",
-          "celibacy",
-          "as a blessing"
      ],
      [
           "Kp5",
@@ -18542,6 +18882,21 @@ export const indexArray =[
      [
           "Kp5",
           "contentment (santuṭṭhi)",
+          "as a blessing"
+     ],
+     [
+          "Kp5",
+          "Dhamma discussion",
+          "time for"
+     ],
+     [
+          "Kp5",
+          "austerity",
+          "as a blessing"
+     ],
+     [
+          "Kp5",
+          "celibacy",
           "as a blessing"
      ],
      [
@@ -19288,6 +19643,16 @@ export const indexArray =[
           "Pv3",
           "wrong speech (micchā vacā)",
           "results of"
+     ],
+     [
+          "Pv4",
+          "death (maraṇa)",
+          "not causing sorrow"
+     ],
+     [
+          "Pv4",
+          "departed relatives",
+          "not causing sorrow"
      ],
      [
           "Pv4",
@@ -22566,6 +22931,11 @@ export const indexArray =[
      ],
      [
           "Thag10.1",
+          "Suddhodana, king",
+          ""
+     ],
+     [
+          "Thag10.1",
           "family",
           "benefited by arahant relative"
      ],
@@ -22577,11 +22947,6 @@ export const indexArray =[
      [
           "Thag10.1",
           "Māyā, queen Mahā",
-          ""
-     ],
-     [
-          "Thag10.1",
-          "Suddhodana, king",
           ""
      ],
      [
@@ -24341,6 +24706,11 @@ export const indexArray =[
      ],
      [
           "Ud5.5",
+          "Dhamma",
+          "has many treasures"
+     ],
+     [
+          "Ud5.5",
           "asuras",
           "love of ocean"
      ],
@@ -24348,11 +24718,6 @@ export const indexArray =[
           "Ud5.5",
           "bad monastics",
           "in pātimokkha recitation"
-     ],
-     [
-          "Ud5.5",
-          "Dhamma",
-          "has many treasures"
      ],
      [
           "Ud5.5",
