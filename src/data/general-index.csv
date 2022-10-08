@@ -768,7 +768,7 @@ refuges	false	Dhp188–89
 refuges	seeing noble truths	Dhp190–92
 honor	to the worthy	Dhp195–96
 merit (puññā)	by honoring	Dhp195–96
-happiness		Dhp chapter 15
+happiness (sukha)		Dhp chapter 15
 love (non-hatred)		Dhp197
 contentment (santuṭṭhi)		Dhp199–200
 victory and defeat		Dhp201
@@ -833,8 +833,8 @@ wisdom (paññā)	meditation and	Dhp282
 attachment	simile of calf	Dhp284
 attachment	sexual	Dhp284
 death (maraṇa)	simile of flood	Dhp287
-happiness	with material things	Dhp290
-happiness	through harming others	Dhp291
+happiness (sukha)	with material things	Dhp290
+happiness (sukha)	through harming others	Dhp291
 mindfulness of body (kāyagatāsati)		Dhp293
 sleep	waking well	Dhp296–298
 recollection (anussati)	of triple gem	Dhp296–298
@@ -946,7 +946,7 @@ noble silence	vs. useless speech	Ud2.2
 nibbāna	better happiness than heaven	Ud2.2
 children	harming an animal	Ud2.3
 suffering (dukkha)	no one likes	Ud2.3
-happiness	those who desire	Ud2.3
+happiness (sukha)	those who desire	Ud2.3
 jealousy		Ud2.4
 enduring abuse		Ud2.4
 not-self	considering abuse	Ud2.4
@@ -1006,7 +1006,7 @@ lying	factor for rebirth	Ud4.8
 enduring abuse		Ud4.8
 gratitude	of arahants	Ud4.9
 suffering (dukkha)	no one likes	Ud5.1
-happiness	those who desire	Ud5.1
+happiness (sukha)	those who desire	Ud5.1
 oneself as most dear		Ud5.1
 Bodhisatta	mother	Ud5.2
 death (maraṇa)	as universal	Ud5.2
@@ -1051,7 +1051,7 @@ wisdom (paññā)	knowable through discussion	Ud6.2
 misjudging others		Ud6.2
 Dhamma	for money making	Ud6.2
 wrong views		Ud6.4–6
-eternalism		Ud6.4–6
+eternalism (sassatavāda)		Ud6.4–6
 Tathāgatas	existing after death	Ud6.4
 followers of other paths (aññatitthiyā)		Ud6.4–6
 disputes	over views	Ud6.4–6
@@ -1152,7 +1152,7 @@ elements	form, formlessness, cessation	Iti51
 feelings (vedanā)	three kinds	Iti52–3
 pleasant feelings	seen as suffering	Iti53
 painful feelings	seen as dart	Iti53
-neutral feelings	seen as impermanent	Iti53
+neutral feelings (adukkhamasukhaṁ vedanā)	seen as impermanent	Iti53
 impermanence	neutral feelings seen as 	Iti53
 searches (esana, pariyesana)	three types	Iti54–5
 defilements (āsava)		Iti56–7
@@ -1443,7 +1443,7 @@ craving (taṇha)	as partner	Snp3.12
 more peaceful		Snp3.12
 against the stream	Dhamma as	Snp3.12
 formless (arūpā)	more peaceful than form	Snp3.12
-happiness	as suffering	Snp3.12
+happiness (sukha)	as suffering	Snp3.12
 sense pleasures (kāmaguṇa)		Snp4.1
 sense pleasures (kāmaguṇa)	to be avoided like snake head	Snp4.1
 suffering (dukkha)	like a leaky boat	Snp4.1
@@ -2014,7 +2014,7 @@ seclusion	suffering of	Thag14.2
 Dhamma	full of flavor (mahārassa)	Thag15.1
 Buddha, the	as nāga	Thag15.2
 death (maraṇa)	without fear	Thag16.1
-sense restraint		Thag16.2
+sense restraint (indriyasaṁvara)		Thag16.2
 faculties (indriya)	knocking out faculties with faculties	Thag16.2
 learning		xref listening to Dhamma
 listening to Dhamma		xref learning
@@ -2057,13 +2057,13 @@ Saṅgha	decline of in future	Thag16.10
 senior monastics	gone	Thag16.10
 disputes	over views	Thag16.10
 monastics	giving material things to lay people	Thag16.10
-sense restraint	like walking shoeless on thorny path	Thag16.10
+sense restraint (indriyasaṁvara)	like walking shoeless on thorny path	Thag16.10
 Dhamma	decline of in future	Thag17.1
 monastic life	wrongly practiced in the future	Thag17.1
 robes	not worthy of	Thag17.1
 heedfulness (appamāda)	as sanctuary	Thag17.1
 eating	restraint	Thag17.2
-happiness	as suffering	Thag17.2
+happiness (sukha)	as suffering	Thag17.2
 proliferation (papañca)	giving up	Thag17.2
 arahants	residence of	Thag17.2
 admonishment	like guide to hidden treasuer	Thag17.2
@@ -2676,8 +2676,8 @@ dimension of infinite space (ākāsānañcāyatana)		AN3.116
 gods of the dimension of infinite space (ākāsānañcāyatana devā		AN3.116
 dimension of infinite consciousness (viññāṇañcāyatana) 		AN3.116
 gods of the dimension of infinite consciousness (viññāṇañcāyatana devā) 		AN3.116
-dimension of nothingness (viññāṇañcāyatana)		AN3.116
-gods of the dimension of nothingness (viññāṇañcāyatana devā)		AN3.116
+dimension of nothingness (ākiñcaññāyatana)		AN3.116
+gods of the dimension of nothingness (ākiñcaññāyatanūpagānaṁ devānaṁ)		AN3.116
 rebirth	of an ordinary person vs. a disciple of the Buddha	AN3.116
 accomplishment in virtue (sīlasampadā)	definition	AN3.117
 accomplishment in mind (cittasampadā)	definition	AN3.117
@@ -3037,7 +3037,7 @@ postures	for practicing always	AN4.11
 danger in slightest fault		AN4.12
 hindrances (nīvarana)	removed in four postures	AN4.12
 right effort (sammā vāyāma)	definition	AN4.13
-effort (padhāna)		xref right effort (sammā vāyāma)
+striving (padhāna)		xref right effort (sammā vāyāma)
 right effort (sammā vāyāma)	regarding sense objects	AN4.14
 sense objects	and right effort	AN4.14
 right effort (sammā vāyāma)	and thoughts	AN4.14
@@ -3194,11 +3194,11 @@ wealth	happiness of using	AN4.62
 wealth		xref lay life
 lay life		xref wealth
 debt (iṇa)	happiness of not having	AN4.62
-happiness	of ownership	AN4.62
-happiness	of using wealth	AN4.62
+happiness (sukha)	of ownership	AN4.62
+happiness (sukha)	of using wealth	AN4.62
 merit (puññā)	happiness from using wealth	AN4.62
-happiness	of debtlessness	AN4.62
-happiness	of blamelessness	AN4.62
+happiness (sukha)	of debtlessness	AN4.62
+happiness (sukha)	of blamelessness	AN4.62
 blame	happiness of blamelessness	AN4.62
 hell (niraya)	actions that lead to	AN4.64
 external appearance		AN4.65
@@ -3457,12 +3457,12 @@ food	repulsiveness of	AN4.163
 powers of a trainee (sekha bala)		AN4.163
 powers of a trainee (sekha bala)	compared to five faculties	AN4.163
 practicing	pleasant	AN4.163
-sense restraint 	as taming practice	AN4.164
+sense restraint (indriyasaṁvara) 	as taming practice	AN4.164
 not tolerating unwholesome	as calming practice	AN4.164
 anger (kodha)	not responding to anger with anger	AN4.164
 patience	as practice	AN4.164
 enduring 	as a practice	AN4.165
-sense restraint 	as taming practice	AN4.165
+sense restraint (indriyasaṁvara) 	as taming practice	AN4.165
 not tolerating unwholesome	as calming practice	AN4.165
 practicing		AN4.166
 Moggallāna, Ven	type of practice	AN4.167
@@ -3742,9 +3742,9 @@ speech	kind words	AN4.256
 Dhamma	in brief	AN4.257
 requisites, four	source of craving	AN4.257
 Māluṅkyaputta, Ven	asking for Dhamma in brief	AN4.257
-wealth	loosing and keeping	AN4.258
-alcohol	cause of loosing wealth	AN4.258
-employees	cause of loosing and keeping wealth	AN4.258
+wealth	losing and keeping	AN4.258
+alcohol	cause of losing wealth	AN4.258
+employees	cause of losing and keeping wealth	AN4.258
 powers (bala)	energy, mindfulness, immersion, and wisdom 	AN4.261
 wilderness (arañña)	qualities needed to live in	AN4.262
 jungle		xref wilderness (arañña)
@@ -4035,7 +4035,7 @@ defeat (pārājika)		AN5.76
 disrobing	encouragement not to	AN5.76
 sense pleasures (kāmaguṇa)	similes for	AN5.76
 monastic life	dissatisfaction with	AN5.76
-sense restraint	like a warrior	AN5.76
+sense restraint (indriyasaṁvara)	like a warrior	AN5.76
 perils (bhaya)	future	AN5.77
 mindfulness of death (maraṇassati)	using future perils	AN5.77
 mindfulness of death (maraṇassati)	using future perils	AN5.78
@@ -4665,26 +4665,26 @@ admonishment	not wanting to be admonished	AN2.62
 bad monastics	admonishment and	AN2.62
 good monastics	admonishment and	AN2.62
 disputes	in the Saṅgha 	AN2.63
-happiness	of lay people and of monastics	AN2.64
+happiness (sukha)	of lay people and of monastics	AN2.64
 monastics	happiness of is superior	AN2.64
-happiness	of sensuality and of renunciation	AN2.65
+happiness (sukha)	of sensuality and of renunciation	AN2.65
 renunciation	happiness of is superior	AN2.65
-happiness	attachment/acquisitions (upadhi) and	AN2.66
+happiness (sukha)	attachment/acquisitions (upadhi) and	AN2.66
 acquisitions (upadhi)	happiness and	AN2.66
-happiness	defilements (āsava) and	AN2.67
-happiness	material and spiritual	AN2.68
-spiritual (nirāmisa)	happiness 	AN2.68
+happiness (sukha)	defilements (āsava) and	AN2.67
+happiness (sukha)	material and spiritual	AN2.68
+spiritual happiness (nirāmisa sukha)	better than material happiness	AN2.68
 non-worldly		xref spiritual (nirāmisa)
 worldly (āmisa)	happiness 	AN2.68
-happiness	noble and ignoble	AN2.69
-happiness	physical and mental	AN2.70
-happiness	with rapture and free from rapture	AN2.71
-happiness	of pleasure and of equanimity	AN2.72
+happiness (sukha)	noble and ignoble	AN2.69
+happiness (sukha)	physical and mental	AN2.70
+happiness (sukha)	with rapture and free from rapture	AN2.71
+happiness (sukha)	of pleasure and of equanimity	AN2.72
 equanimity (upekkhā)	happiness of 	AN2.72
-happiness	concentration and	AN2.73
-happiness	with rapture and free from rapture	AN2.74
-happiness	of pleasure and of equanimity	AN2.75
-happiness	form and formless	AN2.76
+happiness (sukha)	concentration and	AN2.73
+happiness (sukha)	with rapture and free from rapture	AN2.74
+happiness (sukha)	of pleasure and of equanimity	AN2.75
+happiness (sukha)	form and formless	AN2.76
 freedom by wisdom (paññāvimutti)		AN2.87
 heart’s release (cetovimutti)		AN2.87
 name and form (nāma rūpa)		AN2.89
@@ -4975,7 +4975,7 @@ declaring enlightenment	as a joke	AN6.49
 declaring enlightenment	in different ways	AN6.49
 conceit of inferiority (omāno)		AN6.49
 conceit of superiority (atimāna)		AN6.49
-sense restraint	as condition for virtue	AN6.50
+sense restraint (indriyasaṁvara)	as condition for virtue	AN6.50
 virtue (sīla)	as condition for right concentration	AN6.50
 right concentration (sammā samadhi)	as condition for true knowledge and vision	AN6.50
 true knowledge and vision (yathābhūtañāṇadassana)	as condition for disillusionment and dispassion	AN6.50
@@ -5045,7 +5045,7 @@ defilements (āsava)	to be given up by enduring	AN6.58
 defilements (āsava)	to be given up by avoiding	AN6.58
 defilements (āsava)	to be given up by removing	AN6.58
 defilements (āsava)	to be given up by developing	AN6.58
-sense restraint 	defilements (āsava) and	AN6.58
+sense restraint (indriyasaṁvara) 	defilements (āsava) and	AN6.58
 reflection (paṭisaṅkhā)	on using in order to remove defilements	AN6.58
 enduring (adhivāsana)	in order to remove defilements (āsava)	AN6.58
 avoiding (parivajjana)	in order to remove defilements (āsava)	AN6.58
@@ -5544,3 +5544,131 @@ stars	looking at to overcome drowsiness61	AN7.61
 perception of light (ālokasañña)	to overcome drowsiness	AN7.61
 walking meditation	to overcome drowsiness	AN7.61
 lion’s posture (sīhaseyyā)	to overcome drowsiness	AN7.61
+sleep	not indulging in	AN7.61
+vanity	not approaching families with	AN7.61
+assuming bad things	about families	AN7.61
+restraint	lack of prevents concentration	AN7.61
+disputes	leads to restlessness and lack of concentration	AN7.61
+association	with people vs. remote dwellings	AN7.61
+arahants	definition	AN7.61
+merit (puññā)	do not fear	AN7.62
+realm of streaming radiance (ābhassarūpa loka) 	Bodhisatta born in	AN7.62
+Bodhisatta	reborn in realm of streaming radiance	AN7.62
+Mahābrahmā, the Great Brahmā 	Bodhisatta reborn as	AN7.62
+Bodhisatta	reborn as Mahābrahmā	AN7.62
+Bodhisatta	reborn as Sakka, lord of gods	AN7.62
+treasures, seven (satta ratanāni)	Bodhisatta having	AN7.62
+Anāthapiṇḍika, householder	daughter-in-law	AN7.63
+Sujātā 	daughter-in-law of Anāthapiṇḍika	AN7.63
+wives	types of	AN7.63
+enemies	things that make them happy	AN7.64
+anger (kodha)	cause of ugliness	AN7.64
+anger (kodha)	cause of bad sleep	AN7.64
+anger (kodha)	cause of getting opposite of what one needs	AN7.64
+anger (kodha)	cause of losing wealth	AN7.64
+anger (kodha)	cause of losing fame	AN7.64
+anger (kodha)	causes loss of friends	AN7.64
+anger (kodha)	rebirth in bad destination	AN7.64
+anger (kodha)	anger making others angry	AN7.64
+anger (kodha)	causes killing mother	AN7.64
+suicide	anger causing	AN7.64
+anger (kodha)	causing suicide	AN7.64
+conscience and prudence (hiri ottappa)	lack of prevents sense restraint	AN7.65
+sense restraint (indriyasaṁvara)	lack of prevents virtue	AN7.65
+virtue (sīla)	lack of prevents right concentration	AN7.65
+right concentration (sammā samadhi)	lack of prevents true knowledge and vision	AN7.65
+true knowledge and vision (yathābhūtañāṇadassana)	lack of prevents disillusionment and dispassion	AN7.65
+disillusionment and dispassion (nibbidāvirāga)	lack of prevents knowledge and vision of freedom	AN7.65
+knowledge and vision of freedom (vimuttiñāṇadassana)	prevented by lack of disillusionment and dispassion	AN7.65
+conscience and prudence (hiri ottappa)	condition for sense restraint	AN7.65
+sense restraint (indriyasaṁvara)	condition for virtue	AN7.65
+virtue (sīla)	condition for right concentration	AN7.65
+right concentration (sammā samadhi)	condition for true knowledge and vision	AN7.65
+true knowledge and vision (yathābhūtañāṇadassana)	condition for disillusionment and dispassion	AN7.65
+disillusionment and dispassion (nibbidāvirāga)	condition for knowledge and vision of freedom	AN7.65
+impermanence	conditions are	AN7.66
+conditions (saṅkāra)	impermanent, unstable (adhuvā), unreliable (anassāsikā)	AN7.66
+Sineru, king of mountains	disintegrates in future	AN7.66
+rivers	dry up in future	AN7.66
+sun (sūriya)	seven suns	AN7.66
+ocean	dries up in future	AN7.66
+past actions	everything is caused by	MN101
+Nigaṇṭha’s doctrine	everything is caused by past action	MN101
+feelings (vedanā)	Nigaṇṭha’s theory on	MN101
+actions (kamma)	Nigaṇṭha’s theory on	MN101
+surgeon	simile of treating a wound	MN101
+arrow	simile of person struck by	MN101
+Nigaṇṭha Nāṭaputta	claim of omniscience	MN101
+omniscience	Nigaṇṭha Nāṭaputta’s claim of	MN101
+mortification (tapojigucchā, attakilamatha)	purification through	MN101
+faith (saddhā)	can turn out two ways	MN101
+oral tradition (anussava)	can turn out two ways	MN101
+preference (ruci)	can turn out two ways	MN101
+reasoned contemplation (ākāraparivitakka)	can turn out two ways	MN101
+approval (ruci)		xref preference (ruci)
+acceptance of a view after consideration (diṭṭhinijjhānakkhanta)	can turn out two ways	MN101
+reflective acceptance of a view (diṭṭhinijjhānakkhanta)		xref acceptance of a view after consideration (diṭṭhinijjhānakkhanta)
+results of actions	painful striving	MN101
+results of actions	everything is caused by past action	MN101
+actions (kamma)	to be experienced in future	MN101
+actions (kamma)	to be experienced in present	MN101
+actions (kamma)	to be experienced as pleasure	MN101
+actions (kamma)	to be experienced as pain	MN101
+actions (kamma)	to be experienced strongly	MN101
+actions (kamma)	to be experienced weakly	MN101
+creation by a god (issaranimmāṇa)	reason for pleasure and pain	MN101
+pleasure, legitimate (dhammikañca sukha)	don’t give up	MN101
+suffering (dukkha)	don’t bring it upon oneself	MN101
+suffering (dukkha)	wearing away through action	MN101
+jealousy	giving up	MN101
+lust (rāga)	giving up	MN101
+equanimity (upekkhā)	to develop dispassion	MN101
+equanimity (upekkhā)	wearing away suffering	MN101
+living as one pleases	unwholesome qualities grow	MN101
+skillfulness (kusala)	gained through painful striving	MN101
+unskillfulness (akusala)	through living as one pleases	MN101
+painful striving	to reduce unwholesome and increase wholesome	MN101
+arrowsmith	simile of not heating arrow after is is straight	MN101
+painful striving	stopping when goal is achieved, like arrowsmith	MN101
+gradual training	long version	MN101
+Buddha, the	praise on ten grounds	MN101
+Nigaṇṭhas	Buddha’s discussion with	MN101
+striving (padhāna)	correctly	MN101
+pleasure (sukha)		xref happiness (sukha)
+happiness (sukha)	gained through pain/suffering	MN101
+jhānas	as a result of proper striving	MN101
+recollection of past lives	as a result of proper striving	MN101
+knowledge of destruction of the taints (āsavakkhayañāṇa)	as a result of proper striving	MN101
+Nibbāna here and now (diṭṭhadhammanibbāna)	view of	MN102
+views of other sects		MN102
+views about the self (attavāda)		MN102
+eternalism (sassatavāda)		MN102
+annihilationism (ucchedavāda)		MN102
+future		xref views about the future
+views about the future		MN102
+Bodhisatta		xref Buddha, the
+kasiṇas	consiciousness-kasina (viññāṇakasiṇa)	MN102
+dimension of nothingness (viññāṇañcāyatana)	views about	MN102
+perceptions (saññā)	the self and	MN102
+cessation (nirodha)	of formations/conditions	MN102
+non-perception (asaññā)	and the self	MN102
+consciousness (viññāṇa)	coming and going of	MN102
+identity (sakkāya)	fear of and disgust with	MN102
+identity (sakkāya)	like dog tied to pillar	MN102
+unified perception (ekattasaññā)	the self and	MN102
+diversified perception (nānattasaññina)	the self and	MN102
+views about the world	the self and	MN102
+faith (saddhā)	only grounds for view	MN102
+oral tradition (anussava)	only grounds for view	MN102
+preference (ruci)	only grounds for view	MN102
+reasoned contemplation (ākāraparivitakka)	only grounds for view	MN102
+acceptance of a view after consideration (diṭṭhinijjhānakkhanta)	only grounds for view	MN102
+rapture (pīti)	of seclusion	MN102
+rapture (pīti)	and grief like sunlight and shadow	MN102
+spiritual happiness (nirāmisa sukha)	“This is peaceful, this is sublime”	MN102
+spiritual happiness (nirāmisa sukha)	and rapture like sunlight and shadow	MN102
+neutral feelings (adukkhamasukhaṁ vedanā)	“This is peaceful, this is sublime”	MN102
+neither-painful-nor-pleasant feeling		xref neutral feelings (adukkhamasukhaṁ vedanā)
+neutral feelings (adukkhamasukhaṁ vedanā)	and spiritual happiness like sunlight and shadow	MN102
+nibbāna	“I am at peace, I have attained nibbāna”	MN102
+liberation through not clinging/grasping (anupādāvimokkha)	discovered by the Buddha	MN102

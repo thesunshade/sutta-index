@@ -521,7 +521,9 @@ a:visited {
   background-color: var(--offwhite);
 }
 
-
+.dark .head-word-area {
+  background-color: var(--offblack);
+}
 
 .head-word {
   font-weight: bold
