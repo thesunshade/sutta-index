@@ -4955,9 +4955,14 @@ export const indexObject ={
                }
           },
           "courtesans": {
-               "": {
+               "tempting monk": {
                     "locators": [
-                         "Thag7.1",
+                         "Thag7.1"
+                    ],
+                    "xrefs": []
+               },
+               "former": {
+                    "locators": [
                          "Thig2.4",
                          "Thig5.2"
                     ],
@@ -5243,7 +5248,7 @@ export const indexObject ={
                }
           },
           "cruelty (hiṁsa, vihiṁsa)": {
-               "": {
+               "as cruelty reduces, so does suffering": {
                     "locators": [
                          "Dhp390"
                     ],

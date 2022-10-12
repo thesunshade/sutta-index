@@ -18012,7 +18012,7 @@ export const indexArray =[
      [
           "Dhp390",
           "cruelty (hiṁsa, vihiṁsa)",
-          ""
+          "as cruelty reduces, so does suffering"
      ],
      [
           "Dhp392",
@@ -24272,7 +24272,7 @@ export const indexArray =[
      [
           "Thag7.1",
           "courtesans",
-          ""
+          "tempting monk"
      ],
      [
           "Thag7.1",
@@ -25052,7 +25052,7 @@ export const indexArray =[
      [
           "Thig2.4",
           "courtesans",
-          ""
+          "former"
      ],
      [
           "Thig2.8",
@@ -25177,7 +25177,7 @@ export const indexArray =[
      [
           "Thig5.2",
           "courtesans",
-          ""
+          "former"
      ],
      [
           "Thig5.3",
