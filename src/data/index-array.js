@@ -1661,7 +1661,7 @@ export const indexArray =[
      ],
      [
           "AN2.37",
-          "sense pleasures (kāmaguṇa)",
+          "sense pleasures (kāma, kāmaguṇa)",
           "causing fights"
      ],
      [
@@ -2486,12 +2486,12 @@ export const indexArray =[
      ],
      [
           "AN3.10",
-          "jealousy",
+          "jealousy (issā)",
           "giving up leads to heaven"
      ],
      [
           "AN3.10",
-          "jealousy",
+          "jealousy (issā)",
           "leading to hell"
      ],
      [
@@ -3366,7 +3366,7 @@ export const indexArray =[
      ],
      [
           "AN3.62",
-          "noble eightfold path",
+          "noble eightfold path (ariya aṭṭhangika magga)",
           "as practice to remove perils of old age, etc"
      ],
      [
@@ -4861,7 +4861,7 @@ export const indexArray =[
      ],
      [
           "AN4.5",
-          "sense pleasures (kāmaguṇa)",
+          "sense pleasures (kāma, kāmaguṇa)",
           ""
      ],
      [
@@ -7206,7 +7206,7 @@ export const indexArray =[
      ],
      [
           "AN4.184",
-          "sense pleasures (kāmaguṇa)",
+          "sense pleasures (kāma, kāmaguṇa)",
           "attachment to causes fear of death"
      ],
      [
@@ -7471,7 +7471,7 @@ export const indexArray =[
      ],
      [
           "AN4.197",
-          "jealousy",
+          "jealousy (issā)",
           "result of in future lives"
      ],
      [
@@ -7716,12 +7716,12 @@ export const indexArray =[
      ],
      [
           "AN4.205",
-          "noble eightfold path",
+          "noble eightfold path (ariya aṭṭhangika magga)",
           "encouraging others to practice"
      ],
      [
           "AN4.205",
-          "noble eightfold path",
+          "noble eightfold path (ariya aṭṭhangika magga)",
           "person who possesses"
      ],
      [
@@ -8431,7 +8431,7 @@ export const indexArray =[
      ],
      [
           "AN5.7",
-          "sense pleasures (kāmaguṇa)",
+          "sense pleasures (kāma, kāmaguṇa)",
           "abandoned when going forth"
      ],
      [
@@ -9751,7 +9751,7 @@ export const indexArray =[
      ],
      [
           "AN5.76",
-          "sense pleasures (kāmaguṇa)",
+          "sense pleasures (kāma, kāmaguṇa)",
           "similes for"
      ],
      [
@@ -9861,7 +9861,7 @@ export const indexArray =[
      ],
      [
           "AN5.83",
-          "deceit (kuhaka)",
+          "deceit (kuhaka/māyāvī)",
           "senior monastics"
      ],
      [
@@ -10181,7 +10181,7 @@ export const indexArray =[
      ],
      [
           "AN5.117",
-          "jealousy",
+          "jealousy (issā)",
           "leading to hell"
      ],
      [
@@ -10326,8 +10326,28 @@ export const indexArray =[
      ],
      [
           "AN5.130",
-          "loss",
+          "loss (pārijuñña, byasana)",
+          "of health"
+     ],
+     [
+          "AN5.130",
+          "loss (pārijuñña, byasana)",
           "of loved ones"
+     ],
+     [
+          "AN5.130",
+          "loss (pārijuñña, byasana)",
+          "of view"
+     ],
+     [
+          "AN5.130",
+          "loss (pārijuñña, byasana)",
+          "of virtue"
+     ],
+     [
+          "AN5.130",
+          "loss (pārijuñña, byasana)",
+          "of wealth"
      ],
      [
           "AN5.130",
@@ -10951,7 +10971,7 @@ export const indexArray =[
      ],
      [
           "AN5.176",
-          "sense pleasures (kāmaguṇa)",
+          "sense pleasures (kāma, kāmaguṇa)",
           "suffering connected with"
      ],
      [
@@ -11431,7 +11451,7 @@ export const indexArray =[
      ],
      [
           "AN5.206",
-          "sense pleasures (kāmaguṇa)",
+          "sense pleasures (kāma, kāmaguṇa)",
           "bondage of the mind"
      ],
      [
@@ -12386,7 +12406,7 @@ export const indexArray =[
      ],
      [
           "AN6.23",
-          "sense pleasures (kāmaguṇa)",
+          "sense pleasures (kāma, kāmaguṇa)",
           "terms for"
      ],
      [
@@ -12621,11 +12641,6 @@ export const indexArray =[
      ],
      [
           "AN6.34",
-          "Tissa, Brahma",
-          "former monk"
-     ],
-     [
-          "AN6.34",
           "gods",
           "that are stream-enterers"
      ],
@@ -12645,8 +12660,13 @@ export const indexArray =[
           "gods that have become"
      ],
      [
+          "AN6.34",
+          "Tissa, Brahma",
+          "former monk"
+     ],
+     [
           "AN6.36",
-          "deceit (kuhaka)",
+          "deceit (kuhaka/māyāvī)",
           "cause of arguments"
      ],
      [
@@ -12666,7 +12686,7 @@ export const indexArray =[
      ],
      [
           "AN6.36",
-          "jealousy",
+          "jealousy (issā)",
           "cause of arguments"
      ],
      [
@@ -13506,7 +13526,7 @@ export const indexArray =[
      ],
      [
           "AN6.63",
-          "noble eightfold path",
+          "noble eightfold path (ariya aṭṭhangika magga)",
           "as path to cessation"
      ],
      [
@@ -13516,7 +13536,7 @@ export const indexArray =[
      ],
      [
           "AN6.63",
-          "sense pleasures",
+          "sense pleasures (kāma, kāmaguṇa)",
           "definition"
      ],
      [
@@ -13716,7 +13736,7 @@ export const indexArray =[
      ],
      [
           "AN6.77",
-          "deceit (kuhaka)",
+          "deceit (kuhaka/māyāvī)",
           "blocks superhuman states"
      ],
      [
@@ -14381,7 +14401,7 @@ export const indexArray =[
      ],
      [
           "AN7.2",
-          "jealousy",
+          "jealousy (issā)",
           "one who has will not be respected by companions"
      ],
      [
@@ -14681,6 +14701,11 @@ export const indexArray =[
      ],
      [
           "AN7.21",
+          "sexual misconduct",
+          "leads to decline in a society"
+     ],
+     [
+          "AN7.21",
           "tradition (vaṁsa)",
           "leads to growth"
      ],
@@ -14693,11 +14718,6 @@ export const indexArray =[
           "AN7.21",
           "harmony (samagga)",
           "leads to growth"
-     ],
-     [
-          "AN7.21",
-          "sexual misconduct",
-          "leads to decline in a society"
      ],
      [
           "AN7.21",
@@ -15471,16 +15491,6 @@ export const indexArray =[
      ],
      [
           "AN7.56",
-          "Tissa, Brahma",
-          "former monk"
-     ],
-     [
-          "AN7.56",
-          "mendicants",
-          "reborn as gods"
-     ],
-     [
-          "AN7.56",
           "one freed both ways (ubhatobhāgavimutta)",
           "known by gods of Brahmā’s Host"
      ],
@@ -15493,6 +15503,16 @@ export const indexArray =[
           "AN7.56",
           "personal witness (kāyasakkhī)",
           "known by gods of Brahmā’s Host"
+     ],
+     [
+          "AN7.56",
+          "Tissa, Brahma",
+          "former monk"
+     ],
+     [
+          "AN7.56",
+          "mendicants",
+          "reborn as gods"
      ],
      [
           "AN7.56",
@@ -17296,7 +17316,7 @@ export const indexArray =[
      ],
      [
           "Dhp186",
-          "sense pleasures (kāmaguṇa)",
+          "sense pleasures (kāma, kāmaguṇa)",
           "as insatiable"
      ],
      [
@@ -17381,7 +17401,7 @@ export const indexArray =[
      ],
      [
           "Dhp209",
-          "jealousy",
+          "jealousy (issā)",
           ""
      ],
      [
@@ -17571,12 +17591,12 @@ export const indexArray =[
      ],
      [
           "Dhp273",
-          "noble eightfold path",
+          "noble eightfold path (ariya aṭṭhangika magga)",
           "as best path"
      ],
      [
           "Dhp274",
-          "noble eightfold path",
+          "noble eightfold path (ariya aṭṭhangika magga)",
           "as essential"
      ],
      [
@@ -17851,7 +17871,7 @@ export const indexArray =[
      ],
      [
           "Dhp346–47",
-          "sense pleasures (kāmaguṇa)",
+          "sense pleasures (kāma, kāmaguṇa)",
           "as fetter"
      ],
      [
@@ -17861,7 +17881,7 @@ export const indexArray =[
      ],
      [
           "Dhp349",
-          "sense pleasures (kāmaguṇa)",
+          "sense pleasures (kāma, kāmaguṇa)",
           "as fetter"
      ],
      [
@@ -17936,7 +17956,7 @@ export const indexArray =[
      ],
      [
           "Dhp371",
-          "sense pleasures (kāmaguṇa)",
+          "sense pleasures (kāma, kāmaguṇa)",
           "simile of iron ball"
      ],
      [
@@ -18821,7 +18841,7 @@ export const indexArray =[
      ],
      [
           "Iti95",
-          "sense pleasures (kāmaguṇa)",
+          "sense pleasures (kāma, kāmaguṇa)",
           ""
      ],
      [
@@ -19071,7 +19091,7 @@ export const indexArray =[
      ],
      [
           "Kp4",
-          "noble eightfold path",
+          "noble eightfold path (ariya aṭṭhangika magga)",
           ""
      ],
      [
@@ -19093,6 +19113,11 @@ export const indexArray =[
           "Kp5",
           "admonishment",
           "being easy to (sovacassatā)"
+     ],
+     [
+          "Kp5",
+          "Dhamma discussion",
+          "time for"
      ],
      [
           "Kp5",
@@ -19121,22 +19146,17 @@ export const indexArray =[
      ],
      [
           "Kp5",
+          "celibacy",
+          "as a blessing"
+     ],
+     [
+          "Kp5",
           "children",
           "caring for"
      ],
      [
           "Kp5",
           "contentment (santuṭṭhi)",
-          "as a blessing"
-     ],
-     [
-          "Kp5",
-          "Dhamma discussion",
-          "time for"
-     ],
-     [
-          "Kp5",
-          "celibacy",
           "as a blessing"
      ],
      [
@@ -19710,6 +19730,196 @@ export const indexArray =[
           "recollection of other's"
      ],
      [
+          "MN82",
+          "Buddha, the",
+          "description of"
+     ],
+     [
+          "MN82",
+          "craving (taṇha)",
+          "cannot be satisfied"
+     ],
+     [
+          "MN82",
+          "death (maraṇa)",
+          "cannot take wealth with us"
+     ],
+     [
+          "MN82",
+          "Dhamma",
+          "summaries of"
+     ],
+     [
+          "MN82",
+          "going forth (pabbajja)",
+          "discouraging with encouragement to make merit"
+     ],
+     [
+          "MN82",
+          "going forth (pabbajja)",
+          "parents’ permission needed"
+     ],
+     [
+          "MN82",
+          "hunger strike",
+          "to get parents’ permission to ordain"
+     ],
+     [
+          "MN82",
+          "Koravya, king",
+          ""
+     ],
+     [
+          "MN82",
+          "death",
+          "like fruit falling from tree"
+     ],
+     [
+          "MN82",
+          "death",
+          "universality of"
+     ],
+     [
+          "MN82",
+          "going forth (pabbajja)",
+          "reasons for"
+     ],
+     [
+          "MN82",
+          "greed",
+          "unsatisfied"
+     ],
+     [
+          "MN82",
+          "grieving",
+          ""
+     ],
+     [
+          "MN82",
+          "heirs",
+          "will get all of our wealth when we die"
+     ],
+     [
+          "MN82",
+          "loss (pārijuñña, byasana)",
+          "due to old age"
+     ],
+     [
+          "MN82",
+          "loss (pārijuñña, byasana)",
+          "due to sickness"
+     ],
+     [
+          "MN82",
+          "loss (pārijuñña, byasana)",
+          "of relatives"
+     ],
+     [
+          "MN82",
+          "loss (pārijuñña, byasana)",
+          "of wealth"
+     ],
+     [
+          "MN82",
+          "loss (pārijuñña, byasana)",
+          "reasons for going forth"
+     ],
+     [
+          "MN82",
+          "old age",
+          "reason to go forth"
+     ],
+     [
+          "MN82",
+          "parents",
+          "monk visiting"
+     ],
+     [
+          "MN82",
+          "poverty",
+          "reason to go forth"
+     ],
+     [
+          "MN82",
+          "protection",
+          "not found in the world"
+     ],
+     [
+          "MN82",
+          "punishment (daṇḍa)",
+          "for evil deeds"
+     ],
+     [
+          "MN82",
+          "puppet",
+          "as metaphor for body"
+     ],
+     [
+          "MN82",
+          "Raṭṭhapāla, Ven.",
+          "going forth, etc."
+     ],
+     [
+          "MN82",
+          "relatives",
+          "loss of as reason to go forth"
+     ],
+     [
+          "MN82",
+          "results of actions",
+          "like thief caught and punished"
+     ],
+     [
+          "MN82",
+          "sickness",
+          "no one else can experience for us"
+     ],
+     [
+          "MN82",
+          "sickness",
+          "reason to go forth"
+     ],
+     [
+          "MN82",
+          "wealth",
+          "cannot stop people from aging"
+     ],
+     [
+          "MN82",
+          "wealth",
+          "left behind after death"
+     ],
+     [
+          "MN82",
+          "wealthy people",
+          "not giving"
+     ],
+     [
+          "MN82",
+          "wisdom (paññā)",
+          "superior to wealth"
+     ],
+     [
+          "MN82",
+          "world, the",
+          "has no owner"
+     ],
+     [
+          "MN82",
+          "world, the",
+          "has no shelter and no savior"
+     ],
+     [
+          "MN82",
+          "world, the",
+          "unstable and swept away "
+     ],
+     [
+          "MN82",
+          "world, the",
+          "wanting, insatiable, the slave of craving "
+     ],
+     [
           "MN 83",
           "loving-kindness (mettā)",
           "as a path to brahma world"
@@ -19836,7 +20046,7 @@ export const indexArray =[
      ],
      [
           "MN101",
-          "jealousy",
+          "jealousy (issā)",
           "giving up"
      ],
      [
@@ -19986,7 +20196,7 @@ export const indexArray =[
      ],
      [
           "MN102",
-          "dimension of nothingness (viññāṇañcāyatana)",
+          "dimension of nothingness (ākiñcaññāyatana)",
           "views about"
      ],
      [
@@ -20115,14 +20325,609 @@ export const indexArray =[
           ""
      ],
      [
+          "MN103",
+          "admonishment",
+          "how to do skillfully"
+     ],
+     [
+          "MN103",
+          "admonishment",
+          "person impossible to admonish"
+     ],
+     [
+          "MN103",
+          "attachment to views (diṭṭhiyoga)",
+          "and admonishment"
+     ],
+     [
+          "MN103",
+          "bad monastics",
+          "difficult to admonish"
+     ],
+     [
+          "MN103",
+          "bodhipakkhiyā dhammā",
+          "Buddha taught from direct knowledge"
+     ],
+     [
+          "MN103",
+          "compassion (anukampā)",
+          "Buddha’s compassion for disciples"
+     ],
+     [
+          "MN103",
+          "disputes",
+          "about Dhamma"
+     ],
+     [
+          "MN103",
+          "disputes",
+          "blocking enlightenment"
+     ],
+     [
+          "MN103",
+          "disputes",
+          "resolving"
+     ],
+     [
+          "MN103",
+          "equanimity (upekkhā)",
+          "when someone cannot be admonishmed"
+     ],
+     [
+          "MN103",
+          "good monastics",
+          "easy to admonish"
+     ],
+     [
+          "MN103",
+          "harmony (samagga)",
+          "how to achieve"
+     ],
+     [
+          "MN103",
+          "meaning (atthato)",
+          "disputes over"
+     ],
+     [
+          "MN103",
+          "memorizing",
+          "disputes over what has been"
+     ],
+     [
+          "MN103",
+          "monastic rules (vinaya)",
+          "when someone breaks"
+     ],
+     [
+          "MN103",
+          "nibbāna",
+          "blocked by disputes"
+     ],
+     [
+          "MN103",
+          "not glorifying oneself or putting others down (na ceva attānaṁ ukkaṁseti, na paraṁ vambheti)",
+          "in resolving disputes"
+     ],
+     [
+          "MN103",
+          "offences against monastic rules (āpatti)",
+          "when someone commits"
+     ],
+     [
+          "MN103",
+          "phrasing (byañjana)",
+          "disputes over"
+     ],
+     [
+          "MN103",
+          "requisites, four",
+          "teaching for the sake of"
+     ],
+     [
+          "MN103",
+          "skillfulness (kusala)",
+          "helping someone to develop"
+     ],
+     [
+          "MN103",
+          "unskillfulness (akusala)",
+          "helping someone to remove"
+     ],
+     [
+          "MN104",
+          "Ānanda, Ven.",
+          "reporting Nigaṇṭha Nāṭaputta’s death"
+     ],
+     [
+          "MN104",
+          "anger (kodha)",
+          "cause of disputes"
+     ],
+     [
+          "MN104",
+          "attachment to views (diṭṭhiyoga)",
+          "cause of disputes"
+     ],
+     [
+          "MN104",
+          "bodhipakkhiyā dhammā",
+          "no disagreement over in the Saṇgha"
+     ],
+     [
+          "MN104",
+          "contemptuousness (paḷāsa)",
+          "cause of disputes"
+     ],
+     [
+          "MN104",
+          "Cunda, Ven.",
+          "reporting Nigaṇṭha Nāṭaputta’s death"
+     ],
+     [
+          "MN104",
+          "deceit (kuhaka/māyāvī)",
+          "cause of disputes"
+     ],
+     [
+          "MN104",
+          "disdain (makkha)",
+          "cause of disputes"
+     ],
+     [
+          "MN104",
+          "disputes",
+          "about badly proclaimed Dhamma"
+     ],
+     [
+          "MN104",
+          "disputes",
+          "cause of suffering for gods and humans"
+     ],
+     [
+          "MN104",
+          "disrespect (agārava)",
+          "cause of disputes"
+     ],
+     [
+          "MN104",
+          "disrespect (agārava)",
+          "cause of disputes"
+     ],
+     [
+          "MN104",
+          "evil wishes (pāpiccha)",
+          "cause of disputes"
+     ],
+     [
+          "MN104",
+          "giving (dāna)",
+          "as principle of cordiality"
+     ],
+     [
+          "MN104",
+          "harmony in Saṅgha",
+          "principles of cordiality "
+     ],
+     [
+          "MN104",
+          "insanity (amūḷha)",
+          "as legal defence"
+     ],
+     [
+          "MN104",
+          "jealousy (issā)",
+          "cause of disputes"
+     ],
+     [
+          "MN104",
+          "litigation (adhikaraṇa)",
+          "four types"
+     ],
+     [
+          "MN104",
+          "livelihood",
+          "disputes over monastic livelihood would be minor"
+     ],
+     [
+          "MN104",
+          "loving-kindness (mettā)",
+          "as principle of cordiality"
+     ],
+     [
           "MN104",
           "loving-kindness (mettā)",
           "in action"
      ],
      [
+          "MN104",
+          "monastic rules (vinaya)",
+          "disputes over would be minor matter"
+     ],
+     [
+          "MN104",
+          "monastic rules (vinaya)",
+          "settling issues"
+     ],
+     [
+          "MN104",
+          "Nigaṇṭha Nāṭaputta",
+          "death"
+     ],
+     [
+          "MN104",
+          "principles of cordiality (dhammā sāraṇīyā)",
+          "definition"
+     ],
+     [
+          "MN104",
+          "right view (sammā diṭṭhi)",
+          "as principle of cordiality"
+     ],
+     [
+          "MN104",
+          "right view (sammā diṭṭhi)",
+          "leads to harmony"
+     ],
+     [
+          "MN104",
+          "sharing",
+          "as principle of cordiality"
+     ],
+     [
+          "MN104",
+          "stinginess (maccharī)",
+          "cause of disputes"
+     ],
+     [
+          "MN104",
+          "wrong view (micchā diṭṭhi)",
+          "cause of disputes"
+     ],
+     [
+          "MN105",
+          "Buddha, the",
+          "desire to teach people who have overestimated themselves"
+     ],
+     [
+          "MN105",
+          "acquisitions (upadhi)",
+          "root of suffering"
+     ],
+     [
+          "MN105",
+          "arrow",
+          "simile of person struck by"
+     ],
+     [
+          "MN105",
+          "bases of contact, six (phassāyatana)",
+          "restraint"
+     ],
+     [
+          "MN105",
+          "dart (salla)",
+          "craving"
+     ],
+     [
+          "MN105",
+          "deadly pain",
+          "committing one of the corrupt offenses"
+     ],
+     [
           "MN105",
           "death (maraṇa)",
           "abandoning the training as"
+     ],
+     [
+          "MN105",
+          "dimension of neither perception nor non-perception (nevasaññānāsaññāyatanaṁ)",
+          "being intent on"
+     ],
+     [
+          "MN105",
+          "dimension of neither perception nor non-perception (nevasaññānāsaññāyatanaṁ)",
+          "discussion of"
+     ],
+     [
+          "MN105",
+          "dimension of nothingness (ākiñcaññāyatana)",
+          "being intent on"
+     ],
+     [
+          "MN105",
+          "dimension of nothingness (ākiñcaññāyatana)",
+          "discussion of"
+     ],
+     [
+          "MN105",
+          "disrobing",
+          "as death"
+     ],
+     [
+          "MN105",
+          "disrobing",
+          "caused by overestimation"
+     ],
+     [
+          "MN105",
+          "final knowledge (aññā)",
+          "declaring enlightenment"
+     ],
+     [
+          "MN105",
+          "imperturbable (āneñja)",
+          "being intent on"
+     ],
+     [
+          "MN105",
+          "imperturbable (āneñja)",
+          "discussion of"
+     ],
+     [
+          "MN105",
+          "leaf",
+          "unable to become green like someone given up interest in lesser topics"
+     ],
+     [
+          "MN105",
+          "listening to Dhamma",
+          "dependent on a person’s interest"
+     ],
+     [
+          "MN105",
+          "nibbāna",
+          "being intent on"
+     ],
+     [
+          "MN105",
+          "nibbāna",
+          "discussion of"
+     ],
+     [
+          "MN105",
+          "overestimation (adhimāna)",
+          "declaring enlightenment"
+     ],
+     [
+          "MN105",
+          "sense pleasures (kāma, kāmaguṇa)",
+          "discussion of"
+     ],
+     [
+          "MN105",
+          "Sunakkhatta, Ven. ",
+          "asking about overestimation"
+     ],
+     [
+          "MN105",
+          "beverage",
+          "poisoned, avoiding, like restraint towards sense fields, like restraint towards sense fields"
+     ],
+     [
+          "MN105",
+          "palm tree",
+          "cannot regrow like someone given up interest in lesser topics"
+     ],
+     [
+          "MN105",
+          "poison",
+          "ignorance"
+     ],
+     [
+          "MN105",
+          "probing",
+          "simile for mindfulness"
+     ],
+     [
+          "MN105",
+          "rock",
+          "unable to become whole after broken like someone given up interest in lesser topics"
+     ],
+     [
+          "MN105",
+          "sense pleasures (kāma, kāmaguṇa)",
+          "being intent on"
+     ],
+     [
+          "MN105",
+          "sense restraint (indriyasaṁvara)",
+          "because of being intent on nibbāna"
+     ],
+     [
+          "MN105",
+          "surgeon",
+          "Buddha as"
+     ],
+     [
+          "MN105",
+          "surgeon",
+          "simile of treating a wound"
+     ],
+     [
+          "MN105",
+          "viper",
+          "venomous, avoiding, like restraint towards sense fields, like restraint towards sense fields"
+     ],
+     [
+          "MN105",
+          "vomiting",
+          "no desire to eat like someone given up interest in lesser topics"
+     ],
+     [
+          "MN105",
+          "wound",
+          "simile for six internal sense bases"
+     ],
+     [
+          "MN106",
+          "“I don’t belong to anyone anywhere!…”",
+          "dimension of nothingness"
+     ],
+     [
+          "MN106",
+          "“It might not be, and it might not be mine.…”",
+          "equanimity"
+     ],
+     [
+          "MN106",
+          "aggression (sārambhā)",
+          "arises because of sense pleasures and perceptions"
+     ],
+     [
+          "MN106",
+          "compassion (anukampā)",
+          "Buddha’s compassion for disciples "
+     ],
+     [
+          "MN106",
+          "covetousness (abhijjhā)",
+          "arises because of sense pleasures and perceptions"
+     ],
+     [
+          "MN106",
+          "dimension of neither perception nor non-perception (nevasaññānāsaññāyatanaṁ)",
+          "attaining"
+     ],
+     [
+          "MN106",
+          "dimension of nothingness (ākiñcaññāyatana)",
+          "imperturbable and"
+     ],
+     [
+          "MN106",
+          "elements, four great (cattāri mahābhūtāni)",
+          "imperturbable and"
+     ],
+     [
+          "MN106",
+          "empty (suñña)",
+          "of a self"
+     ],
+     [
+          "MN106",
+          "equanimity (upekkhā)",
+          "grasping at"
+     ],
+     [
+          "MN106",
+          "form (rūpa)",
+          "imperturbable and"
+     ],
+     [
+          "MN106",
+          "grasping (upādāna)",
+          "dimension of neither perception nor non-perception as best thing to grasp"
+     ],
+     [
+          "MN106",
+          "identity (sakkāya)",
+          "understanding"
+     ],
+     [
+          "MN106",
+          "ill will (vyāpada, byāpada)",
+          "arises because of sense pleasures and perceptions"
+     ],
+     [
+          "MN106",
+          "impermanence",
+          "of sensual pleasures, sensual perceptions, etc."
+     ],
+     [
+          "MN106",
+          "imperturbable (āneñja)",
+          "meditation with an abundant, expansive heart"
+     ],
+     [
+          "MN106",
+          "imperturbable (āneñja)",
+          "perception of"
+     ],
+     [
+          "MN106",
+          "imperturbable meditation (āneñjasamādhi)",
+          "overcoming desire, ill will, and aggression"
+     ],
+     [
+          "MN106",
+          "liberation (vimokkha)",
+          "noble "
+     ],
+     [
+          "MN106",
+          "liberation through not clinging/grasping (anupādāvimokkha)",
+          "understanding identity and"
+     ],
+     [
+          "MN106",
+          "Māra",
+          "sense pleasures and perceptions are his domain"
+     ],
+     [
+          "MN106",
+          "perceptions (saññā)",
+          "of forms"
+     ],
+     [
+          "MN106",
+          "perceptions (saññā)",
+          "of imperturbable"
+     ],
+     [
+          "MN106",
+          "sense perceptions (kāmasaññā)",
+          "conduce to desire, ill will, and aggression (abhijjhā, byāpādā, sārambhā)"
+     ],
+     [
+          "MN106",
+          "sense perceptions (kāmasaññā)",
+          "in this life and lives to come"
+     ],
+     [
+          "MN106",
+          "sense perceptions (kāmasaññā)",
+          "Māra’s domain, realm, teritory"
+     ],
+     [
+          "MN106",
+          "sense pleasures (kāma, kāmaguṇa)",
+          "conduce to desire, ill will, and aggression (abhijjhā, byāpādā, sārambhā)"
+     ],
+     [
+          "MN106",
+          "sense pleasures (kāma, kāmaguṇa)",
+          "deceptive"
+     ],
+     [
+          "MN106",
+          "sense pleasures (kāma, kāmaguṇa)",
+          "false"
+     ],
+     [
+          "MN106",
+          "sense pleasures (kāma, kāmaguṇa)",
+          "hollow"
+     ],
+     [
+          "MN106",
+          "sense pleasures (kāma, kāmaguṇa)",
+          "illusion"
+     ],
+     [
+          "MN106",
+          "sense pleasures (kāma, kāmaguṇa)",
+          "impermanent"
+     ],
+     [
+          "MN106",
+          "sense pleasures (kāma, kāmaguṇa)",
+          "in this life and lives to come"
+     ],
+     [
+          "MN106",
+          "sense pleasures (kāma, kāmaguṇa)",
+          "Māra’s domain, realm, teritory"
      ],
      [
           "MN110",
@@ -20456,7 +21261,7 @@ export const indexArray =[
      ],
      [
           "Pv15",
-          "jealousy",
+          "jealousy (issā)",
           "rebirth in ghost realm"
      ],
      [
@@ -20871,11 +21676,6 @@ export const indexArray =[
      ],
      [
           "SN1.3",
-          "death (maraṇa)",
-          "danger of"
-     ],
-     [
-          "SN1.4",
           "death (maraṇa)",
           "danger of"
      ],
@@ -22226,16 +23026,6 @@ export const indexArray =[
      ],
      [
           "Snp3.11",
-          "knowing does not speak much",
-          ""
-     ],
-     [
-          "Snp3.11",
-          "monastic life",
-          "advice for"
-     ],
-     [
-          "Snp3.11",
           "monastic life",
           "like licking razor’s edge"
      ],
@@ -22248,6 +23038,16 @@ export const indexArray =[
           "Snp3.11",
           "Suddhodana, king",
           ""
+     ],
+     [
+          "Snp3.11",
+          "knowing does not speak much",
+          ""
+     ],
+     [
+          "Snp3.11",
+          "monastic life",
+          "advice for"
      ],
      [
           "Snp3.11",
@@ -22306,12 +23106,12 @@ export const indexArray =[
      ],
      [
           "Snp4.1",
-          "sense pleasures (kāmaguṇa)",
+          "sense pleasures (kāma, kāmaguṇa)",
           ""
      ],
      [
           "Snp4.1",
-          "sense pleasures (kāmaguṇa)",
+          "sense pleasures (kāma, kāmaguṇa)",
           "to be avoided like snake head"
      ],
      [
@@ -22326,7 +23126,7 @@ export const indexArray =[
      ],
      [
           "Snp4.2",
-          "sense pleasures (kāmaguṇa)",
+          "sense pleasures (kāma, kāmaguṇa)",
           "of the past and future"
      ],
      [
@@ -22751,12 +23551,12 @@ export const indexArray =[
      ],
      [
           "Thag1.62",
-          "jealousy",
+          "jealousy (issā)",
           "like hell beings are of those going to heaven"
      ],
      [
           "Thag1.62",
-          "jealousy",
+          "jealousy (issā)",
           "of monastic in the forest"
      ],
      [
@@ -22836,7 +23636,7 @@ export const indexArray =[
      ],
      [
           "Thag1.93",
-          "sense pleasures (kāmaguṇa)",
+          "sense pleasures (kāma, kāmaguṇa)",
           "suffering in"
      ],
      [
@@ -23776,7 +24576,7 @@ export const indexArray =[
      ],
      [
           "Thag16.4",
-          "sense pleasures (kāmaguṇa)",
+          "sense pleasures (kāma, kāmaguṇa)",
           "appearing in disguise"
      ],
      [
@@ -24086,7 +24886,7 @@ export const indexArray =[
      ],
      [
           "Thag19.1",
-          "sense pleasures (kāmaguṇa)",
+          "sense pleasures (kāma, kāmaguṇa)",
           "giving up like vomiting"
      ],
      [
@@ -24316,7 +25116,7 @@ export const indexArray =[
      ],
      [
           "Thig3.7",
-          "sense pleasures (kāmaguṇa)",
+          "sense pleasures (kāma, kāmaguṇa)",
           "like swords and stakes"
      ],
      [
@@ -24381,7 +25181,7 @@ export const indexArray =[
      ],
      [
           "Thig5.3",
-          "sense pleasures (kāmaguṇa)",
+          "sense pleasures (kāma, kāmaguṇa)",
           "overcome by"
      ],
      [
@@ -24466,7 +25266,7 @@ export const indexArray =[
      ],
      [
           "Thig6.3",
-          "sense pleasures (kāmaguṇa)",
+          "sense pleasures (kāma, kāmaguṇa)",
           "like swords and stakes"
      ],
      [
@@ -24631,17 +25431,17 @@ export const indexArray =[
      ],
      [
           "Thig13.5",
-          "sense pleasures (kāmaguṇa)",
+          "sense pleasures (kāma, kāmaguṇa)",
           "as enemy"
      ],
      [
           "Thig13.5",
-          "sense pleasures (kāmaguṇa)",
+          "sense pleasures (kāma, kāmaguṇa)",
           "as murderer"
      ],
      [
           "Thig13.5",
-          "sense pleasures (kāmaguṇa)",
+          "sense pleasures (kāma, kāmaguṇa)",
           "danger of"
      ],
      [
@@ -24771,37 +25571,37 @@ export const indexArray =[
      ],
      [
           "Thig16.1",
-          "sense pleasures (kāmaguṇa)",
+          "sense pleasures (kāma, kāmaguṇa)",
           "bitter like snake venom"
      ],
      [
           "Thig16.1",
-          "sense pleasures (kāmaguṇa)",
+          "sense pleasures (kāma, kāmaguṇa)",
           "burning like firebrand"
      ],
      [
           "Thig16.1",
-          "sense pleasures (kāmaguṇa)",
+          "sense pleasures (kāma, kāmaguṇa)",
           "impermanent"
      ],
      [
           "Thig16.1",
-          "sense pleasures (kāmaguṇa)",
+          "sense pleasures (kāma, kāmaguṇa)",
           "like a grass torch burns holder"
      ],
      [
           "Thig16.1",
-          "sense pleasures (kāmaguṇa)",
+          "sense pleasures (kāma, kāmaguṇa)",
           "like dream"
      ],
      [
           "Thig16.1",
-          "sense pleasures (kāmaguṇa)",
+          "sense pleasures (kāma, kāmaguṇa)",
           "like lumps of meat"
      ],
      [
           "Thig16.1",
-          "sense pleasures (kāmaguṇa)",
+          "sense pleasures (kāma, kāmaguṇa)",
           "like vomit"
      ],
      [
@@ -24971,7 +25771,7 @@ export const indexArray =[
      ],
      [
           "Ud2.4",
-          "jealousy",
+          "jealousy (issā)",
           ""
      ],
      [
@@ -25231,7 +26031,7 @@ export const indexArray =[
      ],
      [
           "Ud4.8",
-          "jealousy",
+          "jealousy (issā)",
           ""
      ],
      [
@@ -25316,16 +26116,6 @@ export const indexArray =[
      ],
      [
           "Ud5.5",
-          "Dhamma",
-          "has many treasures"
-     ],
-     [
-          "Ud5.5",
-          "Dhamma",
-          "has one taste"
-     ],
-     [
-          "Ud5.5",
           "asuras",
           "love of ocean"
      ],
@@ -25333,6 +26123,16 @@ export const indexArray =[
           "Ud5.5",
           "bad monastics",
           "in pātimokkha recitation"
+     ],
+     [
+          "Ud5.5",
+          "Dhamma",
+          "has many treasures"
+     ],
+     [
+          "Ud5.5",
+          "Dhamma",
+          "has one taste"
      ],
      [
           "Ud5.5",
@@ -25531,12 +26331,12 @@ export const indexArray =[
      ],
      [
           "Ud6.8",
-          "sense pleasures (kāmaguṇa)",
+          "sense pleasures (kāma, kāmaguṇa)",
           "as cause of disputes"
      ],
      [
           "Ud6.8",
-          "sense pleasures (kāmaguṇa)",
+          "sense pleasures (kāma, kāmaguṇa)",
           "no harm in"
      ],
      [
@@ -25556,7 +26356,7 @@ export const indexArray =[
      ],
      [
           "Ud7.4",
-          "sense pleasures (kāmaguṇa)",
+          "sense pleasures (kāma, kāmaguṇa)",
           "simile of fish in net"
      ],
      [

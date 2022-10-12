@@ -726,7 +726,7 @@ tr:nth-child(even) {
   .head-word-area {
     padding-left: var(--mobile-indent);
     text-indent: calc(-1 * var(--mobile-indent));
-    padding-top: .6rem
+    padding-top: 1.6rem
   }
 
   .sub-word {
