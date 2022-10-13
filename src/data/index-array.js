@@ -3346,7 +3346,7 @@ export const indexArray =[
      ],
      [
           "AN3.61",
-          "mental preocupations (manopavicārāti)",
+          "mental preoccupations (manopavicārāti)",
           ""
      ],
      [
@@ -6762,7 +6762,7 @@ export const indexArray =[
      [
           "AN4.157",
           "mental illness",
-          ""
+          "hard to find someone free from"
      ],
      [
           "AN4.157",
@@ -15641,7 +15641,7 @@ export const indexArray =[
      ],
      [
           "AN7.60",
-          "seclusion (paṭisallīna)",
+          "seclusion (paṭisallīna, vivitta)",
           "leads to enlightenment soon"
      ],
      [
@@ -20866,6 +20866,11 @@ export const indexArray =[
      ],
      [
           "MN106",
+          "meditation (jhāyati)",
+          "formless attainments leading to jhāna"
+     ],
+     [
+          "MN106",
           "perceptions (saññā)",
           "of forms"
      ],
@@ -20928,6 +20933,351 @@ export const indexArray =[
           "MN106",
           "sense pleasures (kāma, kāmaguṇa)",
           "Māra’s domain, realm, teritory"
+     ],
+     [
+          "MN107",
+          "Buddha, the",
+          "advice is best of all"
+     ],
+     [
+          "MN107",
+          "accountants",
+          "gradual training of"
+     ],
+     [
+          "MN107",
+          "arahants",
+          "continue to practice meditation, mindfulness, and situational awareness"
+     ],
+     [
+          "MN107",
+          "arahants",
+          "life after attainment"
+     ],
+     [
+          "MN107",
+          "archers",
+          "gradual training of"
+     ],
+     [
+          "MN107",
+          "bad monastics",
+          "gone forth without faith"
+     ],
+     [
+          "MN107",
+          "brahmins",
+          "gradual training in chanting"
+     ],
+     [
+          "MN107",
+          "danger in slightest fault",
+          "part of gradual training"
+     ],
+     [
+          "MN107",
+          "disciples of the Buddha",
+          "do all attain enlightenment?"
+     ],
+     [
+          "MN107",
+          "eating in moderation",
+          "part of gradual training"
+     ],
+     [
+          "MN107",
+          "eating",
+          "reflection to be done before"
+     ],
+     [
+          "MN107",
+          "fragrances",
+          "best of"
+     ],
+     [
+          "MN107",
+          "Gaṇakamoggallāna, accountant",
+          ""
+     ],
+     [
+          "MN107",
+          "going forth (pabbajja)",
+          "out of faith"
+     ],
+     [
+          "MN107",
+          "going forth (pabbajja)",
+          "without faith"
+     ],
+     [
+          "MN107",
+          "good monastics",
+          "gone forth out of faith"
+     ],
+     [
+          "MN107",
+          "gradual training",
+          "in detail"
+     ],
+     [
+          "MN107",
+          "gradual training",
+          "like training a horse"
+     ],
+     [
+          "MN107",
+          "hindrances (nīvarana)",
+          "removal of as part of gradual training"
+     ],
+     [
+          "MN107",
+          "jhānas",
+          "part of gradual training"
+     ],
+     [
+          "MN107",
+          "mindfulness (sati)",
+          "part of gradual training"
+     ],
+     [
+          "MN107",
+          "Rājagaha",
+          "road to, simile of not all attaining enlightenment"
+     ],
+     [
+          "MN107",
+          "seclusion (paṭisallīna, vivitta)",
+          "part of gradual training"
+     ],
+     [
+          "MN107",
+          "sense restraint (indriyasaṁvara)",
+          "part of gradual training"
+     ],
+     [
+          "MN107",
+          "situational awareness (sampajañña)",
+          "part of gradual training"
+     ],
+     [
+          "MN107",
+          "virtue (sīla)",
+          "part of gradual training"
+     ],
+     [
+          "MN107",
+          "wakefulness (jāgara)",
+          "part of gradual training"
+     ],
+     [
+          "MN107",
+          "wilderness ",
+          "part of gradual training"
+     ],
+     [
+          "MN108",
+          "Ānanda, Ven.",
+          "are there any mendicants like the Buddha"
+     ],
+     [
+          "MN108",
+          "Buddha, the",
+          "description of"
+     ],
+     [
+          "MN108",
+          "Buddha, the",
+          "different from disciples"
+     ],
+     [
+          "MN108",
+          "Buddha, the",
+          "discoverer of the path"
+     ],
+     [
+          "MN108",
+          "contentment (santuṭṭhi)",
+          "respecting a monk who is content with requisites"
+     ],
+     [
+          "MN108",
+          "Dhamma",
+          "as refuge after passing of Buddha"
+     ],
+     [
+          "MN108",
+          "disciples of the Buddha",
+          "different from the Buddha"
+     ],
+     [
+          "MN108",
+          "divine ear (dibbāsota)",
+          "respecting a monk who has"
+     ],
+     [
+          "MN108",
+          "divine eye (dibbacakkhu)",
+          "respecting a monk who has"
+     ],
+     [
+          "MN108",
+          "good in the beginning, etc.",
+          ""
+     ],
+     [
+          "MN108",
+          "Gopakamoggallāna, brahmin",
+          ""
+     ],
+     [
+          "MN108",
+          "hindrances (nīvarana)",
+          "obstruction to proper meditation"
+     ],
+     [
+          "MN108",
+          "jhānas",
+          "Buddha praised"
+     ],
+     [
+          "MN108",
+          "jhānas",
+          "respecting a monk who gets"
+     ],
+     [
+          "MN108",
+          "knowledge of destruction of the taints (āsavakkhayañāṇa)",
+          "respecting a monk who has"
+     ],
+     [
+          "MN108",
+          "knowledge of passing away and rebirth of beings (cutūpapātañāna)",
+          "respecting a monk who has"
+     ],
+     [
+          "MN108",
+          "leadership",
+          "of Saṅgha after Buddha’s passing"
+     ],
+     [
+          "MN108",
+          "learned (bahussutā)",
+          "respecting a monk who is"
+     ],
+     [
+          "MN108",
+          "meditation (jhāyati)",
+          "Buddha did not praise all kinds of"
+     ],
+     [
+          "MN108",
+          "meditation (jhāyati)",
+          "not praised when overcome with hindrances"
+     ],
+     [
+          "MN108",
+          "mind reading",
+          "respecting a monk who can"
+     ],
+     [
+          "MN108",
+          "offences against monastic rules (āpatti)",
+          "confession of"
+     ],
+     [
+          "MN108",
+          "past lives, knowledge of (pubbenivāsānussatiñāna)",
+          "respecting a monk who has"
+     ],
+     [
+          "MN108",
+          "psychic powers",
+          "respecting a monk who has"
+     ],
+     [
+          "MN108",
+          "refuges",
+          "did Buddha appoint a refuge for when he was gone?"
+     ],
+     [
+          "MN108",
+          "respect (gārava)",
+          "for monk with ten qualities"
+     ],
+     [
+          "MN108",
+          "Saṅgha",
+          "leader after the Buddha’s passing"
+     ],
+     [
+          "MN108",
+          "uposatha",
+          "monastic practice of"
+     ],
+     [
+          "MN108",
+          "Vassakāra, brahmin",
+          ""
+     ],
+     [
+          "MN108",
+          "virtue (sīla)",
+          "respecting a monk with"
+     ],
+     [
+          "MN109",
+          "aggregates (khandha)",
+          "desire for future"
+     ],
+     [
+          "MN109",
+          "aggregates (khandha)",
+          "grasping, different kinds of"
+     ],
+     [
+          "MN109",
+          "aggregates (khandha)",
+          "rooted in desire"
+     ],
+     [
+          "MN109",
+          "aggregates (khandha)",
+          "scope of "
+     ],
+     [
+          "MN109",
+          "contact (phassa)",
+          "cause of feeling aggregate"
+     ],
+     [
+          "MN109",
+          "contact (phassa)",
+          "cause of formations aggregate"
+     ],
+     [
+          "MN109",
+          "contact (phassa)",
+          "cause of perception aggregate"
+     ],
+     [
+          "MN109",
+          "elements, four great (cattāri mahābhūtāni)",
+          "cause of form aggregate"
+     ],
+     [
+          "MN109",
+          "grasping (upādāna)",
+          "aggregates and"
+     ],
+     [
+          "MN109",
+          "name and form (nāma rūpa)",
+          "cause of consciousness aggregate"
+     ],
+     [
+          "MN109",
+          "uposatha",
+          "sermon given on"
      ],
      [
           "MN110",
