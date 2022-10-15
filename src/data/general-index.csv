@@ -798,7 +798,7 @@ giving (dāna)	rebirth in heaven	Dhp224
 truth (sacca)	rebirth in heaven	Dhp224
 blame	inevitability of	Dhp227
 praise and blame		Dhp228
-good people	praised by gods	Dhp230
+good people (sappurisa)	praised by gods	Dhp230
 misconduct	giving up	Dhp232–33
 self reliance		Dhp236
 self reliance		Dhp238
@@ -839,8 +839,8 @@ sleep	waking well	Dhp296–298
 recollection (anussati)	of triple gem	Dhp296–298
 going forth (pabbajja)	difficult	Dhp302
 lay life	difficult	Dhp302
-good people	simile of Himalaya	Dhp304
-bad people	simile of arrow	Dhp304
+good people (sappurisa)	simile of Himalaya	Dhp304
+bad people (asappurisa)	simile of arrow	Dhp304
 seclusion		Dhp305
 hell (niraya)		Dhp chapter 22
 lying	rebirth	Dhp306
@@ -1009,7 +1009,7 @@ happiness (sukha)	those who desire	Ud5.1
 oneself as most dear		Ud5.1
 Bodhisatta	mother	Ud5.2
 death (maraṇa)	as universal	Ud5.2
-gradual training		Ud5.3
+gradual training (anupubbasikkhā)		Ud5.3
 death (maraṇa)	by cow	Ud5.3
 paccekabuddha	disparaging	Ud5.3
 harassing	noble ones	Ud5.3
@@ -1019,8 +1019,8 @@ sabath		xref uposatha
 bad monastics	in pātimokkha recitation	Ud5.5
 asuras	love of ocean	Ud5.5
 ocean	loved by asuras	Ud5.5
-gradual training		Ud5.5
-gradual training	simile of ocean	Ud5.5
+gradual training (anupubbasikkhā)		Ud5.5
+gradual training (anupubbasikkhā)	simile of ocean	Ud5.5
 Saṅgha	guarding precepts	Ud5.5
 Saṅgha	removes corrupt members	Ud5.5
 Saṅgha	without caste distinctions	Ud5.5
@@ -1036,8 +1036,8 @@ ordaining		xref going forth (pabbajja)
 Chapter of the Eights		Ud5.6
 doubt (vicikicchā)		Ud5.7
 schisms		Ud5.8
-good people	easy to do good	Ud5.8
-bad people	easy to do bad	Ud5.8
+good people (sappurisa)	easy to do good	Ud5.8
+bad people (asappurisa)	easy to do bad	Ud5.8
 teasing		Ud5.9
 Buddhas	can live for eon	Ud6.1
 fourfold Saṅgha	Buddha’s determination to have	Ud6.1
@@ -1065,7 +1065,7 @@ moths into flame		Ud6.9
 followers of other paths	honored when Buddhas don’t arise	Ud6.10
 sense pleasures (kāma, kāmaguṇa)	simile of fish in net	Ud7.4
 external appearance		Ud7.5
-good people	praised by gods	Ud7.6
+good people (sappurisa)	praised by gods	Ud7.6
 proliferation (papañca)		Ud7.7
 Buddha, the	psychic powers	Ud7.9
 unborn (ajātaṁ)		Ud8.3
@@ -1147,7 +1147,7 @@ iron ball	eating	Iti48
 existence	love of	Iti49
 existence	disgust with	Iti49
 results of actions	harming oneself	Iti50
-elements	form, formlessness, cessation	Iti51
+elements (dhātu)	form, formlessness, cessation	Iti51
 feelings (vedanā)	three kinds	Iti52–3
 pleasant feelings	seen as suffering	Iti53
 painful feelings	seen as dart	Iti53
@@ -2069,8 +2069,8 @@ admonishment	like guide to hidden treasuer	Thag17.2
 psychic powers	not required for arahant	Thag17.2
 noble silence		Thag17.2
 mind	guarded like a citadel	Thag17.2
-bad people	becoming good	Thag17.2
-good people	becoming bad	Thag17.2
+bad people (asappurisa)	becoming good	Thag17.2
+good people (sappurisa)	becoming bad	Thag17.2
 association	with good people	Thag17.3
 learning	84,000 teachings	Thag17.3
 learning	like an ox is a person with little learning	Thag17.3
@@ -2452,7 +2452,7 @@ views of other sects	all results are because of past deeds	AN3.61
 views of other sects	all results are because of God	AN3.61
 views of other sects	all results are because of chance	AN3.61
 Dhamma	various aspects of	AN3.61
-elements	six	AN3.61
+elements (dhātu)	six	AN3.61
 mental preoccupations (manopavicārāti)		AN3.61
 dependent origination	as second noble truth	AN3.61
 perils (bhaya)	that separate mother and child	AN3.62
@@ -2555,7 +2555,7 @@ precepts and observances (sīlabbata)	fruitful when wholesome qualities grow	AN3
 lifestyles	fruitful when wholesome qualities grow	AN3.78
 spiritual path (brahmacariya)	fruitful when wholesome qualities grow	AN3.78
 reputation	like fragrance that goes against wind	AN3.79
-good people	praised by gods	AN3.79
+good people (sappurisa)	praised by gods	AN3.79
 Sikhī Buddha		AN3.80
 Abhibhū, disciple of Sikhi Buddha	voice spread through galaxy	AN3.80
 world system (lokadhātu)	size	AN3.80
@@ -2628,7 +2628,7 @@ results of actions	not fixed	AN3.100
 gold	as simile for purifying mind	AN3.101
 mind	purifying like purifying gold	AN3.101
 mind	purifying gradually	AN3.101
-gradual training	purifying the mind, step by step	AN3.101
+gradual training (anupubbasikkhā)	purifying the mind, step by step	AN3.101
 mind reading		AN3.101
 concentration (samādhi)	exclusively focused on may lead to laziness	AN3.102
 exertion (paggaha)	exclusively focused on may lead to restlessness	AN3.102
@@ -3493,17 +3493,17 @@ Hatthaka of Āḷavī, householder	standard to aspire to	AN4.176
 Khujjuttarā, householder	standard to aspire to	AN4.176
 Veḷukaṇṭakī Nandamāta, householder	standard to aspire to	AN4.176
 earth element (pathavī dhātu)	“This is not mine”	AN4.177
-elements		xref earth element (pathavī dhātu)
-earth element (pathavī dhātu)		xref elements
+elements (dhātu)		xref earth element (pathavī dhātu)
+earth element (pathavī dhātu)		xref elements (dhātu)
 water element (āpo dhātu)	“This is not mine”	AN4.177
 fire element (tejo dhātu)	“This is not mine”	AN4.177
 air element (vāyo dhātu)	“This is not mine”	AN4.177
-water element (āpo dhātu)		xref elements
-fire element (tejo dhātu)		xref elements
-air element (vāyo dhātu)		xref elements
-elements		xref water element (āpo dhātu)
-elements		xref fire element (tejo dhātu)
-elements		xref air element (vāyo dhātu)
+water element (āpo dhātu)		xref elements (dhātu)
+fire element (tejo dhātu)		xref elements (dhātu)
+air element (vāyo dhātu)		xref elements (dhātu)
+elements (dhātu)		xref water element (āpo dhātu)
+elements (dhātu)		xref fire element (tejo dhātu)
+elements (dhātu)		xref air element (vāyo dhātu)
 Rāhula, Ven.		AN4.177
 heart’s release (cetovimutti)		AN4.178
 nibbāna	in the present life	AN4.179
@@ -3533,10 +3533,10 @@ mind	leads the world on	AN4.186
 learned (bahussutā)	definition	AN4.186
 astute person (paṇḍita)	definition	AN4.186
 Vassakāra, brahmin	asking about bad people and good people	AN4.187
-good people		xref bad people
-bad people		xref good people
-good people	can know good and bad	AN4.187
-bad people	cannot know good and bad	AN4.187
+good people (sappurisa)		xref bad people (asappurisa)
+bad people (asappurisa)		xref good people (sappurisa)
+good people (sappurisa)	can know good and bad	AN4.187
+bad people (asappurisa)	cannot know good and bad	AN4.187
 Upaka Maṇḍikāputt	complaining about people	AN4.188
 Ajātasattu, king		AN4.188
 liberations, eight (vimokkha)	to be realized with meditative experience	AN4.189
@@ -3599,7 +3599,7 @@ results of actions	seeing results as encouragement for good actions	AN4.197
 mortification (tapojigucchā)	of oneself and others	AN4.198
 mortification (tapojigucchā)	definition	AN4.198
 sacrifices (yañña)	as harming others	AN4.198
-gradual training		AN4.198
+gradual training (anupubbasikkhā)		AN4.198
 craving (taṇha)	definition	AN4.199
 wrong views	and craving	AN4.199
 craving (taṇha)	like tangled yarn, ball of thread	AN4.199
@@ -3608,43 +3608,43 @@ wrong views		AN4.200
 conceit (māna)		AN4.200
 hatred (dosa)	caused by love and hate	AN4.200
 aggregates (khandha)	seeing as self	AN4.200
-bad people	definition	AN4.201
-bad people	even worse when they encourage others	AN4.201
-good people	definition	AN4.201
-good people	even better when they encourage others	AN4.201
+bad people (asappurisa)	definition	AN4.201
+bad people (asappurisa)	even worse when they encourage others	AN4.201
+good people (sappurisa)	definition	AN4.201
+good people (sappurisa)	even better when they encourage others	AN4.201
 encouragement	to do good	AN4.201
 encouragement	to do bad	AN4.201
-bad people	definition	AN4.202
-bad people	even worse when they encourage others	AN4.202
-good people	definition	AN4.202
-good people	even better when they encourage others	AN4.202
+bad people (asappurisa)	definition	AN4.202
+bad people (asappurisa)	even worse when they encourage others	AN4.202
+good people (sappurisa)	definition	AN4.202
+good people (sappurisa)	even better when they encourage others	AN4.202
 encouragement	to do good	AN4.202
 encouragement	to do bad	AN4.202
-bad people	definition	AN4.203
-bad people	even worse when they encourage others	AN4.203
-good people	definition	AN4.203
-good people	even better when they encourage others	AN4.203
+bad people (asappurisa)	definition	AN4.203
+bad people (asappurisa)	even worse when they encourage others	AN4.203
+good people (sappurisa)	definition	AN4.203
+good people (sappurisa)	even better when they encourage others	AN4.203
 encouragement	to do good	AN4.203
 encouragement	to do bad	AN4.203
-bad people	definition	AN4.204
-bad people	even worse when they encourage others	AN4.204
-good people	definition	AN4.204
-good people	even better when they encourage others	AN4.204
+bad people (asappurisa)	definition	AN4.204
+bad people (asappurisa)	even worse when they encourage others	AN4.204
+good people (sappurisa)	definition	AN4.204
+good people (sappurisa)	even better when they encourage others	AN4.204
 encouragement	to do good	AN4.204
 encouragement	to do bad	AN4.204
-bad people	definition	AN4.205
-bad people	even worse when they encourage others	AN4.205
-good people	definition	AN4.205
-good people	even better when they encourage others	AN4.205
+bad people (asappurisa)	definition	AN4.205
+bad people (asappurisa)	even worse when they encourage others	AN4.205
+good people (sappurisa)	definition	AN4.205
+good people (sappurisa)	even better when they encourage others	AN4.205
 encouragement	to do good	AN4.205
 encouragement	to do bad	AN4.205
 wrong eightfold path	person who possesses	AN4.205
 noble eightfold path (ariya aṭṭhangika magga)	person who possesses	AN4.205
 noble eightfold path (ariya aṭṭhangika magga)	encouraging others to practice	AN4.205
-bad people	definition	AN4.206
-bad people	even worse when they encourage others	AN4.206
-good people	definition	AN4.206
-good people	even better when they encourage others	AN4.206
+bad people (asappurisa)	definition	AN4.206
+bad people (asappurisa)	even worse when they encourage others	AN4.206
+good people (sappurisa)	definition	AN4.206
+good people (sappurisa)	even better when they encourage others	AN4.206
 encouragement	to do good	AN4.206
 encouragement	to do bad	AN4.206
 assemblies	who corrupts and who beautifies	AN4.211
@@ -3691,7 +3691,7 @@ actions (kamma)	bright and dark: definition	AN4.236
 actions (kamma)	neither bright nor dark: definition	AN4.237
 lions roar	only here are noble disciples	AN4.241
 stages of enlightenment	and fetters	AN4.241
-good people	benefit of relying on	AN4.242
+good people (sappurisa)	benefit of relying on	AN4.242
 association	with superior people causes one to improve	AN4.242
 Anuruddha, Ven.	not involved with disciplinary issues	AN4.243
 Ānanda, Ven.	and disciplinary issue	AN4.243
@@ -3874,7 +3874,7 @@ wealth	reasons to get rich	AN5.41
 wealth	using to make people happy	AN5.41
 wealth	as protection	AN5.41
 offerings	to gods	AN5.41
-good people	benefit family	AN5.42
+good people (sappurisa)	benefit family	AN5.42
 practicing	not wishing	AN5.43
 prayer	ineffective for getting what one wants	AN5.43
 long life	not gained by wishing	AN5.43
@@ -4309,7 +4309,7 @@ Kassapa, Buddha	and lay follower Gavesī	AN5.180
 leadership	inspiration	AN5.180
 inspiration	from leaders	AN5.180
 going forth (pabbajja)	inspired by others	AN5.180
-gradual training	taking on more aspects	AN5.180
+gradual training (anupubbasikkhā)	taking on more aspects	AN5.180
 wilderness (arañña)	kinds of wilderness dwellers	AN5.181
 mental illness	reason for living in wilderness	AN5.181
 few wishes (appiccha)	reason for living in wilderness	AN5.181
@@ -4479,7 +4479,7 @@ stinginess (maccharī)	leading to hell	AN5.239
 bad actions		AN5.245-248
 charnel ground 	drawbacks of	AN5.249
 charnel ground 	people like a	AN5.249
-bad people	like a charnel ground	AN5.249
+bad people (asappurisa)	like a charnel ground	AN5.249
 cemetery		xref charnel ground
 association	with similar people/like elements	AN5.249
 confidence (pasāda)	danger when placed in an individual	AN5.250
@@ -4578,7 +4578,7 @@ right view (sammā diṭṭhi)	resulting in heaven	AN2.28
 right view (sammā diṭṭhi)	leads to human world	AN2.28
 human birth	right view leads to	AN2.28
 heaven (sagga)	right view leads to	AN2.28
-unvirtuous people		xref bad people
+unvirtuous people		xref bad people (asappurisa)
 unvirtuous people	hell and animal realm	AN2.29
 virtuous people	heaven and human world	AN2.29
 wilderness (arañña)	reasons for living in	AN2.30
@@ -4898,7 +4898,7 @@ greed, hatred, delusion	causes	AN6.39
 Kimbila, Ven.	Dhamma not lasting long	AN6.40
 Dhamma	continuation of, factors leading to	AN6.40
 Dhamma	decline, factors leading to	AN6.40
-elements	in tree trunk	AN6.41
+elements (dhātu)	in tree trunk	AN6.41
 trees	tree trunk containing elements	AN6.41
 air element (vāyo dhātu)	in tree trunk	AN6.41
 earth element (pathavī dhātu)	in tree trunk	AN6.41
@@ -5229,7 +5229,7 @@ opposites	good to give up bad	AN6.108
 bad actions	good actions to give up	AN6.108
 thoughts (vitakkā)	good to give up bad	AN6.109
 perceptions (saññā)	good to give up bad	AN6.111
-elements	of sensuality, malice, and cruelty 	AN6.111
+elements (dhātu)	of sensuality, malice, and cruelty 	AN6.111
 perception of impermanence (aniccasañña)	to give up view that things are gratifying	AN6.112
 perception of not self (anattasañña)	to give up view of self	AN6.112
 right view (sammā diṭṭhi)	to give up wrong view	AN6.112
@@ -5633,7 +5633,7 @@ unskillfulness (akusala)	through living as one pleases	MN101
 painful striving	to reduce unwholesome and increase wholesome	MN101
 arrowsmith	simile of not heating arrow after is is straight	MN101
 painful striving	stopping when goal is achieved, like arrowsmith	MN101
-gradual training	long version	MN101
+gradual training (anupubbasikkhā)	long version	MN101
 Buddha, the	praise on ten grounds	MN101
 Nigaṇṭhas	Buddha’s discussion with	MN101
 striving (padhāna)	correctly	MN101
@@ -5714,7 +5714,7 @@ bad monastics	difficult to admonish	MN103
 attachment to views (diṭṭhiyoga)	and admonishment	MN103
 skillfulness (kusala)	helping someone to develop	MN103
 unskillfulness (akusala)	helping someone to remove	MN103
-equanimity (upekkhā)	when someone cannot be admonishmed	MN103
+equanimity (upekkhā)	when someone cannot be admonished	MN103
 admonishment	person impossible to admonish	MN103
 disputes	blocking enlightenment	MN103
 nibbāna	blocked by disputes	MN103
@@ -5872,7 +5872,7 @@ Gaṇakamoggallāna, accountant		MN107
 brahmins	gradual training in chanting	MN107
 archers	gradual training of	MN107
 accountants	gradual training of	MN107
-gradual training	like training a horse	MN107
+gradual training (anupubbasikkhā)	like training a horse	MN107
 danger in slightest fault	part of gradual training	MN107
 virtue (sīla)	part of gradual training	MN107
 sense restraint (indriyasaṁvara)	part of gradual training	MN107
@@ -5881,7 +5881,7 @@ eating	reflection to be done before	MN107
 wakefulness (jāgara)	part of gradual training	MN107
 mindfulness (sati)	part of gradual training	MN107
 situational awareness (sampajañña)	part of gradual training	MN107
-gradual training	in detail	MN107
+gradual training (anupubbasikkhā)	in detail	MN107
 seclusion (paṭisallīna, vivitta)	part of gradual training	MN107
 wilderness 	part of gradual training	MN107
 hindrances (nīvarana)	removal of as part of gradual training	MN107
@@ -5938,3 +5938,174 @@ contact (phassa)	cause of perception aggregate	MN109
 contact (phassa)	cause of formations aggregate	MN109
 name and form (nāma rūpa)	cause of consciousness aggregate	MN109
 elements, four great (cattāri mahābhūtāni)	cause of form aggregate	MN109
+identity view (sakkāyadiṭṭhi)	arises because of regarding aggregates as self	MN109
+gratification (assāda)		xref escape (nissaraṇa)
+danger (ādīnava)		xref gratification (assāda)
+escape (nissaraṇa)		xref gratification (assāda)
+gratification (assāda)		xref danger (ādīnava)
+escape (nissaraṇa)		xref danger (ādīnava)
+danger (ādīnava)		xref escape (nissaraṇa)
+gratification (assāda)	of aggregates	MN109
+danger (ādīnava)	of aggregates	MN109
+escape (nissaraṇa)	from aggregates	MN109
+aggregates (khandha)	as not self	MN109
+conceit (māna)	knowing and seeing so that there is no	MN109
+I making (ahaṅkāra)	knowing and seeing so that there is no	MN109
+not-self	aggregates as	MN109
+underlying tendency to conceit (mānānusaya)	knowing and seeing so that there is no	MN109
+underlying tendency to conceit (mānānusaya)		xref conceit (māna)
+conceit (māna)		xref underlying tendency to conceit (mānānusaya)
+impermanence 	of aggregates	MN109
+aggregates (khandha)	as not self	MN109
+not-self	what self will the deeds of not-self affect?	MN109
+impermanence	suffering and	MN109
+suffering (dukkha)	self and	MN109
+disillusionment and dispassion (nibbidāvirāga)	being freed	MN109
+uposatha	sermon given on	MN110
+bad people (asappurisa)	cannot know good and bad	MN110
+bad people (asappurisa)	definition	MN110
+bad people (asappurisa)	qualities of	MN110
+bad people (asappurisa)	how they associate	MN110
+bad people (asappurisa)	intentions	MN110
+bad people (asappurisa)	how they council others	MN110
+bad people (asappurisa)	speech	MN110
+bad people (asappurisa)	actions	MN110
+bad people (asappurisa)	view of	MN110
+wrong view (micchā diṭṭhi)	held by bad people	MN110
+bad people (asappurisa)	way of giving	MN110
+bad people (asappurisa)	reborn in bad destination	MN110
+good people (sappurisa)	can know good and bad	MN110
+good people (sappurisa)	definition	MN110
+good people (sappurisa)	qualities of	MN110
+good people (sappurisa)	how they associate	MN110
+good people (sappurisa)	intentions	MN110
+good people (sappurisa)	how they council others	MN110
+good people (sappurisa)	speech	MN110
+good people (sappurisa)	actions	MN110
+good people (sappurisa)	view of	MN110
+right view (sammā diṭṭhi)	held by good people	MN110
+good people (sappurisa)	way of giving	MN110
+good people (sappurisa)	reborn in good destination	MN110
+giving 	properly and improperly	MN110
+rebirth	of good people	MN110
+rebirth	of bad people	MN110
+integrity		xref good people (sappurisa)
+Sāriputta, Ven.	qualities 	MN111
+Sāriputta, Ven.	enlightenment	MN111
+attention (manasikāra)	jhānas and	MN111
+jhānas	factors of	MN111
+impermanence	of jhāna factors	MN111
+intention (cetana)	jhānas and	MN111
+jhānas	as a basis for insight	MN111
+dimension of infinite space (ākāsānañcāyatana)	factors of	MN111
+dimension of infinite consciousness (viññāṇañcāyatana)	factors of	MN111
+dimension of nothingness (ākiñcaññāyatana)	factors of	MN111
+dimension of neither perception nor non-perception (nevasaññānāsaññāyatanaṁ)	factors of	MN111
+cessation of perception and feeling (saññāvedayitanirodha)	defilements come to an end	MN111
+cessation of perception and feeling (saññāvedayitanirodha)	contemplating factors after emerging from	MN111
+born from mouth	Ven. Sāriputta	MN111
+Sāriputta, Ven.	born from the mouth of the Buddha	MN111
+wheel of Dhamma	Ven. Sāriputta rightly keeps rolling wheel of Dhamma	MN111
+Sāriputta, Ven.	rightly keeps rolling wheel of Dhamma	MN111
+declaring enlightenment	testing the claim	MN112
+arahants	testing the claim someone is an arahant	MN112
+seen, heard, thought, known	testing the claim someone is an arahant	MN112
+aggregates (khandha)	testing the claim someone is an arahant	MN112
+aggregates (khandha)	as powerless, fading away, unreliable	MN112
+elements (dhātu)	six	MN112
+elements (dhātu)	testing the claim someone is an arahant	MN112
+elements (dhātu)	as not self	MN112
+elements (dhātu)	underlying tendencies and	MN112
+consciousness element (viññāṇadhātu)	as not self	MN112
+sense bases (āyatanā)	cessation of desire	MN112
+I making (ahaṅkāra)	knowing and seeing so that there is no 	MN112
+gradual training (anupubbasikkhā)	as reported by an arahant	MN112
+enlightenment	without triple knowledge	MN112
+spiritual companion (sabrahmacārī)	fortunate to have an enlightened one as	MN112
+good people (sappurisa)	qualities of	MN113
+bad people (asappurisa)	qualities of	MN113
+arrogance	because of high family, fame, etc.	MN113
+requisites, four	not a reason to become arrogant	MN113
+greed, hatred, delusion	does not end because of worldly status	MN113
+learned (bahussutā)	not a reason to become arrogant	MN113
+Dhamma teachers	not a reason to become arrogant	MN113
+wilderness (arañña)	living in not a reason to become arrogant	MN113
+ascetic practices (dhutaṅga)	not a reason to become arrogant	MN113
+jhānas	not a reason to become arrogant	MN113
+non-identification (atammayatā)	with jhāna	MN113
+dimension of infinite space (ākāsānañcāyatana)	not a reason to become arrogant	MN113
+dimension of infinite consciousness (viññāṇañcāyatana)	not a reason to become arrogant	MN113
+dimension of nothingness (ākiñcaññāyatana)	not a reason to become arrogant	MN113
+dimension of neither perception nor non-perception (nevasaññānāsaññāyatanaṁ)	not a reason to become arrogant	MN113
+conceiving (maññita)	not conceiving	MN113
+Sāriputta, Ven.	what should and should not be cultivated	MN114
+bodily conduct (kāyasamācāra)	should and should not be cultivated	MN114
+verbal conduct (vacīsamācāra)	should and should not be cultivated	MN114
+mental conduct (manosamācāra)	should and should not be cultivated	MN114
+bad actions	should not be cultivated	MN114
+good actions	should be cultivated	MN114
+skillful qualities (kusala dhamma)	should cultivate actions that increase	MN114
+unskillful qualities (akusala dhamma)	should cultivate actions that decreases	MN114
+skillfulness (kusala)	how to develop	MN114
+unskillfulness (akusala)	how to abandon	MN114
+killing	definition	MN114
+killing	causes unskillful qualities to grow	MN114
+stealing	definition	MN114
+stealing	causes unskillful qualities to grow	MN114
+sexual misconduct	definition	MN114
+sexual misconduct	causes unskillful qualities to grow	MN114
+killing, giving up	definition	MN114
+killing, giving up	causes skillful qualities to grow	MN114
+stealing, giving up	definition	MN114
+stealing, giving up	causes skillful qualities to grow	MN114
+sexual misconduct, giving up	definition	MN114
+sexual misconduct, giving up	causes skillful qualities to grow	MN114
+lying	definition	MN114
+lying	causes unskillful qualities to grow	MN114
+divisive speech	definition	MN114
+divisive speech	causes unskillful qualities to grow	MN114
+harsh speech	definition	MN114
+harsh speech	causes unskillful qualities to grow	MN114
+useless speech (samphappalāpa)	definition	MN114
+useless speech (samphappalāpa)	causes unskillful qualities to grow	MN114
+lying, giving up	definition	MN114
+lying, giving up	causes skillful qualities to grow	MN114
+divisive speech,  giving up	definition	MN114
+divisive speech, giving up	causes skillful qualities to grow	MN114
+harsh speech, giving up	definition	MN114
+harsh speech, giving up	causes skillful qualities to grow	MN114
+useless speech, giving up	definition	MN114
+useless speech, giving up	causes skillful qualities to grow	MN114
+covetousness (abhijjhā)	definition	MN114
+covetousness (abhijjhā)	causes unskillful qualities to grow	MN114
+ill will (vyāpada, byāpada)	definition	MN114
+ill will (vyāpada, byāpada)	causes unskillful qualities to grow	MN114
+intentions of hate (paduṭṭhamanasaṅkappa)	definition	MN114
+intentions of hate (paduṭṭhamanasaṅkappa)	causes unskillful qualities to grow	MN114
+malicious intentions 		xref intentions of hate (paduṭṭhamanasaṅkappa)
+covetousness, giving up	definition	MN114
+covetousness, giving up	causes skillful qualities to grow	MN114
+ill will, giving up	definition	MN114
+ill will, giving up	causes skillful qualities to grow	MN114
+intentions of hate, giving up	definition	MN114
+intentions of hate, giving up	causes skillful qualities to grow	MN114
+truthfulness	definition	MN114
+truthfulness	causes skillful qualities to grow	MN114
+right view (sammā diṭṭhi)	should be cultivated	MN114
+wrong view (micchā diṭṭhi)	should not be cultivated	MN114
+individuality (attabhāva)	what kinds should and should not be cultivated	MN114
+rebirth	what kinds should and should not be cultivated	MN114
+sense objects	what kinds should and should not be cultivated	MN114
+requisites, four	what kinds should and should not be cultivated	MN114
+dwellings (senāsana)	what kinds should and should not be cultivated	MN114
+association	what kinds should and should not be cultivated	MN114
+dangers	all come from fools	MN115
+fools	dangers, perils, hazzards come from	MN115
+fools	cause danger like a fire spreading 	MN115
+astute person (paṇḍita)	danger does not come from	MN115
+astute person (paṇḍita)	definition	MN115
+elements (dhātu)	eighteen (internal and external bases and consciousness of)	MN115
+consciousness 	as element	MN115
+elements (dhātu)	six	MN115
+elements (dhātu)	skilled in	MN115
+elements (dhātu)	pleasure, pain, happiness, sadness, equanimity, and ignorance	MN115

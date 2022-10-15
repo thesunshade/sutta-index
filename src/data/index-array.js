@@ -2916,6 +2916,11 @@ export const indexArray =[
      ],
      [
           "AN3.36",
+          "divine messengers (devadūta)",
+          ""
+     ],
+     [
+          "AN3.36",
           "Yama, King",
           ""
      ],
@@ -2923,11 +2928,6 @@ export const indexArray =[
           "AN3.36",
           "dead body",
           "as divine messenger"
-     ],
-     [
-          "AN3.36",
-          "divine messengers (devadūta)",
-          ""
      ],
      [
           "AN3.36",
@@ -3341,7 +3341,7 @@ export const indexArray =[
      ],
      [
           "AN3.61",
-          "elements",
+          "elements (dhātu)",
           "six"
      ],
      [
@@ -3896,7 +3896,7 @@ export const indexArray =[
      ],
      [
           "AN3.79",
-          "good people",
+          "good people (sappurisa)",
           "praised by gods"
      ],
      [
@@ -3926,11 +3926,6 @@ export const indexArray =[
      ],
      [
           "AN3.80",
-          "galaxies",
-          ""
-     ],
-     [
-          "AN3.80",
           "Jambudīpa (India)",
           "one thousand in a world system"
      ],
@@ -3948,6 +3943,11 @@ export const indexArray =[
           "AN3.80",
           "Sineru, king of mountains",
           "one thousand in a world system"
+     ],
+     [
+          "AN3.80",
+          "galaxies",
+          ""
      ],
      [
           "AN3.80",
@@ -4256,7 +4256,7 @@ export const indexArray =[
      ],
      [
           "AN3.101",
-          "gradual training",
+          "gradual training (anupubbasikkhā)",
           "purifying the mind, step by step"
      ],
      [
@@ -7236,12 +7236,12 @@ export const indexArray =[
      ],
      [
           "AN4.187",
-          "bad people",
+          "bad people (asappurisa)",
           "cannot know good and bad"
      ],
      [
           "AN4.187",
-          "good people",
+          "good people (sappurisa)",
           "can know good and bad"
      ],
      [
@@ -7506,7 +7506,7 @@ export const indexArray =[
      ],
      [
           "AN4.198",
-          "gradual training",
+          "gradual training (anupubbasikkhā)",
           ""
      ],
      [
@@ -7566,12 +7566,12 @@ export const indexArray =[
      ],
      [
           "AN4.201",
-          "bad people",
+          "bad people (asappurisa)",
           "definition"
      ],
      [
           "AN4.201",
-          "bad people",
+          "bad people (asappurisa)",
           "even worse when they encourage others"
      ],
      [
@@ -7586,22 +7586,22 @@ export const indexArray =[
      ],
      [
           "AN4.201",
-          "good people",
+          "good people (sappurisa)",
           "definition"
      ],
      [
           "AN4.201",
-          "good people",
+          "good people (sappurisa)",
           "even better when they encourage others"
      ],
      [
           "AN4.202",
-          "bad people",
+          "bad people (asappurisa)",
           "definition"
      ],
      [
           "AN4.202",
-          "bad people",
+          "bad people (asappurisa)",
           "even worse when they encourage others"
      ],
      [
@@ -7616,22 +7616,22 @@ export const indexArray =[
      ],
      [
           "AN4.202",
-          "good people",
+          "good people (sappurisa)",
           "definition"
      ],
      [
           "AN4.202",
-          "good people",
+          "good people (sappurisa)",
           "even better when they encourage others"
      ],
      [
           "AN4.203",
-          "bad people",
+          "bad people (asappurisa)",
           "definition"
      ],
      [
           "AN4.203",
-          "bad people",
+          "bad people (asappurisa)",
           "even worse when they encourage others"
      ],
      [
@@ -7646,22 +7646,22 @@ export const indexArray =[
      ],
      [
           "AN4.203",
-          "good people",
+          "good people (sappurisa)",
           "definition"
      ],
      [
           "AN4.203",
-          "good people",
+          "good people (sappurisa)",
           "even better when they encourage others"
      ],
      [
           "AN4.204",
-          "bad people",
+          "bad people (asappurisa)",
           "definition"
      ],
      [
           "AN4.204",
-          "bad people",
+          "bad people (asappurisa)",
           "even worse when they encourage others"
      ],
      [
@@ -7676,22 +7676,22 @@ export const indexArray =[
      ],
      [
           "AN4.204",
-          "good people",
+          "good people (sappurisa)",
           "definition"
      ],
      [
           "AN4.204",
-          "good people",
+          "good people (sappurisa)",
           "even better when they encourage others"
      ],
      [
           "AN4.205",
-          "bad people",
+          "bad people (asappurisa)",
           "definition"
      ],
      [
           "AN4.205",
-          "bad people",
+          "bad people (asappurisa)",
           "even worse when they encourage others"
      ],
      [
@@ -7706,12 +7706,12 @@ export const indexArray =[
      ],
      [
           "AN4.205",
-          "good people",
+          "good people (sappurisa)",
           "definition"
      ],
      [
           "AN4.205",
-          "good people",
+          "good people (sappurisa)",
           "even better when they encourage others"
      ],
      [
@@ -7731,12 +7731,12 @@ export const indexArray =[
      ],
      [
           "AN4.206",
-          "bad people",
+          "bad people (asappurisa)",
           "definition"
      ],
      [
           "AN4.206",
-          "bad people",
+          "bad people (asappurisa)",
           "even worse when they encourage others"
      ],
      [
@@ -7751,12 +7751,12 @@ export const indexArray =[
      ],
      [
           "AN4.206",
-          "good people",
+          "good people (sappurisa)",
           "definition"
      ],
      [
           "AN4.206",
-          "good people",
+          "good people (sappurisa)",
           "even better when they encourage others"
      ],
      [
@@ -8011,7 +8011,7 @@ export const indexArray =[
      ],
      [
           "AN4.242",
-          "good people",
+          "good people (sappurisa)",
           "benefit of relying on"
      ],
      [
@@ -8926,7 +8926,7 @@ export const indexArray =[
      ],
      [
           "AN5.42",
-          "good people",
+          "good people (sappurisa)",
           "benefit family"
      ],
      [
@@ -11061,7 +11061,7 @@ export const indexArray =[
      ],
      [
           "AN5.180",
-          "gradual training",
+          "gradual training (anupubbasikkhā)",
           "taking on more aspects"
      ],
      [
@@ -11951,7 +11951,7 @@ export const indexArray =[
      ],
      [
           "AN5.249",
-          "bad people",
+          "bad people (asappurisa)",
           "like a charnel ground"
      ],
      [
@@ -12641,6 +12641,11 @@ export const indexArray =[
      ],
      [
           "AN6.34",
+          "Tissa, Brahma",
+          "former monk"
+     ],
+     [
+          "AN6.34",
           "gods",
           "that are stream-enterers"
      ],
@@ -12658,11 +12663,6 @@ export const indexArray =[
           "AN6.34",
           "stream-enterers (sotāpanna)",
           "gods that have become"
-     ],
-     [
-          "AN6.34",
-          "Tissa, Brahma",
-          "former monk"
      ],
      [
           "AN6.36",
@@ -12781,7 +12781,7 @@ export const indexArray =[
      ],
      [
           "AN6.41",
-          "elements",
+          "elements (dhātu)",
           "in tree trunk"
      ],
      [
@@ -14166,7 +14166,7 @@ export const indexArray =[
      ],
      [
           "AN6.111",
-          "elements",
+          "elements (dhātu)",
           "of sensuality, malice, and cruelty "
      ],
      [
@@ -14706,6 +14706,11 @@ export const indexArray =[
      ],
      [
           "AN7.21",
+          "society",
+          "principles that lead to growth"
+     ],
+     [
+          "AN7.21",
           "tradition (vaṁsa)",
           "leads to growth"
      ],
@@ -14723,11 +14728,6 @@ export const indexArray =[
           "AN7.21",
           "shrines (cetiya)",
           "venerating"
-     ],
-     [
-          "AN7.21",
-          "society",
-          "principles that lead to growth"
      ],
      [
           "AN7.22",
@@ -15491,6 +15491,16 @@ export const indexArray =[
      ],
      [
           "AN7.56",
+          "Tissa, Brahma",
+          "former monk"
+     ],
+     [
+          "AN7.56",
+          "mendicants",
+          "reborn as gods"
+     ],
+     [
+          "AN7.56",
           "one freed both ways (ubhatobhāgavimutta)",
           "known by gods of Brahmā’s Host"
      ],
@@ -15503,16 +15513,6 @@ export const indexArray =[
           "AN7.56",
           "personal witness (kāyasakkhī)",
           "known by gods of Brahmā’s Host"
-     ],
-     [
-          "AN7.56",
-          "Tissa, Brahma",
-          "former monk"
-     ],
-     [
-          "AN7.56",
-          "mendicants",
-          "reborn as gods"
      ],
      [
           "AN7.56",
@@ -17481,7 +17481,7 @@ export const indexArray =[
      ],
      [
           "Dhp230",
-          "good people",
+          "good people (sappurisa)",
           "praised by gods"
      ],
      [
@@ -17686,12 +17686,12 @@ export const indexArray =[
      ],
      [
           "Dhp304",
-          "bad people",
+          "bad people (asappurisa)",
           "simile of arrow"
      ],
      [
           "Dhp304",
-          "good people",
+          "good people (sappurisa)",
           "simile of Himalaya"
      ],
      [
@@ -18461,7 +18461,7 @@ export const indexArray =[
      ],
      [
           "Iti51",
-          "elements",
+          "elements (dhātu)",
           "form, formlessness, cessation"
      ],
      [
@@ -19116,11 +19116,6 @@ export const indexArray =[
      ],
      [
           "Kp5",
-          "Dhamma discussion",
-          "time for"
-     ],
-     [
-          "Kp5",
           "alcohol",
           "abstaining from is a blessing"
      ],
@@ -19136,18 +19131,8 @@ export const indexArray =[
      ],
      [
           "Kp5",
-          "austerity",
-          "as a blessing"
-     ],
-     [
-          "Kp5",
           "blessings (maṅgala)",
           ""
-     ],
-     [
-          "Kp5",
-          "celibacy",
-          "as a blessing"
      ],
      [
           "Kp5",
@@ -19157,6 +19142,21 @@ export const indexArray =[
      [
           "Kp5",
           "contentment (santuṭṭhi)",
+          "as a blessing"
+     ],
+     [
+          "Kp5",
+          "Dhamma discussion",
+          "time for"
+     ],
+     [
+          "Kp5",
+          "austerity",
+          "as a blessing"
+     ],
+     [
+          "Kp5",
+          "celibacy",
           "as a blessing"
      ],
      [
@@ -19751,6 +19751,11 @@ export const indexArray =[
      ],
      [
           "MN82",
+          "death",
+          "like fruit falling from tree"
+     ],
+     [
+          "MN82",
           "going forth (pabbajja)",
           "discouraging with encouragement to make merit"
      ],
@@ -19768,11 +19773,6 @@ export const indexArray =[
           "MN82",
           "Koravya, king",
           ""
-     ],
-     [
-          "MN82",
-          "death",
-          "like fruit falling from tree"
      ],
      [
           "MN82",
@@ -20036,7 +20036,7 @@ export const indexArray =[
      ],
      [
           "MN101",
-          "gradual training",
+          "gradual training (anupubbasikkhā)",
           "long version"
      ],
      [
@@ -20372,7 +20372,7 @@ export const indexArray =[
      [
           "MN103",
           "equanimity (upekkhā)",
-          "when someone cannot be admonishmed"
+          "when someone cannot be admonished"
      ],
      [
           "MN103",
@@ -20606,6 +20606,11 @@ export const indexArray =[
      ],
      [
           "MN105",
+          "beverage",
+          "poisoned, avoiding, like restraint towards sense fields, like restraint towards sense fields"
+     ],
+     [
+          "MN105",
           "dart (salla)",
           "craving"
      ],
@@ -20641,48 +20646,18 @@ export const indexArray =[
      ],
      [
           "MN105",
-          "disrobing",
-          "as death"
-     ],
-     [
-          "MN105",
-          "disrobing",
-          "caused by overestimation"
-     ],
-     [
-          "MN105",
           "final knowledge (aññā)",
           "declaring enlightenment"
      ],
      [
           "MN105",
           "imperturbable (āneñja)",
-          "being intent on"
-     ],
-     [
-          "MN105",
-          "imperturbable (āneñja)",
           "discussion of"
-     ],
-     [
-          "MN105",
-          "leaf",
-          "unable to become green like someone given up interest in lesser topics"
      ],
      [
           "MN105",
           "listening to Dhamma",
           "dependent on a person’s interest"
-     ],
-     [
-          "MN105",
-          "nibbāna",
-          "being intent on"
-     ],
-     [
-          "MN105",
-          "nibbāna",
-          "discussion of"
      ],
      [
           "MN105",
@@ -20701,8 +20676,33 @@ export const indexArray =[
      ],
      [
           "MN105",
-          "beverage",
-          "poisoned, avoiding, like restraint towards sense fields, like restraint towards sense fields"
+          "disrobing",
+          "as death"
+     ],
+     [
+          "MN105",
+          "disrobing",
+          "caused by overestimation"
+     ],
+     [
+          "MN105",
+          "imperturbable (āneñja)",
+          "being intent on"
+     ],
+     [
+          "MN105",
+          "leaf",
+          "unable to become green like someone given up interest in lesser topics"
+     ],
+     [
+          "MN105",
+          "nibbāna",
+          "being intent on"
+     ],
+     [
+          "MN105",
+          "nibbāna",
+          "discussion of"
      ],
      [
           "MN105",
@@ -21016,12 +21016,12 @@ export const indexArray =[
      ],
      [
           "MN107",
-          "gradual training",
+          "gradual training (anupubbasikkhā)",
           "in detail"
      ],
      [
           "MN107",
-          "gradual training",
+          "gradual training (anupubbasikkhā)",
           "like training a horse"
      ],
      [
@@ -21227,6 +21227,16 @@ export const indexArray =[
      [
           "MN109",
           "aggregates (khandha)",
+          "as not self"
+     ],
+     [
+          "MN109",
+          "aggregates (khandha)",
+          "as not self"
+     ],
+     [
+          "MN109",
+          "aggregates (khandha)",
           "desire for future"
      ],
      [
@@ -21246,6 +21256,11 @@ export const indexArray =[
      ],
      [
           "MN109",
+          "conceit (māna)",
+          "knowing and seeing so that there is no"
+     ],
+     [
+          "MN109",
           "contact (phassa)",
           "cause of feeling aggregate"
      ],
@@ -21261,8 +21276,23 @@ export const indexArray =[
      ],
      [
           "MN109",
+          "danger (ādīnava)",
+          "of aggregates"
+     ],
+     [
+          "MN109",
+          "disillusionment and dispassion (nibbidāvirāga)",
+          "being freed"
+     ],
+     [
+          "MN109",
           "elements, four great (cattāri mahābhūtāni)",
           "cause of form aggregate"
+     ],
+     [
+          "MN109",
+          "escape (nissaraṇa)",
+          "from aggregates"
      ],
      [
           "MN109",
@@ -21271,8 +21301,53 @@ export const indexArray =[
      ],
      [
           "MN109",
+          "gratification (assāda)",
+          "of aggregates"
+     ],
+     [
+          "MN109",
+          "I making (ahaṅkāra)",
+          "knowing and seeing so that there is no"
+     ],
+     [
+          "MN109",
+          "identity view (sakkāyadiṭṭhi)",
+          "arises because of regarding aggregates as self"
+     ],
+     [
+          "MN109",
+          "impermanence ",
+          "of aggregates"
+     ],
+     [
+          "MN109",
+          "impermanence",
+          "suffering and"
+     ],
+     [
+          "MN109",
           "name and form (nāma rūpa)",
           "cause of consciousness aggregate"
+     ],
+     [
+          "MN109",
+          "not-self",
+          "aggregates as"
+     ],
+     [
+          "MN109",
+          "not-self",
+          "what self will the deeds of not-self affect?"
+     ],
+     [
+          "MN109",
+          "suffering (dukkha)",
+          "self and"
+     ],
+     [
+          "MN109",
+          "underlying tendency to conceit (mānānusaya)",
+          "knowing and seeing so that there is no"
      ],
      [
           "MN109",
@@ -21281,8 +21356,738 @@ export const indexArray =[
      ],
      [
           "MN110",
+          "bad people (asappurisa)",
+          "actions"
+     ],
+     [
+          "MN110",
+          "bad people (asappurisa)",
+          "cannot know good and bad"
+     ],
+     [
+          "MN110",
+          "bad people (asappurisa)",
+          "definition"
+     ],
+     [
+          "MN110",
+          "bad people (asappurisa)",
+          "how they associate"
+     ],
+     [
+          "MN110",
+          "bad people (asappurisa)",
+          "how they council others"
+     ],
+     [
+          "MN110",
+          "bad people (asappurisa)",
+          "intentions"
+     ],
+     [
+          "MN110",
+          "bad people (asappurisa)",
+          "qualities of"
+     ],
+     [
+          "MN110",
+          "bad people (asappurisa)",
+          "reborn in bad destination"
+     ],
+     [
+          "MN110",
+          "bad people (asappurisa)",
+          "speech"
+     ],
+     [
+          "MN110",
+          "bad people (asappurisa)",
+          "view of"
+     ],
+     [
+          "MN110",
+          "bad people (asappurisa)",
+          "way of giving"
+     ],
+     [
+          "MN110",
+          "giving ",
+          "properly and improperly"
+     ],
+     [
+          "MN110",
           "giving (dāna)",
           "how to give"
+     ],
+     [
+          "MN110",
+          "good people (sappurisa)",
+          "actions"
+     ],
+     [
+          "MN110",
+          "good people (sappurisa)",
+          "can know good and bad"
+     ],
+     [
+          "MN110",
+          "good people (sappurisa)",
+          "definition"
+     ],
+     [
+          "MN110",
+          "good people (sappurisa)",
+          "how they associate"
+     ],
+     [
+          "MN110",
+          "good people (sappurisa)",
+          "how they council others"
+     ],
+     [
+          "MN110",
+          "good people (sappurisa)",
+          "intentions"
+     ],
+     [
+          "MN110",
+          "good people (sappurisa)",
+          "qualities of"
+     ],
+     [
+          "MN110",
+          "good people (sappurisa)",
+          "reborn in good destination"
+     ],
+     [
+          "MN110",
+          "good people (sappurisa)",
+          "speech"
+     ],
+     [
+          "MN110",
+          "good people (sappurisa)",
+          "view of"
+     ],
+     [
+          "MN110",
+          "good people (sappurisa)",
+          "way of giving"
+     ],
+     [
+          "MN110",
+          "rebirth",
+          "of bad people"
+     ],
+     [
+          "MN110",
+          "rebirth",
+          "of good people"
+     ],
+     [
+          "MN110",
+          "right view (sammā diṭṭhi)",
+          "held by good people"
+     ],
+     [
+          "MN110",
+          "uposatha",
+          "sermon given on"
+     ],
+     [
+          "MN110",
+          "wrong view (micchā diṭṭhi)",
+          "held by bad people"
+     ],
+     [
+          "MN111",
+          "attention (manasikāra)",
+          "jhānas and"
+     ],
+     [
+          "MN111",
+          "born from mouth",
+          "Ven. Sāriputta"
+     ],
+     [
+          "MN111",
+          "cessation of perception and feeling (saññāvedayitanirodha)",
+          "contemplating factors after emerging from"
+     ],
+     [
+          "MN111",
+          "cessation of perception and feeling (saññāvedayitanirodha)",
+          "defilements come to an end"
+     ],
+     [
+          "MN111",
+          "dimension of infinite consciousness (viññāṇañcāyatana)",
+          "factors of"
+     ],
+     [
+          "MN111",
+          "dimension of infinite space (ākāsānañcāyatana)",
+          "factors of"
+     ],
+     [
+          "MN111",
+          "dimension of neither perception nor non-perception (nevasaññānāsaññāyatanaṁ)",
+          "factors of"
+     ],
+     [
+          "MN111",
+          "dimension of nothingness (ākiñcaññāyatana)",
+          "factors of"
+     ],
+     [
+          "MN111",
+          "impermanence",
+          "of jhāna factors"
+     ],
+     [
+          "MN111",
+          "intention (cetana)",
+          "jhānas and"
+     ],
+     [
+          "MN111",
+          "jhānas",
+          "as a basis for insight"
+     ],
+     [
+          "MN111",
+          "jhānas",
+          "factors of"
+     ],
+     [
+          "MN111",
+          "Sāriputta, Ven.",
+          "born from the mouth of the Buddha"
+     ],
+     [
+          "MN111",
+          "Sāriputta, Ven.",
+          "enlightenment"
+     ],
+     [
+          "MN111",
+          "Sāriputta, Ven.",
+          "qualities "
+     ],
+     [
+          "MN111",
+          "Sāriputta, Ven.",
+          "rightly keeps rolling wheel of Dhamma"
+     ],
+     [
+          "MN111",
+          "wheel of Dhamma",
+          "Ven. Sāriputta rightly keeps rolling wheel of Dhamma"
+     ],
+     [
+          "MN112",
+          "aggregates (khandha)",
+          "as powerless, fading away, unreliable"
+     ],
+     [
+          "MN112",
+          "aggregates (khandha)",
+          "testing the claim someone is an arahant"
+     ],
+     [
+          "MN112",
+          "arahants",
+          "testing the claim someone is an arahant"
+     ],
+     [
+          "MN112",
+          "consciousness element (viññāṇadhātu)",
+          "as not self"
+     ],
+     [
+          "MN112",
+          "declaring enlightenment",
+          "testing the claim"
+     ],
+     [
+          "MN112",
+          "elements (dhātu)",
+          "as not self"
+     ],
+     [
+          "MN112",
+          "elements (dhātu)",
+          "six"
+     ],
+     [
+          "MN112",
+          "elements (dhātu)",
+          "testing the claim someone is an arahant"
+     ],
+     [
+          "MN112",
+          "elements (dhātu)",
+          "underlying tendencies and"
+     ],
+     [
+          "MN112",
+          "enlightenment",
+          "without triple knowledge"
+     ],
+     [
+          "MN112",
+          "gradual training (anupubbasikkhā)",
+          "as reported by an arahant"
+     ],
+     [
+          "MN112",
+          "I making (ahaṅkāra)",
+          "knowing and seeing so that there is no "
+     ],
+     [
+          "MN112",
+          "seen, heard, thought, known",
+          "testing the claim someone is an arahant"
+     ],
+     [
+          "MN112",
+          "sense bases (āyatanā)",
+          "cessation of desire"
+     ],
+     [
+          "MN112",
+          "spiritual companion (sabrahmacārī)",
+          "fortunate to have an enlightened one as"
+     ],
+     [
+          "MN113",
+          "ascetic practices (dhutaṅga)",
+          "not a reason to become arrogant"
+     ],
+     [
+          "MN113",
+          "Dhamma teachers",
+          "not a reason to become arrogant"
+     ],
+     [
+          "MN113",
+          "arrogance",
+          "because of high family, fame, etc."
+     ],
+     [
+          "MN113",
+          "bad people (asappurisa)",
+          "qualities of"
+     ],
+     [
+          "MN113",
+          "conceiving (maññita)",
+          "not conceiving"
+     ],
+     [
+          "MN113",
+          "dimension of infinite consciousness (viññāṇañcāyatana)",
+          "not a reason to become arrogant"
+     ],
+     [
+          "MN113",
+          "dimension of infinite space (ākāsānañcāyatana)",
+          "not a reason to become arrogant"
+     ],
+     [
+          "MN113",
+          "dimension of neither perception nor non-perception (nevasaññānāsaññāyatanaṁ)",
+          "not a reason to become arrogant"
+     ],
+     [
+          "MN113",
+          "dimension of nothingness (ākiñcaññāyatana)",
+          "not a reason to become arrogant"
+     ],
+     [
+          "MN113",
+          "good people (sappurisa)",
+          "qualities of"
+     ],
+     [
+          "MN113",
+          "greed, hatred, delusion",
+          "does not end because of worldly status"
+     ],
+     [
+          "MN113",
+          "jhānas",
+          "not a reason to become arrogant"
+     ],
+     [
+          "MN113",
+          "learned (bahussutā)",
+          "not a reason to become arrogant"
+     ],
+     [
+          "MN113",
+          "non-identification (atammayatā)",
+          "with jhāna"
+     ],
+     [
+          "MN113",
+          "requisites, four",
+          "not a reason to become arrogant"
+     ],
+     [
+          "MN113",
+          "wilderness (arañña)",
+          "living in not a reason to become arrogant"
+     ],
+     [
+          "MN114",
+          "association",
+          "what kinds should and should not be cultivated"
+     ],
+     [
+          "MN114",
+          "bad actions",
+          "should not be cultivated"
+     ],
+     [
+          "MN114",
+          "bodily conduct (kāyasamācāra)",
+          "should and should not be cultivated"
+     ],
+     [
+          "MN114",
+          "covetousness (abhijjhā)",
+          "causes unskillful qualities to grow"
+     ],
+     [
+          "MN114",
+          "covetousness (abhijjhā)",
+          "definition"
+     ],
+     [
+          "MN114",
+          "covetousness, giving up",
+          "causes skillful qualities to grow"
+     ],
+     [
+          "MN114",
+          "covetousness, giving up",
+          "definition"
+     ],
+     [
+          "MN114",
+          "divisive speech, giving up",
+          "causes skillful qualities to grow"
+     ],
+     [
+          "MN114",
+          "divisive speech,  giving up",
+          "definition"
+     ],
+     [
+          "MN114",
+          "divisive speech",
+          "causes unskillful qualities to grow"
+     ],
+     [
+          "MN114",
+          "divisive speech",
+          "definition"
+     ],
+     [
+          "MN114",
+          "dwellings (senāsana)",
+          "what kinds should and should not be cultivated"
+     ],
+     [
+          "MN114",
+          "good actions",
+          "should be cultivated"
+     ],
+     [
+          "MN114",
+          "harsh speech, giving up",
+          "causes skillful qualities to grow"
+     ],
+     [
+          "MN114",
+          "harsh speech, giving up",
+          "definition"
+     ],
+     [
+          "MN114",
+          "harsh speech",
+          "causes unskillful qualities to grow"
+     ],
+     [
+          "MN114",
+          "harsh speech",
+          "definition"
+     ],
+     [
+          "MN114",
+          "ill will (vyāpada, byāpada)",
+          "causes unskillful qualities to grow"
+     ],
+     [
+          "MN114",
+          "ill will (vyāpada, byāpada)",
+          "definition"
+     ],
+     [
+          "MN114",
+          "ill will, giving up",
+          "causes skillful qualities to grow"
+     ],
+     [
+          "MN114",
+          "ill will, giving up",
+          "definition"
+     ],
+     [
+          "MN114",
+          "individuality (attabhāva)",
+          "what kinds should and should not be cultivated"
+     ],
+     [
+          "MN114",
+          "intentions of hate (paduṭṭhamanasaṅkappa)",
+          "causes unskillful qualities to grow"
+     ],
+     [
+          "MN114",
+          "intentions of hate (paduṭṭhamanasaṅkappa)",
+          "definition"
+     ],
+     [
+          "MN114",
+          "intentions of hate, giving up",
+          "causes skillful qualities to grow"
+     ],
+     [
+          "MN114",
+          "intentions of hate, giving up",
+          "definition"
+     ],
+     [
+          "MN114",
+          "killing, giving up",
+          "causes skillful qualities to grow"
+     ],
+     [
+          "MN114",
+          "killing, giving up",
+          "definition"
+     ],
+     [
+          "MN114",
+          "killing",
+          "causes unskillful qualities to grow"
+     ],
+     [
+          "MN114",
+          "killing",
+          "definition"
+     ],
+     [
+          "MN114",
+          "lying, giving up",
+          "causes skillful qualities to grow"
+     ],
+     [
+          "MN114",
+          "lying, giving up",
+          "definition"
+     ],
+     [
+          "MN114",
+          "lying",
+          "causes unskillful qualities to grow"
+     ],
+     [
+          "MN114",
+          "lying",
+          "definition"
+     ],
+     [
+          "MN114",
+          "mental conduct (manosamācāra)",
+          "should and should not be cultivated"
+     ],
+     [
+          "MN114",
+          "rebirth",
+          "what kinds should and should not be cultivated"
+     ],
+     [
+          "MN114",
+          "requisites, four",
+          "what kinds should and should not be cultivated"
+     ],
+     [
+          "MN114",
+          "right view (sammā diṭṭhi)",
+          "should be cultivated"
+     ],
+     [
+          "MN114",
+          "Sāriputta, Ven.",
+          "what should and should not be cultivated"
+     ],
+     [
+          "MN114",
+          "sense objects",
+          "what kinds should and should not be cultivated"
+     ],
+     [
+          "MN114",
+          "sexual misconduct, giving up",
+          "causes skillful qualities to grow"
+     ],
+     [
+          "MN114",
+          "sexual misconduct, giving up",
+          "definition"
+     ],
+     [
+          "MN114",
+          "sexual misconduct",
+          "causes unskillful qualities to grow"
+     ],
+     [
+          "MN114",
+          "sexual misconduct",
+          "definition"
+     ],
+     [
+          "MN114",
+          "skillful qualities (kusala dhamma)",
+          "should cultivate actions that increase"
+     ],
+     [
+          "MN114",
+          "skillfulness (kusala)",
+          "how to develop"
+     ],
+     [
+          "MN114",
+          "stealing, giving up",
+          "causes skillful qualities to grow"
+     ],
+     [
+          "MN114",
+          "stealing, giving up",
+          "definition"
+     ],
+     [
+          "MN114",
+          "stealing",
+          "causes unskillful qualities to grow"
+     ],
+     [
+          "MN114",
+          "stealing",
+          "definition"
+     ],
+     [
+          "MN114",
+          "truthfulness",
+          "causes skillful qualities to grow"
+     ],
+     [
+          "MN114",
+          "truthfulness",
+          "definition"
+     ],
+     [
+          "MN114",
+          "unskillful qualities (akusala dhamma)",
+          "should cultivate actions that decreases"
+     ],
+     [
+          "MN114",
+          "unskillfulness (akusala)",
+          "how to abandon"
+     ],
+     [
+          "MN114",
+          "useless speech (samphappalāpa)",
+          "causes unskillful qualities to grow"
+     ],
+     [
+          "MN114",
+          "useless speech (samphappalāpa)",
+          "definition"
+     ],
+     [
+          "MN114",
+          "useless speech, giving up",
+          "causes skillful qualities to grow"
+     ],
+     [
+          "MN114",
+          "useless speech, giving up",
+          "definition"
+     ],
+     [
+          "MN114",
+          "verbal conduct (vacīsamācāra)",
+          "should and should not be cultivated"
+     ],
+     [
+          "MN114",
+          "wrong view (micchā diṭṭhi)",
+          "should not be cultivated"
+     ],
+     [
+          "MN115",
+          "astute person (paṇḍita)",
+          "danger does not come from"
+     ],
+     [
+          "MN115",
+          "astute person (paṇḍita)",
+          "definition"
+     ],
+     [
+          "MN115",
+          "consciousness ",
+          "as element"
+     ],
+     [
+          "MN115",
+          "dangers",
+          "all come from fools"
+     ],
+     [
+          "MN115",
+          "elements (dhātu)",
+          "eighteen (internal and external bases and consciousness of)"
+     ],
+     [
+          "MN115",
+          "elements (dhātu)",
+          "pleasure, pain, happiness, sadness, equanimity, and ignorance"
+     ],
+     [
+          "MN115",
+          "elements (dhātu)",
+          "six"
+     ],
+     [
+          "MN115",
+          "elements (dhātu)",
+          "skilled in"
+     ],
+     [
+          "MN115",
+          "fools",
+          "cause danger like a fire spreading "
+     ],
+     [
+          "MN115",
+          "fools",
+          "dangers, perils, hazzards come from"
      ],
      [
           "MN117",
@@ -23376,6 +24181,11 @@ export const indexArray =[
      ],
      [
           "Snp3.11",
+          "knowing does not speak much",
+          ""
+     ],
+     [
+          "Snp3.11",
           "monastic life",
           "like licking razor’s edge"
      ],
@@ -23387,11 +24197,6 @@ export const indexArray =[
      [
           "Snp3.11",
           "Suddhodana, king",
-          ""
-     ],
-     [
-          "Snp3.11",
-          "knowing does not speak much",
           ""
      ],
      [
@@ -25091,7 +25896,7 @@ export const indexArray =[
      ],
      [
           "Thag17.2",
-          "bad people",
+          "bad people (asappurisa)",
           "becoming good"
      ],
      [
@@ -25101,7 +25906,7 @@ export const indexArray =[
      ],
      [
           "Thag17.2",
-          "good people",
+          "good people (sappurisa)",
           "becoming bad"
      ],
      [
@@ -26446,7 +27251,7 @@ export const indexArray =[
      ],
      [
           "Ud5.3",
-          "gradual training",
+          "gradual training (anupubbasikkhā)",
           ""
      ],
      [
@@ -26466,6 +27271,11 @@ export const indexArray =[
      ],
      [
           "Ud5.5",
+          "Dhamma",
+          "has one taste"
+     ],
+     [
+          "Ud5.5",
           "asuras",
           "love of ocean"
      ],
@@ -26482,21 +27292,16 @@ export const indexArray =[
      [
           "Ud5.5",
           "Dhamma",
-          "has one taste"
-     ],
-     [
-          "Ud5.5",
-          "Dhamma",
           "simile of ocean"
      ],
      [
           "Ud5.5",
-          "gradual training",
+          "gradual training (anupubbasikkhā)",
           ""
      ],
      [
           "Ud5.5",
-          "gradual training",
+          "gradual training (anupubbasikkhā)",
           "simile of ocean"
      ],
      [
@@ -26566,12 +27371,12 @@ export const indexArray =[
      ],
      [
           "Ud5.8",
-          "bad people",
+          "bad people (asappurisa)",
           "easy to do bad"
      ],
      [
           "Ud5.8",
-          "good people",
+          "good people (sappurisa)",
           "easy to do good"
      ],
      [
@@ -26716,7 +27521,7 @@ export const indexArray =[
      ],
      [
           "Ud7.6",
-          "good people",
+          "good people (sappurisa)",
           "praised by gods"
      ],
      [

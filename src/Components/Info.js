@@ -79,7 +79,7 @@ export default function Info() {
             Complete: <span className="answer">AN 1–6, Kp, Dhp, Ud, Iti, Snp, Vv, Pv, Thag, Thig</span>
           </div>
           <div>
-            In Progress: <span className="answer">AN</span>
+            In Progress: <span className="answer">AN 7–11, MN</span>
           </div>
           <div>
             Planned: <span className="answer">DN, MN, SN, AN</span>
