@@ -591,6 +591,19 @@ a:visited {
   overflow-x: hidden;
 }
 
+.keys {
+  font-family: "Fira Sans";
+  font-weight: 400;
+  background-color: gainsboro;
+  border: solid 0px;
+  border-radius: 5px;
+  padding: .3rem .4rem .2rem .2rem;
+}
+
+.dark .keys {
+  background-color: grey;
+}
+
 .headword-link .link-icon,
 .headword-link .copy-icon {
   visibility: hidden;

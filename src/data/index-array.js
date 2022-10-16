@@ -1071,7 +1071,7 @@ export const indexArray =[
      ],
      [
           "AN1.302",
-          "mindfulness of breathing (ānāpānassati) (ānāpānassati)",
+          "mindfulness of breathing (ānāpānassati)",
           "leads only to nibbāna"
      ],
      [
@@ -1851,7 +1851,7 @@ export const indexArray =[
      ],
      [
           "AN2.56",
-          "paccekabuddha",
+          "paccekabuddhas",
           "one of two kinds of Buddhas"
      ],
      [
@@ -4771,7 +4771,7 @@ export const indexArray =[
      ],
      [
           "AN3.145",
-          "right freedom (sammāvimutti)",
+          "right freedom (sammā vimutti)",
           "quality of arahant"
      ],
      [
@@ -8106,7 +8106,7 @@ export const indexArray =[
      ],
      [
           "AN4.247",
-          "paccekabuddha",
+          "paccekabuddhas",
           "worthy of stupa"
      ],
      [
@@ -19486,7 +19486,7 @@ export const indexArray =[
      ],
      [
           "Kp8",
-          "paccekabuddha",
+          "paccekabuddhas",
           "becoming through merit"
      ],
      [
@@ -22041,6 +22041,16 @@ export const indexArray =[
      ],
      [
           "MN115",
+          "accomplishment in view (diṭṭhisampadā)",
+          "things someone who is cannot do"
+     ],
+     [
+          "MN115",
+          "arahants",
+          "killing"
+     ],
+     [
+          "MN115",
           "astute person (paṇḍita)",
           "danger does not come from"
      ],
@@ -22048,6 +22058,36 @@ export const indexArray =[
           "MN115",
           "astute person (paṇḍita)",
           "definition"
+     ],
+     [
+          "MN115",
+          "Brahmā",
+          "impossible for woman to be "
+     ],
+     [
+          "MN115",
+          "Buddhas",
+          "harming/shedding blood"
+     ],
+     [
+          "MN115",
+          "Buddhas",
+          "impossible for two at the same time "
+     ],
+     [
+          "MN115",
+          "Buddhas",
+          "impossible for woman to be "
+     ],
+     [
+          "MN115",
+          "conditions (saṅkāra)",
+          "taking as permanent"
+     ],
+     [
+          "MN115",
+          "conditions (saṅkāra)",
+          "taking as pleasant"
      ],
      [
           "MN115",
@@ -22061,13 +22101,33 @@ export const indexArray =[
      ],
      [
           "MN115",
+          "dependent origination",
+          "skilled in"
+     ],
+     [
+          "MN115",
+          "elements (dhātu)",
+          "conditioned element and unconditioned element "
+     ],
+     [
+          "MN115",
           "elements (dhātu)",
           "eighteen (internal and external bases and consciousness of)"
      ],
      [
           "MN115",
           "elements (dhātu)",
+          "of the sensual realm, the realm of luminous form, and the formless realm "
+     ],
+     [
+          "MN115",
+          "elements (dhātu)",
           "pleasure, pain, happiness, sadness, equanimity, and ignorance"
+     ],
+     [
+          "MN115",
+          "elements (dhātu)",
+          "sensuality and renunciation, malice and good will, and cruelty and harmlessness "
      ],
      [
           "MN115",
@@ -22090,6 +22150,191 @@ export const indexArray =[
           "dangers, perils, hazzards come from"
      ],
      [
+          "MN115",
+          "Māra",
+          "impossible for woman to be "
+     ],
+     [
+          "MN115",
+          "Sakka, Lord of Gods",
+          "impossible for woman to be "
+     ],
+     [
+          "MN115",
+          "bad actions",
+          "impossible for good results to come from"
+     ],
+     [
+          "MN115",
+          "bad actions",
+          "impossible to lead to good destination"
+     ],
+     [
+          "MN115",
+          "good actions",
+          "impossible for bad results to come from"
+     ],
+     [
+          "MN115",
+          "good actions",
+          "impossible to lead to bad destination"
+     ],
+     [
+          "MN115",
+          "not-self",
+          "all things are"
+     ],
+     [
+          "MN115",
+          "ordinary person (puthujjana)",
+          "possibilities"
+     ],
+     [
+          "MN115",
+          "ordinary person (puthujjana)",
+          "things they can do"
+     ],
+     [
+          "MN115",
+          "parents",
+          "person accomplished in view cannot kill"
+     ],
+     [
+          "MN115",
+          "possible and impossible (ṭhāna aṭṭhāna)",
+          "skilled in what is"
+     ],
+     [
+          "MN115",
+          "possible and impossible (ṭhāna aṭṭhāna)",
+          "things someone who is accomplished in view cannot do "
+     ],
+     [
+          "MN115",
+          "schisms",
+          "person accomplished in view cannot make a"
+     ],
+     [
+          "MN115",
+          "sense bases (āyatanā)",
+          "skilled in"
+     ],
+     [
+          "MN115",
+          "teachers of other religions",
+          "person accomplished in view cannot acknowledge"
+     ],
+     [
+          "MN115",
+          "wheel-turning monarchs",
+          "impossible for two at the same time "
+     ],
+     [
+          "MN115",
+          "wheel-turning monarchs",
+          "impossible for woman to be "
+     ],
+     [
+          "MN116",
+          "Gijjhakūṭa, mountain",
+          ""
+     ],
+     [
+          "MN116",
+          "Isigili, mountain",
+          ""
+     ],
+     [
+          "MN116",
+          "paccekabuddhas",
+          "on Isigili mountain"
+     ],
+     [
+          "MN116",
+          "Paṇḍava, mountain",
+          ""
+     ],
+     [
+          "MN116",
+          "Vebhāra, mountain",
+          ""
+     ],
+     [
+          "MN116",
+          "Vepulla, mountain",
+          ""
+     ],
+     [
+          "MN117",
+          "ascetics and brahmins (samaṇabrāhmaṇā)",
+          "with right and wrong view"
+     ],
+     [
+          "MN117",
+          "awakening factor of investigation of principles (dhammavicayasambojjhaṅg)",
+          ""
+     ],
+     [
+          "MN117",
+          "doctrine of inaction/non-doing (akiriyavādā)",
+          "teachers of"
+     ],
+     [
+          "MN117",
+          "doctrine of nihilism (natthikavādā)",
+          "teachers of"
+     ],
+     [
+          "MN117",
+          "doctrine of no-cause/non-causality (ahetuvādā)",
+          "teachers of"
+     ],
+     [
+          "MN117",
+          "noble eightfold path (ariya aṭṭhangika magga)",
+          ""
+     ],
+     [
+          "MN117",
+          "noble right concentration (ariyo sammāsamādhi)",
+          "conditions of"
+     ],
+     [
+          "MN117",
+          "right action (sammā kammanta)",
+          "two kinds"
+     ],
+     [
+          "MN117",
+          "right effort (sammā vāyāma)",
+          "to give up wrong view, etc."
+     ],
+     [
+          "MN117",
+          "right freedom (sammā vimutti)",
+          "from right knowledge"
+     ],
+     [
+          "MN117",
+          "right intention (sammā saṅkappa)",
+          "two kinds"
+     ],
+     [
+          "MN117",
+          "right knowledge (sammā ñāṇa)",
+          "from right concentration"
+     ],
+     [
+          "MN117",
+          "right livelihood (sammā ājīva)",
+          "two kinds"
+     ],
+     [
+          "MN117",
+          "right mindfulness (sammā sati)",
+          "to give up wrong view, etc."
+     ],
+     [
           "MN117",
           "right speech (sammā vācā)",
           ""
@@ -22101,8 +22346,193 @@ export const indexArray =[
      ],
      [
           "MN117",
+          "right speech (sammā vācā)",
+          "two kinds"
+     ],
+     [
+          "MN117",
+          "right view (sammā diṭṭhi)",
+          "comes first"
+     ],
+     [
+          "MN117",
+          "right view (sammā diṭṭhi)",
+          "two kinds"
+     ],
+     [
+          "MN117",
+          "unification of mind (cittassa ekaggatā)",
+          "condition for noble right concentration"
+     ],
+     [
+          "MN117",
+          "verbal formations (vacīsaṅkhāra)",
+          ""
+     ],
+     [
+          "MN117",
+          "wisdom (paññā)",
+          "faculty"
+     ],
+     [
+          "MN117",
+          "wisdom (paññā)",
+          "power"
+     ],
+     [
+          "MN117",
+          "wrong eightfold path",
+          "removed by noble eightfold path"
+     ],
+     [
+          "MN117",
+          "wrong knowledge (micchā ñāṇa)",
+          "removed by right knowledge"
+     ],
+     [
+          "MN117",
+          "wrong liberation (micchā vimutti)",
+          "removed by right liberation"
+     ],
+     [
+          "MN117",
+          "wrong livelihood (micchā ājīva)",
+          "definition"
+     ],
+     [
+          "MN117",
           "wrong speech (micchā vacā)",
           ""
+     ],
+     [
+          "MN117",
+          "wrong view (micchā diṭṭhi)",
+          "definition"
+     ],
+     [
+          "MN118",
+          "awakening factors, seven (bojjhaṅga)",
+          "fulfil knowledge and freedom"
+     ],
+     [
+          "MN118",
+          "awakening factors, seven (bojjhaṅga)",
+          "monks committed to developing"
+     ],
+     [
+          "MN118",
+          "bases of psychic power (iddhipāda)",
+          "monks committed to developing"
+     ],
+     [
+          "MN118",
+          "bodily formation (kāyasaṅkhāra)",
+          "mindfulness of breathing"
+     ],
+     [
+          "MN118",
+          "body",
+          "mindfulness of breathing"
+     ],
+     [
+          "MN118",
+          "compassion (karuna)",
+          "monks committed to developing"
+     ],
+     [
+          "MN118",
+          "concentration (samādhi)",
+          "mindfulness of breathing"
+     ],
+     [
+          "MN118",
+          "cross-legged (pallaṅka)",
+          "mindfulness of breathing"
+     ],
+     [
+          "MN118",
+          "foundations of mindfulness (satipaṭṭhāna)",
+          "fulfils the seven awakening factors"
+     ],
+     [
+          "MN118",
+          "foundations of mindfulness (satipaṭṭhāna)",
+          "monks committed to developing"
+     ],
+     [
+          "MN118",
+          "Komudi full moon ",
+          ""
+     ],
+     [
+          "MN118",
+          "faculties (indriya)",
+          "monks committed to developing"
+     ],
+     [
+          "MN118",
+          "happiness (sukha)",
+          "mindfulness of breathing (bliss)"
+     ],
+     [
+          "MN118",
+          "impermanence meditation (aniccasaññābhāvanā)",
+          "monks committed to developing"
+     ],
+     [
+          "MN118",
+          "loving-kindness (mettā)",
+          "monks committed to developing"
+     ],
+     [
+          "MN118",
+          "meditation on ugliness (asubhabhāvanā)",
+          "monks committed to developing"
+     ],
+     [
+          "MN118",
+          "mind",
+          "mindfulness of breathing"
+     ],
+     [
+          "MN118",
+          "mindfulness of breathing (ānāpānassati)",
+          "fulfils the four foundations of mindfulness meditation"
+     ],
+     [
+          "MN118",
+          "mindfulness of breathing (ānāpānassati)",
+          "instructions"
+     ],
+     [
+          "MN118",
+          "mindfulness of breathing (ānāpānassati)",
+          "monks committed to developing"
+     ],
+     [
+          "MN118",
+          "noble eightfold path (ariya aṭṭhangika magga)",
+          "monks committed to developing"
+     ],
+     [
+          "MN118",
+          "powers (bala)",
+          "monks committed to developing"
+     ],
+     [
+          "MN118",
+          "rapture (pīti)",
+          "mindfulness of breathing"
+     ],
+     [
+          "MN118",
+          "right effort (sammā vāyāma)",
+          "monks committed to developing"
+     ],
+     [
+          "MN118",
+          "uposatha",
+          "sermon given on"
      ],
      [
           "MN119",
@@ -22736,7 +23166,7 @@ export const indexArray =[
      ],
      [
           "Pv41",
-          "paccekabuddha",
+          "paccekabuddhas",
           "disparaging"
      ],
      [
@@ -22761,7 +23191,7 @@ export const indexArray =[
      ],
      [
           "Pv42",
-          "paccekabuddha",
+          "paccekabuddhas",
           "disparaging"
      ],
      [
@@ -27111,7 +27541,7 @@ export const indexArray =[
      ],
      [
           "Ud4.1",
-          "mindfulness of breathing (ānāpānassati) (ānāpānassati)",
+          "mindfulness of breathing (ānāpānassati)",
           "to cut off thinking"
      ],
      [
@@ -27261,7 +27691,7 @@ export const indexArray =[
      ],
      [
           "Ud5.3",
-          "paccekabuddha",
+          "paccekabuddhas",
           "disparaging"
      ],
      [

@@ -13,6 +13,8 @@ export default function SearchResults(props) {
     document.getElementById("search-results").classList.remove("hidden");
   }
 
+  let hasResults = false;
+
   return (
     <>
       <div id="search-results" className="search-results dropdown-list hidden hideable-area">
@@ -21,6 +23,7 @@ export default function SearchResults(props) {
             if (searchText.length < 2) return null;
             const regex = new RegExp(fuzz(searchText), "gi");
             if (regex.test(fuzz(headword))) {
+              hasResults = true;
               return (
                 <a
                   className="search-result"
@@ -34,6 +37,13 @@ export default function SearchResults(props) {
             }
             return null;
           })}
+          {!hasResults ? (
+            <span>
+              No results. Try <span className="keys">Ctrl + f</span> for a browser search.
+            </span>
+          ) : (
+            ""
+          )}
         </ul>
       </div>
     </>
