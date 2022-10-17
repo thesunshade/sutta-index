@@ -899,7 +899,7 @@ loving-kindness (mettā)		Dhp368
 sense pleasures (kāma, kāmaguṇa)	simile of iron ball	Dhp371
 wisdom (paññā)	concentration and	Dhp372
 concentration (samādhi)	wisdom	Dhp372
-mindfulness		Dhp374
+mindfulness (sati)		Dhp374
 monastic rules (vinaya)		Dhp375
 restraint		Dhp375
 friendship		Dhp376
@@ -1141,7 +1141,7 @@ arahants	with something left over (saupādisesā)	Iti44
 arahants	with nothing left over (anupādisesa)	Iti44
 wakefulness (jāgara)		Iti47
 celibacy	false claim of	Iti48
-monks		xref mendicant
+monks		xref mendicants
 mendicants	evil	Iti48
 iron ball	eating	Iti48
 existence	love of	Iti49
@@ -1917,7 +1917,7 @@ bathing	as ritual	Thag5.7
 recollection of Buddha (buddhānussati)		Thag5.8
 mind	caging like an elephant	Thag5.9
 mind	trained like a horse	Thag5.9
-mindfulness	binding with	Thag5.9
+mindfulness (sati)	binding with	Thag5.9
 listening to Dhamma	fault-finding	Thag5.10
 reciting Dhamma	to the Buddha	Thag5.11
 reciting Dhamma	to the Buddha	Ud5.6
@@ -2104,8 +2104,8 @@ Māra	attacks the Buddha	Thag20.1
 wrong views	sixty	Thag21.1
 Sāriputta, Ven.	praise of	Thag21.1
 Aññā Koṇḍañña, Ven.	praise of	Thag21.1
-Moggallāna, Ven	praise of	Thag21.1
-Mahā Moggallāna		xref Moggallāna, Ven
+Moggallāna, Ven.	praise of	Thag21.1
+Mahā Moggallāna		xref Moggallāna, Ven.
 poetry	drunk on	Thag21.1
 Nigrodhakappa, Ven		Thag21.1
 kodha		xref anger (kodha)
@@ -3070,7 +3070,7 @@ Buddhas	all respected the Dhamma	AN4.21
 Buddha, the	not bowing to elders	AN4.22
 seniority	true meaning	AN4.22
 Buddha, the	knowledge of the Buddha	AN4.24
-non-identification	with seen, heard, thought, known	AN4.24
+non-identification (atammayatā)	with seen, heard, thought, known	AN4.24
 monastic life	goal of	AN4.25
 monastic life	wrongly practiced	AN4.25
 monastic life	for the sake of gain	AN4.25
@@ -3464,7 +3464,7 @@ enduring 	as a practice	AN4.165
 sense restraint (indriyasaṁvara) 	as taming practice	AN4.165
 not tolerating unwholesome	as calming practice	AN4.165
 practicing		AN4.166
-Moggallāna, Ven	type of practice	AN4.167
+Moggallāna, Ven.	type of practice	AN4.167
 Sāriputta, Ven.	type of practice	AN4.168
 practicing		AN4.169
 stages of enlightenment		AN4.169
@@ -3475,7 +3475,7 @@ concentration (samādhi)	and serenity and insight	AN4.170
 enlightenment	four paths	AN4.170
 arahants	paths to becoming arahant	AN4.170
 analytical knowledge (paṭisambhidā)	of Mahā Moggallāna	AN4.172
-Moggallāna, Ven	analytical knowledge	AN4.172
+Moggallāna, Ven.	analytical knowledge	AN4.172
 Mahākoṭṭhita, Ven		AN4.173
 Sāriputta, Ven.		AN4.173
 sense contact	when they cease, does something remain	AN4.173
@@ -3484,7 +3484,7 @@ Mahākoṭṭhita, Ven		AN4.174
 end maker (antakara)		AN4.175
 Sāriputta, Ven.		AN4.175
 Upavāṇa, Ven.		AN4.175
-Moggallāna, Ven	standard to aspire to	AN4.176
+Moggallāna, Ven.	standard to aspire to	AN4.176
 Sāriputta, Ven.	standard to aspire to	AN4.176
 Khemā, Ven.	standard to aspire to	AN4.176
 Uppalavaṇṇā, Ven.	standard to aspire to	AN4.176
@@ -3796,7 +3796,7 @@ powers 	five: definition	AN5.14
 powers 	five: where they are seen	AN5.15
 faith (saddhā)	power: seen in factors of stream entry	AN5.15
 energy (vīriya)	power: seen in four right efforts	AN5.15
-mindfulness	power: seen in four foundations of	AN5.15
+mindfulness (sati)	power: seen in four foundations of	AN5.15
 concentration (samādhi)	power: seen in jhāna	AN5.15
 wisdom (paññā)	power: seen in four noble truths	AN5.15
 roof peak	like wisdom	AN5.16
@@ -4009,13 +4009,13 @@ banner and burden put down	definition	AN5.71
 perception of impermanence (aniccasañña)	result in cetovimutti	AN5.72
 perception of suffering (dukkhasañña)	result in cetovimutti	AN5.72
 perception of suffering in impermanence (dukkhe anattasañña)	result in cetovimutti	AN5.72
-perception of giving up (pahānasaññ)	result in cetovimutti	AN5.72
-perception of fading away (virāgasaññ)	result in cetovimutti	AN5.72
+perception of giving up (pahānasañña)	result in cetovimutti	AN5.72
+perception of fading away (virāgasañña)	result in cetovimutti	AN5.72
 perception of impermanence (aniccasañña)	result in paññāvmutti	AN5.72
 perception of suffering (dukkhasañña)	result in paññāvmutti	AN5.72
 perception of suffering in impermanence (dukkhe anattasañña)	result in paññāvmutti	AN5.72
-perception of giving up (pahānasaññ)	result in paññāvmutti	AN5.72
-perception of fading away (virāgasaññ)	result in paññāvmutti	AN5.72
+perception of giving up (pahānasañña)	result in paññāvmutti	AN5.72
+perception of fading away (virāgasañña)	result in paññāvmutti	AN5.72
 learning	without practicing	AN5.73
 learning	living in line with what has been learned	AN5.73
 living according to the teachings (dhammavihārī)	definition	AN5.73
@@ -5131,7 +5131,7 @@ conceit of superiority (atimāna)	prevents arahantship	AN6.76
 overestimation (adhimāna)	prevents arahantship	AN6.76
 obstinacy (thambha)	prevents arahantship	AN6.76
 superhuman states (uttari manussadhamma)	qualities needed to reach	AN6.77
-mindfulness	needed to reach superhuman states	AN6.77
+mindfulness (sati)	needed to reach superhuman states	AN6.77
 situational awareness (sampajañña)	needed to reach superhuman states	AN6.77
 sense doors, guarding (indriyesu guttadvāra)	needed to reach superhuman states	AN6.77
 eating in moderation	needed to reach superhuman states	AN6.77
@@ -5287,13 +5287,13 @@ faith (saddhā)	definition	AN7.4
 energy (vīriya)	definition	AN7.4
 conscience (hiri)	definition	AN7.4
 prudence (ottāpa)	definition	AN7.4
-mindfulness	definition	AN7.4
+mindfulness (sati)	definition	AN7.4
 wisdom (paññā)	definition	AN7.4
 faith (saddhā)	power	AN7.4
 energy (vīriya)	power	AN7.4
 conscience (hiri)	power	AN7.4
 prudence (ottāpa)	power	AN7.4
-mindfulness	power	AN7.4
+mindfulness (sati)	power	AN7.4
 wisdom (paññā)	power	AN7.4
 concentration (samādhi)	power	AN7.4
 Dhamma	examination of	AN7.4
@@ -5367,15 +5367,15 @@ faith (saddhā)	prevents decline	AN7.25
 conscience and prudence (hiri ottappa)	prevents decline	AN7.25
 learning	prevents decline	AN7.25
 energy (vīriya)	prevents decline	AN7.25
-mindfulness	prevents decline	AN7.25
+mindfulness (sati)	prevents decline	AN7.25
 wisdom (paññā)	prevents decline	AN7.25
 awakening factors, seven (bojjhaṅga)	prevent decline	AN7.26
 perception of impermanence (aniccasañña)	prevent decline	AN7.27
 perception of not self (anattasañña)	prevent decline	AN7.27
 perception of ugliness (asubhasañña)	prevent decline	AN7.27
 perception of danger/drawback (ādīnavasañña)	prevent decline	AN7.27
-perception of giving up (pahānasaññ)	prevent decline	AN7.27
-perception of fading away (virāgasaññ)	prevent decline	AN7.27
+perception of giving up (pahānasañña)	prevent decline	AN7.27
+perception of fading away (virāgasañña)	prevent decline	AN7.27
 perception of cessation (nirodhasañña)	prevent decline	AN7.27
 trainee (sekha)	things that lead to decline	AN7.28
 work	caught up in	AN7.28
@@ -5642,7 +5642,7 @@ happiness (sukha)	gained through pain/suffering	MN101
 jhānas	as a result of proper striving	MN101
 recollection of past lives	as a result of proper striving	MN101
 knowledge of destruction of the taints (āsavakkhayañāṇa)	as a result of proper striving	MN101
-Nibbāna here and now (diṭṭhadhammanibbāna)	view of	MN102
+nibbāna here and now (diṭṭhadhammanibbāna)	view of	MN102
 views of other sects		MN102
 views about the self (attavāda)		MN102
 eternalism (sassatavāda)		MN102
@@ -6206,3 +6206,83 @@ rapture (pīti)	mindfulness of breathing	MN118
 happiness (sukha)	mindfulness of breathing (bliss)	MN118
 mind	mindfulness of breathing	MN118
 concentration (samādhi)	mindfulness of breathing	MN118
+impermanence, observing (aniccānupassī)	mindfulness of breathing	MN118
+cessation (nirodha)	mindfulness of breathing	MN118
+fading away (virāga)	mindfulness of breathing	MN118
+letting go (paṭinissagga)	mindfulness of breathing	MN118
+relinquishment		xref letting go (paṭinissagga)
+foundations of mindfulness (satipaṭṭhāna)	fulfilled by mindfulness of breathing	MN118
+mindfulness of body (kāyānupassana)	mindfulness of breathing	MN118
+mindfulness of feeling (vedanānupassana)	mindfulness of breathing	MN118
+mindfulness of mind (cittānupass)	mindfulness of breathing	MN118
+mindfulness of mind objects (dhammānupassana)	mindfulness of breathing	MN118
+equanimity (upekkhā)	mindfulness of breathing	MN118
+awakening factor of mindfulness (satisambojjhaṅga)	mindfulness of breathing	MN118
+mindfulness factor of enlightenment (satisambojjhaṅga)		xref awakening factor of mindfulness (satisambojjhaṅga)
+awakening factor of investigation of principles (dhammavicayasambojjhaṅg)	mindfulness of breathing	MN118
+investigation-of-states enlightenment factor		xref awakening factor of investigation of principles (dhammavicayasambojjhaṅg)
+awakening factor of energy (vīriyasambojjhaṅga)	mindfulness of breathing	MN118
+energy enlightenment factor		xref awakening factor of energy (vīriyasambojjhaṅga)
+awakening factor of rapture (pītisambojjhaṅga)	mindfulness of breathing	MN118
+rapture enlightenment factor		xref awakening factor of rapture (pītisambojjhaṅga)
+awakening factor of tranquility (passaddhisambojjhaṅga)	mindfulness of breathing	MN118
+tranquillity enlightenment factor		xref awakening factor of tranquility (passaddhisambojjhaṅga)
+awakening factor of immersion (samādhisambojjhaṅga)	mindfulness of breathing	MN118
+concentration enlightenment factor		xref awakening factor of immersion (samādhisambojjhaṅga)
+awakening factor of equanimity (upekkhāsambojjhaṅga)	mindfulness of breathing	MN118
+equanimity enlightenment factor		xref awakening factor of equanimity (upekkhāsambojjhaṅga)
+deliverance (vimutti)		xref freedom (vimutti)
+knowledge and freedom (vijjāvimutti)	awakening factors leading to	MN118
+knowledge and freedom (vijjāvimutti)	mindfulness of breathing	MN118
+incredible and amazing (acchariyā abbhutā)	Buddha’s teachings on mindfulness of the body	MN119
+mindfulness of body (kāyagatāsati)	in detail	MN119
+mindfulness of body (kāyagatāsati)	very fruitful and beneficial	MN119
+mindfulness of body (kāyagatāsati)	mindfulness of breathing	MN119
+mindfulness of body (kāyagatāsati)	postures	MN119
+mindfulness of body (kāyagatāsati)	concentration and	MN119
+postures	mindfulness of body	MN119
+situational awareness (sampajañña)	mindfulness of body	MN119
+mindfulness of body (kāyagatāsati)	situational awareness (sampajañña)	MN119
+full awareness (sampajañña)		xref situational awareness (sampajañña)
+eating	situational awareness (sampajañña)	MN119
+perception of ugliness (asubhasañña)	mindfulness of body	MN119
+mindfulness of body (kāyagatāsati)	ugliness	MN119
+lay life	memories and thoughts of	MN119
+body	like a bag of grains	MN119
+bag of grains	like parts of body	MN119
+elements (dhātu)	mindfulness of body	MN119
+mindfulness of body	elements	MN119
+body	like cuts of meat	MN119
+meat, cuts of	like elements in body	MN119
+charnel ground contemplation (sivathika)	mindfulness of body	MN119
+jhānas	similes for	MN119
+bath attendant	simile for first jhāna	MN119
+bath powder	simile for first jhāna	MN119
+lake	simile for second jhāna	MN119
+water lilly	simile for third jhāna	MN119
+lotus	simile for third jhāna	MN119
+mind	pure and bright in fourth jhāna	MN119
+white cloth	covering person, simile for fourth Jhana	MN119
+mindfulness of body (kāyagatāsati)	includes all skillful qualities	MN119
+skillful qualities (kusala dhamma)	all developed with mindfulness of the body, like the ocean includes all streams	MN119
+Māra	finding vulnerabilities	MN119
+stone	and wet clay, simile of Māra finding vulnerabilities	MN119
+clay	and stone, simile of Māra finding vulnerabilities	MN119
+log	dried, simile of Māra finding vulnerabilities	MN119
+jar	full of water, simile of Māra finding vulnerabilities	MN119
+ball of string	and hard door, simile of Māra finding vulnerabilities	MN119
+pond	lotus, simile of Māra finding vulnerabilities	MN119
+chariot	ready at crossroad, simile of person who has developed mindfulness of body	MN119
+discontent (arati)	mindfulness of the body overcomes	MN119
+delight (rati)	mindfulness of the body overcomes	MN119
+fear (bhaya)	mindfulness of the body overcomes	MN119
+dread (bherava)	mindfulness of the body overcomes	MN119
+enduring (khama)	mindfulness of the body helps one to achieve	MN119
+jhānas	mindfulness of the body helps one to achieve	MN119
+psychic powers	mindfulness of the body helps one to achieve	MN119
+divine ear (dibbāsota)	mindfulness of the body helps one to achieve	MN119
+mind reading	mindfulness of the body helps one to achieve	MN119
+recollection of past lives	mindfulness of the body helps one to achieve	MN119
+knowledge of passing away and rebirth of beings (cutūpapātañāna)	mindfulness of the body helps one to achieve	MN119
+heart’s release (cetovimutti)	mindfulness of the body helps one to achieve	MN119
+release by wisdom (paññavimutti)	mindfulness of the body helps one to achieve	MN119

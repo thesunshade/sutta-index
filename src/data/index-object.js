@@ -2257,10 +2257,64 @@ export const indexObject ={
                     "xrefs": []
                }
           },
+          "awakening factor of energy (vīriyasambojjhaṅga)": {
+               "mindfulness of breathing": {
+                    "locators": [
+                         "MN118"
+                    ],
+                    "xrefs": []
+               }
+          },
+          "awakening factor of equanimity (upekkhāsambojjhaṅga)": {
+               "mindfulness of breathing": {
+                    "locators": [
+                         "MN118"
+                    ],
+                    "xrefs": []
+               }
+          },
+          "awakening factor of immersion (samādhisambojjhaṅga)": {
+               "mindfulness of breathing": {
+                    "locators": [
+                         "MN118"
+                    ],
+                    "xrefs": []
+               }
+          },
           "awakening factor of investigation of principles (dhammavicayasambojjhaṅg)": {
                "": {
                     "locators": [
                          "MN117"
+                    ],
+                    "xrefs": []
+               },
+               "mindfulness of breathing": {
+                    "locators": [
+                         "MN118"
+                    ],
+                    "xrefs": []
+               }
+          },
+          "awakening factor of mindfulness (satisambojjhaṅga)": {
+               "mindfulness of breathing": {
+                    "locators": [
+                         "MN118"
+                    ],
+                    "xrefs": []
+               }
+          },
+          "awakening factor of rapture (pītisambojjhaṅga)": {
+               "mindfulness of breathing": {
+                    "locators": [
+                         "MN118"
+                    ],
+                    "xrefs": []
+               }
+          },
+          "awakening factor of tranquility (passaddhisambojjhaṅga)": {
+               "mindfulness of breathing": {
+                    "locators": [
+                         "MN118"
                     ],
                     "xrefs": []
                }
@@ -2709,6 +2763,14 @@ export const indexObject ={
                     "xrefs": []
                }
           },
+          "bag of grains": {
+               "like parts of body": {
+                    "locators": [
+                         "MN119"
+                    ],
+                    "xrefs": []
+               }
+          },
           "Bāhiya Dārucīriya, Ven.": {
                "": {
                     "locators": [
@@ -2727,6 +2789,14 @@ export const indexObject ={
                "foremost with good health": {
                     "locators": [
                          "AN1.226"
+                    ],
+                    "xrefs": []
+               }
+          },
+          "ball of string": {
+               "and hard door, simile of Māra finding vulnerabilities": {
+                    "locators": [
+                         "MN119"
                     ],
                     "xrefs": []
                }
@@ -2783,6 +2853,22 @@ export const indexObject ={
                "monks committed to developing": {
                     "locators": [
                          "MN118"
+                    ],
+                    "xrefs": []
+               }
+          },
+          "bath attendant": {
+               "simile for first jhāna": {
+                    "locators": [
+                         "MN119"
+                    ],
+                    "xrefs": []
+               }
+          },
+          "bath powder": {
+               "simile for first jhāna": {
+                    "locators": [
+                         "MN119"
                     ],
                     "xrefs": []
                }
@@ -3342,6 +3428,18 @@ export const indexObject ={
                "mindfulness of breathing": {
                     "locators": [
                          "MN118"
+                    ],
+                    "xrefs": []
+               },
+               "like a bag of grains": {
+                    "locators": [
+                         "MN119"
+                    ],
+                    "xrefs": []
+               },
+               "like cuts of meat": {
+                    "locators": [
+                         "MN119"
                     ],
                     "xrefs": []
                }
@@ -4338,6 +4436,12 @@ export const indexObject ={
                          "MN102"
                     ],
                     "xrefs": []
+               },
+               "mindfulness of breathing": {
+                    "locators": [
+                         "MN118"
+                    ],
+                    "xrefs": []
                }
           },
           "cessation of perception and feeling (saññāvedayitanirodha)": {
@@ -4384,6 +4488,14 @@ export const indexObject ={
                     "xrefs": []
                }
           },
+          "chariot": {
+               "ready at crossroad, simile of person who has developed mindfulness of body": {
+                    "locators": [
+                         "MN119"
+                    ],
+                    "xrefs": []
+               }
+          },
           "chariot-maker": {
                "Bodhisatta as": {
                     "locators": [
@@ -4419,6 +4531,12 @@ export const indexObject ={
                "topic of reflection": {
                     "locators": [
                          "AN6.29"
+                    ],
+                    "xrefs": []
+               },
+               "mindfulness of body": {
+                    "locators": [
+                         "MN119"
                     ],
                     "xrefs": []
                }
@@ -4560,6 +4678,14 @@ export const indexObject ={
                     "xrefs": [
                          "xref divine ear (dibbā sotadhātu)"
                     ]
+               }
+          },
+          "clay": {
+               "and stone, simile of Māra finding vulnerabilities": {
+                    "locators": [
+                         "MN119"
+                    ],
+                    "xrefs": []
                }
           },
           "clean cloth": {
@@ -4944,6 +5070,14 @@ export const indexObject ={
                          "MN118"
                     ],
                     "xrefs": []
+               }
+          },
+          "concentration enlightenment factor": {
+               "": {
+                    "locators": [],
+                    "xrefs": [
+                         "xref awakening factor of immersion (samādhisambojjhaṅga)"
+                    ]
                }
           },
           "concord": {
@@ -6493,6 +6627,22 @@ export const indexObject ={
                     "xrefs": []
                }
           },
+          "delight (rati)": {
+               "mindfulness of the body overcomes": {
+                    "locators": [
+                         "MN119"
+                    ],
+                    "xrefs": []
+               }
+          },
+          "deliverance (vimutti)": {
+               "": {
+                    "locators": [],
+                    "xrefs": [
+                         "xref freedom (vimutti)"
+                    ]
+               }
+          },
           "delusion (moha)": {
                "giving up guarentees non-return": {
                     "locators": [
@@ -7570,6 +7720,12 @@ export const indexObject ={
                          "AN6.113"
                     ],
                     "xrefs": []
+               },
+               "mindfulness of the body overcomes": {
+                    "locators": [
+                         "MN119"
+                    ],
+                    "xrefs": []
                }
           },
           "discontent (asantuṭṭhi)": {
@@ -7884,6 +8040,12 @@ export const indexObject ={
                          "MN108"
                     ],
                     "xrefs": []
+               },
+               "mindfulness of the body helps one to achieve": {
+                    "locators": [
+                         "MN119"
+                    ],
+                    "xrefs": []
                }
           },
           "divine eye (dibbacakkhu)": {
@@ -8121,6 +8283,14 @@ export const indexObject ={
                     ]
                }
           },
+          "dread (bherava)": {
+               "mindfulness of the body overcomes": {
+                    "locators": [
+                         "MN119"
+                    ],
+                    "xrefs": []
+               }
+          },
           "dreams": {
                "of the Bodhisatta": {
                     "locators": [
@@ -8302,6 +8472,12 @@ export const indexObject ={
                          "MN107"
                     ],
                     "xrefs": []
+               },
+               "situational awareness (sampajañña)": {
+                    "locators": [
+                         "MN119"
+                    ],
+                    "xrefs": []
                }
           },
           "eating in moderation": {
@@ -8476,6 +8652,12 @@ export const indexObject ={
                "conditioned element and unconditioned element": {
                     "locators": [
                          "MN115"
+                    ],
+                    "xrefs": []
+               },
+               "mindfulness of body": {
+                    "locators": [
+                         "MN119"
                     ],
                     "xrefs": []
                }
@@ -8699,6 +8881,12 @@ export const indexObject ={
                          "AN7.36"
                     ],
                     "xrefs": []
+               },
+               "mindfulness of the body helps one to achieve": {
+                    "locators": [
+                         "MN119"
+                    ],
+                    "xrefs": []
                }
           },
           "enduring (khanta)": {
@@ -8817,6 +9005,14 @@ export const indexObject ={
                          "AN7.25"
                     ],
                     "xrefs": []
+               }
+          },
+          "energy enlightenment factor": {
+               "": {
+                    "locators": [],
+                    "xrefs": [
+                         "xref awakening factor of energy (vīriyasambojjhaṅga)"
+                    ]
                }
           },
           "energy, stirring up (vīriyārambha)": {
@@ -8981,6 +9177,20 @@ export const indexObject ={
                          "MN106"
                     ],
                     "xrefs": []
+               },
+               "mindfulness of breathing": {
+                    "locators": [
+                         "MN118"
+                    ],
+                    "xrefs": []
+               }
+          },
+          "equanimity enlightenment factor": {
+               "": {
+                    "locators": [],
+                    "xrefs": [
+                         "xref awakening factor of equanimity (upekkhāsambojjhaṅga)"
+                    ]
                }
           },
           "escape (nissaraṇa)": {
@@ -9342,6 +9552,14 @@ export const indexObject ={
                     ]
                },
                "monks committed to developing": {
+                    "locators": [
+                         "MN118"
+                    ],
+                    "xrefs": []
+               }
+          },
+          "fading away (virāga)": {
+               "mindfulness of breathing": {
                     "locators": [
                          "MN118"
                     ],
@@ -9811,6 +10029,12 @@ export const indexObject ={
                          "AN2.57",
                          "AN2.58",
                          "AN2.59"
+                    ],
+                    "xrefs": []
+               },
+               "mindfulness of the body overcomes": {
+                    "locators": [
+                         "MN119"
                     ],
                     "xrefs": []
                }
@@ -10468,6 +10692,12 @@ export const indexObject ={
                          "MN118"
                     ],
                     "xrefs": []
+               },
+               "fulfilled by mindfulness of breathing": {
+                    "locators": [
+                         "MN118"
+                    ],
+                    "xrefs": []
                }
           },
           "Four Great Kings, the (catumahārāja)": {
@@ -10756,6 +10986,14 @@ export const indexObject ={
                          "AN5.222"
                     ],
                     "xrefs": []
+               }
+          },
+          "full awareness (sampajañña)": {
+               "": {
+                    "locators": [],
+                    "xrefs": [
+                         "xref situational awareness (sampajañña)"
+                    ]
                }
           },
           "fundamentals of the spiritual life (ādibrahmacariya)": {
@@ -13571,6 +13809,12 @@ export const indexObject ={
                          "Iti103"
                     ],
                     "xrefs": []
+               },
+               "mindfulness of the body helps one to achieve": {
+                    "locators": [
+                         "MN119"
+                    ],
+                    "xrefs": []
                }
           },
           "heart’s release by compassion (karuṇā cetovimutti)": {
@@ -14927,6 +15171,14 @@ export const indexObject ={
                     "xrefs": []
                }
           },
+          "impermanence, observing (aniccānupassī)": {
+               "mindfulness of breathing": {
+                    "locators": [
+                         "MN118"
+                    ],
+                    "xrefs": []
+               }
+          },
           "imperturbable (āneñja)": {
                "discussion of": {
                     "locators": [
@@ -15061,6 +15313,12 @@ export const indexObject ={
                "events connected with the Buddha": {
                     "locators": [
                          "AN4.127"
+                    ],
+                    "xrefs": []
+               },
+               "Buddha’s teachings on mindfulness of the body": {
+                    "locators": [
+                         "MN119"
                     ],
                     "xrefs": []
                }
@@ -15344,6 +15602,14 @@ export const indexObject ={
                     ]
                }
           },
+          "investigation-of-states enlightenment factor": {
+               "": {
+                    "locators": [],
+                    "xrefs": [
+                         "xref awakening factor of investigation of principles (dhammavicayasambojjhaṅg)"
+                    ]
+               }
+          },
           "iron ball": {
                "eating": {
                     "locators": [
@@ -15423,6 +15689,14 @@ export const indexObject ={
                "asking about groups of people": {
                     "locators": [
                          "AN6.52"
+                    ],
+                    "xrefs": []
+               }
+          },
+          "jar": {
+               "full of water, simile of Māra finding vulnerabilities": {
+                    "locators": [
+                         "MN119"
                     ],
                     "xrefs": []
                }
@@ -15537,6 +15811,7 @@ export const indexObject ={
                },
                "similes for": {
                     "locators": [
+                         "MN119",
                          "AN5.28",
                          "AN6.60"
                     ],
@@ -15618,6 +15893,12 @@ export const indexObject ={
                "not a reason to become arrogant": {
                     "locators": [
                          "MN113"
+                    ],
+                    "xrefs": []
+               },
+               "mindfulness of the body helps one to achieve": {
+                    "locators": [
+                         "MN119"
                     ],
                     "xrefs": []
                }
@@ -16010,6 +16291,20 @@ export const indexObject ={
                     "xrefs": []
                }
           },
+          "knowledge and freedom (vijjāvimutti)": {
+               "awakening factors leading to": {
+                    "locators": [
+                         "MN118"
+                    ],
+                    "xrefs": []
+               },
+               "mindfulness of breathing": {
+                    "locators": [
+                         "MN118"
+                    ],
+                    "xrefs": []
+               }
+          },
           "knowledge and vision (ñāṇadassana)": {
                "perception of light leads to": {
                     "locators": [
@@ -16092,6 +16387,12 @@ export const indexObject ={
                "respecting a monk who has": {
                     "locators": [
                          "MN108"
+                    ],
+                    "xrefs": []
+               },
+               "mindfulness of the body helps one to achieve": {
+                    "locators": [
+                         "MN119"
                     ],
                     "xrefs": []
                }
@@ -16210,6 +16511,14 @@ export const indexObject ={
           }
      },
      "L": {
+          "lake": {
+               "simile for second jhāna": {
+                    "locators": [
+                         "MN119"
+                    ],
+                    "xrefs": []
+               }
+          },
           "Lakuṇṭaka Bhaddiya, Ven.": {
                "foremost with a beautiful voice": {
                     "locators": [
@@ -16304,6 +16613,12 @@ export const indexObject ={
                "right and wrong practice": {
                     "locators": [
                          "AN2.40"
+                    ],
+                    "xrefs": []
+               },
+               "memories and thoughts of": {
+                    "locators": [
+                         "MN119"
                     ],
                     "xrefs": []
                }
@@ -16598,6 +16913,14 @@ export const indexObject ={
                "prevents decline": {
                     "locators": [
                          "AN7.25"
+                    ],
+                    "xrefs": []
+               }
+          },
+          "letting go (paṭinissagga)": {
+               "mindfulness of breathing": {
+                    "locators": [
+                         "MN118"
                     ],
                     "xrefs": []
                }
@@ -17002,6 +17325,14 @@ export const indexObject ={
                     ]
                }
           },
+          "log": {
+               "dried, simile of Māra finding vulnerabilities": {
+                    "locators": [
+                         "MN119"
+                    ],
+                    "xrefs": []
+               }
+          },
           "logic (takkahetu)": {
                "going by": {
                     "locators": [
@@ -17100,6 +17431,14 @@ export const indexObject ={
                "of relatives": {
                     "locators": [
                          "MN82"
+                    ],
+                    "xrefs": []
+               }
+          },
+          "lotus": {
+               "simile for third jhāna": {
+                    "locators": [
+                         "MN119"
                     ],
                     "xrefs": []
                }
@@ -17686,7 +18025,7 @@ export const indexObject ={
                "": {
                     "locators": [],
                     "xrefs": [
-                         "xref Moggallāna, Ven"
+                         "xref Moggallāna, Ven."
                     ]
                }
           },
@@ -17970,6 +18309,12 @@ export const indexObject ={
                          "MN106"
                     ],
                     "xrefs": []
+               },
+               "finding vulnerabilities": {
+                    "locators": [
+                         "MN119"
+                    ],
+                    "xrefs": []
                }
           },
           "maraṇa": {
@@ -18096,6 +18441,14 @@ export const indexObject ={
                "": {
                     "locators": [
                          "Snp2.2"
+                    ],
+                    "xrefs": []
+               }
+          },
+          "meat, cuts of": {
+               "like elements in body": {
+                    "locators": [
+                         "MN119"
                     ],
                     "xrefs": []
                }
@@ -18929,6 +19282,12 @@ export const indexObject ={
                          "MN118"
                     ],
                     "xrefs": []
+               },
+               "pure and bright in fourth jhāna": {
+                    "locators": [
+                         "MN119"
+                    ],
+                    "xrefs": []
                }
           },
           "mind reading": {
@@ -18953,6 +19312,12 @@ export const indexObject ={
                "respecting a monk who can": {
                     "locators": [
                          "MN108"
+                    ],
+                    "xrefs": []
+               },
+               "mindfulness of the body helps one to achieve": {
+                    "locators": [
+                         "MN119"
                     ],
                     "xrefs": []
                }
@@ -18982,7 +19347,7 @@ export const indexObject ={
                     "xrefs": []
                }
           },
-          "mindfulness": {
+          "mindfulness (sati)": {
                "": {
                     "locators": [
                          "Dhp374"
@@ -19024,9 +19389,7 @@ export const indexObject ={
                          "AN7.25"
                     ],
                     "xrefs": []
-               }
-          },
-          "mindfulness (sati)": {
+               },
                "leads to enlightenment soon": {
                     "locators": [
                          "AN7.60"
@@ -19036,6 +19399,22 @@ export const indexObject ={
                "part of gradual training": {
                     "locators": [
                          "MN107"
+                    ],
+                    "xrefs": []
+               }
+          },
+          "mindfulness factor of enlightenment (satisambojjhaṅga)": {
+               "": {
+                    "locators": [],
+                    "xrefs": [
+                         "xref awakening factor of mindfulness (satisambojjhaṅga)"
+                    ]
+               }
+          },
+          "mindfulness of body": {
+               "elements": {
+                    "locators": [
+                         "MN119"
                     ],
                     "xrefs": []
                }
@@ -19066,6 +19445,54 @@ export const indexObject ={
                          "AN6.29"
                     ],
                     "xrefs": []
+               },
+               "in detail": {
+                    "locators": [
+                         "MN119"
+                    ],
+                    "xrefs": []
+               },
+               "very fruitful and beneficial": {
+                    "locators": [
+                         "MN119"
+                    ],
+                    "xrefs": []
+               },
+               "mindfulness of breathing": {
+                    "locators": [
+                         "MN119"
+                    ],
+                    "xrefs": []
+               },
+               "postures": {
+                    "locators": [
+                         "MN119"
+                    ],
+                    "xrefs": []
+               },
+               "concentration and": {
+                    "locators": [
+                         "MN119"
+                    ],
+                    "xrefs": []
+               },
+               "situational awareness (sampajañña)": {
+                    "locators": [
+                         "MN119"
+                    ],
+                    "xrefs": []
+               },
+               "ugliness": {
+                    "locators": [
+                         "MN119"
+                    ],
+                    "xrefs": []
+               },
+               "includes all skillful qualities": {
+                    "locators": [
+                         "MN119"
+                    ],
+                    "xrefs": []
                }
           },
           "mindfulness of body (kāyānupassana)": {
@@ -19073,6 +19500,12 @@ export const indexObject ={
                     "locators": [
                          "AN6.117",
                          "AN6.118"
+                    ],
+                    "xrefs": []
+               },
+               "mindfulness of breathing": {
+                    "locators": [
+                         "MN118"
                     ],
                     "xrefs": []
                }
@@ -19188,6 +19621,30 @@ export const indexObject ={
                     "xrefs": []
                }
           },
+          "mindfulness of feeling (vedanānupassana)": {
+               "mindfulness of breathing": {
+                    "locators": [
+                         "MN118"
+                    ],
+                    "xrefs": []
+               }
+          },
+          "mindfulness of mind (cittānupass)": {
+               "mindfulness of breathing": {
+                    "locators": [
+                         "MN118"
+                    ],
+                    "xrefs": []
+               }
+          },
+          "mindfulness of mind objects (dhammānupassana)": {
+               "mindfulness of breathing": {
+                    "locators": [
+                         "MN118"
+                    ],
+                    "xrefs": []
+               }
+          },
           "miracle of instruction (anusāsanīpāṭihāriya)": {
                "": {
                     "locators": [
@@ -19267,7 +19724,7 @@ export const indexObject ={
                     "xrefs": []
                }
           },
-          "Moggallāna, Ven": {
+          "Moggallāna, Ven.": {
                "praise of": {
                     "locators": [
                          "Thag21.1"
@@ -19843,7 +20300,7 @@ export const indexObject ={
                "": {
                     "locators": [],
                     "xrefs": [
-                         "xref mendicant"
+                         "xref mendicants"
                     ]
                },
                "mixing with nuns": {
@@ -20230,7 +20687,7 @@ export const indexObject ={
                     "xrefs": []
                }
           },
-          "Nibbāna here and now (diṭṭhadhammanibbāna)": {
+          "nibbāna here and now (diṭṭhadhammanibbāna)": {
                "view of": {
                     "locators": [
                          "MN102"
@@ -20450,15 +20907,13 @@ export const indexObject ={
                     "xrefs": []
                }
           },
-          "non-identification": {
+          "non-identification (atammayatā)": {
                "with seen, heard, thought, known": {
                     "locators": [
                          "AN4.24"
                     ],
                     "xrefs": []
-               }
-          },
-          "non-identification (atammayatā)": {
+               },
                "with jhāna": {
                     "locators": [
                          "MN113"
@@ -21622,7 +22077,7 @@ export const indexObject ={
                     "xrefs": []
                }
           },
-          "perception of fading away (virāgasaññ)": {
+          "perception of fading away (virāgasañña)": {
                "result in cetovimutti": {
                     "locators": [
                          "AN5.72"
@@ -21642,7 +22097,7 @@ export const indexObject ={
                     "xrefs": []
                }
           },
-          "perception of giving up (pahānasaññ)": {
+          "perception of giving up (pahānasañña)": {
                "result in cetovimutti": {
                     "locators": [
                          "AN5.72"
@@ -22000,6 +22455,12 @@ export const indexObject ={
                          "AN7.49"
                     ],
                     "xrefs": []
+               },
+               "mindfulness of body": {
+                    "locators": [
+                         "MN119"
+                    ],
+                    "xrefs": []
                }
           },
           "perceptions (saññā)": {
@@ -22275,6 +22736,14 @@ export const indexObject ={
                     "xrefs": []
                }
           },
+          "pond": {
+               "lotus, simile of Māra finding vulnerabilities": {
+                    "locators": [
+                         "MN119"
+                    ],
+                    "xrefs": []
+               }
+          },
           "popularity": {
                "wrongly gained": {
                     "locators": [
@@ -22340,6 +22809,12 @@ export const indexObject ={
                     "locators": [
                          "AN4.11",
                          "Iti110–11"
+                    ],
+                    "xrefs": []
+               },
+               "mindfulness of body": {
+                    "locators": [
+                         "MN119"
                     ],
                     "xrefs": []
                }
@@ -23103,6 +23578,12 @@ export const indexObject ={
                          "MN108"
                     ],
                     "xrefs": []
+               },
+               "mindfulness of the body helps one to achieve": {
+                    "locators": [
+                         "MN119"
+                    ],
+                    "xrefs": []
                }
           },
           "punishment (daṇḍa)": {
@@ -23458,6 +23939,14 @@ export const indexObject ={
                          "MN118"
                     ],
                     "xrefs": []
+               }
+          },
+          "rapture enlightenment factor": {
+               "": {
+                    "locators": [],
+                    "xrefs": [
+                         "xref awakening factor of rapture (pītisambojjhaṅga)"
+                    ]
                }
           },
           "Raṭṭhapāla, Ven.": {
@@ -23829,6 +24318,12 @@ export const indexObject ={
                          "MN101"
                     ],
                     "xrefs": []
+               },
+               "mindfulness of the body helps one to achieve": {
+                    "locators": [
+                         "MN119"
+                    ],
+                    "xrefs": []
                }
           },
           "recollection of peace (upasamānussati)": {
@@ -24082,6 +24577,12 @@ export const indexObject ={
                          "Iti103"
                     ],
                     "xrefs": []
+               },
+               "mindfulness of the body helps one to achieve": {
+                    "locators": [
+                         "MN119"
+                    ],
+                    "xrefs": []
                }
           },
           "relics": {
@@ -24096,6 +24597,14 @@ export const indexObject ={
                          "Pv35"
                     ],
                     "xrefs": []
+               }
+          },
+          "relinquishment": {
+               "": {
+                    "locators": [],
+                    "xrefs": [
+                         "xref letting go (paṭinissagga)"
+                    ]
                }
           },
           "removing (vinodana)": {
@@ -27223,6 +27732,12 @@ export const indexObject ={
                          "MN107"
                     ],
                     "xrefs": []
+               },
+               "mindfulness of body": {
+                    "locators": [
+                         "MN119"
+                    ],
+                    "xrefs": []
                }
           },
           "Sīvali, Ven.": {
@@ -27253,6 +27768,12 @@ export const indexObject ={
                "should cultivate actions that increase": {
                     "locators": [
                          "MN114"
+                    ],
+                    "xrefs": []
+               },
+               "all developed with mindfulness of the body, like the ocean includes all streams": {
+                    "locators": [
+                         "MN119"
                     ],
                     "xrefs": []
                }
@@ -28458,6 +28979,14 @@ export const indexObject ={
                     ]
                }
           },
+          "stone": {
+               "and wet clay, simile of Māra finding vulnerabilities": {
+                    "locators": [
+                         "MN119"
+                    ],
+                    "xrefs": []
+               }
+          },
           "stopping when more left to do": {
                "": {
                     "locators": [
@@ -29375,6 +29904,14 @@ export const indexObject ={
                          "AN7.59"
                     ],
                     "xrefs": []
+               }
+          },
+          "tranquillity enlightenment factor": {
+               "": {
+                    "locators": [],
+                    "xrefs": [
+                         "xref awakening factor of tranquility (passaddhisambojjhaṅga)"
+                    ]
                }
           },
           "travel": {
@@ -30972,6 +31509,14 @@ export const indexObject ={
                     "xrefs": []
                }
           },
+          "water lilly": {
+               "simile for third jhāna": {
+                    "locators": [
+                         "MN119"
+                    ],
+                    "xrefs": []
+               }
+          },
           "Way to the Beyond (Pārāyana)": {
                "": {
                     "locators": [
@@ -31339,6 +31884,14 @@ export const indexObject ={
                "death is regretted": {
                     "locators": [
                          "AN2.54"
+                    ],
+                    "xrefs": []
+               }
+          },
+          "white cloth": {
+               "covering person, simile for fourth Jhana": {
+                    "locators": [
+                         "MN119"
                     ],
                     "xrefs": []
                }

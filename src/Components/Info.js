@@ -7,7 +7,7 @@ export default function Info() {
     details.addEventListener("toggle", e => {
       if (details.open) {
         allDetails.forEach(details => {
-          if (details != e.target && details.open) {
+          if (details !== e.target && details.open) {
             details.open = false;
           }
         });
