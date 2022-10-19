@@ -1936,12 +1936,17 @@ export const indexArray =[
      ],
      [
           "AN2.65",
+          "bliss of renunciation (nekkhammasukha)",
+          "superior to happiness of sensuality "
+     ],
+     [
+          "AN2.65",
           "happiness (sukha)",
           "of sensuality and of renunciation"
      ],
      [
           "AN2.65",
-          "renunciation",
+          "renunciation (nekkhamma)",
           "happiness of is superior"
      ],
      [
@@ -1957,7 +1962,7 @@ export const indexArray =[
      [
           "AN2.67",
           "happiness (sukha)",
-          "defilements (āsava) and"
+          "taints (āsava) and"
      ],
      [
           "AN2.68",
@@ -2146,23 +2151,23 @@ export const indexArray =[
      ],
      [
           "AN2.108",
-          "defilements (āsava)",
-          "and remorse"
+          "restlessness and remorse (uddhaccakukkucca)",
+          "when to be remorseful"
      ],
      [
           "AN2.108",
-          "restlessness and remorse (uddhaccakukkucca)",
-          "when to be remorseful"
-     ],
-     [
-          "AN2.109",
-          "defilements (āsava)",
+          "taints (āsava)",
           "and remorse"
      ],
      [
           "AN2.109",
           "restlessness and remorse (uddhaccakukkucca)",
           "when to be remorseful"
+     ],
+     [
+          "AN2.109",
+          "taints (āsava)",
+          "and remorse"
      ],
      [
           "AN2.110",
@@ -2186,23 +2191,23 @@ export const indexArray =[
      ],
      [
           "AN2.114",
-          "defilements (āsava)",
-          "knowing what is and is not Dhamma"
+          "Dhamma",
+          "what is and is not "
      ],
      [
           "AN2.114",
-          "Dhamma",
-          "what is and is not "
-     ],
-     [
-          "AN2.115",
-          "defilements (āsava)",
+          "taints (āsava)",
           "knowing what is and is not Dhamma"
      ],
      [
           "AN2.115",
           "Dhamma",
           "what is and is not "
+     ],
+     [
+          "AN2.115",
+          "taints (āsava)",
+          "knowing what is and is not Dhamma"
      ],
      [
           "AN2.118",
@@ -2566,11 +2571,6 @@ export const indexArray =[
      ],
      [
           "AN3.16",
-          "defilements (āsava)",
-          "groundwork for ending"
-     ],
-     [
-          "AN3.16",
           "eating in moderation",
           "definition"
      ],
@@ -2578,6 +2578,11 @@ export const indexArray =[
           "AN3.16",
           "sense doors, guarding (indriyesu guttadvāra)",
           "definition"
+     ],
+     [
+          "AN3.16",
+          "taints (āsava)",
+          "groundwork for ending"
      ],
      [
           "AN3.16",
@@ -4101,7 +4106,7 @@ export const indexArray =[
      ],
      [
           "AN3.92",
-          "wishing",
+          "wishing (patthana)",
           "doesn’t bring results"
      ],
      [
@@ -4476,12 +4481,12 @@ export const indexArray =[
      ],
      [
           "AN3.116",
-          "gods of the dimension of infinite space (ākāsānañcāyatana devā",
+          "gods of the dimension of infinite space (ākāsānañcāyatana devā)",
           ""
      ],
      [
           "AN3.116",
-          "gods of the dimension of nothingness (ākiñcaññāyatanūpagānaṁ devānaṁ)",
+          "gods of the dimension of nothingness (ākiñcaññāyatanūpagānaṁ devā)",
           ""
      ],
      [
@@ -8721,6 +8726,26 @@ export const indexArray =[
      ],
      [
           "AN5.30",
+          "bliss of awakening (sambodhasukha)",
+          "Buddha has "
+     ],
+     [
+          "AN5.30",
+          "bliss of peace (upasamasukha)",
+          "Buddha has "
+     ],
+     [
+          "AN5.30",
+          "bliss of renunciation (nekkhammasukha)",
+          "Buddha has "
+     ],
+     [
+          "AN5.30",
+          "bliss of seclusion (pavivekasukha)",
+          "Buddha has "
+     ],
+     [
+          "AN5.30",
           "fame",
           "Buddha rejects"
      ],
@@ -8956,7 +8981,7 @@ export const indexArray =[
      ],
      [
           "AN5.43",
-          "wishing",
+          "wishing (patthana)",
           "doesn’t bring results"
      ],
      [
@@ -9522,27 +9547,27 @@ export const indexArray =[
      [
           "AN5.70",
           "perception of death (maraṇasañña)",
-          "leading to ending of defilements (āsava)"
+          "leading to ending of taints (āsava)"
      ],
      [
           "AN5.70",
           "perception of dissatisfaction with the whole world (sabbaloke anabhiratasañña)",
-          "leading to ending of defilements (āsava)"
+          "leading to ending of taints (āsava)"
      ],
      [
           "AN5.70",
           "perception of impermanence (aniccasañña)",
-          "leading to ending of defilements (āsava)"
+          "leading to ending of taints (āsava)"
      ],
      [
           "AN5.70",
           "perception of repulsiveness of food (āhāre paṭikūlasañña)",
-          "leading to ending of defilements (āsava)"
+          "leading to ending of taints (āsava)"
      ],
      [
           "AN5.70",
           "perception of ugliness (asubhasañña)",
-          "leading to ending of defilements (āsava)"
+          "leading to ending of taints (āsava)"
      ],
      [
           "AN5.71",
@@ -9951,8 +9976,8 @@ export const indexArray =[
      ],
      [
           "AN5.90",
-          "speech",
-          "topics of discussion"
+          "talk (kathā)",
+          ""
      ],
      [
           "AN5.90",
@@ -10286,7 +10311,7 @@ export const indexArray =[
      ],
      [
           "AN5.127",
-          "renunciation",
+          "renunciation (nekkhamma)",
           "qualification for living alone"
      ],
      [
@@ -10906,7 +10931,7 @@ export const indexArray =[
      ],
      [
           "AN5.170",
-          "defilements (āsava)",
+          "taints (āsava)",
           "ending is the best"
      ],
      [
@@ -12641,6 +12666,11 @@ export const indexArray =[
      ],
      [
           "AN6.34",
+          "Tissa, Brahma",
+          "former monk"
+     ],
+     [
+          "AN6.34",
           "gods",
           "that are stream-enterers"
      ],
@@ -12658,11 +12688,6 @@ export const indexArray =[
           "AN6.34",
           "stream-enterers (sotāpanna)",
           "gods that have become"
-     ],
-     [
-          "AN6.34",
-          "Tissa, Brahma",
-          "former monk"
      ],
      [
           "AN6.36",
@@ -13196,6 +13221,11 @@ export const indexArray =[
      ],
      [
           "AN6.55",
+          "excess energy (accāraddhavīriya)",
+          "too much leads to restlessness "
+     ],
+     [
+          "AN6.55",
           "Soṇa Koḷivisa, Ven.",
           "thinking of disrobing"
      ],
@@ -13282,37 +13312,7 @@ export const indexArray =[
      [
           "AN6.58",
           "avoiding (parivajjana)",
-          "in order to remove defilements (āsava)"
-     ],
-     [
-          "AN6.58",
-          "defilements (āsava)",
-          "to be given up by avoiding"
-     ],
-     [
-          "AN6.58",
-          "defilements (āsava)",
-          "to be given up by developing"
-     ],
-     [
-          "AN6.58",
-          "defilements (āsava)",
-          "to be given up by enduring"
-     ],
-     [
-          "AN6.58",
-          "defilements (āsava)",
-          "to be given up by removing"
-     ],
-     [
-          "AN6.58",
-          "defilements (āsava)",
-          "to be given up by restraint"
-     ],
-     [
-          "AN6.58",
-          "defilements (āsava)",
-          "to be given up by using"
+          "in order to remove taints (āsava)"
      ],
      [
           "AN6.58",
@@ -13322,12 +13322,12 @@ export const indexArray =[
      [
           "AN6.58",
           "development (bhāvanā)",
-          "in order to remove defilements (āsava)"
+          "in order to remove taints (āsava)"
      ],
      [
           "AN6.58",
           "enduring (adhivāsana)",
-          "in order to remove defilements (āsava)"
+          "in order to remove taints (āsava)"
      ],
      [
           "AN6.58",
@@ -13342,12 +13342,42 @@ export const indexArray =[
      [
           "AN6.58",
           "removing (vinodana)",
-          "in order to remove defilements (āsava)"
+          "in order to remove taints (āsava)"
      ],
      [
           "AN6.58",
           "sense restraint (indriyasaṁvara) ",
-          "defilements (āsava) and"
+          "taints (āsava) and"
+     ],
+     [
+          "AN6.58",
+          "taints (āsava)",
+          "to be given up by avoiding"
+     ],
+     [
+          "AN6.58",
+          "taints (āsava)",
+          "to be given up by developing"
+     ],
+     [
+          "AN6.58",
+          "taints (āsava)",
+          "to be given up by enduring"
+     ],
+     [
+          "AN6.58",
+          "taints (āsava)",
+          "to be given up by removing"
+     ],
+     [
+          "AN6.58",
+          "taints (āsava)",
+          "to be given up by restraint"
+     ],
+     [
+          "AN6.58",
+          "taints (āsava)",
+          "to be given up by using"
      ],
      [
           "AN6.58",
@@ -13511,11 +13541,6 @@ export const indexArray =[
      ],
      [
           "AN6.63",
-          "defilements (āsava)",
-          "definition"
-     ],
-     [
-          "AN6.63",
           "feelings (vedanā)",
           "definition"
      ],
@@ -13548,6 +13573,11 @@ export const indexArray =[
           "AN6.63",
           "suffering (dukkha)",
           "severe, mild, slow to fade, and quick to fade "
+     ],
+     [
+          "AN6.63",
+          "taints (āsava)",
+          "definition"
      ],
      [
           "AN6.64",
@@ -15491,6 +15521,16 @@ export const indexArray =[
      ],
      [
           "AN7.56",
+          "one freed by faith (saddhāvimutto)",
+          "known by gods of Brahmā’s Host"
+     ],
+     [
+          "AN7.56",
+          "personal witness (kāyasakkhī)",
+          "known by gods of Brahmā’s Host"
+     ],
+     [
+          "AN7.56",
           "Tissa, Brahma",
           "former monk"
      ],
@@ -15502,16 +15542,6 @@ export const indexArray =[
      [
           "AN7.56",
           "one freed both ways (ubhatobhāgavimutta)",
-          "known by gods of Brahmā’s Host"
-     ],
-     [
-          "AN7.56",
-          "one freed by faith (saddhāvimutto)",
-          "known by gods of Brahmā’s Host"
-     ],
-     [
-          "AN7.56",
-          "personal witness (kāyasakkhī)",
           "known by gods of Brahmā’s Host"
      ],
      [
@@ -16187,22 +16217,22 @@ export const indexArray =[
      [
           "AN10.69",
           "speech",
-          "topics of discussion"
+          "useless (tiracāna)"
      ],
      [
           "AN10.69",
-          "speech",
-          "useless (tiracāna)"
-     ],
-     [
-          "AN10.70",
-          "speech",
-          "topics of discussion"
+          "talk (kathā)",
+          ""
      ],
      [
           "AN10.70",
           "speech",
           "useless (tiracāna)"
+     ],
+     [
+          "AN10.70",
+          "talk (kathā)",
+          ""
      ],
      [
           "AN10.85",
@@ -16871,12 +16901,12 @@ export const indexArray =[
      ],
      [
           "Dhp87",
-          "renunciation",
+          "renunciation (nekkhamma)",
           ""
      ],
      [
           "Dhp88",
-          "renunciation",
+          "renunciation (nekkhamma)",
           ""
      ],
      [
@@ -16886,7 +16916,7 @@ export const indexArray =[
      ],
      [
           "Dhp91",
-          "renunciation",
+          "renunciation (nekkhamma)",
           "like swan leaving home"
      ],
      [
@@ -18496,7 +18526,7 @@ export const indexArray =[
      ],
      [
           "Iti56–7",
-          "defilements (āsava)",
+          "taints (āsava)",
           ""
      ],
      [
@@ -18981,7 +19011,7 @@ export const indexArray =[
      ],
      [
           "Iti109",
-          "renunciation",
+          "renunciation (nekkhamma)",
           "simile of against the stream"
      ],
      [
@@ -19746,6 +19776,16 @@ export const indexArray =[
      ],
      [
           "MN82",
+          "death (maraṇa)",
+          "like fruit falling from tree"
+     ],
+     [
+          "MN82",
+          "death (maraṇa)",
+          "universality of"
+     ],
+     [
+          "MN82",
           "Dhamma",
           "summaries of"
      ],
@@ -19758,6 +19798,11 @@ export const indexArray =[
           "MN82",
           "going forth (pabbajja)",
           "parents’ permission needed"
+     ],
+     [
+          "MN82",
+          "greed",
+          "unsatisfied"
      ],
      [
           "MN82",
@@ -19776,23 +19821,8 @@ export const indexArray =[
      ],
      [
           "MN82",
-          "death",
-          "like fruit falling from tree"
-     ],
-     [
-          "MN82",
-          "death",
-          "universality of"
-     ],
-     [
-          "MN82",
           "going forth (pabbajja)",
           "reasons for"
-     ],
-     [
-          "MN82",
-          "greed",
-          "unsatisfied"
      ],
      [
           "MN82",
@@ -21661,6 +21691,11 @@ export const indexArray =[
      ],
      [
           "MN113",
+          "Dhamma teachers",
+          "not a reason to become arrogant"
+     ],
+     [
+          "MN113",
           "arrogance",
           "because of high family, fame, etc."
      ],
@@ -21678,11 +21713,6 @@ export const indexArray =[
           "MN113",
           "conceiving (maññita)",
           "not conceiving"
-     ],
-     [
-          "MN113",
-          "Dhamma teachers",
-          "not a reason to become arrogant"
      ],
      [
           "MN113",
@@ -22057,11 +22087,6 @@ export const indexArray =[
      [
           "MN115",
           "Buddhas",
-          "impossible for two at the same time "
-     ],
-     [
-          "MN115",
-          "Buddhas",
           "impossible for woman to be "
      ],
      [
@@ -22081,13 +22106,8 @@ export const indexArray =[
      ],
      [
           "MN115",
-          "Māra",
-          "impossible for woman to be "
-     ],
-     [
-          "MN115",
-          "Sakka, Lord of Gods",
-          "impossible for woman to be "
+          "Buddhas",
+          "impossible for two at the same time "
      ],
      [
           "MN115",
@@ -22161,6 +22181,11 @@ export const indexArray =[
      ],
      [
           "MN115",
+          "Sakka, Lord of Gods",
+          "impossible for woman to be "
+     ],
+     [
+          "MN115",
           "fools",
           "cause danger like a fire spreading "
      ],
@@ -22178,6 +22203,11 @@ export const indexArray =[
           "MN115",
           "good actions",
           "impossible to lead to bad destination"
+     ],
+     [
+          "MN115",
+          "Māra",
+          "impossible for woman to be "
      ],
      [
           "MN115",
@@ -22481,26 +22511,6 @@ export const indexArray =[
      ],
      [
           "MN118",
-          "cross-legged (pallaṅka)",
-          "mindfulness of breathing"
-     ],
-     [
-          "MN118",
-          "foundations of mindfulness (satipaṭṭhāna)",
-          "monks committed to developing"
-     ],
-     [
-          "MN118",
-          "Komudi full moon ",
-          ""
-     ],
-     [
-          "MN118",
-          "compassion (karuna)",
-          "monks committed to developing"
-     ],
-     [
-          "MN118",
           "equanimity (upekkhā)",
           "mindfulness of breathing"
      ],
@@ -22523,6 +22533,26 @@ export const indexArray =[
           "MN118",
           "foundations of mindfulness (satipaṭṭhāna)",
           "fulfils the seven awakening factors"
+     ],
+     [
+          "MN118",
+          "foundations of mindfulness (satipaṭṭhāna)",
+          "monks committed to developing"
+     ],
+     [
+          "MN118",
+          "Komudi full moon ",
+          ""
+     ],
+     [
+          "MN118",
+          "compassion (karuna)",
+          "monks committed to developing"
+     ],
+     [
+          "MN118",
+          "cross-legged (pallaṅka)",
+          "mindfulness of breathing"
      ],
      [
           "MN118",
@@ -22891,8 +22921,738 @@ export const indexArray =[
      ],
      [
           "MN120",
+          "Brahmā of a thousand (sahasso brahmā)",
+          "aspiring to be reborn as"
+     ],
+     [
+          "MN120",
+          "brahmins",
+          "aspiring to be reborn as"
+     ],
+     [
+          "MN120",
+          "Fair Seeing Gods (sudassī devā)",
+          ""
+     ],
+     [
+          "MN120",
+          "faith (saddhā)",
+          "helpful for rebirth by aspiration"
+     ],
+     [
+          "MN120",
+          "galaxies",
+          "meditating pervading a thousand, etc"
+     ],
+     [
+          "MN120",
           "generosity (cāga)",
           "cause for rebirth"
+     ],
+     [
+          "MN120",
+          "generosity (cāga)",
+          "helpful for rebirth by aspiration"
+     ],
+     [
+          "MN120",
+          "Gods Fair to See (sudassā devā)",
+          "aspiring to be reborn as"
+     ],
+     [
+          "MN120",
+          "Gods of Abundant Fruit (vehapphalā devā)",
+          ""
+     ],
+     [
+          "MN120",
+          "Gods of Akaniṭṭha (akaniṭṭhā devā)",
+          "aspiring to be reborn as"
+     ],
+     [
+          "MN120",
+          "Gods of Atappa (atappā devā) ",
+          ""
+     ],
+     [
+          "MN120",
+          "Gods of Aviha (avihā devā)",
+          "aspiring to be reborn as"
+     ],
+     [
+          "MN120",
+          "Gods of Limited Glory (parittasubhā devā)",
+          "aspiring to be reborn as"
+     ],
+     [
+          "MN120",
+          "Gods of Limited Radiance (parittābhā devā)",
+          "aspiring to be reborn as"
+     ],
+     [
+          "MN120",
+          "Gods of Limitless Glory (appamāṇasubhā devā)",
+          "aspiring to be reborn as"
+     ],
+     [
+          "MN120",
+          "Gods of Limitless Radiance (appamāṇābhā devā) ",
+          "aspiring to be reborn as"
+     ],
+     [
+          "MN120",
+          "Gods of Streaming Radiance (ābhassarā devā)",
+          "aspiring to be reborn as"
+     ],
+     [
+          "MN120",
+          "gods of the dimension of infinite consciousness (viññāṇañcāyatana devā)",
+          "aspiring to be reborn as"
+     ],
+     [
+          "MN120",
+          "gods of the dimension of infinite space (ākāsānañcāyatana devā)",
+          ""
+     ],
+     [
+          "MN120",
+          "gods of the dimension of neither perception nor non-perception (nevasaññānāsaññāyatanūpagā devā)",
+          "aspiring to be reborn as"
+     ],
+     [
+          "MN120",
+          "gods of the dimension of nothingness (ākiñcaññāyatanūpagānaṁ devā)",
+          ""
+     ],
+     [
+          "MN120",
+          "gods of the Four Great Kings (cātumahārājikā devā)",
+          "aspiring to be reborn as"
+     ],
+     [
+          "MN120",
+          "gods of the Thirty-Three (tāvatiṁsā devā)",
+          "aspiring to be reborn as"
+     ],
+     [
+          "MN120",
+          "gods of Yama (yāmā devā)",
+          "aspiring to be reborn as"
+     ],
+     [
+          "MN120",
+          "Gods Replete with Glory (subhakiṇhā devā)",
+          "aspiring to be reborn as"
+     ],
+     [
+          "MN120",
+          "gods that delight in creation (nimmānaratī devā)",
+          "aspiring to be reborn as"
+     ],
+     [
+          "MN120",
+          "gods Who Control the Creations of Others (paranimmitavasavattī devā) ",
+          "aspiring to be reborn as"
+     ],
+     [
+          "MN120",
+          "heart’s release (cetovimutti)",
+          "aspiring to attain"
+     ],
+     [
+          "MN120",
+          "Joyful gods (tusitā devā)",
+          "aspiring to be reborn as"
+     ],
+     [
+          "MN120",
+          "khattiyas",
+          "aspiring to be reborn as"
+     ],
+     [
+          "MN120",
+          "learning",
+          "helpful for rebirth by aspiration"
+     ],
+     [
+          "MN120",
+          "Radiant Gods (ābhā devā)",
+          "aspiring to be reborn as"
+     ],
+     [
+          "MN120",
+          "rebirth",
+          "by choice/aspiration"
+     ],
+     [
+          "MN120",
+          "release by wisdom (paññavimutti)",
+          "aspiring to attain"
+     ],
+     [
+          "MN120",
+          "virtue (sīla)",
+          "helpful for rebirth by aspiration"
+     ],
+     [
+          "MN120",
+          "wisdom (paññā)",
+          "helpful for rebirth by aspiration"
+     ],
+     [
+          "MN121",
+          "Ānanda, Ven.",
+          "asking about emptiness"
+     ],
+     [
+          "MN121",
+          "Buddha, the",
+          "meditating on emptiness"
+     ],
+     [
+          "MN121",
+          "dimension of infinite consciousness (viññāṇañcāyatana)",
+          "perception of and emptiness"
+     ],
+     [
+          "MN121",
+          "dimension of infinite space (ākāsānañcāyatana)",
+          "perception of and emptiness"
+     ],
+     [
+          "MN121",
+          "dimension of neither perception nor non-perception (nevasaññānāsaññāyatanaṁ)",
+          "perception of and emptiness"
+     ],
+     [
+          "MN121",
+          "dimension of nothingness (ākiñcaññāyatana)",
+          "perception of and emptiness"
+     ],
+     [
+          "MN121",
+          "earth element (pathavī dhātu)",
+          "perception of and emptiness"
+     ],
+     [
+          "MN121",
+          "emptiness (suññatā)",
+          "abiding in/meditating on"
+     ],
+     [
+          "MN121",
+          "hide",
+          "bull’s, rid of folds like emptiness meditation"
+     ],
+     [
+          "MN121",
+          "Palace of Migara’s Mother",
+          "emptiness of"
+     ],
+     [
+          "MN121",
+          "past, present, future",
+          "practice of emptiness is same for"
+     ],
+     [
+          "MN121",
+          "sense bases (āyatanā)",
+          "and emptiness"
+     ],
+     [
+          "MN121",
+          "signless immersion of the heart (animittaṁ cetosamādhi) ",
+          "oneness and emptiness"
+     ],
+     [
+          "MN121",
+          "taints (āsava)",
+          "and emptiness"
+     ],
+     [
+          "MN122",
+          "aggregates (khandha)",
+          "giving up conceit “I am”"
+     ],
+     [
+          "MN122",
+          "Buddha, the",
+          "not treating students like potter with wet clay"
+     ],
+     [
+          "MN122",
+          "Buddha, the",
+          "teaches emphasizing the topic of dismissal"
+     ],
+     [
+          "MN122",
+          "Buddha, the",
+          "teaches with compassion"
+     ],
+     [
+          "MN122",
+          "Buddha, the",
+          "treating as a friend"
+     ],
+     [
+          "MN122",
+          "awakening (sambodha)",
+          ""
+     ],
+     [
+          "MN122",
+          "bliss of awakening (sambodhasukha)",
+          "not possible for one who enjoys company"
+     ],
+     [
+          "MN122",
+          "bliss of peace (upasamasukha)",
+          "not possible for one who enjoys company"
+     ],
+     [
+          "MN122",
+          "bliss of renunciation (nekkhammasukha)",
+          "not possible for one who enjoys company"
+     ],
+     [
+          "MN122",
+          "bliss of seclusion (pavivekasukha)",
+          "not possible for one who enjoys company"
+     ],
+     [
+          "MN122",
+          "companionship",
+          "being fond of"
+     ],
+     [
+          "MN122",
+          "concentration (samādhi)",
+          "emptiness and"
+     ],
+     [
+          "MN122",
+          "emptiness (suññatā)",
+          "by not focusing on any signs"
+     ],
+     [
+          "MN122",
+          "form (rūpa)",
+          "all form desired will cause suffering when it changes"
+     ],
+     [
+          "MN122",
+          "heart’s release (cetovimutti)",
+          "possible for one who lives secluded"
+     ],
+     [
+          "MN122",
+          "imperturbable (āneñja)",
+          "emptiness and"
+     ],
+     [
+          "MN122",
+          "jhānas",
+          "emptiness and"
+     ],
+     [
+          "MN122",
+          "listening to Dhamma",
+          "properly and improperly"
+     ],
+     [
+          "MN122",
+          "monastic life",
+          "undoing of, peril of"
+     ],
+     [
+          "MN122",
+          "peace (upasama)",
+          ""
+     ],
+     [
+          "MN122",
+          "postures",
+          "awareness and"
+     ],
+     [
+          "MN122",
+          "robes",
+          "time for making (cīvarakārasamaya)"
+     ],
+     [
+          "MN122",
+          "sense pleasures (kāma, kāmaguṇa)",
+          "mind taking an interest in"
+     ],
+     [
+          "MN122",
+          "sign of concentration (samādhinimitta)",
+          ""
+     ],
+     [
+          "MN122",
+          "signless (animitta)",
+          "emptiness and"
+     ],
+     [
+          "MN122",
+          "socializing",
+          "being fond of"
+     ],
+     [
+          "MN122",
+          "talk (kathā)",
+          "suitable"
+     ],
+     [
+          "MN122",
+          "talk (kathā)",
+          "unsuitable"
+     ],
+     [
+          "MN122",
+          "teachers",
+          "teacher’s undoing"
+     ],
+     [
+          "MN122",
+          "thoughts (vitakkā)",
+          "skillful and unskillful"
+     ],
+     [
+          "MN123",
+          "Bodhisatta",
+          "birth of"
+     ],
+     [
+          "MN123",
+          "Bodhisatta",
+          "mother"
+     ],
+     [
+          "MN123",
+          "Buddha, the",
+          "knowing Buddhas of the past"
+     ],
+     [
+          "MN123",
+          "earthquake",
+          "associated with events in Buddha’s life"
+     ],
+     [
+          "MN123",
+          "Four Great Kings, the (catumahārāja)",
+          "guarding queen Māyā (comy.)"
+     ],
+     [
+          "MN123",
+          "incredible and amazing (acchariyā abbhutā)",
+          "events connected with the Buddha"
+     ],
+     [
+          "MN123",
+          "Joyful gods (tusitā devā)",
+          "Bodhisatta reborn among"
+     ],
+     [
+          "MN123",
+          "light",
+          "spreading through the universe"
+     ],
+     [
+          "MN123",
+          "Māyā, queen Mahā",
+          "pregnancy and birth of Bodhisatta"
+     ],
+     [
+          "MN123",
+          "Māyā, queen Mahā",
+          "reborn in Tusita heaven"
+     ],
+     [
+          "MN123",
+          "water",
+          "two streams from heaven uppon Bodhisatta’s birth"
+     ],
+     [
+          "MN124",
+          "ascetic practices (dhutaṅga)",
+          "Ven. Bakkula "
+     ],
+     [
+          "MN124",
+          "Bakkula, Ven.",
+          "qualities of"
+     ],
+     [
+          "MN124",
+          "debt (iṇa)",
+          "almsfood free from"
+     ],
+     [
+          "MN124",
+          "going forth (pabbajja)",
+          "Ven. Bakkula never giving"
+     ],
+     [
+          "MN124",
+          "health",
+          "Ven. Bakkula having perfect"
+     ],
+     [
+          "MN124",
+          "incredible and amazing (acchariyā abbhutā)",
+          "qualities of Ven. Bakkula"
+     ],
+     [
+          "MN124",
+          "Kassapa, naked ascetic",
+          "friend of Ven. Bakkula"
+     ],
+     [
+          "MN124",
+          "parinibbana",
+          "in the middle of the Saṅgha"
+     ],
+     [
+          "MN124",
+          "robes",
+          "Ven. Bakkula never accepting from householder"
+     ],
+     [
+          "MN124",
+          "sense perceptions (kāmasaññā)",
+          "Ven. Bakkula and"
+     ],
+     [
+          "MN124",
+          "sexual intercourse",
+          "Ven. Bakkula being asked about"
+     ],
+     [
+          "MN125",
+          "Aciravata, novice",
+          "conversation with Prince Jayasena"
+     ],
+     [
+          "MN125",
+          "Dhamma teaching",
+          "not being competent to"
+     ],
+     [
+          "MN125",
+          "Jayasena, prince",
+          "asking about training"
+     ],
+     [
+          "MN125",
+          "elephants",
+          "simile of gradual training"
+     ],
+     [
+          "MN125",
+          "elephants",
+          "trained and untrained, simile of"
+     ],
+     [
+          "MN125",
+          "enduring (khama)",
+          "criticism"
+     ],
+     [
+          "MN125",
+          "enduring (khama)",
+          "unpleasant things"
+     ],
+     [
+          "MN125",
+          "foundations of mindfulness (satipaṭṭhāna)",
+          "like a pillar grounded in the earth"
+     ],
+     [
+          "MN125",
+          "foundations of mindfulness (satipaṭṭhāna)",
+          "not thinking thoughts connected with sensual pleasures"
+     ],
+     [
+          "MN125",
+          "foundations of mindfulness (satipaṭṭhāna)",
+          "part of gradual training"
+     ],
+     [
+          "MN125",
+          "gradual training (anupubbasikkhā)",
+          "in detail"
+     ],
+     [
+          "MN125",
+          "horses",
+          "trained and untrained, simile of"
+     ],
+     [
+          "MN125",
+          "mountains",
+          "blocking view, simile for ignorance blocking realization"
+     ],
+     [
+          "MN125",
+          "oxen",
+          "trained and untrained, simile of"
+     ],
+     [
+          "MN125",
+          "renunciation (nekkhamma)",
+          "what can only be known through"
+     ],
+     [
+          "MN125",
+          "sense doors, guarding (indriyesu guttadvāra)",
+          "part of gradual training"
+     ],
+     [
+          "MN125",
+          "sense pleasures (kāma, kāmaguṇa)",
+          "blocking realization"
+     ],
+     [
+          "MN125",
+          "sense pleasures (kāma, kāmaguṇa)",
+          "mind obsessed with cannot understand Dhamma"
+     ],
+     [
+          "MN125",
+          "tamed (danta)",
+          "in any stage of life"
+     ],
+     [
+          "MN125",
+          "unification of mind (cittassa ekaggatā)",
+          "possibility of"
+     ],
+     [
+          "MN125",
+          "virtue (sīla)",
+          "part of gradual training"
+     ],
+     [
+          "MN126",
+          "Jayasena, prince",
+          "asking about wishing"
+     ],
+     [
+          "MN126",
+          "butter",
+          "person needing, simile of right and wrong practice"
+     ],
+     [
+          "MN126",
+          "fire",
+          "person needing, simile of right and wrong practice"
+     ],
+     [
+          "MN126",
+          "fruit, spiritual (phala)",
+          "wishing for"
+     ],
+     [
+          "MN126",
+          "improperly (ayoniso)",
+          "leading the spiritual life"
+     ],
+     [
+          "MN126",
+          "milk",
+          "person needing, simile of right and wrong practice"
+     ],
+     [
+          "MN126",
+          "noble eightfold path (ariya aṭṭhangika magga)",
+          "does bear fruit"
+     ],
+     [
+          "MN126",
+          "oil",
+          "person needing, simile of right and wrong practice"
+     ],
+     [
+          "MN126",
+          "properly (yoniso)",
+          "leading the spiritual life"
+     ],
+     [
+          "MN126",
+          "spiritual path (brahmacariya)",
+          "making or not making a wish about"
+     ],
+     [
+          "MN126",
+          "wish (āsā)",
+          "making or not making regarding spiritual practice"
+     ],
+     [
+          "MN126",
+          "wrong eightfold path",
+          "doesn’t bear fruit"
+     ],
+     [
+          "MN127",
+          "Anuruddha, Ven.",
+          ""
+     ],
+     [
+          "MN127",
+          "brahmaviharas",
+          "limitless release of heart (appamāṇa cetovimutti)"
+     ],
+     [
+          "MN127",
+          "expansive release of heart (mahaggata cetovimutti) ",
+          "definition"
+     ],
+     [
+          "MN127",
+          "expansive release of heart (mahaggata cetovimutti) ",
+          "limitless release of heart compared to"
+     ],
+     [
+          "MN127",
+          "flies",
+          "simile of thoughts of gods"
+     ],
+     [
+          "MN127",
+          "gods of corrupted radiance (saṅkiliṭṭhābhānaṁ devā)",
+          ""
+     ],
+     [
+          "MN127",
+          "Gods of Limited Radiance (parittābhā devā)",
+          ""
+     ],
+     [
+          "MN127",
+          "Gods of Limitless Radiance (appamāṇābhā devā)",
+          ""
+     ],
+     [
+          "MN127",
+          "gods of pure radiance (parisuddhābhānaṁ devā)",
+          ""
+     ],
+     [
+          "MN127",
+          "gods",
+          "difference between"
+     ],
+     [
+          "MN127",
+          "limitless release of heart (appamāṇa cetovimutti)",
+          "definition"
+     ],
+     [
+          "MN127",
+          "limitless release of heart (appamāṇa cetovimutti)",
+          "expansive release of heart compared to"
      ],
      [
           "MN127",
@@ -22900,9 +23660,189 @@ export const indexArray =[
           "as immeasurable deliverance"
      ],
      [
+          "MN127",
+          "loving-kindness (mettā)",
+          "limitless release of heart (appamāṇa cetovimutti)"
+     ],
+     [
+          "MN127",
+          "oil lamps",
+          "simile of differences between gods"
+     ],
+     [
+          "MN127",
+          "Pañcakaṅga, master builder",
+          ""
+     ],
+     [
+          "MN127",
+          "Sabhiya Kaccāna, Ven",
+          ""
+     ],
+     [
+          "MN128",
+          "Anuruddha, Ven.",
+          "living with Ven. Nandiya and Kimbila"
+     ],
+     [
+          "MN128",
+          "Bodhisatta",
+          "meditation experience"
+     ],
+     [
+          "MN128",
+          "alms gathering practice",
+          "logistics"
+     ],
+     [
+          "MN128",
+          "attention (manasikāra)",
+          "loss of ending concentration"
+     ],
+     [
+          "MN128",
+          "Bhagu, Ven.",
+          "living alone"
+     ],
+     [
+          "MN128",
+          "Kimbila, Ven.",
+          "living with Ven. Anuruddha and Nandiya"
+     ],
+     [
+          "MN128",
+          "Kosambi",
+          "dispute at"
+     ],
+     [
+          "MN128",
+          "Nandiya, Ven.",
+          "living with Ven. Anuruddha and Kimbila"
+     ],
+     [
+          "MN128",
+          "companionship",
+          "good"
+     ],
+     [
+          "MN128",
+          "discomfort (duṭṭhulla)",
+          "ending concentration"
+     ],
+     [
+          "MN128",
+          "disputes",
+          "at Kosambi"
+     ],
+     [
+          "MN128",
+          "doubt (vicikicchā)",
+          "ending concentration"
+     ],
+     [
+          "MN128",
+          "dullness and drowsiness (thinamiddha)",
+          "ending concentration"
+     ],
+     [
+          "MN128",
+          "excess energy (accāraddhavīriya)",
+          "ending concentration"
+     ],
+     [
+          "MN128",
+          "excitement (uppila)",
+          "ending concentration"
+     ],
+     [
+          "MN128",
+          "good friends",
+          "example of"
+     ],
+     [
+          "MN128",
+          "grudge",
+          ""
+     ],
+     [
+          "MN128",
+          "harmony (samagga)",
+          "example of"
+     ],
+     [
+          "MN128",
+          "heedfulness (appamāda)",
+          "example of"
+     ],
+     [
+          "MN128",
+          "killers",
+          "attacking a traveler as simile for terror"
+     ],
+     [
+          "MN128",
+          "loving-kindness (mettā)",
+          "as principle of cordiality"
+     ],
+     [
+          "MN128",
+          "loving-kindness (mettā)",
+          "by body, speech, and mind"
+     ],
+     [
           "MN128",
           "loving-kindness (mettā)",
           "in action"
+     ],
+     [
+          "MN128",
+          "meditation",
+          "advice for"
+     ],
+     [
+          "MN128",
+          "meditation",
+          "problems with"
+     ],
+     [
+          "MN128",
+          "monastic life",
+          "duties"
+     ],
+     [
+          "MN128",
+          "recollection of spiritual friends (kalyāṇamitta ānussati)",
+          "living in harmony"
+     ],
+     [
+          "MN128",
+          "silence",
+          "living in"
+     ],
+     [
+          "MN128",
+          "solitude",
+          "better than association with fools "
+     ],
+     [
+          "MN128",
+          "superhuman states (uttari manussadhamma)",
+          "examples of"
+     ],
+     [
+          "MN128",
+          "terror (chambhitatta)",
+          "ending concentration"
+     ],
+     [
+          "MN128",
+          "thieves",
+          "live in harmony, so why can’t monks"
+     ],
+     [
+          "MN129",
+          "treasures",
+          "coming upon hidden treasure as simile for excitement in meditation"
      ],
      [
           "MN130",
@@ -24112,12 +25052,12 @@ export const indexArray =[
      [
           "SN56.10",
           "speech",
-          "topics of discussion"
+          "useless (tiracāna)"
      ],
      [
           "SN56.10",
-          "speech",
-          "useless (tiracāna)"
+          "talk (kathā)",
+          ""
      ],
      [
           "Snp1.1",
@@ -24196,7 +25136,7 @@ export const indexArray =[
      ],
      [
           "Snp1.2",
-          "renunciation",
+          "renunciation (nekkhamma)",
           ""
      ],
      [
@@ -24251,7 +25191,7 @@ export const indexArray =[
      ],
      [
           "Snp1.3",
-          "renunciation",
+          "renunciation (nekkhamma)",
           "simile of fallen leaves"
      ],
      [
@@ -24961,17 +25901,17 @@ export const indexArray =[
      ],
      [
           "Snp3.11",
-          "knowing does not speak much",
-          ""
-     ],
-     [
-          "Snp3.11",
           "Nālaka, nephew of Asita",
           ""
      ],
      [
           "Snp3.11",
           "Suddhodana, king",
+          ""
+     ],
+     [
+          "Snp3.11",
+          "knowing does not speak much",
           ""
      ],
      [
@@ -25301,7 +26241,7 @@ export const indexArray =[
      ],
      [
           "Snp5.12",
-          "renunciation",
+          "renunciation (nekkhamma)",
           "as sanctuary"
      ],
      [
@@ -26276,11 +27216,6 @@ export const indexArray =[
      ],
      [
           "Thag10.1",
-          "Suddhodana, king",
-          ""
-     ],
-     [
-          "Thag10.1",
           "family",
           "benefited by arahant relative"
      ],
@@ -26292,6 +27227,11 @@ export const indexArray =[
      [
           "Thag10.1",
           "Māyā, queen Mahā",
+          ""
+     ],
+     [
+          "Thag10.1",
+          "Suddhodana, king",
           ""
      ],
      [
@@ -26946,7 +27886,7 @@ export const indexArray =[
      ],
      [
           "Thig1.18",
-          "renunciation",
+          "renunciation (nekkhamma)",
           "giving up what one loves"
      ],
      [
@@ -27241,7 +28181,7 @@ export const indexArray =[
      ],
      [
           "Thig9.1",
-          "defilements (āsava)",
+          "taints (āsava)",
           "all ended"
      ],
      [
@@ -27286,7 +28226,7 @@ export const indexArray =[
      ],
      [
           "Thig11.1",
-          "renunciation",
+          "renunciation (nekkhamma)",
           "as sanctuary"
      ],
      [
@@ -27771,7 +28711,7 @@ export const indexArray =[
      ],
      [
           "Ud2.10",
-          "renunciation",
+          "renunciation (nekkhamma)",
           "bliss of"
      ],
      [
@@ -27906,8 +28846,8 @@ export const indexArray =[
      ],
      [
           "Ud4.1",
-          "speech",
-          "topics of discussion"
+          "talk (kathā)",
+          ""
      ],
      [
           "Ud4.2",
@@ -28056,16 +28996,6 @@ export const indexArray =[
      ],
      [
           "Ud5.5",
-          "Dhamma",
-          "has one taste"
-     ],
-     [
-          "Ud5.5",
-          "Dhamma",
-          "simile of ocean"
-     ],
-     [
-          "Ud5.5",
           "asuras",
           "love of ocean"
      ],
@@ -28073,6 +29003,16 @@ export const indexArray =[
           "Ud5.5",
           "bad monastics",
           "in pātimokkha recitation"
+     ],
+     [
+          "Ud5.5",
+          "Dhamma",
+          "has one taste"
+     ],
+     [
+          "Ud5.5",
+          "Dhamma",
+          "simile of ocean"
      ],
      [
           "Ud5.5",
@@ -28491,7 +29431,7 @@ export const indexArray =[
      ],
      [
           "Vv16",
-          "gods that delight in creation",
+          "gods that delight in creation (nimmānaratī devā)",
           ""
      ],
      [

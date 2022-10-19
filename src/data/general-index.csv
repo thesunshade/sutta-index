@@ -420,9 +420,9 @@ speech	that increases unwholesome qualities	AN4.183
 speech	that increases wholesome qualities	AN4.183
 speech	timely	AN5.198
 speech	timely or untimely	AN3.69
-speech	topics of discussion	AN10.69
-speech	topics of discussion	AN10.70
-speech	topics of discussion	SN56.10
+talk (kathā)		AN10.69
+talk (kathā)		AN10.70
+talk (kathā)		SN56.10
 speech	true	AN5.214
 speech	types of	MN21
 speech	types of	MN58
@@ -672,10 +672,10 @@ wise people	simile of lake	Dhp82
 sadness and happiness		Dhp83
 nibbāna	attained by few	Dhp85
 Dhamma	well explained	Dhp86
-renunciation		Dhp87
-renunciation		Dhp88
+renunciation (nekkhamma)		Dhp87
+renunciation (nekkhamma)		Dhp88
 mindful person	like swan leaving home	Dhp91
-renunciation	like swan leaving home	Dhp91
+renunciation (nekkhamma)	like swan leaving home	Dhp91
 arahants	like path of bird is hard to trace	Dhp92
 storing up things		Dhp92
 arahants	like path of bird is hard to trace	Dhp93
@@ -959,7 +959,7 @@ recollection (anussati)	of triple gem	Ud2.8
 faith (saddhā)	guarantor	Ud2.8
 subservience		Ud2.9
 misjudging others		Ud2.10
-renunciation	bliss of	Ud2.10
+renunciation (nekkhamma)	bliss of	Ud2.10
 holy life	not delighting in	Ud3.2
 motivation	bad	Ud3.2
 imperturbable meditation (āneñjasamādhi)		Ud3.3
@@ -985,7 +985,7 @@ meditation	for seven days	Ud2.1
 meditation	for seven days	Ud3.7
 mental misconduct		Ud4.1
 friendship	helps with cetovimuttiya	Ud4.1
-speech	topics of discussion	Ud4.1
+talk (kathā)		Ud4.1
 perception of ugliness (asubhasañña)	to give up greed	Ud4.1
 loving-kindness (mettā)	to give up hate	Ud4.1
 mindfulness of breathing (ānāpānassati)	to cut off thinking	Ud4.1
@@ -1154,7 +1154,7 @@ painful feelings	seen as dart	Iti53
 neutral feelings (adukkhamasukhaṁ vedanā)	seen as impermanent	Iti53
 impermanence	neutral feelings seen as 	Iti53
 searches (esana, pariyesana)	three types	Iti54–5
-defilements (āsava)		Iti56–7
+taints (āsava)		Iti56–7
 craving (taṇha)	three types	Iti58
 merit (puññā)	grounds for making	Iti60
 giving (dāna)	grounds for making merit	Iti60
@@ -1245,7 +1245,7 @@ monastic life	wrongly practiced	Iti108
 anger (kodha)	simile of waves	Iti109
 craving (taṇha)	simile of stream	Iti109
 sense pleasures, five 	simile of whirlpool	Iti109
-renunciation	simile of against the stream	Iti109
+renunciation (nekkhamma)	simile of against the stream	Iti109
 female	simile of crocodiles	Iti109
 tolerating bad thoughts		Iti110
 danger in slightest fault		Iti111
@@ -1270,14 +1270,14 @@ illusion	life as	Snp1.1
 lay life	filled with duties	Snp1.2
 lay life	attachments	Snp1.2
 monastic life		Snp1.2
-renunciation		Snp1.2
+renunciation (nekkhamma)		Snp1.2
 work		Snp1.2
 Buddha, the	attainments	Snp1.2
 loved ones	as source of sorrow	Snp1.2
 solitude	better than association with fools	Snp1.3
 loved ones	as source of sorrow	Snp1.3
 children		xref loved ones
-renunciation	simile of fallen leaves	Snp1.3
+renunciation (nekkhamma)	simile of fallen leaves	Snp1.3
 friendship	stick with good friend	Snp1.3
 friendship	equal or better	Snp1.3
 companionship	simile of bracelets	Snp1.3
@@ -1499,7 +1499,7 @@ arahants	existing after death	Snp5.7
 sage (muni)	definition	Snp5.8
 purity (suddhi, pārisuddhi)	in terms of vows	Snp5.8
 hope (āsa)	free from	Snp5.10
-renunciation	as sanctuary	Snp5.12
+renunciation (nekkhamma)	as sanctuary	Snp5.12
 Vakkali, Ven.	committed to faith	Snp5.19
 mansions, heavenly		xref devas
 heavenly mansions (vimāna)		xref devas
@@ -1522,7 +1522,7 @@ gifts, specific types of	cakes	Vv13
 gifts, specific types of	cakes	Vv14
 devas	once returners	Vv15
 uposatha	resulting in heaven	Vv15
-gods that delight in creation		Vv16
+gods that delight in creation (nimmānaratī devā)		Vv16
 gods		xref devas
 gods		xref brahmās
 devas	with psychic powers	Vv16
@@ -2113,7 +2113,7 @@ samādhi		xref concentration (samādhi)
 taṇha		xref craving (taṇha)
 maraṇa 		xref death (maraṇa)
 amata 		xref deathless (amata)
-āsava 		xref defilements (āsava)
+āsava 		xref taints (āsava)
 moha 		xref delusion (moha) 
 dibbacakkhu 		xref divine eye (dibbacakkhu) 
 nissaraṇa 		xref escape (nissaraṇa) 
@@ -2158,7 +2158,7 @@ marriage	disenchantment with	Thig1.11
 lay life	disenchantment with	Thig1.11
 encouragement	to meditate	Thig1.13
 body	danger of	Thig1.17
-renunciation	giving up what one loves	Thig1.18
+renunciation (nekkhamma)	giving up what one loves	Thig1.18
 perception of ugliness (asubhasañña)		Thig2.1
 signless (animitta)	meditation on	Thig2.1
 conceit, underlying tendency (mānānussaya)		Thig2.1
@@ -2215,7 +2215,7 @@ disrobing	encouraging to	Thig6.3
 heavenly realms	life in	Thig8.1
 world, the	as if on fire	Thig8.1
 advice	from mother	Thig9.1
-defilements (āsava)	all ended	Thig9.1
+taints (āsava)	all ended	Thig9.1
 association	with good people	Thig10.1
 friendship		Thig10.1
 association		xref friendship
@@ -2224,7 +2224,7 @@ woman’s life	painful	Thig10.1
 pregnancy	giving birth on road	Thig10.1
 grieving	loss of family	Thig10.1
 co-wives		Thig11.1
-renunciation	as sanctuary	Thig11.1
+renunciation (nekkhamma)	as sanctuary	Thig11.1
 Māra	harassing bhikkhunī	Thig11.1
 bathing	as ritual	Thig12.1
 purification	with water	Thig12.1
@@ -2304,7 +2304,7 @@ sense doors, guarding (indriyesu guttadvāra)	definition	AN3.16
 eating in moderation	definition	AN3.16
 eating		xref eating in moderation
 wakefulness (jāgara)	definition	AN3.16
-defilements (āsava)	groundwork for ending	AN3.16
+taints (āsava)	groundwork for ending	AN3.16
 wealth	shopkeeper increasing	AN3.19
 meditation	applying oneself to in morning, midday, afternoon	AN3.19
 wealth	shopkeeper increasing	AN3.20
@@ -2596,7 +2596,7 @@ asking forgiveness	for criticizing the Buddha	AN3.91
 monastic rules (vinaya)	Buddha giving a talk on	AN3.91
 farming	like mendicant practicing	AN3.92
 zeal (chanda)		AN3.92
-wishing	doesn’t bring results	AN3.92
+wishing (patthana)	doesn’t bring results	AN3.92
 rag-robe wearing	of other sects	AN3.93
 alms food	of other sects	AN3.93
 forest dwelling	of other sects	AN3.93
@@ -2672,11 +2672,11 @@ Dhamma teachers	rarity of	AN3.114
 grateful person	rarity of	AN3.114
 heavenly realms	lifespan in	AN3.116
 dimension of infinite space (ākāsānañcāyatana)		AN3.116
-gods of the dimension of infinite space (ākāsānañcāyatana devā		AN3.116
+gods of the dimension of infinite space (ākāsānañcāyatana devā)		AN3.116
 dimension of infinite consciousness (viññāṇañcāyatana) 		AN3.116
 gods of the dimension of infinite consciousness (viññāṇañcāyatana devā) 		AN3.116
 dimension of nothingness (ākiñcaññāyatana)		AN3.116
-gods of the dimension of nothingness (ākiñcaññāyatanūpagānaṁ devānaṁ)		AN3.116
+gods of the dimension of nothingness (ākiñcaññāyatanūpagānaṁ devā)		AN3.116
 rebirth	of an ordinary person vs. a disciple of the Buddha	AN3.116
 accomplishment in virtue (sīlasampadā)	definition	AN3.117
 accomplishment in mind (cittasampadā)	definition	AN3.117
@@ -3850,6 +3850,10 @@ sign of the beautiful (subhanimitta)	revulsion at	AN5.30
 sign of the ugly (asubhanimitta)	development	AN5.30
 impermanence meditation	towards sense contact	AN5.30
 aggregates (khandha)	seeing rise and fall of	AN5.30
+bliss of renunciation (nekkhammasukha)	Buddha has 	AN5.30
+bliss of seclusion (pavivekasukha)	Buddha has 	AN5.30
+bliss of peace (upasamasukha)	Buddha has 	AN5.30
+bliss of awakening (sambodhasukha)	Buddha has 	AN5.30
 Sumanā, Princess	asks about giving	AN5.31
 giving (dāna)	benefits in future lives	AN5.31
 Cundī, Princess	asks about rebirth	AN5.32
@@ -3878,7 +3882,7 @@ good people (sappurisa)	benefit family	AN5.42
 practicing	not wishing	AN5.43
 prayer	ineffective for getting what one wants	AN5.43
 long life	not gained by wishing	AN5.43
-wishing	doesn’t bring results	AN5.43
+wishing (patthana)	doesn’t bring results	AN5.43
 fame	wishing for	AN5.43
 heaven	wishing for	AN5.43
 Ugga of Vesālī, householder	giving to Buddha	AN5.44
@@ -3986,11 +3990,11 @@ perception of repulsiveness of food (āhāre paṭikūlasañña)	leading to disi
 perception of dissatisfaction with the whole world (sabbaloke anabhiratasañña)	leading to disillusionment	AN5.69
 perception of impermanence (aniccasañña)	leading to disillusionment	AN5.69
 perception of death (maraṇasañña)	leading to disillusionment	AN5.69
-perception of ugliness (asubhasañña)	leading to ending of defilements (āsava)	AN5.70
-perception of repulsiveness of food (āhāre paṭikūlasañña)	leading to ending of defilements (āsava)	AN5.70
-perception of dissatisfaction with the whole world (sabbaloke anabhiratasañña)	leading to ending of defilements (āsava)	AN5.70
-perception of impermanence (aniccasañña)	leading to ending of defilements (āsava)	AN5.70
-perception of death (maraṇasañña)	leading to ending of defilements (āsava)	AN5.70
+perception of ugliness (asubhasañña)	leading to ending of taints (āsava)	AN5.70
+perception of repulsiveness of food (āhāre paṭikūlasañña)	leading to ending of taints (āsava)	AN5.70
+perception of dissatisfaction with the whole world (sabbaloke anabhiratasañña)	leading to ending of taints (āsava)	AN5.70
+perception of impermanence (aniccasañña)	leading to ending of taints (āsava)	AN5.70
+perception of death (maraṇasañña)	leading to ending of taints (āsava)	AN5.70
 perception of ugliness (asubhasañña)	result in cetovimutti	AN5.71
 perception of repulsiveness of food (āhāre paṭikūlasañña)	result in cetovimutti	AN5.71
 perception of dissatisfaction with the whole world (sabbaloke anabhiratasañña)	result in cetovimutti	AN5.71
@@ -4073,7 +4077,7 @@ reviewing (paccavekkhaṇā)	trainee	AN5.89
 work	having much and competent in	AN5.90
 seclusion	not dedicated to leads to decline	AN5.90
 socializing	leads to decline	AN5.90
-speech	topics of discussion	AN5.90
+talk (kathā)		AN5.90
 accomplishments	in faith, ethics, learning, generosity, and wisdom 	AN5.91
 accomplishments	in ethics, immersion, wisdom, freedom, and the knowledge and vision of freedom 	AN5.92
 declaring enlightenment	rightly and wrongly	AN5.93
@@ -4145,7 +4149,7 @@ long life	promoting and impeding	AN5.126
 celibacy	and long life	AN5.125
 solitude	qualifications for living alone	AN5.127
 contentment (santuṭṭhi)	qualification for living alone	AN5.127
-renunciation	qualification for living alone	AN5.127
+renunciation (nekkhamma)	qualification for living alone	AN5.127
 monastic life	dissatisfaction with	AN5.128
 contentment (santuṭṭhi)	lack of is suffering for monastic	AN5.128
 actions (kamma)		xref heinous actions, five (ānantarika kamma)
@@ -4274,7 +4278,7 @@ quick-witted (khippanisanti)	definition	AN5.169
 Bhaddaji, Ven.	best sight, etc.	AN5.170
 Ānanda, Ven.	best sight, etc.	AN5.170
 Brahmā	best sight	AN5.170
-defilements (āsava)	ending is the best	AN5.170
+taints (āsava)	ending is the best	AN5.170
 timidity (sārajja)	qualities that make one	AN5.171
 precepts, five	breaking them makes you timit	AN5.171
 self assured (visārada)	qualities that make one	AN5.172
@@ -4671,10 +4675,11 @@ disputes	in the Saṅgha 	AN2.63
 happiness (sukha)	of lay people and of monastics	AN2.64
 monastics	happiness of is superior	AN2.64
 happiness (sukha)	of sensuality and of renunciation	AN2.65
-renunciation	happiness of is superior	AN2.65
+renunciation (nekkhamma)	happiness of is superior	AN2.65
+bliss of renunciation (nekkhammasukha)	superior to happiness of sensuality 	AN2.65
 happiness (sukha)	attachment/acquisitions (upadhi) and	AN2.66
 acquisitions (upadhi)	happiness and	AN2.66
-happiness (sukha)	defilements (āsava) and	AN2.67
+happiness (sukha)	taints (āsava) and	AN2.67
 happiness (sukha)	material and spiritual	AN2.68
 spiritual happiness (nirāmisa sukha)	better than material happiness	AN2.68
 non-worldly		xref spiritual (nirāmisa)
@@ -4713,8 +4718,8 @@ fools	what is and is not the Dhamma	AN2.104
 astute person (paṇḍita)	what is and is not the Dhamma	AN2.105
 fools	vinaya and	AN2.106
 astute person (paṇḍita)	vinaya and	AN2.107
-defilements (āsava)	and remorse	AN2.108
-defilements (āsava)	and remorse	AN2.109
+taints (āsava)	and remorse	AN2.108
+taints (āsava)	and remorse	AN2.109
 restlessness and remorse (uddhaccakukkucca)	when to be remorseful	AN2.108
 restlessness and remorse (uddhaccakukkucca)	when to be remorseful	AN2.109
 monastic rules (vinaya)	allowable and unallowable	AN2.110
@@ -4723,8 +4728,8 @@ monastic rules (vinaya)	what is and is not an offense	AN2.112
 monastic rules (vinaya)	what is and is not an offense	AN2.113
 Dhamma	what is and is not 	AN2.114
 Dhamma	what is and is not 	AN2.115
-defilements (āsava)	knowing what is and is not Dhamma	AN2.114
-defilements (āsava)	knowing what is and is not Dhamma	AN2.115
+taints (āsava)	knowing what is and is not Dhamma	AN2.114
+taints (āsava)	knowing what is and is not Dhamma	AN2.115
 hope (āsa)	hard to give up	AN2.118
 wealth	hope for hard to give up	AN2.118
 long life	hope for hard to give up	AN2.118
@@ -5042,19 +5047,19 @@ rebirth	to lower situation	AN6.57
 results of actions	bright and dark: definition	AN6.57
 actions (kamma)	bright and dark: definition	AN6.57
 rebirth	classes of	AN6.57
-defilements (āsava)	to be given up by restraint	AN6.58
-defilements (āsava)	to be given up by using	AN6.58
-defilements (āsava)	to be given up by enduring	AN6.58
-defilements (āsava)	to be given up by avoiding	AN6.58
-defilements (āsava)	to be given up by removing	AN6.58
-defilements (āsava)	to be given up by developing	AN6.58
-sense restraint (indriyasaṁvara) 	defilements (āsava) and	AN6.58
+taints (āsava)	to be given up by restraint	AN6.58
+taints (āsava)	to be given up by using	AN6.58
+taints (āsava)	to be given up by enduring	AN6.58
+taints (āsava)	to be given up by avoiding	AN6.58
+taints (āsava)	to be given up by removing	AN6.58
+taints (āsava)	to be given up by developing	AN6.58
+sense restraint (indriyasaṁvara) 	taints (āsava) and	AN6.58
 reflection (paṭisaṅkhā)	on using in order to remove defilements	AN6.58
-enduring (adhivāsana)	in order to remove defilements (āsava)	AN6.58
-avoiding (parivajjana)	in order to remove defilements (āsava)	AN6.58
-removing (vinodana)	in order to remove defilements (āsava)	AN6.58
+enduring (adhivāsana)	in order to remove taints (āsava)	AN6.58
+avoiding (parivajjana)	in order to remove taints (āsava)	AN6.58
+removing (vinodana)	in order to remove taints (āsava)	AN6.58
 tolerating bad thoughts	not tolerating	AN6.58
-development (bhāvanā)	in order to remove defilements (āsava)	AN6.58
+development (bhāvanā)	in order to remove taints (āsava)	AN6.58
 development (bhāvanā)	awakening factors, seven (bojjhaṅga)	AN6.58
 giving (dāna)	worthy of gifts	AN6.58
 Dārukammika, householder	giving gifts	AN6.59
@@ -5087,7 +5092,7 @@ psychic powers	knowing the minds of others	AN6.62
 sense pleasures (kāma, kāmaguṇa)	definition	AN6.63
 feelings (vedanā)	definition	AN6.63
 perceptions (saññā)	definition	AN6.63
-defilements (āsava)	definition	AN6.63
+taints (āsava)	definition	AN6.63
 actions (kamma)	definition	AN6.63
 intention (cetana)	is action	AN6.63
 actions (kamma)	intention (cetana)	AN6.63
@@ -5784,11 +5789,11 @@ craving (taṇha)	cannot be satisfied	MN82
 wealthy people	not giving	MN82
 grieving		MN82
 wealth	cannot stop people from aging	MN82
-death	universality of	MN82
+death (maraṇa)	universality of	MN82
 wisdom (paññā)	superior to wealth	MN82
 punishment (daṇḍa)	for evil deeds	MN82
 going forth (pabbajja)	reasons for	MN82
-death	like fruit falling from tree	MN82
+death (maraṇa)	like fruit falling from tree	MN82
 greed	unsatisfied	MN82
 results of actions	like thief caught and punished	MN82
 wealth	left behind after death	MN82
@@ -6286,3 +6291,208 @@ recollection of past lives	mindfulness of the body helps one to achieve	MN119
 knowledge of passing away and rebirth of beings (cutūpapātañāna)	mindfulness of the body helps one to achieve	MN119
 heart’s release (cetovimutti)	mindfulness of the body helps one to achieve	MN119
 release by wisdom (paññavimutti)	mindfulness of the body helps one to achieve	MN119
+rebirth	by choice/aspiration	MN120
+faith (saddhā)	helpful for rebirth by aspiration	MN120
+virtue (sīla)	helpful for rebirth by aspiration	MN120
+learning	helpful for rebirth by aspiration	MN120
+generosity (cāga)	helpful for rebirth by aspiration	MN120
+wisdom (paññā)	helpful for rebirth by aspiration	MN120
+khattiyas	aspiring to be reborn as	MN120
+brahmins	aspiring to be reborn as	MN120
+gods of the Four Great Kings (cātumahārājikā devā)	aspiring to be reborn as	MN120
+gods of the Thirty-Three (tāvatiṁsā devā)	aspiring to be reborn as	MN120
+gods of Yama (yāmā devā)	aspiring to be reborn as	MN120
+Joyful gods (tusitā devā)	aspiring to be reborn as	MN120
+gods that delight in creation (nimmānaratī devā)	aspiring to be reborn as	MN120
+gods Who Control the Creations of Others (paranimmitavasavattī devā) 	aspiring to be reborn as	MN120
+Brahmā of a thousand (sahasso brahmā)	aspiring to be reborn as	MN120
+galaxies	meditating pervading a thousand, etc	MN120
+Radiant Gods (ābhā devā)	aspiring to be reborn as	MN120
+Gods of Limited Radiance (parittābhā devā)	aspiring to be reborn as	MN120
+Gods of Limitless Radiance (appamāṇābhā devā) 	aspiring to be reborn as	MN120
+Gods of Streaming Radiance (ābhassarā devā)	aspiring to be reborn as	MN120
+Gods of Limited Glory (parittasubhā devā)	aspiring to be reborn as	MN120
+Gods of Limitless Glory (appamāṇasubhā devā)	aspiring to be reborn as	MN120
+Gods Replete with Glory (subhakiṇhā devā)	aspiring to be reborn as	MN120
+Gods of Abundant Fruit (vehapphalā devā)		MN120
+Gods of Aviha (avihā devā)	aspiring to be reborn as	MN120
+Gods of Atappa (atappā devā) 		MN120
+Gods Fair to See (sudassā devā)	aspiring to be reborn as	MN120
+Fair Seeing Gods (sudassī devā)		MN120
+Gods of Akaniṭṭha (akaniṭṭhā devā)	aspiring to be reborn as	MN120
+gods of the dimension of infinite space (ākāsānañcāyatana devā)		MN120
+gods of the dimension of infinite consciousness (viññāṇañcāyatana devā)	aspiring to be reborn as	MN120
+gods of the dimension of nothingness (ākiñcaññāyatanūpagānaṁ devā)		MN120
+gods of the dimension of neither perception nor non-perception (nevasaññānāsaññāyatanūpagā devā)	aspiring to be reborn as	MN120
+heart’s release (cetovimutti)	aspiring to attain	MN120
+release by wisdom (paññavimutti)	aspiring to attain	MN120
+Ānanda, Ven.	asking about emptiness	MN121
+emptiness (suññatā)	abiding in/meditating on	MN121
+voidness		xref emptiness (suññatā)
+Palace of Migara’s Mother	emptiness of	MN121
+Buddha, the	meditating on emptiness	MN121
+earth element (pathavī dhātu)	perception of and emptiness	MN121
+hide	bull’s, rid of folds like emptiness meditation	MN121
+dimension of infinite space (ākāsānañcāyatana)	perception of and emptiness	MN121
+dimension of infinite consciousness (viññāṇañcāyatana)	perception of and emptiness	MN121
+dimension of nothingness (ākiñcaññāyatana)	perception of and emptiness	MN121
+dimension of neither perception nor non-perception (nevasaññānāsaññāyatanaṁ)	perception of and emptiness	MN121
+signless immersion of the heart (animittaṁ cetosamādhi) 	oneness and emptiness	MN121
+sense bases (āyatanā)	and emptiness	MN121
+signless concentration of mind		xref signless immersion of the heart (animittaṁ cetosamādhi) 
+taints (āsava)	and emptiness	MN121
+past, present, future	practice of emptiness is same for	MN121
+robes	time for making (cīvarakārasamaya)	MN122
+companionship	being fond of	MN122
+socializing		xref compa
+companionship		xref socializing
+socializing	being fond of	MN122
+bliss of renunciation (nekkhammasukha)	not possible for one who enjoys company	MN122
+bliss of seclusion (pavivekasukha)	not possible for one who enjoys company	MN122
+bliss of peace (upasamasukha)	not possible for one who enjoys company	MN122
+bliss of awakening (sambodhasukha)	not possible for one who enjoys company	MN122
+heart’s release (cetovimutti)	possible for one who lives secluded	MN122
+form (rūpa)	all form desired will cause suffering when it changes	MN122
+emptiness (suññatā)	by not focusing on any signs	MN122
+signless (animitta)	emptiness and	MN122
+Buddha, the	teaches emphasizing the topic of dismissal	MN122
+renunciation (nekkhamma)		xref bliss of renunciation (nekkhammasukha)
+seclusion		xref bliss of seclusion (pavivekasukha)
+peace (upasama)		MN122
+peace (upasama)		xref bliss of peace (upasamasukha)
+awakening (sambodha)		MN122
+awakening (sambodha)		xref bliss of awakening (sambodhasukha)
+concentration (samādhi)	emptiness and	MN122
+jhānas	emptiness and	MN122
+imperturbable (āneñja)	emptiness and	MN122
+postures	awareness and	MN122
+topics of discussion		xref speech
+sign of concentration (samādhinimitta)		MN122
+talk (kathā)	suitable	MN122
+talk (kathā)	unsuitable	MN122
+speech		xref talk (kathā)
+talk (kathā)		xref speech
+talk (kathā)		xref socializing
+sense pleasures (kāma, kāmaguṇa)	mind taking an interest in	MN122
+aggregates (khandha)	giving up conceit “I am”	MN122
+thoughts (vitakkā)	skillful and unskillful	MN122
+teachers	teacher’s undoing	MN122
+monastic life	undoing of, peril of	MN122
+Buddha, the	teaches with compassion	MN122
+Buddha, the	treating as a friend	MN122
+listening to Dhamma	properly and improperly	MN122
+Buddha, the	not treating students like potter with wet clay	MN122
+incredible and amazing (acchariyā abbhutā)	events connected with the Buddha	MN123
+Buddha, the	knowing Buddhas of the past	MN123
+Bodhisatta	birth of	MN123
+Bodhisatta	mother	MN123
+Joyful gods (tusitā devā)	Bodhisatta reborn among	MN123
+Māyā, queen Mahā	pregnancy and birth of Bodhisatta	MN123
+light	spreading through the universe	MN123
+earthquake	associated with events in Buddha’s life	MN123
+Four Great Kings, the (catumahārāja)	guarding queen Māyā (comy.)	MN123
+Māyā, queen Mahā	reborn in Tusita heaven	MN123
+water	two streams from heaven uppon Bodhisatta’s birth	MN123
+sexual intercourse	Ven. Bakkula being asked about	MN124
+sense perceptions (kāmasaññā)	Ven. Bakkula and	MN124
+incredible and amazing (acchariyā abbhutā)	qualities of Ven. Bakkula	MN124
+Bakkula, Ven.	qualities of	MN124
+robes	Ven. Bakkula never accepting from householder	MN124
+going forth (pabbajja)	Ven. Bakkula never giving	MN124
+health	Ven. Bakkula having perfect	MN124
+debt (iṇa)	almsfood free from	MN124
+mortification (tapojigucchā)		xref ascetic practices (dhutaṅga)
+ascetic practices (dhutaṅga)	Ven. Bakkula 	MN124
+Kassapa, naked ascetic	friend of Ven. Bakkula	MN124
+parinibbana	in the middle of the Saṅgha	MN124
+Aciravata, novice	conversation with Prince Jayasena	MN125
+Jayasena, prince	asking about training	MN125
+unification of mind (cittassa ekaggatā)	possibility of	MN125
+Dhamma teaching	not being competent to	MN125
+sense pleasures (kāma, kāmaguṇa)	mind obsessed with cannot understand Dhamma	MN125
+renunciation (nekkhamma)	what can only be known through	MN125
+sense pleasures (kāma, kāmaguṇa)	blocking realization	MN125
+elephants	trained and untrained, simile of	MN125
+horses	trained and untrained, simile of	MN125
+oxen	trained and untrained, simile of	MN125
+mountains	blocking view, simile for ignorance blocking realization	MN125
+elephants	simile of gradual training	MN125
+gradual training (anupubbasikkhā)	in detail	MN125
+virtue (sīla)	part of gradual training	MN125
+sense doors, guarding (indriyesu guttadvāra)	part of gradual training	MN125
+foundations of mindfulness (satipaṭṭhāna)	part of gradual training	MN125
+foundations of mindfulness (satipaṭṭhāna)	like a pillar grounded in the earth	MN125
+foundations of mindfulness (satipaṭṭhāna)	not thinking thoughts connected with sensual pleasures	MN125
+enduring (khama)	criticism	MN125
+enduring (khama)	unpleasant things	MN125
+tamed (danta)	in any stage of life	MN125
+Jayasena, prince	asking about wishing	MN126
+wish (āsā)	making or not making regarding spiritual practice	MN126
+spiritual path (brahmacariya)	making or not making a wish about	MN126
+fruit, spiritual (phala)	wishing for	MN126
+properly (yoniso)	leading the spiritual life	MN126
+improperly (ayoniso)	leading the spiritual life	MN126
+wrong eightfold path	doesn’t bear fruit	MN126
+oil	person needing, simile of right and wrong practice	MN126
+milk	person needing, simile of right and wrong practice	MN126
+butter	person needing, simile of right and wrong practice	MN126
+fire	person needing, simile of right and wrong practice	MN126
+noble eightfold path (ariya aṭṭhangika magga)	does bear fruit	MN126
+Pañcakaṅga, master builder		MN127
+Anuruddha, Ven.		MN127
+limitless release of heart (appamāṇa cetovimutti)	expansive release of heart compared to	MN127
+expansive release of heart (mahaggata cetovimutti) 	limitless release of heart compared to	MN127
+immeasurable deliverance of mind		xref limitless release of heart (appamāṇa cetovimutti)
+exalted deliverance of mind		xref expansive release of heart (mahaggata cetovimutti) 
+limitless release of heart (appamāṇa cetovimutti)	definition	MN127
+expansive release of heart (mahaggata cetovimutti) 	definition	MN127
+brahmaviharas	limitless release of heart (appamāṇa cetovimutti)	MN127
+loving-kindness (mettā)	limitless release of heart (appamāṇa cetovimutti)	MN127
+Gods of Limited Radiance (parittābhā devā)		MN127
+Gods of Limitless Radiance (appamāṇābhā devā)		MN127
+gods of corrupted radiance (saṅkiliṭṭhābhānaṁ devā)		MN127
+gods of pure radiance (parisuddhābhānaṁ devā)		MN127
+gods	difference between	MN127
+oil lamps	simile of differences between gods	MN127
+flies	simile of thoughts of gods	MN127
+Sabhiya Kaccāna, Ven		MN127
+Kosambi	dispute at	MN128
+disputes	at Kosambi	MN128
+grudge		MN128
+thieves	live in harmony, so why can’t monks	MN128
+companionship	good	MN128
+solitude	better than association with fools 	MN128
+Bhagu, Ven.	living alone	MN128
+Anuruddha, Ven.	living with Ven. Nandiya and Kimbila	MN128
+Nandiya, Ven.	living with Ven. Anuruddha and Kimbila	MN128
+Kimbila, Ven.	living with Ven. Anuruddha and Nandiya	MN128
+harmony (samagga)	example of	MN128
+monastic life	duties	MN128
+loving-kindness (mettā)	as principle of cordiality	MN128
+loving-kindness (mettā)	by body, speech, and mind	MN128
+good friends	example of	MN128
+recollection of spiritual friends (kalyāṇamitta ānussati)	living in harmony	MN128
+heedfulness (appamāda)	example of	MN128
+alms gathering practice	logistics	MN128
+silence	living in	MN128
+superhuman states (uttari manussadhamma)	examples of	MN128
+meditation	advice for	MN128
+meditation	problems with	MN128
+Bodhisatta	meditation experience	MN128
+doubt (vicikicchā)	ending concentration	MN128
+attention (manasikāra)	loss of ending concentration	MN128
+dullness and drowsiness (thinamiddha)	ending concentration	MN128
+terror (chambhitatta)	ending concentration	MN128
+fear (bhaya)		xref terror (chambhitatta)
+terror (chambhitatta)		xref fear (bhaya)
+killers	attacking a traveler as simile for terror	MN128
+excitement (uppila)	ending concentration	MN128
+treasures	coming upon hidden treasure as simile for excitement in meditation	MN129
+discomfort (duṭṭhulla)	ending concentration	MN128
+inertia (duṭṭhulla)		xref discomfort (duṭṭhulla)
+excess energy (accāraddhavīriya)	ending concentration	MN128
+excess energy (accāraddhavīriya)	too much leads to restlessness 	AN6.55
+energy (vīriya) 		xref excess energy (accāraddhavīriya)
+energy (vīriya) 		xref energy, stirring up (vīriyārambha)
+energy (vīriya) 		xref awakening factor of energy (vīriyasambojjhaṅga)
+energy (vīriya) 		xref energy, stirring up (vīriyārambha)
