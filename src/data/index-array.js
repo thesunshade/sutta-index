@@ -1386,7 +1386,7 @@ export const indexArray =[
      ],
      [
           "AN2.21",
-          "fools",
+          "fools (bāla)",
           ""
      ],
      [
@@ -2096,7 +2096,7 @@ export const indexArray =[
      ],
      [
           "AN2.98",
-          "fools",
+          "fools (bāla)",
           ""
      ],
      [
@@ -2106,7 +2106,7 @@ export const indexArray =[
      ],
      [
           "AN2.100",
-          "fools",
+          "fools (bāla)",
           "vinaya and"
      ],
      [
@@ -2121,7 +2121,7 @@ export const indexArray =[
      ],
      [
           "AN2.102",
-          "fools",
+          "fools (bāla)",
           "vinaya and"
      ],
      [
@@ -2131,7 +2131,7 @@ export const indexArray =[
      ],
      [
           "AN2.104",
-          "fools",
+          "fools (bāla)",
           "what is and is not the Dhamma"
      ],
      [
@@ -2141,7 +2141,7 @@ export const indexArray =[
      ],
      [
           "AN2.106",
-          "fools",
+          "fools (bāla)",
           "vinaya and"
      ],
      [
@@ -2351,7 +2351,7 @@ export const indexArray =[
      ],
      [
           "AN2.134",
-          "fools",
+          "fools (bāla)",
           "blame and praise wrongly"
      ],
      [
@@ -2431,17 +2431,17 @@ export const indexArray =[
      ],
      [
           "AN3.1",
-          "fools",
+          "fools (bāla)",
           "dangers, perils, hazzards come from"
      ],
      [
           "AN3.1",
-          "fools",
+          "fools (bāla)",
           "like fire that spreads to houses"
      ],
      [
           "AN3.2",
-          "fools",
+          "fools (bāla)",
           "known by actions"
      ],
      [
@@ -2451,7 +2451,7 @@ export const indexArray =[
      ],
      [
           "AN3.3",
-          "fools",
+          "fools (bāla)",
           "characteristics"
      ],
      [
@@ -2481,7 +2481,7 @@ export const indexArray =[
      ],
      [
           "AN3.6",
-          "fools",
+          "fools (bāla)",
           "characteristics"
      ],
      [
@@ -3351,7 +3351,7 @@ export const indexArray =[
      ],
      [
           "AN3.61",
-          "mental preoccupations (manopavicārāti)",
+          "mental preoccupations (manopavicāra)",
           ""
      ],
      [
@@ -4796,7 +4796,7 @@ export const indexArray =[
      ],
      [
           "AN3.150",
-          "fools",
+          "fools (bāla)",
           "harm themselves with bad action"
      ],
      [
@@ -7771,12 +7771,12 @@ export const indexArray =[
      ],
      [
           "AN4.212",
-          "heaven",
+          "heaven (sagga)",
           "actions that lead to"
      ],
      [
           "AN4.212",
-          "heaven",
+          "heaven (sagga)",
           "right view leads to"
      ],
      [
@@ -7811,12 +7811,12 @@ export const indexArray =[
      ],
      [
           "AN4.215",
-          "heaven",
+          "heaven (sagga)",
           "actions that lead to"
      ],
      [
           "AN4.216",
-          "heaven",
+          "heaven (sagga)",
           "right view leads to"
      ],
      [
@@ -7916,7 +7916,7 @@ export const indexArray =[
      ],
      [
           "AN4.224",
-          "fools",
+          "fools (bāla)",
           "make bad karma"
      ],
      [
@@ -8261,7 +8261,7 @@ export const indexArray =[
      ],
      [
           "AN4.262",
-          "fools",
+          "fools (bāla)",
           "harm themselves with bad action"
      ],
      [
@@ -8371,7 +8371,7 @@ export const indexArray =[
      ],
      [
           "AN5.4",
-          "heaven",
+          "heaven (sagga)",
           "qualities that lead to"
      ],
      [
@@ -8961,7 +8961,7 @@ export const indexArray =[
      ],
      [
           "AN5.43",
-          "heaven",
+          "heaven (sagga)",
           "wishing for"
      ],
      [
@@ -14716,11 +14716,6 @@ export const indexArray =[
      ],
      [
           "AN7.21",
-          "Vajjis ",
-          "taught the principles that prevent decline"
-     ],
-     [
-          "AN7.21",
           "arahants",
           "protecting leads to growth"
      ],
@@ -14731,12 +14726,22 @@ export const indexArray =[
      ],
      [
           "AN7.21",
-          "harmony (samagga)",
+          "respect (gārava)",
           "leads to growth"
      ],
      [
           "AN7.21",
-          "respect (gārava)",
+          "tradition (vaṁsa)",
+          "leads to growth"
+     ],
+     [
+          "AN7.21",
+          "Vajjis ",
+          "taught the principles that prevent decline"
+     ],
+     [
+          "AN7.21",
+          "harmony (samagga)",
           "leads to growth"
      ],
      [
@@ -14753,11 +14758,6 @@ export const indexArray =[
           "AN7.21",
           "society",
           "principles that lead to growth"
-     ],
-     [
-          "AN7.21",
-          "tradition (vaṁsa)",
-          "leads to growth"
      ],
      [
           "AN7.22",
@@ -15531,6 +15531,11 @@ export const indexArray =[
      ],
      [
           "AN7.56",
+          "signless meditator (animittavihāri)",
+          ""
+     ],
+     [
+          "AN7.56",
           "Tissa, Brahma",
           "former monk"
      ],
@@ -15543,11 +15548,6 @@ export const indexArray =[
           "AN7.56",
           "one freed both ways (ubhatobhāgavimutta)",
           "known by gods of Brahmā’s Host"
-     ],
-     [
-          "AN7.56",
-          "signless meditator (animittavihāri)",
-          ""
      ],
      [
           "AN7.57",
@@ -16761,12 +16761,12 @@ export const indexArray =[
      ],
      [
           "Dhp60",
-          "fools",
+          "fools (bāla)",
           "long in saṁsara"
      ],
      [
           "Dhp61",
-          "fools",
+          "fools (bāla)",
           "don’t associate with"
      ],
      [
@@ -16796,7 +16796,7 @@ export const indexArray =[
      ],
      [
           "Dhp66",
-          "fools",
+          "fools (bāla)",
           "own worst enemy"
      ],
      [
@@ -16816,12 +16816,12 @@ export const indexArray =[
      ],
      [
           "Dhp73",
-          "fools",
+          "fools (bāla)",
           "seeking power"
      ],
      [
           "Dhp74",
-          "fools",
+          "fools (bāla)",
           "seeking power"
      ],
      [
@@ -17966,7 +17966,7 @@ export const indexArray =[
      ],
      [
           "Dhp365",
-          "envy",
+          "envy (issā)",
           "block to concentration"
      ],
      [
@@ -18101,7 +18101,7 @@ export const indexArray =[
      ],
      [
           "Dhp chapter 5",
-          "fools",
+          "fools (bāla)",
           ""
      ],
      [
@@ -19136,6 +19136,11 @@ export const indexArray =[
      ],
      [
           "Kp5",
+          "Dhamma discussion",
+          "time for"
+     ],
+     [
+          "Kp5",
           "actions (kamma)",
           "blameless"
      ],
@@ -19143,11 +19148,6 @@ export const indexArray =[
           "Kp5",
           "admonishment",
           "being easy to (sovacassatā)"
-     ],
-     [
-          "Kp5",
-          "Dhamma discussion",
-          "time for"
      ],
      [
           "Kp5",
@@ -19801,13 +19801,18 @@ export const indexArray =[
      ],
      [
           "MN82",
+          "going forth (pabbajja)",
+          "reasons for"
+     ],
+     [
+          "MN82",
           "greed",
           "unsatisfied"
      ],
      [
           "MN82",
-          "heirs",
-          "will get all of our wealth when we die"
+          "grieving",
+          ""
      ],
      [
           "MN82",
@@ -19821,13 +19826,8 @@ export const indexArray =[
      ],
      [
           "MN82",
-          "going forth (pabbajja)",
-          "reasons for"
-     ],
-     [
-          "MN82",
-          "grieving",
-          ""
+          "heirs",
+          "will get all of our wealth when we die"
      ],
      [
           "MN82",
@@ -22181,17 +22181,12 @@ export const indexArray =[
      ],
      [
           "MN115",
-          "Sakka, Lord of Gods",
-          "impossible for woman to be "
-     ],
-     [
-          "MN115",
-          "fools",
+          "fools (bāla)",
           "cause danger like a fire spreading "
      ],
      [
           "MN115",
-          "fools",
+          "fools (bāla)",
           "dangers, perils, hazzards come from"
      ],
      [
@@ -22201,13 +22196,18 @@ export const indexArray =[
      ],
      [
           "MN115",
-          "good actions",
-          "impossible to lead to bad destination"
+          "Māra",
+          "impossible for woman to be "
      ],
      [
           "MN115",
-          "Māra",
+          "Sakka, Lord of Gods",
           "impossible for woman to be "
+     ],
+     [
+          "MN115",
+          "good actions",
+          "impossible to lead to bad destination"
      ],
      [
           "MN115",
@@ -22276,11 +22276,6 @@ export const indexArray =[
      ],
      [
           "MN116",
-          "paccekabuddhas",
-          "on Isigili mountain"
-     ],
-     [
-          "MN116",
           "Paṇḍava, mountain",
           ""
      ],
@@ -22293,6 +22288,11 @@ export const indexArray =[
           "MN116",
           "Vepulla, mountain",
           ""
+     ],
+     [
+          "MN116",
+          "paccekabuddhas",
+          "on Isigili mountain"
      ],
      [
           "MN117",
@@ -22506,7 +22506,17 @@ export const indexArray =[
      ],
      [
           "MN118",
+          "compassion (karuna)",
+          "monks committed to developing"
+     ],
+     [
+          "MN118",
           "concentration (samādhi)",
+          "mindfulness of breathing"
+     ],
+     [
+          "MN118",
+          "cross-legged (pallaṅka)",
           "mindfulness of breathing"
      ],
      [
@@ -22541,21 +22551,6 @@ export const indexArray =[
      ],
      [
           "MN118",
-          "Komudi full moon ",
-          ""
-     ],
-     [
-          "MN118",
-          "compassion (karuna)",
-          "monks committed to developing"
-     ],
-     [
-          "MN118",
-          "cross-legged (pallaṅka)",
-          "mindfulness of breathing"
-     ],
-     [
-          "MN118",
           "happiness (sukha)",
           "mindfulness of breathing (bliss)"
      ],
@@ -22578,6 +22573,11 @@ export const indexArray =[
           "MN118",
           "knowledge and freedom (vijjāvimutti)",
           "mindfulness of breathing"
+     ],
+     [
+          "MN118",
+          "Komudi full moon ",
+          ""
      ],
      [
           "MN118",
@@ -23391,6 +23391,11 @@ export const indexArray =[
      ],
      [
           "MN124",
+          "Kassapa, naked ascetic",
+          "friend of Ven. Bakkula"
+     ],
+     [
+          "MN124",
           "going forth (pabbajja)",
           "Ven. Bakkula never giving"
      ],
@@ -23403,11 +23408,6 @@ export const indexArray =[
           "MN124",
           "incredible and amazing (acchariyā abbhutā)",
           "qualities of Ven. Bakkula"
-     ],
-     [
-          "MN124",
-          "Kassapa, naked ascetic",
-          "friend of Ven. Bakkula"
      ],
      [
           "MN124",
@@ -23438,6 +23438,11 @@ export const indexArray =[
           "MN125",
           "Dhamma teaching",
           "not being competent to"
+     ],
+     [
+          "MN125",
+          "gradual training (anupubbasikkhā)",
+          "in detail"
      ],
      [
           "MN125",
@@ -23478,11 +23483,6 @@ export const indexArray =[
           "MN125",
           "foundations of mindfulness (satipaṭṭhāna)",
           "part of gradual training"
-     ],
-     [
-          "MN125",
-          "gradual training (anupubbasikkhā)",
-          "in detail"
      ],
      [
           "MN125",
@@ -23686,16 +23686,6 @@ export const indexArray =[
      ],
      [
           "MN128",
-          "Bodhisatta",
-          "meditation experience"
-     ],
-     [
-          "MN128",
-          "alms gathering practice",
-          "logistics"
-     ],
-     [
-          "MN128",
           "attention (manasikāra)",
           "loss of ending concentration"
      ],
@@ -23703,6 +23693,11 @@ export const indexArray =[
           "MN128",
           "Bhagu, Ven.",
           "living alone"
+     ],
+     [
+          "MN128",
+          "Bodhisatta",
+          "meditation experience"
      ],
      [
           "MN128",
@@ -23721,8 +23716,23 @@ export const indexArray =[
      ],
      [
           "MN128",
+          "alms gathering practice",
+          "logistics"
+     ],
+     [
+          "MN128",
           "companionship",
           "good"
+     ],
+     [
+          "MN128",
+          "concentration (samādhi)",
+          "problems maintaining"
+     ],
+     [
+          "MN128",
+          "corruptions (upakkilesa)",
+          "of the mind"
      ],
      [
           "MN128",
@@ -23736,6 +23746,11 @@ export const indexArray =[
      ],
      [
           "MN128",
+          "diversified perception (nānattasaññina)",
+          "ending concentration"
+     ],
+     [
+          "MN128",
           "doubt (vicikicchā)",
           "ending concentration"
      ],
@@ -23743,6 +23758,11 @@ export const indexArray =[
           "MN128",
           "dullness and drowsiness (thinamiddha)",
           "ending concentration"
+     ],
+     [
+          "MN128",
+          "energy (vīriya)",
+          "overly lax energy and ending concentration"
      ],
      [
           "MN128",
@@ -23776,8 +23796,23 @@ export const indexArray =[
      ],
      [
           "MN128",
+          "jhānas",
+          "knowledge and vision"
+     ],
+     [
+          "MN128",
           "killers",
           "attacking a traveler as simile for terror"
+     ],
+     [
+          "MN128",
+          "knowledge and vision (ñāṇadassana)",
+          "jhāna"
+     ],
+     [
+          "MN128",
+          "longing (abhijappā)",
+          "ending concentration"
      ],
      [
           "MN128",
@@ -23811,6 +23846,16 @@ export const indexArray =[
      ],
      [
           "MN128",
+          "quail",
+          "gripping too loosely as simile for excess energy"
+     ],
+     [
+          "MN128",
+          "quail",
+          "gripping too tightly as simile for excess energy"
+     ],
+     [
+          "MN128",
           "recollection of spiritual friends (kalyāṇamitta ānussati)",
           "living in harmony"
      ],
@@ -23841,8 +23886,223 @@ export const indexArray =[
      ],
      [
           "MN129",
+          "animal realm",
+          "gluttony as cause for rebirth in"
+     ],
+     [
+          "MN129",
+          "animal realm",
+          "suffering in"
+     ],
+     [
+          "MN129",
+          "astute person (paṇḍita)",
+          "can recognize another"
+     ],
+     [
+          "MN129",
+          "astute person (paṇḍita)",
+          "characteristics"
+     ],
+     [
+          "MN129",
+          "astute person (paṇḍita)",
+          "knows a fool"
+     ],
+     [
+          "MN129",
+          "astute person (paṇḍita)",
+          "no fear of punishment"
+     ],
+     [
+          "MN129",
+          "astute person (paṇḍita)",
+          "no regret"
+     ],
+     [
+          "MN129",
+          "brahmins",
+          "running to a burnt offering"
+     ],
+     [
+          "MN129",
+          "fools (bāla)",
+          "characteristics"
+     ],
+     [
+          "MN129",
+          "fools (bāla)",
+          "fear of punishment"
+     ],
+     [
+          "MN129",
+          "fools (bāla)",
+          "rebirth of"
+     ],
+     [
+          "MN129",
+          "fools (bāla)",
+          "reborn in difficult human life"
+     ],
+     [
+          "MN129",
+          "fools (bāla)",
+          "reborn in low families"
+     ],
+     [
+          "MN129",
+          "fools (bāla)",
+          "regret"
+     ],
+     [
+          "MN129",
+          "fools (bāla)",
+          "suffering of"
+     ],
+     [
+          "MN129",
+          "gambler",
+          "simile for rebirth in good and bad destinations"
+     ],
+     [
+          "MN129",
+          "gluttony (rasāda)",
+          "leading to rebirth in animal realm"
+     ],
+     [
+          "MN129",
+          "Great Hell (mahāniraya)",
+          "description of"
+     ],
+     [
+          "MN129",
+          "heaven (sagga)",
+          "description of"
+     ],
+     [
+          "MN129",
+          "hell (niraya)",
+          "completely disagreeable"
+     ],
+     [
+          "MN129",
+          "hell (niraya)",
+          "description of"
+     ],
+     [
+          "MN129",
+          "hell (niraya)",
+          "torture in "
+     ],
+     [
+          "MN129",
+          "mountains",
+          "shadow of as simile for regret spreading over a fool"
+     ],
+     [
+          "MN129",
+          "precepts, five",
+          "taught by wheel-turning monarchs"
+     ],
+     [
+          "MN129",
+          "punishment (daṇḍa)",
+          "examples of"
+     ],
+     [
+          "MN129",
+          "rebirth",
+          "actions as cause for"
+     ],
+     [
+          "MN129",
+          "rebirth",
+          "as animal"
+     ],
+     [
+          "MN129",
+          "rebirth",
+          "of bad people"
+     ],
+     [
+          "MN129",
+          "rebirth",
+          "of good people"
+     ],
+     [
+          "MN129",
+          "regret",
+          "having and not having"
+     ],
+     [
+          "MN129",
+          "regret",
+          "over life poorly lived"
+     ],
+     [
+          "MN129",
+          "swords",
+          "striking with as simile for hell"
+     ],
+     [
+          "MN129",
+          "taxation",
+          "wheel-turning monarchs do not increase taxes"
+     ],
+     [
+          "MN129",
+          "torture",
+          "in hell"
+     ],
+     [
+          "MN129",
+          "torture",
+          "in human world"
+     ],
+     [
+          "MN129",
+          "treasures, seven (satta ratanāni)",
+          "of wheel-turning monarch"
+     ],
+     [
+          "MN129",
           "treasures",
           "coming upon hidden treasure as simile for excitement in meditation"
+     ],
+     [
+          "MN129",
+          "turtle and yoke",
+          "simile of being in lower world reborn as human"
+     ],
+     [
+          "MN129",
+          "underworld (vinipāta)",
+          "no good conduct in"
+     ],
+     [
+          "MN129",
+          "wheel-turning monarchs",
+          "description of"
+     ],
+     [
+          "MN129",
+          "wheel-turning monarchs",
+          "simile for pleasures in heaven"
+     ],
+     [
+          "MN130",
+          "baby",
+          "as divine messenger"
+     ],
+     [
+          "MN130",
+          "birth (jāti)",
+          "being liable to"
+     ],
+     [
+          "MN130",
+          "dead body",
+          "as divine messenger"
      ],
      [
           "MN130",
@@ -23850,9 +24110,694 @@ export const indexArray =[
           "as divine messenger"
      ],
      [
+          "MN130",
+          "death (maraṇa)",
+          "being liable to"
+     ],
+     [
+          "MN130",
+          "divine messengers (devadūta)",
+          "description of"
+     ],
+     [
+          "MN130",
+          "Dung Hell (gūthaniraya)",
+          "description of"
+     ],
+     [
+          "MN130",
+          "Great Hell (mahāniraya)",
+          "description of"
+     ],
+     [
+          "MN130",
+          "heedlessness (pamāda)",
+          "when seeing divine messengers"
+     ],
+     [
+          "MN130",
+          "Hell of Hot Coals (kukkulaniraya)",
+          ""
+     ],
+     [
+          "MN130",
+          "Hell of Hot Coals (kukkulaniraya)",
+          "description of"
+     ],
+     [
+          "MN130",
+          "hell (niraya)",
+          "description of"
+     ],
+     [
+          "MN130",
+          "hell (niraya)",
+          "torture in "
+     ],
+     [
+          "MN130",
+          "knowledge of passing away and rebirth of beings (cutūpapātañāna)",
+          "in hell"
+     ],
+     [
+          "MN130",
+          "knowledge of passing away and rebirth of beings (cutūpapātañāna)",
+          "power of the Buddha"
+     ],
+     [
+          "MN130",
+          "Yama, King",
+          "questioning beings reborn in hell"
+     ],
+     [
+          "MN130",
+          "hell (niraya)",
+          "trying to eat and drink in"
+     ],
+     [
+          "MN130",
+          "old age",
+          "being liable to"
+     ],
+     [
+          "MN130",
+          "old person",
+          "as divine messenger"
+     ],
+     [
+          "MN130",
+          "punishment (daṇḍa)",
+          "examples of"
+     ],
+     [
+          "MN130",
+          "results of actions",
+          "no one else can experience for us"
+     ],
+     [
+          "MN130",
+          "sick person",
+          "as divine messenger"
+     ],
+     [
+          "MN130",
+          "sickness",
+          "being liable to"
+     ],
+     [
+          "MN130",
+          "thieves (cora)",
+          "as divine messenger"
+     ],
+     [
+          "MN130",
+          "torture",
+          "in hell"
+     ],
+     [
+          "MN131",
+          "aggregates (khandha)",
+          "as self"
+     ],
+     [
+          "MN131",
+          "aggregates (khandha)",
+          "future"
+     ],
+     [
+          "MN131",
+          "aggregates (khandha)",
+          "past"
+     ],
+     [
+          "MN131",
+          "death (maraṇa)",
+          "may come tomorrow"
+     ],
+     [
+          "MN131",
+          "delight (nandi)",
+          "in aggregates"
+     ],
+     [
+          "MN131",
+          "future (anāgata)",
+          "hope for"
+     ],
+     [
+          "MN131",
+          "hope (āsa)",
+          "for future"
+     ],
+     [
+          "MN131",
+          "ordinary person (puthujjana)",
+          "identity view"
+     ],
+     [
+          "MN131",
+          "past (atīta)",
+          "aggregates in"
+     ],
+     [
+          "MN131",
+          "past (atīta)",
+          "running back to"
+     ],
+     [
+          "MN131",
+          "present (paccuppanna)",
+          "see phenomenon in clearly"
+     ],
+     [
+          "MN131",
+          "views about the self (attavāda)",
+          "aggregates and"
+     ],
+     [
+          "MN133",
+          "Buddha, the",
+          "praise of"
+     ],
+     [
+          "MN133",
+          "Buddha, the",
+          "qualities of"
+     ],
+     [
+          "MN133",
+          "consciousness (viññāṇa)",
+          "tied to sense bases"
+     ],
+     [
+          "MN133",
+          "delight (nandi)",
+          "in sense bases"
+     ],
+     [
+          "MN133",
+          "heartwood",
+          "simile of asking question from monk when should have asked the Buddha"
+     ],
+     [
+          "MN133",
+          "Mahākaccāna, Ven.",
+          "explaining brief statement"
+     ],
+     [
+          "MN133",
+          "Samidhi, Ven.",
+          "on One Fine Night"
+     ],
+     [
+          "MN133",
+          "sense bases (āyatanā)",
+          "consciousness tied to past"
+     ],
+     [
+          "MN133",
+          "sense bases (āyatanā)",
+          "desire for in present"
+     ],
+     [
+          "MN133",
+          "sense bases (āyatanā)",
+          "wishing for the future"
+     ],
+     [
+          "MN134",
+          "Candana, devaputta",
+          "on One Fine Night"
+     ],
+     [
+          "MN134",
+          "Lomasakaṅgiya, Ven.",
+          "on One Fine Night"
+     ],
+     [
+          "MN134",
+          "Pāricchattaka tree",
+          "Buddha sitting under"
+     ],
+     [
+          "MN134",
+          "Tāvatiṁsa heaven",
+          "Buddha visiting"
+     ],
+     [
+          "MN135",
+          "actions (kamma)",
+          "all are owner of their actions"
+     ],
+     [
+          "MN135",
+          "actions (kamma)",
+          "being the owner of ones own"
+     ],
+     [
+          "MN135",
+          "actions (kamma)",
+          "heir to one’s"
+     ],
+     [
+          "MN135",
+          "actions (kamma)",
+          "results and"
+     ],
+     [
+          "MN135",
+          "anger (kodha)",
+          "cause of ugliness"
+     ],
+     [
+          "MN135",
+          "anger (kodha)",
+          "definition"
+     ],
+     [
+          "MN135",
+          "anger (kodha)",
+          "leading to hell"
+     ],
+     [
+          "MN135",
+          "anger, giving up (kodha)",
+          "cause of beauty"
+     ],
+     [
+          "MN135",
+          "anger, giving up (kodha)",
+          "definition"
+     ],
+     [
+          "MN135",
+          "anger, giving up (kodha)",
+          "leading to heaven"
+     ],
+     [
+          "MN135",
+          "arrogance (thaddha)",
+          "cause of low birth"
+     ],
+     [
+          "MN135",
+          "arrogance (thaddha)",
+          "definition"
+     ],
+     [
+          "MN135",
+          "arrogance (thaddha)",
+          "leading to hell"
+     ],
+     [
+          "MN135",
+          "beauty",
+          "as result of non-anger"
+     ],
+     [
+          "MN135",
+          "cruelty (hiṁsa, vihiṁsa)",
+          "cause of illness"
+     ],
+     [
+          "MN135",
+          "envy (issā)",
+          "cause of being uninfluential, insignificant"
+     ],
+     [
+          "MN135",
+          "envy (issā)",
+          "definition"
+     ],
+     [
+          "MN135",
+          "envy (issā)",
+          "leading to hell"
+     ],
+     [
+          "MN135",
+          "envy, giving up (issā)",
+          "cause of being influential"
+     ],
+     [
+          "MN135",
+          "envy, giving up (issā)",
+          "definition"
+     ],
+     [
+          "MN135",
+          "envy, giving up (issā)",
+          "leading to heaven"
+     ],
+     [
+          "MN135",
+          "generosity (cāga)",
+          "cause of wealth"
+     ],
+     [
+          "MN135",
+          "generosity (cāga)",
+          "definition"
+     ],
+     [
+          "MN135",
+          "generosity (cāga)",
+          "leading to heaven"
+     ],
+     [
+          "MN135",
+          "giving (dāna)",
+          "cause of wealth"
+     ],
+     [
+          "MN135",
+          "giving (dāna)",
+          "definition"
+     ],
+     [
+          "MN135",
+          "giving (dāna)",
+          "leading to heaven"
+     ],
+     [
           "MN135",
           "giving (dāna)",
           "result of"
+     ],
+     [
+          "MN135",
+          "harming (viheṭhaka)",
+          "cause of illness"
+     ],
+     [
+          "MN135",
+          "harming (viheṭhaka)",
+          "definition"
+     ],
+     [
+          "MN135",
+          "harming (viheṭhaka)",
+          "leading to hell"
+     ],
+     [
+          "MN135",
+          "harming, giving up (viheṭhaka)",
+          "cause of health"
+     ],
+     [
+          "MN135",
+          "harming, giving up (viheṭhaka)",
+          "definition"
+     ],
+     [
+          "MN135",
+          "harming, giving up (viheṭhaka)",
+          "leading to heaven"
+     ],
+     [
+          "MN135",
+          "health",
+          "cause of"
+     ],
+     [
+          "MN135",
+          "humility",
+          "cause of high birth"
+     ],
+     [
+          "MN135",
+          "humility",
+          "definition"
+     ],
+     [
+          "MN135",
+          "humility",
+          "leading to heaven"
+     ],
+     [
+          "MN135",
+          "influential",
+          "result of non-jealousy"
+     ],
+     [
+          "MN135",
+          "killing, giving up",
+          "cause of long life"
+     ],
+     [
+          "MN135",
+          "killing, giving up",
+          "definition"
+     ],
+     [
+          "MN135",
+          "killing, giving up",
+          "leading to heaven"
+     ],
+     [
+          "MN135",
+          "killing",
+          "cause of short life"
+     ],
+     [
+          "MN135",
+          "killing",
+          "definition"
+     ],
+     [
+          "MN135",
+          "killing",
+          "leading to hell"
+     ],
+     [
+          "MN135",
+          "lifespans",
+          "cause for "
+     ],
+     [
+          "MN135",
+          "long life",
+          "cause for "
+     ],
+     [
+          "MN135",
+          "poverty",
+          "as a result of not giving"
+     ],
+     [
+          "MN135",
+          "questions, not asking",
+          "definition"
+     ],
+     [
+          "MN135",
+          "questions, not asking",
+          "leading to hell"
+     ],
+     [
+          "MN135",
+          "sickness",
+          "cause of"
+     ],
+     [
+          "MN135",
+          "stinginess (maccharī)",
+          "cause of poverty"
+     ],
+     [
+          "MN135",
+          "stinginess (maccharī)",
+          "definition"
+     ],
+     [
+          "MN135",
+          "stinginess (maccharī)",
+          "leading to hell"
+     ],
+     [
+          "MN135",
+          "Subha, Todeyya’s son",
+          "asking about differences in people"
+     ],
+     [
+          "MN135",
+          "ugliness",
+          "result of anger"
+     ],
+     [
+          "MN135",
+          "wealth",
+          "as result of giving"
+     ],
+     [
+          "MN136",
+          "actions (kamma)",
+          "effective and ineffective, seeming to be"
+     ],
+     [
+          "MN136",
+          "attachment to views (diṭṭhiyoga)",
+          "about actions and results"
+     ],
+     [
+          "MN136",
+          "bodily action (kāyakamma)",
+          "no result (wrong view)"
+     ],
+     [
+          "MN136",
+          "knowledge of passing away and rebirth of beings (cutūpapātañāna)",
+          "wrong conclusions because of"
+     ],
+     [
+          "MN136",
+          "Potaliputta, wanderer",
+          "asking about actions"
+     ],
+     [
+          "MN136",
+          "Samiddh, Ven.",
+          "responding to Potaliputta"
+     ],
+     [
+          "MN136",
+          "actions (kamma)",
+          "feelings resulting from"
+     ],
+     [
+          "MN136",
+          "actions (kamma)",
+          "results coming at different times"
+     ],
+     [
+          "MN136",
+          "bad actions",
+          "results coming at different times"
+     ],
+     [
+          "MN136",
+          "bad people (asappurisa)",
+          "experiencing good results"
+     ],
+     [
+          "MN136",
+          "divine eye (dibbacakkhu)",
+          "theories of rebirth"
+     ],
+     [
+          "MN136",
+          "feelings (vedanā)",
+          "caused by actions"
+     ],
+     [
+          "MN136",
+          "good actions",
+          "results coming at different times"
+     ],
+     [
+          "MN136",
+          "good people (sappurisa)",
+          "experiencing bad results"
+     ],
+     [
+          "MN136",
+          "mental action (manokamma)",
+          "only mental actions are real (wrong view)"
+     ],
+     [
+          "MN136",
+          "people (puggala)",
+          "four types of and when they experience results of actions"
+     ],
+     [
+          "MN136",
+          "questions, not asking",
+          "cause of stupidity"
+     ],
+     [
+          "MN136",
+          "rebirth",
+          "of bad people"
+     ],
+     [
+          "MN136",
+          "rebirth",
+          "of good people"
+     ],
+     [
+          "MN136",
+          "results of actions",
+          "not seeming to match actions"
+     ],
+     [
+          "MN136",
+          "Udāyī, Ven",
+          "giving wrong answer"
+     ],
+     [
+          "MN136",
+          "verbal action (vacīkamma)",
+          "no result (wrong view)"
+     ],
+     [
+          "MN136",
+          "wrong views",
+          "about actions"
+     ],
+     [
+          "MN137",
+          "consciousness (viññāṇa)",
+          "analysis of"
+     ],
+     [
+          "MN137",
+          "consciousness (viññāṇa)",
+          "six classes of"
+     ],
+     [
+          "MN137",
+          "contact (phassa)",
+          "six classes of"
+     ],
+     [
+          "MN137",
+          "mental preoccupations (manopavicāra)",
+          "eighteen"
+     ],
+     [
+          "MN137",
+          "positions of sentient beings (sattapada)",
+          "thirty-six"
+     ],
+     [
+          "MN137",
+          "questions, asking",
+          "leading to heaven"
+     ],
+     [
+          "MN137",
+          "sense bases (āyatanā)",
+          "analysis of"
+     ],
+     [
+          "MN137",
+          "sense contact",
+          "six classes of"
+     ],
+     [
+          "MN137",
+          "sense objects",
+          "analysis of"
+     ],
+     [
+          "MN138",
+          "questions, asking",
+          "definition"
+     ],
+     [
+          "MN139",
+          "questions, asking",
+          "cause of wisdom"
      ],
      [
           "MN139",
@@ -23880,6 +24825,11 @@ export const indexArray =[
           "by cow"
      ],
      [
+          "MN140",
+          "questions, asking",
+          "about welfare"
+     ],
+     [
           "MN141",
           "death (maraṇa)",
           "in four noble truths"
@@ -23888,6 +24838,11 @@ export const indexArray =[
           "MN141",
           "right speech (sammā vācā)",
           ""
+     ],
+     [
+          "MN141",
+          "stupidity ",
+          "cause of"
      ],
      [
           "MN142",
@@ -23905,9 +24860,29 @@ export const indexArray =[
           "to the Saṅgha"
      ],
      [
+          "MN142",
+          "wisdom (paññā)",
+          "cause of"
+     ],
+     [
           "MN143",
           "deathbed",
           "conversation uppon"
+     ],
+     [
+          "MN143",
+          "rebirth",
+          "of good people"
+     ],
+     [
+          "MN144",
+          "rebirth",
+          "of bad people"
+     ],
+     [
+          "MN145",
+          "rebirth",
+          "actions as cause for"
      ],
      [
           "Pv1",
@@ -25901,16 +26876,6 @@ export const indexArray =[
      ],
      [
           "Snp3.11",
-          "Nālaka, nephew of Asita",
-          ""
-     ],
-     [
-          "Snp3.11",
-          "Suddhodana, king",
-          ""
-     ],
-     [
-          "Snp3.11",
           "knowing does not speak much",
           ""
      ],
@@ -25923,6 +26888,16 @@ export const indexArray =[
           "Snp3.11",
           "monastic life",
           "like licking razor’s edge"
+     ],
+     [
+          "Snp3.11",
+          "Nālaka, nephew of Asita",
+          ""
+     ],
+     [
+          "Snp3.11",
+          "Suddhodana, king",
+          ""
      ],
      [
           "Snp3.11",
@@ -27216,6 +28191,11 @@ export const indexArray =[
      ],
      [
           "Thag10.1",
+          "Suddhodana, king",
+          ""
+     ],
+     [
+          "Thag10.1",
           "family",
           "benefited by arahant relative"
      ],
@@ -27227,11 +28207,6 @@ export const indexArray =[
      [
           "Thag10.1",
           "Māyā, queen Mahā",
-          ""
-     ],
-     [
-          "Thag10.1",
-          "Suddhodana, king",
           ""
      ],
      [
@@ -28996,6 +29971,11 @@ export const indexArray =[
      ],
      [
           "Ud5.5",
+          "Dhamma",
+          "has one taste"
+     ],
+     [
+          "Ud5.5",
           "asuras",
           "love of ocean"
      ],
@@ -29003,11 +29983,6 @@ export const indexArray =[
           "Ud5.5",
           "bad monastics",
           "in pātimokkha recitation"
-     ],
-     [
-          "Ud5.5",
-          "Dhamma",
-          "has one taste"
      ],
      [
           "Ud5.5",

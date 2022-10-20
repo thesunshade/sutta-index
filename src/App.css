@@ -206,6 +206,24 @@ App {
 
 }
 
+.book-selector {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  max-width: 35rem;
+  min-width: 0;
+}
+
+.book-button {
+  color: black;
+  font-family: "Fira Code";
+  padding: 4px 4px 3px 3px;
+}
+
+.book-button:visited {
+  color: black;
+}
+
 @media only screen and (max-width: 475px) {
   .alphabet {
     max-width: 30rem !important;
@@ -672,16 +690,18 @@ a:visited {
   border-collapse: collapse;
   width: 40rem;
   table-layout: fixed;
+  margin-top: 5rem;
 }
 
-thead th.first-column {
+/*This was needed before the sutta name was added to the table*/
+/* thead th.first-column {
   width: 15% !important;
 }
 
 head th.second-column,
 head th.third-column {
   width: 40% !important;
-}
+} */
 
 td,
 th {

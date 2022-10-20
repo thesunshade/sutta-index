@@ -7,6 +7,7 @@ import OtherToolsIcons from "./Components/OtherToolsIcons.js";
 import HeadwordsSearchTool from "./Components/HeadwordsSearchTool.js";
 import SearchResults from "./Components/SearchResults.js";
 import LocatorSortedTable from "./Components/LocatorSortedTable.js";
+import BookSelector from "./Components/BookSelector";
 import Alphabet from "./Components/Alphabet.js";
 import { useState, useEffect, createContext } from "react";
 import settingsIcon from "./images/settings.png";
@@ -17,7 +18,7 @@ import themeIcon from "./images/8673129_ic_fluent_dark_theme_filled.png";
 export const ContextDestination = createContext();
 function App() {
   const [destination, setDestination] = useState(localStorage.destination ? localStorage.destination : "SC");
-  const [isLocatorView, setIsLocatorView] = useState(false);
+  const [isLocatorView, setIsLocatorView] = useState(!!sessionStorage.locatorView);
   const [showVisited, setShowVisited] = useState(localStorage.showVisited ? localStorage.showVisited : "on");
   const [searchText, setSearchText] = useState("");
   const [namesIsChecked, setNamesIsChecked] = useState(
@@ -83,8 +84,10 @@ function App() {
   function toggleTableView() {
     if (isLocatorView === false) {
       setIsLocatorView(true);
+      sessionStorage.locatorView = true;
     } else {
       setIsLocatorView(false);
+      sessionStorage.locatorView = false;
     }
   }
 
@@ -134,9 +137,7 @@ function App() {
             ></img>
           </div> */}
         </div>
-
-        <Alphabet />
-
+        {isLocatorView ? <BookSelector /> : <Alphabet />}
         <div id="info-area" className="info-area hidden hideable-area">
           <Info />
         </div>
