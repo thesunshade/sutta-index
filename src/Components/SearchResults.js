@@ -4,7 +4,7 @@ import fuzz from "../functions/fuzz";
 
 export default function SearchResults(props) {
   let { searchText } = props;
-  searchText = searchText.replace(/[/\\]/g, "");
+  searchText = searchText.replace(/[/\\()]/g, "");
   const allHideableAreas = document.getElementsByClassName("hideable-area");
   for (let i = 0; i < allHideableAreas.length; i++) {
     allHideableAreas[i].classList.add("hidden");

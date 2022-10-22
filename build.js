@@ -1,3 +1,4 @@
+const { match } = require("assert");
 const fs = require("fs");
 
 function natsort(options) {
@@ -351,10 +352,6 @@ for (let i = 0; i < rawIndexArray.length - 1; i++) {
   }
 }
 
-// locatorFirstArray.sort((a, b) => {
-//   return a[0].localeCompare(b[0]);
-// });
-
 locatorFirstArray = locatorFirstArray.sort(natsort());
 
 // test for blank locator field
@@ -387,3 +384,25 @@ for (let i = 0; i < locatorFirstArray.length; i++) {
   }
 }
 // console.log(locatorObject);
+
+const locatorBookObject = {
+  MN: [],
+  DN: [],
+  SN: [],
+  AN: [],
+  Kp: [],
+  Dhp: [],
+  Ud: [],
+  Iti: [],
+  Snp: [],
+  Vv: [],
+  Pv: [],
+  Thag: [],
+  Thig: [],
+};
+
+for (let i = 0; i < locatorFirstArray.length; i++) {
+  const book = findBook(locatorFirstArray[i][0]);
+  locatorBookObject[book].push(locatorFirstArray[i]);
+}
+console.log(locatorBookObject);
