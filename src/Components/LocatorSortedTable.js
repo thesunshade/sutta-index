@@ -1,4 +1,4 @@
-import { indexArray } from "../data/index-array";
+import { locatorBookObject } from "../data/locator-book-object";
 import getSuttaTitleBlurb from "../functions/getSuttaTitleBlurb.js";
 import getSuttaTitle from "../functions/getSuttaTitle.js";
 
@@ -7,23 +7,43 @@ export default function LocatorSortedTable() {
     return locator.replace(/–.+/, "");
   }
 
-  const table = indexArray.map((data, index) => (
-    <tr key={index}>
-      <td>
-        <a
-          href={`https://suttacentral.net/${data[0]}/en/sujato`}
-          target="_blank"
-          rel="noreferrer"
-          title={getSuttaTitleBlurb(stripRangesFromUrls(data[0]))}
-        >
-          {data[0]}
-        </a>{" "}
-        <small>{getSuttaTitle(data[0])}</small>
-      </td>
-      <td>{data[1]}</td>
-      <td>{data[2]}</td>
-    </tr>
-  ));
+  const table = Object.keys(locatorBookObject).map(book =>
+    locatorBookObject[book].map((data, index) => (
+      <tr key={index}>
+        <td>
+          <a
+            href={`https://suttacentral.net/${data[0]}/en/sujato`}
+            target="_blank"
+            rel="noreferrer"
+            title={getSuttaTitleBlurb(stripRangesFromUrls(data[0]))}
+          >
+            {data[0]}
+          </a>{" "}
+          <small>{getSuttaTitle(data[0])}</small>
+        </td>
+        <td>{data[1]}</td>
+        <td>{data[2]}</td>
+      </tr>
+    ))
+  );
+
+  // const table = indexArray.map((data, index) => (
+  //   <tr key={index}>
+  //     <td>
+  //       <a
+  //         href={`https://suttacentral.net/${data[0]}/en/sujato`}
+  //         target="_blank"
+  //         rel="noreferrer"
+  //         title={getSuttaTitleBlurb(stripRangesFromUrls(data[0]))}
+  //       >
+  //         {data[0]}
+  //       </a>{" "}
+  //       <small>{getSuttaTitle(data[0])}</small>
+  //     </td>
+  //     <td>{data[1]}</td>
+  //     <td>{data[2]}</td>
+  //   </tr>
+  // ));
 
   return (
     <table className="locator-sorted-table">

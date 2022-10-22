@@ -198,7 +198,7 @@ try {
 // build the index object
 let lines = data.split("\n");
 let rawIndexArray = [];
-let index = {};
+// let index = {};
 
 for (let i = 0; i < lines.length; i++) {
   rawIndexArray[i] = lines[i].split("\t");
@@ -322,6 +322,7 @@ const object = `export const indexObject =${JSON.stringify(newObject, null, 5)}`
 
 try {
   fs.writeFileSync("./src/data/index-object.js", object);
+  console.log("indexObject written");
 } catch (err) {
   console.error(err);
 }
@@ -338,7 +339,7 @@ const headwordsArray = `export const headwordsArray =${JSON.stringify(listOfHead
 
 try {
   fs.writeFileSync("./src/data/headwords-array.js", headwordsArray);
-  console.log("headwords array written");
+  console.log("headwordsArray written");
 } catch (err) {
   console.error(err);
 }
@@ -370,7 +371,7 @@ const array = `export const indexArray =${JSON.stringify(locatorFirstArray, null
 
 try {
   fs.writeFileSync("./src/data/index-array.js", array);
-  console.log("array written");
+  console.log("indexArray written");
 } catch (err) {
   console.error(err);
 }
@@ -386,8 +387,8 @@ for (let i = 0; i < locatorFirstArray.length; i++) {
 // console.log(locatorObject);
 
 const locatorBookObject = {
-  MN: [],
   DN: [],
+  MN: [],
   SN: [],
   AN: [],
   Kp: [],
@@ -401,8 +402,22 @@ const locatorBookObject = {
   Thig: [],
 };
 
+function findBook(citation) {
+  return citation.match(/(DN|MN|SN|AN|Kp|Dhp|Ud|Iti|Snp|Vv|Pv|Thag|Thig|xref)/)[0];
+}
+
 for (let i = 0; i < locatorFirstArray.length; i++) {
   const book = findBook(locatorFirstArray[i][0]);
   locatorBookObject[book].push(locatorFirstArray[i]);
 }
-console.log(locatorBookObject);
+
+locatorBookObject;
+
+const locatorBookObjectString = `export const locatorBookObject =${JSON.stringify(locatorBookObject, null, 2)}`;
+
+try {
+  fs.writeFileSync("./src/data/locator-book-object.js", locatorBookObjectString);
+  console.log("locatorBookObject written");
+} catch (err) {
+  console.error(err);
+}
