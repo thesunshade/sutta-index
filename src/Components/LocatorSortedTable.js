@@ -9,45 +9,38 @@ export default function LocatorSortedTable() {
 
   const table = Object.keys(locatorBookObject).map(book =>
     locatorBookObject[book].map((data, index) => (
-      <tr key={index}>
-        <td>
-          <a
-            href={`https://suttacentral.net/${data[0]}/en/sujato`}
-            target="_blank"
-            rel="noreferrer"
-            title={getSuttaTitleBlurb(stripRangesFromUrls(data[0]))}
-          >
-            {data[0]}
-          </a>{" "}
-          <small>{getSuttaTitle(data[0])}</small>
-        </td>
-        <td>{data[1]}</td>
-        <td>{data[2]}</td>
-      </tr>
+      <>
+        {index === 0 ? (
+          <tr id={book} className="book-header-row">
+            <td colSpan="3">
+              <h2>{book}</h2>
+            </td>
+          </tr>
+        ) : (
+          ""
+        )}
+        <tr key={index}>
+          <td>
+            <a
+              href={`https://suttacentral.net/${data[0]}/en/sujato`}
+              target="_blank"
+              rel="noreferrer"
+              title={getSuttaTitleBlurb(stripRangesFromUrls(data[0]))}
+            >
+              {data[0]}
+            </a>{" "}
+            <small>{getSuttaTitle(data[0])}</small>
+          </td>
+          <td>{data[1]}</td>
+          <td>{data[2]}</td>
+        </tr>
+      </>
     ))
   );
 
-  // const table = indexArray.map((data, index) => (
-  //   <tr key={index}>
-  //     <td>
-  //       <a
-  //         href={`https://suttacentral.net/${data[0]}/en/sujato`}
-  //         target="_blank"
-  //         rel="noreferrer"
-  //         title={getSuttaTitleBlurb(stripRangesFromUrls(data[0]))}
-  //       >
-  //         {data[0]}
-  //       </a>{" "}
-  //       <small>{getSuttaTitle(data[0])}</small>
-  //     </td>
-  //     <td>{data[1]}</td>
-  //     <td>{data[2]}</td>
-  //   </tr>
-  // ));
-
   return (
     <table className="locator-sorted-table">
-      <thead>
+      <thead className="table-header-row">
         <tr>
           <th className="first-column">Citation</th>
           <th className="second-column">Keyword</th>

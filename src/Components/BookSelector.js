@@ -16,8 +16,8 @@ export default function BookSelector() {
       <a href="#AN" className="book-button">
         AN
       </a>
-      <a href="#Khp" className="book-button">
-        Khp
+      <a href="#Kp" className="book-button">
+        Kp
       </a>
       <a href="#Dhp" className="book-button">
         Dhp

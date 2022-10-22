@@ -218,10 +218,15 @@ App {
   color: black;
   font-family: "Fira Code";
   padding: 4px 4px 3px 3px;
+  text-decoration: none !important;
 }
 
 .book-button:visited {
   color: black;
+}
+
+.dark .book-button:visited {
+  color: var(--offwhite);
 }
 
 @media only screen and (max-width: 475px) {
@@ -691,6 +696,22 @@ a:visited {
   width: 40rem;
   table-layout: fixed;
   margin-top: 5rem;
+  border: 1px solid
+}
+
+.table-header-row {
+  top: 4.6rem;
+  position: sticky;
+  border: solid 1px;
+  background: var(--primary)
+}
+
+td h2 {
+  padding-top: 1rem
+}
+
+.book-header-row {
+  background: var(--primary) !important
 }
 
 /*This was needed before the sutta name was added to the table*/
@@ -807,6 +828,7 @@ tr:nth-child(even) {
   margin: 0 0 1rem 0;
   max-width: var(--max-width);
   overscroll-behavior: contain;
+  padding: 1rem;
 }
 
 .dark .link-list {
@@ -816,10 +838,6 @@ tr:nth-child(even) {
 }
 
 @media only screen and (max-width: 475px) {
-  /* .link-list {
-    font-size: 1.3rem;
-    line-height: 140%;
-  } */
 
   .alphabet {
     margin-top: .75rem;
@@ -834,33 +852,46 @@ tr:nth-child(even) {
 
 .link-list a {
   text-decoration: none;
-  /* color: var(--dark-link); */
   word-spacing: inherit;
   white-space: inherit;
+  padding: .1rem;
 }
+
+.link-list span {}
 
 .link-list a:visited {
   /* color: var(--dark-visited) */
 }
 
 /*below may be out of use*/
-.link-list a:hover li {
+.link-list a:hover {
   background-color: var(--primary);
   color: black;
   /* display: inline-block; */
 }
 
 /*or this may be*/
-.link-list .menu-item:hover li {
+.link-list .menu-item:hover {
   background-color: var(--primary);
   color: black;
   /* display: inline-block; */
 }
 
+
+
 .link-list li {
   list-style: none;
+  text-indent: -1rem;
+
 }
 
-ul.link-list {
-  padding: .5rem;
+
+.link-list span {
+  padding-left: 1rem;
+  display: block;
+}
+
+.link-list a {
+  padding-left: 1rem;
+  display: block
 }

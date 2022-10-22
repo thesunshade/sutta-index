@@ -14,7 +14,7 @@ function Xref({ xref }) {
   }
 
   return (
-    <a className="xref-link" href={"#" + locationId} onClick={e => handleClick(e)}>
+    <a title={xref.replace("xref ", "")} className="xref-link" href={"#" + locationId} onClick={e => handleClick(e)}>
       {cleanUpXref(xref)}
     </a>
   );

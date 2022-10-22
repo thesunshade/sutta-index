@@ -411,8 +411,6 @@ for (let i = 0; i < locatorFirstArray.length; i++) {
   locatorBookObject[book].push(locatorFirstArray[i]);
 }
 
-locatorBookObject;
-
 const locatorBookObjectString = `export const locatorBookObject =${JSON.stringify(locatorBookObject, null, 2)}`;
 
 try {
