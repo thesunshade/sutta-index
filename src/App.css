@@ -71,6 +71,8 @@ body {
   font-family: "Fira Sans";
   min-height: 100vh;
   line-height: 125%;
+  background-color: var(--offwhite);
+
 }
 
 ::selection {
@@ -84,7 +86,6 @@ body.dark {
 
 html {
   scroll-padding-top: 5rem;
-  background-color: var(--offwhite);
   scroll-behavior: smooth;
 }
 
@@ -129,6 +130,7 @@ App {
   column-gap: 1rem;
   align-items: center;
   padding: .5rem 0;
+  min-width: 360px
 }
 
 .favorites-button {
@@ -706,13 +708,19 @@ a:visited {
   background: var(--primary)
 }
 
+.book-header-row {
+  background: var(--primary) !important
+}
+
+.dark .table-header-row,
+.dark .book-header-row {
+  background: var(--dark-primary) !important
+}
+
 td h2 {
   padding-top: 1rem
 }
 
-.book-header-row {
-  background: var(--primary) !important
-}
 
 /*This was needed before the sutta name was added to the table*/
 /* thead th.first-column {

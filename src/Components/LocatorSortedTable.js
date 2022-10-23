@@ -11,7 +11,7 @@ export default function LocatorSortedTable() {
     locatorBookObject[book].map((data, index) => (
       <>
         {index === 0 ? (
-          <tr id={book} className="book-header-row">
+          <tr key={book} id={book} className="book-header-row">
             <td colSpan="3">
               <h2>{book}</h2>
             </td>
@@ -19,7 +19,7 @@ export default function LocatorSortedTable() {
         ) : (
           ""
         )}
-        <tr key={index}>
+        <tr key={book + "-" + index}>
           <td>
             <a
               href={`https://suttacentral.net/${data[0]}/en/sujato`}
