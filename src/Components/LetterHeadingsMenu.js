@@ -24,7 +24,6 @@ function LetterHeadingsMenu(props) {
           return (
             <span
               key={headword}
-              // href={"#" + makeNormalizedId(headword)}
               className="menu-item"
               onClick={e => {
                 e.preventDefault();

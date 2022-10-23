@@ -2669,6 +2669,18 @@ export const indexObject ={
                          "MN118"
                     ],
                     "xrefs": []
+               },
+               "realizing freedom of heart, freedom of wisdom": {
+                    "locators": [
+                         "MN146"
+                    ],
+                    "xrefs": []
+               },
+               "supported by seclusion": {
+                    "locators": [
+                         "MN146"
+                    ],
+                    "xrefs": []
                }
           },
           "ayoniso manasikāra": {
@@ -3442,6 +3454,12 @@ export const indexObject ={
                     "xrefs": [
                          "xref monastics"
                     ]
+               },
+               "instructing": {
+                    "locators": [
+                         "MN146"
+                    ],
+                    "xrefs": []
                }
           },
           "bhikkhus": {
@@ -6017,6 +6035,24 @@ export const indexObject ={
                          "MN143"
                     ],
                     "xrefs": []
+               },
+               "impermanace": {
+                    "locators": [
+                         "MN146"
+                    ],
+                    "xrefs": []
+               },
+               "as impermanent, suffering, not self": {
+                    "locators": [
+                         "MN146"
+                    ],
+                    "xrefs": []
+               },
+               "as dependently arisen": {
+                    "locators": [
+                         "MN146"
+                    ],
+                    "xrefs": []
                }
           },
           "consciousness element (viññāṇadhātu)": {
@@ -6186,6 +6222,12 @@ export const indexObject ={
                          "AN4.193"
                     ],
                     "xrefs": []
+               },
+               "monk successfully converting people": {
+                    "locators": [
+                         "MN145"
+                    ],
+                    "xrefs": []
                }
           },
           "corruptions (upakkilesa)": {
@@ -6287,6 +6329,14 @@ export const indexObject ={
                "making prejudiced decisions": {
                     "locators": [
                          "AN4.17"
+                    ],
+                    "xrefs": []
+               }
+          },
+          "cows": {
+               "hide removed, simile for cutting off with wisdom": {
+                    "locators": [
+                         "MN146"
                     ],
                     "xrefs": []
                }
@@ -7378,6 +7428,12 @@ export const indexObject ={
                          "MN145"
                     ],
                     "xrefs": []
+               },
+               "like connecting tendons": {
+                    "locators": [
+                         "MN146"
+                    ],
+                    "xrefs": []
                }
           },
           "delight (rati)": {
@@ -8219,6 +8275,12 @@ export const indexObject ={
                          "MN145"
                     ],
                     "xrefs": []
+               },
+               "repitition as an aid to understanding": {
+                    "locators": [
+                         "MN146"
+                    ],
+                    "xrefs": []
                }
           },
           "Dhamma visible here and now (sandiṭṭiko)": {
@@ -8402,6 +8464,18 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
+               "attainment of": {
+                    "locators": [
+                         "MN106"
+                    ],
+                    "xrefs": []
+               },
+               "leading to nibbāna": {
+                    "locators": [
+                         "MN106"
+                    ],
+                    "xrefs": []
+               },
                "attaining": {
                     "locators": [
                          "MN106"
@@ -8478,6 +8552,18 @@ export const indexObject ={
                     "xrefs": []
                },
                "imperturbable and": {
+                    "locators": [
+                         "MN106"
+                    ],
+                    "xrefs": []
+               },
+               "attainment of": {
+                    "locators": [
+                         "MN106"
+                    ],
+                    "xrefs": []
+               },
+               "leading to nibbāna": {
                     "locators": [
                          "MN106"
                     ],
@@ -9992,6 +10078,12 @@ export const indexObject ={
                          "AN6.54"
                     ],
                     "xrefs": []
+               },
+               "how to": {
+                    "locators": [
+                         "MN145"
+                    ],
+                    "xrefs": []
                }
           },
           "enemies": {
@@ -10004,6 +10096,12 @@ export const indexObject ={
                "things that make them happy": {
                     "locators": [
                          "AN7.64"
+                    ],
+                    "xrefs": []
+               },
+               "how to think about": {
+                    "locators": [
+                         "MN145"
                     ],
                     "xrefs": []
                }
@@ -11349,6 +11447,24 @@ export const indexObject ={
                "sense bases": {
                     "locators": [
                          "MN143"
+                    ],
+                    "xrefs": []
+               },
+               "impermanace": {
+                    "locators": [
+                         "MN146"
+                    ],
+                    "xrefs": []
+               },
+               "as impermanent, suffering, not self": {
+                    "locators": [
+                         "MN146"
+                    ],
+                    "xrefs": []
+               },
+               "as dependently arisen": {
+                    "locators": [
+                         "MN146"
                     ],
                     "xrefs": []
                }
@@ -14148,6 +14264,12 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
+               "": {
+                    "locators": [],
+                    "xrefs": [
+                         "xref monastic life"
+                    ]
+               },
                "reasons for": {
                     "locators": [
                          "MN82"
@@ -15495,6 +15617,7 @@ export const indexObject ={
                },
                "giving up": {
                     "locators": [
+                         "MN145",
                          "AN3.68"
                     ],
                     "xrefs": []
@@ -17165,6 +17288,12 @@ export const indexObject ={
                          "MN140"
                     ],
                     "xrefs": []
+               },
+               "of sense bases and objects": {
+                    "locators": [
+                         "MN146"
+                    ],
+                    "xrefs": []
                }
           },
           "impermanence meditation": {
@@ -17547,7 +17676,9 @@ export const indexObject ={
                          "AN4.192"
                     ],
                     "xrefs": []
-               },
+               }
+          },
+          "integrity, person of": {
                "": {
                     "locators": [],
                     "xrefs": [
@@ -20537,6 +20668,12 @@ export const indexObject ={
                          "MN142"
                     ],
                     "xrefs": []
+               },
+               "requesting instruction (anusāsana)": {
+                    "locators": [
+                         "MN146"
+                    ],
+                    "xrefs": []
                }
           },
           "Mahāpanthaka, Ven.": {
@@ -22321,6 +22458,7 @@ export const indexObject ={
                     ],
                     "xrefs": [
                          "xref disrobing",
+                         "xref going forth (pabbajja)",
                          "xref requisites, four",
                          "xref training"
                     ]
@@ -23087,6 +23225,12 @@ export const indexObject ={
                          "AN1.229"
                     ],
                     "xrefs": []
+               },
+               "teaching bhikkhunis": {
+                    "locators": [
+                         "MN146"
+                    ],
+                    "xrefs": []
                }
           },
           "Nandiya, Ven.": {
@@ -23339,6 +23483,12 @@ export const indexObject ={
                "gifts to": {
                     "locators": [
                          "MN142"
+                    ],
+                    "xrefs": []
+               },
+               "seeing with wisdom": {
+                    "locators": [
+                         "MN146"
                     ],
                     "xrefs": []
                }
@@ -23750,7 +23900,8 @@ export const indexObject ={
                },
                "sense bases": {
                     "locators": [
-                         "MN144"
+                         "MN144",
+                         "MN146"
                     ],
                     "xrefs": []
                }
@@ -23885,6 +24036,12 @@ export const indexObject ={
                "simile of arahant": {
                     "locators": [
                          "MN140"
+                    ],
+                    "xrefs": []
+               },
+               "simile for impermanace": {
+                    "locators": [
+                         "MN146"
                     ],
                     "xrefs": []
                }
@@ -24618,6 +24775,12 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
+               "permission to ordain": {
+                    "locators": [
+                         "MN82"
+                    ],
+                    "xrefs": []
+               },
                "person accomplished in view cannot kill": {
                     "locators": [
                          "MN115"
@@ -24756,6 +24919,12 @@ export const indexObject ={
                "as practice": {
                     "locators": [
                          "AN4.164"
+                    ],
+                    "xrefs": []
+               },
+               "when being attacked": {
+                    "locators": [
+                         "MN145"
                     ],
                     "xrefs": []
                }
@@ -28245,6 +28414,12 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
+               "cannot be “burned away” through ascetic practices": {
+                    "locators": [
+                         "MN102"
+                    ],
+                    "xrefs": []
+               },
                "no one else can experience for us": {
                     "locators": [
                          "MN130"
@@ -29666,6 +29841,12 @@ export const indexObject ={
                          "MN107"
                     ],
                     "xrefs": []
+               },
+               "supporting awakening factors": {
+                    "locators": [
+                         "MN146"
+                    ],
+                    "xrefs": []
                }
           },
           "secret speech (rahovāda)": {
@@ -30028,6 +30209,12 @@ export const indexObject ={
                          "MN144"
                     ],
                     "xrefs": []
+               },
+               "as impermanent, suffering, not self": {
+                    "locators": [
+                         "MN146"
+                    ],
+                    "xrefs": []
                }
           },
           "sense contact": {
@@ -30159,6 +30346,18 @@ export const indexObject ={
                "approving, welcoming, clingin to": {
                     "locators": [
                          "MN145"
+                    ],
+                    "xrefs": []
+               },
+               "impermanace": {
+                    "locators": [
+                         "MN146"
+                    ],
+                    "xrefs": []
+               },
+               "as impermanent, suffering, not self": {
+                    "locators": [
+                         "MN146"
                     ],
                     "xrefs": []
                }
@@ -32572,6 +32771,12 @@ export const indexObject ={
                          "AN7.15"
                     ],
                     "xrefs": []
+               },
+               "examples of attainment": {
+                    "locators": [
+                         "MN146"
+                    ],
+                    "xrefs": []
                }
           },
           "strength": {
@@ -33778,14 +33983,6 @@ export const indexObject ={
                     "xrefs": []
                }
           },
-          "tree": {
-               "guarded by a god": {
-                    "locators": [
-                         "AN6.54"
-                    ],
-                    "xrefs": []
-               }
-          },
           "tree root dwelling (rukkhamūlika)": {
                "reasons for": {
                     "locators": [
@@ -33828,6 +34025,18 @@ export const indexObject ={
                "like one without conditions": {
                     "locators": [
                          "AN6.50"
+                    ],
+                    "xrefs": []
+               },
+               "guarded by a god": {
+                    "locators": [
+                         "AN6.54"
+                    ],
+                    "xrefs": []
+               },
+               "simile for impermanace": {
+                    "locators": [
+                         "MN146"
                     ],
                     "xrefs": []
                }
@@ -36136,6 +36345,18 @@ export const indexObject ={
                     "xrefs": [
                          "xref noble wisdom (ariyā paññā)"
                     ]
+               },
+               "seeing with": {
+                    "locators": [
+                         "MN146"
+                    ],
+                    "xrefs": []
+               },
+               "noble, like sharp meat cleaver": {
+                    "locators": [
+                         "MN146"
+                    ],
+                    "xrefs": []
                }
           },
           "wise attention": {

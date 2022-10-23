@@ -1,8 +1,6 @@
 //https://github.com/mdesjardins/react-a11y-select
 
 import { indexObject } from "../data/index-object.js";
-// import Popup from "reactjs-popup";
-// import "reactjs-popup/dist/index.css";
 import LetterHeadingsMenu from "./LetterHeadingsMenu.js";
 
 export default function Alphabet() {

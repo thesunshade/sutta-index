@@ -25,17 +25,14 @@ export default function SearchResults(props) {
             if (regex.test(fuzz(headword))) {
               hasResults = true;
               return (
-                <span
+                <a
+                  className="search-result"
+                  tabIndex={index + 2}
                   key={headword}
-                  className="menu-item"
-                  onClick={e => {
-                    e.preventDefault();
-                    document.getElementById(makeNormalizedId(headword)).scrollIntoView(true);
-                    window.history.pushState({ page: 1 }, "foo", "#" + makeNormalizedId(headword));
-                  }}
+                  href={"#" + makeNormalizedId(headword)}
                 >
                   <li>{headword}</li>
-                </span>
+                </a>
               );
             }
             return null;

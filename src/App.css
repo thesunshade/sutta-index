@@ -617,6 +617,7 @@ a:visited {
 }
 
 .keys {
+  display: inline-block !important;
   font-family: "Fira Sans";
   font-weight: 400;
   background-color: gainsboro;

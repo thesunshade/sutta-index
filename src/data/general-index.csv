@@ -5017,7 +5017,7 @@ bad monastics	lay people banishing	AN6.54
 bad monastics	abusing other monastics	AN6.54
 Buddha, the	visiting like land-spotting bird	AN6.54
 Koravya, king	banyan tree	AN6.54
-tree	guarded by a god	AN6.54
+trees	guarded by a god	AN6.54
 monastic duty (samaṇadhamma)	not abusing those who abuse	AN6.54
 teachers of other religions	taught path to Brahmā	AN6.54
 enduring abuse	as monastic duty	AN6.54
@@ -5619,6 +5619,7 @@ acceptance of a view after consideration (diṭṭhinijjhānakkhanta)	can turn o
 reflective acceptance of a view (diṭṭhinijjhānakkhanta)		xref acceptance of a view after consideration (diṭṭhinijjhānakkhanta)
 results of actions	painful striving	MN101
 results of actions	everything is caused by past action	MN101
+results of actions	cannot be “burned away” through ascetic practices	MN102
 actions (kamma)	to be experienced in future	MN101
 actions (kamma)	to be experienced in present	MN101
 actions (kamma)	to be experienced as pleasure	MN101
@@ -5765,7 +5766,10 @@ going forth (pabbajja)	parents’ permission needed	MN82
 hunger strike	to get parents’ permission to ordain	MN82
 going forth (pabbajja)	discouraging with encouragement to make merit	MN82
 parents	monk visiting	MN82
+parents	permission to ordain	MN82
 puppet	as metaphor for body	MN82
+monastic life		xref going forth (pabbajja)
+going forth (pabbajja)		xref monastic life
 Koravya, king		MN82
 loss (pārijuñña, byasana)	reasons for going forth	MN82
 loss (pārijuñña, byasana)	due to old age	MN82
@@ -5862,6 +5866,10 @@ impermanence	of sensual pleasures, sensual perceptions, etc.	MN106
 imperturbable (āneñja)	perception of	MN106
 perceptions (saññā)	of imperturbable	MN106
 dimension of nothingness (ākiñcaññāyatana)	imperturbable and	MN106
+dimension of nothingness (ākiñcaññāyatana)	attainment of	MN106
+dimension of neither perception nor non-perception (nevasaññānāsaññāyatanaṁ)	attainment of	MN106
+dimension of nothingness (ākiñcaññāyatana)	leading to nibbāna	MN106
+dimension of neither perception nor non-perception (nevasaññānāsaññāyatanaṁ)	leading to nibbāna	MN106
 empty (suñña)	of a self	MN106
 “I don’t belong to anyone anywhere!…”	dimension of nothingness	MN106
 dimension of neither perception nor non-perception (nevasaññānāsaññāyatanaṁ)	attaining	MN106
@@ -5995,7 +6003,7 @@ good people (sappurisa)	reborn in good destination	MN110
 giving (dāna)	properly and improperly	MN110
 rebirth	of good people	MN110
 rebirth	of bad people	MN110
-integrity		xref good people (sappurisa)
+integrity, person of		xref good people (sappurisa)
 Sāriputta, Ven.	qualities 	MN111
 Sāriputta, Ven.	enlightenment	MN111
 attention (manasikāra)	jhānas and	MN111
@@ -6984,3 +6992,34 @@ delight (nandi)	origin of suffering	MN145
 suffering (dukkha)	delight (nandi) as origin	MN145
 suffering (dukkha)	origin of suffering	MN145
 sense objects	approving, welcoming, clingin to	MN145
+patience	when being attacked	MN145
+enduring abuse	how to	MN145
+enemies	how to think about	MN145
+hatred (dosa)	giving up	MN145
+conversion	monk successfully converting people	MN145
+Mahāpajāpatī Gotamī, Ven.	requesting instruction (anusāsana)	MN146
+Nandaka, Ven.	teaching bhikkhunis	MN146
+bhikkhuni	instructing	MN146
+sense bases (āyatanā)	as impermanent, suffering, not self	MN146
+not-self	sense bases	MN146
+impermanence	of sense bases and objects	MN146
+sense objects	impermanace	MN146
+sense objects	as impermanent, suffering, not self	MN146
+consciousness (viññāṇa)	impermanace	MN146
+consciousness (viññāṇa)	as impermanent, suffering, not self	MN146
+feelings (vedanā)	impermanace	MN146
+feelings (vedanā)	as impermanent, suffering, not self	MN146
+oil lamps	simile for impermanace	MN146
+feelings (vedanā)	as dependently arisen	MN146
+consciousness (viññāṇa)	as dependently arisen	MN146
+trees	simile for impermanace	MN146
+wisdom (paññā)	seeing with	MN146
+noble disciple (ariya sāvaka)	seeing with wisdom	MN146
+cows	hide removed, simile for cutting off with wisdom 	MN146
+delight (nandi)	like connecting tendons	MN146
+wisdom (paññā)	noble, like sharp meat cleaver	MN146
+awakening factors, seven (bojjhaṅga)	realizing freedom of heart, freedom of wisdom	MN146
+seclusion (paṭisallīna, vivitta)	supporting awakening factors	MN146
+awakening factors, seven (bojjhaṅga)	supported by seclusion	MN146
+Dhamma teaching	repitition as an aid to understanding	MN146
+stream-enterers (sotāpanna)	examples of attainment	MN146
