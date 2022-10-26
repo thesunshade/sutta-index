@@ -217,10 +217,12 @@ for (let i = 0; i < rawIndexArray.length - 1; i++) {
 
   const headStartingWithLetter = head.replace("“", "");
   const firstRealLetter = normalizeDiacriticString(headStartingWithLetter.charAt(0)).toUpperCase();
-  if (head === "")
+  if (head === "") {
+    console.log(sub, locator);
     console.error(`!!!!!!!!!!!!!!!!!!!!!!
   !!!!!!!!!!!!!there is a blank headword!!!!!!!!!!!!!!!!!!!!!
   !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!`);
+  }
   if (!alphabetGroupedObject[firstRealLetter].hasOwnProperty(head)) {
     // the key of the headword does not exist in the object yet, so create the key and add the locator-xref object
     alphabetGroupedObject[firstRealLetter][head] = { [sub]: { locators: [], xrefs: [] } };

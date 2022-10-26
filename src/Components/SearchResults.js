@@ -4,7 +4,7 @@ import fuzz from "../functions/fuzz";
 
 export default function SearchResults(props) {
   let { searchText } = props;
-  searchText = searchText.replace(/[/\\()]/g, "");
+  searchText = searchText.replace(/[/\\()\s-]/g, "");
   const allHideableAreas = document.getElementsByClassName("hideable-area");
   for (let i = 0; i < allHideableAreas.length; i++) {
     allHideableAreas[i].classList.add("hidden");
@@ -27,7 +27,8 @@ export default function SearchResults(props) {
               return (
                 <span
                   key={headword}
-                  className="menu-item"
+                  className="menu-item search-result"
+                  tabIndex={index + 2}
                   onClick={e => {
                     e.preventDefault();
                     document.getElementById(makeNormalizedId(headword)).scrollIntoView(true);

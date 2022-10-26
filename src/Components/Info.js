@@ -24,13 +24,18 @@ export default function Info() {
       </p>
 
       <details>
-        <summary>How to find things</summary>
+        <summary>How to use the index</summary>
         <div>
           <p>
             First, look things up by <em>noun</em> followed by an <em>adjective</em>. If that doesn't work, then try the
             adjective.
           </p>
           <p>In some instances, a specific word may be indexed but not appear in the sutta. </p>
+          <p>
+            In all cases, one should actually read the sutta being refrenced and not rely on the index headings or
+            subheadings. For example, some wrong views may be indexed in a way that is not immediately apparent that
+            they are such. So actually reading the sutta is critical for understanding the matter at hand.
+          </p>
         </div>
       </details>
       <details>
