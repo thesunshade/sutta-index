@@ -1,4 +1,3 @@
-import sortCitations from "../functions/sortCitations";
 import Locator from "./Locator";
 import Xref from "./Xref.js";
 import { memo } from "react";
@@ -21,8 +20,8 @@ function LocatorList(props) {
 
   function XrefsList() {
     return (
-      <>
-        {leadingCommaForXref}
+      <div>
+        {/* {leadingCommaForXref} */}
         <span className="xref-label">{xrefLabel}</span>
         {xrefs.map((xref, index) => {
           return (
@@ -32,7 +31,7 @@ function LocatorList(props) {
             </span>
           );
         })}
-      </>
+      </div>
     );
   }
 

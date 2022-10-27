@@ -491,7 +491,7 @@ humility	as a blessing	Kp5
 contentment (santuṭṭhi)	as a blessing	Kp5
 gratitude	as a blessing	Kp5
 listening to Dhamma	time for	Kp5
-patience	as a blessing	Kp5
+patience (khanti)	as a blessing	Kp5
 admonishment	being easy to (sovacassatā)	Kp5
 association	with wise	Kp5
 Dhamma discussion	time for	Kp5
@@ -499,7 +499,7 @@ austerity	as a blessing	Kp5
 celibacy	as a blessing	Kp5
 four noble truths	as a blessing	Kp5
 nibbāna		Kp5
-worldly conditions		Kp5
+worldly conditions (lokadhamma)		Kp5
 sorrowlessness		Kp5
 security (khema)		Kp5
 offerings	to gods	Kp6
@@ -760,7 +760,7 @@ Buddha, the	envied by gods	Dhp181
 human birth	rarity of	Dhp182
 Buddhas	rarity of	Dhp182
 Dhamma	in brief	Dhp183
-patience	as austerity	Dhp184
+patience (khanti)	as austerity	Dhp184
 Dhamma	in brief	Dhp185
 sense pleasures (kāma, kāmaguṇa)	as insatiable	Dhp186
 refuges	false	Dhp188–89
@@ -797,6 +797,7 @@ lying	overcoming	Dhp223
 giving (dāna)	rebirth in heaven	Dhp224
 truth (sacca)	rebirth in heaven	Dhp224
 blame	inevitability of	Dhp227
+Atula	someone is always blamed	Dhp227
 praise and blame		Dhp228
 good people (sappurisa)	praised by gods	Dhp230
 misconduct	giving up	Dhp232–33
@@ -913,7 +914,7 @@ honor		Dhp392
 learning		Dhp392
 external qualities		Dhp393–94
 enduring abuse		Dhp399
-patience		Dhp399
+patience (khanti)		Dhp399
 solitary life		Dhp404
 hope (āsa)		Dhp410
 deathless (amata)		Dhp411
@@ -925,7 +926,7 @@ dependent origination		Ud1.1–3
 brahmin	true meaning	Ud1.4–6
 giving (dāna)	by gods	Ud1.6
 gods	offering food	Ud1.6
-alms food	from the poor	Ud1.6
+almsfood	from the poor	Ud1.6
 fear (bhaya)	overcoming	Ud1.7
 monastics	family of	Ud1.8
 brahmin	true meaning	Ud1.8–9
@@ -941,7 +942,7 @@ meditation	through great noise	Ud2.1
 conceit ‘I am’ (asmimāna)		Ud2.1
 kindness	as happiness	Ud2.1
 useless speech (tiracāna)		Ud2.2
-noble silence	vs. useless speech	Ud2.2
+noble silence (ariya tuṇhībhāva)	vs. useless speech	Ud2.2
 nibbāna	better happiness than heaven	Ud2.2
 children	harming an animal	Ud2.3
 suffering (dukkha)	no one likes	Ud2.3
@@ -966,13 +967,13 @@ imperturbable meditation (āneñjasamādhi)		Ud3.3
 arahants	simile of mountain	Ud3.4
 outcast (vasala)	accusation of being	Ud3.6
 habits over lifetimes		Ud3.6
-giving (dāna)		xref alms food
+giving (dāna)		xref almsfood
 gods	offering food	Ud3.7
-alms food	from the poor	Ud3.7
+almsfood	from the poor	Ud3.7
 giving (dāna)	by gods	Ud3.7
 arahants	envied by gods	Ud3.7–8
-noble silence	vs. useless speech	Ud3.8–9
-alms food	for sake of popularity	Ud3.8
+noble silence (ariya tuṇhībhāva)	vs. useless speech	Ud3.8–9
+almsfood	for sake of popularity	Ud3.8
 popularity	 wrongly gained	Ud3.8
 speech	useless (tiracāna)	Ud3.8–9
 hope (āsa)	uselessness of	Ud3.9
@@ -991,7 +992,7 @@ loving-kindness (mettā)	to give up hate	Ud4.1
 mindfulness of breathing (ānāpānassati)	to cut off thinking	Ud4.1
 perception of impermanence (aniccasañña)	to remove conceit ‘I am’	Ud4.1
 monastic life	wrongly practiced	Ud4.2
-alms food	from the poor	Ud4.3
+almsfood	from the poor	Ud4.3
 death (maraṇa)	immediately after giving	Ud4.3
 mind	wrongly directed worse than enemy	Ud4.3
 yakkha	attacks monk	Ud4.4
@@ -1075,7 +1076,7 @@ wholesome chain of causality		Ud8.4
 Buddha, the	last meal	Ud8.5
 Buddha, the	illness of 	Ud8.5
 Buddha, the	psychic powers	Ud8.5
-alms food	most beneficial	Ud8.5
+almsfood	most beneficial	Ud8.5
 morality		xref virtue (sīla)
 virtue (sīla)	benefits of	Ud8.6
 Buddha, the	psychic powers	Ud8.6
@@ -1215,7 +1216,7 @@ livelihood	monastic	Iti91
 monastic life	wrongly practiced	Iti91
 monastic life	goal of	Iti91
 monastic life	simile of firebrand	Iti91
-alms food		Iti91
+almsfood		Iti91
 iron ball	eating	Iti91
 Buddha, the	closeness to	Iti92
 Dhamma	seeing sees the Buddha	Iti92
@@ -1542,7 +1543,7 @@ regret	over not making spiritual progress	Vv24
 devas	stream-enterers	Vv24
 stream-enterers (sotāpanna)	gods that have become	Vv24
 giving (dāna)	food	Vv27
-alms food		xref giving (dāna)
+almsfood		xref giving (dāna)
 giving (dāna)	criticizing	Vv29
 giving (dāna)	leads to heaven	Vv29
 gifts, specific types of	sugarcane	Vv30
@@ -1851,7 +1852,7 @@ attachment	to people	Thag2.15
 charnel ground contemplation (sivathika)		Thag2.16
 monastic life	few posessions	Thag2.17
 honor	source of jealousy	Thag2.17
-vanity		Thag2.19
+vanity (atimānī)		Thag2.19
 criticism	wrongly directed	Thag2.20
 recollection (anussati)	of past lives	Thag2.23
 psychic powers		xref past lives, knowledge of (pubbenivāsānussatiñāna)
@@ -1947,7 +1948,7 @@ conceit of inferiority (omāno)		Thag6.9
 child arahants		Thag6.10
 arahants		xref child arahants
 Anotatta lake		Thag6.10
-humility	not wanting others to know attinments	Thag6.10
+humility	not wanting others to know attainments	Thag6.10
 sickness	practicing while	Thag6.11
 simile of the saw		Thag6.12
 simile of child’s flesh		Thag6.12
@@ -2005,7 +2006,7 @@ caste	low caste monk	Thag12.2
 “ehi bhikkhu”		xref “come, monk” ordination (ehi bhikkhu)
 energy (vīriya)	like a well tuned lute	Thag13.1
 loving-kindness (mettā)	limitless	Thag14.1
-worldly conditions		Thag14.2
+worldly conditions (lokadhamma)		Thag14.2
 gain (lābha)	illegitimate	Thag14.2
 fame	of the unintelligent	Thag14.2
 praise	by fools	Thag14.2
@@ -2067,7 +2068,7 @@ proliferation (papañca)	giving up	Thag17.2
 arahants	residence of	Thag17.2
 admonishment	like guide to hidden treasuer	Thag17.2
 psychic powers	not required for arahant	Thag17.2
-noble silence		Thag17.2
+noble silence (ariya tuṇhībhāva)		Thag17.2
 mind	guarded like a citadel	Thag17.2
 bad people (asappurisa)	becoming good	Thag17.2
 good people (sappurisa)	becoming bad	Thag17.2
@@ -2150,7 +2151,7 @@ questions, asking		AN3.5
 answering questions		xref questions, answering 
 asking questions		xref questions, asking
 lust (rāga)	dried up like vegetables in pot	Thig1.1
-alms food	free from debt	Thig1.2
+almsfood	free from debt	Thig1.2
 debt (iṇa)	almsfood free from	Thig1.2
 opportunities	missing	Thig1.5
 friendship	appreciating	Thig1.8
@@ -2411,7 +2412,7 @@ family	grows in faith, virtue, and wisdom	AN3.48
 painful feelings	enduring	AN3.49
 keenness (ātāpi)	to prevent bad, develop good, and endure pain	AN3.49
 qualities of triple gem		xref triple gem 
-thieves	as metaphor for bad monastic	AN3.50
+thieves (cora)	as metaphor for bad monastic	AN3.50
 monastic life	wrongly practiced	AN3.50
 old age	regret at end of life over not practicing	AN3.51
 regret	over life poorly lived	AN3.51
@@ -2598,7 +2599,7 @@ farming	like mendicant practicing	AN3.92
 zeal (chanda)		AN3.92
 wishing (patthana)	doesn’t bring results	AN3.92
 rag-robe wearing	of other sects	AN3.93
-alms food	of other sects	AN3.93
+almsfood	of other sects	AN3.93
 forest dwelling	of other sects	AN3.93
 seclusion	defined as virtue, right view, and ending defilements	AN3.93
 fetters (saṁyojana)	three lower	AN3.94
@@ -2873,6 +2874,7 @@ analytical knowledge (paṭisambhidā)	from the arising of the Buddha	AN1.176
 stages of enlightenment	from the arising of the Buddha	AN1.181-186
 Sāriputta, Ven.	rightly keeps rolling wheel of Dhamma	AN1.187
 Koṇḍañña, Añña Who Understood	foremost in seniority	AN1.188
+seniority	foremost	AN1.188
 Sāriputta, Ven.	foremost in great wisdom	AN1.189
 Mahāmoggallāna, Ven.	foremost in psychic power	AN1.190
 Mahākassapa, Ven.	foremost who speaks onnausterities	AN1.191
@@ -2892,7 +2894,7 @@ Revata, Ven. Kaṅkhā	foremost of meditators	AN1.204
 Soṇa Koḷivisa, Ven.	foremost of those who arouse energy	AN1.205
 Soṇa Kuṭikaṇṇa, Ven.	foremost who is an excellent speaker	AN1.206
 Sīvali, Ven.	foremost of those who make gains	AN1.207
-Vakkalī, Ven.	foremost of those resolved through faith	AN1.208
+Vakkali, Ven.	foremost of those resolved through faith	AN1.208
 Rāhula, Ven.	foremost who desire to train	AN1.209
 Raṭṭhapāla, Ven.	foremost who went forth out of faith	AN1.210
 Kuṇḍadhāna, Ven.	foremost who are first to take a meal ticket	AN1.211
@@ -2921,6 +2923,7 @@ Sāgata, Ven.	foremost skilled in fire element	AN1.232
 Rādha, Ven.	foremost who receive eloquent teachings	AN1.233
 Mogharājā, Ven.	foremost who wears coarse robes	AN1.234
 Mahāpajāpatī Gotamī, Ven.	foremost in seniority	AN1.235
+seniority	foremost 	AN1.235
 Khemā, Ven.	foremost with great wisdom	AN1.236
 Uppalavaṇṇā, Ven.	foremost with psychic power	AN1.237
 Paṭācārā, Ven.	foremost in monastic law	AN1.238
@@ -3452,6 +3455,9 @@ greed, hatred, delusion	causing pain	AN4.162
 practicing	four ways of	AN4.162
 faculties (indriya)	five	AN4.162
 practicing	painful	AN4.163
+intense lust (tibbarāga)	painful practice	AN4.163
+lust (rāga)		xref intense lust (tibbarāga)
+intense lust (tibbarāga)		xref lust (rāga)
 food	repulsiveness of	AN4.163
 powers of a trainee (sekha bala)		AN4.163
 powers of a trainee (sekha bala)	compared to five faculties	AN4.163
@@ -3459,7 +3465,7 @@ practicing	pleasant	AN4.163
 sense restraint (indriyasaṁvara) 	as taming practice	AN4.164
 not tolerating unwholesome	as calming practice	AN4.164
 anger (kodha)	not responding to anger with anger	AN4.164
-patience	as practice	AN4.164
+patience (khanti)	as practice	AN4.164
 enduring 	as a practice	AN4.165
 sense restraint (indriyasaṁvara) 	as taming practice	AN4.165
 not tolerating unwholesome	as calming practice	AN4.165
@@ -3559,9 +3565,9 @@ Dhamma teaching	by monastics in heaven	AN4.191
 Dhamma	memorization of	AN4.191
 Dhamma	remembering in next life	AN4.191
 companionship	truly getting to know someone	AN4.192
-virtue	of others seen only over time	AN4.192
+virtue (sīla)	of others seen only over time	AN4.192
 integrity	seeing that someone is consistent	AN4.192
-worldly conditions	judging someone by how they respond	AN4.192
+worldly conditions (lokadhamma)	judging someone by how they respond	AN4.192
 discussion	judging someone by	AN4.192
 judging	people like observing fish	AN4.192
 questions, asking		AN4.192
@@ -3579,7 +3585,7 @@ results of actions	getting used up	AN4.195
 arahants	interacting with the world	AN4.195
 arahants	like shadow of pillar completely destroyed	AN4.195
 arahants	equanimity towards senses	AN4.195
-virtue	as one, but not only, factor of monastic life	AN4.196
+virtue (sīla)	as one, but not only, factor of monastic life	AN4.196
 mortification (tapojigucchā)	purification through	AN4.196
 ascetic practices (dhutaṅga)		xref mortification (tapojigucchā)
 self mortification		xref mortification (tapojigucchā)
@@ -4103,7 +4109,7 @@ Kakudha, god	warns Ven. Moggallāna	AN5.100
 Devadatta	bad teachers	AN5.100
 Dhamma teachers	corrupt	AN5.100
 alms gathering practice	seeking in unsuitable places	AN5.102
-thief	as metaphor for bad monastic	AN5.103
+thieves (cora)	as metaphor for bad monastic	AN5.103
 monastic life	wrongly practiced	AN5.103
 monastic	exquisite ascetic	AN5.104
 principles of cordiality (dhammā sāraṇīyā)	way of living comfortably	AN5.105
@@ -4461,6 +4467,7 @@ eating	drawbacks of eating late for lay people	AN5.228
 lay life	duty to support saṅgha	AN5.228
 women	drawbacks of	AN5.229
 women	drawbacks of	AN5.230
+intense lust (tibbarāga)	drawbacks of	AN5.230
 monastics	admirable and not	AN5.231
 monastics	admirable and not	AN5.232
 monastics	admirable and not	AN5.233
@@ -4562,9 +4569,9 @@ confession	accepting	AN2.21
 fools (bāla)		AN2.21
 misrepresenting the Buddha		xref Buddha, the
 Buddha, the		xref misrepresenting the Buddha
-misrepresenting the Buddha		AN2.23
+misrepresenting the Buddha		AN2.22
 Dhamma teaching	misrepresenting Dhamma	AN2.23
-misrepresenting the Buddha		AN2.24
+misrepresenting the Buddha		AN2.23
 Dhamma teaching	misrepresenting Dhamma	AN2.24
 explicit meaning		AN2.24
 interpreted meaning		AN2.24
@@ -4602,7 +4609,7 @@ gratitude	good people (sappurisa)	AN2.32
 ingratitude	bad people (asappurisa)	AN2.32
 parents	not easy to repay	AN2.33
 parents	repaying through establishing in Dhamma	AN2.33
-inaction (akiriya)	how Buddha teaches	AN2.24
+inaction (akiriya)	how Buddha teaches	AN2.34
 giving (dāna)	worthy of gifts	AN2.35
 trainee (sekha)	worthy of gifts	AN2.35
 fetters (saṁyojana)	internal and external	AN2.36
@@ -5002,7 +5009,7 @@ warriors		xref khattiyas
 brahmins	what do they want	AN6.52
 householders (gahapatika)	what do they want	AN6.52
 women	what do they want	AN6.52
-thieves	what do they want	AN6.52
+thieves (cora)	what do they want	AN6.52
 bandits		xref thieves
 ascetics (samaṇa)	what do they want	AN6.52
 goals	of various groups of people	AN6.52
@@ -5483,7 +5490,7 @@ nurse		xref caregiver
 Way to the Beyond (Pārāyana)	recited by Veḷukaṇṭakī Nandamāta, householder	AN7.53
 Veḷukaṇṭakī Nandamāta, householder	reciting Way to the Beyond	AN7.53
 reciting Dhamma	lay people reciting	AN7.53
-Vessavaṇa, King	hearing Veḷukaṇṭakī Nandamāta,reciting	AN7.53
+Vessavaṇa, deva king	hearing Veḷukaṇṭakī Nandamāta,reciting	AN7.53
 merit sharing	with gods	AN7.53
 gods	sharing merit with	AN7.53
 Veḷukaṇṭakī Nandamāta, householder	incredible and amazing qualities	AN7.53
@@ -5549,12 +5556,12 @@ Dhamma	reflecting on to overcome drowsiness	AN7.61
 reciting Dhamma	to overcome drowsiness	AN7.61
 ears	pinching to overcome drowsiness	AN7.61
 water	using to overcome drowsiness	AN7.61
-stars	looking at to overcome drowsiness61	AN7.61
+stars	looking at to overcome drowsiness	AN7.61
 perception of light (ālokasañña)	to overcome drowsiness	AN7.61
 walking meditation	to overcome drowsiness	AN7.61
 lion’s posture (sīhaseyyā)	to overcome drowsiness	AN7.61
 sleep	not indulging in	AN7.61
-vanity	not approaching families with	AN7.61
+vanity (atimānī)	not approaching families with	AN7.61
 assuming bad things	about families	AN7.61
 restraint	lack of prevents concentration	AN7.61
 disputes	leads to restlessness and lack of concentration	AN7.61
@@ -6263,7 +6270,7 @@ perception of ugliness (asubhasañña)	mindfulness of body	MN119
 mindfulness of body (kāyagatāsati)	ugliness	MN119
 lay life	memories and thoughts of	MN119
 body	like a bag of grains	MN119
-bag of grains	like parts of body	MN119
+grains	bag of, simile for parts of body	MN119
 elements (dhātu)	mindfulness of body	MN119
 mindfulness of body (kāyagatāsati)	elements	MN119
 body	like cuts of meat	MN119
@@ -6468,7 +6475,7 @@ Sabhiya Kaccāna, Ven		MN127
 Kosambi	dispute at	MN128
 disputes	at Kosambi	MN128
 grudge		MN128
-thieves	live in harmony, so why can’t monks	MN128
+thieves (cora)	live in harmony, so why can’t monks	MN128
 companionship	good	MN128
 solitude	better than association with fools 	MN128
 Bhagu, Ven.	living alone	MN128
@@ -6992,7 +6999,7 @@ delight (nandi)	origin of suffering	MN145
 suffering (dukkha)	delight (nandi) as origin	MN145
 suffering (dukkha)	origin of suffering	MN145
 sense objects	approving, welcoming, clingin to	MN145
-patience	when being attacked	MN145
+patience (khanti)	when being attacked	MN145
 enduring abuse	how to	MN145
 enemies	how to think about	MN145
 hatred (dosa)	giving up	MN145
@@ -7138,9 +7145,9 @@ insight (vipassanā)	investigating the mind to see if it is developed	MN151
 knowledge and freedom (vijjāvimutti)	investigating the mind to see if they have been realized	MN151
 past, present, future	training is the same	MN151
 self reflection	practiced the same in past, present, future	MN151
-alms food	purification of	MN151
-purification	of alms food	MN151
-alms food		xref alms gathering practice
+almsfood	purification of	MN151
+purification	of almsfood	MN151
+almsfood		xref alms gathering practice
 Uttara, student of Pārāsariya	development of faculties	MN152
 faculties (indriya)	development of 	MN152
 blind people		MN152
@@ -7272,7 +7279,7 @@ greeting with cupped hands (añjalikamma)	danger of being greeted with cupped ha
 añjali		xref greeting with cupped hands (añjalikamma)
 robes	like red hot sheet of iron	AN7.72
 requisites, four	danger of receiving	AN7.72
-alms food	danger of receiving	AN7.72
+almsfood	danger of receiving	AN7.72
 disrobing	after hearing a Dhamma talk	AN7.72
 blood	spewing hot	AN7.72
 listening to Dhamma	attaining enlightenment while	AN7.72
@@ -7282,3 +7289,392 @@ confidence (pasāda)	in good person can determine rebirth	AN7.73
 Araka, teacher		AN7.73
 one attained to view (diṭṭhippatto)	abusing and insulting 	AN7.73
 spiritual companion (sabrahmacārī)	abusing and insulting 	AN7.73
+Araka, teacher		AN7.74
+dew	simile for shortness of life	AN7.74
+bubble	simile for shortness of life	AN7.74
+water	line drawn in, simile for shortness of life	AN7.74
+rivers	simile for shortness of life	AN7.74
+spit	simile for shortness of life	AN7.74
+meat	in frying pan, simile for shortness of life	AN7.74
+cows	led to slaughter, simile for shortness of life	AN7.74
+death (maraṇa)	comes quickly 	AN7.74
+life	shortness of	AN7.74
+lifespans	in the past	AN7.74
+sickness	in the past there were only six	AN7.74
+spiritual path (brahmacariya)	life is short so we should follow	AN7.74
+impermanence	shortness of life	AN7.74
+expert in Vinaya (vinayadhara)	qualities of	AN7.75
+expert in Vinaya (vinayadhara)		xref monastic rules (vinaya)
+monastic rules (vinaya)		xref expert in Vinaya (vinayadhara)
+expert in Vinaya (vinayadhara)	virtuous	AN7.75
+expert in Vinaya (vinayadhara)	jhānas	AN7.75
+expert in Vinaya (vinayadhara)	knowing both Vinayas	AN7.76
+expert in Vinaya (vinayadhara)	three knowledges	AN7.78
+Upāli, Ven.	requesting teaching in brief	AN7.83
+disillusionment (nibbidā)	teachings that lead to are true Dhamma	AN7.83
+dispassion (virāga)	teachings that lead to are true Dhamma	AN7.83
+cessation (nirodha)	teachings that lead to are true Dhamma	AN7.83
+peace (upasama)	teachings that lead to are true Dhamma	AN7.83
+direct knowledges (abhiññā)	teachings that lead to are true Dhamma	AN7.83
+awakening (sambodha)	teachings that lead to are true Dhamma	AN7.83
+nibbāna	teachings that lead to are true Dhamma	AN7.83
+litigation (adhikaraṇa)	seven principles for settling	AN7.84
+mendicants	fetters removed makes you become	AN7.85
+fetters (saṁyojana)	removal of makes one a true mendicant, etc.	AN7.85
+bad qualities (asaddhamma)	faithless, shameless, imprudent, uneducated, lazy, unmindful, and witless	AN7.93
+good qualities (saddhamm)	faithful, conscientious, prudent, learned, energetic, mindful, and wise	AN7.94
+impermanence, observing (aniccānupassī)	person worthy of gifts	AN7.95
+impermanence, observing (aniccānupassī)	stages of enlightenment	AN7.95
+extinguished in-between (antarāparinibbāyī)	observing impermanence	AN7.95
+extinguished upon landing (upahaccaparinibbāyī)	observing impermanence	AN7.95
+extinguished without extra effort (asaṅkhāraparinibbāyī)	observing impermanence	AN7.95
+extinguished with extra effort (sasaṅkhāraparinibbāyī)	observing impermanence	AN7.95
+heading upstream to the Akaniṭṭha realm (uddhaṁsotassa akaniṭṭhagāmino)	observing impermanence	AN7.95
+sacrifices (yañña)	not worth sixteenth part of loving-kindness	AN8.1
+dependence (nissaya)	on Teacher as cause for wisdom	AN8.2
+conscience and prudence (hiri ottappa)	towards Teacher	AN8.2
+questions, asking	cause of wisdom	AN8.2
+seclusion	by body and mind: cause of wisdom	AN8.2
+virtue (sīla)	cause of wisdom	AN8.2
+learned (bahussutā)	cause of wisdom	AN8.2
+energetic (āraddhavīriya)	cause of wisdom	AN8.2
+talk (bhassa)	on Dhamma leads to wisdom	AN8.2
+noble silence (ariya tuṇhībhāva)		AN8.2
+aggregates (khandha)	observing rise and fall leads to wisdom	AN8.2
+knowing knows, seeing sees (jānaṁ jānāti passaṁ passatī)	mendicant with wisdom	AN8.2
+love (piya)	qualities that lead to 	AN8.2
+respect (gārava)	qualities that lead to	AN8.2
+harmony (sāmaññā)	qualities that lead to 	AN8.2
+spiritual companion (sabrahmacārī)	qualities that make one liked or disliked by ones	AN8.3
+spiritual companion (sabrahmacārī)	qualities that make one liked or disliked by ones	AN8.4
+worldly conditions (lokadhamma)		AN8.5
+gain (lābha)	worldly conditions	AN8.5
+loss (alābha)	worldly conditions	AN8.5
+fame (yasa)	worldly conditions	AN8.5
+disgrace (ayasa)	worldly conditions	AN8.5
+blame	worldly conditions	AN8.5
+praise (pasaṁsā)	worldly conditions	AN8.5
+happiness (sukha)	worldly conditions	AN8.5
+suffering (dukkha)	worldly conditions	AN8.5
+impermanence	worldly conditions	AN8.5
+ordinary person (puthujjana)	worldly conditions	AN8.6
+noble disciple (ariya sāvaka)	worldly conditions	AN8.6
+Devadatta	failure of	AN8.7
+self reflection	successes and failures	AN8.7
+assessing people (puggalā viditā)	successes and failures	AN8.7
+Devadatta	overwhelmed by worldly conditions	AN8.7
+evil wishes (pāpiccha)	overcome 	AN8.7
+bad friends	overcome 	AN8.7
+Uttara, Ven.	whatever is well spoken is spoken by the Buddha	AN8.8
+Vessavaṇa, deva king		AN8.8
+Sakka, Lord of Gods		AN8.8
+grains	simile of teachings coming from the Buddha	AN8.8
+well spoken (subhāsita)	whatever is well spoken is spoken by the Buddha	AN8.8
+fundamentals of the spiritual life (ādibrahmacariya)	qualities to overcome	AN8.8
+Nanda, Ven.	clear comprehension	AN8.9
+gentleman (kulaputta)		xref son of good family (kulaputta)
+son of good family (kulaputta)	Ven. Nanda	AN8.9
+intense lust (tibbarāga)	Ven. Nanda	AN8.9
+lust (rāga)	how to overcome	AN8.9
+eating in moderation	how to	AN8.9
+wakefulness (jāgara)	how to	AN8.9
+mindfulness and clear comprehension (satisampajañña)	knowing feelings, perceptions, thoughts as they arise	AN8.9
+mindfulness and clear comprehension (satisampajañña)		xref mindfulness (sati)
+mindfulness and clear comprehension (satisampajañña)		xref situational awareness (sampajañña)
+mindfulness (sati)		xref mindfulness and clear comprehension (satisampajañña)
+situational awareness (sampajañña)		xref mindfulness and clear comprehension (satisampajañña)
+monastic life	how to	AN8.9
+sense restraint (indriyasaṁvara)	mindfulness and clear comprehension	AN8.9
+admonishment	example of	AN8.10
+admonishment	being difficult to 	AN8.10
+expulsion from saṅgha	example of	AN8.10
+external appearance	not matching internal	AN8.10
+bad monastics	example of	AN8.10
+trash	Buddha tells monks to take out the trash	AN8.10
+grains	bad, simile of bad monks corrupting good monks	AN8.10
+bad monastics	like bad barley corrupting crop	AN8.10
+trees	rotten, simile of bad monastic looking good on the outside	AN8.10
+familiarity needed to judge	who is bad and good	AN8.10
+association	causing good and bad qualities to spread	AN8.10
+bad qualities (asaddhamma)	hidden	AN8.10
+monastics		xref bad monastics
+monastics		xref good monastics
+Buddha, the	not bowing to elders 	AN8.11
+Verañja, brahmin	asking Buddha why he doesn’t bow 	AN8.11
+exploding head		xref head-splitting
+head-splitting	if Buddha bowed down to someone	AN8.11
+Buddha, the	qualities of	AN8.11
+Buddha, the	sense pleasures and	AN8.11
+inaction (akiriya)	how Buddha teaches	AN8.11
+annihilationism (ucchedavāda)	how Buddha teaches	AN8.11
+Buddha, the	disgusted by bad conduct	AN8.11
+mortification (tapojigucchā)	bad qualities are what should be mortified.	AN8.11
+hen		xref chickens
+chickens	simile for Buddha being first to break out	AN8.11
+Buddha, the	like first chick to hatch	AN8.11
+seniority	Buddha as most senior in the world	AN8.11
+Sīha, general	being dissuaded from visiting Buddha	AN8.12
+doctrine of inaction/non-doing (akiriyavādā)	Buddha accused of holding	AN8.12
+Nigaṇṭha Nāṭaputta	discouraging disciple from visiting Buddha	AN8.12
+annihilationism (ucchedavāda)	how Buddha teaches	AN8.12
+doctrine of inaction/non-doing (akiriyavādā)	how Buddha teaches	AN8.12
+comfort (assāsaka)	Buddha offering highest	AN8.12
+conversion	Buddha urging caution for one considering converting	AN8.12
+Buddha, the	how he teaches	AN8.12
+giving (dāna)	“Gifts should only be given to the Buddha”	AN8.12
+gradual instruction (anupubba katha)		AN8.12
+gradual instruction (anupubba katha)		AN5.159
+Dhamma teaching	out of kindness	AN5.159
+Dhamma teaching		xref gradual instruction (anupubba katha)
+Dhamma teaching	not secretly, hoping to profit.	AN8.12
+almsfood	meat	AN8.12
+meat	offered to Buddha	AN8.12
+Nigaṇṭhas	slandering the Buddha	AN8.12
+horses	thoroughbred, simile for good mendicant	AN8.13
+eating	respectfully, without annoyance	AN8.13
+companionship	easy to live with	AN8.13
+self reliance	will practice whether others do or not	AN8.13
+noble eightfold path (ariya aṭṭhangika magga)	as straight (uju) path	AN8.13
+determination	not to move until enlightened	AN8.13
+horses	wild colt, simile for bad people	AN8.14
+admonishment	being difficult to	AN8.14
+accusations	not responding well to	AN8.14
+obstinacy (thambha)		xref admonishment
+obstinacy (thambha)	difficult to admonish	AN8.14
+disrobing	when accused	AN8.14
+beauty	laziness	AN8.15
+recitation	not reciting is stain of hymns	AN8.15
+heedlessness (pamāda)	stain of a guard	AN8.15
+women	misconduct	AN8.15
+stinginess (maccharī)	stain of a giver	AN8.15
+ignorance (avijjā)	worst stain of all	AN8.15
+mission, going on	qualities of one worthy of	AN8.16
+disputes	one who doesn’t cause is worthy of going on a mission	AN8.16
+Dhamma teachers	qualities of one worthy of going on a mission	AN8.16
+Sāriputta, Ven.	worthy of going on a mission	AN8.16
+women	catching men	AN8.17
+men	catching women	AN8.18
+Pahārāda, asura	simile of ocean	AN8.19
+Dhamma	has many treasures	AN8.19
+Dhamma	has one taste	AN8.19
+asuras	love of ocean	AN8.19
+Dhamma	simile of ocean	AN8.19
+gradual training (anupubbasikkhā)		AN8.19
+gradual training (anupubbasikkhā)	simile of ocean	AN8.19
+nibbāna	never fills up	AN8.19
+ocean	loved by asuras	AN8.19
+Saṅgha	guarding precepts	AN8.19
+Saṅgha	has many great beings	AN8.19
+Saṅgha	removes corrupt members	AN8.19
+Saṅgha	river simile	AN8.19
+Saṅgha	simile of ocean	AN8.19
+Saṅgha	without caste distinctions	AN8.19
+Dhamma	has many treasures	AN8.20
+Dhamma	has one taste	AN8.20
+asuras	love of ocean	AN8.20
+bad monastics	in pātimokkha recitation	AN8.20
+Dhamma	simile of ocean	AN8.20
+gradual training (anupubbasikkhā)		AN8.20
+gradual training (anupubbasikkhā)	simile of ocean	AN8.20
+nibbāna	never fills up	AN8.20
+ocean	loved by asuras	AN8.20
+Saṅgha	guarding precepts	AN8.20
+Saṅgha	has many great beings	AN8.20
+Saṅgha	removes corrupt members	AN8.20
+Saṅgha	river simile	AN8.20
+Saṅgha	simile of ocean	AN8.20
+Saṅgha	without caste distinctions	AN8.20
+Sāriputta, Ven.	throwing monk out	AN8.21
+Sāriputta, Ven.	throwing monk out	Ud5.5
+Ugga of Vesālī, householder	eight amazing and wonderful qualities	AN8.21
+Buddha, the	inspiration as soon as seeing	AN8.21
+gradual instruction (anupubba katha)	to Ugga	AN8.21
+celibacy	lay people	AN8.21
+wealth	sharing without reservation	AN8.21
+worshiping (payirupāsati)	carefully	AN8.21
+lay people	teaching monastics	AN8.21
+devas	visiting lay people	AN8.21
+devas	visiting lay people	AN7.53
+non-returner (anāgāmi)	examples of	AN8.21
+Uggata of Hatthigāmaka, householder	eight amazing and wonderful qualities	AN8.22
+Buddha, the	inspiration as soon as seeing	AN8.22
+gradual instruction (anupubba katha)	to Ugga	AN8.22
+celibacy	lay people	AN8.22
+wealth	sharing without reservation	AN8.22
+worshiping (payirupāsati)	carefully	AN8.22
+lay people	teaching monastics	AN8.22
+devas	visiting lay people	AN8.22
+giving 	impartially	AN8.22
+non-returner (anāgāmi)	examples of	AN8.22
+Hatthaka of Āḷavī, householder	eight amazing and wonderful qualities	AN8.23
+few wishes (appiccha)	not wanting others to know good qualities	AN8.23
+humility	not wanting others to know good qualities	AN8.23
+Hatthaka of Āḷavī, householder	large congregation	AN8.24
+friendship	attracting friends	AN8.24
+giving (dāna)	friendship gained by	AN8.24
+speech	kind words	AN8.24
+wealth	reason people listen to someone	AN8.24
+past, present, future	attracting people is the same in	AN8.24
+Mahānāma Sākyan, householder	asking about definition of lay follower	AN8.25
+lay follower (upāsaka, upāsikā)	definition	AN8.25
+lay follower (upāsaka, upāsikā)	virtuous: definition	AN8.25
+virtue (sīla)	virtuous lay disciple	AN8.25
+lay follower (upāsaka, upāsikā)	benefiting themselves and others	AN8.25
+encouragement	to do good	AN8.25
+vomiting	hot blood	AN7.72
+Joyful gods (tusitā devā)		xref Tusita heaven
+Tusita heaven		xref Joyful gods (tusitā devā)
+refuges		xref triple gem 
+triple gem		xref refuges
+memorizing	helping oneself and others	AN8.25
+Jīvaka Komārabhacca, householder	asking about definition of lay follower	AN8.26
+lay follower (upāsaka, upāsikā)	definition	AN8.26
+lay follower (upāsaka, upāsikā)	virtuous: definition	AN8.26
+encouragement	to do good	AN8.26
+listening to Dhamma	like to listen	AN8.26
+memorizing	helping oneself and others	AN8.26
+giving (dāna)	encouraging others to	AN8.26
+monastics	visiting 	AN8.26
+lay follower (upāsaka, upāsikā)	practices of	AN8.25
+lay follower (upāsaka, upāsikā)	practices of	AN8.26
+welfare (hita)	ones own and others	AN8.25
+welfare (hita)	ones own and others	AN8.26
+powers (bala)	of different people	AN8.27
+baby	crying as power	AN8.27
+women	anger as power	AN8.27
+thieves (cora)	weapons as power	AN8.27
+kings	authority as power	AN8.27
+fools (bāla)	complaining as power	AN8.27
+learned (bahussutā)	reflection as power	AN8.27
+ascetics and brahmins (samaṇabrāhmaṇā)	patience as power	AN8.27
+patience (khanti)	as a power of ascetics and brahmins	AN8.27
+Sāriputta, Ven.	asking about powers	AN8.28
+arahants	powers of	AN8.28
+powers (bala)	of arahants	AN8.28
+impermanence	seeing all conditions as is power of arahant	AN8.28
+pit	of glowing coals, simile for sensual pleasures	AN8.28
+sense pleasures	like pit of glowing coals	AN8.28
+seclusion (paṭisallīna, vivitta)	power of an arahant	AN8.28
+arahants	loving seclusion and renunciation	AN8.28
+foundations of mindfulness (satipaṭṭhāna)	arahant has well developed	AN8.28
+foundations of mindfulness (satipaṭṭhāna)	power of an arahant	AN8.28
+bases of psychic power (iddhipāda)	arahant has well developed	AN8.28
+faculties (indriya)	five, arahant has well developed	AN8.28
+awakening factors, seven (bojjhaṅga)	arahant has well developed	AN8.28
+noble eightfold path (ariya aṭṭhangika magga)	arahant has well developed	AN8.28
+inopportune moment (asamaya)		AN8.29
+opportunities, lost		xref inopportune moment (asamaya)
+hell (niraya)	lost opportunity if born in hell when Buddha is alive	AN8.29
+animal realm	lost opportunity if born in hell when Buddha is alive	AN8.29
+ghost realm	lost opportunity if born in hell when Buddha is alive	AN8.29
+gods, long lived order (dīghāyukaṁ devanikāya)	lost opportunity if born in hell when Buddha is alive	AN8.29
+wrong views	lost opportunity having when a Buddha is in the world	AN8.29
+stupidity 	lost opportunity being when a Buddha is in the world	AN8.29
+opportunities	one good opportunity	AN8.29
+spiritual path (brahmacariya)	opportunity to practice	AN8.29
+Buddhas	rarity of	AN8.29
+regret	when missing opportunity to practice	AN8.29
+Anuruddha, Ven.	thoughts of a great man (mahāpurisavitakka)	AN8.30
+thoughts of a great man (mahāpurisavitakka)		AN8.30
+few wishes (appiccha)	Dhamma is for one with	AN8.30
+contentment (santuṭṭhi)	Dhamma is for one with	AN8.30
+energetic (āraddhavīriya)	Dhamma is for one with	AN8.30
+mindfulness (sati)	Dhamma is for one with	AN8.30
+concentration (samādhi)	Dhamma is for one with	AN8.30
+wisdom (paññā)	Dhamma is for one with	AN8.30
+proliferation (papañca)	Dhamma is for one who does not enjoy	AN8.30
+thoughts of a great man (mahāpurisavitakka)	lead to jhānas	AN8.30
+almsfood	contentment with	AN8.30
+contentment (santuṭṭhi)	with almsfood	AN8.30
+tree root dwelling (rukkhamūlika)	contentment with	AN8.30
+contentment (santuṭṭhi)	with tree root dwelling	AN8.30
+fermented urine (pūtimutta)	contentment with as medicine	AN8.30
+contentment (santuṭṭhi)	fermented urine as medicine	AN8.30
+Buddha, the	visiting monks	AN8.30
+humility	not wanting to be known	AN8.30
+energetic (āraddhavīriya)	definition	AN8.30
+contentment (santuṭṭhi)	definition	AN8.30
+few wishes (appiccha)	definition	AN8.30
+giving (dāna)	as an adornment for the mind 	AN8.31
+giving (dāna)	expecting something in return	AN8.31
+giving (dāna)	how to give	AN8.31
+giving (dāna)	after insulting	AN8.31
+giving (dāna)	out of fear	AN8.31
+giving (dāna)	thinking of repaying	AN8.31
+giving (dāna)	thinking, ‘They’ll give to me.’ 	AN8.31
+giving (dāna)	thinking, ‘It’s good to give.’ 	AN8.31
+giving (dāna)	thinking, ‘I cook, they don’t. It wouldn’t be right for me to not give to them.’ 	AN8.31
+giving (dāna)	to get good reputation	AN8.31
+giving (dāna)	thoughts while	AN8.31
+giving (dāna)	rebirth in heaven	AN8.32
+giving (dāna)	out of favoritism	AN8.33
+giving (dāna)	out of hostility	AN8.33
+giving (dāna)	out of stupidity	AN8.33
+giving (dāna)	out of cowardice	AN8.33
+giving (dāna)	thinking to not stop family tradition	AN8.33
+giving (dāna)	thinking to be reborn in heaven	AN8.33
+giving (dāna)	as an adornment for the mind	AN8.33
+giving (dāna)	to make ones mind clear	AN8.33
+giving (dāna)	to someone possessing noble eightfold path	AN8.34
+fields	simile of giving	AN8.34
+giving (dāna)	recipients like fields	AN8.34
+giving (dāna)	fruitful gifts	AN8.34
+rebirth	because of giving	AN8.35
+gods of the Four Great Kings (cātumahārājikā devā)	aspiring to be reborn as	AN8.35
+gods of the Thirty-Three (tāvatiṁsā devā)	aspiring to be reborn as	AN8.35
+gods of Yama (yāmā devā)	aspiring to be reborn as	AN8.35
+khattiyas	aspiring to be reborn as	AN8.35
+brahmins	aspiring to be reborn as	AN8.35
+Joyful gods (tusitā devā)	aspiring to be reborn as	AN8.35
+gods that delight in creation (nimmānaratī devā)	aspiring to be reborn as	AN8.35
+gods Who Control the Creations of Others (paranimmitavasavattī devā)	aspiring to be reborn as	AN8.35
+gods of Brahmā’s Host (brahmakāyika)	aspiring to be reborn as	AN8.35
+merit (puññā)	grounds for making	AN8.36
+meditation	grounds for making merit	AN8.36
+virtue (sīla)	grounds for making merit	AN8.36
+meditation	cause for rebirth	AN8.36
+virtue (sīla)	cause for rebirth	AN8.36
+rebirth	dependent virtue, giving, meditation	AN8.36
+giving (dāna)	levels of	AN8.36
+virtue (sīla)	levels of	AN8.36
+human birth	cause of	AN8.36
+gods of the Four Great Kings (cātumahārājikā devā)	cause for rebirth among	AN8.36
+gods of the Thirty-Three (tāvatiṁsā devā)	cause for rebirth among	AN8.36
+gods of Yama (yāmā devā)	cause for rebirth among	AN8.36
+Joyful gods (tusitā devā)	cause for rebirth among	AN8.36
+gods that delight in creation (nimmānaratī devā)	cause for rebirth among	AN8.36
+gods Who Control the Creations of Others (paranimmitavasavattī devā)	cause for rebirth among	AN8.36
+good people (sappurisa)	benefit family	AN8.38
+good people (sappurisa)	benefits those around them	AN8.38
+cloud	simile of good person benefiting others	AN8.38
+good people (sappurisa)	like a cloud that rains everywhere	AN8.38
+family	good person looking after	AN8.38
+merit (puññā)	by going for refuge	AN8.39
+precepts, five	as great gift	AN8.39
+precepts, five	as uncorrupted gift	AN8.39
+precepts, five	as ancient gift	AN8.39
+precepts, five	giving fearlessness	AN8.39
+merit (puññā)	overflowing	AN8.39
+killing	cause of short life	AN8.40
+killing	leading to hell	AN8.40
+lifespans	cause for 	AN8.40
+stealing	leading to hell	AN8.40
+stealing	cause for loss of wealth	AN8.40
+wealth	cause for loss of	AN8.40
+sexual misconduct	leading to hell	AN8.40
+sexual misconduct	leading to rivalry and enmity	AN8.40
+lying	leading to hell	AN8.40
+lying	leading to false accusations	AN8.40
+false accusations	caused by lying	AN8.40
+false accusations		xref accusations
+accusations		xref false accusations
+divisive speech	leading to hell	AN8.40
+divisive speech	causing division among frields	AN8.40
+harsh speech	leading to hell	AN8.40
+harsh speech	causing hearing disagreeable things	AN8.40
+useless speech (samphappalāpa)	leading to hell	AN8.40
+useless speech (samphappalāpa)	causing no one to take you seriously	AN8.40
+intoxicants	using leads to hell	AN8.40
+intoxicants	using leads to madness	AN8.40
+intoxicants		xref alcohol
+alcohol		xref intoxicants

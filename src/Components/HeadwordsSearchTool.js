@@ -1,6 +1,7 @@
 import searchIcon from "../images/search-icon.png";
 import xIcon from "../images/x-icon.png";
 import randomSuggestion from "../functions/randomSuggestion";
+import makeNormalizedId from "../functions/makeNormalizedId.js";
 
 export default function HeadwordsSearchTool(props) {
   let { searchText, setSearchText } = props;
@@ -14,9 +15,8 @@ export default function HeadwordsSearchTool(props) {
   //allows enter press to go to first result
   function handleKeyPress(event) {
     const firstHeadLink = document.querySelector(".search-result");
-    console.log(firstHeadLink);
     if (event.key === "Enter" && firstHeadLink) {
-      window.open(firstHeadLink, "_self");
+      document.getElementById(makeNormalizedId(firstHeadLink.innerText)).scrollIntoView(true);
       const allHideableAreas = document.getElementsByClassName("hideable-area");
       for (let i = 0; i < allHideableAreas.length; i++) {
         allHideableAreas[i].classList.add("hidden");

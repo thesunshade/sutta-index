@@ -22,7 +22,7 @@ export default function LocatorSortedTable() {
         <tr key={book + "-" + index}>
           <td>
             <a
-              href={`https://suttacentral.net/${data[0]}/en/sujato`}
+              href={`https://sc.readingfaithfully.org/?q=${data[0]}`}
               target="_blank"
               rel="noreferrer"
               title={getSuttaTitleBlurb(stripRangesFromUrls(data[0]))}

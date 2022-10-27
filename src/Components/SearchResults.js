@@ -5,10 +5,14 @@ import fuzz from "../functions/fuzz";
 export default function SearchResults(props) {
   let { searchText } = props;
   searchText = searchText.replace(/[/\\()\s-]/g, "");
-  const allHideableAreas = document.getElementsByClassName("hideable-area");
-  for (let i = 0; i < allHideableAreas.length; i++) {
-    allHideableAreas[i].classList.add("hidden");
+
+  function hideAllHideable() {
+    const allHideableAreas = document.getElementsByClassName("hideable-area");
+    for (let i = 0; i < allHideableAreas.length; i++) {
+      allHideableAreas[i].classList.add("hidden");
+    }
   }
+
   if (searchText.length >= 2) {
     document.getElementById("search-results").classList.remove("hidden");
   }
@@ -29,6 +33,14 @@ export default function SearchResults(props) {
                   key={headword}
                   className="menu-item search-result"
                   tabIndex={index + 2}
+                  onKeyPress={e => {
+                    e.preventDefault();
+                    if (e.key === "Enter") {
+                      document.getElementById(makeNormalizedId(e.target.innerText)).scrollIntoView(true);
+                      window.history.pushState({ page: 1 }, "foo", "#" + makeNormalizedId(e.target.innerText));
+                      hideAllHideable();
+                    }
+                  }}
                   onClick={e => {
                     e.preventDefault();
                     document.getElementById(makeNormalizedId(headword)).scrollIntoView(true);
