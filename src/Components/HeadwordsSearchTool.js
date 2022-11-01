@@ -17,6 +17,7 @@ export default function HeadwordsSearchTool(props) {
     const firstHeadLink = document.querySelector(".search-result");
     if (event.key === "Enter" && firstHeadLink) {
       document.getElementById(makeNormalizedId(firstHeadLink.innerText)).scrollIntoView(true);
+      window.history.pushState({ page: 1 }, "foo", "#" + makeNormalizedId(firstHeadLink.innerText));
       const allHideableAreas = document.getElementsByClassName("hideable-area");
       for (let i = 0; i < allHideableAreas.length; i++) {
         allHideableAreas[i].classList.add("hidden");

@@ -39,8 +39,6 @@ export default function FilterInput() {
         <button
           className="clear-filter-button"
           onClick={() => {
-            // setFilterInput("");
-            // setFilterByText("");
             document.getElementById("user-input").focus();
           }}
         >

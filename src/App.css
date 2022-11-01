@@ -1,5 +1,5 @@
 :root {
-  --max-width: 35rem;
+  /* --max-width: 35rem; */
   --indent: 3.5rem;
   --mobile-indent: .5rem;
   --primary: #ee7121;
@@ -243,7 +243,7 @@ App {
 }
 
 .alphabet span {
-  border-radius: 5px;
+  border-radius: 5px 5px 0px 0px;
   padding: 4px 4px 3px 3px;
 }
 
@@ -738,7 +738,7 @@ td,
 th {
   border: 1px solid #a8a8a8;
   text-align: left;
-  padding: 8px;
+  padding: 2px;
 }
 
 .dark td,
