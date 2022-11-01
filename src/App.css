@@ -472,7 +472,7 @@ summary {
 }
 
 .sutta-index {
-  margin: 6rem 1rem auto 2rem;
+  margin: 6rem 1rem auto 0rem;
   padding-bottom: 3rem;
   max-width: var(--max-width)
 }
@@ -531,7 +531,8 @@ a:visited {
 }
 
 .sutta-name {
-  font-size: .9rem;
+  font-family: "Fira Sans ExtraCompressed";
+  font-size: .8rem;
   word-spacing: initial;
   font-style: italic
 }

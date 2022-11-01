@@ -9184,6 +9184,12 @@ export const indexObject ={
                }
           },
           "Dhamma teachers": {
+               "should honor": {
+                    "locators": [
+                         "Dhp393"
+                    ],
+                    "xrefs": []
+               },
                "simile of boat": {
                     "locators": [
                          "Snp2.8"
@@ -10642,7 +10648,7 @@ export const indexObject ={
                }
           },
           "downfall (parābhava)": {
-               "": {
+               "causes of": {
                     "locators": [
                          "Snp1.6"
                     ],
@@ -14525,7 +14531,7 @@ export const indexObject ={
                }
           },
           "galaxies": {
-               "": {
+               "size and number of": {
                     "locators": [
                          "AN3.80"
                     ],
@@ -14547,7 +14553,7 @@ export const indexObject ={
                }
           },
           "gambling": {
-               "": {
+               "cause of downfall": {
                     "locators": [
                          "Snp1.6"
                     ],
@@ -14561,7 +14567,7 @@ export const indexObject ={
                }
           },
           "Gaṇakamoggallāna, accountant": {
-               "": {
+               "asking about gradual training": {
                     "locators": [
                          "MN107"
                     ],
@@ -15048,14 +15054,6 @@ export const indexObject ={
                "": {
                     "locators": [
                          "MN116"
-                    ],
-                    "xrefs": []
-               }
-          },
-          "giving": {
-               "impartially": {
-                    "locators": [
-                         "AN8.22"
                     ],
                     "xrefs": []
                }
@@ -15816,6 +15814,12 @@ export const indexObject ={
                "to bhikkhunīs": {
                     "locators": [
                          "MN142"
+                    ],
+                    "xrefs": []
+               },
+               "impartially": {
+                    "locators": [
+                         "AN8.22"
                     ],
                     "xrefs": []
                },
@@ -17243,19 +17247,6 @@ export const indexObject ={
                }
           },
           "greed": {
-               "as fire": {
-                    "locators": [
-                         "Dhp202",
-                         "Dhp251"
-                    ],
-                    "xrefs": []
-               },
-               "like a flood": {
-                    "locators": [
-                         "Snp4.15"
-                    ],
-                    "xrefs": []
-               },
                "unsatisfied": {
                     "locators": [
                          "MN82",
@@ -17270,9 +17261,22 @@ export const indexObject ={
                          "Iti1"
                     ],
                     "xrefs": []
+               },
+               "like a flood": {
+                    "locators": [
+                         "Snp4.15"
+                    ],
+                    "xrefs": []
                }
           },
           "greed (rāga)": {
+               "as fire": {
+                    "locators": [
+                         "Dhp202",
+                         "Dhp251"
+                    ],
+                    "xrefs": []
+               },
                "removing by seeing repulsive in unrepulsive": {
                     "locators": [
                          "AN5.144"
@@ -17521,7 +17525,7 @@ export const indexObject ={
                     ]
                }
           },
-          "happiness": {
+          "happiness (somanassa)": {
                "laypeople’s and monastics’": {
                     "locators": [
                          "MN137"
@@ -18979,6 +18983,12 @@ export const indexObject ={
                          "MN121"
                     ],
                     "xrefs": []
+               },
+               "removed and replaced, simile for cutting off greed": {
+                    "locators": [
+                         "MN146"
+                    ],
+                    "xrefs": []
                }
           },
           "hiding misdeeds": {
@@ -19194,14 +19204,9 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "": {
-                    "locators": [
-                         "Dhp392"
-                    ],
-                    "xrefs": []
-               },
                "your Dhamma teacher": {
                     "locators": [
+                         "Dhp392",
                          "Snp2.8–9",
                          "Thig5.11"
                     ],
@@ -19268,7 +19273,7 @@ export const indexObject ={
                }
           },
           "hope (āsa)": {
-               "": {
+               "no need for": {
                     "locators": [
                          "Dhp410"
                     ],
@@ -22259,13 +22264,11 @@ export const indexObject ={
                }
           },
           "learning": {
-               "": {
+               "honor your teacher": {
                     "locators": [
                          "Dhp392"
                     ],
-                    "xrefs": [
-                         "xref listening to Dhamma"
-                    ]
+                    "xrefs": []
                },
                "eagerness to": {
                     "locators": [
@@ -22294,6 +22297,12 @@ export const indexObject ={
                          "Thag5.12"
                     ],
                     "xrefs": []
+               },
+               "": {
+                    "locators": [],
+                    "xrefs": [
+                         "xref listening to Dhamma"
+                    ]
                },
                "84,000 teachings": {
                     "locators": [
@@ -35370,16 +35379,21 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "": {
+               "cause of downfall": {
                     "locators": [
-                         "Snp1.6",
-                         "Pv24"
+                         "Snp1.6"
                     ],
                     "xrefs": []
                },
                "abstaining from": {
                     "locators": [
                          "Vv11"
+                    ],
+                    "xrefs": []
+               },
+               "": {
+                    "locators": [
+                         "Pv24"
                     ],
                     "xrefs": []
                },
@@ -41763,7 +41777,7 @@ export const indexObject ={
                }
           },
           "womanizer (itthidhuta)": {
-               "": {
+               "cause of downfall": {
                     "locators": [
                          "Snp1.6"
                     ],
