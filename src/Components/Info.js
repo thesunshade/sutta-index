@@ -36,6 +36,7 @@ export default function Info() {
             subheadings. For example, some wrong views may be indexed in a way that is not immediately apparent that
             they are such. So actually reading the sutta is critical for understanding the matter at hand.
           </p>
+          <p>Diacritics are ignored for alphabetization.</p>
         </div>
       </details>
       <details>
