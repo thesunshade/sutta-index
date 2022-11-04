@@ -4476,7 +4476,7 @@ export const indexArray =[
      ],
      [
           "AN3.116",
-          "dimension of infinite consciousness (viññāṇañcāyatana) ",
+          "dimension of infinite consciousness (viññāṇañcāyatana)",
           ""
      ],
      [
@@ -11117,7 +11117,7 @@ export const indexArray =[
      [
           "AN5.179",
           "precepts, five",
-          "and stream entry"
+          "stream entry and"
      ],
      [
           "AN5.180",
@@ -13776,6 +13776,16 @@ export const indexArray =[
      ],
      [
           "AN6.73",
+          "first jhāna",
+          "not possible with hindrances"
+     ],
+     [
+          "AN6.73",
+          "first jhāna",
+          "not possible without seeing danger of sensual pleasures"
+     ],
+     [
+          "AN6.73",
           "jhānas",
           "first jhāna not possible with hindrances"
      ],
@@ -13783,6 +13793,11 @@ export const indexArray =[
           "AN6.73",
           "jhānas",
           "first jhāna not possible without seeing danger of sensual pleasures"
+     ],
+     [
+          "AN6.74",
+          "first jhāna",
+          "qualities that prevent"
      ],
      [
           "AN6.74",
@@ -14771,26 +14786,6 @@ export const indexArray =[
      ],
      [
           "AN7.21",
-          "arahants",
-          "protecting leads to growth"
-     ],
-     [
-          "AN7.21",
-          "growth",
-          "principles that lead to"
-     ],
-     [
-          "AN7.21",
-          "respect (gārava)",
-          "leads to growth"
-     ],
-     [
-          "AN7.21",
-          "sexual misconduct",
-          "leads to decline in a society"
-     ],
-     [
-          "AN7.21",
           "tradition (vaṁsa)",
           "leads to growth"
      ],
@@ -14801,8 +14796,28 @@ export const indexArray =[
      ],
      [
           "AN7.21",
+          "arahants",
+          "protecting leads to growth"
+     ],
+     [
+          "AN7.21",
+          "growth",
+          "principles that lead to"
+     ],
+     [
+          "AN7.21",
           "harmony (samagga)",
           "leads to growth"
+     ],
+     [
+          "AN7.21",
+          "respect (gārava)",
+          "leads to growth"
+     ],
+     [
+          "AN7.21",
+          "sexual misconduct",
+          "leads to decline in a society"
      ],
      [
           "AN7.21",
@@ -15182,37 +15197,67 @@ export const indexArray =[
      [
           "AN7.44",
           "beings diverse in body and diverse in perception (sattā nānattakāyā nānattasaññino) ",
-          ""
+          "planes of consciousness"
      ],
      [
           "AN7.44",
           "beings gone beyond perceptions of form (sattā sabbaso rūpasaññānaṁ samatikkamā)",
-          ""
+          "planes of consciousness"
      ],
      [
           "AN7.44",
           "beings gone  beyond the dimension of infinite consciousness (sattā sabbaso viññāṇañcāyatanaṁ samatikkamma)",
-          ""
+          "planes of consciousness"
      ],
      [
           "AN7.44",
           "beings gone beyond the dimension of infinite space (sattā sabbaso ākāsānañcāyatanaṁ samatikkamma)",
-          ""
+          "planes of consciousness"
+     ],
+     [
+          "AN7.44",
+          "beings in the underworld (vinipātikā) ",
+          "diverse in body and diverse in perception"
      ],
      [
           "AN7.44",
           "beings that are diverse in body and unified in perception (sattā nānattakāyā ekattasaññino) ",
-          ""
+          "planes of consciousness"
      ],
      [
           "AN7.44",
           "beings unified in body and diverse in perception (sattā ekattakāyā nānattasaññino) ",
-          ""
+          "planes of consciousness"
      ],
      [
           "AN7.44",
           "beings unified in body and unified in perception (sattā ekattakāyā ekattasaññino)",
-          ""
+          "planes of consciousness"
+     ],
+     [
+          "AN7.44",
+          "gods of Brahmā’s Host (brahmakāyika)",
+          "diverse in body and unified in perception "
+     ],
+     [
+          "AN7.44",
+          "Gods of Streaming Radiance (ābhassarā devā)",
+          "unified in body and diverse in perception"
+     ],
+     [
+          "AN7.44",
+          "Gods Replete with Glory (subhakiṇhā devā)",
+          "unified in body and unified in perception"
+     ],
+     [
+          "AN7.44",
+          "gods",
+          "diverse in body and diverse in perception"
+     ],
+     [
+          "AN7.44",
+          "humans",
+          "diverse in body and diverse in perception"
      ],
      [
           "AN7.44",
@@ -15591,6 +15636,11 @@ export const indexArray =[
      ],
      [
           "AN7.56",
+          "personal witness (kāyasakkhī)",
+          "known by gods of Brahmā’s Host"
+     ],
+     [
+          "AN7.56",
           "Tissa, Brahma",
           "former monk"
      ],
@@ -15598,11 +15648,6 @@ export const indexArray =[
           "AN7.56",
           "mendicants",
           "reborn as gods"
-     ],
-     [
-          "AN7.56",
-          "personal witness (kāyasakkhī)",
-          "known by gods of Brahmā’s Host"
      ],
      [
           "AN7.56",
@@ -17181,18 +17226,8 @@ export const indexArray =[
      ],
      [
           "AN8.12",
-          "annihilationism (ucchedavāda)",
-          "how Buddha teaches"
-     ],
-     [
-          "AN8.12",
           "Buddha, the",
           "how he teaches"
-     ],
-     [
-          "AN8.12",
-          "comfort (assāsaka)",
-          "Buddha offering highest"
      ],
      [
           "AN8.12",
@@ -17203,6 +17238,16 @@ export const indexArray =[
           "AN8.12",
           "almsfood",
           "meat"
+     ],
+     [
+          "AN8.12",
+          "annihilationism (ucchedavāda)",
+          "how Buddha teaches"
+     ],
+     [
+          "AN8.12",
+          "comfort (assāsaka)",
+          "Buddha offering highest"
      ],
      [
           "AN8.12",
@@ -19901,11 +19946,6 @@ export const indexArray =[
      ],
      [
           "AN8.82",
-          "Sequential path proximate causes",
-          ""
-     ],
-     [
-          "AN8.82",
           "listening attentively (ohitasota)",
           "inspires the Buddha to teach"
      ],
@@ -19928,6 +19968,11 @@ export const indexArray =[
           "AN8.82",
           "remembering (dhāreti)",
           "inspires the Buddha to teach"
+     ],
+     [
+          "AN8.82",
+          "Sequential path proximate causes",
+          ""
      ],
      [
           "AN8.82",
@@ -20366,6 +20411,11 @@ export const indexArray =[
      ],
      [
           "AN9.4",
+          "animals",
+          "four footed, simile for incomplete spiritual development"
+     ],
+     [
+          "AN9.4",
           "esteem (sambhāventi)",
           "from teaching"
      ],
@@ -20388,11 +20438,6 @@ export const indexArray =[
           "AN9.4",
           "Nandaka, Ven.",
           "giving a talk while Buddha waited outside"
-     ],
-     [
-          "AN9.4",
-          "animals",
-          "four footed, simile for incomplete spiritual development"
      ],
      [
           "AN9.4",
@@ -21116,13 +21161,328 @@ export const indexArray =[
      ],
      [
           "AN9.14",
+          "concentration (samādhi)",
+          "as chief"
+     ],
+     [
+          "AN9.14",
+          "contact (phassa)",
+          "as origin"
+     ],
+     [
+          "AN9.14",
+          "deathless (amata)",
+          "as culmination"
+     ],
+     [
+          "AN9.14",
+          "diversity (nānatta)",
+          "thoughts and intentions"
+     ],
+     [
+          "AN9.14",
+          "feelings (vedanā)",
+          "as meeting place"
+     ],
+     [
+          "AN9.14",
+          "freedom ",
+          "as core"
+     ],
+     [
+          "AN9.14",
+          "humility",
+          "don’t get conceited because of knowledge"
+     ],
+     [
+          "AN9.14",
+          "intention (saṅkappa)",
+          "arise because of name and form"
+     ],
+     [
+          "AN9.14",
+          "intention (saṅkappa)",
+          "concentration is its chief"
+     ],
+     [
+          "AN9.14",
+          "intention (saṅkappa)",
+          "contact is origin"
+     ],
+     [
+          "AN9.14",
+          "intention (saṅkappa)",
+          "deathless is its culmination"
+     ],
+     [
+          "AN9.14",
+          "intention (saṅkappa)",
+          "feeling is meeting place"
+     ],
+     [
+          "AN9.14",
+          "intention (saṅkappa)",
+          "freedom is its core"
+     ],
+     [
+          "AN9.14",
+          "intention (saṅkappa)",
+          "mindfulness is its ruler"
+     ],
+     [
+          "AN9.14",
+          "intention (saṅkappa)",
+          "wisdom is its overseer"
+     ],
+     [
+          "AN9.14",
+          "mindfulness ",
+          "as ruler"
+     ],
+     [
+          "AN9.14",
           "Sāriputta, Ven.",
           "purpose of spiritual life"
+     ],
+     [
+          "AN9.14",
+          "thoughts (vitakkā)",
+          "arise because of name and form"
+     ],
+     [
+          "AN9.14",
+          "thoughts (vitakkā)",
+          "concentration is its chief"
+     ],
+     [
+          "AN9.14",
+          "thoughts (vitakkā)",
+          "contact is origin"
+     ],
+     [
+          "AN9.14",
+          "thoughts (vitakkā)",
+          "deathless is its culmination"
+     ],
+     [
+          "AN9.14",
+          "thoughts (vitakkā)",
+          "feeling is meeting place"
+     ],
+     [
+          "AN9.14",
+          "thoughts (vitakkā)",
+          "freedom is its core"
+     ],
+     [
+          "AN9.14",
+          "thoughts (vitakkā)",
+          "mindfulness is its ruler"
+     ],
+     [
+          "AN9.14",
+          "thoughts (vitakkā)",
+          "wisdom is its overseer"
+     ],
+     [
+          "AN9.14",
+          "wisdom (paññā)",
+          "as overseer"
+     ],
+     [
+          "AN9.15",
+          "body",
+          "like a boil with nine leaking orifices"
+     ],
+     [
+          "AN9.15",
+          "boil (gaṇḍo)",
+          "term for body"
+     ],
+     [
+          "AN9.15",
+          "perception of ugliness (asubhasañña)",
+          "body like a boil"
+     ],
+     [
+          "AN9.16",
+          "deathless (amata)",
+          "perceptions that culminate in"
+     ],
+     [
+          "AN9.16",
+          "perceptions (saññā)",
+          "nine"
+     ],
+     [
+          "AN9.17",
+          "family",
+          "worth visiting, not worth visiting"
+     ],
+     [
+          "AN9.17",
+          "giving (dāna)",
+          "carefully or carelessly"
+     ],
+     [
+          "AN9.17",
+          "lay life",
+          "respecting Saṅgha"
+     ],
+     [
+          "AN9.17",
+          "laypeople",
+          "and Saṅgha"
+     ],
+     [
+          "AN9.17",
+          "monastics",
+          "visiting families, worthwhile and not worthwhile"
+     ],
+     [
+          "AN9.17",
+          "Saṅgha",
+          "laypeople and"
+     ],
+     [
+          "AN9.17",
+          "stinginess (maccharī)",
+          "families that are"
+     ],
+     [
+          "AN9.18",
+          "arahants",
+          "follow eight precepts as long as they live"
+     ],
+     [
+          "AN9.18",
+          "arahants",
+          "imitating on uposatha"
+     ],
+     [
+          "AN9.18",
+          "imitation",
+          "of arahants on uposatha"
      ],
      [
           "AN9.18",
           "loving-kindness (mettā)",
           "as factor of uposatha"
+     ],
+     [
+          "AN9.18",
+          "loving-kindness (mettā)",
+          "uposatha practice"
+     ],
+     [
+          "AN9.18",
+          "precepts, eight",
+          "arahants follow entire life"
+     ],
+     [
+          "AN9.18",
+          "precepts, eight",
+          "on uposatha"
+     ],
+     [
+          "AN9.18",
+          "uposatha",
+          "loving-kindness as factor of"
+     ],
+     [
+          "AN9.18",
+          "uposatha",
+          "with nine factors"
+     ],
+     [
+          "AN9.19",
+          "bowing down (abhivādana)",
+          "cause for rebirth"
+     ],
+     [
+          "AN9.19",
+          "bowing down (abhivādana)",
+          "to monastics who come to your home"
+     ],
+     [
+          "AN9.19",
+          "giving (dāna)",
+          "cause for rebirth"
+     ],
+     [
+          "AN9.19",
+          "giving (dāna)",
+          "not as much as you are able"
+     ],
+     [
+          "AN9.19",
+          "lay life",
+          "respecting Saṅgha"
+     ],
+     [
+          "AN9.19",
+          "laypeople",
+          "and Saṅgha"
+     ],
+     [
+          "AN9.19",
+          "laypeople",
+          "duty of"
+     ],
+     [
+          "AN9.19",
+          "lending an ear (ohitasota)",
+          "cause for rebirth"
+     ],
+     [
+          "AN9.19",
+          "memorizing",
+          "cause for rebirth"
+     ],
+     [
+          "AN9.19",
+          "practicing according to the Dhamma (dhammānudhammappaṭipanna)",
+          "cause for rebirth"
+     ],
+     [
+          "AN9.19",
+          "Saṅgha",
+          "laypeople and"
+     ],
+     [
+          "AN9.19",
+          "seats, offering",
+          "to monastics who come to your home"
+     ],
+     [
+          "AN9.20",
+          "almsfood",
+          "giving poor"
+     ],
+     [
+          "AN9.20",
+          "Anāthapiṇḍika, householder",
+          "not being able to give much"
+     ],
+     [
+          "AN9.20",
+          "belief in future consequences (āgamanadiṭṭhika)",
+          "giving without"
+     ],
+     [
+          "AN9.20",
+          "dwellings (senāsana)",
+          "gift of dwelling to Saṅgha greater than gift of food"
+     ],
+     [
+          "AN9.20",
+          "giving (dāna)",
+          "carelessly"
+     ],
+     [
+          "AN9.20",
+          "giving (dāna)",
+          "how to give"
      ],
      [
           "AN9.20",
@@ -21132,12 +21492,712 @@ export const indexArray =[
      [
           "AN9.20",
           "giving (dāna)",
+          "massive gift not as fruitful because it was not given to Saṅgha"
+     ],
+     [
+          "AN9.20",
+          "giving (dāna)",
+          "thoughtlessly"
+     ],
+     [
+          "AN9.20",
+          "giving (dāna)",
           "to the Saṅgha"
+     ],
+     [
+          "AN9.20",
+          "giving (dāna)",
+          "with own hand"
+     ],
+     [
+          "AN9.20",
+          "giving (dāna)",
+          "without belief in future consequences"
      ],
      [
           "AN9.20",
           "loving-kindness (mettā)",
           "for the time to pull a cow udder"
+     ],
+     [
+          "AN9.20",
+          "loving-kindness (mettā)",
+          "greater than following precepts"
+     ],
+     [
+          "AN9.20",
+          "noble disciple (ariya sāvaka)",
+          "gifts to"
+     ],
+     [
+          "AN9.20",
+          "noble disciples on the path",
+          "gifts to"
+     ],
+     [
+          "AN9.20",
+          "perception of impermanence (aniccasañña)",
+          "for a finger snap"
+     ],
+     [
+          "AN9.20",
+          "perception of impermanence (aniccasañña)",
+          "greater than loving-kindness"
+     ],
+     [
+          "AN9.20",
+          "precepts, five",
+          "greater than going for refuge"
+     ],
+     [
+          "AN9.20",
+          "refuges",
+          "going for is greater than gifts"
+     ],
+     [
+          "AN9.20",
+          "sense pleasures (kāma, kāmaguṇa)",
+          "not able to enjoy because of previous improper giving method"
+     ],
+     [
+          "AN9.20",
+          "Velāma, brahmin",
+          "great offering"
+     ],
+     [
+          "AN9.21",
+          "gods of the Thirty-Three (tāvatiṁsā devā)",
+          "humans compared to"
+     ],
+     [
+          "AN9.21",
+          "Jambudīpa (India)",
+          "people of"
+     ],
+     [
+          "AN9.21",
+          "spiritual path (brahmacariya)",
+          "lived in Jambudīpa"
+     ],
+     [
+          "AN9.21",
+          "Uttarakuru, people of",
+          "surpassing gods"
+     ],
+     [
+          "AN9.22",
+          "horses",
+          "thoroughbred, simile of types of people"
+     ],
+     [
+          "AN9.22",
+          "horses",
+          "wild colt, simile of types of people"
+     ],
+     [
+          "AN9.22",
+          "questions, answering ",
+          "without faltering"
+     ],
+     [
+          "AN9.23",
+          "accusations",
+          "caused by protection"
+     ],
+     [
+          "AN9.23",
+          "attachment (ajjhosāna)",
+          "causes ownership"
+     ],
+     [
+          "AN9.23",
+          "attachments (ajjhosāna)",
+          "caused by desire and lust"
+     ],
+     [
+          "AN9.23",
+          "craving (taṇha)",
+          "cause of searches"
+     ],
+     [
+          "AN9.23",
+          "craving (taṇha)",
+          "things rooted in"
+     ],
+     [
+          "AN9.23",
+          "desire (chanda)",
+          "caused by judging"
+     ],
+     [
+          "AN9.23",
+          "desire (chanda)",
+          "causes attachment"
+     ],
+     [
+          "AN9.23",
+          "divisive speech",
+          "caused by protection"
+     ],
+     [
+          "AN9.23",
+          "gain (lābha)",
+          "caused by searches"
+     ],
+     [
+          "AN9.23",
+          "judging (vinicchaya)",
+          "cause of desire and lust"
+     ],
+     [
+          "AN9.23",
+          "judging (vinicchaya)",
+          "caused by gain"
+     ],
+     [
+          "AN9.23",
+          "lust (rāga)",
+          "caused by judging"
+     ],
+     [
+          "AN9.23",
+          "lust (rāga)",
+          "causes attachment"
+     ],
+     [
+          "AN9.23",
+          "lying",
+          "caused by protection"
+     ],
+     [
+          "AN9.23",
+          "ownership (pariggaha)",
+          "caused by attachment"
+     ],
+     [
+          "AN9.23",
+          "ownership (pariggaha)",
+          "causes stinginess"
+     ],
+     [
+          "AN9.23",
+          "protection (ārakkha)",
+          "caused by stinginess"
+     ],
+     [
+          "AN9.23",
+          "protection (ārakkha)",
+          "causes fights, etc."
+     ],
+     [
+          "AN9.23",
+          "quarrels",
+          "caused by protection"
+     ],
+     [
+          "AN9.23",
+          "searches (esana, pariyesana)",
+          "cause of gaining material possessions"
+     ],
+     [
+          "AN9.23",
+          "searches (esana, pariyesana)",
+          "caused by craving"
+     ],
+     [
+          "AN9.23",
+          "stinginess (maccharī)",
+          "caused by ownership"
+     ],
+     [
+          "AN9.23",
+          "stinginess (maccharī)",
+          "causes safeguarding, protection"
+     ],
+     [
+          "AN9.24",
+          "abodes of beings",
+          "nine"
+     ],
+     [
+          "AN9.24",
+          "beings diverse in body and diverse in perception (sattā nānattakāyā nānattasaññino) ",
+          "abodes of beings"
+     ],
+     [
+          "AN9.24",
+          "beings gone beyond perceptions of form (sattā sabbaso rūpasaññānaṁ samatikkamā)",
+          "abodes of beings"
+     ],
+     [
+          "AN9.24",
+          "beings gone  beyond the dimension of infinite consciousness (sattā sabbaso viññāṇañcāyatanaṁ samatikkamma)",
+          "abodes of beings"
+     ],
+     [
+          "AN9.24",
+          "beings gone beyond the dimension of infinite space (sattā sabbaso ākāsānañcāyatanaṁ samatikkamma)",
+          "abodes of beings"
+     ],
+     [
+          "AN9.24",
+          "beings gone beyond the dimension of nothingness (sattā sabbaso ākiñcaññāyatanaṁ samatikkamma)",
+          "abodes of beings"
+     ],
+     [
+          "AN9.24",
+          "beings in the underworld (vinipātikā) ",
+          "diverse in body and diverse in perception"
+     ],
+     [
+          "AN9.24",
+          "beings that are diverse in body and unified in perception (sattā nānattakāyā ekattasaññino) ",
+          "abodes of beings"
+     ],
+     [
+          "AN9.24",
+          "beings unified in body and diverse in perception (sattā ekattakāyā nānattasaññino) ",
+          "abodes of beings"
+     ],
+     [
+          "AN9.24",
+          "beings unified in body and unified in perception (sattā ekattakāyā ekattasaññino)",
+          "abodes of beings"
+     ],
+     [
+          "AN9.24",
+          "dimension of infinite consciousness (viññāṇañcāyatana)",
+          "abodes of beings"
+     ],
+     [
+          "AN9.24",
+          "dimension of infinite space (ākāsānañcāyatana)",
+          "abodes of beings"
+     ],
+     [
+          "AN9.24",
+          "dimension of nothingness (ākiñcaññāyatana)",
+          "abodes of beings"
+     ],
+     [
+          "AN9.24",
+          "gods of Brahmā’s Host (brahmakāyika)",
+          "diverse in body and unified in perception "
+     ],
+     [
+          "AN9.24",
+          "Gods of Streaming Radiance (ābhassarā devā)",
+          "unified in body and diverse in perception"
+     ],
+     [
+          "AN9.24",
+          "gods of the dimension of neither perception nor non-perception (nevasaññānāsaññāyatanūpagā devā)",
+          "abodes of beings"
+     ],
+     [
+          "AN9.24",
+          "Gods Replete with Glory (subhakiṇhā devā)",
+          "unified in body and unified in perception"
+     ],
+     [
+          "AN9.24",
+          "gods who are non-percipient (devā asaññasattā)",
+          "abodes of beings"
+     ],
+     [
+          "AN9.24",
+          "gods",
+          "diverse in body and diverse in perception"
+     ],
+     [
+          "AN9.24",
+          "humans",
+          "diverse in body and diverse in perception"
+     ],
+     [
+          "AN9.25",
+          "delusion (moha)",
+          "mind without and not liable to become"
+     ],
+     [
+          "AN9.25",
+          "form realm (rūpabhava)",
+          "mind not liable to return to"
+     ],
+     [
+          "AN9.25",
+          "formless realm (arūpabhava)",
+          "mind not liable to return to"
+     ],
+     [
+          "AN9.25",
+          "greed (rāga)",
+          "mind without and not liable to become"
+     ],
+     [
+          "AN9.25",
+          "hatred (dosa)",
+          "mind without and not liable to become"
+     ],
+     [
+          "AN9.25",
+          "sensuous realm (kāmabhava)",
+          "mind not liable to return to"
+     ],
+     [
+          "AN9.25",
+          "wisdom (paññā)",
+          "well consolidated by"
+     ],
+     [
+          "AN9.26",
+          "Candikāputta, Ven.",
+          "teaching about Devadatta"
+     ],
+     [
+          "AN9.26",
+          "Devadatta",
+          "teachings of"
+     ],
+     [
+          "AN9.26",
+          "delusion (moha)",
+          "mind without and not liable to become"
+     ],
+     [
+          "AN9.26",
+          "form realm (rūpabhava)",
+          "mind not liable to return to"
+     ],
+     [
+          "AN9.26",
+          "formless realm (arūpabhava)",
+          "mind not liable to return to"
+     ],
+     [
+          "AN9.26",
+          "greed (rāga)",
+          "mind without and not liable to become"
+     ],
+     [
+          "AN9.26",
+          "hatred (dosa)",
+          "mind without and not liable to become"
+     ],
+     [
+          "AN9.26",
+          "mind",
+          "like stone pillar"
+     ],
+     [
+          "AN9.26",
+          "pillar",
+          "simile for well consolidated mind"
+     ],
+     [
+          "AN9.26",
+          "realm of luminous form (rūpabhava)",
+          "mind not liable to return to"
+     ],
+     [
+          "AN9.26",
+          "sense restraint (indriyasaṁvara)",
+          "when mind is steady"
+     ],
+     [
+          "AN9.26",
+          "sensuous realm (kāmabhava)",
+          "mind not liable to return to"
+     ],
+     [
+          "AN9.26",
+          "well consolidated (suparicita)",
+          "mind"
+     ],
+     [
+          "AN9.27",
+          "Anāthapiṇḍika, householder",
+          "factors of stream-entry"
+     ],
+     [
+          "AN9.27",
+          "confidence (aveccappasāda)",
+          "factor of stream-entry"
+     ],
+     [
+          "AN9.27",
+          "factors of stream-entry (sotāpattiyaṅga)",
+          "definition"
+     ],
+     [
+          "AN9.27",
+          "precepts, five",
+          "preventing dangers in present and future lives"
+     ],
+     [
+          "AN9.27",
+          "precepts, five",
+          "stream entry and"
+     ],
+     [
+          "AN9.27",
+          "stream-enterers (sotāpanna)",
+          "four factors of"
+     ],
+     [
+          "AN9.27",
+          "stream-enterers (sotāpanna)",
+          "virtues loved by noble ones"
+     ],
+     [
+          "AN9.27",
+          "virtue (sīla)",
+          "loved by noble ones, as factor of stream-entry"
+     ],
+     [
+          "AN9.29",
+          "loved ones",
+          "grounds for resentment and"
+     ],
+     [
+          "AN9.29",
+          "resentment (āghāta)",
+          "grounds for, nine"
+     ],
+     [
+          "AN9.30",
+          "resentment (āghāta)",
+          "removing"
+     ],
+     [
+          "AN9.31",
+          "applied and sustained thought (vitakkavicārā)",
+          "ceases in second jhāna"
+     ],
+     [
+          "AN9.31",
+          "breathing (assāsapassāsa)",
+          "ceases in fourth jhāna"
+     ],
+     [
+          "AN9.31",
+          "cessation (nirodha)",
+          "nine progressive"
+     ],
+     [
+          "AN9.31",
+          "cessation of perception and feeling (saññāvedayitanirodha)",
+          "perceptions and feelings cease"
+     ],
+     [
+          "AN9.31",
+          "dimension of infinite consciousness (viññāṇañcāyatana)",
+          "perception of the dimension of infinite space ceases"
+     ],
+     [
+          "AN9.31",
+          "dimension of neither perception nor non-perception (nevasaññānāsaññāyatanaṁ)",
+          "perception of the dimension of nothingness ceases"
+     ],
+     [
+          "AN9.31",
+          "dimension of nothingness (ākiñcaññāyatana)",
+          "perception of the dimension of infinite consciousness ceases"
+     ],
+     [
+          "AN9.31",
+          "feelings (vedanā)",
+          "ceases in cessation of perception and feeling"
+     ],
+     [
+          "AN9.31",
+          "first jhāna",
+          "sense perceptions cease"
+     ],
+     [
+          "AN9.31",
+          "fourth jhāna",
+          "breathing ceases"
+     ],
+     [
+          "AN9.31",
+          "jhānas",
+          "factors of "
+     ],
+     [
+          "AN9.31",
+          "perception of the dimension of infinite consciousness (viññāṇañcāyatanasaññā)",
+          "ceases in dimension of nothingness"
+     ],
+     [
+          "AN9.31",
+          "perception of the dimension of infinite space (ākāsānañcāyatanasaññā)",
+          "ceases in dimension of infinite consciousness"
+     ],
+     [
+          "AN9.31",
+          "perception of the dimension of nothingness (ākiñcaññāyatanasaññā)",
+          "ceases in dimension of neither perception nor non-perception"
+     ],
+     [
+          "AN9.31",
+          "perceptions (saññā)",
+          "ceases in cessation of perception and feeling"
+     ],
+     [
+          "AN9.31",
+          "rapture (pīti)",
+          "ceases in third jhāna"
+     ],
+     [
+          "AN9.31",
+          "second jhāna",
+          "applied and sustained thought ceases"
+     ],
+     [
+          "AN9.31",
+          "sense perceptions (kāmasaññā)",
+          "cease in first jhāna"
+     ],
+     [
+          "AN9.31",
+          "third jhāna",
+          "rapture ceases"
+     ],
+     [
+          "AN9.32",
+          "cessation of perception and feeling (saññāvedayitanirodha)",
+          "one of nine progressive dwellings (anupubbavihārā)"
+     ],
+     [
+          "AN9.32",
+          "dimension of infinite consciousness (viññāṇañcāyatana)",
+          "one of nine progressive dwellings (anupubbavihārā)"
+     ],
+     [
+          "AN9.32",
+          "dimension of infinite space (ākāsānañcāyatana)",
+          "one of nine progressive dwellings (anupubbavihārā)"
+     ],
+     [
+          "AN9.32",
+          "dimension of neither perception nor non-perception (nevasaññānāsaññāyatanaṁ)",
+          "one of nine progressive dwellings (anupubbavihārā)"
+     ],
+     [
+          "AN9.32",
+          "dimension of nothingness (ākiñcaññāyatana)",
+          "one of nine progressive dwellings (anupubbavihārā)"
+     ],
+     [
+          "AN9.32",
+          "jhānas",
+          "nine progressive dwellings (anupubbavihārā)"
+     ],
+     [
+          "AN9.33",
+          "applied and sustained thought (vitakkavicārā)",
+          "ceases in second jhāna"
+     ],
+     [
+          "AN9.33",
+          "breathing (assāsapassāsa)",
+          "ceases in fourth jhāna"
+     ],
+     [
+          "AN9.33",
+          "cessation of perception and feeling (saññāvedayitanirodha)",
+          "perceptions and feelings cease"
+     ],
+     [
+          "AN9.33",
+          "dimension of infinite consciousness (viññāṇañcāyatana)",
+          "perception of the dimension of infinite space ceases"
+     ],
+     [
+          "AN9.33",
+          "dimension of neither perception nor non-perception (nevasaññānāsaññāyatanaṁ)",
+          "perception of the dimension of nothingness ceases"
+     ],
+     [
+          "AN9.33",
+          "dimension of nothingness (ākiñcaññāyatana)",
+          "perception of the dimension of infinite consciousness ceases"
+     ],
+     [
+          "AN9.33",
+          "directed thoughts and evaluations (vitakkavicārā)",
+          ""
+     ],
+     [
+          "AN9.33",
+          "feelings (vedanā)",
+          "ceases in cessation of perception and feeling"
+     ],
+     [
+          "AN9.33",
+          "first jhāna",
+          "sense perceptions cease"
+     ],
+     [
+          "AN9.33",
+          "fourth jhāna",
+          "breathing ceases"
+     ],
+     [
+          "AN9.33",
+          "jhānas",
+          "factors of "
+     ],
+     [
+          "AN9.33",
+          "perception of the dimension of infinite consciousness (viññāṇañcāyatanasaññā)",
+          "ceases in dimension of nothingness"
+     ],
+     [
+          "AN9.33",
+          "perception of the dimension of infinite space (ākāsānañcāyatanasaññā)",
+          "ceases in dimension of infinite consciousness"
+     ],
+     [
+          "AN9.33",
+          "perception of the dimension of nothingness (ākiñcaññāyatanasaññā)",
+          "ceases in dimension of neither perception nor non-perception"
+     ],
+     [
+          "AN9.33",
+          "perceptions (saññā)",
+          "ceases in cessation of perception and feeling"
+     ],
+     [
+          "AN9.33",
+          "placing of the mind and keeping it connected (vitakkavicārā)",
+          ""
+     ],
+     [
+          "AN9.33",
+          "rapture (pīti)",
+          "ceases in third jhāna"
+     ],
+     [
+          "AN9.33",
+          "second jhāna",
+          "applied and sustained thought ceases"
+     ],
+     [
+          "AN9.33",
+          "sense perceptions (kāmasaññā)",
+          "cease in first jhāna"
+     ],
+     [
+          "AN9.33",
+          "third jhāna",
+          "rapture ceases"
+     ],
+     [
+          "AN9.33",
+          "thought and examination (vitakkavicārā)",
+          ""
      ],
      [
           "AN10.44",
@@ -24081,11 +25141,6 @@ export const indexArray =[
      ],
      [
           "Kp5",
-          "Dhamma discussion",
-          "time for"
-     ],
-     [
-          "Kp5",
           "actions (kamma)",
           "blameless"
      ],
@@ -24111,18 +25166,8 @@ export const indexArray =[
      ],
      [
           "Kp5",
-          "austerity",
-          "as a blessing"
-     ],
-     [
-          "Kp5",
           "blessings (maṅgala)",
           ""
-     ],
-     [
-          "Kp5",
-          "celibacy",
-          "as a blessing"
      ],
      [
           "Kp5",
@@ -24132,6 +25177,21 @@ export const indexArray =[
      [
           "Kp5",
           "contentment (santuṭṭhi)",
+          "as a blessing"
+     ],
+     [
+          "Kp5",
+          "Dhamma discussion",
+          "time for"
+     ],
+     [
+          "Kp5",
+          "austerity",
+          "as a blessing"
+     ],
+     [
+          "Kp5",
+          "celibacy",
           "as a blessing"
      ],
      [
@@ -25576,11 +26636,6 @@ export const indexArray =[
      ],
      [
           "MN105",
-          "bases of contact, six (phassāyatana)",
-          "restraint"
-     ],
-     [
-          "MN105",
           "Buddha, the",
           "desire to teach people who have overestimated themselves"
      ],
@@ -25593,6 +26648,16 @@ export const indexArray =[
           "MN105",
           "arrow",
           "simile of person struck by"
+     ],
+     [
+          "MN105",
+          "bases of contact, six (phassāyatana)",
+          "restraint"
+     ],
+     [
+          "MN105",
+          "beverage",
+          "poisoned, avoiding, like restraint towards sense fields, like restraint towards sense fields"
      ],
      [
           "MN105",
@@ -25686,8 +26751,8 @@ export const indexArray =[
      ],
      [
           "MN105",
-          "rock",
-          "unable to become whole after broken like someone given up interest in lesser topics"
+          "probing",
+          "simile for mindfulness"
      ],
      [
           "MN105",
@@ -25696,13 +26761,13 @@ export const indexArray =[
      ],
      [
           "MN105",
-          "Sunakkhatta, Ven. ",
-          "asking about overestimation"
+          "sense restraint (indriyasaṁvara)",
+          "because of being intent on nibbāna"
      ],
      [
           "MN105",
-          "beverage",
-          "poisoned, avoiding, like restraint towards sense fields, like restraint towards sense fields"
+          "Sunakkhatta, Ven. ",
+          "asking about overestimation"
      ],
      [
           "MN105",
@@ -25711,18 +26776,13 @@ export const indexArray =[
      ],
      [
           "MN105",
-          "probing",
-          "simile for mindfulness"
+          "rock",
+          "unable to become whole after broken like someone given up interest in lesser topics"
      ],
      [
           "MN105",
           "sense pleasures (kāma, kāmaguṇa)",
           "being intent on"
-     ],
-     [
-          "MN105",
-          "sense restraint (indriyasaṁvara)",
-          "because of being intent on nibbāna"
      ],
      [
           "MN105",
@@ -26351,6 +27411,11 @@ export const indexArray =[
      ],
      [
           "MN109",
+          "refuges",
+          "after the Buddha passes away"
+     ],
+     [
+          "MN109",
           "suffering (dukkha)",
           "self and"
      ],
@@ -26791,7 +27856,7 @@ export const indexArray =[
      ],
      [
           "MN114",
-          "divisive speech,  giving up",
+          "divisive speech, giving up",
           "definition"
      ],
      [
@@ -27091,6 +28156,16 @@ export const indexArray =[
      ],
      [
           "MN115",
+          "Māra",
+          "impossible for woman to be "
+     ],
+     [
+          "MN115",
+          "Sakka, Lord of Gods",
+          "impossible for woman to be "
+     ],
+     [
+          "MN115",
           "bad actions",
           "impossible for good results to come from"
      ],
@@ -27181,11 +28256,6 @@ export const indexArray =[
      ],
      [
           "MN115",
-          "Māra",
-          "impossible for woman to be "
-     ],
-     [
-          "MN115",
           "not-self",
           "all things are"
      ],
@@ -27213,11 +28283,6 @@ export const indexArray =[
           "MN115",
           "possible and impossible (ṭhāna aṭṭhāna)",
           "things someone who is accomplished in view cannot do "
-     ],
-     [
-          "MN115",
-          "Sakka, Lord of Gods",
-          "impossible for woman to be "
      ],
      [
           "MN115",
@@ -27481,6 +28546,31 @@ export const indexArray =[
      ],
      [
           "MN118",
+          "cross-legged (pallaṅka)",
+          "mindfulness of breathing"
+     ],
+     [
+          "MN118",
+          "foundations of mindfulness (satipaṭṭhāna)",
+          "fulfils the seven awakening factors"
+     ],
+     [
+          "MN118",
+          "foundations of mindfulness (satipaṭṭhāna)",
+          "monks committed to developing"
+     ],
+     [
+          "MN118",
+          "impermanence meditation (aniccasaññābhāvanā)",
+          "monks committed to developing"
+     ],
+     [
+          "MN118",
+          "Komudi full moon ",
+          ""
+     ],
+     [
+          "MN118",
           "cessation (nirodha)",
           "mindfulness of breathing"
      ],
@@ -27492,11 +28582,6 @@ export const indexArray =[
      [
           "MN118",
           "concentration (samādhi)",
-          "mindfulness of breathing"
-     ],
-     [
-          "MN118",
-          "cross-legged (pallaṅka)",
           "mindfulness of breathing"
      ],
      [
@@ -27521,23 +28606,8 @@ export const indexArray =[
      ],
      [
           "MN118",
-          "foundations of mindfulness (satipaṭṭhāna)",
-          "fulfils the seven awakening factors"
-     ],
-     [
-          "MN118",
-          "foundations of mindfulness (satipaṭṭhāna)",
-          "monks committed to developing"
-     ],
-     [
-          "MN118",
           "happiness (sukha)",
           "mindfulness of breathing (bliss)"
-     ],
-     [
-          "MN118",
-          "impermanence meditation (aniccasaññābhāvanā)",
-          "monks committed to developing"
      ],
      [
           "MN118",
@@ -27553,11 +28623,6 @@ export const indexArray =[
           "MN118",
           "knowledge and freedom (vijjāvimutti)",
           "mindfulness of breathing"
-     ],
-     [
-          "MN118",
-          "Komudi full moon ",
-          ""
      ],
      [
           "MN118",
@@ -29081,6 +30146,16 @@ export const indexArray =[
      ],
      [
           "MN130",
+          "dead body",
+          "as divine messenger"
+     ],
+     [
+          "MN130",
+          "death (maraṇa)",
+          "as divine messenger"
+     ],
+     [
+          "MN130",
           "death (maraṇa)",
           "being liable to"
      ],
@@ -29092,6 +30167,11 @@ export const indexArray =[
      [
           "MN130",
           "Dung Hell (gūthaniraya)",
+          "description of"
+     ],
+     [
+          "MN130",
+          "Great Hell (mahāniraya)",
           "description of"
      ],
      [
@@ -29121,28 +30201,8 @@ export const indexArray =[
      ],
      [
           "MN130",
-          "punishment (daṇḍa)",
-          "examples of"
-     ],
-     [
-          "MN130",
           "Yama, King",
           "questioning beings reborn in hell"
-     ],
-     [
-          "MN130",
-          "dead body",
-          "as divine messenger"
-     ],
-     [
-          "MN130",
-          "death (maraṇa)",
-          "as divine messenger"
-     ],
-     [
-          "MN130",
-          "Great Hell (mahāniraya)",
-          "description of"
      ],
      [
           "MN130",
@@ -29168,6 +30228,11 @@ export const indexArray =[
           "MN130",
           "old person",
           "as divine messenger"
+     ],
+     [
+          "MN130",
+          "punishment (daṇḍa)",
+          "examples of"
      ],
      [
           "MN130",
@@ -29661,21 +30726,6 @@ export const indexArray =[
      ],
      [
           "MN136",
-          "bodily action (kāyakamma)",
-          "no result (wrong view)"
-     ],
-     [
-          "MN136",
-          "Potaliputta, wanderer",
-          "asking about actions"
-     ],
-     [
-          "MN136",
-          "Samiddh, Ven.",
-          "responding to Potaliputta"
-     ],
-     [
-          "MN136",
           "actions (kamma)",
           "effective and ineffective, seeming to be"
      ],
@@ -29701,6 +30751,26 @@ export const indexArray =[
      ],
      [
           "MN136",
+          "bodily action (kāyakamma)",
+          "no result (wrong view)"
+     ],
+     [
+          "MN136",
+          "feelings (vedanā)",
+          "caused by actions"
+     ],
+     [
+          "MN136",
+          "Potaliputta, wanderer",
+          "asking about actions"
+     ],
+     [
+          "MN136",
+          "Samiddh, Ven.",
+          "responding to Potaliputta"
+     ],
+     [
+          "MN136",
           "bad people (asappurisa)",
           "experiencing good results"
      ],
@@ -29708,11 +30778,6 @@ export const indexArray =[
           "MN136",
           "divine eye (dibbacakkhu)",
           "theories of rebirth"
-     ],
-     [
-          "MN136",
-          "feelings (vedanā)",
-          "caused by actions"
      ],
      [
           "MN136",

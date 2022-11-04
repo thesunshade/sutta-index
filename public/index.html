@@ -14,6 +14,51 @@
   <meta property="og:site_name" content="Index.ReadingFaithfully.org" />
   <meta property="og:image" itemprop="image" content="%PUBLIC_URL%/featuredImage-index.png" />
 
+  <style>
+    body {
+      background-color: #fff9f1;
+      padding-top: 3rem;
+    }
+
+    .message {
+      margin: 3rem auto;
+      text-align: center;
+    }
+
+    .message::before {
+
+      content: "Please be patient while index loads";
+    }
+
+    .spinner-10 {
+      width: 90px;
+      aspect-ratio: 1;
+      color: #ee7121;
+      border-radius: 50%;
+      display: grid;
+      background:
+        conic-gradient(from 90deg at 4px 4px, #0000 90deg, currentColor 0) -4px -4px/calc(50% + 2px) calc(50% + 2px),
+        radial-gradient(farthest-side, currentColor 6px, #0000 7px calc(100% - 6px), currentColor calc(100% - 5px)) no-repeat;
+      animation: s10 4s infinite linear;
+      position: relative;
+      margin: auto;
+    }
+
+    .spinner-10:before {
+      content: "";
+      border-radius: inherit;
+      background: inherit;
+      transform: rotate(45deg);
+    }
+
+    @keyframes s10 {
+      to {
+        transform: rotate(.5turn)
+      }
+    }
+  </style>
+
+
   <!--
       manifest.json provides metadata used when your web app is installed on a
       user's mobile device or desktop. See https://developers.google.com/web/fundamentals/web-app-manifest/
@@ -33,7 +78,10 @@
 
 <body>
   <noscript>You need to enable JavaScript to run this app.</noscript>
-  <div id="root"></div>
+  <div id="root">
+    <div class="spinner-10"></div>
+    <div class="message">…</div>
+  </div>
   <!--
       This HTML file is a template.
       If you open it directly in the browser, you will see an empty page.
