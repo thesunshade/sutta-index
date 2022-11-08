@@ -40,7 +40,13 @@ function Locator(props) {
 
   return (
     <span>
-      <a href={url} rel="noreferrer" target="_blank" title={getSuttaTitleBlurb(stripRangesFromUrls(location))}>
+      <a
+        href={url}
+        rel="noreferrer"
+        target="_blank"
+        className={locationForUrl.replace(/[0-9.-]/g, "") + " locator"}
+        title={getSuttaTitleBlurb(stripRangesFromUrls(location))}
+      >
         {addSpace(location)}
         {getSuttaTitle(location) ? suttaNameJsx : ""}
       </a>

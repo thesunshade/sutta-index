@@ -9,6 +9,19 @@
   /* --dark-link: #b3caff; */
   --dark-link: #729cff;
   --dark-visited: #b472ff;
+  --dn: #d1eddf;
+  --mn: #F5DEB3;
+  --sn: #ADD8E6;
+  --an: #E6E6FA;
+  --kp: #FFD485;
+  --dhp: #B7E0D2;
+  --ud: #e9e296;
+  --iti: #FFE4E1;
+  --snp: #FAF0E6;
+  --vv: #FAFAD2;
+  --pv: #D3D3D3;
+  --thag: #DDF0FF;
+  --thig: #DCE3C7;
 }
 
 @font-face {
@@ -245,6 +258,7 @@ App {
 .alphabet span {
   border-radius: 5px 5px 0px 0px;
   padding: 4px 4px 3px 3px;
+  cursor: pointer;
 }
 
 .alphabet span:hover {
@@ -288,6 +302,7 @@ App {
   padding-bottom: .5rem;
   font-weight: bold;
   font-family: "Fira Code";
+
 }
 
 .dark .alphabet-anchor {
@@ -310,6 +325,7 @@ App {
   right: .1rem;
   top: .1rem;
   color: gray;
+  cursor: pointer;
 }
 
 #user-input-label {
@@ -365,16 +381,22 @@ App {
   margin-top: 1rem
 }
 
+.radio-items label {
+  white-space: nowrap;
+}
+
 .theme-button {
   position: relative;
-  top: .2rem
+  top: .2rem;
+  cursor: pointer;
 }
 
 .up-icon {
   background: none;
   border: none;
   position: relative;
-  top: .2rem
+  top: .2rem;
+  cursor: pointer;
 }
 
 .hidden {
@@ -386,6 +408,7 @@ App {
   margin-top: 0.2rem;
   rotate: 0deg;
   transition: rotate ease-in-out 1s;
+  cursor: pointer;
 }
 
 .settings-button img:active {
@@ -406,7 +429,8 @@ App {
   color: var(--primary);
   border: 0px solid;
   border-radius: 5px;
-  height: 1.5rem
+  height: 1.5rem;
+  cursor: pointer;
 }
 
 .table-view button:hover {
@@ -665,6 +689,7 @@ a:visited {
   /* padding-left: var(--indent); */
   padding-left: 6.5rem;
   text-indent: -2rem;
+  line-height: 1.4rem;
 }
 
 
@@ -901,6 +926,7 @@ tr:nth-child(even) {
 .link-list .menu-item {
   padding-left: 1rem;
   display: block;
+  cursor: pointer;
 }
 
 .link-list a {
@@ -913,4 +939,61 @@ tr:nth-child(even) {
     display: none
   }
 
+}
+
+.colored-locators .locator {
+  padding: .1rem;
+  border: solid 1px rgb(220, 220, 220);
+}
+
+.colored-locators .dn {
+  background-color: var(--dn);
+}
+
+.colored-locators .mn {
+  background-color: var(--mn);
+}
+
+.colored-locators .sn {
+  background-color: var(--sn);
+}
+
+.colored-locators .an {
+  background-color: var(--an);
+}
+
+.colored-locators .kp {
+  background-color: var(--kp);
+}
+
+.colored-locators .dhp {
+  background-color: var(--dhp);
+}
+
+.colored-locators .ud {
+  background-color: var(--ud);
+}
+
+.colored-locators .iti {
+  background-color: var(--iti);
+}
+
+.colored-locators .snp {
+  background-color: var(--snp);
+}
+
+.colored-locators .vv {
+  background-color: var(--vv);
+}
+
+.colored-locators .pv {
+  background-color: var(--pv);
+}
+
+.colored-locators .thag {
+  background-color: var(--thag);
+}
+
+.colored-locators .thig {
+  background-color: var(--thig);
 }

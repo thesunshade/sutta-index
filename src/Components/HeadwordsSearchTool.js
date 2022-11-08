@@ -48,6 +48,8 @@ export default function HeadwordsSearchTool(props) {
             tabIndex="1"
             onFocus={e => {
               e.target.select();
+              // document.getElementsByClassName("info-area").classList.add("hidden");
+              console.log("clear");
               if (searchText.length >= 2) {
                 document.getElementById("search-results").classList.remove("hidden");
               }
