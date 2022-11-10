@@ -1,6 +1,37 @@
 const { match } = require("assert");
 const fs = require("fs");
 
+let locatorFirstArray = [];
+let rawIndexArray = [];
+let newObjectKeys;
+const newObject = {
+  A: {},
+  B: {},
+  C: {},
+  D: {},
+  E: {},
+  F: {},
+  G: {},
+  H: {},
+  I: {},
+  J: {},
+  K: {},
+  L: {},
+  M: {},
+  N: {},
+  O: {},
+  P: {},
+  Q: {},
+  R: {},
+  S: {},
+  T: {},
+  U: {},
+  V: {},
+  W: {},
+  Y: {},
+  Z: {},
+};
+
 function natsort(options) {
   if (options === void 0) {
     options = {};
@@ -185,10 +216,12 @@ let alphabetGroupedObject = {
   Z: {},
 };
 
-let data;
+let csvData;
+
+// read csv file
 try {
   const tsvFileContents = fs.readFileSync("./src/data/general-index.csv", "utf8");
-  data = tsvFileContents;
+  csvData = tsvFileContents;
   console.log("successfully read");
 } catch (err) {
   console.log("There was an error");
@@ -196,228 +229,210 @@ try {
 }
 
 // build the index object
-let lines = data.split("\n");
-let rawIndexArray = [];
-// let index = {};
+function createIndexObject() {
+  let lines = csvData.split("\n");
+  // let index = {};
 
-for (let i = 0; i < lines.length; i++) {
-  rawIndexArray[i] = lines[i].split("\t");
-}
+  for (let i = 0; i < lines.length; i++) {
+    rawIndexArray[i] = lines[i].split("\t");
+  }
 
-function normalizeDiacriticString(string) {
-  return string
-    .normalize("NFD") /*separates diacritics from letter */
-    .replace(/[\u0300-\u036f]/g, ""); /*removes diacritic characters */
-}
+  function normalizeDiacriticString(string) {
+    return string
+      .normalize("NFD") /*separates diacritics from letter */
+      .replace(/[\u0300-\u036f]/g, ""); /*removes diacritic characters */
+  }
 
-for (let i = 0; i < rawIndexArray.length - 1; i++) {
-  const head = rawIndexArray[i][0].trim();
-  const sub = rawIndexArray[i][1].trim();
-  const locator = rawIndexArray[i][2].trim();
+  for (let i = 0; i < rawIndexArray.length - 1; i++) {
+    const head = rawIndexArray[i][0].trim();
+    const sub = rawIndexArray[i][1].trim();
+    const locator = rawIndexArray[i][2].trim();
 
-  const headStartingWithLetter = head.replace("“", "");
-  const firstRealLetter = normalizeDiacriticString(headStartingWithLetter.charAt(0)).toUpperCase();
-  if (head === "") {
-    console.log(sub, locator);
-    console.error(`!!!!!!!!!!!!!!!!!!!!!!
+    const headStartingWithLetter = head.replace("“", "");
+    const firstRealLetter = normalizeDiacriticString(headStartingWithLetter.charAt(0)).toUpperCase();
+    if (head === "") {
+      console.log(sub, locator);
+      console.error(`!!!!!!!!!!!!!!!!!!!!!!
   !!!!!!!!!!!!!there is a blank headword!!!!!!!!!!!!!!!!!!!!!
   !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!`);
-  }
-  if (!alphabetGroupedObject[firstRealLetter].hasOwnProperty(head)) {
-    // the key of the headword does not exist in the object yet, so create the key and add the locator-xref object
-    alphabetGroupedObject[firstRealLetter][head] = { [sub]: { locators: [], xrefs: [] } };
-    if (/xref/.test(locator)) {
-      alphabetGroupedObject[firstRealLetter][head][sub].xrefs.push(locator);
-    } else {
-      alphabetGroupedObject[firstRealLetter][head][sub].locators.push(locator);
     }
-  } else {
-    if (!alphabetGroupedObject[firstRealLetter][head].hasOwnProperty(sub)) {
-      // the key for the headword exists, but the sub does not exist as a key
-      alphabetGroupedObject[firstRealLetter][head][sub] = { locators: [], xrefs: [] };
-
+    if (!alphabetGroupedObject[firstRealLetter].hasOwnProperty(head)) {
+      // the key of the headword does not exist in the object yet, so create the key and add the locator-xref object
+      alphabetGroupedObject[firstRealLetter][head] = { [sub]: { locators: [], xrefs: [] } };
       if (/xref/.test(locator)) {
         alphabetGroupedObject[firstRealLetter][head][sub].xrefs.push(locator);
+
+        // if (!listOfHeadwords.includes(locator)){
+        //   console.log(locator)
+        // }
       } else {
         alphabetGroupedObject[firstRealLetter][head][sub].locators.push(locator);
       }
     } else {
-      // the head and sub already exist, so the locator must be pushed into the array
-      if (/xref/.test(locator)) {
-        alphabetGroupedObject[firstRealLetter][head][sub].xrefs.push(locator);
+      if (!alphabetGroupedObject[firstRealLetter][head].hasOwnProperty(sub)) {
+        // the key for the headword exists, but the sub does not exist as a key
+        alphabetGroupedObject[firstRealLetter][head][sub] = { locators: [], xrefs: [] };
+
+        if (/xref/.test(locator)) {
+          alphabetGroupedObject[firstRealLetter][head][sub].xrefs.push(locator);
+        } else {
+          alphabetGroupedObject[firstRealLetter][head][sub].locators.push(locator);
+        }
       } else {
-        alphabetGroupedObject[firstRealLetter][head][sub].locators.push(locator);
+        // the head and sub already exist, so the locator must be pushed into the array
+        if (/xref/.test(locator)) {
+          alphabetGroupedObject[firstRealLetter][head][sub].xrefs.push(locator);
+        } else {
+          alphabetGroupedObject[firstRealLetter][head][sub].locators.push(locator);
+        }
       }
     }
   }
-}
 
-// sort locators
+  // sort locators
+  const alphabetArray = Object.keys(alphabetGroupedObject);
+  for (let a = 0; a < alphabetArray.length; a++) {
+    const headwords = Object.keys(alphabetGroupedObject[alphabetArray[a]]);
 
-const alphabetArray = Object.keys(alphabetGroupedObject);
-for (let a = 0; a < alphabetArray.length; a++) {
-  const headwords = Object.keys(alphabetGroupedObject[alphabetArray[a]]);
+    const alphabetObject = alphabetGroupedObject[alphabetArray[a]];
 
-  const alphabetObject = alphabetGroupedObject[alphabetArray[a]];
+    for (let i = 0; i < headwords.length; i++) {
+      const subs = Object.keys(alphabetObject[headwords[i]]);
+      const headWordObject = alphabetObject[headwords[i]];
+      for (let x = 0; x < subs.length; x++) {
+        headWordObject[subs[x]].locators = sortCitationsList(headWordObject[subs[x]].locators);
+      }
 
-  for (let i = 0; i < headwords.length; i++) {
-    const subs = Object.keys(alphabetObject[headwords[i]]);
-    const headWordObject = alphabetObject[headwords[i]];
-    for (let x = 0; x < subs.length; x++) {
-      headWordObject[subs[x]].locators = sortCitationsList(headWordObject[subs[x]].locators);
+      for (let x = 0; x < subs.length; x++) {
+        headWordObject[subs[x]].xrefs.sort();
+      }
     }
+  }
 
-    for (let x = 0; x < subs.length; x++) {
-      headWordObject[subs[x]].xrefs.sort();
+  function sortedKeys(object) {
+    return Object.keys(object).sort((a, b) => {
+      a = a.replace("“", "");
+      b = b.replace("“", "");
+      return a.localeCompare(b, undefined, { sensitivity: "base" });
+    });
+  }
+
+  newObjectKeys = Object.keys(newObject);
+
+  for (let i = 0; i < newObjectKeys.length; i++) {
+    const unsortHeadwObj = alphabetGroupedObject[newObjectKeys[i]];
+    const sortedHeadwObjArr = sortedKeys(unsortHeadwObj);
+    // console.log(sortedHeadwObjArr);
+    for (let x = 0; x < sortedHeadwObjArr.length; x++) {
+      newObject[newObjectKeys[i]][sortedHeadwObjArr[x]] = alphabetGroupedObject[newObjectKeys[i]][sortedHeadwObjArr[x]];
     }
   }
-}
 
-const newObject = {
-  A: {},
-  B: {},
-  C: {},
-  D: {},
-  E: {},
-  F: {},
-  G: {},
-  H: {},
-  I: {},
-  J: {},
-  K: {},
-  L: {},
-  M: {},
-  N: {},
-  O: {},
-  P: {},
-  Q: {},
-  R: {},
-  S: {},
-  T: {},
-  U: {},
-  V: {},
-  W: {},
-  Y: {},
-  Z: {},
-};
+  const object = `export const indexObject =${JSON.stringify(newObject, null, 5)}`;
 
-function sortedKeys(object) {
-  return Object.keys(object).sort((a, b) => {
-    a = a.replace("“", "");
-    b = b.replace("“", "");
-    return a.localeCompare(b, undefined, { sensitivity: "base" });
-  });
-}
-
-const newObjectKeys = Object.keys(newObject);
-
-for (let i = 0; i < newObjectKeys.length; i++) {
-  const unsortHeadwObj = alphabetGroupedObject[newObjectKeys[i]];
-  const sortedHeadwObjArr = sortedKeys(unsortHeadwObj);
-  // console.log(sortedHeadwObjArr);
-  for (let x = 0; x < sortedHeadwObjArr.length; x++) {
-    newObject[newObjectKeys[i]][sortedHeadwObjArr[x]] = alphabetGroupedObject[newObjectKeys[i]][sortedHeadwObjArr[x]];
+  try {
+    fs.writeFileSync("./src/data/index-object.js", object);
+    console.log("indexObject written");
+  } catch (err) {
+    console.error(err);
   }
 }
 
-const object = `export const indexObject =${JSON.stringify(newObject, null, 5)}`;
+function createHeadingsArray() {
+  let listOfHeadwords = [];
+  for (let i = 0; i < newObjectKeys.length; i++) {
+    const headwords = Object.keys(newObject[newObjectKeys[i]]);
+    listOfHeadwords.push(headwords);
+  }
+  listOfHeadwords = listOfHeadwords.flat();
 
-try {
-  fs.writeFileSync("./src/data/index-object.js", object);
-  console.log("indexObject written");
-} catch (err) {
-  console.error(err);
-}
+  const headwordsArray = `export const headwordsArray =${JSON.stringify(listOfHeadwords, null, 5)}`;
 
-// --------------- create array of headings
-let listOfHeadwords = [];
-for (let i = 0; i < newObjectKeys.length; i++) {
-  const headwords = Object.keys(newObject[newObjectKeys[i]]);
-  listOfHeadwords.push(headwords);
-}
-listOfHeadwords = listOfHeadwords.flat();
-
-const headwordsArray = `export const headwordsArray =${JSON.stringify(listOfHeadwords, null, 5)}`;
-
-try {
-  fs.writeFileSync("./src/data/headwords-array.js", headwordsArray);
-  console.log("headwordsArray written");
-} catch (err) {
-  console.error(err);
-}
-
-// ---------------------  create the array sorted by locator first
-let locatorFirstArray = [];
-
-for (let i = 0; i < rawIndexArray.length - 1; i++) {
-  if (!/xref/.test(rawIndexArray[i][2])) {
-    locatorFirstArray.push([rawIndexArray[i][2].replace(/\r/, ""), rawIndexArray[i][0], rawIndexArray[i][1]]);
+  try {
+    fs.writeFileSync("./src/data/headwords-array.js", headwordsArray);
+    console.log("headwordsArray written");
+  } catch (err) {
+    console.error(err);
   }
 }
 
-locatorFirstArray = locatorFirstArray.sort(natsort());
-
-// test for blank locator field
-for (let i = 0; i < locatorFirstArray.length; i++) {
-  if (locatorFirstArray[i][0] === "") {
-    console.error("Missing Locator:");
-    console.error(locatorFirstArray[i]);
+function createLocatorSortedArray() {
+  for (let i = 0; i < rawIndexArray.length - 1; i++) {
+    if (!/xref/.test(rawIndexArray[i][2])) {
+      locatorFirstArray.push([rawIndexArray[i][2].replace(/\r/, ""), rawIndexArray[i][0], rawIndexArray[i][1]]);
+    }
   }
-  if (!/(DN|MN|SN|AN|Kp|Dhp|Ud|Iti|Snp|Vv|Pv|Thag|Thig|xref)/.test(locatorFirstArray[i][0])) {
-    console.error("Badd citation or xref:");
-    console.error(locatorFirstArray[i]);
+
+  locatorFirstArray = locatorFirstArray.sort(natsort());
+
+  // test for blank locator field
+  for (let i = 0; i < locatorFirstArray.length; i++) {
+    if (locatorFirstArray[i][0] === "") {
+      console.error("Missing Locator:");
+      console.error(locatorFirstArray[i]);
+    }
+    if (!/(DN|MN|SN|AN|Kp|Dhp|Ud|Iti|Snp|Vv|Pv|Thag|Thig|xref)/.test(locatorFirstArray[i][0])) {
+      console.error("Badd citation or xref:");
+      console.error(locatorFirstArray[i]);
+    }
+  }
+
+  const array = `export const indexArray =${JSON.stringify(locatorFirstArray, null, 5)}`;
+
+  try {
+    fs.writeFileSync("./src/data/index-array.js", array);
+    console.log("indexArray written");
+  } catch (err) {
+    console.error(err);
   }
 }
 
-const array = `export const indexArray =${JSON.stringify(locatorFirstArray, null, 5)}`;
+function createLocatorSortedObject() {
+  const locatorObject = {};
+  for (let i = 0; i < locatorFirstArray.length; i++) {
+    if (locatorObject.hasOwnProperty(locatorFirstArray[i][0])) {
+      locatorObject[locatorFirstArray[i][0]].push(locatorFirstArray[i][1] + ", " + locatorFirstArray[i][2]);
+    } else {
+      locatorObject[locatorFirstArray[i][0]] = [locatorFirstArray[i][1] + ", " + locatorFirstArray[i][2]];
+    }
+  }
 
-try {
-  fs.writeFileSync("./src/data/index-array.js", array);
-  console.log("indexArray written");
-} catch (err) {
-  console.error(err);
-}
+  const locatorBookObject = {
+    DN: [],
+    MN: [],
+    SN: [],
+    AN: [],
+    Kp: [],
+    Dhp: [],
+    Ud: [],
+    Iti: [],
+    Snp: [],
+    Vv: [],
+    Pv: [],
+    Thag: [],
+    Thig: [],
+  };
 
-const locatorObject = {};
-for (let i = 0; i < locatorFirstArray.length; i++) {
-  if (locatorObject.hasOwnProperty(locatorFirstArray[i][0])) {
-    locatorObject[locatorFirstArray[i][0]].push(locatorFirstArray[i][1] + ", " + locatorFirstArray[i][2]);
-  } else {
-    locatorObject[locatorFirstArray[i][0]] = [locatorFirstArray[i][1] + ", " + locatorFirstArray[i][2]];
+  function findBook(citation) {
+    return citation.match(/(DN|MN|SN|AN|Kp|Dhp|Ud|Iti|Snp|Vv|Pv|Thag|Thig|xref)/)[0];
+  }
+
+  for (let i = 0; i < locatorFirstArray.length; i++) {
+    const book = findBook(locatorFirstArray[i][0]);
+    locatorBookObject[book].push(locatorFirstArray[i]);
+  }
+
+  const locatorBookObjectString = `export const locatorBookObject =${JSON.stringify(locatorBookObject, null, 2)}`;
+
+  try {
+    fs.writeFileSync("./src/data/locator-book-object.js", locatorBookObjectString);
+    console.log("locatorBookObject written");
+  } catch (err) {
+    console.error(err);
   }
 }
-// console.log(locatorObject);
 
-const locatorBookObject = {
-  DN: [],
-  MN: [],
-  SN: [],
-  AN: [],
-  Kp: [],
-  Dhp: [],
-  Ud: [],
-  Iti: [],
-  Snp: [],
-  Vv: [],
-  Pv: [],
-  Thag: [],
-  Thig: [],
-};
-
-function findBook(citation) {
-  return citation.match(/(DN|MN|SN|AN|Kp|Dhp|Ud|Iti|Snp|Vv|Pv|Thag|Thig|xref)/)[0];
-}
-
-for (let i = 0; i < locatorFirstArray.length; i++) {
-  const book = findBook(locatorFirstArray[i][0]);
-  locatorBookObject[book].push(locatorFirstArray[i]);
-}
-
-const locatorBookObjectString = `export const locatorBookObject =${JSON.stringify(locatorBookObject, null, 2)}`;
-
-try {
-  fs.writeFileSync("./src/data/locator-book-object.js", locatorBookObjectString);
-  console.log("locatorBookObject written");
-} catch (err) {
-  console.error(err);
-}
+createIndexObject();
+createLocatorSortedArray();
+createHeadingsArray();
+createLocatorSortedObject();

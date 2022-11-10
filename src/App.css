@@ -941,6 +941,10 @@ tr:nth-child(even) {
 
 }
 
+.color-view {
+  padding-left: 1rem;
+}
+
 .colored-locators .locator {
   padding: .1rem;
   border: solid 1px rgb(220, 220, 220);

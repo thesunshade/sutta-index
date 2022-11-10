@@ -18,7 +18,7 @@ import themeIcon from "./images/8673129_ic_fluent_dark_theme_filled.png";
 export const ContextDestination = createContext();
 function App() {
   const [destination, setDestination] = useState(localStorage.destination ? localStorage.destination : "SC");
-  const [isLocatorView, setIsLocatorView] = useState(!!sessionStorage.locatorView);
+  const [isLocatorView, setIsLocatorView] = useState(false);
   const [showVisited, setShowVisited] = useState(localStorage.showVisited ? localStorage.showVisited : "on");
   const [searchText, setSearchText] = useState("");
   const [namesIsChecked, setNamesIsChecked] = useState(
@@ -91,6 +91,11 @@ function App() {
     }
   }
 
+  function toggleColorView() {
+    const body = document.getElementsByTagName("body");
+    body[0].classList.toggle("colored-locators");
+  }
+
   return (
     <div id="app" className="App">
       <div className="settings-bar">
@@ -155,6 +160,15 @@ function App() {
               Toggle Table View
             </button>{" "}
             To see listing by book
+          </label>
+          <label className="color-view">
+            <button
+              onClick={() => {
+                toggleColorView();
+              }}
+            >
+              Toggle Color
+            </button>
           </label>
           <div
             className="radiobuttonarea"

@@ -25,10 +25,13 @@ function LocatorList(props) {
         <span className="xref-label">{xrefLabel}</span>
         {xrefs.map((xref, index) => {
           return (
-            <span key={index}>
-              <Xref xref={xref} />
-              {index < xrefs.length - 1 ? "; " : ""}
-            </span>
+            <>
+              <span key={index}>
+                <Xref xref={xref} />
+                {index < xrefs.length - 1 ? "; " : ""}
+              </span>
+              <br />
+            </>
           );
         })}
       </div>
