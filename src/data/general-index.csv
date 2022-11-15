@@ -1111,9 +1111,9 @@ yoniso manasikāra		xref proper attention (yoniso manasikāra)
 friendship	as external factor	Iti17
 schisms	as great harm	Iti18
 schisms	leading to hell	Iti18
-harmony in Saṅgha	as great happiness	Iti19
-harmony in Saṅgha	as cause of confidence	Iti19
-harmony in Saṅgha	leading to heaven	Iti19
+harmony in Saṅgha (saṅghasāmaggī)	as great happiness	Iti19
+harmony in Saṅgha (saṅghasāmaggī)	as cause of confidence	Iti19
+harmony in Saṅgha (saṅghasāmaggī)	leading to heaven	Iti19
 merit (puññā)	not to be feared	Iti22
 brahmās	rebirth as	Iti22
 Sakka, Lord of Gods		Iti22
@@ -1479,7 +1479,7 @@ disputes	over views	Snp4.9
 past, present, future	let go of	Snp4.10
 monastic life	rightly practiced	Snp4.10
 quarrels		xref disputes
-disputes	cause of	Snp4.11
+disputes	cause	Snp4.11
 dependent origination	variations on	Snp4.11
 disputes	over views	Snp4.12
 purity (suddhi, pārisuddhi)	here alone is	Snp4.12
@@ -1497,7 +1497,7 @@ marks of a great man		Snp5.1
 head-splitting	causes of	Snp5.1
 name and form (nāma rūpa)		Snp5.2
 sacrifices (yañña)		Snp5.4
-suffering (dukkha)	cause of	Snp5.5
+suffering (dukkha)	cause	Snp5.5
 hope (āsa)	free from	Snp5.5
 Buddha, the	cannot release someone	Snp5.6
 perception of nothingness (natthi sañña)		Snp5.7
@@ -2402,6 +2402,7 @@ mind reading	guarding ones behaviour for fear of mind readers	AN3.40
 giving (dāna)	faith and giving	AN3.41
 giving (dāna)	worthy of gifts	AN3.41
 association	with virtuous people	AN3.42
+faith (saddhā)	signs of	AN3.42
 listening to Dhamma	people of faith like to	AN3.42
 Dhamma teaching	motivation for	AN3.43
 Dhamma discussion	conversation flows when people understand	AN3.44
@@ -2419,10 +2420,14 @@ keenness (ātāpi)	to prevent bad, develop good, and endure pain	AN3.49
 qualities of triple gem		xref triple gem 
 thieves (cora)	as metaphor for bad monastic	AN3.50
 monastic life	wrongly practiced	AN3.50
+brahmins	wasted their lives	AN3.51
 old age	regret at end of life over not practicing	AN3.51
 regret	over life poorly lived	AN3.51
+life	wasted	AN3.51
+brahmins	wasted their lives	AN3.52
 old age	regret at end of life over not practicing	AN3.52
 regret	over life poorly lived	AN3.52
+life	wasted	AN3.52
 giving (dāna)	like rescuing pot from fire	AN3.52
 giving (dāna)	protects our next life	AN3.52
 Dhamma visible here and now (sandiṭṭiko)	definition	AN3.53
@@ -2763,7 +2768,7 @@ sign of the beautiful (subhanimitta)	cause for sense desire	AN1.11
 sense desire (kāmacchanda)	caused by sign of the beautiful	AN1.11
 feature of harshness (paṭighanimitta)	cause for ill will (vyāpada)	AN1.12
 ill will (vyāpada, byāpada)	caused by feature of harshness	AN1.12
-dullness and drowsiness (thinamiddha)	cause of	AN1.13
+dullness and drowsiness (thinamiddha)	cause	AN1.13
 sleepiness		xref drowsiness (middha)
 envy (issā)		xref jealousy (issā)
 jealousy (issā)		xref envy (issā)
@@ -2772,7 +2777,7 @@ solitude		xref seclusion
 solitude		xref solitary life
 solitary life		xref seclusion
 solitary life		xref solitude
-restlessness and remorse (uddhaccakukkucca)	cause of	AN1.14
+restlessness and remorse (uddhaccakukkucca)	cause	AN1.14
 improper attention (ayoniso manasikara)	cause of doubt	AN1.15
 doubt (vicikicchā)	caused by improper attention	AN1.15
 sense desire (kāmacchanda)	removed by sign of sign of the ugly	AN1.16
@@ -4274,6 +4279,7 @@ senior monastics	desirable qualities	AN5.166
 Upavāṇa, Ven.	qualities of senior monastics	AN5.166
 mind-made body (manomayena kāya)		AN5.166
 accusations	preparing to make an accusation	AN5.167
+self reflection	preparing to make an accusation	AN5.167
 loving-kindness (mettā)	accusations and	AN5.167
 admonishment		xref accusations
 accusations		xref admonishment
@@ -4502,7 +4508,7 @@ association	with similar people/like elements	AN5.249
 confidence (pasāda)	danger when placed in an individual	AN5.250
 faith (saddhā)		xref confidence (pasāda)
 confidence (pasāda)		xref faith (saddhā)
-going forth (pabbajja)	who is qualified to ordain	AN5.251
+ordination (upasampada)	who is qualified to ordain	AN5.251
 dependence (nissaya)	who is qualified to give	AN5.252
 attendant	who should have	AN5.253
 stinginess (maccharī)	types	AN5.254
@@ -4756,9 +4762,9 @@ sign of the beautiful (subhanimitta)	cause for greed	AN2.123
 improper attention (ayoniso manasikara)	cause for greed	AN2.123
 feature of harshness (paṭighanimitta)	cause for hate	AN2.124
 improper attention (ayoniso manasikara)	cause for hate	AN2.124
-wrong view (micchā diṭṭhi)	cause of	AN2.125
+wrong view (micchā diṭṭhi)	cause	AN2.125
 improper attention (ayoniso manasikara)	cause of wrong view	AN2.125
-right view (sammā diṭṭhi)	cause of	AN2.126
+right view (sammā diṭṭhi)	cause	AN2.126
 proper attention (yoniso manasikāra)	leads to right view	AN2.126
 Sāriputta, Ven.	right to aspire to be like	AN2.130
 Mahāmoggallāna, Ven.	right to aspire to be like	AN2.130
@@ -6639,6 +6645,7 @@ Subha, Todeyya’s son	asking about differences in people	MN135
 actions (kamma)	being the owner of ones own	MN135
 actions (kamma)	all are owner of their actions	MN135
 actions (kamma)	heir to one’s	MN135
+actions (kamma)	ownership of	MN135
 actions (kamma)	results and	MN135
 killing	definition	MN135
 killing	leading to hell	MN135
@@ -6652,11 +6659,11 @@ harming (viheṭhaka)	definition	MN135
 harming (viheṭhaka)	leading to hell	MN135
 harming (viheṭhaka)	cause of illness	MN135
 cruelty (hiṁsa, vihiṁsa)	cause of illness	MN135
-sickness	cause of	MN135
+sickness	cause	MN135
 harming, giving up (viheṭhaka)	leading to heaven	MN135
 harming, giving up (viheṭhaka)	definition	MN135
 harming, giving up (viheṭhaka)	cause of health	MN135
-health	cause of	MN135
+health	cause	MN135
 anger (kodha)	definition	MN135
 anger (kodha)	leading to hell	MN135
 anger (kodha)	cause of ugliness	MN135
@@ -6697,8 +6704,8 @@ questions, asking	leading to heaven	MN135
 questions, asking	definition	MN135
 questions, asking	cause of wisdom	MN135
 questions, asking	about welfare	MN135
-stupidity 	cause of	MN135
-wisdom (paññā)	cause of	MN135
+stupidity 	cause	MN135
+wisdom (paññā)	cause	MN135
 rebirth	of good people	MN135
 rebirth	of bad people	MN135
 rebirth	actions as cause for	MN135
@@ -7656,7 +7663,7 @@ virtue (sīla)	cause for rebirth	AN8.36
 rebirth	dependent virtue, giving, meditation	AN8.36
 giving (dāna)	levels of	AN8.36
 virtue (sīla)	levels of	AN8.36
-human birth	cause of	AN8.36
+human birth	cause	AN8.36
 gods of the Four Great Kings (cātumahārājikā devā)	cause for rebirth among	AN8.36
 gods of the Thirty-Three (tāvatiṁsā devā)	cause for rebirth among	AN8.36
 gods of Yama (yāmā devā)	cause for rebirth among	AN8.36
@@ -8996,3 +9003,193 @@ wrong views (diṭṭhigata)	being able to dispel as qualification to ordain mon
 virtue, higher (adhisīla)	being able to encourage in as qualification to ordain monastics	AN10.34
 mind, higher (adhicitta)	being able to encourage in as qualification to ordain monastics	AN10.34
 wisdom, higher (adhipaññā)	being able to encourage in as qualification to ordain monastics	AN10.34
+dependence (nissaya)	who is qualified to give	AN10.35
+attendant	who should have	AN10.36
+schisms	definition	AN10.37
+Dhamma teaching	incorrectly related to schisms	AN10.37
+harmony in Saṅgha (saṅghasāmaggī)	definition	AN10.38
+Dhamma teaching	correctly related to harmony in the Saṅgha	AN10.38
+schisms	definition	AN10.39
+schisms	leads to hell	AN10.39
+harmony in Saṅgha (saṅghasāmaggī)	definition	AN10.40
+harmony in Saṅgha (saṅghasāmaggī)	results	AN10.40
+disputes	cause	AN10.41
+Dhamma teaching	incorrectly causes disputes	AN10.42
+accusations	preparing to make an accusation	AN10.44
+self reflection	preparing to make an accusation	AN10.44
+loving-kindness (mettā)	towards spiritual companions	AN10.44
+learned (bahussutā)	qualification for admonishing	AN10.44
+monastic rules (vinaya)	knowledge of as qualification for admonishing	AN10.44
+speech	timely, when admonishing	AN10.44
+speech	true, when admonishing	AN10.44
+speech	gentle, when admonishing	AN10.44
+speech	beneficial, when admonishing	AN10.44
+speech	with loving-kindness, when admonishing	AN10.44
+kings	royal harem/inner palace	AN10.45
+laypeople	danger of intimacy with for monastics	AN10.45
+danger (ādīnava)	monastics entering inner palace of king	AN10.45
+monastic life	associating with laypeople	AN10.46
+uposatha	results of observing	AN10.46
+uposatha	in a limited way	AN10.46
+uposatha	leading to heaven	AN10.46
+uposatha	leading to enlightenment	AN10.46
+uposatha	with eight factors	AN10.46
+Mahāli the Licchavi	cause for good and bad deeds	AN10.47
+bad actions	cause	AN10.47
+good actions	cause	AN10.47
+greed (lobha)	cause of bad actions	AN10.47
+hatred (dosa)	cause of bad actions	AN10.47
+delusion (moha)	cause of bad actions	AN10.47
+improper attention (ayoniso manasikara)	cause of bad actions	AN10.47
+wrongly directed mind	cause of bad actions	AN10.47
+proper attention (yoniso manasikāra)	cause of good actions	AN10.47
+rightly directed mind	cause of good actions	AN10.47
+self reflection	ten topics for monastic	AN10.48
+caste	monastics leaving	AN10.48
+monastic life	dependent on lay people	AN10.48
+monastic life	advice for	AN10.48
+livelihood	monastic	AN10.48
+separation from the loved	contemplation for monastics	AN10.48
+actions (kamma)	heir to one’s	AN10.48
+actions (kamma)	ownership of	AN10.48
+seclusion	enjoying empty huts	AN10.48
+superhuman states (uttari manussadhamma)	reflecting on having them	AN10.48
+body	cause for ten things	AN10.49
+principles of cordiality (dhammā sāraṇīyā)	definition	AN10.50
+disputes	preventing	AN10.50
+virtue (sīla)	preventing disputes	AN10.50
+virtue (sīla)	as principle of cordiality (dhammā sāraṇīyā)	AN10.50
+learned (bahussutā)	preventing disputes	AN10.50
+learned (bahussutā)	as principle of cordiality (dhammā sāraṇīyā)	AN10.50
+friends, good	preventing disputes	AN10.50
+friends, good	as principle of cordiality (dhammā sāraṇīyā)	AN10.50
+easy to admonish (suvaca)	preventing disputes	AN10.50
+easy to admonish (suvaca)	as principle of cordiality (dhammā sāraṇīyā)	AN10.50
+work	monastics able to do skillfully	AN10.50
+love for the Dhamma (dhammakāma)	preventing disputes	AN10.50
+love for the Dhamma (dhammakāma)	as principle of cordiality (dhammā sāraṇīyā)	AN10.50
+energetic (āraddhavīriya)	preventing disputes	AN10.50
+energetic (āraddhavīriya)	as principle of cordiality (dhammā sāraṇīyā)	AN10.50
+contentment (santuṭṭhi)	preventing disputes	AN10.50
+contentment (santuṭṭhi)	as principle of cordiality (dhammā sāraṇīyā)	AN10.50
+mindfulness (sati)	preventing disputes	AN10.50
+mindfulness (sati)	as principle of cordiality (dhammā sāraṇīyā)	AN10.50
+wisdom	preventing disputes	AN10.50
+wisdom	as principle of cordiality (dhammā sāraṇīyā)	AN10.50
+reviewing (paccavekkhaṇā)		xref self reflection
+reflection (paṭisaṅkhā)		xref self reflection
+self reflection		xref reviewing (paccavekkhaṇā)
+self reflection		xref reflection (paṭisaṅkhā)
+mind reading	skill in ones own mind	AN10.51
+self reflection	to develop skillful qualities	AN10.51
+reviewing (paccavekkhaṇā)	to develop skillful qualities	AN10.51
+youth	checking reflection as simile for self examination	AN10.51
+mirror	simile for self examination	AN10.51
+covetousness (abhijjhā)	self examination for	AN10.51
+maliciousness (byāpannacitta)	self examination for	AN10.51
+dullness and drowsiness (thinamiddha)	self examination for	AN10.51
+restlessness (uddhacca)	self examination for	AN10.51
+doubt (vicikicchā)	self examination for	AN10.51
+anger (kodha)	self examination for	AN10.51
+corrupted mind (saṅkiliṭṭhacitta)	self examination for	AN10.51
+body	disturbed in	AN10.51
+energetic (āraddhavīriya)	self examination for	AN10.51
+concentration (samādhi)	self examination for	AN10.51
+head on fire	simile for giving up bad qualities	AN10.51
+zeal (chanda)	for giving up bad qualities	AN10.51
+mindfulness and clear comprehension (satisampajañña)	for giving up bad qualities	AN10.51
+unsatisfied	should not be satisfied with partial attainment 	AN10.53
+skillful qualities (kusala dhamma)	not being satisfied with	AN10.53
+skillful qualities (kusala dhamma)	not stagnating in	AN10.53
+reviewing (paccavekkhaṇā)	to develop skillful qualities	AN10.53
+internal serenity of mind (ajjhattaṁ cetosamatha)	not enough just to have	AN10.54
+higher wisdom of insight into phenomena (adhipaññādhammavipassanā)	not enough just to have	AN10.54
+head on fire	simile for developing good qualities	AN10.54
+association (sevitabba)	whom to associate with	AN10.54
+association (sevitabba)	whom to not associate with	AN10.54
+association (sevitabba)	robes	AN10.54
+association (sevitabba)	almsfood	AN10.54
+association (sevitabba)	dwellings	AN10.54
+association (sevitabba)	villages	AN10.54
+association (sevitabba)	countries	AN10.54
+association (sevitabba)	people 	AN10.54
+dwellings (senāsana)	to associate with 	AN10.54
+almsfood	to associate with 	AN10.54
+robes	to associate with 	AN10.54
+villages (gāma)	to associate with 	AN10.54
+countries (janapadapadesa)	to associate with 	AN10.54
+people (puggala)	to associate with 	AN10.54
+skillfulness and unskillfulness	developed through association	AN10.54
+association (sevitabba)	developing skillfulness	AN10.54
+requisites, four	not the reason for become monastic	AN10.54
+dwellings (senāsana)	helping to increase skillfulness	AN10.54
+almsfood	helping to increase skillfulness	AN10.54
+robes	helping to increase skillfulness	AN10.54
+villages (gāma)	helping to increase skillfulness	AN10.54
+countries (janapadapadesa)	helping to increase skillfulness	AN10.54
+people (puggala)	helping to increase skillfulness	AN10.54
+decline (parihāna)	person liable to, definition	AN10.55
+listening to Dhamma	not getting to leads to decline	AN10.55
+memorizing	not memorizing leads to decline	AN10.55
+mind, skilled in ones own (sacittapariyāyakusala)	definition	AN10.55
+self reflection	how to	AN10.55
+cemetery contemplation	culminates in deathless	AN10.57
+wanderers of other sects (aññatitthiya paribbājaka)	answering their questions	AN10.58
+questions, answering 	from wanderers of other sects	AN10.58
+desire (chanda)	all things are rooted in	AN10.58
+attention (manasikāra)	produces desire	AN10.58
+contact (phassa)	as origin	AN10.58
+feelings (vedanā)	meeting place	AN10.58
+concentration (samādhi)	as chief	AN10.58
+mindfulness (sati)	as ruler	AN10.58
+wisdom (paññā)	as overseer	AN10.58
+freedom (vimutti)	as core	AN10.58
+deathless (amata)	culmination	AN10.58
+nibbāna	as things’ final end	AN10.58
+going forth (pabbajja)	training	AN10.59
+perception of impermanence (aniccasañña)	consolidate mind in	AN10.59
+perception of not self (anattasañña)	consolidate mind in	AN10.59
+perception of ugliness (asubhasañña)	consolidate mind in	AN10.59
+perception of danger/drawback (ādīnavasañña)	consolidate mind in	AN10.59
+becoming (bhava)	knowing 	AN10.59
+world, the	knowing origination and ending of	AN10.59
+perception of giving up (pahānasañña)	consolidate mind in	AN10.59
+perception of fading away (virāgasañña)	consolidate mind in	AN10.59
+perception of cessation (nirodhasañña)	consolidate mind in	AN10.59
+non-returner (anāgāmi)	perceptions to become	AN10.59
+nibbāna	perceptions to attain in present life	AN10.59
+present life	perceptions to attain nibbāna in present life	AN10.59
+Girimānanda, Ven.	advice when sick	AN10.60
+Ānanda, Ven.	for Girimānanda	AN10.60
+sickness	perceptions to practice when sick	AN10.60
+perception of impermanence (aniccasañña)	definition	AN10.60
+aggregates (khandha)	perception of impermanence	AN10.60
+perception of not self (anattasañña)	definition	AN10.60
+sense bases (āyatanā)	perception of not self	AN10.60
+perception of ugliness (asubhasañña)	definition	AN10.60
+body parts	perception of ugliness	AN10.60
+perception of danger/drawback (ādīnavasañña)	definition	AN10.60
+sickness	perception of danger/drawback	AN10.60
+perception of giving up (pahānasañña)	definition	AN10.60
+sensual thoughts (kāmavitakka)	perception of giving up	AN10.60
+malicious thoughts (byāpādavitakka)	perception of giving up	AN10.60
+cruel thoughts (vihiṁsāvitakka)	perception of giving up	AN10.60
+perception of fading away (virāgasañña)	definition	AN10.60
+stilling of all formations (sabbasaṅkhārasamatha)	perception of fading away	AN10.60
+nibbāna	perception of fading away	AN10.60
+acquisitions (upadhi)	letting go of all	AN10.60
+perception of cessation (nirodhasañña)	definition	AN10.60
+nibbāna	perception of cessation	AN10.60
+perception of dissatisfaction with the whole world (sabbaloke anabhiratasañña)	definition	AN10.60
+grasping (upādāna)	perception of dissatisfaction with the whole world	AN10.60
+underlying tendencies (anusaya)	perception of dissatisfaction with the whole world	AN10.60
+perception of the impermanence of all conditions (sabbasaṅkhāresu anicchāsaññā)	definition	AN10.60
+mindfulness of breathing (ānāpānassati)	definition	AN10.60
+ignorance (avijjā)	cause	AN10.61
+ignorance (avijjā)	fuel for	AN10.61
+hindrances (nīvarana)	cause and fuel of ignorance	AN10.61
+hindrances (nīvarana)	caused by three kinds of misconduct	AN10.61
+misconduct	cause of five hindrances	AN10.61
+misconduct	caused by lack of sense restraint	AN10.61
+sense restraint (indriyasaṁvara)	lack of is cause for misconduct	AN10.61
+sense restraint (indriyasaṁvara)	lack of caused by a lack of mindfulness and clear comprehension	AN10.61

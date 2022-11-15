@@ -32,12 +32,12 @@ export const indexArray =[
      [
           "AN1.13",
           "dullness and drowsiness (thinamiddha)",
-          "cause of"
+          "cause"
      ],
      [
           "AN1.14",
           "restlessness and remorse (uddhaccakukkucca)",
-          "cause of"
+          "cause"
      ],
      [
           "AN1.15",
@@ -2292,7 +2292,7 @@ export const indexArray =[
      [
           "AN2.125",
           "wrong view (micchā diṭṭhi)",
-          "cause of"
+          "cause"
      ],
      [
           "AN2.126",
@@ -2302,7 +2302,7 @@ export const indexArray =[
      [
           "AN2.126",
           "right view (sammā diṭṭhi)",
-          "cause of"
+          "cause"
      ],
      [
           "AN2.130",
@@ -3051,6 +3051,11 @@ export const indexArray =[
      ],
      [
           "AN3.42",
+          "faith (saddhā)",
+          "signs of"
+     ],
+     [
+          "AN3.42",
           "generosity (cāga)",
           "as a sign of faith"
      ],
@@ -3146,6 +3151,16 @@ export const indexArray =[
      ],
      [
           "AN3.51",
+          "brahmins",
+          "wasted their lives"
+     ],
+     [
+          "AN3.51",
+          "life",
+          "wasted"
+     ],
+     [
+          "AN3.51",
           "old age",
           "regret at end of life over not practicing"
      ],
@@ -3156,6 +3171,11 @@ export const indexArray =[
      ],
      [
           "AN3.52",
+          "brahmins",
+          "wasted their lives"
+     ],
+     [
+          "AN3.52",
           "giving (dāna)",
           "like rescuing pot from fire"
      ],
@@ -3163,6 +3183,11 @@ export const indexArray =[
           "AN3.52",
           "giving (dāna)",
           "protects our next life"
+     ],
+     [
+          "AN3.52",
+          "life",
+          "wasted"
      ],
      [
           "AN3.52",
@@ -10925,6 +10950,11 @@ export const indexArray =[
           "told to exhort the monks"
      ],
      [
+          "AN5.167",
+          "self reflection",
+          "preparing to make an accusation"
+     ],
+     [
           "AN5.168",
           "virtue (sīla)",
           "as condition for concentration"
@@ -12036,7 +12066,7 @@ export const indexArray =[
      ],
      [
           "AN5.251",
-          "going forth (pabbajja)",
+          "ordination (upasampada)",
           "who is qualified to ordain"
      ],
      [
@@ -14771,6 +14801,11 @@ export const indexArray =[
      ],
      [
           "AN7.21",
+          "Vajjis ",
+          "taught the principles that prevent decline"
+     ],
+     [
+          "AN7.21",
           "arahants",
           "protecting leads to growth"
      ],
@@ -14778,6 +14813,11 @@ export const indexArray =[
           "AN7.21",
           "growth",
           "principles that lead to"
+     ],
+     [
+          "AN7.21",
+          "harmony (samagga)",
+          "leads to growth"
      ],
      [
           "AN7.21",
@@ -14796,23 +14836,13 @@ export const indexArray =[
      ],
      [
           "AN7.21",
-          "tradition (vaṁsa)",
-          "leads to growth"
-     ],
-     [
-          "AN7.21",
-          "Vajjis ",
-          "taught the principles that prevent decline"
-     ],
-     [
-          "AN7.21",
-          "harmony (samagga)",
-          "leads to growth"
-     ],
-     [
-          "AN7.21",
           "society",
           "principles that lead to growth"
+     ],
+     [
+          "AN7.21",
+          "tradition (vaṁsa)",
+          "leads to growth"
      ],
      [
           "AN7.22",
@@ -15606,12 +15636,7 @@ export const indexArray =[
      ],
      [
           "AN7.56",
-          "one attained to view (diṭṭhippatto)",
-          "known by gods of Brahmā’s Host"
-     ],
-     [
-          "AN7.56",
-          "one freed both ways (ubhatobhāgavimutta)",
+          "one freed by faith (saddhāvimutto)",
           "known by gods of Brahmā’s Host"
      ],
      [
@@ -15626,7 +15651,12 @@ export const indexArray =[
      ],
      [
           "AN7.56",
-          "one freed by faith (saddhāvimutto)",
+          "one attained to view (diṭṭhippatto)",
+          "known by gods of Brahmā’s Host"
+     ],
+     [
+          "AN7.56",
+          "one freed both ways (ubhatobhāgavimutta)",
           "known by gods of Brahmā’s Host"
      ],
      [
@@ -17046,11 +17076,6 @@ export const indexArray =[
      ],
      [
           "AN8.9",
-          "eating in moderation",
-          "how to"
-     ],
-     [
-          "AN8.9",
           "intense lust (tibbarāga)",
           "Ven. Nanda"
      ],
@@ -17061,13 +17086,18 @@ export const indexArray =[
      ],
      [
           "AN8.9",
-          "mindfulness and clear comprehension (satisampajañña)",
-          "knowing feelings, perceptions, thoughts as they arise"
+          "Nanda, Ven.",
+          "clear comprehension"
      ],
      [
           "AN8.9",
-          "Nanda, Ven.",
-          "clear comprehension"
+          "eating in moderation",
+          "how to"
+     ],
+     [
+          "AN8.9",
+          "mindfulness and clear comprehension (satisampajañña)",
+          "knowing feelings, perceptions, thoughts as they arise"
      ],
      [
           "AN8.9",
@@ -17956,11 +17986,6 @@ export const indexArray =[
      ],
      [
           "AN8.30",
-          "almsfood",
-          "contentment with"
-     ],
-     [
-          "AN8.30",
           "Anuruddha, Ven.",
           "thoughts of a great man (mahāpurisavitakka)"
      ],
@@ -17968,6 +17993,11 @@ export const indexArray =[
           "AN8.30",
           "Buddha, the",
           "visiting monks"
+     ],
+     [
+          "AN8.30",
+          "almsfood",
+          "contentment with"
      ],
      [
           "AN8.30",
@@ -18322,7 +18352,7 @@ export const indexArray =[
      [
           "AN8.36",
           "human birth",
-          "cause of"
+          "cause"
      ],
      [
           "AN8.36",
@@ -19946,6 +19976,11 @@ export const indexArray =[
      ],
      [
           "AN8.82",
+          "Sequential path",
+          "proximate causes"
+     ],
+     [
+          "AN8.82",
           "questions, asking",
           "inspires the Buddha to teach"
      ],
@@ -19953,11 +19988,6 @@ export const indexArray =[
           "AN8.82",
           "remembering (dhāreti)",
           "inspires the Buddha to teach"
-     ],
-     [
-          "AN8.82",
-          "Sequential path",
-          "proximate causes"
      ],
      [
           "AN8.82",
@@ -22596,11 +22626,6 @@ export const indexArray =[
      ],
      [
           "AN9.41",
-          "Tapussa, householder",
-          "asking about renunciation"
-     ],
-     [
-          "AN9.41",
           "formless attainments",
           "factors blocking"
      ],
@@ -22631,6 +22656,16 @@ export const indexArray =[
      ],
      [
           "AN9.41",
+          "sense pleasures (kāma, kāmaguṇa)",
+          "as block to jhāna progress"
+     ],
+     [
+          "AN9.41",
+          "Tapussa, householder",
+          "asking about renunciation"
+     ],
+     [
+          "AN9.41",
           "laypeople",
           "renunciation differentiates them from monastics"
      ],
@@ -22653,11 +22688,6 @@ export const indexArray =[
           "AN9.41",
           "renunciation (nekkhamma)",
           "dividing line between monastics and lay people"
-     ],
-     [
-          "AN9.41",
-          "sense pleasures (kāma, kāmaguṇa)",
-          "as block to jhāna progress"
      ],
      [
           "AN9.42",
@@ -24331,6 +24361,11 @@ export const indexArray =[
      ],
      [
           "AN10.29",
+          "becoming (bhava)",
+          "disgust with"
+     ],
+     [
+          "AN10.29",
           "cloth",
           "from Bāraṇasī, simile for visions in meditation"
      ],
@@ -24341,18 +24376,8 @@ export const indexArray =[
      ],
      [
           "AN10.29",
-          "kasiṇas",
-          "best is consiciousness-kasina"
-     ],
-     [
-          "AN10.29",
           "Pasenadi Kosala, King",
           "impermanence of"
-     ],
-     [
-          "AN10.29",
-          "becoming (bhava)",
-          "disgust with"
      ],
      [
           "AN10.29",
@@ -24413,6 +24438,11 @@ export const indexArray =[
           "AN10.29",
           "impermanence",
           "of even best things"
+     ],
+     [
+          "AN10.29",
+          "kasiṇas",
+          "best is consiciousness-kasina"
      ],
      [
           "AN10.29",
@@ -24521,11 +24551,6 @@ export const indexArray =[
      ],
      [
           "AN10.31",
-          "Dhamma",
-          "Vinaya helps to continue"
-     ],
-     [
-          "AN10.31",
           "bad monastics",
           "Vinaya restrains"
      ],
@@ -24533,6 +24558,11 @@ export const indexArray =[
           "AN10.31",
           "confidence (pasāda)",
           "Vinaya to inspire and increase"
+     ],
+     [
+          "AN10.31",
+          "Dhamma",
+          "Vinaya helps to continue"
      ],
      [
           "AN10.31",
@@ -24640,14 +24670,944 @@ export const indexArray =[
           "being able to dispel as qualification to ordain monastics"
      ],
      [
+          "AN10.35",
+          "dependence (nissaya)",
+          "who is qualified to give"
+     ],
+     [
+          "AN10.36",
+          "attendant",
+          "who should have"
+     ],
+     [
+          "AN10.37",
+          "Dhamma teaching",
+          "incorrectly related to schisms"
+     ],
+     [
+          "AN10.37",
+          "schisms",
+          "definition"
+     ],
+     [
+          "AN10.38",
+          "Dhamma teaching",
+          "correctly related to harmony in the Saṅgha"
+     ],
+     [
+          "AN10.38",
+          "harmony in Saṅgha (saṅghasāmaggī)",
+          "definition"
+     ],
+     [
+          "AN10.39",
+          "schisms",
+          "definition"
+     ],
+     [
+          "AN10.39",
+          "schisms",
+          "leads to hell"
+     ],
+     [
+          "AN10.40",
+          "harmony in Saṅgha (saṅghasāmaggī)",
+          "definition"
+     ],
+     [
+          "AN10.40",
+          "harmony in Saṅgha (saṅghasāmaggī)",
+          "results"
+     ],
+     [
+          "AN10.41",
+          "disputes",
+          "cause"
+     ],
+     [
+          "AN10.42",
+          "Dhamma teaching",
+          "incorrectly causes disputes"
+     ],
+     [
+          "AN10.44",
+          "accusations",
+          "preparing to make an accusation"
+     ],
+     [
           "AN10.44",
           "admonishment",
           ""
      ],
      [
           "AN10.44",
+          "learned (bahussutā)",
+          "qualification for admonishing"
+     ],
+     [
+          "AN10.44",
+          "loving-kindness (mettā)",
+          "towards spiritual companions"
+     ],
+     [
+          "AN10.44",
+          "monastic rules (vinaya)",
+          "knowledge of as qualification for admonishing"
+     ],
+     [
+          "AN10.44",
+          "self reflection",
+          "preparing to make an accusation"
+     ],
+     [
+          "AN10.44",
+          "speech",
+          "beneficial, when admonishing"
+     ],
+     [
+          "AN10.44",
+          "speech",
+          "gentle, when admonishing"
+     ],
+     [
+          "AN10.44",
           "speech",
           "reflecting on"
+     ],
+     [
+          "AN10.44",
+          "speech",
+          "timely, when admonishing"
+     ],
+     [
+          "AN10.44",
+          "speech",
+          "true, when admonishing"
+     ],
+     [
+          "AN10.44",
+          "speech",
+          "with loving-kindness, when admonishing"
+     ],
+     [
+          "AN10.45",
+          "danger (ādīnava)",
+          "monastics entering inner palace of king"
+     ],
+     [
+          "AN10.45",
+          "kings",
+          "royal harem/inner palace"
+     ],
+     [
+          "AN10.45",
+          "laypeople",
+          "danger of intimacy with for monastics"
+     ],
+     [
+          "AN10.46",
+          "monastic life",
+          "associating with laypeople"
+     ],
+     [
+          "AN10.46",
+          "uposatha",
+          "in a limited way"
+     ],
+     [
+          "AN10.46",
+          "uposatha",
+          "leading to enlightenment"
+     ],
+     [
+          "AN10.46",
+          "uposatha",
+          "leading to heaven"
+     ],
+     [
+          "AN10.46",
+          "uposatha",
+          "results of observing"
+     ],
+     [
+          "AN10.46",
+          "uposatha",
+          "with eight factors"
+     ],
+     [
+          "AN10.47",
+          "bad actions",
+          "cause"
+     ],
+     [
+          "AN10.47",
+          "delusion (moha)",
+          "cause of bad actions"
+     ],
+     [
+          "AN10.47",
+          "good actions",
+          "cause"
+     ],
+     [
+          "AN10.47",
+          "greed (lobha)",
+          "cause of bad actions"
+     ],
+     [
+          "AN10.47",
+          "hatred (dosa)",
+          "cause of bad actions"
+     ],
+     [
+          "AN10.47",
+          "improper attention (ayoniso manasikara)",
+          "cause of bad actions"
+     ],
+     [
+          "AN10.47",
+          "Mahāli the Licchavi",
+          "cause for good and bad deeds"
+     ],
+     [
+          "AN10.47",
+          "proper attention (yoniso manasikāra)",
+          "cause of good actions"
+     ],
+     [
+          "AN10.47",
+          "rightly directed mind",
+          "cause of good actions"
+     ],
+     [
+          "AN10.47",
+          "wrongly directed mind",
+          "cause of bad actions"
+     ],
+     [
+          "AN10.48",
+          "actions (kamma)",
+          "heir to one’s"
+     ],
+     [
+          "AN10.48",
+          "actions (kamma)",
+          "ownership of"
+     ],
+     [
+          "AN10.48",
+          "caste",
+          "monastics leaving"
+     ],
+     [
+          "AN10.48",
+          "livelihood",
+          "monastic"
+     ],
+     [
+          "AN10.48",
+          "monastic life",
+          "advice for"
+     ],
+     [
+          "AN10.48",
+          "monastic life",
+          "dependent on lay people"
+     ],
+     [
+          "AN10.48",
+          "seclusion",
+          "enjoying empty huts"
+     ],
+     [
+          "AN10.48",
+          "self reflection",
+          "ten topics for monastic"
+     ],
+     [
+          "AN10.48",
+          "separation from the loved",
+          "contemplation for monastics"
+     ],
+     [
+          "AN10.48",
+          "superhuman states (uttari manussadhamma)",
+          "reflecting on having them"
+     ],
+     [
+          "AN10.49",
+          "body",
+          "cause for ten things"
+     ],
+     [
+          "AN10.50",
+          "contentment (santuṭṭhi)",
+          "as principle of cordiality (dhammā sāraṇīyā)"
+     ],
+     [
+          "AN10.50",
+          "contentment (santuṭṭhi)",
+          "preventing disputes"
+     ],
+     [
+          "AN10.50",
+          "disputes",
+          "preventing"
+     ],
+     [
+          "AN10.50",
+          "easy to admonish (suvaca)",
+          "as principle of cordiality (dhammā sāraṇīyā)"
+     ],
+     [
+          "AN10.50",
+          "easy to admonish (suvaca)",
+          "preventing disputes"
+     ],
+     [
+          "AN10.50",
+          "energetic (āraddhavīriya)",
+          "as principle of cordiality (dhammā sāraṇīyā)"
+     ],
+     [
+          "AN10.50",
+          "energetic (āraddhavīriya)",
+          "preventing disputes"
+     ],
+     [
+          "AN10.50",
+          "friends, good",
+          "as principle of cordiality (dhammā sāraṇīyā)"
+     ],
+     [
+          "AN10.50",
+          "friends, good",
+          "preventing disputes"
+     ],
+     [
+          "AN10.50",
+          "learned (bahussutā)",
+          "as principle of cordiality (dhammā sāraṇīyā)"
+     ],
+     [
+          "AN10.50",
+          "learned (bahussutā)",
+          "preventing disputes"
+     ],
+     [
+          "AN10.50",
+          "love for the Dhamma (dhammakāma)",
+          "as principle of cordiality (dhammā sāraṇīyā)"
+     ],
+     [
+          "AN10.50",
+          "love for the Dhamma (dhammakāma)",
+          "preventing disputes"
+     ],
+     [
+          "AN10.50",
+          "mindfulness (sati)",
+          "as principle of cordiality (dhammā sāraṇīyā)"
+     ],
+     [
+          "AN10.50",
+          "mindfulness (sati)",
+          "preventing disputes"
+     ],
+     [
+          "AN10.50",
+          "principles of cordiality (dhammā sāraṇīyā)",
+          "definition"
+     ],
+     [
+          "AN10.50",
+          "virtue (sīla)",
+          "as principle of cordiality (dhammā sāraṇīyā)"
+     ],
+     [
+          "AN10.50",
+          "virtue (sīla)",
+          "preventing disputes"
+     ],
+     [
+          "AN10.50",
+          "wisdom",
+          "as principle of cordiality (dhammā sāraṇīyā)"
+     ],
+     [
+          "AN10.50",
+          "wisdom",
+          "preventing disputes"
+     ],
+     [
+          "AN10.50",
+          "work",
+          "monastics able to do skillfully"
+     ],
+     [
+          "AN10.51",
+          "anger (kodha)",
+          "self examination for"
+     ],
+     [
+          "AN10.51",
+          "body",
+          "disturbed in"
+     ],
+     [
+          "AN10.51",
+          "concentration (samādhi)",
+          "self examination for"
+     ],
+     [
+          "AN10.51",
+          "corrupted mind (saṅkiliṭṭhacitta)",
+          "self examination for"
+     ],
+     [
+          "AN10.51",
+          "covetousness (abhijjhā)",
+          "self examination for"
+     ],
+     [
+          "AN10.51",
+          "doubt (vicikicchā)",
+          "self examination for"
+     ],
+     [
+          "AN10.51",
+          "dullness and drowsiness (thinamiddha)",
+          "self examination for"
+     ],
+     [
+          "AN10.51",
+          "energetic (āraddhavīriya)",
+          "self examination for"
+     ],
+     [
+          "AN10.51",
+          "head on fire",
+          "simile for giving up bad qualities"
+     ],
+     [
+          "AN10.51",
+          "maliciousness (byāpannacitta)",
+          "self examination for"
+     ],
+     [
+          "AN10.51",
+          "mind reading",
+          "skill in ones own mind"
+     ],
+     [
+          "AN10.51",
+          "mindfulness and clear comprehension (satisampajañña)",
+          "for giving up bad qualities"
+     ],
+     [
+          "AN10.51",
+          "mirror",
+          "simile for self examination"
+     ],
+     [
+          "AN10.51",
+          "restlessness (uddhacca)",
+          "self examination for"
+     ],
+     [
+          "AN10.51",
+          "reviewing (paccavekkhaṇā)",
+          "to develop skillful qualities"
+     ],
+     [
+          "AN10.51",
+          "self reflection",
+          "to develop skillful qualities"
+     ],
+     [
+          "AN10.51",
+          "youth",
+          "checking reflection as simile for self examination"
+     ],
+     [
+          "AN10.51",
+          "zeal (chanda)",
+          "for giving up bad qualities"
+     ],
+     [
+          "AN10.53",
+          "reviewing (paccavekkhaṇā)",
+          "to develop skillful qualities"
+     ],
+     [
+          "AN10.53",
+          "skillful qualities (kusala dhamma)",
+          "not being satisfied with"
+     ],
+     [
+          "AN10.53",
+          "skillful qualities (kusala dhamma)",
+          "not stagnating in"
+     ],
+     [
+          "AN10.53",
+          "unsatisfied",
+          "should not be satisfied with partial attainment "
+     ],
+     [
+          "AN10.54",
+          "almsfood",
+          "helping to increase skillfulness"
+     ],
+     [
+          "AN10.54",
+          "almsfood",
+          "to associate with "
+     ],
+     [
+          "AN10.54",
+          "association (sevitabba)",
+          "almsfood"
+     ],
+     [
+          "AN10.54",
+          "association (sevitabba)",
+          "countries"
+     ],
+     [
+          "AN10.54",
+          "association (sevitabba)",
+          "developing skillfulness"
+     ],
+     [
+          "AN10.54",
+          "association (sevitabba)",
+          "dwellings"
+     ],
+     [
+          "AN10.54",
+          "association (sevitabba)",
+          "people "
+     ],
+     [
+          "AN10.54",
+          "association (sevitabba)",
+          "robes"
+     ],
+     [
+          "AN10.54",
+          "association (sevitabba)",
+          "villages"
+     ],
+     [
+          "AN10.54",
+          "association (sevitabba)",
+          "whom to associate with"
+     ],
+     [
+          "AN10.54",
+          "association (sevitabba)",
+          "whom to not associate with"
+     ],
+     [
+          "AN10.54",
+          "countries (janapadapadesa)",
+          "helping to increase skillfulness"
+     ],
+     [
+          "AN10.54",
+          "countries (janapadapadesa)",
+          "to associate with "
+     ],
+     [
+          "AN10.54",
+          "dwellings (senāsana)",
+          "helping to increase skillfulness"
+     ],
+     [
+          "AN10.54",
+          "dwellings (senāsana)",
+          "to associate with "
+     ],
+     [
+          "AN10.54",
+          "head on fire",
+          "simile for developing good qualities"
+     ],
+     [
+          "AN10.54",
+          "higher wisdom of insight into phenomena (adhipaññādhammavipassanā)",
+          "not enough just to have"
+     ],
+     [
+          "AN10.54",
+          "internal serenity of mind (ajjhattaṁ cetosamatha)",
+          "not enough just to have"
+     ],
+     [
+          "AN10.54",
+          "people (puggala)",
+          "helping to increase skillfulness"
+     ],
+     [
+          "AN10.54",
+          "people (puggala)",
+          "to associate with "
+     ],
+     [
+          "AN10.54",
+          "requisites, four",
+          "not the reason for become monastic"
+     ],
+     [
+          "AN10.54",
+          "robes",
+          "helping to increase skillfulness"
+     ],
+     [
+          "AN10.54",
+          "robes",
+          "to associate with "
+     ],
+     [
+          "AN10.54",
+          "skillfulness and unskillfulness",
+          "developed through association"
+     ],
+     [
+          "AN10.54",
+          "villages (gāma)",
+          "helping to increase skillfulness"
+     ],
+     [
+          "AN10.54",
+          "villages (gāma)",
+          "to associate with "
+     ],
+     [
+          "AN10.55",
+          "decline (parihāna)",
+          "person liable to, definition"
+     ],
+     [
+          "AN10.55",
+          "listening to Dhamma",
+          "not getting to leads to decline"
+     ],
+     [
+          "AN10.55",
+          "memorizing",
+          "not memorizing leads to decline"
+     ],
+     [
+          "AN10.55",
+          "mind, skilled in ones own (sacittapariyāyakusala)",
+          "definition"
+     ],
+     [
+          "AN10.55",
+          "self reflection",
+          "how to"
+     ],
+     [
+          "AN10.57",
+          "cemetery contemplation",
+          "culminates in deathless"
+     ],
+     [
+          "AN10.58",
+          "attention (manasikāra)",
+          "produces desire"
+     ],
+     [
+          "AN10.58",
+          "concentration (samādhi)",
+          "as chief"
+     ],
+     [
+          "AN10.58",
+          "contact (phassa)",
+          "as origin"
+     ],
+     [
+          "AN10.58",
+          "deathless (amata)",
+          "culmination"
+     ],
+     [
+          "AN10.58",
+          "desire (chanda)",
+          "all things are rooted in"
+     ],
+     [
+          "AN10.58",
+          "feelings (vedanā)",
+          "meeting place"
+     ],
+     [
+          "AN10.58",
+          "freedom (vimutti)",
+          "as core"
+     ],
+     [
+          "AN10.58",
+          "mindfulness (sati)",
+          "as ruler"
+     ],
+     [
+          "AN10.58",
+          "nibbāna",
+          "as things’ final end"
+     ],
+     [
+          "AN10.58",
+          "questions, answering ",
+          "from wanderers of other sects"
+     ],
+     [
+          "AN10.58",
+          "wanderers of other sects (aññatitthiya paribbājaka)",
+          "answering their questions"
+     ],
+     [
+          "AN10.58",
+          "wisdom (paññā)",
+          "as overseer"
+     ],
+     [
+          "AN10.59",
+          "becoming (bhava)",
+          "knowing "
+     ],
+     [
+          "AN10.59",
+          "going forth (pabbajja)",
+          "training"
+     ],
+     [
+          "AN10.59",
+          "nibbāna",
+          "perceptions to attain in present life"
+     ],
+     [
+          "AN10.59",
+          "non-returner (anāgāmi)",
+          "perceptions to become"
+     ],
+     [
+          "AN10.59",
+          "perception of cessation (nirodhasañña)",
+          "consolidate mind in"
+     ],
+     [
+          "AN10.59",
+          "perception of danger/drawback (ādīnavasañña)",
+          "consolidate mind in"
+     ],
+     [
+          "AN10.59",
+          "perception of fading away (virāgasañña)",
+          "consolidate mind in"
+     ],
+     [
+          "AN10.59",
+          "perception of giving up (pahānasañña)",
+          "consolidate mind in"
+     ],
+     [
+          "AN10.59",
+          "perception of impermanence (aniccasañña)",
+          "consolidate mind in"
+     ],
+     [
+          "AN10.59",
+          "perception of not self (anattasañña)",
+          "consolidate mind in"
+     ],
+     [
+          "AN10.59",
+          "perception of ugliness (asubhasañña)",
+          "consolidate mind in"
+     ],
+     [
+          "AN10.59",
+          "present life",
+          "perceptions to attain nibbāna in present life"
+     ],
+     [
+          "AN10.59",
+          "world, the",
+          "knowing origination and ending of"
+     ],
+     [
+          "AN10.60",
+          "acquisitions (upadhi)",
+          "letting go of all"
+     ],
+     [
+          "AN10.60",
+          "aggregates (khandha)",
+          "perception of impermanence"
+     ],
+     [
+          "AN10.60",
+          "Ānanda, Ven.",
+          "for Girimānanda"
+     ],
+     [
+          "AN10.60",
+          "body parts",
+          "perception of ugliness"
+     ],
+     [
+          "AN10.60",
+          "cruel thoughts (vihiṁsāvitakka)",
+          "perception of giving up"
+     ],
+     [
+          "AN10.60",
+          "Girimānanda, Ven.",
+          "advice when sick"
+     ],
+     [
+          "AN10.60",
+          "grasping (upādāna)",
+          "perception of dissatisfaction with the whole world"
+     ],
+     [
+          "AN10.60",
+          "malicious thoughts (byāpādavitakka)",
+          "perception of giving up"
+     ],
+     [
+          "AN10.60",
+          "mindfulness of breathing (ānāpānassati)",
+          "definition"
+     ],
+     [
+          "AN10.60",
+          "nibbāna",
+          "perception of cessation"
+     ],
+     [
+          "AN10.60",
+          "nibbāna",
+          "perception of fading away"
+     ],
+     [
+          "AN10.60",
+          "perception of cessation (nirodhasañña)",
+          "definition"
+     ],
+     [
+          "AN10.60",
+          "perception of danger/drawback (ādīnavasañña)",
+          "definition"
+     ],
+     [
+          "AN10.60",
+          "perception of dissatisfaction with the whole world (sabbaloke anabhiratasañña)",
+          "definition"
+     ],
+     [
+          "AN10.60",
+          "perception of fading away (virāgasañña)",
+          "definition"
+     ],
+     [
+          "AN10.60",
+          "perception of giving up (pahānasañña)",
+          "definition"
+     ],
+     [
+          "AN10.60",
+          "perception of impermanence (aniccasañña)",
+          "definition"
+     ],
+     [
+          "AN10.60",
+          "perception of not self (anattasañña)",
+          "definition"
+     ],
+     [
+          "AN10.60",
+          "perception of the impermanence of all conditions (sabbasaṅkhāresu anicchāsaññā)",
+          "definition"
+     ],
+     [
+          "AN10.60",
+          "perception of ugliness (asubhasañña)",
+          "definition"
+     ],
+     [
+          "AN10.60",
+          "sense bases (āyatanā)",
+          "perception of not self"
+     ],
+     [
+          "AN10.60",
+          "sensual thoughts (kāmavitakka)",
+          "perception of giving up"
+     ],
+     [
+          "AN10.60",
+          "sickness",
+          "perception of danger/drawback"
+     ],
+     [
+          "AN10.60",
+          "sickness",
+          "perceptions to practice when sick"
+     ],
+     [
+          "AN10.60",
+          "stilling of all formations (sabbasaṅkhārasamatha)",
+          "perception of fading away"
+     ],
+     [
+          "AN10.60",
+          "underlying tendencies (anusaya)",
+          "perception of dissatisfaction with the whole world"
+     ],
+     [
+          "AN10.61",
+          "hindrances (nīvarana)",
+          "cause and fuel of ignorance"
+     ],
+     [
+          "AN10.61",
+          "hindrances (nīvarana)",
+          "caused by three kinds of misconduct"
+     ],
+     [
+          "AN10.61",
+          "ignorance (avijjā)",
+          "cause"
+     ],
+     [
+          "AN10.61",
+          "ignorance (avijjā)",
+          "fuel for"
+     ],
+     [
+          "AN10.61",
+          "misconduct",
+          "cause of five hindrances"
+     ],
+     [
+          "AN10.61",
+          "misconduct",
+          "caused by lack of sense restraint"
+     ],
+     [
+          "AN10.61",
+          "sense restraint (indriyasaṁvara)",
+          "lack of caused by a lack of mindfulness and clear comprehension"
+     ],
+     [
+          "AN10.61",
+          "sense restraint (indriyasaṁvara)",
+          "lack of is cause for misconduct"
      ],
      [
           "AN10.69",
@@ -26701,17 +27661,17 @@ export const indexArray =[
      ],
      [
           "Iti19",
-          "harmony in Saṅgha",
+          "harmony in Saṅgha (saṅghasāmaggī)",
           "as cause of confidence"
      ],
      [
           "Iti19",
-          "harmony in Saṅgha",
+          "harmony in Saṅgha (saṅghasāmaggī)",
           "as great happiness"
      ],
      [
           "Iti19",
-          "harmony in Saṅgha",
+          "harmony in Saṅgha (saṅghasāmaggī)",
           "leading to heaven"
      ],
      [
@@ -27581,6 +28541,11 @@ export const indexArray =[
      ],
      [
           "Kp5",
+          "Dhamma discussion",
+          "time for"
+     ],
+     [
+          "Kp5",
           "actions (kamma)",
           "blameless"
      ],
@@ -27588,11 +28553,6 @@ export const indexArray =[
           "Kp5",
           "admonishment",
           "being easy to (sovacassatā)"
-     ],
-     [
-          "Kp5",
-          "Dhamma discussion",
-          "time for"
      ],
      [
           "Kp5",
@@ -30176,6 +31136,16 @@ export const indexArray =[
      ],
      [
           "MN113",
+          "ascetic practices (dhutaṅga)",
+          "not a reason to become arrogant"
+     ],
+     [
+          "MN113",
+          "conceiving (maññita)",
+          "not conceiving"
+     ],
+     [
+          "MN113",
           "Dhamma teachers",
           "not a reason to become arrogant"
      ],
@@ -30186,18 +31156,8 @@ export const indexArray =[
      ],
      [
           "MN113",
-          "ascetic practices (dhutaṅga)",
-          "not a reason to become arrogant"
-     ],
-     [
-          "MN113",
           "bad people (asappurisa)",
           "qualities of"
-     ],
-     [
-          "MN113",
-          "conceiving (maññita)",
-          "not conceiving"
      ],
      [
           "MN113",
@@ -30576,11 +31536,6 @@ export const indexArray =[
      ],
      [
           "MN115",
-          "bad actions",
-          "impossible for good results to come from"
-     ],
-     [
-          "MN115",
           "Brahmā",
           "impossible for woman to be "
      ],
@@ -30678,6 +31633,11 @@ export const indexArray =[
           "MN115",
           "Sakka, Lord of Gods",
           "impossible for woman to be "
+     ],
+     [
+          "MN115",
+          "bad actions",
+          "impossible for good results to come from"
      ],
      [
           "MN115",
@@ -31001,21 +31961,6 @@ export const indexArray =[
      ],
      [
           "MN118",
-          "faculties (indriya)",
-          "monks committed to developing"
-     ],
-     [
-          "MN118",
-          "fading away (virāga)",
-          "mindfulness of breathing"
-     ],
-     [
-          "MN118",
-          "foundations of mindfulness (satipaṭṭhāna)",
-          "fulfilled by mindfulness of breathing"
-     ],
-     [
-          "MN118",
           "foundations of mindfulness (satipaṭṭhāna)",
           "monks committed to developing"
      ],
@@ -31033,6 +31978,21 @@ export const indexArray =[
           "MN118",
           "equanimity (upekkhā)",
           "mindfulness of breathing"
+     ],
+     [
+          "MN118",
+          "faculties (indriya)",
+          "monks committed to developing"
+     ],
+     [
+          "MN118",
+          "fading away (virāga)",
+          "mindfulness of breathing"
+     ],
+     [
+          "MN118",
+          "foundations of mindfulness (satipaṭṭhāna)",
+          "fulfilled by mindfulness of breathing"
      ],
      [
           "MN118",
@@ -31876,6 +32836,11 @@ export const indexArray =[
      ],
      [
           "MN124",
+          "Kassapa, naked ascetic",
+          "friend of Ven. Bakkula"
+     ],
+     [
+          "MN124",
           "going forth (pabbajja)",
           "Ven. Bakkula never giving"
      ],
@@ -31888,11 +32853,6 @@ export const indexArray =[
           "MN124",
           "incredible and amazing (acchariyā abbhutā)",
           "qualities of Ven. Bakkula"
-     ],
-     [
-          "MN124",
-          "Kassapa, naked ascetic",
-          "friend of Ven. Bakkula"
      ],
      [
           "MN124",
@@ -32171,23 +33131,18 @@ export const indexArray =[
      ],
      [
           "MN128",
+          "Bhagu, Ven.",
+          "living alone"
+     ],
+     [
+          "MN128",
           "Bodhisatta",
           "meditation experience"
      ],
      [
           "MN128",
-          "alms gathering practice",
-          "logistics"
-     ],
-     [
-          "MN128",
-          "attention (manasikāra)",
-          "loss of ending concentration"
-     ],
-     [
-          "MN128",
-          "Bhagu, Ven.",
-          "living alone"
+          "heedfulness (appamāda)",
+          "example of"
      ],
      [
           "MN128",
@@ -32203,6 +33158,16 @@ export const indexArray =[
           "MN128",
           "Nandiya, Ven.",
           "living with Ven. Anuruddha and Kimbila"
+     ],
+     [
+          "MN128",
+          "alms gathering practice",
+          "logistics"
+     ],
+     [
+          "MN128",
+          "attention (manasikāra)",
+          "loss of ending concentration"
      ],
      [
           "MN128",
@@ -32272,11 +33237,6 @@ export const indexArray =[
      [
           "MN128",
           "harmony (samagga)",
-          "example of"
-     ],
-     [
-          "MN128",
-          "heedfulness (appamāda)",
           "example of"
      ],
      [
@@ -32586,23 +33546,43 @@ export const indexArray =[
      ],
      [
           "MN130",
+          "death (maraṇa)",
+          "as divine messenger"
+     ],
+     [
+          "MN130",
+          "divine messengers (devadūta)",
+          "description of"
+     ],
+     [
+          "MN130",
+          "heedlessness (pamāda)",
+          "when seeing divine messengers"
+     ],
+     [
+          "MN130",
+          "knowledge of passing away and rebirth of beings (cutūpapātañāna)",
+          "in hell"
+     ],
+     [
+          "MN130",
+          "knowledge of passing away and rebirth of beings (cutūpapātañāna)",
+          "power of the Buddha"
+     ],
+     [
+          "MN130",
+          "Yama, King",
+          "questioning beings reborn in hell"
+     ],
+     [
+          "MN130",
           "dead body",
           "as divine messenger"
      ],
      [
           "MN130",
           "death (maraṇa)",
-          "as divine messenger"
-     ],
-     [
-          "MN130",
-          "death (maraṇa)",
           "being liable to"
-     ],
-     [
-          "MN130",
-          "divine messengers (devadūta)",
-          "description of"
      ],
      [
           "MN130",
@@ -32613,11 +33593,6 @@ export const indexArray =[
           "MN130",
           "Great Hell (mahāniraya)",
           "description of"
-     ],
-     [
-          "MN130",
-          "heedlessness (pamāda)",
-          "when seeing divine messengers"
      ],
      [
           "MN130",
@@ -32637,27 +33612,12 @@ export const indexArray =[
      [
           "MN130",
           "hell (niraya)",
-          "trying to eat and drink in"
-     ],
-     [
-          "MN130",
-          "knowledge of passing away and rebirth of beings (cutūpapātañāna)",
-          "in hell"
-     ],
-     [
-          "MN130",
-          "Yama, King",
-          "questioning beings reborn in hell"
-     ],
-     [
-          "MN130",
-          "hell (niraya)",
           "torture in "
      ],
      [
           "MN130",
-          "knowledge of passing away and rebirth of beings (cutūpapātañāna)",
-          "power of the Buddha"
+          "hell (niraya)",
+          "trying to eat and drink in"
      ],
      [
           "MN130",
@@ -32776,16 +33736,6 @@ export const indexArray =[
      ],
      [
           "MN133",
-          "delight (nandi)",
-          "in sense bases"
-     ],
-     [
-          "MN133",
-          "heartwood",
-          "simile of asking question from monk when should have asked the Buddha"
-     ],
-     [
-          "MN133",
           "Mahākaccāna, Ven.",
           "explaining brief statement"
      ],
@@ -32793,6 +33743,16 @@ export const indexArray =[
           "MN133",
           "Samidhi, Ven.",
           "on One Fine Night"
+     ],
+     [
+          "MN133",
+          "delight (nandi)",
+          "in sense bases"
+     ],
+     [
+          "MN133",
+          "heartwood",
+          "simile of asking question from monk when should have asked the Buddha"
      ],
      [
           "MN133",
@@ -32843,6 +33803,11 @@ export const indexArray =[
           "MN135",
           "actions (kamma)",
           "heir to one’s"
+     ],
+     [
+          "MN135",
+          "actions (kamma)",
+          "ownership of"
      ],
      [
           "MN135",
@@ -33002,7 +33967,7 @@ export const indexArray =[
      [
           "MN135",
           "health",
-          "cause of"
+          "cause"
      ],
      [
           "MN135",
@@ -33122,7 +34087,7 @@ export const indexArray =[
      [
           "MN135",
           "sickness",
-          "cause of"
+          "cause"
      ],
      [
           "MN135",
@@ -33142,7 +34107,7 @@ export const indexArray =[
      [
           "MN135",
           "stupidity ",
-          "cause of"
+          "cause"
      ],
      [
           "MN135",
@@ -33162,32 +34127,7 @@ export const indexArray =[
      [
           "MN135",
           "wisdom (paññā)",
-          "cause of"
-     ],
-     [
-          "MN136",
-          "actions (kamma)",
-          "effective and ineffective, seeming to be"
-     ],
-     [
-          "MN136",
-          "bodily action (kāyakamma)",
-          "no result (wrong view)"
-     ],
-     [
-          "MN136",
-          "feelings (vedanā)",
-          "caused by actions"
-     ],
-     [
-          "MN136",
-          "Potaliputta, wanderer",
-          "asking about actions"
-     ],
-     [
-          "MN136",
-          "Samiddh, Ven.",
-          "responding to Potaliputta"
+          "cause"
      ],
      [
           "MN136",
@@ -33213,6 +34153,31 @@ export const indexArray =[
           "MN136",
           "bad people (asappurisa)",
           "experiencing good results"
+     ],
+     [
+          "MN136",
+          "bodily action (kāyakamma)",
+          "no result (wrong view)"
+     ],
+     [
+          "MN136",
+          "feelings (vedanā)",
+          "caused by actions"
+     ],
+     [
+          "MN136",
+          "Potaliputta, wanderer",
+          "asking about actions"
+     ],
+     [
+          "MN136",
+          "Samiddh, Ven.",
+          "responding to Potaliputta"
+     ],
+     [
+          "MN136",
+          "actions (kamma)",
+          "effective and ineffective, seeming to be"
      ],
      [
           "MN136",
@@ -34531,6 +35496,11 @@ export const indexArray =[
      ],
      [
           "MN143",
+          "aggregates (khandha)",
+          "not grasping"
+     ],
+     [
+          "MN143",
           "Anāthapiṇḍika, householder",
           "reborn in Tusita heaven"
      ],
@@ -34541,16 +35511,6 @@ export const indexArray =[
      ],
      [
           "MN143",
-          "Dhamma teaching",
-          "to householders"
-     ],
-     [
-          "MN143",
-          "aggregates (khandha)",
-          "not grasping"
-     ],
-     [
-          "MN143",
           "Anāthapiṇḍika, householder",
           "sick"
      ],
@@ -34558,6 +35518,11 @@ export const indexArray =[
           "MN143",
           "consciousness (viññāṇa)",
           "sense bases"
+     ],
+     [
+          "MN143",
+          "Dhamma teaching",
+          "to householders"
      ],
      [
           "MN143",
@@ -34956,6 +35921,11 @@ export const indexArray =[
      ],
      [
           "MN148",
+          "craving (taṇha)",
+          "not self"
+     ],
+     [
+          "MN148",
           "Dhamma",
           "good in beginning, middle, end"
      ],
@@ -34973,11 +35943,6 @@ export const indexArray =[
           "MN148",
           "contact (phassa)",
           "six classes of"
-     ],
-     [
-          "MN148",
-          "craving (taṇha)",
-          "not self"
      ],
      [
           "MN148",
@@ -37566,16 +38531,6 @@ export const indexArray =[
      ],
      [
           "Snp3.11",
-          "Nālaka, nephew of Asita",
-          ""
-     ],
-     [
-          "Snp3.11",
-          "Suddhodana, king",
-          ""
-     ],
-     [
-          "Snp3.11",
           "knowing does not speak much",
           ""
      ],
@@ -37588,6 +38543,16 @@ export const indexArray =[
           "Snp3.11",
           "monastic life",
           "like licking razor’s edge"
+     ],
+     [
+          "Snp3.11",
+          "Nālaka, nephew of Asita",
+          ""
+     ],
+     [
+          "Snp3.11",
+          "Suddhodana, king",
+          ""
      ],
      [
           "Snp3.11",
@@ -37777,7 +38742,7 @@ export const indexArray =[
      [
           "Snp4.11",
           "disputes",
-          "cause of"
+          "cause"
      ],
      [
           "Snp4.12",
@@ -37867,7 +38832,7 @@ export const indexArray =[
      [
           "Snp5.5",
           "suffering (dukkha)",
-          "cause of"
+          "cause"
      ],
      [
           "Snp5.6",
