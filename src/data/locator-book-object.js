@@ -33633,6 +33633,76 @@ export const locatorBookObject ={
     ],
     [
       "AN10.61",
+      "association (saṁseva)",
+      "with bad people as the original cause of ignorance"
+    ],
+    [
+      "AN10.61",
+      "association (saṁseva)",
+      "with bad people causes listening to untrue teachings"
+    ],
+    [
+      "AN10.61",
+      "association (saṁseva)",
+      "with good people as the original cause for knowledge and freedom"
+    ],
+    [
+      "AN10.61",
+      "association (saṁseva)",
+      "with good people causes listening to true teachings"
+    ],
+    [
+      "AN10.61",
+      "awakening factors, seven (bojjhaṅga)",
+      "cause of knowledge and freedom"
+    ],
+    [
+      "AN10.61",
+      "awakening factors, seven (bojjhaṅga)",
+      "caused by four kinds of mindfulness meditation"
+    ],
+    [
+      "AN10.61",
+      "faith (saddhā)",
+      "cause of proper attention"
+    ],
+    [
+      "AN10.61",
+      "faith (saddhā)",
+      "caused by listening to the true teachings"
+    ],
+    [
+      "AN10.61",
+      "faith (saddhā)",
+      "lack of caused by listening to untrue teaching"
+    ],
+    [
+      "AN10.61",
+      "faith (saddhā)",
+      "lack of causes improper attention"
+    ],
+    [
+      "AN10.61",
+      "foundations of mindfulness (satipaṭṭhāna)",
+      "cause seven awakening factor"
+    ],
+    [
+      "AN10.61",
+      "foundations of mindfulness (satipaṭṭhāna)",
+      "caused by the three kinds of good conduct"
+    ],
+    [
+      "AN10.61",
+      "good actions",
+      "cause of the four kinds of mindfulness meditation"
+    ],
+    [
+      "AN10.61",
+      "good actions",
+      "caused by sense restraint"
+    ],
+    [
+      "AN10.61",
       "hindrances (nīvarana)",
       "cause and fuel of ignorance"
     ],
@@ -33653,6 +33723,51 @@ export const locatorBookObject ={
     ],
     [
       "AN10.61",
+      "ignorance (avijjā)",
+      "no first point evident"
+    ],
+    [
+      "AN10.61",
+      "improper attention (ayoniso manasikara)",
+      "caused by lack of faith"
+    ],
+    [
+      "AN10.61",
+      "improper attention (ayoniso manasikara)",
+      "causes lack of mindfulness and clear comprehension"
+    ],
+    [
+      "AN10.61",
+      "knowledge and freedom (vijjāvimutti)",
+      "caused by seven awakening factors"
+    ],
+    [
+      "AN10.61",
+      "listening to Dhamma",
+      "caused by association with good people"
+    ],
+    [
+      "AN10.61",
+      "listening to Dhamma",
+      "listening to true teachings leads to faith"
+    ],
+    [
+      "AN10.61",
+      "mindfulness and clear comprehension (satisampajañña)",
+      "cause of sense restraint"
+    ],
+    [
+      "AN10.61",
+      "mindfulness and clear comprehension (satisampajañña)",
+      "caused by proper attention"
+    ],
+    [
+      "AN10.61",
+      "mindfulness and clear comprehension (satisampajañña)",
+      "lack of caused by improper attention"
+    ],
+    [
+      "AN10.61",
       "misconduct",
       "cause of five hindrances"
     ],
@@ -33663,6 +33778,46 @@ export const locatorBookObject ={
     ],
     [
       "AN10.61",
+      "ocean",
+      "rain as the cause for as simile for cause of ignorance"
+    ],
+    [
+      "AN10.61",
+      "ocean",
+      "rain as the cause for as simile for cause of knowledge and freedom"
+    ],
+    [
+      "AN10.61",
+      "proper attention (yoniso manasikāra)",
+      "caused by faith"
+    ],
+    [
+      "AN10.61",
+      "proper attention (yoniso manasikāra)",
+      "causes mindfulness and clear comprehension"
+    ],
+    [
+      "AN10.61",
+      "rain",
+      "on mountain top as simile for cause of ignorance"
+    ],
+    [
+      "AN10.61",
+      "rain",
+      "on mountain top as simile for cause of knowledge and freedom"
+    ],
+    [
+      "AN10.61",
+      "sense restraint (indriyasaṁvara)",
+      "cause of the three kinds of good action"
+    ],
+    [
+      "AN10.61",
+      "sense restraint (indriyasaṁvara)",
+      "caused by mindfulness and clear comprehension"
+    ],
+    [
+      "AN10.61",
       "sense restraint (indriyasaṁvara)",
       "lack of caused by a lack of mindfulness and clear comprehension"
     ],
@@ -33670,6 +33825,31 @@ export const locatorBookObject ={
       "AN10.61",
       "sense restraint (indriyasaṁvara)",
       "lack of is cause for misconduct"
+    ],
+    [
+      "AN10.61",
+      "untrue teachings (asaddhamma)",
+      "caused by association with bad people"
+    ],
+    [
+      "AN10.61",
+      "untrue teachings (asaddhamma)",
+      "causes lack of faith"
+    ],
+    [
+      "AN10.61",
+      "unwholesome chain of causality",
+      "from association with bad people to ignorance"
+    ],
+    [
+      "AN10.61",
+      "wholesome chain of causality",
+      "from association with good people to knowledge and freedom"
+    ],
+    [
+      "AN10.62",
+      "craving (taṇha)",
+      "no first point evident"
     ],
     [
       "AN10.69",
