@@ -520,6 +520,11 @@ export const indexArray =[
           "rightly keeps rolling wheel of Dhamma"
      ],
      [
+          "AN1.188-267",
+          "foremost",
+          "disciples of Buddha"
+     ],
+     [
           "AN1.188",
           "Koṇḍañña, Añña Who Understood",
           "foremost in seniority"
@@ -528,11 +533,6 @@ export const indexArray =[
           "AN1.188",
           "seniority",
           "foremost"
-     ],
-     [
-          "AN1.188-267",
-          "foremost",
-          "disciples of Buddha"
      ],
      [
           "AN1.189",
@@ -24361,11 +24361,6 @@ export const indexArray =[
      ],
      [
           "AN10.29",
-          "becoming (bhava)",
-          "disgust with"
-     ],
-     [
-          "AN10.29",
           "cloth",
           "from Bāraṇasī, simile for visions in meditation"
      ],
@@ -24378,6 +24373,11 @@ export const indexArray =[
           "AN10.29",
           "Pasenadi Kosala, King",
           "impermanence of"
+     ],
+     [
+          "AN10.29",
+          "becoming (bhava)",
+          "disgust with"
      ],
      [
           "AN10.29",
@@ -25642,7 +25642,7 @@ export const indexArray =[
      [
           "AN10.61",
           "hindrances (nīvarana)",
-          "cause and fuel of ignorance"
+          "cause of ignorance"
      ],
      [
           "AN10.61",
@@ -25786,8 +25786,408 @@ export const indexArray =[
      ],
      [
           "AN10.62",
+          "association (saṁseva)",
+          "with bad people as the original cause of ignorance"
+     ],
+     [
+          "AN10.62",
+          "association (saṁseva)",
+          "with bad people causes listening to untrue teachings"
+     ],
+     [
+          "AN10.62",
+          "association (saṁseva)",
+          "with good people as the original cause for knowledge and freedom"
+     ],
+     [
+          "AN10.62",
+          "association (saṁseva)",
+          "with good people causes listening to true teachings"
+     ],
+     [
+          "AN10.62",
+          "awakening factors, seven (bojjhaṅga)",
+          "cause of knowledge and freedom"
+     ],
+     [
+          "AN10.62",
+          "awakening factors, seven (bojjhaṅga)",
+          "caused by four kinds of mindfulness meditation"
+     ],
+     [
+          "AN10.62",
+          "craving (taṇha)",
+          "caused by ignorance"
+     ],
+     [
+          "AN10.62",
           "craving (taṇha)",
           "no first point evident"
+     ],
+     [
+          "AN10.62",
+          "faith (saddhā)",
+          "cause of proper attention"
+     ],
+     [
+          "AN10.62",
+          "faith (saddhā)",
+          "caused by listening to the true teachings"
+     ],
+     [
+          "AN10.62",
+          "faith (saddhā)",
+          "lack of caused by listening to untrue teaching"
+     ],
+     [
+          "AN10.62",
+          "faith (saddhā)",
+          "lack of causes improper attention"
+     ],
+     [
+          "AN10.62",
+          "foundations of mindfulness (satipaṭṭhāna)",
+          "cause seven awakening factor"
+     ],
+     [
+          "AN10.62",
+          "foundations of mindfulness (satipaṭṭhāna)",
+          "caused by the three kinds of good conduct"
+     ],
+     [
+          "AN10.62",
+          "good actions",
+          "cause of the four kinds of mindfulness meditation"
+     ],
+     [
+          "AN10.62",
+          "good actions",
+          "caused by sense restraint"
+     ],
+     [
+          "AN10.62",
+          "hindrances (nīvarana)",
+          "cause of ignorance"
+     ],
+     [
+          "AN10.62",
+          "hindrances (nīvarana)",
+          "caused by three kinds of misconduct"
+     ],
+     [
+          "AN10.62",
+          "ignorance (avijjā)",
+          "cause of craving"
+     ],
+     [
+          "AN10.62",
+          "ignorance (avijjā)",
+          "caused by five hindrances"
+     ],
+     [
+          "AN10.62",
+          "improper attention (ayoniso manasikara)",
+          "caused by lack of faith"
+     ],
+     [
+          "AN10.62",
+          "improper attention (ayoniso manasikara)",
+          "causes lack of mindfulness and clear comprehension"
+     ],
+     [
+          "AN10.62",
+          "knowledge and freedom (vijjāvimutti)",
+          "caused by seven awakening factors"
+     ],
+     [
+          "AN10.62",
+          "listening to Dhamma",
+          "caused by association with good people"
+     ],
+     [
+          "AN10.62",
+          "listening to Dhamma",
+          "listening to true teachings leads to faith"
+     ],
+     [
+          "AN10.62",
+          "mindfulness and clear comprehension (satisampajañña)",
+          "cause of sense restraint"
+     ],
+     [
+          "AN10.62",
+          "mindfulness and clear comprehension (satisampajañña)",
+          "caused by proper attention"
+     ],
+     [
+          "AN10.62",
+          "mindfulness and clear comprehension (satisampajañña)",
+          "lack of caused by improper attention"
+     ],
+     [
+          "AN10.62",
+          "misconduct",
+          "cause of five hindrances"
+     ],
+     [
+          "AN10.62",
+          "misconduct",
+          "caused by lack of sense restraint"
+     ],
+     [
+          "AN10.62",
+          "ocean",
+          "rain as the cause for as simile for cause of ignorance"
+     ],
+     [
+          "AN10.62",
+          "ocean",
+          "rain as the cause for as simile for cause of knowledge and freedom"
+     ],
+     [
+          "AN10.62",
+          "proper attention (yoniso manasikāra)",
+          "caused by faith"
+     ],
+     [
+          "AN10.62",
+          "proper attention (yoniso manasikāra)",
+          "causes mindfulness and clear comprehension"
+     ],
+     [
+          "AN10.62",
+          "rain",
+          "on mountain top as simile for cause of ignorance"
+     ],
+     [
+          "AN10.62",
+          "rain",
+          "on mountain top as simile for cause of knowledge and freedom"
+     ],
+     [
+          "AN10.62",
+          "sense restraint (indriyasaṁvara)",
+          "cause of the three kinds of good action"
+     ],
+     [
+          "AN10.62",
+          "sense restraint (indriyasaṁvara)",
+          "caused by mindfulness and clear comprehension"
+     ],
+     [
+          "AN10.62",
+          "sense restraint (indriyasaṁvara)",
+          "lack of caused by a lack of mindfulness and clear comprehension"
+     ],
+     [
+          "AN10.62",
+          "sense restraint (indriyasaṁvara)",
+          "lack of is cause for misconduct"
+     ],
+     [
+          "AN10.62",
+          "untrue teachings (asaddhamma)",
+          "caused by association with bad people"
+     ],
+     [
+          "AN10.62",
+          "untrue teachings (asaddhamma)",
+          "causes lack of faith"
+     ],
+     [
+          "AN10.62",
+          "unwholesome chain of causality",
+          "from association with bad people to craving"
+     ],
+     [
+          "AN10.62",
+          "wholesome chain of causality",
+          "from association with good people to knowledge and freedom"
+     ],
+     [
+          "AN10.63",
+          "accomplishment in view (diṭṭhisampadā)",
+          "having reached certainty about the Buddha"
+     ],
+     [
+          "AN10.63",
+          "arahants",
+          "attaining enlightenment in this life"
+     ],
+     [
+          "AN10.63",
+          "extinguished in-between (antarāparinibbāyī)",
+          "attaining enlightenment after this life"
+     ],
+     [
+          "AN10.63",
+          "extinguished upon landing (upahaccaparinibbāyī)",
+          "attaining enlightenment after this life"
+     ],
+     [
+          "AN10.63",
+          "extinguished with extra effort (sasaṅkhāraparinibbāyī)",
+          "attaining enlightenment after this life"
+     ],
+     [
+          "AN10.63",
+          "extinguished without extra effort (asaṅkhāraparinibbāyī)",
+          "attaining enlightenment after this life"
+     ],
+     [
+          "AN10.63",
+          "family to family (kolaṅkola)",
+          "attaining enlightenment in this life"
+     ],
+     [
+          "AN10.63",
+          "heading upstream to the Akaniṭṭha realm (uddhaṁsotassa akaniṭṭhagāmino)",
+          "attaining enlightenment after this life"
+     ],
+     [
+          "AN10.63",
+          "once returner (sakadāgāmī)",
+          "attaining enlightenment in this life"
+     ],
+     [
+          "AN10.63",
+          "one-seeder (ekabīji)",
+          "attaining enlightenment in this life"
+     ],
+     [
+          "AN10.63",
+          "stream-enterers (sotāpanna)",
+          "attaining enlightenment in this life"
+     ],
+     [
+          "AN10.64",
+          "accomplishment in view (diṭṭhisampadā)",
+          "having reached certainty about the Buddha"
+     ],
+     [
+          "AN10.64",
+          "arahants",
+          "attaining enlightenment in this life"
+     ],
+     [
+          "AN10.64",
+          "confidence (aveccappasāda)",
+          "having entered the stream"
+     ],
+     [
+          "AN10.64",
+          "extinguished in-between (antarāparinibbāyī)",
+          "attaining enlightenment after this life"
+     ],
+     [
+          "AN10.64",
+          "extinguished upon landing (upahaccaparinibbāyī)",
+          "attaining enlightenment after this life"
+     ],
+     [
+          "AN10.64",
+          "extinguished with extra effort (sasaṅkhāraparinibbāyī)",
+          "attaining enlightenment after this life"
+     ],
+     [
+          "AN10.64",
+          "extinguished without extra effort (asaṅkhāraparinibbāyī)",
+          "attaining enlightenment after this life"
+     ],
+     [
+          "AN10.64",
+          "family to family (kolaṅkola)",
+          "attaining enlightenment in this life"
+     ],
+     [
+          "AN10.64",
+          "heading upstream to the Akaniṭṭha realm (uddhaṁsotassa akaniṭṭhagāmino)",
+          "attaining enlightenment after this life"
+     ],
+     [
+          "AN10.64",
+          "once returner (sakadāgāmī)",
+          "attaining enlightenment in this life"
+     ],
+     [
+          "AN10.64",
+          "one-seeder (ekabīji)",
+          "attaining enlightenment in this life"
+     ],
+     [
+          "AN10.64",
+          "stream-enterers (sotāpanna)",
+          "attaining enlightenment in this life"
+     ],
+     [
+          "AN10.65",
+          "happiness (sukha)",
+          "definition"
+     ],
+     [
+          "AN10.65",
+          "happiness (sukha)",
+          "no rebirth"
+     ],
+     [
+          "AN10.65",
+          "Sāmaṇḍakāni, wanderer",
+          "what is happiness and what is suffering"
+     ],
+     [
+          "AN10.65",
+          "Sāriputta, Ven.",
+          "what is happiness and what is suffering"
+     ],
+     [
+          "AN10.65",
+          "suffering (dukkha)",
+          "definition"
+     ],
+     [
+          "AN10.65",
+          "suffering (dukkha)",
+          "rebirth"
+     ],
+     [
+          "AN10.66",
+          "happiness (sukha)",
+          "definition"
+     ],
+     [
+          "AN10.66",
+          "happiness (sukha)",
+          "satisfaction"
+     ],
+     [
+          "AN10.66",
+          "Sāmaṇḍakāni, wanderer",
+          "what is happiness and what is suffering"
+     ],
+     [
+          "AN10.66",
+          "Sāriputta, Ven.",
+          "what is happiness and what is suffering"
+     ],
+     [
+          "AN10.66",
+          "suffering (dukkha)",
+          "definition"
+     ],
+     [
+          "AN10.66",
+          "suffering (dukkha)",
+          "dissatisfaction"
+     ],
+     [
+          "AN10.67",
+          "Sāriputta, Ven.",
+          "told by the Buddha to give a talk"
+     ],
+     [
+          "AN10.67",
+          "uposatha",
+          "teaching given by Ven. Sāriputta on"
      ],
      [
           "AN10.69",
@@ -28558,6 +28958,16 @@ export const indexArray =[
           "Iti106",
           "teachers",
           "parents as first"
+     ],
+     [
+          "Iti107",
+          "Dhamma teaching",
+          "to laypeople who offer requisites"
+     ],
+     [
+          "Iti107",
+          "giving (dāna)",
+          "four requisites"
      ],
      [
           "Iti107",
@@ -33066,11 +33476,6 @@ export const indexArray =[
      ],
      [
           "MN125",
-          "Jayasena, prince",
-          "asking about training"
-     ],
-     [
-          "MN125",
           "elephants",
           "simile of gradual training"
      ],
@@ -33108,6 +33513,11 @@ export const indexArray =[
           "MN125",
           "gradual training (anupubbasikkhā)",
           "in detail"
+     ],
+     [
+          "MN125",
+          "Jayasena, prince",
+          "asking about training"
      ],
      [
           "MN125",
@@ -33726,43 +34136,23 @@ export const indexArray =[
      ],
      [
           "MN130",
-          "death (maraṇa)",
-          "as divine messenger"
-     ],
-     [
-          "MN130",
-          "divine messengers (devadūta)",
-          "description of"
-     ],
-     [
-          "MN130",
-          "heedlessness (pamāda)",
-          "when seeing divine messengers"
-     ],
-     [
-          "MN130",
-          "knowledge of passing away and rebirth of beings (cutūpapātañāna)",
-          "in hell"
-     ],
-     [
-          "MN130",
-          "knowledge of passing away and rebirth of beings (cutūpapātañāna)",
-          "power of the Buddha"
-     ],
-     [
-          "MN130",
-          "Yama, King",
-          "questioning beings reborn in hell"
-     ],
-     [
-          "MN130",
           "dead body",
           "as divine messenger"
      ],
      [
           "MN130",
           "death (maraṇa)",
+          "as divine messenger"
+     ],
+     [
+          "MN130",
+          "death (maraṇa)",
           "being liable to"
+     ],
+     [
+          "MN130",
+          "divine messengers (devadūta)",
+          "description of"
      ],
      [
           "MN130",
@@ -33773,6 +34163,11 @@ export const indexArray =[
           "MN130",
           "Great Hell (mahāniraya)",
           "description of"
+     ],
+     [
+          "MN130",
+          "heedlessness (pamāda)",
+          "when seeing divine messengers"
      ],
      [
           "MN130",
@@ -33798,6 +34193,21 @@ export const indexArray =[
           "MN130",
           "hell (niraya)",
           "trying to eat and drink in"
+     ],
+     [
+          "MN130",
+          "knowledge of passing away and rebirth of beings (cutūpapātañāna)",
+          "in hell"
+     ],
+     [
+          "MN130",
+          "knowledge of passing away and rebirth of beings (cutūpapātañāna)",
+          "power of the Buddha"
+     ],
+     [
+          "MN130",
+          "Yama, King",
+          "questioning beings reborn in hell"
      ],
      [
           "MN130",
@@ -40026,6 +40436,11 @@ export const indexArray =[
      ],
      [
           "Thag10.1",
+          "Suddhodana, king",
+          ""
+     ],
+     [
+          "Thag10.1",
           "family",
           "benefited by arahant relative"
      ],
@@ -40037,11 +40452,6 @@ export const indexArray =[
      [
           "Thag10.1",
           "Māyā, queen Mahā",
-          ""
-     ],
-     [
-          "Thag10.1",
-          "Suddhodana, king",
           ""
      ],
      [

@@ -125,6 +125,13 @@ export const indexObject ={
                          "AN6.95"
                     ],
                     "xrefs": []
+               },
+               "having reached certainty about the Buddha": {
+                    "locators": [
+                         "AN10.63",
+                         "AN10.64"
+                    ],
+                    "xrefs": []
                }
           },
           "accomplishment in virtue (sīlasampadā)": {
@@ -2207,6 +2214,13 @@ export const indexObject ={
                          "AN10.20"
                     ],
                     "xrefs": []
+               },
+               "attaining enlightenment in this life": {
+                    "locators": [
+                         "AN10.63",
+                         "AN10.64"
+                    ],
+                    "xrefs": []
                }
           },
           "arahantship": {
@@ -2783,25 +2797,29 @@ export const indexObject ={
           "association (saṁseva)": {
                "with bad people causes listening to untrue teachings": {
                     "locators": [
-                         "AN10.61"
+                         "AN10.61",
+                         "AN10.62"
                     ],
                     "xrefs": []
                },
                "with bad people as the original cause of ignorance": {
                     "locators": [
-                         "AN10.61"
+                         "AN10.61",
+                         "AN10.62"
                     ],
                     "xrefs": []
                },
                "with good people causes listening to true teachings": {
                     "locators": [
-                         "AN10.61"
+                         "AN10.61",
+                         "AN10.62"
                     ],
                     "xrefs": []
                },
                "with good people as the original cause for knowledge and freedom": {
                     "locators": [
-                         "AN10.61"
+                         "AN10.61",
+                         "AN10.62"
                     ],
                     "xrefs": []
                }
@@ -3383,13 +3401,15 @@ export const indexObject ={
                },
                "cause of knowledge and freedom": {
                     "locators": [
-                         "AN10.61"
+                         "AN10.61",
+                         "AN10.62"
                     ],
                     "xrefs": []
                },
                "caused by four kinds of mindfulness meditation": {
                     "locators": [
-                         "AN10.61"
+                         "AN10.61",
+                         "AN10.62"
                     ],
                     "xrefs": []
                }
@@ -6236,7 +6256,6 @@ export const indexObject ={
                     ],
                     "xrefs": [
                          "xref livelihood",
-                         "xref work",
                          "xref work"
                     ]
                },
@@ -7551,6 +7570,12 @@ export const indexObject ={
                          "AN9.27"
                     ],
                     "xrefs": []
+               },
+               "having entered the stream": {
+                    "locators": [
+                         "AN10.64"
+                    ],
+                    "xrefs": []
                }
           },
           "confidence (pasāda)": {
@@ -8509,6 +8534,12 @@ export const indexObject ={
                     "xrefs": []
                },
                "no first point evident": {
+                    "locators": [
+                         "AN10.62"
+                    ],
+                    "xrefs": []
+               },
+               "caused by ignorance": {
                     "locators": [
                          "AN10.62"
                     ],
@@ -10552,6 +10583,12 @@ export const indexObject ={
                          "xref gradual instruction (anupubba katha)",
                          "xref listening to Dhamma"
                     ]
+               },
+               "to laypeople who offer requisites": {
+                    "locators": [
+                         "Iti107"
+                    ],
+                    "xrefs": []
                },
                "when not ready": {
                     "locators": [
@@ -14108,6 +14145,13 @@ export const indexObject ={
                          "AN9.12"
                     ],
                     "xrefs": []
+               },
+               "attaining enlightenment after this life": {
+                    "locators": [
+                         "AN10.63",
+                         "AN10.64"
+                    ],
+                    "xrefs": []
                }
           },
           "extinguished upon landing (upahaccaparinibbāyī)": {
@@ -14126,6 +14170,13 @@ export const indexObject ={
                "someone with residue remaining": {
                     "locators": [
                          "AN9.12"
+                    ],
+                    "xrefs": []
+               },
+               "attaining enlightenment after this life": {
+                    "locators": [
+                         "AN10.63",
+                         "AN10.64"
                     ],
                     "xrefs": []
                }
@@ -14148,6 +14199,13 @@ export const indexObject ={
                          "AN9.12"
                     ],
                     "xrefs": []
+               },
+               "attaining enlightenment after this life": {
+                    "locators": [
+                         "AN10.63",
+                         "AN10.64"
+                    ],
+                    "xrefs": []
                }
           },
           "extinguished without extra effort (asaṅkhāraparinibbāyī)": {
@@ -14166,6 +14224,13 @@ export const indexObject ={
                "someone with residue remaining": {
                     "locators": [
                          "AN9.12"
+                    ],
+                    "xrefs": []
+               },
+               "attaining enlightenment after this life": {
+                    "locators": [
+                         "AN10.63",
+                         "AN10.64"
                     ],
                     "xrefs": []
                }
@@ -14538,25 +14603,29 @@ export const indexObject ={
                },
                "lack of causes improper attention": {
                     "locators": [
-                         "AN10.61"
+                         "AN10.61",
+                         "AN10.62"
                     ],
                     "xrefs": []
                },
                "lack of caused by listening to untrue teaching": {
                     "locators": [
-                         "AN10.61"
+                         "AN10.61",
+                         "AN10.62"
                     ],
                     "xrefs": []
                },
                "cause of proper attention": {
                     "locators": [
-                         "AN10.61"
+                         "AN10.61",
+                         "AN10.62"
                     ],
                     "xrefs": []
                },
                "caused by listening to the true teachings": {
                     "locators": [
-                         "AN10.61"
+                         "AN10.61",
+                         "AN10.62"
                     ],
                     "xrefs": []
                }
@@ -14841,6 +14910,13 @@ export const indexObject ={
                "someone with residue remaining": {
                     "locators": [
                          "AN9.12"
+                    ],
+                    "xrefs": []
+               },
+               "attaining enlightenment in this life": {
+                    "locators": [
+                         "AN10.63",
+                         "AN10.64"
                     ],
                     "xrefs": []
                }
@@ -16340,13 +16416,15 @@ export const indexObject ={
                },
                "cause seven awakening factor": {
                     "locators": [
-                         "AN10.61"
+                         "AN10.61",
+                         "AN10.62"
                     ],
                     "xrefs": []
                },
                "caused by the three kinds of good conduct": {
                     "locators": [
-                         "AN10.61"
+                         "AN10.61",
+                         "AN10.62"
                     ],
                     "xrefs": []
                }
@@ -17896,6 +17974,13 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
+               "four requisites": {
+                    "locators": [
+                         "AN4.60",
+                         "Iti107"
+                    ],
+                    "xrefs": []
+               },
                "to the Buddha": {
                     "locators": [
                          "Snp1.4"
@@ -18047,12 +18132,6 @@ export const indexObject ={
                          "AN4.58",
                          "AN5.37",
                          "AN5.44"
-                    ],
-                    "xrefs": []
-               },
-               "four requisites": {
-                    "locators": [
-                         "AN4.60"
                     ],
                     "xrefs": []
                },
@@ -19182,13 +19261,15 @@ export const indexObject ={
                },
                "cause of the four kinds of mindfulness meditation": {
                     "locators": [
-                         "AN10.61"
+                         "AN10.61",
+                         "AN10.62"
                     ],
                     "xrefs": []
                },
                "caused by sense restraint": {
                     "locators": [
-                         "AN10.61"
+                         "AN10.61",
+                         "AN10.62"
                     ],
                     "xrefs": []
                }
@@ -20265,6 +20346,25 @@ export const indexObject ={
                          "AN9.34"
                     ],
                     "xrefs": []
+               },
+               "definition": {
+                    "locators": [
+                         "AN10.65",
+                         "AN10.66"
+                    ],
+                    "xrefs": []
+               },
+               "no rebirth": {
+                    "locators": [
+                         "AN10.65"
+                    ],
+                    "xrefs": []
+               },
+               "satisfaction": {
+                    "locators": [
+                         "AN10.66"
+                    ],
+                    "xrefs": []
                }
           },
           "happiness in the present life (diṭṭhadhammasukhavihāra)": {
@@ -20831,6 +20931,13 @@ export const indexObject ={
                "someone with residue remaining": {
                     "locators": [
                          "AN9.12"
+                    ],
+                    "xrefs": []
+               },
+               "attaining enlightenment after this life": {
+                    "locators": [
+                         "AN10.63",
+                         "AN10.64"
                     ],
                     "xrefs": []
                }
@@ -21932,15 +22039,17 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "cause and fuel of ignorance": {
+               "cause of ignorance": {
                     "locators": [
-                         "AN10.61"
+                         "AN10.61",
+                         "AN10.62"
                     ],
                     "xrefs": []
                },
                "caused by three kinds of misconduct": {
                     "locators": [
-                         "AN10.61"
+                         "AN10.61",
+                         "AN10.62"
                     ],
                     "xrefs": []
                }
@@ -22568,6 +22677,18 @@ export const indexObject ={
                          "AN10.61"
                     ],
                     "xrefs": []
+               },
+               "cause of craving": {
+                    "locators": [
+                         "AN10.62"
+                    ],
+                    "xrefs": []
+               },
+               "caused by five hindrances": {
+                    "locators": [
+                         "AN10.62"
+                    ],
+                    "xrefs": []
                }
           },
           "ill will (vyāpada, byāpada)": {
@@ -23036,13 +23157,15 @@ export const indexObject ={
                },
                "caused by lack of faith": {
                     "locators": [
-                         "AN10.61"
+                         "AN10.61",
+                         "AN10.62"
                     ],
                     "xrefs": []
                },
                "causes lack of mindfulness and clear comprehension": {
                     "locators": [
-                         "AN10.61"
+                         "AN10.61",
+                         "AN10.62"
                     ],
                     "xrefs": []
                }
@@ -24868,7 +24991,8 @@ export const indexObject ={
                },
                "caused by seven awakening factors": {
                     "locators": [
-                         "AN10.61"
+                         "AN10.61",
+                         "AN10.62"
                     ],
                     "xrefs": []
                }
@@ -26314,13 +26438,15 @@ export const indexObject ={
                },
                "listening to true teachings leads to faith": {
                     "locators": [
-                         "AN10.61"
+                         "AN10.61",
+                         "AN10.62"
                     ],
                     "xrefs": []
                },
                "caused by association with good people": {
                     "locators": [
-                         "AN10.61"
+                         "AN10.61",
+                         "AN10.62"
                     ],
                     "xrefs": []
                }
@@ -29200,19 +29326,22 @@ export const indexObject ={
                },
                "lack of caused by improper attention": {
                     "locators": [
-                         "AN10.61"
+                         "AN10.61",
+                         "AN10.62"
                     ],
                     "xrefs": []
                },
                "cause of sense restraint": {
                     "locators": [
-                         "AN10.61"
+                         "AN10.61",
+                         "AN10.62"
                     ],
                     "xrefs": []
                },
                "caused by proper attention": {
                     "locators": [
-                         "AN10.61"
+                         "AN10.61",
+                         "AN10.62"
                     ],
                     "xrefs": []
                }
@@ -29567,13 +29696,15 @@ export const indexObject ={
                },
                "cause of five hindrances": {
                     "locators": [
-                         "AN10.61"
+                         "AN10.61",
+                         "AN10.62"
                     ],
                     "xrefs": []
                },
                "caused by lack of sense restraint": {
                     "locators": [
-                         "AN10.61"
+                         "AN10.61",
+                         "AN10.62"
                     ],
                     "xrefs": []
                }
@@ -31708,13 +31839,15 @@ export const indexObject ={
                },
                "rain as the cause for as simile for cause of ignorance": {
                     "locators": [
-                         "AN10.61"
+                         "AN10.61",
+                         "AN10.62"
                     ],
                     "xrefs": []
                },
                "rain as the cause for as simile for cause of knowledge and freedom": {
                     "locators": [
-                         "AN10.61"
+                         "AN10.61",
+                         "AN10.62"
                     ],
                     "xrefs": []
                }
@@ -32017,6 +32150,13 @@ export const indexObject ={
                          "AN9.12"
                     ],
                     "xrefs": []
+               },
+               "attaining enlightenment in this life": {
+                    "locators": [
+                         "AN10.63",
+                         "AN10.64"
+                    ],
+                    "xrefs": []
                }
           },
           "one attained to view (diṭṭhippatto)": {
@@ -32139,6 +32279,13 @@ export const indexObject ={
                "someone with residue remaining": {
                     "locators": [
                          "AN9.12"
+                    ],
+                    "xrefs": []
+               },
+               "attaining enlightenment in this life": {
+                    "locators": [
+                         "AN10.63",
+                         "AN10.64"
                     ],
                     "xrefs": []
                }
@@ -35126,13 +35273,15 @@ export const indexObject ={
                },
                "causes mindfulness and clear comprehension": {
                     "locators": [
-                         "AN10.61"
+                         "AN10.61",
+                         "AN10.62"
                     ],
                     "xrefs": []
                },
                "caused by faith": {
                     "locators": [
-                         "AN10.61"
+                         "AN10.61",
+                         "AN10.62"
                     ],
                     "xrefs": []
                }
@@ -35830,13 +35979,15 @@ export const indexObject ={
           "rain": {
                "on mountain top as simile for cause of ignorance": {
                     "locators": [
-                         "AN10.61"
+                         "AN10.61",
+                         "AN10.62"
                     ],
                     "xrefs": []
                },
                "on mountain top as simile for cause of knowledge and freedom": {
                     "locators": [
-                         "AN10.61"
+                         "AN10.61",
+                         "AN10.62"
                     ],
                     "xrefs": []
                }
@@ -36174,6 +36325,14 @@ export const indexObject ={
                          "AN1.323"
                     ],
                     "xrefs": []
+               }
+          },
+          "reciprocal relationship": {
+               "": {
+                    "locators": [],
+                    "xrefs": [
+                         "xref mutual dependence"
+                    ]
                }
           },
           "recitation": {
@@ -37941,7 +38100,10 @@ export const indexObject ={
                "": {
                     "locators": [],
                     "xrefs": [
+                         "xref business",
                          "xref livelihood",
+                         "xref wealth",
+                         "xref work",
                          "xref wrong livelihood (micchā ājīva)"
                     ]
                },
@@ -38561,6 +38723,15 @@ export const indexObject ={
                     ]
                }
           },
+          "Sāmaṇḍakāni, wanderer": {
+               "what is happiness and what is suffering": {
+                    "locators": [
+                         "AN10.65",
+                         "AN10.66"
+                    ],
+                    "xrefs": []
+               }
+          },
           "Sāmāvatī, householder": {
                "foremost who dwell in loving-kindness": {
                     "locators": [
@@ -39079,6 +39250,19 @@ export const indexObject ={
                "vital conditions": {
                     "locators": [
                          "AN10.4"
+                    ],
+                    "xrefs": []
+               },
+               "what is happiness and what is suffering": {
+                    "locators": [
+                         "AN10.65",
+                         "AN10.66"
+                    ],
+                    "xrefs": []
+               },
+               "told by the Buddha to give a talk": {
+                    "locators": [
+                         "AN10.67"
                     ],
                     "xrefs": []
                }
@@ -40590,25 +40774,29 @@ export const indexObject ={
                },
                "lack of is cause for misconduct": {
                     "locators": [
-                         "AN10.61"
+                         "AN10.61",
+                         "AN10.62"
                     ],
                     "xrefs": []
                },
                "lack of caused by a lack of mindfulness and clear comprehension": {
                     "locators": [
-                         "AN10.61"
+                         "AN10.61",
+                         "AN10.62"
                     ],
                     "xrefs": []
                },
                "cause of the three kinds of good action": {
                     "locators": [
-                         "AN10.61"
+                         "AN10.61",
+                         "AN10.62"
                     ],
                     "xrefs": []
                },
                "caused by mindfulness and clear comprehension": {
                     "locators": [
-                         "AN10.61"
+                         "AN10.61",
+                         "AN10.62"
                     ],
                     "xrefs": []
                }
@@ -43096,6 +43284,13 @@ export const indexObject ={
                          "AN9.27"
                     ],
                     "xrefs": []
+               },
+               "attaining enlightenment in this life": {
+                    "locators": [
+                         "AN10.63",
+                         "AN10.64"
+                    ],
+                    "xrefs": []
                }
           },
           "stream-entry, factors of (sotāpattiyaṅga)": {
@@ -43334,7 +43529,9 @@ export const indexObject ={
                "definition": {
                     "locators": [
                          "MN141",
-                         "AN6.63"
+                         "AN6.63",
+                         "AN10.65",
+                         "AN10.66"
                     ],
                     "xrefs": []
                },
@@ -43431,6 +43628,18 @@ export const indexObject ={
                "ending without reaching the end of the world": {
                     "locators": [
                          "AN9.38"
+                    ],
+                    "xrefs": []
+               },
+               "rebirth": {
+                    "locators": [
+                         "AN10.65"
+                    ],
+                    "xrefs": []
+               },
+               "dissatisfaction": {
+                    "locators": [
+                         "AN10.66"
                     ],
                     "xrefs": []
                }
@@ -45367,13 +45576,15 @@ export const indexObject ={
                },
                "causes lack of faith": {
                     "locators": [
-                         "AN10.61"
+                         "AN10.61",
+                         "AN10.62"
                     ],
                     "xrefs": []
                },
                "caused by association with bad people": {
                     "locators": [
-                         "AN10.61"
+                         "AN10.61",
+                         "AN10.62"
                     ],
                     "xrefs": []
                }
@@ -45404,6 +45615,12 @@ export const indexObject ={
                     "xrefs": [
                          "xref wholesome chain of causality"
                     ]
+               },
+               "from association with bad people to craving": {
+                    "locators": [
+                         "AN10.62"
+                    ],
+                    "xrefs": []
                }
           },
           "unwholesome roots (lobha, dosa, moha)": {
@@ -45686,6 +45903,12 @@ export const indexObject ={
                "leading to enlightenment": {
                     "locators": [
                          "AN10.46"
+                    ],
+                    "xrefs": []
+               },
+               "teaching given by Ven. Sāriputta on": {
+                    "locators": [
+                         "AN10.67"
                     ],
                     "xrefs": []
                }
@@ -47445,7 +47668,8 @@ export const indexObject ={
                },
                "from association with good people to knowledge and freedom": {
                     "locators": [
-                         "AN10.61"
+                         "AN10.61",
+                         "AN10.62"
                     ],
                     "xrefs": []
                }
