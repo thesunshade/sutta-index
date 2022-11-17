@@ -1,6 +1,7 @@
 import { headwordsArray } from "../data/headwords-array.js";
 import makeNormalizedId from "../functions/makeNormalizedId.js";
 import fuzz from "../functions/fuzz";
+import formIcon from "../images/form-icon.png";
 
 export default function SearchResults(props) {
   let { searchText } = props;
@@ -56,6 +57,14 @@ export default function SearchResults(props) {
           {!hasResults ? (
             <span>
               No results. Try <span className="keys">Ctrl + f</span> for a browser search.
+              <br />
+              Or send us a report so we know what is missing:{" "}
+              <a
+                href={`https://docs.google.com/forms/d/e/1FAIpQLSfxPp1rQrFuvFvQOY2vq1IoSJGmnOHG0VgWadAA-qeWNMD8qA/viewform?usp=pp_url&entry.1763012355=${searchText}`}
+              >
+                <img className="icon locator-icon" width="20px" alt="" src={formIcon} />
+                Fill the simple form.
+              </a>
             </span>
           ) : (
             ""
