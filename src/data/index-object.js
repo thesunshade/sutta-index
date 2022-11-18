@@ -1701,6 +1701,12 @@ export const indexObject ={
                          "AN10.51"
                     ],
                     "xrefs": []
+               },
+               "sign of decline": {
+                    "locators": [
+                         "AN10.67"
+                    ],
+                    "xrefs": []
                }
           },
           "anger, giving up (kodha)": {
@@ -3640,6 +3646,12 @@ export const indexObject ={
                "cause for loss of wealth": {
                     "locators": [
                          "AN8.54"
+                    ],
+                    "xrefs": []
+               },
+               "sign of decline": {
+                    "locators": [
+                         "AN10.67"
                     ],
                     "xrefs": []
                }
@@ -7785,6 +7797,18 @@ export const indexObject ={
                "supported by": {
                     "locators": [
                          "AN9.2"
+                    ],
+                    "xrefs": []
+               },
+               "lack of causes decline of skillful qualities": {
+                    "locators": [
+                         "AN10.67"
+                    ],
+                    "xrefs": []
+               },
+               "causes growth of skillful qualities": {
+                    "locators": [
+                         "AN10.67"
                     ],
                     "xrefs": []
                }
@@ -13325,6 +13349,12 @@ export const indexObject ={
                          "AN10.51"
                     ],
                     "xrefs": []
+               },
+               "sign of non-decline": {
+                    "locators": [
+                         "AN10.67"
+                    ],
+                    "xrefs": []
                }
           },
           "energy (vīriya)": {
@@ -13434,6 +13464,18 @@ export const indexObject ={
                "power of, definition": {
                     "locators": [
                          "AN9.5"
+                    ],
+                    "xrefs": []
+               },
+               "lack of causes decline of skillful qualities": {
+                    "locators": [
+                         "AN10.67"
+                    ],
+                    "xrefs": []
+               },
+               "causes growth of skillful qualities": {
+                    "locators": [
+                         "AN10.67"
                     ],
                     "xrefs": []
                }
@@ -13893,6 +13935,12 @@ export const indexObject ={
                "definition": {
                     "locators": [
                          "AN10.23"
+                    ],
+                    "xrefs": []
+               },
+               "sign of decline": {
+                    "locators": [
+                         "AN10.67"
                     ],
                     "xrefs": []
                }
@@ -14628,6 +14676,18 @@ export const indexObject ={
                          "AN10.62"
                     ],
                     "xrefs": []
+               },
+               "lack of causes decline of skillful qualities": {
+                    "locators": [
+                         "AN10.67"
+                    ],
+                    "xrefs": []
+               },
+               "causes growth of skillful qualities": {
+                    "locators": [
+                         "AN10.67"
+                    ],
+                    "xrefs": []
                }
           },
           "faith follower": {
@@ -14769,7 +14829,7 @@ export const indexObject ={
                     "xrefs": []
                }
           },
-          "fame": {
+          "fame (yasa)": {
                "danger of": {
                     "locators": [
                          "Dhp72"
@@ -14806,9 +14866,7 @@ export const indexObject ={
                          "AN5.43"
                     ],
                     "xrefs": []
-               }
-          },
-          "fame (yasa)": {
+               },
                "worldly conditions": {
                     "locators": [
                          "AN8.5"
@@ -15481,6 +15539,12 @@ export const indexObject ={
                "teachings that lead to are true Dhamma": {
                     "locators": [
                          "AN8.53"
+                    ],
+                    "xrefs": []
+               },
+               "sign of non-decline": {
+                    "locators": [
+                         "AN10.67"
                     ],
                     "xrefs": []
                }
@@ -19313,6 +19377,12 @@ export const indexObject ={
                          "MN128"
                     ],
                     "xrefs": []
+               },
+               "sign of non-decline": {
+                    "locators": [
+                         "AN10.67"
+                    ],
+                    "xrefs": []
                }
           },
           "good in the beginning, etc.": {
@@ -21285,7 +21355,9 @@ export const indexObject ={
                          "Dhp21",
                          "Dhp chapter 2"
                     ],
-                    "xrefs": []
+                    "xrefs": [
+                         "xref heedlessness (pamāda)"
+                    ]
                },
                "rejoicing in": {
                     "locators": [
@@ -21472,6 +21544,12 @@ export const indexObject ={
                          "AN10.15"
                     ],
                     "xrefs": []
+               },
+               "cause for growth in skillful qualites": {
+                    "locators": [
+                         "AN10.68"
+                    ],
+                    "xrefs": []
                }
           },
           "heedlessness (pamāda)": {
@@ -21479,7 +21557,9 @@ export const indexObject ={
                     "locators": [
                          "Dhp21"
                     ],
-                    "xrefs": []
+                    "xrefs": [
+                         "xref heedfulness (appamāda)"
+                    ]
                },
                "seeing fear in": {
                     "locators": [
@@ -21534,6 +21614,12 @@ export const indexObject ={
                "a correct teaching that might lead to": {
                     "locators": [
                          "AN9.12"
+                    ],
+                    "xrefs": []
+               },
+               "cause for decline": {
+                    "locators": [
+                         "AN10.68"
                     ],
                     "xrefs": []
                }
@@ -22330,6 +22416,12 @@ export const indexObject ={
                "give up by seeing with wisdom": {
                     "locators": [
                          "AN10.23"
+                    ],
+                    "xrefs": []
+               },
+               "sign of decline": {
+                    "locators": [
+                         "AN10.67"
                     ],
                     "xrefs": []
                }
@@ -23761,6 +23853,18 @@ export const indexObject ={
                "inspires the Buddha to teach": {
                     "locators": [
                          "AN8.82"
+                    ],
+                    "xrefs": []
+               },
+               "not wanting to investigate is cause for decline": {
+                    "locators": [
+                         "AN10.68"
+                    ],
+                    "xrefs": []
+               },
+               "cause for growth in skillful qualites": {
+                    "locators": [
+                         "AN10.68"
                     ],
                     "xrefs": []
                }
@@ -25611,6 +25715,12 @@ export const indexObject ={
                          "AN9.5"
                     ],
                     "xrefs": []
+               },
+               "sign of decline": {
+                    "locators": [
+                         "AN10.67"
+                    ],
+                    "xrefs": []
                }
           },
           "leadership": {
@@ -26447,6 +26557,18 @@ export const indexObject ={
                     "locators": [
                          "AN10.61",
                          "AN10.62"
+                    ],
+                    "xrefs": []
+               },
+               "not wanting to listen is cause for decline": {
+                    "locators": [
+                         "AN10.68"
+                    ],
+                    "xrefs": []
+               },
+               "cause for growth in skillful qualites": {
+                    "locators": [
+                         "AN10.68"
                     ],
                     "xrefs": []
                }
@@ -28287,6 +28409,18 @@ export const indexObject ={
                "not memorizing leads to decline": {
                     "locators": [
                          "AN10.55"
+                    ],
+                    "xrefs": []
+               },
+               "not wanting to memorize is cause for decline": {
+                    "locators": [
+                         "AN10.68"
+                    ],
+                    "xrefs": []
+               },
+               "cause for growth in skillful qualites": {
+                    "locators": [
+                         "AN10.68"
                     ],
                     "xrefs": []
                }
@@ -30538,6 +30672,14 @@ export const indexObject ={
                     "xrefs": [
                          "xref stupa (thupa)"
                     ]
+               }
+          },
+          "moon": {
+               "simile for growth and decline": {
+                    "locators": [
+                         "AN10.67"
+                    ],
+                    "xrefs": []
                }
           },
           "morality": {
@@ -34779,6 +34921,18 @@ export const indexObject ={
                          "AN9.19"
                     ],
                     "xrefs": []
+               },
+               "not wanting to practice is cause for decline": {
+                    "locators": [
+                         "AN10.68"
+                    ],
+                    "xrefs": []
+               },
+               "cause for growth in skillful qualites": {
+                    "locators": [
+                         "AN10.68"
+                    ],
+                    "xrefs": []
                }
           },
           "praise": {
@@ -38325,6 +38479,12 @@ export const indexObject ={
                "when truly knowing and seeing": {
                     "locators": [
                          "MN149"
+                    ],
+                    "xrefs": []
+               },
+               "sign of non-decline": {
+                    "locators": [
+                         "AN10.67"
                     ],
                     "xrefs": []
                }
@@ -45716,6 +45876,14 @@ export const indexObject ={
                     ]
                }
           },
+          "unwise (dupaññ0)": {
+               "sign of decline": {
+                    "locators": [
+                         "AN10.67"
+                    ],
+                    "xrefs": []
+               }
+          },
           "unwise attention": {
                "": {
                     "locators": [],
@@ -47858,6 +48026,12 @@ export const indexObject ={
                          "AN10.50"
                     ],
                     "xrefs": []
+               },
+               "sign of non-decline": {
+                    "locators": [
+                         "AN10.67"
+                    ],
+                    "xrefs": []
                }
           },
           "wisdom (paññā)": {
@@ -48111,6 +48285,18 @@ export const indexObject ={
                     "locators": [
                          "AN10.17",
                          "AN10.18"
+                    ],
+                    "xrefs": []
+               },
+               "lack of causes decline of skillful qualities": {
+                    "locators": [
+                         "AN10.67"
+                    ],
+                    "xrefs": []
+               },
+               "causes growth of skillful qualities": {
+                    "locators": [
+                         "AN10.67"
                     ],
                     "xrefs": []
                }
@@ -48974,6 +49160,12 @@ export const indexObject ={
                "definition": {
                     "locators": [
                          "MN117"
+                    ],
+                    "xrefs": []
+               },
+               "sign of decline": {
+                    "locators": [
+                         "AN10.67"
                     ],
                     "xrefs": []
                }

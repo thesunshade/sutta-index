@@ -61,6 +61,8 @@ export default function SearchResults(props) {
               Or send us a report so we know what is missing:{" "}
               <a
                 href={`https://docs.google.com/forms/d/e/1FAIpQLSfxPp1rQrFuvFvQOY2vq1IoSJGmnOHG0VgWadAA-qeWNMD8qA/viewform?usp=pp_url&entry.1763012355=${searchText}`}
+                rel="noreferrer"
+                target="_blank"
               >
                 <img className="icon locator-icon" width="20px" alt="" src={formIcon} />
                 Fill the simple form.

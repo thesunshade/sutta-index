@@ -653,7 +653,7 @@ association	with wise	Dhp65
 fools (bāla)	own worst enemy	Dhp66
 regret		Dhp67-8
 results of actions	delay in seeing	Dhp71
-fame	danger of 	Dhp72
+fame (yasa)	danger of 	Dhp72
 fools (bāla)	seeking power	Dhp73
 fools (bāla)	seeking power	Dhp74
 honor	non-delight in	Dhp75
@@ -2015,7 +2015,7 @@ energy (vīriya)	like a well tuned lute	Thag13.1
 loving-kindness (mettā)	limitless	Thag14.1
 worldly conditions (lokadhamma)		Thag14.2
 gain (lābha)	illegitimate	Thag14.2
-fame	of the unintelligent	Thag14.2
+fame (yasa)	of the unintelligent	Thag14.2
 praise	by fools	Thag14.2
 seclusion	suffering of	Thag14.2
 Dhamma	full of flavor (mahārassa)	Thag15.1
@@ -2845,8 +2845,8 @@ wisdom (paññā)	growth of greater than growth of family	AN1.77
 wealth	loss of compared to wisdom	AN1.78
 wealth	growth of compared to wisdom	AN1.97
 “should be practiced” (sikkhitabba)	grow in wisdom	AN1.79
-fame	loss of compared to wisdom	AN1.80
-fame	growth of compared to wisdom	AN1.81
+fame (yasa)	loss of compared to wisdom	AN1.80
+fame (yasa)	growth of compared to wisdom	AN1.81
 “should be practiced” (sikkhitabba)	grow in wisdom	AN1.81
 heedlessness (pamāda)	as very harmful	AN1.82
 heedfulness (appamāda)	as very helpful	AN1.83
@@ -3861,7 +3861,7 @@ eating	walking meditation	AN5.29
 concentration (samādhi)	walking meditation	AN5.29
 Buddha, the	praise of	AN5.30
 Nāgita, Ven	Buddha’s attendant	AN5.30
-fame	Buddha rejects	AN5.30
+fame (yasa)	Buddha rejects	AN5.30
 food	ends up as excrement	AN5.30
 grieving	loss of family	AN5.30
 sign of the beautiful (subhanimitta)	revulsion at	AN5.30
@@ -3901,7 +3901,7 @@ practicing	not wishing	AN5.43
 prayer	ineffective for getting what one wants	AN5.43
 long life	not gained by wishing	AN5.43
 wishing (patthana)	doesn’t bring results	AN5.43
-fame	wishing for	AN5.43
+fame (yasa)	wishing for	AN5.43
 heaven (sagga)	wishing for	AN5.43
 Ugga of Vesālī, householder	giving to Buddha	AN5.44
 giving (dāna)	benefits to receiver and giver similar	AN5.44
@@ -4933,7 +4933,7 @@ fire element (tejo dhātu)	in tree trunk	AN6.41
 water element (āpo dhātu)	in tree trunk	AN6.41
 Sāriputta, Ven.	elements	AN6.41
 Nāgita, Ven	Buddha’s attendant	AN6.42
-fame	Buddha rejects	AN6.42
+fame (yasa)	Buddha rejects	AN6.42
 wilderness (arañña)	as safer than village	AN6.42
 villages	as more dangerous than wilderness	AN6.42
 sleepiness	in the wilderness	AN6.42
@@ -9318,3 +9318,36 @@ suffering (dukkha)	dissatisfaction	AN10.66
 happiness (sukha)	satisfaction	AN10.66
 uposatha	teaching given by Ven. Sāriputta on	AN10.67
 Sāriputta, Ven.	told by the Buddha to give a talk	AN10.67
+moon	simile for growth and decline	AN10.67
+faith (saddhā)	lack of causes decline of skillful qualities	AN10.67
+conscience and prudence (hiri ottappa)	lack of causes decline of skillful qualities	AN10.67
+energy (vīriya)	lack of causes decline of skillful qualities	AN10.67
+wisdom (paññā)	lack of causes decline of skillful qualities	AN10.67
+faith (saddhā)	causes growth of skillful qualities	AN10.67
+conscience and prudence (hiri ottappa)	causes growth of skillful qualities	AN10.67
+energy (vīriya)	causes growth of skillful qualities	AN10.67
+wisdom (paññā)	causes growth of skillful qualities	AN10.67
+laziness (kusīta)	sign of decline	AN10.67
+unwise (dupaññ0)	sign of decline	AN10.67
+anger (kodha)	sign of decline	AN10.67
+hostility (upanāha)	sign of decline	AN10.67
+evil wishes (pāpiccha)	sign of decline	AN10.67
+bad friends	sign of decline	AN10.67
+wrong view (micchā diṭṭhi)	sign of decline	AN10.67
+energetic (āraddhavīriya)	sign of non-decline	AN10.67
+wisdom	sign of non-decline	AN10.67
+few wishes (appiccha)	sign of non-decline	AN10.67
+good friends	sign of non-decline	AN10.67
+right view (sammā diṭṭhi)	sign of non-decline	AN10.67
+heedlessness (pamāda)		xref heedfulness (appamāda)
+heedfulness (appamāda)		xref heedlessness (pamāda)
+listening to Dhamma	not wanting to listen is cause for decline	AN10.68
+memorizing	not wanting to memorize is cause for decline	AN10.68
+investigation of meaning (atthūpaparikkhā)	not wanting to investigate is cause for decline	AN10.68
+practicing according to the Dhamma (dhammānudhammappaṭipanna)	not wanting to practice is cause for decline	AN10.68
+heedlessness (pamāda)	cause for decline	AN10.68
+listening to Dhamma	cause for growth in skillful qualites	AN10.68
+memorizing	cause for growth in skillful qualites	AN10.68
+investigation of meaning (atthūpaparikkhā)	cause for growth in skillful qualites	AN10.68
+practicing according to the Dhamma (dhammānudhammappaṭipanna)	cause for growth in skillful qualites	AN10.68
+heedfulness (appamāda)	cause for growth in skillful qualites	AN10.68

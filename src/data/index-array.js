@@ -336,7 +336,7 @@ export const indexArray =[
      ],
      [
           "AN1.80",
-          "fame",
+          "fame (yasa)",
           "loss of compared to wisdom"
      ],
      [
@@ -346,7 +346,7 @@ export const indexArray =[
      ],
      [
           "AN1.81",
-          "fame",
+          "fame (yasa)",
           "growth of compared to wisdom"
      ],
      [
@@ -8786,7 +8786,7 @@ export const indexArray =[
      ],
      [
           "AN5.30",
-          "fame",
+          "fame (yasa)",
           "Buddha rejects"
      ],
      [
@@ -9001,7 +9001,7 @@ export const indexArray =[
      ],
      [
           "AN5.43",
-          "fame",
+          "fame (yasa)",
           "wishing for"
      ],
      [
@@ -12901,7 +12901,7 @@ export const indexArray =[
      ],
      [
           "AN6.42",
-          "fame",
+          "fame (yasa)",
           "Buddha rejects"
      ],
      [
@@ -26181,13 +26181,168 @@ export const indexArray =[
      ],
      [
           "AN10.67",
+          "anger (kodha)",
+          "sign of decline"
+     ],
+     [
+          "AN10.67",
+          "bad friends",
+          "sign of decline"
+     ],
+     [
+          "AN10.67",
+          "conscience and prudence (hiri ottappa)",
+          "causes growth of skillful qualities"
+     ],
+     [
+          "AN10.67",
+          "conscience and prudence (hiri ottappa)",
+          "lack of causes decline of skillful qualities"
+     ],
+     [
+          "AN10.67",
+          "energetic (āraddhavīriya)",
+          "sign of non-decline"
+     ],
+     [
+          "AN10.67",
+          "energy (vīriya)",
+          "causes growth of skillful qualities"
+     ],
+     [
+          "AN10.67",
+          "energy (vīriya)",
+          "lack of causes decline of skillful qualities"
+     ],
+     [
+          "AN10.67",
+          "evil wishes (pāpiccha)",
+          "sign of decline"
+     ],
+     [
+          "AN10.67",
+          "faith (saddhā)",
+          "causes growth of skillful qualities"
+     ],
+     [
+          "AN10.67",
+          "faith (saddhā)",
+          "lack of causes decline of skillful qualities"
+     ],
+     [
+          "AN10.67",
+          "few wishes (appiccha)",
+          "sign of non-decline"
+     ],
+     [
+          "AN10.67",
+          "good friends",
+          "sign of non-decline"
+     ],
+     [
+          "AN10.67",
+          "hostility (upanāha)",
+          "sign of decline"
+     ],
+     [
+          "AN10.67",
+          "laziness (kusīta)",
+          "sign of decline"
+     ],
+     [
+          "AN10.67",
+          "moon",
+          "simile for growth and decline"
+     ],
+     [
+          "AN10.67",
+          "right view (sammā diṭṭhi)",
+          "sign of non-decline"
+     ],
+     [
+          "AN10.67",
           "Sāriputta, Ven.",
           "told by the Buddha to give a talk"
      ],
      [
           "AN10.67",
+          "unwise (dupaññ0)",
+          "sign of decline"
+     ],
+     [
+          "AN10.67",
           "uposatha",
           "teaching given by Ven. Sāriputta on"
+     ],
+     [
+          "AN10.67",
+          "wisdom (paññā)",
+          "causes growth of skillful qualities"
+     ],
+     [
+          "AN10.67",
+          "wisdom (paññā)",
+          "lack of causes decline of skillful qualities"
+     ],
+     [
+          "AN10.67",
+          "wisdom",
+          "sign of non-decline"
+     ],
+     [
+          "AN10.67",
+          "wrong view (micchā diṭṭhi)",
+          "sign of decline"
+     ],
+     [
+          "AN10.68",
+          "heedfulness (appamāda)",
+          "cause for growth in skillful qualites"
+     ],
+     [
+          "AN10.68",
+          "heedlessness (pamāda)",
+          "cause for decline"
+     ],
+     [
+          "AN10.68",
+          "investigation of meaning (atthūpaparikkhā)",
+          "cause for growth in skillful qualites"
+     ],
+     [
+          "AN10.68",
+          "investigation of meaning (atthūpaparikkhā)",
+          "not wanting to investigate is cause for decline"
+     ],
+     [
+          "AN10.68",
+          "listening to Dhamma",
+          "cause for growth in skillful qualites"
+     ],
+     [
+          "AN10.68",
+          "listening to Dhamma",
+          "not wanting to listen is cause for decline"
+     ],
+     [
+          "AN10.68",
+          "memorizing",
+          "cause for growth in skillful qualites"
+     ],
+     [
+          "AN10.68",
+          "memorizing",
+          "not wanting to memorize is cause for decline"
+     ],
+     [
+          "AN10.68",
+          "practicing according to the Dhamma (dhammānudhammappaṭipanna)",
+          "cause for growth in skillful qualites"
+     ],
+     [
+          "AN10.68",
+          "practicing according to the Dhamma (dhammānudhammappaṭipanna)",
+          "not wanting to practice is cause for decline"
      ],
      [
           "AN10.69",
@@ -26786,7 +26941,7 @@ export const indexArray =[
      ],
      [
           "Dhp72",
-          "fame",
+          "fame (yasa)",
           "danger of "
      ],
      [
@@ -40571,7 +40726,7 @@ export const indexArray =[
      ],
      [
           "Thag14.2",
-          "fame",
+          "fame (yasa)",
           "of the unintelligent"
      ],
      [
