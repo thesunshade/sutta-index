@@ -2033,7 +2033,7 @@ doubt (vicikicchā)		Thag16.3
 Buddha, the	as doctor	Thag16.3
 perception of ugliness (asubhasañña)		Thag16.4
 wealthy people	not giving	Thag16.4
-greed	unsatisfied	Thag16.4
+greed (rāga)	unsatisfied	Thag16.4
 grieving		Thag16.4
 wealth	left behind after death	Thag16.4
 wisdom (paññā)	superior to wealth	Thag16.4
@@ -3878,6 +3878,7 @@ Cundī, Princess	asks about rebirth	AN5.32
 Uggaha Meṇḍakanattā 	advice for daughters	AN5.33
 wives	advice for	AN5.33
 Sīha, general	giving 	AN5.34
+reputation	good reputation gained through giving	AN5.34
 faith (saddhā)	not needed when truth is known	AN5.34
 lay life	duty to support saṅgha	AN5.34
 travel	giving 	AN5.36
@@ -4952,6 +4953,10 @@ Isidatta, householder	non-celibate once returner	AN6.44
 judging	should only be done by a Buddha	AN6.44
 judging	don’ be judgemental	AN6.44
 temporary freedom (sāmāyikampi vimutti)		AN6.44
+celibacy	both celibate and uncelibate can be once returners	AN6.44
+once returner (sakadāgāmī)	can be celibate or not	AN6.44
+Joyful gods (tusitā devā)	once returners being born there	AN6.44
+stages of enlightenment	Buddha declaring of people	AN6.44
 debt (iṇa)	as simile for lacking good qualities	AN6.45
 debt (iṇa)	as suffering	AN6.45
 evil wishes (pāpiccha)	as paying interest	AN6.45
@@ -5830,7 +5835,7 @@ wisdom (paññā)	superior to wealth	MN82
 punishment (daṇḍa)	for evil deeds	MN82
 going forth (pabbajja)	reasons for	MN82
 death (maraṇa)	like fruit falling from tree	MN82
-greed	unsatisfied	MN82
+greed (rāga)	unsatisfied	MN82
 results of actions	like thief caught and punished	MN82
 wealth	left behind after death	MN82
 final knowledge (aññā)	declaring enlightenment	MN105
@@ -7351,7 +7356,7 @@ litigation (adhikaraṇa)	seven principles for settling	AN7.84
 mendicants	fetters removed makes you become	AN7.85
 fetters (saṁyojana)	removal of makes one a true mendicant, etc.	AN7.85
 bad qualities (asaddhamma)	faithless, shameless, imprudent, uneducated, lazy, unmindful, and witless	AN7.93
-good qualities (saddhamm)	faithful, conscientious, prudent, learned, energetic, mindful, and wise	AN7.94
+good qualities (saddhamma, dhammā)	faithful, conscientious, prudent, learned, energetic, mindful, and wise	AN7.94
 impermanence, observing (aniccānupassī)	person worthy of gifts	AN7.95
 impermanence, observing (aniccānupassī)	stages of enlightenment	AN7.95
 extinguished in-between (antarāparinibbāyī)	observing impermanence	AN7.95
@@ -9351,3 +9356,193 @@ memorizing	cause for growth in skillful qualites	AN10.68
 investigation of meaning (atthūpaparikkhā)	cause for growth in skillful qualites	AN10.68
 practicing according to the Dhamma (dhammānudhammappaṭipanna)	cause for growth in skillful qualites	AN10.68
 heedfulness (appamāda)	cause for growth in skillful qualites	AN10.68
+fame (yasa)		xref reputation
+reputation		xref fame (yasa)
+gossip		xref useless speech (tiracāna)
+pointless talk (tiracāna)		xref useless speech (tiracāna)
+detachment		xref aloofness (asaṁsagga)
+aloofness (asaṁsagga)		xref detachment
+useless speech (tiracāna)	monks engaging in	AN10.69
+kings	useless speech about	AN10.69
+thieves (cora)	useless speech about	AN10.69
+armies	useless speech about	AN10.69
+war	useless speech about	AN10.69
+food	useless speech about	AN10.69
+fragrances	useless speech about	AN10.69
+family	useless speech about	AN10.69
+villages (gāma)	useless speech about	AN10.69
+countries (janapadapadesa)	useless speech about	AN10.69
+women	useless speech about	AN10.69
+departed relatives	useless speech about	AN10.69
+rebirth	useless speech about	AN10.69
+few wishes (appiccha)	speech about	AN10.69
+contentment (santuṭṭhi)	speech about	AN10.69
+seclusion (paviveka)	speech about	AN10.69
+aloofness (asaṁsagga)	speech about	AN10.69
+energy, stirring up (vīriyārambha)	speech about	AN10.69
+virtue (sīla)	speech about	AN10.69
+concentration (samādhi)	speech about	AN10.69
+wisdom (paññā)	speech about	AN10.69
+freedom (vimutti)	speech about	AN10.69
+knowledge and vision of freedom (vimuttiñāṇadassana)	speech about	AN10.69
+wanderers of other sects (aññatitthiya paribbājaka)	proper topics of discussion will make you outshine	AN10.69
+praise (pasaṁsā)	reasons for based on topics of discussion	AN10.70
+few wishes (appiccha)	praise for person with who talks about	AN10.70
+contentment (santuṭṭhi)	praise for person with who talks about	AN10.70
+seclusion (paviveka)	praise for person with who talks about	AN10.70
+aloofness (asaṁsagga)	praise for person with who talks about	AN10.70
+energy, stirring up (vīriyārambha)	praise for person with who talks about	AN10.70
+virtue (sīla)	praise for person with who talks about	AN10.70
+concentration (samādhi)	praise for person with who talks about	AN10.70
+wisdom (paññā)	praise for person with who talks about	AN10.70
+freedom (vimutti)	praise for person with who talks about	AN10.70
+empty huts (suññāgārā)		xref seclusion (paṭisallīna, vivitta)
+seclusion (paṭisallīna, vivitta)		xref empty huts (suññāgārā)
+merit (puññā)		xref great fruit (mahapphalā)
+great fruit (mahapphalā)		xref merit (puññā)
+monastic rules (vinaya)	live following	AN10.71
+almsfood	sought in suitable places	AN10.71
+danger in slightest fault	seeing 	AN10.71
+spiritual companion (sabrahmacārī)	wish to be liked by	AN10.71
+internal serenity of mind (ajjhattaṁ cetosamatha)	being devoted to	AN10.71
+meditation (jhāyati)	do not neglect (anirākatajjhāna)	AN10.71
+vipassanā	being endowed with	AN10.71
+empty huts (suññāgārā)	frequenting	AN10.71
+requisites, four	how to get	AN10.71
+great fruit (mahapphalā)	how to make donations very fruitful	AN10.71
+recollection (anussati)	departed relatives recollecting monks	AN10.71
+contentment (santuṭṭhi)	how to achieve	AN10.71
+enduring (khama)	how to	AN10.71
+rudeness (durutta)	how to endure	AN10.71
+painful feelings	how to endure	AN10.71
+discontent (arati)	how to prevail over	AN10.71
+delight (rati)	how to prevail over	AN10.71
+fear (bhaya)	how to prevail over	AN10.71
+dread (bherava)	how to prevail over	AN10.71
+jhānas	how to obtain	AN10.71
+nibbāna	how to obtain	AN10.71
+wishing (ākaṅkhati)	for various attainments	AN10.71
+jhānas	sound as a thorn to	AN10.72
+socializing	thorn for one who loves seclusion	AN10.72
+seclusion (paviveka)	socializing is a thorn for	AN10.72
+sign of the beautiful (subhanimitta)	thorn for one pursuing meditation on ugliness	AN10.72
+meditation on ugliness (asubhabhāvanā)	sign of the beautiful is a thorn for	AN10.72
+entertainment	watching shows is thorn for one restraining senses	AN10.72
+sense restraint (indriyasaṁvara)	watching shows is thorn for	AN10.72
+women	thorn for celibacy	AN10.72
+celibacy	lingering in the neighborhood of females is a thorn to	AN10.72
+sound	thorn for first jhāna	AN10.72
+first jhāna	sound is thorn for	AN10.72
+applied and sustained thought (vitakkavicārā)	thorn for second jhāna	AN10.72
+second jhāna	applied and sustained thought is thorn for	AN10.72
+rapture (pīti)	thorn for third jhāna	AN10.72
+third jhāna	rapture is thorn for	AN10.72
+breathing (assāsapassāsa)	thorn for fourth jhāna	AN10.72
+fourth jhāna	breathing is a thorn for	AN10.72
+perceptions (saññā)	thorn for cessation of perception and feeling	AN10.72
+feelings (vedanā)	thorn for cessation of perception and feeling	AN10.72
+cessation of perception and feeling (saññāvedayitanirodha)	perceptions and feelings are thorn for	AN10.72
+recitation		xref reciting Dhamma
+reciting Dhamma		xref recitation
+speaking truth		xref truthfulness
+truthfulness		xref speaking truth
+wealth	rare in the world	AN10.73
+beauty	rare in the world	AN10.73
+health	rare in the world	AN10.73
+virtue	rare in the world	AN10.73
+monastic life	rare in the world	AN10.73
+friends	rare in the world	AN10.73
+learning	rare in the world	AN10.73
+wisdom (paññā)	rare in the world	AN10.73
+good qualities (saddhamma, dhammā)	rare in the world	AN10.73
+heaven	rare in the world	AN10.73
+wealth	hindered by laziness	AN10.73
+beauty	hindered by lack of adornment	AN10.73
+health	hindered by unsuitable activity	AN10.73
+virtue	hindered by bad friendship	AN10.73
+monastic life	hindered by lack of sense restraint	AN10.73
+friends	hindered by dishonesty	AN10.73
+learning	hindered by not reciting	AN10.73
+wisdom (paññā)	hindered by not wanting to listen and ask questions	AN10.73
+good qualities (saddhamma, dhammā)	hindered by lack of commitment and reviewing	AN10.73
+heaven	hindered by wrong practice	AN10.73
+laziness (ālasya, anuṭṭhāna)	hinders wealth	AN10.73
+adornments	lack of hinders beauty	AN10.73
+unsuitable activity (asappāyakiriyā)	hinders health	AN10.73
+bad friends	hinders virtue	AN10.73
+sense restraint (indriyasaṁvara)	lack of hinders the monastic life	AN10.73
+lying	hinders friends	AN10.73
+reciting	lack of hinders learning	AN10.73
+questions, asking	not asking hinders wisdom	AN10.73
+reviewing (paccavekkhaṇā)	lack of hinders good qualities	AN10.73
+practices (paṭipatti)	wrong practices hinder heaven	AN10.73
+wealth	nourished by initiative	AN10.73
+beauty	nourished by adornment	AN10.73
+health	nourished by suitable activity	AN10.73
+virtue	nourished by good friendship	AN10.73
+monastic life	nourished by sense restraint	AN10.73
+friends	nourished by honesty	AN10.73
+learning	nourished by reciting	AN10.73
+wisdom (paññā)	nourished by eagerness to listen and ask questions	AN10.73
+good qualities (saddhamma, dhammā)	nourished by commitment and reviewing	AN10.73
+heaven	nourished by right practice	AN10.73
+initiative (uṭṭhāna)	nourishes wealth	AN10.73
+adornments	nourish beauty	AN10.73
+suitable activity (sappāyakiriyā)	nourishes health	AN10.73
+good friends	nourishes virtue	AN10.73
+sense restraint (indriyasaṁvara)	nourishes the monastic life	AN10.73
+truthfulness	nourishes friends	AN10.73
+reciting	nourishes learning	AN10.73
+questions, asking	nourishes wisdom	AN10.73
+reviewing (paccavekkhaṇā)	nourishes good qualities	AN10.73
+practices (paṭipatti)	right practices nourish heaven	AN10.73
+slaves		xref bondservants  (dāsa)
+bondservants (dāsa)		xref slaves
+workers		xref servants
+workers		xref bondservants (dāsa)
+workers		xref slaves
+land		xref fields
+fields	noble disciple grows nobly when they grow in 	AN10.74
+money	noble disciple grows nobly when they grow in 	AN10.74
+wives	noble disciple grows nobly when they grow in 	AN10.74
+children	noble disciple grows nobly when they grow in 	AN10.74
+bondservants (dāsa)	noble disciple grows nobly when they grow in 	AN10.74
+employees	noble disciple grows nobly when they grow in 	AN10.74
+livestock	noble disciple grows nobly when they grow in 	AN10.74
+faith (saddhā)	noble disciple grows nobly when they grow in 	AN10.74
+virtue (sīla)	noble disciple grows nobly when they grow in 	AN10.74
+learned (bahussutā)	noble disciple grows nobly when they grow in 	AN10.74
+generosity (cāga)	noble disciple grows nobly when they grow in 	AN10.74
+wisdom (paññā)	noble disciple grows nobly when they grow in 	AN10.74
+respected people	from growth in good qualities	AN10.74
+fame (yasa)	from growth in good qualities	AN10.74
+celibacy	both celibate and uncelibate can be once returners	AN10.75
+once returner (sakadāgāmī)	can be celibate or not	AN10.75
+Joyful gods (tusitā devā)	once returners being born there	AN10.75
+stages of enlightenment	Buddha declaring of people	AN10.75
+Migasālā, householder	question about celebacy	AN10.75
+once returner (sakadāgāmī)	and celibacy	AN10.75
+Purāṇa, householder	celibate once returner	AN10.75
+Isidatta, householder	non-celibate once returner	AN10.75
+judging	should only be done by a Buddha	AN10.75
+judging	don’ be judgemental	AN10.75
+temporary freedom (sāmāyikampi vimutti)		AN10.75
+unvirtuous people	rebirth	AN10.75
+greed (lobha)		xref greed (rāga)
+greed (lobha)		xref greed, hatred, delusion
+greed (rāga)		xref greed (lobha)
+greed (rāga)		xref greed, hatred, delusion
+hatred (dosa)		xref greed, hatred, delusion
+delusion (moha)		xref greed, hatred, delusion
+greed, hatred, delusion		xref greed (rāga)
+greed, hatred, delusion		xref greed (lobha)
+greed, hatred, delusion		xref hatred (dosa)
+greed, hatred, delusion		xref delusion (moha)
+birth (jāti)	if birth was not found, Buddhas would not arise in the world	AN10.76
+old age	if old age was not found, Buddhas would not arise in the world	AN10.76
+death (maraṇa)	if death was not found, Buddhas would not arise in the world	AN10.76
+Buddhas	arise because birth, old age, and death are found in the world	AN10.76
+greed, hatred, delusion	must be given up to give up birth, old age, death	AN10.76
+birth (jāti)	greed, hatred, delusion must be given up in order to give up birth	AN10.76
+old age	greed, hatred, delusion must be given up in order to give up old age	AN10.76
+death (maraṇa)	greed, hatred, delusion must be given up in order to give up death	AN10.76
