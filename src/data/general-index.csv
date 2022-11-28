@@ -168,7 +168,7 @@ stinginess (maccharī)	types	AN5.254
 death (maraṇa)		SN1.20
 death (maraṇa)		SN1.66
 death (maraṇa)		SN1.67
-death (maraṇa)		xref dependent origination
+death (maraṇa)		xref dependent origination (paṭiccasamuppāda)
 death (maraṇa)	abandoning the training as	MN105
 death (maraṇa)	army of	SN5.3
 death (maraṇa)	army of	SN6.14
@@ -632,7 +632,7 @@ mind	trained better than family	Dhp43
 body	simile of foam	Dhp46
 death (maraṇa)	simile of flood	Dhp47
 alms gathering practice	simile of bee and flower	Dhp49
-faul-tfinding		Dhp50
+fault-finding		Dhp50
 self examination		Dhp50
 beautiful words without practicing	like flower without fragrance	Dhp51
 beautiful words beneficial for the one who practices	like flower with frangrance	Dhp52
@@ -721,7 +721,7 @@ conscience (hiri)	simile of horse and whip	Dhp143–44
 self taming	simile of arrow maker	Dhp145
 self taming	simile of irrigator	Dhp145
 self taming	simile of carpenter	Dhp145
-old age		Dhp chapter 11
+old age (jarā)		Dhp chapter 11
 urgency (saṁvega)		Dhp146
 perception of ugliness (asubhasañña)		Dhp147–50
 foulness of body		xref perception of ugliness (asubhasañña)
@@ -731,8 +731,8 @@ unlearned person	simile of ox	Dhp152
 first verses of Buddha		Dhp153–54
 rebirth		Dhp153–54
 holy life	rejected in youth	Dhp155–54
-old age	like cranes in dried pond	Dhp155 
-old age	like spent arrows	Dhp156
+old age (jarā)	like cranes in dried pond	Dhp155 
+old age (jarā)	like spent arrows	Dhp156
 self taming		Dhp159–60
 evil actions	harming oneself	Dhp161
 results of actions	simile of diamond grinding	Dhp161
@@ -921,16 +921,29 @@ deathless (amata)		Dhp411
 recollection (anussati)	of past lives	Dhp423
 brahmacariya		xref monastic life
 solitary Buddha		xref paccekabuddhas
-Buddha, the	time after enlightenment	Ud1.1–4
-dependent origination		Ud1.1–3
-brahmin	true meaning	Ud1.4–6
+Buddha, the	time after enlightenment	Ud1.1
+Buddha, the	time after enlightenment	Ud1.2
+Buddha, the	time after enlightenment	Ud1.3
+Buddha, the	time after enlightenment	Ud1.4
+meditation	for seven days	Ud1.1
+meditation	for seven days	Ud1.2
+meditation	for seven days	Ud1.3
+meditation	for seven days	Ud1.4
+meditation	for seven days	Ud2.1
+dependent origination (paṭiccasamuppāda)	Buddha reflecting on after enlightenment	Ud1.1
+dependent origination (paṭiccasamuppāda)	Buddha reflecting on after enlightenment	Ud1.2
+dependent origination (paṭiccasamuppāda)	Buddha reflecting on after enlightenment	Ud1.3
+brahmin	true meaning	Ud1.4
+brahmin	true meaning	Ud1.5
+brahmin	true meaning	Ud1.6
 giving (dāna)	by gods	Ud1.6
 gods	offering food	Ud1.6
 almsfood	from the poor	Ud1.6
 fear (bhaya)	overcoming	Ud1.7
 monastics	family of	Ud1.8
-brahmin	true meaning	Ud1.8–9
+brahmin	true meaning	Ud1.8
 detachment	from family	Ud1.8
+brahmin	true meaning	Ud1.9
 jaṭilā ascetics		Ud1.9
 purification	with water	Ud1.9
 false spiritual claims		Ud1.10
@@ -951,7 +964,8 @@ jealousy (issā)		Ud2.4
 enduring abuse		Ud2.4
 not-self	considering abuse	Ud2.4
 lay life	filled with duties	Ud2.5
-lay life	attachments	Ud2.5–6
+lay life	attachments	Ud2.5
+lay life	attachments	Ud2.6
 pregnancy		Ud2.6
 grieving	death	Ud2.7
 loss	of loved ones	Ud2.7
@@ -971,18 +985,19 @@ giving (dāna)		xref almsfood
 gods	offering food	Ud3.7
 almsfood	from the poor	Ud3.7
 giving (dāna)	by gods	Ud3.7
-arahants	envied by gods	Ud3.7–8
-noble silence (ariya tuṇhībhāva)	vs. useless speech	Ud3.8–9
+arahants	envied by gods	Ud3.7
+arahants	envied by gods	Ud3.8
+noble silence (ariya tuṇhībhāva)	vs. useless speech	Ud3.8
+noble silence (ariya tuṇhībhāva)	vs. useless speech	Ud3.9
 almsfood	for sake of popularity	Ud3.8
 popularity	 wrongly gained	Ud3.8
-speech	useless (tiracāna)	Ud3.8–9
+speech	useless (tiracāna)	Ud3.8
+speech	useless (tiracāna)	Ud3.9
 hope (āsa)	uselessness of	Ud3.9
 solitary life		Ud3.9
 Buddha, the	time after enlightenment	Ud3.10
 world, the	state of	Ud3.10
 meditation	for seven days	Ud3.10
-meditation	for seven days	Ud1.1–4
-meditation	for seven days	Ud2.1
 meditation	for seven days	Ud3.7
 misconduct by mind		Ud4.1
 friendship	helps with cetovimuttiya	Ud4.1
@@ -1425,7 +1440,7 @@ caste	only conventional designation	Snp3.9
 arahants		xref brahmin
 brahmin		xref arahant
 actions (kamma)	not birth defines a person	Snp3.9
-criticizing noble ones		Snp3.10
+criticizing noble ones	result of	Snp3.10
 Kokālika	criticizes chief disciples	Snp3.10
 Sahampati, Brahmā	reports Kokālika’s birth in hell	Snp3.10
 hell (niraya)	lifespan in	Snp3.10
@@ -1446,7 +1461,7 @@ monastic life	like licking razor’s edge	Snp3.11
 knowing does not speak much		Snp3.11
 listening to Dhamma	real reason for	Snp3.12
 suffering (dukkha)	analysis	Snp3.12
-dependent origination	through suffering	Snp3.12
+dependent origination (paṭiccasamuppāda)	through suffering	Snp3.12
 craving (taṇha)	as partner	Snp3.12
 more peaceful		Snp3.12
 against the stream	Dhamma as	Snp3.12
@@ -1463,8 +1478,8 @@ disputes	about Dhamma	Snp4.3
 purity (suddhi, pārisuddhi)		Snp4.4
 disputes	about Dhamma	Snp4.5
 conceit (māna)	wrong views	Snp4.5
-aging		xref old age
-old age		Snp4.6
+aging		xref old age (jarā)
+old age (jarā)		Snp4.6
 death (maraṇa)	like dream gone when waking are the dead	Snp4.6
 craving (taṇha)	simile of water drop on lotus leaf	Snp4.6
 purity (suddhi, pārisuddhi)	by another	Snp4.6
@@ -1482,7 +1497,7 @@ past, present, future	let go of	Snp4.10
 monastic life	rightly practiced	Snp4.10
 quarrels		xref disputes
 disputes	cause	Snp4.11
-dependent origination	variations on	Snp4.11
+dependent origination (paṭiccasamuppāda)	variations on	Snp4.11
 disputes	over views	Snp4.12
 purity (suddhi, pārisuddhi)	here alone is	Snp4.12
 disputes	over views	Snp4.13
@@ -1843,7 +1858,7 @@ lay life	difficult	Thag1.111
 nature	as pleasing	Thag1.113
 monastic life	wrongly practiced	Thag1.114
 arahants	becoming while a layperson	Thag1.117
-old age	body in	Thag1.118
+old age (jarā)	body in	Thag1.118
 honor	subtle dart	Thag2.2
 food	doesn’t lead to peace	Thag2.2
 mind	like a monkey	Thag2.3
@@ -2237,7 +2252,7 @@ Māra	harassing bhikkhunī	Thig11.1
 bathing	as ritual	Thig12.1
 purification	with water	Thig12.1
 body	grown old	Thig13.1
-old age	body in	Thig13.1
+old age (jarā)	body in	Thig13.1
 beauty	as impermanent	Thig13.1
 perception of ugliness (asubhasañña)	body grown old	Thig13.1
 ascetics (samaṇa)	love for	Thig13.2
@@ -2423,11 +2438,11 @@ qualities of triple gem		xref triple gem
 thieves (cora)	as metaphor for bad monastic	AN3.50
 monastic life	wrongly practiced	AN3.50
 brahmins	wasted their lives	AN3.51
-old age	regret at end of life over not practicing	AN3.51
+old age (jarā)	regret at end of life over not practicing	AN3.51
 regret	over life poorly lived	AN3.51
 life	wasted	AN3.51
 brahmins	wasted their lives	AN3.52
-old age	regret at end of life over not practicing	AN3.52
+old age (jarā)	regret at end of life over not practicing	AN3.52
 regret	over life poorly lived	AN3.52
 life	wasted	AN3.52
 giving (dāna)	like rescuing pot from fire	AN3.52
@@ -2467,7 +2482,7 @@ views of other sects	all results are because of chance	AN3.61
 Dhamma	various aspects of	AN3.61
 elements (dhātu)	six	AN3.61
 mental preoccupations (manopavicāra)		AN3.61
-dependent origination	as second noble truth	AN3.61
+dependent origination (paṭiccasamuppāda)	as second noble truth	AN3.61
 perils (bhaya)	that separate mother and child	AN3.62
 noble eightfold path (ariya aṭṭhangika magga)	as practice to remove perils of old age, etc	AN3.62
 old age, sickness, and death	as perils removed by noble eightfold path	AN3.62
@@ -2617,7 +2632,7 @@ forest dwelling	of other sects	AN3.93
 seclusion	defined as virtue, right view, and ending defilements	AN3.93
 fetters (saṁyojana)	three lower	AN3.94
 assemblies	three kinds	AN3.95
-harmony in Saṅgha		AN3.95
+harmony in Saṅgha (saṅghasāmaggī)		AN3.95
 disputes	in the Saṅgha 	AN3.95
 heart’s release by rejoicing (muditā cetovimutti)	living in harmony	AN3.95
 beauty	as monastic’s virtue	AN3.96
@@ -2709,7 +2724,7 @@ food	attachment to	AN3.123
 food	gratification, danger, escape	AN3.123
 disputes	in the Saṅgha 	AN3.124
 disputes	indicator of having given up right intention	AN3.124
-harmony in Saṅgha	indicator of having right intention	AN3.124
+harmony in Saṅgha (saṅghasāmaggī)	indicator of having right intention	AN3.124
 Buddha, the	doesn’t like to think about disputing monks	AN3.124
 Buddha, the	teaches with direct knowledge, reason, demonstrable base	AN3.125
 faith (saddhā)	in triple gem	AN3.125
@@ -2888,7 +2903,7 @@ Sāriputta, Ven.	rightly keeps rolling wheel of Dhamma	AN1.187
 Koṇḍañña, Añña Who Understood	foremost in seniority	AN1.188
 seniority	foremost	AN1.188
 Sāriputta, Ven.	foremost in great wisdom	AN1.189
-Mahāmoggallāna, Ven.	foremost in psychic power	AN1.190
+Moggallāna, Ven.	foremost in psychic power	AN1.190
 Mahākassapa, Ven.	foremost who speaks onnausterities	AN1.191
 Anuruddha, Ven.	foremost with divine eye	AN1.192
 Bhaddiya Kāḷigodhā, Ven.	foremost from eminent families 	AN1.193
@@ -2918,11 +2933,11 @@ Pilindavaccha, Ven.	foremost of those beloved by gods 	AN1.215
 Bāhiya Dārucīriya, Ven.	foremost with swift insight	AN1.216
 Kumārakassapa, Ven.	foremost with brilliant speech	AN1.217
 Mahākoṭṭhita, Ven.	foremost in analytical knowledge	AN1.218
-Ānanada, Ven.	foremost of very learned	AN1.219
-Ānanada, Ven.	foremost with good memory	AN1.220
-Ānanada, Ven.	foremost with quick grasp	AN1.221
-Ānanada, Ven.	foremost who are resolute	AN1.222
-Ānanada, Ven.	foremost as personal attendant	AN1.223
+Ānanda, Ven.	foremost of very learned	AN1.219
+Ānanda, Ven.	foremost with good memory	AN1.220
+Ānanda, Ven.	foremost with quick grasp	AN1.221
+Ānanda, Ven.	foremost who are resolute	AN1.222
+Ānanda, Ven.	foremost as personal attendant	AN1.223
 Uruvela Kassapa, Ven.	foremost with large congregation	AN1.224
 Kāḷudāyī, Ven.	foremost who inspires lay families	AN1.225
 Bakkula, Ven.	foremost with good health	AN1.226
@@ -3118,6 +3133,7 @@ personal existence (sakkāya)		xref identity (sakkāya)
 identity (sakkāya)	cessation of causes fear among gods	AN4.33
 gods	afraid of Buddha’s teachings on identity	AN4.33
 Vassakāra, brahmin		AN4.35
+noble method (ariya ñāya)	principles of goodness and skillfulness	AN4.35
 great man (mahāpurisa)	defined by brahmins	AN4.35
 great man (mahāpurisa)	defined by Buddha	AN4.35
 Buddha, the	footprints	AN4.36
@@ -3798,7 +3814,7 @@ monastic life	living with pain and sadness	AN5.5
 unskillfulness (akusala)	does not arise in one with powers of a trainee	AN5.6
 going forth (pabbajja)	as youth	AN5.7
 sense pleasures (kāma, kāmaguṇa)	abandoned when going forth	AN5.7
-baby	getting stick caught in throat	AN5.7
+babies	getting stick caught in throat	AN5.7
 nurse	caring for baby like Buddha caring for new monastics	AN5.7
 Buddha, the	caring for new monks who don’t have powers of trainee	AN5.7
 powers of a trainee (sekha bala)	ability to look after oneself	AN5.7
@@ -3938,13 +3954,13 @@ honesty	helps meditation	AN5.53
 monastics	old age	AN5.54
 meditation	times not conducive for	AN5.54
 practicing	times not conducive for	AN5.54
-old age	not good for meditation	AN5.54
+old age (jarā)	not good for meditation	AN5.54
 sickness	not good for meditation	AN5.54
 famine	not good for meditation	AN5.54
 schisms	not good for meditation	AN5.54
 youth	good time for meditation	AN5.54
 health	good time for meditation	AN5.54
-harmony in Saṅgha	good time for meditation	AN5.54
+harmony in Saṅgha (saṅghasāmaggī)	good time for meditation	AN5.54
 monastics	tempted by women	AN5.55
 men	minds occupied by women	AN5.55
 sexual activity	by monastics	AN5.55
@@ -4063,7 +4079,7 @@ mindfulness of death (maraṇassati)	using future perils	AN5.77
 mindfulness of death (maraṇassati)	using future perils	AN5.78
 schisms	not good for meditation	AN5.78
 famine	not good for meditation	AN5.78
-old age	not good for meditation	AN5.78
+old age (jarā)	not good for meditation	AN5.78
 sickness	not good for meditation	AN5.78
 perils (bhaya)	future	AN5.79
 poetry	will become more popular	AN5.79
@@ -4259,7 +4275,7 @@ Dhamma	continuation of, factors leading to	AN5.156
 admonishment	monastics being difficult to is cause for decline of Dhamma	AN5.156
 senior monastics	being slack leads to decline of Dhamma	AN5.156
 schisms	leads to decline of Dhamma	AN5.156
-harmony in Saṅgha	helps Dhamma continue	AN5.156
+harmony in Saṅgha (saṅghasāmaggī)	helps Dhamma continue	AN5.156
 Dhamma teaching	wrongly directed topics	AN5.157
 timidity (sārajja)	qualities that make one	AN5.158
 Udāyī, Ven	teaching Dhamma	AN5.159
@@ -4651,7 +4667,7 @@ memorizing	helps Dhamma continue	AN2.41
 Dhamma	continuation of, factors leading to	AN2.41
 assemblies	shallow and deep	AN2.42
 assemblies	divided and harmonious	AN2.43
-harmony in Saṅgha		AN2.43
+harmony in Saṅgha (saṅghasāmaggī)		AN2.43
 assemblies	of best and worst	AN2.44
 senior monastics	good and bad	AN2.45
 assemblies	noble and ignoble	AN2.45
@@ -4770,7 +4786,7 @@ improper attention (ayoniso manasikara)	cause of wrong view	AN2.125
 right view (sammā diṭṭhi)	cause	AN2.126
 proper attention (yoniso manasikāra)	leads to right view	AN2.126
 Sāriputta, Ven.	right to aspire to be like	AN2.130
-Mahāmoggallāna, Ven.	right to aspire to be like	AN2.130
+Moggallāna, Ven.	right to aspire to be like	AN2.130
 Khemā, Ven.	right to aspire to be like	AN2.131
 Uppalavaṇṇā, Ven.	right to aspire to be like	AN2.131
 Citta of Āḷavī, householder	right to aspire to be like	AN2.132
@@ -4818,10 +4834,10 @@ principles of cordiality (dhammā sāraṇīyā)		AN6.11
 loving-kindness (mettā)		xref principles of cordiality (dhammā sāraṇīyā)
 generosity (cāga)		xref principles of cordiality (dhammā sāraṇīyā)
 right view (sammā diṭṭhi)		xref principles of cordiality (dhammā sāraṇīyā)
-harmony in Saṅgha	principles of cordiality	AN6.11
+harmony in Saṅgha (saṅghasāmaggī)	principles of cordiality	AN6.11
 monastic rules (vinaya)	principles of cordiality	AN6.11
 principles of cordiality (dhammā sāraṇīyā)		AN6.12
-harmony in Saṅgha	principles of cordiality	AN6.12
+harmony in Saṅgha (saṅghasāmaggī)	principles of cordiality	AN6.12
 monastic rules (vinaya)	principles of cordiality	AN6.12
 escape (nissaraṇa)	elements of	AN6.13
 heart’s release by loving-kindness (mettā cetovimutti)  	cause for giving up ill will	AN6.13
@@ -4902,7 +4918,7 @@ eating in moderation	doesn’t lead to decline	AN6.31
 eating	immoderation	AN6.31
 respect (gārava)	doesn’t lead to decline	AN6.32
 conscience and prudence (hiri ottappa) 	doesn’t lead to decline	AN6.33
-Mahāmoggallāna, Ven.	visiting brahmā world	AN6.34
+Moggallāna, Ven.	visiting brahmā world	AN6.34
 gods	who were human disciples of the Buddha	AN6.34
 Tissa, Brahma	former monk	AN6.34
 stream-enterers (sotāpanna)	gods that have become	AN6.34
@@ -4998,8 +5014,8 @@ prudence (ottāpa)		xref conscience and prudence (hiri ottappa)
 conscience and prudence (hiri ottappa)		xref prudence (ottāpa)
 conscience (hiri)		xref conscience and prudence (hiri ottappa)
 conscience and prudence (hiri ottappa)		xref conscience (hiri)
-old age		xref old age, sickness, and death
-old age, sickness, and death		xref old age
+old age (jarā)		xref old age, sickness, and death
+old age, sickness, and death		xref old age (jarā)
 sickness		xref old age, sickness, and death
 death (maraṇa)		xref old age, sickness, and death
 offerings		xref giving (dāna)
@@ -5389,7 +5405,7 @@ sexual misconduct	leads to decline in a society	AN7.22
 arahants	protecting leads to growth	AN7.22
 growth	principles that lead to	AN7.22
 society	principles that lead to growth	AN7.22
-harmony in Saṅgha	leads to growth	AN7.23
+harmony in Saṅgha (saṅghasāmaggī)	leads to growth	AN7.23
 respect (gārava)	leads to growth	AN7.23
 monastic rules (vinaya)	not abolishing or creating	AN7.23
 craving for existence (bhavataṇhā)	prevents growth	AN7.23
@@ -5530,7 +5546,7 @@ death (maraṇa)	not causing sorrow	AN7.53
 death (maraṇa)	not causing sorrow	Pv4
 departed relatives	not causing sorrow	Pv4
 departed relatives	not causing sorrow	AN7.53
-uncdeclared (abyākata)	doubt over	AN7.54
+undeclared (abyākata)	doubt over	AN7.54
 wrong views	undeclared points	AN7.54
 extinguished in-between (antarāparinibbāyī)	like a spark	AN7.55
 stages of enlightenment		AN7.55
@@ -5548,7 +5564,7 @@ personal witness (kāyasakkhī)	known by gods of Brahmā’s Host	AN7.56
 one attained to view (diṭṭhippatto)	known by gods of Brahmā’s Host	AN7.56
 one freed by faith (saddhāvimutto)	known by gods of Brahmā’s Host	AN7.56
 Dhamma follower (dhammānusārī)	known by gods of Brahmā’s Host	AN7.56
-Mahāmoggallāna, Ven.	visiting brahmā world	AN7.56
+Moggallāna, Ven.	visiting brahmā world	AN7.56
 signless meditator (animittavihāri)		AN7.56
 Sīha, general		AN7.57
 faith (saddhā)	not needed when truth is known	AN7.57
@@ -5578,7 +5594,7 @@ seclusion (paṭisallīna, vivitta)	leads to enlightenment soon	AN7.60
 energetic (āraddhavīriya)	leads to enlightenment soon	AN7.60
 mindfulness (sati)	leads to enlightenment soon	AN7.60
 wisdom (paññā)	leads to enlightenment soon	AN7.60
-Mahāmoggallāna, Ven.	nodding off in meditation	AN7.61
+Moggallāna, Ven.	nodding off in meditation	AN7.61
 Buddha, the	visiting monks in trouble	AN7.61
 drowsiness (middha)	overcoming	AN7.61
 Dhamma	reflecting on to overcome drowsiness	AN7.61
@@ -5790,7 +5806,7 @@ insanity (amūḷha)	as legal defence	MN104
 concord		xref harmony (samagga)
 monastic rules (vinaya)	settling issues	MN104
 principles of cordiality (dhammā sāraṇīyā)	definition	MN104
-harmony in Saṅgha	principles of cordiality 	MN104
+harmony in Saṅgha (saṅghasāmaggī)	principles of cordiality 	MN104
 loving-kindness (mettā)	as principle of cordiality	MN104
 giving (dāna)	as principle of cordiality	MN104
 sharing	as principle of cordiality	MN104
@@ -5813,7 +5829,7 @@ loss (pārijuñña, byasana)	due to sickness	MN82
 loss (pārijuñña, byasana)	of wealth	MN82
 loss (pārijuñña, byasana)	of relatives	MN82
 decay (pārijuñña)		xref loss (pārijuñña, byasana)
-old age	reason to go forth	MN82
+old age (jarā)	reason to go forth	MN82
 poverty	reason to go forth	MN82
 sickness	reason to go forth	MN82
 relatives	loss of as reason to go forth	MN82
@@ -6164,7 +6180,7 @@ elements (dhātu)	sensuality and renunciation, malice and good will, and cruelty
 elements (dhātu)	of the sensual realm, the realm of luminous form, and the formless realm 	MN115
 elements (dhātu)	conditioned element and unconditioned element 	MN115
 sense bases (āyatanā)	skilled in	MN115
-dependent origination	skilled in	MN115
+dependent origination (paṭiccasamuppāda)	skilled in	MN115
 possible and impossible (ṭhāna aṭṭhāna)	skilled in what is	MN115
 possible and impossible (ṭhāna aṭṭhāna)	things someone who is accomplished in view cannot do 	MN115
 conditions (saṅkāra)	taking as permanent	MN115
@@ -6533,7 +6549,7 @@ fear (bhaya)		xref terror (chambhitatta)
 terror (chambhitatta)		xref fear (bhaya)
 killers	attacking a traveler as simile for terror	MN128
 excitement (uppila)	ending concentration	MN128
-treasures	coming upon hidden treasure as simile for excitement in meditation	MN129
+treasures	coming upon hidden treasure as simile for excitement in meditation	MN128
 discomfort (duṭṭhulla)	ending concentration	MN128
 inertia (duṭṭhulla)		xref discomfort (duṭṭhulla)
 excess energy (accāraddhavīriya)	ending concentration	MN128
@@ -6578,6 +6594,7 @@ underworld (vinipāta)	no good conduct in	MN129
 fools (bāla)	reborn in low families	MN129
 fools (bāla)	reborn in difficult human life	MN129
 gambler	simile for rebirth in good and bad destinations	MN129
+dice	simile of good and bad luck at dice is trivial thing compared to heaven and hell	MN129
 wise people		xref astute person (paṇḍita)
 astute person (paṇḍita)	characteristics	MN129
 astute person (paṇḍita)	can recognize another	MN129
@@ -6598,14 +6615,14 @@ knowledge of passing away and rebirth of beings (cutūpapātañāna)	in hell	MN1
 Yama, King	questioning beings reborn in hell	MN130
 divine messengers (devadūta)	description of	MN130
 messenger of the gods 		xref divine messengers (devadūta)
-baby	as divine messenger	MN130
+babies	as divine messenger	MN130
 birth (jāti)	being liable to	MN130
 birth (jāti)		xref rebirth
 rebirth		xref birth
 heedlessness (pamāda)	when seeing divine messengers	MN130
 results of actions	no one else can experience for us	MN130
 old person	as divine messenger	MN130
-old age	being liable to	MN130
+old age (jarā)	being liable to	MN130
 sick person	as divine messenger	MN130
 sickness	being liable to	MN130
 thieves (cora)	as divine messenger	MN130
@@ -6885,7 +6902,7 @@ identification (maññita)		xref conceiving (maññita)
 conceiving (maññita)	disease, boil, dart 	MN140
 sage (muni)	not being reborn, aging, dying	MN140
 rebirth	not being 	MN140
-old age	not aging	MN140
+old age (jarā)	not aging	MN140
 death (maraṇa)	not dying	MN140
 asking forgiveness	for not recognizing the Buddha	MN140
 Noble One’s Discipline (ariya vinaya)		xref training of the Noble One (ariya vinaya)
@@ -6895,7 +6912,7 @@ non-returner (anāgāmi)	examples of	MN140
 wheel of Dhamma	Buddha starts rolling	MN141
 Sāriputta, Ven.	praise of	MN141
 Sāriputta, Ven.	like the mother who gives birth	MN141
-Mahāmoggallāna, Ven.	like the one who raises the child 	MN141
+Moggallāna, Ven.	like the one who raises the child 	MN141
 four noble truths	as wheel of Dhamma	MN141
 four noble truths	analysis of	MN141
 noble truths of suffering	analysis of	MN141
@@ -6903,7 +6920,7 @@ noble truths of the origin of suffering	analysis of	MN141
 noble truths of the cessation of suffering	analysis of	MN141
 noble truths of the practice that leads to the cessation of suffering	analysis of	MN141
 birth (jāti)	as first noble truth	MN141
-old age	as first noble truth	MN141
+old age (jarā)	as first noble truth	MN141
 death (maraṇa)	as first noble truth	MN141
 sorrow (soka)	as first noble truth	MN141
 lamentation (parideva)	as first noble truth	MN141
@@ -6915,7 +6932,7 @@ not getting what you wish for	as first noble truth	MN141
 birth (jāti)	definition	MN141
 aggregates (khandha)	definition of birth	MN141
 sense bases (āyatanā)	definition of birth	MN141
-old age	definition	MN141
+old age (jarā)	definition	MN141
 faculties (indriya)	definition of old age	MN141
 death (maraṇa)	definition	MN141
 aggregates (khandha)	definition of death	MN141
@@ -6927,7 +6944,7 @@ sadness (domanassa)	definition	MN141
 distress (upāyāsa)	definition	MN141
 not getting what you wish for	as suffering: definition	MN141
 rebirth	wishing to not be reborn	MN141
-old age	wishing not to grow old	MN141
+old age (jarā)	wishing not to grow old	MN141
 death (maraṇa)	wishing not to die	MN141
 wishing (iccha)	wishing not to die, etc. in first noble truth	MN141
 suffering (dukkha)	in brief, aggregates are suffering	MN141
@@ -7573,7 +7590,7 @@ lay follower (upāsaka, upāsikā)	practices of	AN8.26
 welfare (hita)	ones own and others	AN8.25
 welfare (hita)	ones own and others	AN8.26
 powers (bala)	of different people	AN8.27
-baby	crying as power	AN8.27
+babies	crying as power	AN8.27
 women	anger as power	AN8.27
 thieves (cora)	weapons as power	AN8.27
 kings	authority as power	AN8.27
@@ -7979,6 +7996,7 @@ true knowledge and vision (yathābhūtañāṇadassana)	condition for disillusio
 disillusionment and dispassion (nibbidāvirāga)	conditioned by true knowledge and vision	AN8.81
 disillusionment and dispassion (nibbidāvirāga)	condition for knowledge and vision of freedom	AN8.81
 trees	like one without conditions	AN8.81
+lending an ear (ohitasota)		xref listening attentively (ohitasota)
 Puṇṇiya, Ven.	asking about inspiration for teaching	AN8.82
 Buddha, the	inspiration for teaching	AN8.82
 inspiration	things that inspire the Buddha to teach	AN8.82
@@ -7988,7 +8006,6 @@ approaching (upasaṅkami)	inspires the Buddha to teach	AN8.82
 worshiping (payirupāsati)	inspires the Buddha to teach	AN8.82
 questions, asking	inspires the Buddha to teach	AN8.82
 listening attentively (ohitasota)	inspires the Buddha to teach	AN8.82
-lending an ear (ohitasota)		xref listening attentively (ohitasota)
 remembering (dhāreti)	inspires the Buddha to teach	AN8.82
 investigation of meaning (atthūpaparikkhā)	inspires the Buddha to teach	AN8.82
 practicing according to the Dhamma (dhammānudhammappaṭipanna)	inspires the Buddha to teach	AN8.82
@@ -8027,7 +8044,7 @@ alms bowl		xref bowl
 bowl		xref alms bowl
 alms bowl	turning upside down, reason for	AN8.87
 lay follower (upāsaka, upāsikā)	turning bowl upside down for	AN8.87
-harmony in Saṅgha	laypeople trying to create disharmony	AN8.87
+harmony in Saṅgha (saṅghasāmaggī)	laypeople trying to create disharmony	AN8.87
 Saṅgha	laypeople trying to harm	AN8.87
 insulting (akkosa)	monastics 	AN8.87
 Buddha, the	criticizing	AN8.87
@@ -8405,17 +8422,18 @@ formless realm (arūpabhava)	mind not liable to return to	AN9.26
 sense restraint (indriyasaṁvara)	when mind is steady	AN9.26
 pillar	simile for well consolidated mind	AN9.26
 mind	like stone pillar	AN9.26
+stream-entry, factors of (sotāpattiyaṅga)		xref factors of stream-entry (sotāpattiyaṅga)
+confirmed confidence (aveccappasāda)		xref confidence (aveccappasāda)
+stream-enterers (sotāpanna)		xref factors of stream-entry (sotāpattiyaṅga)
 precepts, five	preventing dangers in present and future lives	AN9.27
 precepts, five	stream entry and	AN9.27
 stream-enterers (sotāpanna)	four factors of	AN9.27
 factors of stream-entry (sotāpattiyaṅga)	definition	AN9.27
-stream-entry, factors of (sotāpattiyaṅga)		xref factors of stream-entry (sotāpattiyaṅga)
-confirmed confidence (aveccappasāda)		xref confidence (aveccappasāda)
 confidence (aveccappasāda)	factor of stream-entry	AN9.27
 virtue (sīla)	loved by noble ones, as factor of stream-entry	AN9.27
-stream-enterers (sotāpanna)		xref factors of stream-entry (sotāpattiyaṅga)
 stream-enterers (sotāpanna)	virtues loved by noble ones	AN9.27
 Anāthapiṇḍika, householder	factors of stream-entry	AN9.27
+stream-enterers (sotāpanna)	declarations of	AN9.27
 resentment (āghāta)	grounds for, nine	AN9.29
 loved ones	grounds for resentment and	AN9.29
 resentment (āghāta)	removing	AN9.30
@@ -9449,7 +9467,7 @@ truthfulness		xref speaking truth
 wealth	rare in the world	AN10.73
 beauty	rare in the world	AN10.73
 health	rare in the world	AN10.73
-virtue	rare in the world	AN10.73
+virtue (sīla)	rare in the world	AN10.73
 monastic life	rare in the world	AN10.73
 friends	rare in the world	AN10.73
 learning	rare in the world	AN10.73
@@ -9459,7 +9477,7 @@ heaven	rare in the world	AN10.73
 wealth	hindered by laziness	AN10.73
 beauty	hindered by lack of adornment	AN10.73
 health	hindered by unsuitable activity	AN10.73
-virtue	hindered by bad friendship	AN10.73
+virtue (sīla)	hindered by bad friendship	AN10.73
 monastic life	hindered by lack of sense restraint	AN10.73
 friends	hindered by dishonesty	AN10.73
 learning	hindered by not reciting	AN10.73
@@ -9479,7 +9497,7 @@ practices (paṭipatti)	wrong practices hinder heaven	AN10.73
 wealth	nourished by initiative	AN10.73
 beauty	nourished by adornment	AN10.73
 health	nourished by suitable activity	AN10.73
-virtue	nourished by good friendship	AN10.73
+virtue (sīla)	nourished by good friendship	AN10.73
 monastic life	nourished by sense restraint	AN10.73
 friends	nourished by honesty	AN10.73
 learning	nourished by reciting	AN10.73
@@ -9538,11 +9556,292 @@ greed, hatred, delusion		xref greed (rāga)
 greed, hatred, delusion		xref greed (lobha)
 greed, hatred, delusion		xref hatred (dosa)
 greed, hatred, delusion		xref delusion (moha)
+muddle-mindedness (muṭṭhassacca)		xref unmindfulness (muṭṭhassacca)
+unmindfulness (muṭṭhassacca)		xref muddle-mindedness (muṭṭhassacca)
+obstinacy (thambha)		xref stubbornness (dovacassa)
+stubbornness (dovacassa)		xref obstinacy (thambha)
+stubbornness (dovacassa)		xref admonishment
+admonishment		xref stubbornness (dovacassa)
 birth (jāti)	if birth was not found, Buddhas would not arise in the world	AN10.76
-old age	if old age was not found, Buddhas would not arise in the world	AN10.76
+old age (jarā)	if old age was not found, Buddhas would not arise in the world	AN10.76
 death (maraṇa)	if death was not found, Buddhas would not arise in the world	AN10.76
 Buddhas	arise because birth, old age, and death are found in the world	AN10.76
 greed, hatred, delusion	must be given up to give up birth, old age, death	AN10.76
 birth (jāti)	greed, hatred, delusion must be given up in order to give up birth	AN10.76
-old age	greed, hatred, delusion must be given up in order to give up old age	AN10.76
+old age (jarā)	greed, hatred, delusion must be given up in order to give up old age	AN10.76
 death (maraṇa)	greed, hatred, delusion must be given up in order to give up death	AN10.76
+greed, hatred, delusion	to give up, first three fetters must be given up	AN10.76
+sīlabbata-parāmāsa	must be given up to give up greed, hatred, delusion	AN10.76
+identity view (sakkāyadiṭṭhi)	must be given up to give up greed, hatred, delusion	AN10.76
+doubt (vicikicchā)	must be given up to give up greed, hatred, delusion	AN10.76
+improper attention (ayoniso manasikara)	must be given up to give up to give up three lower fetters.	AN10.76
+wrong path (kummagga)	must be given up to give up to give up three lower fetters.	AN10.76
+mental sluggishness (cetaso līnatta)	must be given up to give up to give up three lower fetters.	AN10.76
+sīlabbata-parāmāsa	to give up, improper attention, following a wrong path, and mental sluggishness must be given up	AN10.76
+identity view (sakkāyadiṭṭhi)	to give up, improper attention, following a wrong path, and mental sluggishness must be given up	AN10.76
+doubt (vicikicchā)	to give up, improper attention, following a wrong path, and mental sluggishness must be given up	AN10.76
+improper attention (ayoniso manasikara)	to give up, unmindfulness, lack of situational awareness, and distracted mind must be given up	AN10.76
+wrong path (kummagga)	to give up, unmindfulness, lack of situational awareness, and distracted mind must be given up	AN10.76
+mental sluggishness (cetaso līnatta)	to give up, unmindfulness, lack of situational awareness, and distracted mind must be given up	AN10.76
+unmindfulness (muṭṭhassacca)	must be given up to give up improper attention, following a wrong path, and mental sluggishness	AN10.76
+situational awareness (sampajañña)	lack of must be given up to give up improper attention, following a wrong path, and mental sluggishness	AN10.76
+distracted mind (cetaso vikkhepa)	must be given up to give up improper attention, following a wrong path, and mental sluggishness	AN10.76
+unmindfulness (muṭṭhassacca)	to give up, not wanting to see the noble ones, not wanting to hear the teaching of the noble ones, and a fault-finding mind must be given up	AN10.76
+situational awareness (sampajañña)	to give up, not wanting to see the noble ones, not wanting to hear the teaching of the noble ones, and a fault-finding mind must be given up	AN10.76
+distracted mind (cetaso vikkhepa)	to give up, not wanting to see the noble ones, not wanting to hear the teaching of the noble ones, and a fault-finding mind must be given up	AN10.76
+noble ones (ariya)	not wanting to see	AN10.76
+listening to Dhamma	not wanting to listen	AN10.76
+fault-finding mind (upārambhacittata)	giving up	AN10.76
+restlessness (uddhacca)	giving up	AN10.76
+restraint	to remove lack of restraint	AN10.76
+virtue (sīla)	giving up unvirtuous conduct	AN10.76
+faith (saddhā)	cause of lack of and giving up	AN10.76
+uncharitableness (avadaññu)	cause of and giving up	AN10.76
+laziness (kosajja)	cause of and giving up	AN10.76
+disrespect (anādariya)	cause of and giving up	AN10.76
+stubbornness (dovacassa)	cause of and giving up	AN10.76
+bad friends	cause of and giving up	AN10.76
+conscience and prudence (hiri ottappa)	cause of lack of and giving up	AN10.76
+heedlessness (pamāda)	cause of and giving up	AN10.76
+unwholesome chain of causality	heedlessness to birth, old age and death	AN10.76
+wholesome chain of causality	lack of conscience and prudence to ending birth, old age and death.	AN10.76
+crow	ten bad qualities of	AN10.77
+bad monastics	ten qualities of like qualities of crow	AN10.77
+Nigaṇṭhas	ten bad qualities of	AN10.78
+resentment (āghāta)	grounds for, ten	AN10.79
+resentment (āghāta)	removing	AN10.80
+Bāhuna, Ven.	asking about Buddha’s liberation	AN10.81
+Buddha, the	things he has escaped from	AN10.81
+form (rūpa)	Buddha has escaped from	AN10.81
+feelings (vedanā)	Buddha has escaped from	AN10.81
+perceptions (saññā)	Buddha has escaped from	AN10.81
+formations (saṅkāra)	Buddha has escaped from	AN10.81
+consciousness (viññāṇa)	Buddha has escaped from	AN10.81
+birth (jāti)	Buddha has escaped from	AN10.81
+old age (jarā)	Buddha has escaped from	AN10.81
+death (maraṇa)	Buddha has escaped from	AN10.81
+suffering (dukkha)	Buddha has escaped from	AN10.81
+defilements (kilesa)	Buddha has escaped from	AN10.81
+water lilly	water not clinging to as simile for Buddha’s escape	AN10.81
+lotus	water not clinging to as simile for Buddha’s escape	AN10.81
+Buddha, the	like lotus or lilly that water does not cling to	AN10.81
+learned (bahussutā)		xref learned memorizer (bahussuto sutadharo)
+learned memorizer (bahussuto sutadharo)		xref learned (bahussutā)
+memorizing		xref learned memorizer (bahussuto sutadharo)
+learned memorizer (bahussuto sutadharo)		xref memorizing
+faith (saddhā)	essential for monastic’s development	AN10.82
+virtue (sīla)	essential for monastic’s development	AN10.82
+learned memorizer (bahussuto sutadharo)	essential for monastic’s development	AN10.82
+easy to admonish (suvaca)	essential for monastic’s development	AN10.82
+good friends	essential for monastic’s development	AN10.82
+energetic (āraddhavīriya)	essential for monastic’s development	AN10.82
+mindfulness (sati)	essential for monastic’s development	AN10.82
+contentment (santuṭṭhi)	essential for monastic’s development	AN10.82
+few wishes (appiccha)	essential for monastic’s development	AN10.82
+right view (sammā diṭṭhi)	essential for monastic’s development	AN10.82
+Puṇṇiya, Ven.	asking about inspiration for teaching	AN10.83
+Buddha, the	inspiration for teaching	AN10.83
+inspiration	things that inspire the Buddha to teach	AN10.83
+Buddha, the	teaching when inspired	AN10.83
+faith (saddhā)	inspires the Buddha to teach	AN10.83
+approaching (upasaṅkami)	inspires the Buddha to teach	AN10.83
+worshiping (payirupāsati)	inspires the Buddha to teach	AN10.83
+questions, asking	inspires the Buddha to teach	AN10.83
+listening attentively (ohitasota)	inspires the Buddha to teach	AN10.83
+remembering (dhāreti)	inspires the Buddha to teach	AN10.83
+investigation of meaning (atthūpaparikkhā)	inspires the Buddha to teach	AN10.83
+practicing according to the Dhamma (dhammānudhammappaṭipanna)	inspires the Buddha to teach	AN10.83
+good speaker (kalyāṇavāco)	inspires the Buddha to teach	AN10.83
+Dhamma teaching	when someone teaches, it inspires the Buddha to teach	AN10.83
+sequential path	proximate causes	AN10.83
+Mahāmoggallāna, Ven.		xref Moggallāna, Ven.
+overestimation (adhimāna)		xref overconfidence
+overconfidence		xref overestimation (adhimāna)
+overestimation (adhimāna)		xref false spiritual claims
+false spiritual claims		xref overestimation (adhimāna)
+declaring enlightenment		xref overestimation (adhimāna)
+overestimation (adhimāna)		xref declaring enlightenment
+anger (kodha)		xref irritability (kodhana)
+irritability (kodhana)		xref anger (kodha)
+Moggallāna, Ven.	on overestimation	AN10.84
+overestimation (adhimāna)		AN10.84
+declaring enlightenment		AN10.84
+irritability (kodhana)	without giving up, cannot become arahant	AN10.84
+hostility (upanāha)	without giving up, cannot become arahant	AN10.84
+disdain (makkha)	without giving up, cannot become arahant	AN10.84
+contemptuousness (paḷāsa)	without giving up, cannot become arahant	AN10.84
+jealousy (issā)	without giving up, cannot become arahant	AN10.84
+stinginess (maccharī)	without giving up, cannot become arahant	AN10.84
+deviousness (saṭha)	without giving up, cannot become arahant	AN10.84
+deceit (kuhaka/māyāvī)	without giving up, cannot become arahant	AN10.84
+evil wishes (pāpiccha)	without giving up, cannot become arahant	AN10.84
+stopping when more left to do	means decline in the teachings	AN10.84
+Mahācunda, Ven.	on boasting	AN10.85
+boasting	about attainments	AN10.85
+false spiritual claims	simile of person not paying debt	AN10.85
+false spiritual claims	of meditative attainments	AN10.85
+debt (iṇa)	as a simile for false claims of attainment	AN10.85
+overestimation (adhimāna)	declaring enlightenment	AN10.86
+Mahā Kassapa, Ven	on overestimation	AN10.86
+learned (bahussutā)	can cause overestimation	AN10.86
+covetousness (abhijjhā)	means decline in the teachings	AN10.86
+ill will (vyāpada, byāpada)	means decline in the teachings	AN10.86
+dullness and drowsiness (thinamiddha)	means decline in the teachings	AN10.86
+restlessness (uddhacca)	means decline in the teachings	AN10.86
+doubt (vicikicchā)	means decline in the teachings	AN10.86
+work	relishing means decline in the teachings	AN10.86
+talk (bhassa)	relishing means decline in the teachings	AN10.86
+sleep	relishing means decline in the teachings	AN10.86
+socializing	relishing means decline in the teachings	AN10.86
+retreat		xref seclusion (paṭisallīna, vivitta)
+colt, wild		xref horses
+thoroughbred horse		xref horses
+wishing (iccha)	just wishing doesn’t bring results	AN10.87
+harmony (sāmaññā)	qualities that do not lead to	AN10.87
+respect (gārava)	qualities that do not lead to	AN10.87
+harmony (sāmaññā)	qualities that lead to	AN10.87
+respect (gārava)	qualities that lead to	AN10.87
+litigation (adhikaraṇa)	raising doesn’t lead to respect and harmony	AN10.87
+training (sikkhā)	not wanting to doesn’t lead to respect and harmony	AN10.87
+evil wishes (pāpiccha)	doesn’t lead to respect and harmony	AN10.87
+irritability	doesn’t lead to respect and harmony	AN10.87
+disdain (makkha)	doesn’t lead to respect and harmony	AN10.87
+deviousness (saṭha)	doesn’t lead to respect and harmony	AN10.87
+deceit (kuhaka/māyāvī)	doesn’t lead to respect and harmony	AN10.87
+listening to Dhamma	not listening to doesn’t lead to respect and harmony	AN10.87
+seclusion (paṭisallīna, vivitta)	not being in seclusion doesn’t lead to respect and harmony	AN10.87
+hospitality (paṭisanthāra)	not being hospitable doesn’t lead to respect and harmony	AN10.87
+horses	thoroughbred, simile for good mendicant	AN10.87
+horses	wild colt, simile for bad mendicant	AN10.87
+litigation (adhikaraṇa)	not raising leads to respect and harmony	AN10.87
+training (sikkhā)	wanting to leads to respect and harmony	AN10.87
+few wishes (appiccha)	leads to respect and harmony	AN10.87
+irritability	not having leads to respect and harmony	AN10.87
+disdain (makkha)	not having leads to respect and harmony	AN10.87
+deviousness (saṭha)	not having leads to respect and harmony	AN10.87
+deceit (kuhaka/māyāvī)	not having leads to respect and harmony	AN10.87
+listening to Dhamma	leads to respect and harmony	AN10.87
+seclusion (paṭisallīna, vivitta)	leads to respect and harmony	AN10.87
+hospitality (paṭisanthāra)	leads to respect and harmony	AN10.87
+spiritual companion (sabrahmacārī)	abusing and insulting, results of	AN10.88
+criticizing noble ones	results of	AN10.88
+hell (niraya)	criticizing noble ones	AN10.88
+monastic life	dissatisfaction with, result of criticizing	AN10.88
+offences against monastic rules (āpatti)	committing as result of criticizing	AN10.88
+overestimation (adhimāna)	criticizing noble ones	AN10.88
+sickness	from criticizing noble ones	AN10.88
+mental illness	from criticizing noble ones	AN10.88
+Kokālika	criticizes chief disciples	AN10.89
+criticizing noble ones	result of	AN10.89
+Tudu the independent brahmā	warning Kokālika	AN10.89
+non-returner (anāgāmi)	wrong idea that they cannot visit other worlds	AN10.89
+Sahampati, Brahmā	reports Kokālika’s birth in hell	AN10.89
+speech	simile of axe	AN10.89
+dice	simile of good and bad luck at dice is trivial thing compared to heaven and hell	AN10.89
+hell (niraya)	actions that lead to	AN10.89
+hell (niraya)	torture in	AN10.89
+hell (niraya)	lifespan in	AN10.89
+mustard seeds, cartload	like length of hell	AN10.89
+Sāriputta, Ven.	accused by Kokālika	AN10.89
+Moggallāna, Ven.	accused by Kokālika	AN10.89
+impermanence	seeing all conditions as is power of arahant	AN10.90
+pit	of glowing coals, simile for sensual pleasures	AN10.90
+sense pleasures	like pit of glowing coals	AN10.90
+seclusion (paṭisallīna, vivitta)	power of an arahant	AN10.90
+arahants	loving seclusion and renunciation	AN10.90
+foundations of mindfulness (satipaṭṭhāna)	arahant has well developed	AN10.90
+foundations of mindfulness (satipaṭṭhāna)	power of an arahant	AN10.90
+right effort, four (sammappadhānā)	power of an arahant	AN10.90
+bases of psychic power (iddhipāda)	arahant has well developed	AN10.90
+faculties (indriya)	five, arahant has well developed	AN10.90
+powers (bala)	five, arahant has well developed	AN10.90
+awakening factors, seven (bojjhaṅga)	arahant has well developed	AN10.90
+noble eightfold path (ariya aṭṭhangika magga)	arahant has well developed	AN10.90
+hedonists (kāmabhogī)		xref pleasure seekers (kāmabhogī)
+pleasure seekers (kāmabhogī)	gaining wealth using legitimate and illegitimate means	AN10.91
+wealth	gained legitimately and illegitimately	AN10.91
+wealth	using to make people happy	AN10.91
+wealth	not using to make people happy	AN10.91
+wealth	not making good use of 	AN10.91
+wealth	not using to make merit	AN10.91
+family	making happy with wealth	AN10.91
+wealth	using to make merit	AN10.91
+wealth	using to care for family	AN10.91
+wealth	attachment to	AN10.91
+wealth	enjoying without attachment	AN10.91
+milk	simile of milk to cream of ghee for refined use of wealth	AN10.91
+ghee	simile of milk to cream of ghee for refined use of wealth	AN10.91
+noble cycle (ariya ñāya)		xref noble method (ariya ñāya)
+precepts, five	preventing dangers in present and future lives	AN10.92
+precepts, five	stream entry and	AN10.92
+stream-enterers (sotāpanna)	four factors of	AN10.92
+factors of stream-entry (sotāpattiyaṅga)	definition	AN10.92
+stream-enterers (sotāpanna)	declarations of	AN10.92
+dangers	from breaking precepts	AN10.92
+confidence (aveccappasāda)	factor of stream-entry	AN10.92
+virtue (sīla)	loved by noble ones, as factor of stream-entry	AN10.92
+stream-enterers (sotāpanna)	virtues loved by noble ones	AN10.92
+Anāthapiṇḍika, householder	factors of stream-entry	AN10.92
+noble method (ariya ñāya)	dependent origination	AN10.92
+“when this exists, that comes to be…”	noble disciple reflects	AN10.92
+dependent origination (paṭiccasamuppāda)	as noble method	AN10.92
+wanderers of other sects (aññatitthiya paribbājaka)	Anāthapiṇḍika visiting	AN10.93
+Anāthapiṇḍika, householder	visiting wanderers of other sects	AN10.93
+views (diṭṭhi)	as conditioned	AN10.93
+Dhamma teaching	by lay people	AN10.93
+laypeople	teaching Dhamma	AN10.93
+Vajjiyamāhita, householder	asked about self mortification	AN10.94
+wanderers of other sects (aññatitthiya paribbājaka)	asking about self mortification	AN10.94
+mortification (tapojigucchā)	what is and is not condemned by the Buddha	AN10.94
+annihilationist (venayika)	who refuses definite statements	AN10.94
+observances (samādāna)	what should and should not be undertaken	AN10.94
+letting go (paṭinissagga)	what should and should not be let go of	AN10.94
+freedom (vimutti)	what should and should not be undertaken	AN10.94
+skillful qualities (kusala dhamma)	mortification, etc., that increases	AN10.94
+unskillful qualities (akusala dhamma)	mortification, etc., that decreases	AN10.94
+undeclared (abyākata)		xref speculation about the world (lokacintā)
+speculation about the world (lokacintā)		xref undeclared (abyākata)
+undeclared (abyākata)	things undeclared by the Buddha	AN10.95
+views (diṭṭhi)	not declared	AN10.95
+Dhamma teaching	reason Buddha teaches	AN10.95
+enlightenment	will all attain?	AN10.95
+Ānanda, Ven.	will all attain enlightenment?	AN10.95
+citadel	simile for all who have attained enlightenment do so in certain way	AN10.95
+guards	simile for all who have attained enlightenment do so in certain way	AN10.95
+cats	simile for all who have attained enlightenment do so in certain way	AN10.95
+hindrances (nīvarana)	all who attain enlightenment remove	AN10.95
+foundations of mindfulness (satipaṭṭhāna)	all who attain enlightenment establish	AN10.95
+awakening factors, seven (bojjhaṅga)	all who attain enlightenment develop	AN10.95
+Kokanada, wanderer	asking about views	AN10.96
+views (diṭṭhi)	refuting	AN10.96
+Ānanda, Ven.	views 	AN10.96
+giving (dāna)	worthy of gifts, qualities of one who is	AN10.97
+virtue (sīla)	worthy of gifts	AN10.97
+learned (bahussutā)	worthy of gifts	AN10.97
+good friends	worthy of gifts	AN10.97
+right view (sammā diṭṭhi)	worthy of gifts	AN10.97
+psychic powers	worthy of gifts	AN10.97
+divine ear (dibbāsota)	worthy of gifts	AN10.97
+mind reading	worthy of gifts	AN10.97
+recollection of past lives	worthy of gifts	AN10.97
+knowledge of passing away and rebirth of beings (cutūpapātañāna)	worthy of gifts	AN10.97
+arahants	worthy of gifts	AN10.97
+senior monastics	qualities of one who lives comfortably	AN10.98
+virtue (sīla)	senior monastics who are live comfortably	AN10.98
+learned (bahussutā)	senior monastics who are live comfortably	AN10.98
+expert in Vinaya (vinayadhara)	senior monastics who are live comfortably	AN10.98
+disciplinary issues (adhikaraṇa)	senior monastics who are skilled in live comfortably	AN10.98
+love for the Dhamma (dhammakāma)	senior monastics who have live comfortably	AN10.98
+contentment (santuṭṭhi)	senior monastics who are live comfortably	AN10.98
+inhabited areas (antaraghare)	senior monastics who are restrained live comfortably	AN10.98
+jhānas	senior monastics who have live comfortably	AN10.98
+hares		xref rabbits
+wilderness (arañña)	living in is difficult	AN10.99
+Upāli, Ven.	asking to live in wilderness	AN10.99
+seclusion (paviveka)	hard to maintain	AN10.99
+concentration (samādhi)	required for wilderness dwelling	AN10.99
+elephants	simile for monk with concentration living in wilderness	AN10.99
+rabbits	simile for monk without concentration living in wilderness	AN10.99
+cats	simile for monk without concentration living in wilderness	AN10.99
+babies	simile for spiritual immaturity	AN10.99
+sequential path	from arising of Buddha to liberation	AN10.99
