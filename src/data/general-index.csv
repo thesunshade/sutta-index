@@ -463,6 +463,7 @@ awakening factors, seven (bojjhaṅga)		Kp4
 noble eightfold path (ariya aṭṭhangika magga)		Kp4
 abodes of beings	nine	Kp4
 ten factors		Kp4
+karma		xref actions (kamma)
 gods	asking questions	Kp5
 blessings (maṅgala)		Kp5
 association	with good people	Kp5
@@ -1247,7 +1248,7 @@ once returner (sakadāgāmī)	attached to sense pleasure	Iti96
 non-returner (anāgāmi)	attached to rebirth	Iti96
 danger in slightest fault		Iti97
 virtue (sīla)	definition	Iti97
-knowledges (vijja)	three	Iti99
+knowledges, three (vijja)	three	Iti99
 born from mouth	disciples of Buddha	Iti100
 Buddha, the	as doctor	Iti100
 requisites, four	as trifles	Iti101
@@ -1379,8 +1380,8 @@ Dhamma teachers	simile of boat	Snp2.8
 listening to Dhamma		Snp2.9
 Dhamma	delight in	Snp2.9
 unattractiveness		xref perception of ugliness (asubhasañña)
-threefold knowledge		xref knowledges (vijja)
-triple knowledge		xref knowledges (vijja)
+threefold knowledge		xref knowledges, three (vijja)
+triple knowledge		xref knowledges, three (vijja)
 sleep	uselessness of	Snp2.10
 heedlessness (pamāda)	as dust	Snp2.10
 energy (vīriya)		Snp2.10
@@ -2222,7 +2223,7 @@ signless (animitta)		Thig5.8
 merit (puññā)	giving to noble disciples	Thig5.9
 inspiration	from watching water flowing	Thig5.1
 inspiration	from watching elephant trainer	Thig3.4
-knowledges (vijja)	three	Thig5.11
+knowledges, three (vijja)	three	Thig5.11
 honor	your Dhamma teacher	Thig5.11
 widdows		Thig5.12
 grieving	overcoming	Thig6.1
@@ -2460,12 +2461,12 @@ giving (dāna)	smallest gift has value	AN3.57
 giving (dāna)	to virtuous people	AN3.57
 Vacchagotta, wanderer	asking about giving	AN3.57
 Tikaṇṇa, brahmin	asking about triple knowledge	AN3.58
-knowledges (vijja)	three	AN3.58
+knowledges, three (vijja)	three	AN3.58
 Jāṇussoṇi, brahmin	asking about triple knowledge	AN3.58
 brahmins	brahmins’ triple knowledge	AN3.58
 brahmins	brahmins’ triple knowledge	AN3.59
 sacrifices (yañña)	whom to offer to	AN3.59
-knowledges (vijja)	three	AN3.59
+knowledges, three (vijja)	three	AN3.59
 Saṅgārava, brahmin	asking how mendicants benefit others	AN3.60
 mendicants	benefiting the world	AN3.60
 going forth (pabbajja)	benefiting the world	AN3.60
@@ -6214,8 +6215,12 @@ Gijjhakūṭa, mountain		MN116
 Mount Vulture’s Peak		xref Gijjhakūṭa, mountain
 Isigili, mountain		MN116
 paccekabuddhas	on Isigili mountain	MN116
+wrong livelihood (micchā ājīva)		xref right livelihood (sammā ājīva)
+right livelihood (sammā ājīva)		xref wrong livelihood (micchā ājīva)
+right livelihood (sammā ājīva)		xref livelihood
+livelihood		xref right livelihood (sammā ājīva)
 noble right concentration (ariyo sammāsamādhi)	conditions of	MN117
-noble eightfold path (ariya aṭṭhangika magga)		MN117
+noble eightfold path (ariya aṭṭhangika magga)	sequential causes	MN117
 unification of mind (cittassa ekaggatā)	condition for noble right concentration	MN117
 right view (sammā diṭṭhi)	comes first	MN117
 wrong view (micchā diṭṭhi)	definition	MN117
@@ -6230,10 +6235,6 @@ verbal formations (vacīsaṅkhāra)		MN117
 right speech (sammā vācā)	two kinds	MN117
 right action (sammā kammanta)	two kinds	MN117
 right livelihood (sammā ājīva)	two kinds	MN117
-wrong livelihood (micchā ājīva)		xref right livelihood (sammā ājīva)
-right livelihood (sammā ājīva)		xref wrong livelihood (micchā ājīva)
-right livelihood (sammā ājīva)		xref livelihood
-livelihood		xref right livelihood (sammā ājīva)
 wrong livelihood (micchā ājīva)	definition	MN117
 right knowledge (sammā ñāṇa)	from right concentration	MN117
 right freedom (sammā vimutti)	from right knowledge	MN117
@@ -8779,7 +8780,7 @@ expert in Vinaya (vinayadhara)	not enough just to be	AN10.8
 wilderness (arañña)	not enough just to live in	AN10.8
 inspiration	qualities of one who is inspiring	AN10.8
 formless attainments	not enough just to have	AN10.9
-knowledges (vijja)	not enough just to have three knowledges	AN10.10
+knowledges, three (vijja)	not enough just to have	AN10.10
 dwellings (senāsana)	using to attain nibbāna	AN10.11
 faith (saddhā)	helpful for attaining nibbāna	AN10.11
 health	helpful for attaining nibbāna	AN10.11
@@ -8895,7 +8896,7 @@ world, the	Buddha knows world with elements	AN10.21
 elements (dhātu)	Buddha knows world with elements	AN10.21
 beings (satta)	Buddha knows conviction/disposition of beings	AN10.21
 faculties (indriya)	Buddha knows faculties of beings	AN10.21
-knowledges (vijja)	three, as power of a Thathāgata	AN10.21
+knowledges, three (vijja)	power of a Thathāgata	AN10.21
 recollection of past lives	as power of a Thathāgata	AN10.21
 knowledge of passing away and rebirth of beings (cutūpapātañāna)	as power of a Thathāgata	AN10.21
 knowledge of destruction of the taints (āsavakkhayañāṇa)	as power of a Thathāgata	AN10.21
@@ -9845,3 +9846,168 @@ rabbits	simile for monk without concentration living in wilderness	AN10.99
 cats	simile for monk without concentration living in wilderness	AN10.99
 babies	simile for spiritual immaturity	AN10.99
 sequential path	from arising of Buddha to liberation	AN10.99
+jhānas	better the higher you go	AN10.99
+formless attainments	better the higher you go	AN10.99
+Saṅgha	living in is comfortable	AN10.99
+samaṇasaññā		xref perceptions for ascetics (samaṇasaññā)
+precepts		xref monastic rules (vinaya)
+perceptions for ascetics (samaṇasaññā)	three	AN10.101
+monastic rules (vinaya)	followed when the perceptions for ascetics are developed	AN10.101
+contentment (santuṭṭhi)	when the perceptions for ascetics are developed	AN10.101
+humility	when the perceptions for ascetics are developed	AN10.101
+training (sikkhā)	want to when the perceptions for ascetics are developed	AN10.101
+reflection (paṭisaṅkhā)	on using when the perceptions for ascetics are developed	AN10.101
+energetic (āraddhavīriya)	when the perceptions for ascetics are developed	AN10.101
+knowledges, three (vijja)	fulfilled when seven factors of enlightenment are developed	AN10.102
+awakening factors, seven (bojjhaṅga)	lead to three knowledges	AN10.102
+knowledges, three (vijja)	definition	AN10.102
+noble eightfold path (ariya aṭṭhangika magga)	sequential causes	AN10.103
+wrong eightfold path	sequential causes	AN10.103
+wrong eightfold path	leads to failure	AN10.103
+wrong knowledge (micchā ñāṇa)	relying on leads to failure	AN10.103
+wrong freedom (micchā vimutti)	relying on leads to failure	AN10.103
+right knowledge (sammā ñāṇa)	relying on leads to success	AN10.103
+right freedom (sammā vimutti)	relying on leads to success	AN10.103
+noble eightfold path (ariya aṭṭhangika magga)	relying on leads to success	AN10.103
+neem		xref seeds
+wrong view (micchā diṭṭhi)	all actions done based on wrong view will be bad	AN10.104
+seeds	neem seed, simile for wrong view leading to wrong actions	AN10.104
+seeds	sugarcane, rice, grape: simile for right view leading to good actions	AN10.104
+right view (sammā diṭṭhi)	all actions done based on right view will be good	AN10.104
+noble eightfold path (ariya aṭṭhangika magga)	sequential causes	AN10.105
+wrong eightfold path	sequential causes	AN10.105
+knowledge (vijja)	precedes skillful qualities	AN10.105
+conscience and prudence (hiri ottappa)	comes from knowledge	AN10.105
+right liberation (sammā vimutti)		xref right freedom (sammā vimutti)
+wrong eightfold path	removed by noble eightfold path	AN10.106
+wrong knowledge (micchā ñāṇa)	removed by right knowledge	AN10.106
+wrong liberation (micchā vimutti)	removed by right liberation	AN10.106
+noble eightfold path (ariya aṭṭhangika magga)	removes wrong eightfold path	AN10.106
+right knowledge (sammā ñāṇa)	removes wrong knowledge	AN10.106
+right freedom (sammā vimutti)	removes wrong freedom	AN10.106
+wrong eightfold path	removed by noble eightfold path	AN10.107
+wrong knowledge (micchā ñāṇa)	removed by right knowledge	AN10.107
+wrong liberation (micchā vimutti)	removed by right liberation	AN10.107
+noble eightfold path (ariya aṭṭhangika magga)	removes wrong eightfold path	AN10.107
+right knowledge (sammā ñāṇa)	removes wrong knowledge	AN10.107
+right freedom (sammā vimutti)	removes wrong freedom	AN10.107
+wrong eightfold path	removed by noble eightfold path	AN10.108
+wrong knowledge (micchā ñāṇa)	removed by right knowledge	AN10.108
+wrong liberation (micchā vimutti)	removed by right liberation	AN10.108
+noble eightfold path (ariya aṭṭhangika magga)	removes wrong eightfold path	AN10.108
+right knowledge (sammā ñāṇa)	removes wrong knowledge	AN10.108
+right freedom (sammā vimutti)	removes wrong freedom	AN10.108
+purgative (virecana)	ordinary and spiritual	AN10.108
+emetic (vamana)	ordinary and spiritual	AN10.109
+one beyond training (asekha)	definition	AN10.111
+one beyond training (asekha)	qualities of	AN10.112
+non-Dhamma (adhamma)	definition	AN10.113
+Dhamma and non-Dhamma	overcoming one with the other	AN10.114
+Dhamma	definition	AN10.113
+wrong eightfold path	non-Dhamma	AN10.114
+heartwood	simile of asking question from monk when should have asked the Buddha	AN10.115
+Ānanda, Ven.	explaining a brief statement of the Buddha	AN10.115
+Dhamma and non-Dhamma	refuting one with the other	AN10.116
+assemblies	contrary and in line with Dhamma	AN10.116
+Saṅgārava, brahmin	asking about near and far shore	AN10.117
+near shore (orima)	definition	AN10.117
+far shore (pārima)	definition	AN10.117
+noble eightfold path (ariya aṭṭhangika magga)	far shore	AN10.117
+wrong eightfold path	near shore	AN10.117
+far shore (pārima)	few who cross to	AN10.117
+seclusion (paviveka)	hard to enjoy	AN10.117
+awakening factors, seven (bojjhaṅga)	one with factors developed is quenched	AN10.117
+Jāṇussoṇi, brahmin	performing a brahmin ceremony	AN10.119
+brahmins	ceremonies of	AN10.119
+ceremonies	of “descent” (paccorohaṇī)	AN10.119
+fire worship (aggika)	and ceremony of “descent (paccorohaṇī)	AN10.119
+ceremonies	Buddha gives his meaning of	AN10.119
+training of the Noble One (ariya vinaya)	meaning of a ceremony in	AN10.119
+wrong eightfold path	has bad results	AN10.119
+right view (sammā diṭṭhi)	forerunner of skillful qualities	AN10.121
+dawn	forerunner of sunrise, simile for right view	AN10.121
+sunrise	follows dawn, simile for right view	AN10.121
+wholesome chain of causality	noble eightfold path	AN10.121
+defilements (kilesa)		xref taints (āsava)
+right knowledge (sammā ñāṇa)	leads to end of defilements	AN10.122
+right freedom (sammā vimutti)	leads to end of defilements	AN10.122
+noble eightfold path (ariya aṭṭhangika magga)	leads to end of defilements	AN10.122
+taints (āsava)	ended by noble eightfold path, etc.	AN10.122
+wrong eightfold path	wrong way	AN10.132
+noble eightfold path (ariya aṭṭhangika magga)	right way	AN10.133
+association (sevitabba)	qualities of person to associate with	AN10.155
+Jāṇussoṇi, brahmin	performing a brahmin ceremony	AN10.167
+brahmins	ceremonies of	AN10.167
+ceremonies	of “descent” (paccorohaṇī)	AN10.167
+fire worship (aggika)	and ceremony of “descent (paccorohaṇī)	AN10.167
+ceremonies	Buddha gives his meaning of	AN10.167
+training of the Noble One (ariya vinaya)	meaning of a ceremony in	AN10.167
+precepts, five	breaking gives bad result in present and future life	AN10.167
+wrong action (micchā kammanta)	bad result in present and future life	AN10.167
+wrong speech (micchā vacā)	bad result in present and future life	AN10.167
+wrong intention (micchā saṅkappa)	bad result in present and future life	AN10.167
+bad actions	bad result in present and future life	AN10.167
+near shore (orima)	definition	AN10.169
+far shore (pārima)	definition	AN10.169
+wrong action (micchā kammanta)	far shore	AN10.169
+wrong speech (micchā vacā)	far shore	AN10.169
+wrong intention (micchā saṅkappa)	far shore	AN10.169
+right action (sammā kammanta)	near shore	AN10.169
+right speech (sammā vācā)	near shore	AN10.169
+right intention (sammā saṅkappa)	near shore	AN10.169
+Dhamma and non-Dhamma	should know	AN10.171
+wrong action (micchā kammanta)	as non-Dhamma	AN10.171
+wrong speech (micchā vacā)	as non-Dhamma	AN10.171
+wrong intention (micchā saṅkappa)	as non-Dhamma	AN10.171
+right action (sammā kammanta)	as Dhamma	AN10.171
+right speech (sammā vācā)	as Dhamma	AN10.171
+right intention (sammā saṅkappa)	as Dhamma	AN10.171
+Mahākaccāna, Ven.	explaining brief statement	AN10.172
+greed, hatred, delusion	causes for ten types of bad actions	AN10.174
+wrong action (micchā kammanta)	caused by greed, hatred, delusion	AN10.174
+wrong speech (micchā vacā)	caused by greed, hatred, delusion	AN10.174
+wrong intention (micchā saṅkappa)	caused by greed, hatred, delusion	AN10.174
+bypass (parikkamana)		xref avoiding (parikkamana)
+avoiding (parikkamana)	good to avoid the bad	AN10.175
+avoiding (parikkamana)	good to avoid the bad	MN8
+false speech		xref lying
+Cunda the smith	purity	AN10.176
+ceremonies	Buddha gives his meaning of	AN10.176
+brahmins	ceremonies of	AN10.176
+training of the Noble One (ariya vinaya)	meaning of purity in	AN10.176
+purity (soceyya)	tenfold	AN10.176
+impurity	tenfold	AN10.176
+wrong action (micchā kammanta)	as impurity	AN10.176
+wrong speech (micchā vacā)	as impurity	AN10.176
+wrong intention (micchā saṅkappa)	as impurity	AN10.176
+wrong action (micchā kammanta)	definition	AN10.176
+wrong speech (micchā vacā)	definition	AN10.176
+wrong intention (micchā saṅkappa)	definition	AN10.176
+lying	definition	AN10.176
+divisive speech	definition	AN10.176
+harsh speech	definition	AN10.176
+useless speech (samphappalāpa)	definition	AN10.176
+killing	definition	AN10.176
+stealing	definition	AN10.176
+sexual misconduct	definition	AN10.176
+covetousness (abhijjhā)	definition	AN10.176
+ill will (vyāpada, byāpada)	definition	AN10.176
+wrong view (micchā diṭṭhi)	definition	AN10.176
+hell (niraya)	cause for rebirth in	AN10.176
+ghost realm	cause for rebirth in	AN10.176
+animal realm	cause for rebirth in	AN10.176
+right action (sammā kammanta)	definition	AN10.176
+right speech (sammā vācā)	definition	AN10.176
+right intention (sammā saṅkappa)	definition	AN10.176
+killing, giving up	definition	AN10.176
+stealing, giving up	definition	AN10.176
+sexual misconduct, giving up	definition	AN10.176
+lying, giving up	definition	AN10.176
+harsh speech, giving up	definition	AN10.176
+divisive speech, giving up	definition	AN10.176
+useless speech, giving up	definition	AN10.176
+covetousness, giving up	definition	AN10.176
+ill will, giving up	definition	AN10.176
+right view (sammā diṭṭhi)	definition	AN10.176
+heavenly realms	cause for rebirth in	AN10.176
+human birth	cause for rebirth in	AN10.176

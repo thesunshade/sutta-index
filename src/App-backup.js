@@ -38,18 +38,18 @@ function App() {
   });
 
   // This doesn't work
-  // if (showVisited === "on") {
-  //   document.body.classList.remove("dont-show-visited");
-  // } else if (showVisited === "off") {
-  //   document.body.classList.add("dont-show-visited");
-  // }
-  // useEffect(() => {
-  //   if (showVisited === "on") {
-  //     document.body.classList.remove("dont-show-visited");
-  //   } else if (showVisited === "off") {
-  //     document.body.classList.add("dont-show-visited");
-  //   }
-  // }, [showVisited]);
+  if (showVisited === "on") {
+    document.body.classList.remove("dont-show-visited");
+  } else if (showVisited === "off") {
+    document.body.classList.add("dont-show-visited");
+  }
+  useEffect(() => {
+    if (showVisited === "on") {
+      document.body.classList.remove("dont-show-visited");
+    } else if (showVisited === "off") {
+      document.body.classList.add("dont-show-visited");
+    }
+  }, [showVisited]);
 
   function closeAllDrawers() {
     const allHideableAreas = document.getElementsByClassName("hideable-area");
@@ -207,7 +207,7 @@ function App() {
               </label>
             </div>
           </div>{" "}
-          {/* <label>
+          <label>
             <input
               type="checkbox"
               checked={showVisited}
@@ -221,8 +221,8 @@ function App() {
               }}
             ></input>{" "}
             Indicate visited links
-          </label> */}
-          {/* <label>
+          </label>
+          <label>
             <input
               type="checkbox"
               id="sutta-names-setting"
@@ -235,7 +235,7 @@ function App() {
               }}
             />
             Show Pāli Sutta Title
-          </label> */}
+          </label>
           <Stats />
           <OtherToolsIcons />
         </div>
