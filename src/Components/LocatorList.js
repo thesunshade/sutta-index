@@ -1,6 +1,8 @@
+import { memo } from "react";
+
+// components
 import Locator from "./Locator";
 import Xref from "./Xref.js";
-import { memo } from "react";
 
 function LocatorList(props) {
   const { locatorXrefObject, headwordSubCount } = props;
@@ -13,15 +15,9 @@ function LocatorList(props) {
     xrefLabel = "see also ";
   }
 
-  let leadingCommaForXref = "";
-  if (locators.length > 0) {
-    leadingCommaForXref = ", ";
-  }
-
   function XrefsList() {
     return (
       <div>
-        {/* {leadingCommaForXref} */}
         <span className="xref-label">{xrefLabel}</span>
         {xrefs.map((xref, index) => {
           return (

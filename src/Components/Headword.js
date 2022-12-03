@@ -1,9 +1,14 @@
-import sortedKeys from "../functions/sortedKeys";
-import LocatorList from "./LocatorList";
-import makeNormalizedId from "../functions/makeNormalizedId";
 import { memo } from "react";
+
+// components
+import LocatorList from "./LocatorList";
+
+// functions
+import sortedKeys from "../functions/sortedKeys";
+import makeNormalizedId from "../functions/makeNormalizedId";
+
+// images
 import iconLink from "../images/link-icon.png";
-// import iconCopy from "../images/icon-copy.png";
 import iconCopy from "../images/copy-icon2.png";
 import iconCopyMarkdown from "../images/copy-markdown.png";
 import iconCopyHtml from "../images/copy-html.png";

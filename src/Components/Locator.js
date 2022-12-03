@@ -1,8 +1,10 @@
 import { useContext } from "react";
 import { ContextDestination } from "../App.js";
+import { memo } from "react";
+
+// functions
 import getSuttaTitleBlurb from "../functions/getSuttaTitleBlurb.js";
 import getSuttaTitle from "../functions/getSuttaTitle.js";
-import { memo } from "react";
 
 function Locator(props) {
   let { location } = props;
@@ -38,7 +40,6 @@ function Locator(props) {
 
   switch (justBook(location)) {
     case "vv":
-
     case "pv":
       url = `https://sutta.readingfaithfully.org/?q=${locationForUrl}`;
   }

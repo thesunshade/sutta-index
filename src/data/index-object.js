@@ -389,7 +389,8 @@ export const indexObject ={
                "being the owner of ones own": {
                     "locators": [
                          "MN135",
-                         "AN5.57"
+                         "AN5.57",
+                         "AN10.216"
                     ],
                     "xrefs": []
                },
@@ -1842,6 +1843,12 @@ export const indexObject ={
                          "AN10.176"
                     ],
                     "xrefs": []
+               },
+               "merit sharing with beings in": {
+                    "locators": [
+                         "AN10.177"
+                    ],
+                    "xrefs": []
                }
           },
           "animals": {
@@ -1860,6 +1867,12 @@ export const indexObject ={
                "four footed, simile for incomplete spiritual development": {
                     "locators": [
                          "AN9.4"
+                    ],
+                    "xrefs": []
+               },
+               "creeping": {
+                    "locators": [
+                         "AN10.216"
                     ],
                     "xrefs": []
                }
@@ -4443,6 +4456,14 @@ export const indexObject ={
                     "xrefs": []
                }
           },
+          "beings (bhātā)": {
+               "born from beings": {
+                    "locators": [
+                         "AN10.216"
+                    ],
+                    "xrefs": []
+               }
+          },
           "beings (satta)": {
                "Buddha knows conviction/disposition of beings": {
                     "locators": [
@@ -6729,6 +6750,14 @@ export const indexObject ={
                     "xrefs": []
                }
           },
+          "cattle": {
+               "": {
+                    "locators": [],
+                    "xrefs": [
+                         "xref cows"
+                    ]
+               }
+          },
           "causes (nidāna)": {
                "for actions": {
                     "locators": [
@@ -8827,6 +8856,12 @@ export const indexObject ={
                          "AN9.35"
                     ],
                     "xrefs": []
+               },
+               "cause for rebirth as": {
+                    "locators": [
+                         "AN10.177"
+                    ],
+                    "xrefs": []
                }
           },
           "craving (taṇha)": {
@@ -9086,6 +9121,14 @@ export const indexObject ={
                "simile for unwholesome roots": {
                     "locators": [
                          "AN3.69"
+                    ],
+                    "xrefs": []
+               }
+          },
+          "creeping (saṁsappanīya)": {
+               "exposition on": {
+                    "locators": [
+                         "AN10.216"
                     ],
                     "xrefs": []
                }
@@ -10366,6 +10409,18 @@ export const indexObject ={
                          "AN10.69"
                     ],
                     "xrefs": []
+               },
+               "": {
+                    "locators": [],
+                    "xrefs": [
+                         "xref merit sharing"
+                    ]
+               },
+               "do they benefit from merit shared": {
+                    "locators": [
+                         "AN10.177"
+                    ],
+                    "xrefs": []
                }
           },
           "dependence (nissaya)": {
@@ -10751,6 +10806,14 @@ export const indexObject ={
                }
           },
           "Dhamma": {
+               "best gift": {
+                    "locators": [
+                         "Dhp354",
+                         "Iti98",
+                         "Iti100"
+                    ],
+                    "xrefs": []
+               },
                "": {
                     "locators": [
                          "Kp6"
@@ -10788,6 +10851,7 @@ export const indexObject ={
                },
                "as best gift": {
                     "locators": [
+                         "AN2.141",
                          "Dhp354"
                     ],
                     "xrefs": []
@@ -12869,18 +12933,22 @@ export const indexObject ={
                     "xrefs": []
                }
           },
-          "dog": {
+          "dogs": {
                "with chain like person attached to sensual pleasures": {
                     "locators": [
                          "Thig16.1"
                     ],
                     "xrefs": []
-               }
-          },
-          "dogs": {
+               },
                "compared to brahmins": {
                     "locators": [
                          "AN5.191"
+                    ],
+                    "xrefs": []
+               },
+               "cause for rebirth as": {
+                    "locators": [
+                         "AN10.177"
                     ],
                     "xrefs": []
                }
@@ -13727,6 +13795,12 @@ export const indexObject ={
                "simile for monk with concentration living in wilderness": {
                     "locators": [
                          "AN10.99"
+                    ],
+                    "xrefs": []
+               },
+               "cause for rebirth as": {
+                    "locators": [
+                         "AN10.177"
                     ],
                     "xrefs": []
                }
@@ -16255,6 +16329,12 @@ export const indexObject ={
                          "Iti109"
                     ],
                     "xrefs": []
+               },
+               "causes for rebirth": {
+                    "locators": [
+                         "AN10.213"
+                    ],
+                    "xrefs": []
                }
           },
           "female probationer (sikkhamānā)": {
@@ -18414,6 +18494,12 @@ export const indexObject ={
                          "AN10.176"
                     ],
                     "xrefs": []
+               },
+               "merit sharing with beings in": {
+                    "locators": [
+                         "AN10.177"
+                    ],
+                    "xrefs": []
                }
           },
           "ghosts": {
@@ -19595,6 +19681,24 @@ export const indexObject ={
                "worthy of gifts, qualities of one who is": {
                     "locators": [
                          "AN10.97"
+                    ],
+                    "xrefs": []
+               },
+               "results even in animal realm": {
+                    "locators": [
+                         "AN10.177"
+                    ],
+                    "xrefs": []
+               },
+               "results in human realm": {
+                    "locators": [
+                         "AN10.177"
+                    ],
+                    "xrefs": []
+               },
+               "results in heavenly realm": {
+                    "locators": [
+                         "AN10.177"
                     ],
                     "xrefs": []
                }
@@ -22535,6 +22639,13 @@ export const indexObject ={
                          "MN129"
                     ],
                     "xrefs": []
+               },
+               "cause for rebirth in": {
+                    "locators": [
+                         "AN10.211",
+                         "AN10.216"
+                    ],
+                    "xrefs": []
                }
           },
           "heavenly mansions (vimāna)": {
@@ -22580,6 +22691,12 @@ export const indexObject ={
                "cause for rebirth in": {
                     "locators": [
                          "AN10.176"
+                    ],
+                    "xrefs": []
+               },
+               "merit sharing with beings in": {
+                    "locators": [
+                         "AN10.177"
                     ],
                     "xrefs": []
                }
@@ -23108,7 +23225,14 @@ export const indexObject ={
                },
                "cause for rebirth in": {
                     "locators": [
-                         "AN10.176"
+                         "AN10.176",
+                         "AN10.211"
+                    ],
+                    "xrefs": []
+               },
+               "merit sharing with beings in": {
+                    "locators": [
+                         "AN10.177"
                     ],
                     "xrefs": []
                }
@@ -23788,6 +23912,12 @@ export const indexObject ={
                "cause for rebirth in": {
                     "locators": [
                          "AN10.176"
+                    ],
+                    "xrefs": []
+               },
+               "merit sharing with beings in": {
+                    "locators": [
+                         "AN10.177"
                     ],
                     "xrefs": []
                }
@@ -25380,6 +25510,12 @@ export const indexObject ={
                     "locators": [
                          "AN10.119",
                          "AN10.167"
+                    ],
+                    "xrefs": []
+               },
+               "asking about merit sharing": {
+                    "locators": [
+                         "AN10.177"
                     ],
                     "xrefs": []
                }
@@ -30353,7 +30489,8 @@ export const indexObject ={
                          "Kp8"
                     ],
                     "xrefs": [
-                         "xref great fruit (mahapphalā)"
+                         "xref great fruit (mahapphalā)",
+                         "xref merit sharing"
                     ]
                },
                "as true possession": {
@@ -30522,6 +30659,18 @@ export const indexObject ={
                "with gods": {
                     "locators": [
                          "AN7.53"
+                    ],
+                    "xrefs": []
+               },
+               "does it work?": {
+                    "locators": [
+                         "AN10.177"
+                    ],
+                    "xrefs": []
+               },
+               "if there are no relatives in ghost world": {
+                    "locators": [
+                         "AN10.177"
                     ],
                     "xrefs": []
                }
@@ -38600,6 +38749,12 @@ export const indexObject ={
                          "AN10.69"
                     ],
                     "xrefs": []
+               },
+               "among wealthy people": {
+                    "locators": [
+                         "AN10.216"
+                    ],
+                    "xrefs": []
                }
           },
           "receiving gifts": {
@@ -40200,7 +40355,8 @@ export const indexObject ={
                "definition": {
                     "locators": [
                          "MN141",
-                         "AN10.176"
+                         "AN10.176",
+                         "AN10.211"
                     ],
                     "xrefs": []
                },
@@ -40491,7 +40647,8 @@ export const indexObject ={
                "definition": {
                     "locators": [
                          "MN141",
-                         "AN10.176"
+                         "AN10.176",
+                         "AN10.211"
                     ],
                     "xrefs": []
                },
@@ -40633,7 +40790,8 @@ export const indexObject ={
                     "locators": [
                          "MN141",
                          "SN45.8",
-                         "AN10.176"
+                         "AN10.176",
+                         "AN10.211"
                     ],
                     "xrefs": []
                },
@@ -42269,7 +42427,8 @@ export const indexObject ={
           "self assured (visārada)": {
                "qualities that make one": {
                     "locators": [
-                         "AN5.172"
+                         "AN5.172",
+                         "AN10.215"
                     ],
                     "xrefs": []
                },
@@ -50582,6 +50741,12 @@ export const indexObject ={
                          "AN10.24"
                     ],
                     "xrefs": []
+               },
+               "cause for rebirth as": {
+                    "locators": [
+                         "AN10.216"
+                    ],
+                    "xrefs": []
                }
           },
           "weapons": {
@@ -52080,7 +52245,8 @@ export const indexObject ={
                },
                "definition": {
                     "locators": [
-                         "AN10.176"
+                         "AN10.176",
+                         "AN10.211"
                     ],
                     "xrefs": []
                }
@@ -52206,7 +52372,8 @@ export const indexObject ={
                },
                "definition": {
                     "locators": [
-                         "AN10.176"
+                         "AN10.176",
+                         "AN10.211"
                     ],
                     "xrefs": []
                }
@@ -52347,7 +52514,8 @@ export const indexObject ={
                },
                "definition": {
                     "locators": [
-                         "AN10.176"
+                         "AN10.176",
+                         "AN10.211"
                     ],
                     "xrefs": []
                }

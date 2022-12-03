@@ -1,18 +1,9 @@
 import { indexObject } from "../data/index-object.js";
 import Headword from "./Headword";
-// import fuzz from "../functions/fuzz.js";
-// import NoResults from "./NoResults.js";
 import { memo } from "react";
 
 function SuttaIndex() {
-  // const headwordsArray = sortedKeys(index);
-  let isEmpty = true;
   let alphabet = Object.keys(indexObject);
-
-  // const alphabetHeadings = document.getElementsByClassName("alphabet-anchor");
-  // for (let i = 0; i < alphabetHeadings.length; i++) {
-  //   alphabetHeadings[i].classList.remove("hidden");
-  // }
 
   return (
     <>
@@ -37,8 +28,6 @@ function SuttaIndex() {
             </div>
           );
         })}
-
-        {/* {isEmpty ? <NoResults /> : ""} */}
       </div>
     </>
   );

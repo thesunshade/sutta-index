@@ -1,12 +1,11 @@
-import makeNormalizedId from "../functions/makeNormalizedId";
 import { memo } from "react";
+import makeNormalizedId from "../functions/makeNormalizedId";
 
 function Xref({ xref }) {
   const locationId = makeNormalizedId(xref);
 
   function cleanUpXref(xref) {
     return xref.replace("xref ", "");
-    // .replace(/ \(.+\)/, "");
   }
 
   function handleClick(e) {
