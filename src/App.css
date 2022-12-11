@@ -825,6 +825,10 @@ tr:nth-child(even) {
     padding-left: var(--mobile-indent);
     text-indent: initial;
   }
+
+  .filter-area {
+    display: none;
+  }
 }
 
 /* OtherToolsIcons */

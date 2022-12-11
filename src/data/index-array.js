@@ -2936,17 +2936,17 @@ export const indexArray =[
      ],
      [
           "AN3.36",
+          "Yama, King",
+          ""
+     ],
+     [
+          "AN3.36",
           "dead body",
           "as divine messenger"
      ],
      [
           "AN3.36",
           "divine messengers (devadūta)",
-          ""
-     ],
-     [
-          "AN3.36",
-          "Yama, King",
           ""
      ],
      [
@@ -8231,7 +8231,7 @@ export const indexArray =[
      ],
      [
           "AN4.254",
-          "ignorance",
+          "ignorance (avijjā)",
           "given up by direct knowledge"
      ],
      [
@@ -9308,6 +9308,11 @@ export const indexArray =[
           "AN5.55",
           "monastics",
           "tempted by women"
+     ],
+     [
+          "AN5.55",
+          "rains residence (vassāvāsa)",
+          "mother and son observing together"
      ],
      [
           "AN5.55",
@@ -11713,11 +11718,6 @@ export const indexArray =[
           "AN5.214",
           "speech",
           "non-divisive"
-     ],
-     [
-          "AN5.214",
-          "speech",
-          "speaking much"
      ],
      [
           "AN5.214",
@@ -14836,6 +14836,16 @@ export const indexArray =[
      ],
      [
           "AN7.21",
+          "arahants",
+          "protecting leads to growth"
+     ],
+     [
+          "AN7.21",
+          "growth",
+          "principles that lead to"
+     ],
+     [
+          "AN7.21",
           "respect (gārava)",
           "leads to growth"
      ],
@@ -14848,16 +14858,6 @@ export const indexArray =[
           "AN7.21",
           "Vajjis ",
           "taught the principles that prevent decline"
-     ],
-     [
-          "AN7.21",
-          "arahants",
-          "protecting leads to growth"
-     ],
-     [
-          "AN7.21",
-          "growth",
-          "principles that lead to"
      ],
      [
           "AN7.21",
@@ -15686,6 +15686,11 @@ export const indexArray =[
      ],
      [
           "AN7.56",
+          "personal witness (kāyasakkhī)",
+          "known by gods of Brahmā’s Host"
+     ],
+     [
+          "AN7.56",
           "Tissa, Brahma",
           "former monk"
      ],
@@ -15693,11 +15698,6 @@ export const indexArray =[
           "AN7.56",
           "mendicants",
           "reborn as gods"
-     ],
-     [
-          "AN7.56",
-          "personal witness (kāyasakkhī)",
-          "known by gods of Brahmā’s Host"
      ],
      [
           "AN7.56",
@@ -17276,6 +17276,11 @@ export const indexArray =[
      ],
      [
           "AN8.12",
+          "annihilationism (ucchedavāda)",
+          "how Buddha teaches"
+     ],
+     [
+          "AN8.12",
           "Buddha, the",
           "how he teaches"
      ],
@@ -17288,11 +17293,6 @@ export const indexArray =[
           "AN8.12",
           "almsfood",
           "meat"
-     ],
-     [
-          "AN8.12",
-          "annihilationism (ucchedavāda)",
-          "how Buddha teaches"
      ],
      [
           "AN8.12",
@@ -18022,6 +18022,11 @@ export const indexArray =[
      [
           "AN8.30",
           "Anuruddha, Ven.",
+          "observing rains residence"
+     ],
+     [
+          "AN8.30",
+          "Anuruddha, Ven.",
           "thoughts of a great man (mahāpurisavitakka)"
      ],
      [
@@ -18103,6 +18108,11 @@ export const indexArray =[
           "AN8.30",
           "proliferation (papañca)",
           "Dhamma is for one who does not enjoy"
+     ],
+     [
+          "AN8.30",
+          "rains residence (vassāvāsa)",
+          "Buddha directing Ven. Anuruddha to observe"
      ],
      [
           "AN8.30",
@@ -20021,7 +20031,7 @@ export const indexArray =[
      ],
      [
           "AN8.82",
-          "Sequential path",
+          "sequential path",
           "proximate causes"
      ],
      [
@@ -22666,16 +22676,6 @@ export const indexArray =[
      ],
      [
           "AN9.41",
-          "Tapussa, householder",
-          "asking about renunciation"
-     ],
-     [
-          "AN9.41",
-          "formless attainments",
-          "factors blocking"
-     ],
-     [
-          "AN9.41",
           "formless attainments",
           "without attaining, Buddha does not declare enlightenment"
      ],
@@ -22698,6 +22698,16 @@ export const indexArray =[
           "AN9.41",
           "jhānas",
           "without attaining, Buddha does not declare enlightenment"
+     ],
+     [
+          "AN9.41",
+          "Tapussa, householder",
+          "asking about renunciation"
+     ],
+     [
+          "AN9.41",
+          "formless attainments",
+          "factors blocking"
      ],
      [
           "AN9.41",
@@ -26866,17 +26876,17 @@ export const indexArray =[
      ],
      [
           "AN10.73",
-          "heaven",
+          "heaven (sagga)",
           "hindered by wrong practice"
      ],
      [
           "AN10.73",
-          "heaven",
+          "heaven (sagga)",
           "nourished by right practice"
      ],
      [
           "AN10.73",
-          "heaven",
+          "heaven (sagga)",
           "rare in the world"
      ],
      [
@@ -27166,6 +27176,11 @@ export const indexArray =[
      ],
      [
           "AN10.76",
+          "bad friends",
+          "cause of and giving up"
+     ],
+     [
+          "AN10.76",
           "birth (jāti)",
           "greed, hatred, delusion must be given up in order to give up birth"
      ],
@@ -27178,11 +27193,6 @@ export const indexArray =[
           "AN10.76",
           "Buddhas",
           "arise because birth, old age, and death are found in the world"
-     ],
-     [
-          "AN10.76",
-          "bad friends",
-          "cause of and giving up"
      ],
      [
           "AN10.76",
@@ -29461,18 +29471,758 @@ export const indexArray =[
      ],
      [
           "AN10.217",
+          "actions (kamma)",
+          "cannot escape results of "
+     ],
+     [
+          "AN10.217",
+          "bodily action (kāyakamma)",
+          "corruptions and failures of"
+     ],
+     [
+          "AN10.217",
+          "heaven (sagga)",
+          "actions that lead to, ten"
+     ],
+     [
+          "AN10.217",
+          "hell (niraya)",
+          "actions that lead to, ten"
+     ],
+     [
+          "AN10.217",
+          "intention (cetana)",
+          "results of intentional actions "
+     ],
+     [
+          "AN10.217",
+          "mental action (manokamma)",
+          "corruptions and failures of"
+     ],
+     [
+          "AN10.217",
+          "rebirth",
+          "because of ten bad actions"
+     ],
+     [
+          "AN10.217",
+          "rebirth",
+          "because of ten good actions"
+     ],
+     [
+          "AN10.217",
           "speech",
           "volition and"
      ],
      [
+          "AN10.217",
+          "suffering (dukkha)",
+          "ending without experiencing results"
+     ],
+     [
+          "AN10.217",
+          "verbal action (vacīkamma)",
+          "corruptions and failures of"
+     ],
+     [
+          "AN10.218",
+          "actions (kamma)",
+          "cannot escape results of "
+     ],
+     [
+          "AN10.218",
+          "bodily action (kāyakamma)",
+          "corruptions and failures of"
+     ],
+     [
+          "AN10.218",
+          "heaven (sagga)",
+          "actions that lead to, ten"
+     ],
+     [
+          "AN10.218",
+          "hell (niraya)",
+          "actions that lead to, ten"
+     ],
+     [
+          "AN10.218",
+          "intention (cetana)",
+          "results of intentional actions "
+     ],
+     [
+          "AN10.218",
+          "mental action (manokamma)",
+          "corruptions and failures of"
+     ],
+     [
+          "AN10.218",
+          "rebirth",
+          "because of ten bad actions"
+     ],
+     [
+          "AN10.218",
+          "rebirth",
+          "because of ten good actions"
+     ],
+     [
+          "AN10.218",
+          "suffering (dukkha)",
+          "ending without experiencing results"
+     ],
+     [
+          "AN10.218",
+          "verbal action (vacīkamma)",
+          "corruptions and failures of"
+     ],
+     [
+          "AN10.219",
+          "actions (kamma)",
+          "cannot escape results of "
+     ],
+     [
+          "AN10.219",
+          "bad actions",
+          "not doing, not suffering"
+     ],
+     [
+          "AN10.219",
+          "children",
+          "developing heart’s release by loving-kindness"
+     ],
+     [
+          "AN10.219",
+          "heart’s release by compassion (karuṇā cetovimutti)",
+          "would not do bad deeds"
+     ],
+     [
+          "AN10.219",
+          "heart’s release by equanimity (upekkhā cetovimutti)",
+          "would not do bad deeds"
+     ],
+     [
+          "AN10.219",
+          "heart’s release by loving-kindness (mettā cetovimutti)",
+          "would not do bad deeds"
+     ],
+     [
+          "AN10.219",
+          "heart’s release by rejoicing (muditā cetovimutti)",
+          "would not do bad deeds"
+     ],
+     [
+          "AN10.219",
+          "intention (cetana)",
+          "results of intentional actions "
+     ],
+     [
           "AN10.219",
           "loving-kindness (mettā)",
-          ""
+          "limited deeds don’t remain"
+     ],
+     [
+          "AN10.219",
+          "mind",
+          "core of mortal beings"
+     ],
+     [
+          "AN10.219",
+          "suffering (dukkha)",
+          "ending"
+     ],
+     [
+          "AN10.219",
+          "suffering (dukkha)",
+          "ending without experiencing results"
      ],
      [
           "AN10.220",
-          "loving-kindness (mettā)",
-          ""
+          "righteous conduct (dhammacāri)",
+          "cause for rebirth"
+     ],
+     [
+          "AN10.220",
+          "unrighteous conduct (adhammacārī)",
+          "cause for rebirth"
+     ],
+     [
+          "AN10.222",
+          "encouragement",
+          "to do bad"
+     ],
+     [
+          "AN10.222",
+          "encouragement",
+          "to do bad leading to hell"
+     ],
+     [
+          "AN10.222",
+          "encouragement",
+          "to do good"
+     ],
+     [
+          "AN10.222",
+          "encouragement",
+          "to do good leading to heaven"
+     ],
+     [
+          "AN10.222",
+          "heaven (sagga)",
+          "encouraging others to do good can lead to"
+     ],
+     [
+          "AN10.222",
+          "hell (niraya)",
+          "encouraging others to do bad can lead to"
+     ],
+     [
+          "AN10.223",
+          "approval (samanuñña)",
+          "of good or bad deeds"
+     ],
+     [
+          "AN10.224",
+          "heaven (sagga)",
+          "praising good deeds can lead to"
+     ],
+     [
+          "AN10.224",
+          "hell (niraya)",
+          "praising bad deeds can lead to"
+     ],
+     [
+          "AN10.224",
+          "praise (vaṇṇa)",
+          "of good or bad deeds"
+     ],
+     [
+          "AN10.237",
+          "greed (rāga)",
+          "insight into greed"
+     ],
+     [
+          "AN10.237",
+          "perception of cessation (nirodhasañña)",
+          "for insight into greed"
+     ],
+     [
+          "AN10.237",
+          "perception of corpse",
+          "for insight into greed"
+     ],
+     [
+          "AN10.237",
+          "perception of death (maraṇasañña)",
+          "for insight into greed"
+     ],
+     [
+          "AN10.237",
+          "perception of dissatisfaction with the whole world (sabbaloke anabhiratasañña)",
+          "for insight into greed"
+     ],
+     [
+          "AN10.237",
+          "perception of fading away (virāgasañña)",
+          "for insight into greed"
+     ],
+     [
+          "AN10.237",
+          "perception of giving up (pahānasañña)",
+          "for insight into greed"
+     ],
+     [
+          "AN10.237",
+          "perception of impermanence (aniccasañña)",
+          "for insight into greed"
+     ],
+     [
+          "AN10.237",
+          "perception of not-self in suffering (dukkhe anattasaññā)",
+          "for insight into greed"
+     ],
+     [
+          "AN10.237",
+          "perception of repulsiveness of food (āhāre paṭikūlasañña)",
+          "for insight into greed"
+     ],
+     [
+          "AN10.237",
+          "perception of skeleton (aṭṭhisañña)",
+          "for insight into greed"
+     ],
+     [
+          "AN10.237",
+          "perception of suffering in impermanence (anicce dukkhasaññā)",
+          "for insight into greed"
+     ],
+     [
+          "AN10.237",
+          "perception of ugliness (asubhasañña)",
+          "for insight into greed"
+     ],
+     [
+          "AN10.238",
+          "perception of not self (anattasañña)",
+          "for insight into greed"
+     ],
+     [
+          "AN10.239",
+          "noble eightfold path (ariya aṭṭhangika magga)",
+          "for insight into greed"
+     ],
+     [
+          "AN11.1",
+          "concentration (samādhi)",
+          "purpose of is true knowledge and vision"
+     ],
+     [
+          "AN11.1",
+          "concentration (samādhi)",
+          "result of pleasure"
+     ],
+     [
+          "AN11.1",
+          "disillusionment (nibbidā)",
+          "purpose of is dispassion"
+     ],
+     [
+          "AN11.1",
+          "disillusionment (nibbidā)",
+          "result of true knowledge and vision"
+     ],
+     [
+          "AN11.1",
+          "dispassion (virāga)",
+          "purpose of is knowledge and vision of freedom"
+     ],
+     [
+          "AN11.1",
+          "dispassion (virāga)",
+          "result of disillusionment"
+     ],
+     [
+          "AN11.1",
+          "joy (pāmojja)",
+          "purpose of is rapture"
+     ],
+     [
+          "AN11.1",
+          "joy (pāmojja)",
+          "result of non-regret"
+     ],
+     [
+          "AN11.1",
+          "knowledge and vision of freedom (vimuttiñāṇadassana)",
+          "result of dispassion"
+     ],
+     [
+          "AN11.1",
+          "non-remorse (avippaṭisāra)",
+          "purpose of is joy"
+     ],
+     [
+          "AN11.1",
+          "non-remorse (avippaṭisāra)",
+          "result of virtue"
+     ],
+     [
+          "AN11.1",
+          "pleasure (sukha)",
+          "purpose of is concentration"
+     ],
+     [
+          "AN11.1",
+          "pleasure (sukha)",
+          "result of tranquility"
+     ],
+     [
+          "AN11.1",
+          "rapture (pīti)",
+          "purpose of is tranquility"
+     ],
+     [
+          "AN11.1",
+          "rapture (pīti)",
+          "result of joy"
+     ],
+     [
+          "AN11.1",
+          "tranquillity (passaddhi)",
+          "purpose of is pleasure"
+     ],
+     [
+          "AN11.1",
+          "tranquillity (passaddhi)",
+          "result of rapture"
+     ],
+     [
+          "AN11.1",
+          "true knowledge and vision (yathābhūtañāṇadassana)",
+          "purpose of is disillusionment"
+     ],
+     [
+          "AN11.1",
+          "true knowledge and vision (yathābhūtañāṇadassana)",
+          "result of concentration"
+     ],
+     [
+          "AN11.1",
+          "virtue (sīla)",
+          "purpose of is non-remorse"
+     ],
+     [
+          "AN11.1",
+          "wholesome chain of causality",
+          "virtue to knowledge and vision of freedom"
+     ],
+     [
+          "AN11.2",
+          "intention (cetana)",
+          "not necessary for one who has developed the proper conditions"
+     ],
+     [
+          "AN11.2",
+          "near shore (orima)",
+          "going from to far shore like filling up good qualities"
+     ],
+     [
+          "AN11.2",
+          "wholesome chain of causality",
+          "happens without a wish"
+     ],
+     [
+          "AN11.6",
+          "criticizing noble ones",
+          "results of"
+     ],
+     [
+          "AN11.6",
+          "disrobing",
+          "from criticizing noble ones"
+     ],
+     [
+          "AN11.6",
+          "hell (niraya)",
+          "criticizing noble ones"
+     ],
+     [
+          "AN11.6",
+          "spiritual companion (sabrahmacārī)",
+          "abusing and insulting, results of"
+     ],
+     [
+          "AN11.7",
+          "air",
+          "perception of"
+     ],
+     [
+          "AN11.7",
+          "Ānanda, Ven.",
+          "perceptions "
+     ],
+     [
+          "AN11.7",
+          "concentration (samādhi)",
+          "perceptions while in"
+     ],
+     [
+          "AN11.7",
+          "dimension of infinite consciousness (viññāṇañcāyatana)",
+          "perception of"
+     ],
+     [
+          "AN11.7",
+          "dimension of infinite space (ākāsānañcāyatana)",
+          "perception of"
+     ],
+     [
+          "AN11.7",
+          "dimension of neither perception nor non-perception (nevasaññānāsaññāyatanaṁ)",
+          "perception of"
+     ],
+     [
+          "AN11.7",
+          "dimension of nothingness (ākiñcaññāyatana)",
+          "perception of"
+     ],
+     [
+          "AN11.7",
+          "earth",
+          "perception of"
+     ],
+     [
+          "AN11.7",
+          "fire",
+          "perception of"
+     ],
+     [
+          "AN11.7",
+          "nibbāna",
+          "concentration in"
+     ],
+     [
+          "AN11.7",
+          "nibbāna",
+          "perceptions and"
+     ],
+     [
+          "AN11.7",
+          "other world (paraloka)",
+          "perceptions and"
+     ],
+     [
+          "AN11.7",
+          "perceptions (saññā)",
+          "nibbāna and"
+     ],
+     [
+          "AN11.7",
+          "perceptions (saññā)",
+          "while in concentration"
+     ],
+     [
+          "AN11.7",
+          "Sāriputta, Ven.",
+          "teaching matching Buddha’s exactly"
+     ],
+     [
+          "AN11.7",
+          "seen, heard, thought, known",
+          "not perceiving"
+     ],
+     [
+          "AN11.7",
+          "this world (idhaloka)",
+          "perceptions and"
+     ],
+     [
+          "AN11.7",
+          "water",
+          "perception of"
+     ],
+     [
+          "AN11.8",
+          "attention (manasikāra)",
+          "during meditation"
+     ],
+     [
+          "AN11.9",
+          "air",
+          "meditating dependent on"
+     ],
+     [
+          "AN11.9",
+          "dimension of infinite consciousness (viññāṇañcāyatana)",
+          "meditating dependent on"
+     ],
+     [
+          "AN11.9",
+          "dimension of infinite space (ākāsānañcāyatana)",
+          "meditating dependent on"
+     ],
+     [
+          "AN11.9",
+          "dimension of neither perception nor non-perception (nevasaññānāsaññāyatanaṁ)",
+          "meditating dependent on"
+     ],
+     [
+          "AN11.9",
+          "dimension of nothingness (ākiñcaññāyatana)",
+          "meditating dependent on"
+     ],
+     [
+          "AN11.9",
+          "fire",
+          "meditating dependent on"
+     ],
+     [
+          "AN11.9",
+          "hindrances (nīvarana)",
+          "meditator’s mind overcome with"
+     ],
+     [
+          "AN11.9",
+          "hindrances (nīvarana)",
+          "not knowing escape from"
+     ],
+     [
+          "AN11.9",
+          "Sandha, Ven.",
+          "meditation instructions"
+     ],
+     [
+          "AN11.9",
+          "arahants",
+          "qualities of"
+     ],
+     [
+          "AN11.9",
+          "earth",
+          "meditating dependent on"
+     ],
+     [
+          "AN11.9",
+          "gods",
+          "worshiping meditators"
+     ],
+     [
+          "AN11.9",
+          "horse trainers",
+          "simile of thoroughbred considering the wish of trainer"
+     ],
+     [
+          "AN11.9",
+          "horses",
+          "meditate like a thoroughbred, not a wild colt"
+     ],
+     [
+          "AN11.9",
+          "horses",
+          "simile for meditation"
+     ],
+     [
+          "AN11.9",
+          "jhānas",
+          "gods not understanding the mind of one in"
+     ],
+     [
+          "AN11.9",
+          "other world (paraloka)",
+          "meditating dependent on"
+     ],
+     [
+          "AN11.9",
+          "seen, heard, thought, known",
+          "meditating dependent on"
+     ],
+     [
+          "AN11.9",
+          "this world (idhaloka)",
+          "meditating dependent on"
+     ],
+     [
+          "AN11.9",
+          "water",
+          "meditating dependent on"
+     ],
+     [
+          "AN11.9",
+          "worshiping (namassati)",
+          "gods worshiping meditators"
+     ],
+     [
+          "AN11.10",
+          "concentration (samādhi)",
+          "of one beyond training"
+     ],
+     [
+          "AN11.10",
+          "conduct (caraṇa)",
+          "quality of arahant"
+     ],
+     [
+          "AN11.10",
+          "khattiyas",
+          "first among people based on clan"
+     ],
+     [
+          "AN11.10",
+          "knowledge (vijja)",
+          "quality of arahant"
+     ],
+     [
+          "AN11.10",
+          "miracle of instruction (anusāsanīpāṭihāriya)",
+          "by arahants"
+     ],
+     [
+          "AN11.10",
+          "miracle of mind reading (ādesanāpāṭihāriya)",
+          "by arahants"
+     ],
+     [
+          "AN11.10",
+          "miracle of psychic powers (iddhipāṭihāriya)",
+          "by arahants"
+     ],
+     [
+          "AN11.10",
+          "one beyond training (asekha)",
+          "entire spectrum of virtue, concentration, wisdom"
+     ],
+     [
+          "AN11.10",
+          "right freedom (sammā vimutti)",
+          "quality of arahant"
+     ],
+     [
+          "AN11.10",
+          "right knowledge (sammā ñāṇa)",
+          "quality of arahant"
+     ],
+     [
+          "AN11.10",
+          "right view (sammā diṭṭhi)",
+          "quality of arahant"
+     ],
+     [
+          "AN11.10",
+          "vijjācaraṇasampanno ",
+          "first among gods and humans"
+     ],
+     [
+          "AN11.10",
+          "virtue (sīla)",
+          "of one beyond training"
+     ],
+     [
+          "AN11.10",
+          "wisdom (paññā)",
+          "of one beyond training"
+     ],
+     [
+          "AN11.11",
+          "concentration (samādhi)",
+          "concentrated succeed"
+     ],
+     [
+          "AN11.11",
+          "concentration (samādhi)",
+          "from happiness/bliss"
+     ],
+     [
+          "AN11.11",
+          "energetic (āraddhavīriya)",
+          "energetic succeed"
+     ],
+     [
+          "AN11.11",
+          "faith (saddhā)",
+          "faithful succeed"
+     ],
+     [
+          "AN11.11",
+          "happiness (sukha)",
+          "from tranquility"
+     ],
+     [
+          "AN11.11",
+          "inspiration",
+          "in the meaning"
+     ],
+     [
+          "AN11.11",
+          "joy (pāmojja)",
+          "connected with the teachings"
+     ],
+     [
+          "AN11.11",
+          "lay life",
+          "what to practice"
+     ],
+     [
+          "AN11.11",
+          "laziness (kusīta)",
+          "lazy do not succeed"
      ],
      [
           "AN11.11",
@@ -29481,8 +30231,88 @@ export const indexArray =[
      ],
      [
           "AN11.11",
+          "Mahānāma Sākyan, householder",
+          "asking about what to practice"
+     ],
+     [
+          "AN11.11",
+          "mindful people",
+          "succeed"
+     ],
+     [
+          "AN11.11",
+          "noble disciple (ariya sāvaka)",
+          "definition"
+     ],
+     [
+          "AN11.11",
+          "rains residence (vassāvāsa)",
+          "Buddha wandering after"
+     ],
+     [
+          "AN11.11",
+          "rapture (pīti)",
+          "from joy"
+     ],
+     [
+          "AN11.11",
+          "recollection of Buddha (buddhānussati)",
+          "suppresses greed, hate, delusion"
+     ],
+     [
+          "AN11.11",
+          "recollection of deities (devata ānussati)",
+          "suppresses greed, hate, delusion"
+     ],
+     [
+          "AN11.11",
+          "recollection of Dhamma (dhammānussati)",
+          "suppresses greed, hate, delusion"
+     ],
+     [
+          "AN11.11",
+          "recollection of generosity (cāgānussati)",
+          "suppresses greed, hate, delusion"
+     ],
+     [
+          "AN11.11",
           "recollection of generosity (cāgānussati)",
           "to be developed"
+     ],
+     [
+          "AN11.11",
+          "recollection of Saṅgha (saṅghānussati)",
+          "suppresses greed, hate, delusion"
+     ],
+     [
+          "AN11.11",
+          "recollection of virtue (sīlānussati)",
+          "suppresses greed, hate, delusion"
+     ],
+     [
+          "AN11.11",
+          "robes",
+          "monks making robe for Buddha"
+     ],
+     [
+          "AN11.11",
+          "stream of Dhamma (dhammasota)",
+          "one who has entered"
+     ],
+     [
+          "AN11.11",
+          "tranquillity (passaddhi)",
+          "from rapture"
+     ],
+     [
+          "AN11.11",
+          "wholesome chain of causality",
+          "from recollections to samadhi"
+     ],
+     [
+          "AN11.11",
+          "wise people",
+          "succeed"
      ],
      [
           "AN11.12",
@@ -29490,9 +30320,354 @@ export const indexArray =[
           "as principle of cordiality"
      ],
      [
+          "AN11.12",
+          "postures",
+          "recollections to be practiced in four"
+     ],
+     [
+          "AN11.12",
+          "recollection of Buddha (buddhānussati)",
+          "practiced in four postures"
+     ],
+     [
+          "AN11.12",
+          "recollection of Buddha (buddhānussati)",
+          "while at home with children"
+     ],
+     [
+          "AN11.12",
+          "recollection of Buddha (buddhānussati)",
+          "while working"
+     ],
+     [
+          "AN11.12",
+          "recollection of deities (devata ānussati)",
+          "practiced in four postures"
+     ],
+     [
+          "AN11.12",
+          "recollection of deities (devata ānussati)",
+          "while at home with children"
+     ],
+     [
+          "AN11.12",
+          "recollection of deities (devata ānussati)",
+          "while working"
+     ],
+     [
+          "AN11.12",
+          "recollection of Dhamma (dhammānussati)",
+          "practiced in four postures"
+     ],
+     [
+          "AN11.12",
+          "recollection of Dhamma (dhammānussati)",
+          "while at home with children"
+     ],
+     [
+          "AN11.12",
+          "recollection of Dhamma (dhammānussati)",
+          "while working"
+     ],
+     [
+          "AN11.12",
+          "recollection of generosity (cāgānussati)",
+          "practiced in four postures"
+     ],
+     [
+          "AN11.12",
+          "recollection of generosity (cāgānussati)",
+          "while at home with children"
+     ],
+     [
+          "AN11.12",
+          "recollection of generosity (cāgānussati)",
+          "while working"
+     ],
+     [
+          "AN11.12",
+          "recollection of Saṅgha (saṅghānussati)",
+          "practiced in four postures"
+     ],
+     [
+          "AN11.12",
+          "recollection of Saṅgha (saṅghānussati)",
+          "while at home with children"
+     ],
+     [
+          "AN11.12",
+          "recollection of Saṅgha (saṅghānussati)",
+          "while working"
+     ],
+     [
+          "AN11.12",
+          "recollection of virtue (sīlānussati)",
+          "practiced in four postures"
+     ],
+     [
+          "AN11.12",
+          "recollection of virtue (sīlānussati)",
+          "while at home with children"
+     ],
+     [
+          "AN11.12",
+          "recollection of virtue (sīlānussati)",
+          "while working"
+     ],
+     [
+          "AN11.12",
+          "work",
+          "meditation to be practiced while working"
+     ],
+     [
+          "AN11.13",
+          "concentration (samādhi)",
+          "concentrated succeed"
+     ],
+     [
+          "AN11.13",
+          "energetic (āraddhavīriya)",
+          "energetic succeed"
+     ],
+     [
+          "AN11.13",
+          "faith (saddhā)",
+          "faithful succeed"
+     ],
+     [
+          "AN11.13",
+          "Nandiya the Sakyan",
+          "observing rains residence"
+     ],
+     [
+          "AN11.13",
+          "fire",
+          "not re-burning, simile of person giving up bad qualities"
+     ],
+     [
+          "AN11.13",
+          "lay life",
+          "living close to the Buddha"
+     ],
+     [
+          "AN11.13",
+          "lay life",
+          "what to practice"
+     ],
+     [
+          "AN11.13",
+          "laziness (kusīta)",
+          "lazy do not succeed"
+     ],
+     [
+          "AN11.13",
+          "mindful people",
+          "succeed"
+     ],
+     [
+          "AN11.13",
+          "mindfulness (sati)",
+          "establishing based on deities"
+     ],
+     [
+          "AN11.13",
+          "mindfulness (sati)",
+          "establishing based on generosity"
+     ],
+     [
+          "AN11.13",
+          "mindfulness (sati)",
+          "establishing based on spiritual friends"
+     ],
+     [
+          "AN11.13",
+          "mindfulness (sati)",
+          "establishing based on the Buddha"
+     ],
+     [
+          "AN11.13",
+          "mindfulness (sati)",
+          "establishing based on the Dhamma"
+     ],
+     [
+          "AN11.13",
+          "rains residence (vassāvāsa)",
+          "observed by layperson"
+     ],
+     [
+          "AN11.13",
+          "rains residence (vassāvāsa)",
+          "of the Buddha"
+     ],
+     [
+          "AN11.13",
+          "recollection of Buddha (buddhānussati)",
+          "establishing mindfulness internally"
+     ],
+     [
+          "AN11.13",
+          "recollection of deities (devata ānussati)",
+          "establishing mindfulness internally"
+     ],
+     [
+          "AN11.13",
+          "recollection of Dhamma (dhammānussati)",
+          "establishing mindfulness internally"
+     ],
+     [
+          "AN11.13",
+          "recollection of generosity (cāgānussati)",
+          "establishing mindfulness internally"
+     ],
+     [
           "AN11.13",
           "recollection of generosity (cāgānussati)",
           "to be developed"
+     ],
+     [
+          "AN11.13",
+          "recollection of spiritual friends (kalyāṇamitta ānussati)",
+          "establishing mindfulness internally"
+     ],
+     [
+          "AN11.13",
+          "unskillful qualities (akusala dhamma)",
+          "completely giving up"
+     ],
+     [
+          "AN11.13",
+          "water pot",
+          "tipped, simile of person giving up bad qualities"
+     ],
+     [
+          "AN11.13",
+          "wise people",
+          "succeed"
+     ],
+     [
+          "AN11.14",
+          "energetic (āraddhavīriya)",
+          "result of faith"
+     ],
+     [
+          "AN11.14",
+          "enlightenment",
+          "result of faith"
+     ],
+     [
+          "AN11.14",
+          "faith (saddhā)",
+          "manifestations/results of"
+     ],
+     [
+          "AN11.14",
+          "learned (bahussutā)",
+          "result of faith"
+     ],
+     [
+          "AN11.14",
+          "Saddha, Ven. ",
+          "with the manifestations of faith"
+     ],
+     [
+          "AN11.14",
+          "easy to admonish (suvaca)",
+          "result of faith"
+     ],
+     [
+          "AN11.14",
+          "industrious (analasa)",
+          "result of faith"
+     ],
+     [
+          "AN11.14",
+          "jhānas",
+          "result of faith"
+     ],
+     [
+          "AN11.14",
+          "knowledge of passing away and rebirth of beings (cutūpapātañāna)",
+          "result of faith"
+     ],
+     [
+          "AN11.14",
+          "love for the Dhamma (dhammakāma)",
+          "result of faith"
+     ],
+     [
+          "AN11.14",
+          "past lives, knowledge of (pubbenivāsānussatiñāna)",
+          "result of faith"
+     ],
+     [
+          "AN11.14",
+          "spiritual friends (kalyāṇamitta)",
+          "result of faith"
+     ],
+     [
+          "AN11.14",
+          "Subhūti, Ven.",
+          "introduces Ven. Saddha to the Buddha"
+     ],
+     [
+          "AN11.14",
+          "virtue (sīla)",
+          "result of faith"
+     ],
+     [
+          "AN11.15",
+          "beauty",
+          "complexion of those who practice loving-kindness"
+     ],
+     [
+          "AN11.15",
+          "brahmā realm (brahmalokā)",
+          "result of loving-kindness"
+     ],
+     [
+          "AN11.15",
+          "concentration (samādhi)",
+          "happens quickly for those who practice loving-kindness"
+     ],
+     [
+          "AN11.15",
+          "death",
+          "those who practice loving-kindness die unconfused"
+     ],
+     [
+          "AN11.15",
+          "dreams",
+          "loving-kindness prevents bad dreams"
+     ],
+     [
+          "AN11.15",
+          "fire",
+          "does not harm those who practice loving-kindness"
+     ],
+     [
+          "AN11.15",
+          "gods",
+          "protect those who practice loving-kindness"
+     ],
+     [
+          "AN11.15",
+          "happiness (sukha)",
+          "waking happily, benefit of loving-kindness"
+     ],
+     [
+          "AN11.15",
+          "heart’s release by loving-kindness (mettā cetovimutti)",
+          "benefits of"
+     ],
+     [
+          "AN11.15",
+          "humans",
+          "loving-kindness makes humans love you"
+     ],
+     [
+          "AN11.15",
+          "love (piya)",
+          "loving-kindness makes humans and non-humans love you"
      ],
      [
           "AN11.15",
@@ -29500,9 +30675,469 @@ export const indexArray =[
           "benefits of"
      ],
      [
+          "AN11.15",
+          "non-humans (amanussa)",
+          "loving-kindness makes non-humans love you"
+     ],
+     [
+          "AN11.15",
+          "poisons",
+          "do not harm those who practice loving-kindness"
+     ],
+     [
+          "AN11.15",
+          "sleep",
+          "sleeping well, benefit of loving-kindness"
+     ],
+     [
+          "AN11.15",
+          "sleep",
+          "waking happily, benefit of loving-kindness"
+     ],
+     [
+          "AN11.15",
+          "weapons",
+          "do not harm those who practice loving-kindness"
+     ],
+     [
+          "AN11.16",
+          "Ānanda, Ven.",
+          "teaching eleven practices that lead to enlightenment"
+     ],
+     [
+          "AN11.16",
+          "conditioned (saṅkhatata)",
+          "heart’s release by loving-kindness, etc."
+     ],
+     [
+          "AN11.16",
+          "conditioned (saṅkhatata)",
+          "jhānas"
+     ],
+     [
+          "AN11.16",
+          "Dasama, householder",
+          "asking about practices that lead to enlightenment"
+     ],
+     [
+          "AN11.16",
+          "dimension of infinite consciousness (viññāṇañcāyatana)",
+          "conditioned "
+     ],
+     [
+          "AN11.16",
+          "dimension of infinite consciousness (viññāṇañcāyatana)",
+          "lead to once-returning"
+     ],
+     [
+          "AN11.16",
+          "dimension of infinite consciousness (viññāṇañcāyatana)",
+          "leads to enlightenment"
+     ],
+     [
+          "AN11.16",
+          "dimension of infinite consciousness (viññāṇañcāyatana)",
+          "reflecting on as impermanent"
+     ],
+     [
+          "AN11.16",
+          "dimension of infinite space (ākāsānañcāyatana)",
+          "conditioned "
+     ],
+     [
+          "AN11.16",
+          "dimension of infinite space (ākāsānañcāyatana)",
+          "lead to once-returning"
+     ],
+     [
+          "AN11.16",
+          "dimension of infinite space (ākāsānañcāyatana)",
+          "leads to enlightenment"
+     ],
+     [
+          "AN11.16",
+          "dimension of infinite space (ākāsānañcāyatana)",
+          "reflecting on as impermanent"
+     ],
+     [
+          "AN11.16",
+          "heart’s release by compassion (karuṇā cetovimutti)",
+          "conditioned "
+     ],
+     [
+          "AN11.16",
+          "heart’s release by compassion (karuṇā cetovimutti)",
+          "leads to enlightenment"
+     ],
+     [
+          "AN11.16",
+          "heart’s release by compassion (karuṇā cetovimutti)",
+          "leads to once-returning"
+     ],
+     [
+          "AN11.16",
+          "heart’s release by compassion (karuṇā cetovimutti)",
+          "reflecting on as impermanent"
+     ],
+     [
+          "AN11.16",
+          "heart’s release by equanimity (upekkhā cetovimutti)",
+          "conditioned "
+     ],
+     [
+          "AN11.16",
+          "heart’s release by equanimity (upekkhā cetovimutti)",
+          "leads to enlightenment"
+     ],
+     [
+          "AN11.16",
+          "heart’s release by equanimity (upekkhā cetovimutti)",
+          "leads to once-returning"
+     ],
+     [
+          "AN11.16",
+          "heart’s release by equanimity (upekkhā cetovimutti)",
+          "reflecting on as impermanent"
+     ],
+     [
+          "AN11.16",
+          "heart’s release by loving-kindness (mettā cetovimutti)",
+          "conditioned "
+     ],
+     [
+          "AN11.16",
+          "heart’s release by loving-kindness (mettā cetovimutti)",
+          "leads to enlightenment"
+     ],
+     [
+          "AN11.16",
+          "heart’s release by loving-kindness (mettā cetovimutti)",
+          "leads to once-returning"
+     ],
+     [
+          "AN11.16",
+          "heart’s release by loving-kindness (mettā cetovimutti)",
+          "reflecting on as impermanent"
+     ],
+     [
+          "AN11.16",
+          "heart’s release by rejoicing (muditā cetovimutti)",
+          "conditioned "
+     ],
+     [
+          "AN11.16",
+          "heart’s release by rejoicing (muditā cetovimutti)",
+          "leads to enlightenment"
+     ],
+     [
+          "AN11.16",
+          "heart’s release by rejoicing (muditā cetovimutti)",
+          "leads to once-returning"
+     ],
+     [
+          "AN11.16",
+          "heart’s release by rejoicing (muditā cetovimutti)",
+          "reflecting on as impermanent"
+     ],
+     [
+          "AN11.16",
+          "house",
+          "with eleven doors, simile for eleven doors to the deathless"
+     ],
+     [
+          "AN11.16",
+          "jhānas",
+          "conditioned "
+     ],
+     [
+          "AN11.16",
+          "jhānas",
+          "lead to enlightenment"
+     ],
+     [
+          "AN11.16",
+          "jhānas",
+          "lead to once-returning"
+     ],
+     [
+          "AN11.16",
+          "jhānas",
+          "reflecting on as impermanent"
+     ],
+     [
           "AN11.16",
           "loving-kindness (mettā)",
           ""
+     ],
+     [
+          "AN11.16",
+          "non-returner (anāgāmi)",
+          "through dimension of infinite consciousness"
+     ],
+     [
+          "AN11.16",
+          "non-returner (anāgāmi)",
+          "through dimension of infinite space"
+     ],
+     [
+          "AN11.16",
+          "non-returner (anāgāmi)",
+          "through heart’s release by compassion"
+     ],
+     [
+          "AN11.16",
+          "non-returner (anāgāmi)",
+          "through heart’s release by equanimity"
+     ],
+     [
+          "AN11.16",
+          "non-returner (anāgāmi)",
+          "through heart’s release by loving-kindness"
+     ],
+     [
+          "AN11.16",
+          "non-returner (anāgāmi)",
+          "through heart’s release by rejoicing"
+     ],
+     [
+          "AN11.16",
+          "non-returner (anāgāmi)",
+          "through practicing jhānas"
+     ],
+     [
+          "AN11.16",
+          "teacher’s fee (ācariyadhana)",
+          "wish to pay"
+     ],
+     [
+          "AN11.16",
+          "treasures",
+          "entrance to hidden, simile for eleven doors to the deathless"
+     ],
+     [
+          "AN11.17",
+          "astute person (paṇḍita)",
+          "known by deeds"
+     ],
+     [
+          "AN11.17",
+          "characteristics (lakkhaṇa)",
+          "of fools and wise people"
+     ],
+     [
+          "AN11.17",
+          "characteristics (lakkhaṇa)",
+          "skilled in"
+     ],
+     [
+          "AN11.17",
+          "cowherd",
+          "simile for good and bad monastics"
+     ],
+     [
+          "AN11.17",
+          "cruel thoughts (vihiṁsāvitakka)",
+          "removing like picking out flies’ eggs"
+     ],
+     [
+          "AN11.17",
+          "domain (gocarā)",
+          "knowing, simile for knowing four foundations of mindfulness"
+     ],
+     [
+          "AN11.17",
+          "eggs",
+          "flies eggs, picking out, simile for bad thoughts"
+     ],
+     [
+          "AN11.17",
+          "elements, four great (cattāri mahābhūtāni)",
+          "form and"
+     ],
+     [
+          "AN11.17",
+          "flies",
+          "eggs, picking out, simile for bad thoughts"
+     ],
+     [
+          "AN11.17",
+          "fools (bāla)",
+          "known by deeds"
+     ],
+     [
+          "AN11.17",
+          "ford (tittha)",
+          "knowing, simile for asking wise people questions"
+     ],
+     [
+          "AN11.17",
+          "form (rūpa)",
+          "knowing to be four great elements"
+     ],
+     [
+          "AN11.17",
+          "foundations of mindfulness (satipaṭṭhāna)",
+          "knowing, like knowing the pasture"
+     ],
+     [
+          "AN11.17",
+          "growth",
+          "factors that lead to"
+     ],
+     [
+          "AN11.17",
+          "inspiration",
+          "in the teachings"
+     ],
+     [
+          "AN11.17",
+          "learned (bahussutā)",
+          "asking learned person questions like knowing the ford"
+     ],
+     [
+          "AN11.17",
+          "listening to Dhamma",
+          "joy in listening"
+     ],
+     [
+          "AN11.17",
+          "loving-kindness (mettā)",
+          "by body, speech and mind"
+     ],
+     [
+          "AN11.17",
+          "malicious thoughts (byāpādavitakka)",
+          "removing like picking out flies’ eggs"
+     ],
+     [
+          "AN11.17",
+          "milking",
+          "milking dry, simile for knowing moderation in accepting requisites"
+     ],
+     [
+          "AN11.17",
+          "moderation, knowing (mattaññū)",
+          "knowing moderation in accepting like not milking dry"
+     ],
+     [
+          "AN11.17",
+          "noble eightfold path (ariya aṭṭhangika magga)",
+          "knowing, like knowing the road"
+     ],
+     [
+          "AN11.17",
+          "questions, asking",
+          "like knowing the ford"
+     ],
+     [
+          "AN11.17",
+          "requisites, four",
+          "knowing moderation in accepting like not milking dry"
+     ],
+     [
+          "AN11.17",
+          "roads",
+          "knowing the road, simile for knowing noble eightfold path"
+     ],
+     [
+          "AN11.17",
+          "sense bases (āyatanā)",
+          "like wounds to be dressed"
+     ],
+     [
+          "AN11.17",
+          "sense doors, guarding (indriyesu guttadvāra)",
+          "like dressing wounds"
+     ],
+     [
+          "AN11.17",
+          "sensual thoughts (kāmavitakka)",
+          "removing like picking out flies’ eggs"
+     ],
+     [
+          "AN11.17",
+          "smoke",
+          "smoking out pests, simile for teaching Dhamma "
+     ],
+     [
+          "AN11.17",
+          "teaching Dhamma",
+          "like smoking out pests"
+     ],
+     [
+          "AN11.17",
+          "worshiping (pūja)",
+          "elder monastics"
+     ],
+     [
+          "AN11.17",
+          "wounds",
+          "dressing, simile for guarding the internal sense bases"
+     ],
+     [
+          "AN11.18",
+          "air",
+          "perception of"
+     ],
+     [
+          "AN11.18",
+          "dimension of infinite consciousness (viññāṇañcāyatana)",
+          "perception of"
+     ],
+     [
+          "AN11.18",
+          "dimension of infinite space (ākāsānañcāyatana)",
+          "perception of"
+     ],
+     [
+          "AN11.18",
+          "dimension of neither perception nor non-perception (nevasaññānāsaññāyatanaṁ)",
+          "perception of"
+     ],
+     [
+          "AN11.18",
+          "dimension of nothingness (ākiñcaññāyatana)",
+          "perception of"
+     ],
+     [
+          "AN11.18",
+          "earth",
+          "perception of"
+     ],
+     [
+          "AN11.18",
+          "fire",
+          "perception of"
+     ],
+     [
+          "AN11.18",
+          "other world (paraloka)",
+          "perceptions and"
+     ],
+     [
+          "AN11.18",
+          "seen, heard, thought, known",
+          "not perceiving"
+     ],
+     [
+          "AN11.18",
+          "stilling of all formations (sabbasaṅkhārasamatha)",
+          "perception of"
+     ],
+     [
+          "AN11.18",
+          "this world (idhaloka)",
+          "perceptions and"
+     ],
+     [
+          "AN11.18",
+          "water",
+          "perception of"
+     ],
+     [
+          "AN11.20",
+          "Sāriputta, Ven.",
+          "asked about concentration"
      ],
      [
           "DN2",
@@ -30055,16 +31690,6 @@ export const indexArray =[
           "simile of irrigator"
      ],
      [
-          "Dhp81",
-          "blame and praise",
-          "simile of rock"
-     ],
-     [
-          "Dhp81",
-          "blame and praise",
-          "unaffected by"
-     ],
-     [
           "Dhp82",
           "wise people",
           "simile of lake"
@@ -30096,7 +31721,7 @@ export const indexArray =[
      ],
      [
           "Dhp91",
-          "mindful person",
+          "mindful people",
           "like swan leaving home"
      ],
      [
@@ -30741,7 +32366,7 @@ export const indexArray =[
      ],
      [
           "Dhp243",
-          "ignorance",
+          "ignorance (avijjā)",
           "as worst stain"
      ],
      [
@@ -31421,7 +33046,7 @@ export const indexArray =[
      ],
      [
           "Iti14",
-          "ignorance",
+          "ignorance (avijjā)",
           "as hindrance"
      ],
      [
@@ -31631,7 +33256,7 @@ export const indexArray =[
      ],
      [
           "Iti40",
-          "ignorance",
+          "ignorance (avijjā)",
           "cause for rebirth"
      ],
      [
@@ -33866,7 +35491,7 @@ export const indexArray =[
      ],
      [
           "MN105",
-          "arrow",
+          "arrows",
           "simile of person struck by"
      ],
      [
@@ -34026,7 +35651,7 @@ export const indexArray =[
      ],
      [
           "MN105",
-          "wound",
+          "wounds",
           "simile for six internal sense bases"
      ],
      [
@@ -35341,11 +36966,6 @@ export const indexArray =[
      ],
      [
           "MN115",
-          "Buddhas",
-          "impossible for two at the same time "
-     ],
-     [
-          "MN115",
           "arahants",
           "killing"
      ],
@@ -35361,6 +36981,11 @@ export const indexArray =[
      ],
      [
           "MN115",
+          "bad actions",
+          "impossible for good results to come from"
+     ],
+     [
+          "MN115",
           "Brahmā",
           "impossible for woman to be "
      ],
@@ -35372,22 +36997,12 @@ export const indexArray =[
      [
           "MN115",
           "Buddhas",
-          "impossible for woman to be "
+          "impossible for two at the same time "
      ],
      [
           "MN115",
-          "Māra",
+          "Buddhas",
           "impossible for woman to be "
-     ],
-     [
-          "MN115",
-          "Sakka, Lord of Gods",
-          "impossible for woman to be "
-     ],
-     [
-          "MN115",
-          "bad actions",
-          "impossible for good results to come from"
      ],
      [
           "MN115",
@@ -35473,6 +37088,16 @@ export const indexArray =[
           "MN115",
           "good actions",
           "impossible to lead to bad destination"
+     ],
+     [
+          "MN115",
+          "Māra",
+          "impossible for woman to be "
+     ],
+     [
+          "MN115",
+          "Sakka, Lord of Gods",
+          "impossible for woman to be "
      ],
      [
           "MN115",
@@ -35791,16 +37416,6 @@ export const indexArray =[
      ],
      [
           "MN118",
-          "foundations of mindfulness (satipaṭṭhāna)",
-          "monks committed to developing"
-     ],
-     [
-          "MN118",
-          "Komudi full moon ",
-          ""
-     ],
-     [
-          "MN118",
           "faculties (indriya)",
           "monks committed to developing"
      ],
@@ -35818,6 +37433,11 @@ export const indexArray =[
           "MN118",
           "foundations of mindfulness (satipaṭṭhāna)",
           "fulfils the seven awakening factors"
+     ],
+     [
+          "MN118",
+          "foundations of mindfulness (satipaṭṭhāna)",
+          "monks committed to developing"
      ],
      [
           "MN118",
@@ -35843,6 +37463,11 @@ export const indexArray =[
           "MN118",
           "knowledge and freedom (vijjāvimutti)",
           "mindfulness of breathing"
+     ],
+     [
+          "MN118",
+          "Komudi full moon ",
+          ""
      ],
      [
           "MN118",
@@ -35951,7 +37576,7 @@ export const indexArray =[
      ],
      [
           "MN119",
-          "chariot",
+          "chariots",
           "ready at crossroad, simile of person who has developed mindfulness of body"
      ],
      [
@@ -36656,11 +38281,6 @@ export const indexArray =[
      ],
      [
           "MN124",
-          "Kassapa, naked ascetic",
-          "friend of Ven. Bakkula"
-     ],
-     [
-          "MN124",
           "going forth (pabbajja)",
           "Ven. Bakkula never giving"
      ],
@@ -36673,6 +38293,11 @@ export const indexArray =[
           "MN124",
           "incredible and amazing (acchariyā abbhutā)",
           "qualities of Ven. Bakkula"
+     ],
+     [
+          "MN124",
+          "Kassapa, naked ascetic",
+          "friend of Ven. Bakkula"
      ],
      [
           "MN124",
@@ -36951,33 +38576,18 @@ export const indexArray =[
      ],
      [
           "MN128",
+          "attention (manasikāra)",
+          "loss of ending concentration"
+     ],
+     [
+          "MN128",
+          "Bhagu, Ven.",
+          "living alone"
+     ],
+     [
+          "MN128",
           "Bodhisatta",
           "meditation experience"
-     ],
-     [
-          "MN128",
-          "concentration (samādhi)",
-          "problems maintaining"
-     ],
-     [
-          "MN128",
-          "discomfort (duṭṭhulla)",
-          "ending concentration"
-     ],
-     [
-          "MN128",
-          "diversified perception (nānattasaññina)",
-          "ending concentration"
-     ],
-     [
-          "MN128",
-          "doubt (vicikicchā)",
-          "ending concentration"
-     ],
-     [
-          "MN128",
-          "Kimbila, Ven.",
-          "living with Ven. Anuruddha and Nandiya"
      ],
      [
           "MN128",
@@ -36986,13 +38596,23 @@ export const indexArray =[
      ],
      [
           "MN128",
-          "attention (manasikāra)",
-          "loss of ending concentration"
+          "doubt (vicikicchā)",
+          "ending concentration"
      ],
      [
           "MN128",
-          "Bhagu, Ven.",
-          "living alone"
+          "dullness and drowsiness (thinamiddha)",
+          "ending concentration"
+     ],
+     [
+          "MN128",
+          "heedfulness (appamāda)",
+          "example of"
+     ],
+     [
+          "MN128",
+          "Kimbila, Ven.",
+          "living with Ven. Anuruddha and Nandiya"
      ],
      [
           "MN128",
@@ -37011,8 +38631,18 @@ export const indexArray =[
      ],
      [
           "MN128",
+          "concentration (samādhi)",
+          "problems maintaining"
+     ],
+     [
+          "MN128",
           "corruptions (upakkilesa)",
           "of the mind"
+     ],
+     [
+          "MN128",
+          "discomfort (duṭṭhulla)",
+          "ending concentration"
      ],
      [
           "MN128",
@@ -37021,7 +38651,7 @@ export const indexArray =[
      ],
      [
           "MN128",
-          "dullness and drowsiness (thinamiddha)",
+          "diversified perception (nānattasaññina)",
           "ending concentration"
      ],
      [
@@ -37052,11 +38682,6 @@ export const indexArray =[
      [
           "MN128",
           "harmony (samagga)",
-          "example of"
-     ],
-     [
-          "MN128",
-          "heedfulness (appamāda)",
           "example of"
      ],
      [
@@ -37371,6 +38996,11 @@ export const indexArray =[
      ],
      [
           "MN130",
+          "dead body",
+          "as divine messenger"
+     ],
+     [
+          "MN130",
           "death (maraṇa)",
           "as divine messenger"
      ],
@@ -37391,6 +39021,11 @@ export const indexArray =[
      ],
      [
           "MN130",
+          "Great Hell (mahāniraya)",
+          "description of"
+     ],
+     [
+          "MN130",
           "heedlessness (pamāda)",
           "when seeing divine messengers"
      ],
@@ -37403,6 +39038,16 @@ export const indexArray =[
           "MN130",
           "Hell of Hot Coals (kukkulaniraya)",
           "description of"
+     ],
+     [
+          "MN130",
+          "hell (niraya)",
+          "description of"
+     ],
+     [
+          "MN130",
+          "hell (niraya)",
+          "torture in "
      ],
      [
           "MN130",
@@ -37421,28 +39066,13 @@ export const indexArray =[
      ],
      [
           "MN130",
+          "punishment (daṇḍa)",
+          "examples of"
+     ],
+     [
+          "MN130",
           "Yama, King",
           "questioning beings reborn in hell"
-     ],
-     [
-          "MN130",
-          "dead body",
-          "as divine messenger"
-     ],
-     [
-          "MN130",
-          "Great Hell (mahāniraya)",
-          "description of"
-     ],
-     [
-          "MN130",
-          "hell (niraya)",
-          "description of"
-     ],
-     [
-          "MN130",
-          "hell (niraya)",
-          "torture in "
      ],
      [
           "MN130",
@@ -37453,11 +39083,6 @@ export const indexArray =[
           "MN130",
           "old person",
           "as divine messenger"
-     ],
-     [
-          "MN130",
-          "punishment (daṇḍa)",
-          "examples of"
      ],
      [
           "MN130",
@@ -37957,27 +39582,12 @@ export const indexArray =[
      [
           "MN136",
           "actions (kamma)",
-          "feelings resulting from"
-     ],
-     [
-          "MN136",
-          "actions (kamma)",
           "results coming at different times"
-     ],
-     [
-          "MN136",
-          "attachment to views (diṭṭhiyoga)",
-          "about actions and results"
      ],
      [
           "MN136",
           "bad actions",
           "results coming at different times"
-     ],
-     [
-          "MN136",
-          "bad people (asappurisa)",
-          "experiencing good results"
      ],
      [
           "MN136",
@@ -38003,6 +39613,21 @@ export const indexArray =[
           "MN136",
           "actions (kamma)",
           "effective and ineffective, seeming to be"
+     ],
+     [
+          "MN136",
+          "actions (kamma)",
+          "feelings resulting from"
+     ],
+     [
+          "MN136",
+          "attachment to views (diṭṭhiyoga)",
+          "about actions and results"
+     ],
+     [
+          "MN136",
+          "bad people (asappurisa)",
+          "experiencing good results"
      ],
      [
           "MN136",
@@ -39746,6 +41371,21 @@ export const indexArray =[
      ],
      [
           "MN148",
+          "contact (phassa)",
+          "not self"
+     ],
+     [
+          "MN148",
+          "craving (taṇha)",
+          "not self"
+     ],
+     [
+          "MN148",
+          "craving (taṇha)",
+          "six classes of"
+     ],
+     [
+          "MN148",
           "Dhamma",
           "good in beginning, middle, end"
      ],
@@ -39757,21 +41397,6 @@ export const indexArray =[
      [
           "MN148",
           "contact (phassa)",
-          "not self"
-     ],
-     [
-          "MN148",
-          "contact (phassa)",
-          "six classes of"
-     ],
-     [
-          "MN148",
-          "craving (taṇha)",
-          "not self"
-     ],
-     [
-          "MN148",
-          "craving (taṇha)",
           "six classes of"
      ],
      [
@@ -41115,11 +42740,6 @@ export const indexArray =[
           "good and bad"
      ],
      [
-          "SN2.1",
-          "speech",
-          "well spoken"
-     ],
-     [
           "SN2.19",
           "death (maraṇa)",
           "danger of"
@@ -41428,6 +43048,231 @@ export const indexArray =[
           "SN42.13",
           "loving-kindness (mettā)",
           "to prepare the mind for reflection"
+     ],
+     [
+          "SN45.1",
+          "conscience and prudence (hiri ottappa)",
+          "caused by knowledge"
+     ],
+     [
+          "SN45.1",
+          "conscience and prudence (hiri ottappa)",
+          "lack of caused by ignorance"
+     ],
+     [
+          "SN45.1",
+          "ignorance (avijjā)",
+          "cause of unskillful qualities"
+     ],
+     [
+          "SN45.1",
+          "ignorance (avijjā)",
+          "causes wrong eightfold path"
+     ],
+     [
+          "SN45.1",
+          "knowledge (vijja)",
+          "cause of skillful qualities"
+     ],
+     [
+          "SN45.1",
+          "noble eightfold path (ariya aṭṭhangika magga)",
+          "caused by knowledge"
+     ],
+     [
+          "SN45.1",
+          "noble eightfold path (ariya aṭṭhangika magga)",
+          "sequential causes"
+     ],
+     [
+          "SN45.1",
+          "skillful qualities (kusala dhamma)",
+          "caused by knowledge"
+     ],
+     [
+          "SN45.1",
+          "unskillful qualities (akusala dhamma)",
+          "caused by ignorance"
+     ],
+     [
+          "SN45.1",
+          "wrong eightfold path",
+          "caused by ignorance"
+     ],
+     [
+          "SN45.1",
+          "wrong eightfold path",
+          "sequential causes"
+     ],
+     [
+          "SN45.2",
+          "Ānanda, Ven.",
+          "half the spiritual life"
+     ],
+     [
+          "SN45.2",
+          "Buddha, the",
+          "relying on as spiritual friend"
+     ],
+     [
+          "SN45.2",
+          "cessation (nirodha)",
+          "developing eightfold path based on"
+     ],
+     [
+          "SN45.2",
+          "fading away (virāga)",
+          "developing eightfold path based on"
+     ],
+     [
+          "SN45.2",
+          "letting go (vossagga)",
+          "developing eightfold path based on"
+     ],
+     [
+          "SN45.2",
+          "seclusion (paviveka)",
+          "developing eightfold path based on"
+     ],
+     [
+          "SN45.2",
+          "spiritual friends (kalyāṇamitta)",
+          "Buddha as"
+     ],
+     [
+          "SN45.2",
+          "spiritual friends (kalyāṇamitta)",
+          "one with will develop noble eightfold path"
+     ],
+     [
+          "SN45.2",
+          "spiritual friends (kalyāṇamitta)",
+          "whole of the spiritual life"
+     ],
+     [
+          "SN45.3",
+          "Sāriputta, Ven.",
+          "whole of the spiritual life"
+     ],
+     [
+          "SN45.3",
+          "spiritual friends (kalyāṇamitta)",
+          "whole of the spiritual life"
+     ],
+     [
+          "SN45.4",
+          "Brahmā",
+          "vehicle of"
+     ],
+     [
+          "SN45.4",
+          "chariots",
+          "fit for Brahmā"
+     ],
+     [
+          "SN45.4",
+          "chariots",
+          "simile for spiritual path"
+     ],
+     [
+          "SN45.4",
+          "enduring (titikkha)",
+          "like armor"
+     ],
+     [
+          "SN45.4",
+          "faith (saddhā)",
+          "yoked together with wisdom"
+     ],
+     [
+          "SN45.4",
+          "good will (abyāpāda, avyāpāda)",
+          "like a weapon"
+     ],
+     [
+          "SN45.4",
+          "greed, hatred, delusion",
+          "ending through noble eightfold path"
+     ],
+     [
+          "SN45.4",
+          "harmlessness (avihiṁsā)",
+          "like a weapon"
+     ],
+     [
+          "SN45.4",
+          "Jāṇussoṇi, brahmin",
+          "with white chariot, etc"
+     ],
+     [
+          "SN45.4",
+          "jhānas",
+          "like chariot axle"
+     ],
+     [
+          "SN45.4",
+          "mindfulness (sati)",
+          "like chariot driver"
+     ],
+     [
+          "SN45.4",
+          "noble eightfold path (ariya aṭṭhangika magga)",
+          "other names for"
+     ],
+     [
+          "SN45.4",
+          "seclusion (paviveka)",
+          "like a weapon"
+     ],
+     [
+          "SN45.4",
+          "supreme victory in battle (anuttaro saṅgāmavijayo)",
+          "noble eightfold path"
+     ],
+     [
+          "SN45.4",
+          "wisdom (paññā)",
+          "yoked together with faith"
+     ],
+     [
+          "SN45.5",
+          "noble eightfold path (ariya aṭṭhangika magga)",
+          "understanding suffering"
+     ],
+     [
+          "SN45.5",
+          "spiritual path (brahmacariya)",
+          "purpose of"
+     ],
+     [
+          "SN45.5",
+          "suffering (dukkha)",
+          "understanding is the purpose of spiritual life"
+     ],
+     [
+          "SN45.5",
+          "suffering (dukkha)",
+          "understanding through noble eightfold path"
+     ],
+     [
+          "SN45.6",
+          "spiritual path (brahmacariya)",
+          "culmination of"
+     ],
+     [
+          "SN45.6",
+          "spiritual path (brahmacariya)",
+          "definition"
+     ],
+     [
+          "SN45.7",
+          "nibbāna element (nibbānadhātu)",
+          "definition"
+     ],
+     [
+          "SN45.7",
+          "removing (vinodana)",
+          "greed, hatred, delusion"
      ],
      [
           "SN45.8",
@@ -42120,11 +43965,6 @@ export const indexArray =[
           "well spoken"
      ],
      [
-          "Snp3.3",
-          "speech",
-          "well spoken"
-     ],
-     [
           "Snp3.4",
           "Buddha, the",
           "qualities of"
@@ -42356,6 +44196,11 @@ export const indexArray =[
      ],
      [
           "Snp3.11",
+          "monastic life",
+          "like licking razor’s edge"
+     ],
+     [
+          "Snp3.11",
           "Nālaka, nephew of Asita",
           ""
      ],
@@ -42373,11 +44218,6 @@ export const indexArray =[
           "Snp3.11",
           "monastic life",
           "advice for"
-     ],
-     [
-          "Snp3.11",
-          "monastic life",
-          "like licking razor’s edge"
      ],
      [
           "Snp3.11",

@@ -21,11 +21,8 @@ export const ContextDestination = createContext();
 function App() {
   const [destination, setDestination] = useState(localStorage.destination ? localStorage.destination : "SC");
   const [isLocatorView, setIsLocatorView] = useState(false);
-  const [showVisited, setShowVisited] = useState(localStorage.showVisited ? localStorage.showVisited : "on");
+
   const [searchText, setSearchText] = useState("");
-  const [namesIsChecked, setNamesIsChecked] = useState(
-    localStorage.namesIsChecked ? JSON.parse(localStorage.namesIsChecked) : true
-  );
 
   // hide submenus when clicking outsid them
   document.addEventListener("click", e => {
