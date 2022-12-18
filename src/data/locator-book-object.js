@@ -1074,6 +1074,11 @@ export const locatorBookObject ={
     ],
     [
       "MN105",
+      "beverage",
+      "poisoned, avoiding, like restraint towards sense fields, like restraint towards sense fields"
+    ],
+    [
+      "MN105",
       "dart (salla)",
       "craving"
     ],
@@ -1159,6 +1164,26 @@ export const locatorBookObject ={
     ],
     [
       "MN105",
+      "probing",
+      "simile for mindfulness"
+    ],
+    [
+      "MN105",
+      "rock",
+      "unable to become whole after broken like someone given up interest in lesser topics"
+    ],
+    [
+      "MN105",
+      "sense pleasures (kāma, kāmaguṇa)",
+      "discussion of"
+    ],
+    [
+      "MN105",
+      "Sunakkhatta, Ven. ",
+      "asking about overestimation"
+    ],
+    [
+      "MN105",
       "palm tree",
       "cannot regrow like someone given up interest in lesser topics"
     ],
@@ -1169,38 +1194,13 @@ export const locatorBookObject ={
     ],
     [
       "MN105",
-      "rock",
-      "unable to become whole after broken like someone given up interest in lesser topics"
-    ],
-    [
-      "MN105",
       "sense pleasures (kāma, kāmaguṇa)",
       "being intent on"
     ],
     [
       "MN105",
-      "sense pleasures (kāma, kāmaguṇa)",
-      "discussion of"
-    ],
-    [
-      "MN105",
       "sense restraint (indriyasaṁvara)",
       "because of being intent on nibbāna"
-    ],
-    [
-      "MN105",
-      "Sunakkhatta, Ven. ",
-      "asking about overestimation"
-    ],
-    [
-      "MN105",
-      "beverage",
-      "poisoned, avoiding, like restraint towards sense fields, like restraint towards sense fields"
-    ],
-    [
-      "MN105",
-      "probing",
-      "simile for mindfulness"
     ],
     [
       "MN105",
@@ -2154,6 +2154,11 @@ export const locatorBookObject ={
     ],
     [
       "MN113",
+      "ascetic practices (dhutaṅga)",
+      "not a reason to become arrogant"
+    ],
+    [
+      "MN113",
       "Dhamma teachers",
       "not a reason to become arrogant"
     ],
@@ -2161,11 +2166,6 @@ export const locatorBookObject ={
       "MN113",
       "arrogance",
       "because of high family, fame, etc."
-    ],
-    [
-      "MN113",
-      "ascetic practices (dhutaṅga)",
-      "not a reason to become arrogant"
     ],
     [
       "MN113",
@@ -2539,11 +2539,6 @@ export const locatorBookObject ={
     ],
     [
       "MN115",
-      "arahants",
-      "killing"
-    ],
-    [
-      "MN115",
       "astute person (paṇḍita)",
       "danger does not come from"
     ],
@@ -2551,11 +2546,6 @@ export const locatorBookObject ={
       "MN115",
       "astute person (paṇḍita)",
       "definition"
-    ],
-    [
-      "MN115",
-      "bad actions",
-      "impossible for good results to come from"
     ],
     [
       "MN115",
@@ -2579,6 +2569,31 @@ export const locatorBookObject ={
     ],
     [
       "MN115",
+      "arahants",
+      "killing"
+    ],
+    [
+      "MN115",
+      "conditions (saṅkāra)",
+      "taking as pleasant"
+    ],
+    [
+      "MN115",
+      "Māra",
+      "impossible for woman to be "
+    ],
+    [
+      "MN115",
+      "Sakka, Lord of Gods",
+      "impossible for woman to be "
+    ],
+    [
+      "MN115",
+      "bad actions",
+      "impossible for good results to come from"
+    ],
+    [
+      "MN115",
       "bad actions",
       "impossible to lead to good destination"
     ],
@@ -2586,11 +2601,6 @@ export const locatorBookObject ={
       "MN115",
       "conditions (saṅkāra)",
       "taking as permanent"
-    ],
-    [
-      "MN115",
-      "conditions (saṅkāra)",
-      "taking as pleasant"
     ],
     [
       "MN115",
@@ -2661,16 +2671,6 @@ export const locatorBookObject ={
       "MN115",
       "good actions",
       "impossible to lead to bad destination"
-    ],
-    [
-      "MN115",
-      "Māra",
-      "impossible for woman to be "
-    ],
-    [
-      "MN115",
-      "Sakka, Lord of Gods",
-      "impossible for woman to be "
     ],
     [
       "MN115",
@@ -3854,16 +3854,6 @@ export const locatorBookObject ={
     ],
     [
       "MN124",
-      "going forth (pabbajja)",
-      "Ven. Bakkula never giving"
-    ],
-    [
-      "MN124",
-      "health",
-      "Ven. Bakkula having perfect"
-    ],
-    [
-      "MN124",
       "incredible and amazing (acchariyā abbhutā)",
       "qualities of Ven. Bakkula"
     ],
@@ -3871,6 +3861,16 @@ export const locatorBookObject ={
       "MN124",
       "Kassapa, naked ascetic",
       "friend of Ven. Bakkula"
+    ],
+    [
+      "MN124",
+      "going forth (pabbajja)",
+      "Ven. Bakkula never giving"
+    ],
+    [
+      "MN124",
+      "health",
+      "Ven. Bakkula having perfect"
     ],
     [
       "MN124",
@@ -3901,6 +3901,16 @@ export const locatorBookObject ={
       "MN125",
       "Dhamma teaching",
       "not being competent to"
+    ],
+    [
+      "MN125",
+      "enduring (khama)",
+      "criticism"
+    ],
+    [
+      "MN125",
+      "enduring (khama)",
+      "unpleasant things"
     ],
     [
       "MN125",
@@ -3936,16 +3946,6 @@ export const locatorBookObject ={
       "MN125",
       "elephants",
       "trained and untrained, simile of"
-    ],
-    [
-      "MN125",
-      "enduring (khama)",
-      "criticism"
-    ],
-    [
-      "MN125",
-      "enduring (khama)",
-      "unpleasant things"
     ],
     [
       "MN125",
@@ -4149,11 +4149,6 @@ export const locatorBookObject ={
     ],
     [
       "MN128",
-      "attention (manasikāra)",
-      "loss of ending concentration"
-    ],
-    [
-      "MN128",
       "Bhagu, Ven.",
       "living alone"
     ],
@@ -4161,26 +4156,6 @@ export const locatorBookObject ={
       "MN128",
       "Bodhisatta",
       "meditation experience"
-    ],
-    [
-      "MN128",
-      "alms gathering practice",
-      "logistics"
-    ],
-    [
-      "MN128",
-      "doubt (vicikicchā)",
-      "ending concentration"
-    ],
-    [
-      "MN128",
-      "dullness and drowsiness (thinamiddha)",
-      "ending concentration"
-    ],
-    [
-      "MN128",
-      "heedfulness (appamāda)",
-      "example of"
     ],
     [
       "MN128",
@@ -4196,6 +4171,16 @@ export const locatorBookObject ={
       "MN128",
       "Nandiya, Ven.",
       "living with Ven. Anuruddha and Kimbila"
+    ],
+    [
+      "MN128",
+      "alms gathering practice",
+      "logistics"
+    ],
+    [
+      "MN128",
+      "attention (manasikāra)",
+      "loss of ending concentration"
     ],
     [
       "MN128",
@@ -4229,6 +4214,16 @@ export const locatorBookObject ={
     ],
     [
       "MN128",
+      "doubt (vicikicchā)",
+      "ending concentration"
+    ],
+    [
+      "MN128",
+      "dullness and drowsiness (thinamiddha)",
+      "ending concentration"
+    ],
+    [
+      "MN128",
       "energy (vīriya)",
       "overly lax energy and ending concentration"
     ],
@@ -4255,6 +4250,11 @@ export const locatorBookObject ={
     [
       "MN128",
       "harmony (samagga)",
+      "example of"
+    ],
+    [
+      "MN128",
+      "heedfulness (appamāda)",
       "example of"
     ],
     [
@@ -5155,12 +5155,12 @@ export const locatorBookObject ={
     [
       "MN136",
       "actions (kamma)",
-      "results coming at different times"
+      "effective and ineffective, seeming to be"
     ],
     [
       "MN136",
-      "bad actions",
-      "results coming at different times"
+      "actions (kamma)",
+      "feelings resulting from"
     ],
     [
       "MN136",
@@ -5185,17 +5185,17 @@ export const locatorBookObject ={
     [
       "MN136",
       "actions (kamma)",
-      "effective and ineffective, seeming to be"
-    ],
-    [
-      "MN136",
-      "actions (kamma)",
-      "feelings resulting from"
+      "results coming at different times"
     ],
     [
       "MN136",
       "attachment to views (diṭṭhiyoga)",
       "about actions and results"
+    ],
+    [
+      "MN136",
+      "bad actions",
+      "results coming at different times"
     ],
     [
       "MN136",
@@ -6944,18 +6944,8 @@ export const locatorBookObject ={
     ],
     [
       "MN148",
-      "contact (phassa)",
-      "not self"
-    ],
-    [
-      "MN148",
       "craving (taṇha)",
       "not self"
-    ],
-    [
-      "MN148",
-      "craving (taṇha)",
-      "six classes of"
     ],
     [
       "MN148",
@@ -6970,6 +6960,16 @@ export const locatorBookObject ={
     [
       "MN148",
       "contact (phassa)",
+      "not self"
+    ],
+    [
+      "MN148",
+      "contact (phassa)",
+      "six classes of"
+    ],
+    [
+      "MN148",
+      "craving (taṇha)",
       "six classes of"
     ],
     [
@@ -8201,6 +8201,21 @@ export const locatorBookObject ={
     ],
     [
       "SN45.7",
+      "deathless (amata)",
+      "definition"
+    ],
+    [
+      "SN45.7",
+      "deathless (amata)",
+      "path that leads to"
+    ],
+    [
+      "SN45.7",
+      "greed, hatred, delusion",
+      "removal of "
+    ],
+    [
+      "SN45.7",
       "nibbāna element (nibbānadhātu)",
       "definition"
     ],
@@ -8210,9 +8225,1629 @@ export const locatorBookObject ={
       "greed, hatred, delusion"
     ],
     [
+      "SN45.7",
+      "taints (āsava)",
+      "ending of"
+    ],
+    [
+      "SN45.8",
+      "noble eightfold path (ariya aṭṭhangika magga)",
+      "analysis of"
+    ],
+    [
+      "SN45.8",
+      "right action (sammā kammanta)",
+      "definition"
+    ],
+    [
+      "SN45.8",
+      "right concentration (sammā samadhi)",
+      "definition"
+    ],
+    [
+      "SN45.8",
+      "right effort (sammā vāyāma)",
+      "definition"
+    ],
+    [
+      "SN45.8",
+      "right intention (sammā saṅkappa)",
+      "definition"
+    ],
+    [
+      "SN45.8",
+      "right livelihood (sammā ājīva)",
+      "definition"
+    ],
+    [
+      "SN45.8",
+      "right mindfulness (sammā sati)",
+      "definition"
+    ],
+    [
       "SN45.8",
       "right speech (sammā vācā)",
       "definition"
+    ],
+    [
+      "SN45.8",
+      "right speech (sammā vācā)",
+      "definition"
+    ],
+    [
+      "SN45.8",
+      "right view (sammā diṭṭhi)",
+      "definition"
+    ],
+    [
+      "SN45.9",
+      "barley",
+      "spike of, simile for wrong view and right view"
+    ],
+    [
+      "SN45.9",
+      "rice",
+      "spike of, simile for wrong view and right view"
+    ],
+    [
+      "SN45.9",
+      "right view (sammā diṭṭhi)",
+      "like spike of rice pointing right way"
+    ],
+    [
+      "SN45.9",
+      "spike",
+      "simile for wrong view and right view"
+    ],
+    [
+      "SN45.9",
+      "wrong view (micchā diṭṭhi)",
+      "like spike of rice pointing the wrong way"
+    ],
+    [
+      "SN45.10",
+      "Nandiya the wanderer",
+      "asking about nibbāna"
+    ],
+    [
+      "SN45.10",
+      "noble eightfold path (ariya aṭṭhangika magga)",
+      "culminates in nibbāna"
+    ],
+    [
+      "SN45.11",
+      "Buddha, the",
+      "going into retreat"
+    ],
+    [
+      "SN45.11",
+      "Buddha, the",
+      "meditation practice"
+    ],
+    [
+      "SN45.11",
+      "desire (chanda)",
+      "feelings conditioned by"
+    ],
+    [
+      "SN45.11",
+      "desire (chanda)",
+      "stilling"
+    ],
+    [
+      "SN45.11",
+      "feelings (vedanā)",
+      "conditioned by right and wrong eightfold path"
+    ],
+    [
+      "SN45.11",
+      "perceptions (saññā)",
+      "feelings conditioned by"
+    ],
+    [
+      "SN45.11",
+      "perceptions (saññā)",
+      "stilling"
+    ],
+    [
+      "SN45.11",
+      "thoughts (vitakkā)",
+      "feelings conditioned by"
+    ],
+    [
+      "SN45.11",
+      "thoughts (vitakkā)",
+      "stilling"
+    ],
+    [
+      "SN45.11",
+      "unattained (appatta)",
+      "effort"
+    ],
+    [
+      "SN45.12",
+      "Buddha, the",
+      "going into retreat"
+    ],
+    [
+      "SN45.12",
+      "Buddha, the",
+      "meditation practice"
+    ],
+    [
+      "SN45.13",
+      "noble eightfold path (ariya aṭṭhangika magga)",
+      "of a trainee"
+    ],
+    [
+      "SN45.13",
+      "trainee (sekha)",
+      "definition"
+    ],
+    [
+      "SN45.14",
+      "Buddhas",
+      "noble eightfold path only arrises when Buddha appears"
+    ],
+    [
+      "SN45.14",
+      "noble eightfold path (ariya aṭṭhangika magga)",
+      "only when Buddha arises"
+    ],
+    [
+      "SN45.15",
+      "noble eightfold path (ariya aṭṭhangika magga)",
+      "does not arise appart from the Blessed One’s vinaya"
+    ],
+    [
+      "SN45.16",
+      "noble eightfold path (ariya aṭṭhangika magga)",
+      "only when Buddha arises"
+    ],
+    [
+      "SN45.18",
+      "Ānanda, Ven.",
+      "not the spiritual path, definition"
+    ],
+    [
+      "SN45.18",
+      "Bhadda, Ven",
+      "asks about “not the spiritual path”"
+    ],
+    [
+      "SN45.18",
+      "spiritual path (brahmacariya)",
+      "not the spiritual path, definition"
+    ],
+    [
+      "SN45.18",
+      "wrong eightfold path",
+      "not the spiritual path"
+    ],
+    [
+      "SN45.19",
+      "Ānanda, Ven.",
+      "the spiritual path, definition"
+    ],
+    [
+      "SN45.19",
+      "Bhadda, Ven",
+      "asks about the spiritual path"
+    ],
+    [
+      "SN45.19",
+      "noble eightfold path (ariya aṭṭhangika magga)",
+      "spiritual path, definition"
+    ],
+    [
+      "SN45.19",
+      "spiritual path (brahmacariya)",
+      "definition"
+    ],
+    [
+      "SN45.22",
+      "skillful qualities (kusala dhamma)",
+      "definition"
+    ],
+    [
+      "SN45.22",
+      "unskillful qualities (akusala dhamma)",
+      "definition"
+    ],
+    [
+      "SN45.24",
+      "laypeople",
+      "right practice and wrong practice"
+    ],
+    [
+      "SN45.24",
+      "monastics",
+      "right practice and wrong practice"
+    ],
+    [
+      "SN45.24",
+      "practices (paṭipatti)",
+      "wrong and right for monks and laypeople"
+    ],
+    [
+      "SN45.25",
+      "bad people (asappurisa)",
+      "definition"
+    ],
+    [
+      "SN45.25",
+      "good people (sappurisa)",
+      "definition"
+    ],
+    [
+      "SN45.26",
+      "bad people (asappurisa)",
+      "definition"
+    ],
+    [
+      "SN45.26",
+      "good people (sappurisa)",
+      "definition"
+    ],
+    [
+      "SN45.26",
+      "right freedom (sammā vimutti)",
+      "better person"
+    ],
+    [
+      "SN45.26",
+      "right knowledge (sammā ñāṇa)",
+      "better person"
+    ],
+    [
+      "SN45.26",
+      "wrong freedom (micchā vimutti)",
+      "worse person"
+    ],
+    [
+      "SN45.26",
+      "wrong knowledge (micchā ñāṇa)",
+      "worse person"
+    ],
+    [
+      "SN45.27",
+      "noble eightfold path (ariya aṭṭhangika magga)",
+      "like a stand for the mind"
+    ],
+    [
+      "SN45.27",
+      "pots",
+      "with a stand, simile for mind"
+    ],
+    [
+      "SN45.27",
+      "pots",
+      "without a stand, simile for mind"
+    ],
+    [
+      "SN45.28",
+      "noble right concentration (ariyo sammāsamādhi)",
+      "conditions of"
+    ],
+    [
+      "SN45.28",
+      "unification of mind (cittassa ekaggatā)",
+      "condition for noble right concentration"
+    ],
+    [
+      "SN45.29",
+      "feelings (vedanā)",
+      "noble eightfold path to understand"
+    ],
+    [
+      "SN45.30",
+      "noble eightfold path (ariya aṭṭhangika magga)",
+      "to give up five sense pleasures"
+    ],
+    [
+      "SN45.30",
+      "Uttiya, Ven.",
+      "asking about five sense pleasures"
+    ],
+    [
+      "SN45.30",
+      "sense pleasures, five",
+      "definition"
+    ],
+    [
+      "SN45.30",
+      "sense pleasures, five",
+      "noble eightfold path to give up"
+    ],
+    [
+      "SN45.34",
+      "far shore (pārima)",
+      "noble eightfold path to reach"
+    ],
+    [
+      "SN45.34",
+      "noble eightfold path (ariya aṭṭhangika magga)",
+      "to go from near to far shore"
+    ],
+    [
+      "SN45.35",
+      "arahants",
+      "fruit of monastic life"
+    ],
+    [
+      "SN45.35",
+      "fruits of monastic life (sāmaññaphala)",
+      "definition"
+    ],
+    [
+      "SN45.35",
+      "monastic life",
+      "definition"
+    ],
+    [
+      "SN45.35",
+      "non-returner (anāgāmi)",
+      "fruit of monastic life"
+    ],
+    [
+      "SN45.35",
+      "once returner (sakadāgāmī)",
+      "fruit of monastic life"
+    ],
+    [
+      "SN45.35",
+      "stream-enterers (sotāpanna)",
+      "fruit of monastic life"
+    ],
+    [
+      "SN45.36",
+      "goals",
+      "of monastic life"
+    ],
+    [
+      "SN45.37",
+      "brahmin",
+      "life of"
+    ],
+    [
+      "SN45.37",
+      "brahmin",
+      "results of brahmin life"
+    ],
+    [
+      "SN45.39",
+      "arahants",
+      "fruit of spiritual path"
+    ],
+    [
+      "SN45.39",
+      "non-returner (anāgāmi)",
+      "fruit of spiritual path"
+    ],
+    [
+      "SN45.39",
+      "once returner (sakadāgāmī)",
+      "fruit of spiritual path"
+    ],
+    [
+      "SN45.39",
+      "spiritual path (brahmacariya)",
+      "definition"
+    ],
+    [
+      "SN45.39",
+      "spiritual path (brahmacariya)",
+      "fruit of"
+    ],
+    [
+      "SN45.39",
+      "stream-enterers (sotāpanna)",
+      "fruit of spiritual path"
+    ],
+    [
+      "SN45.41",
+      "greed (rāga)",
+      "path for removing"
+    ],
+    [
+      "SN45.41",
+      "noble eightfold path (ariya aṭṭhangika magga)",
+      "for removing greed"
+    ],
+    [
+      "SN45.41",
+      "spiritual path (brahmacariya)",
+      "purpose of"
+    ],
+    [
+      "SN45.42",
+      "fetters (saṁyojana)",
+      "giving up is purpose of spiritual life"
+    ],
+    [
+      "SN45.42",
+      "spiritual path (brahmacariya)",
+      "purpose of"
+    ],
+    [
+      "SN45.43",
+      "spiritual path (brahmacariya)",
+      "purpose of"
+    ],
+    [
+      "SN45.43",
+      "underlying tendencies (anusaya)",
+      "uprooting is purpose of spiritual life"
+    ],
+    [
+      "SN45.44",
+      "course of time (addhāna)",
+      "understanding"
+    ],
+    [
+      "SN45.44",
+      "spiritual path (brahmacariya)",
+      "purpose of"
+    ],
+    [
+      "SN45.45",
+      "spiritual path (brahmacariya)",
+      "purpose of"
+    ],
+    [
+      "SN45.45",
+      "taints (āsava)",
+      "to end"
+    ],
+    [
+      "SN45.46",
+      "knowledge and freedom (vijjāvimutti)",
+      "to realize"
+    ],
+    [
+      "SN45.46",
+      "spiritual path (brahmacariya)",
+      "purpose of"
+    ],
+    [
+      "SN45.47",
+      "knowledge and vision (ñāṇadassana)",
+      "to obtain"
+    ],
+    [
+      "SN45.47",
+      "spiritual path (brahmacariya)",
+      "purpose of"
+    ],
+    [
+      "SN45.48",
+      "extinguishment by not grasping (anupādāparinibbāna)",
+      "path for"
+    ],
+    [
+      "SN45.48",
+      "noble eightfold path (ariya aṭṭhangika magga)",
+      "for extinguisment by not grasping"
+    ],
+    [
+      "SN45.48",
+      "spiritual path (brahmacariya)",
+      "purpose of"
+    ],
+    [
+      "SN45.49",
+      "dawn",
+      "forerunner of sunrise, simile for one with spiritual friends "
+    ],
+    [
+      "SN45.49",
+      "noble eightfold path (ariya aṭṭhangika magga)",
+      "spiritual friends"
+    ],
+    [
+      "SN45.49",
+      "spiritual friends (kalyāṇamitta)",
+      "one with will develop noble eightfold path "
+    ],
+    [
+      "SN45.49",
+      "sunrise",
+      "follows dawn, simile for one with spiritual friends"
+    ],
+    [
+      "SN45.50",
+      "accomplishment in virtue (sīlasampadā)",
+      "one with will develop noble eightfold path "
+    ],
+    [
+      "SN45.51",
+      "accomplishment in enthusiasm (chandasampadā)",
+      "one with will develop noble eightfold path "
+    ],
+    [
+      "SN45.52",
+      "accomplishment in self (attasampadā)",
+      "one with will develop noble eightfold path "
+    ],
+    [
+      "SN45.53",
+      "accomplishment in view (diṭṭhisampadā)",
+      "one with will develop noble eightfold path "
+    ],
+    [
+      "SN45.54",
+      "accomplishment in diligence (appamādasampadā)",
+      "one with will develop noble eightfold path "
+    ],
+    [
+      "SN45.55",
+      "accomplishment in proper attention (yonisomanasikārasampadā)",
+      "one with will develop noble eightfold path "
+    ],
+    [
+      "SN45.84",
+      "noble eightfold path (ariya aṭṭhangika magga)",
+      "spiritual friends"
+    ],
+    [
+      "SN45.84",
+      "spiritual friends (kalyāṇamitta)",
+      "one with will develop noble eightfold path "
+    ],
+    [
+      "SN45.85",
+      "accomplishment in virtue (sīlasampadā)",
+      "one with will develop noble eightfold path "
+    ],
+    [
+      "SN45.86",
+      "accomplishment in enthusiasm (chandasampadā)",
+      "one with will develop noble eightfold path "
+    ],
+    [
+      "SN45.87",
+      "accomplishment in self (attasampadā)",
+      "one with will develop noble eightfold path "
+    ],
+    [
+      "SN45.88",
+      "accomplishment in view (diṭṭhisampadā)",
+      "one with will develop noble eightfold path "
+    ],
+    [
+      "SN45.89",
+      "accomplishment in diligence (appamādasampadā)",
+      "one with will develop noble eightfold path "
+    ],
+    [
+      "SN45.90",
+      "accomplishment in proper attention (yonisomanasikārasampadā)",
+      "one with will develop noble eightfold path "
+    ],
+    [
+      "SN45.91",
+      "Ganges river",
+      "slants to the east, simile for noble eightfold path leads to nibbāna"
+    ],
+    [
+      "SN45.91",
+      "noble eightfold path (ariya aṭṭhangika magga)",
+      "like Ganges slants to the east"
+    ],
+    [
+      "SN45.96",
+      "rivers",
+      "great rivers slant to the east, simile for noble eightfold path leads to nibbāna"
+    ],
+    [
+      "SN45.139",
+      "Buddha, the",
+      "best of all beings"
+    ],
+    [
+      "SN45.139",
+      "heedfulness (appamāda)",
+      "all skillful qualities rooted in"
+    ],
+    [
+      "SN45.139",
+      "heedfulness (appamāda)",
+      "heedful person will develop noble eightfold path"
+    ],
+    [
+      "SN45.139",
+      "skillful qualities (kusala dhamma)",
+      "all rooted in heedfulness"
+    ],
+    [
+      "SN45.140",
+      "elephants",
+      "footprints, simile for heedfulness"
+    ],
+    [
+      "SN45.140",
+      "footprints",
+      "simile for heedfulness"
+    ],
+    [
+      "SN45.140",
+      "heedfulness (appamāda)",
+      "heedful person will develop noble eightfold path"
+    ],
+    [
+      "SN45.141",
+      "rafters",
+      "simile for heedfulness"
+    ],
+    [
+      "SN45.141",
+      "roof peak",
+      "simile for heedfulness"
+    ],
+    [
+      "SN45.142",
+      "spikenard",
+      "simile for heedfulness"
+    ],
+    [
+      "SN45.143",
+      "sandalwood",
+      "simile for heedfulness"
+    ],
+    [
+      "SN45.144",
+      "jasmine",
+      "simile for heedfulness"
+    ],
+    [
+      "SN45.145",
+      "wheel-turning monarchs",
+      "simile for heedfulness"
+    ],
+    [
+      "SN45.146",
+      "moon",
+      "simile for heedfulness"
+    ],
+    [
+      "SN45.147",
+      "sun (sūriya)",
+      "simile for heedfulness"
+    ],
+    [
+      "SN45.148",
+      "cloth",
+      "simile for heedfulness"
+    ],
+    [
+      "SN45.149",
+      "earth, the",
+      "simile for virtue as ground"
+    ],
+    [
+      "SN45.149",
+      "noble eightfold path (ariya aṭṭhangika magga)",
+      "grounded on virtue"
+    ],
+    [
+      "SN45.149",
+      "virtue (sīla)",
+      "grounded on one develops noble eightfold path"
+    ],
+    [
+      "SN45.149",
+      "work",
+      "all depends on the earth, simile for virtue"
+    ],
+    [
+      "SN45.150",
+      "noble eightfold path (ariya aṭṭhangika magga)",
+      "grounded on virtue"
+    ],
+    [
+      "SN45.150",
+      "seeds",
+      "all depends on the earth, simile for virtue"
+    ],
+    [
+      "SN45.150",
+      "virtue (sīla)",
+      "grounded on one develops noble eightfold path"
+    ],
+    [
+      "SN45.151",
+      "nāgas",
+      "supported by himalayas, simile for eightfold path supported by virtue"
+    ],
+    [
+      "SN45.151",
+      "noble eightfold path (ariya aṭṭhangika magga)",
+      "grounded on virtue"
+    ],
+    [
+      "SN45.151",
+      "virtue (sīla)",
+      "grounded on one develops noble eightfold path"
+    ],
+    [
+      "SN45.152",
+      "trees",
+      "slanting to the east, simile for noble eightfold path leads to nibbāna"
+    ],
+    [
+      "SN45.153",
+      "pots",
+      "water pot tipped, simile of person giving up bad qualities"
+    ],
+    [
+      "SN45.153",
+      "unskillful qualities (akusala dhamma)",
+      "completely giving up"
+    ],
+    [
+      "SN45.154",
+      "right view (sammā diṭṭhi)",
+      "leads to nibbāna"
+    ],
+    [
+      "SN45.154",
+      "spike",
+      "simile for wrong view and right view"
+    ],
+    [
+      "SN45.155",
+      "bodhipakkhiyā dhammā",
+      "developed when noble eightfold path is developed"
+    ],
+    [
+      "SN45.155",
+      "noble eightfold path (ariya aṭṭhangika magga)",
+      "leads to development of bodhipakkhiyā dhammā"
+    ],
+    [
+      "SN45.155",
+      "wind (vayo)",
+      "simile for bodhipakkhiyā dhammā"
+    ],
+    [
+      "SN45.156",
+      "dust",
+      "dispelled by storm, simile for dispelling bad qualities"
+    ],
+    [
+      "SN45.156",
+      "storms",
+      "dispelling dust, simile for dispelling bad qualities"
+    ],
+    [
+      "SN45.156",
+      "unskillful qualities (akusala dhamma)",
+      "dispelled by noble eightfold path"
+    ],
+    [
+      "SN45.158",
+      "fetters (saṁyojana)",
+      "like rotten ropes"
+    ],
+    [
+      "SN45.158",
+      "fetters (saṁyojana)",
+      "worn away by noble eightfold path"
+    ],
+    [
+      "SN45.158",
+      "ropes",
+      "rotten ropes, simile for fetters rotting away"
+    ],
+    [
+      "SN45.158",
+      "ships",
+      "rotten ropes, simile for fetters rotting away"
+    ],
+    [
+      "SN45.159",
+      "aggregates (khandha)",
+      "understood by direct knowledge"
+    ],
+    [
+      "SN45.159",
+      "craving for existence (bhavataṇhā)",
+      "given up by direct knowledge"
+    ],
+    [
+      "SN45.159",
+      "crowd",
+      "simile of crowd making Ganges slope west"
+    ],
+    [
+      "SN45.159",
+      "direct knowledges (abhiññā)",
+      "developing serenity and insight"
+    ],
+    [
+      "SN45.159",
+      "direct knowledges (abhiññā)",
+      "noble eightfold path"
+    ],
+    [
+      "SN45.159",
+      "direct knowledges (abhiññā)",
+      "realizing knowledge and freedom"
+    ],
+    [
+      "SN45.159",
+      "direct knowledges (abhiññā)",
+      "to give up ignorance and craving for continued existence"
+    ],
+    [
+      "SN45.159",
+      "Ganges river",
+      "simile of crowd making it slope west"
+    ],
+    [
+      "SN45.159",
+      "freedom (vimutti)",
+      "realized by direct knowledge"
+    ],
+    [
+      "SN45.159",
+      "guest house",
+      "simile for direct knowledge"
+    ],
+    [
+      "SN45.159",
+      "ignorance (avijjā)",
+      "given up by direct knowledge"
+    ],
+    [
+      "SN45.159",
+      "insight (vipassanā)",
+      "developed with direct knowledge"
+    ],
+    [
+      "SN45.159",
+      "knowledge (vijja)",
+      "realized by direct knowledge"
+    ],
+    [
+      "SN45.159",
+      "noble eightfold path (ariya aṭṭhangika magga)",
+      "direct knowledges (abhiññā)"
+    ],
+    [
+      "SN45.159",
+      "serenity (samatha)",
+      "developed with direct knowledge"
+    ],
+    [
+      "SN45.160",
+      "disrobing",
+      "encouragement to collect merit at home instead"
+    ],
+    [
+      "SN45.160",
+      "disrobing",
+      "encouraging to"
+    ],
+    [
+      "SN45.160",
+      "disrobing",
+      "mendicant who develops eightfold path will not"
+    ],
+    [
+      "SN45.160",
+      "noble eightfold path (ariya aṭṭhangika magga)",
+      "prevents disrobing"
+    ],
+    [
+      "SN45.161",
+      "noble eightfold path (ariya aṭṭhangika magga)",
+      "to know searches"
+    ],
+    [
+      "SN45.161",
+      "searches (esana, pariyesana)",
+      "for sensual pleasures, for continued existence, and for a spiritual life"
+    ],
+    [
+      "SN45.162",
+      "“I’m better”, “I’m equal”, “I’m worse”",
+      "kinds of descrimination"
+    ],
+    [
+      "SN45.162",
+      "noble eightfold path (ariya aṭṭhangika magga)",
+      "for direct knowledge of three kinds of discrimination"
+    ],
+    [
+      "SN45.163",
+      "noble eightfold path (ariya aṭṭhangika magga)",
+      "for giving up taints"
+    ],
+    [
+      "SN45.163",
+      "taints (āsava)",
+      "noble eightfold path is for giving up"
+    ],
+    [
+      "SN45.163",
+      "taints (āsava)",
+      "sensuality, desire to be reborn, and ignorance"
+    ],
+    [
+      "SN45.164",
+      "form realm (rūpabhava)",
+      "noble eightfold path is for giving up"
+    ],
+    [
+      "SN45.164",
+      "formless realm (arūpabhava)",
+      "noble eightfold path is for giving up"
+    ],
+    [
+      "SN45.164",
+      "sensuous realm (kāmabhava)",
+      "noble eightfold path is for giving up"
+    ],
+    [
+      "SN45.165",
+      "noble eightfold path (ariya aṭṭhangika magga)",
+      "to give up suffering"
+    ],
+    [
+      "SN45.165",
+      "sufferign due to formations, conditions (saṅkhāradukkha)",
+      "noble eightfold path is for giving up"
+    ],
+    [
+      "SN45.165",
+      "suffering (dukkha)",
+      "kinds of"
+    ],
+    [
+      "SN45.165",
+      "suffering due to change (vipariṇāmadukkha)",
+      "noble eightfold path is for giving up"
+    ],
+    [
+      "SN45.165",
+      "suffering due to pain (dukkhadukkha)",
+      "noble eightfold path is for giving up"
+    ],
+    [
+      "SN45.166",
+      "greed, hatred, delusion",
+      "barenness"
+    ],
+    [
+      "SN45.166",
+      "noble eightfold path (ariya aṭṭhangika magga)",
+      "to give up barenness"
+    ],
+    [
+      "SN45.167",
+      "greed, hatred, delusion",
+      "stains"
+    ],
+    [
+      "SN45.167",
+      "noble eightfold path (ariya aṭṭhangika magga)",
+      "to give up stains"
+    ],
+    [
+      "SN45.168",
+      "greed, hatred, delusion",
+      "troubles"
+    ],
+    [
+      "SN45.168",
+      "noble eightfold path (ariya aṭṭhangika magga)",
+      "to give up troubles"
+    ],
+    [
+      "SN45.169",
+      "feelings (vedanā)",
+      "noble eightfold path is for giving up"
+    ],
+    [
+      "SN45.169",
+      "noble eightfold path (ariya aṭṭhangika magga)",
+      "for giving up feelings"
+    ],
+    [
+      "SN45.170",
+      "craving (taṇha)",
+      "given up by eightfold path"
+    ],
+    [
+      "SN45.170",
+      "craving (taṇha)",
+      "noble eightfold path is for giving up"
+    ],
+    [
+      "SN45.170",
+      "craving (taṇha)",
+      "three types"
+    ],
+    [
+      "SN45.171",
+      "floods (ogha)",
+      "of sensuality, desire to be reborn, views, and ignorance"
+    ],
+    [
+      "SN45.171",
+      "noble eightfold path (ariya aṭṭhangika magga)",
+      "to give up floods"
+    ],
+    [
+      "SN45.172",
+      "attachments (yoga)",
+      "to sensual pleasures, future lives, views, and ignorance"
+    ],
+    [
+      "SN45.173",
+      "grasping (upādāna)",
+      "given up by eightfold path"
+    ],
+    [
+      "SN45.173",
+      "grasping (upādāna)",
+      "sensual pleasures, views, precepts and observances, and theories of a self"
+    ],
+    [
+      "SN45.173",
+      "noble eightfold path (ariya aṭṭhangika magga)",
+      "to give up grasping"
+    ],
+    [
+      "SN45.175",
+      "noble eightfold path (ariya aṭṭhangika magga)",
+      "to give up five sense pleasures"
+    ],
+    [
+      "SN45.175",
+      "noble eightfold path (ariya aṭṭhangika magga)",
+      "to give up underyling tendencies"
+    ],
+    [
+      "SN45.175",
+      "sense pleasures, five",
+      "definition"
+    ],
+    [
+      "SN45.175",
+      "sense pleasures, five",
+      "noble eightfold path to give up"
+    ],
+    [
+      "SN45.175",
+      "underlying tendencies (anusaya)",
+      "given up by eightfold path"
+    ],
+    [
+      "SN45.175",
+      "underlying tendencies (anusaya)",
+      "seven"
+    ],
+    [
+      "SN45.177",
+      "hindrances (nīvarana)",
+      "noble eightfold path to give up"
+    ],
+    [
+      "SN45.177",
+      "noble eightfold path (ariya aṭṭhangika magga)",
+      "to give up five hindrances"
+    ],
+    [
+      "SN45.178",
+      "aggregates (khandha)",
+      "noble eightfold path to give up"
+    ],
+    [
+      "SN45.178",
+      "noble eightfold path (ariya aṭṭhangika magga)",
+      "to give up five aggregates"
+    ],
+    [
+      "SN45.179",
+      "fetters (saṁyojana)",
+      "noble eightfold path to give up five lower"
+    ],
+    [
+      "SN45.179",
+      "noble eightfold path (ariya aṭṭhangika magga)",
+      "to give up five lower fetters"
+    ],
+    [
+      "SN45.180",
+      "fetters (saṁyojana)",
+      "noble eightfold path to give up five higher"
+    ],
+    [
+      "SN45.180",
+      "noble eightfold path (ariya aṭṭhangika magga)",
+      "to give up five higher fetters"
+    ],
+    [
+      "SN46.1",
+      "awakening factors, seven (bojjhaṅga)",
+      "grounded on virtue"
+    ],
+    [
+      "SN46.1",
+      "nāgas",
+      "supported by himalayas, simile for seven awakening factors suppored  by virtue"
+    ],
+    [
+      "SN46.1",
+      "virtue (sīla)",
+      "grounded on one develops seven awakening factors"
+    ],
+    [
+      "SN46.2",
+      "agitation (avūpasama)",
+      "caue for restlessness and remorse"
+    ],
+    [
+      "SN46.2",
+      "awakening factor of energy (vīriyasambojjhaṅga)",
+      "cause"
+    ],
+    [
+      "SN46.2",
+      "awakening factor of immersion (samādhisambojjhaṅga)",
+      "cause"
+    ],
+    [
+      "SN46.2",
+      "awakening factor of immersion (samādhisambojjhaṅga)",
+      "cause"
+    ],
+    [
+      "SN46.2",
+      "awakening factor of investigation of principles (dhammavicayasambojjhaṅg)",
+      "cause"
+    ],
+    [
+      "SN46.2",
+      "awakening factor of mindfulness (satisambojjhaṅga)",
+      "cause"
+    ],
+    [
+      "SN46.2",
+      "awakening factor of rapture (pītisambojjhaṅga)",
+      "cause"
+    ],
+    [
+      "SN46.2",
+      "awakening factor of tranquility (passaddhisambojjhaṅga)",
+      "cause"
+    ],
+    [
+      "SN46.2",
+      "body",
+      "supported by food, simile for hindrances"
+    ],
+    [
+      "SN46.2",
+      "discontent (arati)",
+      "cause for dullness and drowsiness"
+    ],
+    [
+      "SN46.2",
+      "doubt (vicikicchā)",
+      "cause"
+    ],
+    [
+      "SN46.2",
+      "dullness and drowsiness (thinamiddha)",
+      "cause"
+    ],
+    [
+      "SN46.2",
+      "factors of enlightenment (bojjhaṅga)",
+      "cause"
+    ],
+    [
+      "SN46.2",
+      "feature of harshness (paṭighanimitta)",
+      "cause for ill will (vyāpada)"
+    ],
+    [
+      "SN46.2",
+      "hindrances (nīvarana)",
+      "sustained by fuel"
+    ],
+    [
+      "SN46.2",
+      "ill will (vyāpada, byāpada)",
+      "caused by feature of harshness"
+    ],
+    [
+      "SN46.2",
+      "restlessness and remorse (uddhaccakukkucca)",
+      "cause"
+    ],
+    [
+      "SN46.2",
+      "sense desire (kāmacchanda)",
+      "caused by sign of the beautiful"
+    ],
+    [
+      "SN46.2",
+      "sign of the beautiful (subhanimitta)",
+      "cause for sense desire"
+    ],
+    [
+      "SN46.2",
+      "sleepiness",
+      "cause for dullness and drowsiness"
+    ],
+    [
+      "SN46.3",
+      "accomplishment in concentration (samādhisampannā)",
+      "person who has is very helpful to associate with"
+    ],
+    [
+      "SN46.3",
+      "accomplishment in freedom (vimuttisampannā)",
+      "person who has is very helpful to associate with"
+    ],
+    [
+      "SN46.3",
+      "accomplishment in knowledge (ñāṇasampannā)",
+      "person who has is very helpful to associate with"
+    ],
+    [
+      "SN46.3",
+      "accomplishment in knowledge and vision of freedom (vimuttiñāṇadassanasampannā)",
+      "person who has is very helpful to associate with"
+    ],
+    [
+      "SN46.3",
+      "accomplishment in virtue (sīlasampadā)",
+      "person who has is very helpful to associate with"
+    ],
+    [
+      "SN46.3",
+      "awakening factors, seven (bojjhaṅga)",
+      "after listening to an accomplished teacher"
+    ],
+    [
+      "SN46.3",
+      "awakening factors, seven (bojjhaṅga)",
+      "benefits of"
+    ],
+    [
+      "SN46.3",
+      "awakening factors, seven (bojjhaṅga)",
+      "extinguished in-between"
+    ],
+    [
+      "SN46.3",
+      "awakening factors, seven (bojjhaṅga)",
+      "extinguished upon landing"
+    ],
+    [
+      "SN46.3",
+      "awakening factors, seven (bojjhaṅga)",
+      "extinguished with extra effort"
+    ],
+    [
+      "SN46.3",
+      "awakening factors, seven (bojjhaṅga)",
+      "extinguished without extra effort"
+    ],
+    [
+      "SN46.3",
+      "awakening factors, seven (bojjhaṅga)",
+      "final knowledge (aññā)"
+    ],
+    [
+      "SN46.3",
+      "awakening factors, seven (bojjhaṅga)",
+      "heading upstream to the Akaniṭṭha realm"
+    ],
+    [
+      "SN46.3",
+      "Dhamma teachers",
+      "qualities of"
+    ],
+    [
+      "SN46.3",
+      "deathbed",
+      "enlightenment on"
+    ],
+    [
+      "SN46.3",
+      "extinguished in-between (antarāparinibbāyī)",
+      "awakening factors"
+    ],
+    [
+      "SN46.3",
+      "extinguished upon landing (upahaccaparinibbāyī)",
+      "awakening factors"
+    ],
+    [
+      "SN46.3",
+      "extinguished with extra effort (sasaṅkhāraparinibbāyī)",
+      "awakening factors"
+    ],
+    [
+      "SN46.3",
+      "extinguished without extra effort (asaṅkhāraparinibbāyī)",
+      "awakening factors"
+    ],
+    [
+      "SN46.3",
+      "final knowledge (aññā)",
+      "awakening factors"
+    ],
+    [
+      "SN46.3",
+      "heading upstream to the Akaniṭṭha realm (uddhaṁsotassa akaniṭṭhagāmino)",
+      "awakening factors, seven"
+    ],
+    [
+      "SN46.4",
+      "awakening factors, seven (bojjhaṅga)",
+      "Ven. Sāriputta’s practice"
+    ],
+    [
+      "SN46.4",
+      "clothes",
+      "simile for changing meditation practices"
+    ],
+    [
+      "SN46.4",
+      "Sāriputta, Ven.",
+      "awakening factors, seven"
+    ],
+    [
+      "SN46.4",
+      "Sāriputta, Ven.",
+      "meditation practice"
+    ],
+    [
+      "SN46.5",
+      "awakening factors, seven (bojjhaṅga)",
+      "definition"
+    ],
+    [
+      "SN46.5",
+      "taint of existance (bhavāsava)",
+      "ends through awakening factors"
+    ],
+    [
+      "SN46.5",
+      "taint of ignorance (avijjāsava)",
+      "ends through awakening factors"
+    ],
+    [
+      "SN46.5",
+      "taint of sensuality (kāmāsava)",
+      "ends through awakening factors"
+    ],
+    [
+      "SN46.6",
+      "awakening factors, seven (bojjhaṅga)",
+      "fulfilled by foundations of mindfulness"
+    ],
+    [
+      "SN46.6",
+      "awakening factors, seven (bojjhaṅga)",
+      "knowledge and freedom"
+    ],
+    [
+      "SN46.6",
+      "Buddha, the",
+      "lives for the fruit of knowledge and freedom"
+    ],
+    [
+      "SN46.6",
+      "foundations of mindfulness (satipaṭṭhāna)",
+      "fulfilled by three types of good action"
+    ],
+    [
+      "SN46.6",
+      "foundations of mindfulness (satipaṭṭhāna)",
+      "to fulfill awakening factors"
+    ],
+    [
+      "SN46.6",
+      "good actions",
+      "three types fulfill foundations of mindfulness"
+    ],
+    [
+      "SN46.6",
+      "good actions",
+      "three types fulfilled by sense restraint"
+    ],
+    [
+      "SN46.6",
+      "knowledge and freedom (vijjāvimutti)",
+      "Buddha lives for"
+    ],
+    [
+      "SN46.6",
+      "knowledge and freedom (vijjāvimutti)",
+      "fulfilled by awakening factors"
+    ],
+    [
+      "SN46.6",
+      "Kuṇḍaliya the wanderer",
+      "what benefit does the Buddha live for?"
+    ],
+    [
+      "SN46.6",
+      "sense restraint (indriyasaṁvara)",
+      "definition"
+    ],
+    [
+      "SN46.6",
+      "sense restraint (indriyasaṁvara)",
+      "fulfills three types of good action"
+    ],
+    [
+      "SN46.7",
+      "roof peak",
+      "simile for awakening factors"
+    ],
+    [
+      "SN46.8",
+      "awakening factors, seven (bojjhaṅga)",
+      "self knowledge of"
+    ],
+    [
+      "SN46.8",
+      "self reflection",
+      "awakening factors"
+    ],
+    [
+      "SN46.8",
+      "Upavāṇa, Ven.",
+      "awakening factors"
+    ],
+    [
+      "SN46.9",
+      "awakening factors, seven (bojjhaṅga)",
+      "only when Buddha arises"
+    ],
+    [
+      "SN46.9",
+      "Buddhas",
+      "awakening factors only arrise when Buddha appears"
+    ],
+    [
+      "SN46.10",
+      "awakening factors, seven (bojjhaṅga)",
+      "does not arise appart from the Blessed One’s vinaya"
+    ],
+    [
+      "SN46.10",
+      "awakening factors, seven (bojjhaṅga)",
+      "only when Buddha arises"
+    ],
+    [
+      "SN46.11",
+      "awakening factors, seven (bojjhaṅga)",
+      "grounded on virtue"
+    ],
+    [
+      "SN46.11",
+      "earth, the",
+      "simile for virtue as ground"
+    ],
+    [
+      "SN46.11",
+      "virtue (sīla)",
+      "grounded on one develops seven awakening factors"
+    ],
+    [
+      "SN46.12",
+      "awakening factors, seven (bojjhaṅga)",
+      "spiritual friends"
+    ],
+    [
+      "SN46.12",
+      "dawn",
+      "forerunner of sunrise, simile for one with spiritual friends"
+    ],
+    [
+      "SN46.12",
+      "spiritual friends (kalyāṇamitta)",
+      "one with will develop awakening factors"
+    ],
+    [
+      "SN46.12",
+      "sunrise",
+      "follows dawn, simile for one with spiritual friends"
+    ],
+    [
+      "SN46.13",
+      "awakening factors, seven (bojjhaṅga)",
+      "proper attention"
+    ],
+    [
+      "SN46.13",
+      "dawn",
+      "forerunner of sunrise, simile for one with proper attention"
+    ],
+    [
+      "SN46.13",
+      "spiritual friends (kalyāṇamitta)",
+      "one with will develop awakening factors"
+    ],
+    [
+      "SN46.13",
+      "sunrise",
+      "follows dawn, simile for one with proper attention"
+    ],
+    [
+      "SN46.14",
+      "awakening factors, seven (bojjhaṅga)",
+      "chanted when Ven. Mahākassapa was ill"
+    ],
+    [
+      "SN46.14",
+      "Mahākassapa, Ven.",
+      "awakening factors when ill"
+    ],
+    [
+      "SN46.14",
+      "protective chanting (paritta)",
+      "awakening factors"
+    ],
+    [
+      "SN46.15",
+      "awakening factors, seven (bojjhaṅga)",
+      "chanted when Ven. Mahāmoggallāna was ill"
+    ],
+    [
+      "SN46.15",
+      "Mahāmoggallāna, Ven.",
+      "awakening factors when ill"
+    ],
+    [
+      "SN46.15",
+      "protective chanting (paritta)",
+      "awakening factors"
+    ],
+    [
+      "SN46.16",
+      "awakening factors, seven (bojjhaṅga)",
+      "chanted when the Buddha was ill"
+    ],
+    [
+      "SN46.16",
+      "Buddha, the",
+      "awakening factors when ill"
+    ],
+    [
+      "SN46.16",
+      "Buddha, the",
+      "illness of "
+    ],
+    [
+      "SN46.16",
+      "Mahācunda, Ven.",
+      "chanting awakening factors to the Buddha"
+    ],
+    [
+      "SN46.16",
+      "protective chanting (paritta)",
+      "awakening factors"
+    ],
+    [
+      "SN46.17",
+      "awakening factors, seven (bojjhaṅga)",
+      "far shore"
+    ],
+    [
+      "SN46.17",
+      "far shore (pārima)",
+      "awakening factors to reach "
     ],
     [
       "SN46.51",
@@ -11228,17 +12863,17 @@ export const locatorBookObject ={
     ],
     [
       "AN3.36",
-      "Yama, King",
-      ""
-    ],
-    [
-      "AN3.36",
       "dead body",
       "as divine messenger"
     ],
     [
       "AN3.36",
       "divine messengers (devadūta)",
+      ""
+    ],
+    [
+      "AN3.36",
+      "Yama, King",
       ""
     ],
     [
@@ -14998,6 +16633,11 @@ export const locatorBookObject ={
     ],
     [
       "AN4.146",
+      "insight (vipassanā)",
+      "time for"
+    ],
+    [
+      "AN4.146",
       "listening to Dhamma",
       "time for"
     ],
@@ -15010,11 +16650,6 @@ export const locatorBookObject ={
       "AN4.146",
       "times",
       "for different activities"
-    ],
-    [
-      "AN4.146",
-      "vipassanā",
-      "time for"
     ],
     [
       "AN4.147",
@@ -15558,6 +17193,11 @@ export const locatorBookObject ={
     ],
     [
       "AN4.185",
+      "“I’m better”, “I’m equal”, “I’m worse”",
+      "simply practicing"
+    ],
+    [
+      "AN4.185",
       "brahmins",
       "truths"
     ],
@@ -15675,6 +17315,11 @@ export const locatorBookObject ={
       "AN4.191",
       "mendicants",
       "reborn as gods"
+    ],
+    [
+      "AN4.192",
+      "association",
+      "truly getting to know someone"
     ],
     [
       "AN4.192",
@@ -16528,17 +18173,17 @@ export const locatorBookObject ={
     ],
     [
       "AN4.254",
+      "insight (vipassanā)",
+      "developed with direct knowledge"
+    ],
+    [
+      "AN4.254",
       "knowledge and vision (ñāṇadassana)",
       "realized by direct knowledge "
     ],
     [
       "AN4.254",
       "serenity (samatha)",
-      "developed with direct knowledge"
-    ],
-    [
-      "AN4.254",
-      "vipassanā",
       "developed with direct knowledge"
     ],
     [
@@ -16948,13 +18593,13 @@ export const locatorBookObject ={
     ],
     [
       "AN5.25",
-      "right view (sammā diṭṭhi)",
-      "supporting factors"
+      "insight (vipassanā)",
+      "condition for right view"
     ],
     [
       "AN5.25",
-      "vipassanā",
-      "condition for right view"
+      "right view (sammā diṭṭhi)",
+      "supporting factors"
     ],
     [
       "AN5.26",
@@ -21258,12 +22903,12 @@ export const locatorBookObject ={
     ],
     [
       "AN6.43",
-      "nāga",
+      "nāgas",
       "as metaphor"
     ],
     [
       "AN6.43",
-      "nāga",
+      "nāgas",
       "true meaning"
     ],
     [
@@ -23138,11 +24783,6 @@ export const locatorBookObject ={
     ],
     [
       "AN7.21",
-      "respect (gārava)",
-      "leads to growth"
-    ],
-    [
-      "AN7.21",
       "tradition (vaṁsa)",
       "leads to growth"
     ],
@@ -23154,6 +24794,11 @@ export const locatorBookObject ={
     [
       "AN7.21",
       "harmony (samagga)",
+      "leads to growth"
+    ],
+    [
+      "AN7.21",
+      "respect (gārava)",
       "leads to growth"
     ],
     [
@@ -23963,6 +25608,21 @@ export const locatorBookObject ={
     ],
     [
       "AN7.56",
+      "signless meditator (animittavihāri)",
+      ""
+    ],
+    [
+      "AN7.56",
+      "Tissa, Brahma",
+      "former monk"
+    ],
+    [
+      "AN7.56",
+      "mendicants",
+      "reborn as gods"
+    ],
+    [
+      "AN7.56",
       "one attained to view (diṭṭhippatto)",
       "known by gods of Brahmā’s Host"
     ],
@@ -23980,21 +25640,6 @@ export const locatorBookObject ={
       "AN7.56",
       "personal witness (kāyasakkhī)",
       "known by gods of Brahmā’s Host"
-    ],
-    [
-      "AN7.56",
-      "Tissa, Brahma",
-      "former monk"
-    ],
-    [
-      "AN7.56",
-      "mendicants",
-      "reborn as gods"
-    ],
-    [
-      "AN7.56",
-      "signless meditator (animittavihāri)",
-      ""
     ],
     [
       "AN7.57",
@@ -24848,6 +26493,11 @@ export const locatorBookObject ={
     ],
     [
       "AN7.71",
+      "ropes",
+      "simile for gradual progress"
+    ],
+    [
+      "AN7.71",
       "ships",
       "simile for gradual progress"
     ],
@@ -25403,11 +27053,6 @@ export const locatorBookObject ={
     ],
     [
       "AN8.9",
-      "eating in moderation",
-      "how to"
-    ],
-    [
-      "AN8.9",
       "intense lust (tibbarāga)",
       "Ven. Nanda"
     ],
@@ -25418,13 +27063,18 @@ export const locatorBookObject ={
     ],
     [
       "AN8.9",
-      "mindfulness and clear comprehension (satisampajañña)",
-      "knowing feelings, perceptions, thoughts as they arise"
+      "Nanda, Ven.",
+      "clear comprehension"
     ],
     [
       "AN8.9",
-      "Nanda, Ven.",
-      "clear comprehension"
+      "eating in moderation",
+      "how to"
+    ],
+    [
+      "AN8.9",
+      "mindfulness and clear comprehension (satisampajañña)",
+      "knowing feelings, perceptions, thoughts as they arise"
     ],
     [
       "AN8.9",
@@ -26318,11 +27968,6 @@ export const locatorBookObject ={
     ],
     [
       "AN8.30",
-      "Anuruddha, Ven.",
-      "thoughts of a great man (mahāpurisavitakka)"
-    ],
-    [
-      "AN8.30",
       "Buddha, the",
       "visiting monks"
     ],
@@ -26330,6 +27975,11 @@ export const locatorBookObject ={
       "AN8.30",
       "almsfood",
       "contentment with"
+    ],
+    [
+      "AN8.30",
+      "Anuruddha, Ven.",
+      "thoughts of a great man (mahāpurisavitakka)"
     ],
     [
       "AN8.30",
@@ -28763,11 +30413,6 @@ export const locatorBookObject ={
     ],
     [
       "AN9.4",
-      "animals",
-      "four footed, simile for incomplete spiritual development"
-    ],
-    [
-      "AN9.4",
       "esteem (sambhāventi)",
       "from teaching"
     ],
@@ -28790,6 +30435,11 @@ export const locatorBookObject ={
       "AN9.4",
       "Nandaka, Ven.",
       "giving a talk while Buddha waited outside"
+    ],
+    [
+      "AN9.4",
+      "animals",
+      "four footed, simile for incomplete spiritual development"
     ],
     [
       "AN9.4",
@@ -30969,6 +32619,11 @@ export const locatorBookObject ={
     [
       "AN9.41",
       "formless attainments",
+      "factors blocking"
+    ],
+    [
+      "AN9.41",
+      "formless attainments",
       "without attaining, Buddha does not declare enlightenment"
     ],
     [
@@ -30995,11 +32650,6 @@ export const locatorBookObject ={
       "AN9.41",
       "Tapussa, householder",
       "asking about renunciation"
-    ],
-    [
-      "AN9.41",
-      "formless attainments",
-      "factors blocking"
     ],
     [
       "AN9.41",
@@ -32128,6 +33778,11 @@ export const locatorBookObject ={
     ],
     [
       "AN10.16",
+      "footprints",
+      "simile for heedfulness"
+    ],
+    [
+      "AN10.16",
       "giving (dāna)",
       "worthy of gifts"
     ],
@@ -32703,18 +34358,8 @@ export const locatorBookObject ={
     ],
     [
       "AN10.29",
-      "becoming (bhava)",
-      "disgust with"
-    ],
-    [
-      "AN10.29",
       "cloth",
       "from Bāraṇasī, simile for visions in meditation"
-    ],
-    [
-      "AN10.29",
-      "dimension of nothingness (ākiñcaññāyatana)",
-      "“There is nothing at all”"
     ],
     [
       "AN10.29",
@@ -32723,18 +34368,13 @@ export const locatorBookObject ={
     ],
     [
       "AN10.29",
-      "flax flower",
-      "simile for visions in meditation"
-    ],
-    [
-      "AN10.29",
-      "kasiṇas",
-      "best is consiciousness-kasina"
-    ],
-    [
-      "AN10.29",
       "Pasenadi Kosala, King",
       "impermanence of"
+    ],
+    [
+      "AN10.29",
+      "becoming (bhava)",
+      "disgust with"
     ],
     [
       "AN10.29",
@@ -32748,6 +34388,11 @@ export const locatorBookObject ={
     ],
     [
       "AN10.29",
+      "dimension of nothingness (ākiñcaññāyatana)",
+      "“There is nothing at all”"
+    ],
+    [
+      "AN10.29",
       "extinguishment by not grasping (anupādāparinibbāna)",
       "taught by Buddha"
     ],
@@ -32755,6 +34400,11 @@ export const locatorBookObject ={
       "AN10.29",
       "feelings (vedanā)",
       "complete understanding of"
+    ],
+    [
+      "AN10.29",
+      "flax flower",
+      "simile for visions in meditation"
     ],
     [
       "AN10.29",
@@ -32785,6 +34435,11 @@ export const locatorBookObject ={
       "AN10.29",
       "impermanence",
       "of even best things"
+    ],
+    [
+      "AN10.29",
+      "kasiṇas",
+      "best is consiciousness-kasina"
     ],
     [
       "AN10.29",
@@ -32893,6 +34548,11 @@ export const locatorBookObject ={
     ],
     [
       "AN10.31",
+      "Dhamma",
+      "Vinaya helps to continue"
+    ],
+    [
+      "AN10.31",
       "bad monastics",
       "Vinaya restrains"
     ],
@@ -32900,11 +34560,6 @@ export const locatorBookObject ={
       "AN10.31",
       "confidence (pasāda)",
       "Vinaya to inspire and increase"
-    ],
-    [
-      "AN10.31",
-      "Dhamma",
-      "Vinaya helps to continue"
     ],
     [
       "AN10.31",
@@ -34928,6 +36583,11 @@ export const locatorBookObject ={
     ],
     [
       "AN10.71",
+      "insight (vipassanā)",
+      "being endowed with"
+    ],
+    [
+      "AN10.71",
       "internal serenity of mind (ajjhattaṁ cetosamatha)",
       "being devoted to"
     ],
@@ -34975,11 +36635,6 @@ export const locatorBookObject ={
       "AN10.71",
       "spiritual companion (sabrahmacārī)",
       "wish to be liked by"
-    ],
-    [
-      "AN10.71",
-      "vipassanā",
-      "being endowed with"
     ],
     [
       "AN10.71",
@@ -38303,6 +39958,11 @@ export const locatorBookObject ={
     ],
     [
       "AN11.9",
+      "arahants",
+      "qualities of"
+    ],
+    [
+      "AN11.9",
       "dimension of infinite consciousness (viññāṇañcāyatana)",
       "meditating dependent on"
     ],
@@ -38319,6 +39979,11 @@ export const locatorBookObject ={
     [
       "AN11.9",
       "dimension of nothingness (ākiñcaññāyatana)",
+      "meditating dependent on"
+    ],
+    [
+      "AN11.9",
+      "earth",
       "meditating dependent on"
     ],
     [
@@ -38340,16 +40005,6 @@ export const locatorBookObject ={
       "AN11.9",
       "Sandha, Ven.",
       "meditation instructions"
-    ],
-    [
-      "AN11.9",
-      "arahants",
-      "qualities of"
-    ],
-    [
-      "AN11.9",
-      "earth",
-      "meditating dependent on"
     ],
     [
       "AN11.9",
@@ -38783,6 +40438,11 @@ export const locatorBookObject ={
     ],
     [
       "AN11.13",
+      "pots",
+      "water pot tipped, simile of person giving up bad qualities"
+    ],
+    [
+      "AN11.13",
       "rains residence (vassāvāsa)",
       "observed by layperson"
     ],
@@ -38828,22 +40488,12 @@ export const locatorBookObject ={
     ],
     [
       "AN11.13",
-      "water pot",
-      "tipped, simile of person giving up bad qualities"
-    ],
-    [
-      "AN11.13",
       "wise people",
       "succeed"
     ],
     [
       "AN11.14",
       "energetic (āraddhavīriya)",
-      "result of faith"
-    ],
-    [
-      "AN11.14",
-      "enlightenment",
       "result of faith"
     ],
     [
@@ -38864,6 +40514,11 @@ export const locatorBookObject ={
     [
       "AN11.14",
       "easy to admonish (suvaca)",
+      "result of faith"
+    ],
+    [
+      "AN11.14",
+      "enlightenment",
       "result of faith"
     ],
     [
@@ -39133,7 +40788,7 @@ export const locatorBookObject ={
     ],
     [
       "AN11.16",
-      "house",
+      "houses",
       "with eleven doors, simile for eleven doors to the deathless"
     ],
     [
@@ -39500,6 +41155,11 @@ export const locatorBookObject ={
     ],
     [
       "Kp5",
+      "Dhamma discussion",
+      "time for"
+    ],
+    [
+      "Kp5",
       "actions (kamma)",
       "blameless"
     ],
@@ -39507,11 +41167,6 @@ export const locatorBookObject ={
       "Kp5",
       "admonishment",
       "being easy to (sovacassatā)"
-    ],
-    [
-      "Kp5",
-      "Dhamma discussion",
-      "time for"
     ],
     [
       "Kp5",
@@ -44513,8 +46168,8 @@ export const locatorBookObject ={
     ],
     [
       "Snp3.11",
-      "monastic life",
-      "like licking razor’s edge"
+      "knowing does not speak much",
+      ""
     ],
     [
       "Snp3.11",
@@ -44528,13 +46183,13 @@ export const locatorBookObject ={
     ],
     [
       "Snp3.11",
-      "knowing does not speak much",
-      ""
+      "monastic life",
+      "advice for"
     ],
     [
       "Snp3.11",
       "monastic life",
-      "advice for"
+      "like licking razor’s edge"
     ],
     [
       "Snp3.11",
@@ -47104,6 +48759,11 @@ export const locatorBookObject ={
     ],
     [
       "Thag10.1",
+      "Suddhodana, king",
+      ""
+    ],
+    [
+      "Thag10.1",
       "family",
       "benefited by arahant relative"
     ],
@@ -47115,11 +48775,6 @@ export const locatorBookObject ={
     [
       "Thag10.1",
       "Māyā, queen Mahā",
-      ""
-    ],
-    [
-      "Thag10.1",
-      "Suddhodana, king",
       ""
     ],
     [

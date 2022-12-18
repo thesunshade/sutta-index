@@ -3435,11 +3435,11 @@ times	for different activities	AN4.146
 listening to Dhamma	time for	AN4.146
 Dhamma discussion	time for	AN4.146
 serenity (samatha)	time for	AN4.146
-vipassanā	time for	AN4.146
+insight (vipassanā)	time for	AN4.146
 listening to Dhamma	time for	AN4.147
 Dhamma discussion	time for	AN4.147
 serenity (samatha)	time for	AN4.147
-vipassanā		xref insight (vipassanā)
+insight (vipassanā)		xref insight (vipassanā)
 insight (vipassanā)	time for	AN4.147
 times	for different activities	AN4.147
 times	rightly developed are like rain on mountain top filling ocean	AN4.147
@@ -3559,6 +3559,7 @@ doubt (vicikicchā)	causing fear of death	AN4.184
 sense pleasures (kāma, kāmaguṇa)	attachment to causes fear of death	AN4.184
 body	attachment to causes fear of death	AN4.184
 brahmins	truths	AN4.185
+“I’m better”, “I’m equal”, “I’m worse”	simply practicing	AN4.185
 world, the	led around by mind	AN4.186
 mind	leads the world on	AN4.186
 learned (bahussutā)	definition	AN4.186
@@ -3589,7 +3590,9 @@ Dhamma teaching	by gods	AN4.191
 Dhamma teaching	by monastics in heaven	AN4.191
 Dhamma	memorization of	AN4.191
 Dhamma	remembering in next life	AN4.191
+companionship		xref association
 companionship	truly getting to know someone	AN4.192
+association	truly getting to know someone	AN4.192
 virtue (sīla)	of others seen only over time	AN4.192
 integrity	seeing that someone is consistent	AN4.192
 worldly conditions (lokadhamma)	judging someone by how they respond	AN4.192
@@ -3762,7 +3765,7 @@ craving (taṇha)		xref craving for existence (bhavataṇhā)
 craving for existence (bhavataṇhā)		xref craving (taṇha)
 bhavataṇhā		xref craving for existence (bhavataṇhā)
 serenity (samatha)	developed with direct knowledge	AN4.254
-vipassanā	developed with direct knowledge	AN4.254
+insight (vipassanā)	developed with direct knowledge	AN4.254
 knowledge and vision (ñāṇadassana)	realized by direct knowledge 	AN4.254
 searches (esana, pariyesana)	noble and ignoble	AN4.255
 friendship	attracting friends	AN4.256
@@ -3849,7 +3852,7 @@ wholesome chain of causality	virtue to knowledge and vision of freedom	AN5.24
 trees	like one without conditions for wholesome	AN5.24
 right view (sammā diṭṭhi)	supporting factors	AN5.25
 Dhamma discussion	condition for right view	AN5.25
-vipassanā	condition for right view	AN5.25
+insight (vipassanā)	condition for right view	AN5.25
 wholesome chain of causality	inspiration to concentration	AN5.26
 freedom (vimutti)	opportunities for	AN5.26
 listening to Dhamma	from good senior monastics	AN5.26
@@ -4957,8 +4960,8 @@ gain (lābha)	danger of living in village	AN6.42
 praise	danger of living in village	AN6.42
 seclusion	even just for the time of urinating or defecating	AN6.42
 Buddha, the	enjoying seclusion	AN6.42
-nāga	true meaning	AN6.43
-nāga	as metaphor	AN6.43
+nāgas	true meaning	AN6.43
+nāgas	as metaphor	AN6.43
 elephants	nāga metaphor	AN6.43
 Buddhas	like lotus unstained by water	AN6.43
 Migasālā, householder	question about celebacy	AN6.44
@@ -7314,7 +7317,7 @@ carpenter		xref adze handle
 handle		xref adze handle
 gradual training (anupubbasikkhā)	like changes in adze handle, hard to see progress day by day	AN7.71
 ships	simile for gradual progress	AN7.71
-ropes		xref ships
+ropes	simile for gradual progress	AN7.71
 bonfire	embracing, simile for embracing woman	AN7.72
 bad monastics		AN7.72
 deadly pain	better than bad actions that cause bad rebirth	AN7.72
@@ -8103,7 +8106,7 @@ virtue (sīla)	not enough just to have	AN9.4
 serenity of mind, heart (cetosamādhi)	not enough just to have	AN9.4
 higher wisdom of insight into phenomena (adhipaññādhammavipassanā)	not enough just to have	AN9.4
 higher wisdom of discernment of principles		xref higher wisdom of insight into phenomena (adhipaññādhammavipassanā)
-vipassanā		xref higher wisdom of insight into phenomena (adhipaññādhammavipassanā)
+insight (vipassanā)		xref higher wisdom of insight into phenomena (adhipaññādhammavipassanā)
 animals	four footed, simile for incomplete spiritual development	AN9.4
 listening to Dhamma	benefits 	AN9.4
 listening to Dhamma	at the right time	AN9.4
@@ -8408,7 +8411,7 @@ hatred (dosa)	mind without and not liable to become	AN9.25
 delusion (moha)	mind without and not liable to become	AN9.25
 sensuous realm (kāmabhava)	mind not liable to return to	AN9.25
 form realm (rūpabhava)	mind not liable to return to	AN9.25
-realm of luminous form (rūpabhava)	mind not liable to return to	xref form realm (rūpabhava)
+form realm (rūpabhava)	mind not liable to return to	xref form realm (rūpabhava)
 formless realm (arūpabhava)	mind not liable to return to	AN9.25
 Candikāputta, Ven.	teaching about Devadatta	AN9.26
 Devadatta	teachings of	AN9.26
@@ -8800,6 +8803,7 @@ mental barrenness (cetokhila)	definition	AN10.14
 bondages of the mind (cetovinibaddha, cetasovinibandha)	definition	AN10.14
 Buddha, the	best of all beings	AN10.15
 heedfulness (appamāda)	like elephant footprint 	AN10.15
+footprints	simile for heedfulness	AN10.16
 heedfulness (appamāda)	like moon compared to stars	AN10.15
 heedfulness (appamāda)	like ridge pole in roof	AN10.15
 heedfulness (appamāda)	like spikenard is most fragrant root	AN10.15
@@ -9425,7 +9429,7 @@ danger in slightest fault	seeing 	AN10.71
 spiritual companion (sabrahmacārī)	wish to be liked by	AN10.71
 internal serenity of mind (ajjhattaṁ cetosamatha)	being devoted to	AN10.71
 meditation (jhāyati)	do not neglect (anirākatajjhāna)	AN10.71
-vipassanā	being endowed with	AN10.71
+insight (vipassanā)	being endowed with	AN10.71
 empty huts (suññāgārā)	frequenting	AN10.71
 requisites, four	how to get	AN10.71
 great fruit (mahapphalā)	how to make donations very fruitful	AN10.71
@@ -10282,7 +10286,7 @@ mindfulness (sati)	establishing based on generosity	AN11.13
 recollection of deities (devata ānussati)	establishing mindfulness internally	AN11.13
 mindfulness (sati)	establishing based on deities	AN11.13
 unskillful qualities (akusala dhamma)	completely giving up	AN11.13
-water pot	tipped, simile of person giving up bad qualities	AN11.13
+pots	water pot tipped, simile of person giving up bad qualities	AN11.13
 fire	not re-burning, simile of person giving up bad qualities	AN11.13
 friends, good		xref spiritual friends (kalyāṇamitta)
 friendship		xref spiritual friends (kalyāṇamitta)
@@ -10358,7 +10362,7 @@ dimension of infinite consciousness (viññāṇañcāyatana)	lead to once-retur
 dimension of infinite consciousness (viññāṇañcāyatana)	reflecting on as impermanent	AN11.16
 dimension of infinite consciousness (viññāṇañcāyatana)	conditioned 	AN11.16
 treasures	entrance to hidden, simile for eleven doors to the deathless	AN11.16
-house	with eleven doors, simile for eleven doors to the deathless	AN11.16
+houses	with eleven doors, simile for eleven doors to the deathless	AN11.16
 teacher’s fee (ācariyadhana)	wish to pay	AN11.16
 astute person (paṇḍita)		xref wise people
 pastures		xref domain (gocarā)
@@ -10455,3 +10459,353 @@ element of extinguishment (nibbānadhātu)		xref nibbāna element (nibbānadhāt
 element of nibbāna (nibbānadhātu)		xref nibbāna element (nibbānadhātu)
 removing (vinodana)	greed, hatred, delusion	SN45.7
 nibbāna element (nibbānadhātu)	definition	SN45.7
+greed, hatred, delusion	removal of 	SN45.7
+taints (āsava)	ending of	SN45.7
+deathless (amata)	definition	SN45.7
+deathless (amata)	path that leads to	SN45.7
+right concentration (sammā samadhi)		xref jhānas
+jhānas		xref right concentration (sammā samadhi)
+right immersion (sammā samadhi)		xref right concentration (sammā samadhi)
+noble eightfold path (ariya aṭṭhangika magga)	analysis of	SN45.8
+right view (sammā diṭṭhi)	definition	SN45.8
+right intention (sammā saṅkappa)	definition	SN45.8
+right speech (sammā vācā)	definition	SN45.8
+right action (sammā kammanta)	definition	SN45.8
+right livelihood (sammā ājīva)	definition	SN45.8
+right effort (sammā vāyāma)	definition	SN45.8
+right mindfulness (sammā sati)	definition	SN45.8
+right concentration (sammā samadhi)	definition	SN45.8
+spike	simile for wrong view and right view	SN45.9
+right view (sammā diṭṭhi)	like spike of rice pointing right way	SN45.9
+wrong view (micchā diṭṭhi)	like spike of rice pointing the wrong way	SN45.9
+rice	spike of, simile for wrong view and right view	SN45.9
+barley	spike of, simile for wrong view and right view	SN45.9
+Nandiya the wanderer	asking about nibbāna	SN45.10
+noble eightfold path (ariya aṭṭhangika magga)	culminates in nibbāna	SN45.10
+Buddha, the	going into retreat	SN45.11
+Buddha, the	meditation practice	SN45.11
+feelings (vedanā)	conditioned by right and wrong eightfold path	SN45.11
+desire (chanda)	feelings conditioned by	SN45.11
+thoughts (vitakkā)	feelings conditioned by	SN45.11
+perceptions (saññā)	feelings conditioned by	SN45.11
+desire (chanda)	stilling	SN45.11
+thoughts (vitakkā)	stilling	SN45.11
+perceptions (saññā)	stilling	SN45.11
+unattained (appatta)	effort	SN45.11
+Buddha, the	going into retreat	SN45.12
+Buddha, the	meditation practice	SN45.12
+trainee (sekha)	definition	SN45.13
+noble eightfold path (ariya aṭṭhangika magga)	of a trainee	SN45.13
+noble eightfold path (ariya aṭṭhangika magga)	only when Buddha arises	SN45.14
+Buddhas	noble eightfold path only arrises when Buddha appears	SN45.14
+discipline		xref monastic rules (vinaya)
+noble eightfold path (ariya aṭṭhangika magga)	does not arise appart from the Blessed One’s vinaya	SN45.15
+noble eightfold path (ariya aṭṭhangika magga)	only when Buddha arises	SN45.16
+brahmacariya		xref spiritual path (brahmacariya)
+spiritual path (brahmacariya)	not the spiritual path, definition	SN45.18
+Bhadda, Ven	asks about “not the spiritual path”	SN45.18
+Ānanda, Ven.	not the spiritual path, definition	SN45.18
+wrong eightfold path	not the spiritual path	SN45.18
+spiritual path (brahmacariya)	definition	SN45.19
+Bhadda, Ven	asks about the spiritual path	SN45.19
+Ānanda, Ven.	the spiritual path, definition	SN45.19
+noble eightfold path (ariya aṭṭhangika magga)	spiritual path, definition	SN45.19
+unskillful qualities (akusala dhamma)	definition	SN45.22
+skillful qualities (kusala dhamma)	definition	SN45.22
+laypeople	right practice and wrong practice	SN45.24
+monastics	right practice and wrong practice	SN45.24
+practices (paṭipatti)	wrong and right for monks and laypeople	SN45.24
+bad people (asappurisa)	definition	SN45.25
+good people (sappurisa)	definition	SN45.25
+bad people (asappurisa)	definition	SN45.26
+good people (sappurisa)	definition	SN45.26
+wrong knowledge (micchā ñāṇa)	worse person	SN45.26
+wrong freedom (micchā vimutti)	worse person	SN45.26
+right knowledge (sammā ñāṇa)	better person	SN45.26
+right freedom (sammā vimutti)	better person	SN45.26
+pots	without a stand, simile for mind	SN45.27
+pots	with a stand, simile for mind	SN45.27
+noble eightfold path (ariya aṭṭhangika magga)	like a stand for the mind	SN45.27
+noble right concentration (ariyo sammāsamādhi)	conditions of	SN45.28
+unification of mind (cittassa ekaggatā)	condition for noble right concentration	SN45.28
+feelings (vedanā)	noble eightfold path to understand	SN45.29
+Uttiya, Ven.	asking about five sense pleasures	SN45.30
+sense pleasures, five	definition	SN45.30
+noble eightfold path (ariya aṭṭhangika magga)	to give up five sense pleasures	SN45.30
+sense pleasures, five	noble eightfold path to give up	SN45.30
+noble eightfold path (ariya aṭṭhangika magga)	to go from near to far shore	SN45.34
+far shore (pārima)	noble eightfold path to reach	SN45.34
+monastic life	definition	SN45.35
+fruits of monastic life (sāmaññaphala)	definition	SN45.35
+stream-enterers (sotāpanna)	fruit of monastic life	SN45.35
+once returner (sakadāgāmī)	fruit of monastic life	SN45.35
+non-returner (anāgāmi)	fruit of monastic life	SN45.35
+arahants	fruit of monastic life	SN45.35
+goals	of monastic life	SN45.36
+brahmin	life of	SN45.37
+brahmin	results of brahmin life	SN45.37
+spiritual path (brahmacariya)	definition	SN45.39
+spiritual path (brahmacariya)	fruit of	SN45.39
+stream-enterers (sotāpanna)	fruit of spiritual path	SN45.39
+once returner (sakadāgāmī)	fruit of spiritual path	SN45.39
+non-returner (anāgāmi)	fruit of spiritual path	SN45.39
+arahants	fruit of spiritual path	SN45.39
+spiritual path (brahmacariya)	purpose of	SN45.41
+greed (rāga)	path for removing	SN45.41
+noble eightfold path (ariya aṭṭhangika magga)	for removing greed	SN45.41
+spiritual path (brahmacariya)	purpose of	SN45.42
+fetters (saṁyojana)	giving up is purpose of spiritual life	SN45.42
+spiritual path (brahmacariya)	purpose of	SN45.43
+underlying tendencies (anusaya)	uprooting is purpose of spiritual life	SN45.43
+spiritual path (brahmacariya)	purpose of	SN45.44
+course of time (addhāna)	understanding	SN45.44
+spiritual path (brahmacariya)	purpose of	SN45.45
+taints (āsava)	to end	SN45.45
+spiritual path (brahmacariya)	purpose of	SN45.46
+knowledge and freedom (vijjāvimutti)	to realize	SN45.46
+spiritual path (brahmacariya)	purpose of	SN45.47
+knowledge and vision (ñāṇadassana)	to obtain	SN45.47
+spiritual path (brahmacariya)	purpose of	SN45.48
+noble eightfold path (ariya aṭṭhangika magga)	for extinguisment by not grasping	SN45.48
+extinguishment by not grasping (anupādāparinibbāna)	path for	SN45.48
+spiritual friends (kalyāṇamitta)	one with will develop noble eightfold path 	SN45.49
+dawn	forerunner of sunrise, simile for one with spiritual friends 	SN45.49
+sunrise	follows dawn, simile for one with spiritual friends	SN45.49
+noble eightfold path (ariya aṭṭhangika magga)	spiritual friends	SN45.49
+accomplishment in virtue (sīlasampadā)	one with will develop noble eightfold path 	SN45.50
+accomplishment in enthusiasm (chandasampadā)	one with will develop noble eightfold path 	SN45.51
+accomplishment in self (attasampadā)	one with will develop noble eightfold path 	SN45.52
+accomplishment in view (diṭṭhisampadā)	one with will develop noble eightfold path 	SN45.53
+accomplishment in diligence (appamādasampadā)	one with will develop noble eightfold path 	SN45.54
+accomplishment in proper attention (yonisomanasikārasampadā)	one with will develop noble eightfold path 	SN45.55
+spiritual friends (kalyāṇamitta)	one with will develop noble eightfold path 	SN45.84
+noble eightfold path (ariya aṭṭhangika magga)	spiritual friends	SN45.84
+accomplishment in virtue (sīlasampadā)	one with will develop noble eightfold path 	SN45.85
+accomplishment in enthusiasm (chandasampadā)	one with will develop noble eightfold path 	SN45.86
+accomplishment in self (attasampadā)	one with will develop noble eightfold path 	SN45.87
+accomplishment in view (diṭṭhisampadā)	one with will develop noble eightfold path 	SN45.88
+accomplishment in diligence (appamādasampadā)	one with will develop noble eightfold path 	SN45.89
+accomplishment in proper attention (yonisomanasikārasampadā)	one with will develop noble eightfold path 	SN45.90
+Ganges river	slants to the east, simile for noble eightfold path leads to nibbāna	SN45.91
+noble eightfold path (ariya aṭṭhangika magga)	like Ganges slants to the east	SN45.91
+rivers	great rivers slant to the east, simile for noble eightfold path leads to nibbāna	SN45.96
+Buddha, the	best of all beings	SN45.139
+skillful qualities (kusala dhamma)	all rooted in heedfulness	SN45.139
+heedfulness (appamāda)	all skillful qualities rooted in	SN45.139
+heedfulness (appamāda)	heedful person will develop noble eightfold path	SN45.139
+elephants	footprints, simile for heedfulness	SN45.140
+footprints	simile for heedfulness	SN45.140
+heedfulness (appamāda)	heedful person will develop noble eightfold path	SN45.140
+roof peak	simile for heedfulness	SN45.141
+rafters	simile for heedfulness	SN45.141
+spikenard	simile for heedfulness	SN45.142
+sandalwood	simile for heedfulness	SN45.143
+jasmine	simile for heedfulness	SN45.144
+wheel-turning monarchs	simile for heedfulness	SN45.145
+moon	simile for heedfulness	SN45.146
+sun (sūriya)	simile for heedfulness	SN45.147
+cloth	simile for heedfulness	SN45.148
+work	all depends on the earth, simile for virtue	SN45.149
+earth, the	simile for virtue as ground	SN45.149
+virtue (sīla)	grounded on one develops noble eightfold path	SN45.149
+noble eightfold path (ariya aṭṭhangika magga)	grounded on virtue	SN45.149
+seeds	all depends on the earth, simile for virtue	SN45.150
+virtue (sīla)	grounded on one develops noble eightfold path	SN45.150
+noble eightfold path (ariya aṭṭhangika magga)	grounded on virtue	SN45.150
+nāgas	supported by himalayas, simile for eightfold path supported by virtue	SN45.151
+virtue (sīla)	grounded on one develops noble eightfold path	SN45.151
+noble eightfold path (ariya aṭṭhangika magga)	grounded on virtue	SN45.151
+trees	slanting to the east, simile for noble eightfold path leads to nibbāna	SN45.152
+pots	water pot tipped, simile of person giving up bad qualities	SN45.153
+unskillful qualities (akusala dhamma)	completely giving up	SN45.153
+spike	simile for wrong view and right view	SN45.154
+right view (sammā diṭṭhi)	leads to nibbāna	SN45.154
+bodhipakkhiyā dhammā	developed when noble eightfold path is developed	SN45.155
+noble eightfold path (ariya aṭṭhangika magga)	leads to development of bodhipakkhiyā dhammā	SN45.155
+wind (vayo)	simile for bodhipakkhiyā dhammā	SN45.155
+storms	dispelling dust, simile for dispelling bad qualities	SN45.156
+dust	dispelled by storm, simile for dispelling bad qualities	SN45.156
+unskillful qualities (akusala dhamma)	dispelled by noble eightfold path	SN45.156
+ships	rotten ropes, simile for fetters rotting away	SN45.158
+ropes	rotten ropes, simile for fetters rotting away	SN45.158
+fetters (saṁyojana)	worn away by noble eightfold path	SN45.158
+fetters (saṁyojana)	like rotten ropes	SN45.158
+houses		xref guest house
+guest house	simile for direct knowledge	SN45.159
+direct knowledges (abhiññā)	noble eightfold path	SN45.159
+noble eightfold path (ariya aṭṭhangika magga)	direct knowledges (abhiññā)	SN45.159
+aggregates (khandha)	understood by direct knowledge	SN45.159
+direct knowledges (abhiññā)	to give up ignorance and craving for continued existence	SN45.159
+ignorance (avijjā)	given up by direct knowledge	SN45.159
+craving for existence (bhavataṇhā)	given up by direct knowledge	SN45.159
+knowledge (vijja)	realized by direct knowledge	SN45.159
+freedom (vimutti)	realized by direct knowledge	SN45.159
+direct knowledges (abhiññā)	realizing knowledge and freedom	SN45.159
+direct knowledges (abhiññā)	developing serenity and insight	SN45.159
+serenity (samatha)	developed with direct knowledge	SN45.159
+insight (vipassanā)	developed with direct knowledge	SN45.159
+Ganges river	simile of crowd making it slope west	SN45.159
+crowd	simile of crowd making Ganges slope west	SN45.159
+disrobing	encouragement to collect merit at home instead	SN45.160
+disrobing	encouraging to	SN45.160
+disrobing	mendicant who develops eightfold path will not	SN45.160
+noble eightfold path (ariya aṭṭhangika magga)	prevents disrobing	SN45.160
+searches (esana, pariyesana)	for sensual pleasures, for continued existence, and for a spiritual life	SN45.161
+noble eightfold path (ariya aṭṭhangika magga)	to know searches	SN45.161
+“I’m better”, “I’m equal”, “I’m worse”	kinds of descrimination	SN45.162
+noble eightfold path (ariya aṭṭhangika magga)	for direct knowledge of three kinds of discrimination	SN45.162
+taints (āsava)	sensuality, desire to be reborn, and ignorance	SN45.163
+taints (āsava)	noble eightfold path is for giving up	SN45.163
+noble eightfold path (ariya aṭṭhangika magga)	for giving up taints	SN45.163
+sensuous realm (kāmabhava)	noble eightfold path is for giving up	SN45.164
+form realm (rūpabhava)	noble eightfold path is for giving up	SN45.164
+formless realm (arūpabhava)	noble eightfold path is for giving up	SN45.164
+noble eightfold path (ariya aṭṭhangika magga)	to give up suffering	SN45.165
+suffering due to pain (dukkhadukkha)	noble eightfold path is for giving up	SN45.165
+sufferign due to formations, conditions (saṅkhāradukkha)	noble eightfold path is for giving up	SN45.165
+suffering due to change (vipariṇāmadukkha)	noble eightfold path is for giving up	SN45.165
+suffering (dukkha)	kinds of	SN45.165
+greed, hatred, delusion	barenness	SN45.166
+noble eightfold path (ariya aṭṭhangika magga)	to give up barenness	SN45.166
+greed, hatred, delusion	stains	SN45.167
+noble eightfold path (ariya aṭṭhangika magga)	to give up stains	SN45.167
+greed, hatred, delusion	troubles	SN45.168
+noble eightfold path (ariya aṭṭhangika magga)	to give up troubles	SN45.168
+feelings (vedanā)	noble eightfold path is for giving up	SN45.169
+noble eightfold path (ariya aṭṭhangika magga)	for giving up feelings	SN45.169
+craving (taṇha)		xref craving to end existence (vibhavataṇhā)
+craving (taṇha)		xref craving to end existence (vibhavataṇhā)
+craving (taṇha)	three types	SN45.170
+craving (taṇha)	noble eightfold path is for giving up	SN45.170
+craving (taṇha)	given up by eightfold path	SN45.170
+floods (ogha)	of sensuality, desire to be reborn, views, and ignorance	SN45.171
+noble eightfold path (ariya aṭṭhangika magga)	to give up floods	SN45.171
+attachments (yoga)	to sensual pleasures, future lives, views, and ignorance	SN45.172
+grasping (upādāna)	sensual pleasures, views, precepts and observances, and theories of a self	SN45.173
+noble eightfold path (ariya aṭṭhangika magga)	to give up grasping	SN45.173
+grasping (upādāna)	given up by eightfold path	SN45.173
+underlying tendencies (anusaya)	seven	SN45.175
+underlying tendencies (anusaya)	given up by eightfold path	SN45.175
+noble eightfold path (ariya aṭṭhangika magga)	to give up underyling tendencies	SN45.175
+noble eightfold path (ariya aṭṭhangika magga)	to give up five sense pleasures	SN45.175
+sense pleasures, five	definition	SN45.175
+sense pleasures, five	noble eightfold path to give up	SN45.175
+hindrances (nīvarana)	noble eightfold path to give up	SN45.177
+noble eightfold path (ariya aṭṭhangika magga)	to give up five hindrances	SN45.177
+aggregates (khandha)	noble eightfold path to give up	SN45.178
+noble eightfold path (ariya aṭṭhangika magga)	to give up five aggregates	SN45.178
+fetters (saṁyojana)	noble eightfold path to give up five lower	SN45.179
+noble eightfold path (ariya aṭṭhangika magga)	to give up five lower fetters	SN45.179
+fetters (saṁyojana)	noble eightfold path to give up five higher	SN45.180
+noble eightfold path (ariya aṭṭhangika magga)	to give up five higher fetters	SN45.180
+nāgas	supported by himalayas, simile for seven awakening factors suppored  by virtue	SN46.1
+virtue (sīla)	grounded on one develops seven awakening factors	SN46.1
+awakening factors, seven (bojjhaṅga)	grounded on virtue	SN46.1
+awakening factors, seven (bojjhaṅga)		xref awakening factor of mindfulness (satisambojjhaṅga)
+awakening factors, seven (bojjhaṅga)		xref awakening factor of investigation of principles (dhammavicayasambojjhaṅg)
+awakening factors, seven (bojjhaṅga)		xref awakening factor of energy (vīriyasambojjhaṅga)
+awakening factors, seven (bojjhaṅga)		xref awakening factor of rapture (pītisambojjhaṅga)
+awakening factors, seven (bojjhaṅga)		xref awakening factor of tranquility (passaddhisambojjhaṅga)
+awakening factors, seven (bojjhaṅga)		xref awakening factor of immersion (samādhisambojjhaṅga)
+awakening factors, seven (bojjhaṅga)		xref awakening factor of immersion (samādhisambojjhaṅga)
+body	supported by food, simile for hindrances	SN46.2
+hindrances (nīvarana)	sustained by fuel	SN46.2
+sense desire (kāmacchanda)	caused by sign of the beautiful	SN46.2
+sign of the beautiful (subhanimitta)	cause for sense desire	SN46.2
+ill will (vyāpada, byāpada)	caused by feature of harshness	SN46.2
+feature of harshness (paṭighanimitta)	cause for ill will (vyāpada)	SN46.2
+dullness and drowsiness (thinamiddha)	cause	SN46.2
+discontent (arati)	cause for dullness and drowsiness	SN46.2
+sleepiness	cause for dullness and drowsiness	SN46.2
+restlessness and remorse (uddhaccakukkucca)	cause	SN46.2
+agitation (avūpasama)	caue for restlessness and remorse	SN46.2
+doubt (vicikicchā)	cause	SN46.2
+factors of enlightenment (bojjhaṅga)	cause	SN46.2
+awakening factor of mindfulness (satisambojjhaṅga)	cause	SN46.2
+awakening factor of investigation of principles (dhammavicayasambojjhaṅg)	cause	SN46.2
+awakening factor of energy (vīriyasambojjhaṅga)	cause	SN46.2
+awakening factor of rapture (pītisambojjhaṅga)	cause	SN46.2
+awakening factor of tranquility (passaddhisambojjhaṅga)	cause	SN46.2
+awakening factor of immersion (samādhisambojjhaṅga)	cause	SN46.2
+awakening factor of immersion (samādhisambojjhaṅga)	cause	SN46.2
+awakening factors, seven (bojjhaṅga)	benefits of	SN46.3
+accomplishment in virtue (sīlasampadā)	person who has is very helpful to associate with	SN46.3
+accomplishment in concentration (samādhisampannā)	person who has is very helpful to associate with	SN46.3
+accomplishment in knowledge (ñāṇasampannā)	person who has is very helpful to associate with	SN46.3
+accomplishment in freedom (vimuttisampannā)	person who has is very helpful to associate with	SN46.3
+accomplishment in knowledge and vision of freedom (vimuttiñāṇadassanasampannā)	person who has is very helpful to associate with	SN46.3
+Dhamma teachers	qualities of	SN46.3
+awakening factors, seven (bojjhaṅga)	after listening to an accomplished teacher	SN46.3
+final knowledge (aññā)	awakening factors	SN46.3
+deathbed	enlightenment on	SN46.3
+extinguished in-between (antarāparinibbāyī)	awakening factors	SN46.3
+awakening factors, seven (bojjhaṅga)	final knowledge (aññā)	SN46.3
+awakening factors, seven (bojjhaṅga)	extinguished in-between	SN46.3
+extinguished upon landing (upahaccaparinibbāyī)	awakening factors	SN46.3
+awakening factors, seven (bojjhaṅga)	extinguished upon landing	SN46.3
+extinguished without extra effort (asaṅkhāraparinibbāyī)	awakening factors	SN46.3
+awakening factors, seven (bojjhaṅga)	extinguished without extra effort	SN46.3
+extinguished with extra effort (sasaṅkhāraparinibbāyī)	awakening factors	SN46.3
+awakening factors, seven (bojjhaṅga)	extinguished with extra effort	SN46.3
+heading upstream to the Akaniṭṭha realm (uddhaṁsotassa akaniṭṭhagāmino)	awakening factors, seven	SN46.3
+awakening factors, seven (bojjhaṅga)	heading upstream to the Akaniṭṭha realm	SN46.3
+Sāriputta, Ven.	awakening factors, seven	SN46.4
+awakening factors, seven (bojjhaṅga)	Ven. Sāriputta’s practice	SN46.4
+Sāriputta, Ven.	meditation practice	SN46.4
+clothes	simile for changing meditation practices	SN46.4
+taint of sensuality (kāmāsava)		xref taints (āsava)
+taint of existance (bhavāsava)		xref taints (āsava)
+taint of ignorance (avijjāsava)		xref taints (āsava)
+taints (āsava)		xref taint of sensuality (kāmāsava)
+taints (āsava)		xref taint of existance (bhavāsava)
+taints (āsava)		xref taint of ignorance (avijjāsava)
+awakening factors, seven (bojjhaṅga)	definition	SN46.5
+taint of sensuality (kāmāsava)	ends through awakening factors	SN46.5
+taint of existance (bhavāsava)	ends through awakening factors	SN46.5
+taint of ignorance (avijjāsava)	ends through awakening factors	SN46.5
+Kuṇḍaliya the wanderer	what benefit does the Buddha live for?	SN46.6
+Buddha, the	lives for the fruit of knowledge and freedom	SN46.6
+knowledge and freedom (vijjāvimutti)	Buddha lives for	SN46.6
+knowledge and freedom (vijjāvimutti)	fulfilled by awakening factors	SN46.6
+awakening factors, seven (bojjhaṅga)	knowledge and freedom	SN46.6
+foundations of mindfulness (satipaṭṭhāna)	to fulfill awakening factors	SN46.6
+awakening factors, seven (bojjhaṅga)	fulfilled by foundations of mindfulness	SN46.6
+good actions	three types fulfill foundations of mindfulness	SN46.6
+foundations of mindfulness (satipaṭṭhāna)	fulfilled by three types of good action	SN46.6
+good actions	three types fulfilled by sense restraint	SN46.6
+sense restraint (indriyasaṁvara)	fulfills three types of good action	SN46.6
+sense restraint (indriyasaṁvara)	definition	SN46.6
+roof peak	simile for awakening factors	SN46.7
+Upavāṇa, Ven.	awakening factors	SN46.8
+awakening factors, seven (bojjhaṅga)	self knowledge of	SN46.8
+self reflection	awakening factors	SN46.8
+awakening factors, seven (bojjhaṅga)	only when Buddha arises	SN46.9
+Buddhas	awakening factors only arrise when Buddha appears	SN46.9
+awakening factors, seven (bojjhaṅga)	does not arise appart from the Blessed One’s vinaya	SN46.10
+awakening factors, seven (bojjhaṅga)	only when Buddha arises	SN46.10
+virtue (sīla)	grounded on one develops seven awakening factors	SN46.11
+earth, the	simile for virtue as ground	SN46.11
+awakening factors, seven (bojjhaṅga)	grounded on virtue	SN46.11
+dawn	forerunner of sunrise, simile for one with spiritual friends	SN46.12
+spiritual friends (kalyāṇamitta)	one with will develop awakening factors	SN46.12
+sunrise	follows dawn, simile for one with spiritual friends	SN46.12
+awakening factors, seven (bojjhaṅga)	spiritual friends	SN46.12
+dawn	forerunner of sunrise, simile for one with proper attention	SN46.13
+spiritual friends (kalyāṇamitta)	one with will develop awakening factors	SN46.13
+sunrise	follows dawn, simile for one with proper attention	SN46.13
+awakening factors, seven (bojjhaṅga)	proper attention	SN46.13
+protective chanting (paritta)	awakening factors	SN46.14
+Mahākassapa, Ven.	awakening factors when ill	SN46.14
+awakening factors, seven (bojjhaṅga)	chanted when Ven. Mahākassapa was ill	SN46.14
+protective chanting (paritta)	awakening factors	SN46.15
+Mahāmoggallāna, Ven.	awakening factors when ill	SN46.15
+awakening factors, seven (bojjhaṅga)	chanted when Ven. Mahāmoggallāna was ill	SN46.15
+protective chanting (paritta)	awakening factors	SN46.16
+Buddha, the	awakening factors when ill	SN46.16
+awakening factors, seven (bojjhaṅga)	chanted when the Buddha was ill	SN46.16
+Buddha, the	illness of 	SN46.16
+Mahācunda, Ven.	chanting awakening factors to the Buddha	SN46.16
+far shore (pārima)	awakening factors to reach 	SN46.17
+awakening factors, seven (bojjhaṅga)	far shore	SN46.17
+far shore (pārima)		xref near shore (orima)
+near shore (orima)		xref far shore (pārima)
