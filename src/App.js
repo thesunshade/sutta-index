@@ -245,12 +245,6 @@ function App() {
           <SuttaIndex />
         </ContextDestination.Provider>
       )}
-      <script async src="//static.getclicky.com/101392136.js"></script>
-      <noscript>
-        <p>
-          <img alt="Clicky" width="1" height="1" src="//in.getclicky.com/101392136ns.gif" />
-        </p>
-      </noscript>
     </div>
   );
 }
