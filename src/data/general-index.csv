@@ -33,24 +33,39 @@ generosity (cāga)		xref stinginess (maccharī)
 giving (dāna)		xref stinginess (maccharī)
 speech		xref wrong speech (micchā vacā)
 refuges	formula for taking	Kp1
-precepts, ten		Kp2
+precepts, ten	definition	Kp2
+stealing, giving up	ten precepts	Kp2
+killing, giving up	ten precepts	Kp2
+lying, giving up	ten precepts	Kp2
+garlands	giving up, ten precepts	Kp2
+celibacy	ten precepts	Kp2
+alcohol	ten precepts	Kp2
+eating	in one part of the day, ten precepts	Kp2
+dancing	abstaining from, ten precepts	Kp2
+singing	abstaining from, ten precepts	Kp2
+music	abstaining from, ten precepts	Kp2
+shows	abstaining from, ten precepts	Kp2
+luxuries	abstaining from, ten precepts	Kp2
+money	abstaining from, ten precepts	Kp2
 body	thirty-two parts	Kp3
+perception of ugliness (asubhasañña)	thirty-two parts	Kp3
 food	all beings sustained by	Kp4
-name and form (nāma rūpa)		Kp4
+name and form (nāma rūpa)	two things	Kp4
 feelings (vedanā)	three	Kp4
-four noble truths		Kp4
-aggregates (khandha)		Kp4
-sense fields		Kp4
-awakening factors, seven (bojjhaṅga)		Kp4
-noble eightfold path (ariya aṭṭhangika magga)		Kp4
+four noble truths	as four things	Kp4
+aggregates (khandha)	as five things	Kp4
+sense fields	as six things	Kp4
+awakening factors, seven (bojjhaṅga)	as seven things	Kp4
+noble eightfold path (ariya aṭṭhangika magga)	as eight things	Kp4
 abodes of beings	nine	Kp4
-ten factors		Kp4
+ten factors	of an arahant	Kp4
 karma		xref actions (kamma)
 gods	asking questions	Kp5
-blessings (maṅgala)		Kp5
+blessings (maṅgala)	in detail	Kp5
 association	with good people	Kp5
-honor	as a blessing	Kp5
-region	suitable	Kp5
+fools (bāla)	don’t associate with	Kp6
+honor	honoring as a blessing	Kp5
+region	suitable to live in	Kp5
 merit (puññā)	done in the past	Kp5
 determination	as a blessing	Kp5
 education	as a blessing	Kp5
@@ -59,7 +74,7 @@ training	as a blessing	Kp5
 speech	well-spoken	Kp5
 parents	caring for	Kp5
 children	caring for	Kp5
-work		Kp5
+work	as a blessing	Kp5
 giving (dāna)	as a blessing	Kp5
 righteous conduct (dhammacāri)	as a blessing	Kp5
 family	caring for as a blessing	Kp5
@@ -74,16 +89,16 @@ gratitude	as a blessing	Kp5
 listening to Dhamma	time for	Kp5
 patience (khanti)	as a blessing	Kp5
 admonishment	being easy to (sovacassatā)	Kp5
-unburdensome (subhara)	being 	Kp5
+unburdensome (subhara)	being as a blessing	Kp5
 association	with wise	Kp5
 Dhamma discussion	time for	Kp5
 austerity	as a blessing	Kp5
 celibacy	as a blessing	Kp5
 four noble truths	as a blessing	Kp5
-nibbāna		Kp5
-worldly conditions (lokadhamma)		Kp5
-sorrowlessness		Kp5
-security (khema)		Kp5
+nibbāna	as a blessing	Kp5
+worldly conditions (lokadhamma)	not affected by	Kp5
+sorrowless (asoka)	mind that is	Kp5
+security (khema)	mind that is	Kp5
 offerings	to gods	Kp6
 triple gem		Kp6
 Buddha, the		Kp6
@@ -976,7 +991,6 @@ austerity		Snp2.2
 conscience and prudence (hiri ottappa)		Snp2.3
 talking without doing		Snp2.3
 friendship	true and false friends	Snp2.3
-giving (dāna)	as a blessing	Snp2.4
 yakkha	asking questions	Snp2.5
 unwholesome roots (lobha, dosa, moha)		Snp2.5
 monastic life	wrongly practiced	Snp2.6
@@ -2932,7 +2946,7 @@ messenger of the gods 		xref divine messengers (devadūta)
 babies	as divine messenger	MN130
 birth (jāti)	being liable to	MN130
 birth (jāti)		xref rebirth
-rebirth		xref birth
+rebirth		xref birth (jāti)
 heedlessness (pamāda)	when seeing divine messengers	MN130
 results of actions	no one else can experience for us	MN130
 old person	as divine messenger	MN130
@@ -11339,7 +11353,10 @@ happiness (sukha)	jhanas and formless attainments	MN59
 happiness (sukha)	many kinds of	MN59
 formless attainments	pleasure and	MN59
 cessation of perception and feeling (saññāvedayitanirodha)	pleasant feeling	MN59
+immaterial realms		xref formless realm (arūpabhava)
 nihilism		xref doctrine of nihilism (natthikavādā)
+formless realm (arūpabhava)		xref formless attainments
+formless attainments		xref formless realm (arūpabhava)
 Buddha, the	reputation	MN60
 Dhamma	good in beginning, middle, end	MN60
 faith (saddhā)	in a teacher	MN60
@@ -11362,3 +11379,22 @@ doctrine of no-cause/non-causality (ahetuvādā)	definition	MN60
 skillful qualities (kusala dhamma)	views that lead to	MN60
 unskillful qualities (akusala dhamma)	views that lead to	MN60
 views (diṭṭhi)	and their consequences	MN60
+actions (kamma)	having effects	MN60
+right view (sammā diṭṭhi)	that actions have results	MN60
+right intention (sammā saṅkappa)	that actions have results	MN60
+rebirth	through right action	MN60
+corruptions (saṅkilesa)	of sentient beings	MN60
+purification	of sentient beings	MN60
+self purification	possible or not	MN60
+agency	do beings have	MN60
+causality	exists	MN60
+formless realm (arūpabhava)	existence of	MN60
+form (rūpa)	disillusionment, dispassion, and cessation regarding 	MN60
+becoming (bhava)	cessation of 	MN60
+cessation of being/future lives (bhavanirodha)	existence of	MN60
+gods who are formless and made of perception (devā arūpino saññāmayā)	rebirth among	MN60
+self mortification (attantapo)	people who do	MN60
+mortifying others (parantapo)	people who do	MN60
+self mortification (attantapo)	people who do not	MN60
+mortifying others (parantapo)	people who do not	MN60
+people (puggala)	four types of and mortification	MN60
