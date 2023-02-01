@@ -3947,6 +3947,16 @@ export const blurbs = {
     "Sāriputta is asked by the mendicants about a deep state of meditation where all normal perception has ceased, but there is still perception.",
   "an11.21":
     "Sāriputta teaches the mendicants about a deep state of meditation where all normal perception has ceased, but there is still perception.",
+
+  kp1: "The three refuges formula",
+  kp2: "The ten precepts of a novice mendicant",
+  kp3: "The thirty-two parts of the body for reflection",
+  kp4: "A list of ten doctrinal factors",
+  kp5: "A list of the types of skillful behavior that give blessings and protection.",
+  kp6: "The many treasures to be found in the Triple Gem.",
+  kp7: "The Supreme Buddha explains how to share merit with past relatives.",
+  kp8: "Merit is the only sure investment",
+  kp9: "The practice of developing universal goodwill: the practices that form a foundation for the practice, the attitude of universal goodwill itself, and the steps that lead from goodwill to awakening.",
   dhp1: "1. Intention shapes experiences;\nintention is first, they’re made by intention.\nIf with corrupt intent\nyou speak or act,\nsuffering follows you,\nlike a wheel, the ox’s foot.\n",
   dhp2: "2. Intention shapes experiences;\nintention is first, they’re made by intention.\nIf with pure intent\nyou speak or act,\nhappiness follows you\nlike a shadow that never leaves.\n",
   dhp3: "3. “They abused me, they hit me!\nThey beat me, they robbed me!”\nFor those who bear such a grudge,\nhatred never ends.\n",

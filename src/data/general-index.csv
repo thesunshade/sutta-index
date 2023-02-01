@@ -31,7 +31,7 @@ speech		xref right speech (sammā vācā)
 harsh speech		xref speech
 generosity (cāga)		xref stinginess (maccharī)
 giving (dāna)		xref stinginess (maccharī)
-speech		xref wrong speech (micchā vacā)
+speech		xref wrong speech (micchā vācā)
 refuges	formula for taking	Kp1
 precepts, ten	definition	Kp2
 stealing, giving up	ten precepts	Kp2
@@ -556,7 +556,7 @@ Bāhiya Dārucīriya, Ven.		Ud1.10
 seen, heard, thought, known		Ud1.10
 Mucalinda		Ud2.1
 meditation	through great noise	Ud2.1
-conceit ‘I am’ (asmimāna)		Ud2.1
+conceit “I am” (asmimāna)		Ud2.1
 kindness	as happiness	Ud2.1
 speech	keeping silent	Ud2.2
 useless speech (tiracāna)		Ud2.2
@@ -1299,7 +1299,7 @@ departed relatives	sharing merit with	Pv1
 ghosts		xref departed relatives
 wrong speech (micchā vacā)	results of	Pv2
 monastics	reborn as ghosts	Pv3
-wrong speech (micchā vacā)	results of	Pv3
+wrong speech (micchā vācā)	results of	Pv3
 departed relatives	sharing merit with	Pv4
 gods	sharing merit with	Pv4
 grieving	useless of	Pv4
@@ -1558,7 +1558,7 @@ respect (gārava)	for spiritual companions	Thag4.3
 perception of ugliness (asubhasañña)		Thag4.4
 mortification (tapojigucchā)	uselessness of	Thag4.5
 Buddha, the	praise of	Thag4.6
-Rāhula, Ven		Thag4.8
+Rāhula, Ven.		Thag4.8
 dangers	family life	Thag4.9
 nature	as pleasing	Thag4.11
 determination	not to move until enlightened	Thag4.12
@@ -1611,6 +1611,7 @@ anger (kodha)	remove with simile of the saw	Thag6.12
 death (maraṇa)	inevitability of	Thag6.13
 death (maraṇa)	coming like a wall of flame	Thag6.13
 wasting opportunity		Thag6.13
+time	not wasting	Thag6.13
 death (maraṇa)	inevitability of	Thag6.13
 women	danger for monks	Thag6.14
 perception of ugliness (asubhasañña)		Thag6.14
@@ -2017,7 +2018,7 @@ Nigaṇṭha’s doctrine	everything is caused by past action	MN101
 feelings (vedanā)	Nigaṇṭha’s theory on	MN101
 actions (kamma)	Nigaṇṭha’s theory on	MN101
 surgeon	simile of treating a wound	MN101
-arrow	simile of person struck by	MN101
+arrows	simile of person struck by	MN101
 Nigaṇṭha Nāṭaputta	claim of omniscience	MN101
 omniscience	Nigaṇṭha Nāṭaputta’s claim of	MN101
 mortification (tapojigucchā, attakilamatha)	purification through	MN101
@@ -2540,7 +2541,7 @@ right livelihood (sammā ājīva)		xref livelihood
 livelihood		xref right livelihood (sammā ājīva)
 right speech (sammā vācā)		MN117
 right speech (sammā vācā)	abolishes wrong speech	MN117
-wrong speech (micchā vacā)		MN117
+wrong speech (micchā vācā)		MN117
 noble right concentration (ariyo sammāsamādhi)	conditions of	MN117
 noble eightfold path (ariya aṭṭhangika magga)	sequential causes	MN117
 unification of mind (cittassa ekaggatā)	condition for noble right concentration	MN117
@@ -3419,7 +3420,7 @@ seclusion (paṭisallīna, vivitta)	supporting awakening factors	MN146
 awakening factors, seven (bojjhaṅga)	supported by seclusion	MN146
 Dhamma teaching	repetition as an aid to understanding	MN146
 stream-enterers (sotāpanna)	examples of attainment	MN146
-Rāhula, Ven	attaining enlightenment	MN147
+Rāhula, Ven.	attaining enlightenment	MN147
 gods	in audience of Dhamma talk	MN147
 sense bases (āyatanā)	as impermanent, suffering, not self	MN147
 impermanence	sense bases	MN147
@@ -4717,7 +4718,7 @@ wrong views		xref personal truths (paccekasacca)
 personal truths (paccekasacca)	definition	AN4.38
 searches (esana, pariyesana)	one who has given up is “withdrawn”	AN4.38
 stilling the physical process (passaddhakāyasaṅkhāra)	definition	AN4.38
-conceit ‘I am’ (asmimāna)	one who has given up is “withdrawn”	AN4.38
+conceit “I am” (asmimāna)	one who has given up is “withdrawn”	AN4.38
 sacrifices (yañña)	kinds Buddha praised	AN4.39
 sacrifices (yañña)	kinds Buddha praised	AN4.40
 meditation	blissful in the present life	AN4.41
@@ -4846,7 +4847,7 @@ business	why some succeed and some fail	AN4.79
 women	with bad qualities	AN4.80
 speech	factor for rebirth	AN4.82
 right speech (sammā vācā)	leads to heaven	AN4.82
-wrong speech (micchā vacā)	leads to hell	AN4.82
+wrong speech (micchā vācā)	leads to hell	AN4.82
 speech	factor for rebirth	AN4.83
 speech	praise and dispraise	AN4.83
 criticism	rightly directed	AN4.83
@@ -5335,6 +5336,7 @@ fundamentals of the spiritual life (ādibrahmacariya)	training like elephant tra
 wisdom (paññā)	as overseer of spiritual life	AN4.245
 monastic life	freedom as core	AN4.245
 monastic life	mindfulness as ruler	AN4.245
+mindfulness (sati)	as ruler	AN4.245
 monastic life	training as benefit	AN4.245
 lying posture	four ways	AN4.246
 stupa (thupa)	people worthy of	AN4.247
@@ -5785,7 +5787,7 @@ monastic life		xref disrobing
 jealousy (issā)	leading to hell	AN5.117
 wrong intention (micchā saṅkappa)	leading to 	AN5.118
 right intention (sammā saṅkappa)	leading to heaven	AN5.118
-wrong speech (micchā vacā)	leading to hell	AN5.119
+wrong speech (micchā vācā)	leading to hell	AN5.119
 right speech (sammā vācā)	leading to heaven	AN5.119
 wrong effort (micchāvāyāma)	leading to hell	AN5.120
 right effort (sammā vāyāma)	leading to heaven	AN5.120
@@ -6257,7 +6259,7 @@ heart’s release by compassion (karuṇā cetovimutti)	cause for giving up harm
 heart’s release by equanimity (upekkhā cetovimutti)	cause for giving up desire	AN6.13
 signless release of the heart (animittā cetovimutti)	escape from all signs	AN6.13
 heart’s release by signless		xref signless release of the heart (animittā cetovimutti)
-conceit ‘I am’ (asmimāna)	escape from doubt	AN6.13
+conceit “I am” (asmimāna)	escape from doubt	AN6.13
 death (maraṇa)	good	AN6.14
 work	relishing and bad death	AN6.14
 socializing	relishing and bad death	AN6.14
@@ -8197,7 +8199,7 @@ thoughts (vitakkā)	concentration is its chief	AN9.14
 concentration (samādhi)	as chief	AN9.14
 intention (saṅkappa)	mindfulness is its ruler	AN9.14
 thoughts (vitakkā)	mindfulness is its ruler	AN9.14
-mindfulness 	as ruler	AN9.14
+mindfulness (sati)	as ruler	AN9.14
 intention (saṅkappa)	wisdom is its overseer	AN9.14
 thoughts (vitakkā)	wisdom is its overseer	AN9.14
 wisdom (paññā)	as overseer	AN9.14
@@ -9024,7 +9026,7 @@ mind reading	skill in ones own mind	AN10.51
 self reflection	to develop skillful qualities	AN10.51
 reviewing (paccavekkhaṇā)	to develop skillful qualities	AN10.51
 youth	checking reflection as simile for self examination	AN10.51
-mirror	simile for self examination	AN10.51
+mirrors	simile for self examination	AN10.51
 covetousness (abhijjhā)	self examination for	AN10.51
 maliciousness (byāpannacitta)	self examination for	AN10.51
 dullness and drowsiness (thinamiddha)	self examination for	AN10.51
@@ -9863,20 +9865,20 @@ ceremonies	Buddha gives his meaning of	AN10.167
 training of the Noble One (ariya vinaya)	meaning of a ceremony in	AN10.167
 precepts, five	breaking gives bad result in present and future life	AN10.167
 wrong action (micchā kammanta)	bad result in present and future life	AN10.167
-wrong speech (micchā vacā)	bad result in present and future life	AN10.167
+wrong speech (micchā vācā)	bad result in present and future life	AN10.167
 wrong intention (micchā saṅkappa)	bad result in present and future life	AN10.167
 bad actions	bad result in present and future life	AN10.167
 near shore (orima)	definition	AN10.169
 far shore (pārima)	definition	AN10.169
 wrong action (micchā kammanta)	far shore	AN10.169
-wrong speech (micchā vacā)	far shore	AN10.169
+wrong speech (micchā vācā)	far shore	AN10.169
 wrong intention (micchā saṅkappa)	far shore	AN10.169
 right action (sammā kammanta)	near shore	AN10.169
 right speech (sammā vācā)	near shore	AN10.169
 right intention (sammā saṅkappa)	near shore	AN10.169
 Dhamma and non-Dhamma	should know	AN10.171
 wrong action (micchā kammanta)	as non-Dhamma	AN10.171
-wrong speech (micchā vacā)	as non-Dhamma	AN10.171
+wrong speech (micchā vācā)	as non-Dhamma	AN10.171
 wrong intention (micchā saṅkappa)	as non-Dhamma	AN10.171
 right action (sammā kammanta)	as Dhamma	AN10.171
 right speech (sammā vācā)	as Dhamma	AN10.171
@@ -9884,7 +9886,7 @@ right intention (sammā saṅkappa)	as Dhamma	AN10.171
 Mahākaccāna, Ven.	explaining brief statement	AN10.172
 greed, hatred, delusion	causes for ten types of bad actions	AN10.174
 wrong action (micchā kammanta)	caused by greed, hatred, delusion	AN10.174
-wrong speech (micchā vacā)	caused by greed, hatred, delusion	AN10.174
+wrong speech (micchā vācā)	caused by greed, hatred, delusion	AN10.174
 wrong intention (micchā saṅkappa)	caused by greed, hatred, delusion	AN10.174
 bypass (parikkamana)		xref avoiding (parikkamana)
 avoiding (parikkamana)	good to avoid the bad	AN10.175
@@ -9898,10 +9900,10 @@ training of the Noble One (ariya vinaya)	meaning of purity in	AN10.176
 purity (soceyya)	tenfold	AN10.176
 impurity	tenfold	AN10.176
 wrong action (micchā kammanta)	as impurity	AN10.176
-wrong speech (micchā vacā)	as impurity	AN10.176
+wrong speech (micchā vācā)	as impurity	AN10.176
 wrong intention (micchā saṅkappa)	as impurity	AN10.176
 wrong action (micchā kammanta)	definition	AN10.176
-wrong speech (micchā vacā)	definition	AN10.176
+wrong speech (micchā vācā)	definition	AN10.176
 wrong intention (micchā saṅkappa)	definition	AN10.176
 lying	definition	AN10.176
 divisive speech	definition	AN10.176
@@ -9952,7 +9954,7 @@ giving (dāna)	results in human realm	AN10.177
 giving (dāna)	results in heavenly realm	AN10.177
 speech	factor for rebirth	AN10.211
 wrong action (micchā kammanta)	definition	AN10.211
-wrong speech (micchā vacā)	definition	AN10.211
+wrong speech (micchā vācā)	definition	AN10.211
 wrong intention (micchā saṅkappa)	definition	AN10.211
 right action (sammā kammanta)	definition	AN10.211
 right speech (sammā vācā)	definition	AN10.211
@@ -10987,7 +10989,7 @@ water	bowl of mixed with dye, simile for sensual desire	SN46.55
 sense desire (kāmacchanda)	like bowl mixed with dye	SN46.55
 bowl	of water heated by fire, simile for ill will	SN46.55
 water	bowl of heated by fire, simile for ill will	SN46.55
-ill will	like bowl of boiling water	SN46.55
+ill will (vyāpada, byāpada)	like bowl of boiling water	SN46.55
 bowl	of water covered with plants, simile for dullness and drowsiness	SN46.55
 water	bowl of covered with plants, simile for dullness and drowsiness	SN46.55
 dullness and drowsiness (thinamiddha)	like bowl of water covered with plants	SN46.55
@@ -11363,7 +11365,7 @@ faith (saddhā)	in a teacher	MN60
 doctrine of nihilism (natthikavādā)	definition	MN60
 wrong view (micchā diṭṭhi)	examples of	MN60
 unskillful qualities (akusala dhamma)	danger of	MN60
-wrong speech (micchā vacā)	through teaching wrong views	MN60
+wrong speech (micchā vācā)	through teaching wrong views	MN60
 right speech (sammā vācā)	through teaching right views	MN60
 wrong view (micchā diṭṭhi)	as a condition for wrong eightfold path	MN60
 ascetics and brahmins (samaṇabrāhmaṇā)	with right and wrong view	MN60
@@ -11398,3 +11400,78 @@ mortifying others (parantapo)	people who do	MN60
 self mortification (attantapo)	people who do not	MN60
 mortifying others (parantapo)	people who do not	MN60
 people (puggala)	four types of and mortification	MN60
+thoughts (vitakkā)		xref mental action (manokamma)
+mental action (manokamma)		xref thoughts (vitakkā)
+Rāhula, Ven.	advice on lying	MN61
+pots	simile for person who lies	MN61
+lying	person who lies is like empty pot, etc.	MN61
+water	simile for person who lies	MN61
+elephants	simile of person who is willing to lie	MN61
+joking	do not lie even as a joke	MN61
+lying	person who lies can do anything	MN61
+mirrors	simile for self examination	MN61
+reviewing (paccavekkhaṇā)	before, durring, and after actions	MN61
+actions (kamma)	reviewing before, durring, and after	MN61
+speech	reviewing before, durring, and after	MN61
+mental action (manokamma)	reviewing before, durring, and after	MN61
+unskillfulness (akusala)	reviewing before, durring, and after actions	MN61
+skillfulness (kusala)	reviewing before, durring, and after actions	MN61
+confession	of bad actions after doing	MN61
+restraint	after doing bad actions	MN61
+disgust (aṭṭīyati)	at bad actions	MN61
+rapture (pīti)	doing good actions	MN61
+joy (pāmojja)	doing good actions	MN61
+past, present, future	purifying actions is the same in	MN61
+admonishment	of Ven. Rāhula	MN61
+admonishment	of Ven. Rāhula	MN62
+“This is not mine, I am not this, this is not my self.”	seeing all aggregates as	MN62
+Rāhula, Ven.	admonishment of	MN62
+mindfulness of breathing (ānāpānassati)	how to practice	MN62
+earth element (pathavī dhātu)	definition	MN62
+earth element (pathavī dhātu)	internal and external	MN62
+earth element (pathavī dhātu)	right understanding and	MN62
+body parts	elements and	MN62
+“This is not mine, I am not this, this is not my self.”	elements as	MN62
+water element (āpo dhātu)	definition	MN62
+water element (āpo dhātu)	internal and external	MN62
+water element (āpo dhātu)	right understanding and	MN62
+fire element (tejo dhātu)	definition	MN62
+fire element (tejo dhātu)	internal and external	MN62
+fire element (tejo dhātu)	right understanding and	MN62
+air element (vāyo dhātu)	definition	MN62
+air element (vāyo dhātu)	internal and external	MN62
+air element (vāyo dhātu)	right understanding and	MN62
+space element (ākāsa dhātu)	definition	MN62
+space element (ākāsa dhātu)	internal and external	MN62
+space element (ākāsa dhātu)	right understanding and	MN62
+seeing with wisdom	elements	MN62
+meditation	like earth, water, fire, air, space	MN62
+earth	not horrified, repelled, and disgusted because of unclean things	MN62
+water	not horrified, repelled, and disgusted because of unclean things	MN62
+fire	not horrified, repelled, and disgusted because of unclean things	MN62
+air	not horrified, repelled, and disgusted because of unclean things	MN62
+space	not established anywhere	MN62
+earth	meditation like	MN62
+water	meditation like	MN62
+fire	meditation like	MN62
+air	meditation like	MN62
+space	meditation like	MN62
+loving-kindness (mettā)	to abandon ill-will	MN62
+ill will, giving up	loving-kindness 	MN62
+compassion (karuna)	to abandon cruelty	MN62
+cruelty (hiṁsa, vihiṁsa)	compassion to give up	MN62
+rejoicing (mudita)	to abandon discontent	MN62
+discontent (arati)	rejoicing (mudita) to give up 	MN62
+equanimity (upekkhā)	to abandon repulsion	MN62
+repulsion (paṭigha)	equanimity to give up	MN62
+meditation on ugliness (asubhabhāvanā)	to abandon lust	MN62
+lust (rāga)	meditation on ugliness to give up	MN62
+impermanence meditation	to abandon conceit “I am”	MN62
+conceit “I am” (asmimāna)	impermanence meditation to give up	MN62
+Māluṅkyaputta, Ven	undeclared points	MN63
+undeclared (abyākata)	things undeclared by the Buddha	MN63
+soul	body and	MN63
+body	soul and	MN63
+Tathāgatas	existing after death	MN63
+disrobing	threatening to	MN63
+arrows	simile of person struck by	MN63

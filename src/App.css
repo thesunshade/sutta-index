@@ -1,13 +1,10 @@
 :root {
-  /* --max-width: 35rem; */
   --indent: 3.5rem;
   --mobile-indent: .5rem;
   --primary: #ee7121;
-  /* --dark-primary: #481213; */
   --dark-primary: #6b1617;
   --offwhite: #fff9f1;
-  --offblack: rgb(21, 13, 1);
-  /* --dark-link: #b3caff; */
+  --offblack: #150d01;
   --dark-link: #729cff;
   --dark-visited: #b472ff;
   --dn: #d1eddf;
