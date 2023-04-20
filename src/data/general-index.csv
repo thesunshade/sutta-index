@@ -32,8 +32,10 @@ harsh speech		xref speech
 generosity (cāga)		xref stinginess (maccharī)
 giving (dāna)		xref stinginess (maccharī)
 speech		xref wrong speech (micchā vācā)
+factors of stream-entry (sotāpattiyaṅga)		xref stream-enterers (sotāpanna)
 refuges	formula for taking	Kp1
 precepts, ten	definition	Kp2
+samaneras	precepts of	Kp2
 stealing, giving up	ten precepts	Kp2
 killing, giving up	ten precepts	Kp2
 lying, giving up	ten precepts	Kp2
@@ -47,8 +49,10 @@ music	abstaining from, ten precepts	Kp2
 shows	abstaining from, ten precepts	Kp2
 luxuries	abstaining from, ten precepts	Kp2
 money	abstaining from, ten precepts	Kp2
+gold	abstaining from, ten precepts	Kp2
 body	thirty-two parts	Kp3
 perception of ugliness (asubhasañña)	thirty-two parts	Kp3
+boys	boy’s questions	Kp4
 food	all beings sustained by	Kp4
 name and form (nāma rūpa)	two things	Kp4
 feelings (vedanā)	three	Kp4
@@ -89,7 +93,6 @@ gratitude	as a blessing	Kp5
 listening to Dhamma	time for	Kp5
 patience (khanti)	as a blessing	Kp5
 admonishment	being easy to (sovacassatā)	Kp5
-unburdensome (subhara)	being as a blessing	Kp5
 association	with wise	Kp5
 Dhamma discussion	time for	Kp5
 austerity	as a blessing	Kp5
@@ -100,18 +103,20 @@ worldly conditions (lokadhamma)	not affected by	Kp5
 sorrowless (asoka)	mind that is	Kp5
 security (khema)	mind that is	Kp5
 offerings	to gods	Kp6
-triple gem		Kp6
-Buddha, the		Kp6
-Dhamma		Kp6
-Saṅgha		Kp6
-concentration (samādhi)		Kp6
-eight individuals		Kp6
-four pairs of people		Kp6
+triple gem	description in detail	Kp6
+Buddha, the	as unequalled gem	Kp6
+Dhamma	as unequalled gem	Kp6
+Saṅgha	as unequalled gem	Kp6
+concentration (samādhi)	with immediate result	Kp6
+eight individuals	gifts to	Kp6
+four pairs of people	gifts to	Kp6
+giving (dāna)	to the Saṅgha	Kp6
 Saṅgha	gifts to	Kp6
 Saṅgha	unshakeable like pillar	Kp6
 stream-enterers (sotāpanna)	rebirth	Kp6
+rebirth	stream-enterers cannot take eighth	Kp6
 fetters (saṁyojana)	three lower	Kp6
-six grave crimes (chaccābhiṭhānāni abhabba)		Kp6
+six grave crimes (chaccābhiṭhānāni abhabba)	noble disciples unable to do	Kp6
 Dhamma teaching	simile of flowering forest	Kp6
 nibbāna	simile of lamp going out	Kp6
 departed relatives	sharing merit with	Kp7
@@ -151,6 +156,7 @@ speech	easy to speak to	Kp9
 humility	as criterion for loving-kindness	Kp9
 gentleness	as criterion for loving-kindness	Kp9
 contentment (santuṭṭhi)	as criterion for loving-kindness	Kp9
+unburdensome (subhara)	as criterion for loving-kindness	Kp9
 business		Kp9
 blame	by the wise	Kp9
 loving-kindness (mettā)		Kp9
@@ -284,10 +290,12 @@ arahants	residence of	Dhp99
 listening to Dhamma	small amount	Dhp100
 listening to Dhamma	small amount	Dhp101
 listening to Dhamma	small amount	Dhp102
-self taming		Dhp103–5
+self taming	better than conquering others	Dhp103
+self taming	no one can conquer	Dhp104
 honor	to the worthy	Dhp106–9
 honor	result of giving	Dhp109
-meditation	single day of	Dhp110–11
+meditation	single day of	Dhp110
+meditation	single day of	Dhp111
 energy (vīriya)	single day of	Dhp112
 bad actions	doing again and again	Dhp117
 good actions	doing again and again	Dhp118
@@ -314,7 +322,8 @@ death (maraṇa)	simile of cowherd	Dhp135
 violence	result of	Dhp137–40
 mortification (tapojigucchā)	uselessness of	Dhp141
 outward appearance deceiving		Dhp142
-conscience (hiri)	simile of horse and whip	Dhp143–44
+conscience (hiri)	simile of horse and whip	Dhp143
+conscience (hiri)	simile of horse and whip	Dhp144
 self taming	simile of arrow maker	Dhp145
 self taming	simile of irrigator	Dhp145
 self taming	simile of carpenter	Dhp145
@@ -325,12 +334,14 @@ foulness of body		xref perception of ugliness (asubhasañña)
 bones	simile of gourds	Dhp149
 impermanence		Dhp151
 unlearned person	simile of ox	Dhp152
-first verses of Buddha		Dhp153–54
-rebirth		Dhp153–54
-holy life	rejected in youth	Dhp155–54
+first verses of Buddha		Dhp153
+rebirth		Dhp153
+holy life	rejected in youth	Dhp155
+holy life	rejected in youth	Dhp156
 old age (jarā)	like cranes in dried pond	Dhp155 
 old age (jarā)	like spent arrows	Dhp156
-self taming		Dhp159–60
+self taming	difficult to do	Dhp159
+self taming	difficult to do	Dhp160
 evil actions	harming oneself	Dhp161
 results of actions	simile of diamond grinding	Dhp161
 evil actions	harming oneself	Dhp162
@@ -563,6 +574,7 @@ useless speech (tiracāna)		Ud2.2
 noble silence (ariya tuṇhībhāva)	vs. useless speech	Ud2.2
 nibbāna	better happiness than heaven	Ud2.2
 children	harming an animal	Ud2.3
+snake	being harmed by children	Ud2.3
 suffering (dukkha)	no one likes	Ud2.3
 happiness (sukha)	those who desire	Ud2.3
 jealousy (issā)		Ud2.4
@@ -680,13 +692,21 @@ familiarity needed to judge		Ud6.2
 wisdom (paññā)	knowable through discussion	Ud6.2
 misjudging others		Ud6.2
 Dhamma	for money making	Ud6.2
-wrong views		Ud6.4–6
-eternalism (sassatavāda)		Ud6.4–6
+wrong views	followers of	Ud6.4
+wrong views	followers of	Ud6.5
+wrong views	followers of	Ud6.6
+eternalism (sassatavāda)		Ud6.4
 Tathāgatas	existing after death	Ud6.4
-followers of other paths (aññatitthiyā)		Ud6.4–6
-disputes	over views	Ud6.4–6
+followers of other paths (aññatitthiyā)		Ud6.4
+disputes	over views	Ud6.4
 blind people	and elephant	Ud6.4
 elephants	blind men and	Ud6.4
+eternalism (sassatavāda)		Ud6.5
+followers of other paths (aññatitthiyā)		Ud6.5
+disputes	over views	Ud6.5
+eternalism (sassatavāda)		Ud6.6
+followers of other paths (aññatitthiyā)		Ud6.6
+disputes	over views	Ud6.6
 conceit (māna)	wrong views	Ud6.6
 training	as the essence	Ud6.8
 sense pleasures (kāma, kāmaguṇa)	no harm in	Ud6.8
@@ -740,13 +760,33 @@ schisms	leading to hell	Iti18
 harmony in Saṅgha (saṅghasāmaggī)	as great happiness	Iti19
 harmony in Saṅgha (saṅghasāmaggī)	as cause of confidence	Iti19
 harmony in Saṅgha (saṅghasāmaggī)	leading to heaven	Iti19
+mind	corrupted mind leads to hell	Iti20
+mind reading	Buddha’s ability	Iti20
+rebirth	corrupted mind	Iti20
+hell 	corrupted mind leads to	Iti20
+mind	pure mind leads to heaven	Iti21
+mind reading	Buddha’s ability	Iti21
+rebirth	pure mind	Iti21
+heaven	pure mind leads to	Iti21
+merit (puññā)	another word for happiness	Iti22
 loving-kindness (mettā)	grounds for making merit	Iti22
 merit (puññā)	not to be feared	Iti22
 brahmās	rebirth as	Iti22
-Sakka, Lord of Gods		Iti22
-wheel-turning monarchs		Iti22
-self-control		Iti22
-restraint		Iti22
+Sakka, Lord of Gods	reason for rebirth as	Iti22
+world system (lokadhātu)	collapse/contraction of	Iti22
+world system (lokadhātu)	expansion of	Iti22
+Brahmā mansions	rebirth in 	Iti22
+Brahmā, Great	Buddha reborn as	Iti22
+Bodhisatta	reborn as Mahābrahmā	Iti22
+Bodhisatta	reborn as Sakka, lord of gods	Iti22
+Bodhisatta	reborn in realm of streaming radiance	Iti22
+Bodhisatta	reborn as wheel-turning monarch	Iti22
+Bodhisatta	reborn as a king	Iti22
+kings	Bodhisatta reborn as	Iti22
+wheel-turning monarchs	Bodhisatta reborn as	Iti22
+self-control	cause for rebirth	Iti22
+restraint	cause for rebirth	Iti22
+giving (dāna)	cause for rebirth	Iti22
 heedfulness (appamāda)	results now and in future	Iti23
 heedfulness (appamāda)	in making merit	Iti23
 saṁsāra	mountain of bones of one person	Iti24
@@ -760,14 +800,18 @@ loving-kindness (mettā)	grounds for making merit	Iti27
 loving-kindness (mettā)	simile of clear sky	Iti27
 loving-kindness (mettā)	simile of stars	Iti27
 sacrifices (yañña)		Iti27
-eating	excessive	Iti28–9
-senses	guarding	Iti28–9
-self reflection		Iti30–1
+eating	excessive	Iti28
+eating	excessive	Iti29
+senses	guarding	Iti28
+senses	guarding	Iti29
+self reflection		Iti30
+self reflection		Iti31
 wrong views	resulting in hell	Iti32
 right view (sammā diṭṭhi)	resulting in heaven	Iti33
 prudence (ottāpa)		Iti34
 keenness (ātāpi)		Iti34
-holy life	reason for	Iti35–6
+holy life	reason for	Iti35
+holy life	reason for	Iti36
 urgency (saṁvega)		Iti37
 sanctuary/security		Iti38
 Buddha, the	thoughts he has	Iti38
@@ -786,13 +830,16 @@ existence	love of	Iti49
 existence	disgust with	Iti49
 results of actions	harming oneself	Iti50
 elements (dhātu)	form, formlessness, cessation	Iti51
-feelings (vedanā)	three kinds	Iti52–3
-pleasant feelings	seen as suffering	Iti53
+feelings (vedanā)	three kinds	Iti52
+feelings (vedanā)	three kinds	Iti53
+pleasant feelings (sukhavedanā)	seen as suffering	Iti53
 painful feelings	seen as dart	Iti53
 neutral feelings (adukkhamasukhaṁ vedanā)	seen as impermanent	Iti53
 impermanence	neutral feelings seen as 	Iti53
-searches (esana, pariyesana)	three types	Iti54–5
-taints (āsava)		Iti56–7
+searches (esana, pariyesana)	three types	Iti54
+searches (esana, pariyesana)	three types	Iti55
+taints (āsava)		Iti56
+taints (āsava)		Iti57
 craving (taṇha)	three types	Iti58
 merit (puññā)	grounds for making	Iti60
 giving (dāna)	grounds for making merit	Iti60
@@ -898,7 +945,8 @@ renunciation (nekkhamma)	simile of against the stream	Iti109
 female	simile of crocodiles	Iti109
 tolerating bad thoughts		Iti110
 danger in slightest fault		Iti111
-postures	for practicing always	Iti110–11
+postures	for practicing always	Iti110
+postures	for practicing always	Iti111
 hindrances (nīvarana)	constantly removing	Iti111
 world, the		Iti112
 Tathāgatas	definition	Iti112
@@ -1084,7 +1132,6 @@ Tāvatiṁsa heaven	celebrating the Buddha’s birth	Snp3.11
 Asita, hermit	meets Bodhisatta	Snp3.11
 war	between devas and asuras	Snp3.11
 Bodhisatta	birth of	Snp3.11
-Buddha, the	before enlightenment	xref Bodhisatta
 Suddhodana, king		Snp3.11
 Nālaka, nephew of Asita		Snp3.11
 monastic life	advice for	Snp3.11
@@ -1963,7 +2010,6 @@ loving-kindness (mettā)	Buddha truly abides in	MN55
 giving (dāna)	whom to give to	MN56
 speech	reflecting on	MN61
 loving-kindness (mettā)		MN62
-generosity (cāga)	recollection of other's	MN68
 Buddha, the	description of	MN82
 Raṭṭhapāla, Ven.	going forth, etc.	MN82
 going forth (pabbajja)	parents’ permission needed	MN82
@@ -2031,7 +2077,7 @@ acceptance of a view after consideration (diṭṭhinijjhānakkhanta)	can turn o
 reflective acceptance of a view (diṭṭhinijjhānakkhanta)		xref acceptance of a view after consideration (diṭṭhinijjhānakkhanta)
 results of actions	painful striving	MN101
 results of actions	everything is caused by past action	MN101
-results of actions	cannot be “burned away” through ascetic practices	MN102
+results of actions	cannot be “burned away” through ascetic practices	MN101
 actions (kamma)	to be experienced in future	MN101
 actions (kamma)	to be experienced in present	MN101
 actions (kamma)	to be experienced as pleasure	MN101
@@ -2060,15 +2106,17 @@ pleasure (sukha)		xref happiness (sukha)
 happiness (sukha)	gained through pain/suffering	MN101
 jhānas	as a result of proper striving	MN101
 recollection of past lives	as a result of proper striving	MN101
+knowledge of passing away and rebirth of beings (cutūpapātañāna)	as a result of proper striving	MN101
 knowledge of destruction of the taints (āsavakkhayañāṇa)	as a result of proper striving	MN101
+neither-painful-nor-pleasant feeling		xref neutral feelings (adukkhamasukhaṁ vedanā)
+future (anāgata)		xref views about the future
+Bodhisatta		xref Buddha, the
 nibbāna here and now (diṭṭhadhammanibbāna)	view of	MN102
 views of other sects		MN102
 views about the self (attavāda)		MN102
 eternalism (sassatavāda)		MN102
 annihilationism (ucchedavāda)		MN102
-future (anāgata)		xref views about the future
 views about the future		MN102
-Bodhisatta		xref Buddha, the
 kasiṇas	consiciousness-kasina (viññāṇakasiṇa)	MN102
 dimension of nothingness (ākiñcaññāyatana)	views about	MN102
 perceptions (saññā)	the self and	MN102
@@ -2079,7 +2127,9 @@ identity (sakkāya)	fear of and disgust with	MN102
 identity (sakkāya)	like dog tied to pillar	MN102
 unified perception (ekattasaññā)	the self and	MN102
 diversified perception (nānattasaññina)	the self and	MN102
-views about the world	the self and	MN102
+speculation about the world (lokacintā)	the self and	MN102
+traders	simile for not knowing what comes after death	MN102
+market	not knowing what is there, simile for not knowing what comes after death 	MN102
 faith (saddhā)	only grounds for view	MN102
 oral tradition (anussava)	only grounds for view	MN102
 preference (ruci)	only grounds for view	MN102
@@ -2090,15 +2140,9 @@ rapture (pīti)	and grief like sunlight and shadow	MN102
 spiritual happiness (nirāmisa sukha)	“This is peaceful, this is sublime”	MN102
 spiritual happiness (nirāmisa sukha)	and rapture like sunlight and shadow	MN102
 neutral feelings (adukkhamasukhaṁ vedanā)	“This is peaceful, this is sublime”	MN102
-neither-painful-nor-pleasant feeling		xref neutral feelings (adukkhamasukhaṁ vedanā)
 neutral feelings (adukkhamasukhaṁ vedanā)	and spiritual happiness like sunlight and shadow	MN102
 nibbāna	“I am at peace, I have attained nibbāna”	MN102
 liberation through not clinging/grasping (anupādāvimokkha)	discovered by the Buddha	MN102
-requisites, four	teaching for the sake of	MN103
-compassion (anukampā)	Buddha’s compassion for disciples	MN103
-bodhipakkhiyā dhammā	Buddha taught from direct knowledge	MN103
-disputes	about Dhamma	MN103
-disputes	resolving	MN103
 foundations of mindfulness (satipaṭṭhāna)		xref bodhipakkhiyā dhammā
 right effort (sammā vāyāma)		xref bodhipakkhiyā dhammā
 bases of psychic power (iddhipāda)		xref bodhipakkhiyā dhammā
@@ -2113,20 +2157,25 @@ bodhipakkhiyā dhammā		xref faculties (indriya)
 bodhipakkhiyā dhammā		xref powers (bala)
 bodhipakkhiyā dhammā		xref awakening factors, seven (bojjhaṅga)
 bodhipakkhiyā dhammā		xref noble eightfold path (ariya aṭṭhangika magga)
-phrasing (byañjana)	disputes over	MN103
-meaning (atthato)	disputes over	MN103
 explicit meaning		xref meaning (atthato)
 interpreted meaning		xref meaning (atthato)
-harmony (samagga)	how to achieve	MN103
-memorizing	disputes over what has been	MN103
-offences against monastic rules (āpatti)	when someone commits	MN103
 offences against monastic rules (āpatti)		xref monastic rules (vinaya)
 monastic rules (vinaya)		xref offences against monastic rules (āpatti)
-monastic rules (vinaya)	when someone breaks	MN103
 admonishment		xref offences against monastic rules (āpatti)
 admonishment		xref monastic rules (vinaya)
 offences against monastic rules (āpatti)		xref admonishment
 monastic rules (vinaya)		xref admonishment
+requisites, four	teaching for the sake of	MN103
+compassion (anukampā)	Buddha’s compassion for disciples	MN103
+bodhipakkhiyā dhammā	Buddha taught from direct knowledge	MN103
+disputes	about Dhamma	MN103
+disputes	resolving	MN103
+phrasing (byañjana)	disputes over	MN103
+meaning (atthato)	disputes over	MN103
+harmony (samagga)	how to achieve	MN103
+memorizing	disputes over what has been	MN103
+offences against monastic rules (āpatti)	when someone commits	MN103
+monastic rules (vinaya)	when someone breaks	MN103
 admonishment	how to do skillfully	MN103
 good monastics	easy to admonish	MN103
 bad monastics	difficult to admonish	MN103
@@ -2140,6 +2189,9 @@ nibbāna	blocked by disputes	MN103
 not glorifying oneself or putting others down (na ceva attānaṁ ukkaṁseti, na paraṁ vambheti)	in resolving disputes	MN103
 views (diṭṭhi)		xref attachment to views (diṭṭhiyoga)
 views (diṭṭhi)		xref wrong views
+insolence (paḷāsa)		xref contemptuousness (paḷāsa)
+disciplinary issues (adhikaraṇa)		xref litigation (adhikaraṇa)
+concord		xref harmony (samagga)
 loving-kindness (mettā)	in action	MN104
 Nigaṇṭha Nāṭaputta	death	MN104
 disputes	about badly proclaimed Dhamma	MN104
@@ -2151,7 +2203,6 @@ livelihood	disputes over monastic livelihood would be minor	MN104
 anger (kodha)	cause of disputes	MN104
 disrespect (agārava)	cause of disputes	MN104
 disdain (makkha)	cause of disputes	MN104
-insolence (paḷāsa)		xref contemptuousness (paḷāsa)
 contemptuousness (paḷāsa)	cause of disputes	MN104
 jealousy (issā)	cause of disputes	MN104
 stinginess (maccharī)	cause of disputes	MN104
@@ -2162,9 +2213,7 @@ attachment to views (diṭṭhiyoga)	cause of disputes	MN104
 disrespect (agārava)	cause of disputes	MN104
 disputes	cause of suffering for gods and humans	MN104
 litigation (adhikaraṇa)	four types	MN104
-disciplinary issues (adhikaraṇa)		xref litigation (adhikaraṇa)
 insanity (amūḷha)	as legal defence	MN104
-concord		xref harmony (samagga)
 monastic rules (vinaya)	settling issues	MN104
 principles of cordiality (dhammā sāraṇīyā)	definition	MN104
 harmony in Saṅgha (saṅghasāmaggī)	principles of cordiality 	MN104
@@ -2173,6 +2222,9 @@ giving (dāna)	as principle of cordiality	MN104
 sharing	as principle of cordiality	MN104
 right view (sammā diṭṭhi)	as principle of cordiality	MN104
 right view (sammā diṭṭhi)	leads to harmony	MN104
+acquisitions (upadhi)		xref attachment
+attachment		xref acquisitions (upadhi)
+fields of contact, six (phassāyatana)		xref bases of contact, six (phassāyatana)
 death (maraṇa)	abandoning the training as	MN105
 final knowledge (aññā)	declaring enlightenment	MN105
 overestimation (adhimāna)	declaring enlightenment	MN105
@@ -2205,10 +2257,7 @@ wounds	simile for six internal sense bases	MN105
 probing	simile for mindfulness	MN105
 surgeon	Buddha as	MN105
 acquisitions (upadhi)	root of suffering	MN105
-acquisitions (upadhi)		xref attachment
-attachment		xref acquisitions (upadhi)
 bases of contact, six (phassāyatana)	restraint	MN105
-fields of contact, six (phassāyatana)		xref bases of contact, six (phassāyatana)
 beverage	poisoned, avoiding, like restraint towards sense fields, like restraint towards sense fields	MN105
 viper	venomous, avoiding, like restraint towards sense fields, like restraint towards sense fields	MN105
 snake		xref viper
@@ -3453,7 +3502,7 @@ identity (sakkāya)	origin of	MN148
 underlying tendency to greed (rāgānusaya)	from approving and welcoming a feeling	MN148
 underlying tendency to repulsion (paṭighānusaya)	from sorrow of painful feeling	MN148
 underlying tendency to ignorance (avijjānusaya)	from not understanding neutral feeling	MN148
-pleasant feelings	underlying tendency to greed (rāgānusaya)	MN148
+pleasant feelings (sukhavedanā)	underlying tendency to greed (rāgānusaya)	MN148
 painful feelings	underlying tendency to repulsion (paṭighānusaya)	MN148
 neutral feelings (adukkhamasukhaṁ vedanā)	underlying tendency to ignorance (avijjānusaya)	MN148
 knowledge (vijja)	giving rise to	MN148
@@ -3687,7 +3736,8 @@ Buddha, the	without counterpart	AN1.174
 analytical knowledge (paṭisambhidā)	from the arising of the Buddha	AN1.176
 stages of enlightenment	from the arising of the Buddha	AN1.181-186
 Sāriputta, Ven.	rightly keeps rolling wheel of Dhamma	AN1.187
-Koṇḍañña, Añña Who Understood	foremost in seniority	AN1.188
+Koṇḍañña, Ven.		xref Aññā Koṇḍañña, Ven.
+Aññā Koṇḍañña, Ven.	foremost in seniority	AN1.188
 seniority	foremost	AN1.188
 Sāriputta, Ven.	foremost in great wisdom	AN1.189
 Moggallāna, Ven.	foremost in psychic power	AN1.190
@@ -3755,7 +3805,7 @@ Anāthapiṇḍika, householder	foremost as a donor	AN1.249
 giving (dāna)	foremost givers	AN1.249
 Citta Macchikāsaṇḍika, householder	foremost who speak on Dhamma	AN1.250
 Hatthaka of Āḷavī, householder	foremost who attract a group	AN1.251
-Mahānāma Sākyan, householder	foremost who donate fine things	AN1.252
+Mahānāma the Sakyan	foremost who donate fine things	AN1.252
 giving (dāna)	foremost givers	AN1.252
 Ugga of Vesālī, householder	foremost who donate what is agreeable	AN1.253
 giving (dāna)	foremost givers	AN1.253
@@ -4904,6 +4954,7 @@ external appearance	people like lakes	AN4.104
 external appearance	matching internal	AN4.104
 external appearance	as deceiving	AN4.103
 external appearance	people like mangos	AN4.105
+mangos	simile for people	AN4.105
 external appearance	matching internal	AN4.105
 external appearance	as deceiving	AN4.105
 learning	without understanding	AN4.107
@@ -4955,12 +5006,22 @@ punishment (daṇḍa)	fear of	AN4.121
 shame	fear of	AN4.121
 rebirth	fear of rebirth in bad place	AN4.121
 dangers	to the monastic life	AN4.122
+sharks		xref gharials
 monastic life	dangers to	AN4.122
 going forth (pabbajja)	in old age	AN4.122
+waves	simile for anger	AN4.122
 anger (kodha)	danger to monastic life	AN4.122
+anger (kodha)	like danger of waves	AN4.122
 monastic rules (vinaya)	difficulty following	AN4.122
+crocodiles	simile for gluttony	AN4.122
+gluttony (rasāda)	like crocodiles	AN4.122
 eating	and monastic rules	AN4.122
+sense pleasures (kāma, kāmaguṇa)	danger of	AN4.122
+whirlpools	simile for danger of sense pleasures	AN4.122
+sense pleasures (kāma, kāmaguṇa)	like whirlpools	AN4.122
 women	danger for monks	AN4.122
+gharials	simile for women	AN4.122
+women	like gharials	AN4.122
 lifespans	in heaven	AN4.123
 jhānas	leading to heaven	AN4.123
 ordinary person (puthujjana)	compared to noble disciple with rebirth	AN4.123
@@ -6231,7 +6292,7 @@ enduring (khama)	sense objects: makes one worthy of gifts	AN6.5
 enduring (khama)	sense objects: makes one worthy of gifts	AN6.6
 enduring (khama)	sense objects: makes one worthy of gifts	AN6.7
 recollection (anussati)	topics for	AN6.9
-Mahānāma Sākyan, householder	recollections	AN6.10
+Mahānāma the Sakyan	recollections	AN6.10
 recollection of deities (devata ānussati)		AN6.10
 recollection of Buddha (buddhānussati)		AN6.10
 recollection of Dhamma (dhammānussati)		AN6.10
@@ -6375,6 +6436,7 @@ Nāgita, Ven	Buddha’s attendant	AN6.42
 fame (yasa)	Buddha rejects	AN6.42
 wilderness (arañña)	as safer than village	AN6.42
 villages	as more dangerous than wilderness	AN6.42
+village dwelling monk (gāmantavihārī)	dangers of	AN6.42
 sleepiness	in the wilderness	AN6.42
 gain (lābha)	danger of living in village	AN6.42
 praise	danger of living in village	AN6.42
@@ -7439,7 +7501,7 @@ giving (dāna)	friendship gained by	AN8.24
 speech	kind words	AN8.24
 wealth	reason people listen to someone	AN8.24
 past, present, future	attracting people is the same in	AN8.24
-Mahānāma Sākyan, householder	asking about definition of lay follower	AN8.25
+Mahānāma the Sakyan	asking about definition of lay follower	AN8.25
 lay follower (upāsaka, upāsikā)	definition	AN8.25
 lay follower (upāsaka, upāsikā)	virtuous: definition	AN8.25
 virtue (sīla)	virtuous lay disciple	AN8.25
@@ -7682,7 +7744,7 @@ leadership	in household	AN8.49
 wives	towards husbands	AN8.50
 Mahāpajāpatī Gotamī, Ven.	requesting ordination	AN8.51
 going forth (pabbajja)	origin of bhikkhuni order	AN8.51
-bhikkhunī	origin of bhikkhuni order	AN8.51
+bhikkhunīs	origin of bhikkhuni order	AN8.51
 Ānanda, Ven.	advocating for ordination of bhikkhunīs	AN8.51
 womanhood	as irrelevant for enlightenment	AN8.51
 stages of enlightenment	women are able to attain	AN8.51
@@ -7946,6 +8008,8 @@ freed (vimutto)	term for Tathāgata (realized one)	AN8.85
 Nāgita, Ven		AN8.86
 gods	not getting bliss of seclusion	AN8.86
 socializing	because of not getting bliss of seculusion	AN8.86
+villages	as more dangerous than wilderness	AN8.86
+village dwelling monk (gāmantavihārī)	dangers of	AN8.86
 bliss of seclusion (pavivekasukha)	getting and not getting	AN8.86
 seclusion (paviveka)		xref bliss of seclusion (pavivekasukha)
 bliss of seclusion (pavivekasukha)		xref seclusion (paviveka)
@@ -8468,7 +8532,7 @@ omniscience	claims of	AN9.38
 omniscience	Nigaṇṭha Nāṭaputta’s claim of	AN9.38
 omniscience	Pūraṇa Kassapa’s claim of	AN9.38
 knowledge and vision (ñāṇadassana)	constantly present	AN9.38
-views about the world	as finite or infinite	AN9.38
+speculation about the world (lokacintā)	as finite or infinite	AN9.38
 infinite (ananta)	world as	AN9.38
 finite	world as	AN9.38
 world, the	seeing or reaching the end of by traveling	AN9.38
@@ -9749,7 +9813,7 @@ recollection of past lives	worthy of gifts	AN10.97
 knowledge of passing away and rebirth of beings (cutūpapātañāna)	worthy of gifts	AN10.97
 arahants	worthy of gifts	AN10.97
 senior monastics	qualities of one who lives comfortably	AN10.98
-virtue (sīla)	senior monastics who are live comfortably	AN10.98
+virtue (sīla)	senior monastics who live comfortably	AN10.98
 learned (bahussutā)	senior monastics who are live comfortably	AN10.98
 expert in Vinaya (vinayadhara)	senior monastics who are live comfortably	AN10.98
 disciplinary issues (adhikaraṇa)	senior monastics who are skilled in live comfortably	AN10.98
@@ -10144,7 +10208,7 @@ loving-kindness (mettā)	as principle of cordiality	AN11.11
 robes	monks making robe for Buddha	AN11.11
 rains residence (vassāvāsa)	Buddha wandering after	AN11.11
 lay life	what to practice	AN11.11
-Mahānāma Sākyan, householder	asking about what to practice	AN11.11
+Mahānāma the Sakyan	asking about what to practice	AN11.11
 faith (saddhā)	faithful succeed	AN11.11
 energetic (āraddhavīriya)	energetic succeed	AN11.11
 laziness (kusīta)	lazy do not succeed	AN11.11
@@ -10234,6 +10298,7 @@ sleep	sleeping well, benefit of loving-kindness	AN11.15
 sleep	waking happily, benefit of loving-kindness	AN11.15
 happiness (sukha)	waking happily, benefit of loving-kindness	AN11.15
 dreams	loving-kindness prevents bad dreams	AN11.15
+nightmares	loving-kindness prevents	AN11.16
 love (piya)	loving-kindness makes humans and non-humans love you	AN11.15
 humans	loving-kindness makes humans love you	AN11.15
 non-humans (amanussa)	loving-kindness makes non-humans love you	AN11.15
@@ -10721,7 +10786,7 @@ awakening factors, seven (bojjhaṅga)		xref awakening factor of energy (vīriya
 awakening factors, seven (bojjhaṅga)		xref awakening factor of rapture (pītisambojjhaṅga)
 awakening factors, seven (bojjhaṅga)		xref awakening factor of tranquility (passaddhisambojjhaṅga)
 awakening factors, seven (bojjhaṅga)		xref awakening factor of immersion (samādhisambojjhaṅga)
-awakening factors, seven (bojjhaṅga)		xref awakening factor of immersion (samādhisambojjhaṅga)
+awakening factors, seven (bojjhaṅga)		xref awakening factor of equanimity (upekkhāsambojjhaṅga)
 body	supported by food, simile for hindrances	SN46.2
 hindrances (nīvarana)	sustained by fuel	SN46.2
 sense desire (kāmacchanda)	caused by sign of the beautiful	SN46.2
@@ -11468,10 +11533,244 @@ meditation on ugliness (asubhabhāvanā)	to abandon lust	MN62
 lust (rāga)	meditation on ugliness to give up	MN62
 impermanence meditation	to abandon conceit “I am”	MN62
 conceit “I am” (asmimāna)	impermanence meditation to give up	MN62
+views about the world		xref speculation about the world (lokacintā)
 Māluṅkyaputta, Ven	undeclared points	MN63
 undeclared (abyākata)	things undeclared by the Buddha	MN63
+speculation about the world (lokacintā)	as finite or infinite	MN63
 soul	body and	MN63
 body	soul and	MN63
 Tathāgatas	existing after death	MN63
 disrobing	threatening to	MN63
 arrows	simile of person struck by	MN63
+going forth (pabbajja)	wrong reasons for	MN63
+rebirth	regardless of undeclared views	MN63
+fundamentals of the spiritual life (ādibrahmacariya)	undeclared points are not	MN63
+four noble truths	as fundamentals of the spiritual life	MN63
+four noble truths	as beneficial	MN63
+four noble truths	as declared by the Buddha	MN63
+infants		xref babies
+precepts and observances (sīlabbata)		xref sīlabbata-parāmāsa
+sīlabbata-parāmāsa		xref precepts and observances (sīlabbata)
+desire (chanda)		xref sense desire (kāmarāga)
+sense desire (kāmarāga)		xref desire (chanda)
+spontaneous rebirth (opapātika)		xref rebirth
+rebirth		xref spontaneous rebirth (opapātika)
+love for the Dhamma (dhammarāga)		xref passion for the Dhamma (dhammarāga)
+Māluṅkyaputta, Ven	five lower fetters	MN64
+fetters (saṁyojana)	five lower	MN64
+babies	simile of five lower fetters	MN64
+underlying tendencies (anusaya)	fetters	MN64
+ordinary person (puthujjana)	fetters	MN64
+doubt (vicikicchā)	fetter	MN64
+identity view (sakkāyadiṭṭhi)	fetter	MN64
+sīlabbata-parāmāsa	fetter	MN64
+sense desire (kāmarāga)	fetter	MN64
+ill will (vyāpada, byāpada)	fetter	MN64
+noble disciple (ariya sāvaka)	fetters	MN64
+trees	simile for path to give up five lower fetters	MN64
+heartwood	simile for path to give up five lower fetters	MN64
+fetters (saṁyojana)	path to give up like heartwood	MN64
+Ganges river	simile for giving up lower fetters	MN64
+swimmer	simile for giving up lower fetters	MN64
+identity view (sakkāyadiṭṭhi)	someone eager to overcome	MN64
+jhānas	contemplating phenomenon as impermanent, suffering, not-self etc.	MN64
+deathless (amata)	applying mind to	MN64
+stilling of all formations (sabbasaṅkhārasamatha)	ending defilements	MN64
+attachments, stilling of all (sabbūpadhipaṭinissaggo)	ending defilements	MN64
+spontaneous rebirth (opapātika)	from love of Dhamma	MN64
+love for the Dhamma (dhammanandi)	rebirth caused by	MN64
+passion for the Dhamma (dhammarāga)	rebirth caused by	MN64
+non-returner (anāgāmi)	cause for rebirth as	MN64
+jhānas	basis for ending the defilements	MN64
+formless attainments	giving up five lower fetters	MN64
+impermanence 	contemplation of phenomena as	MN64
+suffering (dukkha)	contemplation of phenomena as	MN64
+not-self	contemplation of phenomena as	MN64
+heart’s release (cetovimutti)	why some attain enlightenment through	MN64
+freedom by wisdom (paññāvimutti)	why some attain enlightenment through	MN64
+diversity of faculties (indriyavemattatā)	cause for differences in enlightenment	MN64
+eating		xref almsfood
+food		xref almsfood
+almsfood		xref food
+almsfood		xref eating
+apologizing		xref asking forgiveness
+Bhaddāli, Ven.	not following food rule	MN65
+eating	in one part of the day	MN65
+monastic rules (vinaya)	refusing to follow	MN65
+robes	monks making robe for Buddha	MN65
+asking forgiveness	for not following rule	MN65
+reputation	bad reputation gained through unvirtuous behavior	MN65
+monastic rules (vinaya)	Buddha creating	MN65
+bridges	Buddha asking monk to be	MN65
+one freed by wisdom (paññāvimutta)	Buddha asking monk to be	MN65
+personal witness (kāyasakkhī)	Buddha asking monk to be	MN65
+one attained to view (diṭṭhippatto)	Buddha asking monk to be	MN65
+one freed by faith (saddhāvimutto)	Buddha asking monk to be	MN65
+Dhamma follower (dhammānusārī)	Buddha asking monk to be	MN65
+follower by faith (saddhānusārī)	Buddha asking monk to be	MN65
+asking forgiveness	growth in Buddha’s training	MN65
+seclusion (paṭisallīna, vivitta)	behaving badly while in	MN65
+reprimand (upavadita)	by gods, humans, oneself	MN65
+training (sikkhā)	fulfilling and not fulfilling	MN65
+seclusion (paṭisallīna, vivitta)	fulfilling the training	MN65
+jhānas	as a result of proper striving	MN65
+recollection of past lives	as a result of proper striving	MN65
+knowledge of passing away and rebirth of beings (cutūpapātañāna)	as a result of proper striving	MN65
+knowledge of destruction of the taints (āsavakkhayañāṇa)	as a result of proper striving	MN65
+admonishment	some are admonished repeatedly, some not	MN65
+admonishment	being difficult to	MN65
+offences against monastic rules (āpatti)	frequent offender vs. occasional offender	MN65
+faith (saddhā)	getting by on	MN65
+love (pema)	getting by on love of Dhamma	MN65
+eyes	simile of person with one eye	MN65
+admonishment	gentle like protecting someone with one eye	MN65
+monastic rules (vinaya)	reason for creation of	MN65
+Saṅgha	attaining great size, wealth, etc	MN65
+horses	thoroughbred, simile for training	MN65
+horse trainers	simile of thoroughbred being trained	MN65
+gradual training (anupubbasikkhā)	like training a horse	MN65
+horses	thoroughbred worthy of a king, simile for good monastic	MN65
+good monastics	like a thoroughbred horse	MN65
+giving 	worthy of gifts, qualities of one who is	MN65
+mendicants	worthy of gifts, qualities of one who is	MN65
+ten factors	of one worthy of gifts	MN65
+right knowledge (sammā ñāṇa)	person who possesses	MN65
+right freedom (sammā vimutti)	person who possesses	MN65
+noble eightfold path (ariya aṭṭhangika magga)	person who possesses	MN65
+bliss of renunciation (nekkhammasukha)		xref renunciation (nekkhamma)
+happiness (sukha)		xref bliss of renunciation (nekkhammasukha)
+Udāyī, Ven	reflecting on Buddha	MN66
+gratitude	towards the Buddha	MN66
+eating	in one part of the day	MN66
+monastic rules (vinaya)	Buddha creating	MN66
+monastic rules (vinaya)	benefit of 	MN66
+alms gathering practice	at night	MN66
+goblin (pisāca)	monk accused of being	MN66
+quail	simile for person bound by their weak ties	MN66
+elephants	simile for person not bound by their weak ties	MN66
+poor person	simile for person bound by their weak ties	MN66
+wealthy person	simile for person not bound by their weak ties	MN66
+going forth (pabbajja)	difficulty	MN66
+going forth (pabbajja)	easy to 	MN66
+Buddha, the	anger towards	MN66
+fettered (saṁyutta)	person who is and is not	MN66
+acquisitions (upadhi)	memories and thoughts of	MN66
+acquisitions (upadhi)	letting go of all	MN66
+water	drops falling into hot pan  as simile for controlling the mind	MN66
+acquisitions (upadhi)	root of suffering	MN66
+suffering (dukkha)	acquisitions as root of	MN66
+sense pleasures (kāma, kāmaguṇa)	should be feared	MN66
+bliss of renunciation (nekkhammasukha)	superior to happiness of sensuality 	MN66
+jhānas	perturbable aspects	MN66
+jhānas	factors blocking	MN66
+formless liberations	not enough just to have	MN66
+fetters (saṁyojana)	giving up large and small	MN66
+dimension of neither perception nor non-perception (nevasaññānāsaññāyatanaṁ)	giving up even this	MN66
+Sāriputta, Ven.	leading noisy monks	MN67
+Moggallāna, Ven.	leading noisy monks	MN67
+socializing	dismissed by the Buddha for being noisy	MN67
+noise	Buddha dismisses noisy monks	MN67
+seeds	young seedlings needing water, simile for young monks	MN67
+calf	simile for young monks	MN67
+going forth (pabbajja)	new monks needing care	MN67
+Sahampati, Brahmā	requesting the Buddha to support noisy monks	MN67
+monastic life	dangers to	MN67
+going forth (pabbajja)	in old age	MN67
+waves	simile for anger	MN67
+anger (kodha)	danger to monastic life	MN67
+anger (kodha)	like danger of waves	MN67
+monastic rules (vinaya)	difficulty following	MN67
+crocodiles	simile for gluttony	MN67
+gluttony (rasāda)	like crocodiles	MN67
+eating	and monastic rules	MN67
+sense pleasures (kāma, kāmaguṇa)	danger of	MN67
+whirlpools	simile for danger of sense pleasures	MN67
+sense pleasures (kāma, kāmaguṇa)	like whirlpools	MN67
+women	danger for monks	MN67
+gharials	simile for women	MN67
+women	like gharials	MN67
+Anuruddha, Ven.	questioned about satisfaction with the holy life	MN68
+Bhaddiya, Ven.	listening to a sermon by the Buddha	MN68
+Kimbila, Ven.	listening to a sermon by the Buddha	MN68
+Bhagu, Ven.	listening to a sermon by the Buddha	MN68
+Koṇḍañña, Ven.	listening to a sermon by the Buddha	MN68
+Revata, Ven.	listening to a sermon by the Buddha	MN68
+Ānanda, Ven.	listening to a sermon by the Buddha	MN68
+spiritual path (brahmacariya)	satisfaction with	MN68
+going forth (pabbajja)	as youth	MN68
+going forth (pabbajja)	reason for	MN68
+first jhāna	one who doesn’t attain, one who does	MN68
+hindrances (nīvarana)	one who removes, one who doesn’t	MN68
+using (paṭisevana)	after appraisal	MN68
+enduring (adhivāsana)	after appraisal	MN68
+avoiding (parivajjana)	after appraisal	MN68
+removing (vinodana)	after appraisal	MN68
+Buddha, the	defilements cut off	MN68
+palm tree	cut off, simile of Buddha’s defilements cut off	MN68
+taints (āsava)	like palm tree cut off	MN68
+Buddha, the	declaring rebirth of individuals	MN68
+rebirth	Buddha declaring of people	MN68
+stages of enlightenment	Buddha declaring of people	MN68
+inspiration	through knowing rebirth of individuals	MN68
+generosity (cāga)	recollection of other's	MN68
+arahants	Buddha declaring someone has attained	MN68
+non-returner (anāgāmi)	Buddha declaring someone has attained	MN68
+once returner (sakadāgāmī)	Buddha declaring someone has attained	MN68
+stream-enterers (sotāpanna)	Buddha declaring someone has attained	MN68
+bhikkhunīs	Buddha declaring attainments of	MN68
+laypeople	Buddha declaring attainments of	MN68
+Gulissāni, Ven.	bad behaviour of	MN69
+Sāriputta, Ven.	about qualities of wilderness monk	MN69
+wilderness dwelling monk (āraññika)	behaviour of	MN69
+respect (gārava)	for spiritual companions	MN69
+socializing	with laypeople	MN69
+harsh speech	of a monk	MN69
+spiritual friends (kalyāṇamitta)	wilderness monks should have	MN69
+easy to admonish (suvaca)	wilderness monks should be	MN69
+sense doors, guarding (indriyesu guttadvāra)	wilderness monks should	MN69
+eating in moderation	wilderness monks should	MN69
+wakefulness (jāgara)	wilderness monks should	MN69
+energetic (āraddhavīriya)	wilderness monks should be	MN69
+mindfulness (sati)	wilderness monks should be	MN69
+concentration (samādhi)	wilderness monks should be	MN69
+wisdom (paññā)	wilderness monks should have	MN69
+questions, answering	wilderness monks should be able to answer	MN69
+formless attainments	wilderness monks should be able to answer questions about	MN69
+superhuman states (uttari manussadhamma)	wilderness monks should be able to answer questions about	MN69
+village dwelling monk (gāmantavihārī)	advice for	MN69
+feelings (vedanā)		xref pleasant feelings (sukhavedanā)
+feelings (vedanā)		xref painful feelings (dukkhavedanā)
+feelings (vedanā)		xref neutral feelings (adukkhamasukhaṁ vedanā)
+Dhamma		xref follower of the teachings (dhammānusārī) 
+degree of faith and love (saddhāmatta pemamatta)		xref measure of faith and love (saddhāmatta pemamatta)
+eating	in one part of the day	MN70
+Assaji and Punabbasuka	not abstaining from eating at night	MN70
+unskillful qualities (akusala dhamma)	feelings causing	MN70
+skillful qualities (kusala dhamma)	feelings causing	MN70
+unskillful qualities (akusala dhamma)	declining	MN70
+skillful qualities (kusala dhamma)	growing	MN70
+pleasant feelings (sukhavedanā)	skillful and unskillful qualities growing or decreasing	MN70
+painful feelings (dukkhavedanā)	skillful and unskillful qualities growing or decreasing	MN70
+neutral feelings (adukkhamasukhaṁ vedanā)	skillful and unskillful qualities growing or decreasing	MN70
+arahants	nothing more to do	MN70
+arahants	incapable of negligence	MN70
+trainee (sekha)	work left to do	MN70
+dwellings (senāsana)	helping to increase skillfulness	MN70
+association (bhajamānā)	with spiritual friends	MN70
+spiritual friends (kalyāṇamitta)	association with	MN70
+faculties (indriya)	controlling	MN70
+heedfulness (appamāda)	result of	MN70
+one freed both ways (ubhatobhāgavimutta)	definition	MN70
+formless liberations	one freed both ways	MN70
+one freed by wisdom (paññāvimutta)	definition	MN70
+seeing with wisdom	one freed by wisdom	MN70
+personal witness (kāyasakkhī)	definition	MN70
+seeing with wisdom	personal witness	MN70
+one attained to view (diṭṭhippatto)	definition	MN70
+seeing with wisdom	one attained to view	MN70
+one freed by faith (saddhāvimutto)	definition	MN70
+follower of the teachings (dhammānusārī) 	definition	MN70
+follower by faith (saddhānusārī)	definition	MN70
+faculties (indriya)	faith, energy, mindfulness, immersion, and wisdom 	MN70
+measure of faith and love (saddhāmatta pemamatta)	faith follower	MN70
+gradual training (anupubbasikkhā)	enlightenment achieved through	MN70

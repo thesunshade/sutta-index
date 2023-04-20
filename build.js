@@ -251,7 +251,7 @@ function createIndexObject() {
     const headStartingWithLetter = head.replace("“", "");
     const firstRealLetter = normalizeDiacriticString(headStartingWithLetter.charAt(0)).toUpperCase();
     if (head === "") {
-      console.log(sub, locator);
+      console.log(sub, locator, i);
       console.error(`!!!!!!!!!!!!!!!!!!!!!!
   !!!!!!!!!!!!!there is a blank headword!!!!!!!!!!!!!!!!!!!!!
   !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!`);
