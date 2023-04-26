@@ -1,6 +1,6 @@
 //https://github.com/mdesjardins/react-a11y-select
 
-import { indexObject } from "../data/index-object.js";
+import { indexObject } from "../data/index-objectx.js";
 import LetterHeadingsMenu from "./LetterHeadingsMenu.js";
 
 export default function Alphabet() {

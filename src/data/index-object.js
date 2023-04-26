@@ -69,6 +69,14 @@ export const indexObject ={
                     "xrefs": []
                }
           },
+          "acceptance of Dhamma after  consideration (dhammanijjhānakhanti)": {
+               "leads to zeal": {
+                    "locators": [
+                         "MN70"
+                    ],
+                    "xrefs": []
+               }
+          },
           "accomplishment in concentration (samādhisampannā)": {
                "person who has is very helpful to associate with": {
                     "locators": [
@@ -843,7 +851,8 @@ export const indexObject ={
                          "AN3.25"
                     ],
                     "xrefs": []
-               }
+               },
+               "counter": 1
           },
           "advice (ovada)": {
                "in brief (saṅkhittena)": {
@@ -864,7 +873,8 @@ export const indexObject ={
                          "AN8.90"
                     ],
                     "xrefs": []
-               }
+               },
+               "counter": 2
           },
           "adze handle": {
                "simile for gradual progress": {
@@ -1107,6 +1117,7 @@ export const indexObject ={
                },
                "origin and ending": {
                     "locators": [
+                         "MN72",
                          "SN46.30"
                     ],
                     "xrefs": []
@@ -1114,6 +1125,12 @@ export const indexObject ={
                "contemplation of and awakening factors": {
                     "locators": [
                          "SN46.30"
+                    ],
+                    "xrefs": []
+               },
+               "cut off by the Buddha": {
+                    "locators": [
+                         "MN72"
                     ],
                     "xrefs": []
                }
@@ -1228,6 +1245,12 @@ export const indexObject ={
                "going to hell": {
                     "locators": [
                          "AN5.293"
+                    ],
+                    "xrefs": []
+               },
+               "rebirth in heaven": {
+                    "locators": [
+                         "MN71"
                     ],
                     "xrefs": []
                }
@@ -2426,7 +2449,8 @@ export const indexObject ={
                     "xrefs": [
                          "xref preference (ruci)"
                     ]
-               }
+               },
+               "counter": 1
           },
           "approval (samanuñña)": {
                "of good or bad deeds": {
@@ -2434,7 +2458,8 @@ export const indexObject ={
                          "AN10.223"
                     ],
                     "xrefs": []
-               }
+               },
+               "counter": 2
           },
           "arahants": {
                "like path of bird is hard to trace": {
@@ -2873,7 +2898,8 @@ export const indexObject ={
                          "MN113"
                     ],
                     "xrefs": []
-               }
+               },
+               "counter": 1
           },
           "arrogance (thaddha)": {
                "definition": {
@@ -2893,7 +2919,8 @@ export const indexObject ={
                          "MN135"
                     ],
                     "xrefs": []
-               }
+               },
+               "counter": 2
           },
           "arrows": {
                "simile of person struck by": {
@@ -3186,7 +3213,8 @@ export const indexObject ={
                     "xrefs": [
                          "xref knowing people"
                     ]
-               }
+               },
+               "counter": 1
           },
           "assessing people (puggalā viditā)": {
                "how to": {
@@ -3200,7 +3228,8 @@ export const indexObject ={
                          "AN8.7"
                     ],
                     "xrefs": []
-               }
+               },
+               "counter": 2
           },
           "association": {
                "with good people": {
@@ -3376,7 +3405,8 @@ export const indexObject ={
                          "AN8.54"
                     ],
                     "xrefs": []
-               }
+               },
+               "counter": 1
           },
           "association (bhajamānā)": {
                "with spiritual friends": {
@@ -3384,7 +3414,8 @@ export const indexObject ={
                          "MN70"
                     ],
                     "xrefs": []
-               }
+               },
+               "counter": 2
           },
           "association (saṁseva)": {
                "with bad people causes listening to untrue teachings": {
@@ -3414,7 +3445,8 @@ export const indexObject ={
                          "AN10.62"
                     ],
                     "xrefs": []
-               }
+               },
+               "counter": 3
           },
           "association (sevitabba)": {
                "whom to associate with": {
@@ -3485,7 +3517,8 @@ export const indexObject ={
                          "AN10.155"
                     ],
                     "xrefs": []
-               }
+               },
+               "counter": 4
           },
           "assuming bad things": {
                "about families": {
@@ -3664,7 +3697,8 @@ export const indexObject ={
                          "AN2.2"
                     ],
                     "xrefs": []
-               }
+               },
+               "counter": 1
           },
           "attachment (ajjhosāna)": {
                "causes ownership": {
@@ -3672,7 +3706,8 @@ export const indexObject ={
                          "AN9.23"
                     ],
                     "xrefs": []
-               }
+               },
+               "counter": 2
           },
           "attachment to future lives (bhavayoga)": {
                "definition": {
@@ -3750,7 +3785,8 @@ export const indexObject ={
                          "AN9.23"
                     ],
                     "xrefs": []
-               }
+               },
+               "counter": 1
           },
           "attachments (visattikā)": {
                "crossing over attachments to world": {
@@ -3758,7 +3794,8 @@ export const indexObject ={
                          "AN9.38"
                     ],
                     "xrefs": []
-               }
+               },
+               "counter": 2
           },
           "attachments (yoga)": {
                "to sensual pleasures, future lives, views, and ignorance": {
@@ -3767,7 +3804,8 @@ export const indexObject ={
                          "AN4.10"
                     ],
                     "xrefs": []
-               }
+               },
+               "counter": 3
           },
           "attachments, stilling of all (sabbūpadhipaṭinissaggo)": {
                "ending defilements": {
@@ -3856,7 +3894,8 @@ export const indexObject ={
                          "AN10.175"
                     ],
                     "xrefs": []
-               }
+               },
+               "counter": 1
           },
           "avoiding (parivajjana)": {
                "in order to remove taints (āsava)": {
@@ -3872,7 +3911,8 @@ export const indexObject ={
                          "AN10.20"
                     ],
                     "xrefs": []
-               }
+               },
+               "counter": 2
           },
           "awakening (sambodha)": {
                "": {
@@ -5478,7 +5518,8 @@ export const indexObject ={
                          "AN10.216"
                     ],
                     "xrefs": []
-               }
+               },
+               "counter": 1
           },
           "beings (satta)": {
                "Buddha knows conviction/disposition of beings": {
@@ -5486,7 +5527,8 @@ export const indexObject ={
                          "AN10.21"
                     ],
                     "xrefs": []
-               }
+               },
+               "counter": 2
           },
           "beings diverse in body and diverse in perception (sattā nānattakāyā nānattasaññino)": {
                "planes of consciousness": {
@@ -5795,6 +5837,12 @@ export const indexObject ={
                "Buddha declaring attainments of": {
                     "locators": [
                          "MN68"
+                    ],
+                    "xrefs": []
+               },
+               "number of with attainments": {
+                    "locators": [
+                         "MN73"
                     ],
                     "xrefs": []
                }
@@ -6423,12 +6471,17 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
+               "counter": 1
+          },
+          "body (sarīra)": {
                "soul and": {
                     "locators": [
-                         "MN63"
+                         "MN63",
+                         "MN72"
                     ],
                     "xrefs": []
-               }
+               },
+               "counter": 2
           },
           "body parts": {
                "elements and": {
@@ -6724,6 +6777,12 @@ export const indexObject ={
                "result of loving-kindness": {
                     "locators": [
                          "AN11.15"
+                    ],
+                    "xrefs": []
+               },
+               "visiting using psychic powers": {
+                    "locators": [
+                         "MN73"
                     ],
                     "xrefs": []
                }
@@ -7806,7 +7865,8 @@ export const indexObject ={
                "": {
                     "locators": [],
                     "xrefs": [
-                         "xref Buddha, the"
+                         "xref Buddha, the",
+                         "xref Tathāgatas"
                     ]
                },
                "self-assurances": {
@@ -9012,7 +9072,8 @@ export const indexObject ={
                          "AN10.18"
                     ],
                     "xrefs": []
-               }
+               },
+               "counter": 1
           },
           "compassion (karuna)": {
                "monks committed to developing": {
@@ -9032,7 +9093,8 @@ export const indexObject ={
                          "MN62"
                     ],
                     "xrefs": []
-               }
+               },
+               "counter": 2
           },
           "compassion for future generations": {
                "wilderness living": {
@@ -9197,6 +9259,12 @@ export const indexObject ={
                "disease, boil, dart": {
                     "locators": [
                          "MN140"
+                    ],
+                    "xrefs": []
+               },
+               "Buddha has abandonded all": {
+                    "locators": [
+                         "MN72"
                     ],
                     "xrefs": []
                }
@@ -9540,7 +9608,8 @@ export const indexObject ={
                          "Iti90"
                     ],
                     "xrefs": []
-               }
+               },
+               "counter": 1
           },
           "confidence (aveccappasāda)": {
                "Mahāpajāpatī Gotamī’s": {
@@ -9573,7 +9642,8 @@ export const indexObject ={
                          "AN10.64"
                     ],
                     "xrefs": []
-               }
+               },
+               "counter": 2
           },
           "confidence (pasāda)": {
                "giving and": {
@@ -9623,7 +9693,8 @@ export const indexObject ={
                          "AN10.31"
                     ],
                     "xrefs": []
-               }
+               },
+               "counter": 3
           },
           "confirmed confidence (aveccappasāda)": {
                "": {
@@ -9835,7 +9906,8 @@ export const indexObject ={
                          "MN115"
                     ],
                     "xrefs": []
-               }
+               },
+               "counter": 1
           },
           "consciousness (viññāṇa)": {
                "coming and going of": {
@@ -9935,7 +10007,8 @@ export const indexObject ={
                          "AN10.81"
                     ],
                     "xrefs": []
-               }
+               },
+               "counter": 2
           },
           "consciousness element (viññāṇadhātu)": {
                "as not self": {
@@ -10315,7 +10388,8 @@ export const indexObject ={
                          "MN60"
                     ],
                     "xrefs": []
-               }
+               },
+               "counter": 1
           },
           "corruptions (upakkilesa)": {
                "of the mind": {
@@ -10336,7 +10410,8 @@ export const indexObject ={
                          "AN5.23"
                     ],
                     "xrefs": []
-               }
+               },
+               "counter": 2
           },
           "cosmology (lokāyatika)": {
                "brahmin cosmologists": {
@@ -10448,6 +10523,12 @@ export const indexObject ={
                     "xrefs": [
                          "xref mental action (manokamma)"
                     ]
+               },
+               "unskillful": {
+                    "locators": [
+                         "MN73"
+                    ],
+                    "xrefs": []
                }
           },
           "covetousness, giving up": {
@@ -10473,6 +10554,12 @@ export const indexObject ={
                "meditation": {
                     "locators": [
                          "MN51"
+                    ],
+                    "xrefs": []
+               },
+               "skillful": {
+                    "locators": [
+                         "MN73"
                     ],
                     "xrefs": []
                }
@@ -10734,6 +10821,12 @@ export const indexObject ={
                "ended by awakening factors": {
                     "locators": [
                          "SN46.26"
+                    ],
+                    "xrefs": []
+               },
+               "like palm tree cut off": {
+                    "locators": [
+                         "MN73"
                     ],
                     "xrefs": []
                }
@@ -11270,7 +11363,8 @@ export const indexObject ={
                          "AN11.15"
                     ],
                     "xrefs": []
-               }
+               },
+               "counter": 1
           },
           "death (maraṇa)": {
                "reaction to hearing about": {
@@ -11680,7 +11774,8 @@ export const indexObject ={
                          "SN6.14"
                     ],
                     "xrefs": []
-               }
+               },
+               "counter": 2
           },
           "deathbed": {
                "conversation uppon": {
@@ -11969,6 +12064,14 @@ export const indexObject ={
                     ]
                }
           },
+          "deep (gambhīra)": {
+               "Buddha": {
+                    "locators": [
+                         "MN72"
+                    ],
+                    "xrefs": []
+               }
+          },
           "defamation": {
                "of the Buddha": {
                     "locators": [
@@ -12060,7 +12163,8 @@ export const indexObject ={
                          "MN146"
                     ],
                     "xrefs": []
-               }
+               },
+               "counter": 1
           },
           "delight (rati)": {
                "mindfulness of the body overcomes": {
@@ -12074,7 +12178,8 @@ export const indexObject ={
                          "AN10.71"
                     ],
                     "xrefs": []
-               }
+               },
+               "counter": 2
           },
           "deliverance (vimutti)": {
                "": {
@@ -12163,6 +12268,12 @@ export const indexObject ={
                     "xrefs": [
                          "xref greed, hatred, delusion"
                     ]
+               },
+               "unskillful": {
+                    "locators": [
+                         "MN73"
+                    ],
+                    "xrefs": []
                }
           },
           "demons (asuras)": {
@@ -12549,6 +12660,12 @@ export const indexObject ={
                "Bodhisatta’s interaction with during meditation": {
                     "locators": [
                          "AN8.64"
+                    ],
+                    "xrefs": []
+               },
+               "informing the Buddha of person’s enlightenment": {
+                    "locators": [
+                         "MN73"
                     ],
                     "xrefs": []
                }
@@ -13132,6 +13249,12 @@ export const indexObject ={
                "qualities of": {
                     "locators": [
                          "SN46.3"
+                    ],
+                    "xrefs": []
+               },
+               "approaching leads to paying homage": {
+                    "locators": [
+                         "MN70"
                     ],
                     "xrefs": []
                }
@@ -14142,7 +14265,8 @@ export const indexObject ={
                          "Dhp256"
                     ],
                     "xrefs": []
-               }
+               },
+               "counter": 1
           },
           "discernment (vipassanā)": {
                "": {
@@ -14150,7 +14274,8 @@ export const indexObject ={
                     "xrefs": [
                          "xref insight (vipassanā)"
                     ]
-               }
+               },
+               "counter": 2
           },
           "disciples of the Buddha": {
                "simile of lotus in mud": {
@@ -14185,6 +14310,7 @@ export const indexObject ={
                },
                "Buddha has hundreds of": {
                     "locators": [
+                         "MN73",
                          "AN7.58"
                     ],
                     "xrefs": []
@@ -14192,6 +14318,12 @@ export const indexObject ={
                "Buddha would not pass away until he had": {
                     "locators": [
                          "AN8.70"
+                    ],
+                    "xrefs": []
+               },
+               "Teacher’s instruction is nourishing": {
+                    "locators": [
+                         "MN70"
                     ],
                     "xrefs": []
                }
@@ -14264,7 +14396,8 @@ export const indexObject ={
                          "SN46.51"
                     ],
                     "xrefs": []
-               }
+               },
+               "counter": 1
           },
           "discontent (asantuṭṭhi)": {
                "leads to unwholesome": {
@@ -14284,7 +14417,8 @@ export const indexObject ={
                          "AN6.114"
                     ],
                     "xrefs": []
-               }
+               },
+               "counter": 2
           },
           "discussion": {
                "": {
@@ -14505,6 +14639,14 @@ export const indexObject ={
                     "xrefs": []
                }
           },
+          "dispensation (pāvacana)": {
+               "consisting only of heartwood": {
+                    "locators": [
+                         "MN72"
+                    ],
+                    "xrefs": []
+               }
+          },
           "disputes": {
                "about Dhamma": {
                     "locators": [
@@ -14671,7 +14813,8 @@ export const indexObject ={
                          "AN7.32"
                     ],
                     "xrefs": []
-               }
+               },
+               "counter": 1
           },
           "disrespect (anādariya)": {
                "cause of and giving up": {
@@ -14679,7 +14822,8 @@ export const indexObject ={
                          "AN10.76"
                     ],
                     "xrefs": []
-               }
+               },
+               "counter": 2
           },
           "disrobing": {
                "encouraging to": {
@@ -14882,6 +15026,12 @@ export const indexObject ={
                          "AN10.97"
                     ],
                     "xrefs": []
+               },
+               "definition": {
+                    "locators": [
+                         "MN73"
+                    ],
+                    "xrefs": []
                }
           },
           "divine eye (dibbacakkhu)": {
@@ -14988,6 +15138,12 @@ export const indexObject ={
                          "AN9.23"
                     ],
                     "xrefs": []
+               },
+               "unskillful": {
+                    "locators": [
+                         "MN73"
+                    ],
+                    "xrefs": []
                }
           },
           "divisive speech, giving up": {
@@ -15008,6 +15164,20 @@ export const indexObject ={
                "by not speaking divisively": {
                     "locators": [
                          "MN54"
+                    ],
+                    "xrefs": []
+               },
+               "skillful": {
+                    "locators": [
+                         "MN73"
+                    ],
+                    "xrefs": []
+               }
+          },
+          "doctrine of action (kiriyavādā)": {
+               "leading to rebirth in heaven": {
+                    "locators": [
+                         "MN71"
                     ],
                     "xrefs": []
                }
@@ -15256,6 +15426,12 @@ export const indexObject ={
                          "MN64"
                     ],
                     "xrefs": []
+               },
+               "gone beyond (tiṇṇavicikiccha)": {
+                    "locators": [
+                         "MN73"
+                    ],
+                    "xrefs": []
                }
           },
           "downfall (parābhava)": {
@@ -15455,7 +15631,8 @@ export const indexObject ={
                          "AN6.59"
                     ],
                     "xrefs": []
-               }
+               },
+               "counter": 1
           },
           "dwellings (senāsana)": {
                "what kinds should and should not be cultivated": {
@@ -15496,7 +15673,8 @@ export const indexObject ={
                          "AN10.11"
                     ],
                     "xrefs": []
-               }
+               },
+               "counter": 2
           },
           "dwellings, mental (vihāra)": {
                "nine progressive": {
@@ -15547,6 +15725,12 @@ export const indexObject ={
                "meditation like": {
                     "locators": [
                          "MN62"
+                    ],
+                    "xrefs": []
+               },
+               "diving into as if water": {
+                    "locators": [
+                         "MN73"
                     ],
                     "xrefs": []
                }
@@ -15946,7 +16130,8 @@ export const indexObject ={
                          "MN140"
                     ],
                     "xrefs": []
-               }
+               },
+               "counter": 1
           },
           "elements (dhātu)": {
                "form, formlessness, cessation": {
@@ -16056,7 +16241,8 @@ export const indexObject ={
                          "AN10.21"
                     ],
                     "xrefs": []
-               }
+               },
+               "counter": 2
           },
           "elements, four great (cattāri mahābhūtāni)": {
                "imperturbable and": {
@@ -16401,7 +16587,8 @@ export const indexObject ={
                          "AN5.140"
                     ],
                     "xrefs": []
-               }
+               },
+               "counter": 1
           },
           "enduring (adhivāsana)": {
                "in order to remove taints (āsava)": {
@@ -16417,7 +16604,8 @@ export const indexObject ={
                          "AN10.20"
                     ],
                     "xrefs": []
-               }
+               },
+               "counter": 2
           },
           "enduring (khama)": {
                "mindfulness of the body helps one to achieve": {
@@ -16469,7 +16657,8 @@ export const indexObject ={
                          "AN10.71"
                     ],
                     "xrefs": []
-               }
+               },
+               "counter": 3
           },
           "enduring (khanta)": {
                "": {
@@ -16477,7 +16666,8 @@ export const indexObject ={
                          "AN4.114"
                     ],
                     "xrefs": []
-               }
+               },
+               "counter": 4
           },
           "enduring (titikkha)": {
                "like armor": {
@@ -16485,7 +16675,8 @@ export const indexObject ={
                          "SN45.4"
                     ],
                     "xrefs": []
-               }
+               },
+               "counter": 5
           },
           "enduring abuse": {
                "simile of elephant": {
@@ -16762,6 +16953,12 @@ export const indexObject ={
                "causes growth of skillful qualities": {
                     "locators": [
                          "AN10.67"
+                    ],
+                    "xrefs": []
+               },
+               "letting ones flesh and blood dry up": {
+                    "locators": [
+                         "MN70"
                     ],
                     "xrefs": []
                }
@@ -17173,6 +17370,7 @@ export const indexObject ={
           "eternalism (sassatavāda)": {
                "": {
                     "locators": [
+                         "MN72",
                          "MN102",
                          "Ud6.4",
                          "Ud6.5",
@@ -17199,7 +17397,8 @@ export const indexObject ={
                          "Dhp123"
                     ],
                     "xrefs": []
-               }
+               },
+               "counter": 1
           },
           "evil (pāpa)": {
                "seeing": {
@@ -17207,7 +17406,8 @@ export const indexObject ={
                          "Iti39"
                     ],
                     "xrefs": []
-               }
+               },
+               "counter": 2
           },
           "evil actions": {
                "harming oneself": {
@@ -17351,7 +17551,8 @@ export const indexObject ={
                          "AN3.102"
                     ],
                     "xrefs": []
-               }
+               },
+               "counter": 1
           },
           "exertion (yoga)": {
                "knowing right time for": {
@@ -17359,7 +17560,8 @@ export const indexObject ={
                          "AN7.68"
                     ],
                     "xrefs": []
-               }
+               },
+               "counter": 2
           },
           "exhortation": {
                "": {
@@ -17450,12 +17652,16 @@ export const indexObject ={
           },
           "explicit meaning": {
                "": {
-                    "locators": [
-                         "AN2.24"
-                    ],
+                    "locators": [],
                     "xrefs": [
                          "xref meaning (atthato)"
                     ]
+               },
+               "giving interpreted meaning": {
+                    "locators": [
+                         "AN2.24"
+                    ],
+                    "xrefs": []
                }
           },
           "exploding head": {
@@ -18208,6 +18414,12 @@ export const indexObject ={
                          "MN65"
                     ],
                     "xrefs": []
+               },
+               "leads to approaching a teacher": {
+                    "locators": [
+                         "MN70"
+                    ],
+                    "xrefs": []
                }
           },
           "faith follower": {
@@ -18216,6 +18428,20 @@ export const indexObject ={
                     "xrefs": [
                          "xref follower by faith (saddhānusārī)"
                     ]
+               }
+          },
+          "faithful disciple": {
+               "‘The Buddha is my Teacher, I am his disciple. The Buddha knows, I do not know.’": {
+                    "locators": [
+                         "MN70"
+                    ],
+                    "xrefs": []
+               },
+               "result of practice": {
+                    "locators": [
+                         "MN70"
+                    ],
+                    "xrefs": []
                }
           },
           "false accusations": {
@@ -18326,6 +18552,20 @@ export const indexObject ={
                "praised by some": {
                     "locators": [
                          "SN42.13"
+                    ],
+                    "xrefs": []
+               },
+               "unskillful": {
+                    "locators": [
+                         "MN73"
+                    ],
+                    "xrefs": []
+               }
+          },
+          "false speech, giving up": {
+               "skillful": {
+                    "locators": [
+                         "MN73"
                     ],
                     "xrefs": []
                }
@@ -19057,6 +19297,7 @@ export const indexObject ={
                     "locators": [],
                     "xrefs": [
                          "xref doubt (vicikicchā)",
+                         "xref fetters of lay life (gihisaṁyojana)",
                          "xref identity view (sakkāyadiṭṭhi)",
                          "xref sīlabbata-parāmāsa"
                     ]
@@ -19195,6 +19436,14 @@ export const indexObject ={
                "giving up large and small": {
                     "locators": [
                          "MN66"
+                    ],
+                    "xrefs": []
+               }
+          },
+          "fetters of lay life (gihisaṁyojana)": {
+               "attaining nibbāna without abandoning": {
+                    "locators": [
+                         "MN71"
                     ],
                     "xrefs": []
                }
@@ -19382,6 +19631,14 @@ export const indexObject ={
                     "xrefs": []
                }
           },
+          "final knowledge here and now (diṭṭhadhamma aññā)": {
+               "result for faithful disciple": {
+                    "locators": [
+                         "MN70"
+                    ],
+                    "xrefs": []
+               }
+          },
           "finger-snap": {
                "rebirth not approved for even a fingersnap": {
                     "locators": [
@@ -19393,6 +19650,7 @@ export const indexObject ={
           "finite": {
                "world as": {
                     "locators": [
+                         "MN72",
                          "AN9.38"
                     ],
                     "xrefs": []
@@ -19458,6 +19716,12 @@ export const indexObject ={
                "meditation like": {
                     "locators": [
                          "MN62"
+                    ],
+                    "xrefs": []
+               },
+               "simile for nibbāna": {
+                    "locators": [
+                         "MN72"
                     ],
                     "xrefs": []
                }
@@ -19614,6 +19878,14 @@ export const indexObject ={
                     "xrefs": []
                }
           },
+          "flames": {
+               "": {
+                    "locators": [],
+                    "xrefs": [
+                         "xref fire element (tejo dhātu)"
+                    ]
+               }
+          },
           "flattery (lapaka)": {
                "senior monastics": {
                     "locators": [
@@ -19655,6 +19927,14 @@ export const indexObject ={
                     "locators": [
                          "SN45.171",
                          "SN46.121"
+                    ],
+                    "xrefs": []
+               }
+          },
+          "flying": {
+               "using psychic powers": {
+                    "locators": [
+                         "MN73"
                     ],
                     "xrefs": []
                }
@@ -20701,7 +20981,8 @@ export const indexObject ={
                          "AN9.14"
                     ],
                     "xrefs": []
-               }
+               },
+               "counter": 1
           },
           "freedom (vimutti)": {
                "": {
@@ -20752,7 +21033,8 @@ export const indexObject ={
                          "MN51"
                     ],
                     "xrefs": []
-               }
+               },
+               "counter": 2
           },
           "freedom by wisdom (paññāvimutti)": {
                "": {
@@ -20772,6 +21054,12 @@ export const indexObject ={
                "why some attain enlightenment through": {
                     "locators": [
                          "MN64"
+                    ],
+                    "xrefs": []
+               },
+               "Buddha’s knowledge of": {
+                    "locators": [
+                         "MN71"
                     ],
                     "xrefs": []
                }
@@ -21261,6 +21549,12 @@ export const indexObject ={
                "simile for giving up lower fetters": {
                     "locators": [
                          "MN64"
+                    ],
+                    "xrefs": []
+               },
+               "sloping towards ocean, simile for disciples moving towards enlightenment": {
+                    "locators": [
+                         "MN73"
                     ],
                     "xrefs": []
                }
@@ -21832,7 +22126,8 @@ export const indexObject ={
                          "MN65"
                     ],
                     "xrefs": []
-               }
+               },
+               "counter": 1
           },
           "giving (dāna)": {
                "": {
@@ -22785,7 +23080,8 @@ export const indexObject ={
                          "SN42.9"
                     ],
                     "xrefs": []
-               }
+               },
+               "counter": 2
           },
           "giving up": {
                "": {
@@ -24421,7 +24717,8 @@ export const indexObject ={
                          "MN54"
                     ],
                     "xrefs": []
-               }
+               },
+               "counter": 1
           },
           "greed (lobha)": {
                "giving up guarentees non-return": {
@@ -24460,7 +24757,14 @@ export const indexObject ={
                          "MN54"
                     ],
                     "xrefs": []
-               }
+               },
+               "unskillful": {
+                    "locators": [
+                         "MN73"
+                    ],
+                    "xrefs": []
+               },
+               "counter": 2
           },
           "greed (rāga)": {
                "as fire": {
@@ -24543,7 +24847,8 @@ export const indexObject ={
                          "SN45.41"
                     ],
                     "xrefs": []
-               }
+               },
+               "counter": 3
           },
           "greed, hatred, delusion": {
                "as fires": {
@@ -24859,7 +25164,8 @@ export const indexObject ={
                          "MN137"
                     ],
                     "xrefs": []
-               }
+               },
+               "counter": 1
           },
           "happiness (sukha)": {
                "": {
@@ -25066,7 +25372,8 @@ export const indexObject ={
                          "MN59"
                     ],
                     "xrefs": []
-               }
+               },
+               "counter": 2
           },
           "happiness in the present life (diṭṭhadhammasukhavihāra)": {
                "wilderness living": {
@@ -25101,6 +25408,14 @@ export const indexObject ={
                     "locators": [
                          "Ud5.3",
                          "Iti70"
+                    ],
+                    "xrefs": []
+               }
+          },
+          "hard to fathom (duppariyogāḷha)": {
+               "Buddha": {
+                    "locators": [
+                         "MN72"
                     ],
                     "xrefs": []
                }
@@ -25208,7 +25523,8 @@ export const indexObject ={
                          "AN10.33"
                     ],
                     "xrefs": []
-               }
+               },
+               "counter": 1
           },
           "harmony (samagga)": {
                "how to achieve": {
@@ -25235,7 +25551,8 @@ export const indexObject ={
                          "MN59"
                     ],
                     "xrefs": []
-               }
+               },
+               "counter": 2
           },
           "harmony (sāmaññā)": {
                "qualities that lead to": {
@@ -25250,7 +25567,8 @@ export const indexObject ={
                          "AN10.87"
                     ],
                     "xrefs": []
-               }
+               },
+               "counter": 3
           },
           "harmony in Saṅgha (saṅghasāmaggī)": {
                "as great happiness": {
@@ -25418,6 +25736,12 @@ export const indexObject ={
                          "MN69"
                     ],
                     "xrefs": []
+               },
+               "unskillful": {
+                    "locators": [
+                         "MN73"
+                    ],
+                    "xrefs": []
                }
           },
           "harsh speech, giving up": {
@@ -25432,6 +25756,12 @@ export const indexObject ={
                "causes skillful qualities to grow": {
                     "locators": [
                          "MN114"
+                    ],
+                    "xrefs": []
+               },
+               "skillful": {
+                    "locators": [
+                         "MN73"
                     ],
                     "xrefs": []
                }
@@ -25554,6 +25884,12 @@ export const indexObject ={
                "cause of bad actions": {
                     "locators": [
                          "AN10.47"
+                    ],
+                    "xrefs": []
+               },
+               "unskillful": {
+                    "locators": [
+                         "MN73"
                     ],
                     "xrefs": []
                }
@@ -25769,6 +26105,14 @@ export const indexObject ={
                     "xrefs": []
                }
           },
+          "hearing the Dhamma (dhammassavana)": {
+               "leads to remembering the Dhamma": {
+                    "locators": [
+                         "MN70"
+                    ],
+                    "xrefs": []
+               }
+          },
           "heart (citta)": {
                "": {
                     "locators": [],
@@ -25821,6 +26165,12 @@ export const indexObject ={
                "why some attain enlightenment through": {
                     "locators": [
                          "MN64"
+                    ],
+                    "xrefs": []
+               },
+               "Buddha’s knowledge of": {
+                    "locators": [
+                         "MN71"
                     ],
                     "xrefs": []
                }
@@ -26118,6 +26468,12 @@ export const indexObject ={
                          "MN64"
                     ],
                     "xrefs": []
+               },
+               "simile for the Dhamma": {
+                    "locators": [
+                         "MN72"
+                    ],
+                    "xrefs": []
                }
           },
           "heaven": {
@@ -26126,7 +26482,8 @@ export const indexObject ={
                          "Iti21"
                     ],
                     "xrefs": []
-               }
+               },
+               "counter": 1
           },
           "heaven (sagga)": {
                "vs. kingship": {
@@ -26268,7 +26625,8 @@ export const indexObject ={
                          "AN10.224"
                     ],
                     "xrefs": []
-               }
+               },
+               "counter": 2
           },
           "heavenly mansions (vimāna)": {
                "": {
@@ -26708,7 +27066,8 @@ export const indexObject ={
                          "Iti20"
                     ],
                     "xrefs": []
-               }
+               },
+               "counter": 1
           },
           "hell (niraya)": {
                "": {
@@ -26906,7 +27265,8 @@ export const indexObject ={
                          "AN10.224"
                     ],
                     "xrefs": []
-               }
+               },
+               "counter": 2
           },
           "Hell of Excrement": {
                "": {
@@ -27371,7 +27731,8 @@ export const indexObject ={
                          "AN3.26"
                     ],
                     "xrefs": []
-               }
+               },
+               "counter": 1
           },
           "honor (sakkāra)": {
                "wishing for": {
@@ -27405,7 +27766,8 @@ export const indexObject ={
                          "AN7.72"
                     ],
                     "xrefs": []
-               }
+               },
+               "counter": 2
           },
           "hope (āsa)": {
                "no need for": {
@@ -27595,7 +27957,8 @@ export const indexObject ={
                     "xrefs": [
                          "xref hatred (dosa)"
                     ]
-               }
+               },
+               "counter": 1
           },
           "hostility (upanāha)": {
                "without giving up, cannot become arahant": {
@@ -27616,7 +27979,8 @@ export const indexObject ={
                          "AN10.67"
                     ],
                     "xrefs": []
-               }
+               },
+               "counter": 2
           },
           "house builder": {
                "simile of": {
@@ -27841,6 +28205,12 @@ export const indexObject ={
                          "MN112"
                     ],
                     "xrefs": []
+               },
+               "Buddha has abandonded all": {
+                    "locators": [
+                         "MN72"
+                    ],
+                    "xrefs": []
                }
           },
           "“I might not be, and it might not be mine. I will not be, and it will not be mine” (no cassaṁ, no ca me siyā, na bhavissāmi, na me bhavissatī’ti)": {
@@ -27983,7 +28353,6 @@ export const indexObject ={
                "": {
                     "locators": [],
                     "xrefs": [
-                         "xref personal truths (paccekasacca)",
                          "xref personal truths (paccekasacca)"
                     ]
                }
@@ -28186,6 +28555,12 @@ export const indexObject ={
                          "MN64"
                     ],
                     "xrefs": []
+               },
+               "unskillful": {
+                    "locators": [
+                         "MN73"
+                    ],
+                    "xrefs": []
                }
           },
           "ill will, giving up": {
@@ -28217,6 +28592,12 @@ export const indexObject ={
                "loving-kindness": {
                     "locators": [
                          "MN62"
+                    ],
+                    "xrefs": []
+               },
+               "skillful": {
+                    "locators": [
+                         "MN73"
                     ],
                     "xrefs": []
                }
@@ -28284,6 +28665,14 @@ export const indexObject ={
                     ]
                }
           },
+          "immeasurable (appameyya)": {
+               "Buddha": {
+                    "locators": [
+                         "MN72"
+                    ],
+                    "xrefs": []
+               }
+          },
           "immeasurable deliverance of mind": {
                "": {
                     "locators": [],
@@ -28339,7 +28728,7 @@ export const indexObject ={
                }
           },
           "impermanence": {
-               "": {
+               "teachings do not get old": {
                     "locators": [
                          "Dhp151"
                     ],
@@ -28485,7 +28874,8 @@ export const indexObject ={
                          "MN62"
                     ],
                     "xrefs": []
-               }
+               },
+               "counter": 1
           },
           "impermanence meditation (aniccasaññābhāvanā)": {
                "monks committed to developing": {
@@ -28493,7 +28883,8 @@ export const indexObject ={
                          "MN118"
                     ],
                     "xrefs": []
-               }
+               },
+               "counter": 2
           },
           "impermanence, observing (aniccānupassī)": {
                "mindfulness of breathing": {
@@ -28674,17 +29065,15 @@ export const indexObject ={
                }
           },
           "impurity": {
+               "as purity": {
+                    "locators": [
+                         "Thag5.6"
+                    ],
+                    "xrefs": []
+               },
                "tenfold": {
                     "locators": [
                          "AN10.176"
-                    ],
-                    "xrefs": []
-               }
-          },
-          "impurity as purity": {
-               "": {
-                    "locators": [
-                         "Thag5.6"
                     ],
                     "xrefs": []
                }
@@ -28807,6 +29196,7 @@ export const indexObject ={
           "infinite (ananta)": {
                "world as": {
                     "locators": [
+                         "MN72",
                          "AN9.38"
                     ],
                     "xrefs": []
@@ -28878,7 +29268,8 @@ export const indexObject ={
                          "MN104"
                     ],
                     "xrefs": []
-               }
+               },
+               "counter": 1
           },
           "insanity (ummāda)": {
                "caused by thinking about inconceivable things": {
@@ -28886,7 +29277,8 @@ export const indexObject ={
                          "AN4.77"
                     ],
                     "xrefs": []
-               }
+               },
+               "counter": 2
           },
           "insects": {
                "enduring like elephant at head of battle": {
@@ -28897,8 +29289,9 @@ export const indexObject ={
                }
           },
           "insight (vipassanā)": {
-               "with serenity": {
+               "serenity and": {
                     "locators": [
+                         "MN73",
                          "MN149"
                     ],
                     "xrefs": []
@@ -28941,13 +29334,6 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "": {
-                    "locators": [],
-                    "xrefs": [
-                         "xref higher wisdom of insight into phenomena (adhipaññādhammavipassanā)",
-                         "xref insight (vipassanā)"
-                    ]
-               },
                "developed with direct knowledge": {
                     "locators": [
                          "SN45.159",
@@ -28961,9 +29347,21 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
+               "": {
+                    "locators": [],
+                    "xrefs": [
+                         "xref higher wisdom of insight into phenomena (adhipaññādhammavipassanā)"
+                    ]
+               },
                "being endowed with": {
                     "locators": [
                          "AN10.71"
+                    ],
+                    "xrefs": []
+               },
+               "leading to psychic powers": {
+                    "locators": [
+                         "MN73"
                     ],
                     "xrefs": []
                }
@@ -29068,20 +29466,22 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
+               "counter": 1
+          },
+          "insulting (akkosa)": {
                "person with right view": {
                     "locators": [
                          "AN6.54"
                     ],
                     "xrefs": []
-               }
-          },
-          "insulting (akkosa)": {
+               },
                "monastics": {
                     "locators": [
                          "AN8.87"
                     ],
                     "xrefs": []
-               }
+               },
+               "counter": 2
           },
           "integrity": {
                "doing what you say you will do": {
@@ -29131,25 +29531,6 @@ export const indexObject ={
                     "xrefs": []
                }
           },
-          "intention": {
-               "precedes all": {
-                    "locators": [
-                         "AN1.56",
-                         "AN1.57",
-                         "Dhp1"
-                    ],
-                    "xrefs": []
-               },
-               "": {
-                    "locators": [
-                         "Dhp2"
-                    ],
-                    "xrefs": [
-                         "xref formations (saṅkāra)",
-                         "xref right intention (sammā saṅkappa)"
-                    ]
-               }
-          },
           "intention (cetana)": {
                "jhānas and": {
                     "locators": [
@@ -29189,7 +29570,27 @@ export const indexObject ={
                          "MN56"
                     ],
                     "xrefs": []
-               }
+               },
+               "counter": 1
+          },
+          "intention (mano)": {
+               "precedes all": {
+                    "locators": [
+                         "AN1.56",
+                         "AN1.57",
+                         "Dhp1",
+                         "Dhp2"
+                    ],
+                    "xrefs": []
+               },
+               "": {
+                    "locators": [],
+                    "xrefs": [
+                         "xref formations (saṅkāra)",
+                         "xref right intention (sammā saṅkappa)"
+                    ]
+               },
+               "counter": 2
           },
           "intention (saṅkappa)": {
                "arise because of name and form": {
@@ -29245,7 +29646,8 @@ export const indexObject ={
                          "AN10.20"
                     ],
                     "xrefs": []
-               }
+               },
+               "counter": 3
           },
           "intentions of hate (paduṭṭhamanasaṅkappa)": {
                "definition": {
@@ -29305,12 +29707,16 @@ export const indexObject ={
           },
           "interpreted meaning": {
                "": {
-                    "locators": [
-                         "AN2.24"
-                    ],
+                    "locators": [],
                     "xrefs": [
                          "xref meaning (atthato)"
                     ]
+               },
+               "giving explicit meaning": {
+                    "locators": [
+                         "AN2.24"
+                    ],
+                    "xrefs": []
                }
           },
           "intolerance (akkhanti)": {
@@ -29380,6 +29786,12 @@ export const indexObject ={
                          "AN10.68"
                     ],
                     "xrefs": []
+               },
+               "leads to acceptance after consideration": {
+                    "locators": [
+                         "MN70"
+                    ],
+                    "xrefs": []
                }
           },
           "investigation-of-states enlightenment factor": {
@@ -29431,7 +29843,8 @@ export const indexObject ={
                          "AN10.87"
                     ],
                     "xrefs": []
-               }
+               },
+               "counter": 1
           },
           "irritability (kodhana)": {
                "": {
@@ -29445,7 +29858,8 @@ export const indexObject ={
                          "AN10.84"
                     ],
                     "xrefs": []
-               }
+               },
+               "counter": 2
           },
           "Isidatta, householder": {
                "non-celibate once returner": {
@@ -30148,7 +30562,8 @@ export const indexObject ={
                          "MN61"
                     ],
                     "xrefs": []
-               }
+               },
+               "counter": 1
           },
           "joy (somanassa)": {
                "towards sense contact": {
@@ -30156,7 +30571,8 @@ export const indexObject ={
                          "MN140"
                     ],
                     "xrefs": []
-               }
+               },
+               "counter": 2
           },
           "joy in the Dhamma (dhammārāma)": {
                "happiness in present life": {
@@ -30234,7 +30650,8 @@ export const indexObject ={
                          "AN10.75"
                     ],
                     "xrefs": []
-               }
+               },
+               "counter": 1
           },
           "judging (vinicchaya)": {
                "caused by gain": {
@@ -30248,7 +30665,8 @@ export const indexObject ={
                          "AN9.23"
                     ],
                     "xrefs": []
-               }
+               },
+               "counter": 2
           },
           "jungle": {
                "": {
@@ -30614,6 +31032,12 @@ export const indexObject ={
                          "MN56"
                     ],
                     "xrefs": []
+               },
+               "unskillful": {
+                    "locators": [
+                         "MN73"
+                    ],
+                    "xrefs": []
                }
           },
           "killing, giving up": {
@@ -30653,6 +31077,12 @@ export const indexObject ={
                "by not killing": {
                     "locators": [
                          "MN54"
+                    ],
+                    "xrefs": []
+               },
+               "skillful": {
+                    "locators": [
+                         "MN73"
                     ],
                     "xrefs": []
                }
@@ -31047,6 +31477,12 @@ export const indexObject ={
                          "MN51"
                     ],
                     "xrefs": []
+               },
+               "Buddha’s knowledge of": {
+                    "locators": [
+                         "MN71"
+                    ],
+                    "xrefs": []
                }
           },
           "knowledge of passing away and rebirth of beings (cutūpapātañāna)": {
@@ -31135,6 +31571,18 @@ export const indexObject ={
                          "MN54"
                     ],
                     "xrefs": []
+               },
+               "Buddha’s knowledge of": {
+                    "locators": [
+                         "MN71"
+                    ],
+                    "xrefs": []
+               },
+               "definition": {
+                    "locators": [
+                         "MN73"
+                    ],
+                    "xrefs": []
                }
           },
           "knowledge of past lives": {
@@ -31198,6 +31646,12 @@ export const indexObject ={
                "definition": {
                     "locators": [
                          "AN10.102"
+                    ],
+                    "xrefs": []
+               },
+               "correct way of describing Buddha’s attainment": {
+                    "locators": [
+                         "MN71"
                     ],
                     "xrefs": []
                }
@@ -31489,6 +31943,7 @@ export const indexObject ={
                "": {
                     "locators": [],
                     "xrefs": [
+                         "xref fetters of lay life (gihisaṁyojana)",
                          "xref wealth"
                     ]
                },
@@ -31653,6 +32108,30 @@ export const indexObject ={
                          "MN68"
                     ],
                     "xrefs": []
+               },
+               "rebirth in heaven": {
+                    "locators": [
+                         "MN71"
+                    ],
+                    "xrefs": []
+               },
+               "celibate": {
+                    "locators": [
+                         "MN73"
+                    ],
+                    "xrefs": []
+               },
+               "attaining levels of enlightenment": {
+                    "locators": [
+                         "MN73"
+                    ],
+                    "xrefs": []
+               },
+               "wearing white": {
+                    "locators": [
+                         "MN73"
+                    ],
+                    "xrefs": []
                }
           },
           "laziness (ālasya, anuṭṭhāna)": {
@@ -31661,7 +32140,8 @@ export const indexObject ={
                          "AN10.73"
                     ],
                     "xrefs": []
-               }
+               },
+               "counter": 1
           },
           "laziness (kosajja)": {
                "": {
@@ -31691,7 +32171,8 @@ export const indexObject ={
                          "AN10.76"
                     ],
                     "xrefs": []
-               }
+               },
+               "counter": 2
           },
           "laziness (kusīta)": {
                "thinking that leads to": {
@@ -31718,7 +32199,8 @@ export const indexObject ={
                          "AN11.13"
                     ],
                     "xrefs": []
-               }
+               },
+               "counter": 3
           },
           "leadership": {
                "": {
@@ -32162,7 +32644,8 @@ export const indexObject ={
                          "AN10.94"
                     ],
                     "xrefs": []
-               }
+               },
+               "counter": 1
           },
           "letting go (vossagga)": {
                "developing eightfold path based on": {
@@ -32170,7 +32653,8 @@ export const indexObject ={
                          "SN45.2"
                     ],
                     "xrefs": []
-               }
+               },
+               "counter": 2
           },
           "liberation (vimokkha)": {
                "noble": {
@@ -32417,6 +32901,18 @@ export const indexObject ={
                          "SN46.38"
                     ],
                     "xrefs": []
+               },
+               "": {
+                    "locators": [],
+                    "xrefs": [
+                         "xref listening to Dhamma"
+                    ]
+               },
+               "leads to hearing Dhamma": {
+                    "locators": [
+                         "MN70"
+                    ],
+                    "xrefs": []
                }
           },
           "listening to Dhamma": {
@@ -32445,7 +32941,8 @@ export const indexObject ={
                     ],
                     "xrefs": [
                          "xref Dhamma teaching",
-                         "xref learning"
+                         "xref learning",
+                         "xref listening attentively (ohitasota)"
                     ]
                },
                "real reason for": {
@@ -32895,7 +33392,8 @@ export const indexObject ={
                          "Ud2.7"
                     ],
                     "xrefs": []
-               }
+               },
+               "counter": 1
           },
           "loss (alābha)": {
                "worldly conditions": {
@@ -32903,7 +33401,8 @@ export const indexObject ={
                          "AN8.5"
                     ],
                     "xrefs": []
-               }
+               },
+               "counter": 2
           },
           "loss (pārijuñña, byasana)": {
                "reasons for going forth": {
@@ -32960,7 +33459,8 @@ export const indexObject ={
                          "AN5.130"
                     ],
                     "xrefs": []
-               }
+               },
+               "counter": 3
           },
           "lotus": {
                "simile for third jhāna": {
@@ -32988,7 +33488,8 @@ export const indexObject ={
                          "Dhp197"
                     ],
                     "xrefs": []
-               }
+               },
+               "counter": 1
           },
           "love (pema)": {
                "caused by love and hate": {
@@ -33008,7 +33509,8 @@ export const indexObject ={
                          "MN65"
                     ],
                     "xrefs": []
-               }
+               },
+               "counter": 2
           },
           "love (piya)": {
                "": {
@@ -33035,7 +33537,8 @@ export const indexObject ={
                          "AN11.15"
                     ],
                     "xrefs": []
-               }
+               },
+               "counter": 3
           },
           "love for the Dhamma (dhammakāma)": {
                "": {
@@ -33074,7 +33577,8 @@ export const indexObject ={
                          "AN11.14"
                     ],
                     "xrefs": []
-               }
+               },
+               "counter": 1
           },
           "love for the Dhamma (dhammanandi)": {
                "rebirth caused by": {
@@ -33089,7 +33593,8 @@ export const indexObject ={
                     "xrefs": [
                          "xref love for the Dhamma (dhammakāma)"
                     ]
-               }
+               },
+               "counter": 2
           },
           "love for the Dhamma (dhammarāga)": {
                "": {
@@ -33097,7 +33602,8 @@ export const indexObject ={
                     "xrefs": [
                          "xref passion for the Dhamma (dhammarāga)"
                     ]
-               }
+               },
+               "counter": 3
           },
           "loved ones": {
                "clinging to": {
@@ -33784,14 +34290,6 @@ export const indexObject ={
                     "xrefs": []
                }
           },
-          "Mahā Kaccāna": {
-               "teaches a hunter": {
-                    "locators": [
-                         "Vv63"
-                    ],
-                    "xrefs": []
-               }
-          },
           "Mahā Kassapa, Ven": {
                "qualities of": {
                     "locators": [
@@ -33865,6 +34363,12 @@ export const indexObject ={
                }
           },
           "Mahākaccāna, Ven.": {
+               "teaches a hunter": {
+                    "locators": [
+                         "Vv63"
+                    ],
+                    "xrefs": []
+               },
                "explaining brief statement": {
                     "locators": [
                          "MN133",
@@ -34407,6 +34911,14 @@ export const indexObject ={
                     "xrefs": []
                }
           },
+          "material things (āmisa)": {
+               "valuing": {
+                    "locators": [
+                         "MN70"
+                    ],
+                    "xrefs": []
+               }
+          },
           "Maṭṭakuṇḍalī": {
                "": {
                     "locators": [
@@ -34671,7 +35183,8 @@ export const indexObject ={
                          "MN62"
                     ],
                     "xrefs": []
-               }
+               },
+               "counter": 1
           },
           "meditation (jhāyati)": {
                "": {
@@ -34709,7 +35222,8 @@ export const indexObject ={
                          "AN10.71"
                     ],
                     "xrefs": []
-               }
+               },
+               "counter": 2
           },
           "meditation (yoga)": {
                "knowing right time for": {
@@ -34717,7 +35231,8 @@ export const indexObject ={
                          "AN7.68"
                     ],
                     "xrefs": []
-               }
+               },
+               "counter": 3
           },
           "meditation on ugliness (asubhabhāvanā)": {
                "monks committed to developing": {
@@ -35801,6 +36316,7 @@ export const indexObject ={
                },
                "description of": {
                     "locators": [
+                         "MN73",
                          "AN3.60"
                     ],
                     "xrefs": []
@@ -36199,7 +36715,8 @@ export const indexObject ={
                          "AN9.11"
                     ],
                     "xrefs": []
-               }
+               },
+               "counter": 1
           },
           "mindfulness of body (kāyānupassana)": {
                "mindfulness of breathing": {
@@ -36226,7 +36743,8 @@ export const indexObject ={
                          "AN8.63"
                     ],
                     "xrefs": []
-               }
+               },
+               "counter": 2
           },
           "mindfulness of breathing (ānāpānassati)": {
                "to cut off thinking": {
@@ -36424,6 +36942,14 @@ export const indexObject ={
                          "AN8.63"
                     ],
                     "xrefs": []
+               }
+          },
+          "mine-making (mamaṅkāra)": {
+               "": {
+                    "locators": [],
+                    "xrefs": [
+                         "xref possessiveness (mamaṅkāra)"
+                    ]
                }
           },
           "miracle of instruction (anusāsanīpāṭihāriya)": {
@@ -37552,7 +38078,8 @@ export const indexObject ={
                          "MN139"
                     ],
                     "xrefs": []
-               }
+               },
+               "counter": 1
           },
           "mortification (tapojigucchā)": {
                "uselessness of": {
@@ -37603,7 +38130,8 @@ export const indexObject ={
                          "AN10.94"
                     ],
                     "xrefs": []
-               }
+               },
+               "counter": 2
           },
           "mortifying others (parantapo)": {
                "people who do": {
@@ -38026,7 +38554,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "simile of lamp going out": {
+               "like lamp going out": {
                     "locators": [
                          "Kp6"
                     ],
@@ -38177,6 +38705,12 @@ export const indexObject ={
                "awakening factors": {
                     "locators": [
                          "SN46.20"
+                    ],
+                    "xrefs": []
+               },
+               "like flame going out": {
+                    "locators": [
+                         "MN72"
                     ],
                     "xrefs": []
                }
@@ -39075,10 +39609,26 @@ export const indexObject ={
                     "xrefs": []
                }
           },
+          "non-delusion (amoho)": {
+               "skillful": {
+                    "locators": [
+                         "MN73"
+                    ],
+                    "xrefs": []
+               }
+          },
           "non-Dhamma (adhamma)": {
                "definition": {
                     "locators": [
                          "AN10.113"
+                    ],
+                    "xrefs": []
+               }
+          },
+          "non-greed (alobha)": {
+               "skillful": {
+                    "locators": [
+                         "MN73"
                     ],
                     "xrefs": []
                }
@@ -39089,7 +39639,17 @@ export const indexObject ={
                          "Dhp5"
                     ],
                     "xrefs": []
-               }
+               },
+               "counter": 1
+          },
+          "non-hatred (adosa)": {
+               "skillful": {
+                    "locators": [
+                         "MN73"
+                    ],
+                    "xrefs": []
+               },
+               "counter": 2
           },
           "non-humans (amanussa)": {
                "loving-kindness makes non-humans love you": {
@@ -39348,6 +39908,18 @@ export const indexObject ={
                          "MN68"
                     ],
                     "xrefs": []
+               },
+               "result for faithful disciple": {
+                    "locators": [
+                         "MN70"
+                    ],
+                    "xrefs": []
+               },
+               "celibate lay disciples": {
+                    "locators": [
+                         "MN73"
+                    ],
+                    "xrefs": []
                }
           },
           "non-worldly": {
@@ -39355,6 +39927,14 @@ export const indexObject ={
                     "locators": [],
                     "xrefs": [
                          "xref spiritual (nirāmisa)"
+                    ]
+               }
+          },
+          "nonsensical speech": {
+               "": {
+                    "locators": [],
+                    "xrefs": [
+                         "xref useless speech (samphappalāpa)"
                     ]
                }
           },
@@ -39541,6 +40121,18 @@ export const indexObject ={
                          "AN10.62"
                     ],
                     "xrefs": []
+               },
+               "simile for the Buddha": {
+                    "locators": [
+                         "MN72"
+                    ],
+                    "xrefs": []
+               },
+               "": {
+                    "locators": [],
+                    "xrefs": [
+                         "xref Ganges river"
+                    ]
                }
           },
           "offences against monastic rules (āpatti)": {
@@ -39809,6 +40401,14 @@ export const indexObject ={
                     "locators": [
                          "MN130",
                          "AN3.36"
+                    ],
+                    "xrefs": []
+               }
+          },
+          "omnicience": {
+               "is knowledge and vision constantly present": {
+                    "locators": [
+                         "MN71"
                     ],
                     "xrefs": []
                }
@@ -40314,7 +40914,8 @@ export const indexObject ={
                          "AN9.11"
                     ],
                     "xrefs": []
-               }
+               },
+               "counter": 1
           },
           "outcast (vasala)": {
                "accusation of being": {
@@ -40328,7 +40929,8 @@ export const indexObject ={
                          "Snp1.7"
                     ],
                     "xrefs": []
-               }
+               },
+               "counter": 2
           },
           "outward appearance deceiving": {
                "": {
@@ -40552,7 +41154,8 @@ export const indexObject ={
                          "AN10.71"
                     ],
                     "xrefs": []
-               }
+               },
+               "counter": 1
           },
           "painful feelings (dukkhavedanā)": {
                "skillful and unskillful qualities growing or decreasing": {
@@ -40560,7 +41163,8 @@ export const indexObject ={
                          "MN70"
                     ],
                     "xrefs": []
-               }
+               },
+               "counter": 2
           },
           "painful practice (dukkhā paṭipadā)": {
                "with slow insight": {
@@ -40616,6 +41220,18 @@ export const indexObject ={
                "cut off, simile of Buddha’s defilements cut off": {
                     "locators": [
                          "MN68"
+                    ],
+                    "xrefs": []
+               },
+               "cut off, simile of Buddha’s five aggregates cut off": {
+                    "locators": [
+                         "MN72"
+                    ],
+                    "xrefs": []
+               },
+               "cut off, simile of craving cut off": {
+                    "locators": [
+                         "MN73"
                     ],
                     "xrefs": []
                }
@@ -40888,6 +41504,18 @@ export const indexObject ={
                          "MN54"
                     ],
                     "xrefs": []
+               },
+               "Buddha’s knowledge of": {
+                    "locators": [
+                         "MN71"
+                    ],
+                    "xrefs": []
+               },
+               "definition": {
+                    "locators": [
+                         "MN73"
+                    ],
+                    "xrefs": []
                }
           },
           "past, present, future": {
@@ -41069,6 +41697,14 @@ export const indexObject ={
                "helped by awakening factors": {
                     "locators": [
                          "SN46.28"
+                    ],
+                    "xrefs": []
+               }
+          },
+          "penetration of many elements (anekadhātupaṭivedha)": {
+               "from serenity and insight": {
+                    "locators": [
+                         "MN73"
                     ],
                     "xrefs": []
                }
@@ -42517,6 +43153,14 @@ export const indexObject ={
                     "xrefs": []
                }
           },
+          "possessiveness (mamaṅkāra)": {
+               "Buddha has abandonded all": {
+                    "locators": [
+                         "MN72"
+                    ],
+                    "xrefs": []
+               }
+          },
           "possible and impossible (ṭhāna aṭṭhāna)": {
                "skilled in what is": {
                     "locators": [
@@ -42695,7 +43339,8 @@ export const indexObject ={
                          "AN7.3"
                     ],
                     "xrefs": []
-               }
+               },
+               "counter": 1
           },
           "powers (bala)": {
                "": {
@@ -42776,7 +43421,8 @@ export const indexObject ={
                          "AN10.90"
                     ],
                     "xrefs": []
-               }
+               },
+               "counter": 2
           },
           "powers of a Tathāgata (tathāgatabala)": {
                "faith, conscience, prudence, energy, and wisdom": {
@@ -43054,7 +43700,8 @@ export const indexObject ={
                          "AN6.42"
                     ],
                     "xrefs": []
-               }
+               },
+               "counter": 1
           },
           "praise (pasaṁsā)": {
                "worldly conditions": {
@@ -43068,7 +43715,8 @@ export const indexObject ={
                          "AN10.70"
                     ],
                     "xrefs": []
-               }
+               },
+               "counter": 2
           },
           "praise (vaṇṇa)": {
                "of good or bad deeds": {
@@ -43076,7 +43724,8 @@ export const indexObject ={
                          "AN10.224"
                     ],
                     "xrefs": []
-               }
+               },
+               "counter": 3
           },
           "praise and blame": {
                "": {
@@ -43425,10 +44074,11 @@ export const indexObject ={
                     "xrefs": []
                }
           },
-          "probation": {
+          "probation (parivāsa)": {
                "for followers of other sects": {
                     "locators": [
-                         "MN57"
+                         "MN57",
+                         "MN73"
                     ],
                     "xrefs": []
                }
@@ -43601,7 +44251,8 @@ export const indexObject ={
                          "MN82"
                     ],
                     "xrefs": []
-               }
+               },
+               "counter": 1
           },
           "protection (ārakkha)": {
                "definition": {
@@ -43627,7 +44278,8 @@ export const indexObject ={
                          "AN9.23"
                     ],
                     "xrefs": []
-               }
+               },
+               "counter": 2
           },
           "protective chanting (paritta)": {
                "Khanda Paritta": {
@@ -43770,6 +44422,18 @@ export const indexObject ={
                "reducing Nālanda to ruins": {
                     "locators": [
                          "MN56"
+                    ],
+                    "xrefs": []
+               },
+               "from serenity and insight": {
+                    "locators": [
+                         "MN73"
+                    ],
+                    "xrefs": []
+               },
+               "explanation of": {
+                    "locators": [
+                         "MN73"
                     ],
                     "xrefs": []
                }
@@ -43955,7 +44619,8 @@ export const indexObject ={
                          "AN10.176"
                     ],
                     "xrefs": []
-               }
+               },
+               "counter": 1
           },
           "purity (suddhi, pārisuddhi)": {
                "": {
@@ -43993,7 +44658,8 @@ export const indexObject ={
                          "AN7.70"
                     ],
                     "xrefs": []
-               }
+               },
+               "counter": 2
           },
           "pursuing gain with gain (lābhena ca lābhaṁ)": {
                "senior monastics": {
@@ -44838,6 +45504,18 @@ export const indexObject ={
                          "MN68"
                     ],
                     "xrefs": []
+               },
+               "“reborn” doesn’t apply": {
+                    "locators": [
+                         "MN72"
+                    ],
+                    "xrefs": []
+               },
+               "ending like flame going out": {
+                    "locators": [
+                         "MN72"
+                    ],
+                    "xrefs": []
                }
           },
           "receiving gifts": {
@@ -45391,7 +46069,8 @@ export const indexObject ={
                          "MN51"
                     ],
                     "xrefs": []
-               }
+               },
+               "counter": 1
           },
           "reflection (paṭisaṅkhā)": {
                "power of": {
@@ -45425,6 +46104,15 @@ export const indexObject ={
                          "AN10.101"
                     ],
                     "xrefs": []
+               },
+               "counter": 2
+          },
+          "reflection on meaning (atthūpaparikkhā)": {
+               "": {
+                    "locators": [],
+                    "xrefs": [
+                         "xref investigation of meaning (atthūpaparikkhā)"
+                    ]
                }
           },
           "reflective acceptance of a view (diṭṭhinijjhānakkhanta)": {
@@ -45719,6 +46407,12 @@ export const indexObject ={
                "cause of forgetting": {
                     "locators": [
                          "SN46.55"
+                    ],
+                    "xrefs": []
+               },
+               "leads to reflecting on the meaning": {
+                    "locators": [
+                         "MN70"
                     ],
                     "xrefs": []
                }
@@ -47721,7 +48415,8 @@ export const indexObject ={
                          "AN10.71"
                     ],
                     "xrefs": []
-               }
+               },
+               "counter": 1
           },
           "rudeness (pagabbha)": {
                "leading to hell": {
@@ -47729,7 +48424,8 @@ export const indexObject ={
                          "AN6.82"
                     ],
                     "xrefs": []
-               }
+               },
+               "counter": 2
           },
           "rumors": {
                "": {
@@ -47833,7 +48529,8 @@ export const indexObject ={
                          "MN137"
                     ],
                     "xrefs": []
-               }
+               },
+               "counter": 1
           },
           "sadness (domanassa)": {
                "as first noble truth": {
@@ -47847,7 +48544,8 @@ export const indexObject ={
                          "MN141"
                     ],
                     "xrefs": []
-               }
+               },
+               "counter": 2
           },
           "sadness and happiness": {
                "": {
@@ -48723,6 +49421,14 @@ export const indexObject ={
                     "xrefs": []
                }
           },
+          "scrutinizing (tulana)": {
+               "leads to striving": {
+                    "locators": [
+                         "MN70"
+                    ],
+                    "xrefs": []
+               }
+          },
           "searches (esana, pariyesana)": {
                "three types": {
                     "locators": [
@@ -48867,7 +49573,8 @@ export const indexObject ={
                          "AN10.48"
                     ],
                     "xrefs": []
-               }
+               },
+               "counter": 1
           },
           "seclusion (paṭisallīna, vivitta)": {
                "part of gradual training": {
@@ -48943,7 +49650,8 @@ export const indexObject ={
                          "MN65"
                     ],
                     "xrefs": []
-               }
+               },
+               "counter": 2
           },
           "seclusion (paviveka)": {
                "teachings that lead to are true Dhamma": {
@@ -48999,7 +49707,8 @@ export const indexObject ={
                          "SN45.4"
                     ],
                     "xrefs": []
-               }
+               },
+               "counter": 3
           },
           "second jhāna": {
                "applied and sustained thought ceases": {
@@ -49765,7 +50474,8 @@ export const indexObject ={
                          "SN46.55"
                     ],
                     "xrefs": []
-               }
+               },
+               "counter": 1
           },
           "sense desire (kāmarāga)": {
                "time to see esteemed mendicant": {
@@ -49791,7 +50501,8 @@ export const indexObject ={
                          "MN64"
                     ],
                     "xrefs": []
-               }
+               },
+               "counter": 2
           },
           "sense doors, guarding (indriyesu guttadvāra)": {
                "part of gradual training": {
@@ -50632,22 +51343,18 @@ export const indexObject ={
                }
           },
           "serenity (samatha)": {
-               "with insight": {
+               "insight and": {
                     "locators": [
-                         "MN149"
+                         "MN73",
+                         "MN149",
+                         "AN2.31",
+                         "AN4.170"
                     ],
                     "xrefs": []
                },
                "investigating the mind to see if it is developed": {
                     "locators": [
                          "MN151"
-                    ],
-                    "xrefs": []
-               },
-               "and insight": {
-                    "locators": [
-                         "AN2.31",
-                         "AN4.170"
                     ],
                     "xrefs": []
                },
@@ -50682,12 +51389,26 @@ export const indexObject ={
                          "AN6.116"
                     ],
                     "xrefs": []
+               },
+               "leading to psychic powers": {
+                    "locators": [
+                         "MN73"
+                    ],
+                    "xrefs": []
                }
           },
           "serenity of mind, heart (cetosamādhi)": {
                "not enough just to have": {
                     "locators": [
                          "AN9.4"
+                    ],
+                    "xrefs": []
+               }
+          },
+          "serving (pariciṇṇa)": {
+               "“serving the Buddha” as code for declaring enlightenment": {
+                    "locators": [
+                         "MN73"
                     ],
                     "xrefs": []
                }
@@ -50883,6 +51604,12 @@ export const indexObject ={
                          "AN8.40"
                     ],
                     "xrefs": []
+               },
+               "unskillful": {
+                    "locators": [
+                         "MN73"
+                    ],
+                    "xrefs": []
                }
           },
           "sexual misconduct, giving up": {
@@ -50896,6 +51623,12 @@ export const indexObject ={
                "causes skillful qualities to grow": {
                     "locators": [
                          "MN114"
+                    ],
+                    "xrefs": []
+               },
+               "skillful": {
+                    "locators": [
+                         "MN73"
                     ],
                     "xrefs": []
                }
@@ -51112,7 +51845,8 @@ export const indexObject ={
                          "AN10.88"
                     ],
                     "xrefs": []
-               }
+               },
+               "counter": 1
           },
           "sickness (roga)": {
                "term for sense pleasures": {
@@ -51120,7 +51854,8 @@ export const indexObject ={
                          "AN8.56"
                     ],
                     "xrefs": []
-               }
+               },
+               "counter": 2
           },
           "sign (nimitta)": {
                "of sense object": {
@@ -51676,6 +52411,12 @@ export const indexObject ={
                          "AN10.54"
                     ],
                     "xrefs": []
+               },
+               "in brief": {
+                    "locators": [
+                         "MN73"
+                    ],
+                    "xrefs": []
                }
           },
           "slaves": {
@@ -52132,7 +52873,8 @@ export const indexObject ={
                          "AN5.50"
                     ],
                     "xrefs": []
-               }
+               },
+               "counter": 1
           },
           "sorrow (soka)": {
                "as first noble truth": {
@@ -52146,7 +52888,8 @@ export const indexObject ={
                          "MN141"
                     ],
                     "xrefs": []
-               }
+               },
+               "counter": 2
           },
           "sorrowless (asoka)": {
                "mind that is": {
@@ -52164,10 +52907,11 @@ export const indexObject ={
                     ]
                }
           },
-          "soul": {
+          "soul (jīva)": {
                "body and": {
                     "locators": [
-                         "MN63"
+                         "MN63",
+                         "MN72"
                     ],
                     "xrefs": []
                }
@@ -52271,6 +53015,12 @@ export const indexObject ={
                     "xrefs": [
                          "xref undeclared (abyākata)"
                     ]
+               },
+               "Buddha has done away with": {
+                    "locators": [
+                         "MN72"
+                    ],
+                    "xrefs": []
                }
           },
           "speech": {
@@ -53245,6 +53995,12 @@ export const indexObject ={
                     "xrefs": [
                          "xref bodily action (kāyakamma)"
                     ]
+               },
+               "unskillful": {
+                    "locators": [
+                         "MN73"
+                    ],
+                    "xrefs": []
                }
           },
           "stealing, giving up": {
@@ -53271,6 +54027,12 @@ export const indexObject ={
                "by not stealing": {
                     "locators": [
                          "MN54"
+                    ],
+                    "xrefs": []
+               },
+               "skillful": {
+                    "locators": [
+                         "MN73"
                     ],
                     "xrefs": []
                }
@@ -53668,7 +54430,23 @@ export const indexObject ={
                     "xrefs": [
                          "xref right effort (sammā vāyāma)"
                     ]
-               }
+               },
+               "leads to direct realization": {
+                    "locators": [
+                         "MN70"
+                    ],
+                    "xrefs": []
+               },
+               "counter": 1
+          },
+          "striving (ussāha)": {
+               "leads to scrutinizing": {
+                    "locators": [
+                         "MN70"
+                    ],
+                    "xrefs": []
+               },
+               "counter": 2
           },
           "strong person": {
                "snapping fingers as simile for controlling the mind": {
@@ -54525,6 +55303,7 @@ export const indexObject ={
                },
                "ending of": {
                     "locators": [
+                         "MN73",
                          "SN45.7"
                     ],
                     "xrefs": []
@@ -54578,7 +55357,8 @@ export const indexObject ={
                     "xrefs": [
                          "xref socializing"
                     ]
-               }
+               },
+               "counter": 1
           },
           "talk (bhassa)": {
                "leading to mendicant’s decline": {
@@ -54599,7 +55379,8 @@ export const indexObject ={
                          "AN10.86"
                     ],
                     "xrefs": []
-               }
+               },
+               "counter": 2
           },
           "talk (kathā)": {
                "": {
@@ -54628,7 +55409,8 @@ export const indexObject ={
                          "MN122"
                     ],
                     "xrefs": []
-               }
+               },
+               "counter": 3
           },
           "talking without doing": {
                "": {
@@ -54682,6 +55464,7 @@ export const indexObject ={
                "existing after death": {
                     "locators": [
                          "MN63",
+                         "MN72",
                          "Ud6.4"
                     ],
                     "xrefs": []
@@ -54695,6 +55478,24 @@ export const indexObject ={
                "definition": {
                     "locators": [
                          "Iti112"
+                    ],
+                    "xrefs": []
+               },
+               "terms for": {
+                    "locators": [
+                         "AN8.85"
+                    ],
+                    "xrefs": []
+               },
+               "": {
+                    "locators": [],
+                    "xrefs": [
+                         "xref Buddhas"
+                    ]
+               },
+               "deep, immeasurable, hard to fathom": {
+                    "locators": [
+                         "MN72"
                     ],
                     "xrefs": []
                }
@@ -54726,6 +55527,20 @@ export const indexObject ={
                     "locators": [
                          "MN52",
                          "AN11.16"
+                    ],
+                    "xrefs": []
+               }
+          },
+          "Teacher’s instruction (satthusāsana)": {
+               "nourishing for a faithful disciple": {
+                    "locators": [
+                         "MN70"
+                    ],
+                    "xrefs": []
+               },
+               "being independent in": {
+                    "locators": [
+                         "MN73"
                     ],
                     "xrefs": []
                }
@@ -54791,6 +55606,12 @@ export const indexObject ={
                "leading to disrobing": {
                     "locators": [
                          "AN6.60"
+                    ],
+                    "xrefs": []
+               },
+               "behaviour of students": {
+                    "locators": [
+                         "MN70"
                     ],
                     "xrefs": []
                }
@@ -55461,7 +56282,8 @@ export const indexObject ={
                          "AN7.70"
                     ],
                     "xrefs": []
-               }
+               },
+               "counter": 1
           },
           "training (sikkhā)": {
                "breaking five precepts as weakness when training": {
@@ -55501,7 +56323,8 @@ export const indexObject ={
                          "MN65"
                     ],
                     "xrefs": []
-               }
+               },
+               "counter": 2
           },
           "training (vinaya)": {
                "Vinaya helps support": {
@@ -55509,7 +56332,8 @@ export const indexObject ={
                          "AN10.31"
                     ],
                     "xrefs": []
-               }
+               },
+               "counter": 3
           },
           "training of the Noble One (ariya vinaya)": {
                "asking forgiveness": {
@@ -56745,7 +57569,8 @@ export const indexObject ={
                          "AN6.39"
                     ],
                     "xrefs": []
-               }
+               },
+               "counter": 1
           },
           "unwholesome roots (rāga, dosa, moha)": {
                "cause of bad sleep": {
@@ -56790,7 +57615,8 @@ export const indexObject ={
                     "xrefs": [
                          "xref unwholesome roots (lobha, dosa, moha)"
                     ]
-               }
+               },
+               "counter": 2
           },
           "unwise (dupañño)": {
                "sign of decline": {
@@ -57127,7 +57953,14 @@ export const indexObject ={
                     "xrefs": [
                          "xref verbal formations (vacīsaṅkhāra)"
                     ]
-               }
+               },
+               "unskillful": {
+                    "locators": [
+                         "MN73"
+                    ],
+                    "xrefs": []
+               },
+               "counter": 1
           },
           "useless speech (tiracāna)": {
                "": {
@@ -57159,7 +57992,8 @@ export const indexObject ={
                          "AN10.69"
                     ],
                     "xrefs": []
-               }
+               },
+               "counter": 2
           },
           "useless speech, giving up": {
                "definition": {
@@ -57173,6 +58007,12 @@ export const indexObject ={
                "causes skillful qualities to grow": {
                     "locators": [
                          "MN114"
+                    ],
+                    "xrefs": []
+               },
+               "skillful": {
+                    "locators": [
+                         "MN73"
                     ],
                     "xrefs": []
                }
@@ -57241,6 +58081,24 @@ export const indexObject ={
                "asking about giving": {
                     "locators": [
                          "AN3.57"
+                    ],
+                    "xrefs": []
+               },
+               "asking about omnicience": {
+                    "locators": [
+                         "MN71"
+                    ],
+                    "xrefs": []
+               },
+               "asking about views and rebirth": {
+                    "locators": [
+                         "MN72"
+                    ],
+                    "xrefs": []
+               },
+               "ordination and enlightenment": {
+                    "locators": [
+                         "MN73"
                     ],
                     "xrefs": []
                }
@@ -57522,6 +58380,18 @@ export const indexObject ={
                          "MN60"
                     ],
                     "xrefs": []
+               },
+               "thicket of, etc.": {
+                    "locators": [
+                         "MN72"
+                    ],
+                    "xrefs": []
+               },
+               "that don’t lead to enlightenment": {
+                    "locators": [
+                         "MN72"
+                    ],
+                    "xrefs": []
                }
           },
           "views about the future": {
@@ -57639,6 +58509,12 @@ export const indexObject ={
                          "AN10.29"
                     ],
                     "xrefs": []
+               },
+               "empty of the chance to go to heaven": {
+                    "locators": [
+                         "MN71"
+                    ],
+                    "xrefs": []
                }
           },
           "vigor (ussoḷi)": {
@@ -57685,7 +58561,8 @@ export const indexObject ={
                          "AN8.86"
                     ],
                     "xrefs": []
-               }
+               },
+               "counter": 1
           },
           "villages (gāma)": {
                "to associate with": {
@@ -57707,7 +58584,8 @@ export const indexObject ={
                          "AN10.69"
                     ],
                     "xrefs": []
-               }
+               },
+               "counter": 2
           },
           "Vinaya": {
                "": {
@@ -58508,6 +59386,12 @@ export const indexObject ={
                "meditation like": {
                     "locators": [
                          "MN62"
+                    ],
+                    "xrefs": []
+               },
+               "walking on": {
+                    "locators": [
+                         "MN73"
                     ],
                     "xrefs": []
                }
@@ -59457,7 +60341,8 @@ export const indexObject ={
                          "AN10.67"
                     ],
                     "xrefs": []
-               }
+               },
+               "counter": 1
           },
           "wisdom (paññā)": {
                "meditation and": {
@@ -59796,7 +60681,8 @@ export const indexObject ={
                          "MN69"
                     ],
                     "xrefs": []
-               }
+               },
+               "counter": 2
           },
           "wisdom, higher (adhipaññā)": {
                "being able to encourage in as qualification to ordain monastics": {
@@ -59872,7 +60758,8 @@ export const indexObject ={
                          "MN126"
                     ],
                     "xrefs": []
-               }
+               },
+               "counter": 1
           },
           "wish (cetana)": {
                "": {
@@ -59880,7 +60767,8 @@ export const indexObject ={
                     "xrefs": [
                          "xref intention (cetana)"
                     ]
-               }
+               },
+               "counter": 2
           },
           "wishing (ākaṅkhati)": {
                "for various attainments": {
@@ -59888,7 +60776,8 @@ export const indexObject ={
                          "AN10.71"
                     ],
                     "xrefs": []
-               }
+               },
+               "counter": 1
           },
           "wishing (iccha)": {
                "wishing not to die, etc. in first noble truth": {
@@ -59915,7 +60804,8 @@ export const indexObject ={
                          "AN8.61"
                     ],
                     "xrefs": []
-               }
+               },
+               "counter": 2
           },
           "wishing (patthana)": {
                "doesn’t bring results": {
@@ -59924,7 +60814,8 @@ export const indexObject ={
                          "AN5.43"
                     ],
                     "xrefs": []
-               }
+               },
+               "counter": 3
           },
           "without a partner (adutio)": {
                "": {
@@ -60484,7 +61375,8 @@ export const indexObject ={
                          "AN11.9"
                     ],
                     "xrefs": []
-               }
+               },
+               "counter": 1
           },
           "worshiping (payirupāsati)": {
                "carefully": {
@@ -60500,7 +61392,14 @@ export const indexObject ={
                          "AN10.83"
                     ],
                     "xrefs": []
-               }
+               },
+               "leads to listening": {
+                    "locators": [
+                         "MN70"
+                    ],
+                    "xrefs": []
+               },
+               "counter": 2
           },
           "worshiping (pūja)": {
                "who deserves": {
@@ -60527,7 +61426,8 @@ export const indexObject ={
                          "AN11.17"
                     ],
                     "xrefs": []
-               }
+               },
+               "counter": 3
           },
           "worshiping (vandati)": {
                "leading to heaven": {
@@ -60549,7 +61449,8 @@ export const indexObject ={
                          "AN3.154"
                     ],
                     "xrefs": []
-               }
+               },
+               "counter": 4
           },
           "wounds": {
                "simile for six internal sense bases": {
@@ -60837,7 +61738,8 @@ export const indexObject ={
                          "Pv2"
                     ],
                     "xrefs": []
-               }
+               },
+               "counter": 1
           },
           "wrong speech (micchā vācā)": {
                "results of": {
@@ -60906,7 +61808,8 @@ export const indexObject ={
                          "MN60"
                     ],
                     "xrefs": []
-               }
+               },
+               "counter": 2
           },
           "wrong view (micchā diṭṭhi)": {
                "": {
@@ -61054,6 +61957,20 @@ export const indexObject ={
                          "MN60"
                     ],
                     "xrefs": []
+               },
+               "unskillful": {
+                    "locators": [
+                         "MN73"
+                    ],
+                    "xrefs": []
+               }
+          },
+          "wrong view, giving up": {
+               "skillful": {
+                    "locators": [
+                         "MN73"
+                    ],
+                    "xrefs": []
                }
           },
           "wrong views": {
@@ -61135,7 +62052,8 @@ export const indexObject ={
                          "AN10.20"
                     ],
                     "xrefs": []
-               }
+               },
+               "counter": 1
           },
           "wrong views (diṭṭhigata)": {
                "being able to dispel as qualification to ordain monastics": {
@@ -61143,7 +62061,14 @@ export const indexObject ={
                          "AN10.34"
                     ],
                     "xrefs": []
-               }
+               },
+               "Buddha has done away with": {
+                    "locators": [
+                         "MN72"
+                    ],
+                    "xrefs": []
+               },
+               "counter": 2
           },
           "wrongly directed mind": {
                "cause of bad actions": {
@@ -61271,6 +62196,12 @@ export const indexObject ={
                "for giving up bad qualities": {
                     "locators": [
                          "AN10.51"
+                    ],
+                    "xrefs": []
+               },
+               "leads to effort/striving": {
+                    "locators": [
+                         "MN70"
                     ],
                     "xrefs": []
                }

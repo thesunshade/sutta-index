@@ -3,7 +3,7 @@ const fs = require("fs");
 
 let locatorFirstArray = [];
 let rawIndexArray = [];
-let newObjectKeys;
+let alphabetKeys;
 const newObject = {
   A: {},
   B: {},
@@ -261,10 +261,6 @@ function createIndexObject() {
       alphabetGroupedObject[firstRealLetter][head] = { [sub]: { locators: [], xrefs: [] } };
       if (/xref/.test(locator)) {
         alphabetGroupedObject[firstRealLetter][head][sub].xrefs.push(locator);
-
-        // if (!listOfHeadwords.includes(locator)){
-        //   console.log(locator)
-        // }
       } else {
         alphabetGroupedObject[firstRealLetter][head][sub].locators.push(locator);
       }
@@ -293,7 +289,6 @@ function createIndexObject() {
   const alphabetArray = Object.keys(alphabetGroupedObject);
   for (let a = 0; a < alphabetArray.length; a++) {
     const headwords = Object.keys(alphabetGroupedObject[alphabetArray[a]]);
-
     const alphabetObject = alphabetGroupedObject[alphabetArray[a]];
 
     for (let i = 0; i < headwords.length; i++) {
@@ -317,14 +312,47 @@ function createIndexObject() {
     });
   }
 
-  newObjectKeys = Object.keys(newObject);
-
-  for (let i = 0; i < newObjectKeys.length; i++) {
-    const unsortHeadwObj = alphabetGroupedObject[newObjectKeys[i]];
+  alphabetKeys = Object.keys(newObject);
+  for (let i = 0; i < alphabetKeys.length; i++) {
+    const unsortHeadwObj = alphabetGroupedObject[alphabetKeys[i]];
     const sortedHeadwObjArr = sortedKeys(unsortHeadwObj);
-    // console.log(sortedHeadwObjArr);
     for (let x = 0; x < sortedHeadwObjArr.length; x++) {
-      newObject[newObjectKeys[i]][sortedHeadwObjArr[x]] = alphabetGroupedObject[newObjectKeys[i]][sortedHeadwObjArr[x]];
+      newObject[alphabetKeys[i]][sortedHeadwObjArr[x]] = alphabetGroupedObject[alphabetKeys[i]][sortedHeadwObjArr[x]];
+    }
+  }
+
+  // const object = `export const indexObject =${JSON.stringify(newObject, null, 5)}`;
+
+  // try {
+  //   fs.writeFileSync("./src/data/index-object.js", object);
+  //   console.log("indexObject written");
+  // } catch (err) {
+  //   console.error(err);
+  // }
+
+  function getRootHeadword(headword) {
+    return headword.replace(/ \(.+?\)/, "");
+  }
+
+  for (let i = 0; i < alphabetKeys.length; i++) {
+    const letter = alphabetKeys[i];
+    const headwords = Object.keys(newObject[letter]);
+    let counter = 1;
+    for (let x = 0; x < headwords.length - 1; x++) {
+      const currentHeadword = headwords[x];
+      const currentRootHeadword = getRootHeadword(headwords[x]);
+      const nextRootHeadword = getRootHeadword(headwords[x + 1]);
+      if (currentRootHeadword === nextRootHeadword) {
+        newObject[letter][currentHeadword].counter = counter;
+        counter++;
+      } else if (x > 0) {
+        const previousRootHeadword = getRootHeadword(headwords[x - 1]);
+        if (currentRootHeadword === previousRootHeadword) {
+          newObject[letter][currentHeadword].counter = counter;
+          counter = 1;
+        }
+      }
+      // console.log(getRootHeadword(headwords[x]));
     }
   }
 
@@ -340,8 +368,8 @@ function createIndexObject() {
 
 function createHeadingsArray() {
   let listOfHeadwords = [];
-  for (let i = 0; i < newObjectKeys.length; i++) {
-    const headwords = Object.keys(newObject[newObjectKeys[i]]);
+  for (let i = 0; i < alphabetKeys.length; i++) {
+    const headwords = Object.keys(newObject[alphabetKeys[i]]);
     listOfHeadwords.push(headwords);
   }
   listOfHeadwords = listOfHeadwords.flat();

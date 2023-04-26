@@ -118,7 +118,7 @@ rebirth	stream-enterers cannot take eighth	Kp6
 fetters (saṁyojana)	three lower	Kp6
 six grave crimes (chaccābhiṭhānāni abhabba)	noble disciples unable to do	Kp6
 Dhamma teaching	simile of flowering forest	Kp6
-nibbāna	simile of lamp going out	Kp6
+nibbāna	like lamp going out	Kp6
 departed relatives	sharing merit with	Kp7
 departed relatives	compassion towards	Kp7
 ghosts	sharing merit with	Kp7
@@ -163,9 +163,9 @@ loving-kindness (mettā)		Kp9
 meditation	postures	Kp9
 wrong view (micchā diṭṭhi)		Kp9
 virtue (sīla)	as criterion for loving-kindness	Kp9
-intention	precedes all	Dhp1
+intention (mano)	precedes all	Dhp1
 actions (kamma)	results and	Dhp1
-intention		Dhp2
+intention (mano)	precedes all	Dhp2
 actions (kamma)	results and	Dhp2
 grudge		Dhp3
 accusations	don’t end hatred	Dhp3
@@ -332,7 +332,7 @@ urgency (saṁvega)		Dhp146
 perception of ugliness (asubhasañña)		Dhp147–50
 foulness of body		xref perception of ugliness (asubhasañña)
 bones	simile of gourds	Dhp149
-impermanence		Dhp151
+impermanence	teachings do not get old	Dhp151
 unlearned person	simile of ox	Dhp152
 first verses of Buddha		Dhp153
 rebirth		Dhp153
@@ -1304,7 +1304,7 @@ offerings	to stupa	Vv60
 merit (puññā)	small amounts give big results	Vv60
 fidelity in marriage		Vv61
 gifts, specific types of	dwelling	Vv62
-Mahā Kaccāna	teaches a hunter	Vv63
+Mahākaccāna, Ven.	teaches a hunter	Vv63
 death (maraṇa)	cannot escape 	Vv63
 death (maraṇa)	as universal	Vv63
 refuges	attempting to go for refuge to individual monk	Vv63
@@ -1614,7 +1614,7 @@ promises	keeping	Thag5.2
 beautiful words without practicing	like flower without fragrance	Thag5.2
 beautiful words beneficial for the one who practices	like flower with frangrance	Thag5.2
 fire worship (aggika)		Thag5.6
-impurity as purity		Thag5.6
+impurity	as purity	Thag5.6
 bathing	as ritual	Thag5.7
 recollection of Buddha (buddhānussati)		Thag5.8
 mind	caging like an elephant	Thag5.9
@@ -3518,8 +3518,8 @@ contact (phassa)	knowing as they truly are (yathābhūta)	MN149
 gratification (assāda)	in senses accumulates aggregates	MN149
 craving (taṇha)	grows when concentrating on gratification	MN149
 sense bases (āyatanā)	analysis of	MN149
-serenity (samatha)	with insight	MN149
-insight (vipassanā)	with serenity	MN149
+serenity (samatha)	insight and	MN149
+insight (vipassanā)	serenity and	MN149
 direct knowledges (abhiññā)	sense bases	MN149
 direct knowledges (abhiññā)	developing serenity and insight	MN149
 direct knowledges (abhiññā)	understanding aggregates	MN149
@@ -3661,8 +3661,8 @@ mind	as radiant but corrupted	AN1.51
 loving-kindness (mettā)	for time of a fingersnap	AN1.53
 loving-kindness (mettā)	for time of a fingersnap	AN1.54
 loving-kindness (mettā)	for time of a fingersnap	AN1.55
-intention	precedes all	AN1.56
-intention	precedes all	AN1.57
+intention (mano)	precedes all	AN1.56
+intention (mano)	precedes all	AN1.57
 negligence		xref heedlessness (pamāda)
 heedlessness (pamāda)	leads to unwholesome	AN1.58
 heedfulness (appamāda)	leads to wholesome	AN1.59
@@ -3928,8 +3928,8 @@ misrepresenting the Buddha		AN2.22
 Dhamma teaching	misrepresenting Dhamma	AN2.23
 misrepresenting the Buddha		AN2.23
 Dhamma teaching	misrepresenting Dhamma	AN2.24
-explicit meaning		AN2.24
-interpreted meaning		AN2.24
+explicit meaning	giving interpreted meaning	AN2.24
+interpreted meaning	giving explicit meaning	AN2.24
 Dhamma teaching	explicit vs. interpreted	AN2.24
 Dhamma teaching	explicit vs. interpreted	AN2.25
 misrepresenting the Buddha		AN2.25
@@ -3950,7 +3950,7 @@ virtuous people	heaven and human world	AN2.29
 wilderness (arañña)	reasons for living in	AN2.30
 compassion for future generations	wilderness living	AN2.30
 happiness in the present life (diṭṭhadhammasukhavihāra)	wilderness living	AN2.30
-serenity (samatha)	and insight	AN2.31
+serenity (samatha)	insight and	AN2.31
 insight (vipassanā)	and serenity	AN2.31
 serenity (samatha)	benefit of 	AN2.31
 insight (vipassanā)	benefit of 	AN2.31
@@ -5071,7 +5071,7 @@ virtue, concentration, and wisdom (sīla, samadhi, paññā)	people with levels 
 virtue, concentration, and wisdom (sīla, samadhi, paññā)	people with levels of	AN4.137
 retreat	by body or mind	AN4.138
 right intention (sammā saṅkappa)		AN4.138
-intention		xref right intention (sammā saṅkappa)
+intention (mano)		xref right intention (sammā saṅkappa)
 Dhamma teachers	on topic or off	AN4.139
 Dhamma teachers	meaning and phrasing	AN4.140
 Dhamma teachers	analytical knowledge	AN4.140
@@ -5085,7 +5085,6 @@ insight (vipassanā)	time for	AN4.146
 listening to Dhamma	time for	AN4.147
 Dhamma discussion	time for	AN4.147
 serenity (samatha)	time for	AN4.147
-insight (vipassanā)		xref insight (vipassanā)
 insight (vipassanā)	time for	AN4.147
 times	for different activities	AN4.147
 times	rightly developed are like rain on mountain top filling ocean	AN4.147
@@ -5146,7 +5145,7 @@ Moggallāna, Ven.	type of practice	AN4.167
 Sāriputta, Ven.	type of practice	AN4.168
 practicing		AN4.169
 stages of enlightenment		AN4.169
-serenity (samatha)	and insight	AN4.170
+serenity (samatha)	insight and	AN4.170
 discernment (vipassanā)		xref insight (vipassanā)
 insight (vipassanā)	and serenity	AN4.170
 concentration (samādhi)	and serenity and insight	AN4.170
@@ -5372,7 +5371,7 @@ heavenly realms	that are exclusively happy	AN4.233
 heavenly realms	that have mixed pleasure and pain	AN4.233
 human birth	has mixed pleasure and pain	AN4.233
 hell (niraya)	exclusively painful	AN4.233
-intention		xref formations (saṅkāra)
+intention (mano)		xref formations (saṅkāra)
 intention (cetana)	to give up good and bad actions	AN4.233
 actions (kamma)	bright and dark	AN4.235
 actions (kamma)	neither bright nor dark	AN4.235
@@ -6548,7 +6547,7 @@ trees	guarded by a god	AN6.54
 monastic duty (samaṇadhamma)	not abusing those who abuse	AN6.54
 teachers of other religions	taught path to Brahmā	AN6.54
 enduring abuse	as monastic duty	AN6.54
-insulting	person with right view	AN6.54
+insulting (akkosa)	person with right view	AN6.54
 Soṇa Koḷivisa, Ven.	thinking of disrobing	AN6.55
 disrobing	Ven. Soṇa considers	AN6.55
 Buddha, the	visiting monks in trouble	AN6.55
@@ -7997,6 +7996,7 @@ thieves (cora)	qualities of	AN8.84
 sexual assault	qualities of thief	AN8.84
 stealing	qualities of thief	AN8.84
 monastics	thieves not robbing	AN8.84
+Tathāgatas	terms for	AN8.85
 ascetics (samaṇa)	term for Tathāgata (realized one)	AN8.85
 brahmins	term for Tathāgata (realized one)	AN8.85
 knowledge master (vedagu)	term for Tathāgata (realized one)	AN8.85
@@ -8839,7 +8839,6 @@ contentment (santuṭṭhi)	as protector	AN10.18
 mindfulness (sati)	as protector	AN10.18
 wisdom (paññā)	as protector	AN10.18
 noble ones (ariya)	dwellings of	AN10.19
-idiosyncratic interpretations of the truth (paccekasacca)		xref personal truths (paccekasacca)
 tranquilized bodily activity 		xref stilled the physical process (passaddhakāyasaṅkhāro)
 well freed in mind 		xref well liberated in mind (suvimuttacitta)
 well freed by wisdom 		xref well liberated by wisdom (suvimuttapañña)
@@ -11391,7 +11390,7 @@ beings (bhātā)	born from beings	MN57
 formations (saṅkāra)	pleasing	MN57
 contact (phassa)	feelings resulting from	MN57
 actions (kamma)	rebirth	MN57
-probation	for followers of other sects	MN57
+probation (parivāsa)	for followers of other sects	MN57
 Abhaya, prince	trying to trick the Buddha	MN58
 Nigaṇṭha Nāṭaputta	trying to trick the Buddha	MN58
 speech	beneficial	MN58
@@ -11537,8 +11536,8 @@ views about the world		xref speculation about the world (lokacintā)
 Māluṅkyaputta, Ven	undeclared points	MN63
 undeclared (abyākata)	things undeclared by the Buddha	MN63
 speculation about the world (lokacintā)	as finite or infinite	MN63
-soul	body and	MN63
-body	soul and	MN63
+soul (jīva)	body and	MN63
+body (sarīra)	soul and	MN63
 Tathāgatas	existing after death	MN63
 disrobing	threatening to	MN63
 arrows	simile of person struck by	MN63
@@ -11743,6 +11742,9 @@ feelings (vedanā)		xref painful feelings (dukkhavedanā)
 feelings (vedanā)		xref neutral feelings (adukkhamasukhaṁ vedanā)
 Dhamma		xref follower of the teachings (dhammānusārī) 
 degree of faith and love (saddhāmatta pemamatta)		xref measure of faith and love (saddhāmatta pemamatta)
+listening to Dhamma		xref listening attentively (ohitasota)
+listening attentively (ohitasota)		xref listening to Dhamma
+reflection on meaning (atthūpaparikkhā)		xref investigation of meaning (atthūpaparikkhā)
 eating	in one part of the day	MN70
 Assaji and Punabbasuka	not abstaining from eating at night	MN70
 unskillful qualities (akusala dhamma)	feelings causing	MN70
@@ -11774,3 +11776,131 @@ follower by faith (saddhānusārī)	definition	MN70
 faculties (indriya)	faith, energy, mindfulness, immersion, and wisdom 	MN70
 measure of faith and love (saddhāmatta pemamatta)	faith follower	MN70
 gradual training (anupubbasikkhā)	enlightenment achieved through	MN70
+faith (saddhā)	leads to approaching a teacher	MN70
+Dhamma teachers	approaching leads to paying homage	MN70
+worshiping (payirupāsati)	leads to listening	MN70
+listening attentively (ohitasota)	leads to hearing Dhamma	MN70
+hearing the Dhamma (dhammassavana)	leads to remembering the Dhamma	MN70
+remembering (dhāreti)	leads to reflecting on the meaning	MN70
+investigation of meaning (atthūpaparikkhā)	leads to acceptance after consideration	MN70
+acceptance of Dhamma after  consideration (dhammanijjhānakhanti)	leads to zeal	MN70
+zeal (chanda)	leads to effort/striving	MN70
+striving (ussāha)	leads to scrutinizing	MN70
+scrutinizing (tulana)	leads to striving	MN70
+striving (padhāna)	leads to direct realization	MN70
+teachers of other religions	behaviour of students	MN70
+material things (āmisa)	valuing	MN70
+faithful disciple	‘The Buddha is my Teacher, I am his disciple. The Buddha knows, I do not know.’ 	MN70
+energy (vīriya)	letting ones flesh and blood dry up	MN70
+Teacher’s instruction (satthusāsana)	nourishing for a faithful disciple	MN70
+disciples of the Buddha	Teacher’s instruction is nourishing	MN70
+final knowledge here and now (diṭṭhadhamma aññā)	result for faithful disciple	MN70
+non-returner (anāgāmi)	result for faithful disciple	MN70
+faithful disciple	result of practice	MN70
+fetters (saṁyojana)		xref fetters of lay life (gihisaṁyojana)
+lay life		xref fetters of lay life (gihisaṁyojana)
+Vacchagotta, wanderer	asking about omnicience	MN71
+omnicience	is knowledge and vision constantly present	MN71
+past lives, knowledge of (pubbenivāsānussatiñāna)	Buddha’s knowledge of 	MN71
+knowledge of passing away and rebirth of beings (cutūpapātañāna)	Buddha’s knowledge of 	MN71
+heart’s release (cetovimutti)	Buddha’s knowledge of 	MN71
+freedom by wisdom (paññāvimutti)	Buddha’s knowledge of 	MN71
+knowledge of destruction of the taints (āsavakkhayañāṇa)	Buddha’s knowledge of 	MN71
+knowledges, three (vijja)	correct way of describing Buddha’s attainment	MN71
+fetters of lay life (gihisaṁyojana)	attaining nibbāna without abandoning	MN71
+laypeople	rebirth in heaven	MN71
+ājīvakas	rebirth in heaven	MN71
+doctrine of action (kiriyavādā)	leading to rebirth in heaven	MN71
+views of other sects	empty of the chance to go to heaven	MN71
+Buddhas		xref Tathāgatas
+Tathāgatas		xref Buddhas
+mine-making (mamaṅkāra)		xref possessiveness (mamaṅkāra)
+flames		xref fire element (tejo dhātu)
+Vacchagotta, wanderer	asking about views and rebirth	MN72
+eternalism (sassatavāda)		MN72
+speculation about the world (lokacintā)	Buddha has done away with	MN72
+infinite (ananta)	world as	MN72
+finite	world as	MN72
+soul (jīva)	body and	MN72
+body (sarīra)	soul and	MN72
+Tathāgatas	existing after death 	MN72
+views (diṭṭhi)	thicket of, etc.	MN72
+views (diṭṭhi)	that don’t lead to enlightenment	MN72
+wrong views (diṭṭhigata)	Buddha has done away with	MN72
+aggregates (khandha)	origin and ending 	MN72
+conceiving (maññita)	Buddha has abandonded all	MN72
+I making (ahaṅkāra)	Buddha has abandonded all	MN72
+possessiveness (mamaṅkāra)	Buddha has abandonded all	MN72
+rebirth	“reborn” doesn’t apply	MN72
+rebirth	ending like flame going out	MN72
+fire	simile for nibbāna	MN72
+nibbāna	like flame going out	MN72
+aggregates (khandha)	cut off by the Buddha	MN72
+immeasurable (appameyya)	Buddha	MN72
+deep (gambhīra)	Buddha	MN72
+hard to fathom (duppariyogāḷha)	Buddha	MN72
+Tathāgatas	deep, immeasurable, hard to fathom	MN72
+palm tree	cut off, simile of Buddha’s five aggregates cut off	MN72
+ocean	simile for the Buddha	MN72
+heartwood	simile for the Dhamma	MN72
+dispensation (pāvacana)	consisting only of heartwood	MN72
+ocean		xref Ganges river
+nonsensical speech		xref useless speech (samphappalāpa)
+Vacchagotta, wanderer	ordination and enlightenment	MN73
+skillfulness and unskillfulness	in brief	MN73
+greed (lobha)	unskillful	MN73
+non-greed (alobha)	skillful	MN73
+hatred (dosa)	unskillful	MN73
+non-hatred (adosa)	skillful	MN73
+delusion (moha)	unskillful	MN73
+non-delusion (amoho)	skillful	MN73
+killing	unskillful	MN73
+stealing	unskillful	MN73
+sexual misconduct	unskillful	MN73
+false speech	unskillful	MN73
+divisive speech	unskillful	MN73
+harsh speech	unskillful	MN73
+useless speech (samphappalāpa)	unskillful	MN73
+covetousness (abhijjhā)	unskillful	MN73
+ill will (vyāpada, byāpada)	unskillful	MN73
+wrong view (micchā diṭṭhi)	unskillful	MN73
+killing, giving up	skillful	MN73
+stealing, giving up	skillful	MN73
+sexual misconduct, giving up	skillful	MN73
+false speech, giving up	skillful	MN73
+divisive speech, giving up	skillful	MN73
+harsh speech, giving up	skillful	MN73
+useless speech, giving up	skillful	MN73
+covetousness, giving up	skillful	MN73
+ill will, giving up	skillful	MN73
+wrong view, giving up	skillful	MN73
+palm tree	cut off, simile of craving cut off	MN73
+craving (taṇha)	like palm tree cut off	MN73
+taints (āsava)	ending of	MN73
+disciples of the Buddha	Buddha has hundreds of	MN73
+bhikkhunīs	number of with attainments	MN73
+laypeople	celibate	MN73
+laypeople	attaining levels of enlightenment	MN73
+non-returner (anāgāmi)	celibate lay disciples	MN73
+laypeople	wearing white	MN73
+Teacher’s instruction (satthusāsana)	being independent in	MN73
+doubt (vicikicchā)	gone beyond (tiṇṇavicikiccha)	MN73
+Ganges river	sloping towards ocean, simile for disciples moving towards enlightenment	MN73
+probation (parivāsa)	for followers of other sects 	MN73
+insight (vipassanā)	serenity and	MN73
+serenity (samatha)	insight and	MN73
+insight (vipassanā)	leading to psychic powers	MN73
+serenity (samatha)	leading to psychic powers	MN73
+penetration of many elements (anekadhātupaṭivedha)	from serenity and insight	MN73
+psychic powers	from serenity and insight	MN73
+psychic powers	explanation of	MN73
+water	walking on	MN73
+earth	diving into as if water	MN73
+flying	using psychic powers	MN73
+brahmā realm (brahmalokā)	visiting using psychic powers	MN73
+divine ear (dibbāsota)	definition	MN73
+mind reading	description of	MN73
+past lives, knowledge of (pubbenivāsānussatiñāna)	definition	MN73
+knowledge of passing away and rebirth of beings (cutūpapātañāna)	definition	MN73
+serving (pariciṇṇa)	“serving the Buddha” as code for declaring enlightenment	MN73
+devas	informing the Buddha of person’s enlightenment	MN73

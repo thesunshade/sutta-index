@@ -7,7 +7,7 @@ import Xref from "./Xref.js";
 function LocatorList(props) {
   const { locatorXrefObject, headwordSubCount } = props;
   const { locators, xrefs } = locatorXrefObject;
-
+  if (locators === undefined) return;
   let xrefLabel = "";
   if (locators.length === 0 && xrefs.length === 1 && headwordSubCount === 1) {
     xrefLabel = "see ";

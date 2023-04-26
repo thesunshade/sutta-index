@@ -663,6 +663,12 @@ a:visited {
   padding-right: .5rem;
 }
 
+.counter {
+  vertical-align: super;
+  font-size: .83em;
+  color: gray
+}
+
 @media only screen and (max-width: 475px) {
 
   .link-icon,

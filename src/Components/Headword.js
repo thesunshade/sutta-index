@@ -15,8 +15,12 @@ import iconCopyHtml from "../images/copy-html.png";
 import iconCopyText from "../images/copy-text.png";
 
 function Headword(props) {
-  const { headword, headwordObject } = props;
-  const sortedSubWords = sortedKeys(headwordObject);
+  let { headword, headwordObject } = props;
+  let sortedSubWords = sortedKeys(headwordObject);
+  sortedSubWords = sortedSubWords.filter(item => item !== "counter");
+
+  let counterNumber = "";
+  if (headwordObject.counter) counterNumber = headwordObject.counter;
 
   function copyText(headword, headwordObject) {
     let textEntry = headword + "\n";
@@ -144,7 +148,10 @@ function Headword(props) {
                 navigator.clipboard.writeText(`index.readingfaithfully.org/#${makeNormalizedId(headword)}`);
               }}
             />
-            <span className="keyword">{headword}</span>
+            <span className="keyword">
+              {headword}
+              {counterNumber ? <span className="counter">{counterNumber}</span> : ""}
+            </span>
             <img
               alt="copy icon"
               className="icon copy-icon"
@@ -189,7 +196,7 @@ function Headword(props) {
         ""
       )}
       {sortedSubWords.map(subhead => {
-        if (subhead === "") return null;
+        if (subhead === "" || subhead === "counter") return null;
         return (
           <div className="sub-word" key={subhead}>
             <span className="keyword">{subhead}</span> <LocatorList locatorXrefObject={headwordObject[subhead]} />
