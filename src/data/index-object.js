@@ -2421,6 +2421,12 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
+               "": {
+                    "locators": [
+                         "AN9.33"
+                    ],
+                    "xrefs": []
+               },
                "as block to jhāna progress": {
                     "locators": [
                          "AN9.41"
@@ -13454,6 +13460,12 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
+               "by one gone forth when old": {
+                    "locators": [
+                         "AN5.60"
+                    ],
+                    "xrefs": []
+               },
                "helps Dhamma continue": {
                     "locators": [
                          "AN5.155"
@@ -13514,6 +13526,12 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
+               "kindly speech": {
+                    "locators": [
+                         "AN9.5"
+                    ],
+                    "xrefs": []
+               },
                "incorrectly related to schisms": {
                     "locators": [
                          "AN10.37"
@@ -13547,6 +13565,12 @@ export const indexObject ={
                "reason Buddha teaches": {
                     "locators": [
                          "AN10.95"
+                    ],
+                    "xrefs": []
+               },
+               "like smoking out pests": {
+                    "locators": [
+                         "AN11.17"
                     ],
                     "xrefs": []
                }
@@ -32150,6 +32174,13 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
+               "wearing white": {
+                    "locators": [
+                         "MN73",
+                         "AN5.180"
+                    ],
+                    "xrefs": []
+               },
                "difficult for them to know who is enlightened": {
                     "locators": [
                          "AN6.59"
@@ -32237,12 +32268,6 @@ export const indexObject ={
                     "xrefs": []
                },
                "attaining levels of enlightenment": {
-                    "locators": [
-                         "MN73"
-                    ],
-                    "xrefs": []
-               },
-               "wearing white": {
                     "locators": [
                          "MN73"
                     ],
@@ -34783,14 +34808,6 @@ export const indexObject ={
                     "xrefs": []
                }
           },
-          "man": {
-               "": {
-                    "locators": [],
-                    "xrefs": [
-                         "xref youth"
-                    ]
-               }
-          },
           "mangos": {
                "simile for people": {
                     "locators": [
@@ -35517,6 +35534,12 @@ export const indexObject ={
                          "AN8.18"
                     ],
                     "xrefs": []
+               },
+               "": {
+                    "locators": [],
+                    "xrefs": [
+                         "xref youth"
+                    ]
                }
           },
           "mendicants": {
@@ -41194,6 +41217,12 @@ export const indexObject ={
                }
           },
           "oxen": {
+               "simile for unlearned person": {
+                    "locators": [
+                         "Dhp152"
+                    ],
+                    "xrefs": []
+               },
                "trained and untrained, simile of": {
                     "locators": [
                          "MN125"
@@ -43252,7 +43281,7 @@ export const indexObject ={
                     "xrefs": []
                }
           },
-          "poor person": {
+          "poor people": {
                "claiming to be rich as simile for false claims of enlightenment": {
                     "locators": [
                          "AN10.24"
@@ -55851,24 +55880,6 @@ export const indexObject ={
                     "xrefs": [
                          "xref Dhamma teaching"
                     ]
-               },
-               "by one gone forth when old": {
-                    "locators": [
-                         "AN5.60"
-                    ],
-                    "xrefs": []
-               },
-               "kindly speech": {
-                    "locators": [
-                         "AN9.5"
-                    ],
-                    "xrefs": []
-               },
-               "like smoking out pests": {
-                    "locators": [
-                         "AN11.17"
-                    ],
-                    "xrefs": []
                }
           },
           "teaching visible here and now (sandiṭṭiko)": {
@@ -56094,9 +56105,7 @@ export const indexObject ={
           },
           "thought and examination (vitakkavicārā)": {
                "": {
-                    "locators": [
-                         "AN9.33"
-                    ],
+                    "locators": [],
                     "xrefs": [
                          "xref applied and sustained thought (vitakkavicārā)"
                     ]
@@ -57204,7 +57213,8 @@ export const indexObject ={
                "": {
                     "locators": [],
                     "xrefs": [
-                         "xref perception of ugliness (asubhasañña)"
+                         "xref perception of ugliness (asubhasañña)",
+                         "xref ugliness"
                     ]
                }
           },
@@ -57427,7 +57437,7 @@ export const indexObject ={
                }
           },
           "unlearned person": {
-               "simile of ox": {
+               "like an ox": {
                     "locators": [
                          "Dhp152"
                     ],
@@ -57521,6 +57531,12 @@ export const indexObject ={
                }
           },
           "unskillful qualities (akusala dhamma)": {
+               "": {
+                    "locators": [],
+                    "xrefs": [
+                         "xref unskillfulness (akusala)"
+                    ]
+               },
                "should cultivate actions that decreases": {
                     "locators": [
                          "MN114"
@@ -57596,6 +57612,14 @@ export const indexObject ={
                }
           },
           "unskillfulness (akusala)": {
+               "": {
+                    "locators": [],
+                    "xrefs": [
+                         "xref skillfulness (kusala)",
+                         "xref skillfulness and unskillfulness",
+                         "xref unskillful qualities (akusala dhamma)"
+                    ]
+               },
                "through living as one pleases": {
                     "locators": [
                          "MN101"
@@ -57631,13 +57655,6 @@ export const indexObject ={
                          "AN2.19"
                     ],
                     "xrefs": []
-               },
-               "": {
-                    "locators": [],
-                    "xrefs": [
-                         "xref skillfulness (kusala)",
-                         "xref skillfulness and unskillfulness"
-                    ]
                },
                "does not arise in one with powers of a trainee": {
                     "locators": [
@@ -58801,7 +58818,7 @@ export const indexObject ={
                     "xrefs": []
                }
           },
-          "villages": {
+          "villages (gāma)": {
                "as more dangerous than wilderness": {
                     "locators": [
                          "AN6.42",
@@ -58809,9 +58826,6 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "counter": 1
-          },
-          "villages (gāma)": {
                "to associate with": {
                     "locators": [
                          "AN9.6",
@@ -58831,8 +58845,7 @@ export const indexObject ={
                          "AN10.69"
                     ],
                     "xrefs": []
-               },
-               "counter": 2
+               }
           },
           "Vinaya": {
                "": {
@@ -60049,9 +60062,7 @@ export const indexObject ={
                          "AN10.216"
                     ],
                     "xrefs": []
-               }
-          },
-          "wealthy person": {
+               },
                "simile for person not bound by their weak ties": {
                     "locators": [
                          "MN66"
@@ -60175,14 +60186,6 @@ export const indexObject ={
                     "xrefs": []
                }
           },
-          "wheel": {
-               "made well": {
-                    "locators": [
-                         "AN3.15"
-                    ],
-                    "xrefs": []
-               }
-          },
           "wheel of Dhamma": {
                "Ven. Sāriputta rightly keeps rolling wheel of Dhamma": {
                     "locators": [
@@ -60298,6 +60301,14 @@ export const indexObject ={
                     "locators": [
                          "SN45.145",
                          "AN10.15"
+                    ],
+                    "xrefs": []
+               }
+          },
+          "wheels": {
+               "made well": {
+                    "locators": [
+                         "AN3.15"
                     ],
                     "xrefs": []
                }
@@ -60570,27 +60581,6 @@ export const indexObject ={
                     ]
                }
           },
-          "wisdom": {
-               "preventing disputes": {
-                    "locators": [
-                         "AN10.50"
-                    ],
-                    "xrefs": []
-               },
-               "as principle of cordiality (dhammā sāraṇīyā)": {
-                    "locators": [
-                         "AN10.50"
-                    ],
-                    "xrefs": []
-               },
-               "sign of non-decline": {
-                    "locators": [
-                         "AN10.67"
-                    ],
-                    "xrefs": []
-               },
-               "counter": 1
-          },
           "wisdom (paññā)": {
                "meditation and": {
                     "locators": [
@@ -60845,6 +60835,18 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
+               "preventing disputes": {
+                    "locators": [
+                         "AN10.50"
+                    ],
+                    "xrefs": []
+               },
+               "as principle of cordiality (dhammā sāraṇīyā)": {
+                    "locators": [
+                         "AN10.50"
+                    ],
+                    "xrefs": []
+               },
                "lack of causes decline of skillful qualities": {
                     "locators": [
                          "AN10.67"
@@ -60852,6 +60854,12 @@ export const indexObject ={
                     "xrefs": []
                },
                "causes growth of skillful qualities": {
+                    "locators": [
+                         "AN10.67"
+                    ],
+                    "xrefs": []
+               },
+               "sign of non-decline": {
                     "locators": [
                          "AN10.67"
                     ],
@@ -60928,8 +60936,7 @@ export const indexObject ={
                          "MN69"
                     ],
                     "xrefs": []
-               },
-               "counter": 2
+               }
           },
           "wisdom, higher (adhipaññā)": {
                "being able to encourage in as qualification to ordain monastics": {
@@ -61111,14 +61118,6 @@ export const indexObject ={
                     "xrefs": []
                }
           },
-          "woman": {
-               "": {
-                    "locators": [],
-                    "xrefs": [
-                         "xref youth"
-                    ]
-               }
-          },
           "woman’s life": {
                "painful": {
                     "locators": [
@@ -61272,6 +61271,12 @@ export const indexObject ={
                          "AN8.49"
                     ],
                     "xrefs": []
+               },
+               "": {
+                    "locators": [],
+                    "xrefs": [
+                         "xref youth"
+                    ]
                },
                "useless speech about": {
                     "locators": [
@@ -61979,18 +61984,10 @@ export const indexObject ={
                     "xrefs": []
                }
           },
-          "wrong speech (micchā vacā)": {
-               "results of": {
-                    "locators": [
-                         "Pv2"
-                    ],
-                    "xrefs": []
-               },
-               "counter": 1
-          },
           "wrong speech (micchā vācā)": {
                "results of": {
                     "locators": [
+                         "Pv2",
                          "Pv3"
                     ],
                     "xrefs": []
@@ -62055,8 +62052,7 @@ export const indexObject ={
                          "MN60"
                     ],
                     "xrefs": []
-               },
-               "counter": 2
+               }
           },
           "wrong view (micchā diṭṭhi)": {
                "": {
@@ -62065,7 +62061,8 @@ export const indexObject ={
                          "Iti70"
                     ],
                     "xrefs": [
-                         "xref mental action (manokamma)"
+                         "xref mental action (manokamma)",
+                         "xref wrong views"
                     ]
                },
                "leading to ghost world": {

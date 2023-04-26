@@ -14,9 +14,7 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
-    "start:preprocess": "node build.js",
-    "start:cra": "react-scripts start",
-    "start": "run-s start:preprocess start:cra",
+    "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
