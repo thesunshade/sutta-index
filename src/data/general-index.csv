@@ -33,6 +33,12 @@ generosity (cāga)		xref stinginess (maccharī)
 giving (dāna)		xref stinginess (maccharī)
 speech		xref wrong speech (micchā vācā)
 factors of stream-entry (sotāpattiyaṅga)		xref stream-enterers (sotāpanna)
+zeal (chanda)		xref desire (chanda)
+demons (yakkha)		xref yakkhas
+wrong view (micchā diṭṭhi)		xref wrong views
+unattractiveness		xref ugliness
+unskillful qualities (akusala dhamma)		xref unskillfulness (akusala)
+unskillfulness (akusala)		xref unskillful qualities (akusala dhamma)
 refuges	formula for taking	Kp1
 precepts, ten	definition	Kp2
 samaneras	precepts of	Kp2
@@ -333,7 +339,8 @@ perception of ugliness (asubhasañña)		Dhp147–50
 foulness of body		xref perception of ugliness (asubhasañña)
 bones	simile of gourds	Dhp149
 impermanence	teachings do not get old	Dhp151
-unlearned person	simile of ox	Dhp152
+unlearned person	like an ox	Dhp152
+oxen	simile for unlearned person	Dhp152
 first verses of Buddha		Dhp153
 rebirth		Dhp153
 holy life	rejected in youth	Dhp155
@@ -629,7 +636,7 @@ almsfood	from the poor	Ud4.3
 death (maraṇa)	by murder	Ud4.3
 death (maraṇa)	immediately after giving	Ud4.3
 mind	wrongly directed worse than enemy	Ud4.3
-yakkha	attacks monk	Ud4.4
+yakkhas	attacks monk	Ud4.4
 arahants	without psychic powers	Ud4.4
 Sāriputta, Ven.	attacked by yakkha	Ud4.4
 Moggallāna, Ven.	witnessed attack of Ven. Sāriputta	Ud4.4
@@ -1011,12 +1018,12 @@ actions (kamma)	actions, not birth defines a person	Snp1.7
 caste		Snp1.7
 birth is not determinant		Snp1.7
 loving-kindness (mettā)		Snp1.8
-yakkha		Snp1.9
-yakkha	asking questions	Snp1.9
+yakkhas		Snp1.9
+yakkhas	asking questions	Snp1.9
 Buddha, the	qualities of	Snp1.9
 sense pleasures, five 	discard desire for	Snp1.9
-yakkha		Snp1.10
-yakkha	asking questions	Snp1.10
+yakkhas		Snp1.10
+yakkhas	asking questions	Snp1.10
 faith (saddhā)	as best wealth	Snp1.10
 truth (sacca)	as sweetest taste	Snp1.10
 faith (saddhā)	as means of crossing flood	Snp1.10
@@ -1039,7 +1046,7 @@ austerity		Snp2.2
 conscience and prudence (hiri ottappa)		Snp2.3
 talking without doing		Snp2.3
 friendship	true and false friends	Snp2.3
-yakkha	asking questions	Snp2.5
+yakkhas	asking questions	Snp2.5
 unwholesome roots (lobha, dosa, moha)		Snp2.5
 monastic life	wrongly practiced	Snp2.6
 association	with the wise	Snp2.6
@@ -1344,7 +1351,7 @@ Saṅgha	field of merit	Pv1
 merit sharing		xref departed relatives
 departed relatives	sharing merit with	Pv1
 ghosts		xref departed relatives
-wrong speech (micchā vacā)	results of	Pv2
+wrong speech (micchā vācā)	results of	Pv2
 monastics	reborn as ghosts	Pv3
 wrong speech (micchā vācā)	results of	Pv3
 departed relatives	sharing merit with	Pv4
@@ -4162,7 +4169,7 @@ hope (āsa)	having the hope to become enlightened	AN3.13
 wheel-turning monarchs	Dhamma is their king	AN3.14
 Buddha, the	honoring the Dhamma	AN3.14
 Dhamma	honored by the Buddha	AN3.14
-wheel	made well	AN3.15
+wheels	made well	AN3.15
 chariot-maker	Bodhisatta as	AN3.15
 Bodhisatta	as chariot-maker	AN3.15
 Pacetana, king		AN3.15
@@ -5674,7 +5681,7 @@ business	proper use of wealth	AN5.58
 going forth (pabbajja)	in old age	AN5.59
 going forth (pabbajja)	in old age	AN5.60
 admonishment	being difficult to	AN5.60
-teaching Dhamma	by one gone forth when old	AN5.60
+Dhamma teaching	by one gone forth when old	AN5.60
 perception of ugliness (asubhasañña)	culminates in deathless	AN5.61
 perception of death (maraṇasañña)	culminates in deathless	AN5.61
 perception of danger/drawback (ādīnavasañña)	culminates in deathless	AN5.61
@@ -6434,7 +6441,7 @@ Sāriputta, Ven.	elements	AN6.41
 Nāgita, Ven	Buddha’s attendant	AN6.42
 fame (yasa)	Buddha rejects	AN6.42
 wilderness (arañña)	as safer than village	AN6.42
-villages	as more dangerous than wilderness	AN6.42
+villages (gāma)	as more dangerous than wilderness	AN6.42
 village dwelling monk (gāmantavihārī)	dangers of	AN6.42
 sleepiness	in the wilderness	AN6.42
 gain (lābha)	danger of living in village	AN6.42
@@ -7201,9 +7208,8 @@ exertion (yoga)	knowing right time for	AN7.68
 seclusion (paṭisallīna, vivitta)	knowing right time for	AN7.68
 assemblies	one who knows is worthy of gifts	AN7.68
 assemblies	knowing how to act around different	AN7.68
-knowing people		AN7.68
 assessing people (puggalā viditā)	how to	AN7.68
-assessing people		xref knowing people
+knowing people		xref assessing people (puggalā viditā)
 judging		xref assessing people (puggalā viditā)
 listening to Dhamma	properly and improperly	AN7.68
 listening attentively (ohitasota)	praiseworty	AN7.68
@@ -8008,7 +8014,7 @@ freed (vimutto)	term for Tathāgata (realized one)	AN8.85
 Nāgita, Ven		AN8.86
 gods	not getting bliss of seclusion	AN8.86
 socializing	because of not getting bliss of seculusion	AN8.86
-villages	as more dangerous than wilderness	AN8.86
+villages (gāma)	as more dangerous than wilderness	AN8.86
 village dwelling monk (gāmantavihārī)	dangers of	AN8.86
 bliss of seclusion (pavivekasukha)	getting and not getting	AN8.86
 seclusion (paviveka)		xref bliss of seclusion (pavivekasukha)
@@ -8102,7 +8108,7 @@ wisdom (paññā)	power of, definition	AN9.5
 energy (vīriya)	power of, definition	AN9.5
 blamelessness (anavajja)	power of, definition	AN9.5
 inclusiveness (saṅgāha)	power of, definition	AN9.5
-teaching Dhamma	kindly speech	AN9.5
+Dhamma teaching	kindly speech	AN9.5
 gift of the teaching (dhammadāna)	best gift	AN9.5
 kindly speech (peyyavajja)	teaching Dhamma is best kind of	AN9.5
 beneficent conduct		xref caring for (atthacariyā)
@@ -8207,8 +8213,8 @@ bull (usabha)	with cut horns, simile for mind	AN9.11
 mind	like bull with horns cut	AN9.11
 youth	freshly bathed, simile of repulsion towards body	AN9.11
 young person		xref youth
-woman		xref youth
-man		xref youth
+women		xref youth
+men		xref youth
 corpse	of snake or dog, simile of repulsion towards body	AN9.11
 rotten body (pūtikāya)	repulsiveness of	AN9.11
 repulsive	towards body	AN9.11
@@ -8458,7 +8464,7 @@ sense perceptions (kāmasaññā)	cease in first jhāna	AN9.33
 first jhāna	sense perceptions cease	AN9.33
 applied and sustained thought (vitakkavicārā)	ceases in second jhāna	AN9.33
 second jhāna	applied and sustained thought ceases	AN9.33
-thought and examination (vitakkavicārā)		AN9.33
+applied and sustained thought (vitakkavicārā)		AN9.33
 third jhāna	rapture ceases	AN9.33
 placing of the mind and keeping it connected (vitakkavicārā)		AN9.33
 directed thoughts and evaluations (vitakkavicārā)		AN9.33
@@ -8907,7 +8913,7 @@ Mahācunda, Ven.	evaluating declaration of knowledge	AN10.24
 declaration of knowledge (ñāṇavāda)	evaluating	AN10.24
 developed in body (bhāvitakāya)	evaluating	AN10.24
 development (bhāvanā)	evaluating claims of	AN10.24
-poor person	claiming to be rich as simile for false claims of enlightenment	AN10.24
+poor people	claiming to be rich as simile for false claims of enlightenment	AN10.24
 wealthy people	claiming to be rich as simile for true claims of enlightenment	AN10.24
 false spiritual claims	of enlightenment	AN10.24
 kasiṇas	ten	AN10.25
@@ -9079,8 +9085,8 @@ contentment (santuṭṭhi)	preventing disputes	AN10.50
 contentment (santuṭṭhi)	as principle of cordiality (dhammā sāraṇīyā)	AN10.50
 mindfulness (sati)	preventing disputes	AN10.50
 mindfulness (sati)	as principle of cordiality (dhammā sāraṇīyā)	AN10.50
-wisdom	preventing disputes	AN10.50
-wisdom	as principle of cordiality (dhammā sāraṇīyā)	AN10.50
+wisdom (paññā)	preventing disputes	AN10.50
+wisdom (paññā)	as principle of cordiality (dhammā sāraṇīyā)	AN10.50
 reviewing (paccavekkhaṇā)		xref self reflection
 reflection (paṭisaṅkhā)		xref self reflection
 self reflection		xref reviewing (paccavekkhaṇā)
@@ -9339,7 +9345,7 @@ evil wishes (pāpiccha)	sign of decline	AN10.67
 bad friends	sign of decline	AN10.67
 wrong view (micchā diṭṭhi)	sign of decline	AN10.67
 energetic (āraddhavīriya)	sign of non-decline	AN10.67
-wisdom	sign of non-decline	AN10.67
+wisdom (paññā)	sign of non-decline	AN10.67
 few wishes (appiccha)	sign of non-decline	AN10.67
 good friends	sign of non-decline	AN10.67
 right view (sammā diṭṭhi)	sign of non-decline	AN10.67
@@ -10374,7 +10380,7 @@ wounds	dressing, simile for guarding the internal sense bases	AN11.17
 sense bases (āyatanā)	like wounds to be dressed	AN11.17
 sense doors, guarding (indriyesu guttadvāra)	like dressing wounds	AN11.17
 smoke	smoking out pests, simile for teaching Dhamma 	AN11.17
-teaching Dhamma	like smoking out pests	AN11.17
+Dhamma teaching	like smoking out pests	AN11.17
 ford (tittha)	knowing, simile for asking wise people questions	AN11.17
 questions, asking	like knowing the ford	AN11.17
 learned (bahussutā)	asking learned person questions like knowing the ford	AN11.17
@@ -10934,7 +10940,7 @@ awakening factors, seven (bojjhaṅga)	appear when Buddha appears	SN46.42
 Māra	army of, crushing with awakening factors	SN46.43
 unwise (dupañño)	unwise idiot, definition	SN46.44
 wise people	definition	SN46.45
-poor person	definition of truly poor person	SN46.46
+poor people	definition of truly poor person	SN46.46
 prosperity	definition of truly prosperous person	SN46.47
 dawn	forerunner of sunrise, simile for one with spiritual friends	SN46.48
 spiritual friends (kalyāṇamitta)	one with will develop awakening factors	SN46.48
@@ -11647,8 +11653,8 @@ alms gathering practice	at night	MN66
 goblin (pisāca)	monk accused of being	MN66
 quail	simile for person bound by their weak ties	MN66
 elephants	simile for person not bound by their weak ties	MN66
-poor person	simile for person bound by their weak ties	MN66
-wealthy person	simile for person not bound by their weak ties	MN66
+poor people	simile for person bound by their weak ties	MN66
+wealthy people	simile for person not bound by their weak ties	MN66
 going forth (pabbajja)	difficulty	MN66
 going forth (pabbajja)	easy to 	MN66
 Buddha, the	anger towards	MN66

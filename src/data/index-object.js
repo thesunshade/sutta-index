@@ -3207,15 +3207,6 @@ export const indexObject ={
                     "xrefs": []
                }
           },
-          "assessing people": {
-               "": {
-                    "locators": [],
-                    "xrefs": [
-                         "xref knowing people"
-                    ]
-               },
-               "counter": 1
-          },
           "assessing people (puggalā viditā)": {
                "how to": {
                     "locators": [
@@ -3228,8 +3219,7 @@ export const indexObject ={
                          "AN8.7"
                     ],
                     "xrefs": []
-               },
-               "counter": 2
+               }
           },
           "association": {
                "with good people": {
@@ -12310,7 +12300,17 @@ export const indexObject ={
                     "xrefs": [
                          "xref asuras"
                     ]
-               }
+               },
+               "counter": 1
+          },
+          "demons (yakkha)": {
+               "": {
+                    "locators": [],
+                    "xrefs": [
+                         "xref yakkhas"
+                    ]
+               },
+               "counter": 2
           },
           "demonstrations (pāṭihāriya)": {
                "": {
@@ -31364,10 +31364,10 @@ export const indexObject ={
           },
           "knowing people": {
                "": {
-                    "locators": [
-                         "AN7.68"
-                    ],
-                    "xrefs": []
+                    "locators": [],
+                    "xrefs": [
+                         "xref assessing people (puggalā viditā)"
+                    ]
                }
           },
           "knowledge (vijja)": {
@@ -62327,7 +62327,7 @@ export const indexObject ={
           }
      },
      "Y": {
-          "yakkha": {
+          "yakkhas": {
                "attacks monk": {
                     "locators": [
                          "Ud4.4"
@@ -62415,15 +62415,17 @@ export const indexObject ={
      },
      "Z": {
           "zeal (chanda)": {
-               "in definition of right effort (sammā vāyāma)": {
-                    "locators": [
-                         "MN141"
-                    ],
-                    "xrefs": []
-               },
                "": {
                     "locators": [
                          "AN3.92"
+                    ],
+                    "xrefs": [
+                         "xref desire (chanda)"
+                    ]
+               },
+               "in definition of right effort (sammā vāyāma)": {
+                    "locators": [
+                         "MN141"
                     ],
                     "xrefs": []
                },
