@@ -19,8 +19,28 @@ function Headword(props) {
   let sortedSubWords = sortedKeys(headwordObject);
   sortedSubWords = sortedSubWords.filter(item => item !== "counter");
 
-  let counterNumber = "";
-  if (headwordObject.counter) counterNumber = headwordObject.counter;
+  let headwordWithCount;
+  if (headwordObject.counter) {
+    let rootHeadword = headword.split(" (");
+    let counterNumber = headwordObject.counter;
+    if (rootHeadword.length === 1) {
+      headwordWithCount = (
+        <>
+          {rootHeadword[0]}
+          <span className="counter">{counterNumber}</span>
+        </>
+      );
+    } else {
+      headwordWithCount = (
+        <>
+          {rootHeadword[0]}
+          <span className="counter">{counterNumber}</span> ({rootHeadword[1]}
+        </>
+      );
+    }
+  } else {
+    headwordWithCount = headword;
+  }
 
   function copyText(headword, headwordObject) {
     let textEntry = headword + "\n";
@@ -148,10 +168,7 @@ function Headword(props) {
                 navigator.clipboard.writeText(`index.readingfaithfully.org/#${makeNormalizedId(headword)}`);
               }}
             />
-            <span className="keyword">
-              {headword}
-              {counterNumber ? <span className="counter">{counterNumber}</span> : ""}
-            </span>
+            <span className="keyword">{headwordWithCount}</span>
             <img
               alt="copy icon"
               className="icon copy-icon"

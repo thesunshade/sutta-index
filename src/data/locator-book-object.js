@@ -3948,6 +3948,231 @@ export const locatorBookObject ={
       "skillful"
     ],
     [
+      "MN74",
+      "body",
+      "created from"
+    ],
+    [
+      "MN74",
+      "body",
+      "disease, boil, dart "
+    ],
+    [
+      "MN74",
+      "body",
+      "impermanant"
+    ],
+    [
+      "MN74",
+      "body",
+      "not-self"
+    ],
+    [
+      "MN74",
+      "Dīghanakha, wanderer",
+      "views "
+    ],
+    [
+      "MN74",
+      "disputes",
+      "over views"
+    ],
+    [
+      "MN74",
+      "disputes",
+      "results of"
+    ],
+    [
+      "MN74",
+      "enlightenment",
+      "through disilusionment for feelings"
+    ],
+    [
+      "MN74",
+      "feelings (vedanā)",
+      "disillusioned with leads to enlightenment"
+    ],
+    [
+      "MN74",
+      "feelings (vedanā)",
+      "impermanace"
+    ],
+    [
+      "MN74",
+      "feelings (vedanā)",
+      "only one at a time"
+    ],
+    [
+      "MN74",
+      "feelings (vedanā)",
+      "three"
+    ],
+    [
+      "MN74",
+      "Sāriputta, Ven.",
+      "enlightenment"
+    ],
+    [
+      "MN74",
+      "stream-enterers (sotāpanna)",
+      "examples of attainment"
+    ],
+    [
+      "MN74",
+      "views (diṭṭhi)",
+      "“I believe in nothing”"
+    ],
+    [
+      "MN74",
+      "views (diṭṭhi)",
+      "clinging to"
+    ],
+    [
+      "MN75",
+      "Bodhisatta",
+      "sense pleasures and"
+    ],
+    [
+      "MN75",
+      "Buddha, the",
+      "sense pleasures and"
+    ],
+    [
+      "MN75",
+      "devas",
+      "not jealous of human pleasure"
+    ],
+    [
+      "MN75",
+      "devas",
+      "sense pleasures of"
+    ],
+    [
+      "MN75",
+      "divine ear (dibbāsota)",
+      "Buddha using to hear conversation"
+    ],
+    [
+      "MN75",
+      "doctor (bhisakka)",
+      "curing leprosy, simile for overcoming attachment to sense pleasures"
+    ],
+    [
+      "MN75",
+      "fire chamber",
+      "Buddha staying in"
+    ],
+    [
+      "MN75",
+      "fires",
+      "cauterizing wounds over"
+    ],
+    [
+      "MN75",
+      "gods of the Thirty-Three (tāvatiṁsā devā)",
+      "not jealous of human pleasure"
+    ],
+    [
+      "MN75",
+      "gratification, danger, escape",
+      "sense bases"
+    ],
+    [
+      "MN75",
+      "leprosy (kuṭṭha)",
+      "recovery from, simile for person not attached to lesser pleasure"
+    ],
+    [
+      "MN75",
+      "Māgaṇḍiya",
+      "argument with the Buddha"
+    ],
+    [
+      "MN75",
+      "music",
+      "Bodhisatta and"
+    ],
+    [
+      "MN75",
+      "nymphs (accharā)",
+      "gods surrounded by"
+    ],
+    [
+      "MN75",
+      "origin, ending (samudayañca atthaṅgamañca)",
+      "sense bases"
+    ],
+    [
+      "MN75",
+      "palaces (pāsādā)",
+      "Bodhisatta’s three"
+    ],
+    [
+      "MN75",
+      "perception, distorted (viparītasaññā)",
+      "panful as pleasant"
+    ],
+    [
+      "MN75",
+      "pit",
+      "of glowing coals, simile for sensual pleasures"
+    ],
+    [
+      "MN75",
+      "pleasure (sukha)",
+      "heavenly compared to human"
+    ],
+    [
+      "MN75",
+      "seasons, three",
+      "Bodhisatta’s three houses for"
+    ],
+    [
+      "MN75",
+      "sense bases (āyatanā)",
+      "guarding"
+    ],
+    [
+      "MN75",
+      "sense faculties, impaired (upahatindriyā)",
+      "panful as pleasant"
+    ],
+    [
+      "MN75",
+      "sense pleasures (kāma, kāmaguṇa)",
+      "consumed by craving for"
+    ],
+    [
+      "MN75",
+      "sense pleasures (kāma, kāmaguṇa)",
+      "danger"
+    ],
+    [
+      "MN75",
+      "sense pleasures (kāma, kāmaguṇa)",
+      "delight not connected with"
+    ],
+    [
+      "MN75",
+      "sense pleasures (kāma, kāmaguṇa)",
+      "desire grows from indulging in"
+    ],
+    [
+      "MN75",
+      "sense pleasures (kāma, kāmaguṇa)",
+      "human compared to heavenly"
+    ],
+    [
+      "MN75",
+      "sense restraint (indriyasaṁvara)",
+      "cause of peace"
+    ],
+    [
+      "MN75",
+      "unskillful qualities (akusala dhamma)",
+      "delight not connected with"
+    ],
+    [
       "MN82",
       "Buddha, the",
       "description of"
@@ -15973,7 +16198,7 @@ export const locatorBookObject ={
     ],
     [
       "AN2.2",
-      "attachment",
+      "attachments",
       "difficulty of letting go of"
     ],
     [
@@ -36533,13 +36758,13 @@ export const locatorBookObject ={
     ],
     [
       "AN9.23",
-      "attachment (ajjhosāna)",
-      "causes ownership"
+      "attachments (ajjhosāna)",
+      "caused by desire and lust"
     ],
     [
       "AN9.23",
       "attachments (ajjhosāna)",
-      "caused by desire and lust"
+      "causes ownership"
     ],
     [
       "AN9.23",
@@ -47767,7 +47992,7 @@ export const locatorBookObject ={
     ],
     [
       "Dhp214",
-      "attachment",
+      "attachments",
       "as source of sorrow"
     ],
     [
@@ -47987,12 +48212,12 @@ export const locatorBookObject ={
     ],
     [
       "Dhp284",
-      "attachment",
+      "attachments",
       "sexual"
     ],
     [
       "Dhp284",
-      "attachment",
+      "attachments",
       "simile of calf"
     ],
     [
@@ -51498,7 +51723,7 @@ export const locatorBookObject ={
     ],
     [
       "Snp4.2",
-      "attachment",
+      "attachments",
       "like fish in dried-up stream"
     ],
     [
@@ -53414,7 +53639,7 @@ export const locatorBookObject ={
     ],
     [
       "Thag2.15",
-      "attachment",
+      "attachments",
       "to people"
     ],
     [
