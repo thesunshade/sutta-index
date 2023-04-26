@@ -38,10 +38,8 @@ function Locator(props) {
       url = `https://suttacentral.net/${locationForUrl}/en/sujato`;
   }
 
-  switch (justBook(location)) {
-    case "vv":
-    case "pv":
-      url = `https://sutta.readingfaithfully.org/?q=${locationForUrl}`;
+  if ("vv" === justBook(location) || "pv" === justBook(location)) {
+    url = `https://sutta.readingfaithfully.org/?q=${locationForUrl}`;
   }
 
   function addSpace(location) {

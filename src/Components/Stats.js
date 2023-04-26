@@ -1,6 +1,5 @@
 import { indexObject } from "../data/index-object";
 import { indexArray } from "../data/index-array";
-import statsIcon from "../images/stats-icon.png";
 import headIcon from "../images/head-icon.png";
 import locatorIcon from "../images/locator-icon.png";
 import xrefIcon from "../images/xref-icon.png";
