@@ -1,4 +1,4 @@
-import { indexObject } from "../data/index-objectx";
+import { indexObject } from "../data/index-object";
 import { indexArray } from "../data/index-array";
 import statsIcon from "../images/stats-icon.png";
 import headIcon from "../images/head-icon.png";

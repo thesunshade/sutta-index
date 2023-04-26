@@ -1,4 +1,4 @@
-import { indexObject } from "../data/index-objectx.js";
+import { indexObject } from "../data/index-object.js";
 import makeNormalizedId from "../functions/makeNormalizedId.js";
 import { memo } from "react";
 
