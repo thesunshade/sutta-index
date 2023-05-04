@@ -5,7 +5,7 @@ import formIcon from "../images/form-icon.png";
 
 export default function SearchResults(props) {
   let { searchText } = props;
-  searchText = searchText.replace(/[/\\()\s-]/g, "");
+  searchText = searchText.replace(/[/\\()\s-’'"]/g, "");
 
   function hideAllHideable() {
     const allHideableAreas = document.getElementsByClassName("hideable-area");

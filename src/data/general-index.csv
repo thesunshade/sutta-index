@@ -183,24 +183,33 @@ meditation	postures	Kp9
 wrong view (micchā diṭṭhi)		Kp9
 virtue (sīla)	as criterion for loving-kindness	Kp9
 intention (mano)	precedes all	Dhp1
-actions (kamma)	results and	Dhp1
+actions (kamma)	results following	Dhp1
 intention (mano)	precedes all	Dhp2
-actions (kamma)	results and	Dhp2
-grudge		Dhp3
+actions (kamma)	results following	Dhp2
+grudge bearing (upanayhanti)	ending hatred	Dhp3
 accusations	don’t end hatred	Dhp3
-grudge		Dhp4
-hatred (dosa)	removed by non-hatred	Dhp5
+hatred (vera)	ending	Dhp3
+grudge bearing (upanayhanti)	ending hatred	Dhp4
+hatred (vera)	ending	Dhp4
+hatred (vera)	removed by non-hatred	Dhp5
 non-hatred (avera)	removes hatred	Dhp5
-conflicts		Dhp6
+conflicts (medhaga)	stopping	Dhp6
+perception of ugliness (asubhasañña)		xref beautiful, contemplation of (subhānupassī)
+beautiful, contemplation of (subhānupassī)	Māra strikes one down	Dhp7
+overeating	Māra strikes one down	Dhp7
+sense restraint (indriyasaṁvara)	lack of and Māra striking down	Dhp7
 Māra	attacks the lazy	Dhp7
 Māra	simile of wind and weak tree	Dhp7
-laziness (kosajja)		Dhp7
+laziness (kosajja)	Māra strikes one down	Dhp7
 eating	immoderation	Dhp7
-sign of the beautiful (subhanimitta)		Dhp7
+sign of the beautiful (subhanimitta)		xref beautiful, contemplation of (subhānupassī)
+perception of ugliness (asubhasañña)		xref ugly, contemplation of (asubhānupassī)
 Māra	cannot attack the energetic	Dhp8
-energy (vīriya)		Dhp8
+ugly, contemplation of (asubhānupassī)	Māra cannot strike down	Dhp8
+sense restraint (indriyasaṁvara)	Māra cannot strike down	Dhp8
+eating in moderation	Māra cannot strike down	Dhp8
+energy (vīriya)	Māra cannot strike down	Dhp8
 Māra	simile of wind and mountain	Dhp8
-eating	restraint	Dhp8
 robes	not worthy of	Dhp9
 robes	worthy of	Dhp10
 domain (gocarā)		Dhp11
@@ -596,7 +605,7 @@ useless speech (tiracāna)		Ud2.2
 noble silence (ariya tuṇhībhāva)	vs. useless speech	Ud2.2
 nibbāna	better happiness than heaven	Ud2.2
 children	harming an animal	Ud2.3
-snake	being harmed by children	Ud2.3
+snakes	being harmed by children	Ud2.3
 suffering (dukkha)	no one likes	Ud2.3
 happiness (sukha)	those who desire	Ud2.3
 jealousy (issā)		Ud2.4
@@ -2165,14 +2174,14 @@ neutral feelings (adukkhamasukhaṁ vedanā)	“This is peaceful, this is sublim
 neutral feelings (adukkhamasukhaṁ vedanā)	and spiritual happiness like sunlight and shadow	MN102
 nibbāna	“I am at peace, I have attained nibbāna”	MN102
 liberation through not clinging/grasping (anupādāvimokkha)	discovered by the Buddha	MN102
-foundations of mindfulness (satipaṭṭhāna)		xref bodhipakkhiyā dhammā
+foundations of mindfulness, four (satipaṭṭhāna)		xref bodhipakkhiyā dhammā
 right effort (sammā vāyāma)		xref bodhipakkhiyā dhammā
 bases of psychic power (iddhipāda)		xref bodhipakkhiyā dhammā
 faculties (indriya)		xref bodhipakkhiyā dhammā
 powers (bala)		xref bodhipakkhiyā dhammā
 awakening factors, seven (bojjhaṅga)		xref bodhipakkhiyā dhammā
 noble eightfold path (ariya aṭṭhangika magga)		xref bodhipakkhiyā dhammā
-bodhipakkhiyā dhammā		xref foundations of mindfulness (satipaṭṭhāna)
+bodhipakkhiyā dhammā		xref foundations of mindfulness, four (satipaṭṭhāna)
 bodhipakkhiyā dhammā		xref right effort (sammā vāyāma)
 bodhipakkhiyā dhammā		xref bases of psychic power (iddhipāda)
 bodhipakkhiyā dhammā		xref faculties (indriya)
@@ -2282,8 +2291,8 @@ acquisitions (upadhi)	root of suffering	MN105
 bases of contact, six (phassāyatana)	restraint	MN105
 beverage	poisoned, avoiding, like restraint towards sense fields, like restraint towards sense fields	MN105
 viper	venomous, avoiding, like restraint towards sense fields, like restraint towards sense fields	MN105
-snake		xref viper
-viper		xref snake
+snakes		xref viper
+viper		xref snakes
 sense pleasures (kāma, kāmaguṇa)	impermanent	MN106
 sense pleasures (kāma, kāmaguṇa)	hollow	MN106
 sense pleasures (kāma, kāmaguṇa)	false	MN106
@@ -2375,7 +2384,7 @@ contentment (santuṭṭhi)	respecting a monk who is content with requisites	MN1
 jhānas	respecting a monk who gets	MN108
 psychic powers	respecting a monk who has	MN108
 divine ear (dibbāsota)	respecting a monk who has	MN108
-clairaudience 		xref divine ear (dibbā sotadhātu)
+clairaudience 		xref divine ear (dibbāsota)
 mind reading	respecting a monk who can	MN108
 past lives, knowledge of (pubbenivāsānussatiñāna)	respecting a monk who has	MN108
 divine eye (dibbacakkhu)	respecting a monk who has	MN108
@@ -2641,7 +2650,7 @@ doctrine of inaction/non-doing (akiriyavādā)	teachers of	MN117
 doctrine of nihilism (natthikavādā)	teachers of	MN117
 uposatha	sermon given on	MN118
 Komudi full moon 		MN118
-foundations of mindfulness (satipaṭṭhāna)	monks committed to developing	MN118
+foundations of mindfulness, four (satipaṭṭhāna)	monks committed to developing	MN118
 right effort (sammā vāyāma)	monks committed to developing	MN118
 bases of psychic power (iddhipāda)	monks committed to developing	MN118
 faculties (indriya)	monks committed to developing	MN118
@@ -2658,7 +2667,7 @@ impermanence meditation (aniccasaññābhāvanā)	monks committed to developing	
 mindfulness of breathing (ānāpānassati)	monks committed to developing	MN118
 mindfulness of breathing (ānāpānassati)	instructions	MN118
 mindfulness of breathing (ānāpānassati)	fulfils the four foundations of mindfulness meditation	MN118
-foundations of mindfulness (satipaṭṭhāna)	fulfils the seven awakening factors	MN118
+foundations of mindfulness, four (satipaṭṭhāna)	fulfils the seven awakening factors	MN118
 awakening factors, seven (bojjhaṅga)	fulfil knowledge and freedom	MN118
 cross-legged (pallaṅka)	mindfulness of breathing	MN118
 body	mindfulness of breathing	MN118
@@ -2673,7 +2682,7 @@ cessation (nirodha)	mindfulness of breathing	MN118
 fading away (virāga)	mindfulness of breathing	MN118
 letting go (paṭinissagga)	mindfulness of breathing	MN118
 relinquishment		xref letting go (paṭinissagga)
-foundations of mindfulness (satipaṭṭhāna)	fulfilled by mindfulness of breathing	MN118
+foundations of mindfulness, four (satipaṭṭhāna)	fulfilled by mindfulness of breathing	MN118
 mindfulness of body (kāyānupassana)	mindfulness of breathing	MN118
 mindfulness of feeling (vedanānupassana)	mindfulness of breathing	MN118
 mindfulness of mind (cittānupass)	mindfulness of breathing	MN118
@@ -2879,9 +2888,9 @@ elephants	simile of gradual training	MN125
 gradual training (anupubbasikkhā)	in detail	MN125
 virtue (sīla)	part of gradual training	MN125
 sense doors, guarding (indriyesu guttadvāra)	part of gradual training	MN125
-foundations of mindfulness (satipaṭṭhāna)	part of gradual training	MN125
-foundations of mindfulness (satipaṭṭhāna)	like a pillar grounded in the earth	MN125
-foundations of mindfulness (satipaṭṭhāna)	not thinking thoughts connected with sensual pleasures	MN125
+foundations of mindfulness, four (satipaṭṭhāna)	part of gradual training	MN125
+foundations of mindfulness, four (satipaṭṭhāna)	like a pillar grounded in the earth	MN125
+foundations of mindfulness, four (satipaṭṭhāna)	not thinking thoughts connected with sensual pleasures	MN125
 enduring (khama)	criticism	MN125
 enduring (khama)	unpleasant things	MN125
 tamed (danta)	in any stage of life	MN125
@@ -2919,7 +2928,7 @@ Sabhiya Kaccāna, Ven.		MN127
 loving-kindness (mettā)	in action	MN128
 Kosambi	dispute at	MN128
 disputes	at Kosambi	MN128
-grudge		MN128
+grudge bearing (upanayhanti)	ending hatred	MN128
 thieves (cora)	live in harmony, so why can’t monks	MN128
 companionship	good	MN128
 solitude	better than association with fools 	MN128
@@ -3182,7 +3191,7 @@ ordinary person (puthujjana)	equanimity of	MN137
 equanimity (upekkhā)	based on unity	MN137
 equanimity (upekkhā)	based on diversity	MN137
 non-identification (atammayatā)	relying on give up equanimity based on diversity	MN137
-foundations of mindfulness (satipaṭṭhāna)	three	MN137
+foundations of mindfulness, four (satipaṭṭhāna)	three	MN137
 Dhamma teaching	students not interested	MN137
 Buddha, the	reaction to uninterested students	MN137
 “supreme guide for those who wish to train”	definition	MN137
@@ -3394,7 +3403,7 @@ mindfulness of body (kāyānupassana)	in definition of right mindfulness (sammā
 mindfulness of feeling (vedanānupassana)	in definition of right mindfulness (sammā sati)	MN141
 mindfulness of mind (cittānupass)	in definition of right mindfulness (sammā sati)	MN141
 mindfulness of mind objects (dhammānupassana)	in definition of right mindfulness (sammā sati)	MN141
-foundations of mindfulness (satipaṭṭhāna)	in definition of right mindfulness (sammā sati)	MN141
+foundations of mindfulness, four (satipaṭṭhāna)	in definition of right mindfulness (sammā sati)	MN141
 jhānas	in definition of right concentration (sammā samadhi)	MN141
 giving (dāna)	personal gifts	MN142
 giving (dāna)	purifying	MN142
@@ -3592,7 +3601,7 @@ sense bases (āyatanā)	examining reaction to	MN151
 self reflection	based on sense bases	MN151
 hindrances (nīvarana)	investigating the mind to see if they are present	MN151
 aggregates (khandha)	investigating the mind to see if they are clung to	MN151
-foundations of mindfulness (satipaṭṭhāna)	investigating the mind to see if they are developed	MN151
+foundations of mindfulness, four (satipaṭṭhāna)	investigating the mind to see if they are developed	MN151
 right effort (sammā vāyāma)	investigating the mind to see if they are developed	MN151
 bodhipakkhiyā dhammā	investigating the mind to see if they are developed	MN151
 self reflection	to see if bodhipakkhiyā dhammā are developed	MN151
@@ -5479,8 +5488,8 @@ ill will (vyāpada, byāpada)	leading to hell	AN4.272
 wrong view (micchā diṭṭhi)	leading to hell	AN4.273
 encouragement	to do bad	AN4.264-273
 encouragement	to do good	AN4.264-273
-foundations of mindfulness (satipaṭṭhāna)	insight into greed	AN4.274
-satipaṭṭhāna		xref foundations of mindfulness (satipaṭṭhāna)
+foundations of mindfulness, four (satipaṭṭhāna)	insight into greed	AN4.274
+satipaṭṭhāna		xref foundations of mindfulness, four (satipaṭṭhāna)
 right effort (sammā vāyāma)	insight into greed	AN4.275
 bases of psychic power (iddhipāda)	insight into greed	AN4.276
 powers of a trainee (sekha bala)	faith, conscience, prudence, energy, and wisdom 	AN5.1
@@ -7563,8 +7572,8 @@ pits	of glowing coals, simile for sensual pleasures	AN8.28
 sense pleasures (kāma, kāmaguṇa)	like pit of glowing coals	AN8.28
 seclusion (paṭisallīna, vivitta)	power of an arahant	AN8.28
 arahants	loving seclusion and renunciation	AN8.28
-foundations of mindfulness (satipaṭṭhāna)	arahant has well developed	AN8.28
-foundations of mindfulness (satipaṭṭhāna)	power of an arahant	AN8.28
+foundations of mindfulness, four (satipaṭṭhāna)	arahant has well developed	AN8.28
+foundations of mindfulness, four (satipaṭṭhāna)	power of an arahant	AN8.28
 bases of psychic power (iddhipāda)	arahant has well developed	AN8.28
 faculties (indriya)	five, arahant has well developed	AN8.28
 awakening factors, seven (bojjhaṅga)	arahant has well developed	AN8.28
@@ -8649,25 +8658,25 @@ contemptuousness (paḷāsa)	without giving up, cannot become arahant	AN9.62
 jealousy (issā)	without giving up, cannot become arahant	AN9.62
 stinginess (maccharī)	without giving up, cannot become arahant	AN9.62
 training (sikkhā)	breaking five precepts as weakness when training	AN9.63
-foundations of mindfulness (satipaṭṭhāna)	to overcome breaking five precepts	AN9.63
+foundations of mindfulness, four (satipaṭṭhāna)	to overcome breaking five precepts	AN9.63
 hindrances (nīvarana)	develop foundations of mindfulness to overcome	AN9.64
-foundations of mindfulness (satipaṭṭhāna)	to give up hindrances	AN9.64
+foundations of mindfulness, four (satipaṭṭhāna)	to give up hindrances	AN9.64
 sense pleasures (kāma, kāmaguṇa)	develop foundations of mindfulness to give up	AN9.65
-foundations of mindfulness (satipaṭṭhāna)	to give up sense pleasures	AN9.65
-foundations of mindfulness (satipaṭṭhāna)	to give up aggregates	AN9.66
+foundations of mindfulness, four (satipaṭṭhāna)	to give up sense pleasures	AN9.65
+foundations of mindfulness, four (satipaṭṭhāna)	to give up aggregates	AN9.66
 aggregates (khandha)	develop foundations of mindfulness to give up	AN9.66
 fetters (saṁyojana)	five lower	AN9.67
-foundations of mindfulness (satipaṭṭhāna)	to give up five lower fetters	AN9.67
+foundations of mindfulness, four (satipaṭṭhāna)	to give up five lower fetters	AN9.67
 realms (gati)	develop foundations of mindfulness to give up	AN9.68
 destinations (gati)		xref realms (gati)
-foundations of mindfulness (satipaṭṭhāna)	to give up five realms of rebirth	AN9.68
+foundations of mindfulness, four (satipaṭṭhāna)	to give up five realms of rebirth	AN9.68
 stinginess (maccharī)	five kinds 	AN9.69
 stinginess (maccharī)	giving up	AN9.69
-foundations of mindfulness (satipaṭṭhāna)	to give up stinginess	AN9.69
+foundations of mindfulness, four (satipaṭṭhāna)	to give up stinginess	AN9.69
 fetters (saṁyojana)	five higher	AN9.70
-foundations of mindfulness (satipaṭṭhāna)	to give up five higher fetters	AN9.70
+foundations of mindfulness, four (satipaṭṭhāna)	to give up five higher fetters	AN9.70
 mental barrenness (cetokhila)	develop foundations of mindfulness to give up	AN9.71
-foundations of mindfulness (satipaṭṭhāna)	to give up mental barrenness	AN9.71
+foundations of mindfulness, four (satipaṭṭhāna)	to give up mental barrenness	AN9.71
 bondages of the mind (cetovinibaddha, cetasovinibandha)	develop foundations of mindfulness to give up	AN9.72
 emotional shackles (cetovinibaddha, cetasovinibandha)		xref bondages of the mind (cetovinibaddha, cetasovinibandha)
 body	greed for as bondage of the mind	AN9.72
@@ -8967,7 +8976,7 @@ bases of overcoming (abhibhāyatana)	eight	AN10.29
 visions in meditation (rūpa)	mastering	AN10.29
 colors	in meditation	AN10.29
 world system (lokadhātu)	collapse/contraction of	AN10.29
-flax flower	simile for visions in meditation	AN10.29
+flowers	flax etc., simile for visions in meditation 	AN10.29
 Gods of Streaming Radiance (ābhassarā devā)	foremost when world system is contracting	AN10.29
 cloth	from Bāraṇasī, simile for visions in meditation	AN10.29
 painful practice (dukkhā paṭipadā)	with slow insight	AN10.29
@@ -9110,7 +9119,7 @@ self reflection		xref reflection (paṭisaṅkhā)
 mind reading	skill in ones own mind	AN10.51
 self reflection	to develop skillful qualities	AN10.51
 reviewing (paccavekkhaṇā)	to develop skillful qualities	AN10.51
-youth	checking reflection as simile for self examination	AN10.51
+youth	checking reflection, simile for self examination	AN10.51
 mirrors	simile for self examination	AN10.51
 covetousness (abhijjhā)	self examination for	AN10.51
 maliciousness (byāpannacitta)	self examination for	AN10.51
@@ -9238,8 +9247,8 @@ wholesome chain of causality	from association with good people to knowledge and 
 knowledge and freedom (vijjāvimutti)	caused by seven awakening factors	AN10.61
 awakening factors, seven (bojjhaṅga)	cause of knowledge and freedom	AN10.61
 awakening factors, seven (bojjhaṅga)	caused by four kinds of mindfulness meditation	AN10.61
-foundations of mindfulness (satipaṭṭhāna)	cause seven awakening factor	AN10.61
-foundations of mindfulness (satipaṭṭhāna)	caused by the three kinds of good conduct	AN10.61
+foundations of mindfulness, four (satipaṭṭhāna)	cause seven awakening factor	AN10.61
+foundations of mindfulness, four (satipaṭṭhāna)	caused by the three kinds of good conduct	AN10.61
 good actions	cause of the four kinds of mindfulness meditation	AN10.61
 good actions	caused by sense restraint	AN10.61
 sense restraint (indriyasaṁvara)	cause of the three kinds of good action	AN10.61
@@ -9288,8 +9297,8 @@ wholesome chain of causality	from association with good people to knowledge and 
 knowledge and freedom (vijjāvimutti)	caused by seven awakening factors	AN10.62
 awakening factors, seven (bojjhaṅga)	cause of knowledge and freedom	AN10.62
 awakening factors, seven (bojjhaṅga)	caused by four kinds of mindfulness meditation	AN10.62
-foundations of mindfulness (satipaṭṭhāna)	cause seven awakening factor	AN10.62
-foundations of mindfulness (satipaṭṭhāna)	caused by the three kinds of good conduct	AN10.62
+foundations of mindfulness, four (satipaṭṭhāna)	cause seven awakening factor	AN10.62
+foundations of mindfulness, four (satipaṭṭhāna)	caused by the three kinds of good conduct	AN10.62
 good actions	cause of the four kinds of mindfulness meditation	AN10.62
 good actions	caused by sense restraint	AN10.62
 sense restraint (indriyasaṁvara)	cause of the three kinds of good action	AN10.62
@@ -9756,8 +9765,8 @@ pits	of glowing coals, simile for sensual pleasures	AN10.90
 sense pleasures (kāma, kāmaguṇa)	like pit of glowing coals	AN10.90
 seclusion (paṭisallīna, vivitta)	power of an arahant	AN10.90
 arahants	loving seclusion and renunciation	AN10.90
-foundations of mindfulness (satipaṭṭhāna)	arahant has well developed	AN10.90
-foundations of mindfulness (satipaṭṭhāna)	power of an arahant	AN10.90
+foundations of mindfulness, four (satipaṭṭhāna)	arahant has well developed	AN10.90
+foundations of mindfulness, four (satipaṭṭhāna)	power of an arahant	AN10.90
 right effort, four (sammappadhānā)	power of an arahant	AN10.90
 bases of psychic power (iddhipāda)	arahant has well developed	AN10.90
 faculties (indriya)	five, arahant has well developed	AN10.90
@@ -9817,7 +9826,7 @@ citadel	simile for all who have attained enlightenment do so in certain way	AN10
 guards	simile for all who have attained enlightenment do so in certain way	AN10.95
 cats	simile for all who have attained enlightenment do so in certain way	AN10.95
 hindrances (nīvarana)	all who attain enlightenment remove	AN10.95
-foundations of mindfulness (satipaṭṭhāna)	all who attain enlightenment establish	AN10.95
+foundations of mindfulness, four (satipaṭṭhāna)	all who attain enlightenment establish	AN10.95
 awakening factors, seven (bojjhaṅga)	all who attain enlightenment develop	AN10.95
 Kokanada, wanderer	asking about views	AN10.96
 views (diṭṭhi)	refuting	AN10.96
@@ -10405,7 +10414,7 @@ listening to Dhamma	joy in listening	AN11.17
 roads	knowing the road, simile for knowing noble eightfold path	AN11.17
 noble eightfold path (ariya aṭṭhangika magga)	knowing, like knowing the road	AN11.17
 domain (gocarā)	knowing, simile for knowing four foundations of mindfulness	AN11.17
-foundations of mindfulness (satipaṭṭhāna)	knowing, like knowing the pasture	AN11.17
+foundations of mindfulness, four (satipaṭṭhāna)	knowing, like knowing the pasture	AN11.17
 milking	milking dry, simile for knowing moderation in accepting requisites	AN11.17
 requisites, four	knowing moderation in accepting like not milking dry	AN11.17
 moderation, knowing (mattaññū)	knowing moderation in accepting like not milking dry	AN11.17
@@ -10868,10 +10877,10 @@ Buddha, the	lives for the fruit of knowledge and freedom	SN46.6
 knowledge and freedom (vijjāvimutti)	Buddha lives for	SN46.6
 knowledge and freedom (vijjāvimutti)	fulfilled by awakening factors	SN46.6
 awakening factors, seven (bojjhaṅga)	knowledge and freedom	SN46.6
-foundations of mindfulness (satipaṭṭhāna)	to fulfill awakening factors	SN46.6
+foundations of mindfulness, four (satipaṭṭhāna)	to fulfill awakening factors	SN46.6
 awakening factors, seven (bojjhaṅga)	fulfilled by foundations of mindfulness	SN46.6
 good actions	three types fulfill foundations of mindfulness	SN46.6
-foundations of mindfulness (satipaṭṭhāna)	fulfilled by three types of good action	SN46.6
+foundations of mindfulness, four (satipaṭṭhāna)	fulfilled by three types of good action	SN46.6
 good actions	three types fulfilled by sense restraint	SN46.6
 sense restraint (indriyasaṁvara)	fulfills three types of good action	SN46.6
 sense restraint (indriyasaṁvara)	definition	SN46.6
@@ -11127,8 +11136,8 @@ Pessa the elephant driver’s son 	with Kandaraka the wanderer	MN51
 Kandaraka, wanderer 		MN51
 Buddhas	of the past and future	MN51
 Saṅgha	different kinds of people in	MN51
-foundations of mindfulness (satipaṭṭhāna)	Saṅgha practices	MN51
-foundations of mindfulness (satipaṭṭhāna)	laypeople practicing	MN51
+foundations of mindfulness, four (satipaṭṭhāna)	Saṅgha practices	MN51
+foundations of mindfulness, four (satipaṭṭhāna)	laypeople practicing	MN51
 elephants	showing all tricks, unlike humans	MN51
 animals	not eceptive like humans	MN51
 humans	deceptive, unlike animals	MN51
@@ -11666,7 +11675,7 @@ eating	in one part of the day	MN66
 monastic rules (vinaya)	Buddha creating	MN66
 monastic rules (vinaya)	benefit of 	MN66
 alms gathering practice	at night	MN66
-goblin (pisāca)	monk accused of being	MN66
+goblins (pisāca)	monk accused of being	MN66
 quail	simile for person bound by their weak ties	MN66
 elephants	simile for person not bound by their weak ties	MN66
 poor people	simile for person bound by their weak ties	MN66
@@ -12033,3 +12042,185 @@ Nanda Vaccha 	recognized as emancipator	MN76
 encouragement	to ordain under the Buddha	MN76
 jhānas	as fruit of the spiritual path	MN76
 ājīvakas	glorifying themselves 	MN76
+eating		xref eating little (appāhāra)
+virtue (sīla)		xref virtue, higher (adhisīla)
+right effort (sammā vāyāma)		xref right effort, four (sammappadhānā)
+right effort, four (sammappadhānā)		xref right effort (sammā vāyāma)
+pots		xref potters
+woman		xref women
+horn blower		xref conch blowers
+clairvoyance 		xref divine eye (dibbacakkhu)
+knowledge of destruction of the taints (āsavakkhayañāṇa)		xref taints (āsava)
+taints (āsava)		xref knowledge of destruction of the taints (āsavakkhayañāṇa)
+Sakuludāyī, wanderer	reasons why people respect the Buddha	MN77
+Buddha, the	visiting wanderers of other sects	MN77
+useless speech (tiracāna)	wanderers of other sects engaging in	MN77
+Pūraṇa Kassapa 	disrespect towards	MN77
+Makkhali Gosāla 	disrespect towards	MN77
+Ajita Kesakambala	disrespect towards	MN77
+Pakudha Kaccāyana	disrespect towards	MN77
+Sañjaya Belaṭṭhiputta 	disrespect towards	MN77
+Nigaṇṭha Nāṭaputta	disrespect towards	MN77
+disputes	about doctrine	MN77
+listening to Dhamma	taught by Buddha	MN77
+honey	pressing out, simile for listening to the Buddha	MN77
+listening to Dhamma	attentively	MN77
+disrobing	still praising the Triple Gem	MN77
+monastery attendant (ārāmika)	becoming after disrobing	MN77
+lay follower (upāsaka, upāsikā)	becoming after disrobing	MN77
+eating little (appāhāra)	praise for	MN77
+robes	content with any kind of	MN77
+almsfood	contentment with	MN77
+dwellings (senāsana)	contentment with	MN77
+seclusion (paviveka)	praise for	MN77
+eating little (appāhāra)	monks who eat less than the Buddha	MN77
+robes	monks only using rag robes	MN77
+ascetic practices (dhutaṅga)	practiced by disciples	MN77
+almsfood	only eating almsfood collected house to house	MN77
+dwellings (senāsana)	only living under tree	MN77
+tree root dwelling (rukkhamūlika)	disciples who practice	MN77
+wilderness dwelling monk (āraññika)	disciples who practice	MN77
+respect (gārava)	why disciples respect the Buddha	MN77
+Buddha, the	why disciples respect	MN77
+virtue, higher (adhisīla)	why disciples respect the Buddha	MN77
+knowledge and vision (ñāṇadassana)	why disciples respect the Buddha	MN77
+knowing knows, seeing sees (jānaṁ jānāti passaṁ passatī)	why disciples respect the Buddha	MN77
+Dhamma teaching	how Buddha teaches	MN77
+Buddha, the	teaches with direct knowledge, reason, demonstrable base 	MN77
+wisdom, higher (adhipaññā)	why disciples respect the Buddha	MN77
+Buddha, the	wisdom of	MN77
+teachers of other religions	behaviour of students	MN77
+teachers	disrespect towards	MN77
+four noble truths	asking how they apply to our own suffering	MN77
+foundations of mindfulness, four (satipaṭṭhāna)	why disciples respect the Buddha	MN77
+right effort, four (sammappadhānā)	why disciples respect the Buddha	MN77
+bases of psychic power (iddhipāda)	why disciples respect the Buddha	MN77
+faculties (indriya)	five, why disciples respect the Buddha	MN77
+powers (bala)	five, why disciples respect the Buddha	MN77
+factors of enlightenment (bojjhaṅga)	why disciples respect the Buddha	MN77
+noble eightfold path (ariya aṭṭhangika magga)	why disciples respect the Buddha	MN77
+liberations, eight (vimokkha)	why disciples respect the Buddha	MN77
+liberations, eight (vimokkha)	definition	MN77
+bases of overcoming (abhibhāyatana)	why disciples respect the Buddha	MN77
+bases of overcoming (abhibhāyatana)	definition	MN77
+flowers	flax etc., simile for visions in meditation 	MN77
+stars	morning, simile for visions in meditation	MN77
+kasiṇas	ten	MN77
+jhānas	similes for	MN77
+bath attendant	simile for first jhāna	MN77
+bath powder	simile for first jhāna	MN77
+lakes	simile for second jhāna	MN77
+water lilly	simile for third jhāna	MN77
+lotus	simile for third jhāna	MN77
+mind	pure and bright in fourth jhāna	MN77
+cloth	white, covering person, simile for fourth Jhana	MN77
+elements, four great (cattāri mahābhūtāni)	tied to consciousness	MN77
+consciousness (viññāṇa)	tied to four great elements	MN77
+gems	beryl, simile of examining the body	MN77
+mind-made body (manomayena kāya)	definition	MN77
+reeds	simile for mind made body	MN77
+snakes	slough, simile for mind made body	MN77
+psychic powers	explanation of	MN77
+psychic powers	similes of	MN78
+water	walking on	MN77
+earth	diving into as if water	MN77
+flying	using psychic powers	MN77
+brahmā realm (brahmalokā)	visiting using psychic powers	MN77
+divine ear (dibbāsota)	definition	MN77
+conch blowers	simile for divine ear	MN77
+mind reading	description of	MN77
+potters	making things with clay, simile for psychic powers	MN77
+clay	simile for psychic powers	MN77
+ivory	simile for psychic powers	MN77
+carvers	ivory, simile for psychic powers	MN77
+goldsmith	simile for psychic powers	MN77
+gold	simile for psychic powers	MN77
+divine ear (dibbāsota)	definition	MN77
+mind (citta)	constricted	MN77
+mind (citta)	with defilements	MN77
+mind (citta)	scattered or not scattered	MN77
+mind (citta)	expansive or unexpansive	MN77
+mind (citta)	supreme or not supreme	MN77
+mind (citta)	immersed or not in samadhi	MN77
+mind (citta)	freed or unfreed	MN77
+women	checking reflection, simile for knowing mind of others	MN77
+men	checking reflection, simile for knowing mind of others	MN77
+youth	checking reflection, simile for knowing mind of others	MN77
+mirrors	simile for knowing mind of others	MN77
+past lives, knowledge of (pubbenivāsānussatiñāna)	definition	MN77
+travellers	simile for recollecting past lives	MN77
+villages (gāma)	simile for recollecting past lives	MN77
+past lives, knowledge of (pubbenivāsānussatiñāna)	like traveller recollecting journey	MN77
+knowledge of passing away and rebirth of beings (cutūpapātañāna)	definition	MN77
+houses	people walking between, simile for knowledge of rebirth of beings	MN77
+divine eye (dibbacakkhu)	rebirth of beings	MN77
+taints (āsava)	ending of	MN77
+lakes	simile for destruction of taints	MN77
+mountains	lakes, simile for destruction of taints	MN77
+thoughts (saṅkappa)		xref intention (saṅkappa)
+striving (padhāna)		xref right effort, four (sammappadhānā)
+right effort, four (sammappadhānā)		xref striving (padhāna)
+behaviours (sīlā)		xref habits (sīlā)
+thoughts of sensuality (kāmasaṅkappa)		xref intention of sensual desire (kāmasaṅkappa)
+thoughts of malice (byāpādasaṅkappa)		xref intention of ill will (byāpādasaṅkappa)
+thoughts of cruelty (vihiṁsāsaṅkappa)		xref intention of cruelty (vihiṁsāsaṅkappa)
+perceptions of sensuality (kāmasaññā)		xref perception of sensual desire (kāmasaññā)
+perceptions malice (byāpādasaññā)		xref perception of ill will (byāpādasaññā)
+perceptions of cruelty  (vihiṁsāsaññā)		xref perception of cruelty (vihiṁsāsaññā)
+thoughts of renunciation (nekkhammasaṅkappa)		xref intention of renunciation (nekkhammasaṅkappa)
+thoughts of non-ill will (abyāpādasaṅkappa)		xref intention of non-ill will (abyāpādasaṅkappa)
+thoughts of non-cruelty (avihiṁsāsaṅkappa)		xref intention of non-cruelty (avihiṁsāsaṅkappa)
+perception of good will (abyāpādasaññā)		xref perception of non-ill will (abyāpādasaññā)
+perception of harmlessness (avihiṁsāsaññā)		xref perception of non-cruelty (avihiṁsāsaññā)
+Uggāhamāna Samaṇamuṇḍikāputta, wanderer	qualities of invincible ascetic 	MN78
+Pañcakaṅga, master builder	visiting wanderers of other sects	MN78
+babies	compared to wrong ideas about invincible ascetic	MN78
+ascetics (samaṇa)	invincible (ayojjha), qualities of	MN78
+wanderers of other sects (aññatitthiya paribbājaka)	wrong views of	MN78
+skillfulness and unskillfulness	behaviours, thoughts, 	MN78
+habits (sīlā)	wholesome and unwholesome	MN78
+intention (saṅkappa)	wholesome and unwholesome	MN78
+habits (sīlā)	cause of wholesome and unwholesome	MN78
+intention (saṅkappa)	cause of wholesome and unwholesome	MN78
+unwholesome roots (rāga, dosa, moha)	cause of unwholesome	MN78
+wholesome roots (vītarāga, vītadosa, vītamoha)	cause of wholesome	MN78
+mind (citta)	origin of habits and intentions	MN78
+right livelihood (sammā ājīva)	cessation of unskillful behaviour	MN78
+wrong livelihood (micchā ājīva)	giving up	MN78
+bad actions	by body, speech and mind	MN78
+right effort, four (sammappadhānā)	to give up unskillful behaviour	MN78
+perceptions (saññā)	cause of unskillful intention	MN78
+virtue (sīla)	not identifying with	MN78
+intention of sensual desire (kāmasaṅkappa)	caused by perception	MN78
+intention of ill will (byāpādasaṅkappa)	caused by perception	MN78
+intention of cruelty (vihiṁsāsaṅkappa)	caused by perception	MN78
+perception of sensual desire (kāmasaññā)	cessation of 	MN78
+perception of ill will (byāpādasaññā)	cessation of 	MN78
+perception of cruelty (vihiṁsāsaññā)	cessation of 	MN78
+right effort, four (sammappadhānā)	to give up unskillful intentions	MN78
+first jhāna	to give up unskillful intentions	MN78
+intention of renunciation (nekkhammasaṅkappa)	caused by perception	MN78
+intention of non-ill will (abyāpādasaṅkappa)	caused by perception	MN78
+intention of non-cruelty (avihiṁsāsaṅkappa)	caused by perception	MN78
+perception of renunciation (nekkhammasaññā)	cause of intention	MN78
+perception of non-ill will (abyāpādasaññā)	cause of intention	MN78
+perception of non-cruelty (avihiṁsāsaññā)	cause of intention	MN78
+perception of renunciation (nekkhammasaññā)	cessation of 	MN78
+perception of non-ill will (abyāpādasaññā)	cessation of 	MN78
+perception of non-cruelty (avihiṁsāsaññā)	cessation of 	MN78
+intention (saṅkappa)	cessation of 	MN78
+first jhāna	cessation of intentions	MN78
+intention (saṅkappa)	wholesome and unwholesome	MN78
+noble eightfold path (ariya aṭṭhangika magga)	qualities of invincible ascetic 	MN78
+right knowledge (sammā ñāṇa)	qualities of invincible ascetic 	MN78
+right freedom (sammā vimutti)	qualities of invincible ascetic 	MN78
+mud-goblins (pisāca)		xref goblins (pisāca)
+Sakuludāyī, wanderer		MN79
+Buddha, the	visiting wanderers of other sects 	MN79
+omniscience	false claims of	MN79
+Nigaṇṭha Nāṭaputta	false claims of omnicience	MN79
+past lives, knowledge of (pubbenivāsānussatiñāna)	person with discussing with the Buddha	MN79
+knowledge of passing away and rebirth of beings (cutūpapātañāna)	person with discussing with the Buddha	MN79
+past and future	setting asside	MN79
+“when this exists, that comes to be…”	Buddha teaches	MN79
+goblins (pisāca)	cannot see	MN79
