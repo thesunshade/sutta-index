@@ -7444,7 +7444,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "openhanded": {
+               "open-handed": {
                     "locators": [
                          "Thag1.86"
                     ],
@@ -25994,6 +25994,13 @@ export const indexObject ={
                }
           },
           "hands": {
+               "Buddha is open-handed": {
+                    "locators": [
+                         "Iti100",
+                         "Thag1.86"
+                    ],
+                    "xrefs": []
+               },
                "": {
                     "locators": [],
                     "xrefs": [
