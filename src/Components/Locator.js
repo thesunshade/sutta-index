@@ -5,6 +5,7 @@ import { memo } from "react";
 // functions
 import getSuttaTitleBlurb from "../functions/getSuttaTitleBlurb.js";
 import getSuttaTitle from "../functions/getSuttaTitle.js";
+import convertVatthus from "../functions/convertVatthus.js";
 
 function Locator(props) {
   let { location } = props;
@@ -39,7 +40,13 @@ function Locator(props) {
   }
 
   if ("vv" === justBook(location) || "pv" === justBook(location)) {
-    url = `https://sutta.readingfaithfully.org/?q=${locationForUrl}`;
+    url = `https://SuttaFriends.org/${convertVatthus(locationForUrl)}`;
+  }
+
+  if (/^CUSTOM:/.test(location)) {
+    const components = location.split(":");
+    location = components[2];
+    url = "https://" + components[3];
   }
 
   function addSpace(location) {

@@ -250,7 +250,7 @@ diligence		xref heedfulness (appamāda)
 heedfulness (appamāda)	like island	Dhp25
 island	simile for heedfulness	Dhp25
 heedfulness (appamāda)	as best treasure	Dhp26
-heedfulness (appamāda)		Dhp chapter 2
+heedfulness (appamāda)		CUSTOM:Dhp:Dhammapada Chapter 2:suttacentral.net/dhp21-32/en/sujato
 heedfulness (appamāda)	simile of mountain-top	Dhp28
 heedfulness (appamāda)	simile of swift horse	Dhp29
 Sakka, Lord of Gods		Dhp31
@@ -258,7 +258,7 @@ heedfulness (appamāda)	as always praised	Dhp30
 heedfulness (appamāda)	simile of fire	Dhp31
 heedlessness (pamāda)	seeing fear in	Dhp31
 heedlessness (pamāda)	seeing fear in	Dhp32
-mind		Dhp chapter 3
+mind		CUSTOM:Dhp:Dhammapada Chapter 3:suttacentral.net/dhp33-43/en/sujato
 mind	simile of arrow maker	Dhp33
 mind	as hard to control	Dhp33
 mind	as hard to control	Dhp34
@@ -285,7 +285,7 @@ virtue (sīla)	as supreme fragrance	Dhp55
 virtue (sīla)	as supreme fragrance	Dhp56
 Māra	cannot find the good	Dhp57
 disciples of the Buddha	simile of lotus in mud	Dhp59
-fools (bāla)		Dhp chapter 5
+fools (bāla)		CUSTOM:Dhp:Dhammapada Chapter 5:suttacentral.net/dhp60-75/en/sujato
 fools (bāla)	long in saṁsara	Dhp60
 fools (bāla)	don’t associate with	Dhp61
 solitude	better than association with fools	Dhp61
@@ -365,7 +365,7 @@ conscience (hiri)	simile of horse and whip	Dhp144
 self taming	simile of arrow maker	Dhp145
 self taming	simile of irrigator	Dhp145
 self taming	simile of carpenter	Dhp145
-old age (jarā)		Dhp chapter 11
+old age (jarā)		CUSTOM:Dhp:Dhammapada Chapter 11:suttacentral.net/dhp146-156/en/sujato
 urgency (saṁvega)		Dhp146
 perception of ugliness (asubhasañña)		Dhp147–50
 foulness of body		xref perception of ugliness (asubhasañña)
@@ -401,7 +401,7 @@ heaven (sagga)	few reborn in	Dhp174
 lying		Dhp176
 giving (dāna)	praised by wise	Dhp177
 stream-enterers (sotāpanna)	better than heaven	Dhp178
-Buddha, the		Dhp chapter 14 
+Buddha, the		CUSTOM:Dhp:Dhammapada Chapter 14:suttacentral.net/dhp179-196/en/sujato
 Buddha, the	envied by gods	Dhp181
 human birth	rarity of	Dhp182
 Buddhas	rarity of	Dhp182
@@ -413,7 +413,7 @@ refuges	false	Dhp188–89
 refuges	seeing noble truths	Dhp190–92
 honor	to the worthy	Dhp195–96
 merit (puññā)	by honoring	Dhp195–96
-happiness (sukha)		Dhp chapter 15
+happiness (sukha)		CUSTOM:Dhp:Dhammapada Chapter 15:suttacentral.net/dhp197-208/en/sujato
 love		xref non-hatred (avera)
 love		xref non-hatred (adosa)
 non-hatred (avera)	living among people who hate	Dhp197
@@ -425,18 +425,21 @@ aggregates (khandha)	as suffering	Dhp202
 hunger	as illness	Dhp203
 health	as blessing	Dhp204
 contentment (santuṭṭhi)	as wealth	Dhp204
-association	with wise	Dhp206–7
+association	with wise	Dhp206
+association	with wise	Dhp207
 association 	with fools	Dhp207
 association 	simile of moon and stars	Dhp208
 priorities		Dhp209
 jealousy (issā)		Dhp209
 association 	with loved and unloved	Dhp210
-love (piya)		Dhp chapter 16
-loved ones	clinging to	Dhp211–12
+love (piya)		CUSTOM:Dhp:Dhammapada Chapter 16:suttacentral.net/dhp209-220/en/sujato
+loved ones	clinging to	Dhp211
+loved ones	clinging to	Dhp212
 attachments	as source of sorrow	Dhp214
 craving (taṇha)	as source of sorrow	Dhp215
-good actions	rebirth	Dhp219–20
-anger (kodha)		Dhp chapter 17
+good actions	rebirth	Dhp219
+good actions	rebirth	Dhp220
+anger (kodha)		CUSTOM:Dhp:Dhammapada Chapter 17:suttacentral.net/dhp221-234/en/sujato
 anger (kodha)	simile of charioteer	Dhp222
 anger (kodha)	keep in check	Dhp222
 anger (kodha)	overcoming	Dhp223
@@ -448,7 +451,8 @@ blame	inevitability of	Dhp227
 Atula	someone is always blamed	Dhp227
 praise and blame		Dhp228
 good people (sappurisa)	praised by gods	Dhp230
-misconduct	giving up	Dhp232–33
+misconduct	giving up	Dhp232
+misconduct	giving up	Dhp233
 self reliance		Dhp236
 self reliance		Dhp238
 self purification	simile of silversmith	Dhp239
@@ -494,7 +498,7 @@ Himalayas	simile for good people	Dhp304
 bad people (asappurisa)	like arrows	Dhp304
 arrows	simile for bad people	Dhp304
 seclusion		Dhp305
-hell (niraya)		Dhp chapter 22
+hell (niraya)		CUSTOM:Dhp:Dhammapada Chapter 22:suttacentral.net/dhp306-319/en/sujato
 lying	rebirth	Dhp306
 bad monastics	rebirth	Dhp307–8
 sexual misconduct	result	Dhp309–10
@@ -506,7 +510,7 @@ self guarding	like a citadel	Dhp315
 shame		Dhp316
 wrong views		Dhp316–18
 right view (sammā diṭṭhi)	leads to good rebirth	Dhp319
-elephants		Dhp chapter 23
+elephants		CUSTOM:Dhp:Dhammapada Chapter 23:suttacentral.net/dhp320-333/en/sujato
 enduring abuse	like elephant	Dhp320
 elephants	simile for enduring abuse	Dhp320
 enduring abuse		Dhp320–21
@@ -524,7 +528,7 @@ contentment (santuṭṭhi)		Dhp331
 parents	caring for	Dhp332
 faith (saddhā)	blessing	Dhp333
 precepts	blessing	Dhp333
-craving (taṇha)		Dhp chapter 24
+craving (taṇha)		CUSTOM:Dhp:Dhammapada Chapter 24:suttacentral.net/dhp334-359/en/sujato
 craving (taṇha)	like creeper	Dhp334
 creepers	simile for craving	Dhp334
 craving (taṇha)	like a monkey	Dhp334
@@ -572,7 +576,7 @@ friendship		Dhp376
 self reflection		Dhp379
 restraint	like thoroughbred	Dhp380
 mendicants	young	Dhp382
-brahmin	true meaning	Dhp chapter 26
+brahmin	true meaning	CUSTOM:Dhp:Dhammapada Chapter 26:suttacentral.net/dhp383-423/en/sujato
 retaliation		Dhp389
 cruelty (hiṁsa, vihiṁsa)	as cruelty reduces, so does suffering	Dhp390
 honor	your Dhamma teacher	Dhp392
@@ -1317,7 +1321,7 @@ renunciation (nekkhamma)	as sanctuary	Snp5.12
 Vakkali, Ven.	committed to faith	Snp5.19
 mansions, heavenly		xref devas
 heavenly mansions (vimāna)		xref devas
-devas		Vv
+devas		CUSTOM:Vv:Vimanavatthu:SuttaFriends.org/vv
 gifts, specific types of	chair	Vv1
 gifts, specific types of	chair	Vv2
 gifts, specific types of	chair	Vv3
@@ -1468,7 +1472,7 @@ departed relatives	sharing merit with	Pv5
 ghost realm	qualities of	Pv5
 merit sharing	like rain reaching the oceans	Pv5
 merit sharing	as a source of merit itself	Pv5
-ghosts		Pv
+ghosts		CUSTOM:Pv:Petavatthu:SuttaFriends.org/pv
 speech	false oath	Pv6
 pregnancy	causing termination of someone else’s	Pv6
 ghosts	child eating	Pv6
@@ -10607,6 +10611,7 @@ giving (dāna)	leads to wealth	SN42.9
 death (maraṇa)	cause of grief	SN42.11
 loving-kindness (mettā)	to prepare the mind for reflection	SN42.13
 false speech	praised by some	SN42.13
+noble eightfold path (ariya aṭṭhangika magga)		CUSTOM:SN:Maggasaṁyutta:suttacentral.net/sn45
 ignorance (avijjā)	cause of unskillful qualities	SN45.1
 unskillful qualities (akusala dhamma)	caused by ignorance	SN45.1
 conscience and prudence (hiri ottappa)	lack of caused by ignorance	SN45.1
@@ -10903,6 +10908,7 @@ awakening factors, seven (bojjhaṅga)		xref awakening factor of rapture (pītis
 awakening factors, seven (bojjhaṅga)		xref awakening factor of tranquility (passaddhisambojjhaṅga)
 awakening factors, seven (bojjhaṅga)		xref awakening factor of immersion (samādhisambojjhaṅga)
 awakening factors, seven (bojjhaṅga)		xref awakening factor of equanimity (upekkhāsambojjhaṅga)
+awakening factors, seven (bojjhaṅga)		CUSTOM:SN:Bojjhaṅgasaṁyutta:suttacentral.net/sn46
 body	supported by food, simile for hindrances	SN46.2
 hindrances (nīvarana)	sustained by fuel	SN46.2
 sense desire (kāmacchanda)	caused by sign of the beautiful	SN46.2
@@ -10915,7 +10921,7 @@ sleepiness	cause for dullness and drowsiness	SN46.2
 restlessness and remorse (uddhaccakukkucca)	cause	SN46.2
 agitation (avūpasama)	caue for restlessness and remorse	SN46.2
 doubt (vicikicchā)	cause	SN46.2
-factors of enlightenment (bojjhaṅga)	cause	SN46.2
+awakening factors, seven (bojjhaṅga)	cause	SN46.2
 awakening factor of mindfulness (satisambojjhaṅga)	cause	SN46.2
 awakening factor of investigation of principles (dhammavicayasambojjhaṅg)	cause	SN46.2
 awakening factor of energy (vīriyasambojjhaṅga)	cause	SN46.2
@@ -11075,7 +11081,7 @@ sleepiness	cause for dullness and drowsiness	SN46.51
 restlessness and remorse (uddhaccakukkucca)	cause	SN46.51
 agitation (avūpasama)	caue for restlessness and remorse	SN46.51
 doubt (vicikicchā)	cause	SN46.51
-factors of enlightenment (bojjhaṅga)	cause	SN46.51
+awakening factors, seven (bojjhaṅga)	cause	SN46.51
 awakening factor of mindfulness (satisambojjhaṅga)	cause	SN46.51
 awakening factor of investigation of principles (dhammavicayasambojjhaṅg)	cause	SN46.51
 awakening factor of energy (vīriyasambojjhaṅga)	cause	SN46.51
@@ -11091,7 +11097,7 @@ dullness and drowsiness (thinamiddha)	starved by elements of initiative, persist
 restlessness and remorse (uddhaccakukkucca)	starved by the settled mind	SN46.51
 settled (vūpasama)	settled mind starves restlessness and remorse	SN46.51
 doubt (vicikicchā)	starved by settled mind	SN46.51
-factors of enlightenment (bojjhaṅga)	what starves	SN46.51
+awakening factors, seven (bojjhaṅga)	what starves	SN46.51
 awakening factor of mindfulness (satisambojjhaṅga)	what starves	SN46.51
 awakening factor of investigation of principles (dhammavicayasambojjhaṅg)	what starves	SN46.51
 awakening factor of energy (vīriyasambojjhaṅga)	what starves	SN46.51
@@ -12183,7 +12189,7 @@ right effort, four (sammappadhānā)	why disciples respect the Buddha	MN77
 bases of psychic power (iddhipāda)	why disciples respect the Buddha	MN77
 faculties (indriya)	five, why disciples respect the Buddha	MN77
 powers (bala)	five, why disciples respect the Buddha	MN77
-factors of enlightenment (bojjhaṅga)	why disciples respect the Buddha	MN77
+awakening factors, seven (bojjhaṅga)	why disciples respect the Buddha	MN77
 noble eightfold path (ariya aṭṭhangika magga)	why disciples respect the Buddha	MN77
 liberations, eight (vimokkha)	why disciples respect the Buddha	MN77
 liberations, eight (vimokkha)	definition	MN77

@@ -1955,7 +1955,7 @@ export const indexObject ={
           "anger (kodha)": {
                "": {
                     "locators": [
-                         "Dhp chapter 17"
+                         "CUSTOM:Dhp:Dhammapada Chapter 17:suttacentral.net/dhp221-234/en/sujato"
                     ],
                     "xrefs": [
                          "xref irritability (kodhana)",
@@ -3326,7 +3326,8 @@ export const indexObject ={
                          "Kp5",
                          "Dhp64",
                          "Dhp65",
-                         "Dhp206–7",
+                         "Dhp206",
+                         "Dhp207",
                          "Iti76",
                          "Iti78",
                          "Snp1.3"
@@ -4296,7 +4297,9 @@ export const indexObject ={
                     "xrefs": []
                },
                "": {
-                    "locators": [],
+                    "locators": [
+                         "CUSTOM:SN:Bojjhaṅgasaṁyutta:suttacentral.net/sn46"
+                    ],
                     "xrefs": [
                          "xref awakening factor of energy (vīriyasambojjhaṅga)",
                          "xref awakening factor of equanimity (upekkhāsambojjhaṅga)",
@@ -4413,6 +4416,13 @@ export const indexObject ={
                          "SN46.1",
                          "SN46.11",
                          "SN46.99"
+                    ],
+                    "xrefs": []
+               },
+               "cause": {
+                    "locators": [
+                         "SN46.2",
+                         "SN46.51"
                     ],
                     "xrefs": []
                },
@@ -4597,6 +4607,12 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
+               "what starves": {
+                    "locators": [
+                         "SN46.51"
+                    ],
+                    "xrefs": []
+               },
                "becoming twofold": {
                     "locators": [
                          "SN46.52"
@@ -4630,6 +4646,12 @@ export const indexObject ={
                "to give up five higher fetters": {
                     "locators": [
                          "SN46.130"
+                    ],
+                    "xrefs": []
+               },
+               "why disciples respect the Buddha": {
+                    "locators": [
+                         "MN77"
                     ],
                     "xrefs": []
                }
@@ -7102,7 +7124,7 @@ export const indexObject ={
           "brahmin": {
                "true meaning": {
                     "locators": [
-                         "Dhp chapter 26",
+                         "CUSTOM:Dhp:Dhammapada Chapter 26:suttacentral.net/dhp383-423/en/sujato",
                          "Ud1.4",
                          "Ud1.5",
                          "Ud1.6",
@@ -7259,7 +7281,7 @@ export const indexObject ={
                },
                "": {
                     "locators": [
-                         "Dhp chapter 14"
+                         "CUSTOM:Dhp:Dhammapada Chapter 14:suttacentral.net/dhp179-196/en/sujato"
                     ],
                     "xrefs": [
                          "xref Bodhisatta",
@@ -10917,7 +10939,7 @@ export const indexObject ={
                },
                "": {
                     "locators": [
-                         "Dhp chapter 24"
+                         "CUSTOM:Dhp:Dhammapada Chapter 24:suttacentral.net/dhp334-359/en/sujato"
                     ],
                     "xrefs": [
                          "xref craving for existence (bhavataṇhā)",
@@ -12963,7 +12985,7 @@ export const indexObject ={
           "devas": {
                "": {
                     "locators": [
-                         "Vv"
+                         "CUSTOM:Vv:Vimanavatthu:SuttaFriends.org/vv"
                     ],
                     "xrefs": []
                },
@@ -16805,7 +16827,7 @@ export const indexObject ={
           "elephants": {
                "": {
                     "locators": [
-                         "Dhp chapter 23"
+                         "CUSTOM:Dhp:Dhammapada Chapter 23:suttacentral.net/dhp320-333/en/sujato"
                     ],
                     "xrefs": []
                },
@@ -18555,25 +18577,6 @@ export const indexObject ={
                     "xrefs": [
                          "xref awakening factors, seven (bojjhaṅga)"
                     ]
-               },
-               "cause": {
-                    "locators": [
-                         "SN46.2",
-                         "SN46.51"
-                    ],
-                    "xrefs": []
-               },
-               "what starves": {
-                    "locators": [
-                         "SN46.51"
-                    ],
-                    "xrefs": []
-               },
-               "why disciples respect the Buddha": {
-                    "locators": [
-                         "MN77"
-                    ],
-                    "xrefs": []
                }
           },
           "factors of stream-entry (sotāpattiyaṅga)": {
@@ -20843,7 +20846,7 @@ export const indexObject ={
                     "locators": [
                          "AN2.21",
                          "AN2.98",
-                         "Dhp chapter 5"
+                         "CUSTOM:Dhp:Dhammapada Chapter 5:suttacentral.net/dhp60-75/en/sujato"
                     ],
                     "xrefs": []
                },
@@ -22627,7 +22630,7 @@ export const indexObject ={
                },
                "": {
                     "locators": [
-                         "Pv"
+                         "CUSTOM:Pv:Petavatthu:SuttaFriends.org/pv"
                     ],
                     "xrefs": [
                          "xref departed relatives"
@@ -24685,7 +24688,8 @@ export const indexObject ={
                },
                "rebirth": {
                     "locators": [
-                         "Dhp219–20"
+                         "Dhp219",
+                         "Dhp220"
                     ],
                     "xrefs": []
                },
@@ -26026,7 +26030,7 @@ export const indexObject ={
           "happiness (sukha)": {
                "": {
                     "locators": [
-                         "Dhp chapter 15"
+                         "CUSTOM:Dhp:Dhammapada Chapter 15:suttacentral.net/dhp197-208/en/sujato"
                     ],
                     "xrefs": [
                          "xref bliss of renunciation (nekkhammasukha)"
@@ -27577,8 +27581,8 @@ export const indexObject ={
                     "locators": [
                          "AN4.116",
                          "AN4.117",
-                         "Dhp21",
-                         "Dhp chapter 2"
+                         "CUSTOM:Dhp:Dhammapada Chapter 2:suttacentral.net/dhp21-32/en/sujato",
+                         "Dhp21"
                     ],
                     "xrefs": [
                          "xref heedlessness (pamāda)"
@@ -27932,7 +27936,7 @@ export const indexObject ={
           "hell (niraya)": {
                "": {
                     "locators": [
-                         "Dhp chapter 22"
+                         "CUSTOM:Dhp:Dhammapada Chapter 22:suttacentral.net/dhp306-319/en/sujato"
                     ],
                     "xrefs": [
                          "xref wrong views"
@@ -34682,7 +34686,7 @@ export const indexObject ={
           "love (piya)": {
                "": {
                     "locators": [
-                         "Dhp chapter 16"
+                         "CUSTOM:Dhp:Dhammapada Chapter 16:suttacentral.net/dhp209-220/en/sujato"
                     ],
                     "xrefs": []
                },
@@ -34781,7 +34785,8 @@ export const indexObject ={
           "loved ones": {
                "clinging to": {
                     "locators": [
-                         "Dhp211–12"
+                         "Dhp211",
+                         "Dhp212"
                     ],
                     "xrefs": []
                },
@@ -37152,7 +37157,7 @@ export const indexObject ={
           "mind": {
                "": {
                     "locators": [
-                         "Dhp chapter 3"
+                         "CUSTOM:Dhp:Dhammapada Chapter 3:suttacentral.net/dhp33-43/en/sujato"
                     ],
                     "xrefs": []
                },
@@ -38283,7 +38288,8 @@ export const indexObject ={
           "misconduct": {
                "giving up": {
                     "locators": [
-                         "Dhp232–33"
+                         "Dhp232",
+                         "Dhp233"
                     ],
                     "xrefs": []
                },
@@ -40462,7 +40468,9 @@ export const indexObject ={
                     "xrefs": []
                },
                "": {
-                    "locators": [],
+                    "locators": [
+                         "CUSTOM:SN:Maggasaṁyutta:suttacentral.net/sn45"
+                    ],
                     "xrefs": [
                          "xref bodhipakkhiyā dhammā"
                     ]
@@ -41677,7 +41685,7 @@ export const indexObject ={
           "old age (jarā)": {
                "": {
                     "locators": [
-                         "Dhp chapter 11",
+                         "CUSTOM:Dhp:Dhammapada Chapter 11:suttacentral.net/dhp146-156/en/sujato",
                          "Snp4.6"
                     ],
                     "xrefs": [

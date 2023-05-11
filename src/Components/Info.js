@@ -97,6 +97,11 @@ export default function Info() {
             Planned: <span className="answer">DN, MN, SN</span>
           </div>
         </div>
+        <p>
+          <br />
+          All citation for Vimanavatthu and Petavatthu link to SuttaFriends.org as it is the only complete online
+          resource.
+        </p>
       </details>
       <OtherToolsIcons />
     </div>
