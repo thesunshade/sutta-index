@@ -29144,6 +29144,14 @@ export const indexObject ={
                     "xrefs": []
                }
           },
+          "iddhi": {
+               "": {
+                    "locators": [],
+                    "xrefs": [
+                         "xref psychic powers (iddhi)"
+                    ]
+               }
+          },
           "identification (maññita)": {
                "": {
                     "locators": [],
@@ -35471,6 +35479,12 @@ export const indexObject ={
                }
           },
           "magic": {
+               "": {
+                    "locators": [],
+                    "xrefs": [
+                         "xref psychic powers (iddhi)"
+                    ]
+               },
                "conversion magic of Buddha": {
                     "locators": [
                          "MN56",
@@ -37591,7 +37605,7 @@ export const indexObject ={
                          "AN3.101"
                     ],
                     "xrefs": [
-                         "xref psychic powers"
+                         "xref psychic powers (iddhi)"
                     ]
                },
                "skill in ones own mind": {
@@ -44948,6 +44962,12 @@ export const indexObject ={
                }
           },
           "powers": {
+               "": {
+                    "locators": [],
+                    "xrefs": [
+                         "xref psychic powers (iddhi)"
+                    ]
+               },
                "reflection, development": {
                     "locators": [
                          "AN2.11",
@@ -45990,7 +46010,7 @@ export const indexObject ={
                     "xrefs": []
                }
           },
-          "psychic powers": {
+          "psychic powers (iddhi)": {
                "arahants without": {
                     "locators": [
                          "Ud4.4"

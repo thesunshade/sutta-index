@@ -3361,7 +3361,7 @@ export const indexArray =[
      ],
      [
           "AN3.60",
-          "psychic powers",
+          "psychic powers (iddhi)",
           "miracle of"
      ],
      [
@@ -4826,7 +4826,7 @@ export const indexArray =[
      ],
      [
           "AN3.144",
-          "psychic powers",
+          "psychic powers (iddhi)",
           "miracle of"
      ],
      [
@@ -8721,7 +8721,7 @@ export const indexArray =[
      ],
      [
           "AN5.23",
-          "psychic powers",
+          "psychic powers (iddhi)",
           "when hindrances are removed"
      ],
      [
@@ -8796,7 +8796,7 @@ export const indexArray =[
      ],
      [
           "AN5.28",
-          "psychic powers",
+          "psychic powers (iddhi)",
           "right concentration"
      ],
      [
@@ -12321,7 +12321,7 @@ export const indexArray =[
      ],
      [
           "AN6.2",
-          "psychic powers",
+          "psychic powers (iddhi)",
           "making one worthy of gifts"
      ],
      [
@@ -13751,7 +13751,7 @@ export const indexArray =[
      ],
      [
           "AN6.62",
-          "psychic powers",
+          "psychic powers (iddhi)",
           "knowing the minds of others"
      ],
      [
@@ -22481,7 +22481,7 @@ export const indexArray =[
      ],
      [
           "AN9.35",
-          "psychic powers",
+          "psychic powers (iddhi)",
           "jhānas and"
      ],
      [
@@ -28531,7 +28531,7 @@ export const indexArray =[
      ],
      [
           "AN10.97",
-          "psychic powers",
+          "psychic powers (iddhi)",
           "worthy of gifts"
      ],
      [
@@ -36511,7 +36511,7 @@ export const indexArray =[
      ],
      [
           "MN56",
-          "psychic powers",
+          "psychic powers (iddhi)",
           "reducing Nālanda to ruins"
      ],
      [
@@ -38956,12 +38956,12 @@ export const indexArray =[
      ],
      [
           "MN73",
-          "psychic powers",
+          "psychic powers (iddhi)",
           "explanation of"
      ],
      [
           "MN73",
-          "psychic powers",
+          "psychic powers (iddhi)",
           "from serenity and insight"
      ],
      [
@@ -39941,7 +39941,7 @@ export const indexArray =[
      ],
      [
           "MN77",
-          "psychic powers",
+          "psychic powers (iddhi)",
           "explanation of"
      ],
      [
@@ -40221,7 +40221,7 @@ export const indexArray =[
      ],
      [
           "MN78",
-          "psychic powers",
+          "psychic powers (iddhi)",
           "similes of"
      ],
      [
@@ -41836,7 +41836,7 @@ export const indexArray =[
      ],
      [
           "MN108",
-          "psychic powers",
+          "psychic powers (iddhi)",
           "respecting a monk who has"
      ],
      [
@@ -43506,7 +43506,7 @@ export const indexArray =[
      ],
      [
           "MN119",
-          "psychic powers",
+          "psychic powers (iddhi)",
           "mindfulness of the body helps one to achieve"
      ],
      [
@@ -53071,7 +53071,7 @@ export const indexArray =[
      ],
      [
           "Thag1.38",
-          "psychic powers",
+          "psychic powers (iddhi)",
           ""
      ],
      [
@@ -54366,7 +54366,7 @@ export const indexArray =[
      ],
      [
           "Thag17.2",
-          "psychic powers",
+          "psychic powers (iddhi)",
           "not required for arahant"
      ],
      [
@@ -54751,7 +54751,7 @@ export const indexArray =[
      ],
      [
           "Thig5.1",
-          "psychic powers",
+          "psychic powers (iddhi)",
           ""
      ],
      [
@@ -55761,7 +55761,7 @@ export const indexArray =[
      ],
      [
           "Ud4.4",
-          "psychic powers",
+          "psychic powers (iddhi)",
           "arahants without"
      ],
      [

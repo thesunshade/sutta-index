@@ -1419,7 +1419,7 @@ export const locatorBookObject ={
     ],
     [
       "MN56",
-      "psychic powers",
+      "psychic powers (iddhi)",
       "reducing Nālanda to ruins"
     ],
     [
@@ -3864,12 +3864,12 @@ export const locatorBookObject ={
     ],
     [
       "MN73",
-      "psychic powers",
+      "psychic powers (iddhi)",
       "explanation of"
     ],
     [
       "MN73",
-      "psychic powers",
+      "psychic powers (iddhi)",
       "from serenity and insight"
     ],
     [
@@ -4849,7 +4849,7 @@ export const locatorBookObject ={
     ],
     [
       "MN77",
-      "psychic powers",
+      "psychic powers (iddhi)",
       "explanation of"
     ],
     [
@@ -5129,7 +5129,7 @@ export const locatorBookObject ={
     ],
     [
       "MN78",
-      "psychic powers",
+      "psychic powers (iddhi)",
       "similes of"
     ],
     [
@@ -6744,7 +6744,7 @@ export const locatorBookObject ={
     ],
     [
       "MN108",
-      "psychic powers",
+      "psychic powers (iddhi)",
       "respecting a monk who has"
     ],
     [
@@ -8414,7 +8414,7 @@ export const locatorBookObject ={
     ],
     [
       "MN119",
-      "psychic powers",
+      "psychic powers (iddhi)",
       "mindfulness of the body helps one to achieve"
     ],
     [
@@ -19408,7 +19408,7 @@ export const locatorBookObject ={
     ],
     [
       "AN3.60",
-      "psychic powers",
+      "psychic powers (iddhi)",
       "miracle of"
     ],
     [
@@ -20873,7 +20873,7 @@ export const locatorBookObject ={
     ],
     [
       "AN3.144",
-      "psychic powers",
+      "psychic powers (iddhi)",
       "miracle of"
     ],
     [
@@ -24768,7 +24768,7 @@ export const locatorBookObject ={
     ],
     [
       "AN5.23",
-      "psychic powers",
+      "psychic powers (iddhi)",
       "when hindrances are removed"
     ],
     [
@@ -24843,7 +24843,7 @@ export const locatorBookObject ={
     ],
     [
       "AN5.28",
-      "psychic powers",
+      "psychic powers (iddhi)",
       "right concentration"
     ],
     [
@@ -28368,7 +28368,7 @@ export const locatorBookObject ={
     ],
     [
       "AN6.2",
-      "psychic powers",
+      "psychic powers (iddhi)",
       "making one worthy of gifts"
     ],
     [
@@ -29798,7 +29798,7 @@ export const locatorBookObject ={
     ],
     [
       "AN6.62",
-      "psychic powers",
+      "psychic powers (iddhi)",
       "knowing the minds of others"
     ],
     [
@@ -38528,7 +38528,7 @@ export const locatorBookObject ={
     ],
     [
       "AN9.35",
-      "psychic powers",
+      "psychic powers (iddhi)",
       "jhānas and"
     ],
     [
@@ -44578,7 +44578,7 @@ export const locatorBookObject ={
     ],
     [
       "AN10.97",
-      "psychic powers",
+      "psychic powers (iddhi)",
       "worthy of gifts"
     ],
     [
@@ -50534,7 +50534,7 @@ export const locatorBookObject ={
     ],
     [
       "Ud4.4",
-      "psychic powers",
+      "psychic powers (iddhi)",
       "arahants without"
     ],
     [
@@ -54909,7 +54909,7 @@ export const locatorBookObject ={
     ],
     [
       "Thag1.38",
-      "psychic powers",
+      "psychic powers (iddhi)",
       ""
     ],
     [
@@ -56204,7 +56204,7 @@ export const locatorBookObject ={
     ],
     [
       "Thag17.2",
-      "psychic powers",
+      "psychic powers (iddhi)",
       "not required for arahant"
     ],
     [
@@ -56591,7 +56591,7 @@ export const locatorBookObject ={
     ],
     [
       "Thig5.1",
-      "psychic powers",
+      "psychic powers (iddhi)",
       ""
     ],
     [
