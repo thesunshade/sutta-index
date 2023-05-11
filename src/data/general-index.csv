@@ -52,6 +52,7 @@ precepts		xref precepts, ten
 meditation		xref jhānas
 laypeople		xref householders (gahapatika)
 householders (gahapatika)		xref laypeople
+love		xref loving-kindness (mettā)
 refuges	formula for taking	Kp1
 precepts, ten	definition	Kp2
 samaneras	precepts of	Kp2
@@ -136,39 +137,41 @@ stream-enterers (sotāpanna)	rebirth	Kp6
 rebirth	stream-enterers cannot take eighth	Kp6
 fetters (saṁyojana)	three lower	Kp6
 six grave crimes (chaccābhiṭhānāni abhabba)	noble disciples unable to do	Kp6
-Dhamma teaching	simile of flowering forest	Kp6
+Dhamma teaching	like flowering forest	Kp6
+flowers	simile for Dhamma teaching	Kp6
 nibbāna	like lamp going out	Kp6
 departed relatives	sharing merit with	Kp7
 departed relatives	compassion towards	Kp7
 ghosts	sharing merit with	Kp7
 ghost realm	qualities of	Kp7
-merit sharing		Kp7
-merit sharing	simile of flowing rain	Kp7
-grieving		Kp7
+merit sharing	with departed relatives	Kp7
+merit sharing	like flowing rain	Kp7
+rain	simile for merit sharing	Kp7
+grieving	useless to departed	Kp7
 Saṅgha	field of merit	Kp7
 departed relatives	honoring	Kp7
 departed relatives	duty towards	Kp7
-merit (puññā)		Kp8
+merit (puññā)	taken to next life	Kp8
 money	saving	Kp8
 heirs	stealing money	Kp8
 giving (dāna)	to protect wealth	Kp8
 virtue (sīla)	as merit	Kp8
-restraint		Kp8
-shrines (cetiya)		Kp8
+restraint	as merit	Kp8
+shrines (cetiya)	merit 	Kp8
 parents	caring for	Kp8
 sibling	caring for	Kp8
 death (maraṇa)	leaving all behind	Kp8
 merit (puññā) 	as true possession	Kp8
 beauty	as result of merit	Kp8
-sweet voice		Kp8
-leadership		Kp8
-followers		Kp8
-sovereignty		Kp8
-wheel-turning monarchs		Kp8
+sweet voice	as result of merit	Kp8
+leadership	as result of merit	Kp8
+followers	as result of merit	Kp8
+sovereignty	as result of merit	Kp8
+wheel-turning monarchs	as result of merit	Kp8
 heaven (sagga)	vs. kingship	Kp8
 merit (puññā)	as support for nibbāna	Kp8
 good friends	as result of merit	Kp8
-analytical knowledge (paṭisambhidā)		Kp8
+analytical knowledge (paṭisambhidā)	as result of merit	Kp8
 paccekabuddhas	becoming through merit	Kp8
 merit (puññā)	praised by wise	Kp8
 speech	easy to speak to	Kp9
@@ -176,11 +179,10 @@ humility	as criterion for loving-kindness	Kp9
 gentleness	as criterion for loving-kindness	Kp9
 contentment (santuṭṭhi)	as criterion for loving-kindness	Kp9
 unburdensome (subhara)	as criterion for loving-kindness	Kp9
-business		Kp9
 blame	by the wise	Kp9
-loving-kindness (mettā)		Kp9
+loving-kindness (mettā)	how to practice	Kp9
 meditation	postures	Kp9
-wrong view (micchā diṭṭhi)		Kp9
+views (diṭṭhi)	avoidign wrong	Kp9
 virtue (sīla)	as criterion for loving-kindness	Kp9
 intention (mano)	precedes all	Dhp1
 actions (kamma)	results following	Dhp1
@@ -199,7 +201,8 @@ beautiful, contemplation of (subhānupassī)	Māra strikes one down	Dhp7
 overeating	Māra strikes one down	Dhp7
 sense restraint (indriyasaṁvara)	lack of and Māra striking down	Dhp7
 Māra	attacks the lazy	Dhp7
-Māra	simile of wind and weak tree	Dhp7
+Māra	attacking like wind and weak tree	Dhp7
+wind (vayo)	simile for Māra attacking	Dhp7
 laziness (kosajja)	Māra strikes one down	Dhp7
 eating	immoderation	Dhp7
 sign of the beautiful (subhanimitta)		xref beautiful, contemplation of (subhānupassī)
@@ -209,7 +212,8 @@ ugly, contemplation of (asubhānupassī)	Māra cannot strike down	Dhp8
 sense restraint (indriyasaṁvara)	Māra cannot strike down	Dhp8
 eating in moderation	Māra cannot strike down	Dhp8
 energy (vīriya)	Māra cannot strike down	Dhp8
-Māra	simile of wind and mountain	Dhp8
+Māra	attacking like wind and mountain	Dhp8
+mountains	simile for Māra attacking	Dhp8
 robes	not worthy of	Dhp9
 robes	worthy of	Dhp10
 domain (gocarā)		Dhp11
@@ -217,9 +221,13 @@ domain (gocarā)		Dhp12
 essential/inessential		Dhp11
 essential/inessential		Dhp12
 lust (rāga)	undeveloped mind	Dhp13
-lust (rāga)	simile of rain and roof	Dhp13
+lust (rāga)	like rain and roof	Dhp13
+rain	roof, simile for lust	Dhp13
+roof	rain, simile for lust	Dhp13
 lust (rāga)	developed mind	Dhp14
-lust (rāga)	simile of rain and roof	Dhp14
+lust (rāga)	like rain and roof	Dhp14
+rain	roof, simile for lust	Dhp14
+roof	rain, simile for lust	Dhp14
 bad actions	results of	Dhp15
 bad actions	seeing results of	Dhp15
 good actions	results of	Dhp16
@@ -229,7 +237,8 @@ bad actions	seeing results of	Dhp17
 good actions	results of	Dhp18
 good actions	seeing results of	Dhp18
 recitation	as not enough	Dhp19
-recitation	simile of cowherd	Dhp19
+recitation	like cowherd watching others crops	Dhp19
+cowherd	simile for reciting and not practicing	Dhp19
 practicing	without recitation	Dhp20
 death (maraṇa)	heedlessness as cause	Dhp21
 deathless (amata)		Dhp21
@@ -238,7 +247,8 @@ heedlessness (pamāda)		Dhp21
 heedfulness (appamāda)	rejoicing in	Dhp22
 reputation	how reputation grows	Dhp24
 diligence		xref heedfulness (appamāda)
-heedfulness (appamāda)	simile of island	Dhp25
+heedfulness (appamāda)	like island	Dhp25
+island	simile for heedfulness	Dhp25
 heedfulness (appamāda)	as best treasure	Dhp26
 heedfulness (appamāda)		Dhp chapter 2
 heedfulness (appamāda)	simile of mountain-top	Dhp28
@@ -470,7 +480,8 @@ meditation	wisdom and	Dhp282
 wisdom (paññā)	meditation and	Dhp282
 attachments	simile of calf	Dhp284
 attachments	sexual	Dhp284
-death (maraṇa)	simile of flood	Dhp287
+death (maraṇa)	like flood	Dhp287
+floods (ogha)	simile for death	Dhp287
 happiness (sukha)	with material things	Dhp290
 happiness (sukha)	through harming others	Dhp291
 mindfulness of body (kāyagatāsati)		Dhp293
@@ -478,28 +489,33 @@ sleep	waking well	Dhp296–298
 recollection (anussati)	of triple gem	Dhp296–298
 going forth (pabbajja)	difficult	Dhp302
 lay life	difficult	Dhp302
-good people (sappurisa)	simile of Himalaya	Dhp304
-bad people (asappurisa)	simile of arrow	Dhp304
+good people (sappurisa)	like Himalayas	Dhp304
+Himalayas	simile for good people	Dhp304
+bad people (asappurisa)	like arrows	Dhp304
+arrows	simile for bad people	Dhp304
 seclusion		Dhp305
 hell (niraya)		Dhp chapter 22
 lying	rebirth	Dhp306
 bad monastics	rebirth	Dhp307–8
 sexual misconduct	result	Dhp309–10
 monastic life	wrongly practiced	Dhp311
-monastic life	simile of kusa grass	Dhp311
+monastic life	like kusa grass	Dhp311
+kusa grass	simile for monastic life	Dhp311
 monastic life	wrongly practiced	Dhp313
 self guarding	like a citadel	Dhp315
 shame		Dhp316
 wrong views		Dhp316–18
 right view (sammā diṭṭhi)	leads to good rebirth	Dhp319
 elephants		Dhp chapter 23
-enduring abuse	simile of elephant	Dhp320
+enduring abuse	like elephant	Dhp320
+elephants	simile for enduring abuse	Dhp320
 enduring abuse		Dhp320–21
 self taming		Dhp322–23
 friendship		Dhp323
 Dhanapāla	elephant	Dhp324
 overeating	simile of hog	Dhp325
-self reliance	simile of elephant	Dhp327
+self reliance	like elephant	Dhp327
+elephants	simile for self reliance	Dhp327
 friendship		Dhp328
 solitary life		Dhp329
 solitary life		Dhp330
@@ -509,10 +525,15 @@ parents	caring for	Dhp332
 faith (saddhā)	blessing	Dhp333
 precepts	blessing	Dhp333
 craving (taṇha)		Dhp chapter 24
-craving (taṇha)	simile of creeper	Dhp334
+craving (taṇha)	like creeper	Dhp334
+creepers	simile for craving	Dhp334
 craving (taṇha)	like a monkey	Dhp334
-craving (taṇha) 	simile of grass in rain	Dhp335
-craving (taṇha)	simile of water drop on lotus leaf	Dhp336
+monkey	simile for craving	Dhp334
+craving (taṇha) 	like grass in rain	Dhp335
+grass	simile for craving	Dhp335
+rain	simile for craving	Dhp335
+craving (taṇha)	like water drop on lotus leaf	Dhp336
+lotus	leaf and drop of water as simile for craving	Dhp336
 Māra	simile of stream	Dhp337
 craving (taṇha)	simile of root digging	Dhp337
 craving (taṇha)	underlying tendency	Dhp338
@@ -541,7 +562,7 @@ envy (issā)	block to concentration	Dhp365
 livelihood	monastic	Dhp366
 praise	by gods	Dhp366
 loving-kindness (mettā)		Dhp368
-sense pleasures (kāma, kāmaguṇa)	simile of iron ball	Dhp371
+sense pleasures (kāma, kāmaguṇa)	like iron ball	Dhp371
 wisdom (paññā)	concentration and	Dhp372
 concentration (samādhi)	wisdom	Dhp372
 mindfulness (sati)		Dhp374
@@ -549,7 +570,7 @@ monastic rules (vinaya)		Dhp375
 restraint		Dhp375
 friendship		Dhp376
 self reflection		Dhp379
-restraint	simile of thoroughbred	Dhp380
+restraint	like thoroughbred	Dhp380
 mendicants	young	Dhp382
 brahmin	true meaning	Dhp chapter 26
 retaliation		Dhp389
@@ -566,18 +587,21 @@ deathless (amata)		Dhp411
 recollection (anussati)	of past lives	Dhp423
 brahmacariya		xref monastic life
 solitary Buddha		xref paccekabuddhas
+dreadlocked Ascetics		xref jaṭilā ascetics
+giving (dāna)		xref almsfood
+sabbath		xref uposatha
+ordaining		xref going forth (pabbajja)
 Buddha, the	time after enlightenment	Ud1.1
+meditation	for seven days	Ud1.1
+dependent origination (paṭiccasamuppāda)	Buddha reflecting on after enlightenment	Ud1.1
 Buddha, the	time after enlightenment	Ud1.2
+dependent origination (paṭiccasamuppāda)	Buddha reflecting on after enlightenment	Ud1.2
+dependent origination (paṭiccasamuppāda)	Buddha reflecting on after enlightenment	Ud1.3
 Buddha, the	time after enlightenment	Ud1.3
 Buddha, the	time after enlightenment	Ud1.4
-meditation	for seven days	Ud1.1
 meditation	for seven days	Ud1.2
 meditation	for seven days	Ud1.3
 meditation	for seven days	Ud1.4
-meditation	for seven days	Ud2.1
-dependent origination (paṭiccasamuppāda)	Buddha reflecting on after enlightenment	Ud1.1
-dependent origination (paṭiccasamuppāda)	Buddha reflecting on after enlightenment	Ud1.2
-dependent origination (paṭiccasamuppāda)	Buddha reflecting on after enlightenment	Ud1.3
 brahmin	true meaning	Ud1.4
 brahmin	true meaning	Ud1.5
 brahmin	true meaning	Ud1.6
@@ -589,52 +613,64 @@ monastics	family of	Ud1.8
 brahmin	true meaning	Ud1.8
 detachment	from family	Ud1.8
 brahmin	true meaning	Ud1.9
-jaṭilā ascetics		Ud1.9
+jaṭilā ascetics	bathing	Ud1.9
 purification	with water	Ud1.9
 death (maraṇa)	by cow	Ud1.10
-false spiritual claims		Ud1.10
+cows	death by	Ud1.10
+false spiritual claims	of enlightenment	Ud1.10
 stupa (thupa)	built for individual	Ud1.10
-Bāhiya Dārucīriya, Ven.		Ud1.10
-seen, heard, thought, known		Ud1.10
-Mucalinda		Ud2.1
+Bāhiya Dārucīriya, Ven.	questions the Buddha	Ud1.10
+seen, heard, thought, known	not grasping	Ud1.10
+meditation	for seven days	Ud2.1
+Mucalinda	protectign the Buddha	Ud2.1
 meditation	through great noise	Ud2.1
-conceit “I am” (asmimāna)		Ud2.1
+conceit “I am” (asmimāna)	dispelling the ultimate happiness	Ud2.1
 kindness	as happiness	Ud2.1
 speech	keeping silent	Ud2.2
-useless speech (tiracāna)		Ud2.2
+useless speech (tiracāna)	monks engaging in	Ud2.2
 noble silence (ariya tuṇhībhāva)	vs. useless speech	Ud2.2
 nibbāna	better happiness than heaven	Ud2.2
 children	harming an animal	Ud2.3
 snakes	being harmed by children	Ud2.3
 suffering (dukkha)	no one likes	Ud2.3
 happiness (sukha)	those who desire	Ud2.3
-jealousy (issā)		Ud2.4
-enduring abuse		Ud2.4
+jealousy (issā)	from wanderers of other sects	Ud2.4
+wanderers of other sects (aññatitthiya paribbājaka)	jealous of Buddha	Ud2.4
+enduring abuse	monks 	Ud2.4
 not-self	considering abuse	Ud2.4
 lay life	filled with duties	Ud2.5
 lay life	attachments	Ud2.5
 lay life	attachments	Ud2.6
-pregnancy		Ud2.6
+pregnancy	difficult	Ud2.6
 death (maraṇa)	of relative	Ud2.7
 grieving	death	Ud2.7
 loss	of loved ones	Ud2.7
 pregnancy	difficult	Ud2.8
 recollection (anussati)	of triple gem	Ud2.8
 faith (saddhā)	guarantor	Ud2.8
-subservience		Ud2.9
-misjudging others		Ud2.10
+Visākhā, Migara’s mother	business with King Pasenadi	Ud2.9
+subservience	as suffering	Ud2.9
+Bhaddiya Kāḷigodhā, Ven.	calling out “Oh, what bliss!”	Ud2.10
+spiritual path (brahmacariya)	dissatisfaction with	Ud2.10
+judging	misjudging others	Ud2.10
 renunciation (nekkhamma)	bliss of	Ud2.10
+painful feelings	enduring	Ud3.1
+past actions	results of	Ud3.1
+enduring (adhivāsana)	painful feelings	Ud3.1
 holy life	not delighting in	Ud3.2
 motivation	bad	Ud3.2
 imperturbable meditation (āneñjasamādhi)		Ud3.3
-arahants	simile of mountain	Ud3.4
+arahants	like mountain	Ud3.4
+mountains	simile for arahants	Ud3.4
+Sāriputta, Ven.	meditating like a mountain	Ud3.4
+Moggallāna, Ven.	meditating 	Ud3.5
 outcast (vasala)	accusation of being	Ud3.6
-habits over lifetimes		Ud3.6
-giving (dāna)		xref almsfood
+habits	over lifetimes	Ud3.6
 gods	offering food	Ud3.7
 almsfood	from the poor	Ud3.7
 giving (dāna)	by gods	Ud3.7
 arahants	envied by gods	Ud3.7
+meditation	for seven days	Ud3.7
 arahants	envied by gods	Ud3.8
 noble silence (ariya tuṇhībhāva)	vs. useless speech	Ud3.8
 noble silence (ariya tuṇhībhāva)	vs. useless speech	Ud3.9
@@ -642,15 +678,17 @@ almsfood	for sake of popularity	Ud3.8
 popularity	 wrongly gained	Ud3.8
 speech	useless (tiracāna)	Ud3.8
 speech	useless (tiracāna)	Ud3.9
-hope (āsa)	uselessness of	Ud3.9
-solitary life		Ud3.9
+hope (āsa)	no need for	Ud3.9
+solitary life	true mendicant	Ud3.9
+noble silence (ariya tuṇhībhāva)	when gathering together should either discuss Dhamma or maintain noble silence	Ud3.9
 Buddha, the	time after enlightenment	Ud3.10
 world, the	state of	Ud3.10
 meditation	for seven days	Ud3.10
-meditation	for seven days	Ud3.7
-misconduct by mind		Ud4.1
+attendant	of the Buddha	Ud4.1
+Meghiya, Ven.	attendant of the Buddha	Ud4.1
+misconduct by mind	unripe mind	Ud4.1
 friendship	helps with cetovimuttiya	Ud4.1
-talk (kathā)		Ud4.1
+talk (kathā)	because of good friends	Ud4.1
 perception of ugliness (asubhasañña)	to give up greed	Ud4.1
 loving-kindness (mettā)	to give up hate	Ud4.1
 mindfulness of breathing (ānāpānassati)	to cut off thinking	Ud4.1
@@ -663,36 +701,40 @@ mind	wrongly directed worse than enemy	Ud4.3
 yakkhas	attacks monk	Ud4.4
 arahants	without psychic powers	Ud4.4
 Sāriputta, Ven.	attacked by yakkha	Ud4.4
+goblins (pisāca)	Ven. Sāriputta cannot see	Ud4.4
 Moggallāna, Ven.	witnessed attack of Ven. Sāriputta	Ud4.4
 psychic powers	arahants without	Ud4.4
 arahants	like a rock	Ud4.4
 seclusion	free from crowds	Ud4.4
-jealousy (issā)		Ud4.8
+Sundarī, wanderer	murder of	Ud4.8
+jealousy (issā)	from wanderers of other sects	Ud4.8
+Buddha, the	false accusations against 	Ud4.8
 defamation	of the Buddha	Ud4.8
-rumors		Ud4.8
+rumors	about the Buddha	Ud4.8
 lying	factor for rebirth	Ud4.8
-enduring abuse		Ud4.8
+enduring (adhivāsana)	abuse	Ud4.8
 gratitude	of arahants	Ud4.9
-loving-kindness (mettā)		Ud5.1
 suffering (dukkha)	no one likes	Ud5.1
 happiness (sukha)	those who desire	Ud5.1
-oneself as most dear		Ud5.1
+love (piya)	oneself as most dear	Ud5.2
 death (maraṇa)	reason to make merit	Ud5.2
 Bodhisatta	mother	Ud5.2
 death (maraṇa)	as universal	Ud5.2
-death (maraṇa)	by cow	Ud5.3
-gradual training (anupubbasikkhā)		Ud5.3
+Suppabuddha, leper	enlightenment of	Ud5.3
+leprosy (kuṭṭha)	Suppabuddha the leper	Ud5.3
+gradual instruction (anupubba katha)	to Suppabuddha	Ud5.3
 death (maraṇa)	by cow	Ud5.3
 paccekabuddhas	disparaging	Ud5.3
+Tagarasikhī, paccekabuddha	being insulted	Ud5.3
+paccekabuddhas	Tagarasikhī	Ud5.3
 harassing	noble ones	Ud5.3
 boys	harming an animal	Ud5.4
-uposatha		Ud5.5
-sabath		xref uposatha
+uposatha	impure monk sitting in uposatha hall	Ud5.5
 bad monastics	in pātimokkha recitation	Ud5.5
 asuras	love of ocean	Ud5.5
 ocean	loved by asuras	Ud5.5
-gradual training (anupubbasikkhā)		Ud5.5
-gradual training (anupubbasikkhā)	simile of ocean	Ud5.5
+gradual training (anupubbasikkhā)	like ocean	Ud5.5
+ocean	simile for love of Dhamma-Vinaya	Ud5.5
 Saṅgha	guarding precepts	Ud5.5
 Saṅgha	removes corrupt members	Ud5.5
 Saṅgha	without caste distinctions	Ud5.5
@@ -700,17 +742,19 @@ Saṅgha	river simile	Ud5.5
 nibbāna	never fills up	Ud5.5
 Dhamma	has one taste	Ud5.5
 Dhamma	has many treasures	Ud5.5
-Dhamma	simile of ocean	Ud5.5
+Dhamma	like ocean	Ud5.5
 Saṅgha	has many great beings	Ud5.5
-Saṅgha	simile of ocean	Ud5.5
+Saṅgha	like ocean	Ud5.5
 going forth (pabbajja)	difficulty	Ud5.6
-ordaining		xref going forth (pabbajja)
-Chapter of the Eights		Ud5.6
-doubt (vicikicchā)		Ud5.7
-schisms		Ud5.8
+Chapter of the Eights	recitation of	Ud5.6
+Revata, Ven. Kaṅkhā	doubt	Ud5.6
+doubt (vicikicchā)	overcoming	Ud5.7
+Devadatta	creating a schism	Ud5.8
+schisms	Devadata creating	Ud5.8
 good people (sappurisa)	easy to do good	Ud5.8
 bad people (asappurisa)	easy to do bad	Ud5.8
-teasing		Ud5.9
+Buddha, the	teased	Ud5.9
+teasing	the Buddha	Ud5.9
 Buddhas	can live for eon	Ud6.1
 fourfold Saṅgha	Buddha’s determination to have	Ud6.1
 laypeople	as teachers	Ud6.1
@@ -718,34 +762,54 @@ Dhamma	popular and widespread	Ud6.1
 life force (āyusaṅkhāra)	surrendering of	Ud6.1
 Buddha, the	surrenders life force	Ud6.1
 earthquake	associated with events in Buddha’s life	Ud6.1
-jaṭilā ascetics		Ud6.2
-familiarity needed to judge		Ud6.2
+Pasenadi Kosala, King	ascetics as spies	Ud6.2
+jaṭilā ascetics	spies for King Pasenadi	Ud6.2
+judging	familiarity needed to	Ud6.2
 wisdom (paññā)	knowable through discussion	Ud6.2
-misjudging others		Ud6.2
+misjudging others	through lack of association	Ud6.2
 Dhamma	for money making	Ud6.2
+Buddha, the	reviewing his atainments	Ud6.3
 wrong views	followers of	Ud6.4
-wrong views	followers of	Ud6.5
-wrong views	followers of	Ud6.6
-eternalism (sassatavāda)		Ud6.4
+eternalism (sassatavāda)	arguing about views	Ud6.4
 Tathāgatas	existing after death	Ud6.4
-followers of other paths (aññatitthiyā)		Ud6.4
+followers of other paths (aññatitthiyā)	arguing about views	Ud6.4
 disputes	over views	Ud6.4
-blind people	and elephant	Ud6.4
-elephants	blind men and	Ud6.4
-eternalism (sassatavāda)		Ud6.5
-followers of other paths (aññatitthiyā)		Ud6.5
+disputes	like blind arguing over elephant	Ud6.4
+blind people	simile of elephant and	Ud6.4
+elephants	simile of blind men and	Ud6.4
+wrong views	followers of	Ud6.5
+eternalism (sassatavāda)	arguing about views	Ud6.5
+followers of other paths (aññatitthiyā)	arguing about views	Ud6.5
 disputes	over views	Ud6.5
-eternalism (sassatavāda)		Ud6.6
-followers of other paths (aññatitthiyā)		Ud6.6
+wrong views	followers of	Ud6.6
+eternalism (sassatavāda)	arguing about views	Ud6.6
+followers of other paths (aññatitthiyā)	arguing about views	Ud6.6
 disputes	over views	Ud6.6
+I making (ahaṅkāra)	and other-maker	Ud6.6
 conceit (māna)	wrong views	Ud6.6
+Subhūti, Ven.	Buddha comments on	Ud6.7
 training	as the essence	Ud6.8
 sense pleasures (kāma, kāmaguṇa)	no harm in	Ud6.8
 disputes	over a woman	Ud6.8
 sense pleasures (kāma, kāmaguṇa)	as cause of disputes	Ud6.8
-moths into flame		Ud6.9
+moths	into flame	Ud6.9
 followers of other paths (aññatitthiyā)	honored when Buddhas don’t arise	Ud6.10
-sense pleasures (kāma, kāmaguṇa)	simile of fish in net	Ud7.4
+Lakuṇṭaka Bhaddiya, Ven.	being taught by Ven. Sāriputta	Ud7.1
+Sāriputta, Ven.	teaching Ven. Bhaddiya	Ud7.1
+misjudging others	as not enlightened	Ud7.1
+flood crossing	not crossed before	Ud7.1
+Lakuṇṭaka Bhaddiya, Ven.	being taught by Ven. Sāriputta	Ud7.2
+Sāriputta, Ven.	teaching Ven. Bhaddiya	Ud7.2
+misjudging others	as not enlightened	Ud7.2
+streams (saritā)	dried up	Ud7.2
+sensual pleasures		xref sense pleasures (kāma, kāmaguṇa)
+clinging	to sensual pleasures	Ud7.3
+sense pleasures (kāma, kāmaguṇa)	clinging to	Ud7.3
+fetters (saṁyojana)	clinging to	Ud7.3
+flood crossing	clinging prevents	Ud7.3
+sense pleasures (kāma, kāmaguṇa)	like fish in net	Ud7.4
+fish	simile for sense pleasures	Ud7.4
+kinsman of the negligent (pamattabandhu)	catching those blinded by sense pleasures	Ud7.4
 external appearance		Ud7.5
 good people (sappurisa)	praised by gods	Ud7.6
 proliferation (papañca)		Ud7.7
@@ -828,8 +892,12 @@ giving (dāna)	last bite of food	Iti26
 giving (dāna)	result of	Iti26
 giving (dāna)	smallest gift has value	Iti26
 loving-kindness (mettā)	grounds for making merit	Iti27
-loving-kindness (mettā)	simile of clear sky	Iti27
-loving-kindness (mettā)	simile of stars	Iti27
+loving-kindness (mettā)	like sun in clear sky	Iti27
+sky	simile for loving-kindness	Iti27
+sun	simile for loving-kindness	Iti27
+stars	simile for loving-kindness	Iti27
+moon	simile for loving-kindness	Iti27
+loving-kindness (mettā)	like stars	Iti27
 sacrifices (yañña)		Iti27
 eating	excessive	Iti28
 eating	excessive	Iti29
@@ -900,8 +968,12 @@ praise	wishing for	Iti76
 prosperity	wishing for	Iti76
 association	with fools	Iti76
 association	with wise	Iti76
-association	simile of rotten fish	Iti76
-association	simile of sandalwood	Iti76
+association	with bad like rotten fish	Iti76
+fish	rotten, simile for association with bad people	Iti76
+association	with good like fragrance of sandalwood	Iti76
+sandalwood	simile for association with good people	Iti76
+arrows	simile for association with bad people	Iti76
+association	with bad like poisoned arrows	Iti76
 body	as fragile	Iti77
 association	with similar people/like elements	Iti78
 association	with wise	Iti78
@@ -933,7 +1005,8 @@ Saṅgha	best of groups	Iti90
 livelihood	monastic	Iti91
 monastic life	wrongly practiced	Iti91
 monastic life	goal of	Iti91
-monastic life	simile of firebrand	Iti91
+monastic life	poorly lived like firebrand	Iti91
+firebrand	simile for poorly lived monastic life	Iti91
 almsfood		Iti91
 iron ball	eating	Iti91
 Buddha, the	closeness to	Iti92
@@ -969,11 +1042,15 @@ giving (dāna)	four requisites	Iti107
 monastic life	dependent on laypeople	Iti107
 Dhamma teaching	to laypeople who offer requisites	Iti107
 monastic life	wrongly practiced	Iti108
-anger (kodha)	simile of waves	Iti109
-craving (taṇha)	simile of stream	Iti109
-sense pleasures, five 	simile of whirlpool	Iti109
-renunciation (nekkhamma)	simile of against the stream	Iti109
-female	simile of crocodiles	Iti109
+anger (kodha)	like waves	Iti109
+waves	simile for anger	Iti109
+craving (taṇha)	like a stream	Iti109
+streams (nadiyā)	simile for craving	Iti109
+sense pleasures, five 	like whirlpool	Iti109
+whirlpools	simile for sense pleasures	Iti109
+renunciation (nekkhamma)	like struggling against the stream	Iti109
+female	like crocodiles	Iti109
+crocodiles	simile for women	Iti109
 tolerating bad thoughts		Iti110
 danger in slightest fault		Iti111
 postures	for practicing always	Iti110
@@ -987,10 +1064,13 @@ Buddha, the	as best 	Iti112
 Buddha, the	without counterpart	Iti112
 anger (kodha)	removing	Snp1.1
 anger (kodha)	like venom	Snp1.1
-lust (rāga)	simile of plucked lotus	Snp1.1
-craving (taṇha)	simile of stream	Snp1.1
-conceit (māna)	simile of flood	Snp1.1
-essence (sāra)	simile of fig tree	Snp1.1
+venom	simile for anger	Snp1.1
+lust (rāga)	cut off like plucked lotus	Snp1.1
+lotus	simile for lust cut off	Snp1.1
+craving (taṇha)	like a stream	Snp1.1
+streams (saritā)	simile for craving	Snp1.1
+conceit (māna)	like a flood	Snp1.1
+essence (sāra)	like fig tree has no flower	Snp1.1
 anger (kodha)	arahant is free from	Snp1.1
 arahants	simile of snake skin	Snp1.1
 proliferation (papañca)		Snp1.1
@@ -1012,7 +1092,7 @@ companionship	simile of bracelets	Snp1.3
 hope (āsa)	free from	Snp1.3
 association	with wise	Snp1.3
 association	with wicked	Snp1.3
-fetters (saṁyojana)	simile of fish in net	Snp1.3
+fetters (saṁyojana)	like fish in net	Snp1.3
 seclusion		Snp1.3
 brahmaviharas		Snp1.3
 farming		Snp1.4
@@ -4440,7 +4520,7 @@ unwholesome roots (lobha, dosa, moha)	causing unwholesome actions	AN3.69
 unwholesome roots (lobha, dosa, moha)	like a creeper chokes a tree	AN3.69
 wholesome roots (alobha, adosa, amoha)	causing wholesome activities	AN3.69
 accusations	responding to	AN3.69
-creeper	simile for unwholesome roots	AN3.69
+creepers	simile for unwholesome roots	AN3.69
 uposatha		AN3.70
 Visākhā, Migara’s mother	observing the uposatha	AN3.70
 uposatha	of the cowherd	AN3.70
@@ -4521,6 +4601,8 @@ monastic rules (vinaya)	difficulty following	AN3.84
 higher ethics, higher mind, higher wisdom	definition	AN3.89
 alms gathering practice	seeking in suitable places	AN3.89
 arahants	like a flame blown out	AN3.90
+night	as day	AN3.90
+day	as night	AN3.90
 mistakes	criticizing the Buddha	AN3.91
 asking forgiveness	for criticizing the Buddha	AN3.91
 monastic rules (vinaya)	Buddha giving a talk on	AN3.91
@@ -6408,6 +6490,7 @@ Udāyī, Ven	topics for recollection	AN6.29
 recollection (anussati)	topics for	AN6.29
 recollection (anussati)	jhāna	AN6.29
 perception of light (ālokasañña)	leading to knowledge and vision	AN6.29
+day	perception of (divā saññā)	AN6.29
 perception of ugliness (asubhasañña)	topic of reflection	AN6.29
 charnel ground contemplation (sivathika)	topic of reflection	AN6.29
 mindfulness of body (kāyagatāsati)	topic of reflection	AN6.29
@@ -7130,6 +7213,7 @@ ears	pinching to overcome drowsiness	AN7.61
 water	using to overcome drowsiness	AN7.61
 stars	looking at to overcome drowsiness	AN7.61
 perception of light (ālokasañña)	to overcome drowsiness	AN7.61
+night	as day	AN7.61
 walking meditation	to overcome drowsiness	AN7.61
 lion’s posture (sīhaseyyā)	to overcome drowsiness	AN7.61
 sleep	not indulging in	AN7.61
@@ -7284,7 +7368,7 @@ sense objects	danger of	AN7.72
 bowing down (abhivādana)	danger of people bowing down to you	AN7.72
 honor (sakkāra)	danger of	AN7.72
 honor (sakkāra)		xref bowing down (abhivādana)
-swords	simile of danger of being greeted with cupped hands	AN7.72
+swords	simile for danger of being greeted with cupped hands	AN7.72
 greeting with cupped hands (añjalikamma)	danger of being greeted with cupped hands	AN7.72
 añjali		xref greeting with cupped hands (añjalikamma)
 robes	like red hot sheet of iron	AN7.72
@@ -12215,6 +12299,8 @@ noble eightfold path (ariya aṭṭhangika magga)	qualities of invincible asceti
 right knowledge (sammā ñāṇa)	qualities of invincible ascetic 	MN78
 right freedom (sammā vimutti)	qualities of invincible ascetic 	MN78
 mud-goblins (pisāca)		xref goblins (pisāca)
+“when this exists, that comes to be…”		xref dependent origination (paṭiccasamuppāda)
+dependent origination (paṭiccasamuppāda)		xref “when this exists, that comes to be…”
 Sakuludāyī, wanderer		MN79
 Buddha, the	visiting wanderers of other sects 	MN79
 omniscience	false claims of	MN79

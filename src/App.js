@@ -34,20 +34,6 @@ function App() {
     }
   });
 
-  // This doesn't work
-  // if (showVisited === "on") {
-  //   document.body.classList.remove("dont-show-visited");
-  // } else if (showVisited === "off") {
-  //   document.body.classList.add("dont-show-visited");
-  // }
-  // useEffect(() => {
-  //   if (showVisited === "on") {
-  //     document.body.classList.remove("dont-show-visited");
-  //   } else if (showVisited === "off") {
-  //     document.body.classList.add("dont-show-visited");
-  //   }
-  // }, [showVisited]);
-
   function closeAllDrawers() {
     const allHideableAreas = document.getElementsByClassName("hideable-area");
     for (let i = 0; i < allHideableAreas.length; i++) {
