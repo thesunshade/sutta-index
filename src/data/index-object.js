@@ -7703,12 +7703,6 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "his own path": {
-                    "locators": [],
-                    "xrefs": [
-                         "xref Bodhisatta"
-                    ]
-               },
                "teaches carefully": {
                     "locators": [
                          "AN5.99"
@@ -33926,6 +33920,13 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
+               "perceiving light and seeing forms": {
+                    "locators": [
+                         "MN128",
+                         "AN8.64"
+                    ],
+                    "xrefs": []
+               },
                "people living in": {
                     "locators": [
                          "AN4.85"
@@ -57792,17 +57793,17 @@ export const indexObject ={
                }
           },
           "terror (chambhitatta)": {
-               "ending concentration": {
-                    "locators": [
-                         "MN128"
-                    ],
-                    "xrefs": []
-               },
                "": {
                     "locators": [],
                     "xrefs": [
                          "xref fear (bhaya)"
                     ]
+               },
+               "ending concentration": {
+                    "locators": [
+                         "MN128"
+                    ],
+                    "xrefs": []
                }
           },
           "thieves (cora)": {

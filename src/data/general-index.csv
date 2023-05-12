@@ -3014,6 +3014,14 @@ gods	difference between	MN127
 oil lamps	simile of differences between gods	MN127
 flies	simile of thoughts of gods	MN127
 Sabhiya Kaccāna, Ven.		MN127
+fear (bhaya)		xref terror (chambhitatta)
+terror (chambhitatta)		xref fear (bhaya)
+inertia (duṭṭhulla)		xref discomfort (duṭṭhulla)
+energy (vīriya) 		xref excess energy (accāraddhavīriya)
+energy (vīriya) 		xref energy, stirring up (vīriyārambha)
+energy (vīriya) 		xref awakening factor of energy (vīriyasambojjhaṅga)
+energy (vīriya) 		xref energy, stirring up (vīriyārambha)
+imperfection (upakkilesa)		xref corruptions (upakkilesa)
 loving-kindness (mettā)	in action	MN128
 Kosambi	dispute at	MN128
 disputes	at Kosambi	MN128
@@ -3038,30 +3046,23 @@ superhuman states (uttari manussadhamma)	examples of	MN128
 meditation	advice for	MN128
 meditation	problems with	MN128
 Bodhisatta	meditation experience	MN128
+light	perceiving light and seeing forms	MN128
 doubt (vicikicchā)	ending concentration	MN128
 attention (manasikāra)	loss of ending concentration	MN128
 dullness and drowsiness (thinamiddha)	ending concentration	MN128
 terror (chambhitatta)	ending concentration	MN128
-fear (bhaya)		xref terror (chambhitatta)
-terror (chambhitatta)		xref fear (bhaya)
 killers	attacking a traveler as simile for terror	MN128
 excitement (uppila)	ending concentration	MN128
 treasures	coming upon hidden treasure as simile for excitement in meditation	MN128
 discomfort (duṭṭhulla)	ending concentration	MN128
-inertia (duṭṭhulla)		xref discomfort (duṭṭhulla)
 excess energy (accāraddhavīriya)	ending concentration	MN128
 excess energy (accāraddhavīriya)	too much leads to restlessness 	AN6.55
-energy (vīriya) 		xref excess energy (accāraddhavīriya)
-energy (vīriya) 		xref energy, stirring up (vīriyārambha)
-energy (vīriya) 		xref awakening factor of energy (vīriyasambojjhaṅga)
-energy (vīriya) 		xref energy, stirring up (vīriyārambha)
 quail	gripping too tightly as simile for excess energy	MN128
 quail	gripping too loosely as simile for excess energy	MN128
 energy (vīriya)	overly lax energy and ending concentration	MN128
 longing (abhijappā)	ending concentration	MN128
 diversified perception (nānattasaññina)	ending concentration	MN128
 corruptions (upakkilesa)	of the mind	MN128
-imperfection (upakkilesa)		xref corruptions (upakkilesa)
 jhānas	knowledge and vision	MN128
 knowledge and vision (ñāṇadassana)	jhāna	MN128
 concentration (samādhi)	problems maintaining	MN128
@@ -5820,7 +5821,6 @@ association		xref companionship
 bases of psychic power (iddhipāda)	lead to nibbāna	AN5.67
 vigor (ussoḷi)	leads to nibbāna	AN5.67
 bases of psychic power (iddhipāda)	psychic powers	AN5.68
-Buddha, the	his own path	xref Bodhisatta
 Bodhisatta	development of bases of psychic power	AN5.68
 Buddha, the	psychic powers	AN5.68
 disillusionment (nibbidā)	things leading to	AN5.69
@@ -7992,6 +7992,7 @@ mindfulness of feeling (vedanānupassana)	concentration and	AN8.63
 mindfulness of mind (cittānupass)	concentration and	AN8.63
 mindfulness of mind objects (dhammānupassana)	concentration and	AN8.63
 Bodhisatta	meditation experience 	AN8.64
+light	perceiving light and seeing forms	AN8.64
 knowledge and vision (ñāṇadassana)	of Bodhisatta	AN8.64
 devas	Bodhisatta’s interaction with during meditation	AN8.64
 bases of overcoming (abhibhāyatana)	eight	AN8.65
