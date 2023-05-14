@@ -243,8 +243,7 @@ App {
 
 @media only screen and (max-width: 475px) {
   .alphabet {
-    max-width: 35rem !important;
-    justify-content: flex-start;
+    max-width: 100% !important;
   }
 }
 
