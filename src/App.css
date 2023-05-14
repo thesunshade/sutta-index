@@ -210,7 +210,6 @@ App {
 
 .alphabet {
   font-family: "Fira Code";
-  /* margin-bottom: .5rem; */
   display: flex;
   flex-direction: row;
   justify-content: space-between;
@@ -244,7 +243,8 @@ App {
 
 @media only screen and (max-width: 475px) {
   .alphabet {
-    max-width: 30rem !important;
+    max-width: 35rem !important;
+    justify-content: flex-start;
   }
 }
 
@@ -886,7 +886,7 @@ tr:nth-child(even) {
 
   .alphabet {
     margin-top: .75rem;
-    margin-bottom: .75rem
+    margin-bottom: .75rem;
   }
 
   .sutta-name {
