@@ -31360,6 +31360,11 @@ export const indexArray =[
           ""
      ],
      [
+          "CUSTOM:SN:SN 47 Satipaṭṭhānasaṁyutta:suttacentral.net/sn47",
+          "foundations of mindfulness, four (satipaṭṭhāna)",
+          ""
+     ],
+     [
           "CUSTOM:Vv:Vimanavatthu:SuttaFriends.org/vv",
           "devas",
           ""
@@ -39681,11 +39686,6 @@ export const indexArray =[
      ],
      [
           "MN77",
-          "brahmā realm (brahmalokā)",
-          "visiting using psychic powers"
-     ],
-     [
-          "MN77",
           "Buddha, the",
           "teaches with direct knowledge, reason, demonstrable base "
      ],
@@ -39738,6 +39738,11 @@ export const indexArray =[
           "MN77",
           "bath powder",
           "simile for first jhāna"
+     ],
+     [
+          "MN77",
+          "brahmā realm (brahmalokā)",
+          "visiting using psychic powers"
      ],
      [
           "MN77",
@@ -51893,6 +51898,286 @@ export const indexArray =[
           "SN46.130",
           "fetters (saṁyojana)",
           "awakening factors to give up five higher"
+     ],
+     [
+          "SN47.1",
+          "foundations of mindfulness, four (satipaṭṭhāna)",
+          "definition in brief"
+     ],
+     [
+          "SN47.1",
+          "one way path (ekāyano maggo)",
+          "foundations of mindfulness"
+     ],
+     [
+          "SN47.2",
+          "mindfulness (sati)",
+          "definition"
+     ],
+     [
+          "SN47.2",
+          "mindfulness and clear comprehension (satisampajañña)",
+          "definition"
+     ],
+     [
+          "SN47.2",
+          "situational awareness (sampajañña)",
+          "definition"
+     ],
+     [
+          "SN47.3",
+          "Dhamma",
+          "in brief"
+     ],
+     [
+          "SN47.3",
+          "foundations of mindfulness, four (satipaṭṭhāna)",
+          "internally and externally"
+     ],
+     [
+          "SN47.3",
+          "foundations of mindfulness, four (satipaṭṭhāna)",
+          "virtue and right view as precursor"
+     ],
+     [
+          "SN47.3",
+          "skillful qualities (kusala dhamma)",
+          "starting point"
+     ],
+     [
+          "SN47.3",
+          "views (diṭṭhi)",
+          "straight (ujuka)"
+     ],
+     [
+          "SN47.3",
+          "virtue (sīla)",
+          "starting point"
+     ],
+     [
+          "SN47.4",
+          "advice",
+          "for new monastics"
+     ],
+     [
+          "SN47.4",
+          "arahants",
+          "meditate on four foundations of mindfulness"
+     ],
+     [
+          "SN47.4",
+          "foundations of mindfulness, four (satipaṭṭhāna)",
+          "know as they truly are"
+     ],
+     [
+          "SN47.4",
+          "foundations of mindfulness, four (satipaṭṭhāna)",
+          "new monks should train in"
+     ],
+     [
+          "SN47.4",
+          "going forth (pabbajja)",
+          "new monks should train in four foundations of mindfulness"
+     ],
+     [
+          "SN47.4",
+          "trainee (sekha)",
+          "should train in four foundations of mindfulness"
+     ],
+     [
+          "SN47.5",
+          "foundations of mindfulness, four (satipaṭṭhāna)",
+          "heap of the skillful"
+     ],
+     [
+          "SN47.5",
+          "hindrances (nīvarana)",
+          "heap of the unskillful"
+     ],
+     [
+          "SN47.6",
+          "domain (gocarā)",
+          "foundations of mindfulness"
+     ],
+     [
+          "SN47.6",
+          "foundations of mindfulness, four (satipaṭṭhāna)",
+          "ones own domain"
+     ],
+     [
+          "SN47.6",
+          "hawk",
+          "catching quail outside of its domain"
+     ],
+     [
+          "SN47.6",
+          "quail",
+          "caught by hawk wile outside of its domain"
+     ],
+     [
+          "SN47.6",
+          "sense pleasures, five",
+          "not ones own domain"
+     ],
+     [
+          "SN47.7",
+          "foundations of mindfulness, four (satipaṭṭhāna)",
+          "ones own domain"
+     ],
+     [
+          "SN47.7",
+          "monkey",
+          "getting stuck in tar trap, simile for going out of ones own domain"
+     ],
+     [
+          "SN47.7",
+          "sense pleasures, five",
+          "not ones own domain"
+     ],
+     [
+          "SN47.8",
+          "cooks",
+          "not taking the master’s hint, simile for not practicing foundations of mindfulness properly."
+     ],
+     [
+          "SN47.8",
+          "foundations of mindfulness, four (satipaṭṭhāna)",
+          "happiness in present life"
+     ],
+     [
+          "SN47.8",
+          "foundations of mindfulness, four (satipaṭṭhāna)",
+          "sign (nimitta) of the mind"
+     ],
+     [
+          "SN47.8",
+          "happiness in the present life (diṭṭhadhammasukhavihāra)",
+          "foundations of mindfulness"
+     ],
+     [
+          "SN47.8",
+          "sign (nimitta)",
+          "of mind while practicing foundations of mindfulness"
+     ],
+     [
+          "SN47.9",
+          "Ānanda, Ven.",
+          "upset when Buddha was sick"
+     ],
+     [
+          "SN47.9",
+          "Buddha, the",
+          "eighty years old"
+     ],
+     [
+          "SN47.9",
+          "Buddha, the",
+          "illness of"
+     ],
+     [
+          "SN47.9",
+          "Dhamma",
+          "as island"
+     ],
+     [
+          "SN47.9",
+          "body",
+          "old, like cart held together with straps"
+     ],
+     [
+          "SN47.9",
+          "carts",
+          "old held together with straps, simile for Buddha in old age"
+     ],
+     [
+          "SN47.9",
+          "foundations of mindfulness, four (satipaṭṭhāna)",
+          "as island and refuge"
+     ],
+     [
+          "SN47.9",
+          "hands",
+          "Buddha is open-handed"
+     ],
+     [
+          "SN47.9",
+          "intention to live (jīvitasaṅkhāra)",
+          "Buddha maintains to prevent passing away"
+     ],
+     [
+          "SN47.9",
+          "island",
+          "let the teaching be your"
+     ],
+     [
+          "SN47.9",
+          "old age",
+          "Buddha experiencing"
+     ],
+     [
+          "SN47.9",
+          "refuges",
+          "live as your own"
+     ],
+     [
+          "SN47.9",
+          "refuges",
+          "teaching as"
+     ],
+     [
+          "SN47.9",
+          "secrets",
+          "Buddha has no secret teachings"
+     ],
+     [
+          "SN47.9",
+          "signless immersion of the heart (animittaṁ cetosamādhi)",
+          "Buddha finds comfort in"
+     ],
+     [
+          "SN47.10",
+          "Ānanda, Ven.",
+          "visits bhikkhunīs"
+     ],
+     [
+          "SN47.10",
+          "applied and sustained thought (vitakkavicārā)",
+          "foundations of mindfulness"
+     ],
+     [
+          "SN47.10",
+          "bhikkhunīs",
+          "practicing foundations of mindfulness"
+     ],
+     [
+          "SN47.10",
+          "concentration (samādhi)",
+          "from happiness/bliss"
+     ],
+     [
+          "SN47.10",
+          "foundations of mindfulness, four (satipaṭṭhāna)",
+          "applied and sustained thought "
+     ],
+     [
+          "SN47.10",
+          "joy (pāmojja)",
+          "to samadhi chain"
+     ],
+     [
+          "SN47.10",
+          "sign (nimitta)",
+          "inspiring (pasādaniya)"
+     ],
+     [
+          "SN47.10",
+          "trees",
+          "“Here are these roots of trees…”"
+     ],
+     [
+          "SN47.10",
+          "undirected (appaṇidhāya)",
+          "meditation"
      ],
      [
           "SN47.13",

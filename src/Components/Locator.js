@@ -1,11 +1,15 @@
 import { useContext } from "react";
 import { ContextDestination } from "../App.js";
 import { memo } from "react";
+import tippy from "tippy.js";
+import "tippy.js/dist/tippy.css"; // optional for styling
 
 // functions
 import getSuttaTitleBlurb from "../functions/getSuttaTitleBlurb.js";
 import getSuttaTitle from "../functions/getSuttaTitle.js";
 import convertVatthus from "../functions/convertVatthus.js";
+
+tippy("[data-tippy-content]", { touch: ["hold", 1500] });
 
 function Locator(props) {
   let { location } = props;
@@ -62,7 +66,7 @@ function Locator(props) {
         rel="noreferrer"
         target="_blank"
         className={justBook(location) + " locator"}
-        title={getSuttaTitleBlurb(stripRangesFromUrls(location))}
+        data-tippy-content={getSuttaTitleBlurb(stripRangesFromUrls(location))}
       >
         {addSpace(location)}
         {getSuttaTitle(location) ? suttaNameJsx : ""}
