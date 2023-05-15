@@ -3957,834 +3957,815 @@ export const blurbs = {
   kp7: "The Supreme Buddha explains how to share merit with past relatives.",
   kp8: "Merit is the only sure investment",
   kp9: "The practice of developing universal goodwill: the practices that form a foundation for the practice, the attitude of universal goodwill itself, and the steps that lead from goodwill to awakening.",
-  dhp1: "1. Intention shapes experiences;<br>intention is first, they’re made by intention.<br>If with corrupt intent<br>you speak or act,<br>suffering follows you,<br>like a wheel, the ox’s foot.<br>",
-  dhp2: "2. Intention shapes experiences;<br>intention is first, they’re made by intention.<br>If with pure intent<br>you speak or act,<br>happiness follows you<br>like a shadow that never leaves.<br>",
-  dhp3: "3. “They abused me, they hit me!<br>They beat me, they robbed me!”<br>For those who bear such a grudge,<br>hatred never ends.<br>",
-  dhp4: "4. “They abused me, they hit me!<br>They beat me, they robbed me!”<br>For those who bear no such grudge,<br>hatred has an end.<br>",
-  dhp5: "5. For never is hatred<br>settled by hate,<br>it’s only settled by love:<br>this is an ancient law. <br>",
-  dhp6: "6. Others don’t understand<br>that here we need to be restrained.<br>But those who do understand this,<br>being clever, settle their conflicts.<br>",
-  dhp7: "7. Those who contemplate the beautiful,<br>their faculties unrestrained,<br>immoderate in eating,<br>lazy, lacking energy:<br>Māra strikes them down<br>like the wind, a feeble tree.<br>",
-  dhp8: "8. Those who contemplate the ugly,<br>their faculties well-restrained,<br>eating in moderation, <br>faithful and energetic:<br>Māra cannot strike them down,<br>like the wind, a rocky mountain.<br>",
-  dhp9: "9. One who, not free of stains themselves,<br>would wear the robe stained in ocher,<br>bereft of self-control and of truth:<br>they are not worthy of the ocher robe.<br>",
+  dhp1: "1. Intention shapes experiences;\nintention is first, they’re made by intention.\nIf with corrupt intent\nyou speak or act,\nsuffering follows you,\nlike a wheel, the ox’s foot.\n",
+  dhp2: "2. Intention shapes experiences;\nintention is first, they’re made by intention.\nIf with pure intent\nyou speak or act,\nhappiness follows you\nlike a shadow that never leaves.\n",
+  dhp3: "3. “They abused me, they hit me!\nThey beat me, they robbed me!”\nFor those who bear such a grudge,\nhatred never ends.\n",
+  dhp4: "4. “They abused me, they hit me!\nThey beat me, they robbed me!”\nFor those who bear no such grudge,\nhatred has an end.\n",
+  dhp5: "5. For never is hatred\nsettled by hate,\nit’s only settled by love:\nthis is an ancient law. \n",
+  dhp6: "6. Others don’t understand\nthat here we need to be restrained.\nBut those who do understand this,\nbeing clever, settle their conflicts.\n",
+  dhp7: "7. Those who contemplate the beautiful,\ntheir faculties unrestrained,\nimmoderate in eating,\nlazy, lacking energy:\nMāra strikes them down\nlike the wind, a feeble tree.\n",
+  dhp8: "8. Those who contemplate the ugly,\ntheir faculties well-restrained,\neating in moderation, \nfaithful and energetic:\nMāra cannot strike them down,\nlike the wind, a rocky mountain.\n",
+  dhp9: "9. One who, not free of stains themselves,\nwould wear the robe stained in ocher,\nbereft of self-control and of truth:\nthey are not worthy of the ocher robe.\n",
   dhp10:
-    "10. One who’s purged all their stains,<br>steady in ethics,<br>possessed of self-control and of truth,<br>they are truly worthy of the ocher robe.<br>",
+    "10. One who’s purged all their stains,\nsteady in ethics,\npossessed of self-control and of truth,\nthey are truly worthy of the ocher robe.\n",
   dhp11:
-    "11. Thinking the inessential is essential,<br>seeing the essential as inessential;<br>they don’t realize the essential,<br>for wrong thoughts are their pasture.<br>",
+    "11. Thinking the inessential is essential,\nseeing the essential as inessential;\nthey don’t realize the essential,\nfor wrong thoughts are their pasture.\n",
   dhp12:
-    "12. Having known the essential as essential,<br>and the inessential as inessential;<br>they realize the essential,<br>for right thoughts are their pasture.<br>",
-  dhp13: "13. Just as rain seeps into<br>a poorly roofed house,<br>lust seeps into<br>an undeveloped mind.<br>",
-  dhp14:
-    "14. Just as rain doesn’t seep into<br>a well roofed house,<br>lust doesn’t seep into<br>a well developed mind.<br>",
+    "12. Having known the essential as essential,\nand the inessential as inessential;\nthey realize the essential,\nfor right thoughts are their pasture.\n",
+  dhp13: "13. Just as rain seeps into\na poorly roofed house,\nlust seeps into\nan undeveloped mind.\n",
+  dhp14: "14. Just as rain doesn’t seep into\na well roofed house,\nlust doesn’t seep into\na well developed mind.\n",
   dhp15:
-    "15. Here they grieve, hereafter they grieve,<br>an evildoer grieves in both places.<br>They grieve and fret,<br>seeing their own corrupt deeds.<br>",
+    "15. Here they grieve, hereafter they grieve,\nan evildoer grieves in both places.\nThey grieve and fret,\nseeing their own corrupt deeds.\n",
   dhp16:
-    "16. Here they rejoice, hereafter they rejoice,<br>one who does good rejoices in both places.<br>They rejoice and celebrate,<br>seeing their own pure deeds.<br>",
+    "16. Here they rejoice, hereafter they rejoice,\none who does good rejoices in both places.\nThey rejoice and celebrate,\nseeing their own pure deeds.\n",
   dhp17:
-    "17. Here they’re tormented, hereafter they’re tormented,<br>an evildoer is tormented in both places.<br>They’re tormented thinking of bad things they’ve done;<br>when gone to a bad place, they’re tormented all the more.<br>",
+    "17. Here they’re tormented, hereafter they’re tormented,\nan evildoer is tormented in both places.\nThey’re tormented thinking of bad things they’ve done;\nwhen gone to a bad place, they’re tormented all the more.\n",
   dhp18:
-    "18. Here they delight, hereafter they delight,<br>one who does good delights in both places.<br>They delight thinking of good things they’ve done;<br>when gone to a good place, they delight all the more.<br>",
+    "18. Here they delight, hereafter they delight,\none who does good delights in both places.\nThey delight thinking of good things they’ve done;\nwhen gone to a good place, they delight all the more.\n",
   dhp19:
-    "19. Much though they may recite scripture,<br>if a negligent person does not apply them,<br>then, like a cowherd who counts the cattle of others,<br>they miss out on the blessings of the ascetic life.<br>",
+    "19. Much though they may recite scripture,\nif a negligent person does not apply them,\nthen, like a cowherd who counts the cattle of others,\nthey miss out on the blessings of the ascetic life.\n",
   dhp20:
-    "20. Little though they may recite scripture,<br>if they live in line with the teachings,<br>having given up greed, hate, and delusion,<br>with deep understanding and heart well-freed,<br>not grasping to this world or the next,<br>they share in the blessings of the ascetic life.<br>",
+    "20. Little though they may recite scripture,\nif they live in line with the teachings,\nhaving given up greed, hate, and delusion,\nwith deep understanding and heart well-freed,\nnot grasping to this world or the next,\nthey share in the blessings of the ascetic life.\n",
   dhp21:
-    "21. Heedfulness is the deathless state;<br>heedlessness is the state of death.<br>The heedful do not die,<br>while the heedless are like the dead.<br>",
+    "21. Heedfulness is the deathless state;\nheedlessness is the state of death.\nThe heedful do not die,\nwhile the heedless are like the dead.\n",
   dhp22:
-    "22. Understanding this distinction<br>when it comes to heedfulness,<br>the astute rejoice in heedfulness,<br>happy in the noble ones’ domain.<br>",
+    "22. Understanding this distinction\nwhen it comes to heedfulness,\nthe astute rejoice in heedfulness,\nhappy in the noble ones’ domain.\n",
   dhp23:
-    "23. They who regularly meditate,<br>always staunchly vigorous;<br>those wise ones realize quenching,<br>the supreme sanctuary. <br>",
+    "23. They who regularly meditate,\nalways staunchly vigorous;\nthose wise ones realize quenching,\nthe supreme sanctuary. \n",
   dhp24:
-    "24. For the hard-working and mindful,<br>pure of deed and attentive,<br>restrained, living righteously, and diligent,<br>their reputation only grows.<br>",
+    "24. For the hard-working and mindful,\npure of deed and attentive,\nrestrained, living righteously, and diligent,\ntheir reputation only grows.\n",
   dhp25:
-    "25. By hard work and diligence,<br>by restraint and by self-control,<br>a smart person would build an island<br>that the floods cannot overflow.<br>",
+    "25. By hard work and diligence,\nby restraint and by self-control,\na smart person would build an island\nthat the floods cannot overflow.\n",
   dhp26:
-    "26. Fools and half-wits<br>devote themselves to negligence.<br>But the wise protect diligence<br>as their best treasure.<br>",
+    "26. Fools and half-wits\ndevote themselves to negligence.\nBut the wise protect diligence\nas their best treasure.\n",
   dhp27:
-    "27. Don’t devote yourself to negligence,<br>or delight in sexual intimacy.<br>For if you’re diligent and meditate,<br>you’ll attain abundant happiness. <br>",
+    "27. Don’t devote yourself to negligence,\nor delight in sexual intimacy.\nFor if you’re diligent and meditate,\nyou’ll attain abundant happiness. \n",
   dhp28:
-    "28. When the astute dispel negligence<br>by means of diligence,<br>ascending the palace of wisdom,<br>sorrowless, they behold this generation of sorrow,<br>as a wise man on a mountain-top<br>beholds the fools below.<br>",
+    "28. When the astute dispel negligence\nby means of diligence,\nascending the palace of wisdom,\nsorrowless, they behold this generation of sorrow,\nas a wise man on a mountain-top\nbeholds the fools below.\n",
   dhp29:
-    "29. Heedful among the heedless,<br>wide awake while others sleep—<br>a true sage leaves them behind,<br>like a swift horse passing a feeble.<br>",
+    "29. Heedful among the heedless,\nwide awake while others sleep—\na true sage leaves them behind,\nlike a swift horse passing a feeble.\n",
   dhp30:
-    "30. Maghavā became chief of the gods<br>by means of diligence.<br>People praise diligence,<br>while negligence is always deplored.<br>",
+    "30. Maghavā became chief of the gods\nby means of diligence.\nPeople praise diligence,\nwhile negligence is always deplored.\n",
   dhp31:
-    "31. A mendicant who loves to be diligent,<br>seeing fear in negligence—<br>advances like fire, <br>burning up fetters big and small.<br>",
+    "31. A mendicant who loves to be diligent,\nseeing fear in negligence—\nadvances like fire, \nburning up fetters big and small.\n",
   dhp32:
-    "32. A mendicant who loves to be diligent,<br>seeing fear in negligence—<br>such a one can’t decline,<br>and has drawn near to extinguishment.<br>",
+    "32. A mendicant who loves to be diligent,\nseeing fear in negligence—\nsuch a one can’t decline,\nand has drawn near to extinguishment.\n",
   dhp33:
-    "33. The mind quivers and shakes,<br>hard to guard, hard to curb.<br>The discerning straighten it out,<br>like a fletcher straightens an arrow.<br>",
+    "33. The mind quivers and shakes,\nhard to guard, hard to curb.\nThe discerning straighten it out,\nlike a fletcher straightens an arrow.\n",
   dhp34:
-    "34. Like a fish pulled from the sea<br>and cast upon the shore,<br>this mind flounders about,<br>trying to throw off Māra’s sway.<br>",
+    "34. Like a fish pulled from the sea\nand cast upon the shore,\nthis mind flounders about,\ntrying to throw off Māra’s sway.\n",
   dhp35:
-    "35. Hard to hold back, flighty,<br>alighting where it will;<br>it’s good to tame the mind;<br>a tamed mind leads to bliss.<br>",
+    "35. Hard to hold back, flighty,\nalighting where it will;\nit’s good to tame the mind;\na tamed mind leads to bliss.\n",
   dhp36:
-    "36. So hard to see, so subtle,<br>alighting where it will;<br>the discerning protect the mind,<br>a guarded mind leads to bliss.<br>",
+    "36. So hard to see, so subtle,\nalighting where it will;\nthe discerning protect the mind,\na guarded mind leads to bliss.\n",
   dhp37:
-    "37. The mind travels far, wandering alone;<br>incorporeal, it hides in a cave.<br>Those who will restrain the mind<br>are freed from Māra’s bonds. <br>",
+    "37. The mind travels far, wandering alone;\nincorporeal, it hides in a cave.\nThose who will restrain the mind\nare freed from Māra’s bonds. \n",
   dhp38:
-    "38. Those of unsteady mind,<br>who don’t understand the true teaching,<br>and whose confidence wavers,<br>do not perfect their wisdom.<br>",
+    "38. Those of unsteady mind,\nwho don’t understand the true teaching,\nand whose confidence wavers,\ndo not perfect their wisdom.\n",
   dhp39:
-    "39. One whose mind is uncorrupted,<br>whose heart is undamaged,<br>who’s given up right and wrong,<br>alert, has nothing to fear.<br>",
+    "39. One whose mind is uncorrupted,\nwhose heart is undamaged,\nwho’s given up right and wrong,\nalert, has nothing to fear.\n",
   dhp40:
-    "40. Knowing this body breaks like a pot,<br>and fortifying the mind like a citadel,<br>attack Māra with the sword of wisdom,<br>guard your conquest, and never settle.<br>",
+    "40. Knowing this body breaks like a pot,\nand fortifying the mind like a citadel,\nattack Māra with the sword of wisdom,\nguard your conquest, and never settle.\n",
   dhp41:
-    "41. All too soon this body<br>will lie upon the earth,<br>bereft of consciousness,<br>tossed aside like a useless log.<br>",
-  dhp42:
-    "42. A wrongly directed mind<br>would do you more harm<br>than a hater to the hated,<br>or an enemy to their foe.<br>",
-  dhp43:
-    "43. A rightly directed mind<br>would do you more good<br>than your mother or father<br>or any other relative.<br>",
+    "41. All too soon this body\nwill lie upon the earth,\nbereft of consciousness,\ntossed aside like a useless log.\n",
+  dhp42: "42. A wrongly directed mind\nwould do you more harm\nthan a hater to the hated,\nor an enemy to their foe.\n",
+  dhp43: "43. A rightly directed mind\nwould do you more good\nthan your mother or father\nor any other relative.\n",
   dhp44:
-    "44. Who shall explore this land,<br>and the Yama realm with its gods?<br>Who shall examine the well-taught word of truth,<br>as an expert examines a flower?<br>",
+    "44. Who shall explore this land,\nand the Yama realm with its gods?\nWho shall examine the well-taught word of truth,\nas an expert examines a flower?\n",
   dhp45:
-    "45. A trainee shall explore this land,<br>and the Yama realm with its gods.<br>A trainee shall examine the well-taught word of truth,<br>as an expert examines a flower.<br>",
+    "45. A trainee shall explore this land,\nand the Yama realm with its gods.\nA trainee shall examine the well-taught word of truth,\nas an expert examines a flower.\n",
   dhp46:
-    "46. Knowing this body’s like foam,<br>realizing it’s all just a mirage,<br>and cutting off Māra’s blossoming,<br>vanish from the King of Death.<br>",
+    "46. Knowing this body’s like foam,\nrealizing it’s all just a mirage,\nand cutting off Māra’s blossoming,\nvanish from the King of Death.\n",
   dhp47:
-    "47. As a mighty flood sweeps off a sleeping village,<br>death steals away a man<br>even as he gathers flowers,<br>his mind caught up in them.<br>",
+    "47. As a mighty flood sweeps off a sleeping village,\ndeath steals away a man\neven as he gathers flowers,\nhis mind caught up in them.\n",
   dhp48:
-    "48. The terminator gains control of the man<br>who has not had his fill of pleasures,<br>even as he gathers flowers,<br>his mind caught up in them.<br>",
+    "48. The terminator gains control of the man\nwho has not had his fill of pleasures,\neven as he gathers flowers,\nhis mind caught up in them.\n",
   dhp49:
-    "49. A bee takes the nectar<br>and moves on, doing no damage<br>to the flower’s beauty and fragrance;<br>and that’s how a sage should walk in the village.<br>",
+    "49. A bee takes the nectar\nand moves on, doing no damage\nto the flower’s beauty and fragrance;\nand that’s how a sage should walk in the village.\n",
   dhp50:
-    "50. Don’t find fault with others,<br>with what they’ve done or left undone.<br>You should only watch yourself,<br>what you’ve done or left undone.<br>",
+    "50. Don’t find fault with others,\nwith what they’ve done or left undone.\nYou should only watch yourself,\nwhat you’ve done or left undone.\n",
   dhp51:
-    "51. Just like a glorious flower<br>that’s colorful but lacks fragrance;<br>eloquent speech is fruitless<br>for one who does not act on it.<br>",
+    "51. Just like a glorious flower\nthat’s colorful but lacks fragrance;\neloquent speech is fruitless\nfor one who does not act on it.\n",
   dhp52:
-    "52. Just like a glorious flower<br>that’s both colorful and fragrant,<br>eloquent speech is fruitful<br>for one who acts on it.<br>",
+    "52. Just like a glorious flower\nthat’s both colorful and fragrant,\neloquent speech is fruitful\nfor one who acts on it.\n",
   dhp53:
-    "53. Just as one would create many garlands<br>from a heap of flowers,<br>when a person has come to be born,<br>they should do many skillful things.<br>",
+    "53. Just as one would create many garlands\nfrom a heap of flowers,\nwhen a person has come to be born,\nthey should do many skillful things.\n",
   dhp54:
-    "54. The fragrance of flowers doesn’t spread upwind,<br>nor sandalwood, pinwheel, or jasmine;<br>but the fragrance of the good spreads upwind;<br>a good person’s virtue spreads in every direction.<br>",
+    "54. The fragrance of flowers doesn’t spread upwind,\nnor sandalwood, pinwheel, or jasmine;\nbut the fragrance of the good spreads upwind;\na good person’s virtue spreads in every direction.\n",
   dhp55:
-    "55. Among all the fragrances—<br>sandalwood or pinwheel<br>or lotus or jasmine—<br>the fragrance of virtue is supreme.<br>",
+    "55. Among all the fragrances—\nsandalwood or pinwheel\nor lotus or jasmine—\nthe fragrance of virtue is supreme.\n",
   dhp56:
-    "56. Faint is the fragrance<br>of sandal or pinwheel;<br>but the fragrance of the virtuous<br>floats to the highest gods.<br>",
+    "56. Faint is the fragrance\nof sandal or pinwheel;\nbut the fragrance of the virtuous\nfloats to the highest gods.\n",
   dhp57:
-    "57. For those accomplished in ethics,<br>meditating diligently,<br>freed through the highest knowledge,<br>Māra cannot find their path.<br>",
-  dhp58:
-    "58. From a forsaken heap<br>discarded on the highway,<br>a lotus might blossom,<br>fragrant and delightful.<br>",
+    "57. For those accomplished in ethics,\nmeditating diligently,\nfreed through the highest knowledge,\nMāra cannot find their path.\n",
+  dhp58: "58. From a forsaken heap\ndiscarded on the highway,\na lotus might blossom,\nfragrant and delightful.\n",
   dhp59:
-    "59. So too, among the forsaken,<br>a disciple of the perfect Buddha<br>outshines with their wisdom<br>the blind ordinary folk.<br>",
+    "59. So too, among the forsaken,\na disciple of the perfect Buddha\noutshines with their wisdom\nthe blind ordinary folk.\n",
   dhp60:
-    "60. Long is the night for the wakeful;<br>long is the league for the weary;<br>long transmigrate the fools<br>who don’t understand the true teaching.<br>",
+    "60. Long is the night for the wakeful;\nlong is the league for the weary;\nlong transmigrate the fools\nwho don’t understand the true teaching.\n",
   dhp61:
-    "61. If while wandering you find no partner<br>equal or better than yourself,<br>then firmly resolve to wander alone—<br>there’s no fellowship with fools.<br>",
+    "61. If while wandering you find no partner\nequal or better than yourself,\nthen firmly resolve to wander alone—\nthere’s no fellowship with fools.\n",
   dhp62:
-    "62. “Sons are mine, wealth is mine”—<br>thus the fool frets.<br>But you can’t even call your self your own,<br>let alone your sons or wealth.<br>",
+    "62. “Sons are mine, wealth is mine”—\nthus the fool frets.\nBut you can’t even call your self your own,\nlet alone your sons or wealth.\n",
   dhp63:
-    "63. The fool who thinks they’re a fool<br>is wise at least to that extent.<br>But the true fool is said to be one<br>who imagines that they are wise.<br>",
+    "63. The fool who thinks they’re a fool\nis wise at least to that extent.\nBut the true fool is said to be one\nwho imagines that they are wise.\n",
   dhp64:
-    "64. Though a fool attends to the wise<br>even for the rest of their life,<br>they still don’t experience the teaching,<br>like a spoon the taste of the soup.<br>",
+    "64. Though a fool attends to the wise\neven for the rest of their life,\nthey still don’t experience the teaching,\nlike a spoon the taste of the soup.\n",
   dhp65:
-    "65. If a clever person attends to the wise<br>even just for an hour or so,<br>they swiftly experience the teaching,<br>like a tongue the taste of the soup.<br>",
-  dhp66:
-    "66. Witless fools behave<br>like their own worst enemies,<br>doing wicked deeds<br>that ripen as bitter fruit.<br>",
+    "65. If a clever person attends to the wise\neven just for an hour or so,\nthey swiftly experience the teaching,\nlike a tongue the taste of the soup.\n",
+  dhp66: "66. Witless fools behave\nlike their own worst enemies,\ndoing wicked deeds\nthat ripen as bitter fruit.\n",
   dhp67:
-    "67. It’s not good to do a deed<br>that plagues you later on,<br>for which you weep and wail,<br>as its effect stays with you.<br>",
+    "67. It’s not good to do a deed\nthat plagues you later on,\nfor which you weep and wail,\nas its effect stays with you.\n",
   dhp68:
-    "68. It is good to do a deed<br>that doesn’t plague you later on,<br>that gladdens and cheers,<br>as its effect stays with you.<br>",
+    "68. It is good to do a deed\nthat doesn’t plague you later on,\nthat gladdens and cheers,\nas its effect stays with you.\n",
   dhp69:
-    "69. The fool imagines that evil is sweet,<br>so long as it has not yet ripened.<br>But as soon as that evil ripens,<br>they fall into suffering.<br>",
+    "69. The fool imagines that evil is sweet,\nso long as it has not yet ripened.\nBut as soon as that evil ripens,\nthey fall into suffering.\n",
   dhp70:
-    "70. Month after month a fool may eat<br>food from a grass-blade’s tip;<br>but they’ll never be worth a sixteenth part<br>of one who has fathomed the teaching.<br>",
+    "70. Month after month a fool may eat\nfood from a grass-blade’s tip;\nbut they’ll never be worth a sixteenth part\nof one who has fathomed the teaching.\n",
   dhp71:
-    "71. For a wicked deed that has been done<br>does not spoil quickly like milk.<br>Smoldering, it follows the fool,<br>like a fire smothered over with ash.<br>",
+    "71. For a wicked deed that has been done\ndoes not spoil quickly like milk.\nSmoldering, it follows the fool,\nlike a fire smothered over with ash.\n",
   dhp72:
-    "72. Whatever fame a fool may get,<br>it only gives rise to harm.<br>Whatever good features they have it ruins,<br>and blows their head into bits.<br>",
+    "72. Whatever fame a fool may get,\nit only gives rise to harm.\nWhatever good features they have it ruins,\nand blows their head into bits.\n",
   dhp73:
-    "73. They’d seek the esteem that they lack,<br>and status among the mendicants;<br>authority over monasteries,<br>and honor among other families.<br>",
+    "73. They’d seek the esteem that they lack,\nand status among the mendicants;\nauthority over monasteries,\nand honor among other families.\n",
   dhp74:
-    "74. “Let both layfolk and renunciants think<br>the work was done by me alone.<br>In anything at all that’s to be done,<br>let them fall under my sway alone.”<br>So thinks the fool,<br>their greed and pride only growing.<br>",
+    "74. “Let both layfolk and renunciants think\nthe work was done by me alone.\nIn anything at all that’s to be done,\nlet them fall under my sway alone.”\nSo thinks the fool,\ntheir greed and pride only growing.\n",
   dhp75:
-    "75. For the means to profit and the path to quenching<br>are two quite different things.<br>A mendicant disciple of the Buddha,<br>understanding what this really means,<br>would never delight in honors,<br>but rather would foster seclusion.<br>",
+    "75. For the means to profit and the path to quenching\nare two quite different things.\nA mendicant disciple of the Buddha,\nunderstanding what this really means,\nwould never delight in honors,\nbut rather would foster seclusion.\n",
   dhp76:
-    "76. Regard one who sees your faults<br>as a guide to a hidden treasure.<br>Stay close to one so wise and astute<br>who corrects you when you need it.<br>Sticking close to such an impartial person,<br>things get better, not worse. <br>",
-  dhp77:
-    "77. Advise and instruct;<br>curb wickedness:<br>for you shall be loved by the good,<br>and disliked by the bad.<br>",
+    "76. Regard one who sees your faults\nas a guide to a hidden treasure.\nStay close to one so wise and astute\nwho corrects you when you need it.\nSticking close to such an impartial person,\nthings get better, not worse. \n",
+  dhp77: "77. Advise and instruct;\ncurb wickedness:\nfor you shall be loved by the good,\nand disliked by the bad.\n",
   dhp78:
-    "78. Don’t mix with bad friends,<br>nor with the worst of men.<br>Mix with spiritual friends,<br>and with the best of men.<br>",
+    "78. Don’t mix with bad friends,\nnor with the worst of men.\nMix with spiritual friends,\nand with the best of men.\n",
   dhp79:
-    "79. Through joy in the teaching you sleep at ease,<br>with clear and confident heart.<br>An astute person always delights in the teaching<br>proclaimed by the Noble One.<br>",
+    "79. Through joy in the teaching you sleep at ease,\nwith clear and confident heart.\nAn astute person always delights in the teaching\nproclaimed by the Noble One.\n",
   dhp80:
-    "80. While irrigators guide water,<br>fletchers straighten arrows,<br>and carpenters carve timber,<br>the astute tame themselves.<br>",
-  dhp81:
-    "81. As the wind cannot stir<br>a solid mass of rock,<br>so too praise and blame<br>do not affect the wise.<br>",
-  dhp82:
-    "82. Like a deep lake,<br>clear and unclouded,<br>so clear are the astute<br>when they hear the teachings.<br>",
+    "80. While irrigators guide water,\nfletchers straighten arrows,\nand carpenters carve timber,\nthe astute tame themselves.\n",
+  dhp81: "81. As the wind cannot stir\na solid mass of rock,\nso too praise and blame\ndo not affect the wise.\n",
+  dhp82: "82. Like a deep lake,\nclear and unclouded,\nso clear are the astute\nwhen they hear the teachings.\n",
   dhp83:
-    "83. Good people give up everything,<br>they don’t cajole for the things they desire.<br>Though touched by sadness or happiness,<br>the astute appear neither depressed nor elated.<br>",
+    "83. Good people give up everything,\nthey don’t cajole for the things they desire.\nThough touched by sadness or happiness,\nthe astute appear neither depressed nor elated.\n",
   dhp84:
-    "84. Never wish for success by unjust means,<br>for your own sake or that of another,<br>desiring children, wealth, or nation;<br>rather, be virtuous, wise, and just.<br>",
-  dhp85:
-    "85. Few are those among humans<br>who cross to the far shore.<br>The rest just run around<br>on the near shore. <br>",
+    "84. Never wish for success by unjust means,\nfor your own sake or that of another,\ndesiring children, wealth, or nation;\nrather, be virtuous, wise, and just.\n",
+  dhp85: "85. Few are those among humans\nwho cross to the far shore.\nThe rest just run around\non the near shore. \n",
   dhp86:
-    "86. When the teaching is well explained,<br>those who practice accordingly<br>will cross over <br>Death’s domain so hard to pass.<br>",
+    "86. When the teaching is well explained,\nthose who practice accordingly\nwill cross over \nDeath’s domain so hard to pass.\n",
   dhp87:
-    "87. Rid of dark qualities,<br>an astute person should develop the bright.<br>Leaving home behind <br>for the seclusion so hard to enjoy, <br>",
+    "87. Rid of dark qualities,\nan astute person should develop the bright.\nLeaving home behind \nfor the seclusion so hard to enjoy, \n",
   dhp88:
-    "88. find delight there,<br>having left behind sensual pleasures.<br>With no possessions, an astute person<br>would cleanse themselves of mental corruptions. <br>",
+    "88. find delight there,\nhaving left behind sensual pleasures.\nWith no possessions, an astute person\nwould cleanse themselves of mental corruptions. \n",
   dhp89:
-    "89. Those whose minds are rightly developed<br>in the awakening factors;<br>who, letting go of attachments,<br>delight in not grasping:<br>with defilements ended, brilliant,<br>they in this world are quenched.<br>",
-  dhp90:
-    "90. At journey’s end, rid of sorrow;<br>everywhere free,<br>all ties given up, <br>no fever is found in them.<br>",
+    "89. Those whose minds are rightly developed\nin the awakening factors;\nwho, letting go of attachments,\ndelight in not grasping:\nwith defilements ended, brilliant,\nthey in this world are quenched.\n",
+  dhp90: "90. At journey’s end, rid of sorrow;\neverywhere free,\nall ties given up, \nno fever is found in them.\n",
   dhp91:
-    "91. The mindful apply themselves;<br>they delight in no abode.<br>Like a swan from the marsh that’s gone,<br>they leave behind home after home.<br>",
+    "91. The mindful apply themselves;\nthey delight in no abode.\nLike a swan from the marsh that’s gone,\nthey leave behind home after home.\n",
   dhp92:
-    "92. Those with nothing stored up,<br>who have understood their food,<br>whose domain is the liberation<br>of the signless and the empty:<br>their path is hard to trace,<br>like birds in the sky.<br>",
+    "92. Those with nothing stored up,\nwho have understood their food,\nwhose domain is the liberation\nof the signless and the empty:\ntheir path is hard to trace,\nlike birds in the sky.\n",
   dhp93:
-    "93. One whose defilements have ended;<br>who’s not attached to food;<br>whose domain is the liberation<br>of the signless and the empty:<br>their track is hard to trace,<br>like birds in the sky.<br>",
+    "93. One whose defilements have ended;\nwho’s not attached to food;\nwhose domain is the liberation\nof the signless and the empty:\ntheir track is hard to trace,\nlike birds in the sky.\n",
   dhp94:
-    "94. Whose faculties have become serene,<br>like horses tamed by a charioteer,<br>who has abandoned conceit and defilements;<br>the poised one is envied by even the gods.<br>",
+    "94. Whose faculties have become serene,\nlike horses tamed by a charioteer,\nwho has abandoned conceit and defilements;\nthe poised one is envied by even the gods.\n",
   dhp95:
-    "95. Undisturbed like the earth,<br>true to their vows, steady as a post,<br>like a lake clear of mud;<br>such a one does not transmigrate.<br>",
+    "95. Undisturbed like the earth,\ntrue to their vows, steady as a post,\nlike a lake clear of mud;\nsuch a one does not transmigrate.\n",
   dhp96:
-    "96. Their mind is peaceful,<br>peaceful are their speech and deeds.<br>Such a one is at peace,<br>rightly freed through enlightenment.<br>",
+    "96. Their mind is peaceful,\npeaceful are their speech and deeds.\nSuch a one is at peace,\nrightly freed through enlightenment.\n",
   dhp97:
-    "97. Lacking faith, a house-breaker,<br>one who acknowledges nothing,<br>purged of hope, they’ve wasted their chance:<br>that is indeed the supreme person!<br>",
+    "97. Lacking faith, a house-breaker,\none who acknowledges nothing,\npurged of hope, they’ve wasted their chance:\nthat is indeed the supreme person!\n",
   dhp98:
-    "98. Whether in village or wilderness,<br>in a valley or the uplands,<br>wherever the perfected ones live<br>is a delightful place.<br>",
+    "98. Whether in village or wilderness,\nin a valley or the uplands,\nwherever the perfected ones live\nis a delightful place.\n",
   dhp99:
-    "99. Delightful are the wildernesses<br>where no people delight.<br>Those free of greed will delight there,<br>not those who seek sensual pleasures.<br>",
+    "99. Delightful are the wildernesses\nwhere no people delight.\nThose free of greed will delight there,\nnot those who seek sensual pleasures.\n",
   dhp100:
-    "100. Better than a thousand<br>meaningless sayings<br>is a single meaningful saying,<br>hearing which brings you peace.<br>",
+    "100. Better than a thousand\nmeaningless sayings\nis a single meaningful saying,\nhearing which brings you peace.\n",
   dhp101:
-    "101. Better than a thousand<br>meaningless verses<br>is a single meaningful verse,<br>hearing which brings you peace.<br>",
+    "101. Better than a thousand\nmeaningless verses\nis a single meaningful verse,\nhearing which brings you peace.\n",
   dhp102:
-    "102. Better than reciting<br>a hundred meaningless verses<br>is a single saying of Dhamma,<br>hearing which brings you peace.<br>",
+    "102. Better than reciting\na hundred meaningless verses\nis a single saying of Dhamma,\nhearing which brings you peace.\n",
   dhp103:
-    "103. The supreme conqueror is<br>not he who conquers a million men in battle,<br>but he who conquers a single man:<br>himself.<br>",
+    "103. The supreme conqueror is\nnot he who conquers a million men in battle,\nbut he who conquers a single man:\nhimself.\n",
   dhp104:
-    "104. It is surely better to conquer oneself<br>than all those other folk.<br>When a person has tamed themselves,<br>always living restrained,<br>",
-  dhp105: "105. no god nor fairy,<br>nor Māra nor Brahmā,<br>can undo the victory<br>of such a one.<br>",
+    "104. It is surely better to conquer oneself\nthan all those other folk.\nWhen a person has tamed themselves,\nalways living restrained,\n",
+  dhp105: "105. no god nor fairy,\nnor Māra nor Brahmā,\ncan undo the victory\nof such a one.\n",
   dhp106:
-    "106. Rather than a thousand-fold sacrifice,<br>every month for a hundred years,<br>it’s better to honor for a single moment<br>one who has developed themselves.<br>That offering is better<br>than the hundred year sacrifice.<br>",
+    "106. Rather than a thousand-fold sacrifice,\nevery month for a hundred years,\nit’s better to honor for a single moment\none who has developed themselves.\nThat offering is better\nthan the hundred year sacrifice.\n",
   dhp107:
-    "107. Rather than serve the sacred flame<br>in the forest for a hundred years,<br>it’s better to honor for a single moment<br>one who has developed themselves.<br>That offering is better<br>than the hundred year sacrifice.<br>",
+    "107. Rather than serve the sacred flame\nin the forest for a hundred years,\nit’s better to honor for a single moment\none who has developed themselves.\nThat offering is better\nthan the hundred year sacrifice.\n",
   dhp108:
-    "108. Whatever sacrifice or offering in the world<br>a seeker of merit may make for a year,<br>none of it is worth a quarter<br>of bowing to the upright.<br>",
+    "108. Whatever sacrifice or offering in the world\na seeker of merit may make for a year,\nnone of it is worth a quarter\nof bowing to the upright.\n",
   dhp109:
-    "109. For one in the habit of bowing,<br>always honoring the elders,<br>four blessings grow:<br>lifespan, beauty, happiness, and strength. <br>",
+    "109. For one in the habit of bowing,\nalways honoring the elders,\nfour blessings grow:\nlifespan, beauty, happiness, and strength. \n",
   dhp110:
-    "110. Better to live a single day<br>ethical and absorbed in meditation<br>than to live a hundred years<br>unethical and lacking immersion.<br>",
+    "110. Better to live a single day\nethical and absorbed in meditation\nthan to live a hundred years\nunethical and lacking immersion.\n",
   dhp111:
-    "111. Better to live a single day<br>wise and absorbed in meditation<br>than to live a hundred years<br>witless and lacking immersion.<br>",
+    "111. Better to live a single day\nwise and absorbed in meditation\nthan to live a hundred years\nwitless and lacking immersion.\n",
   dhp112:
-    "112. Better to live a single day<br>energetic and strong,<br>than to live a hundred years<br>lazy and lacking energy.<br>",
+    "112. Better to live a single day\nenergetic and strong,\nthan to live a hundred years\nlazy and lacking energy.\n",
   dhp113:
-    "113. Better to live a single day<br>seeing rise and fall<br>than to live a hundred years<br>blind to rise and fall.<br>",
+    "113. Better to live a single day\nseeing rise and fall\nthan to live a hundred years\nblind to rise and fall.\n",
   dhp114:
-    "114. Better to live a single day<br>seeing the deathless state<br>than to live a hundred years<br>blind to the deathless state.<br>",
+    "114. Better to live a single day\nseeing the deathless state\nthan to live a hundred years\nblind to the deathless state.\n",
   dhp115:
-    "115. Better to live a single day<br>seeing the supreme teaching<br>than to live a hundred years<br>blind to the supreme teaching.<br>",
+    "115. Better to live a single day\nseeing the supreme teaching\nthan to live a hundred years\nblind to the supreme teaching.\n",
   dhp116:
-    "116. Rush to do good,<br>shield your mind from evil;<br>for when you’re slow to do good,<br>your thoughts delight in wickedness.<br>",
+    "116. Rush to do good,\nshield your mind from evil;\nfor when you’re slow to do good,\nyour thoughts delight in wickedness.\n",
   dhp117:
-    "117. If you do something bad,<br>don’t do it again and again,<br>don’t set your heart on it,<br>for piling up evil is suffering.<br>",
+    "117. If you do something bad,\ndon’t do it again and again,\ndon’t set your heart on it,\nfor piling up evil is suffering.\n",
   dhp118:
-    "118. If you do something good,<br>do it again and again,<br>set your heart on it,<br>for piling up goodness is joyful.<br>",
+    "118. If you do something good,\ndo it again and again,\nset your heart on it,\nfor piling up goodness is joyful.\n",
   dhp119:
-    "119. Even the wicked see good things,<br>so long as their wickedness has not ripened. <br>But as soon as that wickedness ripens,<br>then the wicked see wicked things.<br>",
+    "119. Even the wicked see good things,\nso long as their wickedness has not ripened. \nBut as soon as that wickedness ripens,\nthen the wicked see wicked things.\n",
   dhp120:
-    "120. Even the good see wicked things,<br>so long as their goodness has not ripened.<br>But as soon as that goodness ripens,<br>then the good see good things.<br>",
+    "120. Even the good see wicked things,\nso long as their goodness has not ripened.\nBut as soon as that goodness ripens,\nthen the good see good things.\n",
   dhp121:
-    "121. Think not lightly of evil,<br>that it won’t come back to you.<br>The pot is filled with water<br>falling drop by drop;<br>the fool is filled with wickedness<br>piled up bit by bit.<br>",
+    "121. Think not lightly of evil,\nthat it won’t come back to you.\nThe pot is filled with water\nfalling drop by drop;\nthe fool is filled with wickedness\npiled up bit by bit.\n",
   dhp122:
-    "122. Think not lightly of goodness,<br>that it won’t come back to you.<br>The pot is filled with water<br>falling drop by drop;<br>the sage is filled with goodness<br>piled up bit by bit.<br>",
+    "122. Think not lightly of goodness,\nthat it won’t come back to you.\nThe pot is filled with water\nfalling drop by drop;\nthe sage is filled with goodness\npiled up bit by bit.\n",
   dhp123:
-    "123. Avoid wickedness,<br>as a merchant with rich cargo and small escort<br>would avoid a dangerous road,<br>or one who loves life would avoid drinking poison.<br>",
+    "123. Avoid wickedness,\nas a merchant with rich cargo and small escort\nwould avoid a dangerous road,\nor one who loves life would avoid drinking poison.\n",
   dhp124:
-    "124. You can carry poison in your hand<br>if it has no wound,<br>for poison does not infect without a wound;<br>nothing bad happens unless you do bad.<br>",
+    "124. You can carry poison in your hand\nif it has no wound,\nfor poison does not infect without a wound;\nnothing bad happens unless you do bad.\n",
   dhp125:
-    "125. Whoever wrongs a man who has done no wrong,<br>a pure man who has not a blemish,<br>the evil backfires on the fool, <br>like fine dust thrown upwind.<br>",
+    "125. Whoever wrongs a man who has done no wrong,\na pure man who has not a blemish,\nthe evil backfires on the fool, \nlike fine dust thrown upwind.\n",
   dhp126:
-    "126. Some are born in a womb;<br>evil-doers go to hell;<br>the virtuous go to heaven;<br>the stainless are extinguished.<br>",
+    "126. Some are born in a womb;\nevil-doers go to hell;\nthe virtuous go to heaven;\nthe stainless are extinguished.\n",
   dhp127:
-    "127. Not in the sky, nor mid-ocean,<br>nor hiding in a mountain cleft;<br>you’ll find no place in the world<br>to escape your wicked deeds.<br>",
+    "127. Not in the sky, nor mid-ocean,\nnor hiding in a mountain cleft;\nyou’ll find no place in the world\nto escape your wicked deeds.\n",
   dhp128:
-    "128. Not in the sky, nor mid-ocean,<br>nor hiding in a mountain cleft;<br>you’ll find no place in the world<br>where you won’t be vanquished by death.<br>",
+    "128. Not in the sky, nor mid-ocean,\nnor hiding in a mountain cleft;\nyou’ll find no place in the world\nwhere you won’t be vanquished by death.\n",
   dhp129:
-    "129. All tremble at the rod,<br>all fear death.<br>Treating others like oneself,<br>neither kill nor incite to kill.<br>",
+    "129. All tremble at the rod,\nall fear death.\nTreating others like oneself,\nneither kill nor incite to kill.\n",
   dhp130:
-    "130. All tremble at the rod,<br>all love life.<br>Treating others like oneself,<br>neither kill nor incite to kill.<br>",
+    "130. All tremble at the rod,\nall love life.\nTreating others like oneself,\nneither kill nor incite to kill.\n",
   dhp131:
-    "131. Creatures love happiness,<br>so if you harm them with a stick<br>in search of your own happiness,<br>after death you won’t find happiness.<br>",
+    "131. Creatures love happiness,\nso if you harm them with a stick\nin search of your own happiness,\nafter death you won’t find happiness.\n",
   dhp132:
-    "132. Creatures love happiness,<br>so if you don’t hurt them with a stick<br>in search of your own happiness,<br>after death you will find happiness.<br>",
+    "132. Creatures love happiness,\nso if you don’t hurt them with a stick\nin search of your own happiness,\nafter death you will find happiness.\n",
   dhp133:
-    "133. Don’t speak harshly,<br>they may speak harshly back.<br>For aggressive speech is painful,<br>and the rod may spring back on you.<br>",
-  dhp134: "134. If you still yourself<br>like a broken gong,<br>you’re quenched<br>and conflict-free.<br>",
+    "133. Don’t speak harshly,\nthey may speak harshly back.\nFor aggressive speech is painful,\nand the rod may spring back on you.\n",
+  dhp134: "134. If you still yourself\nlike a broken gong,\nyou’re quenched\nand conflict-free.\n",
   dhp135:
-    "135. As a cowherd drives the cows<br>to pasture with the rod,<br>so too old age and death<br>drive life from living beings.<br>",
+    "135. As a cowherd drives the cows\nto pasture with the rod,\nso too old age and death\ndrive life from living beings.\n",
   dhp136:
-    "136. The fool does not understand<br>the evil that they do.<br>But because of those deeds, that dullard<br>is tormented as if burnt by fire.<br>",
-  dhp137:
-    "137. One who violently attacks<br>the peaceful and the innocent<br>swiftly falls<br>to one of ten bad states:<br>",
-  dhp138: "138. harsh pain; loss;<br>the breakup of the body;<br>serious illness;<br>mental distress;<br>",
-  dhp139: "139. hazards from rulers;<br>vicious slander;<br>loss of kin;<br>destruction of wealth;<br>",
+    "136. The fool does not understand\nthe evil that they do.\nBut because of those deeds, that dullard\nis tormented as if burnt by fire.\n",
+  dhp137: "137. One who violently attacks\nthe peaceful and the innocent\nswiftly falls\nto one of ten bad states:\n",
+  dhp138: "138. harsh pain; loss;\nthe breakup of the body;\nserious illness;\nmental distress;\n",
+  dhp139: "139. hazards from rulers;\nvicious slander;\nloss of kin;\ndestruction of wealth;\n",
   dhp140:
-    "140. or else their home<br>is consumed by fire.<br>When their body breaks up, that witless person<br>is reborn in hell. <br>",
+    "140. or else their home\nis consumed by fire.\nWhen their body breaks up, that witless person\nis reborn in hell. \n",
   dhp141:
-    "141. Not nakedness, nor matted hair, nor mud,<br>nor fasting, nor lying on bare ground,<br>nor wearing dust and dirt, or squatting on the heels,<br>will cleanse a mortal not free of doubt.<br>",
+    "141. Not nakedness, nor matted hair, nor mud,\nnor fasting, nor lying on bare ground,\nnor wearing dust and dirt, or squatting on the heels,\nwill cleanse a mortal not free of doubt.\n",
   dhp142:
-    "142. Dressed-up they may be, but if they live well—<br>peaceful, tamed, committed to the spiritual path,<br>having laid aside violence towards all creatures—<br>they are a brahmin, an ascetic, a mendicant.<br>",
+    "142. Dressed-up they may be, but if they live well—\npeaceful, tamed, committed to the spiritual path,\nhaving laid aside violence towards all creatures—\nthey are a brahmin, an ascetic, a mendicant.\n",
   dhp143:
-    "143. Can a person constrained by conscience<br>be found in the world?<br>Who shies away from blame, <br>like a fine horse from the whip?<br>",
+    "143. Can a person constrained by conscience\nbe found in the world?\nWho shies away from blame, \nlike a fine horse from the whip?\n",
   dhp144:
-    "144. Like a fine horse under the whip,<br>be keen and full of urgency.<br>With faith, ethics, and energy,<br>immersion, and investigation of principles,<br>accomplished in knowledge and conduct, mindful,<br>give up this vast suffering.<br>",
+    "144. Like a fine horse under the whip,\nbe keen and full of urgency.\nWith faith, ethics, and energy,\nimmersion, and investigation of principles,\naccomplished in knowledge and conduct, mindful,\ngive up this vast suffering.\n",
   dhp145:
-    "145. While irrigators guide water,<br>fletchers shape arrows,<br>and carpenters carve timber—<br>those true to their vows tame themselves.<br>",
+    "145. While irrigators guide water,\nfletchers shape arrows,\nand carpenters carve timber—\nthose true to their vows tame themselves.\n",
   dhp146:
-    "146. What is joy, what is laughter,<br>when the flames are ever burning?<br>Shrouded by darkness,<br>would you not seek a light?<br>",
+    "146. What is joy, what is laughter,\nwhen the flames are ever burning?\nShrouded by darkness,\nwould you not seek a light?\n",
   dhp147:
-    "147. See this fancy puppet,<br>a body built of sores,<br>diseased, obsessed over,<br>in which nothing lasts at all.<br>",
+    "147. See this fancy puppet,\na body built of sores,\ndiseased, obsessed over,\nin which nothing lasts at all.\n",
   dhp148:
-    "148. This body is decrepit and frail,<br>a nest of disease.<br>This foul carcass falls apart,<br>for life ends only in death.<br>",
+    "148. This body is decrepit and frail,\na nest of disease.\nThis foul carcass falls apart,\nfor life ends only in death.\n",
   dhp149:
-    "149. These dove-grey bones<br>are tossed away like<br>dried gourds in the autumn—<br>what joy is there in such a sight?<br>",
+    "149. These dove-grey bones\nare tossed away like\ndried gourds in the autumn—\nwhat joy is there in such a sight?\n",
   dhp150:
-    "150. In this city built of bones,<br>plastered with flesh and blood,<br>old age and death are stashed away,<br>along with conceit and contempt.<br>",
+    "150. In this city built of bones,\nplastered with flesh and blood,\nold age and death are stashed away,\nalong with conceit and contempt.\n",
   dhp151:
-    "151. Fancy chariots of kings wear out,<br>and even this body gets old.<br>But the teaching of the good never gets old;<br>so the true and the good proclaim.<br>",
-  dhp152: "152. A person of little learning<br>ages like an ox—<br>their flesh grows,<br>but not their wisdom.<br>",
+    "151. Fancy chariots of kings wear out,\nand even this body gets old.\nBut the teaching of the good never gets old;\nso the true and the good proclaim.\n",
+  dhp152: "152. A person of little learning\nages like an ox—\ntheir flesh grows,\nbut not their wisdom.\n",
   dhp153:
-    "153. Transmigrating through countless rebirths,<br>I’ve journeyed without reward,<br>searching for the house-builder;<br>painful is birth again and again.<br>",
+    "153. Transmigrating through countless rebirths,\nI’ve journeyed without reward,\nsearching for the house-builder;\npainful is birth again and again.\n",
   dhp154:
-    "154. I’ve seen you, house-builder!<br>You won’t build a house again!<br>Your rafters are all broken,<br>your roof-peak is demolished.<br>My mind, set on demolition,<br>has reached the end of craving.<br>",
+    "154. I’ve seen you, house-builder!\nYou won’t build a house again!\nYour rafters are all broken,\nyour roof-peak is demolished.\nMy mind, set on demolition,\nhas reached the end of craving.\n",
   dhp155:
-    "155. When young they spurned the spiritual path<br>and failed to earn any wealth.<br>Now they languish like old cranes<br>in a pond bereft of fish.<br>",
+    "155. When young they spurned the spiritual path\nand failed to earn any wealth.\nNow they languish like old cranes\nin a pond bereft of fish.\n",
   dhp156:
-    "156. When young they spurned the spiritual path<br>and failed to earn any wealth.<br>Now they lie like spent arrows,<br>bemoaning over things past.<br>",
+    "156. When young they spurned the spiritual path\nand failed to earn any wealth.\nNow they lie like spent arrows,\nbemoaning over things past.\n",
   dhp157:
-    "157. If you’d only love yourself,<br>you’d look after yourself right well.<br>In one of the night’s three watches,<br>an astute person would remain alert.<br>",
+    "157. If you’d only love yourself,\nyou’d look after yourself right well.\nIn one of the night’s three watches,\nan astute person would remain alert.\n",
   dhp158:
-    "158. The astute would avoid being corrupted<br>by grounding themselves first of all<br>in what is suitable,<br>and only then instructing others. <br>",
+    "158. The astute would avoid being corrupted\nby grounding themselves first of all\nin what is suitable,\nand only then instructing others. \n",
   dhp159:
-    "159. If one so acts<br>as one instructs,<br>the well-tamed would tame others,<br>for the self is hard to tame, they say.<br>",
+    "159. If one so acts\nas one instructs,\nthe well-tamed would tame others,\nfor the self is hard to tame, they say.\n",
   dhp160:
-    "160. Self is indeed the lord of self,<br>for who else would be one’s lord?<br>When one’s self is well-tamed,<br>one gains a lord that’s rare indeed.<br>",
+    "160. Self is indeed the lord of self,\nfor who else would be one’s lord?\nWhen one’s self is well-tamed,\none gains a lord that’s rare indeed.\n",
   dhp161:
-    "161. For the evil that one does,<br>born and produced in oneself,<br>grinds down a fool,<br>as diamond grinds a lesser gem.<br>",
-  dhp162:
-    "162. One choked by immorality,<br>as a sal tree by a creeper,<br>does to themselves<br>what a foe only wishes.<br>",
+    "161. For the evil that one does,\nborn and produced in oneself,\ngrinds down a fool,\nas diamond grinds a lesser gem.\n",
+  dhp162: "162. One choked by immorality,\nas a sal tree by a creeper,\ndoes to themselves\nwhat a foe only wishes.\n",
   dhp163:
-    "163. It’s easy to do bad things<br>harmful to oneself,<br>but good things that are helpful<br>are the hardest things to do.<br>",
+    "163. It’s easy to do bad things\nharmful to oneself,\nbut good things that are helpful\nare the hardest things to do.\n",
   dhp164:
-    "164. On account of wicked views—<br>scorning the guidance<br>of the perfected ones,<br>the noble ones living righteously—<br>the idiot begets their own demise,<br>like the bamboo bearing fruit.<br>",
+    "164. On account of wicked views—\nscorning the guidance\nof the perfected ones,\nthe noble ones living righteously—\nthe idiot begets their own demise,\nlike the bamboo bearing fruit.\n",
   dhp165:
-    "165. For it is by oneself that evil’s done,<br>one is corrupted by oneself.<br>It’s by oneself that evil’s not done,<br>one is purified by oneself.<br>Purity and impurity are personal matters,<br>no one can purify another.<br>",
+    "165. For it is by oneself that evil’s done,\none is corrupted by oneself.\nIt’s by oneself that evil’s not done,\none is purified by oneself.\nPurity and impurity are personal matters,\nno one can purify another.\n",
   dhp166:
-    "166. Never neglect your own good<br>for the sake of another, however great.<br>Knowing well what’s good for you,<br>be intent upon your true goal.<br>",
+    "166. Never neglect your own good\nfor the sake of another, however great.\nKnowing well what’s good for you,\nbe intent upon your true goal.\n",
   dhp167:
-    "167. Don’t resort to lowly things,<br>don’t abide in negligence,<br>don’t resort to wrong views,<br>don’t perpetuate the world.<br>",
+    "167. Don’t resort to lowly things,\ndon’t abide in negligence,\ndon’t resort to wrong views,\ndon’t perpetuate the world.\n",
   dhp168:
-    "168. Get up, don’t be heedless,<br>live by principle, with good conduct.<br>For one of good conduct sleeps at ease,<br>in this world and the next. <br>",
+    "168. Get up, don’t be heedless,\nlive by principle, with good conduct.\nFor one of good conduct sleeps at ease,\nin this world and the next. \n",
   dhp169:
-    "169. Live by principle, with good conduct,<br>don’t conduct yourself badly.<br>For one of good conduct sleeps at ease,<br>in this world and the next. <br>",
-  dhp170: "170. Look upon the world<br>as a bubble<br>or a mirage,<br>then the King of Death won’t see you.<br>",
+    "169. Live by principle, with good conduct,\ndon’t conduct yourself badly.\nFor one of good conduct sleeps at ease,\nin this world and the next. \n",
+  dhp170: "170. Look upon the world\nas a bubble\nor a mirage,\nthen the King of Death won’t see you.\n",
   dhp171:
-    "171. Come, see this world decked out<br>like a fancy royal chariot.<br>Here fools flounder,<br>but the discerning are not chained.<br>",
+    "171. Come, see this world decked out\nlike a fancy royal chariot.\nHere fools flounder,\nbut the discerning are not chained.\n",
   dhp172:
-    "172. He who once was heedless,<br>but turned to heedfulness,<br>lights up the world<br>like the moon freed from clouds.<br>",
+    "172. He who once was heedless,\nbut turned to heedfulness,\nlights up the world\nlike the moon freed from clouds.\n",
   dhp173:
-    "173. Someone whose bad deed<br>is supplanted by the good,<br>lights up the world,<br>like the moon freed from clouds.<br>",
+    "173. Someone whose bad deed\nis supplanted by the good,\nlights up the world,\nlike the moon freed from clouds.\n",
   dhp174:
-    "174. Blind is the world,<br>few are those who clearly see.<br>Only a handful go to heaven,<br>like a bird freed from a net.<br>",
+    "174. Blind is the world,\nfew are those who clearly see.\nOnly a handful go to heaven,\nlike a bird freed from a net.\n",
   dhp175:
-    "175. Swans fly by the sun’s path,<br>psychic sages fly through space.<br>The wise leave the world, <br>having vanquished Māra and his mount.<br>",
+    "175. Swans fly by the sun’s path,\npsychic sages fly through space.\nThe wise leave the world, \nhaving vanquished Māra and his mount.\n",
   dhp176:
-    "176. When a person, spurning the hereafter,<br>transgresses in just one thing—<br>lying—<br>there is no evil they would not do.<br>",
+    "176. When a person, spurning the hereafter,\ntransgresses in just one thing—\nlying—\nthere is no evil they would not do.\n",
   dhp177:
-    "177. The miserly don’t ascend to heaven,<br>it takes a fool to not praise giving.<br>The wise celebrate giving,<br>and so find happiness in the hereafter.<br>",
+    "177. The miserly don’t ascend to heaven,\nit takes a fool to not praise giving.\nThe wise celebrate giving,\nand so find happiness in the hereafter.\n",
   dhp178:
-    "178. The fruit of stream-entry is better<br>than being the one king of the earth,<br>than going to heaven,<br>than lordship over all the world.<br>",
+    "178. The fruit of stream-entry is better\nthan being the one king of the earth,\nthan going to heaven,\nthan lordship over all the world.\n",
   dhp179:
-    "179. He whose victory may not be undone,<br>a victory unrivaled in all the world;<br>by what track would you trace that Buddha,<br>who leaves no track in his infinite range?<br>",
+    "179. He whose victory may not be undone,\na victory unrivaled in all the world;\nby what track would you trace that Buddha,\nwho leaves no track in his infinite range?\n",
   dhp180:
-    "180. Of craving, the weaver, the clinger, he has none:<br>so where can he be traced?<br>By what track would you trace that Buddha,<br>who leaves no track in his infinite range?<br>",
+    "180. Of craving, the weaver, the clinger, he has none:\nso where can he be traced?\nBy what track would you trace that Buddha,\nwho leaves no track in his infinite range?\n",
   dhp181:
-    "181. The wise intent on absorption,<br>who love the peace of renunciation,<br>the Buddhas, ever mindful,<br>are envied by even the gods.<br>",
+    "181. The wise intent on absorption,\nwho love the peace of renunciation,\nthe Buddhas, ever mindful,\nare envied by even the gods.\n",
   dhp182:
-    "182. It’s hard to gain a human birth;<br>the life of mortals is hard;<br>it’s hard to hear the true teaching;<br>the arising of Buddhas is hard.<br>",
+    "182. It’s hard to gain a human birth;\nthe life of mortals is hard;\nit’s hard to hear the true teaching;\nthe arising of Buddhas is hard.\n",
   dhp183:
-    "183. Not to do any evil; <br>to embrace the good;<br>to purify one’s mind:<br>this is the instruction of the Buddhas.<br>",
+    "183. Not to do any evil; \nto embrace the good;\nto purify one’s mind:\nthis is the instruction of the Buddhas.\n",
   dhp184:
-    "184. Patient acceptance is the ultimate austerity.<br>Extinguishment is the ultimate, say the Buddhas. <br>No true renunciate injures another,<br>nor does an ascetic hurt another. <br>",
+    "184. Patient acceptance is the ultimate austerity.\nExtinguishment is the ultimate, say the Buddhas. \nNo true renunciate injures another,\nnor does an ascetic hurt another. \n",
   dhp185:
-    "185. Not speaking ill nor doing harm;<br>restraint in the monastic code;<br>moderation in eating; <br>staying in remote lodgings;<br>commitment to the higher mind—<br>this is the instruction of the Buddhas.<br>",
+    "185. Not speaking ill nor doing harm;\nrestraint in the monastic code;\nmoderation in eating; \nstaying in remote lodgings;\ncommitment to the higher mind—\nthis is the instruction of the Buddhas.\n",
   dhp186:
-    "186. Even if it were raining money,<br>you’d not be sated in sensual pleasures.<br>An astute person understands that sensual pleasures<br>offer little gratification and much suffering.<br>",
+    "186. Even if it were raining money,\nyou’d not be sated in sensual pleasures.\nAn astute person understands that sensual pleasures\noffer little gratification and much suffering.\n",
   dhp187:
-    "187. Thus they find no delight<br>even in celestial pleasures.<br>A disciple of the fully awakened Buddha<br>delights in the ending of craving.<br>",
+    "187. Thus they find no delight\neven in celestial pleasures.\nA disciple of the fully awakened Buddha\ndelights in the ending of craving.\n",
   dhp188:
-    "188. So many go for refuge<br>to mountains and forest groves,<br>to tree shrines in tended parks;<br>those people are driven by fear.<br>",
+    "188. So many go for refuge\nto mountains and forest groves,\nto tree shrines in tended parks;\nthose people are driven by fear.\n",
   dhp189:
-    "189. But such refuge is no sanctuary,<br>it is no supreme refuge.<br>By going to that refuge,<br>you’re not released from suffering.<br>",
+    "189. But such refuge is no sanctuary,\nit is no supreme refuge.\nBy going to that refuge,\nyou’re not released from suffering.\n",
   dhp190:
-    "190. One gone for refuge to the Buddha,<br>to his teaching and to the Saṅgha,<br>sees the four noble truths<br>with right understanding:<br>",
+    "190. One gone for refuge to the Buddha,\nto his teaching and to the Saṅgha,\nsees the four noble truths\nwith right understanding:\n",
   dhp191:
-    "191. suffering, suffering’s origin,<br>suffering’s transcendence,<br>and the noble eightfold path<br>that leads to the stilling of suffering.<br>",
+    "191. suffering, suffering’s origin,\nsuffering’s transcendence,\nand the noble eightfold path\nthat leads to the stilling of suffering.\n",
   dhp192:
-    "192. Such refuge is a sanctuary,<br>it is the supreme refuge.<br>By going to that refuge,<br>you’re released from all suffering.<br>",
+    "192. Such refuge is a sanctuary,\nit is the supreme refuge.\nBy going to that refuge,\nyou’re released from all suffering.\n",
   dhp193:
-    "193. It’s hard to find a thoroughbred man<br>they’re not born just anywhere.<br>A family where that sage is born<br>prospers in happiness.<br>",
+    "193. It’s hard to find a thoroughbred man\nthey’re not born just anywhere.\nA family where that sage is born\nprospers in happiness.\n",
   dhp194:
-    "194. Happy, the arising of Buddhas!<br>Happy, the teaching of Dhamma!<br>Happy is the harmony of the Saṅgha,<br>and the striving of the harmonious is happy.<br>",
+    "194. Happy, the arising of Buddhas!\nHappy, the teaching of Dhamma!\nHappy is the harmony of the Saṅgha,\nand the striving of the harmonious is happy.\n",
   dhp195:
-    "195. When a person venerates the worthy—<br>the Buddha or his disciple,<br>who have transcended proliferation,<br>and have left behind grief and lamentation,<br>",
+    "195. When a person venerates the worthy—\nthe Buddha or his disciple,\nwho have transcended proliferation,\nand have left behind grief and lamentation,\n",
   dhp196:
-    "196. quenched, fearing nothing from any quarter—<br>the merit of one venerating such as these,<br>cannot be calculated by anyone,<br>saying it is just this much.<br>",
+    "196. quenched, fearing nothing from any quarter—\nthe merit of one venerating such as these,\ncannot be calculated by anyone,\nsaying it is just this much.\n",
   dhp197:
-    "197. Let us live so very happily,<br>loving among the hostile.<br>Among hostile people,<br>let us live with love.<br>",
-  dhp198:
-    "198. Let us live so very happily,<br>healthy among the ailing.<br>Among ailing people<br>let us live healthily.<br>",
-  dhp199:
-    "199. Let us live so very happily,<br>content among the greedy.<br>Among greedy people,<br>let us live content.<br>",
+    "197. Let us live so very happily,\nloving among the hostile.\nAmong hostile people,\nlet us live with love.\n",
+  dhp198: "198. Let us live so very happily,\nhealthy among the ailing.\nAmong ailing people\nlet us live healthily.\n",
+  dhp199: "199. Let us live so very happily,\ncontent among the greedy.\nAmong greedy people,\nlet us live content.\n",
   dhp200:
-    "200. Let us live so very happily,<br>we who have nothing.<br>We shall feed on rapture, <br>like the gods of streaming radiance.<br>",
+    "200. Let us live so very happily,\nwe who have nothing.\nWe shall feed on rapture, \nlike the gods of streaming radiance.\n",
   dhp201:
-    "201. Victory breeds enmity; <br>the defeated sleep badly. <br>The peaceful sleep at ease,<br>having left victory and defeat behind.<br>",
+    "201. Victory breeds enmity; \nthe defeated sleep badly. \nThe peaceful sleep at ease,\nhaving left victory and defeat behind.\n",
   dhp202:
-    "202. There is no fire like greed,<br>no crime like hate,<br>no suffering like the aggregates,<br>no bliss beyond peace.<br>",
+    "202. There is no fire like greed,\nno crime like hate,\nno suffering like the aggregates,\nno bliss beyond peace.\n",
   dhp203:
-    "203. Hunger is the worst illness,<br>conditions are the worst suffering,<br>For one who truly knows this,<br>extinguishment is the ultimate happiness. <br>",
+    "203. Hunger is the worst illness,\nconditions are the worst suffering,\nFor one who truly knows this,\nextinguishment is the ultimate happiness. \n",
   dhp204:
-    "204. Health is the ultimate blessing;<br>contentment, the ultimate wealth;<br>trust is the ultimate family;<br>extinguishment, the ultimate happiness. <br>",
+    "204. Health is the ultimate blessing;\ncontentment, the ultimate wealth;\ntrust is the ultimate family;\nextinguishment, the ultimate happiness. \n",
   dhp205:
-    "205. Having drunk the nectar of seclusion<br>and the nectar of peace,<br>free of stress, free of evil,<br>one drinks the joyous nectar of Dhamma.<br>",
+    "205. Having drunk the nectar of seclusion\nand the nectar of peace,\nfree of stress, free of evil,\none drinks the joyous nectar of Dhamma.\n",
   dhp206:
-    "206. It’s good to see the noble ones,<br>staying with them is always good.<br>Were you not to see fools,<br>you’d always be happy.<br>",
+    "206. It’s good to see the noble ones,\nstaying with them is always good.\nWere you not to see fools,\nyou’d always be happy.\n",
   dhp207:
-    "207. For one who consorts with fools<br>grieves long.<br>Painful is dwelling with fools,<br>like being stuck with your enemy.<br>Happy is dwelling with a sage,<br>like meeting with your kin.<br>",
+    "207. For one who consorts with fools\ngrieves long.\nPainful is dwelling with fools,\nlike being stuck with your enemy.\nHappy is dwelling with a sage,\nlike meeting with your kin.\n",
   dhp208:
-    "208. Therefore:<br>A sage, wise and learned,<br>a mammoth of virtue, true to their vows, noble:<br>follow a good and intelligent person such as this,<br>as the moon tracks the path of the stars.<br>",
+    "208. Therefore:\nA sage, wise and learned,\na mammoth of virtue, true to their vows, noble:\nfollow a good and intelligent person such as this,\nas the moon tracks the path of the stars.\n",
   dhp209:
-    "209. Applying yourself where you ought not,<br>neglecting what you should be doing,<br>forgetting your goal, you cling to what you hold dear,<br>jealous of those devoted to their own goal.<br>",
+    "209. Applying yourself where you ought not,\nneglecting what you should be doing,\nforgetting your goal, you cling to what you hold dear,\njealous of those devoted to their own goal.\n",
   dhp210:
-    "210. Don’t ever get too close<br>to those you like or dislike.<br>For not seeing the liked is suffering,<br>and so is seeing the disliked.<br>",
+    "210. Don’t ever get too close\nto those you like or dislike.\nFor not seeing the liked is suffering,\nand so is seeing the disliked.\n",
   dhp211:
-    "211. Therefore don’t hold anything dear,<br>for it’s bad to lose those you love.<br>No ties are found in they who<br>hold nothing loved or loathed.<br>",
+    "211. Therefore don’t hold anything dear,\nfor it’s bad to lose those you love.\nNo ties are found in they who\nhold nothing loved or loathed.\n",
   dhp212:
-    "212. Sorrow springs from what we hold dear,<br>fear springs from what we hold dear;<br>one free from holding anything dear<br>has no sorrow, let alone fear.<br>",
+    "212. Sorrow springs from what we hold dear,\nfear springs from what we hold dear;\none free from holding anything dear\nhas no sorrow, let alone fear.\n",
   dhp213:
-    "213. Sorrow springs from attachment,<br>fear springs from attachment;<br>one free from attachment<br>has no sorrow, let alone fear.<br>",
+    "213. Sorrow springs from attachment,\nfear springs from attachment;\none free from attachment\nhas no sorrow, let alone fear.\n",
   dhp214:
-    "214. Sorrow springs from relishing,<br>fear springs from relishing;<br>one free from relishing<br>has no sorrow, let alone fear.<br>",
+    "214. Sorrow springs from relishing,\nfear springs from relishing;\none free from relishing\nhas no sorrow, let alone fear.\n",
   dhp215:
-    "215. Sorrow springs from desire,<br>fear springs from desire;<br>one free from desire<br>has no sorrow, let alone fear.<br>",
+    "215. Sorrow springs from desire,\nfear springs from desire;\none free from desire\nhas no sorrow, let alone fear.\n",
   dhp216:
-    "216. Sorrow springs from craving,<br>fear springs from craving;<br>one free from craving<br>has no sorrow, let alone fear.<br>",
+    "216. Sorrow springs from craving,\nfear springs from craving;\none free from craving\nhas no sorrow, let alone fear.\n",
   dhp217:
-    "217. One accomplished in virtue and vision,<br>firm in principle, and truthful,<br>doing oneself what ought be done:<br>that’s who the people love.<br>",
+    "217. One accomplished in virtue and vision,\nfirm in principle, and truthful,\ndoing oneself what ought be done:\nthat’s who the people love.\n",
   dhp218:
-    "218. One eager to realize the ineffable<br>would be filled with awareness.<br>Their mind not bound to pleasures of sense,<br>they’re said to be heading upstream.<br>",
+    "218. One eager to realize the ineffable\nwould be filled with awareness.\nTheir mind not bound to pleasures of sense,\nthey’re said to be heading upstream.\n",
   dhp219:
-    "219. When a man returns safely<br>after a long time spent abroad,<br>family, friends, and loved ones<br>celebrate his return.<br>",
+    "219. When a man returns safely\nafter a long time spent abroad,\nfamily, friends, and loved ones\ncelebrate his return.\n",
   dhp220:
-    "220. Just so, when one who has done good<br>goes from this world to the next,<br>their good deeds receive them there,<br>as family welcomes home one they love.<br>",
+    "220. Just so, when one who has done good\ngoes from this world to the next,\ntheir good deeds receive them there,\nas family welcomes home one they love.\n",
   dhp221:
-    "221. Give up anger, get rid of conceit,<br>and escape every fetter.<br>Sufferings don’t befall one who has nothing,<br>not clinging to name and form. <br>",
+    "221. Give up anger, get rid of conceit,\nand escape every fetter.\nSufferings don’t befall one who has nothing,\nnot clinging to name and form. \n",
   dhp222:
-    "222. When anger surges like a lurching chariot,<br>keep it in check.<br>That’s what I call a charioteer;<br>others just hold the reins.<br>",
-  dhp223:
-    "223. Defeat anger with kindness,<br>villainy with virtue,<br>stinginess with giving,<br>and lies with truth.<br>",
+    "222. When anger surges like a lurching chariot,\nkeep it in check.\nThat’s what I call a charioteer;\nothers just hold the reins.\n",
+  dhp223: "223. Defeat anger with kindness,\nvillainy with virtue,\nstinginess with giving,\nand lies with truth.\n",
   dhp224:
-    "224. Speak the truth, do not be angry,<br>and give when asked, if only a little.<br>By these three means,<br>you may enter the presence of the gods.<br>",
+    "224. Speak the truth, do not be angry,\nand give when asked, if only a little.\nBy these three means,\nyou may enter the presence of the gods.\n",
   dhp225:
-    "225. Those harmless sages,<br>always restrained in body,<br>go to the imperishable state,<br>where there is no sorrow. <br>",
+    "225. Those harmless sages,\nalways restrained in body,\ngo to the imperishable state,\nwhere there is no sorrow. \n",
   dhp226:
-    "226. Always wakeful,<br>practicing night and day,<br>focused only on quenching,<br>their defilements come to an end.<br>",
+    "226. Always wakeful,\npracticing night and day,\nfocused only on quenching,\ntheir defilements come to an end.\n",
   dhp227:
-    "227. It’s always been like this,<br>it’s not just today.<br>They blame you when you’re silent,<br>they blame you when you speak a lot,<br>and even when you speak just right:<br>no-one in the world escapes blame.<br>",
+    "227. It’s always been like this,\nit’s not just today.\nThey blame you when you’re silent,\nthey blame you when you speak a lot,\nand even when you speak just right:\nno-one in the world escapes blame.\n",
   dhp228:
-    "228. There never was, nor will be,<br>nor is there today,<br>someone who is wholly praised <br>or wholly blamed.<br>",
+    "228. There never was, nor will be,\nnor is there today,\nsomeone who is wholly praised \nor wholly blamed.\n",
   dhp229:
-    "229. If, after watching them day in day out,<br>discerning people praise<br>that sage of impeccable conduct,<br>endowed with ethics and wisdom;<br>",
+    "229. If, after watching them day in day out,\ndiscerning people praise\nthat sage of impeccable conduct,\nendowed with ethics and wisdom;\n",
   dhp230:
-    "230. like a pendant of river gold,<br>who is worthy to criticize them?<br>Even the gods praise them, <br>and by Brahmā, too, they’re praised.<br>",
+    "230. like a pendant of river gold,\nwho is worthy to criticize them?\nEven the gods praise them, \nand by Brahmā, too, they’re praised.\n",
   dhp231:
-    "231. Guard against ill-tempered deeds,<br>be restrained in body.<br>Giving up bad bodily conduct,<br>conduct yourself well in body.<br>",
+    "231. Guard against ill-tempered deeds,\nbe restrained in body.\nGiving up bad bodily conduct,\nconduct yourself well in body.\n",
   dhp232:
-    "232. Guard against ill-tempered words,<br>be restrained in speech.<br>Giving up bad verbal conduct,<br>conduct yourself well in speech.<br>",
+    "232. Guard against ill-tempered words,\nbe restrained in speech.\nGiving up bad verbal conduct,\nconduct yourself well in speech.\n",
   dhp233:
-    "233. Guard against ill-tempered thoughts,<br>be restrained in mind.<br>Giving up bad mental conduct,<br>conduct yourself well in mind.<br>",
+    "233. Guard against ill-tempered thoughts,\nbe restrained in mind.\nGiving up bad mental conduct,\nconduct yourself well in mind.\n",
   dhp234:
-    "234. A sage is restrained in body<br>restrained also in speech,<br>in thought, too, they are restrained:<br>they are restrained in every way.<br>",
+    "234. A sage is restrained in body\nrestrained also in speech,\nin thought, too, they are restrained:\nthey are restrained in every way.\n",
   dhp235:
-    "235. Today you’re like a withered leaf,<br>Yama’s men await you.<br>You stand at the departure gates,<br>yet you have no supplies for the road.<br>",
+    "235. Today you’re like a withered leaf,\nYama’s men await you.\nYou stand at the departure gates,\nyet you have no supplies for the road.\n",
   dhp236:
-    "236. Make an island of yourself!<br>Swiftly strive, learn to be wise!<br>Purged of stains, flawless,<br>you’ll go to the divine realm of the noble ones.<br>",
+    "236. Make an island of yourself!\nSwiftly strive, learn to be wise!\nPurged of stains, flawless,\nyou’ll go to the divine realm of the noble ones.\n",
   dhp237:
-    "237. You’ve journeyed the stages of life,<br>and now you set out to meet Yama.<br>Along the way there’s nowhere to stay,<br>yet you have no supplies for the road.<br>",
+    "237. You’ve journeyed the stages of life,\nand now you set out to meet Yama.\nAlong the way there’s nowhere to stay,\nyet you have no supplies for the road.\n",
   dhp238:
-    "238. Make an island of yourself!<br>Swiftly strive, learn to be wise!<br>Purged of stains, flawless,<br>you’ll not come again to rebirth and old age.<br>",
+    "238. Make an island of yourself!\nSwiftly strive, learn to be wise!\nPurged of stains, flawless,\nyou’ll not come again to rebirth and old age.\n",
   dhp239:
-    "239. A smart person would purge<br>their own stains gradually,<br>bit by bit, moment by moment,<br>like a smith smelting silver.<br>",
+    "239. A smart person would purge\ntheir own stains gradually,\nbit by bit, moment by moment,\nlike a smith smelting silver.\n",
   dhp240:
-    "240. It is the rust born on the iron<br>that eats away the place it arose.<br>And so it is their own deeds<br>that lead the overly-ascetic to a bad place.<br>",
+    "240. It is the rust born on the iron\nthat eats away the place it arose.\nAnd so it is their own deeds\nthat lead the overly-ascetic to a bad place.\n",
   dhp241:
-    "241. Not reciting is the stain of hymns.<br>The stain of houses is neglect.<br>Laziness is the stain of beauty. <br>A guard’s stain is negligence. <br>",
+    "241. Not reciting is the stain of hymns.\nThe stain of houses is neglect.\nLaziness is the stain of beauty. \nA guard’s stain is negligence. \n",
   dhp242:
-    "242. Misconduct is a woman’s stain.<br>A giver’s stain is stinginess.<br>Bad qualities are a stain <br>in this world and the next. <br>",
+    "242. Misconduct is a woman’s stain.\nA giver’s stain is stinginess.\nBad qualities are a stain \nin this world and the next. \n",
   dhp243:
-    "243. But a worse stain than these<br>is ignorance, the worst stain of all.<br>Having given up that stain,<br>be without stains, mendicants! <br>",
+    "243. But a worse stain than these\nis ignorance, the worst stain of all.\nHaving given up that stain,\nbe without stains, mendicants! \n",
   dhp244:
-    "244. Life is easy for the shameless.<br>With all the rude courage of a crow,<br>they live pushy,<br>rude, and corrupt.<br>",
+    "244. Life is easy for the shameless.\nWith all the rude courage of a crow,\nthey live pushy,\nrude, and corrupt.\n",
   dhp245:
-    "245. Life is hard for the conscientious,<br>always seeking purity,<br>neither clinging nor rude,<br>pure of livelihood and discerning.<br>",
-  dhp246:
-    "246. Take anyone in this world<br>who kills living creatures,<br>speaks falsely, steals,<br>commits adultery, <br>",
-  dhp247:
-    "247. and indulges in drinking <br>alcohol and liquor.<br>Right here they dig up<br>the root of their own self.<br>",
+    "245. Life is hard for the conscientious,\nalways seeking purity,\nneither clinging nor rude,\npure of livelihood and discerning.\n",
+  dhp246: "246. Take anyone in this world\nwho kills living creatures,\nspeaks falsely, steals,\ncommits adultery, \n",
+  dhp247: "247. and indulges in drinking \nalcohol and liquor.\nRight here they dig up\nthe root of their own self.\n",
   dhp248:
-    "248. Know this, good sir:<br>they are unrestrained and wicked.<br>Don’t let greed and hate<br>subject you to pain for long.<br>",
+    "248. Know this, good sir:\nthey are unrestrained and wicked.\nDon’t let greed and hate\nsubject you to pain for long.\n",
   dhp249:
-    "249. The people give according to their faith,<br>according to their confidence.<br>If you get upset over that,<br>over other’s food and drink,<br>you’ll not, by day or by night,<br>become immersed in samādhi.<br>",
+    "249. The people give according to their faith,\naccording to their confidence.\nIf you get upset over that,\nover other’s food and drink,\nyou’ll not, by day or by night,\nbecome immersed in samādhi.\n",
   dhp250:
-    "250. Those who have cut that out,<br>dug it up at the root, eradicated it,<br>they will, by day or by night,<br>become immersed in samādhi.<br>",
-  dhp251:
-    "251. There is no fire like greed,<br>no crime like hate,<br>no net like delusion,<br>no river like craving.<br>",
+    "250. Those who have cut that out,\ndug it up at the root, eradicated it,\nthey will, by day or by night,\nbecome immersed in samādhi.\n",
+  dhp251: "251. There is no fire like greed,\nno crime like hate,\nno net like delusion,\nno river like craving.\n",
   dhp252:
-    "252. It’s easy to see the faults of others,<br>hard to see one’s own.<br>For the faults of others <br>are tossed high like chaff,<br>while one’s own are hidden,<br>as a cheat hides a bad hand.<br>",
+    "252. It’s easy to see the faults of others,\nhard to see one’s own.\nFor the faults of others \nare tossed high like chaff,\nwhile one’s own are hidden,\nas a cheat hides a bad hand.\n",
   dhp253:
-    "253. When you look for the flaws of others,<br>always finding fault,<br>your defilements only grow,<br>you’re far from ending defilements.<br>",
+    "253. When you look for the flaws of others,\nalways finding fault,\nyour defilements only grow,\nyou’re far from ending defilements.\n",
   dhp254:
-    "254. In the sky there is no track,<br>there’s no true ascetic outside here.<br>People enjoy proliferation,<br>the Realized Ones are free of proliferation.<br>",
+    "254. In the sky there is no track,\nthere’s no true ascetic outside here.\nPeople enjoy proliferation,\nthe Realized Ones are free of proliferation.\n",
   dhp255:
-    "255. In the sky there is no track,<br>there’s no true ascetic outside here.<br>No conditions last forever,<br>the Awakened Ones are not shaken.<br>",
+    "255. In the sky there is no track,\nthere’s no true ascetic outside here.\nNo conditions last forever,\nthe Awakened Ones are not shaken.\n",
   dhp256:
-    "256. You don’t become just<br>by passing hasty judgement.<br>An astute person evaluates both<br>what is pertinent and what is irrelevant.<br>",
+    "256. You don’t become just\nby passing hasty judgement.\nAn astute person evaluates both\nwhat is pertinent and what is irrelevant.\n",
   dhp257:
-    "257. A wise one judges others without haste,<br>justly and impartially;<br>that guardian of the law<br>is said to be just.<br>",
+    "257. A wise one judges others without haste,\njustly and impartially;\nthat guardian of the law\nis said to be just.\n",
   dhp258:
-    "258. You’re not an astute scholar<br>just because you speak a lot.<br>One who is secure, free of enmity and fear,<br>is said to be astute.<br>",
+    "258. You’re not an astute scholar\njust because you speak a lot.\nOne who is secure, free of enmity and fear,\nis said to be astute.\n",
   dhp259:
-    "259. You’re not one who has memorized the teaching<br>just because you recite a lot.<br>Someone who directly sees the teaching<br>after hearing only a little<br>is truly one who has memorized the teaching,<br>for they can never forget it.<br>",
+    "259. You’re not one who has memorized the teaching\njust because you recite a lot.\nSomeone who directly sees the teaching\nafter hearing only a little\nis truly one who has memorized the teaching,\nfor they can never forget it.\n",
   dhp260:
-    "260. You don’t become a senior<br>by getting some grey hairs;<br>for one ripe only in age,<br>is said to have aged in vain.<br>",
+    "260. You don’t become a senior\nby getting some grey hairs;\nfor one ripe only in age,\nis said to have aged in vain.\n",
   dhp261:
-    "261. One who has truth and principle,<br>harmlessness, restraint, and self-control,<br>that wise one, purged of stains,<br>is said to be a senior.<br>",
+    "261. One who has truth and principle,\nharmlessness, restraint, and self-control,\nthat wise one, purged of stains,\nis said to be a senior.\n",
   dhp262:
-    "262. Not by mere eloquence,<br>or a beautiful complexion<br>does a person appear holy,<br>if they’re jealous, stingy, and devious. <br>",
+    "262. Not by mere eloquence,\nor a beautiful complexion\ndoes a person appear holy,\nif they’re jealous, stingy, and devious. \n",
   dhp263:
-    "263. But if they’ve cut that out,<br>dug it up at the root, eradicated it,<br>that wise one, purged of vice,<br>is said to be holy.<br>",
+    "263. But if they’ve cut that out,\ndug it up at the root, eradicated it,\nthat wise one, purged of vice,\nis said to be holy.\n",
   dhp264:
-    "264. A liar and breaker of vows is no ascetic<br>just because they shave their head.<br>How on earth can one be an ascetic<br>who’s full of desire and greed?<br>",
+    "264. A liar and breaker of vows is no ascetic\njust because they shave their head.\nHow on earth can one be an ascetic\nwho’s full of desire and greed?\n",
   dhp265:
-    "265. One who stops all wicked deeds,<br>great and small,<br>because of stopping wicked deeds<br>is said to be an ascetic.<br>",
+    "265. One who stops all wicked deeds,\ngreat and small,\nbecause of stopping wicked deeds\nis said to be an ascetic.\n",
   dhp266:
-    "266. You don’t become a mendicant<br>just by begging from others.<br>One who has undertaken domestic duties <br>has not yet become a mendicant. <br>",
+    "266. You don’t become a mendicant\njust by begging from others.\nOne who has undertaken domestic duties \nhas not yet become a mendicant. \n",
   dhp267:
-    "267. But one living a spiritual life,<br>who has banished both merit and evil,<br>who wanders having assessed the world,<br>is said to be a mendicant.<br>",
+    "267. But one living a spiritual life,\nwho has banished both merit and evil,\nwho wanders having assessed the world,\nis said to be a mendicant.\n",
   dhp268:
-    "268. You don’t become a sage by silence,<br>while still confused and ignorant.<br>The astute one holds up the scales,<br>taking only the best,<br>",
+    "268. You don’t become a sage by silence,\nwhile still confused and ignorant.\nThe astute one holds up the scales,\ntaking only the best,\n",
   dhp269:
-    "269. and rejecting the bad;<br>a sage becomes a sage by measuring.<br>One who measures good and bad in the world,<br>is thereby said to be a sage.<br>",
+    "269. and rejecting the bad;\na sage becomes a sage by measuring.\nOne who measures good and bad in the world,\nis thereby said to be a sage.\n",
   dhp270:
-    "270. You don’t become a noble one<br>by harming living beings.<br>One harmless towards all living beings<br>is said to be a noble one.<br>",
+    "270. You don’t become a noble one\nby harming living beings.\nOne harmless towards all living beings\nis said to be a noble one.\n",
   dhp271:
-    "271. Not by precepts and observances,<br>nor by much learning,<br>nor by meditative immersion,<br>nor by living in seclusion,<br>",
+    "271. Not by precepts and observances,\nnor by much learning,\nnor by meditative immersion,\nnor by living in seclusion,\n",
   dhp272:
-    "272. do I experience the bliss of renunciation<br>not frequented by ordinary people.<br>A mendicant cannot rest confident<br>without attaining the end of defilements.<br>",
+    "272. do I experience the bliss of renunciation\nnot frequented by ordinary people.\nA mendicant cannot rest confident\nwithout attaining the end of defilements.\n",
   dhp273:
-    "273. Of paths, the eightfold is the best;<br>of truths, the four statements;<br>dispassion is the best of things,<br>and the Seer is the best of humans.<br>",
+    "273. Of paths, the eightfold is the best;\nof truths, the four statements;\ndispassion is the best of things,\nand the Seer is the best of humans.\n",
   dhp274:
-    "274. *This* is the path, there is no other<br>for the purification of vision.<br>You all must practice this,<br>it is the way to baffle Māra.<br>",
+    "274. *This* is the path, there is no other\nfor the purification of vision.\nYou all must practice this,\nit is the way to baffle Māra.\n",
   dhp275:
-    "275. When you all are practicing this,<br>you will make an end of suffering.<br>I have explained the path to you<br>for extracting the thorn with wisdom.<br>",
+    "275. When you all are practicing this,\nyou will make an end of suffering.\nI have explained the path to you\nfor extracting the thorn with wisdom.\n",
   dhp276:
-    "276. You yourselves must do the work,<br>the Realized Ones just show the way.<br>Meditators practicing absorption<br>are released from Māra’s bonds.<br>",
+    "276. You yourselves must do the work,\nthe Realized Ones just show the way.\nMeditators practicing absorption\nare released from Māra’s bonds.\n",
   dhp277:
-    "277. All conditions are impermanent—<br>when this is seen with wisdom,<br>one grows disillusioned with suffering:<br>this is the path to purity.<br>",
+    "277. All conditions are impermanent—\nwhen this is seen with wisdom,\none grows disillusioned with suffering:\nthis is the path to purity.\n",
   dhp278:
-    "278. All conditions are suffering—<br>when this is seen with wisdom,<br>one grows disillusioned with suffering:<br>this is the path to purity.<br>",
+    "278. All conditions are suffering—\nwhen this is seen with wisdom,\none grows disillusioned with suffering:\nthis is the path to purity.\n",
   dhp279:
-    "279. All things are not-self—<br>when this is seen with wisdom,<br>one grows disillusioned with suffering:<br>this is the path to purity.<br>",
+    "279. All things are not-self—\nwhen this is seen with wisdom,\none grows disillusioned with suffering:\nthis is the path to purity.\n",
   dhp280:
-    "280. They don’t get going when it’s time to start;<br>they’re young and strong, but given to sloth.<br>Their mind depressed in sunken thought,<br>lazy and slothful, they can’t discern the path.<br>",
+    "280. They don’t get going when it’s time to start;\nthey’re young and strong, but given to sloth.\nTheir mind depressed in sunken thought,\nlazy and slothful, they can’t discern the path.\n",
   dhp281:
-    "281. Guarded in speech, restrained in mind,<br>doing no unskillful bodily deed.<br>Purify these three ways of performing deeds,<br>and win the path known to hermits.<br>",
+    "281. Guarded in speech, restrained in mind,\ndoing no unskillful bodily deed.\nPurify these three ways of performing deeds,\nand win the path known to hermits.\n",
   dhp282:
-    "282. From meditation springs wisdom,<br>without meditation, wisdom ends.<br>Knowing these two paths—<br>of progress and decline—<br>you should conduct yourself<br>so that wisdom grows.<br>",
+    "282. From meditation springs wisdom,\nwithout meditation, wisdom ends.\nKnowing these two paths—\nof progress and decline—\nyou should conduct yourself\nso that wisdom grows.\n",
   dhp283:
-    "283. Cut down the jungle, not just a tree;<br>from the jungle springs fear.<br>Having cut down jungle and vine,<br>be free of jungles, mendicants! <br>",
+    "283. Cut down the jungle, not just a tree;\nfrom the jungle springs fear.\nHaving cut down jungle and vine,\nbe free of jungles, mendicants! \n",
   dhp284:
-    "284. So long as the vine, no matter how small,<br>that ties a man to women is not cut,<br>his mind remains trapped,<br>like a calf suckling its mother.<br>",
+    "284. So long as the vine, no matter how small,\nthat ties a man to women is not cut,\nhis mind remains trapped,\nlike a calf suckling its mother.\n",
   dhp285:
-    "285. Cut out fondness for oneself,<br>like plucking an autumn lotus.<br>Foster only the path to peace,<br>the quenching the Holy One taught.<br>",
+    "285. Cut out fondness for oneself,\nlike plucking an autumn lotus.\nFoster only the path to peace,\nthe quenching the Holy One taught.\n",
   dhp286:
-    "286. “Here I will stay for the rains;<br>here for winter, here the summer”;<br>thus the fool thinks,<br>not realizing the danger.<br>",
+    "286. “Here I will stay for the rains;\nhere for winter, here the summer”;\nthus the fool thinks,\nnot realizing the danger.\n",
   dhp287:
-    "287. As a mighty flood sweeps away a sleeping village,<br>death steals away a man<br>who dotes on children and cattle,<br>his mind caught up in them.<br>",
+    "287. As a mighty flood sweeps away a sleeping village,\ndeath steals away a man\nwho dotes on children and cattle,\nhis mind caught up in them.\n",
   dhp288:
-    "288. Children provide you no shelter,<br>nor does father, nor relatives.<br>When you’re seized by the terminator,<br>there’s no shelter in family.<br>",
+    "288. Children provide you no shelter,\nnor does father, nor relatives.\nWhen you’re seized by the terminator,\nthere’s no shelter in family.\n",
   dhp289:
-    "289. Knowing the reason for this,<br>astute, and ethically restrained,<br>one would quickly clear the path<br>that leads to extinguishment.<br>",
+    "289. Knowing the reason for this,\nastute, and ethically restrained,\none would quickly clear the path\nthat leads to extinguishment.\n",
   dhp290:
-    "290. If by giving up material happiness<br>one sees abundant happiness,<br>a wise one would give up material happiness,<br>seeing the abundant happiness.<br>",
+    "290. If by giving up material happiness\none sees abundant happiness,\na wise one would give up material happiness,\nseeing the abundant happiness.\n",
   dhp291:
-    "291. Some seek their own happiness<br>by imposing suffering on others.<br>Living intimate with enmity,<br>they’re not freed from enmity. <br>",
+    "291. Some seek their own happiness\nby imposing suffering on others.\nLiving intimate with enmity,\nthey’re not freed from enmity. \n",
   dhp292:
-    "292. They disregard what should be done,<br>and do what should not be done.<br>For the insolent and the negligent,<br>their defilements only grow.<br>",
+    "292. They disregard what should be done,\nand do what should not be done.\nFor the insolent and the negligent,\ntheir defilements only grow.\n",
   dhp293:
-    "293. Those that have properly undertaken<br>constant mindfulness of the body,<br>don’t cultivate what should not be done,<br>but always do what should be done.<br>Mindful and aware,<br>their defilements come to an end.<br>",
+    "293. Those that have properly undertaken\nconstant mindfulness of the body,\ndon’t cultivate what should not be done,\nbut always do what should be done.\nMindful and aware,\ntheir defilements come to an end.\n",
   dhp294:
-    "294. Having slain mother and father,<br>and two aristocratic kings,<br>and having wiped out the kingdom with its subjects,<br>the brahmin walks on without worry.<br>",
+    "294. Having slain mother and father,\nand two aristocratic kings,\nand having wiped out the kingdom with its subjects,\nthe brahmin walks on without worry.\n",
   dhp295:
-    "295. Having slain mother and father,<br>and two aristocratic kings,<br>and a tiger as the fifth,<br>the brahmin walks on without worry.<br>",
+    "295. Having slain mother and father,\nand two aristocratic kings,\nand a tiger as the fifth,\nthe brahmin walks on without worry.\n",
   dhp296:
-    "296. The disciples of Gotama<br>always wake up refreshed,<br>who day and night<br>constantly recollect the Buddha.<br>",
+    "296. The disciples of Gotama\nalways wake up refreshed,\nwho day and night\nconstantly recollect the Buddha.\n",
   dhp297:
-    "297. The disciples of Gotama<br>always wake up refreshed,<br>who day and night<br>constantly recollect the teaching.<br>",
+    "297. The disciples of Gotama\nalways wake up refreshed,\nwho day and night\nconstantly recollect the teaching.\n",
   dhp298:
-    "298. The disciples of Gotama<br>always wake up refreshed,<br>who day and night<br>constantly recollect the Saṅgha.<br>",
+    "298. The disciples of Gotama\nalways wake up refreshed,\nwho day and night\nconstantly recollect the Saṅgha.\n",
   dhp299:
-    "299. The disciples of Gotama<br>always wake up refreshed,<br>who day and night<br>are constantly mindful of the body.<br>",
+    "299. The disciples of Gotama\nalways wake up refreshed,\nwho day and night\nare constantly mindful of the body.\n",
   dhp300:
-    "300. The disciples of Gotama<br>always wake up refreshed,<br>whose minds day and night<br>delight in harmlessness.<br>",
+    "300. The disciples of Gotama\nalways wake up refreshed,\nwhose minds day and night\ndelight in harmlessness.\n",
   dhp301:
-    "301. The disciples of Gotama<br>always wake up refreshed,<br>whose minds day and night<br>delight in meditation.<br>",
+    "301. The disciples of Gotama\nalways wake up refreshed,\nwhose minds day and night\ndelight in meditation.\n",
   dhp302:
-    "302. Going forth is hard, it’s hard to be happy;<br>life at home is hard too, and painful,<br>it’s painful to stay when you’ve nothing in common.<br>A traveler is a prey to pain,<br>so don’t be a traveler,<br>don’t be prey to pain.<br>",
+    "302. Going forth is hard, it’s hard to be happy;\nlife at home is hard too, and painful,\nit’s painful to stay when you’ve nothing in common.\nA traveler is a prey to pain,\nso don’t be a traveler,\ndon’t be prey to pain.\n",
   dhp303:
-    "303. One who is faithful, accomplished in ethics,<br>blessed with fame and wealth,<br>is honored in whatever place<br>they frequent.<br>",
+    "303. One who is faithful, accomplished in ethics,\nblessed with fame and wealth,\nis honored in whatever place\nthey frequent.\n",
   dhp304:
-    "304. The good shine from afar,<br>like the Himalayan peaks,<br>but the wicked are not seen,<br>like arrows scattered in the night.<br>",
+    "304. The good shine from afar,\nlike the Himalayan peaks,\nbut the wicked are not seen,\nlike arrows scattered in the night.\n",
   dhp305:
-    "305. Sitting alone, sleeping alone,<br>tirelessly wandering alone;<br>one who tames themselves alone<br>would delight within a forest.<br>",
+    "305. Sitting alone, sleeping alone,\ntirelessly wandering alone;\none who tames themselves alone\nwould delight within a forest.\n",
   dhp306:
-    "306. A liar goes to hell, <br>as does one who denies what they did.<br>Both are equal in the hereafter,<br>those men of base deeds.<br>",
+    "306. A liar goes to hell, \nas does one who denies what they did.\nBoth are equal in the hereafter,\nthose men of base deeds.\n",
   dhp307:
-    "307. Many who wrap their necks in ocher robes<br>are unrestrained and wicked.<br>Being wicked, they are reborn in hell<br>due to their bad deeds.<br>",
+    "307. Many who wrap their necks in ocher robes\nare unrestrained and wicked.\nBeing wicked, they are reborn in hell\ndue to their bad deeds.\n",
   dhp308:
-    "308. It’d be better for the immoral and unrestrained<br>to eat an iron ball,<br>scorching, like a burning flame,<br>than to eat the nation’s alms.<br>",
+    "308. It’d be better for the immoral and unrestrained\nto eat an iron ball,\nscorching, like a burning flame,\nthan to eat the nation’s alms.\n",
   dhp309:
-    "309. Four things befall a heedless man<br>who sleeps with another’s wife:<br>bad karma, poor sleep,<br>ill-repute, and rebirth in hell.<br>",
+    "309. Four things befall a heedless man\nwho sleeps with another’s wife:\nbad karma, poor sleep,\nill-repute, and rebirth in hell.\n",
   dhp310:
-    "310. He accrues bad karma and is reborn in a bad place,<br>all so a frightened couple may snatch a moment’s pleasure,<br>for which rulers impose a heavy punishment.<br>That’s why a man should not sleep with another’s wife.<br>",
+    "310. He accrues bad karma and is reborn in a bad place,\nall so a frightened couple may snatch a moment’s pleasure,\nfor which rulers impose a heavy punishment.\nThat’s why a man should not sleep with another’s wife.\n",
   dhp311:
-    "311. When kusa grass is wrongly grasped<br>it only cuts the hand.<br>So too, the ascetic life, when wrongly taken,<br>drags you to hell.<br>",
-  dhp312: "312. Any lax act,<br>any corrupt observance, <br>or suspicious spiritual life,<br>is not very fruitful.<br>",
+    "311. When kusa grass is wrongly grasped\nit only cuts the hand.\nSo too, the ascetic life, when wrongly taken,\ndrags you to hell.\n",
+  dhp312: "312. Any lax act,\nany corrupt observance, \nor suspicious spiritual life,\nis not very fruitful.\n",
   dhp313:
-    "313. If one is to do what should be done,<br>one should staunchly strive.<br>For the life gone forth when laxly led <br>just stirs up dust all the more. <br>",
+    "313. If one is to do what should be done,\none should staunchly strive.\nFor the life gone forth when laxly led \njust stirs up dust all the more. \n",
   dhp314:
-    "314. A bad deed is better left undone,<br>for it will plague you later on.<br>A good deed is better done,<br>one that does not plague you.<br>",
+    "314. A bad deed is better left undone,\nfor it will plague you later on.\nA good deed is better done,\none that does not plague you.\n",
   dhp315:
-    "315. As a frontier city<br>is guarded inside and out,<br>so you should ward yourselves—<br>don’t let the moment pass you by.<br>For if you miss your moment<br>you’ll grieve when sent to hell.<br>",
+    "315. As a frontier city\nis guarded inside and out,\nso you should ward yourselves—\ndon’t let the moment pass you by.\nFor if you miss your moment\nyou’ll grieve when sent to hell.\n",
   dhp316:
-    "316. Unashamed of what is shameful,<br>ashamed of what is not shameful;<br>beings who uphold wrong view<br>go to a bad place.<br>",
+    "316. Unashamed of what is shameful,\nashamed of what is not shameful;\nbeings who uphold wrong view\ngo to a bad place.\n",
   dhp317:
-    "317. Seeing danger where there is none,<br>and blind to the actual danger,<br>beings who uphold wrong view<br>go to a bad place.<br>",
+    "317. Seeing danger where there is none,\nand blind to the actual danger,\nbeings who uphold wrong view\ngo to a bad place.\n",
   dhp318:
-    "318. Seeing fault where there is none,<br>and blind to the actual fault,<br>beings who uphold wrong view<br>go to a bad place.<br>",
+    "318. Seeing fault where there is none,\nand blind to the actual fault,\nbeings who uphold wrong view\ngo to a bad place.\n",
   dhp319:
-    "319. Knowing a fault as a fault<br>and the faultless as faultless,<br>beings who uphold right view<br>go to a good place.<br>",
+    "319. Knowing a fault as a fault\nand the faultless as faultless,\nbeings who uphold right view\ngo to a good place.\n",
   dhp320:
-    "320. Like an elephant struck<br>with arrows in battle,<br>I shall put up with abuse,<br>for so many folk are badly behaved.<br>",
+    "320. Like an elephant struck\nwith arrows in battle,\nI shall put up with abuse,\nfor so many folk are badly behaved.\n",
   dhp321:
-    "321. The well-tamed beast is the one led to the crowd;<br>the tamed elephant’s the one the king mounts;<br>the tamed person who endures abuse<br>is the best of human beings.<br>",
+    "321. The well-tamed beast is the one led to the crowd;\nthe tamed elephant’s the one the king mounts;\nthe tamed person who endures abuse\nis the best of human beings.\n",
   dhp322:
-    "322. Those who have tamed themselves are better<br>than fine tamed mules,<br>thoroughbreds from Sindh,<br>or giant tuskers.<br>",
+    "322. Those who have tamed themselves are better\nthan fine tamed mules,\nthoroughbreds from Sindh,\nor giant tuskers.\n",
   dhp323:
-    "323. For not on those mounts<br>would you go to the untrodden place,<br>whereas, with the help of one whose self is well tamed,<br>you go there, tamed by the tamed.<br>",
+    "323. For not on those mounts\nwould you go to the untrodden place,\nwhereas, with the help of one whose self is well tamed,\nyou go there, tamed by the tamed.\n",
   dhp324:
-    "324. The tusker named Dhanapāla<br>is musky in rut, hard to control.<br>Bound, he eats not a bite,<br>for he misses the elephant forest.<br>",
+    "324. The tusker named Dhanapāla\nis musky in rut, hard to control.\nBound, he eats not a bite,\nfor he misses the elephant forest.\n",
   dhp325:
-    "325. One who gets drowsy from overeating,<br>fond of sleep, rolling round the bed<br>like a great hog stuffed with grain:<br>that idiot is reborn again and again. <br>",
+    "325. One who gets drowsy from overeating,\nfond of sleep, rolling round the bed\nlike a great hog stuffed with grain:\nthat idiot is reborn again and again. \n",
   dhp326:
-    "326. In the past my mind wandered<br>how it wished, where it liked, as it pleased.<br>Now I’ll carefully guide it,<br>as a trainer with a hook guides a rutting elephant.<br>",
+    "326. In the past my mind wandered\nhow it wished, where it liked, as it pleased.\nNow I’ll carefully guide it,\nas a trainer with a hook guides a rutting elephant.\n",
   dhp327:
-    "327. Delight in diligence!<br>Take good care of your mind!<br>Pull yourself out of this pit,<br>like an elephant sunk in a bog.<br>",
+    "327. Delight in diligence!\nTake good care of your mind!\nPull yourself out of this pit,\nlike an elephant sunk in a bog.\n",
   dhp328:
-    "328. If you find an alert companion,<br>a wise and virtuous friend,<br>then, overcoming all adversities, <br>wander with them, joyful and mindful. <br>",
+    "328. If you find an alert companion,\na wise and virtuous friend,\nthen, overcoming all adversities, \nwander with them, joyful and mindful. \n",
   dhp329:
-    "329. If you find no alert companion,<br>no wise and virtuous friend,<br>then, like a king who flees his conquered realm,<br>wander alone like a tusker in the wilds. <br>",
+    "329. If you find no alert companion,\nno wise and virtuous friend,\nthen, like a king who flees his conquered realm,\nwander alone like a tusker in the wilds. \n",
   dhp330:
-    "330. It’s better to wander alone,<br>there’s no fellowship with fools.<br>Wander alone and do no wrong, <br>at ease like a tusker in the wilds.<br>",
+    "330. It’s better to wander alone,\nthere’s no fellowship with fools.\nWander alone and do no wrong, \nat ease like a tusker in the wilds.\n",
   dhp331:
-    "331. A friend in need is a blessing;<br>it’s a blessing to be content with whatever;<br>good deeds are a blessing at the end of life,<br>and giving up all suffering is a blessing.<br>",
+    "331. A friend in need is a blessing;\nit’s a blessing to be content with whatever;\ngood deeds are a blessing at the end of life,\nand giving up all suffering is a blessing.\n",
   dhp332:
-    "332. In this world it’s a blessing to serve<br>one’s mother and one’s father.<br>And it’s a blessing also to serve<br>ascetics and brahmins.<br>",
+    "332. In this world it’s a blessing to serve\none’s mother and one’s father.\nAnd it’s a blessing also to serve\nascetics and brahmins.\n",
   dhp333:
-    "333. It’s a blessing to keep precepts until you grow old;<br>a blessing to be grounded in faith;<br>the getting of wisdom’s a blessing;<br>and it’s a blessing to avoid doing wrong.<br>",
+    "333. It’s a blessing to keep precepts until you grow old;\na blessing to be grounded in faith;\nthe getting of wisdom’s a blessing;\nand it’s a blessing to avoid doing wrong.\n",
   dhp334:
-    "334. When a person lives heedlessly,<br>craving grows in them like a parasitic creeper.<br>They jump from life to life, like a monkey<br>greedy for fruit in a forest grove.<br>",
+    "334. When a person lives heedlessly,\ncraving grows in them like a parasitic creeper.\nThey jump from life to life, like a monkey\ngreedy for fruit in a forest grove.\n",
   dhp335:
-    "335. Whoever is beaten by this wretched craving,<br>this attachment to the world,<br>their sorrow grows,<br>like grass in the rain.<br>",
+    "335. Whoever is beaten by this wretched craving,\nthis attachment to the world,\ntheir sorrow grows,\nlike grass in the rain.\n",
   dhp336:
-    "336. But whoever prevails over this wretched craving,<br>so hard to get over in the world,<br>their sorrows fall from them,<br>like a drop from a lotus-leaf.<br>",
+    "336. But whoever prevails over this wretched craving,\nso hard to get over in the world,\ntheir sorrows fall from them,\nlike a drop from a lotus-leaf.\n",
   dhp337:
-    "337. I say this to you, good people,<br>all those who have gathered here:<br>dig up the root of craving,<br>as you’d dig up grass in search of roots.<br>Don’t let Māra break you again and again,<br>like a stream breaking a reed.<br>",
+    "337. I say this to you, good people,\nall those who have gathered here:\ndig up the root of craving,\nas you’d dig up grass in search of roots.\nDon’t let Māra break you again and again,\nlike a stream breaking a reed.\n",
   dhp338:
-    "338. A tree grows back even when cut down,<br>so long as its roots are healthy;<br>suffering springs up again and again,<br>so long as the tendency to craving is not pulled out.<br>",
+    "338. A tree grows back even when cut down,\nso long as its roots are healthy;\nsuffering springs up again and again,\nso long as the tendency to craving is not pulled out.\n",
   dhp339:
-    "339. A person of low views<br>in whom the thirty-six streams<br>that flow to pleasure are mighty,<br>is swept away by lustful thoughts.<br>",
+    "339. A person of low views\nin whom the thirty-six streams\nthat flow to pleasure are mighty,\nis swept away by lustful thoughts.\n",
   dhp340:
-    "340. The streams flow everywhere;<br>a weed springs up and remains.<br>Seeing this weed that has been born, <br>cut the root with wisdom.<br>",
+    "340. The streams flow everywhere;\na weed springs up and remains.\nSeeing this weed that has been born, \ncut the root with wisdom.\n",
   dhp341:
-    "341. A persons’s joys<br>flow from senses and cravings.<br>Seekers of happiness, bent on pleasure,<br>continue to be reborn and grow old. <br>",
+    "341. A persons’s joys\nflow from senses and cravings.\nSeekers of happiness, bent on pleasure,\ncontinue to be reborn and grow old. \n",
   dhp342:
-    "342. People governed by thirst,<br>crawl about like a trapped rabbit.<br>Bound and fettered, for a long time<br>they return to pain time and again.<br>",
+    "342. People governed by thirst,\ncrawl about like a trapped rabbit.\nBound and fettered, for a long time\nthey return to pain time and again.\n",
   dhp343:
-    "343. People governed by thirst,<br>crawl about like a trapped rabbit.<br>That’s why one who longs for dispassion<br>should dispel thirst.<br>",
+    "343. People governed by thirst,\ncrawl about like a trapped rabbit.\nThat’s why one who longs for dispassion\nshould dispel thirst.\n",
   dhp344:
-    "344. Rejecting the household jungle, they set out for the real jungle,<br>then they run right back to the jungle they left behind.<br>Just look at this person!<br>Freed, they run to bondage.<br>",
+    "344. Rejecting the household jungle, they set out for the real jungle,\nthen they run right back to the jungle they left behind.\nJust look at this person!\nFreed, they run to bondage.\n",
   dhp345:
-    "345. The wise say that shackle is not strong<br>that’s made of iron, wood, or knots.<br>But obsession with jeweled earrings, <br>concern for your partners and children: <br>",
+    "345. The wise say that shackle is not strong\nthat’s made of iron, wood, or knots.\nBut obsession with jeweled earrings, \nconcern for your partners and children: \n",
   dhp346:
-    "346. this, say the wise, is a strong shackle<br>dragging the indulgent down, hard to escape.<br>Having cut this one too they go forth,<br>unconcerned, having given up sensual pleasures.<br>",
+    "346. this, say the wise, is a strong shackle\ndragging the indulgent down, hard to escape.\nHaving cut this one too they go forth,\nunconcerned, having given up sensual pleasures.\n",
   dhp347:
-    "347. Besotted by lust they fall into the stream,<br>like a spider caught in the web she wove.<br>The wise proceed, having cut this one too,<br>unconcerned, having given up all suffering.<br>",
+    "347. Besotted by lust they fall into the stream,\nlike a spider caught in the web she wove.\nThe wise proceed, having cut this one too,\nunconcerned, having given up all suffering.\n",
   dhp348:
-    "348. Let go of the past, let go of the future,<br>let go of the present, having gone beyond rebirth.<br>With your heart freed in every respect,<br>you’ll not come again to rebirth and old age.<br>",
+    "348. Let go of the past, let go of the future,\nlet go of the present, having gone beyond rebirth.\nWith your heart freed in every respect,\nyou’ll not come again to rebirth and old age.\n",
   dhp349:
-    "349. For a person crushed by thoughts,<br>very lustful, focusing on beauty,<br>their craving grows and grows,<br>tying them with a stout bond.<br>",
+    "349. For a person crushed by thoughts,\nvery lustful, focusing on beauty,\ntheir craving grows and grows,\ntying them with a stout bond.\n",
   dhp350:
-    "350. But one who loves to calm their thoughts,<br>developing perception of ugliness, ever mindful,<br>will surely eliminate that craving,<br>cutting off the bonds of Māra.<br>",
+    "350. But one who loves to calm their thoughts,\ndeveloping perception of ugliness, ever mindful,\nwill surely eliminate that craving,\ncutting off the bonds of Māra.\n",
   dhp351:
-    "351. One who is confident, unafraid,<br>rid of craving, free of blemish,<br>having struck down the arrows flying to future lives,<br>this bag of bones is their last.<br>",
+    "351. One who is confident, unafraid,\nrid of craving, free of blemish,\nhaving struck down the arrows flying to future lives,\nthis bag of bones is their last.\n",
   dhp352:
-    "352. Rid of craving, free of grasping,<br>expert in the interpretation of terms,<br>knowing the correct<br>structure and sequence of syllables,<br>they are said to be one who bears their final body,<br>one of great wisdom, a great person.<br>",
+    "352. Rid of craving, free of grasping,\nexpert in the interpretation of terms,\nknowing the correct\nstructure and sequence of syllables,\nthey are said to be one who bears their final body,\none of great wisdom, a great person.\n",
   dhp353:
-    "353. I am the champion, the knower of all,<br>unsullied in the midst of all things.<br>I’ve given up all, freed in the ending of craving.<br>Since I know for myself, whose follower should I be?<br>",
+    "353. I am the champion, the knower of all,\nunsullied in the midst of all things.\nI’ve given up all, freed in the ending of craving.\nSince I know for myself, whose follower should I be?\n",
   dhp354:
-    "354. The gift of the teaching beats all other gifts;<br>the taste of the teaching beats all other tastes;<br>the joy of the teaching beats all other joys;<br>one who has ended craving beats all suffering.<br>",
+    "354. The gift of the teaching beats all other gifts;\nthe taste of the teaching beats all other tastes;\nthe joy of the teaching beats all other joys;\none who has ended craving beats all suffering.\n",
   dhp355:
-    "355. Riches ruin an idiot,<br>but not a seeker of the far shore.<br>From craving for wealth, an idiot<br>ruins themselves and others.<br>",
+    "355. Riches ruin an idiot,\nbut not a seeker of the far shore.\nFrom craving for wealth, an idiot\nruins themselves and others.\n",
   dhp356:
-    "356. Weeds are the bane of crops,<br>but greed is these folk’s bane.<br>That’s why a gift to one rid of greed<br>is so very fruitful.<br>",
+    "356. Weeds are the bane of crops,\nbut greed is these folk’s bane.\nThat’s why a gift to one rid of greed\nis so very fruitful.\n",
   dhp357:
-    "357. Weeds are the bane of crops,<br>but hate is these folk’s bane.<br>That’s why a gift to one rid of hate<br>is so very fruitful.<br>",
+    "357. Weeds are the bane of crops,\nbut hate is these folk’s bane.\nThat’s why a gift to one rid of hate\nis so very fruitful.\n",
   dhp358:
-    "358. Weeds are the bane of crops,<br>but delusion is these folk’s bane.<br>That’s why a gift to one rid of delusion<br>is so very fruitful.<br>",
+    "358. Weeds are the bane of crops,\nbut delusion is these folk’s bane.\nThat’s why a gift to one rid of delusion\nis so very fruitful.\n",
   dhp359:
-    "359. Weeds are the bane of crops,<br>but desire is these folk’s bane.<br>That’s why a gift to one rid of desire<br>is so very fruitful.<br>",
+    "359. Weeds are the bane of crops,\nbut desire is these folk’s bane.\nThat’s why a gift to one rid of desire\nis so very fruitful.\n",
   dhp360:
-    "360. Restraint of the eye is good;<br>good is restraint of the ear;<br>restraint of the nose is good; <br>good is restraint of the tongue.<br>",
+    "360. Restraint of the eye is good;\ngood is restraint of the ear;\nrestraint of the nose is good; \ngood is restraint of the tongue.\n",
   dhp361:
-    "361. Restraint of the body is good;<br>good is restraint of speech;<br>restraint of mind is good; <br>everywhere, restraint is good.<br>The mendicant restrained everywhere<br>is released from suffering.<br>",
+    "361. Restraint of the body is good;\ngood is restraint of speech;\nrestraint of mind is good; \neverywhere, restraint is good.\nThe mendicant restrained everywhere\nis released from suffering.\n",
   dhp362:
-    "362. One restrained in hand and foot,<br>and in speech, the supreme restraint;<br>happy inside, serene, <br>solitary, content, I call a mendicant.<br>",
+    "362. One restrained in hand and foot,\nand in speech, the supreme restraint;\nhappy inside, serene, \nsolitary, content, I call a mendicant.\n",
   dhp363:
-    "363. When a mendicant of restrained mouth,<br>thoughtful in counsel, and stable,<br>explains the text and its meaning,<br>their words are sweet.<br>",
+    "363. When a mendicant of restrained mouth,\nthoughtful in counsel, and stable,\nexplains the text and its meaning,\ntheir words are sweet.\n",
   dhp364:
-    "364. Delighting in the teaching, enjoying the teaching,<br>contemplating the teaching,<br>a mendicant who recollects the teaching<br>doesn’t decline in the true teaching.<br>",
+    "364. Delighting in the teaching, enjoying the teaching,\ncontemplating the teaching,\na mendicant who recollects the teaching\ndoesn’t decline in the true teaching.\n",
   dhp365:
-    "365. A well-off mendicant ought not look down<br>on others, nor should they be envious.<br>A mendicant who envies others<br>does not achieve immersion.<br>",
+    "365. A well-off mendicant ought not look down\non others, nor should they be envious.\nA mendicant who envies others\ndoes not achieve immersion.\n",
   dhp366:
-    "366. If a mendicant is poor in offerings,<br>the well-to-do ought not look down on them.<br>For the gods indeed praise them,<br>who are tireless and pure of livelihood.<br>",
+    "366. If a mendicant is poor in offerings,\nthe well-to-do ought not look down on them.\nFor the gods indeed praise them,\nwho are tireless and pure of livelihood.\n",
   dhp367:
-    "367. One who has no sense of ownership<br>in the whole realm of name and form,<br>who does not grieve for that which is not,<br>is said to be a mendicant.<br>",
+    "367. One who has no sense of ownership\nin the whole realm of name and form,\nwho does not grieve for that which is not,\nis said to be a mendicant.\n",
   dhp368:
-    "368. A mendicant who meditates on love,<br>devoted to the Buddha’s teaching,<br>would realize the peaceful state,<br>the blissful stilling of conditions.<br>",
+    "368. A mendicant who meditates on love,\ndevoted to the Buddha’s teaching,\nwould realize the peaceful state,\nthe blissful stilling of conditions.\n",
   dhp369:
-    "369. Bail out this boat, mendicant!<br>When bailed out it will float lightly.<br>Having cut off desire and hate,<br>you shall reach quenching.<br>",
+    "369. Bail out this boat, mendicant!\nWhen bailed out it will float lightly.\nHaving cut off desire and hate,\nyou shall reach quenching.\n",
   dhp370:
-    "370. Five to cut, five to drop,<br>and five more to develop.<br>A mendicant who escapes five chains <br>is said to have crossed the flood.<br>",
+    "370. Five to cut, five to drop,\nand five more to develop.\nA mendicant who escapes five chains \nis said to have crossed the flood.\n",
   dhp371:
-    "371. Practice absorption, don’t be negligent!<br>Don’t let the mind delight in the senses!<br>Don’t heedlessly swallow a hot iron ball!<br>And when it burns, don’t cry, “Oh, the pain!”<br>",
+    "371. Practice absorption, don’t be negligent!\nDon’t let the mind delight in the senses!\nDon’t heedlessly swallow a hot iron ball!\nAnd when it burns, don’t cry, “Oh, the pain!”\n",
   dhp372:
-    "372. No absorption for one without wisdom,<br>no wisdom for one without absorption.<br>But one with absorption and wisdom—<br>they have truly drawn near to extinguishment.<br>",
+    "372. No absorption for one without wisdom,\nno wisdom for one without absorption.\nBut one with absorption and wisdom—\nthey have truly drawn near to extinguishment.\n",
   dhp373:
-    "373. A mendicant who enters an empty hut<br>with mind at peace<br>finds a superhuman delight<br>as they rightly discern the Dhamma.<br>",
+    "373. A mendicant who enters an empty hut\nwith mind at peace\nfinds a superhuman delight\nas they rightly discern the Dhamma.\n",
   dhp374:
-    "374. Whenever they are mindful<br>of the rise and fall of the aggregates,<br>they feel rapture and joy:<br>that is the deathless for one who knows.<br>",
+    "374. Whenever they are mindful\nof the rise and fall of the aggregates,\nthey feel rapture and joy:\nthat is the deathless for one who knows.\n",
   dhp375:
-    "375. This is the very start of the path<br>for a wise mendicant:<br>guarding the senses, contentment,<br>and restraint in the monastic code.<br>",
+    "375. This is the very start of the path\nfor a wise mendicant:\nguarding the senses, contentment,\nand restraint in the monastic code.\n",
   dhp376:
-    "376. Mix with spiritual friends,<br>who are tireless and pure of livelihood.<br>Share what you have with others,<br>being skillful in your conduct.<br>And when you’re full of joy, <br>you’ll make an end to suffering.<br>",
-  dhp377: "377. As a jasmine sheds<br>its withered flowers,<br>O mendicants,<br>cast off greed and hate.<br>",
+    "376. Mix with spiritual friends,\nwho are tireless and pure of livelihood.\nShare what you have with others,\nbeing skillful in your conduct.\nAnd when you’re full of joy, \nyou’ll make an end to suffering.\n",
+  dhp377: "377. As a jasmine sheds\nits withered flowers,\nO mendicants,\ncast off greed and hate.\n",
   dhp378:
-    "378. Calm in body, calm in speech,<br>peaceful and serene;<br>a mendicant who’s spat out the world’s bait<br>is said to be one at peace.<br>",
+    "378. Calm in body, calm in speech,\npeaceful and serene;\na mendicant who’s spat out the world’s bait\nis said to be one at peace.\n",
   dhp379:
-    "379. Urge yourself on,<br>reflect on yourself.<br>A mendicant self-controlled and mindful<br>will always dwell in happiness.<br>",
+    "379. Urge yourself on,\nreflect on yourself.\nA mendicant self-controlled and mindful\nwill always dwell in happiness.\n",
   dhp380:
-    "380. Self is indeed the lord of self,<br>for who else would be one’s lord?<br>Self is indeed the home of self,<br>so restrain yourself,<br>as a merchant his thoroughbred steed.<br>",
+    "380. Self is indeed the lord of self,\nfor who else would be one’s lord?\nSelf is indeed the home of self,\nso restrain yourself,\nas a merchant his thoroughbred steed.\n",
   dhp381:
-    "381. A monk full of joy<br>trusting in the Buddha’s teaching,<br>would realize the peaceful state,<br>the blissful stilling of conditions.<br>",
+    "381. A monk full of joy\ntrusting in the Buddha’s teaching,\nwould realize the peaceful state,\nthe blissful stilling of conditions.\n",
   dhp382:
-    "382. A young mendicant<br>devoted to the Buddha’s teaching,<br>lights up the world,<br>like the moon freed from a cloud.<br>",
+    "382. A young mendicant\ndevoted to the Buddha’s teaching,\nlights up the world,\nlike the moon freed from a cloud.\n",
   dhp383:
-    "383. Strive and cut the stream!<br>Dispel sensual pleasures, brahmin.<br>Knowing the ending of conditions,<br>know the uncreated, brahmin.<br>",
-  dhp384:
-    "384. When a brahmin<br>has gone beyond two things,<br>then they consciously<br>make an end of all fetters.<br>",
+    "383. Strive and cut the stream!\nDispel sensual pleasures, brahmin.\nKnowing the ending of conditions,\nknow the uncreated, brahmin.\n",
+  dhp384: "384. When a brahmin\nhas gone beyond two things,\nthen they consciously\nmake an end of all fetters.\n",
   dhp385:
-    "385. When one does not recognize the near shore,<br>the far shore, or both;<br>stress-free, detached,<br>that’s who I call a brahmin. <br>",
+    "385. When one does not recognize the near shore,\nthe far shore, or both;\nstress-free, detached,\nthat’s who I call a brahmin. \n",
   dhp386:
-    "386. Absorbed, rid of hopes,<br>their task completed, without defilements,<br>arrived at the highest goal: <br>that’s who I call a brahmin. <br>",
+    "386. Absorbed, rid of hopes,\ntheir task completed, without defilements,\narrived at the highest goal: \nthat’s who I call a brahmin. \n",
   dhp387:
-    "387. The sun blazes by day, <br>the moon glows at night, <br>the aristocrat shines in armor,<br>and the brahmin shines in absorption. <br>But all day and all night, <br>the Buddha shines with glory.<br>",
+    "387. The sun blazes by day, \nthe moon glows at night, \nthe aristocrat shines in armor,\nand the brahmin shines in absorption. \nBut all day and all night, \nthe Buddha shines with glory.\n",
   dhp388:
-    "388. A brahmin’s so-called because they have banished evil,<br>an ascetic’s so-called since they live a serene life.<br>One who has renounced all stains<br>is said to be a “renunciant”.<br>",
+    "388. A brahmin’s so-called because they have banished evil,\nan ascetic’s so-called since they live a serene life.\nOne who has renounced all stains\nis said to be a “renunciant”.\n",
   dhp389:
-    "389. One should never strike a brahmin,<br>nor should a brahmin retaliate.<br>Woe to the one who hurts a brahmin,<br>and woe for the one who retaliates.<br>",
+    "389. One should never strike a brahmin,\nnor should a brahmin retaliate.\nWoe to the one who hurts a brahmin,\nand woe for the one who retaliates.\n",
   dhp390:
-    "390. Nothing is better for a brahmin<br>than to hold their mind back from attachment.<br>As cruelty in the mind gradually subsides,<br>suffering also subsides.<br>",
+    "390. Nothing is better for a brahmin\nthan to hold their mind back from attachment.\nAs cruelty in the mind gradually subsides,\nsuffering also subsides.\n",
   dhp391:
-    "391. Who does nothing wrong<br>by body, speech or mind,<br>restrained in these three respects,<br>that’s who I call a brahmin. <br>",
+    "391. Who does nothing wrong\nby body, speech or mind,\nrestrained in these three respects,\nthat’s who I call a brahmin. \n",
   dhp392:
-    "392. You should graciously honor<br>the one from whom you learn the Dhamma<br>taught by the awakened Buddha,<br>as a brahmin honors the sacred flame.<br>",
+    "392. You should graciously honor\nthe one from whom you learn the Dhamma\ntaught by the awakened Buddha,\nas a brahmin honors the sacred flame.\n",
   dhp393:
-    "393. Not by matted hair or family,<br>or birth is one a brahmin.<br>Those who have truth and principle:<br>they are pure, they are brahmins.<br>",
+    "393. Not by matted hair or family,\nor birth is one a brahmin.\nThose who have truth and principle:\nthey are pure, they are brahmins.\n",
   dhp394:
-    "394. Why the matted hair, you fool,<br>and why the skin of deer?<br>The tangle is inside you,<br>yet you polish up your outsides.<br>",
+    "394. Why the matted hair, you fool,\nand why the skin of deer?\nThe tangle is inside you,\nyet you polish up your outsides.\n",
   dhp395:
-    "395. A person who wears robes of rags,<br>lean, their limbs showing veins,<br>meditating alone in the forest,<br>that’s who I call a brahmin. <br>",
+    "395. A person who wears robes of rags,\nlean, their limbs showing veins,\nmeditating alone in the forest,\nthat’s who I call a brahmin. \n",
   dhp396:
-    "396. I don’t call someone a brahmin<br>after the mother or womb they came from.<br>If they still have attachments,<br>they’re just someone who says “sir”.<br>Having nothing, taking nothing: <br>that’s who I call a brahmin. <br>",
+    "396. I don’t call someone a brahmin\nafter the mother or womb they came from.\nIf they still have attachments,\nthey’re just someone who says “sir”.\nHaving nothing, taking nothing: \nthat’s who I call a brahmin. \n",
   dhp397:
-    "397. Having cut off all fetters<br>they have no anxiety.<br>They’ve got over clinging, and are detached:<br>that’s who I call a brahmin. <br>",
+    "397. Having cut off all fetters\nthey have no anxiety.\nThey’ve got over clinging, and are detached:\nthat’s who I call a brahmin. \n",
   dhp398:
-    "398. They’ve cut the strap and harness,<br>the reins and bridle too,<br>with cross-bar lifted, they’re awakened: <br>that’s who I call a brahmin. <br>",
+    "398. They’ve cut the strap and harness,\nthe reins and bridle too,\nwith cross-bar lifted, they’re awakened: \nthat’s who I call a brahmin. \n",
   dhp399:
-    "399. Abuse, killing, caging: <br>they endure these without anger.<br>Patience is their powerful army: <br>that’s who I call a brahmin. <br>",
+    "399. Abuse, killing, caging: \nthey endure these without anger.\nPatience is their powerful army: \nthat’s who I call a brahmin. \n",
   dhp400:
-    "400. Not irritable or stuck up,<br>dutiful in precepts and observances,<br>tamed, bearing their final body:<br>that’s who I call a brahmin. <br>",
+    "400. Not irritable or stuck up,\ndutiful in precepts and observances,\ntamed, bearing their final body:\nthat’s who I call a brahmin. \n",
   dhp401:
-    "401. Like water from a lotus leaf,<br>like a mustard seed off a pin-point,<br>sensual pleasures slip off them: <br>that’s who I call a brahmin. <br>",
+    "401. Like water from a lotus leaf,\nlike a mustard seed off a pin-point,\nsensual pleasures slip off them: \nthat’s who I call a brahmin. \n",
   dhp402:
-    "402. They understand for themselves<br>the end of suffering in this life;<br>with burden put down, detached: <br>that’s who I call a brahmin. <br>",
+    "402. They understand for themselves\nthe end of suffering in this life;\nwith burden put down, detached: \nthat’s who I call a brahmin. \n",
   dhp403:
-    "403. Deep in wisdom, intelligent,<br>expert in the variety of paths;<br>arrived at the highest goal: <br>that’s who I call a brahmin. <br>",
+    "403. Deep in wisdom, intelligent,\nexpert in the variety of paths;\narrived at the highest goal: \nthat’s who I call a brahmin. \n",
   dhp404:
-    "404. Socializing with neither <br>householders nor the homeless.<br>A migrant with no shelter, few in wishes:<br>that’s who I call a brahmin. <br>",
+    "404. Socializing with neither \nhouseholders nor the homeless.\nA migrant with no shelter, few in wishes:\nthat’s who I call a brahmin. \n",
   dhp405:
-    "405. They’ve laid aside violence<br>against creatures firm and frail;<br>not killing or making others kill: <br>that’s who I call a brahmin. <br>",
+    "405. They’ve laid aside violence\nagainst creatures firm and frail;\nnot killing or making others kill: \nthat’s who I call a brahmin. \n",
   dhp406:
-    "406. Not fighting among those who fight,<br>extinguished among those who are armed,<br>not taking among those who take:<br>that’s who I call a brahmin. <br>",
+    "406. Not fighting among those who fight,\nextinguished among those who are armed,\nnot taking among those who take:\nthat’s who I call a brahmin. \n",
   dhp407:
-    "407. They’ve discarded greed and hate,<br>along with conceit and contempt,<br>like a mustard seed off the point of a pin:<br>that’s who I call a brahmin. <br>",
+    "407. They’ve discarded greed and hate,\nalong with conceit and contempt,\nlike a mustard seed off the point of a pin:\nthat’s who I call a brahmin. \n",
   dhp408:
-    "408. The words they utter <br>are sweet, informative, and true,<br>and don’t offend anyone: <br>that’s who I call a brahmin. <br>",
+    "408. The words they utter \nare sweet, informative, and true,\nand don’t offend anyone: \nthat’s who I call a brahmin. \n",
   dhp409:
-    "409. They don’t steal anything in the world,<br>long or short,<br>fine or coarse, beautiful or ugly: <br>that’s who I call a brahmin. <br>",
+    "409. They don’t steal anything in the world,\nlong or short,\nfine or coarse, beautiful or ugly: \nthat’s who I call a brahmin. \n",
   dhp410:
-    "410. They have no hope <br>in this world or the next. <br>with no need for hope, detached:<br>that’s who I call a brahmin. <br>",
+    "410. They have no hope \nin this world or the next. \nwith no need for hope, detached:\nthat’s who I call a brahmin. \n",
   dhp411:
-    "411. They have no clinging, <br>knowledge has freed them of indecision,<br>they’ve plunged right into the deathless:<br>that’s who I call a brahmin. <br>",
+    "411. They have no clinging, \nknowledge has freed them of indecision,\nthey’ve plunged right into the deathless:\nthat’s who I call a brahmin. \n",
   dhp412:
-    "412. They’ve escaped clinging <br>to both good and bad deeds; <br>sorrowless, stainless, pure:<br>that’s who I call a brahmin. <br>",
+    "412. They’ve escaped clinging \nto both good and bad deeds; \nsorrowless, stainless, pure:\nthat’s who I call a brahmin. \n",
   dhp413:
-    "413. Pure as the spotless moon,<br>clear and undisturbed,<br>they’ve ended desire to be reborn: <br>that’s who I call a brahmin. <br>",
+    "413. Pure as the spotless moon,\nclear and undisturbed,\nthey’ve ended desire to be reborn: \nthat’s who I call a brahmin. \n",
   dhp414:
-    "414. They’ve got past this grueling swamp<br>of delusion, transmigration.<br>They’ve crossed over to the far shore,<br>stilled and free of indecision.<br>They’re extinguished by not grasping: <br>that’s who I call a brahmin. <br>",
+    "414. They’ve got past this grueling swamp\nof delusion, transmigration.\nThey’ve crossed over to the far shore,\nstilled and free of indecision.\nThey’re extinguished by not grasping: \nthat’s who I call a brahmin. \n",
   dhp415:
-    "415. They’ve given up sensual stimulations,<br>and have gone forth from lay life;<br>they’ve ended rebirth in the sensual realm:<br>that’s who I call a brahmin. <br>",
+    "415. They’ve given up sensual stimulations,\nand have gone forth from lay life;\nthey’ve ended rebirth in the sensual realm:\nthat’s who I call a brahmin. \n",
   dhp416:
-    "416. They’ve given up craving,<br>and have gone forth from lay life;<br>they’ve ended craving to be reborn: <br>that’s who I call a brahmin. <br>",
+    "416. They’ve given up craving,\nand have gone forth from lay life;\nthey’ve ended craving to be reborn: \nthat’s who I call a brahmin. \n",
   dhp417:
-    "417. They’ve given up human bonds,<br>and gone beyond heavenly bonds;<br>detached from all attachments: <br>that’s who I call a brahmin. <br>",
+    "417. They’ve given up human bonds,\nand gone beyond heavenly bonds;\ndetached from all attachments: \nthat’s who I call a brahmin. \n",
   dhp418:
-    "418. Giving up discontent and desire,<br>they’re cooled and free of attachments;<br>a hero, master of the whole world:<br>that’s who I call a brahmin. <br>",
+    "418. Giving up discontent and desire,\nthey’re cooled and free of attachments;\na hero, master of the whole world:\nthat’s who I call a brahmin. \n",
   dhp419:
-    "419. They know the passing away<br>and rebirth of all beings;<br>unattached, holy, awakened: <br>that’s who I call a brahmin. <br>",
+    "419. They know the passing away\nand rebirth of all beings;\nunattached, holy, awakened: \nthat’s who I call a brahmin. \n",
   dhp420:
-    "420. Gods, fairies, and humans<br>don’t know their destiny;<br>the perfected ones with defilements ended:<br>that’s who I call a brahmin. <br>",
+    "420. Gods, fairies, and humans\ndon’t know their destiny;\nthe perfected ones with defilements ended:\nthat’s who I call a brahmin. \n",
   dhp421:
-    "421. They have nothing before or after,<br>or even in between.<br>Having nothing, taking nothing: <br>that’s who I call a brahmin. <br>",
+    "421. They have nothing before or after,\nor even in between.\nHaving nothing, taking nothing: \nthat’s who I call a brahmin. \n",
   dhp422:
-    "422. Leader of the herd, excellent hero,<br>great hermit and victor;<br>unstirred, washed, awakened: <br>that’s who I call a brahmin. <br>",
+    "422. Leader of the herd, excellent hero,\ngreat hermit and victor;\nunstirred, washed, awakened: \nthat’s who I call a brahmin. \n",
   dhp423:
-    "423. They know their past lives,<br>seeing heaven and places of loss,<br>and have attained the end of rebirth;<br>that sage who has perfect insight,<br>at the summit of spiritual perfection:<br>that’s who I call a brahmin. <br>",
+    "423. They know their past lives,\nseeing heaven and places of loss,\nand have attained the end of rebirth;\nthat sage who has perfect insight,\nat the summit of spiritual perfection:\nthat’s who I call a brahmin. \n",
   "ud1.1": "The Buddha, soon after awakening, contemplates specific conditionality and dependent co-arising.",
   "ud1.2": "The Buddha, soon after awakening, contemplates specific conditionality and dependent co-arising.",
   "ud1.3": "The Buddha, soon after awakening, contemplates specific conditionality and dependent co-arising.",

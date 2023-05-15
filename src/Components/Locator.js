@@ -9,7 +9,10 @@ import getSuttaTitleBlurb from "../functions/getSuttaTitleBlurb.js";
 import getSuttaTitle from "../functions/getSuttaTitle.js";
 import convertVatthus from "../functions/convertVatthus.js";
 
-tippy("[data-tippy-content]", { touch: ["hold", 1500] });
+tippy("[data-tippy-content]", {
+  touch: ["hold", 1500],
+  allowHTML: true,
+});
 
 function Locator(props) {
   let { location } = props;
