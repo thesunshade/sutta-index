@@ -60,9 +60,9 @@ function Locator(props) {
   return (
     <span>
       <Tippy
-        content={<div dangerouslySetInnerHTML={{ __html: getSuttaTitleBlurb(stripRangesFromUrls(location)) }} />}
+        content={<span dangerouslySetInnerHTML={{ __html: getSuttaTitleBlurb(stripRangesFromUrls(location)) }} />}
         allowHTML={false}
-        delay={500}
+        delay={300}
       >
         <a href={url} rel="noreferrer" target="_blank" className={justBook(location) + " locator"}>
           {addSpace(location)}

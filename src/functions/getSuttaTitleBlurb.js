@@ -66,7 +66,9 @@ export default function getSuttaTitleBlurb(citation) {
     title += `(${samuttaNames[samyutta]}) `;
   }
 
-  title += allSuttasPaliNameDictionary[citation] ? `<b><em>${allSuttasPaliNameDictionary[citation]}</em></b>` : "";
+  title += allSuttasPaliNameDictionary[citation]
+    ? `<span class="tip-name">${allSuttasPaliNameDictionary[citation]}</span>`
+    : "";
   if (allSuttasPaliNameDictionary[citation] && blurbs[citation.toLowerCase()]) {
     title += ": ";
   }

@@ -1008,3 +1008,7 @@ tr:nth-child(even) {
 .colored-locators .thig {
   background-color: var(--thig);
 }
+
+.tip-name {
+  font-weight: bold;
+}
