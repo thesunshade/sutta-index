@@ -411,6 +411,14 @@ export const indexObject ={
                     "xrefs": []
                }
           },
+          "acrobats": {
+               "simile for protecting oneself": {
+                    "locators": [
+                         "SN47.19"
+                    ],
+                    "xrefs": []
+               }
+          },
           "actions (kamma)": {
                "": {
                     "locators": [],
@@ -923,6 +931,46 @@ export const indexObject ={
                "rules for monk convicted of": {
                     "locators": [
                          "AN8.90"
+                    ],
+                    "xrefs": []
+               }
+          },
+          "aggregate of concentration (samādhikkhandha)": {
+               "not taken away by someone else’s death": {
+                    "locators": [
+                         "SN47.13"
+                    ],
+                    "xrefs": []
+               }
+          },
+          "aggregate of knowledge and vision of liberation (vimuttiñāṇadassanakkhandha)": {
+               "not taken away by someone else’s death": {
+                    "locators": [
+                         "SN47.13"
+                    ],
+                    "xrefs": []
+               }
+          },
+          "aggregate of liberation (vimuttikkhandha)": {
+               "not taken away by someone else’s death": {
+                    "locators": [
+                         "SN47.13"
+                    ],
+                    "xrefs": []
+               }
+          },
+          "aggregate of virtue (sīlakkhandha)": {
+               "not taken away by someone else’s death": {
+                    "locators": [
+                         "SN47.13"
+                    ],
+                    "xrefs": []
+               }
+          },
+          "aggregate of wisdom (paññākkhandha)": {
+               "not taken away by someone else’s death": {
+                    "locators": [
+                         "SN47.13"
                     ],
                     "xrefs": []
                }
@@ -1866,6 +1914,12 @@ export const indexObject ={
                "visits bhikkhunīs": {
                     "locators": [
                          "SN47.10"
+                    ],
+                    "xrefs": []
+               },
+               "grief at Ven. Sāriputta’s death": {
+                    "locators": [
+                         "SN47.13"
                     ],
                     "xrefs": []
                }
@@ -5266,7 +5320,7 @@ export const indexObject ={
                     "xrefs": []
                }
           },
-          "Bāhiya Dārucīriya, Ven.": {
+          "Bāhiya Dārucīriya": {
                "questions the Buddha": {
                     "locators": [
                          "Ud1.10"
@@ -5276,6 +5330,14 @@ export const indexObject ={
                "foremost with swift insight": {
                     "locators": [
                          "AN1.216"
+                    ],
+                    "xrefs": []
+               }
+          },
+          "Bāhiya, Ven": {
+               "asking for teaching in brief": {
+                    "locators": [
+                         "SN47.15"
                     ],
                     "xrefs": []
                }
@@ -5850,11 +5912,17 @@ export const indexObject ={
                     ]
                }
           },
-          "best things": {
-               "": {
+          "best": {
+               "four things": {
                     "locators": [
                          "AN4.74",
                          "AN4.75"
+                    ],
+                    "xrefs": []
+               },
+               "of best": {
+                    "locators": [
+                         "SN47.13"
                     ],
                     "xrefs": []
                }
@@ -5907,6 +5975,24 @@ export const indexObject ={
                "asks about the spiritual path": {
                     "locators": [
                          "SN45.19"
+                    ],
+                    "xrefs": []
+               },
+               "asks about wholesome virtue": {
+                    "locators": [
+                         "SN47.21"
+                    ],
+                    "xrefs": []
+               },
+               "asks why Dhamma lasts long": {
+                    "locators": [
+                         "SN47.22"
+                    ],
+                    "xrefs": []
+               },
+               "asks why Dhamma doesn’t last long": {
+                    "locators": [
+                         "SN47.23"
                     ],
                     "xrefs": []
                }
@@ -6960,6 +7046,12 @@ export const indexObject ={
                          "SN46.55"
                     ],
                     "xrefs": []
+               },
+               "of oil, carrying, simile for mindfulness": {
+                    "locators": [
+                         "SN47.20"
+                    ],
+                    "xrefs": []
                }
           },
           "boys": {
@@ -7352,6 +7444,7 @@ export const indexObject ={
                },
                "time after enlightenment": {
                     "locators": [
+                         "SN47.18",
                          "Ud1.1",
                          "Ud1.2",
                          "Ud1.3",
@@ -8504,6 +8597,12 @@ export const indexObject ={
                          "AN10.99"
                     ],
                     "xrefs": []
+               },
+               "simile for inferring Buddha’s knowledge": {
+                    "locators": [
+                         "SN47.12"
+                    ],
+                    "xrefs": []
                }
           },
           "cattle": {
@@ -9011,6 +9110,14 @@ export const indexObject ={
                     "xrefs": []
                }
           },
+          "chief disciples (sāvakayuga)": {
+               "past and future": {
+                    "locators": [
+                         "SN47.14"
+                    ],
+                    "xrefs": []
+               }
+          },
           "child arahants": {
                "": {
                     "locators": [
@@ -9110,6 +9217,12 @@ export const indexObject ={
                "simile for all who have attained enlightenment do so in certain way": {
                     "locators": [
                          "AN10.95"
+                    ],
+                    "xrefs": []
+               },
+               "simile for inferring Buddha’s knowledge": {
+                    "locators": [
+                         "SN47.12"
                     ],
                     "xrefs": []
                }
@@ -11486,6 +11599,12 @@ export const indexObject ={
                          "MN104"
                     ],
                     "xrefs": []
+               },
+               "reporting Ven. Sāriputta’s death": {
+                    "locators": [
+                         "SN47.13"
+                    ],
+                    "xrefs": []
                }
           },
           "Cundī, Princess": {
@@ -11774,6 +11893,12 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
+               "everything conditioned liable to wear out": {
+                    "locators": [
+                         "SN47.13"
+                    ],
+                    "xrefs": []
+               },
                "counter": 1
           },
           "death (maraṇa)": {
@@ -12039,7 +12164,8 @@ export const indexObject ={
                          "SN1.9",
                          "SN1.34",
                          "SN1.38",
-                         "SN4.24"
+                         "SN4.24",
+                         "SN47.16"
                     ],
                     "xrefs": []
                },
@@ -13248,6 +13374,7 @@ export const indexObject ={
                "in brief": {
                     "locators": [
                          "SN47.3",
+                         "SN47.15",
                          "AN4.257",
                          "AN8.53",
                          "AN8.63",
@@ -13378,6 +13505,8 @@ export const indexObject ={
                },
                "decline, factors leading to": {
                     "locators": [
+                         "SN47.23",
+                         "SN47.25",
                          "AN1.118-128",
                          "AN5.201",
                          "AN6.40",
@@ -13532,7 +13661,15 @@ export const indexObject ={
                },
                "as island": {
                     "locators": [
-                         "SN47.9"
+                         "SN47.9",
+                         "SN47.13"
+                    ],
+                    "xrefs": []
+               },
+               "reason it lasts long": {
+                    "locators": [
+                         "SN47.22",
+                         "SN47.25"
                     ],
                     "xrefs": []
                }
@@ -15875,6 +16012,15 @@ export const indexObject ={
                     ]
                }
           },
+          "doubt (kaṅkhā)": {
+               "a teaching to remove": {
+                    "locators": [
+                         "SN47.12"
+                    ],
+                    "xrefs": []
+               },
+               "counter": 1
+          },
           "doubt (vicikicchā)": {
                "": {
                     "locators": [
@@ -16012,7 +16158,8 @@ export const indexObject ={
                          "MN73"
                     ],
                     "xrefs": []
-               }
+               },
+               "counter": 2
           },
           "downfall (parābhava)": {
                "causes of": {
@@ -21667,13 +21814,15 @@ export const indexObject ={
                },
                "definition in brief": {
                     "locators": [
-                         "SN47.1"
+                         "SN47.1",
+                         "SN47.24"
                     ],
                     "xrefs": []
                },
                "virtue and right view as precursor": {
                     "locators": [
-                         "SN47.3"
+                         "SN47.3",
+                         "SN47.15"
                     ],
                     "xrefs": []
                },
@@ -21729,6 +21878,24 @@ export const indexObject ={
                "applied and sustained thought": {
                     "locators": [
                          "SN47.10"
+                    ],
+                    "xrefs": []
+               },
+               "protecting oneself": {
+                    "locators": [
+                         "SN47.19"
+                    ],
+                    "xrefs": []
+               },
+               "partly developed": {
+                    "locators": [
+                         "SN47.26"
+                    ],
+                    "xrefs": []
+               },
+               "completely developed": {
+                    "locators": [
+                         "SN47.27"
                     ],
                     "xrefs": []
                }
@@ -22510,6 +22677,12 @@ export const indexObject ={
                "simile for mindfulness": {
                     "locators": [
                          "AN7.67"
+                    ],
+                    "xrefs": []
+               },
+               "simile for inferring Buddha’s knowledge": {
+                    "locators": [
+                         "SN47.12"
                     ],
                     "xrefs": []
                }
@@ -25721,6 +25894,12 @@ export const indexObject ={
                "defined by Buddha": {
                     "locators": [
                          "AN4.35"
+                    ],
+                    "xrefs": []
+               },
+               "defined as one with a liberated mind": {
+                    "locators": [
+                         "SN47.11"
                     ],
                     "xrefs": []
                }
@@ -31090,7 +31269,14 @@ export const indexObject ={
                },
                "let the teaching be your": {
                     "locators": [
-                         "SN47.9"
+                         "SN47.9",
+                         "SN47.13"
+                    ],
+                    "xrefs": []
+               },
+               "those who live as their own are best of best": {
+                    "locators": [
+                         "SN47.13"
                     ],
                     "xrefs": []
                }
@@ -34033,6 +34219,20 @@ export const indexObject ={
                },
                "counter": 2
           },
+          "liberated in mind (vimuttacitta)": {
+               "": {
+                    "locators": [],
+                    "xrefs": [
+                         "xref well liberated in mind (suvimuttacitta)"
+                    ]
+               },
+               "definition": {
+                    "locators": [
+                         "SN47.11"
+                    ],
+                    "xrefs": []
+               }
+          },
           "liberation (vimokkha)": {
                "noble": {
                     "locators": [
@@ -36485,6 +36685,14 @@ export const indexObject ={
                     "xrefs": []
                }
           },
+          "Medakathālikā, acrobat": {
+               "protecting oneself": {
+                    "locators": [
+                         "SN47.19"
+                    ],
+                    "xrefs": []
+               }
+          },
           "meditation": {
                "": {
                     "locators": [],
@@ -38805,6 +39013,18 @@ export const indexObject ={
                          "MN67"
                     ],
                     "xrefs": []
+               },
+               "death of": {
+                    "locators": [
+                         "SN47.14"
+                    ],
+                    "xrefs": []
+               },
+               "like large branch of tree of heartwood": {
+                    "locators": [
+                         "SN47.14"
+                    ],
+                    "xrefs": []
                }
           },
           "Mogharājā, Ven.": {
@@ -39762,6 +39982,12 @@ export const indexObject ={
                "being in love with": {
                     "locators": [
                          "MN79"
+                    ],
+                    "xrefs": []
+               },
+               "distraction, simile for mindfulness": {
+                    "locators": [
+                         "SN47.20"
                     ],
                     "xrefs": []
                }
@@ -42311,6 +42537,7 @@ export const indexObject ={
                },
                "definition": {
                     "locators": [
+                         "SN47.27",
                          "AN10.111"
                     ],
                     "xrefs": []
@@ -46251,6 +46478,18 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
+               "protecting oneself": {
+                    "locators": [
+                         "SN47.19"
+                    ],
+                    "xrefs": []
+               },
+               "protecting others": {
+                    "locators": [
+                         "SN47.19"
+                    ],
+                    "xrefs": []
+               },
                "counter": 1
           },
           "protection (tāṇa)": {
@@ -48232,13 +48471,15 @@ export const indexObject ={
                },
                "live as your own": {
                     "locators": [
-                         "SN47.9"
+                         "SN47.9",
+                         "SN47.13"
                     ],
                     "xrefs": []
                },
                "teaching as": {
                     "locators": [
-                         "SN47.9"
+                         "SN47.9",
+                         "SN47.13"
                     ],
                     "xrefs": []
                }
@@ -50750,6 +50991,7 @@ export const indexObject ={
                },
                "agreeing with the Buddha": {
                     "locators": [
+                         "SN47.18",
                          "AN4.21"
                     ],
                     "xrefs": []
@@ -51534,6 +51776,32 @@ export const indexObject ={
                "about qualities of wilderness monk": {
                     "locators": [
                          "MN69"
+                    ],
+                    "xrefs": []
+               },
+               "Buddha’s direct knowledge is unsurpassed": {
+                    "locators": [
+                         "SN47.12"
+                    ],
+                    "xrefs": []
+               },
+               "death of": {
+                    "locators": [
+                         "SN47.13",
+                         "SN47.14"
+                    ],
+                    "xrefs": []
+               },
+               "praise of by Ven. Ānanda": {
+                    "locators": [
+                         "SN47.13"
+                    ],
+                    "xrefs": []
+               },
+               "like large branch of tree of heartwood": {
+                    "locators": [
+                         "SN47.13",
+                         "SN47.14"
                     ],
                     "xrefs": []
                }
@@ -54659,7 +54927,8 @@ export const indexObject ={
                },
                "starting point": {
                     "locators": [
-                         "SN47.3"
+                         "SN47.3",
+                         "SN47.15"
                     ],
                     "xrefs": []
                }
@@ -58763,6 +59032,7 @@ export const indexObject ={
                "definition": {
                     "locators": [
                          "SN45.13",
+                         "SN47.26",
                          "AN3.85"
                     ],
                     "xrefs": []
@@ -59217,6 +59487,12 @@ export const indexObject ={
                "simile for path to give up five lower fetters": {
                     "locators": [
                          "MN64"
+                    ],
+                    "xrefs": []
+               },
+               "branch of, simile for Ven. Sāriputta": {
+                    "locators": [
+                         "SN47.13"
                     ],
                     "xrefs": []
                }
@@ -61062,7 +61338,8 @@ export const indexObject ={
                },
                "straight (ujuka)": {
                     "locators": [
-                         "SN47.3"
+                         "SN47.3",
+                         "SN47.15"
                     ],
                     "xrefs": []
                }
@@ -61650,7 +61927,14 @@ export const indexObject ={
                },
                "starting point": {
                     "locators": [
-                         "SN47.3"
+                         "SN47.3",
+                         "SN47.15"
+                    ],
+                    "xrefs": []
+               },
+               "purpose of is developing foundations of mindfulness": {
+                    "locators": [
+                         "SN47.21"
                     ],
                     "xrefs": []
                }
@@ -62640,6 +62924,12 @@ export const indexObject ={
                          "AN10.20"
                     ],
                     "xrefs": []
+               },
+               "": {
+                    "locators": [],
+                    "xrefs": [
+                         "xref liberated in mind (vimuttacitta)"
+                    ]
                }
           },
           "well spoken (subhāsita)": {

@@ -5230,4 +5230,512 @@ export const blurbs = {
   pv49: "What happens when you earn money in bad ways?",
   pv50: "Ghosts discuss their past about not practicing generosity.",
   pv51: "Arahant Moggallana asks a ghost about his past evil actions.",
+  "thag1.1":
+    "My little hut is roofed and pleasant, sheltered from the wind: so rain, sky, if you wish! My mind is serene and freed, I practice wholeheartedly: so rain, sky!",
+  "thag1.2":
+    "Calm and quiet, thoughtful in counsel, and stable—he shakes off bad qualities as the wind shakes leaves off a tree.",
+  "thag1.3":
+    "See this wisdom of the Realized Ones! Like a fire blazing in the night, giving light, giving vision, they dispel the doubt of those who’ve come.",
+  "thag1.4":
+    "Associate only with the virtuous, the astute ones who see the goal. The wise ones, diligent and clear-seeing, realize the goal so great and profound, hard to see, subtle, and fine.",
+  "thag1.5":
+    "Once hard to tame, now tamed himself; clever, content, with doubt overcome; victorious since his fears have vanished: Dabba is steadfast, and has become extinguished.",
+  "thag1.6":
+    "The monk who went to Sītavana is solitary, content and serene, victorious, with goosebumps vanished, guarding mindfulness of the body, steadfast.",
+  "thag1.7":
+    "He has swept away the army of the King of Death, as a fragile bridge of reeds by a great flood. Victorious since his fears have vanished: tame and steadfast, he has become extinguished.",
+  "thag1.8":
+    "Once hard to tame, now tamed himself; a hero, content, with doubt overcome; victorious, with goosebumps vanished, Vīra is steadfast, and has become extinguished.",
+  "thag1.9":
+    "It was welcome, not unwelcome, the advice I got was good. Of the well-explained teachings, I arrived at the best.",
+  "thag1.10":
+    "A knowledge master, peaceful and self-controlled, is rid of concern for this world and the world beyond. Unsullied in the midst of all things, they’d know the arising and passing of the world.",
+  "thag1.11":
+    "A monk full of joy in the teaching proclaimed by the Buddha would realize the peaceful state, the blissful stilling of conditions.",
+  "thag1.12":
+    "Empowered by wisdom, with precepts and observances intact, serene, loving absorption, mindful, eating just the needed food, one should bide one’s time here, free of desire.",
+  "thag1.13":
+    "Glistening, they look like blue storm clouds, with waters cool and streams so clear, and covered all in ladybugs: these rocky crags delight me!",
+  "thag1.14":
+    "My mentor said to me: “Let’s leave here, Sīvaka.” My body lives in the village, but my mind has gone to the wilderness. I go there even when lying down—you can't snare those who know.",
+  "thag1.15":
+    "Five to cut, five to drop, and five more to develop. A monk who has got over five kinds of clinging is called “One who has crossed the flood”.",
+  "thag1.16":
+    "Just as a fine thoroughbred proceeds with ease, tail and mane flying in the wind; so my days and nights proceed with ease, full of spiritual joy.",
+  "thag1.17":
+    "One who gets drowsy from overeating, fond of sleep, rolling round the bed like a great hog stuffed with grain: that idiot is reborn again and again.",
+  "thag1.18":
+    "There was an heir of the Buddha, a monk in Bhesakaḷā forest, who suffused the entire earth with the perception of bones. I think he will quickly get rid of sensual desire.",
+  "thag1.19":
+    "Irrigators guide water, fletchers shape arrows, carpenters carve wood; those true to their vows tame themselves.",
+  "thag1.20": "I do not fear death; nor do I long for life. I’ll lay down this body, aware and mindful.",
+  "thag1.21":
+    "I’m not afraid of fear, for our teacher is expert in the deathless. Mendicants advance by the path where no fear remains.",
+  "thag1.22":
+    "Crested peacocks with beautiful blue necks cry out in Karaṁvī. Stirred by a cool breeze, they wake the sleeper to practice absorption.",
+  "thag1.23":
+    "I’ll eat honey and milk-rice in Veḷugumba. And then, skillfully scrutinizing the rise and fall of the aggregates, I’ll return to my forest hill and foster seclusion.",
+  "thag1.24":
+    "See the excellence of the teaching! Just one rainy season after I went forth, I attained the three knowledges and fulfilled the Buddha’s instructions.",
+  "thag1.25":
+    "Dark One, after attacking such a monk—one who has arrived at the fruit, and whose mind is always full of light—you’ll fall into suffering.",
+  "thag1.26":
+    "Having heard the fine words of the Buddha, the kinsman of the Sun, I penetrated the subtle truth, like a hair-tip with an arrow.",
+  "thag1.27": "With my chest I’ll thrust aside the grasses, vines, and creepers, and foster seclusion.",
+  "thag1.28":
+    "Aren’t you obsessed with clothes? Don’t you just love jewelry? Is it not you—and no-one else—who spreads the scent of virtue?",
+  "thag1.29":
+    "Straighten yourself, like a fletcher straightens an arrow. When your mind is upright, Hārita, break ignorance to bits!",
+  "thag1.30":
+    "When I was ill in the past, mindfulness arose in me. Now I am ill once more—it’s time for me to be heedful.",
+  "thag1.31":
+    "Pestered by flies and mosquitoes in the wilds, the formidable forest, one should mindfully endure, like an elephant at the head of the battle.",
+  "thag1.32":
+    "I’ll swap old age for the unaging, burning for extinguishment—the ultimate peace, the supreme sanctuary from the yoke.",
+  "thag1.33":
+    "Just as a mother would be good to her beloved and only son; so, to creatures all and everywhere, let one be good.",
+  "thag1.34":
+    "It's always better for a smart person to avoid sharing a seat with such women. I went from the village to the wilderness; from there I entered a house. Though I was there to be fed, I got up and left without taking leave.",
+  "thag1.35":
+    "Seeking happiness, they find it through this practice. They get a good reputation and grow in fame, those who develop the direct route: the noble eightfold path to realize the deathless.",
+  "thag1.36":
+    "Learning is good, living well is good, the homeless life is always good. Questions on the meaning, actions that are skillful: this is the ascetic life for one who has nothing.",
+  "thag1.37":
+    "Some travel to different countries, wandering undisciplined. If they lose their meditation, what will such rotten conduct achieve? So you should dispel pride, practicing absorption undistracted.",
+  "thag1.38":
+    "His psychic power made the river Sarabhu stand still; Gavampati is unbound and unperturbed. The gods bow to that great sage, who has gone beyond all clinging, and gone beyond rebirth.",
+  "thag1.39":
+    "Like they’re struck by a sword, like their head was on fire, a mendicant should wander mindful to give up sensual desire.",
+  "thag1.40":
+    "Like they’re struck by a sword, like their head was on fire, a mendicant should wander mindful, to give up desire for rebirth.",
+  "thag1.41":
+    "Lightning flashes down on the cleft of Vebhāra and Paṇḍava. But in the mountain cleft he is absorbed in jhāna—the son of the Buddha, inimitable and poised.",
+  "thag1.42": "Cāla, Upacāla, and Sīsupacāla meditate mindfully! I’ve come to you like a hair-splitter.",
+  "thag1.43":
+    "Well freed! Well freed! I’m very well freed from three crooked things: my sickles, my ploughs, and my little hoes. Even if they were here, right here—I’d be done with them, done! Practice absorption Sumaṅgala! Practice absorption Sumaṅgala! Stay heedful, Sumaṅgala!",
+  "thag1.44":
+    "Mum, they weep for the dead, or for one who’s alive but has disappeared. I’m alive and you can see me, so mum, why do you weep for me?",
+  "thag1.45":
+    "Though a fine thoroughbred may stumble, it soon stands firm again. Even so is one accomplished in vision, a disciple of the Buddha.",
+  "thag1.46":
+    "I went forth out of faith from the lay life to homelessness. My mindfulness and wisdom have grown, my mind is serene. Make whatever illusions you want, it doesn’t bother me.",
+  "thag1.47":
+    "Homage to you, O Buddha, O hero, freed in every way! Meditating in the fruits of your practice, I live without defilements.",
+  "thag1.48":
+    "Since I went forth from the lay life to homelessness, I’ve not been aware of any thought that is ignoble and hateful.",
+  "thag1.49":
+    "Even with all the sounds, the chirping and cheeping of the birds, my mind doesn’t waver, for I’m devoted to oneness.",
+  "thag1.50":
+    "The rain falls and the wind blows on mother earth, while lightning flashes across the sky! But my thoughts are stilled, my mind is serene.",
+  "thag1.51":
+    "The sky rains down, like a beautiful song. My little hut is roofed and pleasant, sheltered from the wind. My mind is serene: so rain, sky, if you wish.",
+  "thag1.52":
+    "The sky rains down, like a beautiful song. My little hut is roofed and pleasant, sheltered from the wind. My mind is immersed in my body: so rain, sky, if you wish.",
+  "thag1.53":
+    "The sky rains down, like a beautiful song. My little hut is roofed and pleasant, sheltered from the wind. I meditate there, diligent: so rain, sky, if you wish.",
+  "thag1.54":
+    "The sky rains down, like a beautiful song. My little hut is roofed and pleasant, sheltered from the wind. I dwell there without a partner: so rain, sky, if you wish.",
+  "thag1.55":
+    "I plunged into the Añjana forest and made a little hut to live in. I’ve attained the three knowledges and fulfilled the Buddha’s instructions.",
+  "thag1.56":
+    "“Who is in this little hut?” “A monk is in this little hut, free of lust, his mind serene. My friend, you should know this: your little hut wasn’t built in vain.”",
+  "thag1.57":
+    "This was your old hut, but you still want a new hut. Let go of hope for a hut, monk! A new hut will only bring more suffering.",
+  "thag1.58":
+    "My little hut is pleasing, delightful, a gift given in faith. I’ve no need of girls: go, ladies, to those in need!",
+  "thag1.59":
+    "I went forth out of faith and built a little hut in the wilderness. I’m heedful, ardent, aware, and mindful.",
+  "thag1.60":
+    "My wishes—the purpose I had for entering this hut—came true. Abandoning the tendency to conceit, I’ll realize knowledge and liberation.",
+  "thag1.61": "One who sees sees those who see and those who don’t. One who doesn’t see sees neither.",
+  "thag1.62":
+    "We dwell alone in the wilderness, like a log rejected in a forest. Lots of people are jealous of me, as beings in hell are of one going to heaven.",
+  "thag1.63":
+    "They fall, collapsed and fallen; greedy, they return. The work is done, the joyful is enjoyed, happiness is found through happiness.",
+  "thag1.64":
+    "I arose from the one named after a tree; I was born of the one whose banner shines. The banner killer has destroyed the great banner, by means of the banner itself.",
+  "thag1.65":
+    "Vaccha has tossed away what he built over many years. Sitting comfortably, uplifted with joy, he teaches this to householders.",
+  "thag1.66":
+    "He counseled me, the great hero, the one who has gone beyond all things. When I heard his teaching I stayed close by him, mindful. I’ve attained the three knowledges and fulfilled the Buddha’s instructions.",
+  "thag1.67":
+    "My defilements have been burnt away by practicing absorption—rebirth into all states of existence is eradicated, transmigration through births is finished, now there’ll be no more future lives.",
+  "thag1.68":
+    "A sage of higher consciousness, diligent, training in the ways of sagacity: there are no sorrows for such a one, calm and ever mindful.",
+  "thag1.69":
+    "Hearing the sweet Dhamma taught by the master of universal understanding and superior knowledge, I’ve entered the path to realize the deathless—he is the expert on the road to sanctuary from the yoke.",
+  "thag1.70":
+    "Ethical conduct is best in this life, but one with wisdom is supreme. Someone with both virtue and wisdom is victorious among men and gods.",
+  "thag1.71":
+    "For one who sees the meaning so very subtle and fine; who is skilled in thought and humble in manner; who has cultivated mature ethics, it’s not hard to gain extinguishment.",
+  "thag1.72":
+    "A young bamboo is hard to extract when the point is grown and become all woody. That’s how I feel with the wife who was arranged for me. Give me permission—now I’ve gone forth.",
+  "thag1.73":
+    "Seeing an old person, and one suffering from disease, and a corpse come to the end of life, I went forth, becoming a wanderer, and giving up the pleasures of the senses.",
+  "thag1.74":
+    "Sensual desire, ill will, dullness and drowsiness, restlessness, and doubt are not found in a monk at all.",
+  "thag1.75":
+    "Good is the sight of those who’ve practiced well: doubt is cut off and intelligence grows—even a fool grows wise! That’s why it’s good to meet good people.",
+  "thag1.76":
+    "Settle down when others spring up; spring up when others settle down. Remain when others have departed; don’t delight when others delight.",
+  "thag1.77":
+    "In the past my mind wandered how it wished, where it liked, as it pleased. Now I’ll carefully guide it, as a trainer with a hook guides a rutting elephant.",
+  "thag1.78":
+    "Transmigrating through countless rebirths, I’ve journeyed without reward. I’ve suffered, but now the mass of suffering has fallen away.",
+  "thag1.79": "All my lust is given up, all my hate is eradicated, all my delusion is gone: I’m cooled, extinguished.",
+  "thag1.80":
+    "Any deeds I have done, a little or a lot, are all completely exhausted: now there are no more future lives.",
+  "thag1.81": "Any bad things I’ve done in previous lives, are to be experienced right here, not in any other place.",
+  "thag1.82":
+    "Go, child, to any place where there’s plenty of food, where it’s safe and free of peril—may you not be overcome by sorrow!",
+  "thag1.83":
+    "Meditate diligently, Sīha, tireless all day and night. Develop skillful qualities, and quickly discard this bag of bones.",
+  "thag1.84": "Sleeping all night, happily socializing by day, when will the fool make an end of suffering?",
+  "thag1.85":
+    "Skilled in the patterns of the mind, understanding the nectar of seclusion, practicing absorption, alert, mindful: such a person would realize spiritual happiness.",
+  "thag1.86":
+    "Elsewhere there are many other doctrines; those paths don’t lead to quenching like this one does. For the Buddha himself instructs the Saṅgha; the Teacher shows the palms of his hands.",
+  "thag1.87":
+    "The aggregates are seen as they truly are; all rebirths are shattered; transmigration through births is finished; now there are no more future lives.",
+  "thag1.88":
+    "I was able to lift myself up from the water to the shore. While being swept away by the great flood, I penetrated the truths.",
+  "thag1.89":
+    "I’ve crossed the bogs, I’ve avoided the cliffs, I’m freed from floods and ties, and I've wiped out all conceit.",
+  "thag1.90":
+    "The five aggregates are fully understood; they remain, but their root is cut. Transmigration through births is finished, now there’ll be no more future lives.",
+  "thag1.91":
+    "What I consumed today is considered better than delicious grain of a hundred flavors—the Dhamma taught by the Buddha, Gotama of infinite vision.",
+  "thag1.92":
+    "One whose defilements have ended; who’s not attached to food; whose resort is the liberation of the signless and the empty: their track is hard to trace, like birds in the sky.",
+  "thag1.93":
+    "Sensual pleasures are suffering, Eraka! Sensual pleasures aren’t happiness, Eraka! One who enjoys sensual pleasures enjoys suffering, Eraka! One who doesn’t enjoy sensual pleasures doesn’t enjoy suffering, Eraka!",
+  "thag1.94":
+    "Homage to that Blessed One, the glorious Sakyan! Having reached the best, he beautifully taught the best teaching.",
+  "thag1.95":
+    "I’m blind, my eyes are ruined, I’m traveling a desolate road. Even if I have to crawl I’ll keep going—though not with wicked companions.",
+  "thag1.96":
+    "I offered a single flower and then amused myself in heavens for 800 million years; with what’s left over I’ve become quenched.",
+  "thag1.97":
+    "Giving up a valuable bronze bowl, and a precious golden one, too, I took a bowl made of clay: this is my second initiation.",
+  "thag1.98":
+    "When you see a sight, mindfulness is lost as attention latches on a pleasant feature. Experiencing it with a mind full of desire, you keep clinging to it. Your defilements grow, leading to the root of rebirth.",
+  "thag1.99":
+    "When you hear a sound, mindfulness is lost as attention latches on a pleasant feature. Experiencing it with a mind full of desire, you keep clinging to it. Your defilements grow, leading to transmigration.",
+  "thag1.100":
+    "Accomplished in the four right efforts, mindfulness meditation is your territory; festooned with the flowers of liberation, undefiled, you’ll be fully extinguished.",
+  "thag1.101":
+    "He’s given up the household life, but he has no purpose. Living for his belly, lazy, he uses his snout as a plow, like a great hog stuffed with grain. That idiot is reborn again and again.",
+  "thag1.102": "Deceived by conceit, defiled among conditions, oppressed by gain and loss, they don’t reach immersion.",
+  "thag1.103":
+    "I have no need of this—I’m happy and satisfied with the sweet teaching. I’ve drunk the best, the supreme nectar: I won’t go near poison.",
+  "thag1.104":
+    "Hey! My body is light, full of so much rapture and happiness. My body feels like it’s floating, like cotton in the wind.",
+  "thag1.105":
+    "Dissatisfied, one should not stay; and even if happy, one should depart. One who sees clearly wouldn’t stay in a place that was not conducive to the goal.",
+  "thag1.106":
+    "Though the meaning has a hundred facets, and bears a hundred characteristics, the fool sees only one factor, while the sage sees a hundred.",
+  "thag1.107":
+    "After investigating, I went forth from the lay life to homelessness. I’ve attained the three knowledges and fulfilled the Buddha’s instructions.",
+  "thag1.108":
+    "At 120 years old I went forth to homelessness. I’ve attained the three knowledges and fulfilled the Buddha’s instructions.",
+  "thag1.109":
+    "Even on retreat he doesn’t heed the counsel of the one with supreme compassion for his welfare. He lives with unrestrained faculties, like a young deer in the woods.",
+  "thag1.110":
+    "The trees on the mountain-tops have grown tall, freshly sprinkled by towering clouds. For Usabha, who loves seclusion, and who thinks only of wilderness, goodness flourishes more and more.",
+  "thag1.111":
+    "Going forth is hard; living at home is hard; Dhamma is profound; money is hard to come by. Getting by is difficult for we who accept whatever comes, so we should always think about impermanence.",
+  "thag1.112":
+    "I am a master of the three knowledges, I’m a great meditator, an expert in serenity of heart. I’ve realized my own true goal and fulfilled the Buddha’s instructions.",
+  "thag1.113":
+    "The water’s clear and the rocks are broad, monkeys and deer are all around; festooned with dewy moss, these rocky crags delight me!",
+  "thag1.114":
+    "Your body is uncomfortably heavy, and life is running out; greedy for physical pleasure, how can you find happiness as an ascetic?",
+  "thag1.115": "By Mount Nesādaka, with its famous covering of abundant shrubs and trees, you’re found deficient.",
+  "thag1.116":
+    "I’ve given up the six spheres of sense-contact, my sense doors are guarded and well restrained; I’ve ejected the root of misery and attained the ending of defilements.",
+  "thag1.117":
+    "I’m well-anointed and well-dressed, adorned with all my jewellery. I’ve attained the three knowledges and fulfilled the Buddha’s instructions.",
+  "thag1.118":
+    "Old age falls like a curse; it’s the same body, but it seems like someone else’s. I remember myself as if I were someone else, but I’m still the same, I haven’t been away.",
+  "thag1.119":
+    "You’ve left for the jungle, the root of a tree, with quenching in your heart. Practice absorption, Gotama, don’t be negligent! What is this hullabaloo to you?",
+  "thag1.120":
+    "The five aggregates are fully understood, they remain, but their root is cut. I have reached the end of suffering and attained the ending of defilements.",
+  "thag2.1":
+    "No life is permanent, and no conditions last forever. The aggregates are reborn and pass away, again and again.…",
+  "thag2.2":
+    "You can’t live by fasting, but food doesn’t lead to peace of heart. Seeing how this bag of bones is sustained by food, I wander, seeking.…",
+  "thag2.3":
+    "A monkey went up to the little hut with five doors. He circles around, knocking on each door, again and again.…",
+  "thag2.4":
+    "My hut on the bank of the Ganges is made from three palm leaves. My alms-bowl is a funeral pot, my robe is cast-off rags.…",
+  "thag2.5":
+    "Even a master of the three knowledges, undefiled, conqueror of death, is looked down upon for being unknown by ignorant fools.…",
+  "thag2.6":
+    "When I heard the Teacher speaking Dhamma, I wasn’t aware of any doubt in the all-knowing, unconquered one,…",
+  "thag2.7": "Just as rain seeps into a poorly roofed house, lust seeps into an undeveloped mind.…",
+  "thag2.8":
+    "Rebirth is ended for me; the victor’s instruction is fulfilled; what they call a “net” is given up; the conduit to rebirth is eradicated.…",
+  "thag2.9":
+    "Sages sleep at ease when they’re not bound to women. For the truth is hard to find among them and one must always be guarded.…",
+  "thag2.10":
+    "First one kills oneself, then one kills others. One kills oneself, really dead, like one who kills birds using a dead bird as a decoy.…",
+  "thag2.11":
+    "It’s from eagerness to learn that learning grows; when you’re learned, wisdom grows; by wisdom, you know the goal; knowing the goal brings happiness.…",
+  "thag2.12":
+    "People who act harshly—attacking people, tying them up, hurting them in all kinds of ways—they’re treated in the same way; their deeds don’t vanish.…",
+  "thag2.13":
+    "The days and nights rush by, and then life is cut short. The life of mortals wastes away, like the water in tiny streams.…",
+  "thag2.14":
+    "If you’re lost in the middle of a great sea, and you clamber up on a little log, you’ll sink. So too, a person who lives well sinks by relying on a lazy person. Hence you should avoid such a lazy person who lacks energy.…",
+  "thag2.15":
+    "People are attached to people; people depend on people; people are hurt by people; and people hurt people.…",
+  "thag2.16":
+    "There’s a big black woman who looks like a crow. She broke off thigh-bones, first one then another; she broke off arm-bones, first one then another; she broke off a skull like a curd-bowl, and then arranged them and sat nearby.…",
+  "thag2.17":
+    "A shaven one wrapped in the outer robe gets many enemies when they receive food and drink, clothes and bedding.…",
+  "thag2.18":
+    "In Pācīnavaṁsa grove the companions of the Sakyans, having given up great wealth, are happy with the scraps in their bowls.…",
+  "thag2.19":
+    "Because of focusing on the wrong things, I was addicted to ornamentation. I was vain, fickle, racked by desire for pleasures of the senses.…",
+  "thag2.20": "If others praise one who has no immersion, they praise in vain, as one has no immersion.…",
+  "thag2.21":
+    "I’ve fully understood the aggregates; I’ve eradicated craving; I’ve developed the factors of awakening, I’ve attained the ending of defilements.…",
+  "thag2.22":
+    "There was a king named Panāda who had a sacrificial post all golden. Its height was sixteen times its width, and the top was a thousand-fold.…",
+  "thag2.23":
+    "As a monk, mindful and wise, empowered and full of energy, I recollected five hundred eons in a single night.Developing the four mindfulness meditations, the seven factors of awakening, and the eightfold path, I recollected five hundred eons in a single night.…",
+  "thag2.24":
+    "The duty of one whose energy is strong; the duty of one who longs to wake up: that I’ll do, I won’t fail—see my energy and vigor!…",
+  "thag2.25": "The barber approached to shave my head. I picked up a mirror and examined my body.…",
+  "thag2.26":
+    "I gave up the five hindrances for the sake of finding sanctuary from the yoke. I took Dhamma as a mirror for knowing and seeing myself.…",
+  "thag2.27":
+    "Though a fine thoroughbred may stumble, it soon stands firm again. It gains even more urgency, and draws its load undeterred.…",
+  "thag2.28": "Come, Nandaka, let’s go to visit our preceptor. We’ll roar our lion’s roar before the best of Buddhas.…",
+  "thag2.29":
+    "This is how the wise roar: like lions in mountain caves, heroes, triumphant in battle, having vanquished Māra and his mount.…",
+  "thag2.30":
+    "I regularly sat close by good people and learnt the teaching. What I learned, I practiced, the direct route that culminates in the deathless.…",
+  "thag2.31":
+    "When I had gone forth in the teaching of the Buddha, while letting go, I rose up; escaping the sensual realm.…",
+  "thag2.32":
+    "Houses are impermanent—on and on, life after life. I’ve been searching for the house-builder—painful is birth again and again.…",
+  "thag2.33":
+    "The perfected one, the Holy One in the world, the sage is afflicted by winds. If there’s hot water, give it to the sage, brahmin.…",
+  "thag2.34":
+    "I’ve seen lay disciples who have memorized discourses, saying, “Sensual pleasures are impermanent”. But they’re obsessed with jeweled earrings, concerned for their partners and children.…",
+  "thag2.35":
+    "The sky rains, the sky thunders down, I’m staying alone in a frightful hole. But while I’m staying alone in that frightful hole, I’ve no fear, no dread, no goosebumps.…",
+  "thag2.36":
+    "Whose mind is like a rock, steady, never trembling—free of desire for desirable things, not getting annoyed when things are annoying? From where will suffering strike one whose mind is developed like this?…",
+  "thag2.37":
+    "Night, with her garland of stars, is not only for sleeping. For those who know, this night is really for waking.…",
+  "thag2.38":
+    "One who’s given up the five sensual titillations, so pleasing and delightful, and who’s left the home life out of faith—let them make an end to suffering!…",
+  "thag2.39":
+    "Arranging a robe over my shoulder, the color of young mango sprouts, I entered the village for alms sitting on an elephant’s neck!…",
+  "thag2.40":
+    "This fellow, “Rag-rice”, he sure is a rag! Into the vase of the deathless, polished and overflowing, sufficient teaching has been poured; the path to build up absorptions has been laid out.…",
+  "thag2.41":
+    "Oh, the Buddhas! Oh, the Dhammas! Oh, the accomplishments of the Teacher! Here a disciple may realize such a teaching for themselves.…",
+  "thag2.42":
+    "The young monk who is devoted to the teaching of the Buddha, wakeful while others sleep—his life is not in vain.…",
+  "thag2.43":
+    "Whose faculties have become serene, like horses tamed by a charioteer? With conceit and defilements given up, who is such as envied by even the gods?…",
+  "thag2.44":
+    "“Your skin is nasty but your heart is good; Mogharājā, you’re always immersed in samādhi. But in the nights of winter, so dark and cold, how will you get by, monk?”…",
+  "thag2.45":
+    "One should not suspend others from the Saṅgha, nor raise objections against them; and neither disparage nor raise one’s voice against one who has crossed to the further shore. One should not praise oneself among the assemblies, but be stable, measured in speech, and true to your vows.…",
+  "thag2.46":
+    "The peacocks cry out with their fair crests and tails, their lovely blue necks and fair faces, their beautiful song and their call. This broad earth is lush with grass and dew, and the sky is full of beautiful clouds.…",
+  "thag2.47":
+    "The conceited mind, addicted to pleasure, impales itself on its own stake. It always goes where there’s a stake, a chopping block.…",
+  "thag2.48":
+    "Transmigrating for such a long time, I’ve proceeded through various states of rebirth, not seeing the noble truths, a blind, unenlightened person.…",
+  "thag2.49":
+    "Beneath the Bodhi Tree, bright green and growing, being mindful, my perception became one with the Buddha.…",
+  "thag3.1":
+    "Seeking purity the wrong way, I served the sacred fire in a grove. Not knowing the path to purity, I mortified my flesh in search of immortality.…",
+  "thag3.2":
+    "I went forth five days ago, a trainee, my heart’s desire unfulfilled. I entered my dwelling and resolved in my heart:…",
+  "thag3.3":
+    "Whoever wishes to do afterwards what they should have done before has lost the causes for happiness, and afterwards they’re tormented by regrets.…",
+  "thag3.4":
+    "If you wish to live in happiness, longing for the ascetic life, don’t look down on the Saṅgha’s robes, or its food and drinks.…",
+  "thag3.5":
+    "“It’s too cold, too hot, too late,” they say. When the young neglect their work like this, opportunities pass them by.…",
+  "thag3.6":
+    "“One of those monks who live in Pāṭaliputta—such brilliant speakers, and very learned—stands at the door: the old man, Khujjasobhita.…",
+  "thag3.7": "Anyone among men who harms other creatures: that person will fall both from this world and the next.…",
+  "thag3.8":
+    "I was the only one in my family who had faith and wisdom. It’s good for my relatives that I’m firm in principle, and ethical.…",
+  "thag3.9": "“With knobbly knees, thin and veiny, eating and drinking but little—this person’s spirit is undaunted.”…",
+  "thag3.10": "In the past you had faith, today you have none. What’s yours is yours alone—I’ve done nothing wrong.…",
+  "thag3.11":
+    "One newly gone forth, who has left their home out of faith, should mix with spiritual friends, who are tireless and pure of livelihood.…",
+  "thag3.12":
+    "I was, indeed, an astute scholar, competent to think on the meaning. The five kinds of sensual stimulation in the world, so delusory, were my downfall.…",
+  "thag3.13":
+    "Listen up, all my relatives, those who have gathered here: I’ll teach you Dhamma! Painful is birth again and again.…",
+  "thag3.14":
+    "Transmigrating, I went to hell, and to the ghost realm time and again. Many times I dwelt long in the animal realm, so full of pain.…",
+  "thag3.15":
+    "Whoever wishes to do afterwards what they should have done before has lost the causes for happiness, and afterwards they’re tormented by regrets.…",
+  "thag3.16":
+    "Shunning bad friends, associate with the best of people. Stick to the advice he gave you, aspiring to unshakable happiness.…",
+  "thag4.1":
+    "Adorned with jewelry and all dressed up, with garlands, and sandalwood makeup piled on, along the main street is a lady—a dancer dancing as the music plays.…",
+  "thag4.2":
+    "Overwhelmed by drowsiness, I left my dwelling. Stepping up to the path for walking meditation, I fell to the ground right there.…",
+  "thag4.3":
+    "Others don’t understand that we need restraint in this. But those who do understand this, being clever, settle their conflicts.…",
+  "thag4.4":
+    "Damn you mortal frame, you stink! You’re on Māra’s side, you ooze! O body, you have nine streams that are flowing all the time.…",
+  "thag4.5": "For fifty-five years I wore dust and dirt. Eating one meal a month, I tore out my hair and beard.…",
+  "thag4.6":
+    "It was so welcome for me during the Gayā spring festival to see the Awakened One teaching the supreme Dhamma.…",
+  "thag4.7":
+    "Hurrying when it’s time to dawdle; dawdling when it’s time to hurry; being so disorganized a fool falls into suffering.…",
+  "thag4.8":
+    "I am known as “Fortunate Rāhula”, because I’m accomplished in both ways: I am the son of the Buddha, and I am seer of truths.…",
+  "thag4.9":
+    "Covered over with gold, surrounded by all her maids, with my son upon her hip, my wife came to me.I saw her coming, the mother of my son, adorned with jewelry and all dressed up, like a snare of death…",
+  "thag4.10":
+    "“Dhamma surely protects one who practices Dhamma; the teaching brings happiness when practiced well. This is the benefit of practicing Dhamma: one doesn’t go to a bad destination.…",
+  "thag4.11":
+    "When the crane with its beautiful white wings, startled by fear of the dark thundercloud, flees, seeking shelter—then the River Ajakaraṇī delights me.…",
+  "thag4.12":
+    "I went forth to save my life. But I embraced faith after receiving full ordination. I strove, strong in effort:…",
+  "thag5.1":
+    "I, a monk, went to a charnel ground and saw a woman’s body abandoned there, discarded in a cemetery, full of worms that devoured.…",
+  "thag5.2":
+    "When a person, wishing for a certain outcome, applies themselves where they ought not; not achieving what they worked for, they say: “That’s a sign of my bad luck.”…",
+  "thag5.3":
+    "The sky rains down, like a beautiful song; my little hut is roofed and pleasant, sheltered from the wind; I meditate there, peaceful: so rain, sky, if you wish.…",
+  "thag5.4":
+    "My mentor helped me to learn, hoping I would practice those teachings. Aspiring to the deathless, I’ve done what had to be done.…",
+  "thag5.5":
+    "Oh so well was the goad shown to me by my mother, on hearing whose words, advised by my mother, energetic and resolute, I realized supreme awakening.…",
+  "thag5.6":
+    "It was truly for my benefit that the Buddha went to the river Nerañjara. When I heard his teaching, I shunned wrong view.…",
+  "thag5.7":
+    "Three times a day—morning, midday, and evening—I plunged into the water at Gayā for the Gayā spring festival.…",
+  "thag5.8":
+    "“Struck by a wind ailment while dwelling in a forest grove, you’ve entered a tough place for gathering alms—how will you get by, monk?”…",
+  "thag5.9":
+    "I’ll cage you, mind, like an elephant in a stockade. Born of the flesh, that net of the senses, I won’t urge you to do bad.…",
+  "thag5.10":
+    "With fault-finding mind, the dullard listens to the victor’s instruction. They’re as far from the true teaching as the earth is from the sky.…",
+  "thag5.11":
+    "I’ve received ordination; I am liberated, without defilements; I’ve seen the Blessed One myself, and even stayed together with him.…",
+  "thag5.12":
+    "Whatever wise one, understanding their teacher’s words, stays with them, their fondness growing; that astute person is indeed devoted—knowing the teachings, they’re distinguished.…",
+  "thag6.1":
+    "Seeing the demonstrations of the renowned Gotama was not enough for me to bow to him—I was blinded by jealousy and conceit.…",
+  "thag6.2":
+    "“The rice has been harvested and gathered on the threshing-floor—but I don’t get any almsfood! How will I get by?”…",
+  "thag6.3":
+    "Whoever has no respect for their spiritual companions falls away from the true teaching, like a fish in a little puddle.…",
+  "thag6.4":
+    "I, Kulla, went to a charnel ground and saw a woman’s body abandoned there, discarded in a cemetery, full of worms that devoured.…",
+  "thag6.5":
+    "When a person lives heedlessly, craving grows in them like a parasitic creeper. They jump from life to life, like a monkey greedy for fruit in a forest grove.…",
+  "thag6.6":
+    "In the twenty-five years since I went forth, I have not found peace of mind, even as long as a finger-snap.…",
+  "thag6.7":
+    "Get up, Kātiyāna, and sit! Don’t sleep too much, be wakeful. Don’t be lazy and let the kinsman of the negligent, the King of Death, catch you in his trap.…",
+  "thag6.8":
+    "It was well-taught by the seer, the Buddha, kinsman of the Sun, who has transcended all fetters, and destroyed all rolling-on.…",
+  "thag6.9":
+    "I was drunk with the pride of birth and wealth and authority. I wandered about intoxicated with my own gorgeous body.…",
+  "thag6.10":
+    "I was only seven years old and had just gone forth when I overcame the mighty serpent king with my psychic powers.…",
+  "thag6.11":
+    "“Struck by a wind ailment while dwelling in a forest grove, you’ve entered a tough place for gathering alms—how will you get by, monk?”…",
+  "thag6.12":
+    "From where would anger come for one free of anger, tamed, living justly, freed by right knowledge, peaceful and poised?…",
+  "thag6.13":
+    "The rain saturates things that are covered up; it doesn’t saturate things that are open. Therefore you should open up a covered thing, so the rain will not saturate it.…",
+  "thag6.14":
+    "This two-legged body is dirty and stinking, full of different carcasses, and oozing all over the place—but still it is cherished!…",
+  "thag7.1":
+    "Adorned with jewelry and all dressed up, with her garland and her makeup on, and her feet so brightly rouged: the courtesan was wearing sandals.…",
+  "thag7.2":
+    "Bhaddiya has plucked out craving, root and all, and in a jungle thicket on the far side of the Wild Mango Monastery, he practices absorption; he is truly well-favoured.…",
+  "thag7.3":
+    "I was an only child, loved by my mother and father. They had me by practicing many prayers and observances.…",
+  "thag7.4":
+    "I saw the supreme person walking mindfully in the shade of the terrace, so I approached, and bowed to the supreme among men.…",
+  "thag7.5":
+    "I broke the reeds off with my hands, made a hut, and stayed there. That’s how I became known as “Reed-breaker”.…",
+  "thag8.1":
+    "Don’t get involved in lots of work, avoid people, and don’t try to acquire things. If you’re eager and greedy for flavors, you’ll miss the goal that brings such happiness.…",
+  "thag8.2":
+    "Free of anger and hostility, free of deceit, and rid of slander; that’s how such a mendicant doesn’t grieve after passing away.…",
+  "thag8.3":
+    "When I first saw the Teacher who fears nothing from any quarter, I was struck with a sense of urgency, seeing the supreme among men.…",
+  "thag9.1":
+    "When an astute person knows, “Old age and death are suffering; yet an ignorant ordinary person is bound to them”, completely understanding suffering, being mindful, practicing absorption: there is no greater pleasure than this.…",
+  "thag10.1":
+    "“The trees are now crimson, venerable sir, they’ve shed their foliage, and are ready to fruit. They’re splendid, as if aflame; great hero, this season is full of flavor.…",
+  "thag10.2":
+    "If no-one else is found in front or behind, it’s extremely pleasant to be dwelling alone in a forest grove.…",
+  "thag10.3":
+    "If you’re prepared for the future, both the good and the bad, then those who look for your weakness, whether enemies or well-wishers, will find none.…",
+  "thag10.4":
+    "My progress was slow, I was despised in the past. Even my brother turned me away, saying, “Go home now.”…",
+  "thag10.5":
+    "Filled with different kinds of dirt, a great producer of dung, like a stagnant cesspool, a huge boil, a bad wound,…",
+  "thag10.6":
+    "In order to go on retreat, a monk should stay in lodgings that are secluded and quiet, frequented by beasts of prey.…",
+  "thag10.7":
+    "You should understand your own purpose, and consider the dispensation carefully, as well as what’s appropriate for one who has entered the ascetic life.…",
+  "thag11.1":
+    "“What good does it do you to be in the grove, my dear? You’re like a little bird in the rain! The city of Verambhā is nice for you—seclusion is for meditators.”…",
+  "thag12.1":
+    "One should train just in ethical conduct, for in this world, when ethical conduct is cultivated and well-trained, it provides all success.…",
+  "thag12.2":
+    "I was born in a low-class family. We were poor, with little to eat. My job was lowly—I threw out the old flowers.…",
+  "thag13.1":
+    "He who was special in the kingdom, the footman to the king of Aṅga, today is special in the Dhamma—Soṇa has gone beyond suffering.…",
+  "thag14.1":
+    "Since I’ve gone forth from the lay life to homelessness, I’m not aware of any intention that is ignoble and hateful.…",
+  "thag14.2":
+    "Just as a fine thoroughbred, yoked to a carriage, endures the load. Though oppressed by the heavy burden, it doesn’t shake off the yoke.…",
+  "thag15.1":
+    "“My confidence grew as I heard the teaching, so full of flavor. Dispassion is what was taught, without any grasping at all.”…",
+  "thag15.2":
+    "Awakened as a human being, self-tamed and immersed in samādhi, following the spiritual path, he loves peace of mind.…",
+  "thag16.1":
+    "“Those who we killed in the past, whether for sacrifice or for wealth, without exception were afraid; they trembled and they squealed.…",
+  "thag16.2": "This thought came to the ascetic, the monk Pārāpariya, as he was seated alone meditating in seclusion:…",
+  "thag16.3":
+    "For a long time, sadly, though I keenly contemplated the teaching, I gained no peace of mind. So I asked this of ascetics and brahmins:…",
+  "thag16.4": "“See this fancy puppet, a body built of sores, diseased, obsessed over, in which nothing lasts at all.…",
+  "thag16.5":
+    "When you see a sight, mindfulness is lost as attention latches on a pleasant feature. Experiencing it with a mind full of desire, you keep clinging to it.…",
+  "thag16.6":
+    "“O Blessed One, your body’s perfect, you’re radiant, handsome, lovely to behold; golden colored, with teeth so white; you’re strong.…",
+  "thag16.7": "I rode on an elephant’s neck, wearing luxurious clothes. I ate rice congee with pure meat sauce.…",
+  "thag16.8":
+    "“While walking, ascetic, you say ‘I’ve stopped.’ And I have stopped, but you tell me I’ve not. I’m asking you this, ascetic: how is it you’ve stopped and I have not?”…",
+  "thag16.9":
+    "Leaving my mother and father behind, as well as sisters, kinsmen, and brothers; having given up the five sensual titillations, Anuruddha practices absorption.…",
+  "thag16.10":
+    "This thought came to the ascetic in the forest full of flowers, as he was seated alone meditating in seclusion:…",
+  "thag17.1":
+    "Seeing many who inspire confidence, evolved and well-restrained, the seer of the Paṇḍara clan, asked the one known as Phussa:…",
+  "thag17.2":
+    "“One who’s mindful as per their conduct and mindfulness, diligent as per their intentions and meditation, happy inside, serene, solitary, contented: that is what they call a mendicant.…",
+  "thag17.3":
+    "“The astute would not make friends with the slanderous or the hateful, with a miser or a gloater, for it’s bad to consort with sinners.…",
+  "thag18.1":
+    "“You shouldn’t live for the adulation of a following; it turns your mind, making it hard to get immersion. Seeing that popularity is suffering, you shouldn’t consent to a following.…",
+  "thag19.1":
+    "Oh, when will I stay in a mountain cave, alone, with no companion, discerning all states of existence as impermanent? This hope of mine, when will it be?…",
+  "thag20.1":
+    "“Living in the wilderness, eating only almsfood, happy with the scraps in our bowls, let us tear apart the army of death, while remaining serene within.…",
+  "thag21.1":
+    "“Now that I’ve gone forth from the lay life to homelessness, I’m overrun by the rude thoughts of the Dark One.…",
 };

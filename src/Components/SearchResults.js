@@ -56,7 +56,7 @@ export default function SearchResults(props) {
           })}
           {!hasResults ? (
             <span>
-              No results. Try <span className="keys">Ctrl + f</span> for a browser search.
+              ❌ No results. Try <span className="keys">Ctrl + f</span> for a browser search.
               <br />
               Or send us a report so we know what is missing:{" "}
               <a
