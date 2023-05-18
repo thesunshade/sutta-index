@@ -2516,6 +2516,12 @@ export const indexObject ={
                          "MN68"
                     ],
                     "xrefs": []
+               },
+               "great direct knowledge": {
+                    "locators": [
+                         "SN47.28"
+                    ],
+                    "xrefs": []
                }
           },
           "anxiety (paritassana)": {
@@ -4020,6 +4026,12 @@ export const indexObject ={
                "during meditation": {
                     "locators": [
                          "AN11.8"
+                    ],
+                    "xrefs": []
+               },
+               "origin of phenomenon": {
+                    "locators": [
+                         "SN47.42"
                     ],
                     "xrefs": []
                }
@@ -6811,6 +6823,21 @@ export const indexObject ={
                },
                "counter": 1
           },
+          "body (kāya)": {
+               "complete understanding of": {
+                    "locators": [
+                         "SN47.38"
+                    ],
+                    "xrefs": []
+               },
+               "origin is nutriment": {
+                    "locators": [
+                         "SN47.42"
+                    ],
+                    "xrefs": []
+               },
+               "counter": 2
+          },
           "body (sarīra)": {
                "soul and": {
                     "locators": [
@@ -6819,7 +6846,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "counter": 2
+               "counter": 3
           },
           "body parts": {
                "elements and": {
@@ -7445,6 +7472,7 @@ export const indexObject ={
                "time after enlightenment": {
                     "locators": [
                          "SN47.18",
+                         "SN47.43",
                          "Ud1.1",
                          "Ud1.2",
                          "Ud1.3",
@@ -8141,6 +8169,12 @@ export const indexObject ={
                "eighty years old": {
                     "locators": [
                          "SN47.9"
+                    ],
+                    "xrefs": []
+               },
+               "discoverer of foundations of mindfulness": {
+                    "locators": [
+                         "SN47.31"
                     ],
                     "xrefs": []
                }
@@ -10568,6 +10602,12 @@ export const indexObject ={
                          "AN10.58"
                     ],
                     "xrefs": []
+               },
+               "origin of feelings": {
+                    "locators": [
+                         "SN47.42"
+                    ],
+                    "xrefs": []
                }
           },
           "contemptuousness (paḷāsa)": {
@@ -12383,6 +12423,12 @@ export const indexObject ={
                          "SN45.7"
                     ],
                     "xrefs": []
+               },
+               "don’t let it escape you": {
+                    "locators": [
+                         "SN47.41"
+                    ],
+                    "xrefs": []
                }
           },
           "debates": {
@@ -13044,6 +13090,18 @@ export const indexObject ={
                          "SN45.11"
                     ],
                     "xrefs": []
+               },
+               "foundations of mindfulness to give up": {
+                    "locators": [
+                         "SN47.37"
+                    ],
+                    "xrefs": []
+               },
+               "given up realizes the deathless": {
+                    "locators": [
+                         "SN47.37"
+                    ],
+                    "xrefs": []
                }
           },
           "destinations (gati)": {
@@ -13348,6 +13406,7 @@ export const indexObject ={
                          "xref Dhamma teachers",
                          "xref Dhamma teaching",
                          "xref follower of the teachings (dhammānusārī)",
+                         "xref phenomena (dhamma)",
                          "xref recollection of Dhamma (dhammānussati)"
                     ]
                },
@@ -14872,6 +14931,12 @@ export const indexObject ={
                "to give up ignorance and craving for continued existence": {
                     "locators": [
                          "SN45.159"
+                    ],
+                    "xrefs": []
+               },
+               "developing great": {
+                    "locators": [
+                         "SN47.28"
                     ],
                     "xrefs": []
                }
@@ -19653,6 +19718,12 @@ export const indexObject ={
                          "SN46.17"
                     ],
                     "xrefs": []
+               },
+               "foundations of mindfulness": {
+                    "locators": [
+                         "SN47.34"
+                    ],
+                    "xrefs": []
                }
           },
           "farming": {
@@ -20002,6 +20073,7 @@ export const indexObject ={
                },
                "complete understanding of": {
                     "locators": [
+                         "SN47.38",
                          "AN10.29"
                     ],
                     "xrefs": []
@@ -20057,6 +20129,12 @@ export const indexObject ={
                "disillusioned with leads to enlightenment": {
                     "locators": [
                          "MN74"
+                    ],
+                    "xrefs": []
+               },
+               "origin is contact": {
+                    "locators": [
+                         "SN47.42"
                     ],
                     "xrefs": []
                }
@@ -21006,6 +21084,7 @@ export const indexObject ={
                          "xref almsfood",
                          "xref eating",
                          "xref eating in moderation",
+                         "xref nutriment (āhāra)",
                          "xref perception of repulsiveness of food (āhāre paṭikūlasañña)"
                     ]
                },
@@ -21846,7 +21925,8 @@ export const indexObject ={
                },
                "heap of the skillful": {
                     "locators": [
-                         "SN47.5"
+                         "SN47.5",
+                         "SN47.45"
                     ],
                     "xrefs": []
                },
@@ -21896,6 +21976,37 @@ export const indexObject ={
                "completely developed": {
                     "locators": [
                          "SN47.27"
+                    ],
+                    "xrefs": []
+               },
+               "practiced by lay people": {
+                    "locators": [
+                         "SN47.29",
+                         "SN47.30"
+                    ],
+                    "xrefs": []
+               },
+               "sickness and": {
+                    "locators": [
+                         "SN47.30"
+                    ],
+                    "xrefs": []
+               },
+               "going from near shore to far": {
+                    "locators": [
+                         "SN47.34"
+                    ],
+                    "xrefs": []
+               },
+               "nibbāna in present life": {
+                    "locators": [
+                         "SN47.36"
+                    ],
+                    "xrefs": []
+               },
+               "non-returning": {
+                    "locators": [
+                         "SN47.36"
                     ],
                     "xrefs": []
                }
@@ -33676,6 +33787,13 @@ export const indexObject ={
                          "MN73"
                     ],
                     "xrefs": []
+               },
+               "practicing foundations of mindfulness": {
+                    "locators": [
+                         "SN47.29",
+                         "SN47.30"
+                    ],
+                    "xrefs": []
                }
           },
           "laziness (ālasya, anuṭṭhāna)": {
@@ -36304,6 +36422,14 @@ export const indexObject ={
                     "xrefs": []
                }
           },
+          "Mānadinna, householder": {
+               "declared to be non-returner": {
+                    "locators": [
+                         "SN47.30"
+                    ],
+                    "xrefs": []
+               }
+          },
           "mangos": {
                "simile for people": {
                     "locators": [
@@ -38023,6 +38149,18 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
+               "complete understanding of": {
+                    "locators": [
+                         "SN47.38"
+                    ],
+                    "xrefs": []
+               },
+               "origin is name and form": {
+                    "locators": [
+                         "SN47.42"
+                    ],
+                    "xrefs": []
+               },
                "counter": 2
           },
           "mind reading": {
@@ -38180,6 +38318,7 @@ export const indexObject ={
                "definition": {
                     "locators": [
                          "SN47.2",
+                         "SN47.35",
                          "AN7.4"
                     ],
                     "xrefs": []
@@ -40236,6 +40375,12 @@ export const indexObject ={
                          "AN10.27"
                     ],
                     "xrefs": []
+               },
+               "origin of mind": {
+                    "locators": [
+                         "SN47.42"
+                    ],
+                    "xrefs": []
                }
           },
           "“Namo tassa bhagavato…”": {
@@ -40362,6 +40507,12 @@ export const indexObject ={
                "going from to far shore like filling up good qualities": {
                     "locators": [
                          "AN11.2"
+                    ],
+                    "xrefs": []
+               },
+               "foundations of mindfulness": {
+                    "locators": [
+                         "SN47.34"
                     ],
                     "xrefs": []
                }
@@ -40501,6 +40652,7 @@ export const indexObject ={
                },
                "in the present life": {
                     "locators": [
+                         "SN47.36",
                          "AN4.179"
                     ],
                     "xrefs": []
@@ -41713,6 +41865,8 @@ export const indexObject ={
                "examples of": {
                     "locators": [
                          "MN140",
+                         "SN47.29",
+                         "SN47.30",
                          "AN8.21",
                          "AN8.22"
                     ],
@@ -41980,6 +42134,20 @@ export const indexObject ={
                "caring for baby like Buddha caring for new monastics": {
                     "locators": [
                          "AN5.7"
+                    ],
+                    "xrefs": []
+               }
+          },
+          "nutriment (āhāra)": {
+               "": {
+                    "locators": [],
+                    "xrefs": [
+                         "xref food"
+                    ]
+               },
+               "origin of the body": {
+                    "locators": [
+                         "SN47.42"
                     ],
                     "xrefs": []
                }
@@ -45013,6 +45181,26 @@ export const indexObject ={
                     "xrefs": []
                }
           },
+          "phenomena (dhamma)": {
+               "complete understanding of": {
+                    "locators": [
+                         "SN47.38"
+                    ],
+                    "xrefs": []
+               },
+               "": {
+                    "locators": [],
+                    "xrefs": [
+                         "xref Dhamma"
+                    ]
+               },
+               "origin is attention": {
+                    "locators": [
+                         "SN47.42"
+                    ],
+                    "xrefs": []
+               }
+          },
           "phrasing (byañjana)": {
                "disputes over": {
                     "locators": [
@@ -46225,6 +46413,12 @@ export const indexObject ={
                          "AN10.59"
                     ],
                     "xrefs": []
+               },
+               "foundations of mindfulness to attain nibbāna in": {
+                    "locators": [
+                         "SN47.36"
+                    ],
+                    "xrefs": []
                }
           },
           "presumption (sārambhā)": {
@@ -46248,6 +46442,14 @@ export const indexObject ={
                     "locators": [],
                     "xrefs": [
                          "xref arrogance"
+                    ]
+               }
+          },
+          "principles (dhamma)": {
+               "": {
+                    "locators": [],
+                    "xrefs": [
+                         "xref phenomena (dhamma)"
                     ]
                }
           },
@@ -49134,6 +49336,12 @@ export const indexObject ={
                          "AN9.12"
                     ],
                     "xrefs": []
+               },
+               "non-return": {
+                    "locators": [
+                         "SN47.36"
+                    ],
+                    "xrefs": []
                }
           },
           "resolution": {
@@ -50992,6 +51200,7 @@ export const indexObject ={
                "agreeing with the Buddha": {
                     "locators": [
                          "SN47.18",
+                         "SN47.43",
                          "AN4.21"
                     ],
                     "xrefs": []
@@ -54445,6 +54654,12 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
+               "practicing foundations of mindfulness": {
+                    "locators": [
+                         "SN47.30"
+                    ],
+                    "xrefs": []
+               },
                "counter": 1
           },
           "sickness (roga)": {
@@ -54740,6 +54955,14 @@ export const indexObject ={
                     "xrefs": []
                }
           },
+          "Sirivaḍḍha, householder": {
+               "declared to be non-returner": {
+                    "locators": [
+                         "SN47.29"
+                    ],
+                    "xrefs": []
+               }
+          },
           "situational awareness (sampajañña)": {
                "": {
                     "locators": [],
@@ -54809,7 +55032,8 @@ export const indexObject ={
                },
                "definition": {
                     "locators": [
-                         "SN47.2"
+                         "SN47.2",
+                         "SN47.35"
                     ],
                     "xrefs": []
                }

@@ -52251,6 +52251,11 @@ export const indexArray =[
      ],
      [
           "SN47.13",
+          "death (maraṇa)",
+          "reaction to hearing about"
+     ],
+     [
+          "SN47.13",
           "Dhamma",
           "as island"
      ],
@@ -52258,11 +52263,6 @@ export const indexArray =[
           "SN47.13",
           "best",
           "of best"
-     ],
-     [
-          "SN47.13",
-          "death (maraṇa)",
-          "reaction to hearing about"
      ],
      [
           "SN47.13",
@@ -52483,6 +52483,211 @@ export const indexArray =[
           "SN47.27",
           "one beyond training (asekha)",
           "definition"
+     ],
+     [
+          "SN47.28",
+          "Anuruddha, Ven.",
+          "great direct knowledge"
+     ],
+     [
+          "SN47.28",
+          "direct knowledges (abhiññā)",
+          "developing great"
+     ],
+     [
+          "SN47.29",
+          "foundations of mindfulness, four (satipaṭṭhāna)",
+          "practiced by lay people"
+     ],
+     [
+          "SN47.29",
+          "laypeople",
+          "practicing foundations of mindfulness"
+     ],
+     [
+          "SN47.29",
+          "non-returner (anāgāmi)",
+          "examples of"
+     ],
+     [
+          "SN47.29",
+          "Sirivaḍḍha, householder ",
+          "declared to be non-returner"
+     ],
+     [
+          "SN47.30",
+          "foundations of mindfulness, four (satipaṭṭhāna)",
+          "practiced by lay people"
+     ],
+     [
+          "SN47.30",
+          "foundations of mindfulness, four (satipaṭṭhāna)",
+          "sickness and"
+     ],
+     [
+          "SN47.30",
+          "laypeople",
+          "practicing foundations of mindfulness"
+     ],
+     [
+          "SN47.30",
+          "Mānadinna, householder",
+          "declared to be non-returner"
+     ],
+     [
+          "SN47.30",
+          "non-returner (anāgāmi)",
+          "examples of"
+     ],
+     [
+          "SN47.30",
+          "sickness",
+          "practicing foundations of mindfulness"
+     ],
+     [
+          "SN47.31",
+          "Buddha, the",
+          "discoverer of foundations of mindfulness"
+     ],
+     [
+          "SN47.34",
+          "far shore (pārima)",
+          "foundations of mindfulness"
+     ],
+     [
+          "SN47.34",
+          "foundations of mindfulness, four (satipaṭṭhāna)",
+          "going from near shore to far"
+     ],
+     [
+          "SN47.34",
+          "near shore (orima)",
+          "foundations of mindfulness"
+     ],
+     [
+          "SN47.35",
+          "mindfulness (sati)",
+          "definition"
+     ],
+     [
+          "SN47.35",
+          "situational awareness (sampajañña)",
+          "definition"
+     ],
+     [
+          "SN47.36",
+          "foundations of mindfulness, four (satipaṭṭhāna)",
+          "nibbāna in present life"
+     ],
+     [
+          "SN47.36",
+          "foundations of mindfulness, four (satipaṭṭhāna)",
+          "non-returning"
+     ],
+     [
+          "SN47.36",
+          "nibbāna",
+          "in the present life"
+     ],
+     [
+          "SN47.36",
+          "present life",
+          "foundations of mindfulness to attain nibbāna in"
+     ],
+     [
+          "SN47.36",
+          "residue remaining, with (saupādisesa)",
+          "non-return"
+     ],
+     [
+          "SN47.37",
+          "desire (chanda)",
+          "foundations of mindfulness to give up"
+     ],
+     [
+          "SN47.37",
+          "desire (chanda)",
+          "given up realizes the deathless"
+     ],
+     [
+          "SN47.38",
+          "body (kāya)",
+          "complete understanding of"
+     ],
+     [
+          "SN47.38",
+          "feelings (vedanā)",
+          "complete understanding of"
+     ],
+     [
+          "SN47.38",
+          "mind (citta)",
+          "complete understanding of"
+     ],
+     [
+          "SN47.38",
+          "phenomena (dhamma)",
+          "complete understanding of"
+     ],
+     [
+          "SN47.41",
+          "deathless (amata)",
+          "don’t let it escape you"
+     ],
+     [
+          "SN47.42",
+          "attention (manasikāra)",
+          "origin of phenomenon"
+     ],
+     [
+          "SN47.42",
+          "body (kāya)",
+          "origin is nutriment"
+     ],
+     [
+          "SN47.42",
+          "contact (phassa)",
+          "origin of feelings"
+     ],
+     [
+          "SN47.42",
+          "feelings (vedanā)",
+          "origin is contact"
+     ],
+     [
+          "SN47.42",
+          "mind (citta)",
+          "origin is name and form"
+     ],
+     [
+          "SN47.42",
+          "name and form (nāma rūpa)",
+          "origin of mind"
+     ],
+     [
+          "SN47.42",
+          "nutriment (āhāra)",
+          "origin of the body"
+     ],
+     [
+          "SN47.42",
+          "phenomena (dhamma)",
+          "origin is attention"
+     ],
+     [
+          "SN47.43",
+          "Buddha, the",
+          "time after enlightenment"
+     ],
+     [
+          "SN47.43",
+          "Sahampati, Brahmā",
+          "agreeing with the Buddha"
+     ],
+     [
+          "SN47.45",
+          "foundations of mindfulness, four (satipaṭṭhāna)",
+          "heap of the skillful"
      ],
      [
           "SN55.6",
