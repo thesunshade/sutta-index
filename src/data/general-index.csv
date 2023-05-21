@@ -20,7 +20,7 @@ Dhamma teaching		xref Dhamma teachers
 giving up		xref abandoning (pajahati, pahāna)
 fear (bhaya)		xref perils (bhaya)
 perils (bhaya)		xref fear (bhaya)
-guilt		xref self reproach (attānuvāda)
+guilt		xref self-reproach (attānuvāda)
 sharks		xref gharials
 loving-kindness (mettā)		xref brahmaviharas
 meditation		xref brahmaviharas
@@ -63,7 +63,7 @@ knowledge of passing away and rebirth of beings (cutūpapātañāna)		xref divin
 divine eye (dibbacakkhu)		xref knowledge of passing away and rebirth of beings (cutūpapātañāna)
 companionship		xref association
 ascetic practices (dhutaṅga)		xref mortification (tapojigucchā)
-self mortification (attantapo)		xref mortification (tapojigucchā)
+self-mortification (attantapo)		xref mortification (tapojigucchā)
 austerity practices		xref mortification (tapojigucchā)
 purification		xref mortification (tapojigucchā)
 causes (nidāna)		xref wholesome roots (alobha, adosa, amoha)
@@ -136,6 +136,13 @@ dibbacakkhu 		xref divine eye (dibbacakkhu)
 nissaraṇa 		xref escape (nissaraṇa) 
 pāpa 		xref evil (pāpa)
 indriya 		xref faculties (indriya)
+indriya 		xref faculties, spiritual (indriya)
+faculties, sense (indriya)		xref faculties, spiritual (indriya)
+faculties, spiritual (indriya)		xref faculties, sense (indriya)
+faculties, spiritual (indriya)		xref faculties (indriya)
+faculties (indriya)		xref faculties, spiritual (indriya)
+faculties (indriya)		xref faculties, sense (indriya)
+indriya 		xref faculties, sense (indriya)
 saddhā 		xref faith (saddhā) 
 saṁyojana 		xref fetters (saṁyojana)
 cāga 		xref generosity (cāga) 
@@ -209,14 +216,14 @@ Bodhisatta		xref Buddha, the
 foundations of mindfulness, four (satipaṭṭhāna)		xref bodhipakkhiyā dhammā
 right effort (sammā vāyāma)		xref bodhipakkhiyā dhammā
 bases of psychic power (iddhipāda)		xref bodhipakkhiyā dhammā
-faculties (indriya)		xref bodhipakkhiyā dhammā
+faculties, spiritual (indriya)		xref bodhipakkhiyā dhammā
 powers (bala)		xref bodhipakkhiyā dhammā
 awakening factors, seven (bojjhaṅga)		xref bodhipakkhiyā dhammā
 noble eightfold path (ariya aṭṭhangika magga)		xref bodhipakkhiyā dhammā
 bodhipakkhiyā dhammā		xref foundations of mindfulness, four (satipaṭṭhāna)
 bodhipakkhiyā dhammā		xref right effort (sammā vāyāma)
 bodhipakkhiyā dhammā		xref bases of psychic power (iddhipāda)
-bodhipakkhiyā dhammā		xref faculties (indriya)
+bodhipakkhiyā dhammā		xref faculties, spiritual (indriya)
 bodhipakkhiyā dhammā		xref powers (bala)
 bodhipakkhiyā dhammā		xref awakening factors, seven (bojjhaṅga)
 bodhipakkhiyā dhammā		xref noble eightfold path (ariya aṭṭhangika magga)
@@ -251,7 +258,7 @@ thoughts of malice (byāpādasaṅkappa)		xref intention of ill will (byāpādas
 thoughts of cruelty (vihiṁsāsaṅkappa)		xref intention of cruelty (vihiṁsāsaṅkappa)
 perceptions of sensuality (kāmasaññā)		xref perception of sensual desire (kāmasaññā)
 perceptions malice (byāpādasaññā)		xref perception of ill will (byāpādasaññā)
-perceptions of cruelty  (vihiṁsāsaññā)		xref perception of cruelty (vihiṁsāsaññā)
+perceptions of cruelty (vihiṁsāsaññā)		xref perception of cruelty (vihiṁsāsaññā)
 thoughts of renunciation (nekkhammasaṅkappa)		xref intention of renunciation (nekkhammasaṅkappa)
 thoughts of non-ill will (abyāpādasaṅkappa)		xref intention of non-ill will (abyāpādasaṅkappa)
 thoughts of non-cruelty (avihiṁsāsaṅkappa)		xref intention of non-cruelty (avihiṁsāsaṅkappa)
@@ -300,8 +307,8 @@ wrong view (micchā diṭṭhi)		xref wrong views
 unattractiveness		xref ugliness
 unskillful qualities (akusala dhamma)		xref unskillfulness (akusala)
 unskillfulness (akusala)		xref unskillful qualities (akusala dhamma)
-self reflection		xref self reproach (attānuvāda)
-self reproach (attānuvāda)		xref self reflection
+self-reflection		xref self-reproach (attānuvāda)
+self-reproach (attānuvāda)		xref self-reflection
 sexual activity		xref sexual intercourse
 sexual intercourse		xref sexual activity
 stinginess (maccharī)		xref generosity (cāga)
@@ -362,7 +369,7 @@ lay life		xref fetters of lay life (gihisaṁyojana)
 feelings (vedanā)		xref pleasant feelings (sukhavedanā)
 feelings (vedanā)		xref painful feelings (dukkhavedanā)
 feelings (vedanā)		xref neutral feelings (adukkhamasukhaṁ vedanā)
-Dhamma		xref follower of the teachings (dhammānusārī) 
+Dhamma		xref Dhamma follower (dhammānusārī)
 degree of faith and love (saddhāmatta pemamatta)		xref measure of faith and love (saddhāmatta pemamatta)
 listening to Dhamma		xref listening attentively (ohitasota)
 listening attentively (ohitasota)		xref listening to Dhamma
@@ -626,14 +633,14 @@ work		xref wrong livelihood (micchā ājīva)
 work		xref livelihood
 gentleman (kulaputta)		xref son of good family (kulaputta)
 eggs		xref chickens
-self-knowledge (attaññū)		xref self reflection
-self reflection		xref self-knowledge (attaññū)
+self-knowledge (attaññū)		xref self-reflection
+self-reflection		xref self-knowledge (attaññū)
 celibacy		xref sexual intercourse
 sexual intercourse		xref celibacy
 higher ethics		xref virtue, higher (adhisīla)
 higher virtue		xref virtue, higher (adhisīla)
 faith follower		xref follower by faith (saddhānusārī)
-Dhamma follower (dhammānusārī)		xref follower of the teachings (dhammānusārī) 
+follower of the teachings (dhammānusārī)		xref Dhamma follower (dhammānusārī)
 sympathetic joy		xref rejoicing (mudita)
 friends, good		xref friends, bad
 friends, bad		xref friends, good
@@ -669,7 +676,7 @@ lending an ear (ohitasota)		xref listening attentively (ohitasota)
 wanderers of other sects (aññatitthiya paribbājaka)		xref followers of other paths (aññatitthiyā)
 followers of other paths (aññatitthiyā)		xref wanderers of other sects (aññatitthiya paribbājaka)
 Dhamma speaker (dhammakathika)		xref Dhamma teachers
-dimensions of mastery  (abhibhāyatana)		xref bases of overcoming (abhibhāyatana)
+dimensions of mastery (abhibhāyatana)		xref bases of overcoming (abhibhāyatana)
 good friends		xref spiritual friends (kalyāṇamitta)
 exhortation		xref advice (ovada)
 false accusations		xref accusations
@@ -768,10 +775,10 @@ going forth (pabbajja)		xref ordination (upasampada)
 worry (kukkucca)		xref remorse (kukkucca)
 higher mind (adhicitta)		xref mind, higher (adhicitta)
 higher wisdom (adhipaññā)		xref wisdom, higher (adhipaññā)
-reviewing (paccavekkhaṇā)		xref self reflection
-reflection (paṭisaṅkhā)		xref self reflection
-self reflection		xref reviewing (paccavekkhaṇā)
-self reflection		xref reflection (paṭisaṅkhā)
+reviewing (paccavekkhaṇā)		xref self-reflection
+reflection (paṭisaṅkhā)		xref self-reflection
+self-reflection		xref reviewing (paccavekkhaṇā)
+self-reflection		xref reflection (paṭisaṅkhā)
 bad qualities (asaddhamma)		xref untrue teachings (asaddhamma)
 untrue teachings (asaddhamma)		xref bad qualities (asaddhamma)
 unwholesome chain of causality		xref wholesome chain of causality
@@ -1092,10 +1099,10 @@ Māra	attacking like wind and mountain	Dhp8
 mountains	simile for Māra attacking	Dhp8
 robes	not worthy of	Dhp9
 robes	worthy of	Dhp10
-domain (gocarā)		Dhp11
-domain (gocarā)		Dhp12
-essential/inessential		Dhp11
-essential/inessential		Dhp12
+domain (gocarā)	wrong thoughts	Dhp11
+domain (gocarā)	right thoughts	Dhp12
+essential/inessential (sāra/asāra)	knowing	Dhp11
+essential/inessential (sāra/asāra)	knowing	Dhp12
 lust (rāga)	undeveloped mind	Dhp13
 lust (rāga)	like rain and roof	Dhp13
 rain	roof, simile for lust	Dhp13
@@ -1117,9 +1124,9 @@ recitation	like cowherd watching others crops	Dhp19
 cowherd	simile for reciting and not practicing	Dhp19
 practicing	without recitation	Dhp20
 death (maraṇa)	heedlessness as cause	Dhp21
-deathless (amata)		Dhp21
-heedfulness (appamāda)		Dhp21
-heedlessness (pamāda)		Dhp21
+deathless (amata)	heedfulness	Dhp21
+heedfulness (appamāda)	deathless	Dhp21
+heedlessness (pamāda)	death	Dhp21
 heedfulness (appamāda)	rejoicing in	Dhp22
 reputation	how reputation grows	Dhp24
 heedfulness (appamāda)	like island	Dhp25
@@ -1128,7 +1135,7 @@ heedfulness (appamāda)	as best treasure	Dhp26
 heedfulness (appamāda)		CUSTOM:Dhp:Dhammapada Chapter 2:suttacentral.net/dhp21-32/en/sujato
 heedfulness (appamāda)	simile of mountain-top	Dhp28
 heedfulness (appamāda)	simile of swift horse	Dhp29
-Sakka, Lord of Gods		Dhp31
+Sakka, Lord of Gods	reason for rebirth as	Dhp30
 heedfulness (appamāda)	as always praised	Dhp30
 heedfulness (appamāda)	simile of fire	Dhp31
 heedlessness (pamāda)	seeing fear in	Dhp31
@@ -1150,8 +1157,10 @@ mind	trained better than family	Dhp43
 body	simile of foam	Dhp46
 death (maraṇa)	simile of flood	Dhp47
 alms gathering practice	simile of bee and flower	Dhp49
-fault-finding		Dhp50
-self examination		Dhp50
+fault-finding		xref judging
+judging		xref fault-finding
+fault-finding	don’t find fault with others	Dhp50
+self-reflection	only watch yourself	Dhp50
 beautiful words without practicing	like flower without fragrance	Dhp51
 beautiful words beneficial for the one who practices	like flower with frangrance	Dhp52
 good actions	simile of garland maker	Dhp53
@@ -1165,7 +1174,8 @@ fools (bāla)	long in saṁsara	Dhp60
 fools (bāla)	don’t associate with	Dhp61
 solitude	better than association with fools	Dhp61
 possessions	not our own	Dhp62
-self knowledge		Dhp63
+self-knowledge	know if you are a fool	Dhp63
+self-knowledge		xref self-reflection
 association	with wise	Dhp64
 association	with wise	Dhp65
 fools (bāla)	own worst enemy	Dhp66
@@ -1177,23 +1187,30 @@ fools (bāla)	seeking power	Dhp73
 fools (bāla)	seeking power	Dhp74
 honor	non-delight in	Dhp75
 friendship	showing faults	Dhp76
-friendship		Dhp78
+friends, bad	don’t have	Dhp78
+friends, good	have	Dhp78
 Dhamma	rejoicing in	Dhp79
-sleep		Dhp79
-self taming		Dhp80
-self taming	simile of arrow maker	Dhp80
-self taming	simile of irrigator	Dhp80
-self taming	simile of carpenter	Dhp80
+sleep	sleeping well	Dhp79
+self-taming	wise tame themselves	Dhp80
+self-taming	like arrow maker	Dhp80
+self-taming	like irrigator	Dhp80
+self-taming	like carpenter	Dhp80
+arrowsmith	simile for self-taming	Dhp80
+irrigators	simile for self-taming	Dhp80
+carpenters	simile for self-taming	Dhp80
 wise people	simile of lake	Dhp82
-sadness and happiness		Dhp83
+worldly conditions	not affected by	Dhp83
 nibbāna	attained by few	Dhp85
 Dhamma	well explained	Dhp86
-renunciation (nekkhamma)		Dhp87
-renunciation (nekkhamma)		Dhp88
+renunciation	delight in	Dhp87
+renunciation	delight in	Dhp88
 mindful people	like swan leaving home	Dhp91
 renunciation (nekkhamma)	like swan leaving home	Dhp91
+birds		xref swans
+swans	simile for renunciation	Dhp91
 arahants	like path of bird is hard to trace	Dhp92
-storing up things		Dhp92
+storing up things	arahants	Dhp92
+domain (gocarā)	liberation	Dhp92
 arahants	like path of bird is hard to trace	Dhp93
 arahants	envied by gods	Dhp94
 arahants	like clear lake	Dhp95
@@ -1204,8 +1221,8 @@ arahants	residence of	Dhp99
 listening to Dhamma	small amount	Dhp100
 listening to Dhamma	small amount	Dhp101
 listening to Dhamma	small amount	Dhp102
-self taming	better than conquering others	Dhp103
-self taming	no one can conquer	Dhp104
+self-taming	better than conquering others	Dhp103
+self-taming	no one can conquer	Dhp104
 honor	to the worthy	Dhp106
 honor	to the worthy	Dhp107
 honor	to the worthy	Dhp108
@@ -1225,9 +1242,9 @@ evil	simile of poison	Dhp123
 bad actions	simile of poison	Dhp124
 harming a good person	like dust thrown into the wind	Dhp125
 actions (kamma)	cannot escape results of 	Dhp127
-death (maraṇa)	cannot escape  	Dhp128
-killing		Dhp129
-killing		Dhp130
+death (maraṇa)	cannot escape	Dhp128
+killing	thinking of others as oneself 	Dhp129
+killing	thinking of others as oneself 	Dhp130
 death (maraṇa)	all fear	Dhp129
 killing	thinking of others as oneself	Dhp129
 killing	thinking of others as oneself	Dhp130
@@ -1241,27 +1258,40 @@ violence	result of	Dhp138
 violence	result of	Dhp139
 violence	result of	Dhp140
 mortification (tapojigucchā)	uselessness of	Dhp141
-outward appearance deceiving		Dhp142
+external appearance	not matching internal 	Dhp142
 conscience (hiri)	simile of horse and whip	Dhp143
 conscience (hiri)	simile of horse and whip	Dhp144
-self taming	simile of arrow maker	Dhp145
-self taming	simile of irrigator	Dhp145
-self taming	simile of carpenter	Dhp145
+self-taming	wise tame themselves	Dhp145
+self-taming	like arrow maker	Dhp145
+self-taming	like irrigator	Dhp145
+self-taming	like carpenter	Dhp145
+arrowsmith	simile for self-taming	Dhp145
+irrigators	simile for self-taming	Dhp145
+carpenters	simile for self-taming	Dhp145
 old age (jarā)		CUSTOM:Dhp:Dhammapada Chapter 11:suttacentral.net/dhp146-156/en/sujato
-urgency (saṁvega)		Dhp146
-perception of ugliness (asubhasañña)		Dhp147–50
-bones	simile of gourds	Dhp149
+urgency	when world is burning	Dhp146
+perception of ugliness	body 	Dhp147
+body	like puppet	Dhp147
+puppets	metaphor for body	Dhp147
+perception of ugliness	body 	Dhp148
+perception of ugliness	body 	Dhp149
+bones	like gourds	Dhp149
+gourds	simile for bones	Dhp149
+perception of ugliness	body 	Dhp150
+cities	metaphor for body	Dhp150
 impermanence	teachings do not get old	Dhp151
+chariots	simile for body	Dhp151
+body (sarīra)	like chariot 	Dhp151
 unlearned person	like an ox	Dhp152
 oxen	simile for unlearned person	Dhp152
 first verses of Buddha		Dhp153
-rebirth		Dhp153
+rebirth	painful	Dhp153
 holy life	rejected in youth	Dhp155
 holy life	rejected in youth	Dhp156
 old age (jarā)	like cranes in dried pond	Dhp155 
 old age (jarā)	like spent arrows	Dhp156
-self taming	difficult to do	Dhp159
-self taming	difficult to do	Dhp160
+self-taming	difficult to do	Dhp159
+self-taming	difficult to do	Dhp160
 evil actions	harming oneself	Dhp161
 results of actions	simile of diamond grinding	Dhp161
 evil actions	harming oneself	Dhp162
@@ -1270,17 +1300,21 @@ bad actions	easy to do	Dhp163
 good actions	hard to do	Dhp163
 evil actions	harming oneself	Dhp164
 results of actions	simile of bamboo	Dhp164
-self reliance		Dhp165
-self sacrifice	not neglecting ones own good	Dhp166
-sleep		Dhp168–69
-energy (vīriya)		Dhp168
-world, the	simile of bubble	Dhp170
-world, the	simile of mirage	Dhp170
+self-reliance	purified by oneself	Dhp165
+self-sacrifice	not neglecting ones own good	Dhp166
+sleep	sleeping well	Dhp168
+sleep	sleeping well	Dhp169
+world, the	like bubble	Dhp170
+world, the	like mirage	Dhp170
+bubbles	simile for the world	Dhp170
+mirages	simile for the world	Dhp170
+chariots	simile for the world	Dhp171
+world, the	like chariot	Dhp171
 heedfulness (appamāda)	simile of moon	Dhp172
 heedfulness (appamāda)	simile of moon	Dhp173
 heaven (sagga)	simile of bird and net	Dhp174
 heaven (sagga)	few reborn in	Dhp174
-lying		Dhp176
+lying	person who lies can do anything 	Dhp176
 giving (dāna)	praised by wise	Dhp177
 stream-enterers (sotāpanna)	better than heaven	Dhp178
 Buddha, the		CUSTOM:Dhp:Dhammapada Chapter 14:suttacentral.net/dhp179-196/en/sujato
@@ -1302,8 +1336,10 @@ merit (puññā)	by honoring	Dhp195
 merit (puññā)	by honoring	Dhp196
 happiness (sukha)		CUSTOM:Dhp:Dhammapada Chapter 15:suttacentral.net/dhp197-208/en/sujato
 non-hatred (avera)	living among people who hate	Dhp197
-contentment (santuṭṭhi)		Dhp199–200
-victory and defeat		Dhp201
+contentment	among discontent	Dhp199
+contentment	feeding on rapture	Dhp200
+rapture (pīti)	feeding on	Dhp200
+victory and defeat	leaving behind	Dhp201
 greed (rāga)	as fire	Dhp202
 hatred (dosa)	as crime	Dhp202
 aggregates (khandha)	as suffering	Dhp202
@@ -1313,9 +1349,12 @@ contentment (santuṭṭhi)	as wealth	Dhp204
 association	with wise	Dhp206
 association	with wise	Dhp207
 association 	with fools	Dhp207
-association 	simile of moon and stars	Dhp208
-priorities		Dhp209
-jealousy (issā)		Dhp209
+association 	like moon and stars	Dhp208
+moon	simile for association	Dhp208
+stars	simile for association	Dhp208
+priorities	wrong	Dhp209
+goals	forgetting	Dhp209
+jealousy (issā)	towards those devoted to own goal	Dhp209
 association 	with loved and unloved	Dhp210
 love (piya)		CUSTOM:Dhp:Dhammapada Chapter 16:suttacentral.net/dhp209-220/en/sujato
 loved ones	clinging to	Dhp211
@@ -1334,13 +1373,13 @@ giving (dāna)	rebirth in heaven	Dhp224
 truth (sacca)	rebirth in heaven	Dhp224
 blame	inevitability of	Dhp227
 Atula	someone is always blamed	Dhp227
-praise and blame		Dhp228
+praise and blame	no one wholly praised or blamed	Dhp228
 good people (sappurisa)	praised by gods	Dhp230
 misconduct	giving up	Dhp232
 misconduct	giving up	Dhp233
-self reliance		Dhp236
-self reliance		Dhp238
-self purification	simile of silversmith	Dhp239
+self-reliance		Dhp236
+self-reliance		Dhp238
+self-purification	simile of silversmith	Dhp239
 results of actions	harming oneself	Dhp240
 results of actions	simile of rust	Dhp240
 stains		Dhp241-42
@@ -1357,12 +1396,12 @@ recitation	as not enough	Dhp259
 listening to Dhamma	small amount	Dhp259
 seniority	true meaning	Dhp260
 seniority	true meaning	Dhp261
-outward appearance deceiving		Dhp262
-outward appearance deceiving		Dhp264
+external appearance	not matching internal 	Dhp262
+external appearance	not matching internal 	Dhp264
 ascetic, mendicant, sage	true meaning	Dhp265–72
 noble eightfold path (ariya aṭṭhangika magga)	as best path	Dhp273
 noble eightfold path (ariya aṭṭhangika magga)	as essential	Dhp274
-self reliance		Dhp276
+self-reliance		Dhp276
 impermanence	all conditioned things are	Dhp277
 suffering (dukkha)	all conditioned things are	Dhp278
 not-self	all things are	Dhp279
@@ -1399,7 +1438,7 @@ monastic life	wrongly practiced	Dhp311
 monastic life	like kusa grass	Dhp311
 kusa grass	simile for monastic life	Dhp311
 monastic life	wrongly practiced	Dhp313
-self guarding	like a citadel	Dhp315
+self-guarding	like a citadel	Dhp315
 shame		Dhp316
 wrong views		Dhp316–18
 right view (sammā diṭṭhi)	leads to good rebirth	Dhp319
@@ -1407,12 +1446,12 @@ elephants		CUSTOM:Dhp:Dhammapada Chapter 23:suttacentral.net/dhp320-333/en/sujat
 enduring abuse	like elephant	Dhp320
 elephants	simile for enduring abuse	Dhp320
 enduring abuse		Dhp320–21
-self taming		Dhp322–23
+self-taming		Dhp322–23
 friendship		Dhp323
 Dhanapāla	elephant	Dhp324
 overeating	simile of hog	Dhp325
-self reliance	like elephant	Dhp327
-elephants	simile for self reliance	Dhp327
+self-reliance	like elephant	Dhp327
+elephants	simile for self-reliance	Dhp327
 friendship		Dhp328
 solitary life		Dhp329
 solitary life		Dhp330
@@ -1449,7 +1488,7 @@ craving (taṇha)	freedom from	Dhp352
 giving (dāna)	Dhamma	Dhp354
 Dhamma	as best gift	Dhp354
 Dhamma	as best joy	Dhp354
-self destruction		Dhp355
+self-destruction		Dhp355
 Saṅgha	best recipient	Dhp356–59
 restraint		Dhp360–63
 Dhamma teaching		Dhp363
@@ -1465,7 +1504,7 @@ mindfulness (sati)		Dhp374
 monastic rules (vinaya)		Dhp375
 restraint		Dhp375
 friendship		Dhp376
-self reflection		Dhp379
+self-reflection		Dhp379
 restraint	like thoroughbred	Dhp380
 mendicants	young	Dhp382
 brahmin	true meaning	CUSTOM:Dhp:Dhammapada Chapter 26:suttacentral.net/dhp383-423/en/sujato
@@ -1790,8 +1829,8 @@ eating	excessive	Iti28
 eating	excessive	Iti29
 senses	guarding	Iti28
 senses	guarding	Iti29
-self reflection		Iti30
-self reflection		Iti31
+self-reflection		Iti30
+self-reflection		Iti31
 wrong views	resulting in hell	Iti32
 right view (sammā diṭṭhi)	resulting in heaven	Iti33
 prudence (ottāpa)		Iti34
@@ -2447,9 +2486,13 @@ nature	as pleasing	Thag1.13
 arahants	days pass peacefully	Thag1.16
 sleep	fondness for	Thag1.17
 perception of skeleton (aṭṭhisañña)		Thag1.18
-self taming	simile of arrow maker	Thag1.19
-self taming	simile of irrigator	Thag1.19
-self taming	simile of carpenter	Thag1.19
+self-taming	wise tame themselves	Thag1.19
+self-taming	like arrow maker	Thag1.19
+self-taming	like irrigator	Thag1.19
+self-taming	like carpenter	Thag1.19
+arrowsmith	simile for self-taming	Thag1.19
+irrigators	simile for self-taming	Thag1.19
+carpenters	simile for self-taming	Thag1.19
 death (maraṇa)	no fear of	Thag1.20
 fear (bhaya)	no fear of	Thag1.21
 waking up	peacocks causing	Thag1.22
@@ -2862,7 +2905,7 @@ bhikkhunīs	praised by Sakka	Thig13.5
 sexual harassment		Thig14.1
 disrobing	encouraging to	Thig14.1
 perception of ugliness (asubhasañña)		Thig14.1
-puppets	as metaphor for body	Thig14.1
+puppets	metaphor for body	Thig14.1
 distortion of perception	of body	Thig14.1
 marriage	problems with	Thig15.1
 going forth (pabbajja)	encouragement to collect merit at home instead	Thig15.1
@@ -2928,7 +2971,7 @@ hunger strike	to get parents’ permission to ordain	MN82
 going forth (pabbajja)	discouraging with encouragement to make merit	MN82
 parents	monk visiting	MN82
 parents	permission to ordain	MN82
-puppets	as metaphor for body	MN82
+puppets	metaphor for body	MN82
 Koravya, king	discussion with Ven. Raṭṭhapāla	MN82
 loss (pārijuñña, byasana)	reasons for going forth	MN82
 loss (pārijuñña, byasana)	due to old age	MN82
@@ -3472,7 +3515,7 @@ Komudi full moon 		MN118
 foundations of mindfulness, four (satipaṭṭhāna)	monks committed to developing	MN118
 right effort (sammā vāyāma)	monks committed to developing	MN118
 bases of psychic power (iddhipāda)	monks committed to developing	MN118
-faculties (indriya)	monks committed to developing	MN118
+faculties, spiritual (indriya)	monks committed to developing	MN118
 powers (bala)	monks committed to developing	MN118
 awakening factors, seven (bojjhaṅga)	monks committed to developing	MN118
 noble eightfold path (ariya aṭṭhangika magga)	monks committed to developing	MN118
@@ -4357,15 +4400,15 @@ unskillful qualities (akusala dhamma)	giving up	MN151
 training	night and day in wholesome qualities	MN151
 repulsion (paṭigha)	towards sense objects	MN151
 sense bases (āyatanā)	examining reaction to	MN151
-self reflection	based on sense bases	MN151
+self-reflection	based on sense bases	MN151
 hindrances (nīvarana)	investigating the mind to see if they are present	MN151
 aggregates (khandha)	investigating the mind to see if they are clung to	MN151
 foundations of mindfulness, four (satipaṭṭhāna)	investigating the mind to see if they are developed	MN151
 right effort (sammā vāyāma)	investigating the mind to see if they are developed	MN151
 bodhipakkhiyā dhammā	investigating the mind to see if they are developed	MN151
-self reflection	to see if bodhipakkhiyā dhammā are developed	MN151
+self-reflection	to see if bodhipakkhiyā dhammā are developed	MN151
 bases of psychic power (iddhipāda)	investigating the mind to see if they are developed	MN151
-faculties (indriya)	investigating the mind to see if they are developed	MN151
+faculties, spiritual (indriya)	investigating the mind to see if they are developed	MN151
 powers (bala)	investigating the mind to see if they are developed	MN151
 awakening factors, seven (bojjhaṅga)	investigating the mind to see if they are developed	MN151
 noble eightfold path (ariya aṭṭhangika magga)	investigating the mind to see if it is developed	MN151
@@ -4373,11 +4416,11 @@ serenity (samatha)	investigating the mind to see if it is developed	MN151
 insight (vipassanā)	investigating the mind to see if it is developed	MN151
 knowledge and freedom (vijjāvimutti)	investigating the mind to see if they have been realized	MN151
 past, present, future	training is the same	MN151
-self reflection	practiced the same in past, present, future	MN151
+self-reflection	practiced the same in past, present, future	MN151
 almsfood	purification of	MN151
 purification	of almsfood	MN151
 Uttara, student of Pārāsariya	development of faculties	MN152
-faculties (indriya)	development of 	MN152
+faculties, sense (indriya)	development of 	MN152
 blind people		MN152
 deaf people		MN152
 sense bases (āyatanā)	equanimity towards senses	MN152
@@ -4387,7 +4430,7 @@ strong person	snapping fingers as simile for controlling the mind	MN152
 lotus	leaf and drop of water as simile for controlling the mind	MN152
 spit	spitting out as simile for controlling the mind	MN152
 strong person	flexing arm as simile for controlling the mind	MN152
-water	drops falling into hot pan  as simile for controlling the mind	MN152
+water	drops falling into hot pan as simile for controlling the mind	MN152
 disgust (aṭṭīyati)	by liking and disliking sense objects	MN152
 noble ones (ariya)	seeing repulsive and unrepulsive, etc.	MN152
 repulsive	seeing repulsive and unrepulsive in	MN152
@@ -4397,7 +4440,7 @@ sense objects	seeing repulsive and unrepulsive, etc.	MN152
 equanimity (upekkhā)	towards sense contact	MN152
 equanimity (upekkhā)	towards repulsive an unrepulsive	MN152
 noble ones (ariya)	with developed faculties	MN152
-faculties (indriya)	noble ones	MN152
+faculties, sense (indriya)	noble ones	MN152
 men	minds occupied by women	AN1.1-5
 women	minds occupied by men	AN1.6-10
 sign of the beautiful (subhanimitta)	cause for sense desire	AN1.11
@@ -4644,8 +4687,8 @@ punishment (daṇḍa)	as motivation to do good	AN2.1
 hell (niraya)	as motivation to do good	AN2.1
 lay life	duty to support saṅgha	AN2.2
 attachments	difficulty of letting go of	AN2.2
-self reflection		AN2.3
-self reflection		AN2.4
+self-reflection		AN2.3
+self-reflection		AN2.4
 determination	not to move until enlightened	AN2.5
 skillful qualities (kusala dhamma)	not being satisfied with	AN2.5
 energy (vīriya)	never stop trying	AN2.5
@@ -5172,6 +5215,9 @@ Mahā Nāma the Sakyan	concentration and wisdom	AN3.73
 noble disciple (ariya sāvaka)	virtue, concentration and wisdom of	AN3.73
 trainee (sekha)	virtue, concentration and wisdom of	AN3.73
 Nigaṇṭha Nāṭaputta	teachings of	AN3.74
+proselytizing	to those for whom you have sympathy	AN3.75
+friends	should be established in faith	AN3.75
+family	should be established in faith	AN3.75
 confidence (aveccappasāda)	noble disciple with will not change	AN3.75
 noble disciple (ariya sāvaka)	will not be reborn in lower worlds	AN3.75
 triple gem	qualities of	AN3.75
@@ -5690,7 +5736,7 @@ Buddha, the	places significant in life of	AN4.118
 perils (bhaya)		AN4.119
 perils (bhaya)		AN4.120
 fear (bhaya)	of guilt, shame, punishment, and going to a bad place 	AN4.121
-self reproach (attānuvāda)		AN4.121
+self-reproach (attānuvāda)		AN4.121
 punishment (daṇḍa)	fear of	AN4.121
 shame	fear of	AN4.121
 rebirth	fear of rebirth in bad place	AN4.121
@@ -5764,7 +5810,7 @@ times	rightly developed are like rain on mountain top filling ocean	AN4.147
 bad actions	by speech	AN4.148
 speech	bad conduct	AN4.148
 speech	good conduct	AN4.149
-essential/inessential		AN4.150
+essential/inessential (sāra/asāra)	ethics, concentration, wisdom, and freedom 	AN4.150
 faculties (indriya)	four 	AN4.151
 powers (bala)	faith, energy, mindfulness, and immersion	AN4.152
 powers (bala)	wisdom, energy, blamelessness, and inclusiveness 	AN4.153
@@ -5793,7 +5839,7 @@ Dhamma	memorization of	AN4.160
 practicing	four ways of	AN4.161
 greed, hatred, delusion	causing pain	AN4.162
 practicing	four ways of	AN4.162
-faculties (indriya)	five	AN4.162
+faculties, spiritual (indriya)	manifesting strongly and weakly	AN4.162
 practicing	painful	AN4.163
 intense lust (tibbarāga)	painful practice	AN4.163
 food	repulsiveness of	AN4.163
@@ -6603,7 +6649,7 @@ senior monastics	desirable qualities	AN5.166
 Upavāṇa, Ven.	qualities of senior monastics	AN5.166
 mind-made body (manomayena kāya)		AN5.166
 accusations	preparing to make an accusation	AN5.167
-self reflection	preparing to make an accusation	AN5.167
+self-reflection	preparing to make an accusation	AN5.167
 loving-kindness (mettā)	accusations and	AN5.167
 admonishment	being easy to (sovacassatā)	AN5.167
 Sāriputta, Ven.	told to exhort the monks	AN5.167
@@ -6621,7 +6667,7 @@ Brahmā	best sight	AN5.170
 taints (āsava)	ending is the best	AN5.170
 timidity (sārajja)	qualities that make one	AN5.171
 precepts, five	breaking them makes you timit	AN5.171
-self assured (visārada)	qualities that make one	AN5.172
+self-assured (visārada)	qualities that make one	AN5.172
 precepts, five	breaking leads to hell	AN5.173
 precepts, five	leading to heaven	AN5.173
 Anāthapiṇḍika, householder	precepts 	AN5.174
@@ -6772,7 +6818,7 @@ love (piya)	result of patience	AN5.215
 impatience (akkhanti)	drawbacks of	AN5.216
 hell (niraya)	result of being impatient	AN5.216
 love (piya)	result of patience	AN5.216
-self reproach (attānuvāda)	from bad conduct	AN5.217
+self-reproach (attānuvāda)	from bad conduct	AN5.217
 bad actions	drawbacks of	AN5.217
 confidence (pasāda)	causing or destroying	AN5.218
 inspiration	from conduct	AN5.217
@@ -6863,7 +6909,7 @@ psychic powers (iddhi)	making one worthy of gifts	AN6.2
 giving (dāna)	worthy of gifts: five faculties	AN6.3
 giving (dāna)	worthy of gifts: five powers	AN6.4
 powers 	worthy of gifts	AN6.4
-faculties (indriya)	worthy of gifts	AN6.3
+faculties, spiritual (indriya)	worthy of gifts	AN6.3
 enduring (khama)	sense objects: makes one worthy of gifts	AN6.5
 enduring (khama)	sense objects: makes one worthy of gifts	AN6.6
 enduring (khama)	sense objects: makes one worthy of gifts	AN6.7
@@ -7370,7 +7416,7 @@ one freed by wisdom (paññāvimutta)	worthy of gifts	AN7.14
 personal witness (kāyasakkhī)	worthy of gifts	AN7.14
 one attained to view (diṭṭhippatto)	worthy of gifts	AN7.14
 one freed by faith (saddhāvimutto)	worthy of gifts	AN7.14
-follower of the teachings (dhammānusārī) 	worthy of gifts	AN7.14
+Dhamma follower (dhammānusārī)	worthy of gifts	AN7.14
 follower by faith (saddhānusārī)	worthy of gifts	AN7.14
 water	simile of seven kinds of people	AN7.15
 stream-enterers (sotāpanna)	like a person in water who rises up then sees and discerns	AN7.15
@@ -7409,7 +7455,7 @@ work	relishing prevents growth	AN7.24
 socializing	relishing prevents growth	AN7.24
 sleep	relishing prevents growth	AN7.24
 evil wishes (pāpiccha)	prevents growth	AN7.24
-bad friends	prevents growth	AN7.24
+friends, bad	prevents growth	AN7.24
 faith (saddhā)	prevents decline	AN7.25
 conscience and prudence (hiri ottappa)	prevents decline	AN7.25
 learning	prevents decline	AN7.25
@@ -7479,7 +7525,7 @@ beings unified in body and unified in perception (sattā ekattakāyā ekattasañ
 Gods Replete with Glory (subhakiṇhā devā)	unified in body and unified in perception	AN7.44
 beings gone beyond perceptions of form (sattā sabbaso rūpasaññānaṁ samatikkamā)	planes of consciousness	AN7.44
 beings gone beyond the dimension of infinite space (sattā sabbaso ākāsānañcāyatanaṁ samatikkamma)	planes of consciousness	AN7.44
-beings gone  beyond the dimension of infinite consciousness (sattā sabbaso viññāṇañcāyatanaṁ samatikkamma)	planes of consciousness	AN7.44
+beings gone beyond the dimension of infinite consciousness (sattā sabbaso viññāṇañcāyatanaṁ samatikkamma)	planes of consciousness	AN7.44
 planes of consciousness (viññāṇaṭṭhitiyo)		AN7.44
 concentration (samādhi)	prerequisites for	AN7.45
 noble right concentration (ariyo sammāsamādhi)		AN7.45
@@ -7565,7 +7611,7 @@ giving (dāna)	result directly visible	AN7.57
 monastics	showing compassion to laypeople	AN7.57
 Dhamma teaching	to faithful, generous people first	AN7.57
 reputation	good reputation gained through giving	AN7.57
-self assured (visārada)	by giving	AN7.57
+self-assured (visārada)	by giving	AN7.57
 faith (saddhā)	relying on faith for those things that are not directly visible	AN7.57
 faith (saddhā)	relying on faith for those things that are not directly visible	AN5.34
 Buddha, the	nothing to hide	AN7.58
@@ -7759,7 +7805,7 @@ death (maraṇa)	comes quickly	AN7.74
 death (maraṇa)	inevitability of	AN7.74
 Araka, teacher		AN7.74
 dew	simile for shortness of life	AN7.74
-bubble	simile for shortness of life	AN7.74
+bubbles	simile for shortness of life	AN7.74
 water	line drawn in, simile for shortness of life	AN7.74
 rivers	simile for shortness of life	AN7.74
 spit	simile for shortness of life	AN7.74
@@ -7830,11 +7876,11 @@ impermanence	worldly conditions	AN8.5
 ordinary person (puthujjana)	worldly conditions	AN8.6
 noble disciple (ariya sāvaka)	worldly conditions	AN8.6
 Devadatta	failure of	AN8.7
-self reflection	successes and failures	AN8.7
+self-reflection	successes and failures	AN8.7
 assessing people (puggalā viditā)	successes and failures	AN8.7
 Devadatta	overwhelmed by worldly conditions	AN8.7
 evil wishes (pāpiccha)	overcome 	AN8.7
-bad friends	overcome 	AN8.7
+friends, bad	overcome 	AN8.7
 Uttara, Ven.	whatever is well spoken is spoken by the Buddha	AN8.8
 Vessavaṇa, deva king		AN8.8
 Sakka, Lord of Gods		AN8.8
@@ -7893,7 +7939,7 @@ Nigaṇṭhas	slandering the Buddha	AN8.12
 horses	thoroughbred, simile for good mendicant	AN8.13
 eating	respectfully, without annoyance	AN8.13
 companionship	easy to live with	AN8.13
-self reliance	will practice whether others do or not	AN8.13
+self-reliance	will practice whether others do or not	AN8.13
 noble eightfold path (ariya aṭṭhangika magga)	as straight (uju) path	AN8.13
 determination	not to move until enlightened	AN8.13
 horses	wild colt, simile for bad people	AN8.14
@@ -8014,7 +8060,7 @@ arahants	loving seclusion and renunciation	AN8.28
 foundations of mindfulness, four (satipaṭṭhāna)	arahant has well developed	AN8.28
 foundations of mindfulness, four (satipaṭṭhāna)	power of an arahant	AN8.28
 bases of psychic power (iddhipāda)	arahant has well developed	AN8.28
-faculties (indriya)	five, arahant has well developed	AN8.28
+faculties, spiritual (indriya)	arahant has well developed	AN8.28
 awakening factors, seven (bojjhaṅga)	arahant has well developed	AN8.28
 noble eightfold path (ariya aṭṭhangika magga)	arahant has well developed	AN8.28
 inopportune moment (asamaya)		AN8.29
@@ -8265,7 +8311,7 @@ fig-eater	simile for unbalanced living	AN8.54
 wealth	causes for loss of	AN8.54
 womanizer (itthidhuta)	cause for loss of wealth	AN8.54
 gambling	cause for loss of wealth	AN8.54
-bad friends	cause for loss of wealth	AN8.54
+friends, bad	cause for loss of wealth	AN8.54
 reservoir	simile for loss of wealth	AN8.54
 accomplishments	faith, ethics, generosity, and wisdom	AN8.54
 travel	advice 	AN8.55
@@ -8800,7 +8846,7 @@ beings gone beyond perceptions of form (sattā sabbaso rūpasaññānaṁ samati
 dimension of infinite space (ākāsānañcāyatana)	abodes of beings	AN9.24
 beings gone beyond the dimension of infinite space (sattā sabbaso ākāsānañcāyatanaṁ samatikkamma)	abodes of beings	AN9.24
 dimension of infinite consciousness (viññāṇañcāyatana)	abodes of beings	AN9.24
-beings gone  beyond the dimension of infinite consciousness (sattā sabbaso viññāṇañcāyatanaṁ samatikkamma)	abodes of beings	AN9.24
+beings gone beyond the dimension of infinite consciousness (sattā sabbaso viññāṇañcāyatanaṁ samatikkamma)	abodes of beings	AN9.24
 dimension of nothingness (ākiñcaññāyatana)	abodes of beings	AN9.24
 beings gone beyond the dimension of nothingness (sattā sabbaso ākiñcaññāyatanaṁ samatikkamma)	abodes of beings	AN9.24
 gods of the dimension of neither perception nor non-perception (nevasaññānāsaññāyatanūpagā devā)	abodes of beings	AN9.24
@@ -9390,7 +9436,7 @@ Dhamma teaching	incorrectly causes disputes	AN10.42
 admonishment		AN10.44
 speech	reflecting on	AN10.44
 accusations	preparing to make an accusation	AN10.44
-self reflection	preparing to make an accusation	AN10.44
+self-reflection	preparing to make an accusation	AN10.44
 loving-kindness (mettā)	towards spiritual companions	AN10.44
 learned (bahussutā)	qualification for admonishing	AN10.44
 monastic rules (vinaya)	knowledge of as qualification for admonishing	AN10.44
@@ -9418,7 +9464,7 @@ improper attention (ayoniso manasikara)	cause of bad actions	AN10.47
 wrongly directed mind	cause of bad actions	AN10.47
 proper attention (yoniso manasikāra)	cause of good actions	AN10.47
 rightly directed mind	cause of good actions	AN10.47
-self reflection	ten topics for monastic	AN10.48
+self-reflection	ten topics for monastic	AN10.48
 caste	monastics leaving	AN10.48
 monastic life	dependent on lay people	AN10.48
 monastic life	advice for	AN10.48
@@ -9451,20 +9497,20 @@ mindfulness (sati)	as principle of cordiality (dhammā sāraṇīyā)	AN10.50
 wisdom (paññā)	preventing disputes	AN10.50
 wisdom (paññā)	as principle of cordiality (dhammā sāraṇīyā)	AN10.50
 mind reading	skill in ones own mind	AN10.51
-self reflection	to develop skillful qualities	AN10.51
+self-reflection	to develop skillful qualities	AN10.51
 reviewing (paccavekkhaṇā)	to develop skillful qualities	AN10.51
-youth	checking reflection, simile for self examination	AN10.51
-mirrors	simile for self examination	AN10.51
-covetousness (abhijjhā)	self examination for	AN10.51
-maliciousness (byāpannacitta)	self examination for	AN10.51
-dullness and drowsiness (thinamiddha)	self examination for	AN10.51
-restlessness (uddhacca)	self examination for	AN10.51
-doubt (vicikicchā)	self examination for	AN10.51
-anger (kodha)	self examination for	AN10.51
-corrupted mind (saṅkiliṭṭhacitta)	self examination for	AN10.51
+youth	checking reflection, simile for self-examination	AN10.51
+mirrors	simile for self-examination	AN10.51
+covetousness (abhijjhā)	self-examination for	AN10.51
+maliciousness (byāpannacitta)	self-examination for	AN10.51
+dullness and drowsiness (thinamiddha)	self-examination for	AN10.51
+restlessness (uddhacca)	self-examination for	AN10.51
+doubt (vicikicchā)	self-examination for	AN10.51
+anger (kodha)	self-examination for	AN10.51
+corrupted mind (saṅkiliṭṭhacitta)	self-examination for	AN10.51
 body	disturbed in	AN10.51
-energetic (āraddhavīriya)	self examination for	AN10.51
-concentration (samādhi)	self examination for	AN10.51
+energetic (āraddhavīriya)	self-examination for	AN10.51
+concentration (samādhi)	self-examination for	AN10.51
 head on fire	simile for giving up bad qualities	AN10.51
 zeal (chanda)	for giving up bad qualities	AN10.51
 mindfulness and clear comprehension (satisampajañña)	for giving up bad qualities	AN10.51
@@ -9502,7 +9548,7 @@ decline (parihāna)	person liable to, definition	AN10.55
 listening to Dhamma	not getting to leads to decline	AN10.55
 memorizing	not memorizing leads to decline	AN10.55
 mind, skilled in ones own (sacittapariyāyakusala)	definition	AN10.55
-self reflection	how to	AN10.55
+self-reflection	how to	AN10.55
 cemetery contemplation	culminates in deathless	AN10.57
 wanderers of other sects (aññatitthiya paribbājaka)	answering their questions	AN10.58
 questions, answering 	from wanderers of other sects	AN10.58
@@ -9693,7 +9739,7 @@ unwise (dupañño)	sign of decline	AN10.67
 anger (kodha)	sign of decline	AN10.67
 hostility (upanāha)	sign of decline	AN10.67
 evil wishes (pāpiccha)	sign of decline	AN10.67
-bad friends	sign of decline	AN10.67
+friends, bad	sign of decline	AN10.67
 wrong view (micchā diṭṭhi)	sign of decline	AN10.67
 energetic (āraddhavīriya)	sign of non-decline	AN10.67
 wisdom (paññā)	sign of non-decline	AN10.67
@@ -9813,7 +9859,7 @@ heaven (sagga)	hindered by wrong practice	AN10.73
 laziness (ālasya, anuṭṭhāna)	hinders wealth	AN10.73
 adornments	lack of hinders beauty	AN10.73
 unsuitable activity (asappāyakiriyā)	hinders health	AN10.73
-bad friends	hinders virtue	AN10.73
+friends, bad	hinders virtue	AN10.73
 sense restraint (indriyasaṁvara)	lack of hinders the monastic life	AN10.73
 lying	hinders friends	AN10.73
 recitation	lack of hinders learning	AN10.73
@@ -9904,7 +9950,7 @@ uncharitableness (avadaññu)	cause of and giving up	AN10.76
 laziness (kosajja)	cause of and giving up	AN10.76
 disrespect (anādariya)	cause of and giving up	AN10.76
 stubbornness (dovacassa)	cause of and giving up	AN10.76
-bad friends	cause of and giving up	AN10.76
+friends, bad	cause of and giving up	AN10.76
 conscience and prudence (hiri ottappa)	cause of lack of and giving up	AN10.76
 heedlessness (pamāda)	cause of and giving up	AN10.76
 unwholesome chain of causality	heedlessness to birth, old age and death	AN10.76
@@ -10042,7 +10088,7 @@ foundations of mindfulness, four (satipaṭṭhāna)	arahant has well developed	
 foundations of mindfulness, four (satipaṭṭhāna)	power of an arahant	AN10.90
 right effort, four (sammappadhānā)	power of an arahant	AN10.90
 bases of psychic power (iddhipāda)	arahant has well developed	AN10.90
-faculties (indriya)	five, arahant has well developed	AN10.90
+faculties, spiritual (indriya)	arahant has well developed	AN10.90
 powers (bala)	five, arahant has well developed	AN10.90
 awakening factors, seven (bojjhaṅga)	arahant has well developed	AN10.90
 noble eightfold path (ariya aṭṭhangika magga)	arahant has well developed	AN10.90
@@ -10247,7 +10293,7 @@ wrong speech (micchā vācā)	caused by greed, hatred, delusion	AN10.174
 wrong intention (micchā saṅkappa)	caused by greed, hatred, delusion	AN10.174
 avoiding (parikkamana)	good to avoid the bad	AN10.175
 avoiding (parikkamana)	good to avoid the bad	MN8
-speech	self purification through	AN10.176
+speech	self-purification through	AN10.176
 Cunda the smith	purity	AN10.176
 ceremonies	Buddha gives his meaning of	AN10.176
 brahmins	ceremonies of	AN10.176
@@ -10314,7 +10360,7 @@ right intention (sammā saṅkappa)	definition	AN10.211
 hell (niraya)	cause for rebirth in	AN10.211
 heaven (sagga)	cause for rebirth in	AN10.211
 female	causes for rebirth	AN10.213
-self assured (visārada)	qualities that make one	AN10.215
+self-assured (visārada)	qualities that make one	AN10.215
 actions (kamma)	being the owner of ones own	AN10.216
 creeping (saṁsappanīya)	exposition on	AN10.216
 animals	creeping	AN10.216
@@ -11021,7 +11067,7 @@ fetters (saṁyojana)	noble eightfold path to give up five lower	SN45.179
 noble eightfold path (ariya aṭṭhangika magga)	to give up five lower fetters	SN45.179
 fetters (saṁyojana)	noble eightfold path to give up five higher	SN45.180
 noble eightfold path (ariya aṭṭhangika magga)	to give up five higher fetters	SN45.180
-nāgas	supported by himalayas, simile for seven awakening factors suppored  by virtue	SN46.1
+nāgas	supported by himalayas, simile for seven awakening factors suppored by virtue	SN46.1
 virtue (sīla)	grounded on one develops seven awakening factors	SN46.1
 awakening factors, seven (bojjhaṅga)	grounded on virtue	SN46.1
 awakening factors, seven (bojjhaṅga)		CUSTOM:SN:Bojjhaṅgasaṁyutta:suttacentral.net/sn46
@@ -11088,8 +11134,8 @@ sense restraint (indriyasaṁvara)	fulfills three types of good action	SN46.6
 sense restraint (indriyasaṁvara)	definition	SN46.6
 roof peak	simile for awakening factors	SN46.7
 Upavāṇa, Ven.	awakening factors	SN46.8
-awakening factors, seven (bojjhaṅga)	self knowledge of	SN46.8
-self reflection	awakening factors	SN46.8
+awakening factors, seven (bojjhaṅga)	self-knowledge of	SN46.8
+self-reflection	awakening factors	SN46.8
 awakening factors, seven (bojjhaṅga)	only when Buddha arises	SN46.9
 Buddhas	awakening factors only arrise when Buddha appears	SN46.9
 awakening factors, seven (bojjhaṅga)	does not arise appart from the Blessed One’s vinaya	SN46.10
@@ -11337,9 +11383,9 @@ foundations of mindfulness, four (satipaṭṭhāna)	laypeople practicing	MN51
 elephants	showing all tricks, unlike humans	MN51
 animals	not eceptive like humans	MN51
 humans	deceptive, unlike animals	MN51
-self mortification (attantapo)	people who do	MN51
+self-mortification (attantapo)	people who do	MN51
 mortifying others (parantapo)	people who do	MN51
-self mortification (attantapo)	people who do not	MN51
+self-mortification (attantapo)	people who do not	MN51
 mortifying others (parantapo)	people who do not	MN51
 happiness (sukha)	beings want happiness	MN51
 suffering (dukkha)	beings avoid	MN51
@@ -11515,7 +11561,7 @@ anger, giving up (kodha)	by not being angry	MN54
 fetters (saṁyojana)	causing bad behavior	MN54
 fetters (saṁyojana)	giving up	MN54
 blame	fear of	MN54
-self reproach (attānuvāda)	to give up bad behavior	MN54
+self-reproach (attānuvāda)	to give up bad behavior	MN54
 fetters (saṁyojana)	bad actions as fetter	MN54
 taints (āsava)	caused by bad behavior	MN54
 training of the Noble One (ariya vinaya)	cutting off household life	MN54
@@ -11625,7 +11671,7 @@ babies	simile of something stuck in throat	MN58
 speech	true	MN58
 speech	harmful	MN58
 speech	pleasing	MN58
-chariot	simile of knowing parts	MN58
+chariots	simile of knowing parts	MN58
 Pañcakaṅga, master builder	feelings 	MN59
 Udāyī, Ven	feelings 	MN59
 feelings (vedanā)	three	MN59
@@ -11668,7 +11714,7 @@ right intention (sammā saṅkappa)	that actions have results	MN60
 rebirth	through right action	MN60
 corruptions (saṅkilesa)	of sentient beings	MN60
 purification	of sentient beings	MN60
-self purification	possible or not	MN60
+self-purification	possible or not	MN60
 agency	do beings have	MN60
 causality	exists	MN60
 formless realm (arūpabhava)	existence of	MN60
@@ -11676,9 +11722,9 @@ form (rūpa)	disillusionment, dispassion, and cessation regarding 	MN60
 becoming (bhava)	cessation of 	MN60
 cessation of being/future lives (bhavanirodha)	existence of	MN60
 gods who are formless and made of perception (devā arūpino saññāmayā)	rebirth among	MN60
-self mortification (attantapo)	people who do	MN60
+self-mortification (attantapo)	people who do	MN60
 mortifying others (parantapo)	people who do	MN60
-self mortification (attantapo)	people who do not	MN60
+self-mortification (attantapo)	people who do not	MN60
 mortifying others (parantapo)	people who do not	MN60
 people (puggala)	four types of and mortification	MN60
 Rāhula, Ven.	advice on lying	MN61
@@ -11688,13 +11734,13 @@ water	simile for person who lies	MN61
 elephants	simile of person who is willing to lie	MN61
 joking	do not lie even as a joke	MN61
 lying	person who lies can do anything	MN61
-mirrors	simile for self examination	MN61
-reviewing (paccavekkhaṇā)	before, durring, and after actions	MN61
-actions (kamma)	reviewing before, durring, and after	MN61
-speech	reviewing before, durring, and after	MN61
-mental action (manokamma)	reviewing before, durring, and after	MN61
-unskillfulness (akusala)	reviewing before, durring, and after actions	MN61
-skillfulness (kusala)	reviewing before, durring, and after actions	MN61
+mirrors	simile for self-examination	MN61
+reviewing (paccavekkhaṇā)	before, during, and after actions	MN61
+actions (kamma)	reviewing before, during, and after	MN61
+speech	reviewing before, during, and after	MN61
+mental action (manokamma)	reviewing before, during, and after	MN61
+unskillfulness (akusala)	reviewing before, during, and after actions	MN61
+skillfulness (kusala)	reviewing before, during, and after actions	MN61
 confession	of bad actions after doing	MN61
 restraint	after doing bad actions	MN61
 disgust (aṭṭīyati)	at bad actions	MN61
@@ -11854,7 +11900,7 @@ Buddha, the	anger towards	MN66
 fettered (saṁyutta)	person who is and is not	MN66
 acquisitions (upadhi)	memories and thoughts of	MN66
 acquisitions (upadhi)	letting go of all	MN66
-water	drops falling into hot pan  as simile for controlling the mind	MN66
+water	drops falling into hot pan as simile for controlling the mind	MN66
 acquisitions (upadhi)	root of suffering	MN66
 suffering (dukkha)	acquisitions as root of	MN66
 sense pleasures (kāma, kāmaguṇa)	should be feared	MN66
@@ -11951,7 +11997,7 @@ trainee (sekha)	work left to do	MN70
 dwellings (senāsana)	helping to increase skillfulness	MN70
 association (bhajamānā)	with spiritual friends	MN70
 spiritual friends (kalyāṇamitta)	association with	MN70
-faculties (indriya)	controlling	MN70
+faculties, sense (indriya)	controlling	MN70
 heedfulness (appamāda)	result of	MN70
 one freed both ways (ubhatobhāgavimutta)	definition	MN70
 formless liberations	one freed both ways	MN70
@@ -11962,9 +12008,9 @@ seeing with wisdom	personal witness	MN70
 one attained to view (diṭṭhippatto)	definition	MN70
 seeing with wisdom	one attained to view	MN70
 one freed by faith (saddhāvimutto)	definition	MN70
-follower of the teachings (dhammānusārī) 	definition	MN70
+Dhamma follower (dhammānusārī)	definition	MN70
 follower by faith (saddhānusārī)	definition	MN70
-faculties (indriya)	faith, energy, mindfulness, immersion, and wisdom 	MN70
+faculties, spiritual (indriya)	Dhamma follower (dhammānusārī)	MN70
 measure of faith and love (saddhāmatta pemamatta)	faith follower	MN70
 gradual training (anupubbasikkhā)	enlightenment achieved through	MN70
 faith (saddhā)	leads to approaching a teacher	MN70
@@ -11974,7 +12020,7 @@ listening attentively (ohitasota)	leads to hearing Dhamma	MN70
 hearing the Dhamma (dhammassavana)	leads to remembering the Dhamma	MN70
 remembering (dhāreti)	leads to reflecting on the meaning	MN70
 investigation of meaning (atthūpaparikkhā)	leads to acceptance after consideration	MN70
-acceptance of Dhamma after  consideration (dhammanijjhānakhanti)	leads to zeal	MN70
+acceptance of Dhamma after consideration (dhammanijjhānakhanti)	leads to zeal	MN70
 zeal (chanda)	leads to effort/striving	MN70
 striving (ussāha)	leads to scrutinizing	MN70
 scrutinizing (tulana)	leads to striving	MN70
@@ -12232,7 +12278,7 @@ four noble truths	asking how they apply to our own suffering	MN77
 foundations of mindfulness, four (satipaṭṭhāna)	why disciples respect the Buddha	MN77
 right effort, four (sammappadhānā)	why disciples respect the Buddha	MN77
 bases of psychic power (iddhipāda)	why disciples respect the Buddha	MN77
-faculties (indriya)	five, why disciples respect the Buddha	MN77
+faculties, spiritual (indriya)	why disciples respect the Buddha	MN77
 powers (bala)	five, why disciples respect the Buddha	MN77
 awakening factors, seven (bojjhaṅga)	why disciples respect the Buddha	MN77
 noble eightfold path (ariya aṭṭhangika magga)	why disciples respect the Buddha	MN77
@@ -12525,3 +12571,64 @@ attention (manasikāra)	origin of phenomenon	SN47.42
 Sahampati, Brahmā	agreeing with the Buddha	SN47.43
 Buddha, the	time after enlightenment	SN47.43
 foundations of mindfulness, four (satipaṭṭhāna)	heap of the skillful	SN47.45
+monastic rules (vinaya)		xref monastic rules (pātimokkha)
+monastic rules (pātimokkha)		xref monastic rules (vinaya)
+Dhamma	in brief	SN47.46
+skillful qualities (kusala dhamma)	starting point	SN47.46
+monastic rules (pātimokkha)	starting point of wholesome qualities	SN47.46
+danger in slightest fault	starting point of wholesome qualities	SN47.46
+alms gathering practice	seeking in suitable places	SN47.46
+foundations of mindfulness, four (satipaṭṭhāna)	virtue as precursor	SN47.46
+proselytizing	to those for whom you have sympathy	SN47.48
+foundations of mindfulness, four (satipaṭṭhāna)	encouraging those for whom you have sympathy	SN47.48
+friends	establishing in foundations of mindfulness	SN47.48
+family	establishing in foundations of mindfulness	SN47.48
+feelings (vedanā)	complete understanding of	SN47.49
+taints (āsava)	definition	SN47.50
+foundations of mindfulness, four (satipaṭṭhāna)	to give up taints	SN47.50
+faculties, spiritual (indriya)		CUSTOM:SN:Indriya Saṁyutta:suttacentral.net/sn48
+faculties, spiritual (indriya)	definition	SN48.1
+faculties, spiritual (indriya)	gratification, danger, escape	SN48.2
+gratification, danger, escape	five faculties	SN48.2
+stream-enterers (sotāpanna)	five faculties’ gratification, danger, escape 	SN48.2
+origin, ending (samudayañca atthaṅgamañca)	five faculties	SN48.3
+faculties, spiritual (indriya)	origin, ending, gratification, danger, escape	SN48.3
+gratification, danger, escape	five faculties	SN48.3
+stream-enterers (sotāpanna)	five faculties’ origin, ending, gratification, danger, escape 	SN48.3
+arahants	five faculties, truly understanding	SN48.5
+ascetics and brahmins (samaṇabrāhmaṇā)	true and not true	SN48.6
+faculties, spiritual (indriya)	faculty, origin, cessation, path to cessation	SN48.7
+faculties, spiritual (indriya)	where each should be seen	SN48.8
+faculties, spiritual (indriya)	details	SN48.8
+faculty of faith (saddhindriya)	seen in factors of stream-entry (sotāpattiyaṅga)	SN48.8
+faculty of energy (vīriyindriya)	seen in right effort, four (sammappadhānā)	SN48.8
+faculty of mindfulness (satindriya)	seen in foundations of mindfulness	SN48.8
+faculty of immersion (samādhindriya)	seen in four jhānas	SN48.8
+faculty of wisdom (paññindriya)	seen in four noble truths	SN48.8
+factors of stream-entry (sotāpattiyaṅga)	faculty of faith	SN48.8
+right effort, four (sammappadhānā)	faculty of energy	SN48.8
+foundations of mindfulness, four (satipaṭṭhāna)	faculty of mindfulness	SN48.8
+jhānas	faculty of immersion (samādhindriya)	SN48.8
+four noble truths	faculty of wisdom	SN48.8
+faith (saddhā)		xref faculty of faith (saddhindriya)
+faculty of faith (saddhindriya)	definition	SN48.9
+faculty of energy (vīriyindriya)	definition	SN48.9
+faculty of mindfulness (satindriya)	definition	SN48.9
+faculty of immersion (samādhindriya)	definition	SN48.9
+faculty of wisdom (paññindriya)	definition	SN48.9
+faculties, spiritual (indriya)	definition in detail	SN48.9
+faculty of immersion (samādhindriya)	unification of mind (cittassa ekaggatā)	SN48.9
+unification of mind (cittassa ekaggatā)	faculty of immersion (samādhindriya)	SN48.9
+wisdom (paññā)	definition	SN48.9
+faculties, spiritual (indriya)	definition in detail	SN48.10
+non-returner (anāgāmi)	five faculties	SN48.12
+once returner (sakadāgāmī)	five faculties	SN48.12
+stream-enterers (sotāpanna)	five faculties	SN48.12
+Dhamma follower (dhammānusārī)	five faculties	SN48.12
+follower by faith (saddhānusārī)	five faculties	SN48.12
+people (puggala)	diversity of from fruits	SN48.13
+faculties, spiritual (indriya)	not a waste even if practiced partially	SN48.14
+extinguished in-between (antarāparinibbāyī)	five faculties	SN48.15
+extinguished upon landing (upahaccaparinibbāyī)	five faculties	SN48.15
+extinguished with extra effort (sasaṅkhāraparinibbāyī)	five faculties	SN48.15
+heading upstream to the Akaniṭṭha realm (uddhaṁsotassa akaniṭṭhagāmino)	five faculties	SN48.15

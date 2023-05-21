@@ -256,6 +256,14 @@ function createIndexObject() {
   !!!!!!!!!!!!!there is a blank headword!!!!!!!!!!!!!!!!!!!!!
   !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!`);
     }
+    if (/xref/.test(head)) {
+      console.warn(`
+      +++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+      + The headword "${head}" contains 'xref' +
+      +++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+      `);
+    }
+
     if (!alphabetGroupedObject[firstRealLetter].hasOwnProperty(head)) {
       // the key of the headword does not exist in the object yet, so create the key and add the locator-xref object
       alphabetGroupedObject[firstRealLetter][head] = { [sub]: { locators: [], xrefs: [] } };
