@@ -36,15 +36,15 @@ export default function Stats() {
         <div className="row-1">
           <div>
             <img className="icon head-icon" width="13px" src={headIcon} alt="" />
-            <span className="answer">{headwords - xrefsCount}</span> Headwords
+            <span className="answer">{(headwords - xrefsCount).toLocaleString("en-US")}</span> Headwords
           </div>
           <div>
             <img className="icon locator-icon" width="16px" src={locatorIcon} alt="" />
-            <span className="answer">{indexArray.length - xrefsCount}</span> Locators
+            <span className="answer">{(indexArray.length - xrefsCount).toLocaleString("en-US")}</span> Locators
           </div>
           <div>
             <img className="icon head-icon" width="14px" src={xrefIcon} alt="" />
-            <span className="answer">{xrefsCount}</span> Xref headwords
+            <span className="answer">{xrefsCount.toLocaleString("en-US")}</span> Xref headwords
           </div>
         </div>
       </div>

@@ -48,7 +48,10 @@ export default function HeadwordsSearchTool(props) {
             tabIndex="1"
             onFocus={e => {
               e.target.select();
-              // document.getElementsByClassName("info-area").classList.add("hidden");
+              const subMenus = document.getElementsByClassName("hideable-area");
+              for (let i = 0; i < subMenus.length; i++) {
+                subMenus[i].classList.add("hidden");
+              }
               if (searchText.length >= 2) {
                 document.getElementById("search-results").classList.remove("hidden");
               }

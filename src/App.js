@@ -31,6 +31,12 @@ function App() {
       for (let i = 0; i < subMenus.length; i++) {
         subMenus[i].classList.add("hidden");
       }
+      if (!e.target.classList.contains("icon") && e.target.classList.length > 0) {
+        const hideableAreas = document.getElementsByClassName("hideable-area");
+        for (let i = 0; i < hideableAreas.length; i++) {
+          hideableAreas[i].classList.add("hidden");
+        }
+      }
     }
   });
 

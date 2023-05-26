@@ -8,18 +8,12 @@ import "tippy.js/dist/tippy.css"; // optional
 import getSuttaTitleBlurb from "../functions/getSuttaTitleBlurb.js";
 import getSuttaTitle from "../functions/getSuttaTitle.js";
 import convertVatthus from "../functions/convertVatthus.js";
+import justBook from "../functions/justBook.js";
+import stripRangesFromUrls from "../functions/stripRangesFromUrls.js";
 
 function Locator(props) {
   let { location } = props;
   const destination = useContext(ContextDestination);
-
-  function stripRangesFromUrls(locator) {
-    return locator.replace(/–.+/, "");
-  }
-
-  function justBook(location) {
-    return location.replace(/[0-9.-]/g, "").toLowerCase();
-  }
 
   const locationForUrl = stripRangesFromUrls(location).toLowerCase();
 
@@ -63,6 +57,7 @@ function Locator(props) {
         content={<span dangerouslySetInnerHTML={{ __html: getSuttaTitleBlurb(stripRangesFromUrls(location)) }} />}
         allowHTML={false}
         delay={300}
+        disabled={!getSuttaTitleBlurb(stripRangesFromUrls(location))}
       >
         <a href={url} rel="noreferrer" target="_blank" className={justBook(location) + " locator"}>
           {addSpace(location)}

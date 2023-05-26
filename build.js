@@ -253,17 +253,22 @@ function createIndexObject() {
     if (head === "") {
       console.log(sub, locator, i);
       console.error(`!!!!!!!!!!!!!!!!!!!!!!
-  !!!!!!!!!!!!!there is a blank headword!!!!!!!!!!!!!!!!!!!!!
+  !!!!!!!!!!!!! @${i + 1} there is a blank headword!!!!!!!!!!!!!!!!!!!!!
   !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!`);
     }
     if (/xref/.test(head)) {
       console.warn(`
       +++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-      + The headword "${head}" contains 'xref' +
+      + The headword  @${i + 1} "${head}" contains 'xref' +
       +++++++++++++++++++++++++++++++++++++++++++++++++++++++++
       `);
     }
-
+    if (/["']/.test(sub + head))
+      console.warn(`
+    """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+    " The sub/headword @${i + 1} ${head}/${sub} contains straight quotes "
+    """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+    `);
     if (!alphabetGroupedObject[firstRealLetter].hasOwnProperty(head)) {
       // the key of the headword does not exist in the object yet, so create the key and add the locator-xref object
       alphabetGroupedObject[firstRealLetter][head] = { [sub]: { locators: [], xrefs: [] } };

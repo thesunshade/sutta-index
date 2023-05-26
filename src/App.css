@@ -4,6 +4,7 @@
   --primary: #ee7121;
   --dark-primary: #6b1617;
   --offwhite: #fff9f1;
+  --dark-offwhite: #d1d1d1;
   --offblack: #150d01;
   --dark-link: #729cff;
   --dark-visited: #b472ff;
@@ -92,7 +93,7 @@ body {
 
 body.dark {
   background-color: var(--offblack);
-  color: var(--offwhite);
+  color: var(--dark-offwhite);
 }
 
 html {
@@ -253,7 +254,7 @@ App {
 }
 
 .alphabet span {
-  border-radius: 5px 5px 0px 0px;
+  border-radius: 8px 8px 0px 0px;
   padding: 4px 4px 3px 3px;
   cursor: pointer;
 }
@@ -451,7 +452,10 @@ App {
 .info-area {
   max-width: var(--max-width);
   padding: 0 0 1rem;
-  min-width: 10rem
+  min-width: 10rem;
+  overflow-y: auto;
+  max-height: 20rem;
+  overscroll-behavior: contain;
 }
 
 details summary {
@@ -589,7 +593,7 @@ a:visited {
 
 .dark .headword-link,
 .dark .headword-link:visited {
-  color: var(--offwhite)
+  color: var(--dark-offwhite)
 }
 
 .link-icon {
@@ -706,13 +710,12 @@ a:visited {
 }
 
 .stats {
-  /* color: var(--offwhite); */
-  margin: 1rem auto;
+  margin-top: 1rem;
   padding: .5rem;
   line-height: 1.6rem;
   border: solid 2px black;
   border-radius: 5px;
-  max-width: 29rem
+  max-width: 16rem
 }
 
 .dark .stats {
@@ -839,7 +842,7 @@ tr:nth-child(even) {
   display: flex;
   flex-direction: row;
   gap: 1rem;
-  justify-content: center;
+  justify-content: start;
   margin: 1rem 0 0;
   max-width: 40rem
 }

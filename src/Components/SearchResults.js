@@ -55,8 +55,10 @@ export default function SearchResults(props) {
             return null;
           })}
           {!hasResults ? (
-            <span>
+            <p style={{ lineHeight: "1.5rem" }}>
               ❌ No results. Try <span className="keys">Ctrl + f</span> for a browser search.
+              <br />
+              Most nouns are plural. E.g. <i>leaves</i> not <i>leaf</i>
               <br />
               Or send us a report so we know what is missing:{" "}
               <a
@@ -67,7 +69,7 @@ export default function SearchResults(props) {
                 <img className="icon locator-icon" width="20px" alt="" src={formIcon} />
                 Fill the simple form.
               </a>
-            </span>
+            </p>
           ) : (
             ""
           )}

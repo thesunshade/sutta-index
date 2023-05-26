@@ -5738,4 +5738,145 @@ export const blurbs = {
     "“Living in the wilderness, eating only almsfood, happy with the scraps in our bowls, let us tear apart the army of death, while remaining serene within.…",
   "thag21.1":
     "“Now that I’ve gone forth from the lay life to homelessness, I’m overrun by the rude thoughts of the Dark One.…",
+  "thig1.1":
+    " Sleep softly, little nun, wrapped in the cloth you sewed yourself; for your desire has been quelled, like vegetables boiled dry in a pot. ",
+  "thig1.2":
+    " Muttā, be released from your yokes, like the moon released from the eclipse. When your mind is released, enjoy your alms free of debt. ",
+  "thig1.3":
+    " Puṇṇā, be filled with good qualities, like the moon on the fifteenth day. When your wisdom is full, shatter the mass of darkness. ",
+  "thig1.4":
+    " Tissā, train in the trainings—don’t let your yokes overcome you. Unyoked from all yokes, live in the world free of defilements. ",
+  "thig1.5":
+    " Tissā, apply yourself to good qualities—don’t let the moment pass you by. For if you miss your moment, you’ll grieve when sent to hell. ",
+  "thig1.6":
+    " Dhīrā, touch cessation, the blissful stilling of perception. Win extinguishment, the supreme sanctuary from the yoke. ",
+  "thig1.7":
+    " She’s known as Vīrā because of her heroic qualities, a nun with faculties developed. She bears her final body, having vanquished Māra and his mount. ",
+  "thig1.8":
+    " Having gone forth out of faith, appreciate your spiritual friends, Mittā. Develop skillful qualities for the sake of finding sanctuary from the yoke. ",
+  "thig1.9":
+    " Having gone forth out of faith, appreciate your blessings, Bhadrā. Develop skillful qualities for the sake of the supreme sanctuary from the yoke. ",
+  "thig1.10":
+    " Upasamā, cross the flood, Death’s domain so hard to pass. When you have vanquished Māra and his mount, bear your final body. ",
+  "thig1.11":
+    " I’m well freed, so very well freed, freed from the three things that bent me over: the mortar, the pestle, and my humpbacked husband. I’m freed from birth and death; the conduit to rebirth is eradicated. ",
+  "thig1.12":
+    " One who is eager and determined would be filled with awareness. Their mind not bound to pleasures of sense, they’re said to be heading upstream. ",
+  "thig1.13":
+    " Do the Buddha’s bidding, you won’t regret it. Having quickly washed your feet, sit in a discreet place to meditate. ",
+  "thig1.14":
+    " Having seen the elements as suffering, don’t get reborn again. When you’ve discarded desire for rebirth, you will live at peace. ",
+  "thig1.15":
+    " I was restrained in body, speech, and mind. Having plucked out craving, root and all, I’m cooled and quenched. ",
+  "thig1.16":
+    " Sleep softly, old lady, wrapped in the cloth you sewed yourself; for your desire has been quelled, you’re cooled and quenched. ",
+  "thig1.17":
+    " I wandered for alms though feeble, leaning on a staff. My limbs wobbled and I fell to the ground right there. Seeing the danger of the body, my mind was freed. ",
+  "thig1.18":
+    " I gave up my home, my child, my cattle, and all that I love, and went forth. And now that I’ve given up desire and hate, dispelled ignorance, and plucked out craving, root and all, I’m at peace, I’m quenched. ",
+  "thig2.19":
+    " Nandā, see this bag of bones as diseased, filthy, and rotten. With mind unified and serene, meditate on the ugly aspects of the body. …",
+  "thig2.2":
+    " Of the seven awakening factors, the path for attaining extinguishment, I have developed them all, just as the Buddha taught. …",
+  "thig2.3":
+    " I’m well freed, well freed, so very well freed from the pestle! My shameless husband popped up like a mushroom, my mortar wafted like eels. …",
+  "thig2.4":
+    " The price for my services amounted to the nation of Kāsi. By setting that price, the townsfolk made me priceless. …",
+  "thig2.5": " Though I’m skinny, sick, and very feeble, I climb the mountain, leaning on a staff. …",
+  "thig2.6": " Though in pain, feeble, my youth long gone, I climb the mountain, leaning on a staff. …",
+  "thig2.7":
+    " I rejoiced in the host of gods, having observed the sabbath complete in all eight factors, on the fourteenth and the fifteenth days, …",
+  "thig2.8":
+    " My dear mother, I examined this body, up from the soles of the feet, and down from the tips of the hairs, so impure and foul-smelling. …",
+  "thig2.9":
+    " Abhayā, the body is fragile, yet ordinary people are attached to it. I'll lay down the body, aware and mindful. …",
+  "thig2.1":
+    " Four or five times I left my dwelling. I had failed to find peace of heart, or any control over my mind. Now it is the eighth night since craving was eradicated. …",
+  "thig3.1": " In the twenty-five years since I went forth, I don’t know that I had ever found serenity in my mind. …",
+  "thig3.2":
+    " Four or five times I left my dwelling. I had failed to find peace of heart, or any control over my mind. …",
+  "thig3.3":
+    " Of the seven awakening factors, the path for attaining extinguishment, I have developed them all, just as the Buddha taught. …",
+  "thig3.4":
+    " Leaving my day’s meditation on Vulture’s Peak Mountain, I saw an elephant on the riverbank having just come up from his bath. …",
+  "thig3.5":
+    " “You cry ‘Please be living!’ in the forest. Ubbirī, get a hold of yourself! Eighty-four thousand people, all named ‘living being’, have been burnt in this funeral ground: which one do you grieve for?” …",
+  "thig3.6":
+    " “What’s up with these people in Rājagaha? They sprawl like they’ve been drinking mead! They don’t attend on Sukkā as she teaches the Buddha’s instructions. …",
+  "thig3.7":
+    " “There’s no escape in the world, so what will seclusion do for you? Enjoy the delights of sensual pleasure; don’t regret it later.” …",
+  "thig3.8":
+    " “That state’s very challenging; it’s for the sages to attain. It’s not possible for a woman, with her two-fingered wisdom.” …",
+  "thig4.1":
+    " Kassapa is the son and heir of the Buddha, whose mind is immersed in samādhi. He knows his past lives, he sees heaven and places of loss, …",
+  "thig5.1":
+    " In the twenty-five years since I went forth I have not found peace of mind, even for as long as a finger-snap. …",
+  "thig5.2":
+    " Intoxicated by my appearance, my figure, my beauty, my fame, and owing to my youth, I despised other women. …",
+  "thig5.3":
+    " Due to irrational attention, I was racked by desire for pleasures of the senses. I was restless in the past, lacking control over my mind. …",
+  "thig5.4":
+    " “Nandā, see this bag of bones as diseased, filthy, and rotten. With mind unified and serene, meditate on the ugly aspects of the body: …",
+  "thig5.5":
+    " In the past I worshiped the sacred flame, the moon, the sun, and the gods. Having gone to a river ford, I plunged into the water. …",
+  "thig5.6":
+    " Having gone forth out of faith from the lay life to homelessness, I wandered here and there, jealous of possessions and honors. …",
+  "thig5.7":
+    " While staying at home I heard the teaching from a monk. I saw the stainless Dhamma, extinguishment, the imperishable state. …",
+  "thig5.8":
+    " I gave birth to ten sons in this form, this bag of bones. Then, when feeble and old, I approached a nun. …",
+  "thig5.9":
+    " My hair mown off, covered in mud, I used to wander wearing just one robe. I saw fault where there was none, and was blind to the actual fault. …",
+  "thig5.10":
+    " Plowing the fields, sowing seeds in the ground, supporting partners and children, young men acquire wealth. …",
+  "thig5.11": " “Taking a pestle, young men pound grain. Supporting partners and children, young men acquire wealth. …",
+  "thig5.12":
+    " I used to be in a sorry state. As a childless widow, bereft of friends or relatives, I got neither food nor clothes. …",
+  "thig6.1":
+    " “One whose path you do not know, not whence they came nor where they went; though they came from who knows where, you mourn that being, crying, ‘Oh my son!’ …",
+  "thig6.2":
+    " Struck down with grief for my son, deranged, out of my mind, naked, my hair flying, I wandered here and there. …",
+  "thig6.3":
+    " “You’re so young and beautiful! I too am young, just a youth. Come, Khemā, let us enjoy the music of a five-piece band.” …",
+  "thig6.4":
+    " I was adorned with jewelry and all dressed up, with garlands, and sandalwood makeup piled on, all covered over with decorations, and surrounded by my maids. …",
+  "thig6.5":
+    " I was born into an eminent family, affluent and wealthy, endowed with a beautiful complexion and figure; Majjha’s true-born daughter. …",
+  "thig6.6":
+    " Oh Buddha, my hero: homage to you! Supreme among all beings, who released me from suffering, and many other beings as well. …",
+  "thig6.7":
+    " Guttā, you have given up your child, your wealth, and all that you love. Foster the goal for which you went forth; do not fall under the mind’s control. …",
+  "thig6.8":
+    " Four or five times I left my dwelling; I had failed to find peace of heart, or any control over my mind. …",
+  "thig7.1": " “Taking a pestle, young men pound grain. Supporting partners and children, young men acquire wealth. …",
+  "thig7.2":
+    " “As a nun with developed faculties, having established mindfulness, I penetrated that peaceful state, the blissful stilling of conditions.” …",
+  "thig7.3":
+    " “A nun with faculties developed, mindful, seeing clearly, I penetrated that peaceful state, which sinners do not cultivate.” …",
+  "thig8.1":
+    " “A nun accomplished in ethics, her sense faculties well-restrained, would realize the peaceful state, so irresistible, delicious and nutritious.” …",
+  "thig9.1":
+    " “Vaḍḍha, please never ever get entangled in the world. My child, do not partake in suffering again and again. …",
+  "thig10.1":
+    " “Pointing out how the world works, the sages have praised good friendship. Associating with good friends, even a fool becomes astute. …",
+  "thig11.1":
+    " “The two of us were co-wives, though we were mother and daughter. I was struck with a sense of urgency, so astonishing and hair-raising! …",
+  "thig12.1":
+    " “I used to be a water-carrier. Even when it was cold, I would always plunge into the water, afraid of my mistresses’ beatings, harassed by fear of abuse and anger. …",
+  "thig13.1":
+    " My hair was as black as bees, graced with curly tips; now old, it has become like hemp bark—the word of the truthful one is confirmed. …",
+  "thig13.2":
+    " “You fell asleep saying ‘ascetics’; you woke up saying ‘ascetics’; you only praise ascetics, madam—surely you’ll become an ascetic. …",
+  "thig13.3":
+    " “Once I carried a hermit’s staff, but these days I hunt deer. My desires have made me unable to cross from the awful marsh to the far shore. …",
+  "thig13.4":
+    " “Before, when your children passed away, you would expose them to be eaten. All day and all night you’d be racked with despair. …",
+  "thig13.5":
+    " “I was so young, my clothes so fresh, at that time I heard the teaching. Being diligent, I comprehended the truth; …",
+  "thig14.1":
+    " Going to the lovely mango grove of Jīvaka, the nun Subhā was held up by a rascal. Subhā said this to him: …",
+  "thig15.1":
+    " In Pāṭaliputta, the cream of the world, the city named for a flower, there were two nuns from the Sakyan clan, both of them ladies of quality. …",
+  "thig16.1":
+    " In Mantāvatī city, Sumedhā, the daughter of King Koñca’s chief queen, was converted by those who practice the Buddha’s teaching.",
 };

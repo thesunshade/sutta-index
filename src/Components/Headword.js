@@ -6,6 +6,9 @@ import LocatorList from "./LocatorList";
 // functions
 import sortedKeys from "../functions/sortedKeys";
 import makeNormalizedId from "../functions/makeNormalizedId";
+import justBook from "../functions/justBook";
+import stripRangesFromUrls from "../functions/stripRangesFromUrls.js";
+import convertVatthus from "../functions/convertVatthus.js";
 
 // images
 import iconLink from "../images/link-icon.png";
@@ -17,6 +20,7 @@ import iconCopyText from "../images/copy-text.png";
 function Headword(props) {
   let { headword, headwordObject } = props;
   let sortedSubWords = sortedKeys(headwordObject);
+
   sortedSubWords = sortedSubWords.filter(item => item !== "counter");
 
   let headwordWithCount;
@@ -40,6 +44,34 @@ function Headword(props) {
     }
   } else {
     headwordWithCount = headword;
+  }
+
+  function getUrl(destination, location) {
+    let url = "";
+    // CUSTOM:Pv:Petavatthu:SuttaFriends.org/pv
+    if (/^CUSTOM:/.test(location)) {
+      const components = location.split(":");
+      location = components[2];
+      url = "https://" + components[3];
+    } else {
+      const locationForUrl = stripRangesFromUrls(location).toLowerCase();
+      switch (destination) {
+        case "SCL":
+          url = `https://sc.readingfaithfully.org?q=${locationForUrl}`;
+          break;
+        case "CH":
+          url = `https://sutta.readingfaithfully.org?q=${locationForUrl}`;
+          break;
+        case "SC":
+        default:
+          url = `https://suttacentral.net/${locationForUrl.toLowerCase()}/en/sujato`;
+      }
+      if ("vv" === justBook(location) || "pv" === justBook(location)) {
+        url = `https://SuttaFriends.org/${convertVatthus(locationForUrl)}`;
+      }
+    }
+
+    return url;
   }
 
   function copyText(headword, headwordObject) {
@@ -67,7 +99,7 @@ function Headword(props) {
   }
 
   function copyMarkdown(headword, headwordObject) {
-    let textEntry = "# " + headword + "\n\n";
+    let textEntry = "## " + headword + "\n\n";
     if (sortedSubWords.length > 0) {
       for (let i = 0; i < sortedSubWords.length; i++) {
         textEntry += "* " + sortedSubWords[i];
@@ -82,18 +114,14 @@ function Headword(props) {
         }
         for (let x = 0; x < subwordArray.length; x++) {
           const separator = x < subwordArray.length - 1 ? ", " : "";
-          let link = "";
-          switch (localStorage.destination) {
-            case "SCL":
-              link = `[${subwordArray[x]}](https://sc.readingfaithfully.org?q=${subwordArray[x]})`;
-              break;
-            case "CH":
-              link = `[${subwordArray[x]}](https://sutta.readingfaithfully.org?q=${subwordArray[x]})`;
-              break;
-            case "SC":
-            default:
-              link = `[${subwordArray[x]}](https://suttacentral.net/${subwordArray[x].toLowerCase()}/en/sujato)`;
-          }
+          let location = subwordArray[x];
+          const url = getUrl(localStorage.destination, location);
+
+          // reassign location if it is a custom link
+          if (/^CUSTOM:/.test(location)) location = location.split(":")[2];
+
+          const link = `[${location}](${url})`;
+
           textEntry += link + separator;
         }
         textEntry += "\n";
@@ -103,7 +131,7 @@ function Headword(props) {
   }
 
   function copyHtml(headword, headwordObject) {
-    let textEntry = "<h1>" + headword + "</h1>\n<ul>\n";
+    let textEntry = "<h2>" + headword + "</h2>\n<ul>\n";
     if (sortedSubWords.length > 0) {
       for (let i = 0; i < sortedSubWords.length; i++) {
         textEntry += "\t<li>" + sortedSubWords[i];
@@ -118,20 +146,14 @@ function Headword(props) {
         }
         for (let x = 0; x < subwordArray.length; x++) {
           const separator = x < subwordArray.length - 1 ? ", " : "";
-          let link = "";
-          switch (localStorage.destination) {
-            case "SCL":
-              link = `<a href="https://sc.readingfaithfully.org?q=${subwordArray[x]}">${subwordArray[x]}</a>`;
-              break;
-            case "CH":
-              link = `<a href="https://sutta.readingfaithfully.org?q=${subwordArray[x]}">${subwordArray[x]}</a>`;
-              break;
-            case "SC":
-            default:
-              link = `<a href="https://suttacentral.net/${subwordArray[x].toLowerCase()}/en/sujato">${
-                subwordArray[x]
-              }</a>`;
-          }
+          let location = subwordArray[x];
+          const url = getUrl(localStorage.destination, location);
+
+          // reassign location if it is a custom link
+          if (/^CUSTOM:/.test(location)) location = location.split(":")[2];
+
+          const link = `<a href="${url}">${location}</a>`;
+
           textEntry += link + separator;
         }
         textEntry += "</li>\n";

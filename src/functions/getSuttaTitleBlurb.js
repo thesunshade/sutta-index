@@ -3,6 +3,9 @@ import { blurbs } from "../data/blurbs";
 
 export default function getSuttaTitleBlurb(citation) {
   let title = "";
+  let blurb = "";
+  let samyutta = "";
+  let connector = "";
   const samuttaNames = {
     SN1: "Devatā Saṁyutta",
     SN2: "Devaputta Saṁyutta",
@@ -61,17 +64,21 @@ export default function getSuttaTitleBlurb(citation) {
     SN55: "Sotāpatti Saṁyutta",
     SN56: "Sacca Saṁyutta",
   };
+
   if (/^SN\d+?\./.test(citation)) {
-    let samyutta = citation.split(".")[0];
-    title += `(${samuttaNames[samyutta]}) `;
+    let samyuttaNumber = citation.split(".")[0];
+    samyutta = ` (<i>${samuttaNames[samyuttaNumber]}</i>)`;
   }
 
-  title += allSuttasPaliNameDictionary[citation]
+  title = allSuttasPaliNameDictionary[citation]
     ? `<span class="tip-name">${allSuttasPaliNameDictionary[citation]}</span>`
     : "";
-  if (allSuttasPaliNameDictionary[citation] && blurbs[citation.toLowerCase()]) {
-    title += ": ";
-  }
-  title += blurbs[citation.toLowerCase()] ? blurbs[citation.toLowerCase()] : "";
-  return title;
+
+  blurb = blurbs[citation.toLowerCase()] ? `${blurbs[citation.toLowerCase()]}` : "";
+
+  if (blurb && title) connector = ": ";
+
+  if (!blurb) return "";
+
+  return title + connector + blurb + samyutta;
 }
