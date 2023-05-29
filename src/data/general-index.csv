@@ -836,9 +836,9 @@ reciting Dhamma		xref recitation
 speaking truth		xref truthfulness
 truthfulness		xref speaking truth
 slaves		xref bondservants (dāsa)
-workers		xref servants
-workers		xref bondservants (dāsa)
-workers		xref slaves
+workers (sudda)		xref servants
+workers (sudda)		xref bondservants (dāsa)
+workers (sudda)		xref slaves
 land		xref fields
 greed (lobha)		xref greed (rāga)
 greed (lobha)		xref greed, hatred, delusion
@@ -2757,7 +2757,7 @@ Buddha, the	as doctor	Thag16.3
 perception of ugliness (asubhasañña)		Thag16.4
 wealthy people	not giving	Thag16.4
 greed (rāga)	unsatisfied	Thag16.4
-grieving		Thag16.4
+grieving	loss of family	Thag16.4
 wealth	left behind after death	Thag16.4
 wisdom (paññā)	superior to wealth	Thag16.4
 results of actions	like thief caught and punished	Thag16.4
@@ -2999,46 +2999,6 @@ loving-kindness (mettā)	Buddha truly abides in	MN55
 giving (dāna)	whom to give to	MN56
 speech	reflecting on	MN61
 loving-kindness (mettā)		MN62
-Buddha, the	description of	MN82
-Raṭṭhapāla, Ven.	going forth, etc.	MN82
-going forth (pabbajja)	parents’ permission needed	MN82
-hunger strike	to get parents’ permission to ordain	MN82
-going forth (pabbajja)	discouraging with encouragement to make merit	MN82
-parents	monk visiting	MN82
-parents	permission to ordain	MN82
-puppets	metaphor for body	MN82
-Koravya, king	discussion with Ven. Raṭṭhapāla	MN82
-loss (pārijuñña, byasana)	reasons for going forth	MN82
-loss (pārijuñña, byasana)	due to old age	MN82
-loss (pārijuñña, byasana)	due to sickness	MN82
-loss (pārijuñña, byasana)	of wealth	MN82
-loss (pārijuñña, byasana)	of relatives	MN82
-old age (jarā)	reason to go forth	MN82
-poverty	reason to go forth	MN82
-sickness	reason to go forth	MN82
-relatives	loss of as reason to go forth	MN82
-Dhamma	summaries of	MN82
-world, the	unstable and swept away 	MN82
-world, the	has no shelter and no savior	MN82
-world, the	has no owner	MN82
-world, the	wanting, insatiable, the slave of craving 	MN82
-protection (tāṇa)	not found in the world	MN82
-sickness	no one else can experience for us	MN82
-death (maraṇa)	cannot take wealth with us	MN82
-heirs	will get all of our wealth when we die	MN82
-craving (taṇha)	cannot be satisfied	MN82
-wealthy people	not giving	MN82
-grieving		MN82
-wealth	cannot stop people from aging	MN82
-death (maraṇa)	universality of	MN82
-wisdom (paññā)	superior to wealth	MN82
-punishment (daṇḍa)	for evil deeds	MN82
-going forth (pabbajja)	reasons for	MN82
-death (maraṇa)	like fruit falling from tree	MN82
-greed (rāga)	unsatisfied	MN82
-results of actions	like thief caught and punished	MN82
-wealth	left behind after death	MN82
-loving-kindness (mettā)	as a path to brahma world	MN 83
 death (maraṇa)	cause of grief	MN87
 loving-kindness (mettā)		MN93
 loving-kindness (mettā)		MN96
@@ -4116,7 +4076,7 @@ earth element (pathavī dhātu)	internal and external	MN140
 body parts	elements and	MN140
 elements	as not self	MN140
 not-self	elements as	MN140
-disenchantment (nibbidā)	with elements	MN140
+disillusionment (nibbidā)	with elements	MN140
 dispassion (virāga)	towards elements	MN140
 water element (āpo dhātu)	definition	MN140
 water element (āpo dhātu)	internal and external	MN140
@@ -4730,7 +4690,8 @@ self-reflection		AN2.4
 determination	not to move until enlightened	AN2.5
 skillful qualities (kusala dhamma)	not being satisfied with	AN2.5
 energy (vīriya)	never stop trying	AN2.5
-disenchantment (nibbidā)	with things that can fetter	AN2.6
+disenchantment (nibbidā)		xref disillusionment (nibbidā)
+disillusionment (nibbidā)	with things that can fetter	AN2.6
 conscience and prudence (hiri ottappa) 	lack of as dark	AN2.7
 conscience and prudence (hiri ottappa) 	as bright	AN2.8
 conscience and prudence (hiri ottappa) 	protectors of the world	AN2.9
@@ -11777,10 +11738,13 @@ shady orchid tree (pārichattaka)		xref coral tree (pārichattaka)
 trees		xref coral tree (pārichattaka)
 trees		xref rose-apple tree (jambu)
 coral tree (pārichattaka)	simile for wisdom being best	SN48.68
+gods of the Thirty-Three (tāvatiṁsā devā)	coral tree	SN48.68
 faculty of wisdom (paññindriya)	best, like coral tree	SN48.68
 trumpet flower tree (cittapāṭalī)	simile for wisdom being best	SN48.69
+asuras	trumpet flower tree	SN48.69
 faculty of wisdom (paññindriya)	best like trumpet flower tree	SN48.69
 silk-cotton tree (kūṭasimbalī)	simile for wisdom being best	SN48.70
+supaṇṇa	silk-cotton tree	SN48.70
 faculty of wisdom (paññindriya)	best like silk-cotton tree	SN48.70
 Ganges river	slants to the east, simile for spiritual faculties	SN48.71
 fetters (saṁyojana)	five higher, develop spiritual faculties to give up 	SN48.115
@@ -12817,3 +12781,124 @@ self (atta)	experiencing pleasure and pain	MN79
 jhānas	to realize world of perfect happiness	MN79
 goals	of monastic life	MN79
 teachers	not living as a student	MN79
+Vekhanasa, wanderer	sense pleasures best	MN80
+ultimate splendor (paramo vaṇṇo)	doctrine of Sakuludāyī	MN80
+most beautiful girl in this country (janapadakalyāṇī)	being in love with	MN80
+gems	beryl, shines like the self after death	MN80
+glowworms	outshining a gem	MN80
+oil lamps	outshining a glowworm	MN80
+bonfire	outshining an oil lamp	MN80
+stars	morning star, outshining a bonfire	MN80
+moon	full, outshining the morning star	MN80
+sun	outshining the moon	MN80
+gods	outshining the sun	MN80
+sense pleasures (kāma, kāmaguṇa)	best kind of	MN80
+false spiritual claims	of enlightenment	MN80
+babies	released from swaddling, simile for enlightenment	MN80
+enlightenment	like baby released from swaddling	MN80
+Ghaṭīkāra, householder	chief supporter of Buddha Kassapa	MN81
+Buddha, the	smiling	MN81
+Kassapa, Buddha	and lay follower Ghaṭīkāra	MN81
+Bodhisatta	reborn as Jotipāla	MN81
+Jotipāla, Bodhisatta	and Kassapa Buddha	MN81
+bathing	Ghaṭīkāra and Jotipāla	MN81
+Kikī, King	and Kassapa Buddha	MN81
+lay follower (upāsaka, upāsikā)	faith of Ghaṭīkāra	MN81
+rainy season	King Kikī inviting Kassapa Buddha	MN81
+confidence (aveccappasāda)	of Ghaṭīkāra	MN81
+precepts, ten	layperson following	MN81
+potters	Ghaṭīkāra	MN81
+Buddha, the	description of	MN82
+Raṭṭhapāla, Ven.	going forth, etc.	MN82
+going forth (pabbajja)	parents’ permission needed	MN82
+hunger strike	to get parents’ permission to ordain	MN82
+going forth (pabbajja)	discouraging with encouragement to make merit	MN82
+parents	monk visiting his	MN82
+parents	permission to ordain	MN82
+puppets	metaphor for body	MN82
+Koravya, king	discussion with Ven. Raṭṭhapāla	MN82
+loss (pārijuñña, byasana)	reasons for going forth	MN82
+loss (pārijuñña, byasana)	due to old age	MN82
+loss (pārijuñña, byasana)	due to sickness	MN82
+loss (pārijuñña, byasana)	of wealth	MN82
+loss (pārijuñña, byasana)	of relatives	MN82
+old age (jarā)	reason to go forth	MN82
+poverty	reason to go forth	MN82
+sickness	reason to go forth	MN82
+relatives	loss of as reason to go forth	MN82
+Dhamma	summaries of	MN82
+world, the	unstable and swept away 	MN82
+world, the	has no shelter and no savior	MN82
+world, the	has no owner	MN82
+world, the	wanting, insatiable, the slave of craving 	MN82
+protection (tāṇa)	not found in the world	MN82
+sickness	no one else can experience for us	MN82
+death (maraṇa)	cannot take wealth with us	MN82
+heirs	will get all of our wealth when we die	MN82
+craving (taṇha)	cannot be satisfied	MN82
+wealthy people	not giving	MN82
+grieving	loss of family	MN82
+wealth	cannot stop people from aging	MN82
+death (maraṇa)	universality of	MN82
+wisdom (paññā)	superior to wealth	MN82
+punishment (daṇḍa)	for evil deeds	MN82
+thieves (cora)	punished, simile for results of bad deeds 	MN82
+going forth (pabbajja)	reasons for	MN82
+death (maraṇa)	like fruit falling from tree	MN82
+greed (rāga)	unsatisfied	MN82
+results of actions	like thief caught and punished	MN82
+wealth	left behind after death	MN82
+fruit	falling, simile for death	MN82
+Buddha, the	smiling	MN 83
+Makhādeva, king	bodhisatta	MN 83
+Bodhisatta	reborn as king Makhādeva	MN 83
+barbers	of king Makhādeva	MN 83
+hairs	grey	MN 83
+going forth (pabbajja)	non-Buddhist	MN 83
+loving-kindness (mettā)	as a path to brahma world	MN 83
+compassion (karuna)	as a path to brahma world	MN 83
+rejoicing (mudita)	as a path to brahma world	MN 83
+equanimity (upekkhā)	as a path to brahma world	MN 83
+lifespans	very long	MN 83
+uposatha	pre-Buddhist	MN 83
+gods of the Thirty-Three (tāvatiṁsā devā)	rejoicing in righteous king	MN 83
+Sakka, Lord of Gods	fetching King Nimi to meet gods of thirty three	MN 83
+Mātali, charioteer	fetching King Nimi to meet gods of thirty three	MN 83
+practices (vatta)	proper, leading to enlightenment	MN 83
+dispassion (virāga)	practice leading to	MN 83
+disillusionment (nibbidā)	practice leading to	MN 83
+cessation (nirodha)	practice leading to	MN 83
+peace (upasama)	practice leading to	MN 83
+direct knowledges (abhiññā)	practice leading to	MN 83
+nibbāna	practice leading to	MN 83
+noble eightfold path (ariya aṭṭhangika magga)	established by the Buddha	MN 83
+nobles		xref khattiyas
+menial		xref workers (sudda)
+Mahā Kaccāna, Ven.	praise of	MN 84
+Avantiputta, king	meeting Mahā Kaccāna	MN 84
+caste	refuting	MN 84
+merchants (vessa)	equality with other castes	MN 84
+workers (sudda)	equality with other castes	MN 84
+khattiyas	equality with other castes	MN 84
+brahmins	equality with other castes	MN 84
+rebirth	caste	MN 84
+brahmins	claims of superiority	MN 84
+thieves (cora)	losing former status	MN 84
+equality (samasama)	of four castes	MN 84
+going forth (pabbajja)	from different castes	MN 84
+refuges	after the Buddha passes away	MN 84
+cloth	white, stepping on	MN 85
+Bodhi, prince	pleasure not gained through pleasure	MN 85
+happiness (sukha)	gained through pain	MN 85
+nibbāna	how long would it take to attain	MN 85
+faith (saddhā)	supports meditation	MN 85
+health	supports meditation	MN 85
+honesty	supports meditation	MN 85
+integrity	supports meditation	MN 85
+energetic (āraddhavīriya)	supports meditation	MN 85
+wisdom (paññā)	supports meditation	MN 85
+deviousness (saṭha)	hinders meditation	MN 85
+deceit (kuhaka/māyāvī)	hinders meditation	MN 85
+laziness (kusīta)	hinders meditation	MN 85
+unwise (dupañño)	hinders meditation	MN 85
+refuges	while in womb	MN 85
