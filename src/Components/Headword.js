@@ -102,7 +102,8 @@ function Headword(props) {
     let textEntry = "## " + headword + "\n\n";
     if (sortedSubWords.length > 0) {
       for (let i = 0; i < sortedSubWords.length; i++) {
-        textEntry += "* " + sortedSubWords[i];
+        console.log(sortedSubWords[i]);
+        if (sortedSubWords[i]) textEntry += "* " + sortedSubWords[i];
         if (sortedSubWords[i].length > 0) {
           textEntry += " ";
         }
