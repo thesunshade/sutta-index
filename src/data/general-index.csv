@@ -14,6 +14,16 @@ disputes	about Dhamma	SN56.9
 talk (kathā)		SN56.10
 speech	useless (tiracāna)	SN56.10
 ocean		xref Ganges river
+nobles		xref khattiyas
+ponds		xref lakes
+lakes		xref ponds
+plants		xref trees
+nature		xref animals
+nature		xref plants
+animals		xref birds
+menial		xref workers (sudda)
+matted-hair ascetic		xref jaṭilā ascetics
+anumodati		xref appreciating (anumodati)
 faculty of enlightenment (aññindriya)		xref faculty of final knowledge (aññindriya)
 faculty of masculinity (purisindriya)		xref faculties of individuals (purisindriya)
 faculties of individuals (purisindriya)		xref faculty of masculinity (purisindriya)
@@ -786,7 +796,7 @@ industrious (analasa)		xref work
 work		xref industrious (analasa)
 love for the Dhamma (dhammanandi)		xref love for the Dhamma (dhammakāma)
 love for the Dhamma (dhammakāma)		xref love for the Dhamma (dhammanandi)
-tranquilized bodily activity 		xref stilled the physical process (passaddhakāyasaṅkhāro)
+tranquilized bodily activity 		xref stilling the physical process (passaddhakāyasaṅkhāra)
 well freed in mind 		xref well liberated in mind (suvimuttacitta)
 well freed by wisdom 		xref well liberated by wisdom (suvimuttapañña)
 bodily misconduct		xref misconduct by body
@@ -1477,7 +1487,11 @@ elephants		CUSTOM:Dhp:Dhammapada Chapter 23:suttacentral.net/dhp320-333/en/sujat
 enduring abuse	like elephant	Dhp320
 elephants	simile for enduring abuse	Dhp320
 enduring abuse		Dhp320–21
-self-taming		Dhp322–23
+self-taming	one who has is better	Dhp322
+mules	self tamed person is better than fine	Dhp322
+horses	self tamed person is better than thoroughbred	Dhp322
+elephants	self tamed person is better than giant	Dhp322
+self-taming	one who has is better	Dhp323
 friendship		Dhp323
 Dhanapāla	elephant	Dhp324
 overeating	simile of hog	Dhp325
@@ -2160,15 +2174,28 @@ gods	asking questions	Snp3.6
 mendicants	young	Snp3.6
 mendicants	definition	Snp3.6
 Buddha, the	qualities of	Snp3.6
-giving (dāna)	encouraging others to	Snp3.7
+Keṇiya , ascetic	offering meal to the Buddha	Snp3.7
+jaṭilā ascetics	offering meal to the Buddha	Snp3.7
+giving (dāna)	encouraging others to, example of	Snp3.7
+Sela, brahmin	going forth; praising Buddha	Snp3.7
 “Buddha”, the word	hard to find in world	Snp3.7
-marks of a great man		Snp3.7
+marks of a great man	appearing on the Buddha 	Snp3.7
+wheel-turning monarchs	marks of a great man	Snp3.7
+treasures, seven (satta ratanāni)	of wheel-turning monarch	Snp3.7
 Buddhas	revealing themselves when praised	Snp3.7
 Buddha, the	king of Dhamma	Snp3.7
 Buddha, the	doctor	Snp3.7
 Buddhas	rarity of	Snp3.7
 Saṅgha	best recipient	Snp3.7
 Buddha, the	qualities of	Snp3.7
+general of the Dhamma (senāpati)	Ven. Sāriputta	Snp3.7
+wheel of Dhamma	Ven. Sāriputta rightly keeps rolling wheel of Dhamma	Snp3.7
+Buddhas	seeing a Buddha is rare	Snp3.7
+Buddha, the	Māra’s army	Snp3.7
+Clear-eyed One (cakkhuma)	the Buddha	Snp3.7
+lions roar	Buddha roars like	Snp3.7
+inspiration	seeing the Buddha	Snp3.7
+appreciating (anumodati)	after meal	Snp3.7
 death (maraṇa)	inevitability of	Snp3.8
 death (maraṇa)	overcome grief of	Snp3.8
 body	like a pot	Snp3.8
@@ -2768,7 +2795,7 @@ sense contact	clinging	Thag16.5
 sense contact	mindfulness 	Thag16.5
 marks of a great man	appearing on the Buddha	Thag16.5
 Buddha, the	king of Dhamma	Thag16.5
-general of the Dhamma (senāpati)		Thag16.6
+general of the Dhamma (senāpati)	Ven. Sāriputta	Thag16.6
 contentment (santuṭṭhi)	with requisites	Thag16.7
 ascetic practices (dhutaṅga)		Thag16.7
 meditation (jhāyati)		Thag16.7
@@ -3014,7 +3041,6 @@ giving (dāna)	whom to give to	MN56
 speech	reflecting on	MN61
 loving-kindness (mettā)		MN62
 death (maraṇa)	cause of grief	MN87
-loving-kindness (mettā)		MN93
 loving-kindness (mettā)		MN96
 loving-kindness (mettā)	as a path to brahma world	MN97
 generosity (cāga)	grounds for making merit	MN99
@@ -4585,7 +4611,7 @@ Kuṇḍadhāna, Ven.	foremost who are first to take a meal ticket	AN1.211
 Vaṅgīsa, Ven.	foremost of poets	AN1.212
 poetry	foremost of poets	AN1.212
 Upasena Vaṅgantaputta, Ven.	foremost who is impressive all around	AN1.213
-Dabba Mallaputta, Ven.	foremost in assigning lodgins	AN1.214
+Dabba Mallaputta, Ven.	foremost in assigning lodgings	AN1.214
 Pilindavaccha, Ven.	foremost of those beloved by gods 	AN1.215
 Bāhiya Dārucīriya	foremost with swift insight	AN1.216
 Kumārakassapa, Ven.	foremost with brilliant speech	AN1.217
@@ -4851,6 +4877,7 @@ happiness (sukha)	taints (āsava) and	AN2.67
 happiness (sukha)	material and spiritual	AN2.68
 spiritual happiness (nirāmisa sukha)	better than material happiness	AN2.68
 worldly (āmisa)	happiness 	AN2.68
+spiritual (nirāmisa)	happiness 	AN2.68
 happiness (sukha)	noble and ignoble	AN2.69
 happiness (sukha)	physical and mental	AN2.70
 happiness (sukha)	with rapture and free from rapture	AN2.71
@@ -5624,7 +5651,7 @@ protective chanting (paritta)	Khanda Paritta	AN4.67
 Buddhas, seven		AN4.67
 Devadatta	ruin of	AN4.68
 Devadatta	like bamboo that fruits and dies	AN4.68
-kings	moral leaders	AN4.70
+kings	moral leaders; causing natural disasters	AN4.70
 unrighteous (adhammika)	leaders	AN4.70
 celestial bodies	becoming erratic	AN4.70
 certainty (apaṇṇaka)		AN4.71
@@ -11769,7 +11796,7 @@ Saṅgha	different kinds of people in	MN51
 foundations of mindfulness, four (satipaṭṭhāna)	Saṅgha practices	MN51
 foundations of mindfulness, four (satipaṭṭhāna)	laypeople practicing	MN51
 elephants	showing all tricks, unlike humans	MN51
-animals	not eceptive like humans	MN51
+animals	not deceptive like humans	MN51
 humans	deceptive, unlike animals	MN51
 self-mortification (attantapo)	people who do	MN51
 mortifying others (parantapo)	people who do	MN51
@@ -12886,8 +12913,6 @@ peace (upasama)	practice leading to	MN83
 direct knowledges (abhiññā)	practice leading to	MN83
 nibbāna	practice leading to	MN83
 noble eightfold path (ariya aṭṭhangika magga)	established by the Buddha	MN83
-nobles		xref khattiyas
-menial		xref workers (sudda)
 Mahā Kaccāna, Ven.	praise of	MN84
 Avantiputta, king	meeting Mahā Kaccāna	MN84
 caste	refuting	MN84
@@ -12994,8 +13019,8 @@ gods	existing/surviving	MN90
 Pasenadi Kosala, King	simile for gods having power over other gods	MN90
 gods of the Thirty-Three (tāvatiṁsā devā)	simile for gods having power over other gods	MN90
 brahmās	existing/surviving	MN90
-anumodati		xref appreciating (anumodati)
 Brahmāyu, brahmin	marks of a great man	MN91
+vedas	memorizer of	MN91
 Buddha, the	reputation	MN91
 Uttara, student of Brahmāyu	investigating the Buddha	MN91
 wheel-turning monarchs	seven treasures	MN91
@@ -13019,3 +13044,94 @@ feet kissing	Brahmāyu kisses Buddha’s feet	MN91
 cloth	clean taking dye, simile for ready mind	MN91
 gradual instruction (anupubba katha)	to Brahmāyu	MN91
 non-returner (anāgāmi)	examples of	MN91
+Keṇiya , ascetic	offering meal to the Buddha	MN92
+jaṭilā ascetics	offering meal to the Buddha	MN92
+giving (dāna)	encouraging others to, example of	MN92
+Sela, brahmin	going forth; praising Buddha	MN92
+vedas	memorizer of	MN92
+“Buddha”, the word	hard to find in world	MN92
+marks of a great man	appearing on the Buddha 	MN92
+wheel-turning monarchs	marks of a great man	MN92
+treasures, seven (satta ratanāni)	of wheel-turning monarch	MN92
+Buddhas	revealing themselves when praised	MN92
+Buddha, the	king of Dhamma	MN92
+Buddha, the	doctor	MN92
+Buddhas	rarity of	MN92
+Saṅgha	best recipient	MN92
+Buddha, the	qualities of	MN92
+general of the Dhamma (senāpati)	Ven. Sāriputta	MN92
+wheel of Dhamma	Ven. Sāriputta rightly keeps rolling wheel of Dhamma	MN92
+Buddhas	seeing a Buddha is rare	MN92
+Buddha, the	Māra’s army	MN92
+Clear-eyed One (cakkhuma)	the Buddha	MN92
+lions roar	Buddha roars like	MN92
+inspiration	seeing the Buddha	MN92
+appreciating (anumodati)	after meal	MN92
+classes		xref caste (vaṇṇa)
+vaṇṇa		xref caste (vaṇṇa)
+brahmins		xref sacrifices (yañña)
+sacrifices (yañña)		xref brahmins
+embryo (gabbha)		xref pregnancy
+pregnancy		xref embryo (gabbha)
+caste (vaṇṇa)	purification of all four	MN93
+purity (suddhi, pārisuddhi)	of all four castes	MN93
+Assalāyana, brahmin 	arguing in favor of caste	MN93
+vedas	memorizer of	MN93
+speaker of Dhamma (dhammavādī)	Buddha as	MN93
+brahmins	claims of superiority	MN93
+pregnancy	proves brahmins are not born from Brahmā	MN93
+caste (vaṇṇa)	only two in foreign lands	MN93
+debates	about caste	MN93
+results of actions	experiencing regardless of caste	MN93
+loving-kindness (mettā)	castes, all can practice	MN93
+bathing	all castes can wash themselves	MN93
+fires	of different kinds of wood made by different castes 	MN93
+children	of mixed caste parents	MN93
+caste (vaṇṇa)	children of mixed caste parents	MN93
+horses	mated with donkey, not like mixed caste children	MN93
+donkey	mated with horse, not like mixed caste children	MN93
+mules	not like mixed caste children	MN93
+brahmins	offerings of milk-rice	MN93
+sacrifices (yañña)	offering based on qualities of recipient	MN93
+Devala the Dark	refuting caste	MN93
+embryo (gabbha)	conception of	MN93
+mortifying self (attantapo)		xref self-mortification (attantapo)
+Udena, Ven.	principled renunciate life 	MN94
+Ghoṭamukha, brahmin	principled renunciate life 	MN94
+self-mortification (attantapo)	people who do	MN94
+self-mortification (attantapo)	people who do not	MN94
+mortifying others (parantapo)	people who do	MN94
+mortifying others (parantapo)	people who do not	MN94
+happiness (sukha)	beings want happiness	MN94
+suffering (dukkha)	beings avoid	MN94
+people (puggala)	four types of and mortification	MN94
+food	ascetic practices and	MN94
+robes	ascetic practices and	MN94
+bathing	ascetic practices and	MN94
+butchers	mortifying others	MN94
+thieves (cora)	mortifying others	MN94
+killing	mortifying others	MN94
+livelihood	mortifying others	MN94
+executioner 	mortifying others	MN94
+kings	ceremonies mortifying self and others	MN94
+brahmins	ceremonies mortifying self and others	MN94
+sacrifices (yañña)	ceremonies mortifying self and others	MN94
+refuges	after the Buddha passes away	MN94
+money	not accepting	MN94
+truth		xref “Only this is true, anything else is wrong” (idameva saccaṁ, moghamaññan’ti)
+Caṅkī, brahmin	visiting the Buddha	MN95
+Buddha, the	praise of	MN95
+well born (sujāto)	Buddha	MN95
+vedas	memorizer of	MN95
+Buddha, the	going forth while young	MN95
+going forth (pabbajja)	while young, the Buddha	MN95
+devas	going for refuge to the Buddha	MN95
+Kāpaṭika, brahmin student 	questioning the Buddha	MN95
+“Only this is true, anything else is wrong” (idameva saccaṁ, moghamaññan’ti)	brahmins claiming	MN95
+blind people	line of, simile for following one who doesn’t see	MN95
+brahmins	faith like line of blind people	MN95
+oral tradition (anussava)	brahmins going by	MN95
+faith (saddhā)	brahmins going by	MN95
+preference (ruci)	can turn out two ways	MN95
+oral tradition (anussava)	can turn out two ways	MN95
+faith (saddhā)	can turn out two ways	MN95

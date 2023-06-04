@@ -4,6 +4,8 @@ const fs = require("fs");
 let locatorFirstArray = [];
 let rawIndexArray = [];
 let alphabetKeys;
+let xrefArray = [];
+
 const newObject = {
   A: {},
   B: {},
@@ -178,11 +180,8 @@ function sortCitationsList(citations) {
   bookSubList = bookSubList.flat();
 
   if (citations.length > bookSubList.length) {
-    console.warn(
-      "There is an invalid citation or a citation is missing. Check arrays below. Bad citations don't appear on the front end, so you will have to check original data"
-    );
-    console.table(citations);
-    console.table(bookSubList);
+    console.warn(`❌ There is an invalid ciation: ${citations[0]}`);
+    // console.table(citations);
   }
 
   return bookSubList;
@@ -222,10 +221,16 @@ let csvData;
 try {
   const tsvFileContents = fs.readFileSync("./src/data/general-index.csv", "utf8");
   csvData = tsvFileContents;
-  console.log("successfully read");
+  console.log("✅ successfully read");
 } catch (err) {
   console.log("There was an error");
   console.error(err);
+}
+
+function makeArrayOfXrefs(rawIndexArray) {
+  for (let i = 0; i < rawIndexArray.length; i++) {
+    if (/xref/.test(rawIndexArray[i][2])) xrefArray.push(rawIndexArray[i][2].replace("xref ", "").replace("\r", ""));
+  }
 }
 
 // build the index object
@@ -251,24 +256,12 @@ function createIndexObject() {
     const headStartingWithLetter = head.replace("“", "");
     const firstRealLetter = normalizeDiacriticString(headStartingWithLetter.charAt(0)).toUpperCase();
     if (head === "") {
-      console.log(sub, locator, i);
-      console.error(`!!!!!!!!!!!!!!!!!!!!!!
-  !!!!!!!!!!!!! @${i + 1} there is a blank headword!!!!!!!!!!!!!!!!!!!!!
-  !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!`);
+      console.error(`❌  @${i + 1} there is a blank headword! Sub: ${sub}, Locator: ${locator}`);
     }
     if (/xref/.test(head)) {
-      console.warn(`
-      +++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-      + The headword  @${i + 1} "${head}" contains 'xref' +
-      +++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-      `);
+      console.warn(`❌ The headword  @${i + 1} "${head}" contains 'xref'`);
     }
-    if (/["']/.test(sub + head))
-      console.warn(`
-    """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""
-    " The sub/headword @${i + 1} ${head}/${sub} contains straight quotes "
-    """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""
-    `);
+    if (/["']/.test(sub + head)) console.warn(`❌ The sub/headword @${i + 1} ${head}/${sub} contains straight quotes`);
     if (!alphabetGroupedObject[firstRealLetter].hasOwnProperty(head)) {
       // the key of the headword does not exist in the object yet, so create the key and add the locator-xref object
       alphabetGroupedObject[firstRealLetter][head] = { [sub]: { locators: [], xrefs: [] } };
@@ -326,6 +319,7 @@ function createIndexObject() {
   }
 
   alphabetKeys = Object.keys(newObject);
+
   for (let i = 0; i < alphabetKeys.length; i++) {
     const unsortHeadwObj = alphabetGroupedObject[alphabetKeys[i]];
     const sortedHeadwObjArr = sortedKeys(unsortHeadwObj);
@@ -333,15 +327,6 @@ function createIndexObject() {
       newObject[alphabetKeys[i]][sortedHeadwObjArr[x]] = alphabetGroupedObject[alphabetKeys[i]][sortedHeadwObjArr[x]];
     }
   }
-
-  // const object = `export const indexObject =${JSON.stringify(newObject, null, 5)}`;
-
-  // try {
-  //   fs.writeFileSync("./src/data/index-object.js", object);
-  //   console.log("indexObject written");
-  // } catch (err) {
-  //   console.error(err);
-  // }
 
   function getRootHeadword(headword) {
     return headword.replace(/ \(.+?\)/, "");
@@ -365,7 +350,6 @@ function createIndexObject() {
           counter = 1;
         }
       }
-      // console.log(getRootHeadword(headwords[x]));
     }
   }
 
@@ -373,7 +357,7 @@ function createIndexObject() {
 
   try {
     fs.writeFileSync("./src/data/index-object.js", object);
-    console.log("indexObject written");
+    console.log("✅ indexObject written");
   } catch (err) {
     console.error(err);
   }
@@ -391,9 +375,18 @@ function createHeadingsArray() {
 
   try {
     fs.writeFileSync("./src/data/headwords-array.js", headwordsArray);
-    console.log("headwordsArray written");
+    console.log("✅ headwordsArray written");
   } catch (err) {
     console.error(err);
+  }
+
+  makeArrayOfXrefs(rawIndexArray);
+
+  //go through xrefArray and make sure that each one appears in the list of headwords
+  for (let i = 0; i < xrefArray.length; i++) {
+    if (!headwordsArray.includes(xrefArray[i].trim())) {
+      console.log(`❌  ${xrefArray[i]} is not a valid xref`);
+    }
   }
 }
 
@@ -409,20 +402,34 @@ function createLocatorSortedArray() {
   // test for blank locator field
   for (let i = 0; i < locatorFirstArray.length; i++) {
     if (locatorFirstArray[i][0] === "") {
-      console.error("Missing Locator:");
-      console.error(locatorFirstArray[i]);
+      console.error(
+        `❌ Missing Locator, Head: ${locatorFirstArray[i][1]}; Sub: ${
+          locatorFirstArray[i][2] ? locatorFirstArray[i][2] : "blank"
+        }`
+      );
+      // console.error(locatorFirstArray[i]);
     }
     if (!/(DN|MN|SN|AN|Kp|Dhp|Ud|Iti|Snp|Vv|Pv|Thag|Thig|xref)/.test(locatorFirstArray[i][0])) {
-      console.error("Badd citation or xref:");
-      console.error(locatorFirstArray[i]);
+      console.error(
+        `❌ Bad citation or xref:${locatorFirstArray[i][0] ? locatorFirstArray[i][0] : "blank"}; Head: ${
+          locatorFirstArray[i][1]
+        }; Sub: ${locatorFirstArray[i][2] ? locatorFirstArray[i][2] : "blank"}`
+      );
+      // console.error(locatorFirstArray[i]);
     }
+  }
+
+  // test for blank subheads
+  let blankSubheads = 0;
+  for (let i = 0; i < locatorFirstArray.length; i++) {
+    if (locatorFirstArray[i][2] === "") blankSubheads++;
   }
 
   const array = `export const indexArray =${JSON.stringify(locatorFirstArray, null, 5)}`;
 
   try {
     fs.writeFileSync("./src/data/index-array.js", array);
-    console.log("indexArray written");
+    console.log(`✅ indexArray written with ${blankSubheads} blank subheads`);
   } catch (err) {
     console.error(err);
   }
@@ -467,11 +474,13 @@ function createLocatorSortedObject() {
 
   try {
     fs.writeFileSync("./src/data/locator-book-object.js", locatorBookObjectString);
-    console.log("locatorBookObject written");
+    console.log("✅ locatorBookObject written");
   } catch (err) {
     console.error(err);
   }
 }
+
+// test all xrefs to see if they actually exist as headwords
 
 createIndexObject();
 createLocatorSortedArray();
