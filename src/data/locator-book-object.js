@@ -3059,7 +3059,7 @@ export const locatorBookObject ={
     ],
     [
       "MN68",
-      "palm tree",
+      "palm trees",
       "cut off, simile of Buddha’s defilements cut off"
     ],
     [
@@ -3589,12 +3589,12 @@ export const locatorBookObject ={
     ],
     [
       "MN72",
-      "ocean",
+      "oceans",
       "simile for the Buddha"
     ],
     [
       "MN72",
-      "palm tree",
+      "palm trees",
       "cut off, simile of Buddha’s five aggregates cut off"
     ],
     [
@@ -3844,7 +3844,7 @@ export const locatorBookObject ={
     ],
     [
       "MN73",
-      "palm tree",
+      "palm trees",
       "cut off, simile of craving cut off"
     ],
     [
@@ -5204,7 +5204,7 @@ export const locatorBookObject ={
     ],
     [
       "MN79",
-      "bonfire",
+      "bonfires",
       "outshining an oil lamp"
     ],
     [
@@ -5299,7 +5299,7 @@ export const locatorBookObject ={
     ],
     [
       "MN79",
-      "sun",
+      "sun (sūriya)",
       "outshining the moon"
     ],
     [
@@ -5324,7 +5324,7 @@ export const locatorBookObject ={
     ],
     [
       "MN80",
-      "bonfire",
+      "bonfires",
       "outshining an oil lamp"
     ],
     [
@@ -5389,7 +5389,7 @@ export const locatorBookObject ={
     ],
     [
       "MN80",
-      "sun",
+      "sun (sūriya)",
       "outshining the moon"
     ],
     [
@@ -7849,7 +7849,7 @@ export const locatorBookObject ={
     ],
     [
       "MN105",
-      "palm tree",
+      "palm trees",
       "cannot regrow like someone given up interest in lesser topics"
     ],
     [
@@ -35788,7 +35788,7 @@ export const locatorBookObject ={
     ],
     [
       "AN7.66",
-      "ocean",
+      "oceans",
       "dries up in future"
     ],
     [
@@ -36248,7 +36248,7 @@ export const locatorBookObject ={
     ],
     [
       "AN7.72",
-      "bonfire",
+      "bonfires",
       "embracing, simile for embracing woman"
     ],
     [
@@ -37158,7 +37158,7 @@ export const locatorBookObject ={
     ],
     [
       "AN8.19",
-      "ocean",
+      "oceans",
       "loved by asuras"
     ],
     [
@@ -37238,7 +37238,7 @@ export const locatorBookObject ={
     ],
     [
       "AN8.20",
-      "ocean",
+      "oceans",
       "loved by asuras"
     ],
     [
@@ -38833,7 +38833,7 @@ export const locatorBookObject ={
     ],
     [
       "AN8.54",
-      "reservoir",
+      "reservoirs",
       "simile for loss of wealth"
     ],
     [
@@ -43468,7 +43468,7 @@ export const locatorBookObject ={
     ],
     [
       "AN10.15",
-      "ocean",
+      "oceans",
       "simile for heedfulness"
     ],
     [
@@ -45458,12 +45458,12 @@ export const locatorBookObject ={
     ],
     [
       "AN10.61",
-      "ocean",
+      "oceans",
       "rain as the cause for as simile for cause of ignorance"
     ],
     [
       "AN10.61",
-      "ocean",
+      "oceans",
       "rain as the cause for as simile for cause of knowledge and freedom"
     ],
     [
@@ -45678,12 +45678,12 @@ export const locatorBookObject ={
     ],
     [
       "AN10.62",
-      "ocean",
+      "oceans",
       "rain as the cause for as simile for cause of ignorance"
     ],
     [
       "AN10.62",
-      "ocean",
+      "oceans",
       "rain as the cause for as simile for cause of knowledge and freedom"
     ],
     [
@@ -54544,12 +54544,12 @@ export const locatorBookObject ={
     ],
     [
       "Ud5.5",
-      "ocean",
+      "oceans",
       "loved by asuras"
     ],
     [
       "Ud5.5",
-      "ocean",
+      "oceans",
       "simile for love of Dhamma-Vinaya"
     ],
     [
@@ -55341,7 +55341,7 @@ export const locatorBookObject ={
     ],
     [
       "Iti27",
-      "sun",
+      "sun (ādicca)",
       "simile for loving-kindness"
     ],
     [
@@ -55461,7 +55461,7 @@ export const locatorBookObject ={
     ],
     [
       "Iti48",
-      "iron ball",
+      "iron balls",
       "eating"
     ],
     [
@@ -60991,7 +60991,7 @@ export const locatorBookObject ={
     ],
     [
       "Thig16.1",
-      "ocean",
+      "oceans",
       "of tears, simile for saṁsara"
     ],
     [

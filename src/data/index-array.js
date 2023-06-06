@@ -16301,7 +16301,7 @@ export const indexArray =[
      ],
      [
           "AN7.66",
-          "ocean",
+          "oceans",
           "dries up in future"
      ],
      [
@@ -16761,7 +16761,7 @@ export const indexArray =[
      ],
      [
           "AN7.72",
-          "bonfire",
+          "bonfires",
           "embracing, simile for embracing woman"
      ],
      [
@@ -17671,7 +17671,7 @@ export const indexArray =[
      ],
      [
           "AN8.19",
-          "ocean",
+          "oceans",
           "loved by asuras"
      ],
      [
@@ -17751,7 +17751,7 @@ export const indexArray =[
      ],
      [
           "AN8.20",
-          "ocean",
+          "oceans",
           "loved by asuras"
      ],
      [
@@ -19346,7 +19346,7 @@ export const indexArray =[
      ],
      [
           "AN8.54",
-          "reservoir",
+          "reservoirs",
           "simile for loss of wealth"
      ],
      [
@@ -23981,7 +23981,7 @@ export const indexArray =[
      ],
      [
           "AN10.15",
-          "ocean",
+          "oceans",
           "simile for heedfulness"
      ],
      [
@@ -25971,12 +25971,12 @@ export const indexArray =[
      ],
      [
           "AN10.61",
-          "ocean",
+          "oceans",
           "rain as the cause for as simile for cause of ignorance"
      ],
      [
           "AN10.61",
-          "ocean",
+          "oceans",
           "rain as the cause for as simile for cause of knowledge and freedom"
      ],
      [
@@ -26191,12 +26191,12 @@ export const indexArray =[
      ],
      [
           "AN10.62",
-          "ocean",
+          "oceans",
           "rain as the cause for as simile for cause of ignorance"
      ],
      [
           "AN10.62",
-          "ocean",
+          "oceans",
           "rain as the cause for as simile for cause of knowledge and freedom"
      ],
      [
@@ -34071,7 +34071,7 @@ export const indexArray =[
      ],
      [
           "Iti27",
-          "sun",
+          "sun (ādicca)",
           "simile for loving-kindness"
      ],
      [
@@ -34191,7 +34191,7 @@ export const indexArray =[
      ],
      [
           "Iti48",
-          "iron ball",
+          "iron balls",
           "eating"
      ],
      [
@@ -38581,7 +38581,7 @@ export const indexArray =[
      ],
      [
           "MN68",
-          "palm tree",
+          "palm trees",
           "cut off, simile of Buddha’s defilements cut off"
      ],
      [
@@ -39111,12 +39111,12 @@ export const indexArray =[
      ],
      [
           "MN72",
-          "ocean",
+          "oceans",
           "simile for the Buddha"
      ],
      [
           "MN72",
-          "palm tree",
+          "palm trees",
           "cut off, simile of Buddha’s five aggregates cut off"
      ],
      [
@@ -39366,7 +39366,7 @@ export const indexArray =[
      ],
      [
           "MN73",
-          "palm tree",
+          "palm trees",
           "cut off, simile of craving cut off"
      ],
      [
@@ -40726,7 +40726,7 @@ export const indexArray =[
      ],
      [
           "MN79",
-          "bonfire",
+          "bonfires",
           "outshining an oil lamp"
      ],
      [
@@ -40821,7 +40821,7 @@ export const indexArray =[
      ],
      [
           "MN79",
-          "sun",
+          "sun (sūriya)",
           "outshining the moon"
      ],
      [
@@ -40846,7 +40846,7 @@ export const indexArray =[
      ],
      [
           "MN80",
-          "bonfire",
+          "bonfires",
           "outshining an oil lamp"
      ],
      [
@@ -40911,7 +40911,7 @@ export const indexArray =[
      ],
      [
           "MN80",
-          "sun",
+          "sun (sūriya)",
           "outshining the moon"
      ],
      [
@@ -43371,7 +43371,7 @@ export const indexArray =[
      ],
      [
           "MN105",
-          "palm tree",
+          "palm trees",
           "cannot regrow like someone given up interest in lesser topics"
      ],
      [
@@ -59151,7 +59151,7 @@ export const indexArray =[
      ],
      [
           "Thig16.1",
-          "ocean",
+          "oceans",
           "of tears, simile for saṁsara"
      ],
      [
@@ -59946,12 +59946,12 @@ export const indexArray =[
      ],
      [
           "Ud5.5",
-          "ocean",
+          "oceans",
           "loved by asuras"
      ],
      [
           "Ud5.5",
-          "ocean",
+          "oceans",
           "simile for love of Dhamma-Vinaya"
      ],
      [

@@ -7155,7 +7155,7 @@ export const indexObject ={
                     "xrefs": []
                }
           },
-          "bonfire": {
+          "bonfires": {
                "embracing, simile for embracing woman": {
                     "locators": [
                          "AN7.72"
@@ -8849,6 +8849,12 @@ export const indexObject ={
                }
           },
           "calf": {
+               "": {
+                    "locators": [],
+                    "xrefs": [
+                         "xref cows"
+                    ]
+               },
                "simile for young monks": {
                     "locators": [
                          "MN67"
@@ -9589,6 +9595,12 @@ export const indexObject ={
                }
           },
           "chickens": {
+               "": {
+                    "locators": [],
+                    "xrefs": [
+                         "xref eggs"
+                    ]
+               },
                "simile for developing good qualities, not just wishing": {
                     "locators": [
                          "MN53",
@@ -11690,6 +11702,13 @@ export const indexObject ={
                }
           },
           "cows": {
+               "": {
+                    "locators": [],
+                    "xrefs": [
+                         "xref calf",
+                         "xref oxen"
+                    ]
+               },
                "death by": {
                     "locators": [
                          "Ud1.10"
@@ -22255,6 +22274,12 @@ export const indexObject ={
                }
           },
           "fires": {
+               "": {
+                    "locators": [],
+                    "xrefs": [
+                         "xref bonfires"
+                    ]
+               },
                "types of, literal and figurative": {
                     "locators": [
                          "AN7.46"
@@ -33231,17 +33256,10 @@ export const indexObject ={
                     "xrefs": []
                }
           },
-          "iron ball": {
-               "eating": {
-                    "locators": [
-                         "Iti48"
-                    ],
-                    "xrefs": []
-               }
-          },
           "iron balls": {
                "eating": {
                     "locators": [
+                         "Iti48",
                          "Iti91"
                     ],
                     "xrefs": []
@@ -35472,7 +35490,8 @@ export const indexObject ={
                "": {
                     "locators": [],
                     "xrefs": [
-                         "xref ponds"
+                         "xref ponds",
+                         "xref reservoirs"
                     ]
                },
                "simile for second jhāna": {
@@ -42829,7 +42848,12 @@ export const indexObject ={
                     "locators": [],
                     "xrefs": [
                          "xref animals",
-                         "xref plants"
+                         "xref lakes",
+                         "xref mountains",
+                         "xref plants",
+                         "xref rivers",
+                         "xref stars",
+                         "xref wilderness (arañña)"
                     ]
                },
                "as pleasing": {
@@ -44603,7 +44627,7 @@ export const indexObject ={
                     "xrefs": []
                }
           },
-          "ocean": {
+          "oceans": {
                "": {
                     "locators": [],
                     "xrefs": [
@@ -45663,6 +45687,12 @@ export const indexObject ={
                }
           },
           "oxen": {
+               "": {
+                    "locators": [],
+                    "xrefs": [
+                         "xref cows"
+                    ]
+               },
                "simile for unlearned person": {
                     "locators": [
                          "Dhp152"
@@ -45866,7 +45896,7 @@ export const indexObject ={
                     "xrefs": []
                }
           },
-          "palm tree": {
+          "palm trees": {
                "cannot regrow like someone given up interest in lesser topics": {
                     "locators": [
                          "MN105"
@@ -47841,6 +47871,12 @@ export const indexObject ={
                "": {
                     "locators": [],
                     "xrefs": [
+                         "xref flowers",
+                         "xref fruit",
+                         "xref grains",
+                         "xref reeds",
+                         "xref seeds",
+                         "xref trees",
                          "xref trees"
                     ]
                },
@@ -52024,7 +52060,7 @@ export const indexObject ={
                     "xrefs": []
                }
           },
-          "reservoir": {
+          "reservoirs": {
                "simile for loss of wealth": {
                     "locators": [
                          "AN8.54"
@@ -58400,6 +58436,7 @@ export const indexObject ={
                "": {
                     "locators": [],
                     "xrefs": [
+                         "xref venom",
                          "xref viper"
                     ]
                },
@@ -60930,17 +60967,10 @@ export const indexObject ={
                     "xrefs": []
                }
           },
-          "sun": {
+          "sun (ādicca)": {
                "simile for loving-kindness": {
                     "locators": [
                          "Iti27"
-                    ],
-                    "xrefs": []
-               },
-               "outshining the moon": {
-                    "locators": [
-                         "MN79",
-                         "MN80"
                     ],
                     "xrefs": []
                },
@@ -60963,6 +60993,13 @@ export const indexObject ={
                "light landing on wall, simile for rooted faith": {
                     "locators": [
                          "SN48.42"
+                    ],
+                    "xrefs": []
+               },
+               "outshining the moon": {
+                    "locators": [
+                         "MN79",
+                         "MN80"
                     ],
                     "xrefs": []
                },
@@ -62721,6 +62758,16 @@ export const indexObject ={
                }
           },
           "trees": {
+               "": {
+                    "locators": [],
+                    "xrefs": [
+                         "xref Bodhi Tree",
+                         "xref coral tree (pārichattaka)",
+                         "xref palm trees",
+                         "xref rose-apple tree (jambu)",
+                         "xref silk-cotton tree (kūṭasimbalī)"
+                    ]
+               },
                "planting": {
                     "locators": [
                          "Vv77"
@@ -62812,13 +62859,6 @@ export const indexObject ={
                          "SN47.13"
                     ],
                     "xrefs": []
-               },
-               "": {
-                    "locators": [],
-                    "xrefs": [
-                         "xref coral tree (pārichattaka)",
-                         "xref rose-apple tree (jambu)"
-                    ]
                },
                "full of fruit, simile for sense pleasures": {
                     "locators": [
