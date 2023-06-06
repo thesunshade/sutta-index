@@ -27,38 +27,22 @@ export default function Info() {
         <summary>How to use the index</summary>
         <div>
           <p>
-            First, look things up by <em>noun</em> followed by an <em>adjective</em>. If that doesn't work, then try the
-            adjective.
+            First, look things up by <em>noun</em> followed by an <em>adjective</em>. If that doesn't work, then try the adjective.
           </p>
           <p>In some instances, a specific word may be indexed but not appear in the sutta. </p>
           <p>
-            for the sake of simplicity, thee grammar of head and sub words may not always match. For example,{" "}
-            <i>energetic, as protector</i> might be more accurately written as <i>energetic, being as protector</i>,
-            which more verbosely would be written as <i>energetic, being energetic as protector.</i>
+            for the sake of simplicity, thee grammar of head and sub words may not always match. For example, <i>energetic, as protector</i> might be more accurately written as <i>energetic, being as protector</i>, which more verbosely would be written as <i>energetic, being energetic as protector.</i>
           </p>
-          <p>
-            In all cases, one should actually read the sutta being refrenced and not rely on the index headings or
-            subheadings. For example, some wrong views may be indexed in a way that is not immediately apparent that
-            they are such. So actually reading the sutta is critical for understanding the matter at hand.
-          </p>
+          <p>In all cases, one should actually read the sutta being refrenced and not rely on the index headings or subheadings. For example, some wrong views may be indexed in a way that is not immediately apparent that they are such. So actually reading the sutta is critical for understanding the matter at hand.</p>
           <p>Diacritics are ignored for alphabetization.</p>
         </div>
       </details>
       <details>
         <summary>Pāli</summary>
         <div>
-          <p>
-            Pāli is given for some terms. The Pāli is generally in the singular, though the term in the text may be
-            plural.
-          </p>
-          <p>
-            Generally, headwords will be in English. For some words where the Pāli is more concise and well known (e.g.
-            Bodhisatta, paccekabuddha) it will be listed under Pāli.
-          </p>
-          <p>
-            In some cases, although a Pāli word may appear in parentheses in the head word, the Pāli word may not appear
-            in the text.
-          </p>
+          <p>Pāli is given for some terms. The Pāli is generally in the singular, though the term in the text may be plural.</p>
+          <p>Generally, headwords will be in English. For some words where the Pāli is more concise and well known (e.g. Bodhisatta, paccekabuddha) it will be listed under Pāli.</p>
+          <p>In some cases, although a Pāli word may appear in parentheses in the head word, the Pāli word may not appear in the text.</p>
         </div>
       </details>
       <details>
@@ -87,8 +71,7 @@ export default function Info() {
         <summary>Coverage</summary>
         <div className="row-2">
           <div>
-            Complete:{" "}
-            <span className="answer">MN 51–93, 101–152, SN45–48, AN, Kp, Dhp, Ud, Iti, Snp, Vv, Pv, Thag, Thig</span>
+            Complete: <span className="answer">MN 51–96, 101–152, SN45–48, AN, Kp, Dhp, Ud, Iti, Snp, Vv, Pv, Thag, Thig</span>
           </div>
           <div>
             In Progress: <span className="answer">MN 1–100</span>
@@ -99,8 +82,7 @@ export default function Info() {
         </div>
         <p>
           <br />
-          All citation for Vimanavatthu and Petavatthu link to SuttaFriends.org as it is the only complete online
-          resource.
+          All citation for Vimanavatthu and Petavatthu link to SuttaFriends.org as it is the only complete online resource.
         </p>
       </details>
       <OtherToolsIcons />
