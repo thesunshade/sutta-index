@@ -181,7 +181,6 @@ function sortCitationsList(citations) {
 
   if (citations.length > bookSubList.length) {
     console.warn(`❌ There is an invalid ciation: ${citations[0]}`);
-    // console.table(citations);
   }
 
   return bookSubList;
@@ -223,7 +222,7 @@ try {
   csvData = tsvFileContents;
   console.log("✅ successfully read");
 } catch (err) {
-  console.log("There was an error");
+  console.log("❌There was an error reading");
   console.error(err);
 }
 
@@ -359,6 +358,7 @@ function createIndexObject() {
     fs.writeFileSync("./src/data/index-object.js", object);
     console.log("✅ indexObject written");
   } catch (err) {
+    console.log("❌There was an error writing indexObject");
     console.error(err);
   }
 }
@@ -377,6 +377,7 @@ function createHeadingsArray() {
     fs.writeFileSync("./src/data/headwords-array.js", headwordsArray);
     console.log("✅ headwordsArray written");
   } catch (err) {
+    console.log("❌There was an error writing headwordsArray");
     console.error(err);
   }
 
@@ -407,7 +408,6 @@ function createLocatorSortedArray() {
           locatorFirstArray[i][2] ? locatorFirstArray[i][2] : "blank"
         }`
       );
-      // console.error(locatorFirstArray[i]);
     }
     if (!/(DN|MN|SN|AN|Kp|Dhp|Ud|Iti|Snp|Vv|Pv|Thag|Thig|xref)/.test(locatorFirstArray[i][0])) {
       console.error(
@@ -415,7 +415,6 @@ function createLocatorSortedArray() {
           locatorFirstArray[i][1]
         }; Sub: ${locatorFirstArray[i][2] ? locatorFirstArray[i][2] : "blank"}`
       );
-      // console.error(locatorFirstArray[i]);
     }
   }
 
@@ -429,8 +428,9 @@ function createLocatorSortedArray() {
 
   try {
     fs.writeFileSync("./src/data/index-array.js", array);
-    console.log(`✅ indexArray written with ${blankSubheads} blank subheads`);
+    console.log(`✅ indexArray written with ⫷ ${blankSubheads}⫸ blank subheads`);
   } catch (err) {
+    console.log("❌There was an error writing indexArray");
     console.error(err);
   }
 }
@@ -476,6 +476,7 @@ function createLocatorSortedObject() {
     fs.writeFileSync("./src/data/locator-book-object.js", locatorBookObjectString);
     console.log("✅ locatorBookObject written");
   } catch (err) {
+    console.log("❌There was an error writing locatorBookObject");
     console.error(err);
   }
 }
