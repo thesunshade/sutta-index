@@ -14,7 +14,17 @@ disputes	about Dhamma	SN56.9
 talk (kathā)		SN56.10
 speech	useless (tiracāna)	SN56.10
 oceans		xref Ganges river
+eyes		xref divine eye (dibbacakkhu)
+eyes		xref eye of wisdom (paññācakkhu)
 nobles		xref khattiyas
+entertainment		xref dancing
+entertainment		xref singing
+entertainment		xref music
+entertainment		xref shows
+dancing		xref entertainment
+singing		xref entertainment
+music		xref entertainment
+shows		xref entertainment
 oxen		xref cows
 cows		xref oxen
 trees		xref palm trees
@@ -35,6 +45,7 @@ nature		xref lakes
 nature		xref rivers
 nature		xref wilderness (arañña)
 nature		xref stars
+nature		xref oceans
 fires		xref bonfires
 chickens		xref eggs
 cows		xref calf
@@ -1377,7 +1388,7 @@ heedfulness (appamāda)	simile of moon	Dhp172
 heedfulness (appamāda)	simile of moon	Dhp173
 heaven (sagga)	simile of bird and net	Dhp174
 heaven (sagga)	few reborn in	Dhp174
-lying	person who lies can do anything 	Dhp176
+lying	person who lies can do anything	Dhp176
 giving (dāna)	praised by wise	Dhp177
 stream-enterers (sotāpanna)	better than heaven	Dhp178
 Buddha, the		CUSTOM:Dhp:Dhammapada Chapter 14:suttacentral.net/dhp179-196/en/sujato
@@ -1571,32 +1582,39 @@ giving (dāna)	to one free from greed	Dhp356
 giving (dāna)	to one free from hate	Dhp357
 giving (dāna)	to one free from delusion	Dhp358
 giving (dāna)	to one free from desire	Dhp359
-restraint		Dhp360–63
-Dhamma teaching		Dhp363
+restraint	body 	Dhp360
+eyes	restraint	Dhp360
+ears	restraint	Dhp360
+noses	restraint	Dhp360
+restraint	body, speech, mind	Dhp361
+restraint	mendicant	Dhp362
+restraint	words are sweet	Dhp363
+Dhamma teaching	of one who is restrained	Dhp363
 Dhamma	delight in	Dhp364
 envy (issā)	block to concentration	Dhp365
 livelihood	monastic	Dhp366
 praise	by gods	Dhp366
-loving-kindness (mettā)		Dhp368
+loving-kindness (mettā)	leads to enlightenment	Dhp368
 sense pleasures (kāma, kāmaguṇa)	like iron ball	Dhp371
 wisdom (paññā)	concentration and	Dhp372
 concentration (samādhi)	wisdom	Dhp372
-mindfulness (sati)		Dhp374
-monastic rules (vinaya)		Dhp375
-restraint		Dhp375
-friendship		Dhp376
-self-reflection		Dhp379
+mindfulness (sati)	of aggregates	Dhp374
+monastic rules (vinaya)	start of path	Dhp375
+restraint	start of path	Dhp375
+spiritual friends (kalyāṇamitta)	association with	Dhp376
+self-reflection	leads to happiness	Dhp379
 restraint	like thoroughbred	Dhp380
 mendicants	young	Dhp382
 brahmin	true meaning	CUSTOM:Dhp:Dhammapada Chapter 26:suttacentral.net/dhp383-423/en/sujato
-retaliation		Dhp389
+retaliation	should not	Dhp389
 cruelty (hiṁsa, vihiṁsa)	as cruelty reduces, so does suffering	Dhp390
 honor	your Dhamma teacher	Dhp392
 learning	honor your teacher	Dhp392
 Dhamma teachers	should honor	Dhp393
-external qualities		Dhp393–94
+external appearance	as deceiving	Dhp393
+external appearance	as deceiving	Dhp394
 enduring abuse		Dhp399
-patience (khanti)		Dhp399
+patience (khanti)	powerful army	Dhp399
 solitary life		Dhp404
 hope (āsa)	no need for	Dhp410
 deathless (amata)		Dhp411
@@ -1893,7 +1911,7 @@ heedfulness (appamāda)	results now and in future	Iti23
 heedfulness (appamāda)	in making merit	Iti23
 saṁsāra	mountain of bones of one person	Iti24
 saṁsāra	length of	Iti24
-false speech		Iti25
+lying	person who lies can do anything	Iti25
 lying	indicator of shamelessness	Iti25
 giving (dāna)	last bite of food	Iti26
 giving (dāna)	result of	Iti26
@@ -1950,9 +1968,9 @@ merit (puññā)	grounds for making	Iti60
 giving (dāna)	grounds for making merit	Iti60
 virtue (sīla) 	grounds for making merit	Iti60
 meditation	grounds for making merit	Iti60
-eyes		Iti61
-divine eye (dibbacakkhu)		Iti61
-eye of wisdom (paññācakkhu)		Iti61
+eyes	three	Iti61
+divine eye (dibbacakkhu)	not supreme	Iti61
+eye of wisdom (paññācakkhu)	supreme 	Iti61
 faculties (indriya)	three 	Iti62
 faculty “I will know the unknown” (anaññātaññassāmītindriya)	of three faculties	Iti62
 faculty of final knowledge (aññindriya)	of three faculties	Iti62
@@ -2121,13 +2139,13 @@ alcoholics	putting in charge	Snp1.6
 ambition	unrealistic	Snp1.6
 alcohol	causing downfall	Snp1.6
 outcast (vasala)	real meaning of	Snp1.7
-fire worship (aggika)		Snp1.7
+fire worship (aggika)	brahmins	Snp1.7
 debt (iṇa)	avoidance of paying	Snp1.7
 parents	not caring for	Snp1.7
 bad actions	not wanting to get caught	Snp1.7
-false spiritual claims		Snp1.7
+false spiritual claims	of enlightenment	Snp1.7
 actions (kamma)	actions, not birth defines a person	Snp1.7
-caste		Snp1.7
+caste	refuting	Snp1.7
 birth is not determinant		Snp1.7
 loving-kindness (mettā)		Snp1.8
 yakkhas		Snp1.9
@@ -2651,7 +2669,7 @@ mind	like a monkey	Thag2.3
 speech	speaking little	Thag2.4
 mind	like poorly/well roofed house	Thag2.7
 women	danger for monks	Thag2.9
-external qualities		Thag2.10
+external appearance	not most important	Thag2.10
 learning	eagerness to	Thag2.11
 monastic life	living with the Saṅgha	Thag2.11
 life	shortness of	Thag2.13
@@ -2689,7 +2707,7 @@ fire worship (aggika)		Thag3.1
 determination	not to move until enlightened	Thag3.2
 talking without doing		Thag3.3
 contentment (santuṭṭhi)	with four requisites	Thag3.4
-excuses		Thag3.5
+excuses	missing opportunities	Thag3.5
 loving-kindness (mettā)	mind of love makes merit	Thag3.7
 monastics	family of	Thag3.8
 Dhamma teaching	to ones family	Thag3.8
@@ -3313,13 +3331,13 @@ bad monastics	gone forth without faith	MN107
 good monastics	gone forth out of faith	MN107
 Buddha, the	advice is best of all	MN107
 fragrances	best of	MN107
-Gopakamoggallāna, brahmin		MN108
+Gopakamoggallāna, brahmin	questions about the Buddha	MN108
 Ānanda, Ven.	are there any mendicants like the Buddha	MN108
 Buddha, the	description of	MN108
 Buddha, the	different from disciples	MN108
 disciples of the Buddha	different from the Buddha	MN108
 Buddha, the	discoverer of the path	MN108
-Vassakāra, brahmin		MN108
+Vassakāra, brahmin	questions about the Buddha	MN108
 refuges	did Buddha appoint a refuge for when he was gone?	MN108
 refuges	after the Buddha passes away	MN109
 leadership	of Saṅgha after Buddha’s passing	MN108
@@ -3330,7 +3348,7 @@ offences against monastic rules (āpatti)	confession of	MN108
 respect (gārava)	for monk with ten qualities	MN108
 virtue (sīla)	respecting a monk with	MN108
 learned (bahussutā)	respecting a monk who is	MN108
-good in the beginning, etc.		MN108
+good in the beginning, etc.	Dhamma	MN108
 contentment (santuṭṭhi)	respecting a monk who is content with requisites	MN108
 jhānas	respecting a monk who gets	MN108
 psychic powers (iddhi)	respecting a monk who has	MN108
@@ -3549,15 +3567,14 @@ bad actions	impossible for good results to come from	MN115
 good actions	impossible for bad results to come from	MN115
 bad actions	impossible to lead to good destination	MN115
 good actions	impossible to lead to bad destination	MN115
-Vebhāra, mountain		MN116
-Paṇḍava, mountain		MN116
-Vepulla, mountain		MN116
-Gijjhakūṭa, mountain		MN116
-Isigili, mountain		MN116
+Vebhāra, mountain	name changing	MN116
+Paṇḍava, mountain	name changing	MN116
+Vepulla, mountain	name changing	MN116
+Gijjhakūṭa, mountain	name changing	MN116
+Isigili, mountain	paccekabuddhas	MN116
 paccekabuddhas	on Isigili mountain	MN116
-right speech (sammā vācā)		MN117
 right speech (sammā vācā)	abolishes wrong speech	MN117
-wrong speech (micchā vācā)		MN117
+wrong speech (micchā vācā)	abolished by right speech	MN117
 noble right concentration (ariyo sammāsamādhi)	conditions of	MN117
 noble eightfold path (ariya aṭṭhangika magga)	sequential causes	MN117
 unification of mind (cittassa ekaggatā)	condition for noble right concentration	MN117
@@ -3585,7 +3602,7 @@ doctrine of no-cause/non-causality (ahetuvādā)	teachers of	MN117
 doctrine of inaction/non-doing (akiriyavādā)	teachers of	MN117
 doctrine of nihilism (natthikavādā)	teachers of	MN117
 uposatha	sermon given on	MN118
-Komudi full moon 		MN118
+Komudi full moon 	rainy season	MN118
 foundations of mindfulness, four (satipaṭṭhāna)	monks committed to developing	MN118
 right effort (sammā vāyāma)	monks committed to developing	MN118
 bases of psychic power (iddhipāda)	monks committed to developing	MN118
@@ -3704,15 +3721,15 @@ Gods of Streaming Radiance (ābhassarā devā)	aspiring to be reborn as	MN120
 Gods of Limited Glory (parittasubhā devā)	aspiring to be reborn as	MN120
 Gods of Limitless Glory (appamāṇasubhā devā)	aspiring to be reborn as	MN120
 Gods Replete with Glory (subhakiṇhā devā)	aspiring to be reborn as	MN120
-Gods of Abundant Fruit (vehapphalā devā)		MN120
+Gods of Abundant Fruit (vehapphalā devā)	aspiring to be reborn as	MN120
 Gods of Aviha (avihā devā)	aspiring to be reborn as	MN120
-Gods of Atappa (atappā devā) 		MN120
+Gods of Atappa (atappā devā) 	aspiring to be reborn as	MN120
 Gods Fair to See (sudassā devā)	aspiring to be reborn as	MN120
-Fair Seeing Gods (sudassī devā)		MN120
+Fair Seeing Gods (sudassī devā)	aspiring to be reborn as	MN120
 Gods of Akaniṭṭha (akaniṭṭhā devā)	aspiring to be reborn as	MN120
-gods of the dimension of infinite space (ākāsānañcāyatana devā)		MN120
+gods of the dimension of infinite space (ākāsānañcāyatana devā)	aspiring to be reborn as	MN120
 gods of the dimension of infinite consciousness (viññāṇañcāyatana devā)	aspiring to be reborn as	MN120
-gods of the dimension of nothingness (ākiñcaññāyatanūpagānaṁ devā)		MN120
+gods of the dimension of nothingness (ākiñcaññāyatanūpagānaṁ devā)	aspiring to be reborn as	MN120
 gods of the dimension of neither perception nor non-perception (nevasaññānāsaññāyatanūpagā devā)	aspiring to be reborn as	MN120
 heart’s release (cetovimutti)	aspiring to attain	MN120
 release by wisdom (paññavimutti)	aspiring to attain	MN120
@@ -3816,8 +3833,8 @@ butter	person needing, simile of right and wrong practice	MN126
 fire	person needing, simile of right and wrong practice	MN126
 noble eightfold path (ariya aṭṭhangika magga)	does bear fruit	MN126
 loving-kindness (mettā)	as immeasurable deliverance	MN127
-Pañcakaṅga, master builder		MN127
-Anuruddha, Ven.		MN127
+Pañcakaṅga, master builder	asking about meditation	MN127
+Anuruddha, Ven.	limitless release of the heart, the expansive release of the heart 	MN127
 limitless release of heart (appamāṇa cetovimutti)	expansive release of heart compared to	MN127
 expansive release of heart (mahaggata cetovimutti) 	limitless release of heart compared to	MN127
 limitless release of heart (appamāṇa cetovimutti)	definition	MN127
@@ -4495,8 +4512,8 @@ almsfood	purification of	MN151
 purification	of almsfood	MN151
 Uttara, student of Pārāsariya	development of faculties	MN152
 faculties, sense (indriya)	development of 	MN152
-blind people		MN152
-deaf people		MN152
+blind people	developed faculties	MN152
+deaf people	developed faculties	MN152
 sense bases (āyatanā)	equanimity towards senses	MN152
 equanimity (upekkhā)	towards sense contact	MN152
 eyes	opening and closing as simile for controlling the mind	MN152
@@ -5032,7 +5049,7 @@ Dhamma	honored by the Buddha	AN3.14
 wheels	made well	AN3.15
 chariot-maker	Bodhisatta as	AN3.15
 Bodhisatta	as chariot-maker	AN3.15
-Pacetana, king		AN3.15
+Pacetana, king	ordering a chariot.	AN3.15
 sense doors, guarding (indriyesu guttadvāra)	definition	AN3.16
 eating in moderation	definition	AN3.16
 wakefulness (jāgara)	definition	AN3.16
@@ -5213,19 +5230,19 @@ jhānas	as “luxurious bed” of gods	AN3.63
 unwholesome roots (rāga, dosa, moha)	removal of is “luxurious bed” of noble ones	AN3.63
 Sarabha, wanderer	false claims	AN3.64
 lions roar	of the Buddha	AN3.64
-false claims about the Buddha		AN3.64
+false accusations	about the Buddha	AN3.64
 false spiritual claims	to have learned the teachings	AN3.64
 loving-kindness (mettā)	to gain the four assurances	AN3.65
-Kālāmas, people 		AN3.65
-Kesamutta, town 		AN3.65
+Kālāmas, people 	choosing a teaching	AN3.65
+Kesamutta, town 	Kālāma people	AN3.65
 oral tradition (anussava)	going by	AN3.65
 lineage (paramparāya)	going by	AN3.65
 logic (takkahetu)	going by	AN3.65
 unwholesome roots (lobha, dosa, moha)	causes visible harm in a person	AN3.65
-blamed by the wise (viññugarahita)		AN3.65
+blamed by the wise (viññugarahita)	qualities 	AN3.65
 skillfulness and unskillfulness	seeing difference between	AN3.65
-praised by the wise (viññuppasatthā)		AN3.65
-assurances, four (assāsa)		AN3.65
+praised by the wise (viññuppasatthā)	qualities 	AN3.65
+assurances, four (assāsa)	results of actions	AN3.65
 Nandaka, Ven.		AN3.66
 unwholesome roots (lobha, dosa, moha)	as real	AN3.66
 oral tradition (anussava)	going by	AN3.66
@@ -5855,7 +5872,7 @@ wheel-turning monarchs	incredible and amazing qualities	AN4.130
 stages of enlightenment	fetters removed at each	AN4.131
 fetters (saṁyojana)	stages of enlightenment	AN4.131
 heading upstream to the Akaniṭṭha realm (uddhaṁsotassa akaniṭṭhagāmino)		AN4.131
-extinguished in-between (antarāparinibbāyī)		AN4.131
+extinguished in-between (antarāparinibbāyī)	fetters removed 	AN4.131
 speech	on topic	AN4.132
 speech	fluently	AN4.132
 learning	getting and not getting the point	AN4.133
@@ -8997,7 +9014,6 @@ sense perceptions (kāmasaññā)	cease in first jhāna	AN9.33
 first jhāna	sense perceptions cease	AN9.33
 applied and sustained thought (vitakkavicārā)	ceases in second jhāna	AN9.33
 second jhāna	applied and sustained thought ceases	AN9.33
-applied and sustained thought (vitakkavicārā)		AN9.33
 third jhāna	rapture ceases	AN9.33
 placing of the mind and keeping it connected (vitakkavicārā)		AN9.33
 directed thoughts and evaluations (vitakkavicārā)		AN9.33
@@ -12976,6 +12992,7 @@ deviousness (saṭha)	hinders meditation	MN85
 deceit (kuhaka/māyāvī)	hinders meditation	MN85
 laziness (kusīta)	hinders meditation	MN85
 unwise (dupañño)	hinders meditation	MN85
+enlightenment	less than a day	MN85
 refuges	while in womb	MN85
 Aṅgulimāla, Ven.	going forth	MN86
 Pasenadi Kosala, King	dealing with Aṅgulimāla	MN86
