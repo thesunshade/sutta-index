@@ -45,7 +45,10 @@ nature		xref lakes
 nature		xref rivers
 nature		xref wilderness (arañña)
 nature		xref stars
+nature		xref elements (dhātu)
 nature		xref oceans
+elements (dhātu)		xref elements, four great (cattāri mahābhūtāni)
+elements, four great (cattāri mahābhūtāni)		xref elements (dhātu)
 fires		xref bonfires
 chickens		xref eggs
 cows		xref calf
@@ -1844,8 +1847,8 @@ proliferation (papañca)		Ud7.7
 Buddha, the	psychic powers	Ud7.9
 unborn (ajātaṁ)		Ud8.3
 escape (nissaraṇa)		Ud8.3
-nibbāna		Ud8.4
-wholesome chain of causality		Ud8.4
+nibbāna	Dhamma talk on	Ud8.4
+wholesome chain of causality	independence to no passing away	Ud8.4
 Buddha, the	last meal	Ud8.5
 Buddha, the	illness of 	Ud8.5
 Buddha, the	psychic powers	Ud8.5
@@ -1923,29 +1926,30 @@ sun (ādicca)	simile for loving-kindness	Iti27
 stars	simile for loving-kindness	Iti27
 moon	simile for loving-kindness	Iti27
 loving-kindness (mettā)	like stars	Iti27
-sacrifices (yañña)		Iti27
+sacrifices (yañña)	worthless compared to loving-kindness	Iti27
 eating	excessive	Iti28
 eating	excessive	Iti29
 senses	guarding	Iti28
 senses	guarding	Iti29
-self-reflection		Iti30
-self-reflection		Iti31
+self-reflection	actions done and not done	Iti30
+self-reflection	actions done and not done	Iti31
 wrong views	resulting in hell	Iti32
 right view (sammā diṭṭhi)	resulting in heaven	Iti33
-prudence (ottāpa)		Iti34
-keenness (ātāpi)		Iti34
+prudence (ottāpa)	needed for enlightenment	Iti34
+keenness (ātāpi)	needed for enlightenment	Iti34
 holy life	reason for	Iti35
 holy life	reason for	Iti36
-urgency (saṁvega)		Iti37
-sanctuary/security		Iti38
+urgency (saṁvega)	groundwork for enlightenment	Iti37
+security (khema)	thoughts of by Buddha	Iti38
+seclusion (paviveka)	thoughts of by Buddha	Iti38
 Buddha, the	thoughts he has	Iti38
 evil (pāpa)	seeing 	Iti39
 ignorance (avijjā)	cause for rebirth	Iti40
-conscience and prudence (hiri ottappa)		Iti42
-unborn (ajātaṁ)		Iti43
+conscience and prudence (hiri ottappa)	protectors of the world	Iti42
+unborn (ajātaṁ)	escape from born is possible	Iti43
 arahants	with something left over (saupādisesā)	Iti44
 arahants	with nothing left over (anupādisesa)	Iti44
-wakefulness (jāgara)		Iti47
+wakefulness (jāgara)	leads to enlightenment	Iti47
 celibacy	false claim of	Iti48
 mendicants	evil	Iti48
 iron balls	eating	Iti48
@@ -1961,8 +1965,8 @@ neutral feelings (adukkhamasukhaṁ vedanā)	seen as impermanent	Iti53
 impermanence	neutral feelings seen as 	Iti53
 searches (esana, pariyesana)	three types	Iti54
 searches (esana, pariyesana)	three types	Iti55
-taints (āsava)		Iti56
-taints (āsava)		Iti57
+taints (āsava)	sensuality, desire to be reborn, ignorance 	Iti56
+taints (āsava)	sensuality, desire to be reborn, ignorance 	Iti57
 craving (taṇha)	three types	Iti58
 merit (puññā)	grounds for making	Iti60
 giving (dāna)	grounds for making merit	Iti60
@@ -1975,7 +1979,7 @@ faculties (indriya)	three 	Iti62
 faculty “I will know the unknown” (anaññātaññassāmītindriya)	of three faculties	Iti62
 faculty of final knowledge (aññindriya)	of three faculties	Iti62
 faculty of one with final knowledge (aññātāvindriya)	of three faculties	Iti62
-times		Iti63
+times	past, future, present	Iti63
 misconduct	three types	Iti64
 good actions	three types	Iti65
 purity (soceyya)	three types	Iti66
@@ -2028,7 +2032,7 @@ friends, bad		Iti89
 evil wishes (pāpiccha)		Iti89
 stopping when more left to do		Iti89
 harming a good person		Iti89
-confidence (aggappasāda)		Iti90
+confidence (pasāda)	best  (aggappasāda)	Iti90
 Saṅgha	best of groups	Iti90
 livelihood	monastic	Iti91
 monastic life	wrongly practiced	Iti91
@@ -2105,9 +2109,9 @@ proliferation (papañca)		Snp1.1
 illusion	life as	Snp1.1
 lay life	filled with duties	Snp1.2
 lay life	attachments	Snp1.2
-monastic life		Snp1.2
-renunciation (nekkhamma)		Snp1.2
-work		Snp1.2
+monastic life	contrasted with lay life	Snp1.2
+renunciation (nekkhamma)	happiness of is superior	Snp1.2
+work	householder’s	Snp1.2
 Buddha, the	attainments	Snp1.2
 loved ones	as source of sorrow	Snp1.2
 solitude	better than association with fools	Snp1.3
@@ -2628,19 +2632,19 @@ farming	giving up	Thag1.43
 mistakes	recovering like thoroughbred	Thag1.45
 going forth (pabbajja)	out of faith	Thag1.46
 devoted to oneness (ekattanirata)		Thag1.49
-without a partner (adutio)		Thag1.54
-kutis		Thag1.56
-kutis		Thag1.57
+seclusion	without a partner (adutio)	Thag1.54
+kutis	not built in vain	Thag1.56
+kutis	attachment to	Thag1.57
 wise people	can identify fools and wise	Thag1.61
 monastics	people envy	Thag1.62
 jealousy (issā)	of monastic in the forest	Thag1.62
 jealousy (issā)	like hell beings are of those going to heaven	Thag1.62
-happiness through happiness		Thag1.63
+happiness (sukha)	through happiness	Thag1.63
 solitary life	dissatisfaction with	Thag1.62
 conceit (māna)	using conceit to remove conceit	Thag1.64
 Dhamma teaching	to householders	Thag1.65
 wisdom (paññā)	higher than virtue	Thag1.70
-divine messengers (devadūta)		Thag1.73
+divine messengers (devadūta)	reason to go forth	Thag1.73
 association	with good people	Thag1.75
 mind	training like elephant trainer does	Thag1.77
 sleep	fondness for	Thag1.84
@@ -2698,7 +2702,7 @@ learning	without practicing	Thag2.34
 mind	like steady rock	Thag2.36
 annoyances	not bothered by	Thag2.36
 alms gathering practice		Thag2.39
-drowsiness (middha)		Thag2.40
+sleepiness	in midst of Saṅgha	Thag2.40
 external appearance		Thag2.44
 boasting		Thag2.45
 going forth (pabbajja)	easy to 	Thag2.46
@@ -2721,8 +2725,8 @@ rebirth	in various realms	Thag3.14
 talking without doing		Thag3.15
 association	with fools like floating on a small log at sea	Thag3.16
 women	danger for monks	Thag4.1
-walking meditation		Thag4.2
-drowsiness (middha)		Thag4.2
+walking meditation	to overcome drowsiness	Thag4.2
+drowsiness (middha)	overcoming	Thag4.2
 respect (gārava)	for spiritual companions	Thag4.3
 perception of ugliness (asubhasañña)		Thag4.4
 mortification (tapojigucchā)	uselessness of	Thag4.5
@@ -2765,8 +2769,8 @@ arrogance		Thag6.9
 respect (gārava)	not giving	Thag6.9
 conceit of superiority (atimāna)		Thag6.9
 conceit of inferiority (omāno)		Thag6.9
-child arahants		Thag6.10
-Anotatta lake		Thag6.10
+child arahants	examples of	Thag6.10
+Anotatta lake	gathering water from	Thag6.10
 humility	not wanting others to know attainments	Thag6.10
 sickness	practicing while	Thag6.11
 simile of the saw		Thag6.12
@@ -2785,8 +2789,8 @@ monastic life	avoiding women	Thag7.1
 monastics	tempted by women	Thag7.1
 mindfulness of body (kāyagatāsati)	wishing for the world	Thag7.2
 external appearance	as deceiving	Thag7.2
-child arahants		Thag7.3
-child arahants		Thag7.4
+child arahants	examples of	Thag7.3
+child arahants	examples of	Thag7.4
 monastic rules (vinaya)	damaging plants	Thag7.5
 Buddhas	all teachings the same	Thag7.5
 work	caught up in	Thag8.1
@@ -2818,7 +2822,7 @@ virtue (sīla)	leading to happiness	Thag12.1
 virtue (sīla)		Thag12.1
 wisdom (paññā)	higher than virtue	Thag12.1
 caste	low caste monk	Thag12.2
-“come, monk” ordination (ehi bhikkhu)		Thag12.2
+“come, monk” ordination (ehi bhikkhu)	Ven. Sunīta	Thag12.2
 energy (vīriya)	like a well tuned lute	Thag13.1
 loving-kindness (mettā)	limitless	Thag14.1
 worldly conditions (lokadhamma)		Thag14.2
@@ -2982,13 +2986,13 @@ fire worship (aggika)		Thig5.5
 urgency (saṁvega)		Thig5.6
 going forth (pabbajja)	old age	Thig5.8
 signless (animitta)		Thig5.8
-“come, monk” ordination (ehi bhikkhu)		Thig5.9
+“come, monk” ordination (ehi bhikkhu)	Ven. Kuṇḍalakesī	Thig5.9
 merit (puññā)	giving to noble disciples	Thig5.9
 inspiration	from watching water flowing	Thig5.1
 inspiration	from watching elephant trainer	Thig3.4
 knowledges, three (vijja)	three	Thig5.11
 honor	your Dhamma teacher	Thig5.11
-widdows		Thig5.12
+widows	bhikkhunī who was	Thig5.12
 death (maraṇa)	of relative	Thig6.1
 grieving	overcoming	Thig6.1
 grieving	death	Thig6.2
@@ -3010,7 +3014,7 @@ association	with wise, fool becomes wise	Thig10.1
 woman’s life	painful	Thig10.1
 pregnancy	giving birth on road	Thig10.1
 grieving	loss of family	Thig10.1
-co-wives		Thig11.1
+co-wives	bhikkhunīs who were	Thig11.1
 renunciation (nekkhamma)	as sanctuary	Thig11.1
 Māra	harassing bhikkhunī	Thig11.1
 bathing	as ritual	Thig12.1
@@ -3274,13 +3278,13 @@ sense perceptions (kāmasaññā)	in this life and lives to come	MN106
 sense pleasures (kāma, kāmaguṇa)	Māra’s domain, realm, territory	MN106
 sense perceptions (kāmasaññā)	Māra’s domain, realm, territory	MN106
 Māra	sense pleasures and perceptions are his domain	MN106
-sense perceptions (kāmasaññā)	conduce to desire, ill will, and aggression (abhijjhā, byāpādā, sārambhā)	MN106
-sense pleasures (kāma, kāmaguṇa)	conduce to desire, ill will, and aggression (abhijjhā, byāpādā, sārambhā)	MN106
+sense perceptions (kāmasaññā)	conduce to desire, ill will, aggression (abhijjhā, byāpādā, sārambhā)	MN106
+sense pleasures (kāma, kāmaguṇa)	conduce to desire, ill will, aggression (abhijjhā, byāpādā, sārambhā)	MN106
 covetousness (abhijjhā)	arises because of sense pleasures and perceptions	MN106
 ill will (vyāpada, byāpada)	arises because of sense pleasures and perceptions	MN106
 aggression (sārambhā)	arises because of sense pleasures and perceptions	MN106
 imperturbable (āneñja)	meditation with an abundant, expansive heart	MN106
-imperturbable meditation (āneñjasamādhi)	overcoming desire, ill will, and aggression	MN106
+imperturbable meditation (āneñjasamādhi)	overcoming desire, ill will, aggression	MN106
 elements, four great (cattāri mahābhūtāni)	imperturbable and	MN106
 form (rūpa)	imperturbable and	MN106
 perceptions (saññā)	of forms	MN106
@@ -3321,7 +3325,7 @@ seclusion (paṭisallīna, vivitta)	part of gradual training	MN107
 wilderness (arañña)	part of gradual training	MN107
 hindrances (nīvarana)	removal of as part of gradual training	MN107
 jhānas	part of gradual training	MN107
-arahants	continue to practice meditation, mindfulness, and situational awareness	MN107
+arahants	continue to practice meditation, mindfulness, situational awareness	MN107
 arahants	life after attainment	MN107
 disciples of the Buddha	do all attain enlightenment?	MN107
 Rājagaha	road to, simile of not all attaining enlightenment	MN107
@@ -3537,7 +3541,7 @@ elements (dhātu)	eighteen (internal and external bases and consciousness of)	MN
 consciousness 	as element	MN115
 elements (dhātu)	six	MN115
 elements (dhātu)	skilled in	MN115
-elements (dhātu)	pleasure, pain, happiness, sadness, equanimity, and ignorance	MN115
+elements (dhātu)	pleasure, pain, happiness, sadness, equanimity, ignorance	MN115
 elements (dhātu)	sensuality and renunciation, malice and good will, and cruelty and harmlessness 	MN115
 elements (dhātu)	of the sensual realm, the realm of luminous form, and the formless realm 	MN115
 elements (dhātu)	conditioned element and unconditioned element 	MN115
@@ -3739,6 +3743,7 @@ Palace of Migara’s Mother	emptiness of	MN121
 Buddha, the	meditating on emptiness	MN121
 earth element (pathavī dhātu)	perception of and emptiness	MN121
 hides	bull’s, rid of folds like emptiness meditation	MN121
+wilderness (arañña)	perception of (araññasañña) 	MN121
 dimension of infinite space (ākāsānañcāyatana)	perception of and emptiness	MN121
 dimension of infinite consciousness (viññāṇañcāyatana)	perception of and emptiness	MN121
 dimension of nothingness (ākiñcaññāyatana)	perception of and emptiness	MN121
@@ -3863,7 +3868,7 @@ Kimbila, Ven.	living with Ven. Anuruddha and Nandiya	MN128
 harmony (samagga)	example of	MN128
 monastic life	duties	MN128
 loving-kindness (mettā)	as principle of cordiality	MN128
-loving-kindness (mettā)	by body, speech, and mind	MN128
+loving-kindness (mettā)	by body, speech, mind	MN128
 good friends	example of	MN128
 recollection of spiritual friends (kalyāṇamitta ānussati)	living in harmony	MN128
 heedfulness (appamāda)	example of	MN128
@@ -4130,8 +4135,8 @@ speech	local language	MN139
 speech	qualifying	MN139
 speech	sharp	MN139
 non-conflict (araṇa)	analysis of	MN139
-mortification (attakilamatha)	painful, ignoble, and pointless 	MN139
-sense pleasures (kāma, kāmaguṇa)	low, crude, ordinary, ignoble, and pointless 	MN139
+mortification (attakilamatha)	painful, ignoble, pointless 	MN139
+sense pleasures (kāma, kāmaguṇa)	low, crude, ordinary, ignoble, pointless 	MN139
 middle path (majjhimā paṭipadā)		MN139
 Dhamma teaching	without flattering or rebuking	MN139
 generalizations	avoiding	MN139
@@ -4159,7 +4164,7 @@ Pukkusāti, Ven.	not recognizing the Buddha	MN140
 elements (dhātu)	six	MN140
 bases of contact, six (phassāyatana)	definition	MN140
 mental preoccupations (manopavicāra)	eighteen	MN140
-foundations (adhiṭṭhāna)	wisdom, truth, generosity, and peace 	MN140
+foundations (adhiṭṭhāna)	wisdom, truth, generosity, peace 	MN140
 joy (somanassa)	towards sense contact	MN140
 grief (domanassa)	towards sense contact	MN140
 equanimity (upekkhā)	towards sense contact	MN140
@@ -4187,7 +4192,7 @@ impermanence	of feelings	MN140
 fire sticks	simile for contact	MN140
 feelings (vedanā)	how to be experienced	MN140
 gold	as simile for purifying mind	MN140
-equanimity (upekkhā)	pure, bright, pliable, workable, and radiant 	MN140
+equanimity (upekkhā)	pure, bright, pliable, workable, radiant 	MN140
 dimension of infinite space (ākāsānañcāyatana)	applying equanimity towards	MN140
 dimension of infinite consciousness (viññāṇañcāyatana)	applying equanimity towards	MN140
 dimension of nothingness (ākiñcaññāyatana)	applying equanimity towards	MN140
@@ -4211,7 +4216,7 @@ covetousness, giving up	arahants	MN140
 resentment (āghāta)	through ignorance	MN140
 ill will (vyāpada, byāpada)	through ignorance	MN140
 ill will, giving up	arahants	MN140
-peace (upasama)	ultimate: pacification of greed, hate, and delusion	MN140
+peace (upasama)	ultimate: pacification of greed, hate, delusion	MN140
 conceiving (maññita)	streams of do not flow	MN140
 identity (sakkāya)	forms of	MN140
 conceiving (maññita)	disease, boil, dart 	MN140
@@ -4861,7 +4866,7 @@ gods	rejoicing in Dhamma	AN2.36
 non-returner (anāgāmi)	fettered externally	AN2.36
 followers of other paths (aññatitthiyā)	lost without the Dhamma	AN2.36
 Sāriputta, Ven.	teaching about fetters	AN2.36
-“Namo tassa bhagavato…”		AN2.37
+“Namo tassa bhagavato…”	brahmin Ārāmadaṇḍa	AN2.37
 Mahā Kaccāna, Ven.	cause of fighting	AN2.37
 attachment to views (diṭṭhiyoga)	causing fights	AN2.37
 disputes	over views	AN2.37
@@ -4947,14 +4952,14 @@ knowledges (vijja)		AN2.90
 freedom (vimutti)		AN2.90
 views favoring continued existence (bhavadiṭṭhi)		AN2.91
 views favoring ending existence (vibhavadiṭṭhi)		AN2.91
-conscience and prudence (hiri ottappa) 		AN2.92
-conscience and prudence (hiri ottappa) 		AN2.93
+conscience and prudence (hiri ottappa) 	lack of 	AN2.92
+conscience and prudence (hiri ottappa) 	having 	AN2.93
 admonishment	being difficult to (dovacassatā)	AN2.94
 friends, bad	having 	AN2.94
 admonishment	being easy to (sovacassatā)	AN2.95
 good friends	having 	AN2.95
 monastic rules (vinaya)	skill in	AN2.97
-fools (bāla)		AN2.98
+fools (bāla)	two kinds	AN2.98
 astute person (paṇḍita)	taking responsibility	AN2.99
 fools (bāla)	vinaya and	AN2.100
 monastic rules (vinaya)	fools and	AN2.100
@@ -5160,9 +5165,9 @@ arising, vanishing, and change (uppādo, vayo, aññathatta)		AN3.47
 conditioned (saṅkhatata)	characteristics	AN3.47
 unconditioned (asaṅkhata)	characteristics	AN3.47
 sal tree	supported by Himalayas like family supported by head with faith	AN3.48
-family	grows in faith, virtue, and wisdom	AN3.48
+family	grows in faith, virtue, wisdom	AN3.48
 painful feelings	enduring	AN3.49
-keenness (ātāpi)	to prevent bad, develop good, and endure pain	AN3.49
+keenness (ātāpi)	to prevent bad, develop good, endure pain	AN3.49
 thieves (cora)	as metaphor for bad monastic	AN3.50
 monastic life	wrongly practiced	AN3.50
 brahmins	wasted their lives	AN3.51
@@ -5243,7 +5248,7 @@ blamed by the wise (viññugarahita)	qualities 	AN3.65
 skillfulness and unskillfulness	seeing difference between	AN3.65
 praised by the wise (viññuppasatthā)	qualities 	AN3.65
 assurances, four (assāsa)	results of actions	AN3.65
-Nandaka, Ven.		AN3.66
+Nandaka, Ven.	evaluating teachings	AN3.66
 unwholesome roots (lobha, dosa, moha)	as real	AN3.66
 oral tradition (anussava)	going by	AN3.66
 lineage (paramparāya)	going by	AN3.66
@@ -5374,7 +5379,7 @@ wishing (patthana)	doesn’t bring results	AN3.92
 rag-robe wearing	of other sects	AN3.93
 almsfood	of other sects	AN3.93
 forest dwelling	of other sects	AN3.93
-seclusion	defined as virtue, right view, and ending defilements	AN3.93
+seclusion	defined as virtue, right view, ending defilements	AN3.93
 fetters (saṁyojana)	three lower	AN3.94
 assemblies	three kinds	AN3.95
 harmony in Saṅgha (saṅghasāmaggī)		AN3.95
@@ -5531,7 +5536,7 @@ learned (bahussutā)	monastics and laypeople	AN4.7
 Buddhas	self-assurances	AN4.8
 requisites, four	source of craving	AN4.9
 craving (taṇha)	for specific rebirth	AN4.9
-attachments (yoga)	to sensual pleasures, future lives, views, and ignorance 	AN4.10
+attachments (yoga)	to sensual pleasures, future lives, views, ignorance 	AN4.10
 attachment to future lives (bhavayoga)	definition	AN4.10
 attachment to sensual pleasures (kāmayoga)	definition	AN4.10
 attachment to views (diṭṭhiyoga)	definition	AN4.10
@@ -5830,7 +5835,7 @@ pilgrimage	to four places	AN4.118
 Buddha, the	places significant in life of	AN4.118
 perils (bhaya)		AN4.119
 perils (bhaya)		AN4.120
-fear (bhaya)	of guilt, shame, punishment, and going to a bad place 	AN4.121
+fear (bhaya)	of guilt, shame, punishment, going to a bad place 	AN4.121
 self-reproach (attānuvāda)		AN4.121
 punishment (daṇḍa)	fear of	AN4.121
 shame	fear of	AN4.121
@@ -5905,12 +5910,12 @@ times	rightly developed are like rain on mountain top filling ocean	AN4.147
 bad actions	by speech	AN4.148
 speech	bad conduct	AN4.148
 speech	good conduct	AN4.149
-essential/inessential (sāra/asāra)	ethics, concentration, wisdom, and freedom 	AN4.150
+essential/inessential (sāra/asāra)	ethics, concentration, wisdom, freedom 	AN4.150
 faculties (indriya)	four 	AN4.151
-powers (bala)	faith, energy, mindfulness, and immersion	AN4.152
-powers (bala)	wisdom, energy, blamelessness, and inclusiveness 	AN4.153
-powers (bala)	mindfulness, immersion, blamelessness, and inclusiveness	AN4.154
-powers (bala)	reflection, development, blamelessness, and inclusiveness	AN4.155
+powers (bala)	faith, energy, mindfulness, immersion	AN4.152
+powers (bala)	wisdom, energy, blamelessness, inclusiveness 	AN4.153
+powers (bala)	mindfulness, immersion, blamelessness, inclusiveness	AN4.154
+powers (bala)	reflection, development, blamelessness, inclusiveness	AN4.155
 reflection (paṭisaṅkhā)	power of	AN4.155
 eon (kappa)	periods in	AN4.156
 sickness	mental and physical	AN4.157
@@ -6223,7 +6228,7 @@ Māluṅkyaputta, Ven.	asking for Dhamma in brief	AN4.257
 wealth	losing and keeping	AN4.258
 alcohol	cause of losing wealth	AN4.258
 employees	cause of losing and keeping wealth	AN4.258
-powers (bala)	energy, mindfulness, immersion, and wisdom 	AN4.261
+powers (bala)	energy, mindfulness, immersion, wisdom 	AN4.261
 wilderness (arañña)	qualities needed to live in	AN4.262
 stupidity 	and living in wilderness	AN4.262
 fools (bāla)	harm themselves with bad action	AN4.262
@@ -6242,7 +6247,7 @@ encouragement	to do good	AN4.264-273
 foundations of mindfulness, four (satipaṭṭhāna)	insight into greed	AN4.274
 right effort (sammā vāyāma)	insight into greed	AN4.275
 bases of psychic power (iddhipāda)	insight into greed	AN4.276
-powers of a trainee (sekha bala)	faith, conscience, prudence, energy, and wisdom 	AN5.1
+powers of a trainee (sekha bala)	faith, conscience, prudence, energy, wisdom 	AN5.1
 powers of a trainee (sekha bala)	definition	AN5.2
 powers of a trainee (sekha bala)	cause for happy life	AN5.3
 powers of a trainee (sekha bala)	cause for good rebirth	AN5.3
@@ -6263,11 +6268,11 @@ powers of a trainee (sekha bala)	ability to look after oneself	AN5.7
 respect (gārava)	powers of a trainee	AN5.9
 disrespect (agārava)	powers of a trainee	AN5.9
 disrespect (agārava)	powers of a trainee	AN5.10
-powers of a Tathāgata (tathāgatabala)	faith, conscience, prudence, energy, and wisdom 	AN5.11
+powers of a Tathāgata (tathāgatabala)	faith, conscience, prudence, energy, wisdom 	AN5.11
 powers of a trainee (sekha bala)	wisdom is the chief	AN5.12
 wisdom (paññā)	chief of powers of a trainee	AN5.12
 roof peak	simile for wisdom	AN5.12
-powers (bala)	faith, energy, mindfulness, immersion, and wisdom 	AN5.12
+powers (bala)	faith, energy, mindfulness, immersion, wisdom 	AN5.12
 powers 	five: definition	AN5.14
 powers 	five: where they are seen	AN5.15
 faith (saddhā)	power: seen in factors of stream entry	AN5.15
@@ -6386,9 +6391,9 @@ giving (dāna)	when merit is immeasurable	AN5.45
 merit (puññā)	immeasurable like water in ocean	AN5.45
 requisites, four	donors collect merit when used by monastics	AN5.45
 generosity (cāga)	as an accomplishment	AN5.46
-accomplishments	faith, ethics, learning, generosity, and wisdom 	AN5.46
+accomplishments	faith, ethics, learning, generosity, wisdom 	AN5.46
 generosity (cāga)	as a type of wealth	AN5.47
-wealth	faith, ethics, learning, generosity, and wisdom 	AN5.47
+wealth	faith, ethics, learning, generosity, wisdom 	AN5.47
 death (maraṇa)	universality of	AN5.48
 reflection (paṭisaṅkhā)	on aging, sickness, etc	AN5.48
 old age, sickness, and death	cannot be escaped	AN5.48
@@ -6464,7 +6469,7 @@ perception of not self (anattasañña)	culminates in deathless	AN5.62
 perception of death (maraṇasañña)	culminates in deathless	AN5.62
 perception of repulsiveness of food (āhāre paṭikūlasañña)	culminates in deathless	AN5.62
 perception of dissatisfaction with the whole world (sabbaloke anabhiratasañña)	culminates in deathless	AN5.62
-growth	faith, ethics, learning, generosity, and wisdom 	AN5.63
+growth	faith, ethics, learning, generosity, wisdom 	AN5.63
 women	growth	AN5.64
 Dhamma discussion	one qualified to have	AN5.65
 questions, answering 	one qualified to	AN5.65
@@ -6571,8 +6576,8 @@ seclusion	not dedicated to leads to decline	AN5.90
 socializing	leads to decline	AN5.90
 talk (kathā)		AN5.90
 generosity (cāga)	as an accomplishment	AN5.91
-accomplishments	faith, ethics, learning, generosity, and wisdom 	AN5.91
-accomplishments	ethics, immersion, wisdom, freedom, and the knowledge and vision of freedom 	AN5.92
+accomplishments	faith, ethics, learning, generosity, wisdom 	AN5.91
+accomplishments	ethics, immersion, wisdom, freedom, the knowledge and vision of freedom 	AN5.92
 declaring enlightenment	rightly and wrongly	AN5.93
 jhānas	as way of living comfortably	AN5.94
 enlightenment	as way of living comfortably	AN5.94
@@ -6675,7 +6680,7 @@ giving (dāna)	by bad person	AN5.141
 giving (dāna)	and scorning	AN5.141
 companionship	living together then scorning	AN5.141
 gossip	gullible for	AN5.141
-impulsiveness	faith, devotion, fondness, and confidence 	AN5.141
+impulsiveness	faith, devotion, fondness, confidence 	AN5.141
 stupidity 	definition	AN5.141
 regret	having and not having	AN5.142
 regret	without having done wrong	AN5.142
@@ -6865,7 +6870,7 @@ Dhamma	continuation of, factors leading to	AN5.201
 respect (gārava)	Dhamma lasting long and	AN5.201
 listening to Dhamma	benefits 	AN5.202
 giving (dāna)	worthy of gifts	AN5.203
-powers (bala)	faith, conscience, prudence, energy, and wisdom 	AN5.204
+powers (bala)	faith, conscience, prudence, energy, wisdom 	AN5.204
 mental barrenness (cetokhila)	five kinds	AN5.205
 doubt (vicikicchā)	mental barrenness	AN5.205
 companionship	angry at companions as mental barrenness	AN5.205
@@ -7300,7 +7305,7 @@ intention (cetana)	is action	AN6.63
 actions (kamma)	intention (cetana)	AN6.63
 noble eightfold path (ariya aṭṭhangika magga)	as path to cessation	AN6.63
 suffering (dukkha)	definition	AN6.63
-suffering (dukkha)	severe, mild, slow to fade, and quick to fade 	AN6.63
+suffering (dukkha)	severe, mild, slow to fade, quick to fade 	AN6.63
 powers of a Tathāgata (tathāgatabala)	six	AN6.64
 possible and impossible (ṭhāna aṭṭhāna)		AN6.64
 lions roar	of the Buddha	AN6.64
@@ -7427,7 +7432,7 @@ opposites	good to give up bad	AN6.108
 bad actions	good actions to give up	AN6.108
 thoughts (vitakkā)	good to give up bad	AN6.109
 perceptions (saññā)	good to give up bad	AN6.111
-elements (dhātu)	of sensuality, malice, and cruelty 	AN6.111
+elements (dhātu)	of sensuality, malice, cruelty 	AN6.111
 perception of impermanence (aniccasañña)	to give up view that things are gratifying	AN6.112
 perception of not self (anattasañña)	to give up view of self	AN6.112
 right view (sammā diṭṭhi)	to give up wrong view	AN6.112
@@ -7476,7 +7481,7 @@ bad monastics	qualities that make one not respected by companions	AN7.2
 respect (gārava)	for spiritual companions	AN7.2
 jealousy (issā)	one who has will not be respected by companions	AN7.2
 stinginess (maccharī)	one who has will not be respected by companions	AN7.2
-powers 	faith, energy, conscience, prudence, mindfulness, immersion, and wisdom 	AN7.3
+powers 	faith, energy, conscience, prudence, mindfulness, immersion, wisdom 	AN7.3
 Dhamma	examination of	AN7.3
 faith (saddhā)	definition	AN7.4
 energy (vīriya)	definition	AN7.4
@@ -7492,7 +7497,7 @@ mindfulness (sati)	power	AN7.4
 wisdom (paññā)	power	AN7.4
 concentration (samādhi)	power	AN7.4
 Dhamma	examination of	AN7.4
-wealth	faith, ethical conduct, conscience, prudence, learning, generosity, and wisdom 	AN7.5
+wealth	faith, ethical conduct, conscience, prudence, learning, generosity, wisdom 	AN7.5
 learning	as wealth	AN7.5
 generosity (cāga)	as a type of wealth	AN7.6
 learning	definition	AN7.6
@@ -7503,13 +7508,13 @@ virtue (sīla)	definition	AN7.6
 virtue (sīla)	as wealth	AN7.6
 Ugga the government minster	wealth	AN7.7
 Migāra of Rohaṇa	wealthy	AN7.7
-wealth	faith, ethical conduct, conscience, prudence, learning, generosity, and wisdom 	AN7.7
+wealth	faith, ethical conduct, conscience, prudence, learning, generosity, wisdom 	AN7.7
 wealth	that cannot be taken away	AN7.7
-fetters (saṁyojana)	attraction, repulsion, views, doubt, conceit, desire to be reborn, and ignorance. 	AN7.8
-fetters (saṁyojana)	attraction, repulsion, views, doubt, conceit, desire to be reborn, and ignorance. 	AN7.9
-fetters (saṁyojana)	attraction, repulsion, views, doubt, conceit, jealousy, and stinginess 	AN7.10
-underlying tendencies (anusaya)	sensual desire, repulsion, views, doubt, conceit, desire to be reborn, and ignorance 	AN7.11
-underlying tendencies (anusaya)	sensual desire, repulsion, views, doubt, conceit, desire to be reborn, and ignorance 	AN7.12
+fetters (saṁyojana)	attraction, repulsion, views, doubt, conceit, desire to be reborn, ignorance. 	AN7.8
+fetters (saṁyojana)	attraction, repulsion, views, doubt, conceit, desire to be reborn, ignorance. 	AN7.9
+fetters (saṁyojana)	attraction, repulsion, views, doubt, conceit, jealousy, stinginess 	AN7.10
+underlying tendencies (anusaya)	sensual desire, repulsion, views, doubt, conceit, desire to be reborn, ignorance 	AN7.11
+underlying tendencies (anusaya)	sensual desire, repulsion, views, doubt, conceit, desire to be reborn, ignorance 	AN7.12
 giving (dāna)	properly and improperly	AN7.13
 monastics	visiting families as opportunity for merit	AN7.13
 one freed both ways (ubhatobhāgavimutta)	worthy of gifts	AN7.14
@@ -7524,7 +7529,7 @@ stream-enterers (sotāpanna)	like a person in water who rises up then sees and d
 once returner (sakadāgāmī)	like a person in water who rises up and crosses over	AN7.15
 non-returner (anāgāmi)	like a person in water who rises up and finds a footing	AN7.15
 stages of enlightenment	simile of person in water	AN7.15
-arahants	like a person in water who rises up, crosses over, and gone beyond	AN7.15
+arahants	like a person in water who rises up, crosses over, gone beyond	AN7.15
 impermanence meditation (aniccānupassī)	person who does is worthy of gifts	AN7.16
 stages of enlightenment	for someone practicing impermanence meditation	AN7.16
 perception of suffering (dukkhasañña)	makes one worthy of gifts	AN7.17
@@ -7937,8 +7942,8 @@ nibbāna	teachings that lead to are true Dhamma	AN7.83
 litigation (adhikaraṇa)	seven principles for settling	AN7.84
 mendicants	fetters removed makes you become	AN7.85
 fetters (saṁyojana)	removal of makes one a true mendicant, etc.	AN7.85
-bad qualities (asaddhamma)	faithless, shameless, imprudent, uneducated, lazy, unmindful, and witless	AN7.93
-good qualities (saddhamma, dhammā)	faithful, conscientious, prudent, learned, energetic, mindful, and wise	AN7.94
+bad qualities (asaddhamma)	faithless, shameless, imprudent, uneducated, lazy, unmindful, witless	AN7.93
+good qualities (saddhamma, dhammā)	faithful, conscientious, prudent, learned, energetic, mindful, wise	AN7.94
 impermanence meditation (aniccānupassī)	person worthy of gifts	AN7.95
 impermanence meditation (aniccānupassī)	stages of enlightenment	AN7.95
 extinguished in-between (antarāparinibbāyī)	observing impermanence	AN7.95
@@ -8268,7 +8273,7 @@ giving (dāna)	times for	AN8.37
 giving (dāna)	what to give	AN8.37
 good people (sappurisa)	benefit family	AN8.38
 good people (sappurisa)	benefits those around them	AN8.38
-cloud	simile of good person benefiting others	AN8.38
+clouds	simile for good person benefiting others	AN8.38
 good people (sappurisa)	like a cloud that rains everywhere	AN8.38
 family	good person looking after	AN8.38
 giving (dāna)	of fearlessness	AN8.39
@@ -8349,7 +8354,7 @@ household management	how to	AN8.49
 women	success in this life	AN8.49
 women	success in future life	AN8.49
 lay life	practices for success	AN8.49
-accomplishments	faith, ethics, generosity, and wisdom	AN8.49
+accomplishments	faith, ethics, generosity, wisdom	AN8.49
 present life	success in 	AN8.49
 future lives	success in 	AN8.49
 women	leadership in household	AN8.49
@@ -8416,7 +8421,7 @@ womanizer (itthidhuta)	cause for loss of wealth	AN8.54
 gambling	cause for loss of wealth	AN8.54
 friends, bad	cause for loss of wealth	AN8.54
 reservoirs	simile for loss of wealth	AN8.54
-accomplishments	faith, ethics, generosity, and wisdom	AN8.54
+accomplishments	faith, ethics, generosity, wisdom	AN8.54
 travel	advice 	AN8.55
 present life	welfare in	AN8.55
 future lives	welfare in	AN8.55
@@ -8531,7 +8536,7 @@ reviewing (paccavekkhaṇā)	mindfulness of death	AN8.74
 mindfulness of death (maraṇassati)	how to practice	AN8.74
 zeal (chanda)	mindfulness of death	AN8.74
 mindfulness of death (maraṇassati)	how to practice	AN8.74
-accomplishments	initiative, protection, good friendship, balanced finances, faith, ethics, generosity, and wisdom	AN8.75
+accomplishments	initiative, protection, good friendship, balanced finances, faith, ethics, generosity, wisdom	AN8.75
 welfare (hita)	in present and future lives	AN8.75
 initiative (uṭṭhāna)	accomplishment in	AN8.75
 protection (ārakkha)	accomplishment in	AN8.75
@@ -8688,7 +8693,7 @@ Dhamma teaching	leads to respect from listeners	AN9.4
 Dhamma teaching	helps listeners attain enlightenment	AN9.4
 listening to Dhamma	attaining enlightenment while	AN9.4
 happiness in the present life (diṭṭhadhammasukhavihāra)	from listening to Dhamma	AN9.4
-powers (bala)	wisdom, energy, blamelessness, and inclusiveness 	AN9.5
+powers (bala)	wisdom, energy, blamelessness, inclusiveness 	AN9.5
 wisdom (paññā)	power of, definition	AN9.5
 energy (vīriya)	power of, definition	AN9.5
 blamelessness (anavajja)	power of, definition	AN9.5
@@ -8709,7 +8714,7 @@ disrepute	fear of	AN9.5
 assemblies	fear of	AN9.5
 death (maraṇa)	fear of	AN9.5
 bad rebirth (duggati)	fear of	AN9.5
-laziness (kusīta)	fear of bad rebirth, disrepute, assemblies, death, and fear for livelihood	AN9.5
+laziness (kusīta)	fear of bad rebirth, disrepute, assemblies, death, fear for livelihood	AN9.5
 association (sevitabba)	whom to associate with	AN9.6
 association (sevitabba)	whom to not associate with	AN9.6
 association (sevitabba)	robes	AN9.6
@@ -9315,7 +9320,7 @@ requisites, four	easy to attain is quality of good dwelling	AN10.11
 senior monastics	dwelling that has is good	AN10.11
 questions, asking	opportunity to	AN10.11
 hindrances (nīvarana)	arahant has given up	AN10.12
-one beyond training (asekha)	possessing ethics, immersion, wisdom, freedom, and knowledge and vision of freedom	AN10.12
+one beyond training (asekha)	possessing ethics, immersion, wisdom, freedom, knowledge and vision of freedom	AN10.12
 fetters (saṁyojana)	ten	AN10.13
 mental barrenness (cetokhila)	five kinds	AN10.14
 bondages of the mind (cetovinibaddha, cetasovinibandha)	five kinds	AN10.14
@@ -9390,7 +9395,7 @@ personal truths (paccekasacca)	arahant has eliminated	AN10.20
 views of other sects	arahant has abandoned	AN10.20
 wrong views	arahant has abandoned	AN10.20
 searches (esana, pariyesana)	arahant has abandoned	AN10.20
-searches (esana, pariyesana)	for sensual pleasures, for continued existence, and for a spiritual life	AN10.20
+searches (esana, pariyesana)	for sensual pleasures, continued existence, a spiritual life	AN10.20
 intention (saṅkappa)	purified	AN10.20
 right intention (sammā saṅkappa)	of arahants	AN10.20
 stilling the physical process (passaddhakāyasaṅkhāra)	definition	AN10.20
@@ -10017,7 +10022,7 @@ unvirtuous people	rebirth	AN10.75
 birth (jāti)	if birth was not found, Buddhas would not arise in the world	AN10.76
 old age (jarā)	if old age was not found, Buddhas would not arise in the world	AN10.76
 death (maraṇa)	if death was not found, Buddhas would not arise in the world	AN10.76
-Buddhas	arise because birth, old age, and death are found in the world	AN10.76
+Buddhas	arise because birth, old age, death are found in the world	AN10.76
 greed, hatred, delusion	must be given up to give up birth, old age, death	AN10.76
 birth (jāti)	greed, hatred, delusion must be given up in order to give up birth	AN10.76
 old age (jarā)	greed, hatred, delusion must be given up in order to give up old age	AN10.76
@@ -11124,7 +11129,7 @@ disrobing	encouragement to collect merit at home instead	SN45.160
 disrobing	encouraging to	SN45.160
 disrobing	mendicant who develops eightfold path will not	SN45.160
 noble eightfold path (ariya aṭṭhangika magga)	prevents disrobing	SN45.160
-searches (esana, pariyesana)	for sensual pleasures, for continued existence, and for a spiritual life	SN45.161
+searches (esana, pariyesana)	for sensual pleasures, continued existence, a spiritual life	SN45.161
 noble eightfold path (ariya aṭṭhangika magga)	to know searches	SN45.161
 “I’m better”, “I’m equal”, “I’m worse”	kinds of discrimination	SN45.162
 noble eightfold path (ariya aṭṭhangika magga)	for direct knowledge of three kinds of discrimination	SN45.162
@@ -11471,7 +11476,7 @@ awakening factors, seven (bojjhaṅga)	all skillful qualities rooted in	SN46.89
 earth, the	simile for virtue as ground	SN46.99
 virtue (sīla)	grounded on one develops awakening factors	SN46.99
 awakening factors, seven (bojjhaṅga)	grounded on virtue	SN46.99
-searches (esana, pariyesana)	for sensual pleasures, for continued existence, and for a spiritual life	SN46.111
+searches (esana, pariyesana)	for sensual pleasures, continued existence, a spiritual life	SN46.111
 awakening factors, seven (bojjhaṅga)	to know searches	SN46.111
 floods (ogha)	of sensuality, desire to be reborn, views, and ignorance	SN46.121
 awakening factors, seven (bojjhaṅga)	to give up floods	SN46.121
@@ -13236,3 +13241,36 @@ wealth	Dhamma as true wealth	MN96
 fires	of different kinds of wood, simile for castes	MN96
 loving-kindness (mettā)	castes, all can practice	MN96
 bathing	all castes can wash themselves	MN96
+lay life		xref right livelihood (sammā ājīva)
+family		xref husbands
+family		xref wives
+family		xref children
+family		xref loved ones
+family		xref relatives
+relatives		xref departed relatives
+Dhanañjāni, brahmin	wrong livelihood	MN97
+Sāriputta, Ven.	right livelihood	MN97
+wives	influencing husbands	MN97
+husbands	being influenced by wives	MN97
+heedfulness (appamāda)	lay life	MN97
+right livelihood (sammā ājīva)	in the face of difficulties	MN97
+family	caring for by breaking precepts	MN97
+wardens of hell (nirayapāla)	pleading with	MN97
+hell (niraya)	avoiding by blaming others	MN97
+bondservants (dāsa)	caring for by breaking precepts	MN97
+workers (kammakara)	caring for by breaking precepts	MN97
+friends	caring for by breaking precepts	MN97
+departed relatives	caring for by breaking precepts	MN97
+guests (atithi)	caring for by breaking precepts	MN97
+devas	caring for by breaking precepts	MN97
+kings	caring for by breaking precepts	MN97
+righteous conduct (dhammacāri)	better than unrighteous conduct	MN97
+unrighteous conduct (adhammacārī)	worse than righteous conduct	MN97
+animal realm	better than hell	MN97
+ghost realm	better than animal realm	MN97
+human birth	better than ghost realm	MN97
+heavenly realms	ranked	MN97
+Brahmā	path to	MN97
+brahmaviharas	path to Brahmā	MN97
+stopping when more left to do	teaching only to brahma realm	MN97
+brahmins	devoted to Brahmā realm	MN97
