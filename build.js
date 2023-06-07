@@ -48,8 +48,7 @@ function natsort(options) {
   // numeric
   var nre = /(0x[\da-fA-F]+|(^[\+\-]?\d+(?:\.\d*)?(?:[eE][+\-]?\d+)?(?=\D|\s|$))|\d+)/g;
   // datetime
-  var dre =
-    /(^([\w ]+,?[\w ]+)?[\w ]+,?[\w ]+\d+:\d+(:\d+)?[\w ]?|^\d{1,4}[\/\-]\d{1,4}[\/\-]\d{1,4}|^\w+, \w+ \d+, \d{4})/; // tslint:disable-line
+  var dre = /(^([\w ]+,?[\w ]+)?[\w ]+,?[\w ]+\d+:\d+(:\d+)?[\w ]?|^\d{1,4}[\/\-]\d{1,4}[\/\-]\d{1,4}|^\w+, \w+ \d+, \d{4})/; // tslint:disable-line
   var toLowerCase = String.prototype.toLocaleLowerCase || String.prototype.toLowerCase;
   var GREATER = options.desc ? -1 : 1;
   var SMALLER = -GREATER;
@@ -403,18 +402,10 @@ function createLocatorSortedArray() {
   // test for blank locator field
   for (let i = 0; i < locatorFirstArray.length; i++) {
     if (locatorFirstArray[i][0] === "") {
-      console.error(
-        `❌ Missing Locator, Head: ${locatorFirstArray[i][1]}; Sub: ${
-          locatorFirstArray[i][2] ? locatorFirstArray[i][2] : "blank"
-        }`
-      );
+      console.error(`❌ Missing Locator, Head: ${locatorFirstArray[i][1]}; Sub: ${locatorFirstArray[i][2] ? locatorFirstArray[i][2] : "blank"}`);
     }
     if (!/(DN|MN|SN|AN|Kp|Dhp|Ud|Iti|Snp|Vv|Pv|Thag|Thig|xref)/.test(locatorFirstArray[i][0])) {
-      console.error(
-        `❌ Bad citation or xref:${locatorFirstArray[i][0] ? locatorFirstArray[i][0] : "blank"}; Head: ${
-          locatorFirstArray[i][1]
-        }; Sub: ${locatorFirstArray[i][2] ? locatorFirstArray[i][2] : "blank"}`
-      );
+      console.error(`❌ Bad citation or xref:${locatorFirstArray[i][0] ? locatorFirstArray[i][0] : "blank"}; Head: ${locatorFirstArray[i][1]}; Sub: ${locatorFirstArray[i][2] ? locatorFirstArray[i][2] : "blank"}`);
     }
   }
 
@@ -481,9 +472,20 @@ function createLocatorSortedObject() {
   }
 }
 
-// test all xrefs to see if they actually exist as headwords
-
 createIndexObject();
 createLocatorSortedArray();
 createHeadingsArray();
 createLocatorSortedObject();
+
+const currentDate = new Date().toLocaleString("en-gb", {
+  year: "numeric",
+  month: "long",
+  day: "numeric",
+});
+const currentTime = new Date().toLocaleTimeString([], { hour: "numeric", minute: "2-digit", hour12: true });
+try {
+  fs.writeFileSync("./src/data/updateDate.js", `export const updateDate ="${currentDate + ", " + currentTime}"`);
+} catch (err) {
+  console.log("❌There was an error writing updateDate");
+  console.error(err);
+}

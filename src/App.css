@@ -727,6 +727,11 @@ a:visited {
   display: inline;
 }
 
+.update-date {
+  font-size: .7rem;
+  text-align: right;
+}
+
 .locator-sorted-table {
   font-family: "Fira Sans ExtraCompressed";
   border-collapse: collapse;

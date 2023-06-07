@@ -1,0 +1,1 @@
+export const updateDate ="7 June 2023, 3:12 PM"

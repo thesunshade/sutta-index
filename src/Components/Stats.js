@@ -3,6 +3,7 @@ import { indexArray } from "../data/index-array";
 import headIcon from "../images/head-icon.png";
 import locatorIcon from "../images/locator-icon.png";
 import xrefIcon from "../images/xref-icon.png";
+import { updateDate } from "../data/updateDate.js";
 
 export default function Stats() {
   const alphabetLetters = Object.keys(indexObject);
@@ -16,11 +17,7 @@ export default function Stats() {
     const thisLetterHead = indexObject[alphabetLetters[i]];
     const thisLetterHeadKeys = Object.keys(thisLetterHead);
     for (let x = 0; x < thisLetterHeadKeys.length; x++) {
-      if (
-        Object.keys(indexObject[alphabetLetters[i]][thisLetterHeadKeys[x]]).length === 1 &&
-        indexObject[alphabetLetters[i]][thisLetterHeadKeys[x]][""] &&
-        indexObject[alphabetLetters[i]][thisLetterHeadKeys[x]][""].locators.length === 0
-      )
+      if (Object.keys(indexObject[alphabetLetters[i]][thisLetterHeadKeys[x]]).length === 1 && indexObject[alphabetLetters[i]][thisLetterHeadKeys[x]][""] && indexObject[alphabetLetters[i]][thisLetterHeadKeys[x]][""].locators.length === 0)
         // console.log(indexObj[alphabetLetters[i]][thisLetterHeadKeys[x]][""].xrefs);
         xrefsCount++;
     }
@@ -47,6 +44,9 @@ export default function Stats() {
             <span className="answer">{xrefsCount.toLocaleString("en-US")}</span> Xref headwords
           </div>
         </div>
+        <p className="update-date">
+          <i>Last updated</i>: {updateDate}
+        </p>
       </div>
     </>
   );
