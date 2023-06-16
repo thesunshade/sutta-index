@@ -7416,7 +7416,7 @@ export const indexArray =[
      ],
      [
           "AN4.189",
-          "past lives, knowledge of (pubbenivāsānussatiñāna)",
+          "past lives, knowledge of (pubbenivāsānussatiñāṇa)",
           "realized with recollection"
      ],
      [
@@ -11882,7 +11882,7 @@ export const indexArray =[
      [
           "AN5.214",
           "speech",
-          "useless (tiracāna)"
+          "useless (tiraccha)"
      ],
      [
           "AN5.214",
@@ -12771,7 +12771,7 @@ export const indexArray =[
      ],
      [
           "AN6.29",
-          "charnel ground contemplation (sivathika)",
+          "charnel ground contemplation (sivathikā)",
           "topic of reflection"
      ],
      [
@@ -12786,7 +12786,7 @@ export const indexArray =[
      ],
      [
           "AN6.29",
-          "perception of light (ālokasañña)",
+          "perception of light (ālokasaññā)",
           "leading to knowledge and vision"
      ],
      [
@@ -13236,7 +13236,7 @@ export const indexArray =[
      ],
      [
           "AN6.49",
-          "conceit of inferiority (omāno)",
+          "conceit of inferiority (omāna)",
           ""
      ],
      [
@@ -13871,7 +13871,7 @@ export const indexArray =[
      ],
      [
           "AN6.64",
-          "past lives, knowledge of (pubbenivāsānussatiñāna)",
+          "past lives, knowledge of (pubbenivāsānussatiñāṇa)",
           "power of the Buddha"
      ],
      [
@@ -14026,7 +14026,7 @@ export const indexArray =[
      ],
      [
           "AN6.76",
-          "conceit of inferiority (omāno)",
+          "conceit of inferiority (omāna)",
           "prevents arahantship"
      ],
      [
@@ -14401,7 +14401,7 @@ export const indexArray =[
      ],
      [
           "AN6.106",
-          "conceit of inferiority (omāno)",
+          "conceit of inferiority (omāna)",
           "should be given up"
      ],
      [
@@ -14501,7 +14501,7 @@ export const indexArray =[
      ],
      [
           "AN6.113",
-          "cruelty (hiṁsa, vihiṁsa)",
+          "cruelty (hiṁsa, vihiṁsā)",
           "removed by harmlessness"
      ],
      [
@@ -15491,7 +15491,7 @@ export const indexArray =[
      ],
      [
           "AN7.47",
-          "ascetics and brahmins (samaṇabrāhmaṇā)",
+          "ascetics and brahmins (samaṇabrāhmaṇa)",
           "fire of those worthy of a religious donation"
      ],
      [
@@ -16066,7 +16066,7 @@ export const indexArray =[
      ],
      [
           "AN7.61",
-          "perception of light (ālokasañña)",
+          "perception of light (ālokasaññā)",
           "to overcome drowsiness"
      ],
      [
@@ -16506,7 +16506,7 @@ export const indexArray =[
      ],
      [
           "AN7.68",
-          "meaning (atthato)",
+          "meaning (attha)",
           "one who knows is worthy of gifts"
      ],
      [
@@ -18026,7 +18026,7 @@ export const indexArray =[
      ],
      [
           "AN8.27",
-          "ascetics and brahmins (samaṇabrāhmaṇā)",
+          "ascetics and brahmins (samaṇabrāhmaṇa)",
           "patience as power"
      ],
      [
@@ -20597,7 +20597,7 @@ export const indexArray =[
      [
           "AN9.3",
           "friendship",
-          "helps with cetovimuttiya"
+          "helps with cetovimutti"
      ],
      [
           "AN9.3",
@@ -22327,27 +22327,27 @@ export const indexArray =[
      [
           "AN9.32",
           "cessation of perception and feeling (saññāvedayitanirodha)",
-          "one of nine progressive dwellings (anupubbavihārā)"
+          "one of nine progressive dwellings (anupubbavihāra)"
      ],
      [
           "AN9.32",
           "dimension of infinite consciousness (viññāṇañcāyatana)",
-          "one of nine progressive dwellings (anupubbavihārā)"
+          "one of nine progressive dwellings (anupubbavihāra)"
      ],
      [
           "AN9.32",
           "dimension of infinite space (ākāsānañcāyatana)",
-          "one of nine progressive dwellings (anupubbavihārā)"
+          "one of nine progressive dwellings (anupubbavihāra)"
      ],
      [
           "AN9.32",
           "dimension of neither perception nor non-perception (nevasaññānāsaññāyatanaṁ)",
-          "one of nine progressive dwellings (anupubbavihārā)"
+          "one of nine progressive dwellings (anupubbavihāra)"
      ],
      [
           "AN9.32",
           "dimension of nothingness (ākiñcaññāyatana)",
-          "one of nine progressive dwellings (anupubbavihārā)"
+          "one of nine progressive dwellings (anupubbavihāra)"
      ],
      [
           "AN9.32",
@@ -22701,7 +22701,7 @@ export const indexArray =[
      ],
      [
           "AN9.37",
-          "sense bases (āyatanā)",
+          "sense bases (āyatana)",
           "not experiencing"
      ],
      [
@@ -24261,7 +24261,7 @@ export const indexArray =[
      ],
      [
           "AN10.20",
-          "sense bases (āyatanā)",
+          "sense bases (āyatana)",
           "equanimity towards senses"
      ],
      [
@@ -24312,22 +24312,22 @@ export const indexArray =[
      [
           "AN10.21",
           "knower of the world",
-          "as power of a Thathāgata"
+          "as power of a Tathāgata"
      ],
      [
           "AN10.21",
           "knowledge of destruction of the taints (āsavakkhayañāṇa)",
-          "as power of a Thathāgata"
+          "as power of a Tathāgata"
      ],
      [
           "AN10.21",
           "knowledge of passing away and rebirth of beings (cutūpapātañāna)",
-          "as power of a Thathāgata"
+          "as power of a Tathāgata"
      ],
      [
           "AN10.21",
           "knowledges, three (vijjā)",
-          "power of a Thathāgata"
+          "as power of a Tathāgata"
      ],
      [
           "AN10.21",
@@ -24357,7 +24357,7 @@ export const indexArray =[
      [
           "AN10.21",
           "recollection of past lives",
-          "as power of a Thathāgata"
+          "as power of a Tathāgata"
      ],
      [
           "AN10.21",
@@ -24617,7 +24617,7 @@ export const indexArray =[
      [
           "AN10.29",
           "cloth",
-          "from Bāraṇasī, simile for visions in meditation"
+          "from Bārāṇasī, simile for visions in meditation"
      ],
      [
           "AN10.29",
@@ -25791,7 +25791,7 @@ export const indexArray =[
      ],
      [
           "AN10.60",
-          "sense bases (āyatanā)",
+          "sense bases (āyatana)",
           "perception of not self"
      ],
      [
@@ -26516,7 +26516,7 @@ export const indexArray =[
      ],
      [
           "AN10.67",
-          "unwise (dupañño)",
+          "unwise (duppañña)",
           "sign of decline"
      ],
      [
@@ -26677,7 +26677,7 @@ export const indexArray =[
      [
           "AN10.69",
           "speech",
-          "useless (tiracāna)"
+          "useless (tiraccha)"
      ],
      [
           "AN10.69",
@@ -26767,7 +26767,7 @@ export const indexArray =[
      [
           "AN10.70",
           "speech",
-          "useless (tiracāna)"
+          "useless (tiraccha)"
      ],
      [
           "AN10.70",
@@ -30781,7 +30781,7 @@ export const indexArray =[
      ],
      [
           "AN11.14",
-          "past lives, knowledge of (pubbenivāsānussatiñāna)",
+          "past lives, knowledge of (pubbenivāsānussatiñāṇa)",
           "result of faith"
      ],
      [
@@ -31241,7 +31241,7 @@ export const indexArray =[
      ],
      [
           "AN11.17",
-          "sense bases (āyatanā)",
+          "sense bases (āyatana)",
           "like wounds to be dressed"
      ],
      [
@@ -31420,7 +31420,7 @@ export const indexArray =[
           ""
      ],
      [
-          "CUSTOM:Vv:Vimanavatthu:SuttaFriends.org/vv",
+          "CUSTOM:Vv:Vimānavatthu:SuttaFriends.org/vv",
           "devas",
           ""
      ],
@@ -33706,7 +33706,7 @@ export const indexArray =[
      ],
      [
           "Dhp390",
-          "cruelty (hiṁsa, vihiṁsa)",
+          "cruelty (hiṁsa, vihiṁsā)",
           "as cruelty reduces, so does suffering"
      ],
      [
@@ -34786,7 +34786,7 @@ export const indexArray =[
      ],
      [
           "Iti103",
-          "release by wisdom (paññavimutti)",
+          "release by wisdom (paññāvimutti)",
           ""
      ],
      [
@@ -35971,12 +35971,12 @@ export const indexArray =[
      ],
      [
           "MN51",
-          "mortifying others (parantapo)",
+          "mortifying others (parantapa)",
           "people who do"
      ],
      [
           "MN51",
-          "mortifying others (parantapo)",
+          "mortifying others (parantapa)",
           "people who do not"
      ],
      [
@@ -35986,7 +35986,7 @@ export const indexArray =[
      ],
      [
           "MN51",
-          "past lives, knowledge of (pubbenivāsānussatiñāna)",
+          "past lives, knowledge of (pubbenivāsānussatiñāṇa)",
           "part of gradual training "
      ],
      [
@@ -36656,7 +36656,7 @@ export const indexArray =[
      ],
      [
           "MN54",
-          "past lives, knowledge of (pubbenivāsānussatiñāna)",
+          "past lives, knowledge of (pubbenivāsānussatiñāṇa)",
           "based on mindfulness and equanimity"
      ],
      [
@@ -36666,7 +36666,7 @@ export const indexArray =[
      ],
      [
           "MN54",
-          "release by wisdom (paññavimutti)",
+          "release by wisdom (paññāvimutti)",
           "based on mindfulness and equanimity"
      ],
      [
@@ -37266,7 +37266,7 @@ export const indexArray =[
      ],
      [
           "MN60",
-          "ascetics and brahmins (samaṇabrāhmaṇā)",
+          "ascetics and brahmins (samaṇabrāhmaṇa)",
           "with right and wrong view"
      ],
      [
@@ -37361,12 +37361,12 @@ export const indexArray =[
      ],
      [
           "MN60",
-          "mortifying others (parantapo)",
+          "mortifying others (parantapa)",
           "people who do"
      ],
      [
           "MN60",
-          "mortifying others (parantapo)",
+          "mortifying others (parantapa)",
           "people who do not"
      ],
      [
@@ -37621,7 +37621,7 @@ export const indexArray =[
      ],
      [
           "MN62",
-          "compassion (karuna)",
+          "compassion (karuṇā)",
           "to abandon cruelty"
      ],
      [
@@ -37631,7 +37631,7 @@ export const indexArray =[
      ],
      [
           "MN62",
-          "cruelty (hiṁsa, vihiṁsa)",
+          "cruelty (hiṁsa, vihiṁsā)",
           "compassion to give up"
      ],
      [
@@ -39051,7 +39051,7 @@ export const indexArray =[
      ],
      [
           "MN71",
-          "past lives, knowledge of (pubbenivāsānussatiñāna)",
+          "past lives, knowledge of (pubbenivāsānussatiñāṇa)",
           "Buddha’s knowledge of "
      ],
      [
@@ -39406,7 +39406,7 @@ export const indexArray =[
      ],
      [
           "MN73",
-          "past lives, knowledge of (pubbenivāsānussatiñāna)",
+          "past lives, knowledge of (pubbenivāsānussatiñāṇa)",
           "definition"
      ],
      [
@@ -39761,7 +39761,7 @@ export const indexArray =[
      ],
      [
           "MN75",
-          "sense bases (āyatanā)",
+          "sense bases (āyatana)",
           "guarding"
      ],
      [
@@ -40386,12 +40386,12 @@ export const indexArray =[
      ],
      [
           "MN77",
-          "past lives, knowledge of (pubbenivāsānussatiñāna)",
+          "past lives, knowledge of (pubbenivāsānussatiñāṇa)",
           "definition"
      ],
      [
           "MN77",
-          "past lives, knowledge of (pubbenivāsānussatiñāna)",
+          "past lives, knowledge of (pubbenivāsānussatiñāṇa)",
           "like traveller recollecting journey"
      ],
      [
@@ -40836,7 +40836,7 @@ export const indexArray =[
      ],
      [
           "MN79",
-          "past lives, knowledge of (pubbenivāsānussatiñāna)",
+          "past lives, knowledge of (pubbenivāsānussatiñāṇa)",
           "person with discussing with the Buddha"
      ],
      [
@@ -41231,17 +41231,12 @@ export const indexArray =[
      ],
      [
           "MN83",
-          "Sakka, Lord of Gods",
-          "fetching King Nimi to meet gods of thirty three"
-     ],
-     [
-          "MN83",
           "cessation (nirodha)",
           "practice leading to"
      ],
      [
           "MN83",
-          "compassion (karuna)",
+          "compassion (karuṇā)",
           "as a path to brahma world"
      ],
      [
@@ -41268,6 +41263,11 @@ export const indexArray =[
           "MN83",
           "gods of the Thirty-Three (tāvatiṁsā devā)",
           "rejoicing in righteous king"
+     ],
+     [
+          "MN83",
+          "Sakka, Lord of Gods",
+          "fetching King Nimi to meet gods of thirty three"
      ],
      [
           "MN83",
@@ -41466,7 +41466,7 @@ export const indexArray =[
      ],
      [
           "MN85",
-          "unwise (dupañño)",
+          "unwise (duppañña)",
           "hinders meditation"
      ],
      [
@@ -41856,7 +41856,7 @@ export const indexArray =[
      ],
      [
           "MN90",
-          "unwise (dupañño)",
+          "unwise (duppañña)",
           "hinders meditation"
      ],
      [
@@ -42286,12 +42286,12 @@ export const indexArray =[
      ],
      [
           "MN94",
-          "mortifying others (parantapo)",
+          "mortifying others (parantapa)",
           "people who do"
      ],
      [
           "MN94",
-          "mortifying others (parantapo)",
+          "mortifying others (parantapa)",
           "people who do not"
      ],
      [
@@ -43232,7 +43232,7 @@ export const indexArray =[
      [
           "MN102",
           "kasiṇas",
-          "consciousness-kasina (viññāṇakasiṇa)"
+          "consciousness-kasiṇa (viññāṇakasiṇa)"
      ],
      [
           "MN102",
@@ -43401,7 +43401,7 @@ export const indexArray =[
      ],
      [
           "MN103",
-          "meaning (atthato)",
+          "meaning (attha)",
           "disputes over"
      ],
      [
@@ -44221,7 +44221,7 @@ export const indexArray =[
      ],
      [
           "MN108",
-          "past lives, knowledge of (pubbenivāsānussatiñāna)",
+          "past lives, knowledge of (pubbenivāsānussatiñāṇa)",
           "respecting a monk who has"
      ],
      [
@@ -44691,7 +44691,7 @@ export const indexArray =[
      ],
      [
           "MN112",
-          "sense bases (āyatanā)",
+          "sense bases (āyatana)",
           "cessation of desire"
      ],
      [
@@ -45271,7 +45271,7 @@ export const indexArray =[
      ],
      [
           "MN115",
-          "sense bases (āyatanā)",
+          "sense bases (āyatana)",
           "skilled in"
      ],
      [
@@ -45321,12 +45321,12 @@ export const indexArray =[
      ],
      [
           "MN117",
-          "ascetics and brahmins (samaṇabrāhmaṇā)",
+          "ascetics and brahmins (samaṇabrāhmaṇa)",
           "with right and wrong view"
      ],
      [
           "MN117",
-          "awakening factor of investigation of principles (dhammavicayasambojjhaṅg)",
+          "awakening factor of investigation of principles (dhammavicayasambojjhaṅga)",
           ""
      ],
      [
@@ -45476,7 +45476,7 @@ export const indexArray =[
      ],
      [
           "MN118",
-          "awakening factor of investigation of principles (dhammavicayasambojjhaṅg)",
+          "awakening factor of investigation of principles (dhammavicayasambojjhaṅga)",
           "mindfulness of breathing"
      ],
      [
@@ -45526,7 +45526,7 @@ export const indexArray =[
      ],
      [
           "MN118",
-          "compassion (karuna)",
+          "compassion (karuṇā)",
           "monks committed to developing"
      ],
      [
@@ -45711,7 +45711,7 @@ export const indexArray =[
      ],
      [
           "MN119",
-          "charnel ground contemplation (sivathika)",
+          "charnel ground contemplation (sivathikā)",
           "mindfulness of body"
      ],
      [
@@ -45916,7 +45916,7 @@ export const indexArray =[
      ],
      [
           "MN119",
-          "release by wisdom (paññavimutti)",
+          "release by wisdom (paññāvimutti)",
           "mindfulness of the body helps one to achieve"
      ],
      [
@@ -46106,7 +46106,7 @@ export const indexArray =[
      ],
      [
           "MN120",
-          "release by wisdom (paññavimutti)",
+          "release by wisdom (paññāvimutti)",
           "aspiring to attain"
      ],
      [
@@ -46176,7 +46176,7 @@ export const indexArray =[
      ],
      [
           "MN121",
-          "sense bases (āyatanā)",
+          "sense bases (āyatana)",
           "and emptiness"
      ],
      [
@@ -46192,7 +46192,7 @@ export const indexArray =[
      [
           "MN121",
           "wilderness (arañña)",
-          "perception of (araññasañña) "
+          "perception of (araññasaññā) "
      ],
      [
           "MN122",
@@ -47346,17 +47346,17 @@ export const indexArray =[
      ],
      [
           "MN133",
-          "sense bases (āyatanā)",
+          "sense bases (āyatana)",
           "consciousness tied to past"
      ],
      [
           "MN133",
-          "sense bases (āyatanā)",
+          "sense bases (āyatana)",
           "desire for in present"
      ],
      [
           "MN133",
-          "sense bases (āyatanā)",
+          "sense bases (āyatana)",
           "wishing for the future"
      ],
      [
@@ -47456,7 +47456,7 @@ export const indexArray =[
      ],
      [
           "MN135",
-          "cruelty (hiṁsa, vihiṁsa)",
+          "cruelty (hiṁsa, vihiṁsā)",
           "cause of illness"
      ],
      [
@@ -47971,7 +47971,7 @@ export const indexArray =[
      ],
      [
           "MN137",
-          "sense bases (āyatanā)",
+          "sense bases (āyatana)",
           "analysis of"
      ],
      [
@@ -48071,7 +48071,7 @@ export const indexArray =[
      ],
      [
           "MN138",
-          "sense bases (āyatanā)",
+          "sense bases (āyatana)",
           "tied to sense objects"
      ],
      [
@@ -48896,7 +48896,7 @@ export const indexArray =[
      ],
      [
           "MN141",
-          "sense bases (āyatanā)",
+          "sense bases (āyatana)",
           "definition of birth"
      ],
      [
@@ -49186,7 +49186,7 @@ export const indexArray =[
      ],
      [
           "MN143",
-          "sense bases (āyatanā)",
+          "sense bases (āyatana)",
           "not clinging to"
      ],
      [
@@ -49236,7 +49236,7 @@ export const indexArray =[
      ],
      [
           "MN144",
-          "sense bases (āyatanā)",
+          "sense bases (āyatana)",
           "as not-self"
      ],
      [
@@ -49406,7 +49406,7 @@ export const indexArray =[
      ],
      [
           "MN146",
-          "sense bases (āyatanā)",
+          "sense bases (āyatana)",
           "as impermanent, suffering, not self"
      ],
      [
@@ -49491,7 +49491,7 @@ export const indexArray =[
      ],
      [
           "MN147",
-          "sense bases (āyatanā)",
+          "sense bases (āyatana)",
           "as impermanent, suffering, not self"
      ],
      [
@@ -49611,17 +49611,17 @@ export const indexArray =[
      ],
      [
           "MN148",
-          "sense bases (āyatanā)",
+          "sense bases (āyatana)",
           "analysis of"
      ],
      [
           "MN148",
-          "sense bases (āyatanā)",
+          "sense bases (āyatana)",
           "internal and external"
      ],
      [
           "MN148",
-          "sense bases (āyatanā)",
+          "sense bases (āyatana)",
           "not self"
      ],
      [
@@ -49756,12 +49756,12 @@ export const indexArray =[
      ],
      [
           "MN149",
-          "sense bases (āyatanā)",
+          "sense bases (āyatana)",
           "analysis of"
      ],
      [
           "MN149",
-          "sense bases (āyatanā)",
+          "sense bases (āyatana)",
           "knowing as they truly are (yathābhūta)"
      ],
      [
@@ -49776,7 +49776,7 @@ export const indexArray =[
      ],
      [
           "MN150",
-          "ascetics and brahmins (samaṇabrāhmaṇā)",
+          "ascetics and brahmins (samaṇabrāhmaṇa)",
           "how to evaluate"
      ],
      [
@@ -49986,7 +49986,7 @@ export const indexArray =[
      ],
      [
           "MN151",
-          "sense bases (āyatanā)",
+          "sense bases (āyatana)",
           "examining reaction to"
      ],
      [
@@ -50081,7 +50081,7 @@ export const indexArray =[
      ],
      [
           "MN152",
-          "sense bases (āyatanā)",
+          "sense bases (āyatana)",
           "equanimity towards senses"
      ],
      [
@@ -51337,7 +51337,7 @@ export const indexArray =[
      [
           "SN45.4",
           "Jāṇussoṇi, brahmin",
-          "with white chariot, etc"
+          "with white chariot, etc."
      ],
      [
           "SN45.4",
@@ -51922,7 +51922,7 @@ export const indexArray =[
      [
           "SN45.48",
           "noble eightfold path (ariya aṭṭhangika magga)",
-          "for extinguisment by not grasping"
+          "for extinguishment by not grasping"
      ],
      [
           "SN45.48",
@@ -52601,7 +52601,7 @@ export const indexArray =[
      ],
      [
           "SN46.2",
-          "awakening factor of investigation of principles (dhammavicayasambojjhaṅg)",
+          "awakening factor of investigation of principles (dhammavicayasambojjhaṅga)",
           "cause"
      ],
      [
@@ -53271,7 +53271,7 @@ export const indexArray =[
      ],
      [
           "SN46.44",
-          "unwise (dupañño)",
+          "unwise (duppañña)",
           "unwise idiot, definition"
      ],
      [
@@ -53386,12 +53386,12 @@ export const indexArray =[
      ],
      [
           "SN46.51",
-          "awakening factor of investigation of principles (dhammavicayasambojjhaṅg)",
+          "awakening factor of investigation of principles (dhammavicayasambojjhaṅga)",
           "cause"
      ],
      [
           "SN46.51",
-          "awakening factor of investigation of principles (dhammavicayasambojjhaṅg)",
+          "awakening factor of investigation of principles (dhammavicayasambojjhaṅga)",
           "what starves"
      ],
      [
@@ -53541,7 +53541,7 @@ export const indexArray =[
      ],
      [
           "SN46.52",
-          "awakening factor of investigation of principles (dhammavicayasambojjhaṅg)",
+          "awakening factor of investigation of principles (dhammavicayasambojjhaṅga)",
           "for internal and external"
      ],
      [
@@ -53631,12 +53631,12 @@ export const indexArray =[
      ],
      [
           "SN46.53",
-          "awakening factor of investigation of principles (dhammavicayasambojjhaṅg)",
+          "awakening factor of investigation of principles (dhammavicayasambojjhaṅga)",
           "develop when mind is sluggish"
      ],
      [
           "SN46.53",
-          "awakening factor of investigation of principles (dhammavicayasambojjhaṅg)",
+          "awakening factor of investigation of principles (dhammavicayasambojjhaṅga)",
           "do not develop when mind is restless"
      ],
      [
@@ -53971,7 +53971,7 @@ export const indexArray =[
      ],
      [
           "SN46.63",
-          "compassion (karuna)",
+          "compassion (karuṇā)",
           "awakening factors and"
      ],
      [
@@ -55011,7 +55011,7 @@ export const indexArray =[
      ],
      [
           "SN48.6",
-          "ascetics and brahmins (samaṇabrāhmaṇā)",
+          "ascetics and brahmins (samaṇabrāhmaṇa)",
           "true and not true"
      ],
      [
@@ -55286,7 +55286,7 @@ export const indexArray =[
      ],
      [
           "SN48.30",
-          "ascetics and brahmins (samaṇabrāhmaṇā)",
+          "ascetics and brahmins (samaṇabrāhmaṇa)",
           "true and not true"
      ],
      [
@@ -55316,7 +55316,7 @@ export const indexArray =[
      ],
      [
           "SN48.34",
-          "ascetics and brahmins (samaṇabrāhmaṇā)",
+          "ascetics and brahmins (samaṇabrāhmaṇa)",
           "true and not true"
      ],
      [
@@ -55952,7 +55952,7 @@ export const indexArray =[
      [
           "SN56.10",
           "speech",
-          "useless (tiracāna)"
+          "useless (tiraccha)"
      ],
      [
           "SN56.10",
@@ -56321,7 +56321,7 @@ export const indexArray =[
      ],
      [
           "Snp1.11",
-          "charnel ground contemplation (sivathika)",
+          "charnel ground contemplation (sivathikā)",
           ""
      ],
      [
@@ -57781,7 +57781,7 @@ export const indexArray =[
      ],
      [
           "Thag2.16",
-          "charnel ground contemplation (sivathika)",
+          "charnel ground contemplation (sivathikā)",
           ""
      ],
      [
@@ -57806,7 +57806,7 @@ export const indexArray =[
      ],
      [
           "Thag2.23",
-          "past lives, knowledge of (pubbenivāsānussatiñāna)",
+          "past lives, knowledge of (pubbenivāsānussatiñāṇa)",
           ""
      ],
      [
@@ -58046,7 +58046,7 @@ export const indexArray =[
      ],
      [
           "Thag5.1",
-          "charnel ground contemplation (sivathika)",
+          "charnel ground contemplation (sivathikā)",
           ""
      ],
      [
@@ -58146,7 +58146,7 @@ export const indexArray =[
      ],
      [
           "Thag6.4",
-          "charnel ground contemplation (sivathika)",
+          "charnel ground contemplation (sivathikā)",
           ""
      ],
      [
@@ -58201,7 +58201,7 @@ export const indexArray =[
      ],
      [
           "Thag6.9",
-          "conceit of inferiority (omāno)",
+          "conceit of inferiority (omāna)",
           ""
      ],
      [
@@ -58522,7 +58522,7 @@ export const indexArray =[
      [
           "Thag15.1",
           "Dhamma",
-          "full of flavor (mahārassa)"
+          "full of flavor (mahā rassa)"
      ],
      [
           "Thag15.2",
@@ -58761,7 +58761,7 @@ export const indexArray =[
      ],
      [
           "Thag16.9",
-          "past lives, knowledge of (pubbenivāsānussatiñāna)",
+          "past lives, knowledge of (pubbenivāsānussatiñāṇa)",
           ""
      ],
      [
@@ -59576,7 +59576,7 @@ export const indexArray =[
      ],
      [
           "Thig15.1",
-          "past lives, knowledge of (pubbenivāsānussatiñāna)",
+          "past lives, knowledge of (pubbenivāsānussatiñāṇa)",
           "to understand this life"
      ],
      [
@@ -60127,7 +60127,7 @@ export const indexArray =[
      [
           "Ud3.8",
           "speech",
-          "useless (tiracāna)"
+          "useless (tiraccha)"
      ],
      [
           "Ud3.9",
@@ -60152,7 +60152,7 @@ export const indexArray =[
      [
           "Ud3.9",
           "speech",
-          "useless (tiracāna)"
+          "useless (tiraccha)"
      ],
      [
           "Ud3.10",

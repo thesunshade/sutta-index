@@ -3327,7 +3327,7 @@ export const indexObject ={
                     "xrefs": []
                }
           },
-          "ascetics and brahmins (samaṇabrāhmaṇā)": {
+          "ascetics and brahmins (samaṇabrāhmaṇa)": {
                "with right and wrong view": {
                     "locators": [
                          "MN60",
@@ -4366,7 +4366,7 @@ export const indexObject ={
                     "xrefs": []
                }
           },
-          "awakening factor of investigation of principles (dhammavicayasambojjhaṅg)": {
+          "awakening factor of investigation of principles (dhammavicayasambojjhaṅga)": {
                "": {
                     "locators": [
                          "MN117"
@@ -4537,7 +4537,7 @@ export const indexObject ={
                          "xref awakening factor of energy (vīriyasambojjhaṅga)",
                          "xref awakening factor of equanimity (upekkhāsambojjhaṅga)",
                          "xref awakening factor of immersion (samādhisambojjhaṅga)",
-                         "xref awakening factor of investigation of principles (dhammavicayasambojjhaṅg)",
+                         "xref awakening factor of investigation of principles (dhammavicayasambojjhaṅga)",
                          "xref awakening factor of mindfulness (satisambojjhaṅga)",
                          "xref awakening factor of rapture (pītisambojjhaṅga)",
                          "xref awakening factor of tranquility (passaddhisambojjhaṅga)",
@@ -7483,7 +7483,7 @@ export const indexObject ={
                          "Thag6.2"
                     ],
                     "xrefs": [
-                         "xref compassion (karuna)",
+                         "xref compassion (karuṇā)",
                          "xref equanimity (upekkhā)",
                          "xref loving-kindness (mettā)",
                          "xref rejoicing (mudita)"
@@ -9280,7 +9280,7 @@ export const indexObject ={
                "": {
                     "locators": [],
                     "xrefs": [
-                         "xref charnel ground contemplation (sivathika)"
+                         "xref charnel ground contemplation (sivathikā)"
                     ]
                },
                "culminates in deathless": {
@@ -9426,7 +9426,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "one of nine progressive dwellings (anupubbavihārā)": {
+               "one of nine progressive dwellings (anupubbavihāra)": {
                     "locators": [
                          "AN9.32"
                     ],
@@ -9617,7 +9617,7 @@ export const indexObject ={
                     "xrefs": []
                }
           },
-          "charnel ground contemplation (sivathika)": {
+          "charnel ground contemplation (sivathikā)": {
                "": {
                     "locators": [
                          "Snp1.11",
@@ -9946,7 +9946,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "from Bāraṇasī, simile for visions in meditation": {
+               "from Bārāṇasī, simile for visions in meditation": {
                     "locators": [
                          "AN10.29"
                     ],
@@ -10160,7 +10160,7 @@ export const indexObject ={
                },
                "counter": 1
           },
-          "compassion (karuna)": {
+          "compassion (karuṇā)": {
                "monks committed to developing": {
                     "locators": [
                          "MN118"
@@ -10284,7 +10284,7 @@ export const indexObject ={
                     "xrefs": []
                }
           },
-          "conceit of inferiority (omāno)": {
+          "conceit of inferiority (omāna)": {
                "": {
                     "locators": [
                          "AN6.49",
@@ -12274,7 +12274,7 @@ export const indexObject ={
                     "xrefs": []
                }
           },
-          "cruelty (hiṁsa, vihiṁsa)": {
+          "cruelty (hiṁsa, vihiṁsā)": {
                "as cruelty reduces, so does suffering": {
                     "locators": [
                          "Dhp390"
@@ -13994,7 +13994,7 @@ export const indexObject ={
           "devas": {
                "": {
                     "locators": [
-                         "CUSTOM:Vv:Vimanavatthu:SuttaFriends.org/vv"
+                         "CUSTOM:Vv:Vimānavatthu:SuttaFriends.org/vv"
                     ],
                     "xrefs": []
                },
@@ -14306,7 +14306,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "full of flavor (mahārassa)": {
+               "full of flavor (mahā rassa)": {
                     "locators": [
                          "Thag15.1"
                     ],
@@ -15182,7 +15182,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "one of nine progressive dwellings (anupubbavihārā)": {
+               "one of nine progressive dwellings (anupubbavihāra)": {
                     "locators": [
                          "AN9.32"
                     ],
@@ -15310,7 +15310,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "one of nine progressive dwellings (anupubbavihārā)": {
+               "one of nine progressive dwellings (anupubbavihāra)": {
                     "locators": [
                          "AN9.32"
                     ],
@@ -15474,7 +15474,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "one of nine progressive dwellings (anupubbavihārā)": {
+               "one of nine progressive dwellings (anupubbavihāra)": {
                     "locators": [
                          "AN9.32"
                     ],
@@ -15623,7 +15623,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "one of nine progressive dwellings (anupubbavihārā)": {
+               "one of nine progressive dwellings (anupubbavihāra)": {
                     "locators": [
                          "AN9.32"
                     ],
@@ -19582,7 +19582,7 @@ export const indexObject ={
                "": {
                     "locators": [],
                     "xrefs": [
-                         "xref meaning (atthato)"
+                         "xref meaning (attha)"
                     ]
                },
                "giving interpreted meaning": {
@@ -24308,7 +24308,6 @@ export const indexObject ={
                },
                "helps with cetovimuttiya": {
                     "locators": [
-                         "AN9.3",
                          "Ud4.1"
                     ],
                     "xrefs": []
@@ -24386,6 +24385,12 @@ export const indexObject ={
                     "locators": [
                          "AN5.221",
                          "AN5.222"
+                    ],
+                    "xrefs": []
+               },
+               "helps with cetovimutti": {
+                    "locators": [
+                         "AN9.3"
                     ],
                     "xrefs": []
                }
@@ -33466,7 +33471,7 @@ export const indexObject ={
                "": {
                     "locators": [],
                     "xrefs": [
-                         "xref meaning (atthato)"
+                         "xref meaning (attha)"
                     ]
                },
                "giving explicit meaning": {
@@ -33556,7 +33561,7 @@ export const indexObject ={
                "": {
                     "locators": [],
                     "xrefs": [
-                         "xref awakening factor of investigation of principles (dhammavicayasambojjhaṅg)"
+                         "xref awakening factor of investigation of principles (dhammavicayasambojjhaṅga)"
                     ]
                }
           },
@@ -33747,7 +33752,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "with white chariot, etc": {
+               "with white chariot, etc.": {
                     "locators": [
                          "SN45.4"
                     ],
@@ -34656,7 +34661,7 @@ export const indexObject ={
                }
           },
           "kasiṇas": {
-               "consciousness-kasina (viññāṇakasiṇa)": {
+               "consciousness-kasiṇa (viññāṇakasiṇa)": {
                     "locators": [
                          "MN102"
                     ],
@@ -35194,7 +35199,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "as power of a Thathāgata": {
+               "as power of a Tathāgata": {
                     "locators": [
                          "AN10.21"
                     ],
@@ -35485,7 +35490,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "as power of a Thathāgata": {
+               "as power of a Tathāgata": {
                     "locators": [
                          "AN10.21"
                     ],
@@ -35555,7 +35560,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "as power of a Thathāgata": {
+               "as power of a Tathāgata": {
                     "locators": [
                          "AN10.21"
                     ],
@@ -35615,7 +35620,7 @@ export const indexObject ={
                "": {
                     "locators": [],
                     "xrefs": [
-                         "xref past lives, knowledge of (pubbenivāsānussatiñāna)"
+                         "xref past lives, knowledge of (pubbenivāsānussatiñāṇa)"
                     ]
                },
                "noble disciple": {
@@ -35657,7 +35662,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "power of a Thathāgata": {
+               "as power of a Tathāgata": {
                     "locators": [
                          "AN10.21"
                     ],
@@ -39261,7 +39266,7 @@ export const indexObject ={
                     "xrefs": []
                }
           },
-          "meaning (atthato)": {
+          "meaning (attha)": {
                "disputes over": {
                     "locators": [
                          "MN103"
@@ -42795,7 +42800,7 @@ export const indexObject ={
                },
                "counter": 3
           },
-          "mortifying others (parantapo)": {
+          "mortifying others (parantapa)": {
                "people who do": {
                     "locators": [
                          "MN51",
@@ -44149,7 +44154,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "for extinguisment by not grasping": {
+               "for extinguishment by not grasping": {
                     "locators": [
                          "SN45.48"
                     ],
@@ -46596,7 +46601,7 @@ export const indexObject ={
                     "xrefs": []
                }
           },
-          "past lives, knowledge of (pubbenivāsānussatiñāna)": {
+          "past lives, knowledge of (pubbenivāsānussatiñāṇa)": {
                "": {
                     "locators": [
                          "Thag2.23",
@@ -47342,7 +47347,7 @@ export const indexObject ={
                     "xrefs": []
                }
           },
-          "perception of light (ālokasañña)": {
+          "perception of light (ālokasaññā)": {
                "leading to knowledge and vision": {
                     "locators": [
                          "AN6.29"
@@ -49846,7 +49851,7 @@ export const indexObject ={
                          "xref divine eye (dibbacakkhu)",
                          "xref knowledge of passing away and rebirth of beings (cutūpapātañāna)",
                          "xref mind reading",
-                         "xref past lives, knowledge of (pubbenivāsānussatiñāna)"
+                         "xref past lives, knowledge of (pubbenivāsānussatiñāṇa)"
                     ]
                },
                "arahants without": {
@@ -51503,7 +51508,7 @@ export const indexObject ={
                "": {
                     "locators": [],
                     "xrefs": [
-                         "xref past lives, knowledge of (pubbenivāsānussatiñāna)"
+                         "xref past lives, knowledge of (pubbenivāsānussatiñāṇa)"
                     ]
                },
                "as a result of proper striving": {
@@ -51519,7 +51524,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "as power of a Thathāgata": {
+               "as power of a Tathāgata": {
                     "locators": [
                          "AN10.21"
                     ],
@@ -51981,7 +51986,7 @@ export const indexObject ={
                     "xrefs": []
                }
           },
-          "release by wisdom (paññavimutti)": {
+          "release by wisdom (paññāvimutti)": {
                "": {
                     "locators": [
                          "Iti103"
@@ -56383,7 +56388,7 @@ export const indexObject ={
                     "xrefs": []
                }
           },
-          "sense bases (āyatanā)": {
+          "sense bases (āyatana)": {
                "cessation of desire": {
                     "locators": [
                          "MN112"
@@ -59411,7 +59416,7 @@ export const indexObject ={
                }
           },
           "speech": {
-               "useless (tiracāna)": {
+               "useless (tiraccha)": {
                     "locators": [
                          "SN56.10",
                          "AN5.214",
@@ -64535,7 +64540,7 @@ export const indexObject ={
                },
                "counter": 2
           },
-          "unwise (dupañño)": {
+          "unwise (duppañña)": {
                "sign of decline": {
                     "locators": [
                          "AN10.67"
@@ -67396,7 +67401,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "perception of (araññasañña)": {
+               "perception of (araññasaññā)": {
                     "locators": [
                          "MN121"
                     ],
