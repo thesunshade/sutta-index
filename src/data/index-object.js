@@ -4906,7 +4906,7 @@ export const indexObject ={
                "": {
                     "locators": [],
                     "xrefs": [
-                         "xref improper attention (ayoniso manasikara)"
+                         "xref improper attention (ayoniso manasikāra)"
                     ]
                }
           }
@@ -15382,7 +15382,7 @@ export const indexObject ={
                     "xrefs": []
                }
           },
-          "dimension of neither perception nor non-perception (nevasaññānāsaññāyatanaṁ)": {
+          "dimension of neither perception nor non-perception (nevasaññanāsaññāyatana)": {
                "discussion of": {
                     "locators": [
                          "MN105"
@@ -21431,7 +21431,7 @@ export const indexObject ={
                     "xrefs": []
                }
           },
-          "fault-finding mind (upārambhacittata)": {
+          "fault-finding mind (upārambhacittatā)": {
                "giving up": {
                     "locators": [
                          "AN10.76"
@@ -23797,7 +23797,7 @@ export const indexObject ={
                }
           },
           "Four Great Kings, the (catumahārāja)": {
-               "guarding queen Māyā (comy.)": {
+               "guarding queen Māyā (commentary)": {
                     "locators": [
                          "MN123"
                     ],
@@ -27616,7 +27616,7 @@ export const indexObject ={
                     "xrefs": []
                }
           },
-          "good speaker (kalyāṇavāco)": {
+          "good speaker (kalyāṇavāca)": {
                "able to benefit oneself and others": {
                     "locators": [
                          "AN8.62"
@@ -29016,7 +29016,7 @@ export const indexObject ={
                },
                "counter": 2
           },
-          "harmony (sāmaññā)": {
+          "harmony (sāmañña)": {
                "qualities that lead to": {
                     "locators": [
                          "AN8.2",
@@ -32612,7 +32612,7 @@ export const indexObject ={
                     ]
                }
           },
-          "improper attention (ayoniso manasikara)": {
+          "improper attention (ayoniso manasikāra)": {
                "cause of doubt": {
                     "locators": [
                          "AN1.15"
@@ -45501,7 +45501,7 @@ export const indexObject ={
                     "xrefs": []
                }
           },
-          "one attained to view (diṭṭhippatto)": {
+          "one attained to view (diṭṭhippatta)": {
                "not easy to compare to other noble disciples": {
                     "locators": [
                          "AN3.21"
@@ -45608,7 +45608,7 @@ export const indexObject ={
                     "xrefs": []
                }
           },
-          "one freed by faith (saddhāvimutto)": {
+          "one freed by faith (saddhāvimutta)": {
                "not easy to compare to other noble disciples": {
                     "locators": [
                          "AN3.21"
@@ -46489,7 +46489,7 @@ export const indexObject ={
                     "xrefs": []
                }
           },
-          "parinibbana": {
+          "parinibbāna": {
                "in the middle of the Saṅgha": {
                     "locators": [
                          "MN124"
@@ -46969,7 +46969,7 @@ export const indexObject ={
                     "xrefs": []
                }
           },
-          "perception of danger/drawback (ādīnavasañña)": {
+          "perception of danger/drawback (ādīnavasaññā)": {
                "culminates in deathless": {
                     "locators": [
                          "AN5.61"
@@ -47059,7 +47059,7 @@ export const indexObject ={
                     "xrefs": []
                }
           },
-          "perception of dissatisfaction with the whole world (sabbaloke anabhiratasañña)": {
+          "perception of dissatisfaction with the whole world (sabbaloke anabhiratasaññā)": {
                "culminates in deathless": {
                     "locators": [
                          "AN5.61",
@@ -63878,7 +63878,7 @@ export const indexObject ={
                     "xrefs": []
                }
           },
-          "uncharitableness (avadaññu)": {
+          "uncharitableness (avadaññū)": {
                "cause of and giving up": {
                     "locators": [
                          "AN10.76"
@@ -64565,7 +64565,7 @@ export const indexObject ={
                "": {
                     "locators": [],
                     "xrefs": [
-                         "xref improper attention (ayoniso manasikara)"
+                         "xref improper attention (ayoniso manasikāra)"
                     ]
                }
           },

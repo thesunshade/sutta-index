@@ -46,7 +46,7 @@ export const indexArray =[
      ],
      [
           "AN1.15",
-          "improper attention (ayoniso manasikara)",
+          "improper attention (ayoniso manasikāra)",
           "cause of doubt"
      ],
      [
@@ -256,7 +256,7 @@ export const indexArray =[
      ],
      [
           "AN1.66",
-          "improper attention (ayoniso manasikara)",
+          "improper attention (ayoniso manasikāra)",
           "leads to unwholesome"
      ],
      [
@@ -286,7 +286,7 @@ export const indexArray =[
      ],
      [
           "AN1.74",
-          "improper attention (ayoniso manasikara)",
+          "improper attention (ayoniso manasikāra)",
           "prevents awakening factors"
      ],
      [
@@ -391,7 +391,7 @@ export const indexArray =[
      ],
      [
           "AN1.90",
-          "improper attention (ayoniso manasikara)",
+          "improper attention (ayoniso manasikāra)",
           "as very harmful"
      ],
      [
@@ -1111,7 +1111,7 @@ export const indexArray =[
      ],
      [
           "AN1.310",
-          "improper attention (ayoniso manasikara)",
+          "improper attention (ayoniso manasikāra)",
           "leads to wrong view"
      ],
      [
@@ -2271,7 +2271,7 @@ export const indexArray =[
      ],
      [
           "AN2.123",
-          "improper attention (ayoniso manasikara)",
+          "improper attention (ayoniso manasikāra)",
           "cause for greed"
      ],
      [
@@ -2286,12 +2286,12 @@ export const indexArray =[
      ],
      [
           "AN2.124",
-          "improper attention (ayoniso manasikara)",
+          "improper attention (ayoniso manasikāra)",
           "cause for hate"
      ],
      [
           "AN2.125",
-          "improper attention (ayoniso manasikara)",
+          "improper attention (ayoniso manasikāra)",
           "cause of wrong view"
      ],
      [
@@ -2636,12 +2636,12 @@ export const indexArray =[
      ],
      [
           "AN3.21",
-          "one attained to view (diṭṭhippatto)",
+          "one attained to view (diṭṭhippatta)",
           "not easy to compare to other noble disciples"
      ],
      [
           "AN3.21",
-          "one freed by faith (saddhāvimutto)",
+          "one freed by faith (saddhāvimutta)",
           "not easy to compare to other noble disciples"
      ],
      [
@@ -7426,7 +7426,7 @@ export const indexArray =[
      ],
      [
           "AN4.190",
-          "dimension of neither perception nor non-perception (nevasaññānāsaññāyatanaṁ)",
+          "dimension of neither perception nor non-perception (nevasaññanāsaññāyatana)",
           "“attained to the imperturbable”"
      ],
      [
@@ -9591,7 +9591,7 @@ export const indexArray =[
      ],
      [
           "AN5.61",
-          "perception of danger/drawback (ādīnavasañña)",
+          "perception of danger/drawback (ādīnavasaññā)",
           "culminates in deathless"
      ],
      [
@@ -9601,7 +9601,7 @@ export const indexArray =[
      ],
      [
           "AN5.61",
-          "perception of dissatisfaction with the whole world (sabbaloke anabhiratasañña)",
+          "perception of dissatisfaction with the whole world (sabbaloke anabhiratasaññā)",
           "culminates in deathless"
      ],
      [
@@ -9621,7 +9621,7 @@ export const indexArray =[
      ],
      [
           "AN5.62",
-          "perception of dissatisfaction with the whole world (sabbaloke anabhiratasañña)",
+          "perception of dissatisfaction with the whole world (sabbaloke anabhiratasaññā)",
           "culminates in deathless"
      ],
      [
@@ -9711,7 +9711,7 @@ export const indexArray =[
      ],
      [
           "AN5.69",
-          "perception of dissatisfaction with the whole world (sabbaloke anabhiratasañña)",
+          "perception of dissatisfaction with the whole world (sabbaloke anabhiratasaññā)",
           "leading to disillusionment"
      ],
      [
@@ -9736,7 +9736,7 @@ export const indexArray =[
      ],
      [
           "AN5.70",
-          "perception of dissatisfaction with the whole world (sabbaloke anabhiratasañña)",
+          "perception of dissatisfaction with the whole world (sabbaloke anabhiratasaññā)",
           "leading to ending of taints (āsava)"
      ],
      [
@@ -9776,12 +9776,12 @@ export const indexArray =[
      ],
      [
           "AN5.71",
-          "perception of dissatisfaction with the whole world (sabbaloke anabhiratasañña)",
+          "perception of dissatisfaction with the whole world (sabbaloke anabhiratasaññā)",
           "result in cetovimutti"
      ],
      [
           "AN5.71",
-          "perception of dissatisfaction with the whole world (sabbaloke anabhiratasañña)",
+          "perception of dissatisfaction with the whole world (sabbaloke anabhiratasaññā)",
           "result in paññāvmutti"
      ],
      [
@@ -10451,7 +10451,7 @@ export const indexArray =[
      ],
      [
           "AN5.121",
-          "perception of dissatisfaction with the whole world (sabbaloke anabhiratasañña)",
+          "perception of dissatisfaction with the whole world (sabbaloke anabhiratasaññā)",
           "practicing while sick"
      ],
      [
@@ -14916,7 +14916,7 @@ export const indexArray =[
      ],
      [
           "AN7.14",
-          "one attained to view (diṭṭhippatto)",
+          "one attained to view (diṭṭhippatta)",
           "worthy of gifts"
      ],
      [
@@ -14926,7 +14926,7 @@ export const indexArray =[
      ],
      [
           "AN7.14",
-          "one freed by faith (saddhāvimutto)",
+          "one freed by faith (saddhāvimutta)",
           "worthy of gifts"
      ],
      [
@@ -15176,7 +15176,7 @@ export const indexArray =[
      ],
      [
           "AN7.27",
-          "perception of danger/drawback (ādīnavasañña)",
+          "perception of danger/drawback (ādīnavasaññā)",
           "prevent decline"
      ],
      [
@@ -15566,7 +15566,7 @@ export const indexArray =[
      ],
      [
           "AN7.49",
-          "perception of dissatisfaction with the whole world (sabbaloke anabhiratasañña)",
+          "perception of dissatisfaction with the whole world (sabbaloke anabhiratasaññā)",
           "benefit"
      ],
      [
@@ -15841,7 +15841,7 @@ export const indexArray =[
      ],
      [
           "AN7.56",
-          "one attained to view (diṭṭhippatto)",
+          "one attained to view (diṭṭhippatta)",
           "known by gods of Brahmā’s Host"
      ],
      [
@@ -15851,7 +15851,7 @@ export const indexArray =[
      ],
      [
           "AN7.56",
-          "one freed by faith (saddhāvimutto)",
+          "one freed by faith (saddhāvimutta)",
           "known by gods of Brahmā’s Host"
      ],
      [
@@ -16841,7 +16841,7 @@ export const indexArray =[
      ],
      [
           "AN7.73",
-          "one attained to view (diṭṭhippatto)",
+          "one attained to view (diṭṭhippatta)",
           "abusing and insulting "
      ],
      [
@@ -17106,7 +17106,7 @@ export const indexArray =[
      ],
      [
           "AN8.2",
-          "harmony (sāmaññā)",
+          "harmony (sāmañña)",
           "qualities that lead to "
      ],
      [
@@ -19571,7 +19571,7 @@ export const indexArray =[
      ],
      [
           "AN8.62",
-          "good speaker (kalyāṇavāco)",
+          "good speaker (kalyāṇavāca)",
           "able to benefit oneself and others"
      ],
      [
@@ -19726,7 +19726,7 @@ export const indexArray =[
      ],
      [
           "AN8.66",
-          "dimension of neither perception nor non-perception (nevasaññānāsaññāyatanaṁ)",
+          "dimension of neither perception nor non-perception (nevasaññanāsaññāyatana)",
           "liberations"
      ],
      [
@@ -22256,7 +22256,7 @@ export const indexArray =[
      ],
      [
           "AN9.31",
-          "dimension of neither perception nor non-perception (nevasaññānāsaññāyatanaṁ)",
+          "dimension of neither perception nor non-perception (nevasaññanāsaññāyatana)",
           "perception of the dimension of nothingness ceases"
      ],
      [
@@ -22341,7 +22341,7 @@ export const indexArray =[
      ],
      [
           "AN9.32",
-          "dimension of neither perception nor non-perception (nevasaññānāsaññāyatanaṁ)",
+          "dimension of neither perception nor non-perception (nevasaññanāsaññāyatana)",
           "one of nine progressive dwellings (anupubbavihāra)"
      ],
      [
@@ -22376,7 +22376,7 @@ export const indexArray =[
      ],
      [
           "AN9.33",
-          "dimension of neither perception nor non-perception (nevasaññānāsaññāyatanaṁ)",
+          "dimension of neither perception nor non-perception (nevasaññanāsaññāyatana)",
           "perception of the dimension of nothingness ceases"
      ],
      [
@@ -22471,7 +22471,7 @@ export const indexArray =[
      ],
      [
           "AN9.34",
-          "dimension of neither perception nor non-perception (nevasaññānāsaññāyatanaṁ)",
+          "dimension of neither perception nor non-perception (nevasaññanāsaññāyatana)",
           "sense pleasures are affliction for one in"
      ],
      [
@@ -22581,12 +22581,12 @@ export const indexArray =[
      ],
      [
           "AN9.36",
-          "dimension of neither perception nor non-perception (nevasaññānāsaññāyatanaṁ)",
+          "dimension of neither perception nor non-perception (nevasaññanāsaññāyatana)",
           "basis for ending the defilements"
      ],
      [
           "AN9.36",
-          "dimension of neither perception nor non-perception (nevasaññānāsaññāyatanaṁ)",
+          "dimension of neither perception nor non-perception (nevasaññanāsaññāyatana)",
           "emerging from to contemplate"
      ],
      [
@@ -23086,7 +23086,7 @@ export const indexArray =[
      ],
      [
           "AN9.49",
-          "parinibbana",
+          "parinibbāna",
           "definition"
      ],
      [
@@ -23496,7 +23496,7 @@ export const indexArray =[
      ],
      [
           "AN9.93",
-          "perception of dissatisfaction with the whole world (sabbaloke anabhiratasañña)",
+          "perception of dissatisfaction with the whole world (sabbaloke anabhiratasaññā)",
           "for insight into greed"
      ],
      [
@@ -24041,7 +24041,7 @@ export const indexArray =[
      ],
      [
           "AN10.16",
-          "one attained to view (diṭṭhippatto)",
+          "one attained to view (diṭṭhippatta)",
           "worthy of gifts"
      ],
      [
@@ -24051,7 +24051,7 @@ export const indexArray =[
      ],
      [
           "AN10.16",
-          "one freed by faith (saddhāvimutto)",
+          "one freed by faith (saddhāvimutta)",
           "worthy of gifts"
      ],
      [
@@ -24626,7 +24626,7 @@ export const indexArray =[
      ],
      [
           "AN10.29",
-          "dimension of neither perception nor non-perception (nevasaññānāsaññāyatanaṁ)",
+          "dimension of neither perception nor non-perception (nevasaññanāsaññāyatana)",
           "supreme purification"
      ],
      [
@@ -25111,7 +25111,7 @@ export const indexArray =[
      ],
      [
           "AN10.47",
-          "improper attention (ayoniso manasikara)",
+          "improper attention (ayoniso manasikāra)",
           "cause of bad actions"
      ],
      [
@@ -25651,7 +25651,7 @@ export const indexArray =[
      ],
      [
           "AN10.59",
-          "perception of danger/drawback (ādīnavasañña)",
+          "perception of danger/drawback (ādīnavasaññā)",
           "consolidate mind in"
      ],
      [
@@ -25751,12 +25751,12 @@ export const indexArray =[
      ],
      [
           "AN10.60",
-          "perception of danger/drawback (ādīnavasañña)",
+          "perception of danger/drawback (ādīnavasaññā)",
           "definition"
      ],
      [
           "AN10.60",
-          "perception of dissatisfaction with the whole world (sabbaloke anabhiratasañña)",
+          "perception of dissatisfaction with the whole world (sabbaloke anabhiratasaññā)",
           "definition"
      ],
      [
@@ -25916,12 +25916,12 @@ export const indexArray =[
      ],
      [
           "AN10.61",
-          "improper attention (ayoniso manasikara)",
+          "improper attention (ayoniso manasikāra)",
           "caused by lack of faith"
      ],
      [
           "AN10.61",
-          "improper attention (ayoniso manasikara)",
+          "improper attention (ayoniso manasikāra)",
           "causes lack of mindfulness and clear comprehension"
      ],
      [
@@ -26136,12 +26136,12 @@ export const indexArray =[
      ],
      [
           "AN10.62",
-          "improper attention (ayoniso manasikara)",
+          "improper attention (ayoniso manasikāra)",
           "caused by lack of faith"
      ],
      [
           "AN10.62",
-          "improper attention (ayoniso manasikara)",
+          "improper attention (ayoniso manasikāra)",
           "causes lack of mindfulness and clear comprehension"
      ],
      [
@@ -27436,7 +27436,7 @@ export const indexArray =[
      ],
      [
           "AN10.76",
-          "fault-finding mind (upārambhacittata)",
+          "fault-finding mind (upārambhacittatā)",
           "giving up"
      ],
      [
@@ -27471,12 +27471,12 @@ export const indexArray =[
      ],
      [
           "AN10.76",
-          "improper attention (ayoniso manasikara)",
+          "improper attention (ayoniso manasikāra)",
           "must be given up to give up to give up three lower fetters."
      ],
      [
           "AN10.76",
-          "improper attention (ayoniso manasikara)",
+          "improper attention (ayoniso manasikāra)",
           "to give up, unmindfulness, lack of situational awareness, and distracted mind must be given up"
      ],
      [
@@ -27551,7 +27551,7 @@ export const indexArray =[
      ],
      [
           "AN10.76",
-          "uncharitableness (avadaññu)",
+          "uncharitableness (avadaññū)",
           "cause of and giving up"
      ],
      [
@@ -27766,7 +27766,7 @@ export const indexArray =[
      ],
      [
           "AN10.83",
-          "good speaker (kalyāṇavāco)",
+          "good speaker (kalyāṇavāca)",
           "inspires the Buddha to teach"
      ],
      [
@@ -28011,12 +28011,12 @@ export const indexArray =[
      ],
      [
           "AN10.87",
-          "harmony (sāmaññā)",
+          "harmony (sāmañña)",
           "qualities that do not lead to"
      ],
      [
           "AN10.87",
-          "harmony (sāmaññā)",
+          "harmony (sāmañña)",
           "qualities that lead to"
      ],
      [
@@ -29901,7 +29901,7 @@ export const indexArray =[
      ],
      [
           "AN10.237",
-          "perception of dissatisfaction with the whole world (sabbaloke anabhiratasañña)",
+          "perception of dissatisfaction with the whole world (sabbaloke anabhiratasaññā)",
           "for insight into greed"
      ],
      [
@@ -30121,7 +30121,7 @@ export const indexArray =[
      ],
      [
           "AN11.7",
-          "dimension of neither perception nor non-perception (nevasaññānāsaññāyatanaṁ)",
+          "dimension of neither perception nor non-perception (nevasaññanāsaññāyatana)",
           "perception of"
      ],
      [
@@ -30216,7 +30216,7 @@ export const indexArray =[
      ],
      [
           "AN11.9",
-          "dimension of neither perception nor non-perception (nevasaññānāsaññāyatanaṁ)",
+          "dimension of neither perception nor non-perception (nevasaññanāsaññāyatana)",
           "meditating dependent on"
      ],
      [
@@ -31286,7 +31286,7 @@ export const indexArray =[
      ],
      [
           "AN11.18",
-          "dimension of neither perception nor non-perception (nevasaññānāsaññāyatanaṁ)",
+          "dimension of neither perception nor non-perception (nevasaññanāsaññāyatana)",
           "perception of"
      ],
      [
@@ -38181,12 +38181,12 @@ export const indexArray =[
      ],
      [
           "MN65",
-          "one attained to view (diṭṭhippatto)",
+          "one attained to view (diṭṭhippatta)",
           "Buddha asking monk to be"
      ],
      [
           "MN65",
-          "one freed by faith (saddhāvimutto)",
+          "one freed by faith (saddhāvimutta)",
           "Buddha asking monk to be"
      ],
      [
@@ -38286,7 +38286,7 @@ export const indexArray =[
      ],
      [
           "MN66",
-          "dimension of neither perception nor non-perception (nevasaññānāsaññāyatanaṁ)",
+          "dimension of neither perception nor non-perception (nevasaññanāsaññāyatana)",
           "giving up even this"
      ],
      [
@@ -38891,7 +38891,7 @@ export const indexArray =[
      ],
      [
           "MN70",
-          "one attained to view (diṭṭhippatto)",
+          "one attained to view (diṭṭhippatta)",
           "definition"
      ],
      [
@@ -38901,7 +38901,7 @@ export const indexArray =[
      ],
      [
           "MN70",
-          "one freed by faith (saddhāvimutto)",
+          "one freed by faith (saddhāvimutta)",
           "definition"
      ],
      [
@@ -43641,12 +43641,12 @@ export const indexArray =[
      ],
      [
           "MN105",
-          "dimension of neither perception nor non-perception (nevasaññānāsaññāyatanaṁ)",
+          "dimension of neither perception nor non-perception (nevasaññanāsaññāyatana)",
           "being intent on"
      ],
      [
           "MN105",
-          "dimension of neither perception nor non-perception (nevasaññānāsaññāyatanaṁ)",
+          "dimension of neither perception nor non-perception (nevasaññanāsaññāyatana)",
           "discussion of"
      ],
      [
@@ -43801,17 +43801,17 @@ export const indexArray =[
      ],
      [
           "MN106",
-          "dimension of neither perception nor non-perception (nevasaññānāsaññāyatanaṁ)",
+          "dimension of neither perception nor non-perception (nevasaññanāsaññāyatana)",
           "attaining"
      ],
      [
           "MN106",
-          "dimension of neither perception nor non-perception (nevasaññānāsaññāyatanaṁ)",
+          "dimension of neither perception nor non-perception (nevasaññanāsaññāyatana)",
           "attainment of"
      ],
      [
           "MN106",
-          "dimension of neither perception nor non-perception (nevasaññānāsaññāyatanaṁ)",
+          "dimension of neither perception nor non-perception (nevasaññanāsaññāyatana)",
           "leading to nibbāna"
      ],
      [
@@ -44571,7 +44571,7 @@ export const indexArray =[
      ],
      [
           "MN111",
-          "dimension of neither perception nor non-perception (nevasaññānāsaññāyatanaṁ)",
+          "dimension of neither perception nor non-perception (nevasaññanāsaññāyatana)",
           "factors of"
      ],
      [
@@ -44736,7 +44736,7 @@ export const indexArray =[
      ],
      [
           "MN113",
-          "dimension of neither perception nor non-perception (nevasaññānāsaññāyatanaṁ)",
+          "dimension of neither perception nor non-perception (nevasaññanāsaññāyatana)",
           "not a reason to become arrogant"
      ],
      [
@@ -46141,7 +46141,7 @@ export const indexArray =[
      ],
      [
           "MN121",
-          "dimension of neither perception nor non-perception (nevasaññānāsaññāyatanaṁ)",
+          "dimension of neither perception nor non-perception (nevasaññanāsaññāyatana)",
           "perception of and emptiness"
      ],
      [
@@ -46367,7 +46367,7 @@ export const indexArray =[
      [
           "MN123",
           "Four Great Kings, the (catumahārāja)",
-          "guarding queen Māyā (comy.)"
+          "guarding queen Māyā (commentary)"
      ],
      [
           "MN123",
@@ -46436,7 +46436,7 @@ export const indexArray =[
      ],
      [
           "MN124",
-          "parinibbana",
+          "parinibbāna",
           "in the middle of the Saṅgha"
      ],
      [
@@ -47871,7 +47871,7 @@ export const indexArray =[
      ],
      [
           "MN137",
-          "dimension of neither perception nor non-perception (nevasaññānāsaññāyatanaṁ)",
+          "dimension of neither perception nor non-perception (nevasaññanāsaññāyatana)",
           ""
      ],
      [
@@ -48331,12 +48331,12 @@ export const indexArray =[
      ],
      [
           "MN140",
-          "dimension of neither perception nor non-perception (nevasaññānāsaññāyatanaṁ)",
+          "dimension of neither perception nor non-perception (nevasaññanāsaññāyatana)",
           "applying equanimity towards"
      ],
      [
           "MN140",
-          "dimension of neither perception nor non-perception (nevasaññānāsaññāyatanaṁ)",
+          "dimension of neither perception nor non-perception (nevasaññanāsaññāyatana)",
           "as conditioned"
      ],
      [
@@ -49136,7 +49136,7 @@ export const indexArray =[
      ],
      [
           "MN143",
-          "dimension of neither perception nor non-perception (nevasaññānāsaññāyatanaṁ)",
+          "dimension of neither perception nor non-perception (nevasaññanāsaññāyatana)",
           "not grasping"
      ],
      [
@@ -53091,7 +53091,7 @@ export const indexArray =[
      ],
      [
           "SN46.24",
-          "improper attention (ayoniso manasikara)",
+          "improper attention (ayoniso manasikāra)",
           "hindrances"
      ],
      [
@@ -54006,7 +54006,7 @@ export const indexArray =[
      ],
      [
           "SN46.70",
-          "perception of dissatisfaction with the whole world (sabbaloke anabhiratasañña)",
+          "perception of dissatisfaction with the whole world (sabbaloke anabhiratasaññā)",
           "awakening factors and"
      ],
      [
