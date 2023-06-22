@@ -89,7 +89,7 @@ export default function Info() {
         <summary>Misc.</summary>
         <div>
           <p>
-            <a href="index.readingfaithfully.org/table" rel="noreferrer" target="_blank">
+            <a href="/table" rel="noreferrer" target="_blank">
               Table of headwords
             </a>{" "}
             sorted by number of unique locators.
