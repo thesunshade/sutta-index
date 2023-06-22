@@ -85,6 +85,17 @@ export default function Info() {
           All citation for Vimanavatthu and Petavatthu link to SuttaFriends.org as it is the only complete online resource.
         </p>
       </details>
+      <details>
+        <summary>Misc.</summary>
+        <div>
+          <p>
+            <a href="index.readingfaithfully.org/table" rel="noreferrer" target="_blank">
+              Table of headwords
+            </a>{" "}
+            sorted by number of unique locators.
+          </p>
+        </div>
+      </details>
       <OtherToolsIcons />
     </div>
   );
