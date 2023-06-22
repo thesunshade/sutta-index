@@ -21,12 +21,12 @@ function Headword(props) {
   let { headword, headwordObject } = props;
   let sortedSubWords = sortedKeys(headwordObject);
 
-  sortedSubWords = sortedSubWords.filter(item => item !== "counter");
+  sortedSubWords = sortedSubWords.filter(item => item !== "counter_value");
 
   let headwordWithCount;
-  if (headwordObject.counter) {
+  if (headwordObject.counter_value) {
     let rootHeadword = headword.split(" (");
-    let counterNumber = headwordObject.counter;
+    let counterNumber = headwordObject.counter_value;
     if (rootHeadword.length === 1) {
       headwordWithCount = (
         <>
@@ -236,7 +236,7 @@ function Headword(props) {
         ""
       )}
       {sortedSubWords.map(subhead => {
-        if (subhead === "" || subhead === "counter") return null;
+        if (subhead === "" || subhead === "counter_value") return null;
         return (
           <div className="sub-word" key={subhead}>
             <span className="keyword">{subhead}</span> <LocatorList locatorXrefObject={headwordObject[subhead]} />

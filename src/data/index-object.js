@@ -888,7 +888,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "counter": 1
+               "counter_value": 1
           },
           "advice (ovāda)": {
                "in brief (saṅkhittena)": {
@@ -910,7 +910,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "counter": 2
+               "counter_value": 2
           },
           "adze handle": {
                "simile for gradual progress": {
@@ -2671,7 +2671,7 @@ export const indexObject ={
                          "xref preference (ruci)"
                     ]
                },
-               "counter": 1
+               "counter_value": 1
           },
           "approval (samanuñña)": {
                "of good or bad deeds": {
@@ -2680,7 +2680,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "counter": 2
+               "counter_value": 2
           },
           "arahants": {
                "": {
@@ -3158,7 +3158,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "counter": 1
+               "counter_value": 1
           },
           "arrogance (thaddha)": {
                "definition": {
@@ -3179,7 +3179,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "counter": 2
+               "counter_value": 2
           },
           "arrows": {
                "simile for bad people": {
@@ -3712,7 +3712,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "counter": 1
+               "counter_value": 1
           },
           "association (bhajamānā)": {
                "with spiritual friends": {
@@ -3721,7 +3721,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "counter": 2
+               "counter_value": 2
           },
           "association (saṁseva)": {
                "with bad people causes listening to untrue teachings": {
@@ -3752,7 +3752,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "counter": 3
+               "counter_value": 3
           },
           "association (sevitabba)": {
                "whom to associate with": {
@@ -3824,7 +3824,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "counter": 4
+               "counter_value": 4
           },
           "assuming bad things": {
                "about families": {
@@ -4080,7 +4080,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "counter": 1
+               "counter_value": 1
           },
           "attachments (ajjhosāna)": {
                "caused by desire and lust": {
@@ -4095,7 +4095,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "counter": 2
+               "counter_value": 2
           },
           "attachments (visattikā)": {
                "crossing over attachments to world": {
@@ -4104,7 +4104,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "counter": 3
+               "counter_value": 3
           },
           "attachments (yoga)": {
                "to sensual pleasures, future lives, views, ignorance": {
@@ -4119,7 +4119,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "counter": 4
+               "counter_value": 4
           },
           "attachments, stilling of all (sabbūpadhipaṭinissaggo)": {
                "ending defilements": {
@@ -4224,7 +4224,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "counter": 1
+               "counter_value": 1
           },
           "avoiding (parivajjana)": {
                "in order to remove taints (āsava)": {
@@ -4241,7 +4241,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "counter": 2
+               "counter_value": 2
           },
           "awakening (sambodha)": {
                "": {
@@ -5930,7 +5930,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "counter": 1
+               "counter_value": 1
           },
           "beings (satta)": {
                "Buddha knows conviction/disposition of beings": {
@@ -5939,7 +5939,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "counter": 2
+               "counter_value": 2
           },
           "beings diverse in body and diverse in perception (sattā nānattakāyā nānattasaññino)": {
                "planes of consciousness": {
@@ -7049,7 +7049,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "counter": 1
+               "counter_value": 1
           },
           "body (kāya)": {
                "complete understanding of": {
@@ -7064,7 +7064,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "counter": 2
+               "counter_value": 2
           },
           "body (sarīra)": {
                "like chariot": {
@@ -7080,7 +7080,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "counter": 3
+               "counter_value": 3
           },
           "body contact (kāyasamphassa)": {
                "faculties of pleasure and pain": {
@@ -9069,7 +9069,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "counter": 1
+               "counter_value": 1
           },
           "caste (vaṇṇa)": {
                "refuting": {
@@ -9114,7 +9114,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "counter": 2
+               "counter_value": 2
           },
           "cat-skin bag": {
                "mind like a": {
@@ -10158,7 +10158,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "counter": 1
+               "counter_value": 1
           },
           "compassion (karuṇā)": {
                "monks committed to developing": {
@@ -10185,7 +10185,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "counter": 2
+               "counter_value": 2
           },
           "compassion for future generations": {
                "wilderness living": {
@@ -10747,7 +10747,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "counter": 1
+               "counter_value": 1
           },
           "confidence (pasāda)": {
                "": {
@@ -10804,7 +10804,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "counter": 2
+               "counter_value": 2
           },
           "confirmed confidence (aveccappasāda)": {
                "": {
@@ -10833,7 +10833,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "counter": 1
+               "counter_value": 1
           },
           "conflicts (medhaga)": {
                "stopping": {
@@ -10842,7 +10842,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "counter": 2
+               "counter_value": 2
           },
           "conscience (hiri)": {
                "": {
@@ -10891,7 +10891,7 @@ export const indexObject ={
                          "xref prudence (ottāpa)"
                     ]
                },
-               "counter": 1
+               "counter_value": 1
           },
           "conscience and prudence (hiri ottappa)": {
                "protectors of the world": {
@@ -11034,7 +11034,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "counter": 2
+               "counter_value": 2
           },
           "consciousness": {
                "as element": {
@@ -11043,7 +11043,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "counter": 1
+               "counter_value": 1
           },
           "consciousness (viññāṇa)": {
                "coming and going of": {
@@ -11150,7 +11150,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "counter": 2
+               "counter_value": 2
           },
           "consciousness element (viññāṇadhātu)": {
                "as not self": {
@@ -11294,7 +11294,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "counter": 1
+               "counter_value": 1
           },
           "contentment (santuṭṭhi)": {
                "as a blessing": {
@@ -11478,7 +11478,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "counter": 2
+               "counter_value": 2
           },
           "continued existence": {
                "": {
@@ -11582,7 +11582,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "counter": 1
+               "counter_value": 1
           },
           "corruptions (upakkilesa)": {
                "of the mind": {
@@ -11604,7 +11604,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "counter": 2
+               "counter_value": 2
           },
           "cosmology (lokāyatika)": {
                "brahmin cosmologists": {
@@ -12646,7 +12646,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "counter": 1
+               "counter_value": 1
           },
           "death (maraṇa)": {
                "reaction to hearing about": {
@@ -13068,7 +13068,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "counter": 2
+               "counter_value": 2
           },
           "deathbed": {
                "conversation upon": {
@@ -13501,7 +13501,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "counter": 1
+               "counter_value": 1
           },
           "delight (rati)": {
                "mindfulness of the body overcomes": {
@@ -13516,7 +13516,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "counter": 2
+               "counter_value": 2
           },
           "deliverance (vimutti)": {
                "": {
@@ -13620,7 +13620,7 @@ export const indexObject ={
                          "xref asuras"
                     ]
                },
-               "counter": 1
+               "counter_value": 1
           },
           "demons (yakkha)": {
                "": {
@@ -13629,7 +13629,7 @@ export const indexObject ={
                          "xref yakkhas"
                     ]
                },
-               "counter": 2
+               "counter_value": 2
           },
           "demonstrations (pāṭihāriya)": {
                "": {
@@ -15929,7 +15929,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "counter": 1
+               "counter_value": 1
           },
           "discontent (asantuṭṭhi)": {
                "leads to unwholesome": {
@@ -15950,7 +15950,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "counter": 2
+               "counter_value": 2
           },
           "discussion": {
                "": {
@@ -16389,7 +16389,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "counter": 1
+               "counter_value": 1
           },
           "disrespect (anādariya)": {
                "cause of and giving up": {
@@ -16398,7 +16398,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "counter": 2
+               "counter_value": 2
           },
           "disrobing": {
                "encouraging to": {
@@ -16975,7 +16975,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "counter": 1
+               "counter_value": 1
           },
           "doubt (vicikicchā)": {
                "": {
@@ -17115,7 +17115,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "counter": 2
+               "counter_value": 2
           },
           "downfall (parābhava)": {
                "causes of": {
@@ -17317,7 +17317,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "counter": 1
+               "counter_value": 1
           },
           "dwellings (senāsana)": {
                "what kinds should and should not be cultivated": {
@@ -17371,7 +17371,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "counter": 2
+               "counter_value": 2
           },
           "dwellings, mental (vihāra)": {
                "nine progressive": {
@@ -17869,7 +17869,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "counter": 1
+               "counter_value": 1
           },
           "elements (dhātu)": {
                "": {
@@ -17981,7 +17981,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "counter": 2
+               "counter_value": 2
           },
           "elements, four great (cattāri mahābhūtāni)": {
                "": {
@@ -18406,7 +18406,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "counter": 1
+               "counter_value": 1
           },
           "enduring (adhivāsana)": {
                "painful feelings": {
@@ -18436,7 +18436,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "counter": 2
+               "counter_value": 2
           },
           "enduring (khama)": {
                "mindfulness of the body helps one to achieve": {
@@ -18489,7 +18489,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "counter": 3
+               "counter_value": 3
           },
           "enduring (khanta)": {
                "": {
@@ -18498,7 +18498,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "counter": 4
+               "counter_value": 4
           },
           "enduring (titikkha)": {
                "like armor": {
@@ -18507,7 +18507,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "counter": 5
+               "counter_value": 5
           },
           "enduring abuse": {
                "like elephant": {
@@ -19047,7 +19047,7 @@ export const indexObject ={
                          "xref impartiality (samānattatā)"
                     ]
                },
-               "counter": 1
+               "counter_value": 1
           },
           "equality (samasama)": {
                "of four castes": {
@@ -19056,7 +19056,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "counter": 2
+               "counter_value": 2
           },
           "equanimity (upekkhā)": {
                "": {
@@ -19480,7 +19480,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "counter": 1
+               "counter_value": 1
           },
           "exertion (yoga)": {
                "knowing right time for": {
@@ -19489,7 +19489,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "counter": 2
+               "counter_value": 2
           },
           "exhortation": {
                "": {
@@ -23976,7 +23976,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "counter": 1
+               "counter_value": 1
           },
           "freedom (vimutti)": {
                "": {
@@ -24040,7 +24040,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "counter": 2
+               "counter_value": 2
           },
           "freedom by wisdom (paññāvimutti)": {
                "": {
@@ -28091,7 +28091,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "counter": 1
+               "counter_value": 1
           },
           "greed (lobha)": {
                "": {
@@ -28137,7 +28137,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "counter": 2
+               "counter_value": 2
           },
           "greed (rāga)": {
                "": {
@@ -28221,7 +28221,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "counter": 3
+               "counter_value": 3
           },
           "greed, hatred, delusion": {
                "": {
@@ -28522,7 +28522,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "counter": 1
+               "counter_value": 1
           },
           "habits (sīla)": {
                "wholesome and unwholesome": {
@@ -28537,7 +28537,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "counter": 2
+               "counter_value": 2
           },
           "hairs": {
                "grey": {
@@ -28604,7 +28604,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "counter": 1
+               "counter_value": 1
           },
           "happiness (sukha)": {
                "": {
@@ -28837,7 +28837,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "counter": 2
+               "counter_value": 2
           },
           "happiness in the present life (diṭṭhadhammasukhavihāra)": {
                "wilderness living": {
@@ -28986,7 +28986,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "counter": 1
+               "counter_value": 1
           },
           "harmony (samagga)": {
                "how to achieve": {
@@ -29014,7 +29014,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "counter": 2
+               "counter_value": 2
           },
           "harmony (sāmañña)": {
                "qualities that lead to": {
@@ -29030,7 +29030,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "counter": 3
+               "counter_value": 3
           },
           "harmony in Saṅgha (saṅghasāmaggī)": {
                "as great happiness": {
@@ -29350,7 +29350,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "counter": 1
+               "counter_value": 1
           },
           "hatred (vera)": {
                "ending": {
@@ -29366,7 +29366,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "counter": 2
+               "counter_value": 2
           },
           "Hatthaka of Āḷavī, householder": {
                "foremost who attract a group": {
@@ -29607,7 +29607,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "counter": 1
+               "counter_value": 1
           },
           "hearing the Dhamma (saddhammaṁ sossati)": {
                "leads to practicing in line with the Dhamma": {
@@ -29616,7 +29616,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "counter": 2
+               "counter_value": 2
           },
           "heart (citta)": {
                "": {
@@ -31309,7 +31309,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "counter": 1
+               "counter_value": 1
           },
           "honor (sakkāra)": {
                "": {
@@ -31344,7 +31344,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "counter": 2
+               "counter_value": 2
           },
           "hope (āsa)": {
                "no need for": {
@@ -31552,7 +31552,7 @@ export const indexObject ={
                          "xref hatred (dosa)"
                     ]
                },
-               "counter": 1
+               "counter_value": 1
           },
           "hostility (upanāha)": {
                "without giving up, cannot become arahant": {
@@ -31574,7 +31574,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "counter": 2
+               "counter_value": 2
           },
           "house builder": {
                "simile of": {
@@ -32541,7 +32541,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "counter": 1
+               "counter_value": 1
           },
           "impermanence meditation (aniccasaññābhāvanā)": {
                "monks committed to developing": {
@@ -32556,7 +32556,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "counter": 2
+               "counter_value": 2
           },
           "imperturbable (āneñja)": {
                "discussion of": {
@@ -32923,7 +32923,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "counter": 1
+               "counter_value": 1
           },
           "insanity (ummāda)": {
                "caused by thinking about inconceivable things": {
@@ -32938,7 +32938,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "counter": 2
+               "counter_value": 2
           },
           "insects": {
                "": {
@@ -33152,7 +33152,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "counter": 1
+               "counter_value": 1
           },
           "insulting (paribhāsati)": {
                "receiver of gifts": {
@@ -33161,7 +33161,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "counter": 2
+               "counter_value": 2
           },
           "integrity": {
                "doing what you say you will do": {
@@ -33258,7 +33258,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "counter": 1
+               "counter_value": 1
           },
           "intention (mano)": {
                "": {
@@ -33277,7 +33277,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "counter": 2
+               "counter_value": 2
           },
           "intention (saṅkappa)": {
                "arise because of name and form": {
@@ -33353,7 +33353,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "counter": 3
+               "counter_value": 3
           },
           "intention of cruelty (vihiṁsāsaṅkappa)": {
                "caused by perception": {
@@ -34430,7 +34430,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "counter": 1
+               "counter_value": 1
           },
           "joy (somanassa)": {
                "towards sense contact": {
@@ -34439,7 +34439,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "counter": 2
+               "counter_value": 2
           },
           "joy in the Dhamma (dhammārāma)": {
                "happiness in present life": {
@@ -34537,7 +34537,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "counter": 1
+               "counter_value": 1
           },
           "judging (vinicchaya)": {
                "caused by gain": {
@@ -34552,7 +34552,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "counter": 2
+               "counter_value": 2
           },
           "jungle": {
                "": {
@@ -35132,7 +35132,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "counter": 1
+               "counter_value": 1
           },
           "kings (rāja)": {
                "not a brahmin": {
@@ -35142,7 +35142,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "counter": 2
+               "counter_value": 2
           },
           "kingship": {
                "human kingship cannot compare to happiness of gods": {
@@ -35257,7 +35257,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "counter": 1
+               "counter_value": 1
           },
           "knowledge (vijjā)": {
                "giving rise to": {
@@ -35302,7 +35302,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "counter": 2
+               "counter_value": 2
           },
           "knowledge and freedom (vijjāvimutti)": {
                "awakening factors leading to": {
@@ -36246,7 +36246,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "counter": 1
+               "counter_value": 1
           },
           "laziness (kosajja)": {
                "Māra strikes one down": {
@@ -36287,7 +36287,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "counter": 2
+               "counter_value": 2
           },
           "laziness (kusīta)": {
                "thinking that leads to": {
@@ -36322,7 +36322,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "counter": 3
+               "counter_value": 3
           },
           "leadership": {
                "as result of merit": {
@@ -36781,7 +36781,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "counter": 1
+               "counter_value": 1
           },
           "letting go (vossagga)": {
                "developing eightfold path based on": {
@@ -36790,7 +36790,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "counter": 2
+               "counter_value": 2
           },
           "liberated in mind (vimuttacitta)": {
                "": {
@@ -37602,7 +37602,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "counter": 1
+               "counter_value": 1
           },
           "loss (alābha)": {
                "worldly conditions": {
@@ -37611,7 +37611,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "counter": 2
+               "counter_value": 2
           },
           "loss (pārijuñña, byasana)": {
                "of loved ones": {
@@ -37669,7 +37669,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "counter": 3
+               "counter_value": 3
           },
           "lotus": {
                "leaf and drop of water as simile for craving": {
@@ -37720,7 +37720,7 @@ export const indexObject ={
                          "xref non-hatred (avera)"
                     ]
                },
-               "counter": 1
+               "counter_value": 1
           },
           "love (pema)": {
                "caused by love and hate": {
@@ -37741,7 +37741,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "counter": 2
+               "counter_value": 2
           },
           "love (piya)": {
                "": {
@@ -37775,7 +37775,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "counter": 3
+               "counter_value": 3
           },
           "love for the Dhamma (dhammakāma)": {
                "": {
@@ -37815,7 +37815,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "counter": 1
+               "counter_value": 1
           },
           "love for the Dhamma (dhammanandi)": {
                "": {
@@ -37831,7 +37831,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "counter": 2
+               "counter_value": 2
           },
           "love for the Dhamma (dhammarāga)": {
                "": {
@@ -37840,7 +37840,7 @@ export const indexObject ={
                          "xref passion for the Dhamma (dhammarāga)"
                     ]
                },
-               "counter": 3
+               "counter_value": 3
           },
           "loved ones": {
                "clinging to": {
@@ -39507,7 +39507,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "counter": 1
+               "counter_value": 1
           },
           "meditation (jhāyati)": {
                "": {
@@ -39546,7 +39546,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "counter": 2
+               "counter_value": 2
           },
           "meditation (yoga)": {
                "knowing right time for": {
@@ -39555,7 +39555,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "counter": 3
+               "counter_value": 3
           },
           "meditation on ugliness (asubhabhāvanā)": {
                "monks committed to developing": {
@@ -40681,7 +40681,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "counter": 1
+               "counter_value": 1
           },
           "mind (citta)": {
                "complete understanding of": {
@@ -40750,7 +40750,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "counter": 2
+               "counter_value": 2
           },
           "mind (mano)": {
                "recourse in mindfulness": {
@@ -40759,7 +40759,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "counter": 3
+               "counter_value": 3
           },
           "mind contact (manosamphassa)": {
                "faculties of happiness and sadness": {
@@ -41227,7 +41227,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "counter": 1
+               "counter_value": 1
           },
           "mindfulness of body (kāyānupassanā)": {
                "mindfulness of breathing": {
@@ -41255,7 +41255,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "counter": 2
+               "counter_value": 2
           },
           "mindfulness of breathing (ānāpānassati)": {
                "to cut off thinking": {
@@ -42137,7 +42137,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "counter": 1
+               "counter_value": 1
           },
           "monastic rules (vinaya)": {
                "": {
@@ -42375,7 +42375,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "counter": 2
+               "counter_value": 2
           },
           "monastics": {
                "": {
@@ -42731,7 +42731,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "counter": 1
+               "counter_value": 1
           },
           "mortification (tapas)": {
                "purification through": {
@@ -42740,7 +42740,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "counter": 2
+               "counter_value": 2
           },
           "mortification (tapojigucchā)": {
                "": {
@@ -42798,7 +42798,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "counter": 3
+               "counter_value": 3
           },
           "mortifying others (parantapa)": {
                "people who do": {
@@ -44537,7 +44537,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "counter": 1
+               "counter_value": 1
           },
           "non-hatred (avera)": {
                "removes hatred": {
@@ -44552,7 +44552,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "counter": 2
+               "counter_value": 2
           },
           "non-humans (amanussa)": {
                "loving-kindness makes non-humans love you": {
@@ -45214,7 +45214,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "counter": 1
+               "counter_value": 1
           },
           "old age (jarā)": {
                "": {
@@ -45319,7 +45319,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "counter": 2
+               "counter_value": 2
           },
           "old age, sickness, and death": {
                "": {
@@ -45966,7 +45966,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "counter": 1
+               "counter_value": 1
           },
           "outcast (vasala)": {
                "accusation of being": {
@@ -45981,7 +45981,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "counter": 2
+               "counter_value": 2
           },
           "overconfidence": {
                "": {
@@ -46228,7 +46228,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "counter": 1
+               "counter_value": 1
           },
           "painful feelings (dukkhavedanā)": {
                "pain and sadness, body and mind contact": {
@@ -46244,7 +46244,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "counter": 2
+               "counter_value": 2
           },
           "painful practice (dukkhā paṭipadā)": {
                "with slow insight": {
@@ -47690,7 +47690,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "counter": 1
+               "counter_value": 1
           },
           "perception of ugliness (asubhasaññā)": {
                "": {
@@ -47832,7 +47832,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "counter": 2
+               "counter_value": 2
           },
           "perception, distorted (viparītasaññā)": {
                "of body": {
@@ -48750,7 +48750,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "counter": 1
+               "counter_value": 1
           },
           "powers (bala)": {
                "": {
@@ -48850,7 +48850,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "counter": 2
+               "counter_value": 2
           },
           "powers of a Tathāgata (tathāgatabala)": {
                "faith, conscience, prudence, energy, wisdom": {
@@ -48954,7 +48954,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "counter": 1
+               "counter_value": 1
           },
           "practices (vatta)": {
                "proper, leading to enlightenment": {
@@ -48963,7 +48963,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "counter": 2
+               "counter_value": 2
           },
           "practicing": {
                "without recitation": {
@@ -49139,7 +49139,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "counter": 1
+               "counter_value": 1
           },
           "praise (pasaṁsā)": {
                "worldly conditions": {
@@ -49154,7 +49154,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "counter": 2
+               "counter_value": 2
           },
           "praise (vaṇṇa)": {
                "of good or bad deeds": {
@@ -49163,7 +49163,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "counter": 3
+               "counter_value": 3
           },
           "praise and blame": {
                "no one wholly praised or blamed": {
@@ -49762,7 +49762,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "counter": 1
+               "counter_value": 1
           },
           "protection (tāṇa)": {
                "not found in the world": {
@@ -49771,7 +49771,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "counter": 2
+               "counter_value": 2
           },
           "protective chanting (paritta)": {
                "Khanda Paritta": {
@@ -50154,7 +50154,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "counter": 1
+               "counter_value": 1
           },
           "purity (suddhi, pārisuddhi)": {
                "": {
@@ -50199,7 +50199,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "counter": 2
+               "counter_value": 2
           },
           "pursuing gain with gain (lābhena ca lābhaṁ)": {
                "senior monastics": {
@@ -51685,7 +51685,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "counter": 1
+               "counter_value": 1
           },
           "reflection (paṭisaṅkhā)": {
                "": {
@@ -51720,7 +51720,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "counter": 2
+               "counter_value": 2
           },
           "reflection on meaning (atthūpaparikkhā)": {
                "": {
@@ -52108,7 +52108,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "counter": 1
+               "counter_value": 1
           },
           "renunciation (nekkhamma)": {
                "": {
@@ -52192,7 +52192,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "counter": 2
+               "counter_value": 2
           },
           "repaying help": {
                "some help is difficult to repay": {
@@ -54250,7 +54250,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "counter": 1
+               "counter_value": 1
           },
           "rudeness (pagabbha)": {
                "leading to hell": {
@@ -54259,7 +54259,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "counter": 2
+               "counter_value": 2
           },
           "rumors": {
                "about the Buddha": {
@@ -54378,7 +54378,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "counter": 1
+               "counter_value": 1
           },
           "sadness (domanassa)": {
                "": {
@@ -54405,7 +54405,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "counter": 2
+               "counter_value": 2
           },
           "safe place (khema)": {
                "": {
@@ -55574,7 +55574,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "counter": 1
+               "counter_value": 1
           },
           "seclusion (paṭisallīna, vivitta)": {
                "": {
@@ -55651,7 +55651,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "counter": 2
+               "counter_value": 2
           },
           "seclusion (paviveka)": {
                "": {
@@ -55720,7 +55720,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "counter": 3
+               "counter_value": 3
           },
           "second jhāna": {
                "": {
@@ -55770,7 +55770,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "counter": 1
+               "counter_value": 1
           },
           "secrets (guyhamanta)": {
                "and good friends": {
@@ -55779,7 +55779,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "counter": 2
+               "counter_value": 2
           },
           "security (khema)": {
                "mind that is": {
@@ -55930,7 +55930,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "counter": 1
+               "counter_value": 1
           },
           "self (atta)": {
                "experiencing pleasure and pain": {
@@ -55939,7 +55939,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "counter": 2
+               "counter_value": 2
           },
           "self-assured (visārada)": {
                "qualities that make one": {
@@ -55993,7 +55993,7 @@ export const indexObject ={
                          "xref self-reflection"
                     ]
                },
-               "counter": 1
+               "counter_value": 1
           },
           "self-knowledge (attaññū)": {
                "": {
@@ -56014,7 +56014,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "counter": 2
+               "counter_value": 2
           },
           "self-mortification (attantapo)": {
                "": {
@@ -56591,7 +56591,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "counter": 1
+               "counter_value": 1
           },
           "sense desire (kāmarāga)": {
                "": {
@@ -56618,7 +56618,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "counter": 2
+               "counter_value": 2
           },
           "sense doors, guarding (indriyesu guttadvāra)": {
                "part of gradual training": {
@@ -57632,7 +57632,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "counter": 1
+               "counter_value": 1
           },
           "serving (pariciṇṇa)": {
                "“serving the Buddha” as code for declaring enlightenment": {
@@ -57641,7 +57641,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "counter": 2
+               "counter_value": 2
           },
           "settled (vūpasama)": {
                "settled mind starves restlessness and remorse": {
@@ -58123,7 +58123,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "counter": 1
+               "counter_value": 1
           },
           "sickness (roga)": {
                "term for sense pleasures": {
@@ -58132,7 +58132,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "counter": 2
+               "counter_value": 2
           },
           "sign (nimitta)": {
                "of sense object": {
@@ -59258,7 +59258,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "counter": 1
+               "counter_value": 1
           },
           "sorrow (soka)": {
                "as first noble truth": {
@@ -59273,7 +59273,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "counter": 2
+               "counter_value": 2
           },
           "sorrowless (asoka)": {
                "mind that is": {
@@ -60921,7 +60921,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "counter": 1
+               "counter_value": 1
           },
           "streams (saritā)": {
                "dried up": {
@@ -60936,7 +60936,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "counter": 2
+               "counter_value": 2
           },
           "strength": {
                "as monastic’s energy": {
@@ -60973,7 +60973,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "counter": 1
+               "counter_value": 1
           },
           "striving (ussāha)": {
                "leads to scrutinizing": {
@@ -60983,7 +60983,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "counter": 2
+               "counter_value": 2
           },
           "strong person": {
                "snapping fingers as simile for controlling the mind": {
@@ -61510,7 +61510,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "counter": 1
+               "counter_value": 1
           },
           "sun (sūriya)": {
                "seven suns": {
@@ -61539,7 +61539,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "counter": 2
+               "counter_value": 2
           },
           "Sunakkhatta, Ven.": {
                "asking about overestimation": {
@@ -61996,7 +61996,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "counter": 1
+               "counter_value": 1
           },
           "talk (bhassa)": {
                "leading to mendicant’s decline": {
@@ -62018,7 +62018,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "counter": 2
+               "counter_value": 2
           },
           "talk (kathā)": {
                "": {
@@ -62053,7 +62053,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "counter": 3
+               "counter_value": 3
           },
           "talking without doing": {
                "": {
@@ -62537,7 +62537,7 @@ export const indexObject ={
                          "xref intention (saṅkappa)"
                     ]
                },
-               "counter": 1
+               "counter_value": 1
           },
           "thoughts (vitakka)": {
                "": {
@@ -62619,7 +62619,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "counter": 2
+               "counter_value": 2
           },
           "thoughts of a great man (mahāpurisavitakka)": {
                "Ven. Aunuruddha": {
@@ -62876,7 +62876,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "counter": 1
+               "counter_value": 1
           },
           "traders (vāṇija)": {
                "not a brahmin": {
@@ -62886,7 +62886,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "counter": 2
+               "counter_value": 2
           },
           "trades": {
                "": {
@@ -63034,7 +63034,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "counter": 1
+               "counter_value": 1
           },
           "training (sikkhā)": {
                "breaking five precepts as weakness when training": {
@@ -63075,7 +63075,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "counter": 2
+               "counter_value": 2
           },
           "training (vinaya)": {
                "Vinaya helps support": {
@@ -63084,7 +63084,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "counter": 3
+               "counter_value": 3
           },
           "training of a Holy One  (sugatavinaya)": {
                "": {
@@ -63549,7 +63549,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "counter": 1
+               "counter_value": 1
           },
           "truth (sacca)": {
                "rebirth in heaven": {
@@ -63588,7 +63588,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "counter": 2
+               "counter_value": 2
           },
           "truthfulness": {
                "": {
@@ -64486,7 +64486,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "counter": 1
+               "counter_value": 1
           },
           "unwholesome roots (rāga, dosa, moha)": {
                "": {
@@ -64538,7 +64538,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "counter": 2
+               "counter_value": 2
           },
           "unwise (duppañña)": {
                "sign of decline": {
@@ -64816,7 +64816,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "counter": 1
+               "counter_value": 1
           },
           "urgency (saṁvega)": {
                "groundwork for enlightenment": {
@@ -64852,7 +64852,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "counter": 2
+               "counter_value": 2
           },
           "urinating": {
                "situational awareness": {
@@ -64914,7 +64914,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "counter": 1
+               "counter_value": 1
           },
           "useless speech (tiracchāna)": {
                "monks engaging in": {
@@ -64949,7 +64949,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "counter": 2
+               "counter_value": 2
           },
           "useless speech, giving up": {
                "definition": {
@@ -67355,7 +67355,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "counter": 1
+               "counter_value": 1
           },
           "wholesome roots (vītarāga, vītadosa, vītamoha)": {
                "cause of wholesome": {
@@ -67364,7 +67364,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "counter": 2
+               "counter_value": 2
           },
           "wholesomeness": {
                "": {
@@ -67995,7 +67995,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "counter": 1
+               "counter_value": 1
           },
           "wish (cetana)": {
                "": {
@@ -68004,7 +68004,7 @@ export const indexObject ={
                          "xref intention (cetana)"
                     ]
                },
-               "counter": 2
+               "counter_value": 2
           },
           "wishing (ākaṅkhati)": {
                "for various attainments": {
@@ -68013,7 +68013,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "counter": 1
+               "counter_value": 1
           },
           "wishing (iccha)": {
                "wishing not to die, etc. in first noble truth": {
@@ -68041,7 +68041,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "counter": 2
+               "counter_value": 2
           },
           "wishing (patthana)": {
                "doesn’t bring results": {
@@ -68051,7 +68051,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "counter": 3
+               "counter_value": 3
           },
           "wives": {
                "respectful": {
@@ -68424,7 +68424,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "counter": 1
+               "counter_value": 1
           },
           "workers (sudda)": {
                "": {
@@ -68453,7 +68453,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "counter": 2
+               "counter_value": 2
           },
           "world of perfect happiness (ekantasukho loko)": {
                "path for realizing": {
@@ -68631,7 +68631,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "counter": 1
+               "counter_value": 1
           },
           "worldly conditions (lokadhamma)": {
                "not affected by": {
@@ -68653,7 +68653,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "counter": 2
+               "counter_value": 2
           },
           "worlds": {
                "": {
@@ -68678,7 +68678,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "counter": 1
+               "counter_value": 1
           },
           "worshiping (payirupāsati)": {
                "carefully": {
@@ -68702,7 +68702,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "counter": 2
+               "counter_value": 2
           },
           "worshiping (pūjā)": {
                "": {
@@ -68730,7 +68730,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "counter": 3
+               "counter_value": 3
           },
           "worshiping (vandati)": {
                "leading to heaven": {
@@ -68753,7 +68753,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "counter": 4
+               "counter_value": 4
           },
           "wounds": {
                "simile for six internal sense bases": {
@@ -69366,7 +69366,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "counter": 1
+               "counter_value": 1
           },
           "wrong views (diṭṭhigata)": {
                "being able to dispel as qualification to ordain monastics": {
@@ -69381,7 +69381,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "counter": 2
+               "counter_value": 2
           },
           "wrongly directed mind": {
                "cause of bad actions": {

@@ -339,25 +339,68 @@ function createIndexObject() {
       const currentRootHeadword = getRootHeadword(headwords[x]);
       const nextRootHeadword = getRootHeadword(headwords[x + 1]);
       if (currentRootHeadword === nextRootHeadword) {
-        newObject[letter][currentHeadword].counter = counter;
+        newObject[letter][currentHeadword].counter_value = counter;
         counter++;
       } else if (x > 0) {
         const previousRootHeadword = getRootHeadword(headwords[x - 1]);
         if (currentRootHeadword === previousRootHeadword) {
-          newObject[letter][currentHeadword].counter = counter;
+          newObject[letter][currentHeadword].counter_value = counter;
           counter = 1;
         }
       }
     }
   }
 
-  const object = `export const indexObject =${JSON.stringify(newObject, null, 5)}`;
+  // count number of unique locators per headword
 
+  let locatorCountHeadwordsList = [];
+  const alphabetList = Object.keys(newObject);
+  for (let i = 0; i < alphabetList.length; i++) {
+    const letter = alphabetList[i];
+    const letterObject = newObject[letter];
+    const headwordArray = Object.keys(letterObject);
+
+    // console.log(letterObject[headwordArray[0]]);
+    for (let x = 0; x < headwordArray.length; x++) {
+      const headword = headwordArray[x];
+      // console.log("HEADWORD: " + headword);
+      let allLocators = [];
+      const headwordObject = letterObject[headword];
+      const subheadArray = Object.keys(headwordObject);
+      for (let y = 0; y < subheadArray.length; y++) {
+        const subhead = subheadArray[y];
+        // console.log("SUBHEAD: " + subhead);
+        const subheadObject = headwordObject[subhead];
+        allLocators.push(subheadObject.locators);
+      }
+      const uniqueLocatorsLength = [...new Set(allLocators.flat())].length;
+      // console.log(headword + ": " + uniqueLocatorsLength);
+      if (uniqueLocatorsLength > 0) {
+        locatorCountHeadwordsList.push([headword, uniqueLocatorsLength]);
+      }
+    }
+  }
+  locatorCountHeadwordsList.sort(function (a, b) {
+    return a[1] - b[1];
+  });
+  // console.log(locatorCountHeadwordsList);
+
+  const object = `export const indexObject =${JSON.stringify(newObject, null, 5)}`;
   try {
     fs.writeFileSync("./src/data/index-object.js", object);
     console.log("✅ indexObject written");
   } catch (err) {
     console.log("❌There was an error writing indexObject");
+    console.error(err);
+  }
+
+  const headwordLocatorCount = `export const indexObject =${JSON.stringify(locatorCountHeadwordsList, null, 5)}`;
+
+  try {
+    fs.writeFileSync("./src/data/headwordLocatorCount.js", headwordLocatorCount);
+    console.log("✅ headwordLocatorCount written");
+  } catch (err) {
+    console.log("❌There was an error writing headwordLocatorCount");
     console.error(err);
   }
 }
