@@ -172,6 +172,10 @@ export const indexObject =[
           31
      ],
      [
+          "wrong view (micchā diṭṭhi)",
+          30
+     ],
+     [
           "results of actions",
           30
      ],
@@ -186,10 +190,6 @@ export const indexObject =[
      [
           "faculties, spiritual (indriya)",
           30
-     ],
-     [
-          "wrong view (micchā diṭṭhi)",
-          29
      ],
      [
           "merit (puñña)",

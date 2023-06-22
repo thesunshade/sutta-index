@@ -1410,7 +1410,7 @@ export const indexObject ={
                }
           },
           "“all”, the (sabba)": {
-               "": {
+               "ending suffering by knowing": {
                     "locators": [
                          "Iti7"
                     ],
@@ -10199,7 +10199,6 @@ export const indexObject ={
                "": {
                     "locators": [
                          "AN4.200",
-                         "Iti8",
                          "Thag18.1"
                     ],
                     "xrefs": [
@@ -10217,6 +10216,12 @@ export const indexObject ={
                "giving up guarantees non-return": {
                     "locators": [
                          "Iti6"
+                    ],
+                    "xrefs": []
+               },
+               "ending suffering by knowing": {
+                    "locators": [
+                         "Iti8"
                     ],
                     "xrefs": []
                },
@@ -19209,14 +19214,25 @@ export const indexObject ={
           },
           "escape (nissaraṇa)": {
                "": {
-                    "locators": [
-                         "Ud8.3",
-                         "Iti72"
-                    ],
+                    "locators": [],
                     "xrefs": [
                          "xref danger (ādīnava)",
                          "xref gratification (assāda)"
                     ]
+               },
+               "from the born": {
+                    "locators": [
+                         "Ud8.3"
+                    ],
+                    "xrefs": []
+               },
+               "elements of": {
+                    "locators": [
+                         "AN5.200",
+                         "AN6.13",
+                         "Iti72"
+                    ],
+                    "xrefs": []
                },
                "from aggregates": {
                     "locators": [
@@ -19239,13 +19255,6 @@ export const indexObject ={
                "if there were no": {
                     "locators": [
                          "AN3.105"
-                    ],
-                    "xrefs": []
-               },
-               "elements of": {
-                    "locators": [
-                         "AN5.200",
-                         "AN6.13"
                     ],
                     "xrefs": []
                }
@@ -19628,7 +19637,8 @@ export const indexObject ={
                          "AN8.10",
                          "Dhp142",
                          "Dhp262",
-                         "Dhp264"
+                         "Dhp264",
+                         "Ud7.5"
                     ],
                     "xrefs": []
                },
@@ -19643,17 +19653,16 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "": {
-                    "locators": [
-                         "AN4.65",
-                         "Ud7.5",
-                         "Thag2.44"
-                    ],
-                    "xrefs": []
-               },
                "not most important": {
                     "locators": [
                          "Thag2.10"
+                    ],
+                    "xrefs": []
+               },
+               "": {
+                    "locators": [
+                         "AN4.65",
+                         "Thag2.44"
                     ],
                     "xrefs": []
                },
@@ -23270,7 +23279,7 @@ export const indexObject ={
                }
           },
           "formless (arūpā)": {
-               "": {
+               "escape from form": {
                     "locators": [
                          "Iti73"
                     ],
@@ -24306,8 +24315,9 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "helps with cetovimuttiya": {
+               "helps with cetovimutti": {
                     "locators": [
+                         "AN9.3",
                          "Ud4.1"
                     ],
                     "xrefs": []
@@ -24385,12 +24395,6 @@ export const indexObject ={
                     "locators": [
                          "AN5.221",
                          "AN5.222"
-                    ],
-                    "xrefs": []
-               },
-               "helps with cetovimutti": {
-                    "locators": [
-                         "AN9.3"
                     ],
                     "xrefs": []
                }
@@ -49563,9 +49567,14 @@ export const indexObject ={
                }
           },
           "proliferation (papañca)": {
+               "concepts of identity": {
+                    "locators": [
+                         "Ud7.7"
+                    ],
+                    "xrefs": []
+               },
                "": {
                     "locators": [
-                         "Ud7.7",
                          "Snp1.1"
                     ],
                     "xrefs": []
@@ -54433,9 +54442,14 @@ export const indexObject ={
                }
           },
           "sage (muni)": {
+               "washed off all bad things": {
+                    "locators": [
+                         "Iti67"
+                    ],
+                    "xrefs": []
+               },
                "": {
                     "locators": [
-                         "Iti67",
                          "Snp1.12"
                     ],
                     "xrefs": []
@@ -55334,7 +55348,7 @@ export const indexObject ={
                }
           },
           "schisms": {
-               "Devadata creating": {
+               "Devadatta creating": {
                     "locators": [
                          "Ud5.8"
                     ],
@@ -63851,14 +63865,9 @@ export const indexObject ={
                }
           },
           "unborn (ajātaṁ)": {
-               "": {
-                    "locators": [
-                         "Ud8.3"
-                    ],
-                    "xrefs": []
-               },
                "escape from born is possible": {
                     "locators": [
+                         "Ud8.3",
                          "Iti43"
                     ],
                     "xrefs": []
@@ -69113,9 +69122,7 @@ export const indexObject ={
           },
           "wrong view (micchā diṭṭhi)": {
                "": {
-                    "locators": [
-                         "Iti70"
-                    ],
+                    "locators": [],
                     "xrefs": [
                          "xref mental action (manokamma)",
                          "xref wrong views"
@@ -69126,6 +69133,22 @@ export const indexObject ={
                          "Dhp316",
                          "Dhp317",
                          "Dhp318"
+                    ],
+                    "xrefs": []
+               },
+               "actions done with result in suffering": {
+                    "locators": [
+                         "AN1.314",
+                         "Iti70"
+                    ],
+                    "xrefs": []
+               },
+               "leading to hell": {
+                    "locators": [
+                         "AN2.27",
+                         "AN4.273",
+                         "AN6.81",
+                         "Iti71"
                     ],
                     "xrefs": []
                },
@@ -69174,12 +69197,6 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "actions done with result in suffering": {
-                    "locators": [
-                         "AN1.314"
-                    ],
-                    "xrefs": []
-               },
                "like seed that grows bitter things": {
                     "locators": [
                          "AN1.314"
@@ -69195,14 +69212,6 @@ export const indexObject ={
                "most blameworthy": {
                     "locators": [
                          "AN1.318"
-                    ],
-                    "xrefs": []
-               },
-               "leading to hell": {
-                    "locators": [
-                         "AN2.27",
-                         "AN4.273",
-                         "AN6.81"
                     ],
                     "xrefs": []
                },
