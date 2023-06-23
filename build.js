@@ -234,11 +234,21 @@ function makeArrayOfXrefs(rawIndexArray) {
 // build the index object
 function createIndexObject() {
   let lines = csvData.split("\n");
-  // let index = {};
 
   for (let i = 0; i < lines.length; i++) {
     rawIndexArray[i] = lines[i].split("\t");
   }
+
+  // count total unique locators
+  const allLocatorsArray = [];
+  for (let i = 0; i < rawIndexArray.length - 1; i++) {
+    const locator = rawIndexArray[i][2].trim();
+    if (!locator.match(/xref/)) {
+      allLocatorsArray.push(locator);
+    }
+  }
+  const totalUniqueLocatorsLength = [...new Set(allLocatorsArray.flat())].length;
+  console.log(totalUniqueLocatorsLength);
 
   function normalizeDiacriticString(string) {
     return string
@@ -384,7 +394,6 @@ function createIndexObject() {
     return a[1] - b[1];
   });
   locatorCountHeadwordsList.reverse();
-  // console.log(locatorCountHeadwordsList);
 
   const object = `export const indexObject =${JSON.stringify(newObject, null, 5)}`;
   try {
@@ -412,6 +421,7 @@ function createIndexObject() {
       <meta charset="UTF-8">
       <meta http-equiv="X-UA-Compatible" content="IE=edge">
       <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <link rel="icon" type="image/png" sizes="32x32" href="favicon-table.png">
       <title>Headwords sorted by number of locators</title>
       <style>
         .table{
