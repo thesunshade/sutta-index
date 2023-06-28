@@ -6503,7 +6503,14 @@ export const indexObject ={
                },
                "line of, simile for following one who doesn’t see": {
                     "locators": [
-                         "MN95"
+                         "MN95",
+                         "MN99"
+                    ],
+                    "xrefs": []
+               },
+               "simile for making unfounded statements": {
+                    "locators": [
+                         "MN99"
                     ],
                     "xrefs": []
                }
@@ -9266,6 +9273,12 @@ export const indexObject ={
                          "MN51"
                     ],
                     "xrefs": []
+               },
+               "ground for making merit, brahmins’": {
+                    "locators": [
+                         "MN99"
+                    ],
+                    "xrefs": []
                }
           },
           "cemetery": {
@@ -10155,6 +10168,12 @@ export const indexObject ={
                "in admonishment": {
                     "locators": [
                          "AN10.18"
+                    ],
+                    "xrefs": []
+               },
+               "ground for making merit, brahmins’": {
+                    "locators": [
+                         "MN99"
                     ],
                     "xrefs": []
                },
@@ -21392,6 +21411,12 @@ export const indexObject ={
                          "AN3.92"
                     ],
                     "xrefs": []
+               },
+               "much work and great fruit": {
+                    "locators": [
+                         "MN99"
+                    ],
+                    "xrefs": []
                }
           },
           "fathers": {
@@ -21869,6 +21894,14 @@ export const indexObject ={
                          "AN8.30"
                     ],
                     "xrefs": []
+               }
+          },
+          "fervor (tapas)": {
+               "": {
+                    "locators": [],
+                    "xrefs": [
+                         "xref mortification (tapas)"
+                    ]
                }
           },
           "fetter of rebirth (bhavasaṁyojana)": {
@@ -22389,6 +22422,12 @@ export const indexObject ={
                          "MN72"
                     ],
                     "xrefs": []
+               },
+               "not depending on grass and logs": {
+                    "locators": [
+                         "MN99"
+                    ],
+                    "xrefs": []
                }
           },
           "fire chamber": {
@@ -22604,6 +22643,12 @@ export const indexObject ={
                "cessation of intentions": {
                     "locators": [
                          "MN78"
+                    ],
+                    "xrefs": []
+               },
+               "rapture apart from sensual pleasures": {
+                    "locators": [
+                         "MN99"
                     ],
                     "xrefs": []
                }
@@ -24780,12 +24825,6 @@ export const indexObject ={
                          "xref stinginess (maccharī)"
                     ]
                },
-               "grounds for making merit": {
-                    "locators": [
-                         "MN99"
-                    ],
-                    "xrefs": []
-               },
                "cause for rebirth": {
                     "locators": [
                          "MN120",
@@ -24900,6 +24939,12 @@ export const indexObject ={
                "recollection of other’s": {
                     "locators": [
                          "MN68"
+                    ],
+                    "xrefs": []
+               },
+               "ground for making merit, brahmins’": {
+                    "locators": [
+                         "MN99"
                     ],
                     "xrefs": []
                }
@@ -29742,6 +29787,12 @@ export const indexObject ={
                          "SN46.54"
                     ],
                     "xrefs": []
+               },
+               "path to the company of Brahmā": {
+                    "locators": [
+                         "MN99"
+                    ],
+                    "xrefs": []
                }
           },
           "heart’s release by equanimity (upekkhā cetovimutti)": {
@@ -29800,6 +29851,12 @@ export const indexObject ={
                "culmination is dimension of nothingness": {
                     "locators": [
                          "SN46.54"
+                    ],
+                    "xrefs": []
+               },
+               "path to the company of Brahmā": {
+                    "locators": [
+                         "MN99"
                     ],
                     "xrefs": []
                }
@@ -29887,6 +29944,12 @@ export const indexObject ={
                          "SN46.54"
                     ],
                     "xrefs": []
+               },
+               "path to the company of Brahmā": {
+                    "locators": [
+                         "MN99"
+                    ],
+                    "xrefs": []
                }
           },
           "heart’s release by rejoicing (muditā cetovimutti)": {
@@ -29951,6 +30014,12 @@ export const indexObject ={
                "culmination is dimension of infinite consciousness": {
                     "locators": [
                          "SN46.54"
+                    ],
+                    "xrefs": []
+               },
+               "path to the company of Brahmā": {
+                    "locators": [
+                         "MN99"
                     ],
                     "xrefs": []
                }
@@ -31176,6 +31245,12 @@ export const indexObject ={
                "one who removes, one who doesn’t": {
                     "locators": [
                          "MN68"
+                    ],
+                    "xrefs": []
+               },
+               "blocking knowledge and vision": {
+                    "locators": [
+                         "MN99"
                     ],
                     "xrefs": []
                }
@@ -33761,6 +33836,12 @@ export const indexObject ={
                          "SN45.4"
                     ],
                     "xrefs": []
+               },
+               "asking about the Buddha’s wisdom": {
+                    "locators": [
+                         "MN99"
+                    ],
+                    "xrefs": []
                }
           },
           "jars": {
@@ -34418,6 +34499,7 @@ export const indexObject ={
                },
                "connected with the teachings": {
                     "locators": [
+                         "MN99",
                          "AN11.11"
                     ],
                     "xrefs": []
@@ -36083,6 +36165,24 @@ export const indexObject ={
                "helped more by Buddha than Dhamma and Saṅgha": {
                     "locators": [
                          "SN46.30"
+                    ],
+                    "xrefs": []
+               },
+               "contrasted with monastic life": {
+                    "locators": [
+                         "MN99"
+                    ],
+                    "xrefs": []
+               },
+               "more fruitful than monastic life": {
+                    "locators": [
+                         "MN99"
+                    ],
+                    "xrefs": []
+               },
+               "similar to farming in that it is great duties": {
+                    "locators": [
+                         "MN99"
                     ],
                     "xrefs": []
                }
@@ -40196,6 +40296,12 @@ export const indexObject ={
                          "MN60"
                     ],
                     "xrefs": []
+               },
+               "grounds for making, brahmins’": {
+                    "locators": [
+                         "MN99"
+                    ],
+                    "xrefs": []
                }
           },
           "merit sharing": {
@@ -41916,6 +42022,7 @@ export const indexObject ={
                },
                "contrasted with lay life": {
                     "locators": [
+                         "MN99",
                          "Snp1.2"
                     ],
                     "xrefs": []
@@ -42124,6 +42231,18 @@ export const indexObject ={
                "definition": {
                     "locators": [
                          "SN45.35"
+                    ],
+                    "xrefs": []
+               },
+               "more fruitful than lay life": {
+                    "locators": [
+                         "MN99"
+                    ],
+                    "xrefs": []
+               },
+               "similar to farming in that it has few duties": {
+                    "locators": [
+                         "MN99"
                     ],
                     "xrefs": []
                }
@@ -42741,6 +42860,12 @@ export const indexObject ={
                "purification through": {
                     "locators": [
                          "MN101"
+                    ],
+                    "xrefs": []
+               },
+               "ground for making merit, brahmins’": {
+                    "locators": [
+                         "MN99"
                     ],
                     "xrefs": []
                },
@@ -48941,7 +49066,6 @@ export const indexObject ={
           "practices (paṭipatti)": {
                "wrong and right for monks and laypeople": {
                     "locators": [
-                         "SN45.24",
                          "AN2.40"
                     ],
                     "xrefs": []
@@ -48955,6 +49079,13 @@ export const indexObject ={
                "right practices nourish heaven": {
                     "locators": [
                          "AN10.73"
+                    ],
+                    "xrefs": []
+               },
+               "wrong and right for monastics and laypeople": {
+                    "locators": [
+                         "MN99",
+                         "SN45.24"
                     ],
                     "xrefs": []
                },
@@ -50778,6 +50909,12 @@ export const indexObject ={
                          "MN61"
                     ],
                     "xrefs": []
+               },
+               "apart from sensual pleasures": {
+                    "locators": [
+                         "MN99"
+                    ],
+                    "xrefs": []
                }
           },
           "rapture enlightenment factor": {
@@ -51193,7 +51330,17 @@ export const indexObject ={
                          "AN10.73"
                     ],
                     "xrefs": []
-               }
+               },
+               "counter_value": 1
+          },
+          "recitation (ajjhena)": {
+               "ground for making merit, brahmins’": {
+                    "locators": [
+                         "MN99"
+                    ],
+                    "xrefs": []
+               },
+               "counter_value": 2
           },
           "recitation of monastic code (pātimokkha)": {
                "reason for suspending": {
@@ -55767,6 +55914,12 @@ export const indexObject ={
                          "SN48.40"
                     ],
                     "xrefs": []
+               },
+               "rapture apart from sensual pleasures": {
+                    "locators": [
+                         "MN99"
+                    ],
+                    "xrefs": []
                }
           },
           "secret speech (rahovāda)": {
@@ -57267,6 +57420,12 @@ export const indexObject ={
                "best kind of": {
                     "locators": [
                          "MN80"
+                    ],
+                    "xrefs": []
+               },
+               "blocking knowledge and vision": {
+                    "locators": [
+                         "MN99"
                     ],
                     "xrefs": []
                }
@@ -59619,6 +59778,7 @@ export const indexObject ={
                "beneficial": {
                     "locators": [
                          "MN58",
+                         "MN99",
                          "MN139",
                          "AN5.198"
                     ],
@@ -59942,6 +60102,18 @@ export const indexObject ={
                "reviewing before, during, and after": {
                     "locators": [
                          "MN61"
+                    ],
+                    "xrefs": []
+               },
+               "thoughtful": {
+                    "locators": [
+                         "MN99"
+                    ],
+                    "xrefs": []
+               },
+               "accepted usage": {
+                    "locators": [
+                         "MN99"
                     ],
                     "xrefs": []
                }
@@ -61123,6 +61295,12 @@ export const indexObject ={
                "asking about differences in people": {
                     "locators": [
                          "MN135"
+                    ],
+                    "xrefs": []
+               },
+               "lay vs. monastic practice": {
+                    "locators": [
+                         "MN99"
                     ],
                     "xrefs": []
                }
@@ -62883,6 +63061,14 @@ export const indexObject ={
                     "xrefs": []
                }
           },
+          "trade": {
+               "little work and great fruit": {
+                    "locators": [
+                         "MN99"
+                    ],
+                    "xrefs": []
+               }
+          },
           "traders": {
                "simile for not knowing what comes after death": {
                     "locators": [
@@ -63263,6 +63449,12 @@ export const indexObject ={
                          "MN77"
                     ],
                     "xrefs": []
+               },
+               "simile for knowing the path": {
+                    "locators": [
+                         "MN99"
+                    ],
+                    "xrefs": []
                }
           },
           "treasures": {
@@ -63599,6 +63791,12 @@ export const indexObject ={
                "preservation of": {
                     "locators": [
                          "MN95"
+                    ],
+                    "xrefs": []
+               },
+               "ground for making merit, brahmins’": {
+                    "locators": [
+                         "MN99"
                     ],
                     "xrefs": []
                },
@@ -68422,6 +68620,12 @@ export const indexObject ={
                "cutting off household life": {
                     "locators": [
                          "MN54"
+                    ],
+                    "xrefs": []
+               },
+               "much in lay life, less in monastic life": {
+                    "locators": [
+                         "MN99"
                     ],
                     "xrefs": []
                }

@@ -71,7 +71,7 @@ export default function Info() {
         <summary>Coverage</summary>
         <div className="row-2">
           <div>
-            Complete: <span className="answer">MN 51–97, 101–152, SN45–48, AN, Kp, Dhp, Ud, Iti, Snp, Vv, Pv, Thag, Thig</span>
+            Complete: <span className="answer">MN 51–99, 101–152, SN45–48, AN, Kp, Dhp, Ud, Iti, Snp, Vv, Pv, Thag, Thig</span>
           </div>
           <div>
             In Progress: <span className="answer">MN 1–100</span>
