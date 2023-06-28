@@ -250,6 +250,13 @@ function createIndexObject() {
   const totalUniqueLocatorsLength = [...new Set(allLocatorsArray.flat())].length;
   console.log(totalUniqueLocatorsLength);
 
+  try {
+    fs.writeFileSync("./src/data/uniqueLocators.js", `export const uniqueLocators =${totalUniqueLocatorsLength}`);
+  } catch (err) {
+    console.log("❌There was an error writing updateDate");
+    console.error(err);
+  }
+
   function normalizeDiacriticString(string) {
     return string
       .normalize("NFD") /*separates diacritics from letter */

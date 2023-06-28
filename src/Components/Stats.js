@@ -2,8 +2,10 @@ import { indexObject } from "../data/index-object";
 import { indexArray } from "../data/index-array";
 import headIcon from "../images/head-icon.png";
 import locatorIcon from "../images/locator-icon.png";
+import locatorMultipleIcon from "../images/locator-multiple-icon.png";
 import xrefIcon from "../images/xref-icon.png";
 import { updateDate } from "../data/updateDate.js";
+import { uniqueLocators } from "../data/uniqueLocators.js";
 
 export default function Stats() {
   const alphabetLetters = Object.keys(indexObject);
@@ -36,8 +38,12 @@ export default function Stats() {
             <span className="answer">{(headwords - xrefsCount).toLocaleString("en-US")}</span> Headwords
           </div>
           <div>
-            <img className="icon locator-icon" width="16px" src={locatorIcon} alt="" />
+            <img className="icon locator-icon" width="16px" src={locatorMultipleIcon} alt="" />
             <span className="answer">{(indexArray.length - xrefsCount).toLocaleString("en-US")}</span> Locators
+          </div>
+          <div>
+            <img className="icon locator-icon" width="16px" src={locatorIcon} alt="" />
+            <span className="answer">{uniqueLocators.toLocaleString("en-US")}</span> Unique Locators
           </div>
           <div>
             <img className="icon head-icon" width="14px" src={xrefIcon} alt="" />

@@ -28,15 +28,8 @@ export default function HeadwordsSearchTool(props) {
   return (
     <>
       <div className="filter-area">
+        <img className="icon search-icon" width="24px" src={searchIcon} alt="Settings Toggle" title="Search Headwords"></img>
         <label id="user-input-label" htmlFor="user-input">
-          <img
-            className="icon search-icon"
-            width="24px"
-            src={searchIcon}
-            alt="Settings Toggle"
-            title="Search Headwords"
-          ></img>
-
           <input
             className="input-box"
             id="search-input"
@@ -63,8 +56,7 @@ export default function HeadwordsSearchTool(props) {
             onClick={() => {
               setSearchText("");
               document.getElementById("search-input").focus();
-            }}
-          >
+            }}>
             <img height="10" className="icon x-icon" alt="clear filter" src={xIcon} />
           </button>
         </label>
