@@ -7,7 +7,7 @@
 :root {
   --indent: 3.5rem;
   --mobile-indent: .5rem;
-  --primary: #ee7121;
+  --primary: rgb(238, 111, 32);
   --dark-primary: #6b1617;
   --offwhite: #fff9f1;
   --dark-offwhite: #d1d1d1;
@@ -458,10 +458,11 @@ App {
 
 .info-area {
   max-width: var(--max-width);
-  padding: 0 0 1rem;
+  padding: 1rem 0 1rem;
   min-width: 10rem;
+  max-height: 70vh;
   overflow-y: auto;
-  max-height: 20rem;
+  border-top: solid 1px;
   overscroll-behavior: contain;
 }
 
@@ -478,7 +479,12 @@ details>div {
 .options-area {
   max-width: var(--max-width);
   padding: 1rem;
-  min-width: 10rem
+  min-width: 10rem;
+  border-top: solid 1px;
+  max-height: 70vh;
+  overflow-y: auto;
+  /* max-height: 20rem; */
+  overscroll-behavior: contain;
 }
 
 summary {
@@ -573,10 +579,10 @@ a:visited {
 .head-word-area {
   /* padding-left: var(--indent);
   text-indent: calc(-1 * var(--indent)); */
-  padding-top: .50rem;
+  padding-top: .7rem;
   padding-bottom: .2rem;
   position: sticky;
-  top: 4.6rem;
+  top: 4.2rem;
   background-color: var(--offwhite);
 }
 
@@ -835,11 +841,12 @@ tr:nth-child(even) {
 
   }
 
-  /* .head-word-area {
-    padding-left: var(--mobile-indent);
+  .head-word-area {
+    /* padding-left: var(--mobile-indent);
     text-indent: calc(-1 * var(--mobile-indent)); 
-    padding-top: 1.6rem
-  } */
+    padding-top: 1.6rem */
+    top: 5.2rem;
+  }
 
   .sub-word {
     padding-left: var(--mobile-indent);
