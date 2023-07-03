@@ -71,10 +71,10 @@ export default function Info() {
         <summary>Coverage</summary>
         <div className="row-2">
           <div>
-            Complete: <span className="answer">MN 51–99, 101–152, SN45–48, AN, Kp, Dhp, Ud, Iti, Snp, Vv, Pv, Thag, Thig</span>
+            Complete: <span className="answer">MN 51–152, SN45–48, AN, Kp, Dhp, Ud, Iti, Snp, Vv, Pv, Thag, Thig</span>
           </div>
           <div>
-            In Progress: <span className="answer">MN 1–100</span>
+            In Progress: <span className="answer">MN 1–50</span>
           </div>
           <div>
             Planned: <span className="answer">DN, MN, SN</span>
@@ -94,6 +94,7 @@ export default function Info() {
             </a>{" "}
             sorted by number of unique locators.
           </p>
+          <p>Proper names may refer to multiple distinct individuals. Also note that some identical looking names may be gendered versions, e.g. Visākhā and Visākha.</p>
         </div>
       </details>
       <OtherToolsIcons />

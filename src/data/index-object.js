@@ -15067,6 +15067,14 @@ export const indexObject ={
                     "xrefs": []
                }
           },
+          "Dhanañjānī, brahmin": {
+               "exclaiming “Namo tassa bhagavato…”": {
+                    "locators": [
+                         "MN100"
+                    ],
+                    "xrefs": []
+               }
+          },
           "Dhanapāla": {
                "elephant": {
                     "locators": [
@@ -15777,6 +15785,12 @@ export const indexObject ={
                "practice leading to": {
                     "locators": [
                          "MN83"
+                    ],
+                    "xrefs": []
+               },
+               "claims based on": {
+                    "locators": [
+                         "MN100"
                     ],
                     "xrefs": []
                }
@@ -19484,6 +19498,14 @@ export const indexObject ={
                     "xrefs": []
                }
           },
+          "exclamations": {
+               "Namo tassa bhagavato…": {
+                    "locators": [
+                         "MN100"
+                    ],
+                    "xrefs": []
+               }
+          },
           "excuses": {
                "missing opportunities": {
                     "locators": [
@@ -20945,6 +20967,12 @@ export const indexObject ={
                "brahmins going by": {
                     "locators": [
                          "MN95"
+                    ],
+                    "xrefs": []
+               },
+               "spiritual claims based on": {
+                    "locators": [
+                         "MN100"
                     ],
                     "xrefs": []
                }
@@ -26546,7 +26574,8 @@ export const indexObject ={
                },
                "existing/surviving": {
                     "locators": [
-                         "MN90"
+                         "MN90",
+                         "MN100"
                     ],
                     "xrefs": []
                }
@@ -37626,7 +37655,7 @@ export const indexObject ={
                     ]
                }
           },
-          "logic (takkahetu)": {
+          "logic (takka)": {
                "going by": {
                     "locators": [
                          "AN3.65",
@@ -37638,6 +37667,12 @@ export const indexObject ={
                "can turn out two ways": {
                     "locators": [
                          "MN76"
+                    ],
+                    "xrefs": []
+               },
+               "spiritual claims based on": {
+                    "locators": [
+                         "MN100"
                     ],
                     "xrefs": []
                }
@@ -45904,7 +45939,8 @@ export const indexObject ={
                },
                "brahmins going by": {
                     "locators": [
-                         "MN95"
+                         "MN95",
+                         "MN100"
                     ],
                     "xrefs": []
                }
@@ -51017,7 +51053,7 @@ export const indexObject ={
                "": {
                     "locators": [],
                     "xrefs": [
-                         "xref logic (takkahetu)"
+                         "xref logic (takka)"
                     ]
                }
           },
@@ -54904,6 +54940,12 @@ export const indexObject ={
                "asking about remembering hymns": {
                     "locators": [
                          "SN46.55"
+                    ],
+                    "xrefs": []
+               },
+               "asking about spiritual claims": {
+                    "locators": [
+                         "MN100"
                     ],
                     "xrefs": []
                }
@@ -65402,6 +65444,12 @@ export const indexObject ={
                          "MN92",
                          "MN93",
                          "MN95"
+                    ],
+                    "xrefs": []
+               },
+               "masters of making spiritual claims": {
+                    "locators": [
+                         "MN100"
                     ],
                     "xrefs": []
                }

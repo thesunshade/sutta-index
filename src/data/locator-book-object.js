@@ -4369,7 +4369,7 @@ export const locatorBookObject ={
     ],
     [
       "MN76",
-      "logic (takkahetu)",
+      "logic (takka)",
       "can turn out two ways"
     ],
     [
@@ -7566,6 +7566,51 @@ export const locatorBookObject ={
       "MN99",
       "work",
       "much in lay life, less in monastic life"
+    ],
+    [
+      "MN100",
+      "Dhanañjānī, brahmin",
+      "exclaiming “Namo tassa bhagavato…”"
+    ],
+    [
+      "MN100",
+      "direct knowledges (abhiññā)",
+      "claims based on"
+    ],
+    [
+      "MN100",
+      "exclamations",
+      "Namo tassa bhagavato…"
+    ],
+    [
+      "MN100",
+      "faith (saddhā)",
+      "spiritual claims based on"
+    ],
+    [
+      "MN100",
+      "gods",
+      "existing/surviving"
+    ],
+    [
+      "MN100",
+      "logic (takka)",
+      "spiritual claims based on"
+    ],
+    [
+      "MN100",
+      "oral tradition (anussava)",
+      "brahmins going by"
+    ],
+    [
+      "MN100",
+      "Saṅgārava, brahmin",
+      "asking about spiritual claims"
+    ],
+    [
+      "MN100",
+      "vedas",
+      "masters of making spiritual claims"
     ],
     [
       "MN101",
@@ -23488,7 +23533,7 @@ export const locatorBookObject ={
     ],
     [
       "AN3.65",
-      "logic (takkahetu)",
+      "logic (takka)",
       "going by"
     ],
     [
@@ -23528,7 +23573,7 @@ export const locatorBookObject ={
     ],
     [
       "AN3.66",
-      "logic (takkahetu)",
+      "logic (takka)",
       "going by"
     ],
     [
@@ -27493,7 +27538,7 @@ export const locatorBookObject ={
     ],
     [
       "AN4.193",
-      "logic (takkahetu)",
+      "logic (takka)",
       "going by"
     ],
     [

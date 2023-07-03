@@ -61,7 +61,7 @@ export const indexObject =[
      ],
      [
           "faith (saddhā)",
-          52
+          53
      ],
      [
           "mind",
@@ -172,6 +172,10 @@ export const indexObject =[
           31
      ],
      [
+          "gods",
+          31
+     ],
+     [
           "wrong view (micchā diṭṭhi)",
           30
      ],
@@ -185,10 +189,6 @@ export const indexObject =[
      ],
      [
           "hindrances (nīvaraṇa)",
-          30
-     ],
-     [
-          "gods",
           30
      ],
      [
@@ -1224,6 +1224,10 @@ export const indexObject =[
           8
      ],
      [
+          "oral tradition (anussava)",
+          8
+     ],
+     [
           "Nigaṇṭha Nāṭaputta",
           8
      ],
@@ -1313,6 +1317,10 @@ export const indexObject =[
      ],
      [
           "discontent (arati)",
+          8
+     ],
+     [
+          "direct knowledges (abhiññā)",
           8
      ],
      [
@@ -1472,10 +1480,6 @@ export const indexObject =[
           7
      ],
      [
-          "oral tradition (anussava)",
-          7
-     ],
-     [
           "one beyond training (asekha)",
           7
      ],
@@ -1577,10 +1581,6 @@ export const indexObject =[
      ],
      [
           "energy, stirring up (vīriyārambha)",
-          7
-     ],
-     [
-          "direct knowledges (abhiññā)",
           7
      ],
      [
@@ -1992,6 +1992,10 @@ export const indexObject =[
           5
      ],
      [
+          "vedas",
+          5
+     ],
+     [
           "treasures, seven (satta ratanāni)",
           5
      ],
@@ -2049,6 +2053,10 @@ export const indexObject =[
      ],
      [
           "seeds",
+          5
+     ],
+     [
+          "Saṅgārava, brahmin",
           5
      ],
      [
@@ -2201,6 +2209,10 @@ export const indexObject =[
      ],
      [
           "long life",
+          5
+     ],
+     [
+          "logic (takka)",
           5
      ],
      [
@@ -2468,10 +2480,6 @@ export const indexObject =[
           4
      ],
      [
-          "vedas",
-          4
-     ],
-     [
           "Vassakāra, brahmin",
           4
      ],
@@ -2549,10 +2557,6 @@ export const indexObject =[
      ],
      [
           "security (khema)",
-          4
-     ],
-     [
-          "Saṅgārava, brahmin",
           4
      ],
      [
@@ -2665,10 +2669,6 @@ export const indexObject =[
      ],
      [
           "love (pema)",
-          4
-     ],
-     [
-          "logic (takkahetu)",
           4
      ],
      [
@@ -7624,6 +7624,10 @@ export const indexObject =[
           1
      ],
      [
+          "exclamations",
+          1
+     ],
+     [
           "excitement (uppila)",
           1
      ],
@@ -7789,6 +7793,10 @@ export const indexObject =[
      ],
      [
           "Dhanapāla",
+          1
+     ],
+     [
+          "Dhanañjānī, brahmin",
           1
      ],
      [
