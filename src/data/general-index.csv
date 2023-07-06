@@ -222,7 +222,7 @@ saṁyojana 		xref fetters (saṁyojana)
 cāga 		xref generosity (cāga) 
 dāna 		xref giving (dāna) 
 pabbajja 		xref going forth (pabbajja)
-rāga 		xref greed
+rāga 		xref greed (rāga)
 cetovimutti 		xref heart’s release (cetovimutti) 
 appamāda 		xref heedfulness (appamāda) 
 pamāda 		xref heedlessness (pamāda) 
@@ -770,8 +770,8 @@ livelihood		xref business
 business		xref livelihood
 wealth		xref money
 money		xref wealth
-seclusion (paviveka)		xref bliss of seclusion (pavivekasukha)
-bliss of seclusion (pavivekasukha)		xref seclusion (paviveka)
+seclusion (viveka, paviveka)		xref bliss of seclusion (pavivekasukha)
+bliss of seclusion (pavivekasukha)		xref seclusion (viveka, paviveka)
 alms bowl		xref bowl
 bowl		xref alms bowl
 mental misconduct		xref misconduct by mind
@@ -1119,7 +1119,7 @@ departed relatives	honoring	Kp7
 departed relatives	duty towards	Kp7
 merit (puñña)	taken to next life	Kp8
 money	saving	Kp8
-heirs	stealing money	Kp8
+heirs (dāyāda)	stealing money	Kp8
 giving (dāna)	to protect wealth	Kp8
 virtue (sīla)	as merit	Kp8
 restraint	as merit	Kp8
@@ -1943,7 +1943,7 @@ holy life	reason for	Iti35
 holy life	reason for	Iti36
 urgency (saṁvega)	groundwork for enlightenment	Iti37
 security (khema)	thoughts of by Buddha	Iti38
-seclusion (paviveka)	thoughts of by Buddha	Iti38
+seclusion (viveka, paviveka)	thoughts of by Buddha	Iti38
 Buddha, the	thoughts he has	Iti38
 evil (pāpa)	seeing 	Iti39
 ignorance (avijjā)	cause for rebirth	Iti40
@@ -7285,17 +7285,35 @@ results of actions	bright and dark: definition	AN6.57
 actions (kamma)	bright and dark: definition	AN6.57
 rebirth	classes of	AN6.57
 taints (āsava)	to be given up by restraint	AN6.58
-taints (āsava)	to be given up by using	AN6.58
-taints (āsava)	to be given up by enduring	AN6.58
-taints (āsava)	to be given up by avoiding	AN6.58
-taints (āsava)	to be given up by removing	AN6.58
-taints (āsava)	to be given up by developing	AN6.58
 sense restraint (indriyasaṁvara) 	taints (āsava) and	AN6.58
+taints (āsava)	to be given up by using	AN6.58
 reflection (paṭisaṅkhā)	on using in order to remove defilements	AN6.58
+robes	reflection on using	AN6.58
+almsfood	reflection on using	AN6.58
+dwellings (senāsana)	reflection on using	AN6.58
+medicine	reflection on using	AN6.58
 enduring (adhivāsana)	in order to remove taints (āsava)	AN6.58
+taints (āsava)	to be given up by enduring	AN6.58
+cold	to be given up by enduring	AN6.58
+heat	to be given up by enduring	AN6.58
+hunger	to be given up by enduring	AN6.58
+thirst	to be given up by enduring	AN6.58
+insects	to be given up by enduring	AN6.58
+criticism	to be given up by enduring	AN6.58
+pain (dukkha)	to be given up by enduring	AN6.58
+deadly pain	to be given up by enduring	AN6.58
+taints (āsava)	to be given up by avoiding	AN6.58
 avoiding (parivajjana)	in order to remove taints (āsava)	AN6.58
+animals	avoiding to remove taints	AN6.58
+friends, bad	avoiding to remove taints	AN6.58
+seats	avoiding bad to remove taints	AN6.58
+taints (āsava)	to be given up by removing	AN6.58
 removing (vinodana)	in order to remove taints (āsava)	AN6.58
 tolerating bad thoughts	not tolerating	AN6.58
+intention of sensual desire (kāmasaṅkappa)	removing	AN6.58
+intention of ill will (byāpādasaṅkappa)	removing	AN6.58
+intention of cruelty (vihiṁsāsaṅkappa)	removing	AN6.58
+taints (āsava)	to be given up by developing	AN6.58
 development (bhāvanā)	in order to remove taints (āsava)	AN6.58
 development (bhāvanā)	awakening factors, seven (bojjhaṅga)	AN6.58
 giving (dāna)	worthy of gifts	AN6.58
@@ -8423,7 +8441,7 @@ fetters (saṁyojana)	teachings that lead to being unfettered are true Dhamma	AN
 few wishes (appiccha)	teachings that lead to are true Dhamma	AN8.53
 Dhamma	identifying true Dhamma	AN8.53
 contentment (santuṭṭhi)	teachings that lead to are true Dhamma	AN8.53
-seclusion (paviveka)	teachings that lead to are true Dhamma	AN8.53
+seclusion (viveka, paviveka)	teachings that lead to are true Dhamma	AN8.53
 energy, stirring up (vīriyārambha)	teachings that lead to are true Dhamma	AN8.53
 unburdensome (subhara)	teachings that lead to are true Dhamma	AN8.53
 generosity (cāga)	cause for rebirth	AN8.54
@@ -8911,7 +8929,7 @@ Saṅgha	laypeople and	AN9.19
 laypeople	and Saṅgha	AN9.19
 lay life	respecting Saṅgha	AN9.19
 bowing down (abhivādana)	to monastics who come to your home	AN9.19
-seats, offering	to monastics who come to your home	AN9.19
+seats	offering to monastics who come to your home	AN9.19
 giving (dāna)	cause for rebirth	AN9.19
 bowing down (abhivādana)	cause for rebirth	AN9.19
 giving (dāna)	not as much as you are able	AN9.19
@@ -9913,7 +9931,7 @@ departed relatives	useless speech about	AN10.69
 rebirth	useless speech about	AN10.69
 few wishes (appiccha)	speech about	AN10.69
 contentment (santuṭṭhi)	speech about	AN10.69
-seclusion (paviveka)	speech about	AN10.69
+seclusion (viveka, paviveka)	speech about	AN10.69
 aloofness (asaṁsagga)	speech about	AN10.69
 energy, stirring up (vīriyārambha)	speech about	AN10.69
 virtue (sīla)	speech about	AN10.69
@@ -9927,7 +9945,7 @@ speech	useless (tiraccha)	AN10.70
 praise (pasaṁsā)	reasons for based on topics of discussion	AN10.70
 few wishes (appiccha)	praise for person with who talks about	AN10.70
 contentment (santuṭṭhi)	praise for person with who talks about	AN10.70
-seclusion (paviveka)	praise for person with who talks about	AN10.70
+seclusion (viveka, paviveka)	praise for person with who talks about	AN10.70
 aloofness (asaṁsagga)	praise for person with who talks about	AN10.70
 energy, stirring up (vīriyārambha)	praise for person with who talks about	AN10.70
 virtue (sīla)	praise for person with who talks about	AN10.70
@@ -9958,7 +9976,7 @@ nibbāna	how to obtain	AN10.71
 wishing (ākaṅkhati)	for various attainments	AN10.71
 jhānas	sound as a thorn to	AN10.72
 socializing	thorn for one who loves seclusion	AN10.72
-seclusion (paviveka)	socializing is a thorn for	AN10.72
+seclusion (viveka, paviveka)	socializing is a thorn for	AN10.72
 sign of the beautiful (subhanimitta)	thorn for one pursuing meditation on ugliness	AN10.72
 meditation on ugliness (asubhabhāvanā)	sign of the beautiful is a thorn for	AN10.72
 entertainment	watching shows is thorn for one restraining senses	AN10.72
@@ -10308,7 +10326,7 @@ inhabited areas (antaraghare)	senior monastics who are restrained live comfortab
 jhānas	senior monastics who have live comfortably	AN10.98
 wilderness (arañña)	living in is difficult	AN10.99
 Upāli, Ven.	asking to live in wilderness	AN10.99
-seclusion (paviveka)	hard to maintain	AN10.99
+seclusion (viveka, paviveka)	hard to maintain	AN10.99
 concentration (samādhi)	required for wilderness dwelling	AN10.99
 elephants	simile for monk with concentration living in wilderness	AN10.99
 rabbits	simile for monk without concentration living in wilderness	AN10.99
@@ -10380,7 +10398,7 @@ far shore (pārima)	definition	AN10.117
 noble eightfold path (ariya aṭṭhangika magga)	far shore	AN10.117
 wrong eightfold path	near shore	AN10.117
 far shore (pārima)	few who cross to	AN10.117
-seclusion (paviveka)	hard to enjoy	AN10.117
+seclusion (viveka, paviveka)	hard to enjoy	AN10.117
 awakening factors, seven (bojjhaṅga)	one with factors developed is quenched	AN10.117
 Jāṇussoṇi, brahmin	performing a brahmin ceremony	AN10.119
 brahmins	ceremonies of	AN10.119
@@ -10946,7 +10964,7 @@ noble eightfold path (ariya aṭṭhangika magga)	sequential causes	SN45.1
 Ānanda, Ven.	half the spiritual life	SN45.2
 spiritual friends (kalyāṇamitta)	whole of the spiritual life	SN45.2
 spiritual friends (kalyāṇamitta)	one with will develop noble eightfold path	SN45.2
-seclusion (paviveka)	developing eightfold path based on	SN45.2
+seclusion (viveka, paviveka)	developing eightfold path based on	SN45.2
 fading away (virāga)	developing eightfold path based on	SN45.2
 cessation (nirodha)	developing eightfold path based on	SN45.2
 letting go (vossagga)	developing eightfold path based on	SN45.2
@@ -10967,7 +10985,7 @@ mindfulness (sati)	like chariot driver	SN45.4
 jhānas	like chariot axle	SN45.4
 good will (abyāpāda, avyāpāda)	like a weapon	SN45.4
 harmlessness (avihiṁsā)	like a weapon	SN45.4
-seclusion (paviveka)	like a weapon	SN45.4
+seclusion (viveka, paviveka)	like a weapon	SN45.4
 enduring (titikkha)	like armor	SN45.4
 spiritual path (brahmacariya)	purpose of	SN45.5
 suffering (dukkha)	understanding is the purpose of spiritual life	SN45.5
@@ -12760,7 +12778,7 @@ eating little (appāhāra)	praise for	MN77
 robes	content with any kind of	MN77
 almsfood	contentment with	MN77
 dwellings (senāsana)	contentment with	MN77
-seclusion (paviveka)	praise for	MN77
+seclusion (viveka, paviveka)	praise for	MN77
 eating little (appāhāra)	monks who eat less than the Buddha	MN77
 robes	monks only using rag robes	MN77
 ascetic practices (dhutaṅga)	practiced by disciples	MN77
@@ -12965,7 +12983,7 @@ world, the	wanting, insatiable, the slave of craving 	MN82
 protection (tāṇa)	not found in the world	MN82
 sickness	no one else can experience for us	MN82
 death (maraṇa)	cannot take wealth with us	MN82
-heirs	will get all of our wealth when we die	MN82
+heirs (dāyāda)	will get all of our wealth when we die	MN82
 craving (taṇha)	cannot be satisfied	MN82
 wealthy people	not giving	MN82
 grieving	loss of family	MN82
@@ -13388,3 +13406,118 @@ faith (saddhā)	spiritual claims based on	MN100
 logic (takka)	spiritual claims based on	MN100
 direct knowledges (abhiññā)	claims based on	MN100
 gods	existing/surviving	MN100
+Ganges river	slants to the east, simile for right efforts leading to nibbāna	SN49.1
+rivers	great rivers slant to the east, simile for right efforts leading to nibbāna	SN49.1
+right effort, four (sammappadhāna)		CUSTOM:SN:Sammappadhāna Saṁyutta:suttacentral.net/sn49
+creator		xref Pajāpati
+creatures		xref beings (bhūta)
+Vanquisher, the (abhibhū)		xref Overlord, the (abhibhū)
+oneness (ekatta)		xref unity (ekatta)
+root of all things	explanation of	MN1
+ordinary person (puthujjana)	perceiving things	MN1
+perceptions (saññā)	of elements, etc. 	MN1
+conceiving (maññita)	elements, etc. 	MN1
+delight (nandi)	in elements, etc.	MN1
+earth element (pathavī dhātu)	perceiving, directly knowing, etc. 	MN1
+water element (āpo dhātu)	perceiving, directly knowing, etc. 	MN1
+fire element (tejo dhātu)	perceiving, directly knowing, etc. 	MN1
+air element (vāyo dhātu)	perceiving, directly knowing, etc. 	MN1
+beings (bhūta)	perceiving, directly knowing, etc. 	MN1
+gods (deva)	perceiving, directly knowing, etc. 	MN1
+Pajāpati 	perceiving, directly knowing, etc. 	MN1
+Brahmā	perceiving, directly knowing, etc. 	MN1
+Gods of Streaming Radiance (ābhassarā devā)	perceiving, directly knowing, etc. 	MN1
+Gods Replete with Glory (subhakiṇha devā)	perceiving, directly knowing, etc. 	MN1
+Gods of Abundant Fruit (vehapphalā devā)	perceiving, directly knowing, etc. 	MN1
+Overlord, the (abhibhū)	perceiving, directly knowing, etc. 	MN1
+dimension of infinite space (ākāsānañcāyatana)	perceiving, directly knowing, etc. 	MN1
+dimension of infinite consciousness (viññāṇañcāyatana)	perceiving, directly knowing, etc. 	MN1
+dimension of nothingness (ākiñcaññāyatana)	perceiving, directly knowing, etc. 	MN1
+dimension of neither perception nor non-perception (nevasaññanāsaññāyatana)	perceiving, directly knowing, etc. 	MN1
+seen, heard, thought, known	perceiving, directly knowing, etc. 	MN1
+unity (ekatta)	perceiving, directly knowing, etc. 	MN1
+diversity (nānatta)	perceiving, directly knowing, etc. 	MN1
+“all”, the (sabba)	perceiving, directly knowing, etc. 	MN1
+nibbāna	perceiving, directly knowing, etc. 	MN1
+trainee (sekha)	directly knowing elements, etc.	MN1
+direct knowledges (abhiññā)	of elements, etc. 	MN1
+arahants	directly knowing elements, etc.	MN1
+greed (rāga)	arahants free from	MN1
+hatred (dosa)	arahants free from	MN1
+delusion (moha)	arahants free from	MN1
+Tathāgatas	understanding to the end	MN1
+delight (nandi)	root of suffering	MN1
+self (atta)		xref views about the self (attavāda)
+knowing and seeing	ending of taints	MN2
+proper attention (yoniso manasikāra)	removing taints	MN2
+taints (āsava)	to be given up by seeing	MN2
+ordinary person (puthujjana)	not knowing where to apply mind	MN2
+taint of sensuality (kāmāsava)	causing taints to increase	MN2
+taint of existence (bhavāsava)	causing taints to increase	MN2
+taint of ignorance (avijjāsava)	causing taints to increase	MN2
+past (atīta)	speculating about	MN2
+future (anāgata)	speculating about	MN2
+present (paccuppanna)	indecision about	MN2
+views about the self (attavāda)	caused by unwise reflection	MN2
+learned noble disciple (sutavā ariyasāvaka)	knowing where to apply mind	MN2
+taints (āsava)	to be given up by restraint	MN2
+sense restraint (indriyasaṁvara) 	taints (āsava) and	MN2
+taints (āsava)	to be given up by using	MN2
+reflection (paṭisaṅkhā)	on using in order to remove defilements	MN2
+robes	reflection on using	MN2
+almsfood	reflection on using	MN2
+dwellings (senāsana)	reflection on using	MN2
+medicine	reflection on using	MN2
+enduring (adhivāsana)	in order to remove taints (āsava)	MN2
+taints (āsava)	to be given up by enduring	MN2
+cold	to be given up by enduring	MN2
+heat	to be given up by enduring	MN2
+hunger	to be given up by enduring	MN2
+thirst	to be given up by enduring	MN2
+insects	to be given up by enduring	MN2
+criticism	to be given up by enduring	MN2
+pain (dukkha)	to be given up by enduring	MN2
+deadly pain	to be given up by enduring	MN2
+taints (āsava)	to be given up by avoiding	MN2
+avoiding (parivajjana)	in order to remove taints (āsava)	MN2
+animals	avoiding to remove taints	MN2
+friends, bad	avoiding to remove taints	MN2
+seats	avoiding bad to remove taints	MN2
+taints (āsava)	to be given up by removing	MN2
+removing (vinodana)	in order to remove taints (āsava)	MN2
+tolerating bad thoughts	not tolerating	MN2
+intention of sensual desire (kāmasaṅkappa)	removing	MN2
+intention of ill will (byāpādasaṅkappa)	removing	MN2
+intention of cruelty (vihiṁsāsaṅkappa)	removing	MN2
+taints (āsava)	to be given up by developing	MN2
+development (bhāvanā)	in order to remove taints (āsava)	MN2
+development (bhāvanā)	awakening factors, seven (bojjhaṅga)	MN2
+heirs (dāyāda)	in Dhamma, not material things	MN3
+material things (āmisa)	not being heirs in	MN3
+hunger	better than being heir in material things	MN3
+seclusion (viveka, paviveka)	training in vs. neglecting	MN3
+Sāriputta, Ven.	explains training under the Buddha	MN3
+abandoning (pajahati, pahāna)	disciples not giving up what the Buddha says to give up	MN3
+indulgent (bāhulika)	disciples who do not train	MN3
+senior monastics	good and bad	MN3
+middle monastics	good and bad	MN3
+junior monastics	good and bad	MN3
+middle path (majjhimā paṭipadā)	for giving up greed and hate, etc.	MN3
+evil (pāpa)	qualities, giving up	MN3
+greed (lobha)	practice for giving up	MN3
+hatred (dosa)	practice for giving up	MN3
+noble eightfold path (ariya aṭṭhangika magga)	for giving up evil qualities	MN3
+anger (kodha)	practice for giving up	MN3
+hostility (upanāha)	practice for giving up	MN3
+disdain (makkha)	practice for giving up	MN3
+contemptuousness (paḷāsa)	practice for giving up	MN3
+jealousy (issā)	practice for giving up	MN3
+stinginess (maccharī)	practice for giving up	MN3
+deceit (kuhaka/māyāvī)	practice for giving up	MN3
+deviousness (saṭha)	practice for giving up	MN3
+obstinacy (thambha)	practice for giving up	MN3
+aggression (sārambha)	practice for giving up	MN3
+conceit (māna)	practice for giving up	MN3
+arrogance (thaddha)	practice for giving up	MN3
+vanity (atimānī)	practice for giving up	MN3
+heedlessness (pamāda)	practice for giving up	MN3

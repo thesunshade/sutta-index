@@ -15,6 +15,7 @@ import settingsIcon from "./images/settings.png";
 import infoDot from "./images/info-dot.png";
 import upIcon from "./images/7122424_chevron_up_double_icon.png";
 import themeIcon from "./images/8673129_ic_fluent_dark_theme_filled.png";
+import VisuallyHidden from "./Components/VisuallyHidden.js";
 
 export const ContextDestination = createContext();
 
@@ -95,12 +96,15 @@ function App() {
         <div className="top-row">
           <HeadwordsSearchTool searchText={searchText} setSearchText={setSearchText} />
           <button className="up-icon" onClick={() => closeAllDrawers()}>
+            <VisuallyHidden>Close all drawers</VisuallyHidden>
             <img className="icon" height="20px" alt="Go to top" src={upIcon} />
           </button>
           <div id="theme-button" className="theme-button" onClick={toggleTheme}>
+            <VisuallyHidden>Toggle Theme</VisuallyHidden>
             <img className="icon" height="20" alt="Toggle theme" src={themeIcon} />
           </div>
           <div className="settings-button">
+            <VisuallyHidden>Settings</VisuallyHidden>
             <img
               className="icon"
               width="17px"
@@ -108,10 +112,10 @@ function App() {
               alt="Settings Toggle"
               onClick={() => {
                 toggleArea("options-area");
-              }}
-            ></img>
+              }}></img>
           </div>
           <div className="settings-button">
+            <VisuallyHidden>Information</VisuallyHidden>
             <img
               className="icon"
               width="17px"
@@ -119,8 +123,7 @@ function App() {
               alt="Settings Toggle"
               onClick={() => {
                 toggleArea("info-area");
-              }}
-            ></img>
+              }}></img>
           </div>
         </div>
         {isLocatorView ? <BookSelector /> : <Alphabet />}
@@ -133,8 +136,7 @@ function App() {
             <button
               onClick={() => {
                 toggleTableView();
-              }}
-            >
+              }}>
               Toggle Table View
             </button>{" "}
             To see listing by book
@@ -143,8 +145,7 @@ function App() {
             <button
               onClick={() => {
                 toggleColorView();
-              }}
-            >
+              }}>
               Toggle Color
             </button>
           </label>
@@ -153,45 +154,24 @@ function App() {
             onChange={e => {
               setDestination(e.target.value);
               localStorage.destination = e.target.value;
-            }}
-          >
+            }}>
             <div className="radio-items">
               <span className="button-title"></span>
               Open in:
               <label>
-                <input
-                  type="radio"
-                  name="destination"
-                  value="SC"
-                  defaultChecked={destination === "SC" ? "checked" : ""}
-                />
+                <input type="radio" name="destination" value="SC" defaultChecked={destination === "SC" ? "checked" : ""} />
                 Sutta Central
               </label>
               <label>
-                <input
-                  type="radio"
-                  name="destination"
-                  value="CH"
-                  defaultChecked={destination === "CH" ? "checked" : ""}
-                />
+                <input type="radio" name="destination" value="CH" defaultChecked={destination === "CH" ? "checked" : ""} />
                 Citation Helper
               </label>
               <label>
-                <input
-                  type="radio"
-                  name="destination"
-                  value="SCL"
-                  defaultChecked={destination === "SCL" ? "checked" : ""}
-                />
+                <input type="radio" name="destination" value="SCL" defaultChecked={destination === "SCL" ? "checked" : ""} />
                 SC Light
               </label>
               <label>
-                <input
-                  type="radio"
-                  name="destination"
-                  value="SCV"
-                  defaultChecked={destination === "SCV" ? "checked" : ""}
-                />
+                <input type="radio" name="destination" value="SCV" defaultChecked={destination === "SCV" ? "checked" : ""} />
                 SC Voice
               </label>
             </div>
