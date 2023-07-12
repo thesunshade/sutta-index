@@ -2025,9 +2025,9 @@ gods	wishes of	Iti83
 Tathāgatas	benefiting the world	Iti84
 arahants	benefiting the world	Iti84
 disciples of the Buddha	benefiting the world	Iti84
-perception of ugliness (asubhasaññā)		Iti85
-impermanence meditation (aniccānupassī)		Iti85
-mindfulness of breathing (ānāpānassati)		Iti85
+perception of ugliness (asubhasaññā)	to give up desire for body	Iti85
+impermanence meditation (aniccānupassī)	to give up ignorance and arouse knowledge	Iti85
+mindfulness of breathing (ānāpānassati)	to give up external thoughts	Iti85
 Dhamma	delight in	Iti86
 thoughts (vitakka)	skillful and unskillful	Iti87
 unwholesome roots (lobha, dosa, moha)	as inner stains	Iti88
@@ -2084,6 +2084,7 @@ streams (nadiyā)	simile for craving	Iti109
 sense pleasures, five 	like whirlpool	Iti109
 whirlpools	simile for sense pleasures	Iti109
 renunciation (nekkhamma)	like struggling against the stream	Iti109
+against the stream (paṭisota)	renunciation 	Iti109
 female	like crocodiles	Iti109
 crocodiles	simile for women	Iti109
 tolerating bad thoughts		Iti110
@@ -2153,13 +2154,20 @@ bad actions	not wanting to get caught	Snp1.7
 false spiritual claims	of enlightenment	Snp1.7
 actions (kamma)	actions, not birth defines a person	Snp1.7
 caste	refuting	Snp1.7
-birth is not determinant		Snp1.7
-loving-kindness (mettā)		Snp1.8
-yakkhas		Snp1.9
+birth (jāti)	does not make one an outcast	Snp1.7
+speech	easy to speak to	Snp1.8
+humility	as criterion for loving-kindness	Snp1.8
+gentleness	as criterion for loving-kindness	Snp1.8
+contentment (santuṭṭhi)	as criterion for loving-kindness	Snp1.8
+unburdensome (subhara)	as criterion for loving-kindness	Snp1.8
+blame	by the wise	Snp1.8
+loving-kindness (mettā)	how to practice	Snp1.8
+meditation	postures	Snp1.8
+views (diṭṭhi)	avoiding wrong	Snp1.8
+virtue (sīla)	as criterion for loving-kindness	Snp1.8
 yakkhas	asking questions	Snp1.9
 Buddha, the	qualities of	Snp1.9
 sense pleasures, five 	discard desire for	Snp1.9
-yakkhas		Snp1.10
 yakkhas	asking questions	Snp1.10
 faith (saddhā)	as best wealth	Snp1.10
 truth (sacca)	as sweetest taste	Snp1.10
@@ -2169,8 +2177,10 @@ reputation	gained by truthfulness	Snp1.10
 wealth	gained by hard work	Snp1.10
 friendship	gained by giving	Snp1.10
 giving (dāna)	friendship gained by	Snp1.10
-perception of ugliness (asubhasaññā)		Snp1.11
-charnel ground contemplation (sivathikā)		Snp1.11
+ugly, contemplation of (asubhānupassī)		xref perception of ugliness (asubhasaññā)
+perception of ugliness (asubhasaññā)		xref ugly, contemplation of (asubhānupassī)
+perception of ugliness (asubhasaññā)	nature of body	Snp1.11
+charnel ground contemplation (sivathikā)	rejecting desire for body	Snp1.11
 sage (muni)		Snp1.12
 solitude		Snp1.12
 lay life	simile of peacock	Snp1.12
@@ -2763,7 +2773,7 @@ women	danger for monks	Thag4.1
 walking meditation	to overcome drowsiness	Thag4.2
 drowsiness (middha)	overcoming	Thag4.2
 respect (gārava)	for spiritual companions	Thag4.3
-perception of ugliness (asubhasaññā)		Thag4.4
+perception of ugliness (asubhasaññā)	body	Thag4.4
 mortification (tapojigucchā)	uselessness of	Thag4.5
 Buddha, the	praise of	Thag4.6
 Rāhula, Ven.		Thag4.8
@@ -2790,8 +2800,8 @@ recollection of Dhamma (dhammānussati)	for happiness	Thag6.2
 recollection of Saṅgha (saṅghānussati)	for happiness	Thag6.2
 brahmaviharas		Thag6.2
 respect (gārava)	for spiritual companions	Thag6.3
-charnel ground contemplation (sivathikā)		Thag6.4
-perception of ugliness (asubhasaññā)		Thag6.4
+charnel ground contemplation (sivathikā)	womans’ body	Thag6.4
+perception of ugliness (asubhasaññā)	examining body inside and out	Thag6.4
 heedlessness (pamāda)	like a monkey swinging	Thag6.5
 sorrow	like water falls off of louts leaf	Thag6.5
 monastic life	not getting results for a long time	Thag6.6
@@ -2818,7 +2828,10 @@ wasting opportunity		Thag6.13
 time	not wasting	Thag6.13
 death (maraṇa)	inevitability of	Thag6.13
 women	danger for monks	Thag6.14
-perception of ugliness (asubhasaññā)		Thag6.14
+perception of ugliness (asubhasaññā)	womans’ body	Thag6.14
+monkey	getting stuck in tar trap, simile for body	Thag6.14
+deer	trap, simie for body	Thag6.14
+fish	on hook, simile for body	Thag6.14
 courtesans	tempting monk	Thag7.1
 monastic life	avoiding women	Thag7.1
 monastics	tempted by women	Thag7.1
@@ -2843,8 +2856,7 @@ grieving	makes enemies rejoice	Thag10.3
 slow spiritual progress		Thag10.4
 monastic life	not getting results for a long time	Thag10.4
 cloth	clean, meditation on	Thag10.4
-perception of ugliness (asubhasaññā)		Thag10.5
-perception of ugliness (asubhasaññā)	shun body like snake smeared with dung	Thag10.5
+perception of ugliness (asubhasaññā)	body	Thag10.5
 dwellings	suitable	Thag10.6
 pretending to be stupid		Thag10.6
 monastic life	advice for	Thag10.6
@@ -2874,7 +2886,7 @@ faculties (indriya)	knocking out faculties with faculties	Thag16.2
 slow spiritual progress		Thag16.3
 doubt (vicikicchā)		Thag16.3
 Buddha, the	as doctor	Thag16.3
-perception of ugliness (asubhasaññā)		Thag16.4
+perception of ugliness (asubhasaññā)	woman’s body	Thag16.4
 wealthy people	not giving	Thag16.4
 greed (rāga)	unsatisfied	Thag16.4
 grieving	loss of family	Thag16.4
@@ -2960,10 +2972,12 @@ sense pleasures (kāma, kāmaguṇa)	giving up like vomiting	Thag19.1
 rebirth	mind causing	Thag19.1
 cat-skin bag	mind like a	Thag1.19
 mind	to a meditation object like elephant to post	Thag1.19
-perception of ugliness (asubhasaññā)		Thag20.1
+forest dwelling	Ven. Mahāmogglallāna praising	Thag20.1
+alms gathering practice	Ven. Mahāmogglallāna praising	Thag20.1
+perception of ugliness (asubhasaññā)	body	Thag20.1
 Sāriputta, Ven.	passing away	Thag20.1
-Dūsī, Māra		Thag20.1
-Vejayantapāsāda (Palace of Victory)		Thag20.1
+Dūsī, Māra	Ven. Mahāmogglallāna	Thag20.1
+Vejayantapāsāda (Palace of Victory)	Ven. Mahāmogglallāna shaking	Thag20.1
 Māra	attacks the Buddha	Thag20.1
 speech	best kind of	Thag21.1
 speech	harmless	Thag21.1
@@ -2984,15 +2998,15 @@ lay life	disenchantment with	Thig1.11
 encouragement	to meditate	Thig1.13
 body	danger of	Thig1.17
 renunciation (nekkhamma)	giving up what one loves	Thig1.18
-perception of ugliness (asubhasaññā)		Thig2.1
+perception of ugliness (asubhasaññā)	body	Thig2.1
 signless (animitta)	meditation on	Thig2.1
+slow spiritual progress		Thig2.1
 conceit, underlying tendency (mānānussaya)		Thig2.1
 awakening factors, seven (bojjhaṅga)	all developed	Thig2.2
 marriage	disenchantment with	Thig2.3
 lay life	disenchantment with	Thig2.3
 courtesans	former	Thig2.4
-perception of ugliness (asubhasaññā)		Thig2.8
-slow spiritual progress		Thig2.1
+perception of ugliness (asubhasaññā)	eradicating lust	Thig2.8
 slow spiritual progress		Thig3.1
 slow spiritual progress		Thig3.2
 meditation	for seven days	Thig3.2
@@ -3031,7 +3045,7 @@ widows	bhikkhunī who was	Thig5.12
 death (maraṇa)	of relative	Thig6.1
 grieving	overcoming	Thig6.1
 grieving	death	Thig6.2
-perception of ugliness (asubhasaññā)		Thig6.3
+perception of ugliness (asubhasaññā)	body	Thig6.3
 sense pleasures (kāma, kāmaguṇa)	like swords and stakes	Thig6.3
 aggregates (khandha)	like chopping block	Thig6.3
 rebirth	in various positions	Thig6.6
@@ -3073,7 +3087,7 @@ sense pleasures (kāma, kāmaguṇa)	danger of	Thig13.5
 bhikkhunīs	praised by Sakka	Thig13.5
 sexual harassment		Thig14.1
 disrobing	encouraging to	Thig14.1
-perception of ugliness (asubhasaññā)		Thig14.1
+perception of ugliness (asubhasaññā)	to remove someone else’s lust	Thig14.1
 puppets	metaphor for body	Thig14.1
 perception, distorted (viparītasaññā)	of body	Thig14.1
 marriage	problems with	Thig15.1
@@ -3089,7 +3103,7 @@ hell (niraya)	going forth is not possible	Thig16.1
 going forth (pabbajja)	threatening to not eat if not allowed to	Thig16.1
 marriage	rejecting to go forth	Thig16.1
 going forth (pabbajja)	encouragement to collect merit at home instead	Thig16.1
-perception of ugliness (asubhasaññā)		Thig16.1
+perception of ugliness (asubhasaññā)	body	Thig16.1
 swords	simile of three hundred	Thig16.1
 sense pleasures (kāma, kāmaguṇa)	like vomit	Thig16.1
 laypeople	attaining jhāna	Thig16.1
@@ -5477,6 +5491,7 @@ celibacy	false clam of	AN3.113
 false accusations	about celibacy	AN3.113
 wrong views	that there is nothing wrong with sensual pleasures	AN3.113
 celibacy	wrong view that there is nothing wrong with sensual pleasures	AN3.113
+sense pleasures (kāma, kāmaguṇa)	no harm in	AN3.113
 Buddhas	rarity of	AN3.114
 Dhamma teachers	rarity of	AN3.114
 grateful person	rarity of	AN3.114
@@ -9635,30 +9650,31 @@ superhuman states (uttari manussadhamma)	reflecting on having them	AN10.48
 body	cause for ten things	AN10.49
 principles of cordiality (dhammā sāraṇīyā)	definition	AN10.50
 disputes	preventing	AN10.50
-virtue (sīla)	preventing disputes	AN10.50
+virtue (sīla)	prevents disputes	AN10.50
 virtue (sīla)	as principle of cordiality (dhammā sāraṇīyā)	AN10.50
-learned (bahussutā)	preventing disputes	AN10.50
+learned (bahussutā)	prevents disputes	AN10.50
 learned (bahussutā)	as principle of cordiality (dhammā sāraṇīyā)	AN10.50
-friends, good	preventing disputes	AN10.50
+friends, good	prevents disputes	AN10.50
 friends, good	as principle of cordiality (dhammā sāraṇīyā)	AN10.50
-easy to admonish (suvaca)	preventing disputes	AN10.50
+easy to admonish (suvaca)	prevents disputes	AN10.50
 easy to admonish (suvaca)	as principle of cordiality (dhammā sāraṇīyā)	AN10.50
 work	monastics able to do skillfully	AN10.50
-love for the Dhamma (dhammakāma)	preventing disputes	AN10.50
+love for the Dhamma (dhammakāma)	prevents disputes	AN10.50
 love for the Dhamma (dhammakāma)	as principle of cordiality (dhammā sāraṇīyā)	AN10.50
-energetic (āraddhavīriya)	preventing disputes	AN10.50
+energetic (āraddhavīriya)	prevents disputes	AN10.50
 energetic (āraddhavīriya)	as principle of cordiality (dhammā sāraṇīyā)	AN10.50
-contentment (santuṭṭhi)	preventing disputes	AN10.50
+contentment (santuṭṭhi)	prevents disputes	AN10.50
 contentment (santuṭṭhi)	as principle of cordiality (dhammā sāraṇīyā)	AN10.50
-mindfulness (sati)	preventing disputes	AN10.50
+mindfulness (sati)	prevents disputes	AN10.50
 mindfulness (sati)	as principle of cordiality (dhammā sāraṇīyā)	AN10.50
-wisdom (paññā)	preventing disputes	AN10.50
+wisdom (paññā)	prevents disputes	AN10.50
 wisdom (paññā)	as principle of cordiality (dhammā sāraṇīyā)	AN10.50
 mind reading	skill in ones own mind	AN10.51
 self-reflection	to develop skillful qualities	AN10.51
 reviewing (paccavekkhaṇā)	to develop skillful qualities	AN10.51
 youth	checking reflection, simile for self-examination	AN10.51
 mirrors	simile for self-examination	AN10.51
+blemish (aṅgaṇa)	simile for self-examination	AN10.51
 covetousness (abhijjhā)	self-examination for	AN10.51
 maliciousness (byāpannacitta)	self-examination for	AN10.51
 dullness and drowsiness (thinamiddha)	self-examination for	AN10.51
@@ -13148,7 +13164,7 @@ scholar (sotthiya)	how to become	MN91
 arahants	how to become	MN91
 consummate one (kevalī)	how to become	MN91
 sage (muni)	how to become	MN91
-Buddha	how to become	MN91
+Buddhas	how to become	MN91
 feet kissing	Brahmāyu kisses Buddha’s feet	MN91
 cloth	clean taking dye, simile for ready mind	MN91
 gradual instruction (anupubba katha)	to Brahmāyu	MN91
@@ -13521,3 +13537,47 @@ conceit (māna)	practice for giving up	MN3
 arrogance (thaddha)	practice for giving up	MN3
 vanity (atimānī)	practice for giving up	MN3
 heedlessness (pamāda)	practice for giving up	MN3
+Jāṇussoṇi, brahmin	asking about fear	MN4
+wilderness (arañña)	living in is difficult	MN4
+Bodhisatta	living in remote lodgings	MN4
+wilderness (arañña)	Bodhisatta living in	MN4
+fear (bhaya)	mastering	MN4
+dread (bherava)	mastering	MN4
+actions (kamma)	impure lead to fear	MN4
+livelihood	deficits in lead to fear	MN4
+intense lust (tibbarāga)	leads to fear	MN4
+maliciousness (byāpannacitta)	leads to fear	MN4
+loving-kindness (mettā)	prevents fear	MN4
+dullness and drowsiness (thinamiddha)	leads to fear	MN4
+dullness and drowsiness (thinamiddha)	leads to fear	MN4
+doubt (kaṅkhā)	leads to fear	MN4
+doubt (vicikicchā)	leads to fear	MN4
+not glorifying oneself or putting others down (na ceva attānaṁ ukkaṁseti, na paraṁ vambheti)	prevents fear	MN4
+terror (chambhitatta)	leads to fear	MN4
+gain (lābha)	desire for leads to fear	MN4
+honor (sakkāra)	desire for leads to fear	MN4
+few wishes (appiccha)	prevents fear	MN4
+laziness (kusīta)	leads to fear	MN4
+energetic (āraddhavīriya)	prevents fear	MN4
+unmindfulness (muṭṭhassacca)	leads to fear	MN4
+mindfulness (sati)	prevents fear	MN4
+accomplishment in concentration (samādhisampannā)	prevents fear	MN4
+unwise (duppañña)	leads to fear	MN4
+accomplishment in wisdom (paññāsampadā)	prevents fear	MN4
+shrines (cetiya)	staying in fearful	MN4
+postures	overcoming fear in different	MN4
+night	as day	MN4
+day	as night	MN4
+jhānas	Buddha’s path to enlightenment	MN4
+Buddha, the	attainting enlightenment	MN4
+past lives, knowledge of (pubbenivāsānussatiñāṇa)	Buddha’s knowledge of 	MN4
+knowledge of passing away and rebirth of beings (cutūpapātañāna)	Buddha’s knowledge of 	MN4
+knowledge of destruction of the taints (āsavakkhayañāṇa)	Buddha’s knowledge of 	MN4
+wilderness (arañña)	reasons for living in	MN4
+happiness in the present life (diṭṭhadhammasukhavihāra)	wilderness living	MN4
+compassion (anukampā)	for future generations, living in wilderness	MN4
+self-examination		xref self-reflection
+Sāriputta, Ven.	blemishes	MN5
+blemish (aṅgaṇa)	self reflection	MN5
+self-reflection	blemishes in oneself	MN5
+abandoning (pajahati, pahāna)	blemishes in oneself	MN5
