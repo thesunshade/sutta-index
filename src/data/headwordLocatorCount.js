@@ -9,7 +9,7 @@ export const indexObject =[
      ],
      [
           "death (maraṇa)",
-          91
+          90
      ],
      [
           "speech",
@@ -76,12 +76,12 @@ export const indexObject =[
           48
      ],
      [
-          "Ānanda, Ven.",
+          "Dhamma teaching",
           45
      ],
      [
-          "Dhamma teaching",
-          44
+          "Ānanda, Ven.",
+          45
      ],
      [
           "concentration (samādhi)",
@@ -124,12 +124,12 @@ export const indexObject =[
           35
      ],
      [
-          "actions (kamma)",
+          "going forth (pabbajja)",
           35
      ],
      [
-          "going forth (pabbajja)",
-          34
+          "actions (kamma)",
+          35
      ],
      [
           "association",
@@ -272,6 +272,10 @@ export const indexObject =[
           24
      ],
      [
+          "requisites, four",
+          24
+     ],
+     [
           "encouragement",
           24
      ],
@@ -297,10 +301,6 @@ export const indexObject =[
      ],
      [
           "sense restraint (indriyasaṁvara)",
-          23
-     ],
-     [
-          "requisites, four",
           23
      ],
      [
@@ -400,11 +400,19 @@ export const indexObject =[
           20
      ],
      [
+          "almsfood",
+          20
+     ],
+     [
           "practicing",
           19
      ],
      [
           "perception of impermanence (aniccasaññā)",
+          19
+     ],
+     [
+          "Moggallāna, Ven.",
           19
      ],
      [
@@ -425,10 +433,6 @@ export const indexObject =[
      ],
      [
           "bases of psychic power (iddhipāda)",
-          19
-     ],
-     [
-          "almsfood",
           19
      ],
      [
@@ -453,10 +457,6 @@ export const indexObject =[
      ],
      [
           "old age (jarā)",
-          18
-     ],
-     [
-          "Moggallāna, Ven.",
           18
      ],
      [
@@ -632,6 +632,10 @@ export const indexObject =[
           15
      ],
      [
+          "alms gathering practice",
+          15
+     ],
+     [
           "wrong eightfold path",
           14
      ],
@@ -665,10 +669,6 @@ export const indexObject =[
      ],
      [
           "consciousness (viññāṇa)",
-          14
-     ],
-     [
-          "alms gathering practice",
           14
      ],
      [
@@ -717,6 +717,10 @@ export const indexObject =[
      ],
      [
           "false speech",
+          13
+     ],
+     [
+          "evil wishes (pāpiccha)",
           13
      ],
      [
@@ -777,10 +781,6 @@ export const indexObject =[
      ],
      [
           "fire",
-          12
-     ],
-     [
-          "evil wishes (pāpiccha)",
           12
      ],
      [
@@ -1184,6 +1184,10 @@ export const indexObject =[
           9
      ],
      [
+          "ascetic practices (dhutaṅga)",
+          9
+     ],
+     [
           "zeal (chanda)",
           8
      ],
@@ -1368,8 +1372,8 @@ export const indexObject =[
           8
      ],
      [
-          "ascetic practices (dhutaṅga)",
-          8
+          "youth",
+          7
      ],
      [
           "worshiping (payirupāsati)",
@@ -1512,6 +1516,10 @@ export const indexObject =[
           7
      ],
      [
+          "offences against monastic rules (āpatti)",
+          7
+     ],
+     [
           "mindfulness of death (maraṇassati)",
           7
      ],
@@ -1549,6 +1557,10 @@ export const indexObject =[
      ],
      [
           "hospitality (paṭisanthāra)",
+          7
+     ],
+     [
+          "honor (sakkāra)",
           7
      ],
      [
@@ -1648,16 +1660,16 @@ export const indexObject =[
           7
      ],
      [
+          "accusations",
+          7
+     ],
+     [
           "accomplishments",
           7
      ],
      [
           "accomplishment in virtue (sīlasampadā)",
           7
-     ],
-     [
-          "youth",
-          6
      ],
      [
           "wrong knowledge (micchā ñāṇa)",
@@ -1772,10 +1784,6 @@ export const indexObject =[
           6
      ],
      [
-          "offences against monastic rules (āpatti)",
-          6
-     ],
-     [
           "noble silence (ariya tuṇhībhāva)",
           6
      ],
@@ -1861,10 +1869,6 @@ export const indexObject =[
      ],
      [
           "hostility (upanāha)",
-          6
-     ],
-     [
-          "honor (sakkāra)",
           6
      ],
      [
@@ -1976,6 +1980,10 @@ export const indexObject =[
           6
      ],
      [
+          "carpenters",
+          6
+     ],
+     [
           "Brahmā",
           6
      ],
@@ -2009,10 +2017,6 @@ export const indexObject =[
      ],
      [
           "arrogance",
-          6
-     ],
-     [
-          "accusations",
           6
      ],
      [
@@ -2432,10 +2436,6 @@ export const indexObject =[
           5
      ],
      [
-          "carpenters",
-          5
-     ],
-     [
           "business",
           5
      ],
@@ -2824,6 +2824,10 @@ export const indexObject =[
           4
      ],
      [
+          "garlands",
+          4
+     ],
+     [
           "friends",
           4
      ],
@@ -2957,6 +2961,10 @@ export const indexObject =[
      ],
      [
           "asking forgiveness",
+          4
+     ],
+     [
+          "appreciating (anumodati)",
           4
      ],
      [
@@ -3552,10 +3560,6 @@ export const indexObject =[
           3
      ],
      [
-          "garlands",
-          3
-     ],
-     [
           "galaxies",
           3
      ],
@@ -3821,10 +3825,6 @@ export const indexObject =[
      ],
      [
           "arrogance (thaddha)",
-          3
-     ],
-     [
-          "appreciating (anumodati)",
           3
      ],
      [
@@ -5085,6 +5085,10 @@ export const indexObject =[
      ],
      [
           "deep (gambhīra)",
+          2
+     ],
+     [
+          "death (maccu)",
           2
      ],
      [
@@ -7833,6 +7837,10 @@ export const indexObject =[
      ],
      [
           "dispensation (pāvacana)",
+          1
+     ],
+     [
+          "dish",
           1
      ],
      [
