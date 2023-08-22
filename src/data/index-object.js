@@ -7141,6 +7141,7 @@ export const indexObject ={
           "bodily formation (kāyasaṅkhāra)": {
                "mindfulness of breathing": {
                     "locators": [
+                         "MN10",
                          "MN118"
                     ],
                     "xrefs": []
@@ -7179,6 +7180,7 @@ export const indexObject ={
                },
                "thirty-two parts": {
                     "locators": [
+                         "MN10",
                          "Kp3"
                     ],
                     "xrefs": []
@@ -7241,12 +7243,14 @@ export const indexObject ={
                },
                "like a bag of grains": {
                     "locators": [
+                         "MN10",
                          "MN119"
                     ],
                     "xrefs": []
                },
                "like cuts of meat": {
                     "locators": [
+                         "MN10",
                          "MN119"
                     ],
                     "xrefs": []
@@ -7490,6 +7494,12 @@ export const indexObject ={
                          "Dhp149"
                     ],
                     "xrefs": []
+               },
+               "": {
+                    "locators": [],
+                    "xrefs": [
+                         "xref charnel ground contemplation (sivathikā)"
+                    ]
                }
           },
           "bonfires": {
@@ -8054,6 +8064,12 @@ export const indexObject ={
                          "AN10.72"
                     ],
                     "xrefs": []
+               },
+               "": {
+                    "locators": [],
+                    "xrefs": [
+                         "xref mindfulness of breathing (ānāpānassati)"
+                    ]
                }
           },
           "bridges": {
@@ -9194,6 +9210,13 @@ export const indexObject ={
                }
           },
           "butchers": {
+               "cuts of meat, simile for elements in body": {
+                    "locators": [
+                         "MN10",
+                         "MN119"
+                    ],
+                    "xrefs": []
+               },
                "": {
                     "locators": [
                          "AN6.18"
@@ -9338,6 +9361,12 @@ export const indexObject ={
                "simile for Ven. Sāriputta helping": {
                     "locators": [
                          "MN5"
+                    ],
+                    "xrefs": []
+               },
+               "simile for mindfulness of breathing": {
+                    "locators": [
+                         "MN10"
                     ],
                     "xrefs": []
                }
@@ -9977,6 +10006,7 @@ export const indexObject ={
                },
                "mindfulness of body": {
                     "locators": [
+                         "MN10",
                          "MN119"
                     ],
                     "xrefs": []
@@ -12204,6 +12234,12 @@ export const indexObject ={
                          "MN8"
                     ],
                     "xrefs": []
+               },
+               "mindfulness removing": {
+                    "locators": [
+                         "MN10"
+                    ],
+                    "xrefs": []
                }
           },
           "covetousness, giving up": {
@@ -14017,6 +14053,12 @@ export const indexObject ={
                "situational awareness": {
                     "locators": [
                          "MN51"
+                    ],
+                    "xrefs": []
+               },
+               "mindfulness of body": {
+                    "locators": [
+                         "MN10"
                     ],
                     "xrefs": []
                }
@@ -18480,6 +18522,12 @@ export const indexObject ={
                          "MN91"
                     ],
                     "xrefs": []
+               },
+               "mindfulness of body": {
+                    "locators": [
+                         "MN10"
+                    ],
+                    "xrefs": []
                }
           },
           "eating in moderation": {
@@ -18735,6 +18783,7 @@ export const indexObject ={
                },
                "mindfulness of body": {
                     "locators": [
+                         "MN10",
                          "MN119"
                     ],
                     "xrefs": []
@@ -20494,6 +20543,14 @@ export const indexObject ={
                "people like mangos": {
                     "locators": [
                          "AN4.105"
+                    ],
+                    "xrefs": []
+               }
+          },
+          "externally (bahiddha)": {
+               "mindfulness": {
+                    "locators": [
+                         "MN10"
                     ],
                     "xrefs": []
                }
@@ -28826,6 +28883,7 @@ export const indexObject ={
           "grains": {
                "bag of, simile for parts of body": {
                     "locators": [
+                         "MN10",
                          "MN119"
                     ],
                     "xrefs": []
@@ -34763,6 +34821,14 @@ export const indexObject ={
                     "xrefs": []
                }
           },
+          "internally (ajjhattaṃ)": {
+               "mindfulness": {
+                    "locators": [
+                         "MN10"
+                    ],
+                    "xrefs": []
+               }
+          },
           "interpreted meaning": {
                "": {
                     "locators": [],
@@ -36099,6 +36165,12 @@ export const indexObject ={
                "to prevent bad, develop good, endure pain": {
                     "locators": [
                          "AN3.49"
+                    ],
+                    "xrefs": []
+               },
+               "mindfulness": {
+                    "locators": [
+                         "MN10"
                     ],
                     "xrefs": []
                }
@@ -39941,6 +40013,12 @@ export const indexObject ={
                          "AN4.246"
                     ],
                     "xrefs": []
+               },
+               "": {
+                    "locators": [],
+                    "xrefs": [
+                         "xref postures"
+                    ]
                }
           },
           "lying, giving up": {
@@ -40754,6 +40832,7 @@ export const indexObject ={
           "meat": {
                "cuts of, simile for elements in body": {
                     "locators": [
+                         "MN10",
                          "MN119"
                     ],
                     "xrefs": []
@@ -42780,6 +42859,24 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
+               "definition": {
+                    "locators": [
+                         "MN10"
+                    ],
+                    "xrefs": []
+               },
+               "ugliness": {
+                    "locators": [
+                         "MN10"
+                    ],
+                    "xrefs": []
+               },
+               "elements": {
+                    "locators": [
+                         "MN10"
+                    ],
+                    "xrefs": []
+               },
                "counter_value": 2
           },
           "mindfulness of breathing (ānāpānassati)": {
@@ -42801,7 +42898,9 @@ export const indexObject ={
                     "locators": [
                          "Thag10.3"
                     ],
-                    "xrefs": []
+                    "xrefs": [
+                         "xref breathing (assāsapassāsa)"
+                    ]
                },
                "monks committed to developing": {
                     "locators": [
@@ -42892,6 +42991,18 @@ export const indexObject ={
                          "MN62"
                     ],
                     "xrefs": []
+               },
+               "mindfulness of body (kāyānupassanā)": {
+                    "locators": [
+                         "MN10"
+                    ],
+                    "xrefs": []
+               },
+               "like carpenter making a cut": {
+                    "locators": [
+                         "MN10"
+                    ],
+                    "xrefs": []
                }
           },
           "mindfulness of death (maraṇassati)": {
@@ -42943,6 +43054,12 @@ export const indexObject ={
                          "AN8.63"
                     ],
                     "xrefs": []
+               },
+               "definition": {
+                    "locators": [
+                         "MN10"
+                    ],
+                    "xrefs": []
                }
           },
           "mindfulness of mind (cittānupassanā)": {
@@ -42963,6 +43080,12 @@ export const indexObject ={
                          "AN8.63"
                     ],
                     "xrefs": []
+               },
+               "definition": {
+                    "locators": [
+                         "MN10"
+                    ],
+                    "xrefs": []
                }
           },
           "mindfulness of mind objects (dhammānupassanā)": {
@@ -42981,6 +43104,12 @@ export const indexObject ={
                "concentration and": {
                     "locators": [
                          "AN8.63"
+                    ],
+                    "xrefs": []
+               },
+               "definition": {
+                    "locators": [
+                         "MN10"
                     ],
                     "xrefs": []
                }
@@ -49500,6 +49629,7 @@ export const indexObject ={
                },
                "mindfulness of body": {
                     "locators": [
+                         "MN10",
                          "MN119"
                     ],
                     "xrefs": []
@@ -50350,6 +50480,7 @@ export const indexObject ={
                },
                "mindfulness of body": {
                     "locators": [
+                         "MN10",
                          "MN119"
                     ],
                     "xrefs": []
@@ -56310,6 +56441,12 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
+               "mindfulness removing": {
+                    "locators": [
+                         "MN10"
+                    ],
+                    "xrefs": []
+               },
                "counter_value": 2
           },
           "safe place (khema)": {
@@ -60496,6 +60633,14 @@ export const indexObject ={
                     "xrefs": []
                }
           },
+          "sitting": {
+               "": {
+                    "locators": [],
+                    "xrefs": [
+                         "xref postures"
+                    ]
+               }
+          },
           "situational awareness (sampajañña)": {
                "": {
                     "locators": [],
@@ -60511,6 +60656,7 @@ export const indexObject ={
                },
                "mindfulness of body": {
                     "locators": [
+                         "MN10",
                          "MN119"
                     ],
                     "xrefs": []
@@ -60567,6 +60713,12 @@ export const indexObject ={
                "gradual training": {
                     "locators": [
                          "MN51"
+                    ],
+                    "xrefs": []
+               },
+               "mindfulness": {
+                    "locators": [
+                         "MN10"
                     ],
                     "xrefs": []
                }
@@ -62050,6 +62202,12 @@ export const indexObject ={
                          "AN2.68"
                     ],
                     "xrefs": []
+               },
+               "feelings": {
+                    "locators": [
+                         "MN10"
+                    ],
+                    "xrefs": []
                }
           },
           "spiritual companion (sabrahmacārī)": {
@@ -62459,6 +62617,14 @@ export const indexObject ={
                          "Dhp241-42"
                     ],
                     "xrefs": []
+               }
+          },
+          "standing": {
+               "": {
+                    "locators": [],
+                    "xrefs": [
+                         "xref postures"
+                    ]
                }
           },
           "stars": {
@@ -67184,6 +67350,12 @@ export const indexObject ={
                          "MN51"
                     ],
                     "xrefs": []
+               },
+               "mindfulness of body": {
+                    "locators": [
+                         "MN10"
+                    ],
+                    "xrefs": []
                }
           },
           "Uruvela Kassapa, Ven.": {
@@ -68651,6 +68823,14 @@ export const indexObject ={
                          "Thag1.22"
                     ],
                     "xrefs": []
+               }
+          },
+          "walking": {
+               "": {
+                    "locators": [],
+                    "xrefs": [
+                         "xref postures"
+                    ]
                }
           },
           "walking meditation": {
@@ -71057,10 +71237,16 @@ export const indexObject ={
                     ]
                }
           },
-          "worldly (āmisa)": {
+          "worldly (āmisa, sāmisa)": {
                "happiness": {
                     "locators": [
                          "AN2.68"
+                    ],
+                    "xrefs": []
+               },
+               "feelings": {
+                    "locators": [
+                         "MN10"
                     ],
                     "xrefs": []
                }
