@@ -18,6 +18,7 @@ eyes		xref divine eye (dibbacakkhu)
 application of mind (manasikāra)		xref attention (manasikāra)
 eyes		xref eye of wisdom (paññācakkhu)
 nobles		xref khattiyas
+Meru		xref Sineru, king of mountains
 entertainment		xref dancing
 entertainment		xref singing
 entertainment		xref music
@@ -385,6 +386,9 @@ speech		xref wrong speech (micchā vācā)
 factors of stream-entry (sotāpattiyaṅga)		xref stream-enterers (sotāpanna)
 zeal (chanda)		xref desire (chanda)
 demons (yakkha)		xref yakkhas
+claiming enlightenment		xref declaring enlightenment
+declaring enlightenment		xref false spiritual claims
+false spiritual claims		xref declaring enlightenment
 wrong view (micchā diṭṭhi)		xref wrong views
 unattractiveness		xref ugliness
 unskillful qualities (akusala dhamma)		xref unskillfulness (akusala)
@@ -1742,6 +1746,7 @@ Moggallāna, Ven.	meditating 	Ud3.5
 outcast (vasala)	accusation of being	Ud3.6
 habits	over lifetimes	Ud3.6
 gods	offering food	Ud3.7
+Sakka, Lord of Gods	offering food	Ud3.7
 almsfood	from the poor	Ud3.7
 giving (dāna)	by gods	Ud3.7
 arahants	envied by gods	Ud3.7
@@ -4447,6 +4452,7 @@ Sāriputta, Ven.	praise of	MN143
 Sāriputta, Ven.	visiting Ven. Channa	MN144
 Mahā Cunda, Ven.	visiting Ven. Channa	MN144
 Channa, Ven.	illness and death of	MN144
+declaring enlightenment	testing the claim	MN144
 Sāriputta, Ven.	offering to care for sick monk	MN144
 suicide	of Ven. Channa	MN144
 sense bases (āyatana)	as not-self	MN144
@@ -5821,6 +5827,7 @@ Buddha, the	asking monks if they have doubts	AN4.76
 Ānanda, Ven.	speaking from faith about other monks attainments	AN4.76
 unthinkable (acinteyya)	four things that are	AN4.77
 results of actions	specific results are inconceivable	AN4.77
+actions (kamma)	specific results are inconceivable	AN4.77
 Buddhas	scope of is inconceivable	AN4.77
 meditation (jhāyati)	scope of mind of one in jhāna is inconceivable	AN4.77
 insanity (ummāda)	caused by thinking about inconceivable things	AN4.77
@@ -10217,8 +10224,8 @@ good speaker (kalyāṇavāca)	inspires the Buddha to teach	AN10.83
 Dhamma teaching	when someone teaches, it inspires the Buddha to teach	AN10.83
 sequential path	proximate causes	AN10.83
 Moggallāna, Ven.	on overestimation	AN10.84
-overestimation (adhimāna)		AN10.84
-declaring enlightenment		AN10.84
+overestimation (adhimāna)	declaring enlightenment 	AN10.84
+declaring enlightenment	testing the claim	AN10.84
 irritability (kodhana)	without giving up, cannot become arahant	AN10.84
 hostility (upanāha)	without giving up, cannot become arahant	AN10.84
 disdain (makkha)	without giving up, cannot become arahant	AN10.84

@@ -631,6 +631,12 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
+               "specific results are inconceivable": {
+                    "locators": [
+                         "AN4.77"
+                    ],
+                    "xrefs": []
+               },
                "living off the fruit of current actions": {
                     "locators": [
                          "AN4.134"
@@ -10230,6 +10236,14 @@ export const indexObject ={
                     "xrefs": []
                }
           },
+          "claiming enlightenment": {
+               "": {
+                    "locators": [],
+                    "xrefs": [
+                         "xref declaring enlightenment"
+                    ]
+               }
+          },
           "clairaudience": {
                "": {
                     "locators": [],
@@ -13930,16 +13944,17 @@ export const indexObject ={
           },
           "declaring enlightenment": {
                "": {
-                    "locators": [
-                         "AN10.84"
-                    ],
+                    "locators": [],
                     "xrefs": [
+                         "xref false spiritual claims",
                          "xref overestimation (adhimāna)"
                     ]
                },
                "testing the claim": {
                     "locators": [
-                         "MN112"
+                         "MN112",
+                         "MN144",
+                         "AN10.84"
                     ],
                     "xrefs": []
                },
@@ -21953,6 +21968,7 @@ export const indexObject ={
                "": {
                     "locators": [],
                     "xrefs": [
+                         "xref declaring enlightenment",
                          "xref overestimation (adhimāna)"
                     ]
                },
@@ -41823,6 +41839,14 @@ export const indexObject ={
                     "xrefs": []
                }
           },
+          "Meru": {
+               "": {
+                    "locators": [],
+                    "xrefs": [
+                         "xref Sineru, king of mountains"
+                    ]
+               }
+          },
           "messages": {
                "avoid running": {
                     "locators": [
@@ -47858,9 +47882,7 @@ export const indexObject ={
           },
           "overestimation (adhimāna)": {
                "": {
-                    "locators": [
-                         "AN10.84"
-                    ],
+                    "locators": [],
                     "xrefs": [
                          "xref declaring enlightenment",
                          "xref false spiritual claims",
@@ -47870,6 +47892,7 @@ export const indexObject ={
                "declaring enlightenment": {
                     "locators": [
                          "MN105",
+                         "AN10.84",
                          "AN10.86"
                     ],
                     "xrefs": []
@@ -56540,6 +56563,12 @@ export const indexObject ={
                     "locators": [
                          "Dhp30",
                          "Iti22"
+                    ],
+                    "xrefs": []
+               },
+               "offering food": {
+                    "locators": [
+                         "Ud3.7"
                     ],
                     "xrefs": []
                },

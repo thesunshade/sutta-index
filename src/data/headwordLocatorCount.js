@@ -120,15 +120,15 @@ export const indexObject =[
           36
      ],
      [
+          "actions (kamma)",
+          36
+     ],
+     [
           "heedfulness (appamāda)",
           35
      ],
      [
           "going forth (pabbajja)",
-          35
-     ],
-     [
-          "actions (kamma)",
           35
      ],
      [
@@ -852,6 +852,10 @@ export const indexObject =[
           11
      ],
      [
+          "Sakka, Lord of Gods",
+          11
+     ],
+     [
           "right speech (sammā vācā)",
           11
      ],
@@ -941,10 +945,6 @@ export const indexObject =[
      ],
      [
           "schisms",
-          10
-     ],
-     [
-          "Sakka, Lord of Gods",
           10
      ],
      [
@@ -2448,6 +2448,10 @@ export const indexObject =[
           5
      ],
      [
+          "declaring enlightenment",
+          5
+     ],
+     [
           "decisions",
           5
      ],
@@ -2937,10 +2941,6 @@ export const indexObject =[
      ],
      [
           "delight (rati)",
-          4
-     ],
-     [
-          "declaring enlightenment",
           4
      ],
      [
