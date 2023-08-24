@@ -52,11 +52,11 @@ export const indexObject =[
           60
      ],
      [
-          "faith (saddhā)",
-          54
+          "awakening factors, seven (bojjhaṅga)",
+          55
      ],
      [
-          "awakening factors, seven (bojjhaṅga)",
+          "faith (saddhā)",
           54
      ],
      [
@@ -172,6 +172,10 @@ export const indexObject =[
           32
      ],
      [
+          "feelings (vedanā)",
+          32
+     ],
+     [
           "disputes",
           32
      ],
@@ -180,7 +184,11 @@ export const indexObject =[
           31
      ],
      [
-          "feelings (vedanā)",
+          "hindrances (nīvaraṇa)",
+          31
+     ],
+     [
+          "aggregates (khandha)",
           31
      ],
      [
@@ -196,15 +204,7 @@ export const indexObject =[
           30
      ],
      [
-          "hindrances (nīvaraṇa)",
-          30
-     ],
-     [
           "faculties, spiritual (indriya)",
-          30
-     ],
-     [
-          "aggregates (khandha)",
           30
      ],
      [
@@ -676,6 +676,10 @@ export const indexObject =[
           14
      ],
      [
+          "greed, hatred, delusion",
+          14
+     ],
+     [
           "gradual training (anupubbasikkhā)",
           14
      ],
@@ -808,7 +812,7 @@ export const indexObject =[
           12
      ],
      [
-          "greed, hatred, delusion",
+          "four noble truths",
           12
      ],
      [
@@ -908,10 +912,6 @@ export const indexObject =[
           11
      ],
      [
-          "four noble truths",
-          11
-     ],
-     [
           "faculty of wisdom (paññindriya)",
           11
      ],
@@ -980,6 +980,10 @@ export const indexObject =[
           10
      ],
      [
+          "lions roar",
+          10
+     ],
+     [
           "laziness (kusīta)",
           10
      ],
@@ -1025,6 +1029,10 @@ export const indexObject =[
      ],
      [
           "deathless (amata)",
+          10
+     ],
+     [
+          "confidence (pasāda)",
           10
      ],
      [
@@ -1140,10 +1148,6 @@ export const indexObject =[
           9
      ],
      [
-          "lions roar",
-          9
-     ],
-     [
           "laziness (kosajja)",
           9
      ],
@@ -1224,10 +1228,6 @@ export const indexObject =[
           9
      ],
      [
-          "confidence (pasāda)",
-          9
-     ],
-     [
           "confidence (aveccappasāda)",
           9
      ],
@@ -1292,6 +1292,10 @@ export const indexObject =[
           8
      ],
      [
+          "proliferation (papañca)",
+          8
+     ],
+     [
           "perception of not self (anattasaññā)",
           8
      ],
@@ -1317,6 +1321,14 @@ export const indexObject =[
      ],
      [
           "money",
+          8
+     ],
+     [
+          "mind (citta)",
+          8
+     ],
+     [
+          "love (piya)",
           8
      ],
      [
@@ -1365,6 +1377,10 @@ export const indexObject =[
      ],
      [
           "form (rūpa)",
+          8
+     ],
+     [
+          "faculties, sense (indriya)",
           8
      ],
      [
@@ -1508,10 +1524,6 @@ export const indexObject =[
           7
      ],
      [
-          "proliferation (papañca)",
-          7
-     ],
-     [
           "present life",
           7
      ],
@@ -1580,19 +1592,11 @@ export const indexObject =[
           7
      ],
      [
-          "mind (citta)",
-          7
-     ],
-     [
           "meditation (jhāyati)",
           7
      ],
      [
           "loved ones",
-          7
-     ],
-     [
-          "love (piya)",
           7
      ],
      [
@@ -1661,10 +1665,6 @@ export const indexObject =[
      ],
      [
           "fire worship (aggika)",
-          7
-     ],
-     [
-          "faculties, sense (indriya)",
           7
      ],
      [
@@ -1961,6 +1961,10 @@ export const indexObject =[
      ],
      [
           "happiness in the present life (diṭṭhadhammasukhavihāra)",
+          6
+     ],
+     [
+          "gratification, danger, escape",
           6
      ],
      [
@@ -2376,10 +2380,6 @@ export const indexObject =[
           5
      ],
      [
-          "gratification, danger, escape",
-          5
-     ],
-     [
           "gratification (assāda)",
           5
      ],
@@ -2725,6 +2725,10 @@ export const indexObject =[
      ],
      [
           "outcast (caṇḍāla)",
+          4
+     ],
+     [
+          "origin, ending (samudayañca atthaṅgamañca)",
           4
      ],
      [
@@ -3316,6 +3320,10 @@ export const indexObject =[
           3
      ],
      [
+          "phenomena (dhamma)",
+          3
+     ],
+     [
           "perception of skeleton (aṭṭhisañña)",
           3
      ],
@@ -3329,10 +3337,6 @@ export const indexObject =[
      ],
      [
           "outcast (vasala)",
-          3
-     ],
-     [
-          "origin, ending (samudayañca atthaṅgamañca)",
           3
      ],
      [
@@ -3964,6 +3968,14 @@ export const indexObject =[
           2
      ],
      [
+          "views favoring ending existence (vibhavadiṭṭhi)",
+          2
+     ],
+     [
+          "views favoring continued existence (bhavadiṭṭhi)",
+          2
+     ],
+     [
           "Vessavaṇa, deva king",
           2
      ],
@@ -4057,6 +4069,10 @@ export const indexObject =[
      ],
      [
           "Tissa, Brahma",
+          2
+     ],
+     [
+          "time",
           2
      ],
      [
@@ -4392,6 +4408,10 @@ export const indexObject =[
           2
      ],
      [
+          "precepts",
+          2
+     ],
+     [
           "praise and blame",
           2
      ],
@@ -4413,10 +4433,6 @@ export const indexObject =[
      ],
      [
           "Piṇḍola Bhāradvāja, Ven.",
-          2
-     ],
-     [
-          "phenomena (dhamma)",
           2
      ],
      [
@@ -4481,6 +4497,10 @@ export const indexObject =[
      ],
      [
           "overconfidence",
+          2
+     ],
+     [
+          "other sects",
           2
      ],
      [
@@ -5600,14 +5620,6 @@ export const indexObject =[
           1
      ],
      [
-          "views favoring ending existence (vibhavadiṭṭhi)",
-          1
-     ],
-     [
-          "views favoring continued existence (bhavadiṭṭhi)",
-          1
-     ],
-     [
           "views about the world (lokavāda)",
           1
      ],
@@ -5865,10 +5877,6 @@ export const indexObject =[
      ],
      [
           "torches",
-          1
-     ],
-     [
-          "time",
           1
      ],
      [
@@ -6488,10 +6496,6 @@ export const indexObject =[
           1
      ],
      [
-          "precepts",
-          1
-     ],
-     [
           "preceptor (upajjhāya)",
           1
      ],
@@ -6701,10 +6705,6 @@ export const indexObject =[
      ],
      [
           "Overlord, the (abhibhū)",
-          1
-     ],
-     [
-          "other sects",
           1
      ],
      [
@@ -7573,6 +7573,10 @@ export const indexObject =[
      ],
      [
           "Gods Fair to See (sudassā devā)",
+          1
+     ],
+     [
+          "goal (niṭṭhā)",
           1
      ],
      [
