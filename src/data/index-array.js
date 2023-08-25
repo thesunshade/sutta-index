@@ -37846,8 +37846,18 @@ export const indexArray =[
      ],
      [
           "MN11",
+          "dependent origination (paṭiccasamuppāda)",
+          "complete understanding of grasping"
+     ],
+     [
+          "MN11",
           "goal (niṭṭhā)",
           "one, not many"
+     ],
+     [
+          "MN11",
+          "grasping (upādāna)",
+          "complete understanding of"
      ],
      [
           "MN11",
@@ -37898,6 +37908,191 @@ export const indexArray =[
           "MN11",
           "views favoring ending existence (vibhavadiṭṭhi)",
           "truly understanding"
+     ],
+     [
+          "MN12",
+          "accomplishment in concentration (samādhisampannā)",
+          "person who is attains liberation simile for person with wrong view going to hell"
+     ],
+     [
+          "MN12",
+          "accomplishment in virtue (sīlasampadā)",
+          "person who is attains liberation simile for person with wrong view going to hell"
+     ],
+     [
+          "MN12",
+          "accomplishment in wisdom (paññāsampadā)",
+          "person who is attains liberation simile for person with wrong view going to hell"
+     ],
+     [
+          "MN12",
+          "attainments (samāpatti)",
+          "Buddha knows "
+     ],
+     [
+          "MN12",
+          "Buddha, the",
+          "approaching different assemblies "
+     ],
+     [
+          "MN12",
+          "Buddha, the",
+          "divine ear"
+     ],
+     [
+          "MN12",
+          "Buddha, the",
+          "false accusations against"
+     ],
+     [
+          "MN12",
+          "Buddha, the",
+          "mind reading"
+     ],
+     [
+          "MN12",
+          "Buddha, the",
+          "no superhuman distinction"
+     ],
+     [
+          "MN12",
+          "Buddha, the",
+          "psychic powers"
+     ],
+     [
+          "MN12",
+          "beings (satta)",
+          "Buddha knows conviction/disposition of beings"
+     ],
+     [
+          "MN12",
+          "concentration (samādhi)",
+          "Buddha knows "
+     ],
+     [
+          "MN12",
+          "Dhamma",
+          "not leading to the end of suffering"
+     ],
+     [
+          "MN12",
+          "divine ear (dibbāsota)",
+          "Buddha having"
+     ],
+     [
+          "MN12",
+          "elements (dhātu)",
+          "Buddha knows world with elements"
+     ],
+     [
+          "MN12",
+          "faculties (indriya)",
+          "Buddha knows faculties of beings"
+     ],
+     [
+          "MN12",
+          "jhānas",
+          "Buddha knows "
+     ],
+     [
+          "MN12",
+          "knower of the world",
+          "as power of a Tathāgata"
+     ],
+     [
+          "MN12",
+          "knowledge of destruction of the taints (āsavakkhayañāṇa)",
+          "as power of a Tathāgata"
+     ],
+     [
+          "MN12",
+          "knowledge of passing away and rebirth of beings (cutūpapātañāna)",
+          "as power of a Tathāgata"
+     ],
+     [
+          "MN12",
+          "knowledges, three (vijjā)",
+          "as power of a Tathāgata"
+     ],
+     [
+          "MN12",
+          "liberations, eight (vimokkha)",
+          "Buddha knows "
+     ],
+     [
+          "MN12",
+          "mind reading",
+          "Buddha’s ability"
+     ],
+     [
+          "MN12",
+          "possible and impossible (ṭhāna aṭṭhāna)",
+          "power of a Tathāgata"
+     ],
+     [
+          "MN12",
+          "powers of a Tathāgata (tathāgatabala)",
+          "ten"
+     ],
+     [
+          "MN12",
+          "results of actions",
+          "knowing is a power of a Tathāgata"
+     ],
+     [
+          "MN12",
+          "Sunakkhatta, Ven. ",
+          "having disrobed"
+     ],
+     [
+          "MN12",
+          "assemblies",
+          "eight kinds"
+     ],
+     [
+          "MN12",
+          "lions roar",
+          "of the Buddha"
+     ],
+     [
+          "MN12",
+          "logic (takka)",
+          "accusation of Buddha’s teaching being worked out by"
+     ],
+     [
+          "MN12",
+          "obstructions (antarāyikā dhammā)",
+          "not really obstructions"
+     ],
+     [
+          "MN12",
+          "psychic powers (iddhi)",
+          "Buddha having"
+     ],
+     [
+          "MN12",
+          "realms (gati)",
+          "Buddha knows paths that lead to"
+     ],
+     [
+          "MN12",
+          "recollection of past lives",
+          "as power of a Tathāgata"
+     ],
+     [
+          "MN12",
+          "self-assurances (vesārajja)",
+          "Tathāgata has four"
+     ],
+     [
+          "MN12",
+          "world, the",
+          "Buddha knows world with elements"
+     ],
+     [
+          "MN12",
+          "wrong view (micchā diṭṭhi)",
+          "leading to hell"
      ],
      [
           "MN21",

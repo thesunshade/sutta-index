@@ -103,6 +103,12 @@ export const indexObject ={
                          "MN4"
                     ],
                     "xrefs": []
+               },
+               "person who is attains liberation simile for person with wrong view going to hell": {
+                    "locators": [
+                         "MN12"
+                    ],
+                    "xrefs": []
                }
           },
           "accomplishment in diligence (appamādasampadā)": {
@@ -291,6 +297,12 @@ export const indexObject ={
                          "SN46.3"
                     ],
                     "xrefs": []
+               },
+               "person who is attains liberation simile for person with wrong view going to hell": {
+                    "locators": [
+                         "MN12"
+                    ],
+                    "xrefs": []
                }
           },
           "accomplishment in wisdom (paññāsampadā)": {
@@ -303,6 +315,12 @@ export const indexObject ={
                "prevents fear": {
                     "locators": [
                          "MN4"
+                    ],
+                    "xrefs": []
+               },
+               "person who is attains liberation simile for person with wrong view going to hell": {
+                    "locators": [
+                         "MN12"
                     ],
                     "xrefs": []
                }
@@ -3696,6 +3714,7 @@ export const indexObject ={
                },
                "eight kinds": {
                     "locators": [
+                         "MN12",
                          "AN8.69"
                     ],
                     "xrefs": []
@@ -4340,7 +4359,17 @@ export const indexObject ={
                     "xrefs": [
                          "xref declaring enlightenment"
                     ]
-               }
+               },
+               "counter_value": 1
+          },
+          "attainments (samāpatti)": {
+               "Buddha knows": {
+                    "locators": [
+                         "MN12"
+                    ],
+                    "xrefs": []
+               },
+               "counter_value": 2
           },
           "attendant": {
                "of the Buddha": {
@@ -6191,6 +6220,7 @@ export const indexObject ={
           "beings (satta)": {
                "Buddha knows conviction/disposition of beings": {
                     "locators": [
+                         "MN12",
                          "AN10.21"
                     ],
                     "xrefs": []
@@ -8171,6 +8201,7 @@ export const indexObject ={
                },
                "false accusations against": {
                     "locators": [
+                         "MN12",
                          "MN55",
                          "Ud4.8"
                     ],
@@ -8197,6 +8228,7 @@ export const indexObject ={
                },
                "psychic powers": {
                     "locators": [
+                         "MN12",
                          "AN5.68",
                          "AN8.69",
                          "Ud7.9",
@@ -8691,6 +8723,7 @@ export const indexObject ={
                },
                "approaching different assemblies": {
                     "locators": [
+                         "MN12",
                          "AN8.69"
                     ],
                     "xrefs": []
@@ -8929,6 +8962,24 @@ export const indexObject ={
                "attainting enlightenment": {
                     "locators": [
                          "MN4"
+                    ],
+                    "xrefs": []
+               },
+               "no superhuman distinction": {
+                    "locators": [
+                         "MN12"
+                    ],
+                    "xrefs": []
+               },
+               "divine ear": {
+                    "locators": [
+                         "MN12"
+                    ],
+                    "xrefs": []
+               },
+               "mind reading": {
+                    "locators": [
+                         "MN12"
                     ],
                     "xrefs": []
                }
@@ -11081,6 +11132,12 @@ export const indexObject ={
                          "MN69"
                     ],
                     "xrefs": []
+               },
+               "Buddha knows": {
+                    "locators": [
+                         "MN12"
+                    ],
+                    "xrefs": []
                }
           },
           "concentration enlightenment factor": {
@@ -13000,7 +13057,8 @@ export const indexObject ={
                     "locators": [],
                     "xrefs": [
                          "xref escape (nissaraṇa)",
-                         "xref gratification (assāda)"
+                         "xref gratification (assāda)",
+                         "xref gratification, danger, escape"
                     ]
                },
                "of aggregates": {
@@ -14472,6 +14530,12 @@ export const indexObject ={
                          "MN75"
                     ],
                     "xrefs": []
+               },
+               "complete understanding of grasping": {
+                    "locators": [
+                         "MN11"
+                    ],
+                    "xrefs": []
                }
           },
           "desire (chanda)": {
@@ -15227,6 +15291,12 @@ export const indexObject ={
                "deep, hard to see, hard to understand, peaceful, sublime, beyond the scope of logic, subtle, comprehensible to the astute": {
                     "locators": [
                          "MN95"
+                    ],
+                    "xrefs": []
+               },
+               "not leading to the end of suffering": {
+                    "locators": [
+                         "MN12"
                     ],
                     "xrefs": []
                }
@@ -17442,6 +17512,12 @@ export const indexObject ={
                          "MN6"
                     ],
                     "xrefs": []
+               },
+               "Buddha having": {
+                    "locators": [
+                         "MN12"
+                    ],
+                    "xrefs": []
                }
           },
           "divine eye (dibbacakkhu)": {
@@ -18849,6 +18925,7 @@ export const indexObject ={
                },
                "Buddha knows world with elements": {
                     "locators": [
+                         "MN12",
                          "AN10.21"
                     ],
                     "xrefs": []
@@ -20096,7 +20173,8 @@ export const indexObject ={
                     "locators": [],
                     "xrefs": [
                          "xref danger (ādīnava)",
-                         "xref gratification (assāda)"
+                         "xref gratification (assāda)",
+                         "xref gratification, danger, escape"
                     ]
                },
                "from the born": {
@@ -20892,6 +20970,7 @@ export const indexObject ={
                },
                "Buddha knows faculties of beings": {
                     "locators": [
+                         "MN12",
                          "AN10.21"
                     ],
                     "xrefs": []
@@ -29041,6 +29120,12 @@ export const indexObject ={
                          "MN9"
                     ],
                     "xrefs": []
+               },
+               "complete understanding of": {
+                    "locators": [
+                         "MN11"
+                    ],
+                    "xrefs": []
                }
           },
           "grass": {
@@ -29072,7 +29157,8 @@ export const indexObject ={
                     "locators": [],
                     "xrefs": [
                          "xref danger (ādīnava)",
-                         "xref escape (nissaraṇa)"
+                         "xref escape (nissaraṇa)",
+                         "xref gratification, danger, escape"
                     ]
                },
                "of aggregates": {
@@ -35860,6 +35946,12 @@ export const indexObject ={
                          "MN8"
                     ],
                     "xrefs": []
+               },
+               "Buddha knows": {
+                    "locators": [
+                         "MN12"
+                    ],
+                    "xrefs": []
                }
           },
           "Jīvaka Komārabhacca, householder": {
@@ -36744,6 +36836,7 @@ export const indexObject ={
                },
                "as power of a Tathāgata": {
                     "locators": [
+                         "MN12",
                          "AN10.21"
                     ],
                     "xrefs": []
@@ -37043,6 +37136,7 @@ export const indexObject ={
                },
                "as power of a Tathāgata": {
                     "locators": [
+                         "MN12",
                          "AN10.21"
                     ],
                     "xrefs": []
@@ -37114,6 +37208,7 @@ export const indexObject ={
                },
                "as power of a Tathāgata": {
                     "locators": [
+                         "MN12",
                          "AN10.21"
                     ],
                     "xrefs": []
@@ -37223,6 +37318,7 @@ export const indexObject ={
                },
                "as power of a Tathāgata": {
                     "locators": [
+                         "MN12",
                          "AN10.21"
                     ],
                     "xrefs": []
@@ -38461,6 +38557,12 @@ export const indexObject ={
                          "MN77"
                     ],
                     "xrefs": []
+               },
+               "Buddha knows": {
+                    "locators": [
+                         "MN12"
+                    ],
+                    "xrefs": []
                }
           },
           "liberations, peaceful (santā vimokkhā)": {
@@ -38642,6 +38744,7 @@ export const indexObject ={
                "of the Buddha": {
                     "locators": [
                          "MN11",
+                         "MN12",
                          "AN3.64",
                          "AN5.99",
                          "AN6.64",
@@ -39162,6 +39265,12 @@ export const indexObject ={
                "spiritual claims based on": {
                     "locators": [
                          "MN100"
+                    ],
+                    "xrefs": []
+               },
+               "accusation of Buddha’s teaching being worked out by": {
+                    "locators": [
+                         "MN12"
                     ],
                     "xrefs": []
                }
@@ -42513,6 +42622,7 @@ export const indexObject ={
                },
                "Buddha’s ability": {
                     "locators": [
+                         "MN12",
                          "Iti20",
                          "Iti21"
                     ],
@@ -46932,6 +47042,14 @@ export const indexObject ={
                     "xrefs": []
                }
           },
+          "obstructions (antarāyikā dhammā)": {
+               "not really obstructions": {
+                    "locators": [
+                         "MN12"
+                    ],
+                    "xrefs": []
+               }
+          },
           "oceans": {
                "": {
                     "locators": [],
@@ -50617,6 +50735,7 @@ export const indexObject ={
                },
                "power of a Tathāgata": {
                     "locators": [
+                         "MN12",
                          "AN10.21"
                     ],
                     "xrefs": []
@@ -50925,6 +51044,7 @@ export const indexObject ={
                },
                "ten": {
                     "locators": [
+                         "MN12",
                          "AN10.21"
                     ],
                     "xrefs": []
@@ -52056,6 +52176,12 @@ export const indexObject ={
                          "MN6"
                     ],
                     "xrefs": []
+               },
+               "Buddha having": {
+                    "locators": [
+                         "MN12"
+                    ],
+                    "xrefs": []
                }
           },
           "Pukkusāti, Ven.": {
@@ -52969,6 +53095,7 @@ export const indexObject ={
                },
                "Buddha knows paths that lead to": {
                     "locators": [
+                         "MN12",
                          "MN57",
                          "AN10.21"
                     ],
@@ -53670,6 +53797,7 @@ export const indexObject ={
                },
                "as power of a Tathāgata": {
                     "locators": [
+                         "MN12",
                          "AN10.21"
                     ],
                     "xrefs": []
@@ -55169,6 +55297,7 @@ export const indexObject ={
                },
                "knowing is a power of a Tathāgata": {
                     "locators": [
+                         "MN12",
                          "AN10.21"
                     ],
                     "xrefs": []
@@ -58217,6 +58346,14 @@ export const indexObject ={
                     "xrefs": []
                },
                "counter_value": 2
+          },
+          "self-assurances (vesārajja)": {
+               "Tathāgata has four": {
+                    "locators": [
+                         "MN12"
+                    ],
+                    "xrefs": []
+               }
           },
           "self-assured (visārada)": {
                "qualities that make one": {
@@ -64010,6 +64147,12 @@ export const indexObject ={
                "asking about overestimation": {
                     "locators": [
                          "MN105"
+                    ],
+                    "xrefs": []
+               },
+               "having disrobed": {
+                    "locators": [
+                         "MN12"
                     ],
                     "xrefs": []
                }
@@ -71383,6 +71526,7 @@ export const indexObject ={
                },
                "Buddha knows world with elements": {
                     "locators": [
+                         "MN12",
                          "AN10.21"
                     ],
                     "xrefs": []
@@ -72000,6 +72144,7 @@ export const indexObject ={
                },
                "leading to hell": {
                     "locators": [
+                         "MN12",
                          "AN2.27",
                          "AN4.273",
                          "AN6.81",
