@@ -8959,6 +8959,24 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
+               "attaining enlightenment": {
+                    "locators": [
+                         "MN100"
+                    ],
+                    "xrefs": []
+               },
+               "path to enlightenment": {
+                    "locators": [
+                         "MN100"
+                    ],
+                    "xrefs": []
+               },
+               "austerity practices": {
+                    "locators": [
+                         "MN100"
+                    ],
+                    "xrefs": []
+               },
                "attainting enlightenment": {
                     "locators": [
                          "MN4"

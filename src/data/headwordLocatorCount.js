@@ -5,7 +5,7 @@ export const indexObject =[
      ],
      [
           "Buddha, the",
-          133
+          134
      ],
      [
           "death (maraṇa)",

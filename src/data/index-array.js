@@ -36496,16 +36496,6 @@ export const indexArray =[
      ],
      [
           "MN5",
-          "blemish (aṅgaṇa)",
-          "self reflection"
-     ],
-     [
-          "MN5",
-          "Dhamma teaching",
-          "unwholesome wish to teach"
-     ],
-     [
-          "MN5",
           "accusations",
           "wanting to be accused privately, by an equal"
      ],
@@ -36531,8 +36521,18 @@ export const indexArray =[
      ],
      [
           "MN5",
+          "blemish (aṅgaṇa)",
+          "self reflection"
+     ],
+     [
+          "MN5",
           "carpenters",
           "simile for Ven. Sāriputta helping"
+     ],
+     [
+          "MN5",
+          "Dhamma teaching",
+          "unwholesome wish to teach"
      ],
      [
           "MN5",
@@ -36931,26 +36931,6 @@ export const indexArray =[
      ],
      [
           "MN8",
-          "celibacy",
-          "overcoming incelibacy"
-     ],
-     [
-          "MN8",
-          "covetousness (abhijjhā)",
-          "giving up"
-     ],
-     [
-          "MN8",
-          "cruelty (hiṁsa, vihiṁsā)",
-          "overcoming"
-     ],
-     [
-          "MN8",
-          "Dhamma teaching",
-          "when not ready"
-     ],
-     [
-          "MN8",
           "admonishment",
           "being difficult to"
      ],
@@ -36968,6 +36948,11 @@ export const indexArray =[
           "MN8",
           "avoiding (parikkamana)",
           "good to avoid the bad"
+     ],
+     [
+          "MN8",
+          "celibacy",
+          "overcoming incelibacy"
      ],
      [
           "MN8",
@@ -36991,6 +36976,16 @@ export const indexArray =[
      ],
      [
           "MN8",
+          "covetousness (abhijjhā)",
+          "giving up"
+     ],
+     [
+          "MN8",
+          "cruelty (hiṁsa, vihiṁsā)",
+          "overcoming"
+     ],
+     [
+          "MN8",
           "deceit (kuhaka/māyāvī)",
           "overcoming"
      ],
@@ -36998,6 +36993,11 @@ export const indexArray =[
           "MN8",
           "deviousness (saṭha)",
           "overcoming"
+     ],
+     [
+          "MN8",
+          "Dhamma teaching",
+          "when not ready"
      ],
      [
           "MN8",
@@ -37961,11 +37961,6 @@ export const indexArray =[
      ],
      [
           "MN12",
-          "beings (satta)",
-          "Buddha knows conviction/disposition of beings"
-     ],
-     [
-          "MN12",
           "concentration (samādhi)",
           "Buddha knows "
      ],
@@ -37973,6 +37968,11 @@ export const indexArray =[
           "MN12",
           "Dhamma",
           "not leading to the end of suffering"
+     ],
+     [
+          "MN12",
+          "beings (satta)",
+          "Buddha knows conviction/disposition of beings"
      ],
      [
           "MN12",
@@ -38016,11 +38016,6 @@ export const indexArray =[
      ],
      [
           "MN12",
-          "liberations, eight (vimokkha)",
-          "Buddha knows "
-     ],
-     [
-          "MN12",
           "mind reading",
           "Buddha’s ability"
      ],
@@ -38036,11 +38031,6 @@ export const indexArray =[
      ],
      [
           "MN12",
-          "results of actions",
-          "knowing is a power of a Tathāgata"
-     ],
-     [
-          "MN12",
           "Sunakkhatta, Ven. ",
           "having disrobed"
      ],
@@ -38048,6 +38038,11 @@ export const indexArray =[
           "MN12",
           "assemblies",
           "eight kinds"
+     ],
+     [
+          "MN12",
+          "liberations, eight (vimokkha)",
+          "Buddha knows "
      ],
      [
           "MN12",
@@ -38078,6 +38073,11 @@ export const indexArray =[
           "MN12",
           "recollection of past lives",
           "as power of a Tathāgata"
+     ],
+     [
+          "MN12",
+          "results of actions",
+          "knowing is a power of a Tathāgata"
      ],
      [
           "MN12",
@@ -45603,6 +45603,21 @@ export const indexArray =[
           "MN99",
           "work",
           "much in lay life, less in monastic life"
+     ],
+     [
+          "MN100",
+          "Buddha, the",
+          "attaining enlightenment"
+     ],
+     [
+          "MN100",
+          "Buddha, the",
+          "austerity practices"
+     ],
+     [
+          "MN100",
+          "Buddha, the",
+          "path to enlightenment"
      ],
      [
           "MN100",
