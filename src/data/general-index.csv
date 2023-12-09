@@ -14,6 +14,12 @@ disputes	about Dhamma	SN56.9
 talk (kathā)		SN56.10
 speech	useless (tiraccha)	SN56.10
 oceans		xref Ganges river
+eggs		xref reproduction (yoni)
+womb (gabbho)		xref reproduction (yoni)
+charnel ground		xref corpse
+corpse		xref charnel ground
+pits		xref sewer
+cesspit		xref sewer
 eyes		xref divine eye (dibbacakkhu)
 application of mind (manasikāra)		xref attention (manasikāra)
 eyes		xref eye of wisdom (paññācakkhu)
@@ -820,7 +826,8 @@ fourth jhāna		xref jhānas
 esteem (sambhāveti)		xref respect (gārava)
 respect (gārava)		xref esteem (sambhāveti)
 listening to Dhamma		xref Dhamma teaching
-heart (citta)		xref mind
+heart (citta)		xref mind (citta)
+heart (cetas)		xref mind (cetas)
 young person		xref youth
 women		xref youth
 men		xref youth
@@ -1273,20 +1280,20 @@ heedfulness (appamāda)	as always praised	Dhp30
 heedfulness (appamāda)	simile of fire	Dhp31
 heedlessness (pamāda)	seeing fear in	Dhp31
 heedlessness (pamāda)	seeing fear in	Dhp32
-mind		CUSTOM:Dhp:Dhammapada Chapter 3:suttacentral.net/dhp33-43/en/sujato
-mind	simile of arrow maker	Dhp33
-mind	as hard to control	Dhp33
-mind	as hard to control	Dhp34
-mind	simile of fish	Dhp34
-mind	tamed leads to happiness	Dhp35
-mind	as subtle	Dhp36
-mind	guarded leads to happiness	Dhp36
+mind (citta)		CUSTOM:Dhp:Dhammapada Chapter 3:suttacentral.net/dhp33-43/en/sujato
+mind (citta)	simile of arrow maker	Dhp33
+mind (citta)	as hard to control	Dhp33
+mind (citta)	as hard to control	Dhp34
+mind (citta)	simile of fish	Dhp34
+mind (citta)	tamed leads to happiness	Dhp35
+mind (citta)	as subtle	Dhp36
+mind (citta)	guarded leads to happiness	Dhp36
 faith (saddhā)	lack of prevents wisdom	Dhp37
 body	like a pot	Dhp40
-mind	guarded like a citadel	Dhp40
+mind (citta)	guarded like a citadel	Dhp40
 death (maraṇa)	comes quickly	Dhp41
-mind	untrained worse than enemy	Dhp42
-mind	trained better than family	Dhp43
+mind (citta)	untrained worse than enemy	Dhp42
+mind (citta)	trained better than family	Dhp43
 body	simile of foam	Dhp46
 death (maraṇa)	simile of flood	Dhp47
 alms gathering practice	simile of bee and flower	Dhp49
@@ -1413,8 +1420,10 @@ chariots	simile for body	Dhp151
 body (sarīra)	like chariot 	Dhp151
 unlearned person	like an ox	Dhp152
 oxen	simile for unlearned person	Dhp152
-first verses of Buddha		Dhp153
+first verses of Buddha	housebuilder simile	Dhp153
 rebirth	painful	Dhp153
+house builder	simile of 	Dhp153
+house builder	simile of 	Dhp154
 holy life	rejected in youth	Dhp155
 holy life	rejected in youth	Dhp156
 old age (jarā)	like cranes in dried pond	Dhp155 
@@ -1668,11 +1677,11 @@ learning	honor your teacher	Dhp392
 Dhamma teachers	should honor	Dhp393
 external appearance	as deceiving	Dhp393
 external appearance	as deceiving	Dhp394
-enduring abuse		Dhp399
+enduring abuse	without anger	Dhp399
 patience (khanti)	powerful army	Dhp399
-solitary life		Dhp404
+solitary life	true brahmin	Dhp404
 hope (āsa)	no need for	Dhp410
-deathless (amata)		Dhp411
+deathless (amata)	plunging into	Dhp411
 recollection (anussati)	of past lives	Dhp423
 Buddha, the	time after enlightenment	Ud1.1
 meditation	for seven days	Ud1.1
@@ -1742,7 +1751,11 @@ past actions	results of	Ud3.1
 enduring (adhivāsana)	painful feelings	Ud3.1
 holy life	not delighting in	Ud3.2
 motivation	bad	Ud3.2
-imperturbable meditation (āneñjasamādhi)		Ud3.3
+noise	Buddha dismisses noisy monks	Ud3.3
+socializing	dismissed by the Buddha for being noisy	Ud3.3
+Ānanda, Ven.	explaining noisy monks to Buddha	Ud3.3
+imperturbable meditation (āneñjasamādhi)	Buddha practicing	Ud3.3
+mountains	simile for monks who have overcome sensuality	Ud3.3
 arahants	like mountain	Ud3.4
 mountains	simile for arahants	Ud3.4
 Sāriputta, Ven.	meditating like a mountain	Ud3.4
@@ -1781,7 +1794,7 @@ monastic life	wrongly practiced	Ud4.2
 almsfood	from the poor	Ud4.3
 death (maraṇa)	by murder	Ud4.3
 death (maraṇa)	immediately after giving	Ud4.3
-mind	wrongly directed worse than enemy	Ud4.3
+mind (citta)	wrongly directed worse than enemy	Ud4.3
 yakkhas	attacks monk	Ud4.4
 arahants	without psychic powers	Ud4.4
 Sāriputta, Ven.	attacked by yakkha	Ud4.4
@@ -1936,11 +1949,11 @@ schisms	leading to hell	Iti18
 harmony in Saṅgha (saṅghasāmaggī)	as great happiness	Iti19
 harmony in Saṅgha (saṅghasāmaggī)	as cause of confidence	Iti19
 harmony in Saṅgha (saṅghasāmaggī)	leading to heaven	Iti19
-mind	corrupted mind leads to hell	Iti20
+mind (citta)	corrupted mind leads to hell	Iti20
 mind reading	Buddha’s ability	Iti20
 rebirth	corrupted mind	Iti20
 hell (niraya)	corrupted mind leads to	Iti20
-mind	pure mind leads to heaven	Iti21
+mind (citta)	pure mind leads to heaven	Iti21
 mind reading	Buddha’s ability	Iti21
 rebirth	pure mind	Iti21
 heaven (sagga)	pure mind leads to	Iti21
@@ -2464,7 +2477,7 @@ gifts, specific types of	cakes	Vv13
 gifts, specific types of	cakes	Vv14
 devas	once returners	Vv15
 uposatha	resulting in heaven	Vv15
-gods that delight in creation (nimmānaratī devā)		Vv16
+gods that delight in creation (nimmānaratī devā)	practice leading to	Vv16
 devas	with psychic powers	Vv16
 devas	stream-enterers	Vv16
 once returner (sakadāgāmī)	gods that have become	Vv15
@@ -2705,7 +2718,7 @@ Māra	army of pushed away like flood 	Thag1.7
 nature	as pleasing	Thag1.13
 arahants	days pass peacefully	Thag1.16
 sleep	fondness for	Thag1.17
-perception of skeleton (aṭṭhisañña)		Thag1.18
+perception of skeleton (aṭṭhisañña)	for removing sensual desire	Thag1.18
 self-taming	wise tame themselves	Thag1.19
 self-taming	like arrow maker	Thag1.19
 self-taming	like irrigator	Thag1.19
@@ -2723,15 +2736,16 @@ skillfulness (kusala)	towards all as a mother towards child	Thag1.33
 monastic life	avoiding women	Thag1.34
 monastic life	rightly practiced	Thag1.36
 travel	undisciplined	Thag1.37
-psychic powers (iddhi)		Thag1.38
+psychic powers (iddhi)	river standing still	Thag1.38
+rivers	standing still by psychic powers	Thag1.38
 arahants	praised by gods	Thag1.38
-urgency (saṁvega)		Thag1.39
-urgency (saṁvega)	like ones head on fire	Thag1.39
-urgency (saṁvega)	like ones head on fire	Thag1.40
+urgency	to give up sensual desire	Thag1.39
+urgency	like ones head on fire	Thag1.39
+urgency	like ones head on fire	Thag1.40
 farming	giving up	Thag1.43
 mistakes	recovering like thoroughbred	Thag1.45
 going forth (pabbajja)	out of faith	Thag1.46
-devoted to oneness (ekattanirata)		Thag1.49
+unity (ekatta)	devoted to (ekattanirata)	Thag1.49
 seclusion	without a partner (adutio)	Thag1.54
 kutis	not built in vain	Thag1.56
 kutis	attachment to	Thag1.57
@@ -2746,7 +2760,7 @@ Dhamma teaching	to householders	Thag1.65
 wisdom (paññā)	higher than virtue	Thag1.70
 divine messengers (devadūta)	reason to go forth	Thag1.73
 association	with good people	Thag1.75
-mind	training like elephant trainer does	Thag1.77
+mind (citta)	training like elephant trainer does	Thag1.77
 sleep	fondness for	Thag1.84
 socializing	leaving not time for practice	Thag1.84
 Buddha, the	open-handed	Thag1.86
@@ -2771,7 +2785,7 @@ honor	subtle dart	Thag2.2
 food	doesn’t lead to peace	Thag2.2
 mind	like a monkey	Thag2.3
 speech	speaking little	Thag2.4
-mind	like poorly/well roofed house	Thag2.7
+mind (citta)	like poorly/well roofed house	Thag2.7
 women	danger for monks	Thag2.9
 external appearance	not most important	Thag2.10
 learning	eagerness to	Thag2.11
@@ -2780,13 +2794,13 @@ life	shortness of	Thag2.13
 association	with good people	Thag2.14
 association	with fools like floating on a small log at sea	Thag2.14
 attachments	to people	Thag2.15
-charnel ground contemplation (sivathikā)		Thag2.16
+charnel ground contemplation	example of	Thag2.16
 monastic life	few possessions	Thag2.17
 honor	source of jealousy	Thag2.17
-vanity (atimānī)		Thag2.19
+vanity (uddhata)	because of improper attention	Thag2.19
 criticism	wrongly directed	Thag2.20
 recollection (anussati)	of past lives	Thag2.23
-past lives, knowledge of (pubbenivāsānussatiñāṇa)		Thag2.23
+past lives, knowledge of	five hundred eons	Thag2.23
 enlightenment	while head being shaved	Thag2.25
 Dhamma	mirror	Thag2.26
 body	emptiness of	Thag2.26
@@ -2795,11 +2809,9 @@ lions roar	of disciples	Thag2.28
 lions roar	of disciples	Thag2.29
 learning	associating with good people	Thag2.30
 house builder	simile of 	Thag2.32
-house builder	simile of 	Dhp153
-house builder	simile of 	Dhp154
 Buddha, the	illness of 	Thag2.33
 learning	without practicing	Thag2.34
-mind	like steady rock	Thag2.36
+mind (citta)	like steady rock	Thag2.36
 annoyances	not bothered by	Thag2.36
 alms gathering practice	on elephant	Thag2.39
 sleepiness	in midst of Saṅgha	Thag2.40
@@ -2835,16 +2847,16 @@ Rāhula, Ven.		Thag4.8
 dangers	family life	Thag4.9
 nature	as pleasing	Thag4.11
 determination	not to move until enlightened	Thag4.12
-charnel ground contemplation (sivathikā)		Thag5.1
+charnel ground contemplation (sivathikā)	woman’s body	Thag5.1
 promises	keeping	Thag5.2
 beautiful words without practicing	like flower without fragrance	Thag5.2
 beautiful words beneficial for the one who practices	like flower with fragrance	Thag5.2
-fire worship (aggika)		Thag5.6
+fire worship (aggika)	uselessness of	Thag5.6
 impurity	as purity	Thag5.6
 bathing	as ritual	Thag5.7
-recollection of Buddha (buddhānussati)		Thag5.8
-mind	caging like an elephant	Thag5.9
-mind	trained like a horse	Thag5.9
+recollection of Buddha (buddhānussati)	to overcome difficulty	Thag5.8
+mind (citta)	caging like an elephant	Thag5.9
+mind (citta)	trained like a horse	Thag5.9
 mindfulness (sati)	binding with	Thag5.9
 listening to Dhamma	fault-finding	Thag5.10
 reciting Dhamma	to the Buddha	Thag5.11
@@ -2853,7 +2865,7 @@ learning	living in line with what has been learned	Thag5.12
 recollection of Buddha (buddhānussati)	for happiness	Thag6.2
 recollection of Dhamma (dhammānussati)	for happiness	Thag6.2
 recollection of Saṅgha (saṅghānussati)	for happiness	Thag6.2
-brahmaviharas		Thag6.2
+brahmaviharas	overcoming difficulties	Thag6.2
 respect (gārava)	for spiritual companions	Thag6.3
 charnel ground contemplation (sivathikā)	womans’ body	Thag6.4
 perception of ugliness (asubhasaññā)	examining body inside and out	Thag6.4
@@ -2998,8 +3010,8 @@ proliferation (papañca)	giving up	Thag17.2
 arahants	residence of	Thag17.2
 admonishment	like guide to hidden treasure	Thag17.2
 psychic powers (iddhi)	not required for arahant	Thag17.2
-noble silence (ariya tuṇhībhāva)		Thag17.2
-mind	guarded like a citadel	Thag17.2
+noble silence (ariya tuṇhībhāva)	without vitakka	Thag17.2
+self-guarding	like a citadel	Thag17.2
 bad people (asappurisa)	becoming good	Thag17.2
 good people (sappurisa)	becoming bad	Thag17.2
 association	with good people	Thag17.3
@@ -3018,15 +3030,15 @@ conceit (māna)		Thag18.1
 robes	like monkey in lion skin not worthy of	Thag18.1
 arahants	praised by gods	Thag18.1
 seclusion	desire for	Thag19.1
-urgency (saṁvega)		Thag19.1
-mind	like a monkey	Thag19.1
+urgency	for practice	Thag19.1
+mind (citta)	like a monkey	Thag19.1
 encouragement	to oneself	Thag19.1
 doubt (vicikicchā)		Thag19.1
-mind	like a traveller	Thag19.1
+mind (citta)	like a traveller	Thag19.1
 sense pleasures (kāma, kāmaguṇa)	giving up like vomiting	Thag19.1
 rebirth	mind causing	Thag19.1
 cat-skin bag	mind like a	Thag1.19
-mind	to a meditation object like elephant to post	Thag1.19
+mind (citta)	to a meditation object like elephant to post	Thag1.19
 forest dwelling	Ven. Mahāmogglallāna praising	Thag20.1
 alms gathering practice	Ven. Mahāmogglallāna praising	Thag20.1
 perception of ugliness (asubhasaññā)	body	Thag20.1
@@ -3728,7 +3740,7 @@ body	mindfulness of breathing	MN118
 bodily formation (kāyasaṅkhāra)	mindfulness of breathing	MN118
 rapture (pīti)	mindfulness of breathing	MN118
 happiness (sukha)	mindfulness of breathing (bliss)	MN118
-mind	mindfulness of breathing	MN118
+mind (citta)	mindfulness of breathing	MN118
 concentration (samādhi)	mindfulness of breathing	MN118
 impermanence meditation (aniccānupassī)	mindfulness of breathing	MN118
 cessation (nirodha)	mindfulness of breathing	MN118
@@ -3776,7 +3788,7 @@ bath powder	simile for first jhāna	MN119
 lakes	simile for second jhāna	MN119
 water lilly	simile for third jhāna	MN119
 lotus	simile for third jhāna	MN119
-mind	pure and bright in fourth jhāna	MN119
+mind (citta)	pure and bright in fourth jhāna	MN119
 cloth	white, covering person, simile for fourth jhāna	MN119
 mindfulness of body (kāyagatāsati)	includes all skillful qualities	MN119
 skillful qualities (kusala dhamma)	all developed with mindfulness of the body, like the ocean includes all streams	MN119
@@ -4656,25 +4668,25 @@ dullness and drowsiness (thinamiddha)	cause for removing	AN1.18
 restlessness and remorse (uddhaccakukkucca)	cause for removing	AN1.19
 doubt (vicikicchā)	removed by proper attention	AN1.20
 proper attention (yoniso manasikāra)	cause for removing doubt	AN1.20
-mind	undeveloped mind is useless 	AN1.21
-mind	developed mind is workable 	AN1.22
-mind	undeveloped mind is very harmful 	AN1.23
-mind	developed mind is very beneficial	AN1.24
-mind	undeveloped mind brings suffering 	AN1.29
-mind	developed mind brings happiness 	AN1.30
-mind	tamed mind is very beneficial 	AN1.32
-mind	wild mind is very harmful 	AN1.31
-mind	pointing wrong way like spike of rice	AN1.41
-mind	corrupted mind leads to hell	AN1.43
+mind (citta)	undeveloped mind is useless 	AN1.21
+mind (citta)	developed mind is workable 	AN1.22
+mind (citta)	undeveloped mind is very harmful 	AN1.23
+mind (citta)	developed mind is very beneficial	AN1.24
+mind (citta)	undeveloped mind brings suffering 	AN1.29
+mind (citta)	developed mind brings happiness 	AN1.30
+mind (citta)	tamed mind is very beneficial 	AN1.32
+mind (citta)	wild mind is very harmful 	AN1.31
+mind (citta)	pointing wrong way like spike of rice	AN1.41
+mind (citta)	corrupted mind leads to hell	AN1.43
 hell (niraya)	corrupted mind leads to	AN1.43
-mind	pure mind leads to heaven	AN1.44
+mind (citta)	pure mind leads to heaven	AN1.44
 heaven (sagga)	pure mind leads to	AN1.44
-mind	clouded like cloudy lake	AN1.45
-mind	unclouded like transparent lake	AN1.46
-mind	like workable wood	AN1.47
-mind	quick to change	AN1.48
-mind	as radiant but corrupted	AN1.49
-mind	as radiant but corrupted	AN1.51
+mind (citta)	clouded like cloudy lake	AN1.45
+mind (citta)	unclouded like transparent lake	AN1.46
+mind (citta)	like workable wood	AN1.47
+mind (citta)	quick to change	AN1.48
+mind (citta)	as radiant but corrupted	AN1.49
+mind (citta)	as radiant but corrupted	AN1.51
 loving-kindness (mettā)	for time of a fingersnap	AN1.53
 loving-kindness (mettā)	for time of a fingersnap	AN1.54
 loving-kindness (mettā)	for time of a fingersnap	AN1.55
@@ -5179,8 +5191,8 @@ repaying help	some help is difficult to repay	AN3.24
 irritability (kodhana)	like an open sore	AN3.25
 temper	like an open sore	AN3.25
 advice	people who don’t take well	AN3.25
-mind	like lightning	AN3.25
-mind	like diamond	AN3.25
+mind (citta)	like lightning	AN3.25
+mind (citta)	like diamond	AN3.25
 association	whom to not associate with	AN3.26
 association	whom to associate with	AN3.26
 Dhamma discussion	easy to talk to similar people	AN3.26
@@ -5398,7 +5410,7 @@ recollection of Buddha (buddhānussati)	on uposatha	AN3.70
 recollection of Dhamma (dhammānussati)	on uposatha	AN3.70
 recollection of Saṅgha (saṅghānussati)	on uposatha	AN3.70
 recollection of virtue (sīlānussati)	on uposatha	AN3.70
-mind	corrupted cleansed by effort	AN3.70
+mind (citta)	corrupted cleansed by effort	AN3.70
 recollection of deities (devatānussati)	on uposatha	AN3.70
 precepts, eight	kept by noble disciples as a recollection on uposatha	AN3.70
 uposatha	results in heavenly rebirth	AN3.70
@@ -5504,15 +5516,16 @@ bad actions	like small time thief	AN3.100
 bad actions	like butcher can and cannot punish some	AN3.100
 results of actions	not fixed	AN3.100
 gold	as simile for purifying mind	AN3.101
-mind	purifying like purifying gold	AN3.101
-mind	purifying gradually	AN3.101
+mind (citta)	purifying like purifying gold	AN3.101
+mind (citta)	purifying gradually	AN3.101
 gradual training (anupubbasikkhā)	purifying the mind, step by step	AN3.101
-mind reading		AN3.101
+mind reading	how to obtain	AN3.101
 concentration (samādhi)	exclusively focused on may lead to laziness	AN3.102
 exertion (paggaha)	exclusively focused on may lead to restlessness	AN3.102
 equanimity (upekkhā)	exclusively focused on may not lead to concentration	AN3.102
-sign of concentration (samādhinimitta)		AN3.102
-mind	purifying like purifying gold	AN3.102
+sign of concentration (samādhinimitta)	leading to laziness	AN3.102
+laziness (kosajja)	from sign of concentration	AN3.102
+mind (citta)	purifying like purifying gold	AN3.102
 Bodhisatta	reflection on gratification, danger, escape	AN3.103
 gratification (assāda)	definition	AN3.103
 danger (ādīnava)	definition	AN3.103
@@ -5533,10 +5546,8 @@ smiling	enough to do when pleased	AN3.107
 sleep	is never satisfied	AN3.108
 alcohol	desire for is never satisfied	AN3.108
 sexual intercourse	desire for is never satisfied	AN3.108
-mind	unprotected like a bad roof	AN3.109
+mind (citta)	unprotected like a bad roof	AN3.109
 death (maraṇa)	good when mind is protected	AN3.109
-Anāthapiṇḍika, householder		AN3.109
-Anāthapiṇḍika, householder		AN3.110
 lust (rāga)	as a fetter	AN3.112
 lust (rāga)	for things in past, present, future	AN3.112
 celibacy	false clam of	AN3.113
@@ -5563,7 +5574,7 @@ accomplishment in mind (cittasampadā)	leads to good rebirth like loaded dice	AN
 accomplishment in view (diṭṭhisampadā)	leads to good rebirth like loaded dice	AN3.118
 livelihood	accomplishment in	AN3.119
 accomplishment in virtue (sīlasampadā)		AN3.117
-mind	accomplishment in	AN3.117
+mind (citta)	accomplishment in	AN3.117
 right view (sammā diṭṭhi)	accomplishment in	AN3.117
 purity (soceyya)	three types of, definition	AN3.120
 hindrances (nīvaraṇa)	seeing in the mind	AN3.121
@@ -6116,14 +6127,14 @@ body	attachment to causes fear of death	AN4.184
 brahmins	truths	AN4.185
 “I’m better”, “I’m equal”, “I’m worse”	simply practicing	AN4.185
 world, the	led around by mind	AN4.186
-mind	leads the world on	AN4.186
+mind (citta)	leads the world on	AN4.186
 learned (bahussutā)	definition	AN4.186
 astute person (paṇḍita)	definition	AN4.186
 Vassakāra, brahmin	asking about bad people and good people	AN4.187
 good people (sappurisa)	can know good and bad	AN4.187
 bad people (asappurisa)	cannot know good and bad	AN4.187
 Upaka Maṇḍikāputt	complaining about people	AN4.188
-Ajātasattu, king		AN4.188
+Ajātasattu, king	praising the Buddha	AN4.188
 liberations, eight (vimokkha)	to be realized with meditative experience	AN4.189
 knowledge of passing away and rebirth of beings (cutūpapātañāna)	realized with vision	AN4.189
 past lives, knowledge of (pubbenivāsānussatiñāṇa)	realized with recollection	AN4.189
@@ -7566,7 +7577,7 @@ contentment (santuṭṭhi)	removes discontent	AN6.114
 situational awareness (sampajañña)	removes lack of	AN6.114
 greed, many wishes (mahiccha)	removed by having few wishes	AN6.114
 few wishes (appiccha)	removes having many wishes	AN6.114
-mind	distracted removed by mindfulness of breathing	AN6.115
+mind (cetas)	distracted removed by mindfulness of breathing	AN6.115
 mindfulness of breathing (ānāpānassati)	removes distracted mind	AN6.115
 admonishment	being difficult to	AN6.115
 friends, bad	overcome by having good friends	AN6.115
@@ -8885,32 +8896,32 @@ false accusations	Ven. Sāriputta accused	AN9.11
 mindfulness of body (kāyagatāsati)	one who has cannot attack without apologizing	AN9.11
 earth, the	not horrified, repelled, and disgusted because of unclean things	AN9.11
 earth, the	simile for mind	AN9.11
-mind	like the earth	AN9.11
+mind (cetas)	like the earth	AN9.11
 water	not horrified, repelled, and disgusted because of unclean things	AN9.11
 water	simile for mind	AN9.11
-mind	like water 	AN9.11
+mind (cetas)	like water 	AN9.11
 water	mind like	AN9.11
 earth, the	mind like	AN9.11
 fire	not horrified, repelled, and disgusted because of unclean things	AN9.11
 fire	mind like	AN9.11
 fire	simile for mind	AN9.11
-mind	like fire	AN9.11
+mind (cetas)	like fire	AN9.11
 wind (vāyo)	mind like	AN9.11
 wind (vāyo)	not horrified, repelled, and disgusted because of unclean things	AN9.11
 wind (vāyo)	simile for mind	AN9.11
-mind	like wind	AN9.11
+mind (cetas)	like wind	AN9.11
 rag	not horrified, repelled, and disgusted because of unclean things	AN9.11
 rag	mind like	AN9.11
 rag	simile for mind	AN9.11
-mind	like a rag	AN9.11
+mind (cetas)	like a rag	AN9.11
 outcast (caṇḍāla)	boy or girl, humble	AN9.11
 outcast (caṇḍāla)	boy or girl, simile for mind	AN9.11
-mind	like outcast boy or girl	AN9.11
+mind (cetas)	like outcast boy or girl	AN9.11
 outcast (caṇḍāla)	mind like outcast boy or girl	AN9.11
 bull (usabha)	with horns cut, humble like	AN9.11
 bull (usabha)	mind like	AN9.11
 bull (usabha)	with cut horns, simile for mind	AN9.11
-mind	like bull with horns cut	AN9.11
+mind (cetas)	like bull with horns cut	AN9.11
 youth	freshly bathed, simile of repulsion towards body	AN9.11
 corpse	of snake or dog, simile of repulsion towards body	AN9.11
 rotten body (pūtikāya)	repulsiveness of	AN9.11
@@ -9096,7 +9107,7 @@ form realm (rūpabhava)	mind not liable to return to	AN9.26
 formless realm (arūpabhava)	mind not liable to return to	AN9.26
 sense restraint (indriyasaṁvara)	when mind is steady	AN9.26
 pillars	simile for well consolidated mind	AN9.26
-mind	like stone pillar	AN9.26
+mind (citta)	like stone pillar	AN9.26
 precepts, five	preventing dangers in present and future lives	AN9.27
 precepts, five	stream entry and	AN9.27
 stream-enterers (sotāpanna)	four factors of	AN9.27
@@ -10627,7 +10638,7 @@ bad actions	not doing, not suffering	AN10.219
 heart’s release by compassion (karuṇā cetovimutti)	would not do bad deeds	AN10.219
 heart’s release by rejoicing (muditā cetovimutti)	would not do bad deeds	AN10.219
 heart’s release by equanimity (upekkhā cetovimutti)	would not do bad deeds	AN10.219
-mind	core of mortal beings	AN10.219
+mind (citta)	core of mortal beings	AN10.219
 suffering (dukkha)	ending	AN10.219
 righteous conduct (dhammacārī)	cause for rebirth	AN10.220
 unrighteous conduct (adhammacārī)	cause for rebirth	AN10.220
@@ -12498,6 +12509,7 @@ jhānas	factors blocking	MN66
 formless liberations	not enough just to have	MN66
 fetters (saṁyojana)	giving up large and small	MN66
 dimension of neither perception nor non-perception (nevasaññanāsaññāyatana)	giving up even this	MN66
+Ānanda, Ven.	explaining noisy monks to Buddha	MN67
 Sāriputta, Ven.	leading noisy monks	MN67
 Moggallāna, Ven.	leading noisy monks	MN67
 socializing	dismissed by the Buddha for being noisy	MN67
@@ -12883,7 +12895,7 @@ bath powder	simile for first jhāna	MN77
 lakes	simile for second jhāna	MN77
 water lilly	simile for third jhāna	MN77
 lotus	simile for third jhāna	MN77
-mind	pure and bright in fourth jhāna	MN77
+mind (citta)	pure and bright in fourth jhāna	MN77
 cloth	white, covering person, simile for fourth jhāna	MN77
 elements, four great (cattāri mahābhūtāni)	tied to consciousness	MN77
 consciousness (viññāṇa)	tied to four great elements	MN77
@@ -13941,3 +13953,116 @@ Dhamma	not leading to the end of suffering	MN12
 obstructions (antarāyikā dhammā)	not really obstructions	MN12
 assemblies	eight kinds	MN12
 Buddha, the	approaching different assemblies 	MN12
+results of actions	Buddha understands	MN12
+practices (paṭipatti)	Buddha understands where they all lead	MN12
+world (loka)	Buddha understands	MN12
+Buddha, the	no one can blame	MN12
+reproduction (yoni)	four types of	MN12
+moisture	birth in	MN12
+spontaneous rebirth (opapātika)	definition	MN12
+realms (gati)	similes for	MN12
+pits	of glowing coals, simile for hell	MN12
+hell (niraya)	like pit of glowing coals	MN12
+sewer	simile for animal realm	MN12
+animal realm	like sewer	MN12
+trees	simile for ghost realm	MN12
+ghost realm	like tree with thin foliage	MN12
+trees	simile for human realm	MN12
+human birth	like tree with thick foliage	MN12
+palaces (pāsādā)	simile for heaven	MN12
+heaven (sagga)	like a palace	MN12
+nibbāna	like a lotus pond in forest	MN12
+ponds	simile for nibbāna	MN12
+mortification (tapas)	of the Buddha	MN12
+Buddha, the	self mortification of	MN12
+mortification (tapas)	various practices	MN12
+robes	various kinds	MN12
+beards	tearing out	MN12
+standing	ascetic practice	MN12
+beds	of thorns/spikes	MN12
+bathing	as ritual	MN12
+bathing	refusing to	MN12
+water	harming creatures in	MN12
+seclusion (paṭisallīna, vivitta)	Buddha’s practice of	MN12
+excrement	eating	MN12
+charnel ground living	Buddha’s practice of	MN12
+purity (suddhi, pārisuddhi)	through food	MN12
+fasting	Buddha’s practice of	MN12
+saṁsāra	purity by traveling through	MN12
+purity (suddhi, pārisuddhi)	through rebirth, fire worship, etc.	MN12
+rebirth	purity through	MN12
+sacrifices (yañña)	purity through	MN12
+fire worship (aggika)	purity through	MN12
+Buddha, the	old age of	MN12
+archers	simile for Buddha’s wisdom	MN12
+Buddha, the	wisdom of like archers	MN12
+Nāgasamāla, Ven. 	Fanning the Buddha, naming sutta	MN12
+wanderers of other sects (aññatitthiya paribbājaka)	answering their questions	MN13
+sense pleasures (kāma, kāmaguṇa)	complete understanding of	MN13
+form (rūpa)	complete understanding of	MN13
+form (rūpa)	gratification, danger, escape	MN13
+feelings (vedanā)	complete understanding of	MN13
+feelings (vedanā)	gratification, danger, escape	MN13
+gratification, danger, escape	of sense pleasures, form, feeling	MN13
+sense pleasures (kāma, kāmaguṇa)	definition	MN13
+sense pleasures (kāma, kāmaguṇa)	gratification, danger, escape	MN13
+money	difficulty obtaining and protecting	MN13
+disputes	caused by sense pleasures	MN13
+family	disputes	MN13
+armies	disputes over sense pleasures	MN13
+deadly pain	caused by sense pleasures	MN13
+torture	extensive list of	MN13
+bad rebirth (duggati)	danger of sense pleasures	MN13
+desire (chanda)	giving up ~ for sense pleasures	MN13
+beauty	gratification of form	MN13
+old age	drawback of form	MN13
+sickness	drawback of form	MN13
+death	drawback of form	MN13
+corpse	drawback of form	MN13
+jhānas	gratification of feeling	MN13
+hurting oneself or others	not while in jhāna	MN13
+feelings (vedanā)	danger of is their impermanence	MN13
+actions (kamma)		xref past actions
+past actions		xref actions (kamma)
+Mahā Nāma the Sakyan	asking about understanding greed, etc., vs being free of	MN14
+sense pleasures (kāma, kāmaguṇa)	giving little gratification	MN14
+jhānas	as escape from sensual pleasures	MN14
+Bodhisatta	sense pleasures and	MN14
+sense pleasures (kāma, kāmaguṇa)	gratification, danger, escape	MN14
+sense pleasures (kāma, kāmaguṇa)	definition	MN14
+money	difficulty obtaining and protecting	MN14
+disputes	caused by sense pleasures	MN14
+family	disputes	MN14
+armies	disputes over sense pleasures	MN14
+deadly pain	caused by sense pleasures	MN14
+torture	extensive list of	MN14
+bad rebirth (duggati)	danger of sense pleasures	MN14
+Nigaṇṭhas	Buddha’s discussion with	MN14
+Nigaṇṭhas	practices of, refuted by Buddha	MN14
+Nigaṇṭha Nāṭaputta	claim of omniscience	MN14
+knowledge and vision (ñāṇadassana)	constantly present	MN14
+past actions	wearing away through austerities	MN14
+past lives	not knowing 	MN14
+happiness (sukha)	gained through pain	MN14
+Bimbisāra, King	happiness of compared to Buddha	MN14
+Buddha, the	happiness for seven days without moving	MN14
+Mahā Moggallāna, Ven.	on being easy to admonish	MN15
+admonishment	being difficult to (dovacassatā)	MN15
+evil wishes (pāpiccha)	difficult to admonish	MN15
+glorifying one self	difficult to admonish	MN15
+irritability (kodhana)	difficult to admonish	MN15
+anger (kodha)	difficult to admonish	MN15
+admonishment	attacking the accuser	MN15
+jealousy (issā)	difficult to admonish	MN15
+stinginess (maccharī)	difficult to admonish	MN15
+deviousness (saṭha)	difficult to admonish	MN15
+deceit (kuhaka/māyāvī)	difficult to admonish	MN15
+obstinacy (thambha)	difficult to admonish	MN15
+attachment to views	difficult to admonish	MN15
+easy to admonish (suvaca)	qualities of one who is	MN15
+self-reflection	comparing to others	MN15
+self-reflection	bad qualities	MN15
+self-reflection	meditating happily when bad qualities not found	MN15
+self-reflection	like person looking in mirror	MN15
+mirrors	simile for self-reflection	MN15
+youth	checking reflection, simile for self-examination	MN15

@@ -276,7 +276,8 @@ function createIndexObject() {
     if (/xref/.test(head)) {
       console.warn(`❌ The headword  @${i + 1} "${head}" contains 'xref'`);
     }
-    if (/["']/.test(sub + head)) console.warn(`❌ The sub/headword @${i + 1} ${head}/${sub} contains straight quotes`);
+    if (/["']/.test(sub + head)) console.warn(`❌ The sub/headword @${i + 1} ${head}/${sub} contains straight quotes
+    This may indicate that the csv file format was incorrect`);
     if (!alphabetGroupedObject[firstRealLetter].hasOwnProperty(head)) {
       // the key of the headword does not exist in the object yet, so create the key and add the locator-xref object
       alphabetGroupedObject[firstRealLetter][head] = { [sub]: { locators: [], xrefs: [] } };
