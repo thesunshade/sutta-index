@@ -1,8 +1,3 @@
-loving-kindness (mettā)	to abandon ill-will	SN46.51
-loving-kindness (mettā)	as accompanying enlightenment factor	SN46.54
-loving-kindness (mettā)	liberation of mind by	SN46.54
-death (maraṇa)	reaction to hearing about	SN47.13
-death (maraṇa)	reaction to hearing about	SN47.14
 generosity (cāga)	quality of stream-enterer	SN55.6
 false speech	no one likes to be lied to	SN55.7
 death (maraṇa)	good	SN55.21
@@ -14,7 +9,29 @@ disputes	about Dhamma	SN56.9
 talk (kathā)		SN56.10
 speech	useless (tiraccha)	SN56.10
 oceans		xref Ganges river
+encouragement		xref urgency
 eggs		xref reproduction (yoni)
+unlearned (appassuta)		xref learned (bahussutā)
+learned (bahussutā)		xref unlearned (appassuta)
+stupidity		xref unlearned (appassuta)
+stupidity		xref unwise (duppañña)
+unwise (duppañña)		xref stupidity
+intention (saṅkappa)		xref inclination of the mind (cittuppāda)
+inclination of the mind (cittuppāda)		xref intention (saṅkappa)
+underlying tendencies (anusaya)		xref underlying tendency to conceit (mānānusaya)
+underlying tendencies (anusaya)		xref underlying tendency to greed (rāgānusaya)
+underlying tendencies (anusaya)		xref underlying tendency to ignorance (avijjānusaya)
+underlying tendencies (anusaya)		xref underlying tendency to repulsion (paṭighānusaya)
+fuel (āhāra)		xref nutriment (āhāra)
+breathing (assāsapassāsa)		xref mindfulness of breathing (ānāpānassati)
+mindfulness of breathing (ānāpānassati)		xref breathing (assāsapassāsa)
+lying posture		xref postures
+standing		xref postures
+sitting		xref postures
+walking		xref postures
+bones		xref charnel ground contemplation (sivathikā)
+actions (kamma)		xref past actions
+past actions		xref actions (kamma)
 womb (gabbho)		xref reproduction (yoni)
 charnel ground		xref corpse
 corpse		xref charnel ground
@@ -1212,8 +1229,13 @@ views (diṭṭhi)	avoiding wrong	Kp9
 virtue (sīla)	as criterion for loving-kindness	Kp9
 intention (mano)	precedes all	Dhp1
 actions (kamma)	results following	Dhp1
+wheel	simile for intention	Dhp1
+oxen	simile for intention	Dhp1
+intention (mano)	like wheel following foot of ox	Dhp1
 intention (mano)	precedes all	Dhp2
 actions (kamma)	results following	Dhp2
+shadows	simile for intention	Dhp2
+intention (mano)	like shadow never leaving	Dhp2
 grudge bearing (upanayhati)	ending hatred	Dhp3
 accusations	don’t end hatred	Dhp3
 hatred (vera)	ending	Dhp3
@@ -1235,7 +1257,7 @@ ugly, contemplation of (asubhānupassī)	Māra cannot strike down	Dhp8
 sense restraint (indriyasaṁvara)	Māra cannot strike down	Dhp8
 eating in moderation	Māra cannot strike down	Dhp8
 energy (vīriya)	Māra cannot strike down	Dhp8
-Māra	attacking like wind and mountain	Dhp8
+Māra	like wind attacking mountain	Dhp8
 mountains	simile for Māra attacking	Dhp8
 robes	not worthy of	Dhp9
 robes	worthy of	Dhp10
@@ -1273,8 +1295,10 @@ heedfulness (appamāda)	like island	Dhp25
 islands	simile for heedfulness	Dhp25
 heedfulness (appamāda)	as best treasure	Dhp26
 heedfulness (appamāda)		CUSTOM:Dhp:Dhammapada Chapter 2:suttacentral.net/dhp21-32/en/sujato
-heedfulness (appamāda)	simile of mountain-top	Dhp28
-heedfulness (appamāda)	simile of swift horse	Dhp29
+heedfulness (appamāda)	like wise person on mountain-top	Dhp28
+mountains	simile of wise person standing on	Dhp28
+heedfulness (appamāda)	like swift horse	Dhp29
+horses	simile for heedfulness	Dhp29
 Sakka, Lord of Gods	reason for rebirth as	Dhp30
 heedfulness (appamāda)	as always praised	Dhp30
 heedfulness (appamāda)	simile of fire	Dhp31
@@ -1324,6 +1348,8 @@ fools (bāla)	seeking power	Dhp73
 fools (bāla)	seeking power	Dhp74
 honor	non-delight in	Dhp75
 friendship	showing faults	Dhp76
+admonishment	like guide to hidden treasure	Dhp76
+treasures	simile for person pointing out faults	Dhp76
 friends, bad	don’t have	Dhp78
 friends, good	have	Dhp78
 Dhamma	rejoicing in	Dhp79
@@ -2276,6 +2302,8 @@ Dhamma teachers	simile of boat	Snp2.8
 listening to Dhamma	to reach highest goal	Snp2.9
 Dhamma	delight in	Snp2.9
 honor	elders	Snp2.9
+meditation	encouraging to	Snp2.10
+urgency	for practice	Snp2.10
 sleep	uselessness of	Snp2.10
 heedlessness (pamāda)	as dust	Snp2.10
 sleep	instead of meditating	Snp2.10
@@ -3009,6 +3037,7 @@ happiness (sukha)	as suffering	Thag17.2
 proliferation (papañca)	giving up	Thag17.2
 arahants	residence of	Thag17.2
 admonishment	like guide to hidden treasure	Thag17.2
+treasures	simile for person pointing out faults	Thag17.2
 psychic powers (iddhi)	not required for arahant	Thag17.2
 noble silence (ariya tuṇhībhāva)	without vitakka	Thag17.2
 self-guarding	like a citadel	Thag17.2
@@ -3440,6 +3469,7 @@ jhānas	part of gradual training	MN107
 arahants	continue to practice meditation, mindfulness, situational awareness	MN107
 arahants	life after attainment	MN107
 disciples of the Buddha	do all attain enlightenment?	MN107
+enlightenment	will all attain? 	MN107
 Rājagaha	road to, simile of not all attaining enlightenment	MN107
 going forth (pabbajja)	out of faith	MN107
 going forth (pabbajja)	without faith	MN107
@@ -8033,15 +8063,15 @@ almsfood	danger of receiving	AN7.72
 disrobing	after hearing a Dhamma talk	AN7.72
 blood	spewing hot	AN7.72
 listening to Dhamma	attaining enlightenment while	AN7.72
-Sunetta, teacher		AN7.73
+Sunetta, teacher	teaching rebirth in Brahma realm	AN7.73
 brahmās	rebirth in company of	AN7.73
 confidence (pasāda)	in good person can determine rebirth	AN7.73
-Araka, teacher		AN7.73
+Araka, teacher	shortness of life	AN7.73
 one attained to view (diṭṭhippatta)	abusing and insulting 	AN7.73
 spiritual companion (sabrahmacārī)	abusing and insulting 	AN7.73
 death (maraṇa)	comes quickly	AN7.74
 death (maraṇa)	inevitability of	AN7.74
-Araka, teacher		AN7.74
+Araka, teacher	teaching rebirth in Brahma realm	AN7.74
 dew	simile for shortness of life	AN7.74
 bubbles	simile for shortness of life	AN7.74
 water	line drawn in, simile for shortness of life	AN7.74
@@ -8101,7 +8131,7 @@ respect (gārava)	qualities that lead to	AN8.2
 harmony (sāmañña)	qualities that lead to 	AN8.2
 spiritual companion (sabrahmacārī)	qualities that make one liked or disliked by ones	AN8.3
 spiritual companion (sabrahmacārī)	qualities that make one liked or disliked by ones	AN8.4
-worldly conditions (lokadhamma)		AN8.5
+worldly conditions (lokadhamma)	definition	AN8.5
 gain (lābha)	worldly conditions	AN8.5
 loss (alābha)	worldly conditions	AN8.5
 fame (yasas)	worldly conditions	AN8.5
@@ -11254,8 +11284,8 @@ direct knowledges (abhiññā)	realizing knowledge and freedom	SN45.159
 direct knowledges (abhiññā)	developing serenity and insight	SN45.159
 serenity (samatha)	developed with direct knowledge	SN45.159
 insight (vipassanā)	developed with direct knowledge	SN45.159
-Ganges river	simile of crowd making it slope west	SN45.159
-crowd	simile of crowd making Ganges slope west	SN45.159
+Ganges river	simile of crowd making it slope west	SN45.160
+crowd	simile of crowd making Ganges slope west	SN45.160
 disrobing	encouragement to collect merit at home instead	SN45.160
 disrobing	encouraging to	SN45.160
 disrobing	mendicant who develops eightfold path will not	SN45.160
@@ -11464,6 +11494,7 @@ exterior factors (bāhiraṅga)	for awakening factors	SN46.50
 exterior factors (bāhiraṅga)	spiritual friends	SN46.50
 spiritual friends (kalyāṇamitta)	awakening factors	SN46.50
 spiritual friends (kalyāṇamitta)	external factor	SN46.50
+loving-kindness (mettā)	to abandon ill-will	SN46.51
 sense desire (kāmacchanda)	caused by sign of the beautiful	SN46.51
 sign of the beautiful (subhanimitta)	cause for sense desire	SN46.51
 ill will (vyāpāda, byāpāda)	caused by feature of harshness	SN46.51
@@ -11533,6 +11564,8 @@ awakening factor of immersion (samādhisambojjhaṅga)	develop when mind is rest
 awakening factor of equanimity (upekkhāsambojjhaṅga)	develop when mind is restless	SN46.53
 awakening factor of mindfulness (satisambojjhaṅga)	mindfulness is always useful	SN46.53
 mindfulness (sati)	always useful	SN46.53
+loving-kindness (mettā)	as accompanying enlightenment factor	SN46.54
+loving-kindness (mettā)	liberation of mind by	SN46.54
 wanderers of other sects (aññatitthiya paribbājaka)	difference between their teaching and the Buddha’s	SN46.54
 heart’s release by loving-kindness (mettā cetovimutti)	awakening factors	SN46.54
 repulsive	seeing repulsive and unrepulsive in 	SN46.54
@@ -11695,6 +11728,8 @@ refuges	live as your own	SN47.13
 refuges	teaching as	SN47.13
 islands	those who live as their own are best of best	SN47.13
 best	of best	SN47.13
+death (maraṇa)	reaction to hearing about	SN47.13
+death (maraṇa)	reaction to hearing about	SN47.14
 chief disciples (sāvakayuga)	past and future	SN47.14
 Sāriputta, Ven.	death of	SN47.14
 Moggallāna, Ven.	death of	SN47.14
@@ -12863,6 +12898,7 @@ almsfood	only eating almsfood collected house to house	MN77
 dwellings (senāsana)	only living under tree	MN77
 tree root dwelling (rukkhamūlika)	disciples who practice	MN77
 wilderness dwelling monk (āraññika)	disciples who practice	MN77
+Buddha, the	compared to disciples	MN77
 respect (gārava)	why disciples respect the Buddha	MN77
 Buddha, the	why disciples respect	MN77
 virtue, higher (adhisīla)	why disciples respect the Buddha	MN77
@@ -13701,18 +13737,6 @@ bathing	useless as ritual	MN7
 purification	with water	MN7
 purification	through good action	MN7
 Sundarikabhāradvāja, brahmin	promoting ritual bathing	MN7
-unlearned (appassuta)		xref learned (bahussutā)
-learned (bahussutā)		xref unlearned (appassuta)
-stupidity		xref unlearned (appassuta)
-stupidity		xref unwise (duppañña)
-unwise (duppañña)		xref stupidity
-intention (saṅkappa)		xref inclination of the mind (cittuppāda)
-inclination of the mind (cittuppāda)		xref intention (saṅkappa)
-underlying tendencies (anusaya)		xref underlying tendency to conceit (mānānusaya)
-underlying tendencies (anusaya)		xref underlying tendency to greed (rāgānusaya)
-underlying tendencies (anusaya)		xref underlying tendency to ignorance (avijjānusaya)
-underlying tendencies (anusaya)		xref underlying tendency to repulsion (paṭighānusaya)
-fuel (āhāra)		xref nutriment (āhāra)
 Mahā Cunda, Ven.	letting go of views	MN8
 views about the self (attavāda)	letting go of 	MN8
 views about the world (lokavāda)	letting go of 	MN8
@@ -13844,13 +13868,6 @@ verbal formations (vacīsaṅkhāra)	type of saṅkhāra	MN9
 mental formations (cittasaṅkhāra)	type of saṅkhāra	MN9
 ignorance (avijjā)	definition	MN9
 taints (āsava)	definition	MN9
-breathing (assāsapassāsa)		xref mindfulness of breathing (ānāpānassati)
-mindfulness of breathing (ānāpānassati)		xref breathing (assāsapassāsa)
-lying posture		xref postures
-standing		xref postures
-sitting		xref postures
-walking		xref postures
-bones		xref charnel ground contemplation (sivathikā)
 one way path (ekāyano maggo)	foundations of mindfulness	MN10
 mindfulness of body (kāyānupassanā)	definition	MN10
 keenness (ātāpi)	mindfulness	MN10
@@ -14022,8 +14039,6 @@ corpse	drawback of form	MN13
 jhānas	gratification of feeling	MN13
 hurting oneself or others	not while in jhāna	MN13
 feelings (vedanā)	danger of is their impermanence	MN13
-actions (kamma)		xref past actions
-past actions		xref actions (kamma)
 Mahā Nāma the Sakyan	asking about understanding greed, etc., vs being free of	MN14
 sense pleasures (kāma, kāmaguṇa)	giving little gratification	MN14
 jhānas	as escape from sensual pleasures	MN14

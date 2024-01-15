@@ -188,6 +188,10 @@ export const indexObject =[
           31
      ],
      [
+          "meditation",
+          31
+     ],
+     [
           "hindrances (nīvaraṇa)",
           31
      ],
@@ -197,10 +201,6 @@ export const indexObject =[
      ],
      [
           "merit (puñña)",
-          30
-     ],
-     [
-          "meditation",
           30
      ],
      [
@@ -248,6 +248,10 @@ export const indexObject =[
           27
      ],
      [
+          "admonishment",
+          27
+     ],
+     [
           "work",
           26
      ],
@@ -257,10 +261,6 @@ export const indexObject =[
      ],
      [
           "generosity (cāga)",
-          26
-     ],
-     [
-          "admonishment",
           26
      ],
      [
@@ -832,6 +832,10 @@ export const indexObject =[
           12
      ],
      [
+          "enlightenment",
+          12
+     ],
+     [
           "covetousness (abhijjhā)",
           12
      ],
@@ -917,10 +921,6 @@ export const indexObject =[
      ],
      [
           "faculty of wisdom (paññindriya)",
-          11
-     ],
-     [
-          "enlightenment",
           11
      ],
      [
@@ -1017,6 +1017,10 @@ export const indexObject =[
      ],
      [
           "Jāṇussoṇi, brahmin",
+          10
+     ],
+     [
+          "horses",
           10
      ],
      [
@@ -1201,10 +1205,6 @@ export const indexObject =[
      ],
      [
           "humility",
-          9
-     ],
-     [
-          "horses",
           9
      ],
      [
@@ -1468,6 +1468,10 @@ export const indexObject =[
           7
      ],
      [
+          "treasures",
+          7
+     ],
+     [
           "teachers",
           7
      ],
@@ -1585,6 +1589,10 @@ export const indexObject =[
      ],
      [
           "name and form (nāma rūpa)",
+          7
+     ],
+     [
+          "mountains",
           7
      ],
      [
@@ -1784,6 +1792,10 @@ export const indexObject =[
           6
      ],
      [
+          "urgency",
+          6
+     ],
+     [
           "unwise (duppañña)",
           6
      ],
@@ -1897,10 +1909,6 @@ export const indexObject =[
      ],
      [
           "noble ones (ariya)",
-          6
-     ],
-     [
-          "mountains",
           6
      ],
      [
@@ -2140,15 +2148,7 @@ export const indexObject =[
           5
      ],
      [
-          "urgency",
-          5
-     ],
-     [
           "treasures, seven (satta ratanāni)",
-          5
-     ],
-     [
-          "treasures",
           5
      ],
      [
@@ -3360,6 +3360,10 @@ export const indexObject =[
           3
      ],
      [
+          "oxen",
+          3
+     ],
+     [
           "outcast (vasala)",
           3
      ],
@@ -4552,10 +4556,6 @@ export const indexObject =[
           2
      ],
      [
-          "oxen",
-          2
-     ],
-     [
           "overconfidence",
           2
      ],
@@ -5628,6 +5628,10 @@ export const indexObject =[
           1
      ],
      [
+          "wheel",
+          1
+     ],
+     [
           "well spoken (subhāsita)",
           1
      ],
@@ -6249,6 +6253,10 @@ export const indexObject =[
      ],
      [
           "sharing",
+          1
+     ],
+     [
+          "shadows",
           1
      ],
      [
