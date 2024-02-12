@@ -710,6 +710,12 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
+               "ten types of": {
+                    "locators": [
+                         "AN10.218"
+                    ],
+                    "xrefs": []
+               },
                "threefold": {
                     "locators": [
                          "MN56"
