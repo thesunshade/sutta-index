@@ -2241,6 +2241,7 @@ export const indexObject ={
                          "CUSTOM:Dhp:Dhammapada Chapter 17:suttacentral.net/dhp221-234/en/sujato"
                     ],
                     "xrefs": [
+                         "xref anger (kodha)",
                          "xref irritability (kodhana)",
                          "xref temper"
                     ]
@@ -2506,6 +2507,20 @@ export const indexObject ={
                "overcoming": {
                     "locators": [
                          "MN8"
+                    ],
+                    "xrefs": []
+               }
+          },
+          "angry (kupita)": {
+               "": {
+                    "locators": [],
+                    "xrefs": [
+                         "xref angry (kupita)"
+                    ]
+               },
+               "with spiritual companions": {
+                    "locators": [
+                         "MN16"
                     ],
                     "xrefs": []
                }
@@ -5946,6 +5961,7 @@ export const indexObject ={
                },
                "lead to nibbāna": {
                     "locators": [
+                         "MN16",
                          "AN5.67"
                     ],
                     "xrefs": []
@@ -6712,6 +6728,12 @@ export const indexObject ={
                     "locators": [
                          "MN98",
                          "Snp3.9"
+                    ],
+                    "xrefs": []
+               },
+               "land seeking, simile for someone seeking out the Buddha last": {
+                    "locators": [
+                         "AN6.54"
                     ],
                     "xrefs": []
                },
@@ -7498,6 +7520,12 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
+               "desire and craving for": {
+                    "locators": [
+                         "MN16"
+                    ],
+                    "xrefs": []
+               },
                "counter_value": 2
           },
           "body (sarīra)": {
@@ -7586,6 +7614,7 @@ export const indexObject ={
           "bondages of the mind (cetovinibaddha, cetasovinibandha)": {
                "five kinds": {
                     "locators": [
+                         "MN16",
                          "AN5.206",
                          "AN10.14"
                     ],
@@ -7611,6 +7640,7 @@ export const indexObject ={
                },
                "definition": {
                     "locators": [
+                         "MN16",
                          "AN10.14"
                     ],
                     "xrefs": []
@@ -10312,6 +10342,12 @@ export const indexObject ={
                          "AN8.11"
                     ],
                     "xrefs": []
+               },
+               "simile for not needing to wish if conditions are correct": {
+                    "locators": [
+                         "MN16"
+                    ],
+                    "xrefs": []
                }
           },
           "chief disciples (sāvakayuga)": {
@@ -11310,6 +11346,12 @@ export const indexObject ={
                "Buddha knows": {
                     "locators": [
                          "MN12"
+                    ],
+                    "xrefs": []
+               },
+               "conditions for": {
+                    "locators": [
+                         "MN17"
                     ],
                     "xrefs": []
                }
@@ -14372,6 +14414,12 @@ export const indexObject ={
                "Buddha has escaped from": {
                     "locators": [
                          "AN10.81"
+                    ],
+                    "xrefs": []
+               },
+               "conditions for them to end": {
+                    "locators": [
+                         "MN17"
                     ],
                     "xrefs": []
                }
@@ -18239,6 +18287,12 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
+               "about triple gem and training": {
+                    "locators": [
+                         "MN16"
+                    ],
+                    "xrefs": []
+               },
                "counter_value": 2
           },
           "downfall (parābhava)": {
@@ -18453,6 +18507,12 @@ export const indexObject ={
                "not an indicator of internal qualities": {
                     "locators": [
                          "AN6.59"
+                    ],
+                    "xrefs": []
+               },
+               "suitable and unsuitable": {
+                    "locators": [
+                         "MN17"
                     ],
                     "xrefs": []
                },
@@ -24539,6 +24599,12 @@ export const indexObject ={
                          "AN10.30"
                     ],
                     "xrefs": []
+               },
+               "good and bad conditions": {
+                    "locators": [
+                         "MN17"
+                    ],
+                    "xrefs": []
                }
           },
           "form (rūpa)": {
@@ -24589,6 +24655,12 @@ export const indexObject ={
                "gratification, danger, escape": {
                     "locators": [
                          "MN13"
+                    ],
+                    "xrefs": []
+               },
+               "desire and craving for": {
+                    "locators": [
+                         "MN16"
                     ],
                     "xrefs": []
                }
@@ -33199,6 +33271,12 @@ export const indexObject ={
                "trained and untrained, simile of": {
                     "locators": [
                          "MN125"
+                    ],
+                    "xrefs": []
+               },
+               "simile for urgency": {
+                    "locators": [
+                         "AN4.113"
                     ],
                     "xrefs": []
                },
@@ -42065,6 +42143,7 @@ export const indexObject ={
           "mental barrenness (cetokhila)": {
                "five kinds": {
                     "locators": [
+                         "MN16",
                          "AN5.205",
                          "AN10.14"
                     ],
@@ -42090,6 +42169,7 @@ export const indexObject ={
                },
                "definition": {
                     "locators": [
+                         "MN16",
                          "AN10.14"
                     ],
                     "xrefs": []
@@ -43344,6 +43424,12 @@ export const indexObject ={
                "prevents fear": {
                     "locators": [
                          "MN4"
+                    ],
+                    "xrefs": []
+               },
+               "conditions for": {
+                    "locators": [
+                         "MN17"
                     ],
                     "xrefs": []
                }
@@ -48620,6 +48706,12 @@ export const indexObject ={
                          "AN8.79"
                     ],
                     "xrefs": []
+               },
+               "as shackle in the heart": {
+                    "locators": [
+                         "MN16"
+                    ],
+                    "xrefs": []
                }
           },
           "overestimation (adhimāna)": {
@@ -49574,6 +49666,12 @@ export const indexObject ={
                          "MN51",
                          "MN60",
                          "MN94"
+                    ],
+                    "xrefs": []
+               },
+               "relying on": {
+                    "locators": [
+                         "MN17"
                     ],
                     "xrefs": []
                }
@@ -53967,6 +54065,12 @@ export const indexObject ={
                          "MN12"
                     ],
                     "xrefs": []
+               },
+               "among gods, wishing for": {
+                    "locators": [
+                         "MN16"
+                    ],
+                    "xrefs": []
                }
           },
           "receiving gifts": {
@@ -55298,8 +55402,9 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "not the reason for become monastic": {
+               "not the reason to ordain": {
                     "locators": [
+                         "MN17",
                          "AN9.6",
                          "AN10.54"
                     ],
@@ -56027,6 +56132,12 @@ export const indexObject ={
                "trainee": {
                     "locators": [
                          "AN5.89"
+                    ],
+                    "xrefs": []
+               },
+               "ones own mind": {
+                    "locators": [
+                         "AN5.98"
                     ],
                     "xrefs": []
                },
@@ -58845,6 +58956,12 @@ export const indexObject ={
                          "SN48.58"
                     ],
                     "xrefs": []
+               },
+               "conditions for": {
+                    "locators": [
+                         "MN17"
+                    ],
+                    "xrefs": []
                }
           },
           "seeds": {
@@ -60417,6 +60534,12 @@ export const indexObject ={
                          "MN14"
                     ],
                     "xrefs": []
+               },
+               "desire and craving for": {
+                    "locators": [
+                         "MN16"
+                    ],
+                    "xrefs": []
                }
           },
           "sense pleasures, five": {
@@ -61046,6 +61169,14 @@ export const indexObject ={
                     "locators": [
                          "MN9",
                          "MN73"
+                    ],
+                    "xrefs": []
+               }
+          },
+          "shackle of the mind (cetasovinibandha)": {
+               "five": {
+                    "locators": [
+                         "MN16"
                     ],
                     "xrefs": []
                }
@@ -63260,6 +63391,12 @@ export const indexObject ={
                     "locators": [
                          "AN10.88",
                          "AN11.6"
+                    ],
+                    "xrefs": []
+               },
+               "anger at": {
+                    "locators": [
+                         "MN16"
                     ],
                     "xrefs": []
                }
@@ -69261,6 +69398,7 @@ export const indexObject ={
           "vigor (ussoḷi)": {
                "leads to nibbāna": {
                     "locators": [
+                         "MN16",
                          "AN5.67"
                     ],
                     "xrefs": []
@@ -71767,6 +71905,12 @@ export const indexObject ={
                "for material things": {
                     "locators": [
                          "AN8.61"
+                    ],
+                    "xrefs": []
+               },
+               "like chicken sitting on eggs": {
+                    "locators": [
+                         "MN16"
                     ],
                     "xrefs": []
                },
