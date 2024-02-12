@@ -1509,6 +1509,11 @@ export const locatorBookObject ={
     ],
     [
       "MN9",
+      "actions",
+      "ten types of"
+    ],
+    [
+      "MN9",
       "aggregates (khandha)",
       "definition of birth"
     ],
@@ -1521,6 +1526,11 @@ export const locatorBookObject ={
       "MN9",
       "attention (manasikāra)",
       "part of name (nāma)"
+    ],
+    [
+      "MN9",
+      "bad actions",
+      "ten types of"
     ],
     [
       "MN9",
@@ -1656,6 +1666,11 @@ export const locatorBookObject ={
       "MN9",
       "four noble truths",
       "analysis of"
+    ],
+    [
+      "MN9",
+      "good actions",
+      "ten types of"
     ],
     [
       "MN9",
@@ -2264,18 +2279,23 @@ export const locatorBookObject ={
     ],
     [
       "MN12",
-      "Dhamma",
-      "not leading to the end of suffering"
-    ],
-    [
-      "MN12",
-      "Sunakkhatta, Ven. ",
-      "having disrobed"
-    ],
-    [
-      "MN12",
       "animal realm",
       "like sewer"
+    ],
+    [
+      "MN12",
+      "beings (satta)",
+      "Buddha knows conviction/disposition of beings"
+    ],
+    [
+      "MN12",
+      "concentration (samādhi)",
+      "Buddha knows "
+    ],
+    [
+      "MN12",
+      "Dhamma",
+      "not leading to the end of suffering"
     ],
     [
       "MN12",
@@ -2304,18 +2324,8 @@ export const locatorBookObject ={
     ],
     [
       "MN12",
-      "beings (satta)",
-      "Buddha knows conviction/disposition of beings"
-    ],
-    [
-      "MN12",
       "charnel ground living",
       "Buddha’s practice of"
-    ],
-    [
-      "MN12",
-      "concentration (samādhi)",
-      "Buddha knows "
     ],
     [
       "MN12",
@@ -2344,28 +2354,8 @@ export const locatorBookObject ={
     ],
     [
       "MN12",
-      "fire worship (aggika)",
-      "purity through"
-    ],
-    [
-      "MN12",
-      "ghost realm",
-      "like tree with thin foliage"
-    ],
-    [
-      "MN12",
-      "heaven (sagga)",
-      "like a palace"
-    ],
-    [
-      "MN12",
       "hell (niraya)",
       "like pit of glowing coals"
-    ],
-    [
-      "MN12",
-      "human birth",
-      "like tree with thick foliage"
     ],
     [
       "MN12",
@@ -2399,13 +2389,38 @@ export const locatorBookObject ={
     ],
     [
       "MN12",
-      "lions roar",
-      "of the Buddha"
+      "logic (takka)",
+      "accusation of Buddha’s teaching being worked out by"
     ],
     [
       "MN12",
-      "logic (takka)",
-      "accusation of Buddha’s teaching being worked out by"
+      "Sunakkhatta, Ven. ",
+      "having disrobed"
+    ],
+    [
+      "MN12",
+      "fire worship (aggika)",
+      "purity through"
+    ],
+    [
+      "MN12",
+      "ghost realm",
+      "like tree with thin foliage"
+    ],
+    [
+      "MN12",
+      "heaven (sagga)",
+      "like a palace"
+    ],
+    [
+      "MN12",
+      "human birth",
+      "like tree with thick foliage"
+    ],
+    [
+      "MN12",
+      "lions roar",
+      "of the Buddha"
     ],
     [
       "MN12",
@@ -2719,11 +2734,6 @@ export const locatorBookObject ={
     ],
     [
       "MN14",
-      "Bimbisāra, King",
-      "happiness of compared to Buddha"
-    ],
-    [
-      "MN14",
       "Bodhisatta",
       "sense pleasures and"
     ],
@@ -2741,6 +2751,11 @@ export const locatorBookObject ={
       "MN14",
       "bad rebirth (duggati)",
       "danger of sense pleasures"
+    ],
+    [
+      "MN14",
+      "Bimbisāra, King",
+      "happiness of compared to Buddha"
     ],
     [
       "MN14",

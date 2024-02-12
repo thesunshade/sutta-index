@@ -24,6 +24,7 @@ export const headwordsArray =[
      "Aciravata, novice",
      "acquisitions (upadhi)",
      "acrobats",
+     "actions",
      "actions (kamma)",
      "adept (asekha)",
      "adhammika",

@@ -469,6 +469,15 @@ export const indexObject ={
                     "xrefs": []
                }
           },
+          "actions": {
+               "ten types of": {
+                    "locators": [
+                         "MN9"
+                    ],
+                    "xrefs": []
+               },
+               "counter_value": 1
+          },
           "actions (kamma)": {
                "": {
                     "locators": [],
@@ -763,7 +772,8 @@ export const indexObject ={
                          "MN4"
                     ],
                     "xrefs": []
-               }
+               },
+               "counter_value": 2
           },
           "adept (asekha)": {
                "": {
@@ -5470,6 +5480,12 @@ export const indexObject ={
                "by body, speech and mind": {
                     "locators": [
                          "MN78"
+                    ],
+                    "xrefs": []
+               },
+               "ten types of": {
+                    "locators": [
+                         "MN9"
                     ],
                     "xrefs": []
                }
@@ -28898,6 +28914,12 @@ export const indexObject ={
                "three types fulfilled by sense restraint": {
                     "locators": [
                          "SN46.6"
+                    ],
+                    "xrefs": []
+               },
+               "ten types of": {
+                    "locators": [
+                         "MN9"
                     ],
                     "xrefs": []
                }

@@ -112,15 +112,15 @@ export const indexObject =[
           37
      ],
      [
+          "actions (kamma)",
+          37
+     ],
+     [
           "monastics",
           36
      ],
      [
           "Buddhas",
-          36
-     ],
-     [
-          "actions (kamma)",
           36
      ],
      [
@@ -228,6 +228,10 @@ export const indexObject =[
           28
      ],
      [
+          "bad actions",
+          28
+     ],
+     [
           "taints (āsava)",
           27
      ],
@@ -241,10 +245,6 @@ export const indexObject =[
      ],
      [
           "body",
-          27
-     ],
-     [
-          "bad actions",
           27
      ],
      [
@@ -336,6 +336,10 @@ export const indexObject =[
           22
      ],
      [
+          "good actions",
+          22
+     ],
+     [
           "almsfood",
           22
      ],
@@ -361,10 +365,6 @@ export const indexObject =[
      ],
      [
           "killing",
-          21
-     ],
-     [
-          "good actions",
           21
      ],
      [
@@ -5565,6 +5565,10 @@ export const indexObject =[
      ],
      [
           "against the stream",
+          2
+     ],
+     [
+          "actions",
           2
      ],
      [
