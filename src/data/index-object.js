@@ -472,7 +472,9 @@ export const indexObject ={
           "actions": {
                "ten types of": {
                     "locators": [
-                         "MN9"
+                         "MN9",
+                         "AN10.171",
+                         "AN10.177"
                     ],
                     "xrefs": []
                },
@@ -4396,6 +4398,12 @@ export const indexObject ={
                "causes ownership": {
                     "locators": [
                          "AN9.23"
+                    ],
+                    "xrefs": []
+               },
+               "from perceptions": {
+                    "locators": [
+                         "MN18"
                     ],
                     "xrefs": []
                },
@@ -9179,6 +9187,12 @@ export const indexObject ={
                          "MN14"
                     ],
                     "xrefs": []
+               },
+               "as vision and knowledge": {
+                    "locators": [
+                         "MN18"
+                    ],
+                    "xrefs": []
                }
           },
           "“Buddha”, the word": {
@@ -11626,6 +11640,15 @@ export const indexObject ={
                },
                "counter_value": 2
           },
+          "conflicts (viggahaya)": {
+               "Buddha not conflicting with anyone": {
+                    "locators": [
+                         "MN18"
+                    ],
+                    "xrefs": []
+               },
+               "counter_value": 3
+          },
           "conscience (hiri)": {
                "": {
                     "locators": [],
@@ -11820,19 +11843,16 @@ export const indexObject ={
                     "xrefs": []
                }
           },
-          "consciousness": {
-               "as element": {
-                    "locators": [
-                         "MN115"
-                    ],
-                    "xrefs": []
-               },
-               "counter_value": 1
-          },
           "consciousness (viññāṇa)": {
                "coming and going of": {
                     "locators": [
                          "MN102"
+                    ],
+                    "xrefs": []
+               },
+               "as element": {
+                    "locators": [
+                         "MN115"
                     ],
                     "xrefs": []
                },
@@ -11844,6 +11864,7 @@ export const indexObject ={
                },
                "analysis of": {
                     "locators": [
+                         "MN18",
                          "MN137"
                     ],
                     "xrefs": []
@@ -11945,8 +11966,7 @@ export const indexObject ={
                          "MN9"
                     ],
                     "xrefs": []
-               },
-               "counter_value": 2
+               }
           },
           "consciousness element (viññāṇadhātu)": {
                "as not self": {
@@ -12000,6 +12020,7 @@ export const indexObject ={
                },
                "feelings resulting from": {
                     "locators": [
+                         "MN18",
                          "MN57",
                          "MN140"
                     ],
@@ -13297,6 +13318,14 @@ export const indexObject ={
                     "xrefs": []
                }
           },
+          "Daṇḍapāṇi the Sakyan": {
+               "questioning the Buddha": {
+                    "locators": [
+                         "MN18"
+                    ],
+                    "xrefs": []
+               }
+          },
           "danger (ādīnava)": {
                "": {
                     "locators": [],
@@ -14505,6 +14534,12 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
+               "from perceptions": {
+                    "locators": [
+                         "MN18"
+                    ],
+                    "xrefs": []
+               },
                "counter_value": 1
           },
           "delight (rati)": {
@@ -15261,6 +15296,7 @@ export const indexObject ={
                },
                "in brief": {
                     "locators": [
+                         "MN18",
                          "SN47.3",
                          "SN47.15",
                          "SN47.46",
@@ -17512,7 +17548,17 @@ export const indexObject ={
                          "MN14"
                     ],
                     "xrefs": []
-               }
+               },
+               "counter_value": 1
+          },
+          "disputes (viggaha)": {
+               "ending of through ending of underlying tendencies": {
+                    "locators": [
+                         "MN18"
+                    ],
+                    "xrefs": []
+               },
+               "counter_value": 2
           },
           "disrepute": {
                "fear of": {
@@ -23135,6 +23181,7 @@ export const indexObject ={
                },
                "origin is contact": {
                     "locators": [
+                         "MN18",
                          "SN47.42"
                     ],
                     "xrefs": []
@@ -31757,6 +31804,7 @@ export const indexObject ={
           "heartwood": {
                "simile of asking question from monk when should have asked the Buddha": {
                     "locators": [
+                         "MN18",
                          "MN133",
                          "MN138",
                          "AN10.115"
@@ -33087,6 +33135,14 @@ export const indexObject ={
                "pressing out, simile for listening to the Buddha": {
                     "locators": [
                          "MN77"
+                    ],
+                    "xrefs": []
+               }
+          },
+          "honey cake": {
+               "simile for the Dhamma": {
+                    "locators": [
+                         "MN18"
                     ],
                     "xrefs": []
                }
@@ -40856,6 +40912,7 @@ export const indexObject ={
                },
                "explaining brief statement": {
                     "locators": [
+                         "MN18",
                          "MN133",
                          "MN138",
                          "AN10.172"
@@ -50795,6 +50852,18 @@ export const indexObject ={
                          "MN9"
                     ],
                     "xrefs": []
+               },
+               "proliferation": {
+                    "locators": [
+                         "MN18"
+                    ],
+                    "xrefs": []
+               },
+               "caused by feelings": {
+                    "locators": [
+                         "MN18"
+                    ],
+                    "xrefs": []
                }
           },
           "perceptions for ascetics (samaṇasaññā)": {
@@ -51105,6 +51174,14 @@ export const indexObject ={
                          "MN12"
                     ],
                     "xrefs": []
+               }
+          },
+          "places": {
+               "": {
+                    "locators": [],
+                    "xrefs": [
+                         "xref dwellings"
+                    ]
                }
           },
           "placing of the mind and keeping it connected (vitakkavicārā)": {
@@ -52501,6 +52578,18 @@ export const indexObject ={
                "goal is for one who does not enjoy": {
                     "locators": [
                          "MN11"
+                    ],
+                    "xrefs": []
+               },
+               "perceptions": {
+                    "locators": [
+                         "MN18"
+                    ],
+                    "xrefs": []
+               },
+               "caused by thoughts": {
+                    "locators": [
+                         "MN18"
                     ],
                     "xrefs": []
                }
@@ -60790,6 +60879,12 @@ export const indexObject ={
                          "Iti29"
                     ],
                     "xrefs": []
+               },
+               "six": {
+                    "locators": [
+                         "MN18"
+                    ],
+                    "xrefs": []
                }
           },
           "sensual pleasures": {
@@ -66193,6 +66288,18 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
+               "caused by perceptions": {
+                    "locators": [
+                         "MN18"
+                    ],
+                    "xrefs": []
+               },
+               "causing proliferation": {
+                    "locators": [
+                         "MN18"
+                    ],
+                    "xrefs": []
+               },
                "counter_value": 2
           },
           "thoughts of a great man (mahāpurisavitakka)": {
@@ -67631,6 +67738,12 @@ export const indexObject ={
                          "MN9"
                     ],
                     "xrefs": []
+               },
+               "ending of": {
+                    "locators": [
+                         "MN18"
+                    ],
+                    "xrefs": []
                }
           },
           "underlying tendency to conceit (mānānusaya)": {
@@ -67978,6 +68091,12 @@ export const indexObject ={
                "delight not connected with": {
                     "locators": [
                          "MN75"
+                    ],
+                    "xrefs": []
+               },
+               "ending without remainder": {
+                    "locators": [
+                         "MN18"
                     ],
                     "xrefs": []
                }
