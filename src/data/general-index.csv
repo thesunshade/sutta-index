@@ -11,6 +11,7 @@ speech	useless (tiraccha)	SN56.10
 oceans		xref Ganges river
 encouragement		xref urgency
 eggs		xref reproduction (yoni)
+trees		xref trumpet flower tree (cittapāṭalī)
 unlearned (appassuta)		xref learned (bahussutā)
 learned (bahussutā)		xref unlearned (appassuta)
 stupidity		xref unlearned (appassuta)
@@ -71,7 +72,6 @@ nature		xref mountains
 nature		xref lakes
 nature		xref rivers
 nature		xref wilderness (arañña)
-nature		xref stars
 nature		xref elements (dhātu)
 nature		xref oceans
 elements (dhātu)		xref elements, four great (cattāri mahābhūtāni)
@@ -80,7 +80,6 @@ fires		xref bonfires
 chickens		xref eggs
 cows		xref calf
 calf		xref cows
-plants		xref trees
 nature		xref animals
 nature		xref plants
 animals		xref birds
@@ -1358,7 +1357,7 @@ self-taming	wise tame themselves	Dhp80
 self-taming	like arrow maker	Dhp80
 self-taming	like irrigator	Dhp80
 self-taming	like carpenter	Dhp80
-arrowsmith	simile for self-taming	Dhp80
+arrowsmiths	simile for self-taming	Dhp80
 irrigators	simile for self-taming	Dhp80
 carpenters	simile for self-taming	Dhp80
 wise people	simile of lake	Dhp82
@@ -1427,7 +1426,7 @@ self-taming	wise tame themselves	Dhp145
 self-taming	like arrow maker	Dhp145
 self-taming	like irrigator	Dhp145
 self-taming	like carpenter	Dhp145
-arrowsmith	simile for self-taming	Dhp145
+arrowsmiths	simile for self-taming	Dhp145
 irrigators	simile for self-taming	Dhp145
 carpenters	simile for self-taming	Dhp145
 old age (jarā)		CUSTOM:Dhp:Dhammapada Chapter 11:suttacentral.net/dhp146-156/en/sujato
@@ -2751,7 +2750,7 @@ self-taming	wise tame themselves	Thag1.19
 self-taming	like arrow maker	Thag1.19
 self-taming	like irrigator	Thag1.19
 self-taming	like carpenter	Thag1.19
-arrowsmith	simile for self-taming	Thag1.19
+arrowsmiths	simile for self-taming	Thag1.19
 irrigators	simile for self-taming	Thag1.19
 carpenters	simile for self-taming	Thag1.19
 death (maraṇa)	no fear of	Thag1.20
@@ -3011,7 +3010,7 @@ self-taming	wise tame themselves	Thag16.8
 self-taming	like arrow maker	Thag16.8
 self-taming	like irrigator	Thag16.8
 self-taming	like carpenter	Thag16.8
-arrowsmith	simile for self-taming	Thag16.8
+arrowsmiths	simile for self-taming	Thag16.8
 irrigators	simile for self-taming	Thag16.8
 carpenters	simile for self-taming	Thag16.8
 food	eating free from debt	Thag16.8
@@ -3210,7 +3209,7 @@ sense pleasures (kāma, kāmaguṇa)	like dream	Thig16.1
 saṁsāra	long for fools	Thig16.1
 oceans	of tears, simile for saṁsara	Thig16.1
 saṁsāra	similes for	Thig16.1
-turtle and yoke	like rebirth in human world is rare	Thig16.1
+turtle	with yoke, like rebirth in human world is rare	Thig16.1
 sense pleasures (kāma, kāmaguṇa)	like a grass torch burns holder	Thig16.1
 dogs	with chain like person attached to sensual pleasures	Thig16.1
 gifts, specific types of	monastery	Thig16.1
@@ -3279,7 +3278,7 @@ living as one pleases	unwholesome qualities grow	MN101
 skillfulness (kusala)	gained through painful striving	MN101
 unskillfulness (akusala)	through living as one pleases	MN101
 painful striving	to reduce unwholesome and increase wholesome	MN101
-arrowsmith	simile of not heating arrow after is is straight	MN101
+arrowsmiths	simile of not heating arrow after is is straight	MN101
 painful striving	stopping when goal is achieved, like arrowsmith	MN101
 gradual training (anupubbasikkhā)	long version	MN101
 Buddha, the	praise on ten grounds	MN101
@@ -4061,7 +4060,7 @@ animal realm	gluttony as cause for rebirth in	MN129
 brahmins	running to a burnt offering	MN129
 gluttony (rasāda)	leading to rebirth in animal realm	MN129
 animal realm	suffering in	MN129
-turtle and yoke	simile of being in lower world reborn as human	MN129
+turtle	with yoke, simile of being in lower world reborn as human	MN129
 underworld (vinipāta)	no good conduct in	MN129
 fools (bāla)	reborn in low families	MN129
 fools (bāla)	reborn in difficult human life	MN129
@@ -4096,7 +4095,7 @@ sick person	as divine messenger	MN130
 sickness	being liable to	MN130
 thieves (cora)	as divine messenger	MN130
 punishment (daṇḍa)	examples of	MN130
-dead body	as divine messenger	MN130
+corpse	as divine messenger	MN130
 death (maraṇa)	being liable to	MN130
 hell (niraya)	torture in 	MN130
 hell (niraya)	description of	MN130
@@ -5271,7 +5270,7 @@ hell (niraya)	judgment by King Yama	AN3.36
 divine messengers (devadūta)		AN3.36
 old person	as divine messenger	AN3.36
 sick person	as divine messenger	AN3.36
-dead body	as divine messenger	AN3.36
+corpse	as divine messenger	AN3.36
 hell (niraya)	torture in	AN3.36
 Yama, King		AN3.36
 Four Great Kings, the (catumahārāja)	searching on uposatha for people making merit	AN3.37
@@ -12150,7 +12149,7 @@ dimension of infinite consciousness (viññāṇañcāyatana)	conditioned 	MN52
 treasures	entrance to hidden, simile for eleven doors to the deathless	MN52
 houses	with eleven doors, simile for eleven doors to the deathless	MN52
 teacher’s fee (ācariyadhana)	wish to pay	MN52
-building	to be first used by the Saṅgha	MN53
+buildings	to be first used by the Saṅgha	MN53
 Ānanda, Ven.	on the trainee	MN53
 Buddha, the	sore back	MN53
 Mahā Nāma the Sakyan	on the trainee	MN53
@@ -14140,3 +14139,194 @@ proliferation (papañca)	caused by thoughts	MN18
 senses	six	MN18
 consciousness (viññāṇa)	analysis of	MN18
 honey cake	simile for the Dhamma	MN18
+Bodhisatta	meditation experience	MN19
+thinking		xref thoughts (saṅkappa)
+thinking		xref thoughts (vitakka)
+thoughts (vitakka)	in meditation	MN19
+meditation	advice for	MN19
+sensual thoughts (kāmavitakka)	dealing with	MN19
+malicious thoughts (byāpādavitakka)	dealing with	MN19
+cruel thoughts (vihiṁsāvitakka)	dealing with	MN19
+thoughts of cruelty (vihiṁsāvitakka)		xref cruel thoughts (vihiṁsāvitakka)
+thoughts of malice (byāpādavitakka)		xref malicious thoughts (byāpādavitakka)
+thoughts of sensuality (kāmavitakka)		xref sensual thoughts (kāmavitakka)
+thoughts of renunciation (nekkhammavitakka)	in meditation	MN19
+thoughts of non-ill will (abyāpādavitakka)	in meditation	MN19
+thoughts of non-cruelty (avihiṁsāvitakka)	in meditation	MN19
+thoughts of good will (abyāpādavitakka)		xref thoughts of non-ill will (abyāpādavitakka)
+thoughts of harmlessness (avihiṁsāvitakka)		xref thoughts of non-cruelty (avihiṁsāvitakka)
+cowherd	simile for dealing with thoughts in meditation	MN19
+meditation	dealing with thoughts, like cowherd	MN19
+unskillful qualities (akusala dhamma)	overcoming in meditation	MN19
+danger (ādīnava)	of unwholesome thoughts	MN19
+thinking	in meditation	MN19
+intention (cetana)	frequent thoughts become our intention	MN19
+mind (cetas)	frequent thoughts become nature of our mind	MN19
+thoughts (vitakka)	frequent thoughts become nature of our mind	MN19
+crops (sassa)		xref cows
+jhānas	result of stilling thoughts	MN19
+decoys	simile for Māra as hunter	MN19
+Māra	like hunter	MN19
+deer	simile for Māra as hunter	MN19
+sense pleasures (kāma, kāmaguṇa)	like low-lying marsh	MN19
+wrong eightfold path	like wrong path in hunter simile	MN19
+mind, higher (adhicitta)	committed to developing	MN20
+tolerating bad thoughts	not tolerating	MN20
+thoughts (vitakka)	bad, unwholesome; overcoming	MN20
+not tolerating unwholesome	in meditation	MN20
+meditation subject	changing to wholesome	MN20
+carpenters	simile for replacing unwholesome with wholesome	MN20
+peg	simile for replacing unwholesome with wholesome	MN20
+animals	dead body of, simile for disgust with unwholesome	MN20
+dead animal		xref animals
+youth	dead animal around neck of, simile for disgust with unwholesome	MN20
+eyes	looking away, simile for not paying attention to bad thoughts	MN20
+postures	stilling, simile for stilling thoughts	MN20
+strong person	crushing weak person, simile for crushing mind with mind	MN20
+danger (ādīnava)	focusing on to remove thought	MN20
+thoughts (vitakka)	thinking what one wants to think	MN20
+insects		xref flies 
+animals		xref  bull (usabha)
+animals		xref  calf
+animals		xref  cats
+animals		xref  cows
+animals		xref  crocodiles
+animals		xref  deer
+animals		xref  dogs
+animals		xref  elephants
+animals		xref  fish
+animals		xref  gharials
+animals		xref  horses
+animals		xref  insects
+animals		xref  lions
+animals		xref livestock
+animals		xref  monkey
+animals		xref  mules
+animals		xref  oxen
+animals		xref  rabbits
+animals		xref  sharks
+animals		xref  snakes
+animals		xref turtle
+animals		xref  viper
+non-humans (amanussa)		xref  asuras
+non-humans (amanussa)		xref  goblins (pisāca)
+non-humans (amanussa)		xref  gods
+non-humans (amanussa)		xref devas
+non-humans (amanussa)		xref gods (deva)
+non-humans (amanussa)		xref ghosts
+non-humans (amanussa)		xref kinnara (kiṁpurisa)
+non-humans (amanussa)		xref nāgas
+non-humans (amanussa)		xref nymphs (accharā)
+non-humans (amanussa)		xref supaṇṇa
+non-humans (amanussa)		xref wardens of hell (nirayapāla)
+non-humans (amanussa)		xref yakkhas
+non-humans (amanussa)		xref zombie
+non-humans (amanussa)		xref brahmās
+arrows		xref darts (salla)
+dead body		xref corpse
+water		xref dew
+trees		xref sal tree
+flowers		xref jasmine
+flowers		xref lotus
+flowers		xref spikenard
+flowers		xref water lilly
+plants		xref creepers
+plants		xref leaves
+plants		xref neem
+plants		xref flowers
+occupations		xref accountants
+occupations		xref acrobats
+occupations		xref archers
+occupations		xref arrowsmiths
+occupations		xref attendant
+occupations		xref bandits
+occupations		xref barbers
+occupations		xref bath attendant
+occupations		xref bondservants (dāsa)
+occupations		xref butchers
+occupations		xref caregiver
+occupations		xref carpenters
+occupations		xref chariot-maker
+occupations		xref conch blowers
+occupations		xref cooks
+occupations		xref courtesans
+occupations		xref cowherd
+occupations		xref craftsperson (sippika)
+occupations		xref doctors (bhisakka)
+occupations		xref employees
+occupations		xref farmers (kassaka)
+occupations		xref gamblers
+occupations		xref gatekeeper
+occupations		xref goldsmiths
+occupations		xref guards
+occupations		xref healer (bhisakka)
+occupations		xref horse trainers
+occupations		xref house builder
+occupations		xref hunters
+occupations		xref hunters
+occupations		xref kings
+occupations		xref merchants (vessa)
+occupations		xref nurses
+occupations		xref potters
+occupations		xref surgeons
+occupations		xref teachers
+occupations		xref thieves (cora)
+occupations		xref traders (vāṇija)
+occupations		xref work
+occupations		xref workers (kammakara)
+occupations		xref workers (kammakara)
+weapons		xref arrows
+weapons		xref darts (salla)
+weapons		xref swords
+food		xref beverage
+food		xref butter
+food		xref eggs
+food		xref fruit
+food		xref mangos
+food		xref ghee
+food		xref gourds
+food		xref gourds
+food		xref honey cake
+food		xref milk
+food		xref porridge (yāgu)
+food		xref rice
+food		xref sugar cane
+body parts		xref blood
+body parts		xref bones
+body parts		xref skeleton
+body parts		xref spit
+body parts		xref throat
+nature		xref bog (paṅka)
+nature		xref celestial bodies
+nature		xref earthquakes
+nature		xref floods (ogha)
+nature		xref islands
+nature		xref ponds
+nature		xref rocks
+nature		xref sky
+nature		xref stones
+nature		xref water
+nature		xref weather
+celestial bodies		xref galaxies
+celestial bodies		xref moon
+celestial bodies		xref space
+celestial bodies		xref sun (ādicca)
+celestial bodies		xref sun (sūriya)
+celestial bodies		xref stars
+celestial bodies		xref world system (lokadhātu)
+weather		xref rain
+weather		xref storms
+weather		xref wind (vāyo)
+buildings		xref houses
+buildings		xref citadel
+buildings		xref dwellings (senāsana)
+buildings		xref empty huts (suññāgāra)
+buildings		xref fire chamber
+buildings		xref guest houses
+buildings		xref houses
+buildings		xref palaces (pāsādā)
+buildings		xref roof
+buildings		xref roof peak
+buildings		xref shrines (cetiya)
+buildings		xref stupa (thupa)
+buildings		xref wall

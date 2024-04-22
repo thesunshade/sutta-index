@@ -29,14 +29,14 @@ export const indexObject =[
      ],
      [
           "jhānas",
-          67
-     ],
-     [
-          "virtue (sīla)",
-          64
+          68
      ],
      [
           "sense pleasures (kāma, kāmaguṇa)",
+          65
+     ],
+     [
+          "virtue (sīla)",
           64
      ],
      [
@@ -180,15 +180,15 @@ export const indexObject =[
           32
      ],
      [
+          "meditation",
+          32
+     ],
+     [
           "gods",
           32
      ],
      [
           "results of actions",
-          31
-     ],
-     [
-          "meditation",
           31
      ],
      [
@@ -340,6 +340,10 @@ export const indexObject =[
           22
      ],
      [
+          "Bodhisatta",
+          22
+     ],
+     [
           "almsfood",
           22
      ],
@@ -384,15 +388,15 @@ export const indexObject =[
           21
      ],
      [
-          "Bodhisatta",
-          21
-     ],
-     [
           "psychic powers (iddhi)",
           20
      ],
      [
           "perceptions (saññā)",
+          20
+     ],
+     [
+          "Māra",
           20
      ],
      [
@@ -449,10 +453,6 @@ export const indexObject =[
      ],
      [
           "Moggallāna, Ven.",
-          19
-     ],
-     [
-          "Māra",
           19
      ],
      [
@@ -592,6 +592,10 @@ export const indexObject =[
           16
      ],
      [
+          "wrong eightfold path",
+          15
+     ],
+     [
           "wholesome chain of causality",
           15
      ],
@@ -652,7 +656,7 @@ export const indexObject =[
           15
      ],
      [
-          "wrong eightfold path",
+          "unskillful qualities (akusala dhamma)",
           14
      ],
      [
@@ -721,10 +725,6 @@ export const indexObject =[
      ],
      [
           "wanderers of other sects (aññatitthiya paribbājaka)",
-          13
-     ],
-     [
-          "unskillful qualities (akusala dhamma)",
           13
      ],
      [
@@ -801,6 +801,10 @@ export const indexObject =[
      ],
      [
           "recollection (anussati)",
+          12
+     ],
+     [
+          "intention (cetana)",
           12
      ],
      [
@@ -912,10 +916,6 @@ export const indexObject =[
           11
      ],
      [
-          "intention (cetana)",
-          11
-     ],
-     [
           "horses",
           11
      ],
@@ -977,6 +977,10 @@ export const indexObject =[
      ],
      [
           "recollection of Buddha (buddhānussati)",
+          10
+     ],
+     [
+          "postures",
           10
      ],
      [
@@ -1112,6 +1116,10 @@ export const indexObject =[
           10
      ],
      [
+          "youth",
+          9
+     ],
+     [
           "wrong intention (micchā saṅkappa)",
           9
      ],
@@ -1144,6 +1152,10 @@ export const indexObject =[
           9
      ],
      [
+          "thoughts (vitakka)",
+          9
+     ],
+     [
           "talk (kathā)",
           9
      ],
@@ -1169,10 +1181,6 @@ export const indexObject =[
      ],
      [
           "powers",
-          9
-     ],
-     [
-          "postures",
           9
      ],
      [
@@ -1273,10 +1281,6 @@ export const indexObject =[
      ],
      [
           "zeal (chanda)",
-          8
-     ],
-     [
-          "youth",
           8
      ],
      [
@@ -1432,6 +1436,14 @@ export const indexObject =[
           8
      ],
      [
+          "danger (ādīnava)",
+          8
+     ],
+     [
+          "carpenters",
+          8
+     ],
+     [
           "bodhipakkhiyā dhammā",
           8
      ],
@@ -1445,6 +1457,10 @@ export const indexObject =[
      ],
      [
           "ascetics and brahmins (samaṇabrāhmaṇa)",
+          8
+     ],
+     [
+          "animals",
           8
      ],
      [
@@ -1481,10 +1497,6 @@ export const indexObject =[
      ],
      [
           "treasures",
-          7
-     ],
-     [
-          "thoughts (vitakka)",
           7
      ],
      [
@@ -1748,19 +1760,11 @@ export const indexObject =[
           7
      ],
      [
-          "carpenters",
-          7
-     ],
-     [
           "brahmās",
           7
      ],
      [
           "attention (manasikāra)",
-          7
-     ],
-     [
-          "animals",
           7
      ],
      [
@@ -2080,10 +2084,6 @@ export const indexObject =[
           6
      ],
      [
-          "danger (ādīnava)",
-          6
-     ],
-     [
           "craving for existence (bhavataṇhā)",
           6
      ],
@@ -2129,10 +2129,6 @@ export const indexObject =[
      ],
      [
           "asuras",
-          6
-     ],
-     [
-          "arrowsmith",
           6
      ],
      [
@@ -2456,6 +2452,10 @@ export const indexObject =[
           5
      ],
      [
+          "eyes",
+          5
+     ],
+     [
           "eternalism (sassatavāda)",
           5
      ],
@@ -2564,6 +2564,10 @@ export const indexObject =[
           5
      ],
      [
+          "arrowsmiths",
+          5
+     ],
+     [
           "arrows",
           5
      ],
@@ -2633,6 +2637,10 @@ export const indexObject =[
      ],
      [
           "torture",
+          4
+     ],
+     [
+          "tolerating bad thoughts",
           4
      ],
      [
@@ -2820,6 +2828,10 @@ export const indexObject =[
           4
      ],
      [
+          "mind (cetas)",
+          4
+     ],
+     [
           "mental illness",
           4
      ],
@@ -2940,10 +2952,6 @@ export const indexObject =[
           4
      ],
      [
-          "eyes",
-          4
-     ],
-     [
           "enemies",
           4
      ],
@@ -2985,6 +2993,10 @@ export const indexObject =[
      ],
      [
           "dangers",
+          4
+     ],
+     [
+          "corpse",
           4
      ],
      [
@@ -3200,10 +3212,6 @@ export const indexObject =[
           3
      ],
      [
-          "tolerating bad thoughts",
-          3
-     ],
-     [
           "timidity (sārajja)",
           3
      ],
@@ -3253,6 +3261,10 @@ export const indexObject =[
      ],
      [
           "sequential path",
+          3
+     ],
+     [
+          "sensual thoughts (kāmavitakka)",
           3
      ],
      [
@@ -3392,6 +3404,10 @@ export const indexObject =[
           3
      ],
      [
+          "not tolerating unwholesome",
+          3
+     ],
+     [
           "non-remorse (avippaṭisāra)",
           3
      ],
@@ -3456,10 +3472,6 @@ export const indexObject =[
           3
      ],
      [
-          "mind (cetas)",
-          3
-     ],
-     [
           "milk",
           3
      ],
@@ -3472,11 +3484,19 @@ export const indexObject =[
           3
      ],
      [
+          "meditation subject",
+          3
+     ],
+     [
           "meditation on ugliness (asubhabhāvanā)",
           3
      ],
      [
           "Māluṅkyaputta, Ven.",
+          3
+     ],
+     [
+          "malicious thoughts (byāpādavitakka)",
           3
      ],
      [
@@ -3772,6 +3792,10 @@ export const indexObject =[
           3
      ],
      [
+          "deer",
+          3
+     ],
+     [
           "decline (parihāna)",
           3
      ],
@@ -3788,6 +3812,10 @@ export const indexObject =[
           3
      ],
      [
+          "cruel thoughts (vihiṁsāvitakka)",
+          3
+     ],
+     [
           "crocodiles",
           3
      ],
@@ -3797,6 +3825,10 @@ export const indexObject =[
      ],
      [
           "craving for sensual pleasures (kāmataṇhā)",
+          3
+     ],
+     [
+          "cowherd",
           3
      ],
      [
@@ -4108,7 +4140,7 @@ export const indexObject =[
           2
      ],
      [
-          "turtle and yoke",
+          "turtle",
           2
      ],
      [
@@ -4145,6 +4177,18 @@ export const indexObject =[
      ],
      [
           "throat",
+          2
+     ],
+     [
+          "thoughts of renunciation (nekkhammavitakka)",
+          2
+     ],
+     [
+          "thoughts of non-ill will (abyāpādavitakka)",
+          2
+     ],
+     [
+          "thoughts of non-cruelty (avihiṁsāvitakka)",
           2
      ],
      [
@@ -4213,6 +4257,10 @@ export const indexObject =[
      ],
      [
           "Subha, Todeyya’s son",
+          2
+     ],
+     [
+          "strong person",
           2
      ],
      [
@@ -4313,10 +4361,6 @@ export const indexObject =[
      ],
      [
           "separation from the loved",
-          2
-     ],
-     [
-          "sensual thoughts (kāmavitakka)",
           2
      ],
      [
@@ -4600,10 +4644,6 @@ export const indexObject =[
           2
      ],
      [
-          "not tolerating unwholesome",
-          2
-     ],
-     [
           "non-hatred (adosa)",
           2
      ],
@@ -4664,6 +4704,10 @@ export const indexObject =[
           2
      ],
      [
+          "mind, higher (adhicitta)",
+          2
+     ],
+     [
           "mind (mano)",
           2
      ],
@@ -4685,10 +4729,6 @@ export const indexObject =[
      ],
      [
           "mental conduct (manosamācāra)",
-          2
-     ],
-     [
-          "meditation subject",
           2
      ],
      [
@@ -4725,10 +4765,6 @@ export const indexObject =[
      ],
      [
           "maliciousness (byāpannacitta)",
-          2
-     ],
-     [
-          "malicious thoughts (byāpādavitakka)",
           2
      ],
      [
@@ -5256,19 +5292,11 @@ export const indexObject =[
           2
      ],
      [
-          "deer",
-          2
-     ],
-     [
           "deep (gambhīra)",
           2
      ],
      [
           "death (maccu)",
-          2
-     ],
-     [
-          "dead body",
           2
      ],
      [
@@ -5288,10 +5316,6 @@ export const indexObject =[
           2
      ],
      [
-          "cruel thoughts (vihiṁsāvitakka)",
-          2
-     ],
-     [
           "creepers",
           2
      ],
@@ -5300,15 +5324,7 @@ export const indexObject =[
           2
      ],
      [
-          "cowherd",
-          2
-     ],
-     [
           "corruptions (saṅkilesa)",
-          2
-     ],
-     [
-          "corpse",
           2
      ],
      [
@@ -5972,6 +5988,42 @@ export const indexObject =[
           1
      ],
      [
+          "thoughts of sensuality (kāmavitakka)",
+          1
+     ],
+     [
+          "thoughts of sensuality (kāmasaṅkappa)",
+          1
+     ],
+     [
+          "thoughts of renunciation (nekkhammasaṅkappa)",
+          1
+     ],
+     [
+          "thoughts of non-ill will (abyāpādasaṅkappa)",
+          1
+     ],
+     [
+          "thoughts of non-cruelty (avihiṁsāsaṅkappa)",
+          1
+     ],
+     [
+          "thoughts of malice (byāpādavitakka)",
+          1
+     ],
+     [
+          "thoughts of malice (byāpādasaṅkappa)",
+          1
+     ],
+     [
+          "thoughts of cruelty (vihiṁsāvitakka)",
+          1
+     ],
+     [
+          "thoughts of cruelty (vihiṁsāsaṅkappa)",
+          1
+     ],
+     [
           "thoughts of a great man (mahāpurisavitakka)",
           1
      ],
@@ -5981,6 +6033,10 @@ export const indexObject =[
      ],
      [
           "thoroughbred people (ājāniya)",
+          1
+     ],
+     [
+          "thinking",
           1
      ],
      [
@@ -6113,10 +6169,6 @@ export const indexObject =[
      ],
      [
           "stubbornness (dovacassa)",
-          1
-     ],
-     [
-          "strong person",
           1
      ],
      [
@@ -6732,6 +6784,10 @@ export const indexObject =[
           1
      ],
      [
+          "peg",
+          1
+     ],
+     [
           "peaceful abidings/meditations",
           1
      ],
@@ -7033,10 +7089,6 @@ export const indexObject =[
      ],
      [
           "mind, skilled in ones own (sacittapariyāyakusala)",
-          1
-     ],
-     [
-          "mind, higher (adhicitta)",
           1
      ],
      [
@@ -8140,6 +8192,10 @@ export const indexObject =[
           1
      ],
      [
+          "decoys",
+          1
+     ],
+     [
           "declaration of knowledge (ñāṇavāda)",
           1
      ],
@@ -8392,7 +8448,7 @@ export const indexObject =[
           1
      ],
      [
-          "building",
+          "buildings",
           1
      ],
      [
@@ -8605,6 +8661,10 @@ export const indexObject =[
      ],
      [
           "Asita, hermit",
+          1
+     ],
+     [
+          "arrowsmith",
           1
      ],
      [
