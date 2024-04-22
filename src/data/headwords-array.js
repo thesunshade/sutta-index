@@ -862,6 +862,7 @@ export const headwordsArray =[
      "generosity (cāga)",
      "gentleman (kulaputta)",
      "gentleness",
+     "geographic features",
      "gharials",
      "Ghaṭīkāra, householder",
      "ghee",

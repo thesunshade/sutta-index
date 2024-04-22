@@ -68,12 +68,12 @@ nature		xref insects
 ponds		xref lakes
 trees		xref Bodhi Tree
 lakes		xref ponds
-nature		xref mountains
-nature		xref lakes
-nature		xref rivers
-nature		xref wilderness (arañña)
+geographic features		xref mountains
+geographic features		xref lakes
+geographic features		xref rivers
+geographic features		xref wilderness (arañña)
 nature		xref elements (dhātu)
-nature		xref oceans
+geographic features		xref oceans
 elements (dhātu)		xref elements, four great (cattāri mahābhūtāni)
 elements, four great (cattāri mahābhūtāni)		xref elements (dhātu)
 fires		xref bonfires
@@ -14296,13 +14296,14 @@ body parts		xref bones
 body parts		xref skeleton
 body parts		xref spit
 body parts		xref throat
-nature		xref bog (paṅka)
+geographic features		xref bog (paṅka)
 nature		xref celestial bodies
 nature		xref earthquakes
 nature		xref floods (ogha)
-nature		xref islands
-nature		xref ponds
+geographic features		xref islands
+geographic features		xref ponds
 nature		xref rocks
+nature		xref geographic features
 nature		xref sky
 nature		xref stones
 nature		xref water

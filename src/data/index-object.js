@@ -26714,6 +26714,21 @@ export const indexObject ={
                     "xrefs": []
                }
           },
+          "geographic features": {
+               "": {
+                    "locators": [],
+                    "xrefs": [
+                         "xref bog (paṅka)",
+                         "xref islands",
+                         "xref lakes",
+                         "xref mountains",
+                         "xref oceans",
+                         "xref ponds",
+                         "xref rivers",
+                         "xref wilderness (arañña)"
+                    ]
+               }
+          },
           "gharials": {
                "simile for women": {
                     "locators": [
@@ -46072,25 +46087,18 @@ export const indexObject ={
                     "locators": [],
                     "xrefs": [
                          "xref animals",
-                         "xref bog (paṅka)",
                          "xref celestial bodies",
                          "xref earthquakes",
                          "xref elements (dhātu)",
                          "xref floods (ogha)",
+                         "xref geographic features",
                          "xref insects",
-                         "xref islands",
-                         "xref lakes",
-                         "xref mountains",
-                         "xref oceans",
                          "xref plants",
-                         "xref ponds",
-                         "xref rivers",
                          "xref rocks",
                          "xref sky",
                          "xref stones",
                          "xref water",
-                         "xref weather",
-                         "xref wilderness (arañña)"
+                         "xref weather"
                     ]
                },
                "as pleasing": {
