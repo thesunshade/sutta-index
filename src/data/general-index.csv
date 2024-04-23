@@ -10,6 +10,164 @@ talk (kathā)		SN56.10
 speech	useless (tiraccha)	SN56.10
 oceans		xref Ganges river
 encouragement		xref urgency
+insects		xref flies 
+animals		xref  bull (usabha)
+animals		xref  calf
+animals		xref  cats
+animals		xref  cows
+animals		xref  crocodiles
+animals		xref  deer
+animals		xref  dogs
+animals		xref  elephants
+animals		xref  fish
+animals		xref  gharials
+animals		xref  horses
+animals		xref  insects
+animals		xref  lions
+animals		xref livestock
+animals		xref  monkey
+animals		xref  mules
+animals		xref  oxen
+animals		xref  rabbits
+animals		xref  sharks
+animals		xref  snakes
+animals		xref turtle
+animals		xref  viper
+non-humans (amanussa)		xref  asuras
+non-humans (amanussa)		xref  goblins (pisāca)
+non-humans (amanussa)		xref  gods
+non-humans (amanussa)		xref devas
+non-humans (amanussa)		xref gods (deva)
+non-humans (amanussa)		xref ghosts
+non-humans (amanussa)		xref kinnara (kiṁpurisa)
+non-humans (amanussa)		xref nāgas
+non-humans (amanussa)		xref nymphs (accharā)
+non-humans (amanussa)		xref supaṇṇa
+non-humans (amanussa)		xref wardens of hell (nirayapāla)
+non-humans (amanussa)		xref yakkhas
+non-humans (amanussa)		xref zombie
+non-humans (amanussa)		xref brahmās
+arrows		xref darts (salla)
+dead body		xref corpse
+water		xref dew
+trees		xref sal trees
+flowers		xref jasmine
+flowers		xref lotus
+flowers		xref spikenard
+flowers		xref water lilly
+plants		xref creepers
+plants		xref leaves
+plants		xref neem
+plants		xref flowers
+occupations		xref accountants
+occupations		xref acrobats
+occupations		xref archers
+occupations		xref arrowsmiths
+occupations		xref attendant
+occupations		xref bandits
+occupations		xref barbers
+occupations		xref bath attendant
+occupations		xref bondservants (dāsa)
+occupations		xref butchers
+occupations		xref caregiver
+occupations		xref carpenters
+occupations		xref chariot-maker
+occupations		xref conch blowers
+occupations		xref cooks
+occupations		xref courtesans
+occupations		xref cowherd
+occupations		xref craftsperson (sippika)
+occupations		xref doctors (bhisakka)
+occupations		xref employees
+occupations		xref farmers (kassaka)
+occupations		xref gamblers
+occupations		xref gatekeeper
+occupations		xref goldsmiths
+occupations		xref guards
+occupations		xref healer (bhisakka)
+occupations		xref horse trainers
+occupations		xref house builder
+occupations		xref hunters
+occupations		xref hunters
+occupations		xref kings
+occupations		xref merchants (vessa)
+occupations		xref nurses
+occupations		xref potters
+occupations		xref surgeons
+occupations		xref teachers
+occupations		xref thieves (cora)
+occupations		xref traders (vāṇija)
+occupations		xref work
+occupations		xref workers (kammakara)
+occupations		xref workers (kammakara)
+weapons		xref arrows
+weapons		xref darts (salla)
+weapons		xref swords
+food		xref beverage
+food		xref butter
+food		xref eggs
+food		xref fruit
+food		xref mangos
+food		xref ghee
+food		xref gourds
+food		xref gourds
+food		xref honey cake
+food		xref milk
+food		xref porridge (yāgu)
+food		xref rice
+food		xref sugar cane
+body parts		xref blood
+body parts		xref bones
+body parts		xref skeleton
+body parts		xref spit
+body parts		xref throat
+geographic features		xref bog (paṅka)
+nature		xref celestial bodies
+nature		xref earthquakes
+nature		xref floods (ogha)
+geographic features		xref islands
+geographic features		xref ponds
+nature		xref rocks
+nature		xref geographic features
+nature		xref sky
+nature		xref stones
+nature		xref water
+nature		xref weather
+celestial bodies		xref galaxies
+celestial bodies		xref moon
+celestial bodies		xref space
+celestial bodies		xref sun (ādicca)
+celestial bodies		xref sun (sūriya)
+celestial bodies		xref stars
+celestial bodies		xref world system (lokadhātu)
+weather		xref rain
+weather		xref storms
+weather		xref wind (vāyo)
+buildings		xref houses
+buildings		xref citadel
+buildings		xref dwellings (senāsana)
+buildings		xref empty huts (suññāgāra)
+buildings		xref fire chamber
+buildings		xref guest houses
+buildings		xref houses
+buildings		xref palaces (pāsādā)
+buildings		xref roof
+buildings		xref roof peak
+buildings		xref shrines (cetiya)
+buildings		xref stupa (thupa)
+buildings		xref wall
+dead animal		xref animals
+crops (sassa)		xref cows
+thoughts of good will (abyāpādavitakka)		xref thoughts of non-ill will (abyāpādavitakka)
+thoughts of harmlessness (avihiṁsāvitakka)		xref thoughts of non-cruelty (avihiṁsāvitakka)
+thoughts of cruelty (vihiṁsāvitakka)		xref cruel thoughts (vihiṁsāvitakka)
+thoughts of malice (byāpādavitakka)		xref malicious thoughts (byāpādavitakka)
+thoughts of sensuality (kāmavitakka)		xref sensual thoughts (kāmavitakka)
+thinking		xref thoughts (saṅkappa)
+thinking		xref thoughts (vitakka)
+places		xref dwellings
+angry (kupita)		xref anger (kodha)
+anger (kodha)		xref angry (kupita)
 eggs		xref reproduction (yoni)
 trees		xref trumpet flower tree (cittapāṭalī)
 unlearned (appassuta)		xref learned (bahussutā)
@@ -615,8 +773,6 @@ monument		xref stupa (thupa)
 elders		xref seniority
 skillfulness (kusala)		xref unskillfulness (akusala)
 unskillfulness (akusala)		xref skillfulness (kusala)
-misrepresenting the Buddha		xref Buddha, the
-Buddha, the		xref misrepresenting the Buddha
 unvirtuous people		xref bad people (asappurisa)
 fights		xref disputes
 fauns		xref kinnara (kiṁpurisa)
@@ -3221,8 +3377,6 @@ speech	useless: definition	DN2
 loving-kindness (mettā)	like a conch blower	DN13
 loving-kindness (mettā)	as a path to brahma world	DN13
 loving-kindness (mettā)	enlightenment and	MN7
-loving-kindness (mettā)	under abuse	MN21
-speech	types of	MN21
 death (maraṇa)	subject to	MN26
 loving-kindness (mettā)	in action	MN31
 loving-kindness (mettā)	in action	MN33
@@ -4958,15 +5112,15 @@ Dhamma	continuation of, factors leading to	AN2.20
 mistakes	realizing when you have made one	AN2.21
 confession	accepting	AN2.21
 fools (bāla)		AN2.21
-misrepresenting the Buddha		AN2.22
+Buddha, the	misrepresenting	AN2.22
 Dhamma teaching	misrepresenting Dhamma	AN2.23
-misrepresenting the Buddha		AN2.23
+Buddha, the	misrepresenting	AN2.23
 Dhamma teaching	misrepresenting Dhamma	AN2.24
 explicit meaning	giving interpreted meaning	AN2.24
 interpreted meaning	giving explicit meaning	AN2.24
 Dhamma teaching	explicit vs. interpreted	AN2.24
 Dhamma teaching	explicit vs. interpreted	AN2.25
-misrepresenting the Buddha		AN2.25
+Buddha, the	misrepresenting	AN2.25
 hiding misdeeds	result	AN2.26
 wrong view (micchā diṭṭhi)	leading to hell	AN2.27
 wrong view (micchā diṭṭhi)	leading to animal world	AN2.27
@@ -5304,7 +5458,7 @@ characteristics (lakkhaṇa)	of conditioned phenomena	AN3.47
 arising, vanishing, and change (uppādo, vayo, aññathatta)		AN3.47
 conditioned (saṅkhata)	characteristics	AN3.47
 unconditioned (asaṅkhata)	characteristics	AN3.47
-sal tree	supported by Himalayas like family supported by head with faith	AN3.48
+sal trees	supported by Himalayas like family supported by head with faith	AN3.48
 family	grows in faith, virtue, wisdom	AN3.48
 painful feelings	enduring	AN3.49
 keenness (ātāpi)	to prevent bad, develop good, endure pain	AN3.49
@@ -6502,7 +6656,7 @@ trees	like person with faith	AN5.38
 parents	wanting children	AN5.39
 merit sharing	parents hope children will share	AN5.39
 children	caring for parents	AN5.39
-sal tree	supported by Himalayas like family supported by head with faith	AN5.40
+sal trees	supported by Himalayas like family supported by head with faith	AN5.40
 family	head has faith	AN5.40
 Anāthapiṇḍika, householder	reasons to get rich	AN5.41
 wealth	reasons to get rich	AN5.41
@@ -6645,10 +6799,15 @@ perception of dissatisfaction with the whole world (sabbaloke anabhiratasaññā
 perception of impermanence (aniccasaññā)	result in paññāvmutti	AN5.71
 perception of death (maraṇasaññā)	result in paññāvmutti	AN5.71
 cross-bar, lifted up	definition	AN5.71
-trench, filled in	definition	AN5.71
+moats	filled in: definition	AN5.71
 pillars	pulled up: definition	AN5.71
 unbarred	definition	AN5.71
 banner and burden put down	definition	AN5.71
+ignorance (avijjā)	given up, like cross-bar raised	AN5.71
+rebirth	given up, like filled in moat	AN5.71
+craving (taṇha)	given up, like pillar pulled up	AN5.71
+fetters (saṁyojana)	five lower given up, like unbarred	AN5.71
+conceit “I am” (asmimāna)	given up, like banner lowered	AN5.71
 perception of impermanence (aniccasaññā)	result in cetovimutti	AN5.72
 perception of suffering in impermanence (anicce dukkhasaññā)	result in cetovimutti	AN5.72
 perception of not-self in suffering (dukkhe anattasaññā)	result in cetovimutti	AN5.72
@@ -6690,7 +6849,7 @@ poetry	will become more popular	AN5.79
 senior monastics	will become corrupt	AN5.79
 requisites, four	attachment to causes danger for community	AN5.80
 perils (bhaya)	future	AN5.80
-monks	mixing with nuns	AN5.80
+bhikkhus	mixing with nuns	AN5.80
 disrobing	due to mixing with nuns	AN5.80
 senior monastics	desirable and undesirable	AN5.80
 senior monastics	desirable and undesirable	AN5.81
@@ -14089,8 +14248,6 @@ self-reflection	meditating happily when bad qualities not found	MN15
 self-reflection	like person looking in mirror	MN15
 mirrors	simile for self-reflection	MN15
 youth	checking reflection, simile for self-examination	MN15
-angry (kupita)		xref angry (kupita)
-anger (kodha)		xref anger (kodha)
 mental barrenness (cetokhila)	five kinds	MN16
 bondages of the mind (cetovinibaddha, cetasovinibandha)	five kinds	MN16
 mental barrenness (cetokhila)	definition	MN16
@@ -14116,7 +14273,6 @@ mindfulness (sati)	conditions for	MN17
 concentration (samādhi)	conditions for	MN17
 defilements (kilesa)	conditions for them to end	MN17
 people (puggala)	relying on	MN17
-places		xref dwellings
 Daṇḍapāṇi the Sakyan	questioning the Buddha	MN18
 conflicts (viggahaya)	Buddha not conflicting with anyone	MN18
 Dhamma	in brief	MN18
@@ -14140,21 +14296,14 @@ senses	six	MN18
 consciousness (viññāṇa)	analysis of	MN18
 honey cake	simile for the Dhamma	MN18
 Bodhisatta	meditation experience	MN19
-thinking		xref thoughts (saṅkappa)
-thinking		xref thoughts (vitakka)
 thoughts (vitakka)	in meditation	MN19
 meditation	advice for	MN19
 sensual thoughts (kāmavitakka)	dealing with	MN19
 malicious thoughts (byāpādavitakka)	dealing with	MN19
 cruel thoughts (vihiṁsāvitakka)	dealing with	MN19
-thoughts of cruelty (vihiṁsāvitakka)		xref cruel thoughts (vihiṁsāvitakka)
-thoughts of malice (byāpādavitakka)		xref malicious thoughts (byāpādavitakka)
-thoughts of sensuality (kāmavitakka)		xref sensual thoughts (kāmavitakka)
 thoughts of renunciation (nekkhammavitakka)	in meditation	MN19
 thoughts of non-ill will (abyāpādavitakka)	in meditation	MN19
 thoughts of non-cruelty (avihiṁsāvitakka)	in meditation	MN19
-thoughts of good will (abyāpādavitakka)		xref thoughts of non-ill will (abyāpādavitakka)
-thoughts of harmlessness (avihiṁsāvitakka)		xref thoughts of non-cruelty (avihiṁsāvitakka)
 cowherd	simile for dealing with thoughts in meditation	MN19
 meditation	dealing with thoughts, like cowherd	MN19
 unskillful qualities (akusala dhamma)	overcoming in meditation	MN19
@@ -14163,7 +14312,6 @@ thinking	in meditation	MN19
 intention (cetana)	frequent thoughts become our intention	MN19
 mind (cetas)	frequent thoughts become nature of our mind	MN19
 thoughts (vitakka)	frequent thoughts become nature of our mind	MN19
-crops (sassa)		xref cows
 jhānas	result of stilling thoughts	MN19
 decoys	simile for Māra as hunter	MN19
 Māra	like hunter	MN19
@@ -14178,156 +14326,118 @@ meditation subject	changing to wholesome	MN20
 carpenters	simile for replacing unwholesome with wholesome	MN20
 peg	simile for replacing unwholesome with wholesome	MN20
 animals	dead body of, simile for disgust with unwholesome	MN20
-dead animal		xref animals
 youth	dead animal around neck of, simile for disgust with unwholesome	MN20
 eyes	looking away, simile for not paying attention to bad thoughts	MN20
 postures	stilling, simile for stilling thoughts	MN20
 strong person	crushing weak person, simile for crushing mind with mind	MN20
 danger (ādīnava)	focusing on to remove thought	MN20
 thoughts (vitakka)	thinking what one wants to think	MN20
-insects		xref flies 
-animals		xref  bull (usabha)
-animals		xref  calf
-animals		xref  cats
-animals		xref  cows
-animals		xref  crocodiles
-animals		xref  deer
-animals		xref  dogs
-animals		xref  elephants
-animals		xref  fish
-animals		xref  gharials
-animals		xref  horses
-animals		xref  insects
-animals		xref  lions
-animals		xref livestock
-animals		xref  monkey
-animals		xref  mules
-animals		xref  oxen
-animals		xref  rabbits
-animals		xref  sharks
-animals		xref  snakes
-animals		xref turtle
-animals		xref  viper
-non-humans (amanussa)		xref  asuras
-non-humans (amanussa)		xref  goblins (pisāca)
-non-humans (amanussa)		xref  gods
-non-humans (amanussa)		xref devas
-non-humans (amanussa)		xref gods (deva)
-non-humans (amanussa)		xref ghosts
-non-humans (amanussa)		xref kinnara (kiṁpurisa)
-non-humans (amanussa)		xref nāgas
-non-humans (amanussa)		xref nymphs (accharā)
-non-humans (amanussa)		xref supaṇṇa
-non-humans (amanussa)		xref wardens of hell (nirayapāla)
-non-humans (amanussa)		xref yakkhas
-non-humans (amanussa)		xref zombie
-non-humans (amanussa)		xref brahmās
-arrows		xref darts (salla)
-dead body		xref corpse
-water		xref dew
-trees		xref sal tree
-flowers		xref jasmine
-flowers		xref lotus
-flowers		xref spikenard
-flowers		xref water lilly
-plants		xref creepers
-plants		xref leaves
-plants		xref neem
-plants		xref flowers
-occupations		xref accountants
-occupations		xref acrobats
-occupations		xref archers
-occupations		xref arrowsmiths
-occupations		xref attendant
-occupations		xref bandits
-occupations		xref barbers
-occupations		xref bath attendant
-occupations		xref bondservants (dāsa)
-occupations		xref butchers
-occupations		xref caregiver
-occupations		xref carpenters
-occupations		xref chariot-maker
-occupations		xref conch blowers
-occupations		xref cooks
-occupations		xref courtesans
-occupations		xref cowherd
-occupations		xref craftsperson (sippika)
-occupations		xref doctors (bhisakka)
-occupations		xref employees
-occupations		xref farmers (kassaka)
-occupations		xref gamblers
-occupations		xref gatekeeper
-occupations		xref goldsmiths
-occupations		xref guards
-occupations		xref healer (bhisakka)
-occupations		xref horse trainers
-occupations		xref house builder
-occupations		xref hunters
-occupations		xref hunters
-occupations		xref kings
-occupations		xref merchants (vessa)
-occupations		xref nurses
-occupations		xref potters
-occupations		xref surgeons
-occupations		xref teachers
-occupations		xref thieves (cora)
-occupations		xref traders (vāṇija)
-occupations		xref work
-occupations		xref workers (kammakara)
-occupations		xref workers (kammakara)
-weapons		xref arrows
-weapons		xref darts (salla)
-weapons		xref swords
-food		xref beverage
-food		xref butter
-food		xref eggs
-food		xref fruit
-food		xref mangos
-food		xref ghee
-food		xref gourds
-food		xref gourds
-food		xref honey cake
-food		xref milk
-food		xref porridge (yāgu)
-food		xref rice
-food		xref sugar cane
-body parts		xref blood
-body parts		xref bones
-body parts		xref skeleton
-body parts		xref spit
-body parts		xref throat
-geographic features		xref bog (paṅka)
-nature		xref celestial bodies
-nature		xref earthquakes
-nature		xref floods (ogha)
-geographic features		xref islands
-geographic features		xref ponds
-nature		xref rocks
-nature		xref geographic features
-nature		xref sky
-nature		xref stones
-nature		xref water
-nature		xref weather
-celestial bodies		xref galaxies
-celestial bodies		xref moon
-celestial bodies		xref space
-celestial bodies		xref sun (ādicca)
-celestial bodies		xref sun (sūriya)
-celestial bodies		xref stars
-celestial bodies		xref world system (lokadhātu)
-weather		xref rain
-weather		xref storms
-weather		xref wind (vāyo)
-buildings		xref houses
-buildings		xref citadel
-buildings		xref dwellings (senāsana)
-buildings		xref empty huts (suññāgāra)
-buildings		xref fire chamber
-buildings		xref guest houses
-buildings		xref houses
-buildings		xref palaces (pāsādā)
-buildings		xref roof
-buildings		xref roof peak
-buildings		xref shrines (cetiya)
-buildings		xref stupa (thupa)
-buildings		xref wall
+Phagguṇa, Ven.	associating too much with a monk	MN21
+bhikkhunīs	associating too much with bhikkhunī	MN21
+angry (kupita)	when friends are criticized	MN21
+bhikkhus	mixing with nuns	MN21
+monks		xref bhikkhus
+anger		xref anger, giving up (kodha)
+occupations		xref charioteer
+servants		xref bondservants (dāsa)
+bondservants (dāsa)		xref Kāḷī, servant
+medicine		xref requisites, four
+almsfood		xref requisites, four
+dwellings (senāsana)		xref requisites, four
+robes		xref requisites, four
+shelter		xref dwellings (senāsana)
+harsh speech		xref gentle or harsh (saṇhena vā pharusena)
+false speech		xref true or false (bhūtena vā abhūtena)
+shovel		xref spade
+cobra		xref snakes
+trenches		xref moats
+anger, giving up (kodha)	by giving up thoughts of lay life	MN21
+loving-kindness (mettā)	under abuse	MN21
+speech	types of	MN21
+eating in one sitting (ekāsanik)	advice to	MN21
+health	through eating once a day	MN21
+chariots	simile for well trained monks	MN21
+charioteer	simile for the Buddha	MN21
+sal trees	clearing weeds from, simile for giving up unwholesome 	MN21
+unskillful qualities (akusala dhamma)	giving up, like clearing sal grove	MN21
+growth	achieving in dhammavinaya	MN21
+Vedehikā, householder	tested by servant Kāḷī	MN21
+Kāḷī, servant	testing Vedehikā	MN21
+anger (kopa)	not showing on the outside	MN21
+reputation	undeserved	MN21
+peace (upasama)	only when not criticized	MN21
+criticism	reaction to 	MN21
+criticism	how to respond to	MN21
+requisites, four	easy to admonish for the sake of	MN21
+easy to admonish (suvaca)	because of respect for the teaching	MN21
+timely or untimely (kālena vā akālena)	dealing with speech that may be	MN21
+true or false (bhūtena vā abhūtena)	dealing with speech that may be	MN21
+gentle or harsh (saṇhena vā pharusena)	dealing with speech that may be	MN21
+beneficial or harmful (atthasaṁhitena vā anatthasaṁhitena)	dealing with speech that may be	MN21
+heart of love or secret hate (mettacittā vā dosantarā)	dealing with speech that may be	MN21
+loving-kindness (mettā)	to respond to bad speech	MN21
+spade	digging away the earth, simile for enduring speech	MN21
+earth, the	digging away, simile for enduring speech	MN21
+dye	making pictures in space, simile for enduring speech	MN21
+space	making pictures in, simile for enduring speech	MN21
+torches	burning away Ganges, simile for enduring speech	MN21
+Ganges river	burning away, simile for enduring speech	MN21
+cat-skin bag	making noise, simile for enduring speech	MN21
+speech	five kinds of, bad and good	MN21
+thieves (cora)	cutting you limb from limb, simile for enduring speech	MN21
+saws	thieves cutting you limb from limb, simile for enduring speech	MN21
+simile of the saw	thieves cutting you limb from limb	MN21
+Ariṭṭha, Ven.	obstructions are not really obstructions 	MN22
+obstructions (antarāyikā dhammā)	not really obstructions	MN22
+simile of skeleton	obstruction of sensual pleasures	MN22
+simile of scrap of meat	obstruction of sensual pleasures	MN22
+simile of grass torch	obstruction of sensual pleasures	MN22
+simile of pit of glowing coals	obstruction of sensual pleasures	MN22
+simile of dream	obstruction of sensual pleasures	MN22
+simile of fruit on tree	obstruction of sensual pleasures	MN22
+simile of butchers knife	obstruction of sensual pleasures	MN22
+simile of staking sword	obstruction of sensual pleasures	MN22
+simile of snakes head	obstruction of sensual pleasures	MN22
+sense pleasures (kāma, kāmaguṇa)	danger of	MN22
+sexual activity	without desire impossible	MN22
+sensual thoughts (kāmavitakka)	sensual acts always lead to	MN22
+memorizing	for the sake of debating, without examining meaning	MN22
+wrong grasp (duggahitatta)	of the Dhamma	MN22
+snakes	wrongly grasping, simile for wrongly grasping Dhamma	MN22
+fools (moghapurisa)	wrongly grasping Dhamma	MN22
+rafts	simile for using Dhamma to cross over	MN22
+views (diṭṭhi)	grounds for (diṭṭhiṭṭhāna)	MN22
+Dhamma	like a raft	MN22
+aggregates (khandha)	as not self	MN22
+eternalism (sassatavāda)	ground for views	MN22
+views about the self (attavāda)	ground for views	MN22
+“This is not mine, I am not this, this is not my self.”	aggregates 	MN22
+anxiety (paritassana)	because of grasping at aggregates as self	MN22
+grasping (pariggaṇhāti)	something permanent	MN22
+views about the self (attavāda)	that doesn’t cause sorrow	MN22
+wrong views	causing sorrow	MN22
+self (atta)	what belongs to	MN22
+impermanence	aggregates 	MN22
+impermanence	suffering and	MN22
+cross-bar, lifted up	definition	MN22
+moats	filled in: definition	MN22
+pillars	pulled up: definition	MN22
+unbarred	definition	MN22
+banner and burden put down	definition	MN22
+ignorance (avijjā)	given up, like cross-bar raised	MN22
+rebirth	given up, like filled in moat	MN22
+craving (taṇha)	given up, like pillar pulled up	MN22
+fetters (saṁyojana)	five lower given up, like unbarred	MN22
+conceit “I am” (asmimāna)	given up, like banner lowered	MN22
+Tathāgatas	consciousness not found	MN22
+Buddha, the	misrepresenting	MN22
+exterminator 	accusing Buddha of being	MN22
+Buddha, the	praise and blame does not affect	MN22
+praise and blame	don’t be affected by	MN22
+abandoning (pajahati, pahāna)	what isn’t yours	MN22
+aggregates (khandha)	not yours	MN22
+grass	people taking, simile for not belonging to a self	MN22
+sticks	people taking, simile for not belonging to a self	MN22
+leaves	people taking, simile for not belonging to a self	MN22
+Jeta’s Grove	people taking sticks and leaves, simile for not belonging to a self	MN22
+measure of faith and love (saddhāmatta pemamatta)	one bound for heaven	MN22
