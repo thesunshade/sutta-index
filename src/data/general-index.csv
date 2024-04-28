@@ -220,7 +220,6 @@ plants		xref reeds
 plants		xref seeds
 plants		xref fruit
 plants		xref grains
-plants		xref flowers
 insects		xref moths
 nature		xref insects
 ponds		xref lakes
@@ -230,6 +229,8 @@ geographic features		xref mountains
 geographic features		xref lakes
 geographic features		xref rivers
 geographic features		xref wilderness (arañña)
+mountains		xref Gijjhakūṭa, mountain
+mountains		xref Paṇḍava, mountain
 nature		xref elements (dhātu)
 geographic features		xref oceans
 elements (dhātu)		xref elements, four great (cattāri mahābhūtāni)
@@ -4110,7 +4111,8 @@ elephants	trained and untrained, simile of	MN125
 horses	trained and untrained, simile of	MN125
 oxen	trained and untrained, simile of	MN125
 mountains	blocking view, simile for ignorance blocking realization	MN125
-elephants	simile of gradual training	MN125
+elephants	simile for gradual training	MN125
+elephant tracker (nāgavanika)	simile for gradual training	MN125
 gradual training (anupubbasikkhā)	in detail	MN125
 virtue (sīla)	part of gradual training	MN125
 sense doors, guarding (indriyesu guttadvāra)	part of gradual training	MN125
@@ -4420,7 +4422,7 @@ aggregates (khandha)	regarding as self	MN138
 anxiety (paritassana)	because of grasping at aggregates as self	MN138
 aggregates (khandha)	impermanence of causing anxiety	MN138
 impermanence	of aggregates causes anxiety	MN138
-self	aggregates as	MN138
+self (atta)	aggregates as	MN138
 identity view (sakkāyadiṭṭhi)	aggregates as self	MN138
 grasping (upādāna)	aggregates and	MN138
 Mahā Kaccāna, Ven.	praised by the Buddha	MN138
@@ -4466,7 +4468,7 @@ wisdom (paññā)	do not neglect	MN140
 earth element (pathavī dhātu)	definition	MN140
 earth element (pathavī dhātu)	internal and external	MN140
 body parts	elements and	MN140
-elements	as not self	MN140
+elements (dhātu)	as not self	MN140
 not-self	elements as	MN140
 disillusionment (nibbidā)	with elements	MN140
 dispassion (virāga)	towards elements	MN140
@@ -4530,10 +4532,10 @@ Sāriputta, Ven.	like the mother who gives birth	MN141
 Moggallāna, Ven.	like the one who raises the child	MN141
 four noble truths	as wheel of Dhamma	MN141
 four noble truths	analysis of	MN141
-noble truths of suffering	analysis of	MN141
-noble truths of the origin of suffering	analysis of	MN141
-noble truths of the cessation of suffering	analysis of	MN141
-noble truths of the practice that leads to the cessation of suffering	analysis of	MN141
+noble truth of suffering	analysis of	MN141
+noble truth of the origin of suffering	analysis of	MN141
+noble truth of the cessation of suffering	analysis of	MN141
+noble truth of the practice that leads to the cessation of suffering	analysis of	MN141
 birth (jāti)	as first noble truth	MN141
 old age (jarā)	as first noble truth	MN141
 death (maraṇa)	as first noble truth	MN141
@@ -5177,7 +5179,7 @@ memorizing	helps Dhamma continue	AN2.41
 Dhamma	continuation of, factors leading to	AN2.41
 assemblies	shallow and deep	AN2.42
 assemblies	divided and harmonious	AN2.43
-harmony in Saṅgha (saṅghasāmaggī)		AN2.43
+harmony in Saṅgha (saṅghasāmaggī)	type of assembly	AN2.43
 assemblies	of best and worst	AN2.44
 senior monastics	good and bad	AN2.45
 assemblies	noble and ignoble	AN2.45
@@ -5242,7 +5244,7 @@ happiness (sukha)	form and formless	AN2.76
 freedom by wisdom (paññāvimutti)	one of two things	AN2.87
 heart’s release (cetovimutti)	one of two things	AN2.87
 name and form (nāma rūpa)	two things	AN2.89
-knowledges (vijjā)	one of two things	AN2.90
+knowledge (vijjā)	one of two things	AN2.90
 freedom (vimutti)	one of two things	AN2.90
 views favoring continued existence (bhavadiṭṭhi)	one of two things	AN2.91
 views favoring ending existence (vibhavadiṭṭhi)	one of two things	AN2.91
@@ -5329,8 +5331,8 @@ fools (bāla)	characteristics	AN3.3
 wise people	characteristics	AN3.3
 mistakes	recognizing	AN3.4
 confession	accepting	AN3.4
-questions, asking		AN3.5
-questions, answering		AN3.5
+questions, asking	fools and wise people	AN3.5
+questions, answering	fools and wise people	AN3.5
 fools (bāla)	characteristics	AN3.6
 wise people	characteristics	AN3.6
 jealousy (issā)	leading to hell	AN3.10
@@ -5357,9 +5359,9 @@ wealth	shopkeeper increasing	AN3.19
 meditation	applying oneself to in morning, midday, afternoon	AN3.19
 wealth	shopkeeper increasing	AN3.20
 listening to Dhamma	a monastic who has “benefactors”	AN3.20
-Saviṭṭha, Ven.		AN3.21
-Mahā Koṭṭhita, Ven.		AN3.21
-Sāriputta, Ven.		AN3.21
+Saviṭṭha, Ven.	best arahant	AN3.21
+Mahā Koṭṭhita, Ven.	best arahant	AN3.21
+Sāriputta, Ven.	best arahant	AN3.21
 personal witness (kāyasakkhī)	not easy to compare to other noble disciples	AN3.21
 one attained to view (diṭṭhippatta)	not easy to compare to other noble disciples	AN3.21
 one freed by faith (saddhāvimutta)	not easy to compare to other noble disciples	AN3.21
@@ -6905,7 +6907,7 @@ Dhamma teachers	corrupt	AN5.100
 alms gathering practice	seeking in unsuitable places	AN5.102
 thieves (cora)	as metaphor for bad monastic	AN5.103
 monastic life	wrongly practiced	AN5.103
-monastic	exquisite ascetic	AN5.104
+monastics	exquisite ascetic	AN5.104
 principles of cordiality (dhammā sāraṇīyā)	way of living comfortably	AN5.105
 Saṅgha	living comfortably in	AN5.106
 giving (dāna)	worthy of gifts	AN5.107
@@ -12263,7 +12265,7 @@ taints (āsava)	ended by gradual training	MN51
 freedom (vimutti)	knowing	MN51
 rebirth	knowing that it has ended	MN51
 arahants	not mortifying self or other	MN51
-Dasama, householder		MN52
+Dasama, householder	asks Ven. Ānanda about Dhamma	MN52
 loving-kindness (mettā)	impermanent	MN52
 Dasama, householder	asking about practices that lead to enlightenment	MN52
 Ānanda, Ven.	teaching eleven practices that lead to enlightenment	MN52
@@ -13279,7 +13281,7 @@ Buddha, the	smiling	MN83
 Makhādeva, king	bodhisatta	MN83
 Bodhisatta	reborn as king Makhādeva	MN83
 barbers	of king Makhādeva	MN83
-hairs	grey	MN83
+hair	grey	MN83
 going forth (pabbajja)	non-Buddhist	MN83
 loving-kindness (mettā)	as a path to brahma world	MN83
 compassion (karuṇā)	as a path to brahma world	MN83
@@ -14402,6 +14404,7 @@ sense pleasures (kāma, kāmaguṇa)	danger of	MN22
 sexual activity	without desire impossible	MN22
 sensual thoughts (kāmavitakka)	sensual acts always lead to	MN22
 memorizing	for the sake of debating, without examining meaning	MN22
+nine types of teachings	wrong reasons for learning	MN22
 wrong grasp (duggahitatta)	of the Dhamma	MN22
 snakes	wrongly grasping, simile for wrongly grasping Dhamma	MN22
 fools (moghapurisa)	wrongly grasping Dhamma	MN22
@@ -14539,9 +14542,79 @@ deer	simile for being trapped by sense pleasures	MN26
 ascetics and brahmins (samaṇabrāhmaṇa)	caught by sense pleasures	MN26
 jhānas	as escape from Māra	MN26
 formless attainments	as escape from Māra	MN26
+occupations		xref elephant tracker (nāgavanika)
+household life (gharāvāsa)		xref lay life
+body parts		xref hair
+body parts		xref beards
+celibacy		xref sexual activity, giving up
 Jāṇussoṇi, brahmin	asking about the Buddha’s wisdom	MN27
 Pilotika, wanderer	reporting on the Buddha’s wisdom	MN27
 praise (pasaṁsā)	of the Buddha	MN27
 Buddha, the	praise of	MN27
 elephants	footprints, simile for signs of Buddha	MN27
 footprints	elephant, simile for signs of Buddha	MN27
+debates	seeking with the Buddha	MN27
+disciples of the Buddha	becoming after debating the Buddha	MN27
+“Namo tassa bhagavato…”	brahmin Jāṇussoṇi	MN27
+elephant tracker (nāgavanika)	simile for signs of the Buddha	MN27
+householders (gahapatika)	hearing about a Buddha arising in the world	MN27
+lay life	crowded and dusty	MN27
+hair	shaving off	MN27
+beards	shaving off	MN27
+compassion (anukampā)	giving up killing	MN27
+scrupulous (lajjī)	giving up killing	MN27
+killing, giving up	monastic training	MN27
+stealing, giving up	monastic training	MN27
+sexual activity, giving up	monastic training	MN27
+false speech, giving up	monastic training	MN27
+divisive speech, giving up	monastic training	MN27
+harsh speech, giving up	monastic training	MN27
+useless speech, giving up	monastic training	MN27
+harmony (samagga)	speech leading to	MN27
+plants	not injuring	MN27
+seeds	not injuring	MN27
+eating in one time (ekabhattika)	monastic training	MN27
+shows	avoiding	MN27
+entertainment	avoiding	MN27
+makeup	avoiding	MN27
+perfume	avoiding	MN27
+beds	luxurious, avoiding	MN27
+gold and money (jātarūparajata)	avoiding, monastic training	MN27
+meat	raw, not accepting	MN27
+grains	raw, not accepting	MN27
+bondservants (dāsa)	not accepting as offering	MN27
+women	not accepting as offering	MN27
+girls	not accepting as offering	MN27
+animals	not accepting as offering	MN27
+fields	not accepting as offering	MN27
+messages	avoid running	MN27
+errands	avoid running	MN27
+business	wrong livelihood for monastics	MN27
+deceit (kuhaka/māyāvī)	wrong livelihood for monastics	MN27
+contentment (santuṭṭhi)	with requisites	MN27
+birds	simile for monastics taking only robe and bowl	MN27
+monastics	like bird who only takes wings	MN27
+sense restraint (indriyasaṁvara)	definition	MN27
+sense restraint (indriyasaṁvara)	lack of causes unwholesome	MN27
+sign (nimitta)	of sense object	MN27
+gradual training (anupubbasikkhā)	in detail	MN27
+celibacy	gradual training	MN27
+situational awareness (sampajañña)	gradual training	MN27
+mindfulness and clear comprehension (satisampajañña)	definition	MN27
+eating	situational awareness	MN27
+urinating	situational awareness	MN27
+defecating	situational awareness	MN27
+postures	situational awareness	MN27
+seclusion (paṭisallīna, vivitta)	part of gradual training	MN27
+alms gathering practice	meditating after	MN27
+covetousness, giving up	meditation	MN27
+ill will, giving up	meditation	MN27
+dullness and drowsiness (thinamiddha)	removing	MN27
+doubt (vicikicchā)	removing	MN27
+hindrances (nīvaraṇa)	removal of as part of gradual training	MN27
+jhānas	sign of the Buddha	MN27
+past lives, knowledge of (pubbenivāsānussatiñāṇa)	sign of the Buddha	MN27
+knowledge of passing away and rebirth of beings (cutūpapātañāna)	sign of the Buddha	MN27
+knowledge of destruction of the taints (āsavakkhayañāṇa)	sign of the Buddha	MN27
+four noble truths	sign of the Buddha	MN27
+taints (āsava)	ended by gradual training	MN27
