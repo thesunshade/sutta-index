@@ -5148,14 +5148,339 @@ export const locatorBookObject ={
       "praising monks"
     ],
     [
+      "MN32",
+      "Ānanda, Ven.",
+      "what kind of mendicant would beautify sal park"
+    ],
+    [
+      "MN32",
+      "Anuruddha, Ven.",
+      "what kind of mendicant would beautify sal park"
+    ],
+    [
+      "MN32",
+      "Buddha, the",
+      "what kind of mendicant would beautify sal park"
+    ],
+    [
+      "MN32",
+      "Dhamma discussion",
+      "without faltering"
+    ],
+    [
+      "MN32",
+      "Dhamma teaching",
+      "to uproot underlying tendencies"
+    ],
+    [
+      "MN32",
+      "almsfood",
+      "one who eats only"
+    ],
+    [
+      "MN32",
+      "clothes",
+      "simile for changing meditation practices "
+    ],
+    [
+      "MN32",
+      "determination",
+      "not to move until enlightened"
+    ],
+    [
+      "MN32",
+      "divine eye (dibbacakkhu)",
+      "like one could see 1,000 wheel-rims"
+    ],
+    [
+      "MN32",
+      "dwellings, mental (vihāra)",
+      "in whatever way one wants"
+    ],
+    [
+      "MN32",
+      "few wishes (appiccha)",
+      "disciples who practice"
+    ],
+    [
+      "MN32",
+      "learned (bahussutā)",
+      "person who would illuminate sal park"
+    ],
+    [
+      "MN32",
+      "Mahā Kassapa, Ven.",
+      "what kind of mendicant would beautify sal park"
+    ],
+    [
+      "MN32",
+      "Mahā Moggallāna, Ven.",
+      "what kind of mendicant would beautify sal park"
+    ],
+    [
+      "MN32",
+      "practices",
+      "depending on the individual’s nature"
+    ],
+    [
+      "MN32",
+      "Revata, Ven.",
+      "what kind of mendicant would beautify sal park"
+    ],
+    [
+      "MN32",
+      "rag-robe wearing",
+      "disciples who practice"
+    ],
+    [
+      "MN32",
+      "Sāriputta, Ven.",
+      "what kind of mendicant would beautify sal park"
+    ],
+    [
+      "MN32",
+      "seclusion (paṭisallīna, vivitta)",
+      "one who enjoys"
+    ],
+    [
+      "MN32",
+      "well spoken (subhāsita)",
+      "asking which disciple has spoken well"
+    ],
+    [
+      "MN32",
+      "wilderness dwelling monk (āraññika)",
+      "disciples who practice"
+    ],
+    [
+      "MN33",
+      "astute person (paṇḍita)",
+      "known by deeds"
+    ],
+    [
+      "MN33",
+      "characteristics (lakkhaṇa)",
+      "of fools and wise people"
+    ],
+    [
+      "MN33",
+      "characteristics (lakkhaṇa)",
+      "skilled in"
+    ],
+    [
+      "MN33",
+      "Dhamma teaching",
+      "like smoking out pests"
+    ],
+    [
+      "MN33",
+      "cowherd",
+      "simile for good and bad monastics"
+    ],
+    [
+      "MN33",
+      "cruel thoughts (vihiṁsāvitakka)",
+      "removing like picking out flies’ eggs"
+    ],
+    [
+      "MN33",
+      "domain (gocara)",
+      "knowing, simile for knowing four foundations of mindfulness"
+    ],
+    [
+      "MN33",
+      "eggs",
+      "flies eggs, picking out, simile for bad thoughts"
+    ],
+    [
+      "MN33",
+      "elements, four great (cattāri mahābhūtāni)",
+      "form and"
+    ],
+    [
+      "MN33",
+      "flies",
+      "eggs, picking out, simile for bad thoughts"
+    ],
+    [
+      "MN33",
+      "fools (bāla)",
+      "known by deeds"
+    ],
+    [
+      "MN33",
+      "ford (tittha)",
+      "knowing, simile for asking wise people questions"
+    ],
+    [
+      "MN33",
+      "form (rūpa)",
+      "knowing to be four great elements"
+    ],
+    [
+      "MN33",
+      "foundations of mindfulness, four (satipaṭṭhāna)",
+      "knowing, like knowing the pasture"
+    ],
+    [
+      "MN33",
+      "growth",
+      "factors that lead to"
+    ],
+    [
+      "MN33",
+      "inspiration",
+      "in the teachings"
+    ],
+    [
+      "MN33",
+      "learned (bahussutā)",
+      "asking learned person questions like knowing the ford"
+    ],
+    [
+      "MN33",
+      "listening to Dhamma",
+      "joy in listening"
+    ],
+    [
+      "MN33",
+      "loving-kindness (mettā)",
+      "by body, speech and mind"
+    ],
+    [
       "MN33",
       "loving-kindness (mettā)",
       "in action"
     ],
     [
+      "MN33",
+      "malicious thoughts (byāpādavitakka)",
+      "removing like picking out flies’ eggs"
+    ],
+    [
+      "MN33",
+      "milking",
+      "milking dry, simile for knowing moderation in accepting requisites"
+    ],
+    [
+      "MN33",
+      "moderation, knowing (mattaññū)",
+      "knowing moderation in accepting like not milking dry"
+    ],
+    [
+      "MN33",
+      "noble eightfold path (ariya aṭṭhangika magga)",
+      "knowing, like knowing the road"
+    ],
+    [
+      "MN33",
+      "questions, asking",
+      "like knowing the ford"
+    ],
+    [
+      "MN33",
+      "requisites, four",
+      "knowing moderation in accepting like not milking dry"
+    ],
+    [
+      "MN33",
+      "roads",
+      "knowing the road, simile for knowing noble eightfold path"
+    ],
+    [
+      "MN33",
+      "sense bases (āyatana)",
+      "like wounds to be dressed"
+    ],
+    [
+      "MN33",
+      "sense doors, guarding (indriyesu guttadvāra)",
+      "like dressing wounds"
+    ],
+    [
+      "MN33",
+      "sensual thoughts (kāmavitakka)",
+      "removing like picking out flies’ eggs"
+    ],
+    [
+      "MN33",
+      "smoke",
+      "smoking out pests, simile for teaching Dhamma"
+    ],
+    [
+      "MN33",
+      "worshiping (pūjā)",
+      "elder monastics"
+    ],
+    [
+      "MN33",
+      "wounds",
+      "dressing, simile for guarding the internal sense bases"
+    ],
+    [
       "MN34",
-      "death (maraṇa)",
+      "arahants",
+      "like bulls, leaders of the herd"
+    ],
+    [
+      "MN34",
+      "cowherd",
+      "simile for one able to lead"
+    ],
+    [
+      "MN34",
+      "death (maccu)",
       "realm of death (maccudheyya)"
+    ],
+    [
+      "MN34",
+      "death (maccu)",
+      "realm of death (maccudheyya) "
+    ],
+    [
+      "MN34",
+      "Dhamma follower (dhammānusārī)",
+      "like baby calf"
+    ],
+    [
+      "MN34",
+      "door to the deathless (amatadvāra)",
+      "Buddha has opened"
+    ],
+    [
+      "MN34",
+      "follower by faith (saddhānusārī)",
+      "like baby calf"
+    ],
+    [
+      "MN34",
+      "Ganges river",
+      "simile for crossing saṁsara"
+    ],
+    [
+      "MN34",
+      "leadership",
+      "capable and incapable"
+    ],
+    [
+      "MN34",
+      "Māra’s domain (māradheyya)",
+      "being skilled in"
+    ],
+    [
+      "MN34",
+      "non-returner (anāgāmi)",
+      "like strong cattle"
+    ],
+    [
+      "MN34",
+      "once returner (sakadāgāmī)",
+      "like bullocks and heifers"
+    ],
+    [
+      "MN34",
+      "stream-enterers (sotāpanna)",
+      "like the calves and weak cattle"
     ],
     [
       "MN35",
@@ -19931,7 +20256,7 @@ export const locatorBookObject ={
     ],
     [
       "SN1.9",
-      "death (maraṇa)",
+      "death (maccu)",
       "realm of death (maccudheyya)"
     ],
     [
@@ -19976,12 +20301,12 @@ export const locatorBookObject ={
     ],
     [
       "SN1.34",
-      "death (maraṇa)",
+      "death (maccu)",
       "realm of death (maccudheyya)"
     ],
     [
       "SN1.38",
-      "death (maraṇa)",
+      "death (maccu)",
       "realm of death (maccudheyya)"
     ],
     [
@@ -20111,7 +20436,7 @@ export const locatorBookObject ={
     ],
     [
       "SN4.24",
-      "death (maraṇa)",
+      "death (maccu)",
       "realm of death (maccudheyya)"
     ],
     [
@@ -23746,7 +24071,7 @@ export const locatorBookObject ={
     ],
     [
       "SN47.16",
-      "death (maraṇa)",
+      "death (maccu)",
       "realm of death (maccudheyya)"
     ],
     [
