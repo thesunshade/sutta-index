@@ -71,13 +71,10 @@ export default function Info() {
         <summary>Coverage</summary>
         <div className="row-2">
           <div>
-            Complete: <span className="answer">MN 1–17, 51–152, SN45–48, AN, Kp, Dhp, Ud, Iti, Snp, Vv, Pv, Thag, Thig</span>
+            Complete: <span className="answer">MN 1–40, 51–152, SN45–48, AN, Kp, Dhp, Ud, Iti, Snp, Vv, Pv, Thag, Thig</span>
           </div>
           <div>
-            In Progress: <span className="answer">MN 1–50</span>
-          </div>
-          <div>
-            Planned: <span className="answer">DN, MN, SN</span>
+            Planned: <span className="answer">DN, SN</span>
           </div>
         </div>
         <p>

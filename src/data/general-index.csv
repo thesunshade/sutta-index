@@ -1,3 +1,15 @@
+false speech	definition	DN2
+harsh speech	definition	DN2
+divisive speech	definition	DN2
+speech	restraint	DN2
+speech	useless: definition	DN2
+loving-kindness (mettā)	like a conch blower	DN13
+loving-kindness (mettā)	as a path to brahma world	DN13
+loving-kindness (mettā)	to gain inner peace	MN40
+loving-kindness (mettā)	the way proper for an ascetic	MN40
+loving-kindness (mettā)	as immeasurable deliverance	MN43
+loving-kindness (mettā)	in action	MN48
+loving-kindness (mettā)	under abuse	MN50
 generosity (cāga)	quality of stream-enterer	SN55.6
 false speech	no one likes to be lied to	SN55.7
 death (maraṇa)	good	SN55.21
@@ -6,7 +18,7 @@ death (maraṇa)	fear of	SN55.27
 generosity (cāga)	stream of merit	SN55.32
 generosity (cāga)	as an accomplishment	SN55.37
 disputes	about Dhamma	SN56.9
-talk (kathā)		SN56.10
+talk (kathā)	suitable and unsuitable	SN56.10
 speech	useless (tiraccha)	SN56.10
 oceans		xref Ganges river
 buildings		xref kuṭis
@@ -975,7 +987,6 @@ bowls		xref alms bowl
 mental misconduct		xref misconduct by mind
 higher wisdom of discernment of principles		xref higher wisdom of insight into phenomena (adhipaññādhammavipassanā)
 insight (vipassanā)		xref higher wisdom of insight into phenomena (adhipaññādhammavipassanā)
-form realm (rūpabhava)	mind not liable to return to	xref form realm (rūpabhava)
 stream-entry, factors of (sotāpattiyaṅga)		xref factors of stream-entry (sotāpattiyaṅga)
 confirmed confidence (aveccappasāda)		xref confidence (aveccappasāda)
 stream-enterers (sotāpanna)		xref factors of stream-entry (sotāpattiyaṅga)
@@ -3287,15 +3298,15 @@ body	danger of	Thig1.17
 renunciation (nekkhamma)	giving up what one loves	Thig1.18
 perception of ugliness (asubhasaññā)	body	Thig2.1
 signless (animitta)	meditation on	Thig2.1
-slow spiritual progress		Thig2.1
-conceit, underlying tendency (mānānusaya)		Thig2.1
+slow spiritual progress	helped by teacher	Thig2.1
+conceit, underlying tendency (mānānusaya)	giving up	Thig2.1
 awakening factors, seven (bojjhaṅga)	all developed	Thig2.2
 marriage	disenchantment with	Thig2.3
 lay life	disenchantment with	Thig2.3
 courtesans	former	Thig2.4
 perception of ugliness (asubhasaññā)	eradicating lust	Thig2.8
-slow spiritual progress		Thig3.1
-slow spiritual progress		Thig3.2
+slow spiritual progress	helped by remembering Dhamma	Thig3.1
+slow spiritual progress	helped by teacher	Thig3.2
 meditation	for seven days	Thig3.2
 awakening factors, seven (bojjhaṅga)	all developed	Thig3.3
 children of the Buddha	rightful daughter	Thig3.3
@@ -3311,17 +3322,17 @@ sexism	Māra’s attack	Thig3.8
 Mahā Kassapa, Ven.	qualities of	Thig4.1
 Bhaddā Kāpilānī, Ven.	attainments same as Mahā Kassapa	Thig4.1
 marriage	disenchantment with	Thig4.1
-slow spiritual progress		Thig5.1
-psychic powers (iddhi)		Thig5.1
+slow spiritual progress	helped by teacher	Thig5.1
+psychic powers (iddhi)	bhikkhuni with	Thig5.1
 direct knowledges (abhiññā)	six direct (chaḷabhiññā)	Thig5.1
 courtesans	former	Thig5.2
 arrogance	because of body	Thig5.2
 sense pleasures (kāma, kāmaguṇa)	overcome by	Thig5.3
 suicide	aborted attempt	Thig5.3
-fire worship (aggika)		Thig5.5
-urgency (saṁvega)		Thig5.6
+fire worship (aggika)	previously practiced by bhikkhuni	Thig5.5
+urgency (saṁvega)	developing	Thig5.6
 going forth (pabbajja)	old age	Thig5.8
-signless (animitta)		Thig5.8
+signless (animitta)	meditation on	Thig5.8
 “come, monk” ordination (ehi bhikkhu)	Ven. Kuṇḍalakesī	Thig5.9
 merit (puñña)	giving to noble disciples	Thig5.9
 inspiration	from watching water flowing	Thig5.1
@@ -3336,8 +3347,8 @@ perception of ugliness (asubhasaññā)	body	Thig6.3
 sense pleasures (kāma, kāmaguṇa)	like swords and stakes	Thig6.3
 aggregates (khandha)	like chopping block	Thig6.3
 rebirth	in various positions	Thig6.6
-slow spiritual progress		Thig6.8
-followers of other paths (aññatitthiya)		Thig7.2
+slow spiritual progress	helped by teacher	Thig6.8
+followers of other paths (aññatitthiya)	relying on views	Thig7.2
 disrobing	encouraging to	Thig7.3
 disrobing	encouraging to	Thig6.3
 heavenly realms	life in	Thig8.1
@@ -3345,7 +3356,7 @@ world, the	as if on fire	Thig8.1
 advice	from mother	Thig9.1
 taints (āsava)	all ended	Thig9.1
 association	with good people	Thig10.1
-friendship		Thig10.1
+friendship	importance of	Thig10.1
 association	with wise, fool becomes wise	Thig10.1
 woman’s life	painful	Thig10.1
 pregnancy	giving birth on road	Thig10.1
@@ -3372,7 +3383,7 @@ sense pleasures (kāma, kāmaguṇa)	as enemy	Thig13.5
 sense pleasures (kāma, kāmaguṇa)	as murderer	Thig13.5
 sense pleasures (kāma, kāmaguṇa)	danger of	Thig13.5
 bhikkhunīs	praised by Sakka	Thig13.5
-sexual harassment		Thig14.1
+sexual harassment	of bhikkhuni	Thig14.1
 disrobing	encouraging to	Thig14.1
 perception of ugliness (asubhasaññā)	to remove someone else’s lust	Thig14.1
 puppets	metaphor for body	Thig14.1
@@ -3405,34 +3416,6 @@ turtles	with yoke, like rebirth in human world is rare	Thig16.1
 sense pleasures (kāma, kāmaguṇa)	like a grass torch burns holder	Thig16.1
 dogs	with chain like person attached to sensual pleasures	Thig16.1
 gifts, specific types of	monastery	Thig16.1
-false speech	definition	DN2
-harsh speech	definition	DN2
-divisive speech	definition	DN2
-speech	restraint	DN2
-speech	useless: definition	DN2
-loving-kindness (mettā)	like a conch blower	DN13
-loving-kindness (mettā)	as a path to brahma world	DN13
-loving-kindness (mettā)	enlightenment and	MN7
-death (maraṇa)	subject to	MN26
-loving-kindness (mettā)	in action	MN31
-loving-kindness (mettā)	in action	MN33
-death (maccu)	realm of death (maccudheyya)	MN34
-giving (dāna)	qualities of recipient	MN35
-loving-kindness (mettā)	to gain inner peace	MN40
-loving-kindness (mettā)	the way proper for an ascetic	MN40
-loving-kindness (mettā)	as immeasurable deliverance	MN43
-loving-kindness (mettā)	in action	MN48
-loving-kindness (mettā)	under abuse	MN50
-loving-kindness (mettā)	as a basis for insight	MN52
-loving-kindness (mettā)	as conditioned	MN52
-loving-kindness (mettā)	meat eating and	MN55
-loving-kindness (mettā)	Buddha truly abides in	MN55
-giving (dāna)	whom to give to	MN56
-speech	reflecting on	MN61
-loving-kindness (mettā)		MN62
-death (maraṇa)	cause of grief	MN87
-loving-kindness (mettā)		MN96
-loving-kindness (mettā)	as a path to brahma world	MN97
 past actions	everything is caused by	MN101
 Nigaṇṭha’s doctrine	everything is caused by past action	MN101
 feelings (vedanā)	Nigaṇṭha’s theory on	MN101
@@ -4102,8 +4085,7 @@ jhānas	emptiness and	MN122
 imperturbable (āneñja)	emptiness and	MN122
 postures	awareness and	MN122
 sign of concentration (samādhinimitta)	to settle mind	MN122
-talk (kathā)	suitable	MN122
-talk (kathā)	unsuitable	MN122
+talk (kathā)	suitable and unsuitable	MN122
 sense pleasures (kāma, kāmaguṇa)	mind taking an interest in	MN122
 aggregates (khandha)	giving up conceit “I am”	MN122
 thoughts (vitakka)	skillful and unskillful	MN122
@@ -4498,7 +4480,7 @@ bases of contact, six (phassāyatana)	definition	MN140
 mental preoccupations (manopavicāra)	eighteen	MN140
 foundations (adhiṭṭhāna)	wisdom, truth, generosity, peace	MN140
 joy (somanassa)	towards sense contact	MN140
-grief (domanassa)	towards sense contact	MN140
+sadness (domanassa)	towards sense contact	MN140
 equanimity (upekkhā)	towards sense contact	MN140
 wisdom (paññā)	do not neglect	MN140
 earth element (pathavī dhātu)	definition	MN140
@@ -4523,7 +4505,7 @@ feelings (vedanā)	contemplation on	MN140
 impermanence	of feelings	MN140
 fire sticks	simile for contact	MN140
 feelings (vedanā)	how to be experienced	MN140
-gold	as simile for purifying mind	MN140
+gold	simile for purifying mind	MN140
 equanimity (upekkhā)	pure, bright, pliable, workable, radiant	MN140
 dimension of infinite space (ākāsānañcāyatana)	applying equanimity towards	MN140
 dimension of infinite consciousness (viññāṇañcāyatana)	applying equanimity towards	MN140
@@ -5736,7 +5718,7 @@ bad actions	like lump of salt in water	AN3.100
 bad actions	like small time thief	AN3.100
 bad actions	like butcher can and cannot punish some	AN3.100
 results of actions	not fixed	AN3.100
-gold	as simile for purifying mind	AN3.101
+gold	simile for purifying mind	AN3.101
 mind (citta)	purifying like purifying gold	AN3.101
 mind (citta)	purifying gradually	AN3.101
 gradual training (anupubbasikkhā)	purifying the mind, step by step	AN3.101
@@ -6099,7 +6081,7 @@ stages of enlightenment		AN4.88
 fetters (saṁyojana)	stages of enlightenment	AN4.88
 liberations, eight (vimokkha)		AN4.89
 aggregates (khandha)	seeing rise and fall of	AN4.90
-asuras	as simile for bad people	AN4.91
+asuras	simile for bad people	AN4.91
 association	with similar people/like elements	AN4.91
 association	with opposite people	AN4.91
 practicing	benefiting oneself and others	AN4.95
@@ -6267,7 +6249,7 @@ monastic life	for the sake of gain	AN4.157
 skillfulness (kusala)	growing	AN4.158
 Ānanda, Ven.	visits a bhikkhunī	AN4.159
 craving (taṇha)	using craving to remove craving	AN4.159
-food	reflecting on using food	AN4.159
+almsfood	reflection on using	AN4.159
 conceit (māna)	using conceit to remove conceit	AN4.159
 sexual activity	breaking off everything having to do with	AN4.159
 bhikkhunīs	requests visit from Ven. Ānanada	AN4.159
@@ -7519,7 +7501,7 @@ celibacy	both celibate and uncelibate can be once returners	AN6.44
 once returner (sakadāgāmī)	can be celibate or not	AN6.44
 Joyful gods (tusitā devā)	once returners being born there	AN6.44
 stages of enlightenment	Buddha declaring of people	AN6.44
-debt (iṇa)	as simile for lacking good qualities	AN6.45
+debt (iṇa)	simile for lacking good qualities	AN6.45
 debt (iṇa)	as suffering	AN6.45
 evil wishes (pāpiccha)	as paying interest	AN6.45
 powers (bala)	lack of five as debt	AN6.45
@@ -10489,7 +10471,7 @@ Mahā Cunda, Ven.	on boasting	AN10.85
 boasting	about attainments	AN10.85
 false spiritual claims	simile of person not paying debt	AN10.85
 false spiritual claims	of meditative attainments	AN10.85
-debt (iṇa)	as a simile for false claims of attainment	AN10.85
+debt (iṇa)	simile for false claims of attainment	AN10.85
 overestimation (adhimāna)	declaring enlightenment	AN10.86
 Mahā Kassapa, Ven.	on overestimation	AN10.86
 learned (bahussutā)	can cause overestimation	AN10.86
@@ -10542,7 +10524,7 @@ criticizing noble ones	result of	AN10.89
 Tudu the independent brahmā	warning Kokālika	AN10.89
 non-returner (anāgāmi)	wrong idea that they cannot visit other worlds	AN10.89
 Sahampati, Brahmā	reports Kokālika’s birth in hell	AN10.89
-speech	simile of axe	AN10.89
+speech	like axe	AN10.89
 dice	simile of good and bad luck at dice is trivial thing compared to heaven and hell	AN10.89
 hell (niraya)	actions that lead to	AN10.89
 hell (niraya)	torture in	AN10.89
@@ -10574,8 +10556,8 @@ wealth	using to make merit	AN10.91
 wealth	using to care for family	AN10.91
 wealth	attachment to	AN10.91
 wealth	enjoying without attachment	AN10.91
-milk	simile of milk to cream of ghee for refined use of wealth	AN10.91
-ghee	simile of milk to cream of ghee for refined use of wealth	AN10.91
+milk	like milk to cream of ghee for refined use of wealth	AN10.91
+ghee	like milk to cream of ghee for refined use of wealth	AN10.91
 precepts, five	preventing dangers in present and future lives	AN10.92
 precepts, five	stream entry and	AN10.92
 stream-enterers (sotāpanna)	four factors of	AN10.92
@@ -10701,7 +10683,7 @@ non-Dhamma (adhamma)	definition	AN10.113
 Dhamma and non-Dhamma	overcoming one with the other	AN10.114
 Dhamma	definition	AN10.113
 wrong eightfold path	non-Dhamma	AN10.114
-heartwood	simile of asking question from monk when should have asked the Buddha	AN10.115
+heartwood	like asking question from monk when should have asked the Buddha	AN10.115
 Ānanda, Ven.	explaining a brief statement of the Buddha	AN10.115
 Dhamma and non-Dhamma	refuting one with the other	AN10.116
 assemblies	contrary and in line with Dhamma	AN10.116
@@ -10953,7 +10935,7 @@ attention (manasikāra)	during meditation	AN11.8
 Sandha, Ven.	meditation instructions	AN11.9
 horses	meditate like a thoroughbred, not a wild colt	AN11.9
 horses	simile for meditation	AN11.9
-horse trainers	simile of thoroughbred considering the wish of trainer	AN11.9
+horse trainers	thoroughbred considering the wish of trainer, like good student	AN11.9
 hindrances (nīvaraṇa)	meditator’s mind overcome with	AN11.9
 hindrances (nīvaraṇa)	not knowing escape from	AN11.9
 this world (idhaloka)	meditating dependent on	AN11.9
@@ -11490,8 +11472,8 @@ direct knowledges (abhiññā)	realizing knowledge and freedom	SN45.159
 direct knowledges (abhiññā)	developing serenity and insight	SN45.159
 serenity (samatha)	developed with direct knowledge	SN45.159
 insight (vipassanā)	developed with direct knowledge	SN45.159
-Ganges river	simile of crowd making it slope west	SN45.160
-crowd	simile of crowd making Ganges slope west	SN45.160
+Ganges river	making Ganges slope west, like relatives wishing	SN45.160
+crowd	crowd making it slope west, like relatives wishing	SN45.160
 disrobing	encouragement to collect merit at home instead	SN45.160
 disrobing	encouraging to	SN45.160
 disrobing	mendicant who develops eightfold path will not	SN45.160
@@ -12315,6 +12297,8 @@ jhānas	reflecting on as impermanent	MN52
 meditation	love for prevents full enlightenment	MN52
 jhānas	conditioned	MN52
 non-returner (anāgāmi)	through practicing jhānas	MN52
+loving-kindness (mettā)	as a basis for insight	MN52
+loving-kindness (mettā)	as conditioned	MN52
 heart’s release by loving-kindness (mettā cetovimutti)	leads to enlightenment	MN52
 heart’s release by compassion (karuṇā cetovimutti)	leads to enlightenment	MN52
 heart’s release by rejoicing (muditā cetovimutti)	leads to enlightenment	MN52
@@ -12432,6 +12416,8 @@ Jīvaka Komārabhacca, householder	asking about meat	MN55
 meat eating	for monks	MN55
 Buddha, the	false accusations against	MN55
 loving-kindness (mettā)	and food	MN55
+loving-kindness (mettā)	meat eating and	MN55
+loving-kindness (mettā)	Buddha truly abides in	MN55
 almsfood	attachment to	MN55
 ill will (vyāpāda, byāpāda)	eating almsfood	MN55
 almsfood	blameless	MN55
@@ -12463,6 +12449,7 @@ intention (cetana)	intentional actions	MN56
 psychic powers (iddhi)	reducing Nālanda to ruins	MN56
 conversion	Buddha urging caution for one considering converting	MN56
 Buddha, the	urging support of other mendicants	MN56
+giving (dāna)	whom to give to	MN56
 giving (dāna)	“Gifts should only be given to the Buddha”	MN56
 gradual instruction (anupubba katha)	to Upāli	MN56
 cloth	simile of pure cloth taking dye	MN56
@@ -13395,6 +13382,7 @@ food	eating free from debt	MN86
 heedfulness (appamāda)	as best treasure	MN86
 children	death of	MN87
 grieving	loss of child	MN87
+death (maraṇa)	cause of grief	MN87
 faculties (indriya)	deranged/deteriorated	MN87
 loved ones	as source of sorrow	MN87
 gamblers	grieving father agreeing with	MN87
@@ -13623,6 +13611,7 @@ human birth	better than ghost realm	MN97
 heavenly realms	ranked	MN97
 Brahmā	path to	MN97
 brahmaviharas	path to Brahmā	MN97
+loving-kindness (mettā)	as a path to brahma world	MN97
 stopping when more left to do	teaching only to brahma realm	MN97
 brahmins	devoted to Brahmā realm	MN97
 Vāseṭṭha, brahmin	questioning how one becomes a brahmin	MN98
@@ -13943,6 +13932,7 @@ bathing	useless as ritual	MN7
 purification	with water	MN7
 purification	through good action	MN7
 Sundarikabhāradvāja, brahmin	promoting ritual bathing	MN7
+loving-kindness (mettā)	enlightenment and	MN7
 Mahā Cunda, Ven.	letting go of views	MN8
 views about the self (attavāda)	letting go of	MN8
 views about the world (lokavāda)	letting go of	MN8
@@ -14702,6 +14692,8 @@ gain (lābha)	being content with	MN30
 gain (lābha)	criticizing others for lack of	MN30
 glorifying one self	because of attainments	MN30
 heedlessness (pamāda)	being satisfied with limited attainments	MN30
+unsatisfied	should not be satisfied with partial attainment	MN30
+contentment	with partial attainments	MN30
 heartwood	simile for being satisfied with limited attainments	MN30
 accomplishment in virtue (sīlasampadā)	criticizing others for lack of	MN30
 accomplishment in virtue (sīlasampadā)	being satisfied with limited attainments	MN30
@@ -14717,6 +14709,7 @@ Kimbila, Ven.	living with Ven. Anuruddha and Nandiya 	MN31
 harmony (samagga)	example of	MN31
 monastic life	duties	MN31
 loving-kindness (mettā)	as principle of cordiality	MN31
+loving-kindness (mettā)	in action	MN31
 loving-kindness (mettā)	by body, speech, mind	MN31
 good friends	example of	MN31
 recollection of spiritual friends (kalyāṇamitta ānussati)	living in harmony	MN31
@@ -14782,6 +14775,7 @@ requisites, four	knowing moderation in accepting like not milking dry	MN33
 moderation, knowing (mattaññū)	knowing moderation in accepting like not milking dry	MN33
 worshiping (pūjā)	elder monastics	MN33
 loving-kindness (mettā)	by body, speech and mind	MN33
+loving-kindness (mettā)	in action	MN33
 growth	factors that lead to	MN33
 cowherd	simile for one able to lead	MN34
 leadership	capable and incapable	MN34
@@ -14823,6 +14817,7 @@ arahants	definition	MN35
 unsurpassable things (anuttariya)	seeing, practice, freedom	MN35
 respect (gārava)	for the Buddha only	MN35
 merit sharing	with donors	MN35
+giving (dāna)	qualities of recipient	MN35
 Saccaka Nigaṇṭhaputta	asking about physical and mental development	MN36
 development (bhāvanā)	mental and physical	MN36
 blood	spewing hot	MN36
@@ -14895,6 +14890,11 @@ old age (jarā)		xref dependent origination (paṭiccasamuppāda)
 feelings (vedanā)		xref dependent origination (paṭiccasamuppāda)
 formations (saṅkhāra)		xref dependent origination (paṭiccasamuppāda)
 volitional formations (saṅkhāra)		xref formations (saṅkhāra)
+grief (domanassa)		xref sadness (domanassa)
+eating		xref mindfulness and clear comprehension (satisampajañña)
+moving		xref mindfulness and clear comprehension (satisampajañña)
+defecating		xref mindfulness and clear comprehension (satisampajañña)
+postures		xref mindfulness and clear comprehension (satisampajañña)
 Sāti, Ven., the fisherman’s son	wrong view	MN38
 wrong views	of Sāti, the fisherman’s son	MN38
 consciousness (viññāṇa)	same being reborn; wrong view	MN38
@@ -14936,3 +14936,93 @@ delight (nandi)	from liking and disliking	MN38
 grasping (upādāna)	delighting in feelings	MN38
 Buddhas	appearing in the world	MN38
 ascetics (samaṇa)	what makes one an	MN39
+requisites, four	donors collect merit when used by monastics	MN39
+conscience and prudence (hiri ottappa)	quality of ascetic	MN39
+unsatisfied	should not be satisfied with partial attainment	MN39
+contentment	with partial attainments	MN39
+goals	of monastic life	MN39
+bodily conduct (kāyasamācāra)	should be pure	MN39
+glorifying one self	because of attainments	MN39
+mental conduct (manosamācāra)	should be pure	MN39
+verbal conduct (vacīsamācāra)	should be pure	MN39
+sense restraint (indriyasaṁvara)	quality of ascetic	MN39
+covetousness (abhijjhā)	arises because of sense pleasures and perceptions	MN39
+sadness (domanassa)	caused by contact	MN39
+almsfood	reflection on using	MN39
+wakefulness (jāgara)	quality of ascetic	MN39
+mindfulness and clear comprehension (satisampajañña)	quality of ascetic	MN39
+dwellings (senāsana)	frequenting secluded	MN39
+hindrances (nīvaraṇa)	removal of as part of gradual training	MN39
+hindrances (nīvaraṇa)	similes for	MN39
+debt (iṇa)	person freed from, simile for removal of covetousness	MN39
+sick person	recovering, simile for removal of ill will	MN39
+prisoner	freed, simile for removal of drowsiness	MN39
+bondservants (dāsa)	freed, simile for removal of restlessness and remorse	MN39
+travellers	crossing desert, simile for removing doubt	MN39
+covetousness (abhijjhā)	like person in debt	MN39
+ill will (vyāpāda, byāpāda)	like sick person	MN39
+dullness and drowsiness (thinamiddha)	like prisoner	MN39
+restlessness and remorse (uddhaccakukkucca)	like bondservant	MN39
+doubt (vicikicchā)	like traveller in desert	MN39
+jhānas	similes for	MN39
+bath attendants	simile for first jhāna	MN39
+bath powder	simile for first jhāna	MN39
+lakes	simile for second jhāna	MN39
+water lilly	simile for third jhāna	MN39
+lotus	simile for third jhāna	MN39
+mind (citta)	pure and bright in fourth jhāna	MN39
+cloth	white, covering person, simile for fourth jhāna	MN39
+past lives, knowledge of (pubbenivāsānussatiñāṇa)	definition	MN39
+travellers	simile for recollecting past lives	MN39
+villages (gāma)	simile for recollecting past lives	MN39
+past lives, knowledge of (pubbenivāsānussatiñāṇa)	like traveller recollecting journey	MN39
+knowledge of passing away and rebirth of beings (cutūpapātañāna)	definition	MN39
+houses	people walking between, simile for knowledge of rebirth of beings	MN39
+divine eye (dibbacakkhu)	rebirth of beings	MN39
+taints (āsava)	ending of	MN39
+lakes	simile for destruction of taints	MN39
+mountains	lakes, simile for destruction of taints	MN39
+ascetics (samaṇa)	how to become	MN39
+brahmin	how to become	MN39
+knowledge master (vedagu)	how to become	MN39
+knowledges, three (vijjā)	how to become one who has	MN39
+scholar (sotthiya)	how to become	MN39
+noble ones (ariya)	how to become	MN39
+arahants	how to become	MN39
+consummate one (kevalī)	how to become	MN39
+sage (muni)	how to become	MN39
+Buddhas	how to become	MN39
+ascetics (samaṇa)	what makes one an	MN40
+requisites, four	donors collect merit when used by monastics	MN40
+covetousness (abhijjhā)	quality of bad ascetic	MN40
+ill will (vyāpāda, byāpāda)	quality of bad ascetic	MN40
+irritability (kodhana)	quality of bad ascetic	MN40
+hostility (upanāha)	quality of bad ascetic	MN40
+disdain (makkha)	quality of bad ascetic	MN40
+contemptuousness (paḷāsa)	quality of bad ascetic	MN40
+jealousy (issā)	quality of bad ascetic	MN40
+stinginess (maccharī)	quality of bad ascetic	MN40
+deviousness (saṭha)	quality of bad ascetic	MN40
+deceit (kuhaka/māyāvī)	quality of bad ascetic	MN40
+evil wishes (pāpiccha)	quality of bad ascetic	MN40
+wrong view (micchā diṭṭhi)	quality of bad ascetic	MN40
+weapons	wrapped in robe, simile for bad ascetic	MN40
+robes	wearing does not earn the name	MN40
+naked ascetic (acelaka)	being does not earn the name	MN40
+tree root dwelling (rukkhamūlika)	living does not earn the name	MN40
+vedas	memorizing does not earn the name	MN40
+jaṭilā ascetics	being does not earn the name	MN40
+practices	don’t automatically remove bad qualities	MN40
+birth (jāti)	encouragement to take up practices at	MN40
+joy (pāmojja)	leads to rapture	MN40
+rapture (pīti)	leads to tranquility	MN40
+tranquillity (passaddhi)	body becomes from rapture	MN40
+tranquillity (passaddhi)	leads to bliss	MN40
+happiness (sukha)	leads to concentration	MN40
+brahmaviharas	to the four directions	MN40
+brahmaviharas	like people approaching pond from four directions	MN40
+ponds	person approaching from any direction, simile for four castes	MN40
+caste	all four as disciples, like people approaching pond	MN40
+peace (upasama)	inner peace from brahmaviharas	MN40
+brahmaviharas	leads to inner peace	MN40
+taints (āsava)	ending of makes one an ascetic	MN40
