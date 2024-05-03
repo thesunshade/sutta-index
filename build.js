@@ -34,6 +34,8 @@ const newObject = {
   Z: {},
 };
 
+console.log("▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼");
+
 function natsort(options) {
   if (options === void 0) {
     options = {};
@@ -248,7 +250,7 @@ function createIndexObject() {
     }
   }
   const totalUniqueLocatorsLength = [...new Set(allLocatorsArray.flat())].length;
-  console.log(totalUniqueLocatorsLength);
+  console.log(`#️⃣  Total unique locators: ${totalUniqueLocatorsLength}`);
 
   try {
     fs.writeFileSync("./src/data/uniqueLocators.js", `export const uniqueLocators =${totalUniqueLocatorsLength}`);
@@ -276,7 +278,8 @@ function createIndexObject() {
     if (/xref/.test(head)) {
       console.warn(`❌ The headword  @${i + 1} "${head}" contains 'xref'`);
     }
-    if (/["']/.test(sub + head)) console.warn(`❌ The sub/headword @${i + 1} ${head}/${sub} contains straight quotes
+    if (/["']/.test(sub + head))
+      console.warn(`❌ The sub/headword @${i + 1} ${head}/${sub} contains straight quotes
     This may indicate that the csv file format was incorrect`);
     if (!alphabetGroupedObject[firstRealLetter].hasOwnProperty(head)) {
       // the key of the headword does not exist in the object yet, so create the key and add the locator-xref object
@@ -604,3 +607,5 @@ try {
   console.log("❌There was an error writing updateDate");
   console.error(err);
 }
+
+console.log("▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲");

@@ -716,7 +716,7 @@ talk (kathā)		xref socializing
 topics of discussion		xref speech
 mortification (tapojigucchā)		xref ascetic practices (dhutaṅga)
 immeasurable deliverance of mind		xref limitless release of heart (appamāṇa cetovimutti)
-exalted deliverance of mind		xref expansive release of heart (mahaggata cetovimutti)
+exalted deliverance of mind		xref heart’s release, expansive (mahaggata cetovimutti)
 fear (bhaya)		xref terror (chambhitatta)
 terror (chambhitatta)		xref fear (bhaya)
 inertia (duṭṭhulla)		xref discomfort (duṭṭhulla)
@@ -918,7 +918,6 @@ Dhamma		xref Dhamma discussion
 Dhamma		xref Dhamma teachers
 Dhamma		xref Dhamma teaching
 Dhamma		xref recollection of Dhamma (dhammānussati)
-heart’s release by signless		xref signless release of the heart (animittā cetovimutti)
 work		xref wrong livelihood (micchā ājīva)
 work		xref livelihood
 gentleman (kulaputta)		xref son of good family (kulaputta)
@@ -2085,7 +2084,7 @@ Buddhas	can live for eon	Ud6.1
 fourfold Saṅgha	Buddha’s determination to have	Ud6.1
 laypeople	as teachers	Ud6.1
 Dhamma	popular and widespread	Ud6.1
-life force (āyusaṅkhāra)	surrendering of	Ud6.1
+life force (āyu, āyusaṅkhāra)	surrendering of	Ud6.1
 Buddha, the	surrenders life force	Ud6.1
 earthquakes	associated with events in Buddha’s life	Ud6.1
 Pasenadi Kosala, King	ascetics as spies	Ud6.2
@@ -2251,8 +2250,8 @@ existence	love of	Iti49
 existence	disgust with	Iti49
 results of actions	harming oneself	Iti50
 elements (dhātu)	form, formlessness, cessation	Iti51
-feelings (vedanā)	three kinds	Iti52
-feelings (vedanā)	three kinds	Iti53
+feelings (vedanā)	three	Iti52
+feelings (vedanā)	three	Iti53
 pleasant feelings (sukhavedanā)	seen as suffering	Iti53
 painful feelings	seen as dart	Iti53
 neutral feelings (adukkhamasukhaṁ vedanā)	seen as impermanent	Iti53
@@ -4154,10 +4153,10 @@ noble eightfold path (ariya aṭṭhangika magga)	does bear fruit	MN126
 loving-kindness (mettā)	as immeasurable deliverance	MN127
 Pañcakaṅga, master builder	asking about meditation	MN127
 Anuruddha, Ven.	limitless release of the heart, the expansive release of the heart	MN127
-limitless release of heart (appamāṇa cetovimutti)	expansive release of heart compared to	MN127
-expansive release of heart (mahaggata cetovimutti)	limitless release of heart compared to	MN127
-limitless release of heart (appamāṇa cetovimutti)	definition	MN127
-expansive release of heart (mahaggata cetovimutti)	definition	MN127
+heart’s release, limitless (appamāṇa cetovimutti)	expansive release of heart compared to	MN127
+heart’s release, expansive (mahaggata cetovimutti)	limitless release of heart compared to	MN127
+heart’s release, limitless (appamāṇa cetovimutti)	definition	MN127
+heart’s release, expansive (mahaggata cetovimutti)	definition	MN127
 brahmaviharas	limitless release of heart (appamāṇa cetovimutti)	MN127
 loving-kindness (mettā)	limitless release of heart (appamāṇa cetovimutti)	MN127
 Gods of Limited Radiance (parittābhā devā)	path to rebirth among	MN127
@@ -5523,7 +5522,7 @@ mendicants	benefiting the world	AN3.60
 going forth (pabbajja)	benefiting the world	AN3.60
 Ānanda, Ven.	interrogating a brahmin about beneficial practice	AN3.60
 psychic powers (iddhi)	miracle of	AN3.60
-miracles (pāṭihāriya)	three kinds	AN3.60
+miracles (pāṭihāriya)	three	AN3.60
 miracle of instruction (anusāsanīpāṭihāriya)		AN3.60
 mind reading	description of	AN3.60
 Dhamma teaching	as best kind of miracle	AN3.60
@@ -5695,7 +5694,7 @@ almsfood	of other sects	AN3.93
 forest dwelling	of other sects	AN3.93
 seclusion	defined as virtue, right view, ending defilements	AN3.93
 fetters (saṁyojana)	three lower	AN3.94
-assemblies	three kinds	AN3.95
+assemblies	three	AN3.95
 harmony in Saṅgha (saṅghasāmaggī)		AN3.95
 disputes	in the Saṅgha	AN3.95
 heart’s release by rejoicing (muditā cetovimutti)	living in harmony	AN3.95
@@ -5809,7 +5808,7 @@ anger (kodha)	person not often angry	AN3.132
 good monastics	see things as “This is not mine, I am not this, this is not my self.”	AN3.133
 “This is not mine, I am not this, this is not my self.”	past, present, future	AN3.133
 good monastics	like a warrior	AN3.133
-assemblies	three kinds	AN3.134
+assemblies	three	AN3.134
 friendship	qualities of a good friend	AN3.135
 impermanence	“All conditions are impermanent.”	AN3.136
 suffering (dukkha)	“All conditions are suffering.”	AN3.136
@@ -7367,7 +7366,7 @@ heart’s release by loving-kindness (mettā cetovimutti) 	cause for giving up
 heart’s release by rejoicing (muditā cetovimutti)	cause for giving up	AN6.13
 heart’s release by compassion (karuṇā cetovimutti)	cause for giving up harming	AN6.13
 heart’s release by equanimity (upekkhā cetovimutti)	cause for giving up desire	AN6.13
-signless release of the heart (animittā cetovimutti)	escape from all signs	AN6.13
+heart’s release, signless (animittā cetovimutti)	escape from all signs	AN6.13
 conceit “I am” (asmimāna)	escape from doubt	AN6.13
 death (maraṇa)	good	AN6.14
 work	relishing and bad death	AN6.14
@@ -7589,7 +7588,7 @@ medicine	reflection on using	AN6.58
 enduring (adhivāsana)	in order to remove taints (āsava)	AN6.58
 taints (āsava)	to be given up by enduring	AN6.58
 cold	to be given up by enduring	AN6.58
-heat	to be given up by enduring	AN6.58
+heat (uṇha, usmā)	to be given up by enduring	AN6.58
 hunger	to be given up by enduring	AN6.58
 thirst	to be given up by enduring	AN6.58
 insects	to be given up by enduring	AN6.58
@@ -15026,3 +15025,151 @@ caste	all four as disciples, like people approaching pond	MN40
 peace (upasama)	inner peace from brahmaviharas	MN40
 brahmaviharas	leads to inner peace	MN40
 taints (āsava)	ending of makes one an ascetic	MN40
+conversation		xref talk
+aspiration		xref wishing (ākaṅkhati)
+aspiration		xref wish (āsā)
+determination		xref wishing (ākaṅkhati)
+determination		xref wish (āsā)
+Buddha, the	reputation definition	MN41
+good in the beginning, etc.	Dhamma	MN41
+spiritual path (brahmacariya)	Buddha teaches	MN41
+talk (kathā)	polite conversation	MN41
+greeting with cupped hands (añjalikamma)	greeting the Buddha	MN41
+bad rebirth (duggati)	cause of 	MN41
+good rebirth (sugati)	cause of 	MN41
+rebirth	in bad destination	MN41
+rebirth	in good destination	MN41
+realms (gati)	cause for rebirth in	MN41
+unrighteous conduct (adhammacārī)	cause for rebirth	MN41
+righteous conduct (dhammacārī)	cause for rebirth	MN41
+rebirth	actions as cause for	MN41
+actions	ten types of	MN41
+good actions	ten types of	MN41
+bad actions	ten types of	MN41
+killing	definition	MN41
+stealing	definition	MN41
+sexual misconduct	definition	MN41
+false speech	definition	MN41
+divisive speech	definition	MN41
+harsh speech	definition	MN41
+useless speech (samphappalāpa)	definition	MN41
+covetousness (abhijjhā)	definition	MN41
+ill will (vyāpāda, byāpāda)	definition	MN41
+wrong view (micchā diṭṭhi)	definition	MN41
+wishing (ākaṅkhati)	for rebirth in various realms	MN41
+devas	rebirth as from wishing	MN41
+brahmā realm (brahmaloka)	rebirth in from wishing	MN41
+rebirth	actions as cause for	MN42
+vitality (āyu)		xref life force (āyu, āyusaṅkhāra)
+signless release of the heart (animittā cetovimutti)		xref heart’s release, signless (animittā cetovimutti)
+limitless release of heart (appamāṇa cetovimutti)		xref heart’s release, limitless (appamāṇa cetovimutti)
+expansive release of heart (mahaggata cetovimutti)		xref heart’s release, expansive (mahaggata cetovimutti)
+Mahā Koṭṭhita, Ven.	discussion with Ven. Sāriputta	MN43
+Sāriputta, Ven.	discussion with Ven. Mahā Koṭṭhita	MN43
+unwise (duppañña)	definition	MN43
+four noble truths	not understood by unwise	MN43
+wise people	definition	MN43
+four noble truths	understood by wise	MN43
+consciousness (viññāṇa)	definition	MN43
+wisdom (paññā)	consciousness and	MN43
+consciousness (viññāṇa)	wisdom and	MN43
+wisdom (paññā)	should be developed	MN43
+consciousness (viññāṇa)	should be understood	MN43
+feelings (vedanā)	definition	MN43
+perceptions (saññā)	definition	MN43
+consciousness (viññāṇa)	feelings, perception, and	MN43
+feelings (vedanā)	consciousness, perception, and	MN43
+perceptions (saññā)	feelings, consciousness, and	MN43
+dimension of infinite consciousness (viññāṇañcāyatana)	can be known by mind consciousness	MN43
+dimension of infinite space (ākāsānañcāyatana)	can be known by mind consciousness	MN43
+dimension of nothingness (ākiñcaññāyatana)	can be known by mind consciousness	MN43
+knowing (pajānāti)	understanding and	MN43
+wisdom (paññā)	purpose of	MN43
+right view (sammā diṭṭhi)	conditions for	MN43
+voices (ghosa)	voice of another is support for right view	MN43
+proper attention (yoniso manasikāra)	leads to wisdom	MN43
+right view (sammā diṭṭhi)	supporting factors for wisdom	MN43
+discussion	supporting right view to lead to freedom	MN43
+virtue (sīla)	supporting right view to lead to freedom	MN43
+learning	supporting right view to lead to freedom	MN43
+serenity (samatha)	supporting right view to lead to freedom	MN43
+insight (vipassanā)	supporting right view to lead to freedom	MN43
+becoming (bhava)	three types of	MN43
+rebirth (punabbhava)	happens because of ignorance and craving	MN43
+first jhāna	factors, and factors given up	MN43
+faculties, sense (indriya)	scope and ranges	MN43
+mind (mano)	experiencing scope and range of faculties	MN43
+faculties, sense (indriya)	depending on vitality	MN43
+life force (āyu, āyusaṅkhāra)	depending on warmth	MN43
+heat (uṇha, usmā)	depending on vitality	MN43
+oil lamps	simile for interdependence of warmth and vitality	MN43
+flames	simile for interdependence of warmth and vitality	MN43
+light	simile for interdependence of warmth and vitality	MN43
+phenomena (dhamma)	that are felt	MN43
+life force (āyu, āyusaṅkhāra)	phenomena that are felt	MN43
+corpse	vitality, warmth, consciousness	MN43
+cessation of perception and feeling (saññāvedayitanirodha)	different from dead body	MN43
+corpse	different from cessation of perception and feeling.	MN43
+heart’s release, neutral (adukkhamasukha cetovimutti)	first jhāna	MN43
+heart’s release, signless (animittā cetovimutti)	conditions for attaining, remaining, emerging	MN43
+heart’s release, limitless (appamāṇa cetovimutti)	same in meaning and phrasing as other heart’s release	MN43
+heart’s release, nothingness (ākiñcañña cetovimutti)	same in meaning and phrasing as other heart’s release	MN43
+heart’s release through emptiness (suññatā cetovimutti)	same in meaning and phrasing as other heart’s release	MN43
+heart’s release, signless (animittā cetovimutti)	same in meaning and phrasing as other heart’s release	MN43
+heart’s release, limitless (appamāṇa cetovimutti)	definition	MN43
+heart’s release, nothingness (ākiñcañña cetovimutti)	definition	MN43
+heart’s release through emptiness (suññatā cetovimutti)	definition	MN43
+heart’s release, signless (animittā cetovimutti)	definition	MN43
+heart’s release, unshakeable (akuppa cetovimutti)	best kind	MN43
+substantial reality (sakkāya)		xref identity (sakkāya)
+Visākha, layman	asking Ven. Dhammadinnā questions	MN44
+Dhammadinnā, Ven.	answering questions	MN44
+identity (sakkāya)	definition	MN44
+identity (sakkāya)	origin, cessation, etc.	MN44
+aggregates (khandha)	identity	MN44
+craving (taṇha)	origin of identity	MN44
+noble eightfold path (ariya aṭṭhangika magga)	end of identity (sakkāya)	MN44
+grasping (upādāna)	aggregates and	MN44
+aggregates (khandha)	grasping and	MN44
+ordinary person (puthujjana)	identity view	MN44
+noble disciple (ariya sāvaka)	identity view	MN44
+identity view (sakkāyadiṭṭhi)	aggregates as self	MN44
+noble eightfold path (ariya aṭṭhangika magga)	conditioned	MN44
+aggregate of virtue (sīlakkhandha)	parts of eightfold path	MN44
+aggregate of concentration (samādhikkhandha)	parts of eightfold path	MN44
+aggregate of wisdom (paññākkhandha)	parts of eightfold path	MN44
+right view (sammā diṭṭhi)	aggregate of wisdom (paññākkhandha)	MN44
+right intention (sammā saṅkappa)	aggregate of wisdom (paññākkhandha)	MN44
+right speech (sammā vācā)	aggregate of virtue (sīlakkhandha)	MN44
+right action (sammā kammanta)	aggregate of virtue (sīlakkhandha)	MN44
+right livelihood (sammā ājīva)	aggregate of virtue (sīlakkhandha)	MN44
+right effort (sammā vāyāma)	aggregate of concentration (samādhikkhandha)	MN44
+right mindfulness (sammā sati)	aggregate of concentration (samādhikkhandha)	MN44
+right concentration (sammā samadhi)	aggregate of concentration (samādhikkhandha)	MN44
+concentration (samādhi)	definition, foundation, prerequisites, etc	MN44
+unification of mind (cittassa ekaggatā)	meaning of concentration	MN44
+foundations of mindfulness, four (satipaṭṭhāna)	concentration	MN44
+formations (saṅkhāra)	physical, verbal, mental	MN44
+bodily formation (kāyasaṅkhāra)	definition	MN44
+verbal formations (vacīsaṅkhāra)	definition	MN44
+mental formations (cittasaṅkhāra)	definition	MN44
+perceptions (saññā)	mental formations (cittasaṅkhāra)	MN44
+feelings (vedanā)	mental formations (cittasaṅkhāra)	MN44
+cessation of perception and feeling (saññāvedayitanirodha)	attaining	MN44
+contact (phassa)	emptiness, signless, undirected 	MN44
+seclusion (viveka, paviveka)	emerging from cessation of perception and feeling	MN44
+feelings (vedanā)	three	MN44
+pleasant feelings (sukhavedanā)	pleasant and painful parts	MN44
+painful feelings (dukkhavedanā)	pleasant and painful parts	MN44
+neutral feelings (adukkhamasukhaṁ vedanā)	pleasant and painful parts	MN44
+underlying tendencies (anusaya)	feelings	MN44
+feelings (vedanā)	underlying tendencies to be given up	MN44
+jhānas	underlying tendencies to be given up	MN44
+enlightenment	wholesome desire for	MN44
+feelings (vedanā)	counterparts	MN44
+counterparts (paṭibhāga)	feelings, ignorance, knowledge, etc.	MN44
+ignorance (avijjā)	counterpart	MN44
+knowledge (vijjā)	counterpart	MN44
+freedom (vimutti)	counterpart	MN44
+nibbāna	counterpart	MN44
+spiritual path (brahmacariya)	purpose of	MN44
