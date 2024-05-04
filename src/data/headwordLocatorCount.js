@@ -33,7 +33,7 @@ export const indexObject =[
      ],
      [
           "sense pleasures (kāma, kāmaguṇa)",
-          69
+          70
      ],
      [
           "virtue (sīla)",
@@ -192,15 +192,15 @@ export const indexObject =[
           33
      ],
      [
+          "results of actions",
+          32
+     ],
+     [
           "meditation",
           32
      ],
      [
           "taints (āsava)",
-          31
-     ],
-     [
-          "results of actions",
           31
      ],
      [
@@ -472,10 +472,6 @@ export const indexObject =[
           19
      ],
      [
-          "practicing",
-          19
-     ],
-     [
           "perception of impermanence (aniccasaññā)",
           19
      ],
@@ -501,6 +497,10 @@ export const indexObject =[
      ],
      [
           "refuges",
+          18
+     ],
+     [
+          "practicing",
           18
      ],
      [
@@ -1660,6 +1660,10 @@ export const indexObject =[
           7
      ],
      [
+          "practices (paṭipatti)",
+          7
+     ],
+     [
           "powers of a trainee (sekha bala)",
           7
      ],
@@ -2057,10 +2061,6 @@ export const indexObject =[
      ],
      [
           "Rāhula, Ven.",
-          6
-     ],
-     [
-          "practices (paṭipatti)",
           6
      ],
      [
@@ -4884,6 +4884,10 @@ export const indexObject =[
           2
      ],
      [
+          "observances (samādāna)",
+          2
+     ],
+     [
           "nymphs (accharā)",
           2
      ],
@@ -7301,10 +7305,6 @@ export const indexObject =[
      ],
      [
           "oil",
-          1
-     ],
-     [
-          "observances (samādāna)",
           1
      ],
      [

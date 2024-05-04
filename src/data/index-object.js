@@ -11657,7 +11657,6 @@ export const indexObject ={
           "conceit (māna)": {
                "": {
                     "locators": [
-                         "AN4.200",
                          "Thag18.1"
                     ],
                     "xrefs": [
@@ -11706,6 +11705,12 @@ export const indexObject ={
                "from psychic powers": {
                     "locators": [
                          "AN3.130"
+                    ],
+                    "xrefs": []
+               },
+               "overcoming": {
+                    "locators": [
+                         "AN4.200"
                     ],
                     "xrefs": []
                },
@@ -31131,7 +31136,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "like a weapon": {
+               "like weapon": {
                     "locators": [
                          "SN45.4"
                     ],
@@ -31207,7 +31212,6 @@ export const indexObject ={
           "gradual training (anupubbasikkhā)": {
                "": {
                     "locators": [
-                         "AN4.198",
                          "AN8.19",
                          "AN8.20"
                     ],
@@ -31223,7 +31227,8 @@ export const indexObject ={
                },
                "long version": {
                     "locators": [
-                         "MN101"
+                         "MN101",
+                         "AN4.198"
                     ],
                     "xrefs": []
                },
@@ -32604,7 +32609,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "like a weapon": {
+               "like weapon": {
                     "locators": [
                          "SN45.4"
                     ],
@@ -41447,7 +41452,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "": {
+               "direct experience of": {
                     "locators": [
                          "AN4.89"
                     ],
@@ -42580,8 +42585,7 @@ export const indexObject ={
           "loving-kindness (mettā)": {
                "like a conch blower": {
                     "locators": [
-                         "DN13",
-                         "SN42.8"
+                         "DN13"
                     ],
                     "xrefs": []
                },
@@ -42893,6 +42897,12 @@ export const indexObject ={
                "measureless liberation of mind": {
                     "locators": [
                          "SN41.7"
+                    ],
+                    "xrefs": []
+               },
+               "like conch blower": {
+                    "locators": [
+                         "SN42.8"
                     ],
                     "xrefs": []
                },
@@ -49450,7 +49460,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "like a stand for the mind": {
+               "like stand for the mind": {
                     "locators": [
                          "SN45.27"
                     ],
@@ -50437,6 +50447,12 @@ export const indexObject ={
                "what should and should not be undertaken": {
                     "locators": [
                          "AN10.94"
+                    ],
+                    "xrefs": []
+               },
+               "for ways of, painful/pleasant": {
+                    "locators": [
+                         "MN45"
                     ],
                     "xrefs": []
                }
@@ -54871,12 +54887,24 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
+               "": {
+                    "locators": [],
+                    "xrefs": [
+                         "xref observances (samādāna)"
+                    ]
+               },
                "counter_value": 1
           },
           "practices (paṭipatti)": {
                "wrong and right for monks and laypeople": {
                     "locators": [
                          "AN2.40"
+                    ],
+                    "xrefs": []
+               },
+               "types of": {
+                    "locators": [
+                         "AN4.166"
                     ],
                     "xrefs": []
                },
@@ -54963,9 +54991,8 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "": {
+               "stages of enlightenment": {
                     "locators": [
-                         "AN4.166",
                          "AN4.169"
                     ],
                     "xrefs": []
@@ -59338,6 +59365,7 @@ export const indexObject ={
                },
                "rebirth": {
                     "locators": [
+                         "MN45",
                          "AN8.40"
                     ],
                     "xrefs": []
@@ -62375,7 +62403,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "like a weapon": {
+               "like weapon": {
                     "locators": [
                          "SN45.4"
                     ],
@@ -63655,7 +63683,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "slipping off like mustard seed on needle": {
+               "like mustard seed slipping off needle": {
                     "locators": [
                          "MN98",
                          "Snp3.9"
@@ -63726,8 +63754,11 @@ export const indexObject ={
                "danger of": {
                     "locators": [
                          "MN22",
+                         "MN45",
                          "MN67",
+                         "MN75",
                          "AN4.122",
+                         "AN8.56",
                          "Thig13.5"
                     ],
                     "xrefs": []
@@ -63944,12 +63975,6 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "dangers of": {
-                    "locators": [
-                         "AN8.56"
-                    ],
-                    "xrefs": []
-               },
                "arahants cannot collect": {
                     "locators": [
                          "MN76",
@@ -64055,12 +64080,6 @@ export const indexObject ={
                     "xrefs": []
                },
                "delight not connected with": {
-                    "locators": [
-                         "MN75"
-                    ],
-                    "xrefs": []
-               },
-               "danger": {
                     "locators": [
                          "MN75"
                     ],
@@ -67094,6 +67113,7 @@ export const indexObject ={
                },
                "like axe": {
                     "locators": [
+                         "SN6.9",
                          "AN10.89"
                     ],
                     "xrefs": []
@@ -67113,12 +67133,6 @@ export const indexObject ={
                "good and bad": {
                     "locators": [
                          "SN1.78"
-                    ],
-                    "xrefs": []
-               },
-               "like an axe": {
-                    "locators": [
-                         "SN6.9"
                     ],
                     "xrefs": []
                },
@@ -67543,11 +67557,7 @@ export const indexObject ={
           },
           "stages of enlightenment": {
                "": {
-                    "locators": [
-                         "AN4.88",
-                         "AN4.169",
-                         "AN7.55"
-                    ],
+                    "locators": [],
                     "xrefs": [
                          "xref arahants",
                          "xref extinguished in-between (antarāparinibbāyī)",
@@ -67575,9 +67585,21 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
+               "names for": {
+                    "locators": [
+                         "AN4.88"
+                    ],
+                    "xrefs": []
+               },
                "fetters removed at each": {
                     "locators": [
                          "AN4.131"
+                    ],
+                    "xrefs": []
+               },
+               "attaining": {
+                    "locators": [
+                         "AN4.169"
                     ],
                     "xrefs": []
                },
@@ -67617,7 +67639,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "simile of person in water": {
+               "like person in water": {
                     "locators": [
                          "AN7.15"
                     ],
@@ -67626,6 +67648,12 @@ export const indexObject ={
                "for someone practicing impermanence meditation": {
                     "locators": [
                          "AN7.16"
+                    ],
+                    "xrefs": []
+               },
+               "rebirth": {
+                    "locators": [
+                         "AN7.55"
                     ],
                     "xrefs": []
                },
@@ -74711,6 +74739,12 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
+               "simile for stages of enlightenment, person in": {
+                    "locators": [
+                         "AN7.15"
+                    ],
+                    "xrefs": []
+               },
                "using to overcome drowsiness": {
                     "locators": [
                          "AN7.61"
@@ -75142,19 +75176,14 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "cause for loss of": {
+               "causes for loss of": {
                     "locators": [
-                         "AN8.40"
-                    ],
-                    "xrefs": []
-               },
-               "protecting": {
-                    "locators": [
+                         "AN8.40",
                          "AN8.54"
                     ],
                     "xrefs": []
                },
-               "causes for loss of": {
+               "protecting": {
                     "locators": [
                          "AN8.54"
                     ],
@@ -76853,9 +76882,7 @@ export const indexObject ={
                "": {
                     "locators": [],
                     "xrefs": [
-                         "xref bondservants (dāsa)",
-                         "xref servants",
-                         "xref slaves"
+                         "xref bondservants (dāsa)"
                     ]
                },
                "equality with other castes": {
@@ -77817,9 +77844,7 @@ export const indexObject ={
           },
           "wrong views": {
                "": {
-                    "locators": [
-                         "AN4.200"
-                    ],
+                    "locators": [],
                     "xrefs": [
                          "xref personal truths (paccekasacca)",
                          "xref views of other sects",
@@ -77869,6 +77894,12 @@ export const indexObject ={
                "and craving": {
                     "locators": [
                          "AN4.199"
+                    ],
+                    "xrefs": []
+               },
+               "overcoming": {
+                    "locators": [
+                         "AN4.200"
                     ],
                     "xrefs": []
                },
