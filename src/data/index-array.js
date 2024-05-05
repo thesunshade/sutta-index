@@ -38176,13 +38176,13 @@ export const indexArray =[
      ],
      [
           "MN12",
-          "elements (dhātu)",
-          "Buddha knows world with elements"
+          "dung",
+          "eating"
      ],
      [
           "MN12",
-          "excrement",
-          "eating"
+          "elements (dhātu)",
+          "Buddha knows world with elements"
      ],
      [
           "MN12",
@@ -38278,6 +38278,11 @@ export const indexArray =[
           "MN12",
           "Nāgasamāla, Ven.",
           "Fanning the Buddha, naming sutta"
+     ],
+     [
+          "MN12",
+          "nakedness",
+          "ascetic practice"
      ],
      [
           "MN12",
@@ -38576,8 +38581,18 @@ export const indexArray =[
      ],
      [
           "MN14",
+          "Bimbisāra, King",
+          "happiness of compared to Buddha"
+     ],
+     [
+          "MN14",
           "Bodhisatta",
           "sense pleasures and"
+     ],
+     [
+          "MN14",
+          "Buddha, the",
+          "happiness for seven days without moving"
      ],
      [
           "MN14",
@@ -38588,16 +38603,6 @@ export const indexArray =[
           "MN14",
           "bad rebirth (duggati)",
           "danger of sense pleasures"
-     ],
-     [
-          "MN14",
-          "Bimbisāra, King",
-          "happiness of compared to Buddha"
-     ],
-     [
-          "MN14",
-          "Buddha, the",
-          "happiness for seven days without moving"
      ],
      [
           "MN14",
@@ -39896,11 +39901,6 @@ export const indexArray =[
      ],
      [
           "MN26",
-          "Bodhisatta",
-          "striving for enlightenment"
-     ],
-     [
-          "MN26",
           "animals",
           "liable to rebirth, old age, sickness, etc."
      ],
@@ -39918,6 +39918,11 @@ export const indexArray =[
           "MN26",
           "Bodhisatta",
           "meditation experience"
+     ],
+     [
+          "MN26",
+          "Bodhisatta",
+          "striving for enlightenment"
      ],
      [
           "MN26",
@@ -40141,18 +40146,13 @@ export const indexArray =[
      ],
      [
           "MN27",
-          "alms gathering practice",
-          "meditating after"
-     ],
-     [
-          "MN27",
-          "bondservants (dāsa)",
-          "not accepting as offering"
-     ],
-     [
-          "MN27",
           "Buddha, the",
           "praise of"
+     ],
+     [
+          "MN27",
+          "alms gathering practice",
+          "meditating after"
      ],
      [
           "MN27",
@@ -40173,6 +40173,11 @@ export const indexArray =[
           "MN27",
           "birds",
           "simile for monastics taking only robe and bowl"
+     ],
+     [
+          "MN27",
+          "bondservants (dāsa)",
+          "not accepting as offering"
      ],
      [
           "MN27",
@@ -40911,6 +40916,11 @@ export const indexArray =[
      ],
      [
           "MN31",
+          "alms gathering practice",
+          "logistics"
+     ],
+     [
+          "MN31",
           "Dīgha Parajana, yakkha",
           "praising monks"
      ],
@@ -40953,11 +40963,6 @@ export const indexArray =[
           "MN31",
           "Nandiya, Ven.",
           "living with Ven. Anuruddha and Kimbila "
-     ],
-     [
-          "MN31",
-          "alms gathering practice",
-          "logistics"
      ],
      [
           "MN31",
@@ -41487,6 +41492,11 @@ export const indexArray =[
      [
           "MN36",
           "Buddha, the",
+          "how he teaches"
+     ],
+     [
+          "MN36",
+          "Buddha, the",
           "skin brightens when attacked"
      ],
      [
@@ -41508,11 +41518,6 @@ export const indexArray =[
           "MN36",
           "Buddha, the",
           "feelings, painful/pleasant don’t occupy mind"
-     ],
-     [
-          "MN36",
-          "Buddha, the",
-          "how he teaches"
      ],
      [
           "MN36",
@@ -41691,11 +41696,6 @@ export const indexArray =[
      ],
      [
           "MN37",
-          "Sakka, Lord of Gods",
-          "asking about arahants"
-     ],
-     [
-          "MN37",
           "devas",
           "war with asuras"
      ],
@@ -41721,11 +41721,6 @@ export const indexArray =[
      ],
      [
           "MN37",
-          "Palace of Victory",
-          "tour of"
-     ],
-     [
-          "MN37",
           "insisting on (abhinivesa)",
           "nothing worth insisting on"
      ],
@@ -41738,6 +41733,16 @@ export const indexArray =[
           "MN37",
           "nymphs (accharā)",
           "in Palace of Victory"
+     ],
+     [
+          "MN37",
+          "Palace of Victory",
+          "tour of"
+     ],
+     [
+          "MN37",
+          "Sakka, Lord of Gods",
+          "asking about arahants"
      ],
      [
           "MN37",
@@ -41756,6 +41761,11 @@ export const indexArray =[
      ],
      [
           "MN38",
+          "Dhamma applied to oneself (opanayika, opaneyyika)",
+          "definition"
+     ],
+     [
+          "MN38",
           "ceremonies",
           "believing in noisy ceremonies of other sects"
      ],
@@ -41763,6 +41773,11 @@ export const indexArray =[
           "MN38",
           "changing teachers",
           "not changing because of right view"
+     ],
+     [
+          "MN38",
+          "children",
+          "playing childish games"
      ],
      [
           "MN38",
@@ -41781,16 +41796,6 @@ export const indexArray =[
      ],
      [
           "MN38",
-          "Dhamma applied to oneself (opanayika, opaneyyika)",
-          "definition"
-     ],
-     [
-          "MN38",
-          "delight (nandi)",
-          "from liking and disliking"
-     ],
-     [
-          "MN38",
           "dependent origination",
           "in detail"
      ],
@@ -41806,8 +41811,8 @@ export const indexArray =[
      ],
      [
           "MN38",
-          "children",
-          "playing childish games"
+          "delight (nandi)",
+          "from liking and disliking"
      ],
      [
           "MN38",
@@ -43111,6 +43116,76 @@ export const indexArray =[
      ],
      [
           "MN45",
+          "ascetic practices",
+          "leading to hell"
+     ],
+     [
+          "MN45",
+          "bathing",
+          "as ritual"
+     ],
+     [
+          "MN45",
+          "bathing",
+          "refusing to"
+     ],
+     [
+          "MN45",
+          "beards",
+          "tearing out"
+     ],
+     [
+          "MN45",
+          "beds",
+          "of thorns/spikes"
+     ],
+     [
+          "MN45",
+          "creepers",
+          "simile for sense pleasures"
+     ],
+     [
+          "MN45",
+          "dangers",
+          "future, of sense pleasures"
+     ],
+     [
+          "MN45",
+          "dung",
+          "eating"
+     ],
+     [
+          "MN45",
+          "food",
+          "ascetic practices and"
+     ],
+     [
+          "MN45",
+          "hell (niraya)",
+          "result of ascetic practices"
+     ],
+     [
+          "MN45",
+          "hell (niraya)",
+          "result of sense pleasures"
+     ],
+     [
+          "MN45",
+          "intense lust (tibbarāga)",
+          "painful practice"
+     ],
+     [
+          "MN45",
+          "jhānas",
+          "pleasant practice, future pleasure"
+     ],
+     [
+          "MN45",
+          "nakedness",
+          "ascetic practice"
+     ],
+     [
+          "MN45",
           "observances (samādāna)",
           "for ways of, painful/pleasant"
      ],
@@ -43121,8 +43196,123 @@ export const indexArray =[
      ],
      [
           "MN45",
+          "robes",
+          "ascetic practices and"
+     ],
+     [
+          "MN45",
+          "robes",
+          "various kinds"
+     ],
+     [
+          "MN45",
           "sense pleasures (kāma, kāmaguṇa)",
           "danger of"
+     ],
+     [
+          "MN45",
+          "sense pleasures (kāma, kāmaguṇa)",
+          "like creeper plant"
+     ],
+     [
+          "MN45",
+          "sense pleasures (kāma, kāmaguṇa)",
+          "no harm in"
+     ],
+     [
+          "MN45",
+          "standing",
+          "ascetic practice"
+     ],
+     [
+          "MN45",
+          "wanderers (paribbājaka)",
+          "female, cavorting with"
+     ],
+     [
+          "MN46",
+          "bad actions",
+          "done in pain and sadness"
+     ],
+     [
+          "MN46",
+          "bad actions",
+          "done with pleasure and happiness"
+     ],
+     [
+          "MN46",
+          "bad actions",
+          "like beverages"
+     ],
+     [
+          "MN46",
+          "beverages",
+          "poisoned/healthy, delicious/disgusting; simile for actions"
+     ],
+     [
+          "MN46",
+          "desire (chanda)",
+          "for happiness"
+     ],
+     [
+          "MN46",
+          "good actions",
+          "done in pain and sadness"
+     ],
+     [
+          "MN46",
+          "good actions",
+          "done with pleasure and happiness"
+     ],
+     [
+          "MN46",
+          "good actions",
+          "like beverages"
+     ],
+     [
+          "MN46",
+          "medicine",
+          "simile for good actions"
+     ],
+     [
+          "MN46",
+          "noble disciple (ariya sāvaka)",
+          "knows proper practice"
+     ],
+     [
+          "MN46",
+          "not getting what you wish for",
+          "because of wrong practice"
+     ],
+     [
+          "MN46",
+          "observances (samādāna)",
+          "for ways of, painful/pleasant"
+     ],
+     [
+          "MN46",
+          "ordinary person (puthujjana)",
+          "not knowing proper practices"
+     ],
+     [
+          "MN46",
+          "poisons",
+          "simile for bad actions"
+     ],
+     [
+          "MN46",
+          "results of actions",
+          "rebirth"
+     ],
+     [
+          "MN46",
+          "sunrise",
+          "dispelling all darkness, simile for best practice"
+     ],
+     [
+          "MN46",
+          "wish",
+          "for happiness"
      ],
      [
           "MN48",
@@ -51312,7 +51502,7 @@ export const indexArray =[
      [
           "MN105",
           "beverages",
-          "poisoned, avoiding, like restraint towards sense fields, like restraint towards sense fields"
+          "poisoned, avoiding, like restraint towards sense fields"
      ],
      [
           "MN105",
