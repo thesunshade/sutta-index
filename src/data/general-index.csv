@@ -300,6 +300,7 @@ sharks		xref gharials
 realm of luminous form (rūpabhava)		xref form realm (rūpabhava)
 loving-kindness (mettā)		xref brahmaviharas
 meditation		xref brahmaviharas
+holy life		xref brahmacariya
 once returner (sakadāgāmī)		xref stages of enlightenment
 stream-enterers (sotāpanna)		xref stages of enlightenment
 stages of enlightenment		xref once returner (sakadāgāmī)
@@ -627,7 +628,7 @@ arahants		xref brahmin
 brahmin		xref arahant
 aging		xref old age (jarā)
 debates		xref disputes
-quarrels		xref disputes
+quarrels (kalahajāta)		xref disputes
 mansions, heavenly		xref devas
 heavenly mansions (vimāna)		xref devas
 merit sharing		xref departed relatives
@@ -1611,7 +1612,7 @@ killing	thinking of others as oneself	Dhp129
 killing	thinking of others as oneself	Dhp130
 killing	result of	Dhp131
 killing	result of	Dhp132
-harsh speech	result of	Dhp133
+harsh speech	results of	Dhp133
 conflicts	stopping	Dhp134
 death (maraṇa)	simile of cowherd	Dhp135
 violence	result of	Dhp137
@@ -1649,8 +1650,8 @@ first verses of Buddha	housebuilder simile	Dhp153
 rebirth	painful	Dhp153
 house builder	simile of	Dhp153
 house builder	simile of	Dhp154
-holy life	rejected in youth	Dhp155
-holy life	rejected in youth	Dhp156
+brahmacariya	rejected in youth	Dhp155
+brahmacariya	rejected in youth	Dhp156
 old age (jarā)	like cranes in dried pond	Dhp155
 old age (jarā)	like spent arrows	Dhp156
 self-taming	difficult to do	Dhp159
@@ -1974,7 +1975,7 @@ renunciation (nekkhamma)	bliss of	Ud2.10
 painful feelings	enduring	Ud3.1
 past actions	results of	Ud3.1
 enduring (adhivāsana)	painful feelings	Ud3.1
-holy life	not delighting in	Ud3.2
+brahmacariya	not delighting in	Ud3.2
 motivation	bad	Ud3.2
 noise	Buddha dismisses noisy monks	Ud3.3
 socializing	dismissed by the Buddha for being noisy	Ud3.3
@@ -2170,10 +2171,10 @@ craving (taṇha)	as partner	Iti15
 proper attention (yoniso manasikāra)	as interior factor	Iti16
 friendship	as external factor	Iti17
 schisms	as great harm	Iti18
-schisms	leading to hell	Iti18
+schisms	leads to hell	Iti18
 harmony in Saṅgha (saṅghasāmaggī)	as great happiness	Iti19
 harmony in Saṅgha (saṅghasāmaggī)	as cause of confidence	Iti19
-harmony in Saṅgha (saṅghasāmaggī)	leading to heaven	Iti19
+harmony in Saṅgha (saṅghasāmaggī)	leads to heaven	Iti19
 mind (citta)	corrupted mind leads to hell	Iti20
 mind reading	Buddha’s ability	Iti20
 rebirth	corrupted mind	Iti20
@@ -2228,8 +2229,8 @@ wrong views	resulting in hell	Iti32
 right view (sammā diṭṭhi)	resulting in heaven	Iti33
 prudence (ottāpa)	needed for enlightenment	Iti34
 keenness (ātāpi)	needed for enlightenment	Iti34
-holy life	reason for	Iti35
-holy life	reason for	Iti36
+brahmacariya	reason for	Iti35
+brahmacariya	reason for	Iti36
 urgency (saṁvega)	groundwork for enlightenment	Iti37
 security (khema)	thoughts of by Buddha	Iti38
 seclusion (viveka, paviveka)	thoughts of by Buddha	Iti38
@@ -2278,7 +2279,7 @@ sagacity/perfection (moneyya)	three types	Iti67
 sage (muni)	washed off all bad things	Iti67
 harassing	noble ones	Iti70
 wrong view (micchā diṭṭhi)	actions done with result in suffering	Iti70
-wrong view (micchā diṭṭhi)	leading to hell	Iti71
+wrong view (micchā diṭṭhi)	leads to hell	Iti71
 right view (sammā diṭṭhi)	resulting in heaven	Iti71
 escape (nissaraṇa)	elements of	Iti72
 formless (arūpa)	escape from form	Iti73
@@ -2697,8 +2698,8 @@ gifts, specific types of	water	Vv8
 gifts, specific types of	light	Vv9
 gifts, specific types of	sesame seeds	Vv10
 giving (dāna)	smallest gift has value	Vv10
-fidelity in marriage	leading to heaven	Vv11
-virtue (sīla)	leading to heaven	Vv11
+fidelity in marriage	leads to heaven	Vv11
+virtue (sīla)	leads to heaven	Vv11
 sexual misconduct	abstaining from	Vv11
 gifts, specific types of	cakes	Vv13
 gifts, specific types of	cakes	Vv14
@@ -2717,7 +2718,7 @@ Sakka, Lord of Gods	asking questions	Vv20
 giving (dāna)	smallest gift has value	Vv20
 wheel-turning monarchs	not greatest happiness	Vv20
 Buddha, the	visiting beings about to die	Vv21
-worshiping (vandati)	leading to heaven	Vv21
+worshiping (vandati)	leads to heaven	Vv21
 regret	over not making spiritual progress	Vv24
 devas	stream-enterers	Vv24
 stream-enterers (sotāpanna)	gods that have become	Vv24
@@ -2741,7 +2742,7 @@ giving (dāna)	smallest gift has value	Vv42
 wheel-turning monarchs	not greatest happiness	Vv43
 rejoicing (mudita)	in someone else’s merit	Vv44
 gifts, specific types of	monastery	Vv44
-recollection of generosity (cāgānussati)	leading to heaven	Vv44
+recollection of generosity (cāgānussati)	leads to heaven	Vv44
 gifts, specific types of	flowers	Vv45
 gifts, specific types of	monastery	Vv46
 offerings	to stupa	Vv47
@@ -2749,7 +2750,7 @@ death (maraṇa)	by cow	Vv47
 giving (dāna)	smallest gift has value	Vv47
 gifts, specific types of	sugarcane	Vv48
 giving (dāna)	criticizing	Vv48
-worshiping (vandati)	leading to heaven	Vv49
+worshiping (vandati)	leads to heaven	Vv49
 suicide	prevented	Vv50
 stream-enterers (sotāpanna)	gods that have become	Vv50
 devas	stream-enterers	Vv50
@@ -2764,7 +2765,7 @@ Chattamāṇavaka	verses taught by Buddha	Vv53
 refuges	going for leads to heaven	Vv53
 Buddha, the	visiting beings about to die	Vv53
 Buddha, the	visiting beings about to die	Vv50
-precepts, five	leading to heaven	Vv53
+precepts, five	leads to heaven	Vv53
 heaven (sagga)	precepts lead to	Vv53
 heaven (sagga)	refuges lead to	Vv53
 merit (puñña)	small amounts give big results	Vv53
@@ -2774,7 +2775,7 @@ gifts, specific types of	needle	Vv58
 gifts, specific types of	needle	Vv59
 offerings	to stupa	Vv60
 merit (puñña)	small amounts give big results	Vv60
-fidelity in marriage	leading to heaven	Vv61
+fidelity in marriage	leads to heaven	Vv61
 gifts, specific types of	dwelling	Vv62
 Mahā Kaccāna, Ven.	teaches a hunter	Vv63
 death (maraṇa)	cannot escape	Vv63
@@ -2801,7 +2802,7 @@ stupa (thupa)	worshiping	Vv82
 Maṭṭakuṇḍalī	teaching father	Vv83
 devas	giving advice	Vv83
 Buddha, the	visiting beings about to die	Vv83
-worshiping (vandati)	leading to heaven	Vv83
+worshiping (vandati)	leads to heaven	Vv83
 parents	caring for	Vv83
 death (maraṇa)	cause of grief	Vv83
 grieving	uselessness of	Vv83
@@ -2818,7 +2819,7 @@ monastics	reborn as ghosts	Pv3
 wrong speech (micchā vācā)	results of	Pv3
 departed relatives	sharing merit with	Pv4
 gods	sharing merit with	Pv4
-grieving	useless of	Pv4
+grieving	uselessness of	Pv4
 merit sharing	immediate effect	Pv4
 death (maraṇa)	not causing sorrow	Pv4
 departed relatives	not causing sorrow	Pv4
@@ -3158,7 +3159,7 @@ overconfidence	before enlightenment	Thag10.6
 contentment (santuṭṭhi)	with four requisites	Thag10.6
 dwellings	suitable	Thag10.7
 monastic life	advice for	Thag10.7
-virtue (sīla)	leading to heaven	Thag12.1
+virtue (sīla)	leads to heaven	Thag12.1
 virtue (sīla)	leading to happiness	Thag12.1
 virtue (sīla)		Thag12.1
 wisdom (paññā)	higher than virtue	Thag12.1
@@ -3540,9 +3541,11 @@ principles of cordiality (dhammā sāraṇīyā)	definition	MN104
 harmony in Saṅgha (saṅghasāmaggī)	principles of cordiality	MN104
 loving-kindness (mettā)	as principle of cordiality	MN104
 giving (dāna)	as principle of cordiality	MN104
+virtue (sīla)	as principle of cordiality	MN104
 sharing	as principle of cordiality	MN104
 right view (sammā diṭṭhi)	as principle of cordiality	MN104
 right view (sammā diṭṭhi)	leads to harmony	MN104
+loving-kindness (mettā)	by body, speech and mind 	MN104
 death (maraṇa)	abandoning the training as	MN105
 final knowledge (aññā)	declaring enlightenment	MN105
 overestimation (adhimāna)	declaring enlightenment	MN105
@@ -4309,58 +4312,58 @@ actions (kamma)	heir to one’s	MN135
 actions (kamma)	ownership of	MN135
 actions (kamma)	results and	MN135
 killing	definition	MN135
-killing	leading to hell	MN135
+killing	leads to hell	MN135
 killing	cause of short life	MN135
-killing, giving up	leading to heaven	MN135
+killing, giving up	leads to heaven	MN135
 killing, giving up	definition	MN135
 killing, giving up	cause of long life	MN135
 long life	cause for	MN135
 lifespans	cause for	MN135
 harming (viheṭhaka)	definition	MN135
-harming (viheṭhaka)	leading to hell	MN135
+harming (viheṭhaka)	leads to hell	MN135
 harming (viheṭhaka)	cause of illness	MN135
 cruelty (hiṁsa, vihiṁsā)	cause of illness	MN135
 sickness	cause	MN135
-harming, giving up (viheṭhaka)	leading to heaven	MN135
+harming, giving up (viheṭhaka)	leads to heaven	MN135
 harming, giving up (viheṭhaka)	definition	MN135
 harming, giving up (viheṭhaka)	cause of health	MN135
 health	cause	MN135
 anger (kodha)	definition	MN135
-anger (kodha)	leading to hell	MN135
+anger (kodha)	leads to hell	MN135
 anger (kodha)	cause of ugliness	MN135
 ugliness	result of anger	MN135
-anger, giving up (kodha)	leading to heaven	MN135
+anger, giving up (kodha)	leads to heaven	MN135
 anger, giving up (kodha)	definition	MN135
 anger, giving up (kodha)	cause of beauty	MN135
 beauty	as result of non-anger	MN135
 envy (issā)	definition	MN135
-envy (issā)	leading to hell	MN135
+envy (issā)	leads to hell	MN135
 envy (issā)	cause of being uninfluential, insignificant	MN135
-envy, giving up (issā)	leading to heaven	MN135
+envy, giving up (issā)	leads to heaven	MN135
 envy, giving up (issā)	definition	MN135
 envy, giving up (issā)	cause of being influential	MN135
 influential	result of non-jealousy	MN135
 stinginess (maccharī)	definition	MN135
-stinginess (maccharī)	leading to hell	MN135
+stinginess (maccharī)	leads to hell	MN135
 stinginess (maccharī)	cause of poverty	MN135
 poverty	as a result of not giving	MN135
-generosity (cāga)	leading to heaven	MN135
+generosity (cāga)	leads to heaven	MN135
 generosity (cāga)	definition	MN135
 generosity (cāga)	cause of wealth	MN135
 wealth	as result of giving	MN135
-giving (dāna)	leading to heaven	MN135
+giving (dāna)	leads to heaven	MN135
 giving (dāna)	definition	MN135
 giving (dāna)	cause of wealth	MN135
 arrogance (thaddha)	definition	MN135
-arrogance (thaddha)	leading to hell	MN135
+arrogance (thaddha)	leads to hell	MN135
 arrogance (thaddha)	cause of low birth	MN135
-humility	leading to heaven	MN135
+humility	leads to heaven	MN135
 humility	definition	MN135
 humility	cause of high birth	MN135
 questions, not asking	definition	MN135
-questions, not asking	leading to hell	MN135
+questions, not asking	leads to hell	MN135
 questions, not asking	cause of stupidity	MN135
-questions, asking	leading to heaven	MN135
+questions, asking	leads to heaven	MN135
 questions, asking	definition	MN135
 questions, asking	cause of wisdom	MN135
 questions, asking	about welfare	MN135
@@ -5139,7 +5142,7 @@ Dhamma teaching	explicit vs. interpreted	AN2.24
 Dhamma teaching	explicit vs. interpreted	AN2.25
 Buddha, the	misrepresenting	AN2.25
 hiding misdeeds	result	AN2.26
-wrong view (micchā diṭṭhi)	leading to hell	AN2.27
+wrong view (micchā diṭṭhi)	leads to hell	AN2.27
 wrong view (micchā diṭṭhi)	leading to animal world	AN2.27
 animal realm	wrong view leads to	AN2.27
 hell (niraya)	wrong view leads to	AN2.27
@@ -5350,8 +5353,8 @@ questions, asking	fools and wise people	AN3.5
 questions, answering	fools and wise people	AN3.5
 fools (bāla)	characteristics	AN3.6
 wise people	characteristics	AN3.6
-jealousy (issā)	leading to hell	AN3.10
-stinginess (maccharī)	leading to hell	AN3.10
+jealousy (issā)	leads to hell	AN3.10
+stinginess (maccharī)	leads to hell	AN3.10
 jealousy (issā)	giving up leads to heaven	AN3.10
 stinginess (maccharī)	giving up leads to heaven	AN3.10
 mendicants	acting for the harm or welfare of beings	AN3.11
@@ -6178,14 +6181,14 @@ women	danger for monks	AN4.122
 gharials	simile for women	AN4.122
 women	like gharials	AN4.122
 lifespans	in heaven	AN4.123
-jhānas	leading to heaven	AN4.123
+jhānas	leads to heaven	AN4.123
 ordinary person (puthujjana)	compared to noble disciple with rebirth	AN4.123
 noble disciple (ariya sāvaka)	compared to an ordinary person with rebirth	AN4.123
 pure abodes (suddhāvāsā)		AN4.124
-jhānas	leading to heaven	AN4.124
+jhānas	leads to heaven	AN4.124
 loving-kindness (mettā)	as a path to brahma world	AN4.125
 lifespans	in heaven	AN4.125
-brahmaviharas	leading to heaven	AN4.125
+brahmaviharas	leads to heaven	AN4.125
 meditation	enjoying	AN4.125
 loving-kindness (mettā)	as a path to brahma world	AN4.126
 incredible and amazing (acchariyā abbhutā)	events connected with the Buddha	AN4.127
@@ -6452,16 +6455,16 @@ hell (niraya)	actions that lead to	AN4.213
 hell (niraya)	wrong view leads to	AN4.214
 heaven (sagga)	actions that lead to	AN4.215
 heaven (sagga)	right view leads to	AN4.216
-gratitude	leading to heaven	AN4.217
-ingratitude	leading to hell	AN4.218
+gratitude	leads to heaven	AN4.217
+ingratitude	leads to hell	AN4.218
 speech	declarations	AN4.217
-lying	leading to hell	AN4.217
-truthfulness	leading to heaven	AN4.217
+lying	leads to hell	AN4.217
+truthfulness	leads to heaven	AN4.217
 speech	declarations	AN4.218
-lying	leading to hell	AN4.218
-truthfulness	leading to heaven	AN4.218
-faith (saddhā)	lack of leading to hell	AN4.219
-faith (saddhā)	lack of leading to hell	AN4.220
+lying	leads to hell	AN4.218
+truthfulness	leads to heaven	AN4.218
+faith (saddhā)	lack of leads to hell	AN4.219
+faith (saddhā)	lack of leads to hell	AN4.220
 speech	good conduct	AN4.221
 speech	bad conduct	AN4.221
 speech	four kinds of good	AN4.221
@@ -6549,16 +6552,16 @@ powers (bala)	energy, mindfulness, immersion, wisdom	AN4.261
 wilderness (arañña)	qualities needed to live in	AN4.262
 stupidity	and living in wilderness	AN4.262
 fools (bāla)	harm themselves with bad action	AN4.262
-killing	leading to hell	AN4.264
-stealing	leading to hell	AN4.265
-sexual misconduct	leading to hell	AN4.266
-lying	leading to hell	AN4.267
-divisive speech	leading to hell	AN4.268
-harsh speech	leading to hell	AN4.269
-useless speech (tiracchāna)	leading to hell	AN4.270
-covetousness (abhijjhā)	leading to hell	AN4.271
-ill will (vyāpāda, byāpāda)	leading to hell	AN4.272
-wrong view (micchā diṭṭhi)	leading to hell	AN4.273
+killing	leads to hell	AN4.264
+stealing	leads to hell	AN4.265
+sexual misconduct	leads to hell	AN4.266
+lying	leads to hell	AN4.267
+divisive speech	leads to hell	AN4.268
+harsh speech	leads to hell	AN4.269
+useless speech (tiracchāna)	leads to hell	AN4.270
+covetousness (abhijjhā)	leads to hell	AN4.271
+ill will (vyāpāda, byāpāda)	leads to hell	AN4.272
+wrong view (micchā diṭṭhi)	leads to hell	AN4.273
 encouragement	to do bad	AN4.264-273
 encouragement	to do good	AN4.264-273
 foundations of mindfulness, four (satipaṭṭhāna)	insight into greed	AN4.274
@@ -6568,8 +6571,8 @@ powers of a trainee (sekha bala)	faith, conscience, prudence, energy, wisdom	AN5
 powers of a trainee (sekha bala)	definition	AN5.2
 powers of a trainee (sekha bala)	cause for happy life	AN5.3
 powers of a trainee (sekha bala)	cause for good rebirth	AN5.3
-powers of a trainee (sekha bala)	leading to heaven	AN5.4
-powers of a trainee (sekha bala)	lack of leading to hell	AN5.4
+powers of a trainee (sekha bala)	leads to heaven	AN5.4
+powers of a trainee (sekha bala)	lack of leads to hell	AN5.4
 hell (niraya)	qualities that lead to	AN5.4
 heaven (sagga)	qualities that lead to	AN5.4
 disrobing	caused by lack of powers of trainee	AN5.5
@@ -6671,7 +6674,7 @@ giving (dāna)	food	AN5.37
 giving (dāna)	result of	AN5.37
 giving (dāna)	benefits to receiver and giver similar	AN5.37
 faith (saddhā)	benefits	AN5.38
-faith (saddhā)	leading to heaven	AN5.38
+faith (saddhā)	leads to heaven	AN5.38
 faith (saddhā)	person with like a tree	AN5.38
 trees	like person with faith	AN5.38
 parents	wanting children	AN5.39
@@ -6946,13 +6949,13 @@ speech	praise and dispraise	AN5.119
 speech	praise and dispraise	AN5.120
 bhikkhunīs	qualities of and rebirth	AN5.116
 wasting gifts		AN5.116
-jealousy (issā)	leading to hell	AN5.117
+jealousy (issā)	leads to hell	AN5.117
 wrong intention (micchā saṅkappa)	leading to	AN5.118
-right intention (sammā saṅkappa)	leading to heaven	AN5.118
-wrong speech (micchā vācā)	leading to hell	AN5.119
-right speech (sammā vācā)	leading to heaven	AN5.119
-wrong effort (micchāvāyāma)	leading to hell	AN5.120
-right effort (sammā vāyāma)	leading to heaven	AN5.120
+right intention (sammā saṅkappa)	leads to heaven	AN5.118
+wrong speech (micchā vācā)	leads to hell	AN5.119
+right speech (sammā vācā)	leads to heaven	AN5.119
+wrong effort (micchāvāyāma)	leads to hell	AN5.120
+right effort (sammā vāyāma)	leads to heaven	AN5.120
 sickness	meditations to practice while sick	AN5.121
 perception of ugliness (asubhasaññā)	practicing while sick	AN5.121
 perception of repulsiveness of food (āhāre paṭikūlasaññā)	practicing while sick	AN5.121
@@ -7097,7 +7100,7 @@ timidity (sārajja)	qualities that make one	AN5.171
 precepts, five	breaking them makes you timit	AN5.171
 self-assured (visārada)	qualities that make one	AN5.172
 precepts, five	breaking leads to hell	AN5.173
-precepts, five	leading to heaven	AN5.173
+precepts, five	leads to heaven	AN5.173
 Anāthapiṇḍika, householder	precepts	AN5.174
 perils (bhaya)	of breaking precepts	AN5.174
 precepts, five	breaking leads to hell	AN5.174
@@ -7297,11 +7300,11 @@ speech	praise and dispraise	AN5.238
 wasting gifts		AN5.237
 criticism	rightly directed	AN5.237
 criticism	wrongly directed	AN5.237
-stinginess (maccharī)	leading to hell	AN5.237
+stinginess (maccharī)	leads to hell	AN5.237
 criticism	rightly directed	AN5.238
 criticism	wrongly directed	AN5.238
-stinginess (maccharī)	leading to hell	AN5.238
-stinginess (maccharī)	leading to hell	AN5.239
+stinginess (maccharī)	leads to hell	AN5.238
+stinginess (maccharī)	leads to hell	AN5.239
 bad actions		AN5.245-248
 charnel ground	drawbacks of	AN5.249
 charnel ground	people like a	AN5.249
@@ -7699,14 +7702,14 @@ meditation	happiness in present life	AN6.78
 joy in the Dhamma (dhammārāma)	happiness in present life	AN6.78
 proliferation (papañca)	happiness in present life	AN6.78
 seclusion	happiness in present life	AN6.78
-killing	leading to hell	AN6.81
-stealing	leading to hell	AN6.81
-sexual misconduct	leading to hell	AN6.81
-lying	leading to hell	AN6.81
-evil wishes (pāpiccha)	leading to hell	AN6.81
-wrong view (micchā diṭṭhi)	leading to hell	AN6.81
-greedy (luddha)	leading to hell	AN6.82
-rudeness (pagabbha)	leading to hell	AN6.82
+killing	leads to hell	AN6.81
+stealing	leads to hell	AN6.81
+sexual misconduct	leads to hell	AN6.81
+lying	leads to hell	AN6.81
+evil wishes (pāpiccha)	leads to hell	AN6.81
+wrong view (micchā diṭṭhi)	leads to hell	AN6.81
+greedy (luddha)	leads to hell	AN6.82
+rudeness (pagabbha)	leads to hell	AN6.82
 listening to Dhamma	properly and improperly	AN6.86
 listening to Dhamma	obstacles	AN6.86
 actions (kamma)	obstructions to listening to Dhamma	AN6.86
@@ -8514,7 +8517,7 @@ bases of psychic power (iddhipāda)	arahant has well developed	AN8.28
 faculties, spiritual (indriya)	arahant has well developed	AN8.28
 awakening factors, seven (bojjhaṅga)	arahant has well developed	AN8.28
 noble eightfold path (ariya aṭṭhangika magga)	arahant has well developed	AN8.28
-inopportune moment (asamaya)		AN8.29
+inopportune moment (asamaya)	for spiritual practice	AN8.29
 hell (niraya)	lost opportunity if born in hell when Buddha is alive	AN8.29
 animal realm	lost opportunity if born in hell when Buddha is alive	AN8.29
 ghost realm	lost opportunity if born in hell when Buddha is alive	AN8.29
@@ -8602,7 +8605,7 @@ virtue (sīla)	cause for rebirth	AN8.36
 rebirth	dependent virtue, giving, meditation	AN8.36
 giving (dāna)	levels of	AN8.36
 virtue (sīla)	levels of	AN8.36
-human birth	cause	AN8.36
+human birth	cause for rebirth in	AN8.36
 gods of the Four Great Kings (cātumahārājika devā)	cause for rebirth among	AN8.36
 gods of the Thirty-Three (tāvatiṁsā devā)	cause for rebirth among	AN8.36
 gods of Yama (yāmā devā)	cause for rebirth among	AN8.36
@@ -8635,21 +8638,21 @@ speech	useless speech: results of	AN8.40
 virtue (sīla)	results of not being virtuous	AN8.40
 results of actions	rebirth	AN8.40
 killing	cause of short life	AN8.40
-killing	leading to hell	AN8.40
+killing	leads to hell	AN8.40
 lifespans	cause for	AN8.40
-stealing	leading to hell	AN8.40
+stealing	leads to hell	AN8.40
 stealing	cause for loss of wealth	AN8.40
 wealth	causes for loss of	AN8.40
-sexual misconduct	leading to hell	AN8.40
+sexual misconduct	leads to hell	AN8.40
 sexual misconduct	leading to rivalry and enmity	AN8.40
-lying	leading to hell	AN8.40
+lying	leads to hell	AN8.40
 lying	leading to false accusations	AN8.40
 false accusations	caused by lying	AN8.40
-divisive speech	leading to hell	AN8.40
+divisive speech	leads to hell	AN8.40
 divisive speech	causing division among friends	AN8.40
-harsh speech	leading to hell	AN8.40
+harsh speech	leads to hell	AN8.40
 harsh speech	causing hearing disagreeable things	AN8.40
-useless speech (samphappalāpa)	leading to hell	AN8.40
+useless speech (samphappalāpa)	leads to hell	AN8.40
 useless speech (samphappalāpa)	causing no one to take you seriously	AN8.40
 intoxicants	using leads to hell	AN8.40
 intoxicants	using leads to insanity	AN8.40
@@ -9277,7 +9280,7 @@ stinginess (maccharī)	caused by ownership	AN9.23
 stinginess (maccharī)	causes safeguarding, protection	AN9.23
 protection (ārakkha)	caused by stinginess	AN9.23
 protection (ārakkha)	causes fights, etc.	AN9.23
-quarrels	caused by protection	AN9.23
+quarrels (kalahajāta)	caused by protection	AN9.23
 accusations	caused by protection	AN9.23
 divisive speech	caused by protection	AN9.23
 lying	caused by protection	AN9.23
@@ -9901,7 +9904,7 @@ danger (ādīnava)	monastics entering inner palace of king	AN10.45
 monastic life	associating with laypeople	AN10.46
 uposatha	results of observing	AN10.46
 uposatha	in a limited way	AN10.46
-uposatha	leading to heaven	AN10.46
+uposatha	leads to heaven	AN10.46
 uposatha	leading to enlightenment	AN10.46
 uposatha	with eight factors	AN10.46
 Mahāli the Licchavi	cause for good and bad deeds	AN10.47
@@ -10860,8 +10863,8 @@ righteous conduct (dhammacārī)	cause for rebirth	AN10.220
 unrighteous conduct (adhammacārī)	cause for rebirth	AN10.220
 encouragement	to do good	AN10.222
 encouragement	to do bad	AN10.222
-encouragement	to do good leading to heaven	AN10.222
-encouragement	to do bad leading to hell	AN10.222
+encouragement	to do good leads to heaven	AN10.222
+encouragement	to do bad leads to hell	AN10.222
 hell (niraya)	encouraging others to do bad can lead to	AN10.222
 heaven (sagga)	encouraging others to do good can lead to	AN10.222
 approval (samanuñña)	of good or bad deeds	AN10.223
@@ -12768,7 +12771,7 @@ Revata, Ven.	listening to a sermon by the Buddha	MN68
 Ānanda, Ven.	listening to a sermon by the Buddha	MN68
 spiritual path (brahmacariya)	satisfaction with	MN68
 going forth (pabbajja)	as youth	MN68
-going forth (pabbajja)	reason for	MN68
+going forth (pabbajja)	reasons for	MN68
 first jhāna	one who doesn’t attain, one who does	MN68
 hindrances (nīvaraṇa)	one who removes, one who doesn’t	MN68
 using (paṭisevana)	after appraisal	MN68
@@ -14158,7 +14161,7 @@ jhānas	Buddha knows	MN12
 liberations, eight (vimokkha)	Buddha knows	MN12
 concentration (samādhi)	Buddha knows	MN12
 attainments (samāpatti)	Buddha knows	MN12
-wrong view (micchā diṭṭhi)	leading to hell	MN12
+wrong view (micchā diṭṭhi)	leads to hell	MN12
 accomplishment in virtue (sīlasampadā)	person who is attains liberation simile for person with wrong view going to hell	MN12
 accomplishment in concentration (samādhisampannā)	person who is attains liberation simile for person with wrong view going to hell	MN12
 accomplishment in wisdom (paññāsampadā)	person who is attains liberation simile for person with wrong view going to hell	MN12
@@ -15197,7 +15200,7 @@ bathing	as ritual	MN45
 bathing	refusing to	MN45
 dung	eating	MN45
 hell (niraya)	result of ascetic practices	MN45
-ascetic practices	leading to hell	MN45
+ascetic practices	leads to hell	MN45
 intense lust (tibbarāga)	painful practice	MN45
 jhānas	pleasant practice, future pleasure	MN45
 desire (chanda)	for happiness	MN46
@@ -15217,3 +15220,24 @@ good actions	like beverages	MN46
 poisons	simile for bad actions	MN46
 medicine	simile for good actions	MN46
 sunrise	dispelling all darkness, simile for best practice	MN46
+investigation (vīmaṃsā)	of the Buddha	MN47
+Buddha, the	investigating	MN47
+corruptions (saṅkilesa)	not seen in the Buddha	MN47
+fame (yasas)	Buddha not corrupted by	MN47
+confidence (pasāda)	in Buddha from knowing Dhamma	MN47
+faith (saddhā)	settled, rooted, planted	MN47
+conflicts		xref quarrels (kalahajāta)
+disputes		xref quarrels (kalahajāta)
+quarrels (kalahajāta)	monks of Kosambi	MN48
+Kosambi	dispute at	MN48
+loving-kindness (mettā)	in action	MN48
+principles of cordiality (dhammā sāraṇīyā)	definition	MN48
+harmony in Saṅgha (saṅghasāmaggī)	principles of cordiality	MN48
+loving-kindness (mettā)	as principle of cordiality	MN48
+giving (dāna)	as principle of cordiality	MN48
+sharing	as principle of cordiality	MN48
+right view (sammā diṭṭhi)	as principle of cordiality	MN48
+right view (sammā diṭṭhi)	leads to harmony	MN48
+loving-kindness (mettā)	by body, speech and mind 	MN48
+giving (dāna)	by monastics	MN48
+virtue (sīla)	as principle of cordiality	MN48

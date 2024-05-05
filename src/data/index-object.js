@@ -2494,7 +2494,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "leading to hell": {
+               "leads to hell": {
                     "locators": [
                          "MN135"
                     ],
@@ -2676,7 +2676,7 @@ export const indexObject ={
                "counter_value": 2
           },
           "anger, giving up (kodha)": {
-               "leading to heaven": {
+               "leads to heaven": {
                     "locators": [
                          "MN135"
                     ],
@@ -3702,7 +3702,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "leading to hell": {
+               "leads to hell": {
                     "locators": [
                          "MN135"
                     ],
@@ -3783,7 +3783,7 @@ export const indexObject ={
                }
           },
           "ascetic practices": {
-               "leading to hell": {
+               "leads to hell": {
                     "locators": [
                          "MN45"
                     ],
@@ -8474,6 +8474,26 @@ export const indexObject ={
                          "xref monastic life",
                          "xref spiritual path (brahmacariya)"
                     ]
+               },
+               "rejected in youth": {
+                    "locators": [
+                         "Dhp155",
+                         "Dhp156"
+                    ],
+                    "xrefs": []
+               },
+               "not delighting in": {
+                    "locators": [
+                         "Ud3.2"
+                    ],
+                    "xrefs": []
+               },
+               "reason for": {
+                    "locators": [
+                         "Iti35",
+                         "Iti36"
+                    ],
+                    "xrefs": []
                }
           },
           "brahmās": {
@@ -8549,7 +8569,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "leading to heaven": {
+               "leads to heaven": {
                     "locators": [
                          "AN4.125"
                     ],
@@ -9798,6 +9818,12 @@ export const indexObject ={
                "skin brightens when attacked": {
                     "locators": [
                          "MN36"
+                    ],
+                    "xrefs": []
+               },
+               "investigating": {
+                    "locators": [
+                         "MN47"
                     ],
                     "xrefs": []
                }
@@ -12378,6 +12404,12 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
+               "in Buddha from knowing Dhamma": {
+                    "locators": [
+                         "MN47"
+                    ],
+                    "xrefs": []
+               },
                "counter_value": 2
           },
           "confirmed confidence (aveccappasāda)": {
@@ -12392,7 +12424,8 @@ export const indexObject ={
                "": {
                     "locators": [],
                     "xrefs": [
-                         "xref disputes"
+                         "xref disputes",
+                         "xref quarrels (kalahajāta)"
                     ]
                },
                "stopping": {
@@ -13315,6 +13348,12 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
+               "not seen in the Buddha": {
+                    "locators": [
+                         "MN47"
+                    ],
+                    "xrefs": []
+               },
                "counter_value": 1
           },
           "corruptions (upakkilesa)": {
@@ -13443,7 +13482,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "leading to hell": {
+               "leads to hell": {
                     "locators": [
                          "AN4.271"
                     ],
@@ -18686,7 +18725,8 @@ export const indexObject ={
                "": {
                     "locators": [],
                     "xrefs": [
-                         "xref conflicts"
+                         "xref conflicts",
+                         "xref quarrels (kalahajāta)"
                     ]
                },
                "over views": {
@@ -19237,7 +19277,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "leading to hell": {
+               "leads to hell": {
                     "locators": [
                          "AN4.268",
                          "AN8.40"
@@ -21142,13 +21182,13 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "to do good leading to heaven": {
+               "to do good leads to heaven": {
                     "locators": [
                          "AN10.222"
                     ],
                     "xrefs": []
                },
-               "to do bad leading to hell": {
+               "to do bad leads to hell": {
                     "locators": [
                          "AN10.222"
                     ],
@@ -21799,7 +21839,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "leading to hell": {
+               "leads to hell": {
                     "locators": [
                          "MN135"
                     ],
@@ -21813,7 +21853,7 @@ export const indexObject ={
                }
           },
           "envy, giving up (issā)": {
-               "leading to heaven": {
+               "leads to heaven": {
                     "locators": [
                          "MN135"
                     ],
@@ -22195,7 +22235,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "leading to hell": {
+               "leads to hell": {
                     "locators": [
                          "AN6.81"
                     ],
@@ -23563,7 +23603,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "lack of leading to hell": {
+               "lack of leads to hell": {
                     "locators": [
                          "AN4.219",
                          "AN4.220"
@@ -23590,7 +23630,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "leading to heaven": {
+               "leads to heaven": {
                     "locators": [
                          "AN5.38"
                     ],
@@ -23822,6 +23862,12 @@ export const indexObject ={
                "overcoming being faithless": {
                     "locators": [
                          "MN8"
+                    ],
+                    "xrefs": []
+               },
+               "settled, rooted, planted": {
+                    "locators": [
+                         "MN47"
                     ],
                     "xrefs": []
                }
@@ -24069,6 +24115,12 @@ export const indexObject ={
                "from growth in good qualities": {
                     "locators": [
                          "AN10.74"
+                    ],
+                    "xrefs": []
+               },
+               "Buddha not corrupted by": {
+                    "locators": [
+                         "MN47"
                     ],
                     "xrefs": []
                }
@@ -25230,7 +25282,7 @@ export const indexObject ={
                }
           },
           "fidelity in marriage": {
-               "leading to heaven": {
+               "leads to heaven": {
                     "locators": [
                          "Vv11",
                          "Vv61"
@@ -28208,7 +28260,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "leading to heaven": {
+               "leads to heaven": {
                     "locators": [
                          "MN135"
                     ],
@@ -29004,6 +29056,7 @@ export const indexObject ={
                },
                "leads to heaven": {
                     "locators": [
+                         "MN135",
                          "Vv29"
                     ],
                     "xrefs": []
@@ -29048,6 +29101,7 @@ export const indexObject ={
                },
                "as principle of cordiality": {
                     "locators": [
+                         "MN48",
                          "MN104"
                     ],
                     "xrefs": []
@@ -29068,12 +29122,6 @@ export const indexObject ={
                     "locators": [
                          "MN110",
                          "AN7.13"
-                    ],
-                    "xrefs": []
-               },
-               "leading to heaven": {
-                    "locators": [
-                         "MN135"
                     ],
                     "xrefs": []
                },
@@ -29708,6 +29756,12 @@ export const indexObject ={
                "“doctrine for morons”": {
                     "locators": [
                          "MN76"
+                    ],
+                    "xrefs": []
+               },
+               "by monastics": {
+                    "locators": [
+                         "MN48"
                     ],
                     "xrefs": []
                }
@@ -30560,9 +30614,10 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "reason for": {
+               "reasons for": {
                     "locators": [
-                         "MN68"
+                         "MN68",
+                         "MN82"
                     ],
                     "xrefs": []
                },
@@ -30573,12 +30628,6 @@ export const indexObject ={
                     "xrefs": []
                },
                "discouraging with encouragement to make merit": {
-                    "locators": [
-                         "MN82"
-                    ],
-                    "xrefs": []
-               },
-               "reasons for": {
                     "locators": [
                          "MN82"
                     ],
@@ -31621,7 +31670,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "leading to heaven": {
+               "leads to heaven": {
                     "locators": [
                          "AN4.217"
                     ],
@@ -32002,7 +32051,7 @@ export const indexObject ={
                }
           },
           "greedy (luddha)": {
-               "leading to hell": {
+               "leads to hell": {
                     "locators": [
                          "AN6.82"
                     ],
@@ -32057,16 +32106,11 @@ export const indexObject ={
                          "AN5.48",
                          "Snp3.8",
                          "Vv83",
+                         "Pv4",
                          "Pv8",
                          "Pv12",
                          "Pv18",
                          "Pv25"
-                    ],
-                    "xrefs": []
-               },
-               "useless of": {
-                    "locators": [
-                         "Pv4"
                     ],
                     "xrefs": []
                },
@@ -32619,7 +32663,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "leading to hell": {
+               "leads to hell": {
                     "locators": [
                          "MN135"
                     ],
@@ -32654,7 +32698,7 @@ export const indexObject ={
                }
           },
           "harming, giving up (viheṭhaka)": {
-               "leading to heaven": {
+               "leads to heaven": {
                     "locators": [
                          "MN135"
                     ],
@@ -32767,7 +32811,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "leading to heaven": {
+               "leads to heaven": {
                     "locators": [
                          "Iti19"
                     ],
@@ -32775,6 +32819,7 @@ export const indexObject ={
                },
                "principles of cordiality": {
                     "locators": [
+                         "MN48",
                          "MN104",
                          "AN6.11",
                          "AN6.12"
@@ -32855,8 +32900,9 @@ export const indexObject ={
                          "xref verbal formations (vacīsaṅkhāra)"
                     ]
                },
-               "result of": {
+               "results of": {
                     "locators": [
+                         "AN8.40",
                          "Dhp133"
                     ],
                     "xrefs": []
@@ -32891,7 +32937,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "leading to hell": {
+               "leads to hell": {
                     "locators": [
                          "AN4.269",
                          "AN8.40"
@@ -32907,12 +32953,6 @@ export const indexObject ={
                "from speaking much": {
                     "locators": [
                          "AN5.214"
-                    ],
-                    "xrefs": []
-               },
-               "results of": {
-                    "locators": [
-                         "AN8.40"
                     ],
                     "xrefs": []
                },
@@ -35224,25 +35264,11 @@ export const indexObject ={
                }
           },
           "holy life": {
-               "rejected in youth": {
-                    "locators": [
-                         "Dhp155",
-                         "Dhp156"
-                    ],
-                    "xrefs": []
-               },
-               "not delighting in": {
-                    "locators": [
-                         "Ud3.2"
-                    ],
-                    "xrefs": []
-               },
-               "reason for": {
-                    "locators": [
-                         "Iti35",
-                         "Iti36"
-                    ],
-                    "xrefs": []
+               "": {
+                    "locators": [],
+                    "xrefs": [
+                         "xref brahmacariya"
+                    ]
                }
           },
           "Holy One (sugato)": {
@@ -35798,14 +35824,9 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "cause": {
-                    "locators": [
-                         "AN8.36"
-                    ],
-                    "xrefs": []
-               },
                "cause for rebirth in": {
                     "locators": [
+                         "AN8.36",
                          "AN10.176"
                     ],
                     "xrefs": []
@@ -35877,7 +35898,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "leading to heaven": {
+               "leads to heaven": {
                     "locators": [
                          "MN135"
                     ],
@@ -36325,7 +36346,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "leading to hell": {
+               "leads to hell": {
                     "locators": [
                          "AN4.272"
                     ],
@@ -37115,7 +37136,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "leading to hell": {
+               "leads to hell": {
                     "locators": [
                          "AN4.218"
                     ],
@@ -37152,7 +37173,7 @@ export const indexObject ={
                }
           },
           "inopportune moment (asamaya)": {
-               "": {
+               "for spiritual practice": {
                     "locators": [
                          "AN8.29"
                     ],
@@ -37877,6 +37898,14 @@ export const indexObject ={
                     ]
                }
           },
+          "investigation (vīmaṃsā)": {
+               "of the Buddha": {
+                    "locators": [
+                         "MN47"
+                    ],
+                    "xrefs": []
+               }
+          },
           "investigation of meaning (atthūpaparikkhā)": {
                "able to benefit oneself and others": {
                     "locators": [
@@ -38254,7 +38283,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "leading to hell": {
+               "leads to hell": {
                     "locators": [
                          "AN3.10",
                          "AN5.117"
@@ -38471,7 +38500,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "leading to heaven": {
+               "leads to heaven": {
                     "locators": [
                          "AN4.123",
                          "AN4.124"
@@ -39437,7 +39466,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "leading to hell": {
+               "leads to hell": {
                     "locators": [
                          "MN135",
                          "AN4.264",
@@ -39527,7 +39556,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "leading to heaven": {
+               "leads to heaven": {
                     "locators": [
                          "MN135"
                     ],
@@ -40382,6 +40411,7 @@ export const indexObject ={
           "Kosambi": {
                "dispute at": {
                     "locators": [
+                         "MN48",
                          "MN128"
                     ],
                     "xrefs": []
@@ -42720,6 +42750,7 @@ export const indexObject ={
                          "MN31",
                          "MN33",
                          "MN48",
+                         "MN48",
                          "MN104",
                          "MN128"
                     ],
@@ -42796,11 +42827,21 @@ export const indexObject ={
                "as principle of cordiality": {
                     "locators": [
                          "MN31",
+                         "MN48",
                          "MN104",
                          "MN128",
                          "AN6.12",
                          "AN11.11",
                          "AN11.12"
+                    ],
+                    "xrefs": []
+               },
+               "by body, speech and mind": {
+                    "locators": [
+                         "MN33",
+                         "MN48",
+                         "MN104",
+                         "AN11.17"
                     ],
                     "xrefs": []
                },
@@ -42968,13 +43009,6 @@ export const indexObject ={
                     "locators": [
                          "MN52",
                          "AN11.16"
-                    ],
-                    "xrefs": []
-               },
-               "by body, speech and mind": {
-                    "locators": [
-                         "MN33",
-                         "AN11.17"
                     ],
                     "xrefs": []
                },
@@ -43263,7 +43297,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "leading to hell": {
+               "leads to hell": {
                     "locators": [
                          "AN4.217",
                          "AN4.218",
@@ -54985,13 +55019,13 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "leading to heaven": {
+               "leads to heaven": {
                     "locators": [
                          "AN5.4"
                     ],
                     "xrefs": []
                },
-               "lack of leading to hell": {
+               "lack of leads to hell": {
                     "locators": [
                          "AN5.4"
                     ],
@@ -55402,7 +55436,7 @@ export const indexObject ={
                }
           },
           "precepts, five": {
-               "leading to heaven": {
+               "leads to heaven": {
                     "locators": [
                          "AN5.173",
                          "Vv53"
@@ -55668,6 +55702,7 @@ export const indexObject ={
           "principles of cordiality (dhammā sāraṇīyā)": {
                "definition": {
                     "locators": [
+                         "MN48",
                          "MN104",
                          "AN10.50"
                     ],
@@ -56548,7 +56583,7 @@ export const indexObject ={
                     ]
                }
           },
-          "quarrels": {
+          "quarrels (kalahajāta)": {
                "": {
                     "locators": [],
                     "xrefs": [
@@ -56558,6 +56593,12 @@ export const indexObject ={
                "caused by protection": {
                     "locators": [
                          "AN9.23"
+                    ],
+                    "xrefs": []
+               },
+               "monks of Kosambi": {
+                    "locators": [
+                         "MN48"
                     ],
                     "xrefs": []
                }
@@ -56631,7 +56672,7 @@ export const indexObject ={
                }
           },
           "questions, asking": {
-               "leading to heaven": {
+               "leads to heaven": {
                     "locators": [
                          "MN135"
                     ],
@@ -56744,7 +56785,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "leading to hell": {
+               "leads to hell": {
                     "locators": [
                          "MN135"
                     ],
@@ -57871,7 +57912,7 @@ export const indexObject ={
                }
           },
           "recollection of generosity (cāgānussati)": {
-               "leading to heaven": {
+               "leads to heaven": {
                     "locators": [
                          "Vv44"
                     ],
@@ -59903,7 +59944,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "leading to heaven": {
+               "leads to heaven": {
                     "locators": [
                          "AN5.120"
                     ],
@@ -60106,7 +60147,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "leading to heaven": {
+               "leads to heaven": {
                     "locators": [
                          "AN5.118"
                     ],
@@ -60311,12 +60352,7 @@ export const indexObject ={
                },
                "leads to heaven": {
                     "locators": [
-                         "AN4.82"
-                    ],
-                    "xrefs": []
-               },
-               "leading to heaven": {
-                    "locators": [
+                         "AN4.82",
                          "AN5.119"
                     ],
                     "xrefs": []
@@ -60379,12 +60415,14 @@ export const indexObject ={
                },
                "as principle of cordiality": {
                     "locators": [
+                         "MN48",
                          "MN104"
                     ],
                     "xrefs": []
                },
                "leads to harmony": {
                     "locators": [
+                         "MN48",
                          "MN104"
                     ],
                     "xrefs": []
@@ -60904,7 +60942,7 @@ export const indexObject ={
                "counter_value": 1
           },
           "rudeness (pagabbha)": {
-               "leading to hell": {
+               "leads to hell": {
                     "locators": [
                          "AN6.82"
                     ],
@@ -62138,8 +62176,10 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "leading to hell": {
+               "leads to hell": {
                     "locators": [
+                         "AN5.129",
+                         "AN10.39",
                          "Iti18"
                     ],
                     "xrefs": []
@@ -62160,13 +62200,6 @@ export const indexObject ={
                     "locators": [
                          "AN5.54",
                          "AN5.78"
-                    ],
-                    "xrefs": []
-               },
-               "leads to hell": {
-                    "locators": [
-                         "AN5.129",
-                         "AN10.39"
                     ],
                     "xrefs": []
                },
@@ -64941,7 +64974,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "leading to hell": {
+               "leads to hell": {
                     "locators": [
                          "AN4.266",
                          "AN6.81",
@@ -65033,6 +65066,7 @@ export const indexObject ={
           "sharing": {
                "as principle of cordiality": {
                     "locators": [
+                         "MN48",
                          "MN104"
                     ],
                     "xrefs": []
@@ -67901,7 +67935,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "leading to hell": {
+               "leads to hell": {
                     "locators": [
                          "AN4.265",
                          "AN6.81",
@@ -68050,7 +68084,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "leading to hell": {
+               "leads to hell": {
                     "locators": [
                          "MN135",
                          "AN3.10",
@@ -71641,7 +71675,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "leading to heaven": {
+               "leads to heaven": {
                     "locators": [
                          "AN4.217",
                          "AN4.218"
@@ -72957,7 +72991,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "leading to heaven": {
+               "leads to heaven": {
                     "locators": [
                          "AN10.46"
                     ],
@@ -73129,7 +73163,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "leading to hell": {
+               "leads to hell": {
                     "locators": [
                          "AN8.40"
                     ],
@@ -73158,7 +73192,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "leading to hell": {
+               "leads to hell": {
                     "locators": [
                          "AN4.270"
                     ],
@@ -74155,7 +74189,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "leading to heaven": {
+               "leads to heaven": {
                     "locators": [
                          "Vv11",
                          "Thag12.1"
@@ -74165,6 +74199,13 @@ export const indexObject ={
                "leading to happiness": {
                     "locators": [
                          "Thag12.1"
+                    ],
+                    "xrefs": []
+               },
+               "as principle of cordiality": {
+                    "locators": [
+                         "MN48",
+                         "MN104"
                     ],
                     "xrefs": []
                },
@@ -77385,7 +77426,7 @@ export const indexObject ={
                "counter_value": 3
           },
           "worshiping (vandati)": {
-               "leading to heaven": {
+               "leads to heaven": {
                     "locators": [
                          "Vv21",
                          "Vv49",
@@ -77476,7 +77517,7 @@ export const indexObject ={
                }
           },
           "wrong effort (micchāvāyāma)": {
-               "leading to hell": {
+               "leads to hell": {
                     "locators": [
                          "AN5.120"
                     ],
@@ -77772,12 +77813,7 @@ export const indexObject ={
                },
                "leads to hell": {
                     "locators": [
-                         "AN4.82"
-                    ],
-                    "xrefs": []
-               },
-               "leading to hell": {
-                    "locators": [
+                         "AN4.82",
                          "AN5.119"
                     ],
                     "xrefs": []
@@ -77850,7 +77886,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "leading to hell": {
+               "leads to hell": {
                     "locators": [
                          "MN12",
                          "AN2.27",

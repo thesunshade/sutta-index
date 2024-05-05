@@ -1,11 +1,11 @@
 export const indexObject =[
      [
           "giving (dāna)",
-          153
+          154
      ],
      [
           "Buddha, the",
-          146
+          147
      ],
      [
           "death (maraṇa)",
@@ -37,7 +37,7 @@ export const indexObject =[
      ],
      [
           "virtue (sīla)",
-          65
+          67
      ],
      [
           "arahants",
@@ -56,15 +56,15 @@ export const indexObject =[
           56
      ],
      [
+          "faith (saddhā)",
+          55
+     ],
+     [
           "awakening factors, seven (bojjhaṅga)",
           55
      ],
      [
           "wisdom (paññā)",
-          54
-     ],
-     [
-          "faith (saddhā)",
           54
      ],
      [
@@ -144,6 +144,10 @@ export const indexObject =[
           36
      ],
      [
+          "right view (sammā diṭṭhi)",
+          35
+     ],
+     [
           "going forth (pabbajja)",
           35
      ],
@@ -161,10 +165,6 @@ export const indexObject =[
      ],
      [
           "suffering (dukkha)",
-          34
-     ],
-     [
-          "right view (sammā diṭṭhi)",
           34
      ],
      [
@@ -676,6 +676,10 @@ export const indexObject =[
           15
      ],
      [
+          "harmony in Saṅgha (saṅghasāmaggī)",
+          15
+     ],
+     [
           "gradual training (anupubbasikkhā)",
           15
      ],
@@ -737,10 +741,6 @@ export const indexObject =[
      ],
      [
           "heart’s release (cetovimutti)",
-          14
-     ],
-     [
-          "harmony in Saṅgha (saṅghasāmaggī)",
           14
      ],
      [
@@ -1032,6 +1032,10 @@ export const indexObject =[
           11
      ],
      [
+          "confidence (pasāda)",
+          11
+     ],
+     [
           "cloth",
           11
      ],
@@ -1144,6 +1148,10 @@ export const indexObject =[
           10
      ],
      [
+          "fame (yasas)",
+          10
+     ],
+     [
           "faculties (indriya)",
           10
      ],
@@ -1177,10 +1185,6 @@ export const indexObject =[
      ],
      [
           "deathless (amata)",
-          10
-     ],
-     [
-          "confidence (pasāda)",
           10
      ],
      [
@@ -1317,10 +1321,6 @@ export const indexObject =[
      ],
      [
           "Ganges river",
-          9
-     ],
-     [
-          "fame (yasas)",
           9
      ],
      [
@@ -2068,6 +2068,10 @@ export const indexObject =[
           6
      ],
      [
+          "principles of cordiality (dhammā sāraṇīyā)",
+          6
+     ],
+     [
           "pleasure (sukha)",
           6
      ],
@@ -2412,10 +2416,6 @@ export const indexObject =[
           5
      ],
      [
-          "principles of cordiality (dhammā sāraṇīyā)",
-          5
-     ],
-     [
           "precepts, eight",
           5
      ],
@@ -2548,10 +2548,6 @@ export const indexObject =[
           5
      ],
      [
-          "holy life",
-          5
-     ],
-     [
           "higher ethics, higher mind, higher wisdom",
           5
      ],
@@ -2677,6 +2673,10 @@ export const indexObject =[
      ],
      [
           "butchers",
+          5
+     ],
+     [
+          "brahmacariya",
           5
      ],
      [
@@ -4088,6 +4088,10 @@ export const indexObject =[
           3
      ],
      [
+          "corruptions (saṅkilesa)",
+          3
+     ],
+     [
           "conflicts",
           3
      ],
@@ -4612,6 +4616,10 @@ export const indexObject =[
           2
      ],
      [
+          "sharing",
+          2
+     ],
+     [
           "shame",
           2
      ],
@@ -4773,6 +4781,10 @@ export const indexObject =[
      ],
      [
           "Raṭṭhapāla, Ven.",
+          2
+     ],
+     [
+          "quarrels (kalahajāta)",
           2
      ],
      [
@@ -5153,6 +5165,10 @@ export const indexObject =[
      ],
      [
           "Kumārakassapa, Ven.",
+          2
+     ],
+     [
+          "Kosambi",
           2
      ],
      [
@@ -5665,10 +5681,6 @@ export const indexObject =[
      ],
      [
           "craftsperson (sippika)",
-          2
-     ],
-     [
-          "corruptions (saṅkilesa)",
           2
      ],
      [
@@ -6744,10 +6756,6 @@ export const indexObject =[
           1
      ],
      [
-          "sharing",
-          1
-     ],
-     [
           "shadows",
           1
      ],
@@ -7017,10 +7025,6 @@ export const indexObject =[
      ],
      [
           "questions, not asking",
-          1
-     ],
-     [
-          "quarrels",
           1
      ],
      [
@@ -7660,10 +7664,6 @@ export const indexObject =[
           1
      ],
      [
-          "Kosambi",
-          1
-     ],
-     [
           "Koṇḍañña, Ven.",
           1
      ],
@@ -7833,6 +7833,10 @@ export const indexObject =[
      ],
      [
           "invitation (pavāraṇā)",
+          1
+     ],
+     [
+          "investigation (vīmaṃsā)",
           1
      ],
      [
