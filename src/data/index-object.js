@@ -1519,6 +1519,12 @@ export const indexObject ={
                          "MN62"
                     ],
                     "xrefs": []
+               },
+               "attachment to": {
+                    "locators": [
+                         "MN49"
+                    ],
+                    "xrefs": []
                }
           },
           "air element (vāyo dhātu)": {
@@ -1736,7 +1742,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "Ven. Mahāmoggallāna praising": {
+               "Ven. Moggallāna praising": {
                     "locators": [
                          "Thag20.1"
                     ],
@@ -4733,6 +4739,12 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
+               "to elements, beings, gods, etc": {
+                    "locators": [
+                         "MN49"
+                    ],
+                    "xrefs": []
+               },
                "counter_value": 2
           },
           "attachments (visattikā)": {
@@ -5460,7 +5472,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "chanted when Ven. Mahāmoggallāna was ill": {
+               "chanted when Ven. Moggallāna was ill": {
                     "locators": [
                          "SN46.15"
                     ],
@@ -6223,6 +6235,14 @@ export const indexObject ={
                     "xrefs": []
                }
           },
+          "Baka Brahmā": {
+               "wrong views": {
+                    "locators": [
+                         "MN49"
+                    ],
+                    "xrefs": []
+               }
+          },
           "Bakkula, Ven.": {
                "qualities of": {
                     "locators": [
@@ -6745,6 +6765,12 @@ export const indexObject ={
                "perceiving, directly knowing, etc.": {
                     "locators": [
                          "MN1"
+                    ],
+                    "xrefs": []
+               },
+               "attachment to": {
+                    "locators": [
+                         "MN49"
                     ],
                     "xrefs": []
                },
@@ -8413,6 +8439,12 @@ export const indexObject ={
                          "MN1"
                     ],
                     "xrefs": []
+               },
+               "questioned by Ven. Moggallāna": {
+                    "locators": [
+                         "MN50"
+                    ],
+                    "xrefs": []
                }
           },
           "Brahmā mansions": {
@@ -8468,6 +8500,12 @@ export const indexObject ={
                "Buddha reborn as": {
                     "locators": [
                          "Iti22"
+                    ],
+                    "xrefs": []
+               },
+               "Baka Brahmā": {
+                    "locators": [
+                         "MN49"
                     ],
                     "xrefs": []
                }
@@ -8649,6 +8687,12 @@ export const indexObject ={
                "leads to inner peace": {
                     "locators": [
                          "MN40"
+                    ],
+                    "xrefs": []
+               },
+               "under abuse": {
+                    "locators": [
+                         "MN50"
                     ],
                     "xrefs": []
                }
@@ -9829,6 +9873,18 @@ export const indexObject ={
                "investigating": {
                     "locators": [
                          "MN47"
+                    ],
+                    "xrefs": []
+               },
+               "teaching gods": {
+                    "locators": [
+                         "MN49"
+                    ],
+                    "xrefs": []
+               },
+               "psychic powers, vanishing and reappearing": {
+                    "locators": [
+                         "MN49"
                     ],
                     "xrefs": []
                }
@@ -14042,6 +14098,14 @@ export const indexObject ={
                "exposition on": {
                     "locators": [
                          "AN10.216"
+                    ],
+                    "xrefs": []
+               }
+          },
+          "cremation": {
+               "of monk while still alive": {
+                    "locators": [
+                         "MN50"
                     ],
                     "xrefs": []
                }
@@ -19954,8 +20018,9 @@ export const indexObject ={
                }
           },
           "Dūsī, Māra": {
-               "Ven. Mahāmoggallāna": {
+               "Ven. Moggallāna": {
                     "locators": [
+                         "MN50",
                          "Thag20.1"
                     ],
                     "xrefs": []
@@ -20167,6 +20232,12 @@ export const indexObject ={
                     "locators": [
                          "MN73",
                          "MN77"
+                    ],
+                    "xrefs": []
+               },
+               "attachment to": {
+                    "locators": [
+                         "MN49"
                     ],
                     "xrefs": []
                }
@@ -25490,6 +25561,18 @@ export const indexObject ={
                          "MN38"
                     ],
                     "xrefs": []
+               },
+               "attachment to": {
+                    "locators": [
+                         "MN49"
+                    ],
+                    "xrefs": []
+               },
+               "does not think to burn the fool": {
+                    "locators": [
+                         "MN50"
+                    ],
+                    "xrefs": []
                }
           },
           "fire chamber": {
@@ -26279,6 +26362,12 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
+               "fire does not think to burn": {
+                    "locators": [
+                         "MN50"
+                    ],
+                    "xrefs": []
+               },
                "counter_value": 1
           },
           "fools (moghapurisa)": {
@@ -26385,7 +26474,7 @@ export const indexObject ={
                          "xref wilderness (arañña)"
                     ]
                },
-               "Ven. Mahāmoggallāna praising": {
+               "Ven. Moggallāna praising": {
                     "locators": [
                          "Thag20.1"
                     ],
@@ -29874,6 +29963,14 @@ export const indexObject ={
                     "xrefs": []
                }
           },
+          "goddess of luck (sirī)": {
+               "chasing away": {
+                    "locators": [
+                         "MN49"
+                    ],
+                    "xrefs": []
+               }
+          },
           "gods": {
                "": {
                     "locators": [],
@@ -30038,6 +30135,18 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
+               "thinking they are permanent": {
+                    "locators": [
+                         "MN49"
+                    ],
+                    "xrefs": []
+               },
+               "attachment to": {
+                    "locators": [
+                         "MN49"
+                    ],
+                    "xrefs": []
+               },
                "counter_value": 1
           },
           "gods (deva)": {
@@ -30067,6 +30176,12 @@ export const indexObject ={
                "perceiving, directly knowing, etc.": {
                     "locators": [
                          "MN1"
+                    ],
+                    "xrefs": []
+               },
+               "Baka Brahmā’s birth in": {
+                    "locators": [
+                         "MN49"
                     ],
                     "xrefs": []
                }
@@ -30199,6 +30314,13 @@ export const indexObject ={
                "perceiving, directly knowing, etc.": {
                     "locators": [
                          "MN1"
+                    ],
+                    "xrefs": []
+               },
+               "Baka Brahmā’s birth in": {
+                    "locators": [
+                         "MN49",
+                         "MN49"
                     ],
                     "xrefs": []
                }
@@ -31724,6 +31846,7 @@ export const indexObject ={
           "Great Hell (mahāniraya)": {
                "description of": {
                     "locators": [
+                         "MN50",
                          "MN129",
                          "MN130"
                     ],
@@ -34167,6 +34290,12 @@ export const indexObject ={
                     "xrefs": [
                          "xref devas"
                     ]
+               },
+               "Ven. Moggallāna can see": {
+                    "locators": [
+                         "MN50"
+                    ],
+                    "xrefs": []
                }
           },
           "heavenly realms": {
@@ -34709,6 +34838,7 @@ export const indexObject ={
                },
                "torture in": {
                     "locators": [
+                         "MN50",
                          "MN129",
                          "MN130",
                          "AN3.36",
@@ -34898,6 +35028,12 @@ export const indexObject ={
                "result of ascetic practices": {
                     "locators": [
                          "MN45"
+                    ],
+                    "xrefs": []
+               },
+               "having head of a fish": {
+                    "locators": [
+                         "MN50"
                     ],
                     "xrefs": []
                }
@@ -39130,6 +39266,14 @@ export const indexObject ={
                     "xrefs": []
                }
           },
+          "Kakusandha Buddha": {
+               "Ven. Moggallāna in time of": {
+                    "locators": [
+                         "MN50"
+                    ],
+                    "xrefs": []
+               }
+          },
           "Kālāmas, people": {
                "choosing a teaching": {
                     "locators": [
@@ -42741,43 +42885,6 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "to gain inner peace": {
-                    "locators": [
-                         "MN40"
-                    ],
-                    "xrefs": []
-               },
-               "the way proper for an ascetic": {
-                    "locators": [
-                         "MN40"
-                    ],
-                    "xrefs": []
-               },
-               "as immeasurable deliverance": {
-                    "locators": [
-                         "MN43",
-                         "MN127"
-                    ],
-                    "xrefs": []
-               },
-               "in action": {
-                    "locators": [
-                         "MN31",
-                         "MN33",
-                         "MN48",
-                         "MN48",
-                         "MN104",
-                         "MN128"
-                    ],
-                    "xrefs": []
-               },
-               "under abuse": {
-                    "locators": [
-                         "MN21",
-                         "MN50"
-                    ],
-                    "xrefs": []
-               },
                "": {
                     "locators": [],
                     "xrefs": [
@@ -42839,6 +42946,16 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
+               "in action": {
+                    "locators": [
+                         "MN31",
+                         "MN33",
+                         "MN48",
+                         "MN104",
+                         "MN128"
+                    ],
+                    "xrefs": []
+               },
                "as principle of cordiality": {
                     "locators": [
                          "MN31",
@@ -42863,6 +42980,13 @@ export const indexObject ={
                "monks committed to developing": {
                     "locators": [
                          "MN118"
+                    ],
+                    "xrefs": []
+               },
+               "as immeasurable deliverance": {
+                    "locators": [
+                         "MN43",
+                         "MN127"
                     ],
                     "xrefs": []
                },
@@ -43118,9 +43242,28 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
+               "under abuse": {
+                    "locators": [
+                         "MN21",
+                         "MN50"
+                    ],
+                    "xrefs": []
+               },
                "to respond to bad speech": {
                     "locators": [
                          "MN21"
+                    ],
+                    "xrefs": []
+               },
+               "to gain inner peace": {
+                    "locators": [
+                         "MN40"
+                    ],
+                    "xrefs": []
+               },
+               "the way proper for an ascetic": {
+                    "locators": [
+                         "MN40"
                     ],
                     "xrefs": []
                }
@@ -43378,6 +43521,12 @@ export const indexObject ={
                          "AN4.246"
                     ],
                     "xrefs": []
+               },
+               "simile for stilling thoughts": {
+                    "locators": [
+                         "MN20"
+                    ],
+                    "xrefs": []
                }
           },
           "lying, giving up": {
@@ -43626,24 +43775,6 @@ export const indexObject ={
                     "xrefs": [
                          "xref Moggallāna, Ven."
                     ]
-               },
-               "on being easy to admonish": {
-                    "locators": [
-                         "MN15"
-                    ],
-                    "xrefs": []
-               },
-               "what kind of mendicant would beautify sal park": {
-                    "locators": [
-                         "MN32"
-                    ],
-                    "xrefs": []
-               },
-               "questioning Sakka": {
-                    "locators": [
-                         "MN37"
-                    ],
-                    "xrefs": []
                }
           },
           "Mahā Nāma the Licchavi": {
@@ -44059,6 +44190,24 @@ export const indexObject ={
                "trapping ascetics": {
                     "locators": [
                          "MN25"
+                    ],
+                    "xrefs": []
+               },
+               "debating the Buddha": {
+                    "locators": [
+                         "MN49"
+                    ],
+                    "xrefs": []
+               },
+               "encouraging Buddha not to teach": {
+                    "locators": [
+                         "MN49"
+                    ],
+                    "xrefs": []
+               },
+               "tormenting Ven. Moggallāna": {
+                    "locators": [
+                         "MN50"
                     ],
                     "xrefs": []
                }
@@ -47086,6 +47235,36 @@ export const indexObject ={
                          "MN5"
                     ],
                     "xrefs": []
+               },
+               "on being easy to admonish": {
+                    "locators": [
+                         "MN15"
+                    ],
+                    "xrefs": []
+               },
+               "what kind of mendicant would beautify sal park": {
+                    "locators": [
+                         "MN32"
+                    ],
+                    "xrefs": []
+               },
+               "questioning Sakka": {
+                    "locators": [
+                         "MN37"
+                    ],
+                    "xrefs": []
+               },
+               "Māra": {
+                    "locators": [
+                         "MN50"
+                    ],
+                    "xrefs": []
+               },
+               "psychic powers": {
+                    "locators": [
+                         "MN50"
+                    ],
+                    "xrefs": []
                }
           },
           "Mogharājā, Ven.": {
@@ -48138,6 +48317,12 @@ export const indexObject ={
                "to realize world of perfect happiness": {
                     "locators": [
                          "MN79"
+                    ],
+                    "xrefs": []
+               },
+               "of ascetics in the past": {
+                    "locators": [
+                         "MN49"
                     ],
                     "xrefs": []
                },
@@ -52103,6 +52288,12 @@ export const indexObject ={
                          "MN1"
                     ],
                     "xrefs": []
+               },
+               "attachment to": {
+                    "locators": [
+                         "MN49"
+                    ],
+                    "xrefs": []
                }
           },
           "Pakudha Kaccāyana": {
@@ -52119,12 +52310,24 @@ export const indexObject ={
                          "MN121"
                     ],
                     "xrefs": []
+               },
+               "Ven. Moggallāna shaking with toe": {
+                    "locators": [
+                         "MN50"
+                    ],
+                    "xrefs": []
                }
           },
           "Palace of Victory": {
                "tour of": {
                     "locators": [
                          "MN37"
+                    ],
+                    "xrefs": []
+               },
+               "Ven. Moggallāna shaking with toe": {
+                    "locators": [
+                         "MN50"
                     ],
                     "xrefs": []
                }
@@ -52154,6 +52357,7 @@ export const indexObject ={
                "cut off, simile of Buddha’s defilements cut off": {
                     "locators": [
                          "MN36",
+                         "MN49",
                          "MN68"
                     ],
                     "xrefs": []
@@ -53062,6 +53266,12 @@ export const indexObject ={
                          "SN46.70"
                     ],
                     "xrefs": []
+               },
+               "to overcome praise": {
+                    "locators": [
+                         "MN50"
+                    ],
+                    "xrefs": []
                }
           },
           "perception of fading away (virāgasaññā)": {
@@ -53501,6 +53711,12 @@ export const indexObject ={
                "awakening factors and": {
                     "locators": [
                          "SN46.69"
+                    ],
+                    "xrefs": []
+               },
+               "to overcome praise": {
+                    "locators": [
+                         "MN50"
                     ],
                     "xrefs": []
                }
@@ -54054,6 +54270,14 @@ export const indexObject ={
                "term for sense pleasures": {
                     "locators": [
                          "AN8.56"
+                    ],
+                    "xrefs": []
+               }
+          },
+          "permanence": {
+               "wrong view": {
+                    "locators": [
+                         "MN49"
                     ],
                     "xrefs": []
                }
@@ -54629,6 +54853,14 @@ export const indexObject ={
                "thirty-six": {
                     "locators": [
                          "MN137"
+                    ],
+                    "xrefs": []
+               }
+          },
+          "possession": {
+               "of brahmins by Māra": {
+                    "locators": [
+                         "MN50"
                     ],
                     "xrefs": []
                }
@@ -61789,6 +62021,14 @@ export const indexObject ={
                     "xrefs": []
                }
           },
+          "Sañjīva, Ven.": {
+               "chief disciple of Kakusandha Buddha": {
+                    "locators": [
+                         "MN50"
+                    ],
+                    "xrefs": []
+               }
+          },
           "Sarabha, wanderer": {
                "false claims": {
                     "locators": [
@@ -65762,6 +66002,12 @@ export const indexObject ={
                          "AN7.66"
                     ],
                     "xrefs": []
+               },
+               "Ven. Moggallāna touching": {
+                    "locators": [
+                         "MN50"
+                    ],
+                    "xrefs": []
                }
           },
           "Siṅgālakamātā, Ven.": {
@@ -65818,6 +66064,12 @@ export const indexObject ={
                     "xrefs": [
                          "xref postures"
                     ]
+               },
+               "simile for stilling thoughts": {
+                    "locators": [
+                         "MN20"
+                    ],
+                    "xrefs": []
                }
           },
           "situational awareness (sampajañña)": {
@@ -67928,6 +68180,12 @@ export const indexObject ={
                     "locators": [
                          "MN12",
                          "MN45"
+                    ],
+                    "xrefs": []
+               },
+               "simile for stilling thoughts": {
+                    "locators": [
+                         "MN20"
                     ],
                     "xrefs": []
                }
@@ -71958,6 +72216,12 @@ export const indexObject ={
                          "Dhp8"
                     ],
                     "xrefs": []
+               },
+               "to overcome praise": {
+                    "locators": [
+                         "MN50"
+                    ],
+                    "xrefs": []
                }
           },
           "ultimate sanctuary from the yoke (accantayogakkhemī)": {
@@ -73161,7 +73425,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "Ven. Mahāmoggallāna stirring up in Sakka": {
+               "Ven. Moggallāna stirring up in Sakka": {
                     "locators": [
                          "MN37"
                     ],
@@ -73619,7 +73883,7 @@ export const indexObject ={
                }
           },
           "Vejayantapāsāda (Palace of Victory)": {
-               "Ven. Mahāmoggallāna shaking": {
+               "Ven. Moggallāna shaking": {
                     "locators": [
                          "Thag20.1"
                     ],
@@ -73801,6 +74065,14 @@ export const indexObject ={
                "leaving behind": {
                     "locators": [
                          "Dhp201"
+                    ],
+                    "xrefs": []
+               }
+          },
+          "Vidhura, Ven.": {
+               "chief disciple of Kakusandha Buddha": {
+                    "locators": [
+                         "MN50"
                     ],
                     "xrefs": []
                }
@@ -74816,6 +75088,12 @@ export const indexObject ={
                     "xrefs": [
                          "xref postures"
                     ]
+               },
+               "simile for stilling thoughts": {
+                    "locators": [
+                         "MN20"
+                    ],
+                    "xrefs": []
                }
           },
           "walking meditation": {
@@ -74941,6 +75219,12 @@ export const indexObject ={
                "pleading with": {
                     "locators": [
                          "MN97"
+                    ],
+                    "xrefs": []
+               },
+               "talking to person in hell": {
+                    "locators": [
+                         "MN50"
                     ],
                     "xrefs": []
                }
@@ -75120,6 +75404,12 @@ export const indexObject ={
                "harming creatures in": {
                     "locators": [
                          "MN12"
+                    ],
+                    "xrefs": []
+               },
+               "attachment to": {
+                    "locators": [
+                         "MN49"
                     ],
                     "xrefs": []
                }
@@ -78247,6 +78537,12 @@ export const indexObject ={
                "obstinately sticking to": {
                     "locators": [
                          "MN38"
+                    ],
+                    "xrefs": []
+               },
+               "permanence, Baka Brahmā": {
+                    "locators": [
+                         "MN49"
                     ],
                     "xrefs": []
                },
