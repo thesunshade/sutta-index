@@ -5622,13 +5622,13 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "simile of something stuck in throat": {
+               "something stuck in throat, simile for scolding": {
                     "locators": [
                          "MN58"
                     ],
                     "xrefs": []
                },
-               "simile of five lower fetters": {
+               "simile for five lower fetters": {
                     "locators": [
                          "MN64"
                     ],
@@ -5649,9 +5649,7 @@ export const indexObject ={
           },
           "bad actions": {
                "": {
-                    "locators": [
-                         "AN5.245-248"
-                    ],
+                    "locators": [],
                     "xrefs": [
                          "xref actions (kamma)",
                          "xref good actions"
@@ -5795,7 +5793,8 @@ export const indexObject ={
                },
                "drawbacks of": {
                     "locators": [
-                         "AN5.217"
+                         "AN5.217",
+                         "AN5.245"
                     ],
                     "xrefs": []
                },
@@ -7304,6 +7303,12 @@ export const indexObject ={
                "levels of": {
                     "locators": [
                          "AN4.135"
+                    ],
+                    "xrefs": []
+               },
+               "result of actions": {
+                    "locators": [
+                         "AN5.245"
                     ],
                     "xrefs": []
                },
@@ -10067,7 +10072,6 @@ export const indexObject ={
                          "xref fire chamber",
                          "xref guest houses",
                          "xref houses",
-                         "xref houses",
                          "xref kuṭis",
                          "xref palaces (pāsādā)",
                          "xref roof",
@@ -10110,7 +10114,7 @@ export const indexObject ={
                     "xrefs": []
                }
           },
-          "bungalows": {
+          "bungalows (kūṭāgāra)": {
                "": {
                     "locators": [],
                     "xrefs": [
@@ -10174,7 +10178,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "": {
+               "bad results": {
                     "locators": [
                          "AN6.18"
                     ],
@@ -16695,6 +16699,12 @@ export const indexObject ={
                "Buddha has respect for": {
                     "locators": [
                          "AN5.99"
+                    ],
+                    "xrefs": []
+               },
+               "closeness to, result of actions": {
+                    "locators": [
+                         "AN5.245"
                     ],
                     "xrefs": []
                },
@@ -30829,6 +30839,12 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
+               "advantages of": {
+                    "locators": [
+                         "AN5.245"
+                    ],
+                    "xrefs": []
+               },
                "ten ways of performing: fully comprehending makes an end of suffering": {
                     "locators": [
                          "AN10.28"
@@ -31338,8 +31354,7 @@ export const indexObject ={
           "gradual training (anupubbasikkhā)": {
                "": {
                     "locators": [
-                         "AN8.19",
-                         "AN8.20"
+                         "AN8.19"
                     ],
                     "xrefs": [
                          "xref gradual instruction (anupubba katha)"
@@ -55704,6 +55719,8 @@ export const indexObject ={
                     "locators": [
                          "MN48",
                          "MN104",
+                         "AN6.11",
+                         "AN6.12",
                          "AN10.50"
                     ],
                     "xrefs": []
@@ -55711,13 +55728,6 @@ export const indexObject ={
                "way of living comfortably": {
                     "locators": [
                          "AN5.105"
-                    ],
-                    "xrefs": []
-               },
-               "": {
-                    "locators": [
-                         "AN6.11",
-                         "AN6.12"
                     ],
                     "xrefs": []
                }
@@ -57747,9 +57757,14 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "": {
+               "practice of noble disciples": {
                     "locators": [
-                         "AN6.10",
+                         "AN6.10"
+                    ],
+                    "xrefs": []
+               },
+               "definition": {
+                    "locators": [
                          "AN6.25"
                     ],
                     "xrefs": []
@@ -57810,9 +57825,14 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "": {
+               "practice of noble disciples": {
                     "locators": [
-                         "AN6.10",
+                         "AN6.10"
+                    ],
+                    "xrefs": []
+               },
+               "definition": {
+                    "locators": [
                          "AN6.25"
                     ],
                     "xrefs": []
@@ -57867,9 +57887,14 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "": {
+               "practice of noble disciples": {
                     "locators": [
-                         "AN6.10",
+                         "AN6.10"
+                    ],
+                    "xrefs": []
+               },
+               "definition": {
+                    "locators": [
                          "AN6.25"
                     ],
                     "xrefs": []
@@ -57924,9 +57949,14 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "": {
+               "practice of noble disciples": {
                     "locators": [
-                         "AN6.10",
+                         "AN6.10"
+                    ],
+                    "xrefs": []
+               },
+               "definition": {
+                    "locators": [
                          "AN6.25"
                     ],
                     "xrefs": []
@@ -58038,9 +58068,14 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "": {
+               "practice of noble disciples": {
                     "locators": [
-                         "AN6.10",
+                         "AN6.10"
+                    ],
+                    "xrefs": []
+               },
+               "definition": {
+                    "locators": [
                          "AN6.25"
                     ],
                     "xrefs": []
@@ -58110,9 +58145,14 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "": {
+               "practice of noble disciples": {
                     "locators": [
-                         "AN6.10",
+                         "AN6.10"
+                    ],
+                    "xrefs": []
+               },
+               "definition": {
+                    "locators": [
                          "AN6.25"
                     ],
                     "xrefs": []
@@ -58814,6 +58854,12 @@ export const indexObject ={
                "bad reputation gained through disputes": {
                     "locators": [
                          "AN5.212"
+                    ],
+                    "xrefs": []
+               },
+               "result of actions": {
+                    "locators": [
+                         "AN5.245"
                     ],
                     "xrefs": []
                },
@@ -60390,6 +60436,21 @@ export const indexObject ={
                     ]
                }
           },
+          "right view": {
+               "as principle of cordiality": {
+                    "locators": [
+                         "MN48"
+                    ],
+                    "xrefs": []
+               },
+               "leads to harmony": {
+                    "locators": [
+                         "MN48"
+                    ],
+                    "xrefs": []
+               },
+               "counter_value": 1
+          },
           "right view (sammā diṭṭhi)": {
                "": {
                     "locators": [],
@@ -60415,14 +60476,12 @@ export const indexObject ={
                },
                "as principle of cordiality": {
                     "locators": [
-                         "MN48",
                          "MN104"
                     ],
                     "xrefs": []
                },
                "leads to harmony": {
                     "locators": [
-                         "MN48",
                          "MN104"
                     ],
                     "xrefs": []
@@ -60597,7 +60656,8 @@ export const indexObject ={
                          "MN44"
                     ],
                     "xrefs": []
-               }
+               },
+               "counter_value": 2
           },
           "right view, person accomplished in (diṭṭhisampanna puggala)": {
                "impossibilities": {
@@ -61570,9 +61630,8 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "river simile": {
+               "like river": {
                     "locators": [
-                         "AN8.19",
                          "AN8.20",
                          "Ud5.5"
                     ],
@@ -61653,6 +61712,12 @@ export const indexObject ={
                "rely on to give up unskillful and develop skillful": {
                     "locators": [
                          "AN7.70"
+                    ],
+                    "xrefs": []
+               },
+               "like a river": {
+                    "locators": [
+                         "AN8.19"
                     ],
                     "xrefs": []
                },
@@ -70594,7 +70659,7 @@ export const indexObject ={
                }
           },
           "throat": {
-               "simile of something stuck in": {
+               "something stuck in, simile for scolding": {
                     "locators": [
                          "MN58"
                     ],
@@ -74204,7 +74269,6 @@ export const indexObject ={
                },
                "as principle of cordiality": {
                     "locators": [
-                         "MN48",
                          "MN104"
                     ],
                     "xrefs": []

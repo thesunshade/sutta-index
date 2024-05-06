@@ -1,4 +1,5 @@
 import OtherToolsIcons from "./OtherToolsIcons";
+import Stats from "./Stats.js";
 
 export default function Info() {
   const allDetails = document.querySelectorAll("details");
@@ -76,6 +77,7 @@ export default function Info() {
           <div>
             Planned: <span className="answer">DN, SN</span>
           </div>
+          <Stats />
         </div>
         <p>
           <br />

@@ -164,7 +164,6 @@ buildings		xref dwellings (senāsana)
 buildings		xref empty huts (suññāgāra)
 buildings		xref fire chamber
 buildings		xref guest houses
-buildings		xref houses
 buildings		xref palaces (pāsādā)
 buildings		xref roof
 buildings		xref roof peak
@@ -287,7 +286,7 @@ emotions		xref brahmaviharas
 emotions		xref hindrances (nīvaraṇa)
 sadness (domanassa)		xref faculty of sadness (domanassindriya)
 equanimity (upekkhā)		xref faculty of equanimity (upekkhindriya)
-bungalows		xref houses
+bungalows (kūṭāgāra)		xref houses
 Bhāradvāja the Alms-gatherer		xref Piṇḍola Bhāradvāja, Ven.
 spiritual urgency		xref urgency (saṁvega)
 Dhamma teachers		xref Dhamma teaching
@@ -2061,7 +2060,7 @@ oceans	simile for love of Dhamma-Vinaya	Ud5.5
 Saṅgha	guarding precepts	Ud5.5
 Saṅgha	removes corrupt members	Ud5.5
 Saṅgha	without caste distinctions	Ud5.5
-Saṅgha	river simile	Ud5.5
+Saṅgha	like river	Ud5.5
 nibbāna	never fills up	Ud5.5
 Dhamma	has one taste	Ud5.5
 Dhamma	has many treasures	Ud5.5
@@ -7305,7 +7304,11 @@ criticism	rightly directed	AN5.238
 criticism	wrongly directed	AN5.238
 stinginess (maccharī)	leads to hell	AN5.238
 stinginess (maccharī)	leads to hell	AN5.239
-bad actions		AN5.245-248
+bad actions	drawbacks of	AN5.245
+blame	result of actions	AN5.245
+reputation	result of actions	AN5.245
+Dhamma	closeness to, result of actions	AN5.245
+good actions	advantages of	AN5.245
 charnel ground	drawbacks of	AN5.249
 charnel ground	people like a	AN5.249
 bad people (asappurisa)	like a charnel ground	AN5.249
@@ -7346,19 +7349,19 @@ enduring (khama)	sense objects: makes one worthy of gifts	AN6.6
 enduring (khama)	sense objects: makes one worthy of gifts	AN6.7
 recollection (anussati)	topics for	AN6.9
 Mahā Nāma the Sakyan	recollections	AN6.10
-recollection of deities (devatānussati)		AN6.10
-recollection of Buddha (buddhānussati)		AN6.10
-recollection of Dhamma (dhammānussati)		AN6.10
-recollection of Saṅgha (saṅghānussati)		AN6.10
-recollection of virtue (sīlānussati)		AN6.10
-recollection of generosity (cāgānussati)		AN6.10
+recollection of deities (devatānussati)	practice of noble disciples	AN6.10
+recollection of Buddha (buddhānussati)	practice of noble disciples	AN6.10
+recollection of Dhamma (dhammānussati)	practice of noble disciples	AN6.10
+recollection of Saṅgha (saṅghānussati)	practice of noble disciples	AN6.10
+recollection of virtue (sīlānussati)	practice of noble disciples	AN6.10
+recollection of generosity (cāgānussati)	practice of noble disciples	AN6.10
 noble disciple (ariya sāvaka)	meditations they do	AN6.10
 wholesome chain of causality	inspiration to concentration	AN6.10
-principles of cordiality (dhammā sāraṇīyā)		AN6.11
+principles of cordiality (dhammā sāraṇīyā)	definition	AN6.11
 harmony in Saṅgha (saṅghasāmaggī)	principles of cordiality	AN6.11
 monastic rules (vinaya)	principles of cordiality	AN6.11
 loving-kindness (mettā)	as principle of cordiality	AN6.12
-principles of cordiality (dhammā sāraṇīyā)		AN6.12
+principles of cordiality (dhammā sāraṇīyā)	definition	AN6.12
 harmony in Saṅgha (saṅghasāmaggī)	principles of cordiality	AN6.12
 monastic rules (vinaya)	principles of cordiality	AN6.12
 loving-kindness (mettā)	liberation of mind by	AN6.13
@@ -7384,7 +7387,7 @@ Nakulamātā, householder	advice to husband	AN6.16
 sleep	doesn’t lead to success	AN6.17
 wrong livelihood (micchā ājīva)	killers don’t prosper	AN6.18
 killing	doesn’t lead to prosperity	AN6.18
-butchers		AN6.18
+butchers	bad results	AN6.18
 mindfulness of death (maraṇassati)	how to practice	AN6.19
 mindfulness of death (maraṇassati)	how to practice	AN6.20
 zeal (chanda)	mindfulness of death	AN6.20
@@ -7400,12 +7403,12 @@ past, present, future	training is the same	AN6.22
 sense pleasures (kāma, kāmaguṇa)	terms for	AN6.23
 concentration (samādhi)	skills related to	AN6.24
 recollection (anussati)	topics for	AN6.25
-recollection of deities (devatānussati)		AN6.25
-recollection of Buddha (buddhānussati)		AN6.25
-recollection of Dhamma (dhammānussati)		AN6.25
-recollection of Saṅgha (saṅghānussati)		AN6.25
-recollection of virtue (sīlānussati)		AN6.25
-recollection of generosity (cāgānussati)		AN6.25
+recollection of deities (devatānussati)	definition	AN6.25
+recollection of Buddha (buddhānussati)	definition	AN6.25
+recollection of Dhamma (dhammānussati)	definition	AN6.25
+recollection of Saṅgha (saṅghānussati)	definition	AN6.25
+recollection of virtue (sīlānussati)	definition	AN6.25
+recollection of generosity (cāgānussati)	definition	AN6.25
 sense desire (kāmarāga)	time to see esteemed mendicant	AN6.27
 ill will (vyāpāda, byāpāda)	time to see esteemed mendicant	AN6.27
 dullness and drowsiness (thinamiddha)	time to see esteemed mendicant	AN6.27
@@ -8425,7 +8428,7 @@ oceans	loved by asuras	AN8.19
 Saṅgha	guarding precepts	AN8.19
 Saṅgha	has many great beings	AN8.19
 Saṅgha	removes corrupt members	AN8.19
-Saṅgha	river simile	AN8.19
+Saṅgha	like a river	AN8.19
 Saṅgha	simile of ocean	AN8.19
 Saṅgha	without caste distinctions	AN8.19
 Dhamma	has many treasures	AN8.20
@@ -8433,14 +8436,13 @@ Dhamma	has one taste	AN8.20
 asuras	love of ocean	AN8.20
 bad monastics	in pātimokkha recitation	AN8.20
 Dhamma	simile of ocean	AN8.20
-gradual training (anupubbasikkhā)		AN8.20
 gradual training (anupubbasikkhā)	simile of ocean	AN8.20
 nibbāna	never fills up	AN8.20
 oceans	loved by asuras	AN8.20
 Saṅgha	guarding precepts	AN8.20
 Saṅgha	has many great beings	AN8.20
 Saṅgha	removes corrupt members	AN8.20
-Saṅgha	river simile	AN8.20
+Saṅgha	like river	AN8.20
 Saṅgha	simile of ocean	AN8.20
 Saṅgha	without caste distinctions	AN8.20
 Moggallāna, Ven.	throwing monk out	Ud5.5
@@ -12494,8 +12496,8 @@ speech	qualifying	MN58
 speech	types of	MN58
 speech	displeasing	MN58
 Devadatta	Buddha criticizing	MN58
-throat	simile of something stuck in	MN58
-babies	simile of something stuck in throat	MN58
+throat	something stuck in, simile for scolding	MN58
+babies	something stuck in throat, simile for scolding	MN58
 speech	true	MN58
 speech	harmful	MN58
 speech	pleasing	MN58
@@ -12637,7 +12639,7 @@ four noble truths	as beneficial	MN63
 four noble truths	as declared by the Buddha	MN63
 Māluṅkyaputta, Ven.	five lower fetters	MN64
 fetters (saṁyojana)	five lower	MN64
-babies	simile of five lower fetters	MN64
+babies	simile for five lower fetters	MN64
 underlying tendencies (anusaya)	fetters	MN64
 ordinary person (puthujjana)	fetters	MN64
 doubt (vicikicchā)	fetter	MN64
@@ -15236,8 +15238,7 @@ harmony in Saṅgha (saṅghasāmaggī)	principles of cordiality	MN48
 loving-kindness (mettā)	as principle of cordiality	MN48
 giving (dāna)	as principle of cordiality	MN48
 sharing	as principle of cordiality	MN48
-right view (sammā diṭṭhi)	as principle of cordiality	MN48
-right view (sammā diṭṭhi)	leads to harmony	MN48
+right view	as principle of cordiality	MN48
+right view	leads to harmony	MN48
 loving-kindness (mettā)	by body, speech and mind 	MN48
 giving (dāna)	by monastics	MN48
-virtue (sīla)	as principle of cordiality	MN48

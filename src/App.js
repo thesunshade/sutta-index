@@ -3,7 +3,7 @@ import "./App.css";
 // Components
 import SuttaIndex from "./Components/SuttaIndex.js";
 import Info from "./Components/Info.js";
-import Stats from "./Components/Stats.js";
+// import Stats from "./Components/Stats.js";
 import OtherToolsIcons from "./Components/OtherToolsIcons.js";
 import HeadwordsSearchTool from "./Components/HeadwordsSearchTool.js";
 import SearchResults from "./Components/SearchResults.js";
@@ -95,10 +95,7 @@ function App() {
       <div className="settings-bar">
         <div className="top-row">
           <HeadwordsSearchTool searchText={searchText} setSearchText={setSearchText} />
-          <button className="up-icon" onClick={() => closeAllDrawers()}>
-            <VisuallyHidden>Close all drawers</VisuallyHidden>
-            <img className="icon" height="20px" alt="Go to top" src={upIcon} />
-          </button>
+
           <div id="theme-button" className="theme-button" onClick={toggleTheme}>
             <VisuallyHidden>Toggle Theme</VisuallyHidden>
             <img className="icon" height="20" alt="Toggle theme" src={themeIcon} />
@@ -205,7 +202,7 @@ function App() {
             />
             Show Pāli Sutta Title
           </label> */}
-          <Stats />
+          {/* <Stats /> */}
           <OtherToolsIcons />
         </div>
       </div>

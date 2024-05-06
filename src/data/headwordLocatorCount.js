@@ -12,11 +12,11 @@ export const indexObject =[
           84
      ],
      [
-          "speech",
-          76
+          "Dhamma",
+          77
      ],
      [
-          "Dhamma",
+          "speech",
           76
      ],
      [
@@ -37,7 +37,7 @@ export const indexObject =[
      ],
      [
           "virtue (sīla)",
-          67
+          66
      ],
      [
           "arahants",
@@ -292,6 +292,10 @@ export const indexObject =[
           25
      ],
      [
+          "good actions",
+          25
+     ],
+     [
           "brahmins",
           25
      ],
@@ -301,10 +305,6 @@ export const indexObject =[
      ],
      [
           "women",
-          24
-     ],
-     [
-          "good actions",
           24
      ],
      [
@@ -792,6 +792,10 @@ export const indexObject =[
           13
      ],
      [
+          "reputation",
+          13
+     ],
+     [
           "recollection (anussati)",
           13
      ],
@@ -853,10 +857,6 @@ export const indexObject =[
      ],
      [
           "restraint",
-          12
-     ],
-     [
-          "reputation",
           12
      ],
      [
@@ -1356,6 +1356,10 @@ export const indexObject =[
           9
      ],
      [
+          "blame",
+          9
+     ],
+     [
           "zeal (chanda)",
           8
      ],
@@ -1541,10 +1545,6 @@ export const indexObject =[
      ],
      [
           "bodhipakkhiyā dhammā",
-          8
-     ],
-     [
-          "blame",
           8
      ],
      [
@@ -4725,6 +4725,10 @@ export const indexObject =[
      ],
      [
           "roof",
+          2
+     ],
+     [
+          "right view",
           2
      ],
      [
