@@ -2941,17 +2941,17 @@ export const indexArray =[
      ],
      [
           "AN3.36",
-          "Yama, King",
-          ""
-     ],
-     [
-          "AN3.36",
           "corpse",
           "as divine messenger"
      ],
      [
           "AN3.36",
           "divine messengers (devadūta)",
+          ""
+     ],
+     [
+          "AN3.36",
+          "Yama, King",
           ""
      ],
      [
@@ -12996,11 +12996,6 @@ export const indexArray =[
      ],
      [
           "AN6.34",
-          "Tissa, Brahma",
-          "former monk"
-     ],
-     [
-          "AN6.34",
           "gods",
           "that are stream-enterers"
      ],
@@ -13018,6 +13013,11 @@ export const indexArray =[
           "AN6.34",
           "stream-enterers (sotāpanna)",
           "gods that have become"
+     ],
+     [
+          "AN6.34",
+          "Tissa, Brahma",
+          "former monk"
      ],
      [
           "AN6.36",
@@ -15196,11 +15196,6 @@ export const indexArray =[
      ],
      [
           "AN7.21",
-          "Vajjis",
-          "taught the principles that prevent decline"
-     ],
-     [
-          "AN7.21",
           "arahants",
           "protecting leads to growth"
      ],
@@ -15211,12 +15206,22 @@ export const indexArray =[
      ],
      [
           "AN7.21",
-          "harmony (samagga)",
+          "respect (gārava)",
           "leads to growth"
      ],
      [
           "AN7.21",
-          "respect (gārava)",
+          "tradition (vaṁsa)",
+          "leads to growth"
+     ],
+     [
+          "AN7.21",
+          "Vajjis",
+          "taught the principles that prevent decline"
+     ],
+     [
+          "AN7.21",
+          "harmony (samagga)",
           "leads to growth"
      ],
      [
@@ -15233,11 +15238,6 @@ export const indexArray =[
           "AN7.21",
           "society",
           "principles that lead to growth"
-     ],
-     [
-          "AN7.21",
-          "tradition (vaṁsa)",
-          "leads to growth"
      ],
      [
           "AN7.22",
@@ -16046,12 +16046,12 @@ export const indexArray =[
      ],
      [
           "AN7.56",
-          "one freed both ways (ubhatobhāgavimutta)",
+          "one freed by faith (saddhāvimutta)",
           "known by gods of Brahmā’s Host"
      ],
      [
           "AN7.56",
-          "one freed by faith (saddhāvimutta)",
+          "personal witness (kāyasakkhī)",
           "known by gods of Brahmā’s Host"
      ],
      [
@@ -16066,7 +16066,7 @@ export const indexArray =[
      ],
      [
           "AN7.56",
-          "personal witness (kāyasakkhī)",
+          "one freed both ways (ubhatobhāgavimutta)",
           "known by gods of Brahmā’s Host"
      ],
      [
@@ -17651,6 +17651,11 @@ export const indexArray =[
      ],
      [
           "AN8.12",
+          "almsfood",
+          "meat"
+     ],
+     [
+          "AN8.12",
           "annihilationism (ucchedavāda)",
           "how Buddha teaches"
      ],
@@ -17668,11 +17673,6 @@ export const indexArray =[
           "AN8.12",
           "Dhamma teaching",
           "not secretly, hoping to profit."
-     ],
-     [
-          "AN8.12",
-          "almsfood",
-          "meat"
      ],
      [
           "AN8.12",
@@ -17911,6 +17911,11 @@ export const indexArray =[
      ],
      [
           "AN8.20",
+          "bad monastics",
+          "in pātimokkha recitation"
+     ],
+     [
+          "AN8.20",
           "Dhamma",
           "has many treasures"
      ],
@@ -17921,18 +17926,13 @@ export const indexArray =[
      ],
      [
           "AN8.20",
-          "asuras",
-          "love of ocean"
-     ],
-     [
-          "AN8.20",
-          "bad monastics",
-          "in pātimokkha recitation"
-     ],
-     [
-          "AN8.20",
           "Dhamma",
           "simile of ocean"
+     ],
+     [
+          "AN8.20",
+          "asuras",
+          "love of ocean"
      ],
      [
           "AN8.20",
@@ -20941,11 +20941,6 @@ export const indexArray =[
      ],
      [
           "AN9.5",
-          "caring for (atthacariyā)",
-          "definition"
-     ],
-     [
-          "AN9.5",
           "Dhamma teaching",
           "kindly speech"
      ],
@@ -20963,6 +20958,11 @@ export const indexArray =[
           "AN9.5",
           "blamelessness (anavajja)",
           "power of, definition"
+     ],
+     [
+          "AN9.5",
+          "caring for (atthacariyā)",
+          "definition"
      ],
      [
           "AN9.5",
@@ -23066,6 +23066,16 @@ export const indexArray =[
      ],
      [
           "AN9.41",
+          "formless attainments",
+          "factors blocking"
+     ],
+     [
+          "AN9.41",
+          "formless attainments",
+          "without attaining, Buddha does not declare enlightenment"
+     ],
+     [
+          "AN9.41",
           "jhānas",
           "as peaceful"
      ],
@@ -23076,28 +23086,18 @@ export const indexArray =[
      ],
      [
           "AN9.41",
+          "jhānas",
+          "factors blocking"
+     ],
+     [
+          "AN9.41",
+          "jhānas",
+          "without attaining, Buddha does not declare enlightenment"
+     ],
+     [
+          "AN9.41",
           "Tapussa, householder",
           "asking about renunciation"
-     ],
-     [
-          "AN9.41",
-          "formless attainments",
-          "factors blocking"
-     ],
-     [
-          "AN9.41",
-          "formless attainments",
-          "without attaining, Buddha does not declare enlightenment"
-     ],
-     [
-          "AN9.41",
-          "jhānas",
-          "factors blocking"
-     ],
-     [
-          "AN9.41",
-          "jhānas",
-          "without attaining, Buddha does not declare enlightenment"
      ],
      [
           "AN9.41",
@@ -24826,21 +24826,6 @@ export const indexArray =[
      ],
      [
           "AN10.29",
-          "extinguishment by not grasping (anupādāparinibbāna)",
-          "taught by Buddha"
-     ],
-     [
-          "AN10.29",
-          "feelings (vedanā)",
-          "complete understanding of"
-     ],
-     [
-          "AN10.29",
-          "Gods of Streaming Radiance (ābhassarā devā)",
-          "foremost when world system is contracting"
-     ],
-     [
-          "AN10.29",
           "Pasenadi Kosala, King",
           "impermanence of"
      ],
@@ -24856,6 +24841,16 @@ export const indexArray =[
      ],
      [
           "AN10.29",
+          "extinguishment by not grasping (anupādāparinibbāna)",
+          "taught by Buddha"
+     ],
+     [
+          "AN10.29",
+          "feelings (vedanā)",
+          "complete understanding of"
+     ],
+     [
+          "AN10.29",
           "flowers",
           "flax etc., simile for visions in meditation"
      ],
@@ -24868,6 +24863,11 @@ export const indexArray =[
           "AN10.29",
           "galaxies",
           "impermanence of"
+     ],
+     [
+          "AN10.29",
+          "Gods of Streaming Radiance (ābhassarā devā)",
+          "foremost when world system is contracting"
      ],
      [
           "AN10.29",
@@ -27137,7 +27137,7 @@ export const indexArray =[
      [
           "AN10.72",
           "jhānas",
-          "sound as a thorn to"
+          "sounds as a thorn to"
      ],
      [
           "AN10.72",
@@ -27181,7 +27181,7 @@ export const indexArray =[
      ],
      [
           "AN10.72",
-          "sound",
+          "sounds (sadda)",
           "thorn for first jhāna"
      ],
      [
@@ -29242,7 +29242,7 @@ export const indexArray =[
      [
           "AN10.119",
           "fire worship (aggika)",
-          "and ceremony of “descent (paccorohaṇī)"
+          "and ceremony of “descent” (paccorohaṇī)"
      ],
      [
           "AN10.119",
@@ -29486,6 +29486,11 @@ export const indexArray =[
      ],
      [
           "AN10.176",
+          "covetousness (abhijjhā)",
+          "definition"
+     ],
+     [
+          "AN10.176",
           "Cunda the smith",
           "purity"
      ],
@@ -29503,11 +29508,6 @@ export const indexArray =[
           "AN10.176",
           "ceremonies",
           "Buddha gives his meaning of"
-     ],
-     [
-          "AN10.176",
-          "covetousness (abhijjhā)",
-          "definition"
      ],
      [
           "AN10.176",
@@ -30441,11 +30441,6 @@ export const indexArray =[
      ],
      [
           "AN11.9",
-          "gods",
-          "worshiping meditators"
-     ],
-     [
-          "AN11.9",
           "hindrances (nīvaraṇa)",
           "meditator’s mind overcome with"
      ],
@@ -30463,6 +30458,11 @@ export const indexArray =[
           "AN11.9",
           "earth",
           "meditating dependent on"
+     ],
+     [
+          "AN11.9",
+          "gods",
+          "worshiping meditators"
      ],
      [
           "AN11.9",
@@ -30836,18 +30836,13 @@ export const indexArray =[
      ],
      [
           "AN11.13",
-          "fire",
-          "not re-burning, simile of person giving up bad qualities"
-     ],
-     [
-          "AN11.13",
-          "laziness (kusīta)",
-          "lazy do not succeed"
-     ],
-     [
-          "AN11.13",
           "Nandiya the Sakyan",
           "observing rains residence"
+     ],
+     [
+          "AN11.13",
+          "fire",
+          "not re-burning, simile of person giving up bad qualities"
      ],
      [
           "AN11.13",
@@ -30858,6 +30853,11 @@ export const indexArray =[
           "AN11.13",
           "lay life",
           "what to practice"
+     ],
+     [
+          "AN11.13",
+          "laziness (kusīta)",
+          "lazy do not succeed"
      ],
      [
           "AN11.13",
@@ -30961,11 +30961,6 @@ export const indexArray =[
      ],
      [
           "AN11.14",
-          "knowledge of passing away and rebirth of beings (cutūpapātañāna)",
-          "result of faith"
-     ],
-     [
-          "AN11.14",
           "learned (bahussutā)",
           "result of faith"
      ],
@@ -30987,6 +30982,11 @@ export const indexArray =[
      [
           "AN11.14",
           "jhānas",
+          "result of faith"
+     ],
+     [
+          "AN11.14",
+          "knowledge of passing away and rebirth of beings (cutūpapātañāna)",
           "result of faith"
      ],
      [
@@ -31627,6 +31627,11 @@ export const indexArray =[
      [
           "CUSTOM:SN:Maggasaṁyutta:suttacentral.net/sn45",
           "noble eightfold path (ariya aṭṭhangika magga)",
+          " "
+     ],
+     [
+          "CUSTOM:SN:Saḷāyatanasaṁyutta Saṁyutta:suttacentral.net/sn35",
+          "sense bases (āyatana)",
           ""
      ],
      [
@@ -32961,8 +32966,23 @@ export const indexArray =[
      ],
      [
           "Dhp186",
+          "gold coins",
+          "rain of not satisfying"
+     ],
+     [
+          "Dhp186",
+          "rain",
+          "of gold coins"
+     ],
+     [
+          "Dhp186",
           "sense pleasures (kāma, kāmaguṇa)",
           "as insatiable"
+     ],
+     [
+          "Dhp186",
+          "sense pleasures (kāma, kāmaguṇa)",
+          "not satisfied by rain of gold coins "
      ],
      [
           "Dhp188",
@@ -34192,17 +34212,17 @@ export const indexArray =[
      [
           "Iti22",
           "Bodhisatta",
-          "reborn as a king"
-     ],
-     [
-          "Iti22",
-          "Bodhisatta",
           "reborn as Mahābrahmā"
      ],
      [
           "Iti22",
           "Bodhisatta",
           "reborn as Sakka, lord of gods"
+     ],
+     [
+          "Iti22",
+          "Bodhisatta",
+          "reborn as a king"
      ],
      [
           "Iti22",
@@ -35406,6 +35426,11 @@ export const indexArray =[
      ],
      [
           "Kp5",
+          "Dhamma discussion",
+          "time for"
+     ],
+     [
+          "Kp5",
           "alcohol",
           "abstaining from is a blessing"
      ],
@@ -35443,11 +35468,6 @@ export const indexArray =[
           "Kp5",
           "contentment (santuṭṭhi)",
           "as a blessing"
-     ],
-     [
-          "Kp5",
-          "Dhamma discussion",
-          "time for"
      ],
      [
           "Kp5",
@@ -36631,6 +36651,11 @@ export const indexArray =[
      ],
      [
           "MN5",
+          "blemish (aṅgaṇa)",
+          "self reflection"
+     ],
+     [
+          "MN5",
           "Dhamma teaching",
           "unwholesome wish to teach"
      ],
@@ -36658,11 +36683,6 @@ export const indexArray =[
           "MN5",
           "ascetic practices (dhutaṅga)",
           "not enough without giving up evil wishes"
-     ],
-     [
-          "MN5",
-          "blemish (aṅgaṇa)",
-          "self reflection"
      ],
      [
           "MN5",
@@ -37101,11 +37121,6 @@ export const indexArray =[
      ],
      [
           "MN8",
-          "Dhamma teaching",
-          "when not ready"
-     ],
-     [
-          "MN8",
           "conscience and prudence (hiri ottappa)",
           "developing"
      ],
@@ -37133,6 +37148,11 @@ export const indexArray =[
           "MN8",
           "deviousness (saṭha)",
           "overcoming"
+     ],
+     [
+          "MN8",
+          "Dhamma teaching",
+          "when not ready"
      ],
      [
           "MN8",
@@ -38136,11 +38156,6 @@ export const indexArray =[
      ],
      [
           "MN12",
-          "Dhamma",
-          "not leading to the end of suffering"
-     ],
-     [
-          "MN12",
           "animal realm",
           "like sewer"
      ],
@@ -38186,13 +38201,13 @@ export const indexArray =[
      ],
      [
           "MN12",
-          "divine ear (dibbāsota)",
-          "Buddha having"
+          "Dhamma",
+          "not leading to the end of suffering"
      ],
      [
           "MN12",
-          "dung",
-          "eating"
+          "divine ear (dibbāsota)",
+          "Buddha having"
      ],
      [
           "MN12",
@@ -38201,38 +38216,13 @@ export const indexArray =[
      ],
      [
           "MN12",
-          "faculties (indriya)",
-          "Buddha knows faculties of beings"
-     ],
-     [
-          "MN12",
-          "fasting",
-          "Buddha’s practice of"
-     ],
-     [
-          "MN12",
-          "fire worship (aggika)",
-          "purity through"
-     ],
-     [
-          "MN12",
           "ghost realm",
           "like tree with thin foliage"
      ],
      [
           "MN12",
-          "heaven (sagga)",
-          "like a palace"
-     ],
-     [
-          "MN12",
           "hell (niraya)",
           "like pit of glowing coals"
-     ],
-     [
-          "MN12",
-          "human birth",
-          "like tree with thick foliage"
      ],
      [
           "MN12",
@@ -38256,6 +38246,61 @@ export const indexArray =[
      ],
      [
           "MN12",
+          "logic (takka)",
+          "accusation of Buddha’s teaching being worked out by"
+     ],
+     [
+          "MN12",
+          "mind reading",
+          "Buddha’s ability"
+     ],
+     [
+          "MN12",
+          "possible and impossible (ṭhāna aṭṭhāna)",
+          "power of a Tathāgata"
+     ],
+     [
+          "MN12",
+          "results of actions",
+          "knowing is a power of a Tathāgata"
+     ],
+     [
+          "MN12",
+          "Sunakkhatta, Ven.",
+          "having disrobed"
+     ],
+     [
+          "MN12",
+          "dung",
+          "eating"
+     ],
+     [
+          "MN12",
+          "faculties (indriya)",
+          "Buddha knows faculties of beings"
+     ],
+     [
+          "MN12",
+          "fasting",
+          "Buddha’s practice of"
+     ],
+     [
+          "MN12",
+          "fire worship (aggika)",
+          "purity through"
+     ],
+     [
+          "MN12",
+          "heaven (sagga)",
+          "like a palace"
+     ],
+     [
+          "MN12",
+          "human birth",
+          "like tree with thick foliage"
+     ],
+     [
+          "MN12",
           "knowledges, three (vijjā)",
           "as power of a Tathāgata"
      ],
@@ -38266,13 +38311,8 @@ export const indexArray =[
      ],
      [
           "MN12",
-          "logic (takka)",
-          "accusation of Buddha’s teaching being worked out by"
-     ],
-     [
-          "MN12",
-          "mind reading",
-          "Buddha’s ability"
+          "lions roar",
+          "of the Buddha"
      ],
      [
           "MN12",
@@ -38326,11 +38366,6 @@ export const indexArray =[
      ],
      [
           "MN12",
-          "possible and impossible (ṭhāna aṭṭhāna)",
-          "power of a Tathāgata"
-     ],
-     [
-          "MN12",
           "powers of a Tathāgata (tathāgatabala)",
           "ten"
      ],
@@ -38338,21 +38373,6 @@ export const indexArray =[
           "MN12",
           "practices (paṭipatti)",
           "Buddha understands where they all lead"
-     ],
-     [
-          "MN12",
-          "results of actions",
-          "knowing is a power of a Tathāgata"
-     ],
-     [
-          "MN12",
-          "Sunakkhatta, Ven.",
-          "having disrobed"
-     ],
-     [
-          "MN12",
-          "lions roar",
-          "of the Buddha"
      ],
      [
           "MN12",
@@ -38596,11 +38616,6 @@ export const indexArray =[
      ],
      [
           "MN14",
-          "Bimbisāra, King",
-          "happiness of compared to Buddha"
-     ],
-     [
-          "MN14",
           "Bodhisatta",
           "sense pleasures and"
      ],
@@ -38618,6 +38633,11 @@ export const indexArray =[
           "MN14",
           "bad rebirth (duggati)",
           "danger of sense pleasures"
+     ],
+     [
+          "MN14",
+          "Bimbisāra, King",
+          "happiness of compared to Buddha"
      ],
      [
           "MN14",
@@ -38941,6 +38961,11 @@ export const indexArray =[
      ],
      [
           "MN18",
+          "Dhamma",
+          "in brief"
+     ],
+     [
+          "MN18",
           "conflicts (viggahaya)",
           "Buddha not conflicting with anyone"
      ],
@@ -38958,11 +38983,6 @@ export const indexArray =[
           "MN18",
           "Daṇḍapāṇi the Sakyan",
           "questioning the Buddha"
-     ],
-     [
-          "MN18",
-          "Dhamma",
-          "in brief"
      ],
      [
           "MN18",
@@ -39331,6 +39351,11 @@ export const indexArray =[
      ],
      [
           "MN21",
+          "enduring abuse",
+          "how to "
+     ],
+     [
+          "MN21",
           "gentle or harsh (saṇhena vā pharusena)",
           "dealing with speech that may be"
      ],
@@ -39461,11 +39486,6 @@ export const indexArray =[
      ],
      [
           "MN22",
-          "anxiety (paritassanā)",
-          "because of grasping at aggregates as self"
-     ],
-     [
-          "MN22",
           "Ariṭṭha, Ven.",
           "obstructions are not really obstructions"
      ],
@@ -39476,11 +39496,6 @@ export const indexArray =[
      ],
      [
           "MN22",
-          "Buddha, the",
-          "praise and blame does not affect"
-     ],
-     [
-          "MN22",
           "Dhamma",
           "like a raft"
      ],
@@ -39488,6 +39503,16 @@ export const indexArray =[
           "MN22",
           "aggregates (khandha)",
           "as not self"
+     ],
+     [
+          "MN22",
+          "anxiety (paritassanā)",
+          "because of grasping at aggregates as self"
+     ],
+     [
+          "MN22",
+          "Buddha, the",
+          "praise and blame does not affect"
      ],
      [
           "MN22",
@@ -39921,16 +39946,6 @@ export const indexArray =[
      ],
      [
           "MN26",
-          "animals",
-          "liable to rebirth, old age, sickness, etc."
-     ],
-     [
-          "MN26",
-          "ascetics and brahmins (samaṇabrāhmaṇa)",
-          "caught by sense pleasures"
-     ],
-     [
-          "MN26",
           "attachments, stilling of all (sabbūpadhipaṭinissaggo)",
           "hard to see"
      ],
@@ -39988,6 +40003,16 @@ export const indexArray =[
           "MN26",
           "Dhamma",
           "qualities of"
+     ],
+     [
+          "MN26",
+          "animals",
+          "liable to rebirth, old age, sickness, etc."
+     ],
+     [
+          "MN26",
+          "ascetics and brahmins (samaṇabrāhmaṇa)",
+          "caught by sense pleasures"
      ],
      [
           "MN26",
@@ -40961,11 +40986,6 @@ export const indexArray =[
      ],
      [
           "MN31",
-          "alms gathering practice",
-          "logistics"
-     ],
-     [
-          "MN31",
           "gods",
           "rejoicing in disciple attaining enlightenment "
      ],
@@ -40993,6 +41013,11 @@ export const indexArray =[
           "MN31",
           "Nandiya, Ven.",
           "living with Ven. Anuruddha and Kimbila "
+     ],
+     [
+          "MN31",
+          "alms gathering practice",
+          "logistics"
      ],
      [
           "MN31",
@@ -41066,6 +41091,11 @@ export const indexArray =[
      ],
      [
           "MN32",
+          "almsfood",
+          "one who eats only"
+     ],
+     [
+          "MN32",
           "clothes",
           "simile for changing meditation practices "
      ],
@@ -41078,6 +41108,16 @@ export const indexArray =[
           "MN32",
           "divine eye (dibbacakkhu)",
           "like one could see 1,000 wheel-rims"
+     ],
+     [
+          "MN32",
+          "dwellings, mental (vihāra)",
+          "in whatever way one wants"
+     ],
+     [
+          "MN32",
+          "few wishes (appiccha)",
+          "disciples who practice"
      ],
      [
           "MN32",
@@ -41096,28 +41136,13 @@ export const indexArray =[
      ],
      [
           "MN32",
-          "Revata, Ven.",
-          "what kind of mendicant would beautify sal park"
-     ],
-     [
-          "MN32",
-          "almsfood",
-          "one who eats only"
-     ],
-     [
-          "MN32",
-          "dwellings, mental (vihāra)",
-          "in whatever way one wants"
-     ],
-     [
-          "MN32",
-          "few wishes (appiccha)",
-          "disciples who practice"
-     ],
-     [
-          "MN32",
           "practices",
           "depending on the individual’s nature"
+     ],
+     [
+          "MN32",
+          "Revata, Ven.",
+          "what kind of mendicant would beautify sal park"
      ],
      [
           "MN32",
@@ -41381,16 +41406,6 @@ export const indexArray =[
      ],
      [
           "MN35",
-          "aggregates (khandha)",
-          "not like king controlling kingdom"
-     ],
-     [
-          "MN35",
-          "arahants",
-          "definition"
-     ],
-     [
-          "MN35",
           "Assaji, Ven.",
           "speaking with Saccaka Nigaṇṭhaputta"
      ],
@@ -41413,6 +41428,16 @@ export const indexArray =[
           "MN35",
           "aggregates (khandha)",
           "as self"
+     ],
+     [
+          "MN35",
+          "aggregates (khandha)",
+          "not like king controlling kingdom"
+     ],
+     [
+          "MN35",
+          "arahants",
+          "definition"
      ],
      [
           "MN35",
@@ -41526,23 +41551,8 @@ export const indexArray =[
      ],
      [
           "MN36",
-          "Buddha, the",
-          "how he teaches"
-     ],
-     [
-          "MN36",
-          "awakening (sambodha)",
-          "person capable of"
-     ],
-     [
-          "MN36",
           "blood",
           "spewing hot"
-     ],
-     [
-          "MN36",
-          "breathless meditation",
-          "Bodhisatta practicing"
      ],
      [
           "MN36",
@@ -41552,7 +41562,22 @@ export const indexArray =[
      [
           "MN36",
           "Buddha, the",
+          "how he teaches"
+     ],
+     [
+          "MN36",
+          "Buddha, the",
           "skin brightens when attacked"
+     ],
+     [
+          "MN36",
+          "awakening (sambodha)",
+          "person capable of"
+     ],
+     [
+          "MN36",
+          "breathless meditation",
+          "Bodhisatta practicing"
      ],
      [
           "MN36",
@@ -41611,16 +41636,6 @@ export const indexArray =[
      ],
      [
           "MN36",
-          "Makkhali Gosāla",
-          "ascetic practices of"
-     ],
-     [
-          "MN36",
-          "Nanda Vaccha",
-          "ascetic practices of"
-     ],
-     [
-          "MN36",
           "logs",
           "green and dried, simile for simile for people capable or not of attaining enlightenment"
      ],
@@ -41628,6 +41643,16 @@ export const indexArray =[
           "MN36",
           "luxuries",
           "returning to after ascetic practices"
+     ],
+     [
+          "MN36",
+          "Makkhali Gosāla",
+          "ascetic practices of"
+     ],
+     [
+          "MN36",
+          "Nanda Vaccha",
+          "ascetic practices of"
      ],
      [
           "MN36",
@@ -41721,6 +41746,11 @@ export const indexArray =[
      ],
      [
           "MN37",
+          "Palace of Victory",
+          "tour of"
+     ],
+     [
+          "MN37",
           "asuras",
           "war with devas"
      ],
@@ -41756,8 +41786,8 @@ export const indexArray =[
      ],
      [
           "MN37",
-          "Palace of Victory",
-          "tour of"
+          "Moggallāna, Ven.",
+          "questioning Sakka"
      ],
      [
           "MN37",
@@ -41768,11 +41798,6 @@ export const indexArray =[
           "MN37",
           "insisting on (abhinivesa)",
           "nothing worth insisting on"
-     ],
-     [
-          "MN37",
-          "Moggallāna, Ven.",
-          "questioning Sakka"
      ],
      [
           "MN37",
@@ -41796,16 +41821,6 @@ export const indexArray =[
      ],
      [
           "MN38",
-          "ceremonies",
-          "believing in noisy ceremonies of other sects"
-     ],
-     [
-          "MN38",
-          "changing teachers",
-          "not changing because of right view"
-     ],
-     [
-          "MN38",
           "consciousness (viññāṇa)",
           "dependently arisen"
      ],
@@ -41826,6 +41841,26 @@ export const indexArray =[
      ],
      [
           "MN38",
+          "Dhamma inviting inspection (ehipassika)",
+          "definition"
+     ],
+     [
+          "MN38",
+          "ceremonies",
+          "believing in noisy ceremonies of other sects"
+     ],
+     [
+          "MN38",
+          "changing teachers",
+          "not changing because of right view"
+     ],
+     [
+          "MN38",
+          "children",
+          "playing childish games"
+     ],
+     [
+          "MN38",
           "delight (nandi)",
           "from liking and disliking"
      ],
@@ -41838,16 +41873,6 @@ export const indexArray =[
           "MN38",
           "Dhamma immediately effective, timeless (akālika)",
           "definition"
-     ],
-     [
-          "MN38",
-          "Dhamma inviting inspection (ehipassika)",
-          "definition"
-     ],
-     [
-          "MN38",
-          "children",
-          "playing childish games"
      ],
      [
           "MN38",
@@ -41996,6 +42021,11 @@ export const indexArray =[
      ],
      [
           "MN39",
+          "arahants",
+          "how to become"
+     ],
+     [
+          "MN39",
           "ascetics (samaṇa)",
           "how to become"
      ],
@@ -42027,11 +42057,6 @@ export const indexArray =[
      [
           "MN39",
           "Buddhas",
-          "how to become"
-     ],
-     [
-          "MN39",
-          "arahants",
           "how to become"
      ],
      [
@@ -42456,6 +42481,11 @@ export const indexArray =[
      ],
      [
           "MN41",
+          "brahmā realm (brahmaloka)",
+          "rebirth in from wishing"
+     ],
+     [
+          "MN41",
           "Buddha, the",
           "reputation definition"
      ],
@@ -42473,11 +42503,6 @@ export const indexArray =[
           "MN41",
           "bad rebirth (duggati)",
           "cause of "
-     ],
-     [
-          "MN41",
-          "brahmā realm (brahmaloka)",
-          "rebirth in from wishing"
      ],
      [
           "MN41",
@@ -43701,6 +43726,11 @@ export const indexArray =[
      ],
      [
           "MN51",
+          "animals",
+          "not deceptive like humans"
+     ],
+     [
+          "MN51",
           "arahants",
           "not mortifying self or other"
      ],
@@ -43733,6 +43763,11 @@ export const indexArray =[
           "MN51",
           "business",
           "wrong livelihood for monastics"
+     ],
+     [
+          "MN51",
+          "butchers",
+          "mortifying others"
      ],
      [
           "MN51",
@@ -43823,16 +43858,6 @@ export const indexArray =[
           "MN51",
           "Kandaraka, wanderer",
           ""
-     ],
-     [
-          "MN51",
-          "animals",
-          "not deceptive like humans"
-     ],
-     [
-          "MN51",
-          "butchers",
-          "mortifying others"
      ],
      [
           "MN51",
@@ -44761,16 +44786,6 @@ export const indexArray =[
      ],
      [
           "MN55",
-          "brahmās",
-          "abiding in brahmaviharas"
-     ],
-     [
-          "MN55",
-          "brahmaviharas",
-          "dwelling of brahmās"
-     ],
-     [
-          "MN55",
           "Buddha, the",
           "abides in brahmaviharas"
      ],
@@ -44798,6 +44813,16 @@ export const indexArray =[
           "MN55",
           "almsfood",
           "blameless"
+     ],
+     [
+          "MN55",
+          "brahmās",
+          "abiding in brahmaviharas"
+     ],
+     [
+          "MN55",
+          "brahmaviharas",
+          "dwelling of brahmās"
      ],
      [
           "MN55",
@@ -45071,6 +45096,11 @@ export const indexArray =[
      ],
      [
           "MN57",
+          "probation (parivāsa)",
+          "for followers of other sects"
+     ],
+     [
+          "MN57",
           "Puṇṇa Koliyaputta, cow duty ascetic",
           "story of"
      ],
@@ -45098,11 +45128,6 @@ export const indexArray =[
           "MN57",
           "hell (niraya)",
           "wrong view leads to"
-     ],
-     [
-          "MN57",
-          "probation (parivāsa)",
-          "for followers of other sects"
      ],
      [
           "MN57",
@@ -45266,11 +45291,6 @@ export const indexArray =[
      ],
      [
           "MN60",
-          "agency",
-          "do beings have"
-     ],
-     [
-          "MN60",
           "ascetics and brahmins (samaṇabrāhmaṇa)",
           "with right and wrong view"
      ],
@@ -45278,16 +45298,6 @@ export const indexArray =[
           "MN60",
           "Buddha, the",
           "reputation"
-     ],
-     [
-          "MN60",
-          "causality",
-          "exists"
-     ],
-     [
-          "MN60",
-          "corruptions (saṅkilesa)",
-          "of sentient beings"
      ],
      [
           "MN60",
@@ -45301,13 +45311,28 @@ export const indexArray =[
      ],
      [
           "MN60",
+          "agency",
+          "do beings have"
+     ],
+     [
+          "MN60",
           "becoming (bhava)",
           "cessation of"
      ],
      [
           "MN60",
+          "causality",
+          "exists"
+     ],
+     [
+          "MN60",
           "cessation of being/future lives (bhavanirodha)",
           "existence of"
+     ],
+     [
+          "MN60",
+          "corruptions (saṅkilesa)",
+          "of sentient beings"
      ],
      [
           "MN60",
@@ -46536,11 +46561,6 @@ export const indexArray =[
      ],
      [
           "MN68",
-          "Kimbila, Ven.",
-          "listening to a sermon by the Buddha"
-     ],
-     [
-          "MN68",
           "arahants",
           "Buddha declaring someone has attained"
      ],
@@ -46571,6 +46591,16 @@ export const indexArray =[
      ],
      [
           "MN68",
+          "hindrances (nīvaraṇa)",
+          "one who removes, one who doesn’t"
+     ],
+     [
+          "MN68",
+          "Kimbila, Ven.",
+          "listening to a sermon by the Buddha"
+     ],
+     [
+          "MN68",
           "going forth (pabbajja)",
           "as youth"
      ],
@@ -46578,11 +46608,6 @@ export const indexArray =[
           "MN68",
           "going forth (pabbajja)",
           "reasons for"
-     ],
-     [
-          "MN68",
-          "hindrances (nīvaraṇa)",
-          "one who removes, one who doesn’t"
      ],
      [
           "MN68",
@@ -46653,6 +46678,11 @@ export const indexArray =[
           "MN68",
           "using (paṭisevana)",
           "after appraisal"
+     ],
+     [
+          "MN69",
+          "bad monastics",
+          "Ven. Gulissāni"
      ],
      [
           "MN69",
@@ -51956,6 +51986,21 @@ export const indexArray =[
      ],
      [
           "MN105",
+          "probing",
+          "simile for mindfulness"
+     ],
+     [
+          "MN105",
+          "sense pleasures (kāma, kāmaguṇa)",
+          "discussion of"
+     ],
+     [
+          "MN105",
+          "Sunakkhatta, Ven.",
+          "asking about overestimation"
+     ],
+     [
+          "MN105",
           "palm trees",
           "cannot regrow like someone given up interest in lesser topics"
      ],
@@ -51963,11 +52008,6 @@ export const indexArray =[
           "MN105",
           "poisons",
           "ignorance"
-     ],
-     [
-          "MN105",
-          "probing",
-          "simile for mindfulness"
      ],
      [
           "MN105",
@@ -51981,18 +52021,8 @@ export const indexArray =[
      ],
      [
           "MN105",
-          "sense pleasures (kāma, kāmaguṇa)",
-          "discussion of"
-     ],
-     [
-          "MN105",
           "sense restraint (indriyasaṁvara)",
           "because of being intent on nibbāna"
-     ],
-     [
-          "MN105",
-          "Sunakkhatta, Ven.",
-          "asking about overestimation"
      ],
      [
           "MN105",
@@ -52951,6 +52981,11 @@ export const indexArray =[
      ],
      [
           "MN113",
+          "ascetic practices (dhutaṅga)",
+          "not a reason to become arrogant"
+     ],
+     [
+          "MN113",
           "Dhamma teachers",
           "not a reason to become arrogant"
      ],
@@ -52958,11 +52993,6 @@ export const indexArray =[
           "MN113",
           "arrogance",
           "because of high family, fame, etc."
-     ],
-     [
-          "MN113",
-          "ascetic practices (dhutaṅga)",
-          "not a reason to become arrogant"
      ],
      [
           "MN113",
@@ -53336,16 +53366,6 @@ export const indexArray =[
      ],
      [
           "MN115",
-          "astute person (paṇḍita)",
-          "danger does not come from"
-     ],
-     [
-          "MN115",
-          "astute person (paṇḍita)",
-          "definition"
-     ],
-     [
-          "MN115",
           "Brahmā",
           "impossible for woman to be"
      ],
@@ -53371,6 +53391,21 @@ export const indexArray =[
      ],
      [
           "MN115",
+          "astute person (paṇḍita)",
+          "danger does not come from"
+     ],
+     [
+          "MN115",
+          "astute person (paṇḍita)",
+          "definition"
+     ],
+     [
+          "MN115",
+          "conditions (saṅkāra)",
+          "taking as permanent"
+     ],
+     [
+          "MN115",
           "conditions (saṅkāra)",
           "taking as pleasant"
      ],
@@ -53393,11 +53428,6 @@ export const indexArray =[
           "MN115",
           "bad actions",
           "impossible to lead to good destination"
-     ],
-     [
-          "MN115",
-          "conditions (saṅkāra)",
-          "taking as permanent"
      ],
      [
           "MN115",
@@ -54661,11 +54691,6 @@ export const indexArray =[
      ],
      [
           "MN124",
-          "Kassapa, naked ascetic",
-          "friend of Ven. Bakkula"
-     ],
-     [
-          "MN124",
           "going forth (pabbajja)",
           "Ven. Bakkula never giving"
      ],
@@ -54678,6 +54703,11 @@ export const indexArray =[
           "MN124",
           "incredible and amazing (acchariyā abbhutā)",
           "qualities of Ven. Bakkula"
+     ],
+     [
+          "MN124",
+          "Kassapa, naked ascetic",
+          "friend of Ven. Bakkula"
      ],
      [
           "MN124",
@@ -54976,16 +55006,6 @@ export const indexArray =[
      ],
      [
           "MN128",
-          "doubt (vicikicchā)",
-          "ending concentration"
-     ],
-     [
-          "MN128",
-          "heedfulness (appamāda)",
-          "example of"
-     ],
-     [
-          "MN128",
           "Kimbila, Ven.",
           "living with Ven. Anuruddha and Nandiya"
      ],
@@ -54993,16 +55013,6 @@ export const indexArray =[
           "MN128",
           "Kosambi",
           "dispute at"
-     ],
-     [
-          "MN128",
-          "good friends",
-          "example of"
-     ],
-     [
-          "MN128",
-          "loving-kindness (mettā)",
-          "by body, speech, mind"
      ],
      [
           "MN128",
@@ -55051,6 +55061,11 @@ export const indexArray =[
      ],
      [
           "MN128",
+          "doubt (vicikicchā)",
+          "ending concentration"
+     ],
+     [
+          "MN128",
           "dullness and drowsiness (thinamiddha)",
           "ending concentration"
      ],
@@ -55071,12 +55086,22 @@ export const indexArray =[
      ],
      [
           "MN128",
+          "good friends",
+          "example of"
+     ],
+     [
+          "MN128",
           "grudge bearing (upanayhati)",
           "ending hatred"
      ],
      [
           "MN128",
           "harmony (samagga)",
+          "example of"
+     ],
+     [
+          "MN128",
+          "heedfulness (appamāda)",
           "example of"
      ],
      [
@@ -55108,6 +55133,11 @@ export const indexArray =[
           "MN128",
           "loving-kindness (mettā)",
           "as principle of cordiality"
+     ],
+     [
+          "MN128",
+          "loving-kindness (mettā)",
+          "by body, speech, mind"
      ],
      [
           "MN128",
@@ -55391,11 +55421,6 @@ export const indexArray =[
      ],
      [
           "MN130",
-          "Hell of Hot Coals (kukkulaniraya)",
-          "description of"
-     ],
-     [
-          "MN130",
           "corpse",
           "as divine messenger"
      ],
@@ -55431,6 +55456,11 @@ export const indexArray =[
      ],
      [
           "MN130",
+          "Hell of Hot Coals (kukkulaniraya)",
+          "description of"
+     ],
+     [
+          "MN130",
           "hell (niraya)",
           "description of"
      ],
@@ -55438,6 +55468,11 @@ export const indexArray =[
           "MN130",
           "hell (niraya)",
           "torture in"
+     ],
+     [
+          "MN130",
+          "hell (niraya)",
+          "trying to eat and drink in"
      ],
      [
           "MN130",
@@ -55456,23 +55491,18 @@ export const indexArray =[
      ],
      [
           "MN130",
-          "punishment (daṇḍa)",
-          "examples of"
-     ],
-     [
-          "MN130",
           "Yama, King",
           "questioning beings reborn in hell"
      ],
      [
           "MN130",
-          "hell (niraya)",
-          "trying to eat and drink in"
+          "old person",
+          "as divine messenger"
      ],
      [
           "MN130",
-          "old person",
-          "as divine messenger"
+          "punishment (daṇḍa)",
+          "examples of"
      ],
      [
           "MN130",
@@ -55971,6 +56001,11 @@ export const indexArray =[
      ],
      [
           "MN136",
+          "actions (kamma)",
+          "effective and ineffective, seeming to be"
+     ],
+     [
+          "MN136",
           "attachment to views (diṭṭhiyoga)",
           "about actions and results"
      ],
@@ -55998,11 +56033,6 @@ export const indexArray =[
           "MN136",
           "Samiddh, Ven.",
           "responding to Potaliputta"
-     ],
-     [
-          "MN136",
-          "actions (kamma)",
-          "effective and ineffective, seeming to be"
      ],
      [
           "MN136",
@@ -56236,6 +56266,11 @@ export const indexArray =[
      ],
      [
           "MN138",
+          "aggregates (khandha)",
+          "impermanence of causing anxiety"
+     ],
+     [
+          "MN138",
           "anxiety (paritassanā)",
           "because of grasping at aggregates as self"
      ],
@@ -56248,11 +56283,6 @@ export const indexArray =[
           "MN138",
           "Buddha, the",
           "qualities of"
-     ],
-     [
-          "MN138",
-          "aggregates (khandha)",
-          "impermanence of causing anxiety"
      ],
      [
           "MN138",
@@ -57336,6 +57366,11 @@ export const indexArray =[
      ],
      [
           "MN143",
+          "aggregates (khandha)",
+          "not grasping"
+     ],
+     [
+          "MN143",
           "Anāthapiṇḍika, householder",
           "reborn in Tusita heaven"
      ],
@@ -57346,16 +57381,6 @@ export const indexArray =[
      ],
      [
           "MN143",
-          "Dhamma teaching",
-          "to householders"
-     ],
-     [
-          "MN143",
-          "aggregates (khandha)",
-          "not grasping"
-     ],
-     [
-          "MN143",
           "Anāthapiṇḍika, householder",
           "sick"
      ],
@@ -57363,6 +57388,11 @@ export const indexArray =[
           "MN143",
           "consciousness (viññāṇa)",
           "sense bases"
+     ],
+     [
+          "MN143",
+          "Dhamma teaching",
+          "to householders"
      ],
      [
           "MN143",
@@ -59383,6 +59413,141 @@ export const indexArray =[
           "SN32.3–52",
           "giving (dāna)",
           "to gain rebirth"
+     ],
+     [
+          "SN35.1",
+          "“This is not mine, I am not this, this is not my self.”",
+          "sense bases"
+     ],
+     [
+          "SN35.1",
+          "disillusionment (nibbidā)",
+          "desire fades away"
+     ],
+     [
+          "SN35.1",
+          "disillusionment (nibbidā)",
+          "sense bases"
+     ],
+     [
+          "SN35.1",
+          "impermanence",
+          "sense bases"
+     ],
+     [
+          "SN35.1",
+          "impermanence",
+          "what’s impermanent is suffering "
+     ],
+     [
+          "SN35.1",
+          "not-self",
+          "what’s not-self should be truly seen with right understanding like this: ‘This is not mine, I am not this, this is not my self.’ "
+     ],
+     [
+          "SN35.1",
+          "rebirth",
+          "ending through sense bases"
+     ],
+     [
+          "SN35.1",
+          "sense bases (āyatana)",
+          "impermanent"
+     ],
+     [
+          "SN35.1",
+          "suffering (dukkha)",
+          "what’s suffering is not-self "
+     ],
+     [
+          "SN35.4",
+          "learned noble disciple (sutavā ariyasāvaka)",
+          "disillusioned with sense bases"
+     ],
+     [
+          "SN35.4",
+          "sights (rūpa)",
+          "impermanent"
+     ],
+     [
+          "SN35.4",
+          "smells (gandha)",
+          "impermanent"
+     ],
+     [
+          "SN35.4",
+          "sounds (sadda)",
+          "impermanent"
+     ],
+     [
+          "SN35.4",
+          "tastes (rasa)",
+          "impermanent"
+     ],
+     [
+          "SN35.4",
+          "thoughts (dhamma)",
+          "impermanent"
+     ],
+     [
+          "SN35.4",
+          "touches (phoṭṭhabba)",
+          "impermanent"
+     ],
+     [
+          "SN35.7",
+          "past, present, future",
+          "sense bases impermanent in"
+     ],
+     [
+          "SN35.7",
+          "sense bases",
+          "past, present, future are impermanent"
+     ],
+     [
+          "SN35.13",
+          "Bodhisatta",
+          "seeing gratification, danger, escape"
+     ],
+     [
+          "SN35.13",
+          "gratification, danger, escape",
+          "sense bases"
+     ],
+     [
+          "SN35.15",
+          "searches (esana, pariyesanā)",
+          "sense gratification, danger, escape"
+     ],
+     [
+          "SN35.17",
+          "escape (nissaraṇa)",
+          "from the world"
+     ],
+     [
+          "SN35.17",
+          "gratification, danger, escape",
+          "if there were no…"
+     ],
+     [
+          "SN35.17",
+          "sense bases",
+          "gratification, danger, escape"
+     ],
+     [
+          "SN35.19",
+          "delight (abhinanda)",
+          "in senses is pleasure in suffering"
+     ],
+     [
+          "SN35.19",
+          "suffering (dukkha)",
+          "taking delight in"
+     ],
+     [
+          "SN35.21",
+          "sense bases",
+          "arising of is arising of suffering"
      ],
      [
           "SN41.7",
@@ -62716,11 +62881,6 @@ export const indexArray =[
      ],
      [
           "SN47.13",
-          "death (maraṇa)",
-          "reaction to hearing about"
-     ],
-     [
-          "SN47.13",
           "Dhamma",
           "as island"
      ],
@@ -62728,6 +62888,11 @@ export const indexArray =[
           "SN47.13",
           "best",
           "of best"
+     ],
+     [
+          "SN47.13",
+          "death (maraṇa)",
+          "reaction to hearing about"
      ],
      [
           "SN47.13",
@@ -65041,23 +65206,28 @@ export const indexArray =[
      ],
      [
           "Snp3.7",
-          "jaṭilā ascetics",
-          "offering meal to the Buddha"
-     ],
-     [
-          "Snp3.7",
-          "Sela, brahmin",
-          "going forth; praising Buddha"
-     ],
-     [
-          "Snp3.7",
           "inspiration",
           "seeing the Buddha"
      ],
      [
           "Snp3.7",
+          "jaṭilā ascetics",
+          "offering meal to the Buddha"
+     ],
+     [
+          "Snp3.7",
           "Keṇiya , ascetic",
           "offering meal to the Buddha"
+     ],
+     [
+          "Snp3.7",
+          "Saṅgha",
+          "best recipient"
+     ],
+     [
+          "Snp3.7",
+          "Sela, brahmin",
+          "going forth; praising Buddha"
      ],
      [
           "Snp3.7",
@@ -65068,11 +65238,6 @@ export const indexArray =[
           "Snp3.7",
           "marks of a great man",
           "appearing on the Buddha"
-     ],
-     [
-          "Snp3.7",
-          "Saṅgha",
-          "best recipient"
      ],
      [
           "Snp3.7",
@@ -65116,6 +65281,16 @@ export const indexArray =[
      ],
      [
           "Snp3.9",
+          "Clear-eyed One (cakkhumant)",
+          "the Buddha"
+     ],
+     [
+          "Snp3.9",
+          "actions (kamma)",
+          "make the world go round"
+     ],
+     [
+          "Snp3.9",
           "actions (kamma)",
           "makes one a brahmin"
      ],
@@ -65123,6 +65298,11 @@ export const indexArray =[
           "Snp3.9",
           "actions (kamma)",
           "not birth defines a person"
+     ],
+     [
+          "Snp3.9",
+          "arahants",
+          "description"
      ],
      [
           "Snp3.9",
@@ -65138,21 +65318,6 @@ export const indexArray =[
           "Snp3.9",
           "birth (jāti)",
           "does not make one a brahmin"
-     ],
-     [
-          "Snp3.9",
-          "Clear-eyed One (cakkhumant)",
-          "the Buddha"
-     ],
-     [
-          "Snp3.9",
-          "actions (kamma)",
-          "make the world go round"
-     ],
-     [
-          "Snp3.9",
-          "arahants",
-          "description"
      ],
      [
           "Snp3.9",
@@ -66217,12 +66382,12 @@ export const indexArray =[
      [
           "Thag2.44",
           "external appearance",
-          ""
+          "not matching internal"
      ],
      [
           "Thag2.45",
           "boasting",
-          ""
+          "in assemblies"
      ],
      [
           "Thag2.46",
@@ -66232,12 +66397,17 @@ export const indexArray =[
      [
           "Thag2.49",
           "Bodhi Tree",
-          ""
+          "enlightenment under"
      ],
      [
           "Thag3.1",
           "fire worship (aggika)",
-          ""
+          "previously practiced by bhikkhu "
+     ],
+     [
+          "Thag3.1",
+          "mortification (tapas)",
+          "seeking immortality"
      ],
      [
           "Thag3.2",
@@ -66357,7 +66527,7 @@ export const indexArray =[
      [
           "Thag4.8",
           "Rāhula, Ven.",
-          ""
+          "fortunate"
      ],
      [
           "Thag4.9",
@@ -66506,8 +66676,8 @@ export const indexArray =[
      ],
      [
           "Thag6.7",
-          "laziness (kosajja)",
-          ""
+          "laziness (ālasya, anuṭṭhāna)",
+          "overcome"
      ],
      [
           "Thag6.7",
@@ -66526,18 +66696,13 @@ export const indexArray =[
      ],
      [
           "Thag6.9",
-          "arrogance",
-          ""
-     ],
-     [
-          "Thag6.9",
           "conceit of inferiority (omāna)",
-          ""
+          "overcoming"
      ],
      [
           "Thag6.9",
           "conceit of superiority (atimāna)",
-          ""
+          "overcoming"
      ],
      [
           "Thag6.9",
@@ -66706,6 +66871,11 @@ export const indexArray =[
      ],
      [
           "Thag10.1",
+          "Suddhodana, king",
+          ""
+     ],
+     [
+          "Thag10.1",
           "family",
           "benefited by arahant relative"
      ],
@@ -66717,11 +66887,6 @@ export const indexArray =[
      [
           "Thag10.1",
           "Māyā, queen Mahā",
-          ""
-     ],
-     [
-          "Thag10.1",
-          "Suddhodana, king",
           ""
      ],
      [
@@ -68456,11 +68621,6 @@ export const indexArray =[
      ],
      [
           "Ud3.7",
-          "giving (dāna)",
-          "by gods"
-     ],
-     [
-          "Ud3.7",
           "Sakka, Lord of Gods",
           "offering food"
      ],
@@ -68473,6 +68633,11 @@ export const indexArray =[
           "Ud3.7",
           "arahants",
           "envied by gods"
+     ],
+     [
+          "Ud3.7",
+          "giving (dāna)",
+          "by gods"
      ],
      [
           "Ud3.7",
@@ -68736,6 +68901,11 @@ export const indexArray =[
      ],
      [
           "Ud5.3",
+          "gradual instruction (anupubba katha)",
+          "to Suppabuddha"
+     ],
+     [
+          "Ud5.3",
           "leprosy (kuṭṭha)",
           "Suppabuddha the leper"
      ],
@@ -68743,11 +68913,6 @@ export const indexArray =[
           "Ud5.3",
           "Suppabuddha, leper",
           "enlightenment of"
-     ],
-     [
-          "Ud5.3",
-          "gradual instruction (anupubba katha)",
-          "to Suppabuddha"
      ],
      [
           "Ud5.3",
@@ -68776,16 +68941,6 @@ export const indexArray =[
      ],
      [
           "Ud5.5",
-          "asuras",
-          "love of ocean"
-     ],
-     [
-          "Ud5.5",
-          "bad monastics",
-          "in pātimokkha recitation"
-     ],
-     [
-          "Ud5.5",
           "Dhamma",
           "has many treasures"
      ],
@@ -68798,6 +68953,16 @@ export const indexArray =[
           "Ud5.5",
           "Dhamma",
           "like ocean"
+     ],
+     [
+          "Ud5.5",
+          "asuras",
+          "love of ocean"
+     ],
+     [
+          "Ud5.5",
+          "bad monastics",
+          "in pātimokkha recitation"
      ],
      [
           "Ud5.5",

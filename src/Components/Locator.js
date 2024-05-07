@@ -29,7 +29,7 @@ function Locator(props) {
       url = `https://sutta.readingfaithfully.org/?q=${locationForUrl}`;
       break;
     case "SCV":
-      url = `https://voice.suttacentral.net/scv/index.html#/sutta?search=${locationForUrl}`;
+      url = `https://sc-voice.net/?src=sc#/sutta/${locationForUrl}/en/sujato`;
       break;
     default:
       url = `https://suttacentral.net/${locationForUrl}/en/sujato`;
@@ -53,12 +53,7 @@ function Locator(props) {
 
   return (
     <span>
-      <Tippy
-        content={<span dangerouslySetInnerHTML={{ __html: getSuttaTitleBlurb(stripRangesFromUrls(location)) }} />}
-        allowHTML={false}
-        delay={300}
-        disabled={!getSuttaTitleBlurb(stripRangesFromUrls(location))}
-      >
+      <Tippy content={<span dangerouslySetInnerHTML={{ __html: getSuttaTitleBlurb(stripRangesFromUrls(location)) }} />} allowHTML={false} delay={300} disabled={!getSuttaTitleBlurb(stripRangesFromUrls(location))}>
         <a href={url} rel="noreferrer" target="_blank" className={justBook(location) + " locator"}>
           {addSpace(location)}
           {getSuttaTitle(location) ? suttaNameJsx : ""}
