@@ -91,6 +91,7 @@ disputes	about Dhamma	SN56.9
 talk (kathā)	suitable and unsuitable	SN56.10
 speech	useless (tiraccha)	SN56.10
 oceans		xref Ganges river
+nibbāna		xref nibbāna element (nibbānadhātu)
 trees		xref banana tree
 trees		xref heartwood
 conversation		xref talk
@@ -1093,8 +1094,9 @@ dimensions of mastery (abhibhāyatana)		xref bases of overcoming (abhibhāyatana
 good friends		xref spiritual friends (kalyāṇamitta)
 exhortation		xref advice (ovāda)
 false accusations		xref accusations
+wasting opportunity		xref opportunities
+inopportune moment (asamaya)		xref opportunities
 accusations		xref false accusations
-opportunities, lost		xref inopportune moment (asamaya)
 intoxicants		xref alcohol
 alcohol		xref intoxicants
 easy to support		xref unburdensome (subhara)
@@ -1617,7 +1619,7 @@ reputation	how reputation grows	Dhp24
 heedfulness (appamāda)	like island	Dhp25
 islands	simile for heedfulness	Dhp25
 heedfulness (appamāda)	as best treasure	Dhp26
-heedfulness (appamāda)		CUSTOM:Dhp:Dhammapada Chapter 2:suttacentral.net/dhp21-32/en/sujato
+heedfulness (appamāda)	 	CUSTOM:Dhp:Dhammapada Chapter 2:suttacentral.net/dhp21-32/en/sujato
 heedfulness (appamāda)	like wise person on mountain-top	Dhp28
 mountains	simile of wise person standing on	Dhp28
 heedfulness (appamāda)	like swift horse	Dhp29
@@ -1627,7 +1629,7 @@ heedfulness (appamāda)	as always praised	Dhp30
 heedfulness (appamāda)	simile of fire	Dhp31
 heedlessness (pamāda)	seeing fear in	Dhp31
 heedlessness (pamāda)	seeing fear in	Dhp32
-mind (citta)		CUSTOM:Dhp:Dhammapada Chapter 3:suttacentral.net/dhp33-43/en/sujato
+mind (citta)	 	CUSTOM:Dhp:Dhammapada Chapter 3:suttacentral.net/dhp33-43/en/sujato
 mind (citta)	simile of arrow maker	Dhp33
 mind (citta)	as hard to control	Dhp33
 mind (citta)	as hard to control	Dhp34
@@ -1654,7 +1656,7 @@ virtue (sīla)	as supreme fragrance	Dhp55
 virtue (sīla)	as supreme fragrance	Dhp56
 Māra	cannot find the good	Dhp57
 disciples of the Buddha	simile of lotus in mud	Dhp59
-fools (bāla)		CUSTOM:Dhp:Dhammapada Chapter 5:suttacentral.net/dhp60-75/en/sujato
+fools (bāla)	 	CUSTOM:Dhp:Dhammapada Chapter 5:suttacentral.net/dhp60-75/en/sujato
 fools (bāla)	long in saṁsara	Dhp60
 fools (bāla)	don’t associate with	Dhp61
 solitude	better than association with fools	Dhp61
@@ -1685,7 +1687,8 @@ arrowsmiths	simile for self-taming	Dhp80
 irrigators	simile for self-taming	Dhp80
 carpenters	simile for self-taming	Dhp80
 wise people	simile of lake	Dhp82
-worldly conditions	not affected by	Dhp83
+happiness (sukha)	not affected by	Dhp83
+suffering (dukkha)	not affected by	Dhp83
 nibbāna	attained by few	Dhp85
 Dhamma	well explained	Dhp86
 renunciation	delight in	Dhp87
@@ -1753,7 +1756,7 @@ self-taming	like carpenter	Dhp145
 arrowsmiths	simile for self-taming	Dhp145
 irrigators	simile for self-taming	Dhp145
 carpenters	simile for self-taming	Dhp145
-old age (jarā)		CUSTOM:Dhp:Dhammapada Chapter 11:suttacentral.net/dhp146-156/en/sujato
+old age (jarā)	 	CUSTOM:Dhp:Dhammapada Chapter 11:suttacentral.net/dhp146-156/en/sujato
 urgency	when world is burning	Dhp146
 perception of ugliness (asubhasaññā)	body	Dhp147
 body	like puppet	Dhp147
@@ -1804,7 +1807,7 @@ heaven (sagga)	few reborn in	Dhp174
 lying	person who lies can do anything	Dhp176
 giving (dāna)	praised by wise	Dhp177
 stream-enterers (sotāpanna)	better than heaven	Dhp178
-Buddha, the		CUSTOM:Dhp:Dhammapada Chapter 14:suttacentral.net/dhp179-196/en/sujato
+Buddha, the	 	CUSTOM:Dhp:Dhammapada Chapter 14:suttacentral.net/dhp179-196/en/sujato
 Buddha, the	envied by gods	Dhp181
 human birth	rarity of	Dhp182
 Buddhas	rarity of	Dhp182
@@ -1824,7 +1827,7 @@ honor	to the worthy	Dhp195
 honor	to the worthy	Dhp196
 merit (puñña)	by honoring	Dhp195
 merit (puñña)	by honoring	Dhp196
-happiness (sukha)		CUSTOM:Dhp:Dhammapada Chapter 15:suttacentral.net/dhp197-208/en/sujato
+happiness (sukha)	 	CUSTOM:Dhp:Dhammapada Chapter 15:suttacentral.net/dhp197-208/en/sujato
 non-hatred (avera)	living among people who hate	Dhp197
 contentment	among discontent	Dhp199
 contentment	feeding on rapture	Dhp200
@@ -1846,14 +1849,14 @@ priorities	wrong	Dhp209
 goals	forgetting	Dhp209
 jealousy (issā)	towards those devoted to own goal	Dhp209
 association	with loved and unloved	Dhp210
-love (piya)		CUSTOM:Dhp:Dhammapada Chapter 16:suttacentral.net/dhp209-220/en/sujato
+love (piya)	 	CUSTOM:Dhp:Dhammapada Chapter 16:suttacentral.net/dhp209-220/en/sujato
 loved ones	clinging to	Dhp211
 loved ones	clinging to	Dhp212
 attachments	as source of sorrow	Dhp214
 craving (taṇha)	as source of sorrow	Dhp215
 good actions	rebirth	Dhp219
 good actions	rebirth	Dhp220
-anger (kodha)		CUSTOM:Dhp:Dhammapada Chapter 17:suttacentral.net/dhp221-234/en/sujato
+anger (kodha)	 	CUSTOM:Dhp:Dhammapada Chapter 17:suttacentral.net/dhp221-234/en/sujato
 anger (kodha)	simile of charioteer	Dhp222
 anger (kodha)	keep in check	Dhp222
 anger (kodha)	overcoming	Dhp223
@@ -1923,7 +1926,7 @@ Himalayas	simile for good people	Dhp304
 bad people (asappurisa)	like arrows	Dhp304
 arrows	simile for bad people	Dhp304
 seclusion	delight in forest	Dhp305
-hell (niraya)		CUSTOM:Dhp:Dhammapada Chapter 22:suttacentral.net/dhp306-319/en/sujato
+hell (niraya)	 	CUSTOM:Dhp:Dhammapada Chapter 22:suttacentral.net/dhp306-319/en/sujato
 lying	rebirth	Dhp306
 bad monastics	rebirth	Dhp307
 bad monastics	rebirth	Dhp308
@@ -1940,7 +1943,7 @@ wrong view (micchā diṭṭhi)	leading to bad destination	Dhp317
 wrong view (micchā diṭṭhi)	leading to bad destination	Dhp318
 fault-finding	when there is none	Dhp318
 right view (sammā diṭṭhi)	leads to good rebirth	Dhp319
-elephants		CUSTOM:Dhp:Dhammapada Chapter 23:suttacentral.net/dhp320-333/en/sujato
+elephants	 	CUSTOM:Dhp:Dhammapada Chapter 23:suttacentral.net/dhp320-333/en/sujato
 enduring abuse	like elephant	Dhp320
 elephants	simile for enduring abuse	Dhp320
 enduring abuse	tamed person	Dhp321
@@ -1965,7 +1968,7 @@ happiness (sukha)	contentment is	Dhp331
 parents	caring for	Dhp332
 faith (saddhā)	blessing	Dhp333
 precepts	blessing	Dhp333
-craving (taṇha)		CUSTOM:Dhp:Dhammapada Chapter 24:suttacentral.net/dhp334-359/en/sujato
+craving (taṇha)	 	CUSTOM:Dhp:Dhammapada Chapter 24:suttacentral.net/dhp334-359/en/sujato
 craving (taṇha)	like creeper	Dhp334
 creepers	simile for craving	Dhp334
 craving (taṇha)	like a monkey	Dhp334
@@ -2367,6 +2370,8 @@ conscience and prudence (hiri ottappa)	protectors of the world	Iti42
 unborn (ajātaṁ)	escape from born is possible	Iti43
 arahants	with something left over (saupādisesā)	Iti44
 arahants	with nothing left over (anupādisesa)	Iti44
+nibbāna element (nibbānadhātu)	with and without something left over	Iti44
+residue remaining, with (saupādisesa)	nibbāna element	Iti44
 wakefulness (jāgara)	leads to enlightenment	Iti47
 celibacy	false claim of	Iti48
 mendicants	evil	Iti48
@@ -2812,7 +2817,7 @@ purity (suddhi, pārisuddhi)	in terms of vows	Snp5.8
 hope (āsa)	free from	Snp5.10
 renunciation (nekkhamma)	as sanctuary	Snp5.12
 Vakkali, Ven.	committed to faith	Snp5.19
-devas		CUSTOM:Vv:Vimānavatthu:SuttaFriends.org/vv
+devas	 	CUSTOM:Vv:Vimānavatthu:SuttaFriends.org/vv
 gifts, specific types of	chair	Vv1
 gifts, specific types of	chair	Vv2
 gifts, specific types of	chair	Vv3
@@ -2954,7 +2959,7 @@ departed relatives	sharing merit with	Pv5
 ghost realm	qualities of	Pv5
 merit sharing	like rain reaching the oceans	Pv5
 merit sharing	as a source of merit itself	Pv5
-ghosts		CUSTOM:Pv:Petavatthu:SuttaFriends.org/pv
+ghosts	 	CUSTOM:Pv:Petavatthu:SuttaFriends.org/pv
 speech	false oath	Pv6
 pregnancy	causing termination of someone else’s	Pv6
 ghosts	child eating	Pv6
@@ -3245,7 +3250,7 @@ anger (kodha)	keep in check	Thag6.12
 anger (kodha)	remove with simile of the saw	Thag6.12
 death (maraṇa)	inevitability of	Thag6.13
 death (maraṇa)	coming like a wall of flame	Thag6.13
-wasting opportunity		Thag6.13
+opportunities	lost 	Thag6.13
 time	not wasting	Thag6.13
 death (maraṇa)	inevitability of	Thag6.13
 women	danger for monks	Thag6.14
@@ -3269,17 +3274,23 @@ wealth	loss of compared to wisdom	Thag8.1
 determination	not to move until enlightened	Thag8.3
 hope (āsa)	for success	Thag10.1
 family	benefited by arahant relative	Thag10.1
-Suddhodana, king		Thag10.1
-Māyā, queen Mahā		Thag10.1
+Suddhodana, king	Buddha’s father, disciple’s grandfather	Thag10.1
+Māyā, queen Mahā	in heaven	Thag10.1
 solitude	delight in	Thag10.1
-mindfulness of breathing (ānāpānassati)		Thag10.3
+enemies	seeing no weakness	Thag10.3
+mindfulness of breathing (ānāpānassati)	lights up the world	Thag10.3
+moon	simile for practitioner of mindfulness of breathing	Thag10.3
+wealth	loss of compared to wisdom 	Thag10.3
 grieving	makes enemies rejoice	Thag10.3
-slow spiritual progress		Thag10.4
+slow spiritual progress	helped by teacher	Thag10.4
 monastic life	not getting results for a long time	Thag10.4
 cloth	clean, meditation on	Thag10.4
 perception of ugliness (asubhasaññā)	body	Thag10.5
 dwellings	suitable	Thag10.6
-pretending to be stupid		Thag10.6
+rag-robe wearing	disciples who practice	Thag10.6
+robes	rag	Thag10.6
+stupidity	pretending to be	Thag10.6
+alms gathering practice	humility	Thag10.6
 monastic life	advice for	Thag10.6
 overconfidence	before enlightenment	Thag10.6
 contentment (santuṭṭhi)	with four requisites	Thag10.6
@@ -3287,13 +3298,12 @@ dwellings	suitable	Thag10.7
 monastic life	advice for	Thag10.7
 virtue (sīla)	leads to heaven	Thag12.1
 virtue (sīla)	leading to happiness	Thag12.1
-virtue (sīla)		Thag12.1
 wisdom (paññā)	higher than virtue	Thag12.1
 caste	low caste monk	Thag12.2
 “come, monk” ordination (ehi bhikkhu)	Ven. Sunīta	Thag12.2
 energy (vīriya)	like a well tuned lute	Thag13.1
 loving-kindness (mettā)	limitless	Thag14.1
-worldly conditions (lokadhamma)		Thag14.2
+worldly conditions (lokadhamma)	not affected by	Thag14.2
 gain (lābha)	illegitimate	Thag14.2
 fame (yasas)	of the unintelligent	Thag14.2
 praise	by fools	Thag14.2
@@ -3302,10 +3312,10 @@ Dhamma	full of flavor (maha rassa)	Thag15.1
 Buddha, the	as nāga	Thag15.2
 death (maraṇa)	fear of	Thag16.1
 death (maraṇa)	without fear	Thag16.1
-sense restraint (indriyasaṁvara)		Thag16.2
+sense restraint (indriyasaṁvara)	not harming others	Thag16.2
 faculties (indriya)	knocking out faculties with faculties	Thag16.2
-slow spiritual progress		Thag16.3
-doubt (vicikicchā)		Thag16.3
+slow spiritual progress	helped by teacher	Thag16.3
+doubt (vicikicchā)	tied up with	Thag16.3
 Buddha, the	as doctor	Thag16.3
 perception of ugliness (asubhasaññā)	woman’s body	Thag16.4
 wealthy people	not giving	Thag16.4
@@ -3323,8 +3333,9 @@ marks of a great man	appearing on the Buddha	Thag16.5
 Buddha, the	king of Dhamma	Thag16.5
 general of the Dhamma (senāpati)	Ven. Sāriputta	Thag16.6
 contentment (santuṭṭhi)	with requisites	Thag16.7
-ascetic practices (dhutaṅga)		Thag16.7
-meditation (jhāyati)		Thag16.7
+ascetic practices	jhāna	Thag16.7
+meditation (jhāyati)	helped by ascetic practices	Thag16.7
+alms bowls	giving up gold for clay	Thag16.7
 bowls	giving up valuable	Thag16.7
 heedfulness (appamāda)	like moon freed from clouds	Thag16.8
 enemies	wishing for them to hear Dhamma	Thag16.8
@@ -3342,12 +3353,12 @@ irrigators	simile for self-taming	Thag16.8
 carpenters	simile for self-taming	Thag16.8
 food	eating free from debt	Thag16.8
 heedfulness (appamāda)	as best treasure	Thag16.8
-rag-robe wearing		Thag16.9
-few wishes (appiccha)		Thag16.9
-mind-made body (manomayena kāya)		Thag16.9
+rag-robe wearing	making 	Thag16.9
+few wishes (appiccha)	without taints	Thag16.9
+mind-made body (manomayena kāya)	Buddha visiting	Thag16.9
 ascetic practices (dhutaṅga)	lying down to sleep	Thag16.9
-divine eye (dibbacakkhu)		Thag16.9
-past lives, knowledge of (pubbenivāsānussatiñāṇa)		Thag16.9
+divine eye (dibbacakkhu)	purified	Thag16.9
+past lives, knowledge of (pubbenivāsānussatiñāṇa)	king 	Thag16.9
 monastic life	wrongly practiced in the future	Thag16.10
 Saṅgha	decline of in future	Thag16.10
 senior monastics	gone	Thag16.10
@@ -3381,14 +3392,13 @@ honor	like a bog	Thag18.1
 requisites, four	contentment with	Thag18.1
 nature	as pleasing	Thag18.1
 respect (gārava)	for spiritual companions	Thag18.1
-conceit (māna)		Thag18.1
 robes	like monkey in lion skin not worthy of	Thag18.1
 arahants	praised by gods	Thag18.1
 seclusion	desire for	Thag19.1
 urgency	for practice	Thag19.1
 mind (citta)	like a monkey	Thag19.1
 encouragement	to oneself	Thag19.1
-doubt (vicikicchā)		Thag19.1
+doubt	in ones abilities	Thag19.1
 mind (citta)	like a traveller	Thag19.1
 sense pleasures (kāma, kāmaguṇa)	giving up like vomiting	Thag19.1
 rebirth	mind causing	Thag19.1
@@ -3409,7 +3419,7 @@ Sāriputta, Ven.	praise of	Thag21.1
 Aññā Koṇḍañña, Ven.	praise of	Thag21.1
 Moggallāna, Ven.	praise of	Thag21.1
 poetry	drunk on	Thag21.1
-Nigrodhakappa, Ven		Thag21.1
+Nigrodhakappa, Ven	Ven. Vaṅgīsa’s teacher	Thag21.1
 lust (rāga)	dried up like vegetables in pot	Thig1.1
 almsfood	free from debt	Thig1.2
 debt (iṇa)	almsfood free from	Thig1.2
@@ -5098,7 +5108,6 @@ Sineru, king of mountains	Ven. Moggallāna touching	MN50
 fire	does not think to burn the fool	MN50
 fools (bāla)	fire does not think to burn	MN50
 Pessa the elephant driver’s son	with Kandaraka the wanderer	MN51
-Kandaraka, wanderer		MN51
 Buddhas	of the past and future	MN51
 Saṅgha	different kinds of people in	MN51
 foundations of mindfulness, four (satipaṭṭhāna)	Saṅgha practices	MN51
@@ -5778,7 +5787,7 @@ laypeople	rebirth in heaven	MN71
 doctrine of action (kiriyavādā)	leading to rebirth in heaven	MN71
 views of other sects	empty of the chance to go to heaven	MN71
 Vacchagotta, wanderer	asking about views and rebirth	MN72
-eternalism (sassatavāda)		MN72
+eternalism (sassatavāda)	not the Buddha’s view	MN72
 speculation about the world (lokacintā)	Buddha has done away with	MN72
 infinite (ananta)	world as	MN72
 finite	world as	MN72
@@ -6646,11 +6655,11 @@ recollection of past lives	as a result of proper striving	MN101
 knowledge of passing away and rebirth of beings (cutūpapātañāna)	as a result of proper striving	MN101
 knowledge of destruction of the taints (āsavakkhayañāṇa)	as a result of proper striving	MN101
 nibbāna here and now (diṭṭhadhammanibbāna)	view of	MN102
-views of other sects		MN102
-views about the self (attavāda)		MN102
-eternalism (sassatavāda)		MN102
-annihilationism (ucchedavāda)		MN102
-views about the future		MN102
+views of other sects	refuted by the Buddha	MN102
+views about the self (attavāda)	refuted by the Buddha	MN102
+eternalism (sassatavāda)	refuted by the Buddha	MN102
+annihilationism (ucchedavāda)	refuted by the Buddha	MN102
+views about the future	refuted by the Buddha	MN102
 kasiṇas	consciousness-kasiṇa (viññāṇakasiṇa)	MN102
 dimension of nothingness (ākiñcaññāyatana)	views about	MN102
 perceptions (saññā)	the self and	MN102
@@ -7084,13 +7093,13 @@ unification of mind (cittassa ekaggatā)	condition for noble right concentration
 right view (sammā diṭṭhi)	comes first	MN117
 wrong view (micchā diṭṭhi)	definition	MN117
 right view (sammā diṭṭhi)	two kinds	MN117
-awakening factor of investigation of principles (dhammavicayasambojjhaṅga)		MN117
+awakening factor of investigation of principles (dhammavicayasambojjhaṅga)	right view	MN117
 wisdom (paññā)	power	MN117
 wisdom (paññā)	faculty	MN117
 right effort (sammā vāyāma)	to give up wrong view, etc.	MN117
 right mindfulness (sammā sati)	to give up wrong view, etc.	MN117
 right intention (sammā saṅkappa)	two kinds	MN117
-verbal formations (vacīsaṅkhāra)		MN117
+verbal formations (vacīsaṅkhāra)	right intention	MN117
 right speech (sammā vācā)	two kinds	MN117
 right action (sammā kammanta)	two kinds	MN117
 right livelihood (sammā ājīva)	two kinds	MN117
@@ -11705,14 +11714,14 @@ bases of psychic power (iddhipāda)	arahant has well developed	AN8.28
 faculties, spiritual (indriya)	arahant has well developed	AN8.28
 awakening factors, seven (bojjhaṅga)	arahant has well developed	AN8.28
 noble eightfold path (ariya aṭṭhangika magga)	arahant has well developed	AN8.28
-inopportune moment (asamaya)	for spiritual practice	AN8.29
+opportunities	inopportune for spiritual practice	AN8.29
 hell (niraya)	lost opportunity if born in hell when Buddha is alive	AN8.29
 animal realm	lost opportunity if born in hell when Buddha is alive	AN8.29
 ghost realm	lost opportunity if born in hell when Buddha is alive	AN8.29
 gods, long lived order (dīghāyukaṁ devanikāya)	lost opportunity if born in hell when Buddha is alive	AN8.29
 wrong views	lost opportunity having when a Buddha is in the world	AN8.29
 stupidity	lost opportunity being when a Buddha is in the world	AN8.29
-opportunities	one good opportunity	AN8.29
+opportunities	one good	AN8.29
 spiritual path (brahmacariya)	opportunity to practice	AN8.29
 Buddhas	rarity of	AN8.29
 regret	when missing opportunity to practice	AN8.29
@@ -14641,7 +14650,7 @@ noble eightfold path (ariya aṭṭhangika magga)	to give up five higher fetters
 nāgas	supported by Himalayas, simile for seven awakening factors supported by virtue	SN46.1
 virtue (sīla)	grounded on one develops seven awakening factors	SN46.1
 awakening factors, seven (bojjhaṅga)	grounded on virtue	SN46.1
-awakening factors, seven (bojjhaṅga)		CUSTOM:SN:Bojjhaṅgasaṁyutta:suttacentral.net/sn46
+awakening factors, seven (bojjhaṅga)	 	CUSTOM:SN:Bojjhaṅgasaṁyutta:suttacentral.net/sn46
 body	supported by food, simile for hindrances	SN46.2
 hindrances (nīvaraṇa)	sustained by fuel	SN46.2
 sense desire (kāmacchanda)	caused by sign of the beautiful	SN46.2
@@ -14948,7 +14957,7 @@ floods (ogha)	of sensuality, desire to be reborn, views, and ignorance	SN46.121
 awakening factors, seven (bojjhaṅga)	to give up floods	SN46.121
 fetters (saṁyojana)	awakening factors to give up five higher	SN46.130
 awakening factors, seven (bojjhaṅga)	to give up five higher fetters	SN46.130
-foundations of mindfulness, four (satipaṭṭhāna)		CUSTOM:SN:SN 47 Satipaṭṭhānasaṁyutta:suttacentral.net/sn47
+foundations of mindfulness, four (satipaṭṭhāna)	 	CUSTOM:SN:SN 47 Satipaṭṭhānasaṁyutta:suttacentral.net/sn47
 one way path (ekāyano maggo)	foundations of mindfulness	SN47.1
 foundations of mindfulness, four (satipaṭṭhāna)	definition in brief	SN47.1
 mindfulness (sati)	definition	SN47.2
@@ -15120,7 +15129,7 @@ family	establishing in foundations of mindfulness	SN47.48
 feelings (vedanā)	complete understanding of	SN47.49
 taints (āsava)	definition	SN47.50
 foundations of mindfulness, four (satipaṭṭhāna)	to give up taints	SN47.50
-faculties, spiritual (indriya)		CUSTOM:SN:Indriya Saṁyutta:suttacentral.net/sn48
+faculties, spiritual (indriya)	 	CUSTOM:SN:Indriya Saṁyutta:suttacentral.net/sn48
 faculties, spiritual (indriya)	definition	SN48.1
 faculties, spiritual (indriya)	gratification, danger, escape	SN48.2
 gratification, danger, escape	five spiritual faculties	SN48.2
@@ -15312,8 +15321,8 @@ Ganges river	slants to the east, simile for spiritual faculties	SN48.71
 fetters (saṁyojana)	five higher, develop spiritual faculties to give up	SN48.115
 Ganges river	slants to the east, simile for right efforts leading to nibbāna	SN49.1
 rivers	great rivers slant to the east, simile for right efforts leading to nibbāna	SN49.1
-right effort, four (sammappadhāna)		CUSTOM:SN:Sammappadhāna Saṁyutta:suttacentral.net/sn49
-sense bases (āyatana)		CUSTOM:SN:Saḷāyatanasaṁyutta Saṁyutta:suttacentral.net/sn35
+right effort, four (sammappadhāna)	 	CUSTOM:SN:Sammappadhāna Saṁyutta:suttacentral.net/sn49
+sense bases (āyatana)	 	CUSTOM:SN:Saḷāyatanasaṁyutta Saṁyutta:suttacentral.net/sn35
 sense bases (āyatana)	impermanent	SN35.1
 impermanence	what’s impermanent is suffering 	SN35.1
 impermanence	sense bases	SN35.1
@@ -15341,3 +15350,43 @@ escape (nissaraṇa)	from the world	SN35.17
 delight (abhinanda)	in senses is pleasure in suffering	SN35.19
 suffering (dukkha)	taking delight in	SN35.19
 sense bases	arising of is arising of suffering	SN35.21
+“all”, the (sabba)	definition	SN35.23
+sense bases	the all	SN35.23
+abandoning (pajahati, pahāna)	sense bases	SN35.24
+sense bases	abandoning	SN35.24
+full understanding (pariñña)	sense bases	SN35.25
+direct knowledges (abhiññā)	sense bases	SN35.25
+full understanding (pariñña)	sense bases	SN35.26
+direct knowledges (abhiññā)	sense bases	SN35.26
+fire	“Fire Sermon”	SN35.28
+burning (āditta)	sense bases	SN35.28
+fire	sense bases burning	SN35.28
+feelings (vedanā)	burning	SN35.28
+greed, hatred, delusion	burning	SN35.28
+contact (phassa)	burning	SN35.28
+consciousness (viññāṇa)	burning	SN35.28
+disillusionment (nibbidā)	with sense bases	SN35.28
+rebirth	ending through the sense bases	SN35.28
+oppressed (addhabhūta)	sense bases	SN35.29
+sense bases	oppressed	SN35.29
+conceiving (maññita)	uprooting all	SN35.30
+conceiving (maññita)	uprooting all	SN35.31
+birth (jāti)	being liable to 	SN35.33
+old age (jarā)	being liable to 	SN35.34
+sickness (byādhi)	being liable to 	SN35.35
+death (maraṇa)	being liable to 	SN35.36
+sorrow (soka)	being liable to 	SN35.37
+corruptions (saṅkilesa)	being liable to 	SN35.38
+decay (khaya)	being liable to 	SN35.39
+decay (vaya)	being liable to 	SN35.40
+origination (samudaya)	being liable to 	SN35.41
+cessation (nirodha)	being liable to 	SN35.42
+knowing (jānato)	sense bases as impermanent, etc.	SN35.53
+seeing (passato)	sense bases as impermanent, etc.	SN35.53
+fetters (saṁyojana)	giving up through knowing and seeing sense bases	SN35.54
+taints (āsava)	giving up through knowing and seeing sense bases	SN35.56
+underlying tendencies (anusaya)	giving up through knowing and seeing sense bases	SN35.58
+grasping (upādāna)	complete understanding of all	SN35.60
+contact (phassa)	condition for feeling	SN35.60
+grasping (upādāna)	exhaustion of all	SN35.61
+sense bases	as impermanent, suffering, not self	SN35.62
