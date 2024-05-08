@@ -94,7 +94,7 @@ export default function Info() {
             sorted by number of unique locators.
           </p>
           <p>Proper names may refer to multiple distinct individuals. Also note that some identical looking names may be gendered versions, e.g. Visākhā and Visākha.</p>
-          <p>Some mobile devices may allow you to install this site for offline use. Click on the browser menu and look for an option to "Add to home screen" or "Install"</p>
+          <p>Some mobile devices may allow you to install this site for offline use. On Android, click on the browser menu and look for an option to “Add to home screen” or “Install.” On Apple devices, from the sharesheet choose “add to homescreen” on iOS or “add to dock” on MacOS.</p>
         </div>
       </details>
       <OtherToolsIcons />
