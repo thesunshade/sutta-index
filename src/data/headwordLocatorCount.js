@@ -7608,6 +7608,10 @@ export const indexObject =[
           1
      ],
      [
+          "Migajāla, Ven.",
+          1
+     ],
+     [
           "middle monastics",
           1
      ],
@@ -7693,6 +7697,10 @@ export const indexObject =[
      ],
      [
           "living as one pleases",
+          1
+     ],
+     [
+          "living alone (ekavihārī)",
           1
      ],
      [

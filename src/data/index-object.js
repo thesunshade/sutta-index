@@ -3214,6 +3214,7 @@ export const indexObject ={
                          "xref arahantship",
                          "xref brahmin",
                          "xref child arahants",
+                         "xref nibbāna",
                          "xref stages of enlightenment"
                     ]
                },
@@ -3391,7 +3392,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "things they cannot do": {
+               "cannot do": {
                     "locators": [
                          "MN76",
                          "AN9.7",
@@ -42735,12 +42736,18 @@ export const indexObject ={
                     "xrefs": []
                }
           },
-          "living alone": {
+          "living alone (ekavihārī)": {
                "": {
                     "locators": [],
                     "xrefs": [
                          "xref solitary life"
                     ]
+               },
+               "definition": {
+                    "locators": [
+                         "SN35.63"
+                    ],
+                    "xrefs": []
                }
           },
           "living as one pleases": {
@@ -45824,6 +45831,14 @@ export const indexObject ={
                "satipaṭṭhāna": {
                     "locators": [
                          "AN3.156"
+                    ],
+                    "xrefs": []
+               }
+          },
+          "Migajāla, Ven.": {
+               "asking about living alone": {
+                    "locators": [
+                         "SN35.63"
                     ],
                     "xrefs": []
                }
@@ -49306,6 +49321,7 @@ export const indexObject ={
                "": {
                     "locators": [],
                     "xrefs": [
+                         "xref arahants",
                          "xref nibbāna element (nibbānadhātu)"
                     ]
                },
@@ -69177,7 +69193,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "things they cannot do": {
+               "cannot do": {
                     "locators": [
                          "AN6.92",
                          "AN6.93",

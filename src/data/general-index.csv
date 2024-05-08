@@ -95,6 +95,8 @@ nibbāna		xref nibbāna element (nibbānadhātu)
 trees		xref banana tree
 trees		xref heartwood
 conversation		xref talk
+nibbāna		xref arahants
+arahants		xref nibbāna 
 wrong views		xref wrong views (diṭṭhigata)
 wrong views		xref wrong view (micchā diṭṭhi)
 wrong view (micchā diṭṭhi)		xref wrong views (diṭṭhigata)
@@ -584,7 +586,7 @@ cemetery contemplation		xref charnel ground contemplation (sivathikā)
 resolution		xref determination
 Mahā Māyā, queen		xref Māyā, queen Mahā
 “ehi bhikkhu”		xref “come, monk” ordination (ehi bhikkhu)
-living alone		xref solitary life
+living alone (ekavihārī)		xref solitary life
 bad monastics		xref monastics
 hell (niraya)		xref wrong views
 friendship		xref friends, bad
@@ -5958,7 +5960,7 @@ logic (takka)	can turn out two ways	MN76
 following a line of inquiry (vīmaṁsānucarita)	can turn out two ways	MN76
 eel-wriggling (amarāvikkhepa)	through stupidity	MN76
 spiritual path (brahmacariya)	successful	MN76
-arahants	things they cannot do	MN76
+arahants	cannot do	MN76
 killing	arahants cannot	MN76
 stealing	arahants cannot	MN76
 sexual intercourse	arahants cannot	MN76
@@ -10928,18 +10930,18 @@ doubt (vicikicchā)	blocking accomplishment in view	AN6.89
 sīlabbataparāmāsa	blocking accomplishment in view	AN6.89
 accomplishment in view (diṭṭhisampadā)	things given up	AN6.90
 accomplishment in view (diṭṭhisampadā)	things given up	AN6.91
-stream-enterers (sotāpanna)	things they cannot do	AN6.92
+stream-enterers (sotāpanna)	cannot do	AN6.92
 rebirth	stream-enterers cannot take eighth	AN6.92
 accomplishment in view (diṭṭhisampadā)	things someone who is cannot do	AN6.92
 disrespect (agārava)	stream-enterers cannot be disrespectful towards triple gem	AN6.92
 accomplishment in view (diṭṭhisampadā)	things someone who is cannot do	AN6.93
-stream-enterers (sotāpanna)	things they cannot do	AN6.93
+stream-enterers (sotāpanna)	cannot do	AN6.93
 heinous actions, five (ānantarika kamma)	stream-enterers cannot do	AN6.93
 accomplishment in view (diṭṭhisampadā)	things someone who is cannot do	AN6.94
-stream-enterers (sotāpanna)	things they cannot do	AN6.94
+stream-enterers (sotāpanna)	cannot do	AN6.94
 heinous actions, five (ānantarika kamma)	stream-enterers cannot do	AN6.94
 accomplishment in view (diṭṭhisampadā)	things someone who is cannot do	AN6.95
-stream-enterers (sotāpanna)	things they cannot do	AN6.95
+stream-enterers (sotāpanna)	cannot do	AN6.95
 views of other sects	cannot be taken up by stream-enterer	AN6.95
 views of other sects	cannot be taken up by one accomplished in view	AN6.95
 Buddhas	rarity of	AN6.96
@@ -12283,7 +12285,7 @@ countries (janapadapadesa)	helping to increase skillfulness	AN9.6
 people (puggala)	helping to increase skillfulness	AN9.6
 Sāriputta, Ven.	what to associate with	AN9.6
 Sutavā, wanderer	what an arahant can’t do	AN9.7
-arahants	things they cannot do	AN9.7
+arahants	cannot do	AN9.7
 killing	arahants cannot	AN9.7
 stealing	arahants cannot	AN9.7
 sexual intercourse	arahants cannot	AN9.7
@@ -12295,7 +12297,7 @@ hatred (dosa)	arahants cannot make prejudiced decisions	AN9.7
 delusion (moha)	arahants cannot make prejudiced decisions	AN9.7
 fear (bhaya)	arahants cannot make prejudiced decisions	AN9.7
 favouritism	arahants cannot make prejudiced decisions	AN9.8
-arahants	things they cannot do	AN9.8
+arahants	cannot do	AN9.8
 rejecting (paccakkhāti)	triple gem, arahant cannot	AN9.8
 rejecting (paccakkhāti)	training, arahant cannot	AN9.8
 arahants	cannot reject triple gem	AN9.8
@@ -15390,3 +15392,5 @@ grasping (upādāna)	complete understanding of all	SN35.60
 contact (phassa)	condition for feeling	SN35.60
 grasping (upādāna)	exhaustion of all	SN35.61
 sense bases	as impermanent, suffering, not self	SN35.62
+Migajāla, Ven.	asking about living alone	SN35.63
+living alone (ekavihārī)	definition	SN35.63

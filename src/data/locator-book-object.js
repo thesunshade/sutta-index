@@ -11980,7 +11980,7 @@ export const locatorBookObject ={
     [
       "MN76",
       "arahants",
-      "things they cannot do"
+      "cannot do"
     ],
     [
       "MN76",
@@ -23263,6 +23263,16 @@ export const locatorBookObject ={
       "SN35.62",
       "sense bases",
       "as impermanent, suffering, not self"
+    ],
+    [
+      "SN35.63",
+      "living alone (ekavihārī)",
+      "definition"
+    ],
+    [
+      "SN35.63",
+      "Migajāla, Ven.",
+      "asking about living alone"
     ],
     [
       "SN41.7",
@@ -42564,7 +42574,7 @@ export const locatorBookObject ={
     [
       "AN6.92",
       "stream-enterers (sotāpanna)",
-      "things they cannot do"
+      "cannot do"
     ],
     [
       "AN6.93",
@@ -42579,7 +42589,7 @@ export const locatorBookObject ={
     [
       "AN6.93",
       "stream-enterers (sotāpanna)",
-      "things they cannot do"
+      "cannot do"
     ],
     [
       "AN6.94",
@@ -42594,7 +42604,7 @@ export const locatorBookObject ={
     [
       "AN6.94",
       "stream-enterers (sotāpanna)",
-      "things they cannot do"
+      "cannot do"
     ],
     [
       "AN6.95",
@@ -42604,7 +42614,7 @@ export const locatorBookObject ={
     [
       "AN6.95",
       "stream-enterers (sotāpanna)",
-      "things they cannot do"
+      "cannot do"
     ],
     [
       "AN6.95",
@@ -49279,7 +49289,7 @@ export const locatorBookObject ={
     [
       "AN9.7",
       "arahants",
-      "things they cannot do"
+      "cannot do"
     ],
     [
       "AN9.7",
@@ -49339,17 +49349,17 @@ export const locatorBookObject ={
     [
       "AN9.8",
       "arahants",
+      "cannot do"
+    ],
+    [
+      "AN9.8",
+      "arahants",
       "cannot reject training"
     ],
     [
       "AN9.8",
       "arahants",
       "cannot reject triple gem"
-    ],
-    [
-      "AN9.8",
-      "arahants",
-      "things they cannot do"
     ],
     [
       "AN9.8",
