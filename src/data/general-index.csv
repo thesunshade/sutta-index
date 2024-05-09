@@ -174,7 +174,7 @@ animals		xref  rabbits
 animals		xref  sharks
 animals		xref  snakes
 animals		xref turtles
-animals		xref  viper
+animals		xref viper (āsīvisa)
 non-humans (amanussa)		xref  asuras
 non-humans (amanussa)		xref  goblins (pisāca)
 non-humans (amanussa)		xref  gods
@@ -597,7 +597,7 @@ psychic powers (iddhi)		xref past lives, knowledge of (pubbenivāsānussatiñā�
 body		xref mindfulness of body (kāyagatāsati)
 mindfulness of body (kāyagatāsati)		xref body
 sensual pleasures		xref sense pleasures (kāma, kāmaguṇa)
-brahmacariya		xref monastic life
+spiritual path (brahmacariya)		xref monastic life
 solitary Buddha		xref paccekabuddhas
 dreadlocked Ascetics		xref jaṭilā ascetics
 giving (dāna)		xref almsfood
@@ -649,8 +649,8 @@ concord		xref harmony (samagga)
 acquisitions (upadhi)		xref attachment
 attachments		xref acquisitions (upadhi)
 fields of contact, six (phassāyatana)		xref bases of contact, six (phassāyatana)
-snakes		xref viper
-viper		xref snakes
+snakes		xref viper (āsīvisa)
+viper (āsīvisa)		xref snakes
 presumption (sārambha)		xref aggression (sārambha)
 grasping (upādāna)		xref craving (taṇha)
 nonsensical speech		xref useless speech (samphappalāpa)
@@ -1778,8 +1778,8 @@ first verses of Buddha	housebuilder simile	Dhp153
 rebirth	painful	Dhp153
 house builder	simile of	Dhp153
 house builder	simile of	Dhp154
-brahmacariya	rejected in youth	Dhp155
-brahmacariya	rejected in youth	Dhp156
+spiritual path (brahmacariya)	rejected in youth	Dhp155
+spiritual path (brahmacariya)	rejected in youth	Dhp156
 old age (jarā)	like cranes in dried pond	Dhp155
 old age (jarā)	like spent arrows	Dhp156
 self-taming	difficult to do	Dhp159
@@ -2106,7 +2106,7 @@ renunciation (nekkhamma)	bliss of	Ud2.10
 painful feelings	enduring	Ud3.1
 past actions	results of	Ud3.1
 enduring (adhivāsana)	painful feelings	Ud3.1
-brahmacariya	not delighting in	Ud3.2
+spiritual path (brahmacariya)	not delighting in	Ud3.2
 motivation	bad	Ud3.2
 noise	Buddha dismisses noisy monks	Ud3.3
 socializing	dismissed by the Buddha for being noisy	Ud3.3
@@ -2360,8 +2360,8 @@ wrong views	resulting in hell	Iti32
 right view (sammā diṭṭhi)	resulting in heaven	Iti33
 prudence (ottāpa)	needed for enlightenment	Iti34
 keenness (ātāpi)	needed for enlightenment	Iti34
-brahmacariya	reason for	Iti35
-brahmacariya	reason for	Iti36
+spiritual path (brahmacariya)	purpose of, restraint and giving up	Iti35
+spiritual path (brahmacariya)	purpose of, direct knowledge and complete understanding	Iti36
 urgency (saṁvega)	groundwork for enlightenment	Iti37
 security (khema)	thoughts of by Buddha	Iti38
 seclusion (viveka, paviveka)	thoughts of by Buddha	Iti38
@@ -3421,7 +3421,7 @@ Sāriputta, Ven.	praise of	Thag21.1
 Aññā Koṇḍañña, Ven.	praise of	Thag21.1
 Moggallāna, Ven.	praise of	Thag21.1
 poetry	drunk on	Thag21.1
-Nigrodhakappa, Ven	Ven. Vaṅgīsa’s teacher	Thag21.1
+Nigrodhakappa, Ven.	Ven. Vaṅgīsa’s teacher	Thag21.1
 lust (rāga)	dried up like vegetables in pot	Thig1.1
 almsfood	free from debt	Thig1.2
 debt (iṇa)	almsfood free from	Thig1.2
@@ -4082,7 +4082,7 @@ armies	disputes over sense pleasures	MN13
 deadly pain	caused by sense pleasures	MN13
 torture	extensive list of	MN13
 bad rebirth (duggati)	danger of sense pleasures	MN13
-desire (chanda)	giving up ~ for sense pleasures	MN13
+desire (chanda)	giving up for sense pleasures	MN13
 beauty	gratification of form	MN13
 old age	drawback of form	MN13
 sickness	drawback of form	MN13
@@ -5412,7 +5412,7 @@ speech	harmful	MN58
 speech	pleasing	MN58
 chariots	simile of knowing parts	MN58
 Pañcakaṅga, master builder	feelings	MN59
-Udāyī, Ven	feelings	MN59
+Udāyī, Ven.	feelings	MN59
 feelings (vedanā)	three	MN59
 feelings (vedanā)	two	MN59
 feelings (vedanā)	neutral as peaceful pleasure	MN59
@@ -5622,7 +5622,7 @@ ten factors	of one worthy of gifts	MN65
 right knowledge (sammā ñāṇa)	person who possesses	MN65
 right freedom (sammā vimutti)	person who possesses	MN65
 noble eightfold path (ariya aṭṭhangika magga)	person who possesses	MN65
-Udāyī, Ven	reflecting on Buddha	MN66
+Udāyī, Ven.	reflecting on Buddha	MN66
 gratitude	towards the Buddha	MN66
 eating	in one part of the day	MN66
 monastic rules (vinaya)	Buddha creating	MN66
@@ -6776,7 +6776,7 @@ surgeons	Buddha as	MN105
 acquisitions (upadhi)	root of suffering	MN105
 bases of contact, six (phassāyatana)	restraint	MN105
 beverages	poisoned, avoiding, like restraint towards sense fields	MN105
-viper	venomous, avoiding, like restraint towards sense fields, like restraint towards sense fields	MN105
+viper (āsīvisa)	venomous, avoiding, like restraint towards sense fields, like restraint towards sense fields	MN105
 sense pleasures (kāma, kāmaguṇa)	impermanent	MN106
 sense pleasures (kāma, kāmaguṇa)	hollow	MN106
 sense pleasures (kāma, kāmaguṇa)	false	MN106
@@ -7569,11 +7569,11 @@ rebirth	of good people	MN135
 rebirth	of bad people	MN135
 rebirth	actions as cause for	MN135
 Potaliputta, wanderer	asking about actions	MN136
-Samiddh, Ven.	responding to Potaliputta	MN136
+Samiddhi, Ven.	responding to Potaliputta	MN136
 bodily action (kāyakamma)	no result (wrong view)	MN136
 verbal action (vacīkamma)	no result (wrong view)	MN136
 mental action (manokamma)	only mental actions are real (wrong view)	MN136
-Udāyī, Ven	giving wrong answer	MN136
+Udāyī, Ven.	giving wrong answer	MN136
 actions (kamma)	feelings resulting from	MN136
 feelings (vedanā)	caused by actions	MN136
 people (puggala)	four types of and when they experience results of actions	MN136
@@ -8852,7 +8852,7 @@ Sineru, king of mountains	one thousand in a world system	AN3.80
 Realm of the Four Great Kings (cātumahārājika)	one thousand in a world system	AN3.80
 brahmā realm (brahmaloka)	one thousand in a world system	AN3.80
 galaxies	size and number of	AN3.80
-Udāyī, Ven	questions Ven. Ānanada	AN3.80
+Udāyī, Ven.	questions Ven. Ānanada	AN3.80
 Ānanda, Ven.	Buddha predicts will become an arahant in this life	AN3.80
 ascetic, mendicant, sage	duties of	AN3.81
 monastic life	donkey pretending to be a cow like wrongly practicing monastic	AN3.82
@@ -9837,7 +9837,7 @@ walking meditation	benefits	AN5.29
 eating	walking meditation	AN5.29
 concentration (samādhi)	walking meditation	AN5.29
 Buddha, the	praise of	AN5.30
-Nāgita, Ven	Buddha’s attendant	AN5.30
+Nāgita, Ven.	Buddha’s attendant	AN5.30
 fame (yasas)	Buddha rejects	AN5.30
 food	ends up as excrement	AN5.30
 grieving	loss of family	AN5.30
@@ -10257,7 +10257,7 @@ harmony in Saṅgha (saṅghasāmaggī)	helps Dhamma continue	AN5.156
 generosity (cāga)	talk of	AN5.157
 Dhamma teaching	wrongly directed topics	AN5.157
 timidity (sārajja)	qualities that make one	AN5.158
-Udāyī, Ven	teaching Dhamma	AN5.159
+Udāyī, Ven.	teaching Dhamma	AN5.159
 Dhamma teaching	how to	AN5.159
 travel	urge to	AN5.160
 loving-kindness (mettā)	to abandon resentment	AN5.161
@@ -10270,7 +10270,7 @@ companionship	suitable qualifications	AN5.164
 questions, asking	reasons for asking	AN5.165
 Sāriputta, Ven.	reasons he asks questions	AN5.165
 stupidity	asking questions because of	AN5.165
-Udāyī, Ven	contradicting Ven. Sāriputta	AN5.166
+Udāyī, Ven.	contradicting Ven. Sāriputta	AN5.166
 cessation of perception and feeling (saññāvedayitanirodha)		AN5.166
 senior monastics	desirable qualities	AN5.166
 Upavāṇa, Ven.	qualities of senior monastics	AN5.166
@@ -10619,7 +10619,7 @@ restlessness and remorse (uddhaccakukkucca)	removing	AN6.27
 doubt (vicikicchā)	removing	AN6.27
 questions, asking	to overcome hindrances	AN6.27
 hindrances (nīvaraṇa)	visiting esteemed mendicants to overcome	AN6.27
-Udāyī, Ven	topics for recollection	AN6.29
+Udāyī, Ven.	topics for recollection	AN6.29
 recollection (anussati)	topics for	AN6.29
 recollection (anussati)	jhāna	AN6.29
 perception of light (ālokasaññā)	leading to knowledge and vision	AN6.29
@@ -10676,7 +10676,7 @@ earth element (pathavī dhātu)	in tree trunk	AN6.41
 fire element (tejo dhātu)	in tree trunk	AN6.41
 water element (āpo dhātu)	in tree trunk	AN6.41
 Sāriputta, Ven.	elements	AN6.41
-Nāgita, Ven	Buddha’s attendant	AN6.42
+Nāgita, Ven.	Buddha’s attendant	AN6.42
 fame (yasas)	Buddha rejects	AN6.42
 wilderness (arañña)	as safer than village	AN6.42
 villages (gāma)	as more dangerous than wilderness	AN6.42
@@ -12157,7 +12157,7 @@ unstained (nimmala)	term for Tathāgata (realized one)	AN8.85
 immaculate (vimala)	term for Tathāgata (realized one)	AN8.85
 knower (ñāṇī)	term for Tathāgata (realized one)	AN8.85
 freed (vimutta)	term for Tathāgata (realized one)	AN8.85
-Nāgita, Ven		AN8.86
+Nāgita, Ven.		AN8.86
 gods	not getting bliss of seclusion	AN8.86
 socializing	because of not getting bliss of seclusion	AN8.86
 villages (gāma)	as more dangerous than wilderness	AN8.86
@@ -12676,7 +12676,7 @@ formless attainments	factors blocking	AN9.41
 jhānas	factors blocking	AN9.41
 jhānas	without attaining, Buddha does not declare enlightenment	AN9.41
 formless attainments	without attaining, Buddha does not declare enlightenment	AN9.41
-Udāyī, Ven	asking about confinement	AN9.42
+Udāyī, Ven.	asking about confinement	AN9.42
 sense pleasures (kāma, kāmaguṇa)	confinement	AN9.42
 jhānas	as opening in confinement	AN9.42
 jhānas	factors of preventing further attainment	AN9.42
@@ -14763,7 +14763,7 @@ craving (taṇha)	ended by awakening factors	SN46.26
 penetration (nibbedha)	helped by awakening factors	SN46.28
 fetters (saṁyojana)	sense bases are things that fetter	SN46.29
 awakening factors, seven (bojjhaṅga)	give up things prone to being fettered	SN46.29
-Udāyī, Ven	love and respect for the Buddha caused going forth	SN46.30
+Udāyī, Ven.	love and respect for the Buddha caused going forth	SN46.30
 love (pema)	for the Buddha is helpful	SN46.30
 respect (gārava)	for the Buddha is helpful	SN46.30
 going forth (pabbajja)	out of love and respect for the Buddha	SN46.30
@@ -15049,7 +15049,7 @@ Moggallāna, Ven.	death of	SN47.14
 Sāriputta, Ven.	like large branch of tree of heartwood	SN47.14
 Moggallāna, Ven.	like large branch of tree of heartwood	SN47.14
 Dhamma	in brief	SN47.15
-Bāhiya, Ven	asking for teaching in brief	SN47.15
+Bāhiya, Ven.	asking for teaching in brief	SN47.15
 skillful qualities (kusala dhamma)	starting point	SN47.15
 virtue (sīla)	starting point	SN47.15
 views (diṭṭhi)	straight (ujuka)	SN47.15
@@ -15394,3 +15394,67 @@ grasping (upādāna)	exhaustion of all	SN35.61
 sense bases	as impermanent, suffering, not self	SN35.62
 Migajāla, Ven.	asking about living alone	SN35.63
 living alone (ekavihārī)	definition	SN35.63
+craving (taṇha)	as partner	SN35.63
+Dhamma teaching	in brief (saṅkhittena) 	SN35.64
+brief teaching (saṅkhittena)		xref Dhamma teaching
+gratification, danger, escape		xref gratification (assāda)
+gratification, danger, escape		xref danger (ādīnava)
+gratification, danger, escape		xref escape (nissaraṇa)
+Samiddhi, Ven.	asking about Māra	SN35.65
+Māra	definition	SN35.65
+sense bases	where Māra is	SN35.65
+beings (satta)	definition	SN35.66
+suffering (dukkha)	definition as sense bases	SN35.67
+world, the	definition as sense bases	SN35.68
+viper (āsīvisa)	falling on monk	SN35.69
+Upasena Vaṅgantaputta, Ven.	viper falling on	SN35.69
+enlightenment	declaration of	SN35.69
+faculties, sense (indriya)	impairment of	SN35.69
+Dhamma visible here and now (sandiṭṭhika)	definition, sense bases	SN35.70
+origin, ending (samudayañca atthaṅgamañca)	sense bases	SN35.71
+gratification, danger, escape	sense bases	SN35.71
+Buddha, the	visiting sick monks	SN35.74
+sickness	monks	SN35.74
+regret (vippaṭisāra)	having at death	SN35.74
+Dhamma teaching	purpose of	SN35.74
+Buddha, the	visiting sick monks	SN35.75
+sickness	monks	SN35.75
+regret (vippaṭisāra)	having at death	SN35.75
+Dhamma teaching	purpose of	SN35.75
+desire (chanda)	giving up for sense pleasures	SN35.76
+impermanence	give up desire for what is	SN35.76
+suffering (dukkha)	give up desire for what is	SN35.77
+not-self	give up desire for what is	SN35.78
+ignorance (avijjā)	giving up	SN35.79
+wanderers of other sects (aññatitthiya paribbājaka)	asking about purpose of spiritual life	SN35.81
+spiritual path (brahmacariya)	purpose of, understand suffering	SN35.81
+sense bases	as suffering	SN35.81
+world, the	definition, wears away/out	SN35.82
+Phagguṇa, Ven.	describing past Buddhas	SN35.83
+Buddhas	of the past, describing	SN35.83
+world, the	definition, wears away/out	SN35.84
+sense bases	wearing away/out 	SN35.84
+world, the	empty of self	SN35.85
+Sāriputta, Ven.	visiting Ven. Channa	SN35.87
+Mahā Cunda, Ven.	visiting Ven. Channa	SN35.87
+Channa, Ven.	illness and death of	SN35.87
+declaring enlightenment	testing the claim	SN35.87
+Sāriputta, Ven.	offering to care for sick monk	SN35.87
+suicide	of Ven. Channa	SN35.87
+sense bases (āyatana)	as not-self	SN35.87
+not-self	sense bases	SN35.87
+cessation (nirodha)	sense bases	SN35.87
+family	closeness of mendicant to	SN35.87
+Puṇṇa, Ven.	requesting teaching in brief	SN35.88
+Dhamma teaching	in brief (saṅkhittena)	SN35.88
+advice (ovāda)	in brief (saṅkhittena)	SN35.88
+delight (nandi)	origin of suffering	SN35.88
+suffering (dukkha)	delight (nandi) as origin	SN35.88
+suffering (dukkha)	origin of suffering	SN35.88
+sense objects	approving, welcoming, clinging to	SN35.88
+patience (khanti)	when being attacked	SN35.88
+enduring abuse	how to	SN35.88
+enemies	how to think about	SN35.88
+hatred (dosa)	giving up	SN35.88
+conversion	monk successfully converting people	SN35.88
+Bāhiya, Ven.	asking for teaching in brief	SN35.89
