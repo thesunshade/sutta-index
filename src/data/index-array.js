@@ -60486,6 +60486,11 @@ export const indexArray =[
      ],
      [
           "SN35.127",
+          "body parts",
+          "perception of ugliness"
+     ],
+     [
+          "SN35.127",
           "celibacy",
           "how to practice"
      ],
@@ -60511,8 +60516,143 @@ export const indexArray =[
      ],
      [
           "SN35.127",
+          "perception of ugliness",
+          "celibacy"
+     ],
+     [
+          "SN35.127",
+          "sense doors, guarding (indriyesu guttadvāra)",
+          "celibacy"
+     ],
+     [
+          "SN35.127",
           "sisters",
           "thinking of all women as"
+     ],
+     [
+          "SN35.129",
+          "elements (dhātu)",
+          "diversity of"
+     ],
+     [
+          "SN35.129",
+          "feelings (vedanā)",
+          "diversity of"
+     ],
+     [
+          "SN35.129",
+          "Ghosita, householder",
+          "asking about elements"
+     ],
+     [
+          "SN35.129",
+          "sense bases",
+          "diversity of feelings"
+     ],
+     [
+          "SN35.130",
+          "contact (phassa)",
+          "diversity of"
+     ],
+     [
+          "SN35.130",
+          "equanimity (upekkhā)",
+          "basis for"
+     ],
+     [
+          "SN35.130",
+          "feelings (vedanā)",
+          "diversity of"
+     ],
+     [
+          "SN35.131",
+          "Nakulapitā, householder",
+          "asking why some are fully enlightened"
+     ],
+     [
+          "SN35.132",
+          "Lohicca, Brahmin",
+          "asking about guarding senses"
+     ],
+     [
+          "SN35.132",
+          "ascetic practices",
+          "to generate profits"
+     ],
+     [
+          "SN35.132",
+          "Brahmā",
+          "path to attain"
+     ],
+     [
+          "SN35.132",
+          "brahmins",
+          "not guarding senses"
+     ],
+     [
+          "SN35.132",
+          "brahmins",
+          "of the past"
+     ],
+     [
+          "SN35.132",
+          "Mahā Kaccāna, Ven.",
+          "guarding senses"
+     ],
+     [
+          "SN35.132",
+          "noise",
+          "making noise around monks"
+     ],
+     [
+          "SN35.132",
+          "sense doors, guarding (indriyesu guttadvāra)",
+          "all is vain for one who does not"
+     ],
+     [
+          "SN35.132",
+          "shavlings (muṇḍakā)",
+          "accusation of being"
+     ],
+     [
+          "SN35.133",
+          "brahmin lady",
+          "of the Verahaccāni clan"
+     ],
+     [
+          "SN35.133",
+          "Dhamma teaching",
+          "to disrespectful people"
+     ],
+     [
+          "SN35.133",
+          "head",
+          "not covering while listening to Dhamma"
+     ],
+     [
+          "SN35.133",
+          "pain (dukkha)",
+          "when sense bases exist"
+     ],
+     [
+          "SN35.133",
+          "pleasure (sukha)",
+          "when sense bases exist"
+     ],
+     [
+          "SN35.133",
+          "seats",
+          "not sitting on high when listening to Dhamma"
+     ],
+     [
+          "SN35.133",
+          "shoes",
+          "not wearing when listening to Dhamma"
+     ],
+     [
+          "SN35.133",
+          "Udāyī, Ven.",
+          "not preaching to disrespectful person"
      ],
      [
           "SN41.7",

@@ -25,19 +25,6 @@ function App() {
 
   const [searchText, setSearchText] = useState("");
 
-  window.addEventListener("load", event => {
-    let hash = window.location.hash;
-    if (hash) {
-      let target = document.querySelector(hash);
-      if (target) {
-        // Scroll to the element with a slight delay to ensure it's loaded
-        setTimeout(() => {
-          target.scrollIntoView();
-        }, 100); // Adjust the timeout as needed
-      }
-    }
-  });
-
   // hide submenus when clicking outsid them
   document.addEventListener("click", e => {
     if (!e.target.classList.contains("letter") && !e.target.classList.contains("input-box")) {
