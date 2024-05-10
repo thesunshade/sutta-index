@@ -91,6 +91,13 @@ disputes	about Dhamma	SN56.9
 talk (kathā)	suitable and unsuitable	SN56.10
 speech	useless (tiraccha)	SN56.10
 oceans		xref Ganges river
+brief teaching (saṅkhittena)		xref Dhamma teaching
+gratification, danger, escape		xref gratification (assāda)
+gratification, danger, escape		xref danger (ādīnava)
+gratification, danger, escape		xref escape (nissaraṇa)
+dyad (dvaya)		xref duality (dvaya)
+conceit of inferiority (omāna)		xref comparing
+conceit of superiority (atimāna)		xref comparing
 nibbāna		xref nibbāna element (nibbānadhātu)
 trees		xref banana tree
 trees		xref heartwood
@@ -2498,6 +2505,7 @@ ascetics (samaṇa)	true	Iti103
 teachers	qualifications	Iti104
 requisites, four	source of craving	Iti105
 parents	honoring	Iti106
+brahmās	parents like	Iti106
 teachers	parents as first	Iti106
 requisites, four	provided by laypeople	Iti107
 mutual dependence	of monastics and laypeople	Iti107
@@ -4518,7 +4526,7 @@ air element (vāyo dhātu)	vanishes	MN28
 buildings	space becomes when enclosed	MN28
 space (ākāsa)	becomes form when enclosed	MN28
 eyes	arising of eye consciousness	MN28
-sense bases	internal and external, consciousness	MN28
+sense bases (āyatana)	internal and external, consciousness	MN28
 consciousness (viññāṇa)	as dependently arisen	MN28
 dependent origination (paṭiccasamuppāda)	“One who sees…”	MN28
 aggregates (khandha)	dependently arisen	MN28
@@ -5668,6 +5676,7 @@ crocodiles	simile for gluttony	MN67
 gluttony (rasāda)	like crocodiles	MN67
 eating	and monastic rules	MN67
 sense pleasures (kāma, kāmaguṇa)	danger of	MN67
+disrobing	sense pleasures	MN67
 whirlpools	simile for danger of sense pleasures	MN67
 sense pleasures (kāma, kāmaguṇa)	like whirlpools	MN67
 women	danger for monks	MN67
@@ -8286,7 +8295,7 @@ giving (dāna)	in a poorly explained teaching	AN1.322
 giving (dāna)	moderation in	AN1.322
 giving (dāna)	moderation in	AN1.323
 receiving gifts	recipient should know moderation	AN1.323
-laziness (kosajja)		AN1.325
+laziness (kusīta)	live in suffering	AN1.325
 rebirth	Buddha doesn’t approve	AN1.328-332
 rebirth	like small bit of excrement	AN1.328-332
 finger-snap	rebirth not approved for even a fingersnap	AN1.328-332
@@ -8294,8 +8303,8 @@ punishment (daṇḍa)	as motivation to do good	AN2.1
 hell (niraya)	as motivation to do good	AN2.1
 lay life	duty to support saṅgha	AN2.2
 attachments	difficulty of letting go of	AN2.2
-self-reflection		AN2.3
-self-reflection		AN2.4
+self-reflection	mortifying	AN2.3
+self-reflection	not mortifying	AN2.4
 determination	not to move until enlightened	AN2.5
 skillful qualities (kusala dhamma)	not being satisfied with	AN2.5
 energy (vīriya)	never stop trying	AN2.5
@@ -8303,7 +8312,7 @@ disillusionment (nibbidā)	with things that can fetter	AN2.6
 conscience and prudence (hiri ottappa)	lack of as dark	AN2.7
 conscience and prudence (hiri ottappa)	as bright	AN2.8
 conscience and prudence (hiri ottappa)	protectors of the world	AN2.9
-rainy season		AN2.10
+rainy season	two entries	AN2.10
 powers (bala)	reflection, development	AN2.11
 reflection (paṭisaṅkhā)	power of	AN2.11
 development (bhāvanā)	power of	AN2.11
@@ -8327,7 +8336,7 @@ Dhamma	decline of in future	AN2.20
 Dhamma	continuation of, factors leading to	AN2.20
 mistakes	realizing when you have made one	AN2.21
 confession	accepting	AN2.21
-fools (bāla)		AN2.21
+fools (bāla)	knowing mistakes and accepting confession	AN2.21
 Buddha, the	misrepresenting	AN2.22
 Dhamma teaching	misrepresenting Dhamma	AN2.23
 Buddha, the	misrepresenting	AN2.23
@@ -8620,29 +8629,28 @@ wisdom (paññā)	wide	AN3.30
 parents	honoring	AN3.31
 teachers	parents as first	AN3.31
 brahmās	parents like	AN3.31
-brahmās	parents like	Iti106
-Way to the Beyond (Pārāyana)		AN3.32
-heart’s release (cetovimutti)		AN3.32
-freedom by wisdom (paññāvimutti)		AN3.32
+Way to the Beyond (Pārāyana)	Questions of Puṇṇaka 	AN3.32
+heart’s release (cetovimutti)	stilling of all activities	AN3.32
+freedom by wisdom (paññāvimutti)	stilling of all activities	AN3.32
 Ānanda, Ven.	asking about cetovimutti and paññāvimutti	AN3.32
-Way to the Beyond (Pārāyana)		AN3.33
-heart’s release (cetovimutti)		AN3.33
-freedom by wisdom (paññāvimutti)		AN3.33
+Way to the Beyond (Pārāyana)	Questions of Udaya 	AN3.33
+heart’s release (cetovimutti)	I making	AN3.33
+freedom by wisdom (paññāvimutti)	I making	AN3.33
 causes (nidāna)	for actions	AN3.34
-unwholesome roots (lobha, dosa, moha)		AN3.34
-wholesome roots (alobha, adosa, amoha)		AN3.34
+unwholesome roots (lobha, dosa, moha)	give rise to deeds	AN3.34
+wholesome roots (alobha, adosa, amoha)	give rise to deeds	AN3.34
 seeds	simile for destruction of deeds	AN3.34
 Hatthaka of Āḷavī, householder	asks the Buddha if he slept well	AN3.35
 sleep	sleeping well	AN3.35
 unwholesome roots (rāga, dosa, moha)	cause of bad sleep	AN3.35
 Buddha, the	sleeping well	AN3.35
 hell (niraya)	judgment by King Yama	AN3.36
-divine messengers (devadūta)		AN3.36
+divine messengers (devadūta)	description of	AN3.36
 old person	as divine messenger	AN3.36
 sick person	as divine messenger	AN3.36
 corpse	as divine messenger	AN3.36
 hell (niraya)	torture in	AN3.36
-Yama, King		AN3.36
+Yama, King	questioning beings reborn in hell	AN3.36
 Four Great Kings, the (catumahārāja)	searching on uposatha for people making merit	AN3.37
 uposatha	Four Great Kings searching for people making merit	AN3.37
 Sakka, Lord of Gods	praising uposatha	AN3.37
@@ -9371,6 +9379,7 @@ crocodiles	simile for gluttony	AN4.122
 gluttony (rasāda)	like crocodiles	AN4.122
 eating	and monastic rules	AN4.122
 sense pleasures (kāma, kāmaguṇa)	danger of	AN4.122
+disrobing	sense pleasures	AN4.122
 whirlpools	simile for danger of sense pleasures	AN4.122
 sense pleasures (kāma, kāmaguṇa)	like whirlpools	AN4.122
 women	danger for monks	AN4.122
@@ -10405,7 +10414,7 @@ gods	wish to be reborn as through observances	AN5.206
 porridge (yāgu)	benefits of	AN5.207
 hunger	porridge	AN5.207
 digestion	porridge	AN5.207
-brushing teeth		AN5.208
+brushing teeth	drawback of not	AN5.208
 reciting Dhamma	with a drawn-out, singing sound	AN5.209
 singing	reciting with singing sound	AN5.209
 sleep	falling asleep unmindfully	AN5.210
@@ -11434,7 +11443,7 @@ adze handle	simile for gradual progress	AN7.71
 gradual training (anupubbasikkhā)	like changes in adze handle, hard to see progress day by day	AN7.71
 ships	simile for gradual progress	AN7.71
 ropes	simile for gradual progress	AN7.71
-bonfires	embracing, simile for embracing woman	AN7.72
+bonfires	simile for embracing woman	AN7.72
 bad monastics		AN7.72
 deadly pain	better than bad actions that cause bad rebirth	AN7.72
 suffering (dukkha)	better than bad actions that cause bad rebirth	AN7.72
@@ -13202,7 +13211,7 @@ listening to Dhamma	not getting to leads to decline	AN10.55
 memorizing	not memorizing leads to decline	AN10.55
 mind, skilled in ones own (sacittapariyāyakusala)	definition	AN10.55
 self-reflection	how to	AN10.55
-cemetery contemplation	culminates in deathless	AN10.57
+charnel ground contemplation	culminates in deathless	AN10.57
 wanderers of other sects (aññatitthiya paribbājaka)	answering their questions	AN10.58
 questions, answering	from wanderers of other sects	AN10.58
 desire (chanda)	all things are rooted in	AN10.58
@@ -15341,7 +15350,7 @@ tastes (rasa)	impermanent	SN35.4
 touches (phoṭṭhabba)	impermanent	SN35.4
 thoughts (dhamma)	impermanent	SN35.4
 learned noble disciple (sutavā ariyasāvaka)	disillusioned with sense bases	SN35.4
-sense bases	past, present, future are impermanent	SN35.7
+sense bases (āyatana)	past, present, future are impermanent	SN35.7
 past, present, future	sense bases impermanent in	SN35.7
 gratification, danger, escape	sense bases	SN35.13
 Bodhisatta	seeing gratification, danger, escape	SN35.13
@@ -15396,10 +15405,6 @@ Migajāla, Ven.	asking about living alone	SN35.63
 living alone (ekavihārī)	definition	SN35.63
 craving (taṇha)	as partner	SN35.63
 Dhamma teaching	in brief (saṅkhittena) 	SN35.64
-brief teaching (saṅkhittena)		xref Dhamma teaching
-gratification, danger, escape		xref gratification (assāda)
-gratification, danger, escape		xref danger (ādīnava)
-gratification, danger, escape		xref escape (nissaraṇa)
 Samiddhi, Ven.	asking about Māra	SN35.65
 Māra	definition	SN35.65
 sense bases	where Māra is	SN35.65
@@ -15458,3 +15463,91 @@ enemies	how to think about	SN35.88
 hatred (dosa)	giving up	SN35.88
 conversion	monk successfully converting people	SN35.88
 Bāhiya, Ven.	asking for teaching in brief	SN35.89
+darts (salla)	drawn out, sense bases	SN35.90
+conceiving (maññita)	sense bases	SN35.90
+conceiving (maññita)	aggregates, elements, sense bases	SN35.91
+duality (dvaya)	internal and external sense bases	SN35.92
+duality (dvaya)	consciousness dependent on	SN35.93
+consciousness (viññāṇa)	dependent on duality	SN35.93
+contact (phassa)	meeting of consciousness and internal and external base	SN35.93
+sense bases	tamed, guarded, etc.	SN35.94
+Māluṅkyaputta, Ven.	asking for Dhamma in brief	SN35.95
+seen, heard, thought, known	not grasping	SN35.95
+sense contact	clinging	SN35.95
+sense contact	mindfulness	SN35.95
+desire (chanda)	for things never sensed	SN35.95
+greed (rāga)	for things never sensed	SN35.95
+mindfulness (sati)	lost when focusing on pleasant features	SN35.95
+covetousness (abhijjhā)	from sense objects	SN35.95
+nibbāna	close to when mindful	SN35.95
+decline (parihāna)	person liable to, definition	SN35.96
+heedlessness (pamāda)	sense bases	SN35.97
+joy (pāmojja)	leads to rapture	SN35.97
+rapture (pīti)	leads to tranquility	SN35.97
+tranquillity (passaddhi)	leads to bliss	SN35.97
+dependent origination	sense bases	SN35.97
+heedfulness (appamāda)	sense bases	SN35.97
+sense restraint (indriyasaṁvara)	definition	SN35.98
+concentration (samādhi)	understanding sense faculties	SN35.99
+sense bases	understanding leads to concentration	SN35.99
+seclusion (paṭisallīna, vivitta)	understanding sense faculties	SN35.100
+not yours	sense bases	SN35.101
+not yours	sense bases	SN35.102
+Uddaka Rāmaputta	knowledge master claim	SN35.103
+knowledge master (vedagu)	sense bases	SN35.103
+boil (gaṇḍa)	term for body	SN35.103
+security from bondage (yogakkhemī)	sense bases	SN35.104
+meditation (yoga)	for security from bondage	SN35.104
+Tathāgatas	secure from bondage	SN35.104
+grasping (upādāna)	sense bases	SN35.105
+grasping (upādāna)	what is impermanent	SN35.105
+dependent origination	sense bases	SN35.106
+world, the	origin and ending	SN35.107
+dependent origination	sense bases	SN35.107
+comparing	better, equal, worse	SN35.108
+fetters (saṁyojana)	sense bases	SN35.109
+grasping (upādāna)	sense bases	SN35.110
+directly knowing (abhijānanta)	internal sense bases	SN35.111
+full understanding (parijānanta)	internal sense bases	SN35.111
+directly knowing (abhijānanta)	external sense bases	SN35.112
+full understanding (parijānanta)	external sense bases	SN35.112
+fundamentals of the spiritual life (ādibrahmacariya)	sense bases	SN35.113
+Māra	trapped by Māra’s snare	SN35.114
+world, the	traveling to the end of	SN35.116
+Ānanda, Ven.	explaining brief statement	SN35.116
+world, the	definition as sense bases	SN35.116
+world, the	end of	SN35.116
+Bodhisatta	sense pleasures and	SN35.117
+Ānanda, Ven.	explaining brief statement	SN35.117
+sense bases (āyatana)	cessation of six	SN35.117
+Sakka, Lord of Gods	asking why some are fully enlightened	SN35.118
+nibbāna	not grasping at sense bases	SN35.119
+Pañcasikha, gandhabba	asking why some are fully enlightened	SN35.119
+disrobing	sense pleasures	SN35.120
+overeating	disrobing	SN35.120
+sense bases	disrobing from not guarding	SN35.120
+wakefulness (jāgara)	lack of and disrobing	SN35.120
+wakefulness (jāgara)	definition	SN35.120
+eating in moderation	definition	SN35.120
+Rāhula, Ven.	attaining enlightenment	SN35.121
+gods	in audience of Dhamma talk	SN35.121
+sense bases (āyatana)	as impermanent, suffering, not self	SN35.121
+impermanence	sense bases	SN35.121
+suffering (dukkha)	sense bases	SN35.121
+not-self	sense bases	SN35.121
+feelings (vedanā)	as impermanent, suffering, not self	SN35.121
+perceptions (saññā)	as impermanent, suffering, not self	SN35.121
+formations (saṅkhāra)	as impermanent, suffering, not self	SN35.121
+consciousness (viññāṇa)	as impermanent, suffering, not self	SN35.121
+disillusionment (nibbidā)	sense bases	SN35.121
+contact (phassa)	as impermanent, suffering, not self	SN35.121
+Ugga of Vesālī, householder	asking why some are fully enlightened	SN35.124
+Uggata of Hatthigāmaka, householder	asking why some are fully enlightened	SN35.125
+Upāli, householder	asking why some are fully enlightened	SN35.126
+celibacy		xref spiritual path (brahmacariya)
+Piṇḍola Bhāradvāja, Ven.	asked about celibacy	SN35.127
+Udena, King	asking about celibacy	SN35.127
+mothers	thinking of all women as	SN35.127
+sisters	thinking of all women as	SN35.127
+daughters	thinking of all women as	SN35.127
+celibacy	how to practice	SN35.127
