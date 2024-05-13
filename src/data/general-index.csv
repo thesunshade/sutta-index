@@ -181,7 +181,7 @@ animals		xref  rabbits
 animals		xref  sharks
 animals		xref  snakes
 animals		xref turtles
-animals		xref viper (āsīvisa)
+animals		xref vipers (āsīvisa)
 non-humans (amanussa)		xref  asuras
 non-humans (amanussa)		xref  goblins (pisāca)
 non-humans (amanussa)		xref  gods
@@ -656,8 +656,8 @@ concord		xref harmony (samagga)
 acquisitions (upadhi)		xref attachment
 attachments		xref acquisitions (upadhi)
 fields of contact, six (phassāyatana)		xref bases of contact, six (phassāyatana)
-snakes		xref viper (āsīvisa)
-viper (āsīvisa)		xref snakes
+snakes		xref vipers (āsīvisa)
+vipers (āsīvisa)		xref snakes
 presumption (sārambha)		xref aggression (sārambha)
 grasping (upādāna)		xref craving (taṇha)
 nonsensical speech		xref useless speech (samphappalāpa)
@@ -2656,6 +2656,8 @@ monastic life	advice for	Snp2.13
 alms gathering practice	at proper times	Snp2.14
 requisites, four	using after reflecting	Snp2.14
 lay life	duty to support saṅgha	Snp2.14
+sexual misconduct, giving up	if you can’t be celibate	Snp2.14
+celibacy	if you can’t be celibate	Snp2.14
 monastic life	advice for	Snp2.14
 lay life	advice for	Snp2.14
 uposatha	lay practice	Snp2.14
@@ -3260,7 +3262,7 @@ anger (kodha)	keep in check	Thag6.12
 anger (kodha)	remove with simile of the saw	Thag6.12
 death (maraṇa)	inevitability of	Thag6.13
 death (maraṇa)	coming like a wall of flame	Thag6.13
-opportunities	lost 	Thag6.13
+opportunities (khaṇa)	lost 	Thag6.13
 time	not wasting	Thag6.13
 death (maraṇa)	inevitability of	Thag6.13
 women	danger for monks	Thag6.14
@@ -3433,7 +3435,7 @@ Nigrodhakappa, Ven.	Ven. Vaṅgīsa’s teacher	Thag21.1
 lust (rāga)	dried up like vegetables in pot	Thig1.1
 almsfood	free from debt	Thig1.2
 debt (iṇa)	almsfood free from	Thig1.2
-opportunities	missing	Thig1.5
+opportunities (khaṇa)	missing	Thig1.5
 friendship	appreciating	Thig1.8
 marriage	disenchantment with	Thig1.11
 lay life	disenchantment with	Thig1.11
@@ -3556,7 +3558,8 @@ sense pleasures (kāma, kāmaguṇa)	like dream	Thig16.1
 saṁsāra	long for fools	Thig16.1
 oceans	of tears, simile for saṁsara	Thig16.1
 saṁsāra	similes for	Thig16.1
-turtles	with yoke, like rebirth in human world is rare	Thig16.1
+turtles	simile for rebirth in human world; yoke	Thig16.1
+yokes	simile for rebirth in human world rare	Thig16.1
 sense pleasures (kāma, kāmaguṇa)	like a grass torch burns holder	Thig16.1
 dogs	with chain like person attached to sensual pleasures	Thig16.1
 gifts, specific types of	monastery	Thig16.1
@@ -6785,7 +6788,7 @@ surgeons	Buddha as	MN105
 acquisitions (upadhi)	root of suffering	MN105
 bases of contact, six (phassāyatana)	restraint	MN105
 beverages	poisoned, avoiding, like restraint towards sense fields	MN105
-viper (āsīvisa)	venomous, avoiding, like restraint towards sense fields, like restraint towards sense fields	MN105
+vipers (āsīvisa)	venomous, avoiding, like restraint towards sense fields, like restraint towards sense fields	MN105
 sense pleasures (kāma, kāmaguṇa)	impermanent	MN106
 sense pleasures (kāma, kāmaguṇa)	hollow	MN106
 sense pleasures (kāma, kāmaguṇa)	false	MN106
@@ -7439,7 +7442,8 @@ animal realm	gluttony as cause for rebirth in	MN129
 brahmins	running to a burnt offering	MN129
 gluttony (rasāda)	leading to rebirth in animal realm	MN129
 animal realm	suffering in	MN129
-turtles	with yoke, simile of being in lower world reborn as human	MN129
+turtles	simile for beings in lower world reborn as human; turtle	MN129
+yokes	simile for beings in lower world reborn as human; yoke	MN129
 underworld (vinipāta)	no good conduct in	MN129
 fools (bāla)	reborn in low families	MN129
 fools (bāla)	reborn in difficult human life	MN129
@@ -8679,7 +8683,7 @@ going forth (pabbajja)	recommended by the wise	AN3.45
 parents	caring for recommended by the wise	AN3.45
 merit (puñña)	by supporting mendicants	AN3.46
 characteristics (lakkhaṇa)	of conditioned phenomena	AN3.47
-arising, vanishing, and change (uppādo, vayo, aññathatta)		AN3.47
+arising, vanishing, and change (uppādo, vayo, aññathatta)	characteristics of conditioned	AN3.47
 conditioned (saṅkhata)	characteristics	AN3.47
 unconditioned (asaṅkhata)	characteristics	AN3.47
 sal trees	supported by Himalayas like family supported by head with faith	AN3.48
@@ -8728,7 +8732,7 @@ going forth (pabbajja)	benefiting the world	AN3.60
 Ānanda, Ven.	interrogating a brahmin about beneficial practice	AN3.60
 psychic powers (iddhi)	miracle of	AN3.60
 miracles (pāṭihāriya)	three	AN3.60
-miracle of instruction (anusāsanīpāṭihāriya)		AN3.60
+miracle of instruction (anusāsanīpāṭihāriya)	best	AN3.60
 mind reading	description of	AN3.60
 Dhamma teaching	as best kind of miracle	AN3.60
 Dhamma	as irrefutable	AN3.61
@@ -8737,7 +8741,7 @@ views of other sects	all results are because of God	AN3.61
 views of other sects	all results are because of chance	AN3.61
 Dhamma	various aspects of	AN3.61
 elements (dhātu)	six	AN3.61
-mental preoccupations (manopavicāra)		AN3.61
+mental preoccupations (manopavicāra)	eighteen	AN3.61
 dependent origination (paṭiccasamuppāda)	as second noble truth	AN3.61
 perils (bhaya)	that separate mother and child	AN3.62
 noble eightfold path (ariya aṭṭhangika magga)	as practice to remove perils of old age, etc	AN3.62
@@ -8795,7 +8799,8 @@ heart’s release by loving-kindness (mettā cetovimutti) 	cause for giving up
 hatred (dosa)	giving up	AN3.68
 proper attention (yoniso manasikāra)	cause for giving up delusion	AN3.68
 false speech	caused by unwholesome root	AN3.69
-speaking truth		AN3.69
+creepers	simile for bad qualities	AN3.69
+speaking truth	caused by wholesome root	AN3.69
 speech	Dhamma	AN3.69
 speech	non-Dhamma	AN3.69
 speech	timely or untimely	AN3.69
@@ -8805,7 +8810,6 @@ unwholesome roots (lobha, dosa, moha)	like a creeper chokes a tree	AN3.69
 wholesome roots (alobha, adosa, amoha)	causing wholesome activities	AN3.69
 accusations	responding to	AN3.69
 creepers	simile for unwholesome roots	AN3.69
-uposatha		AN3.70
 Visākhā, Migara’s mother	observing the uposatha	AN3.70
 uposatha	of the cowherd	AN3.70
 uposatha	thinking of tomorrow’s meal	AN3.70
@@ -8837,7 +8841,7 @@ family	should be established in faith	AN3.75
 confidence (aveccappasāda)	noble disciple with will not change	AN3.75
 noble disciple (ariya sāvaka)	will not be reborn in lower worlds	AN3.75
 triple gem	qualities of	AN3.75
-becoming (bhava)		AN3.76
+becoming (bhava)	definition	AN3.76
 actions (kamma)	as field	AN3.76
 consciousness (viññāṇa)	as seed	AN3.76
 craving (taṇha)	as moisture	AN3.76
@@ -8852,7 +8856,7 @@ reputation	gained by generosity	AN3.79
 generosity (cāga)	as cause for good reputation	AN3.79
 reputation	like fragrance that goes against wind	AN3.79
 good people (sappurisa)	praised by gods	AN3.79
-Sikhī Buddha		AN3.80
+Sikhī Buddha	and disciple	AN3.80
 Abhibhū, disciple of Sikhi Buddha	voice spread through galaxy	AN3.80
 world system (lokadhātu)	size	AN3.80
 Jambudīpa (India)	one thousand in a world system	AN3.80
@@ -8868,14 +8872,14 @@ mendicants	has duties like a farmer	AN3.83
 monastic life	wrongly practiced	AN3.82
 monastic rules (vinaya)	monk having difficulty following rules told to train in three things	AN3.84
 trainee (sekha)	definition	AN3.85
-higher ethics, higher mind, higher wisdom		AN3.85
+higher ethics, higher mind, higher wisdom	training of trainee	AN3.85
 monastic rules (vinaya)	breaking rules	AN3.86
 monastic rules (vinaya)	not a waste	AN3.86
 monastic rules (vinaya)	partial practice, partial success	AN3.86
 higher ethics, higher mind, higher wisdom	relating to training rules	AN3.86
 monastic rules (vinaya)	fundamental rules	AN3.86
 monastic rules (vinaya)	connection to stages of enlightenment	AN3.86
-one-seeder (ekabījī)		AN3.87
+one-seeder (ekabījī)	one more human existence	AN3.87
 stages of enlightenment	in detail	AN3.87
 monastic rules (vinaya)	breaking rules	AN3.87
 monastic rules (vinaya)	not a waste	AN3.87
@@ -8892,7 +8896,7 @@ mistakes	criticizing the Buddha	AN3.91
 asking forgiveness	for criticizing the Buddha	AN3.91
 monastic rules (vinaya)	Buddha giving a talk on	AN3.91
 farming	like mendicant practicing	AN3.92
-zeal (chanda)		AN3.92
+zeal (chanda)	for undertaking training	AN3.92
 wishing (patthana)	doesn’t bring results	AN3.92
 rag-robe wearing	of other sects	AN3.93
 almsfood	of other sects	AN3.93
@@ -8900,7 +8904,7 @@ forest dwelling	of other sects	AN3.93
 seclusion	defined as virtue, right view, ending defilements	AN3.93
 fetters (saṁyojana)	three lower	AN3.94
 assemblies	three	AN3.95
-harmony in Saṅgha (saṅghasāmaggī)		AN3.95
+harmony in Saṅgha (saṅghasāmaggī)	definition	AN3.95
 disputes	in the Saṅgha	AN3.95
 heart’s release by rejoicing (muditā cetovimutti)	living in harmony	AN3.95
 beauty	as monastic’s virtue	AN3.96
@@ -11725,14 +11729,14 @@ bases of psychic power (iddhipāda)	arahant has well developed	AN8.28
 faculties, spiritual (indriya)	arahant has well developed	AN8.28
 awakening factors, seven (bojjhaṅga)	arahant has well developed	AN8.28
 noble eightfold path (ariya aṭṭhangika magga)	arahant has well developed	AN8.28
-opportunities	inopportune for spiritual practice	AN8.29
+opportunities (khaṇa)	inopportune for spiritual practice	AN8.29
 hell (niraya)	lost opportunity if born in hell when Buddha is alive	AN8.29
 animal realm	lost opportunity if born in hell when Buddha is alive	AN8.29
 ghost realm	lost opportunity if born in hell when Buddha is alive	AN8.29
 gods, long lived order (dīghāyukaṁ devanikāya)	lost opportunity if born in hell when Buddha is alive	AN8.29
 wrong views	lost opportunity having when a Buddha is in the world	AN8.29
 stupidity	lost opportunity being when a Buddha is in the world	AN8.29
-opportunities	one good	AN8.29
+opportunities (khaṇa)	one good	AN8.29
 spiritual path (brahmacariya)	opportunity to practice	AN8.29
 Buddhas	rarity of	AN8.29
 regret	when missing opportunity to practice	AN8.29
@@ -14440,7 +14444,7 @@ right livelihood (sammā ājīva)	definition	SN45.8
 right effort (sammā vāyāma)	definition	SN45.8
 right mindfulness (sammā sati)	definition	SN45.8
 right concentration (sammā samadhi)	definition	SN45.8
-spike	simile for wrong view and right view	SN45.9
+spikes	simile for wrong view and right view	SN45.9
 right view (sammā diṭṭhi)	like spike of rice pointing right way	SN45.9
 wrong view (micchā diṭṭhi)	like spike of rice pointing the wrong way	SN45.9
 rice	spike of, simile for wrong view and right view	SN45.9
@@ -15411,7 +15415,7 @@ sense bases	where Māra is	SN35.65
 beings (satta)	definition	SN35.66
 suffering (dukkha)	definition as sense bases	SN35.67
 world, the	definition as sense bases	SN35.68
-viper (āsīvisa)	falling on monk	SN35.69
+vipers (āsīvisa)	falling on monk	SN35.69
 Upasena Vaṅgantaputta, Ven.	viper falling on	SN35.69
 enlightenment	declaration of	SN35.69
 faculties, sense (indriya)	impairment of	SN35.69
@@ -15579,3 +15583,237 @@ shoes	not wearing when listening to Dhamma	SN35.133
 seats	not sitting on high when listening to Dhamma	SN35.133
 pleasure (sukha)	when sense bases exist	SN35.133
 pain (dukkha)	when sense bases exist	SN35.133
+trainee (sekha)	work left to do, sense bases	SN35.134
+bases of contact, six (phassāyatana)	some have work to do	SN35.134
+heedfulness (appamāda)	fruit of	SN35.134
+opportunities (khaṇa)	fortunate	SN35.135
+hell (niraya)	called the six fields of contact	SN35.135
+heaven (sagga)	called the six fields of contact	SN35.135
+sense bases	ending causes suffering	SN35.136
+origin, ending (samudayañca atthaṅgamañca)	sense bases	SN35.136
+gratification, danger, escape	sense bases	SN35.136
+identity (sakkāya)	cessation of is happiness	SN35.136
+Dhamma	hard to understand	SN35.136
+not yours	sense bases	SN35.138
+Jeta’s Grove	people taking sticks and leaves, simile for not belonging to a self	SN35.138
+grass	people taking, simile for not belonging to a self	SN35.138
+sticks	people taking, simile for not belonging to a self	SN35.138
+leaves	people taking, simile for not belonging to a self	SN35.138
+not yours	sense bases	SN35.139
+sense bases	causes are impermanent	SN35.140
+sense bases	causes are impermanent	SN35.141
+actions (kamma)	old and new actions	SN35.146
+sense bases	as old actions	SN35.146
+actions (kamma)	cessation of	SN35.146
+noble eightfold path (ariya aṭṭhangika magga)	leads to cessation of actions	SN35.146
+actions (kamma)	path to the cessation of	SN35.146
+nibbāna	impermanence conducive to	SN35.147
+sense bases	seeing as impermanent	SN35.147
+impermanence	conducive to nibbāna	SN35.147
+suffering (dukkha)	conducive to nibbāna	SN35.148
+nibbāna	suffering conducive to	SN35.148
+sense bases	seeing as suffering	SN35.148
+not-self	conducive to nibbāna	SN35.149
+sense bases	seeing as not-self	SN35.149
+nibbāna	not-self conducive to	SN35.149
+students	metaphor for bad qualities	SN35.151
+teachers	metaphor for bad qualities	SN35.151
+spiritual path (brahmacariya)	purpose of, understand suffering, sense bases	SN35.152
+faith (saddhā)	enlightenment beyond	SN35.153
+preference (ruci)	enlightenment beyond	SN35.153
+oral tradition (anussava)	enlightenment beyond	SN35.153
+reasoned contemplation (ākāraparivitakka)	enlightenment beyond	SN35.153
+acceptance of a view after consideration (diṭṭhinijjhānakkhanti)	enlightenment beyond	SN35.153
+self-reflection	based on sense bases	SN35.153
+sense bases		xref faculties, sense (indriya)
+faculties, sense (indriya)		xref sense bases
+occupations		xref fisherman
+accomplishment in faculties (indriyasampanna)	definition	SN35.154
+faculties, sense (indriya)	seeing rise and fall of	SN35.154
+Dhamma speaker (dhammakathika)	definition	SN35.155
+Dhamma teaching	for disillusionment, etc.	SN35.155
+right view (sammā diṭṭhi)	seeing impermanence in sense bases	SN35.156
+right view (sammā diṭṭhi)	seeing impermanence in sense bases	SN35.157
+disillusionment (nibbidā)	with sense bases	SN35.158
+proper attention (yoniso manasikāra)	sense bases	SN35.158
+proper attention (yoniso manasikāra)	sense bases	SN35.159
+concentration (samādhi)	seeing things as they truly are	SN35.160
+truly is, as it (yathābhūta)	knowing sense bases	SN35.160
+seclusion (paṭisallīna, vivitta)	seeing things as they truly are	SN35.161
+Mahā Koṭṭhita, Ven.	asking for teaching in brief	SN35.162
+Mahā Koṭṭhita, Ven.	asking for teaching in brief	SN35.163
+knowing and seeing	sense bases to give up wrong view	SN35.165
+wrong view (micchā diṭṭhi)	knowing and seeing sense bases to give up wrong view	SN35.165
+sense bases	knowing and seeing to give up wrong view	SN35.165
+feelings (vedanā)	knowing and seeing to give up wrong view	SN35.165
+knowing and seeing	sense bases to give up identity view	SN35.166
+identity view (sakkāyadiṭṭhi)	knowing and seeing sense bases to give up	SN35.166
+sense bases	knowing and seeing to give up identity view	SN35.166
+feelings (vedanā)	knowing and seeing to give up identity view	SN35.166
+view of self (attānudiṭṭhi)	how to give up	SN35.167
+impermanence	give up desire for what is	SN35.168
+past (atīta)	sense bases impermanent in	SN35.186
+future (anāgata)	sense bases impermanent in	SN35.187
+present (paccuppanna)	sense bases impermanent in	SN35.188
+oceans	simile for sense bases	SN35.228
+sense bases	like ocean and currents	SN35.228
+ball of string	simile for sense bases, tangled	SN35.229
+reeds	simile for sense bases, matted	SN35.229
+sense bases	like tangled yarn, ball of thread	SN35.229
+fisherman	simile for Mara	SN35.230
+fish hook	simile for sense bases	SN35.230
+sense bases	like fish hook	SN35.230
+trees	latex producing; simile for greed, hate, delusion	SN35.231
+latex	simile for greed, hatred, delusion	SN35.231
+greed, hatred, delusion	like latex	SN35.231
+sense bases	internal not fetter of external	SN35.232
+fetters (saṁyojana)	desire and greed for sense bases	SN35.232
+desire (chanda)	fetter of sense bases	SN35.232
+oxen	simile for sense bases; black ox yoked to white	SN35.232
+yokes	simile for sense bases; black yoked to white	SN35.232
+spiritual path (brahmacariya)	not possible if sense bases were fetters	SN35.232
+sense bases	Buddha has, but no greed	SN35.232
+Buddha, the	has sense bases but not greed	SN35.232
+Kāmabhū, Ven.	asking about fetters	SN35.233
+Udāyī, Ven.	consciousness is not self	SN35.234
+consciousness (viññāṇa)	not self	SN35.234
+banana tree	simile for no self in sense bases	SN35.234
+nail, pin	into eye	SN35.235
+eyes	pin stuck into	SN35.235
+hell (niraya)	result of tie to gratification of sense	SN35.235
+animal realm	result of tie to gratification of sense	SN35.235
+spikes	into ear	SN35.235
+ears	spike stuck in	SN35.235
+noses	cut off	SN35.235
+razor	cutting tongue	SN35.235
+spears	mutilating body	SN35.235
+sleep	better than bad mental actions	SN35.235
+sense bases	impermanent	SN35.235
+hands	picking up and putting down, simile for sense bases	SN35.236
+feet	coming and going, simile for sense bases	SN35.236
+stomach	hunger and thirst, simile for sense bases	SN35.236
+hunger	simile for sense bases	SN35.236
+lust (rāga)		xref greed (rāga)
+greed (rāga)		xref lust (rāga)
+sense bases		xref external sense bases
+sense bases		xref internal sense bases
+chariots		xref charioteers
+charioteers		xref chariots
+trees		xref kiṁsuka tree
+vipers (āsīvisa)	simile for elements	SN35.238
+elements, four great (cattāri mahābhūtāni)	like vipers	SN35.238
+enemies	simile for aggregates	SN35.238
+aggregates (khandha)	like enemies	SN35.238
+killers	simile for delight and greed	SN35.238
+delight (nandi)	like killer	SN35.238
+greed (rāga)	like killer	SN35.238
+villages (gāma)	simile for internal sense bases; empty	SN35.238
+internal sense bases	like empty village	SN35.238
+thieves (cora)	simile for external sense bases	SN35.238
+external sense bases	like thieves	SN35.238
+floods (ogha)	of sensuality, desire to be reborn, views, and ignorance 	SN35.238
+near shore (orima)	simile for identity	SN35.238
+identity (sakkāya)	like near shore	SN35.238
+far shore (pārima)	simile for nibbāna	SN35.238
+nibbāna	like far shore	SN35.238
+rafts	simile for noble eightfold path	SN35.238
+noble eightfold path (ariya aṭṭhangika magga)	like raft	SN35.238
+energy, stirring up (vīriyārambha)	like paddling with hands and feet	SN35.238
+arahants	like brahmin standing on far shore	SN35.238
+brahmin	simile for arahant; standing on far shore	SN35.238
+sense doors, guarding (indriyesu guttadvāra)	definition	SN35.239
+charioteers	simile for mendicant guarding senses	SN35.239
+eating in moderation	definition	SN35.239
+wounds	simile for eating in moderation	SN35.239
+eating in moderation	like treating wound	SN35.239
+medicine	simile for food	SN35.239
+wakefulness (jāgara)	definition	SN35.239
+tortoises (kumma)	simile for guarding sense doors	SN35.240
+jackals (siṅgāla)	simile for Māra attacking mendicant	SN35.240
+Māra	like jackal hunting tortoise	SN35.240
+sense doors, guarding (indriyesu guttadvāra)	like tortoise pulling in limbs	SN35.240
+Ganges river	log being carried down	SN35.241
+logs (dārukkhandha)	simile for mendicant	SN35.241
+Ganges river	sloping towards ocean, simile for disciples moving towards enlightenment 	SN35.241
+near shore (orima)	simile for internal sense bases	SN35.241
+far shore (pārima)	simile for external sense bases	SN35.241
+internal sense bases	like near shore	SN35.241
+external sense bases	like far shore	SN35.241
+delight (nandi)	like sinking in river	SN35.241
+greed (rāga)	like sinking in river	SN35.241
+conceit “I am” (asmimāna)	like standing on high ground	SN35.241
+association (saṁseva)	with laypeople detrimental	SN35.241
+non-humans (amanussa)	simile for wishing to be god; taken by	SN35.241
+whirlpools	simile for danger of sense pleasures	SN35.241
+false spiritual claims	like log rotting away	SN35.241
+cowherd	ordaining after Dhamma talk	SN35.241
+Nanda, Ven., cowherd	ordaining after Dhamma talk	SN35.241
+buildings	to be first used by the Saṅgha	SN35.243
+Moggallāna, Ven.	told by the Buddha to give a talk	SN35.243
+Māra	taking hold of mendicant not guarding senses	SN35.243
+houses	simile for Māra catching mendicant; catching fire	SN35.243
+fires	simile for Māra catching mendicant	SN35.243
+origin, ending (samudayañca atthaṅgamañca)	understanding all that entail suffering	SN35.244
+desire (chanda)	no underlying of	SN35.244
+covetousness (abhijjhā)	living so doesn’t overwhelm	SN35.244
+sadness (domanassa)	living so doesn’t overwhelm	SN35.244
+aggregates (khandha)	understanding origin and ending	SN35.244
+origin, ending (samudayañca atthaṅgamañca)	aggregates	SN35.244
+pits	of glowing coals, simile for sensual pleasures	SN35.244
+sense pleasures (kāma, kāmaguṇa)	like pit of glowing coals	SN35.244
+thorns	thicket of, simile for nice things in world	SN35.244
+sense bases	unrestrained towards	SN35.244
+water	drops falling into hot pan as simile for controlling the mind	SN35.244
+disrobing	encouragement to collect merit at home instead	SN35.244
+disrobing	impossible for restrained mendicant	SN35.244
+Ganges river	making Ganges slope west, simile for impossible to disrobe	SN35.244
+sense bases	origin and ending	SN35.245
+elements, four great (cattāri mahābhūtāni)	origin and ending	SN35.245
+kiṁsuka tree	simile for giving different answers	SN35.245
+messengers (dūta)	simile for serenity and insight	SN35.245
+serenity (samatha)	like messenger	SN35.245
+insight (vipassanā)	like messenger	SN35.245
+city (nagara)	simile for body	SN35.245
+body (kāya)	like city	SN35.245
+gates (dvāra)	simile for internal sense bases	SN35.245
+internal sense bases	like gates	SN35.245
+gatekeeper	simile for mindfulness	SN35.245
+consciousness (viññāṇa)	like village chief	SN35.245
+elements, four great (cattāri mahābhūtāni)	like town square	SN35.245
+messages	simile for nibbāna	SN35.245
+nibbāna	like message	SN35.245
+noble eightfold path (ariya aṭṭhangika magga)	like path of messenger	SN35.245
+lute (vīṇā)		xref harp (vīṇā)
+vīṇā		xref harp (vīṇā)
+barley		xref sheaves of grain
+harp (vīṇā)	simile for aggregates	SN35.246
+wrong path (kummagga)	greed, hatred, etc. for sense objects	SN35.246
+bad people (asappurisa)	along wrong path	SN35.246
+oxen	simile for unguarded senses	SN35.246
+caretaker (kiṭṭhārakkha)	simile for guarding sense doors	SN35.246
+kings	sound of harp, simile for aggregates	SN35.246
+sounds (sadda)	finding sound in harp, simile for aggregates	SN35.246
+kusa grass	simile for danger of villages	SN35.247
+snakes	simile for senses	SN35.247
+crocodiles	simile for senses	SN35.247
+birds	simile for senses	SN35.247
+dogs	simile for senses	SN35.247
+jackals (siṅgāla)	simile for senses	SN35.247
+monkey	simile for senses	SN35.247
+sense bases	like wild animals	SN35.247
+sense restraint	like animals tied to a pillar	SN35.247
+pillars	simile for sense restraint; animals tied to	SN35.247
+mindfulness of body (kāyagatāsati)	for sense restraint	SN35.247
+pleasant and unpleasant sense objects	struck by	SN35.248
+sheaves of grain	simile for sense objects; struck by seven flails	SN35.248
+rebirth	intentions for	SN35.248
+asuras	war with devas	SN35.248
+devas	war with asuras	SN35.248
+Vepacitti, asura	bound after battle	SN35.248
+Sakka, Lord of Gods	binding Vepacitti	SN35.248
+Māra	bonds of conceiving	SN35.248
+conceiving (maññita)	bound by Māra	SN35.248
+conceiving (maññita)	forms of	SN35.248
+darts (salla)	conceiving	SN35.248
+proliferation (papañca)	forms of	SN35.248
+conceit (māna)	forms of	SN35.248
