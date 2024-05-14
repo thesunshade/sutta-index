@@ -22817,7 +22817,7 @@ export const indexArray =[
      [
           "AN9.36",
           "impermanence",
-          "aggregates as"
+          "aggregates"
      ],
      [
           "AN9.36",
@@ -56327,7 +56327,7 @@ export const indexArray =[
      [
           "MN138",
           "grasping (upādāna)",
-          "aggregates and"
+          "aggregates"
      ],
      [
           "MN138",
@@ -58007,7 +58007,7 @@ export const indexArray =[
      [
           "MN149",
           "full understanding (pariñña)",
-          "of aggregates"
+          "aggregates"
      ],
      [
           "MN149",
@@ -59416,8 +59416,33 @@ export const indexArray =[
      ],
      [
           "SN22.1",
+          "aggregates",
+          "as self"
+     ],
+     [
+          "SN22.1",
+          "aggregates",
+          "decaying leads to suffering"
+     ],
+     [
+          "SN22.1",
+          "body (kāya)",
+          "not healthy for a minute"
+     ],
+     [
+          "SN22.1",
+          "mind (citta)",
+          "should be healthy even if body is not"
+     ],
+     [
+          "SN22.1",
           "Nakulapitā, householder",
           "asking for advice"
+     ],
+     [
+          "SN22.1",
+          "noble disciple (ariya sāvaka)",
+          "aggregates, understanding"
      ],
      [
           "SN22.1",
@@ -59425,9 +59450,439 @@ export const indexArray =[
           "advice for"
      ],
      [
+          "SN22.1",
+          "sickness",
+          "though body is sick, mind should not be"
+     ],
+     [
+          "SN22.2",
+          "aggregates",
+          "decaying leads to suffering"
+     ],
+     [
+          "SN22.2",
+          "aggregates",
+          "giving up desire and lust for"
+     ],
+     [
+          "SN22.2",
+          "desire (chanda)",
+          "Dhamma taught for giving up"
+     ],
+     [
+          "SN22.2",
+          "desire (chanda)",
+          "Dhamma taught for giving up"
+     ],
+     [
+          "SN22.2",
+          "desire (chanda)",
+          "for aggregates"
+     ],
+     [
+          "SN22.2",
+          "desire (chanda)",
+          "for aggregates"
+     ],
+     [
+          "SN22.2",
+          "mission, going on",
+          "how to answer questions"
+     ],
+     [
+          "SN22.2",
+          "Sāriputta, Ven.",
+          "Buddha telling monks to take leave of"
+     ],
+     [
+          "SN22.2",
+          "skillful qualities (kusala dhamma)",
+          "Buddha praises developing"
+     ],
+     [
+          "SN22.2",
+          "skillful qualities (kusala dhamma)",
+          "leads to happiness"
+     ],
+     [
+          "SN22.2",
+          "unskillful qualities (akusala dhamma)",
+          "Buddha praises giving up"
+     ],
+     [
+          "SN22.2",
+          "unskillful qualities (akusala dhamma)",
+          "never lead to happiness"
+     ],
+     [
+          "SN22.3",
+          "aggregates",
+          "home for consciousness"
+     ],
+     [
+          "SN22.3",
+          "aggregates",
+          "homeless metaphor"
+     ],
+     [
+          "SN22.3",
+          "Chapter of the Eights",
+          "The Questions of Māgandiya "
+     ],
+     [
+          "SN22.3",
+          "consciousness (viññāṇa)",
+          "aggregates as home for"
+     ],
+     [
+          "SN22.3",
+          "disputes (viggaha)",
+          "definition"
+     ],
+     [
           "SN22.3",
           "disputes",
           "about Dhamma"
+     ],
+     [
+          "SN22.3",
+          "future (anāgata)",
+          "aggregates"
+     ],
+     [
+          "SN22.3",
+          "Hāliddikāni, householder",
+          "asking about Chapter of the Eights"
+     ],
+     [
+          "SN22.3",
+          "homelessness",
+          "metaphor for non attachment to aggregates"
+     ],
+     [
+          "SN22.3",
+          "sense pleasures (kāma, kāmaguṇa)",
+          "free from"
+     ],
+     [
+          "SN22.4",
+          "aggregates",
+          "dependent origination"
+     ],
+     [
+          "SN22.4",
+          "Sakka, Lord of Gods",
+          "Questions of Sakka (sakkapañha)"
+     ],
+     [
+          "SN22.4",
+          "well liberated in mind (suvimuttacitta)",
+          "definition"
+     ],
+     [
+          "SN22.5",
+          "concentration (samādhi)",
+          "understanding aggregates"
+     ],
+     [
+          "SN22.5",
+          "dependent origination",
+          "aggregates"
+     ],
+     [
+          "SN22.6",
+          "seclusion (paṭisallīna, vivitta)",
+          "understanding aggregates"
+     ],
+     [
+          "SN22.7",
+          "anxiety (paritassanā)",
+          "because of grasping at aggregates as self"
+     ],
+     [
+          "SN22.7",
+          "grasping (upādāna)",
+          "aggregates"
+     ],
+     [
+          "SN22.9",
+          "impermanence",
+          "aggregates"
+     ],
+     [
+          "SN22.9",
+          "past, present, future",
+          "aggregates impermanent in"
+     ],
+     [
+          "SN22.10",
+          "impermanence",
+          "aggregates"
+     ],
+     [
+          "SN22.10",
+          "past, present, future",
+          "aggregates suffering in"
+     ],
+     [
+          "SN22.11",
+          "impermanence",
+          "aggregates"
+     ],
+     [
+          "SN22.11",
+          "past, present, future",
+          "aggregates not-self in"
+     ],
+     [
+          "SN22.15",
+          "impermanence",
+          "is suffering"
+     ],
+     [
+          "SN22.15",
+          "not-self",
+          "“This is not mine, I am not this, this is not my self.”"
+     ],
+     [
+          "SN22.15",
+          "suffering (dukkha)",
+          "is not-self"
+     ],
+     [
+          "SN22.18",
+          "impermanence",
+          "cause is impermanent"
+     ],
+     [
+          "SN22.21",
+          "cessation (nirodha)",
+          "aggregates"
+     ],
+     [
+          "SN22.22",
+          "aggregates of clinging (pañcupādānakkhandhā)",
+          "burden"
+     ],
+     [
+          "SN22.22",
+          "burden (bhāra)",
+          "five aggregates of clinging"
+     ],
+     [
+          "SN22.22",
+          "craving (taṇha)",
+          "picking up of burden"
+     ],
+     [
+          "SN22.22",
+          "person (puggala)",
+          "bearer of burden"
+     ],
+     [
+          "SN22.23",
+          "full understanding (pariñña)",
+          "aggregates"
+     ],
+     [
+          "SN22.23",
+          "full understanding (pariñña)",
+          "definition"
+     ],
+     [
+          "SN22.24",
+          "directly knowing (abhijānanta)",
+          "aggregates"
+     ],
+     [
+          "SN22.25",
+          "palm trees",
+          "cut off, simile of desire for aggregates"
+     ],
+     [
+          "SN22.26",
+          "Bodhisatta",
+          "gratification, danger, escape"
+     ],
+     [
+          "SN22.26",
+          "gratification, danger, escape",
+          "aggregates"
+     ],
+     [
+          "SN22.27",
+          "gratification, danger, escape",
+          "search for in aggregates"
+     ],
+     [
+          "SN22.28",
+          "danger (ādīnava)",
+          "if there were no"
+     ],
+     [
+          "SN22.28",
+          "escape (nissaraṇa)",
+          "if there were no"
+     ],
+     [
+          "SN22.28",
+          "gratification (assāda)",
+          "if there were no"
+     ],
+     [
+          "SN22.28",
+          "gratification, danger, escape",
+          "if there were no"
+     ],
+     [
+          "SN22.29",
+          "aggregates",
+          "taking pleasure in, pleasure in suffering"
+     ],
+     [
+          "SN22.30",
+          "aggregates",
+          "arising of is suffering"
+     ],
+     [
+          "SN22.33",
+          "grass",
+          "people taking, simile for not belonging to a self"
+     ],
+     [
+          "SN22.33",
+          "Jeta’s Grove",
+          "people taking sticks and leaves, simile for not belonging to a self"
+     ],
+     [
+          "SN22.33",
+          "leaves",
+          "people taking, simile for not belonging to a self"
+     ],
+     [
+          "SN22.33",
+          "not yours",
+          "aggregates, give up"
+     ],
+     [
+          "SN22.33",
+          "sticks",
+          "people taking, simile for not belonging to a self"
+     ],
+     [
+          "SN22.35",
+          "Dhamma teaching",
+          "in brief (saṅkhittena), aggregates"
+     ],
+     [
+          "SN22.35",
+          "underlying tendencies (anusaya)",
+          "aggregates"
+     ],
+     [
+          "SN22.36",
+          "Dhamma teaching",
+          "in brief (saṅkhittena), aggregates"
+     ],
+     [
+          "SN22.36",
+          "underlying tendencies (anusaya)",
+          "aggregates"
+     ],
+     [
+          "SN22.37",
+          "aggregates",
+          "arising, vanishing, change"
+     ],
+     [
+          "SN22.37",
+          "arising, vanishing, and change (uppādo, vayo, aññathatta)",
+          "aggregates"
+     ],
+     [
+          "SN22.38",
+          "aggregates",
+          "arising, vanishing, change"
+     ],
+     [
+          "SN22.38",
+          "arising, vanishing, and change (uppādo, vayo, aññathatta)",
+          "aggregates"
+     ],
+     [
+          "SN22.39",
+          "disillusionment (nibbidā)",
+          "aggregates"
+     ],
+     [
+          "SN22.43",
+          "islands",
+          "“be your own”"
+     ],
+     [
+          "SN22.43",
+          "sorrow (soka)",
+          "aggregates"
+     ],
+     [
+          "SN22.44",
+          "identity (sakkāya)",
+          "aggregates"
+     ],
+     [
+          "SN22.45",
+          "aggregates",
+          "impermanent"
+     ],
+     [
+          "SN22.45",
+          "impermanence",
+          "aggregates: suffering, not self, etc."
+     ],
+     [
+          "SN22.47",
+          "aggregates of clinging (pañcupādānakkhandhā)",
+          "regarding things as self"
+     ],
+     [
+          "SN22.47",
+          "faculties, sense (indriya)",
+          "conceived"
+     ],
+     [
+          "SN22.47",
+          "self (atta)",
+          "regarding things as"
+     ],
+     [
+          "SN22.48",
+          "aggregates (khandha)",
+          "compared to aggregates of clinging"
+     ],
+     [
+          "SN22.48",
+          "aggregates of clinging (pañcupādānakkhandhā)",
+          "compared to aggregates"
+     ],
+     [
+          "SN22.49",
+          "“This is not mine, I am not this, this is not my self.”",
+          "aggregates"
+     ],
+     [
+          "SN22.49",
+          "comparing",
+          "better, equal, worse"
+     ],
+     [
+          "SN22.49",
+          "Soṇa, householder",
+          "conceit"
+     ],
+     [
+          "SN22.50",
+          "origin, ending (samudayañca atthaṅgamañca)",
+          "aggregates"
      ],
      [
           "SN29.11–50",
@@ -59477,7 +59932,7 @@ export const indexArray =[
      [
           "SN35.1",
           "not-self",
-          "what’s not-self should be truly seen with right understanding like this: ‘This is not mine, I am not this, this is not my self.’ "
+          "“This is not mine, I am not this, this is not my self.”"
      ],
      [
           "SN35.1",

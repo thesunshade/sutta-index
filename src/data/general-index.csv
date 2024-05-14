@@ -91,6 +91,14 @@ disputes	about Dhamma	SN56.9
 talk (kathā)	suitable and unsuitable	SN56.10
 speech	useless (tiraccha)	SN56.10
 oceans		xref Ganges river
+people (puggala)		xref person (puggala)
+person (puggala)		xref people (puggala)
+aggregates (khandha)		xref aggregates of clinging (pañcupādānakkhandhā)
+lute (vīṇā)		xref harp (vīṇā)
+vīṇā		xref harp (vīṇā)
+barley		xref sheaves of grain
+old person		xref old age
+aggregates of clinging (pañcupādānakkhandhā)		xref aggregates (khandha)
 brief teaching (saṅkhittena)		xref Dhamma teaching
 gratification, danger, escape		xref gratification (assāda)
 gratification, danger, escape		xref danger (ādīnava)
@@ -7651,7 +7659,7 @@ aggregates (khandha)	impermanence of causing anxiety	MN138
 impermanence	of aggregates causes anxiety	MN138
 self (atta)	aggregates as	MN138
 identity view (sakkāyadiṭṭhi)	aggregates as self	MN138
-grasping (upādāna)	aggregates and	MN138
+grasping (upādāna)	aggregates	MN138
 Mahā Kaccāna, Ven.	praised by the Buddha	MN138
 speech	covert	MN139
 speech	local language	MN139
@@ -7990,7 +7998,7 @@ right mindfulness (sammā sati)	when truly knowing and seeing	MN149
 right concentration (sammā samadhi)	when truly knowing and seeing	MN149
 noble eightfold path (ariya aṭṭhangika magga)	when truly knowing and seeing	MN149
 bodhipakkhiyā dhammā	developed when noble eightfold path is developed	MN149
-full understanding (pariñña)	of aggregates	MN149
+full understanding (pariñña)	aggregates	MN149
 knowledge (vijjā)	true knowledge	MN149
 insight (vipassanā)	sense bases	MN149
 honor (sakkāra)	who deserves	MN150
@@ -12632,7 +12640,7 @@ deathless (amata)	applying mind to	AN9.36
 boil (gaṇḍa)	aggregates as	AN9.36
 darts (salla)	aggregates as	AN9.36
 empty (suñña)	aggregates as	AN9.36
-impermanence	aggregates as	AN9.36
+impermanence	aggregates	AN9.36
 suffering (dukkha)	aggregates as	AN9.36
 dimension of neither perception nor non-perception (nevasaññanāsaññāyatana)	emerging from to contemplate	AN9.36
 cessation of perception and feeling (saññāvedayitanirodha)	emerging from to contemplate	AN9.36
@@ -15342,7 +15350,7 @@ sense bases (āyatana)	impermanent	SN35.1
 impermanence	what’s impermanent is suffering 	SN35.1
 impermanence	sense bases	SN35.1
 suffering (dukkha)	what’s suffering is not-self 	SN35.1
-not-self	what’s not-self should be truly seen with right understanding like this: ‘This is not mine, I am not this, this is not my self.’ 	SN35.1
+not-self	“This is not mine, I am not this, this is not my self.”	SN35.1
 “This is not mine, I am not this, this is not my self.”	sense bases	SN35.1
 disillusionment (nibbidā)	sense bases	SN35.1
 disillusionment (nibbidā)	desire fades away	SN35.1
@@ -15783,10 +15791,6 @@ elements, four great (cattāri mahābhūtāni)	like town square	SN35.245
 messages	simile for nibbāna	SN35.245
 nibbāna	like message	SN35.245
 noble eightfold path (ariya aṭṭhangika magga)	like path of messenger	SN35.245
-lute (vīṇā)		xref harp (vīṇā)
-vīṇā		xref harp (vīṇā)
-barley		xref sheaves of grain
-old person		xref old age
 harp (vīṇā)	simile for aggregates	SN35.246
 wrong path (kummagga)	greed, hatred, etc. for sense objects	SN35.246
 bad people (asappurisa)	along wrong path	SN35.246
@@ -15820,3 +15824,94 @@ proliferation (papañca)	forms of	SN35.248
 conceit (māna)	forms of	SN35.248
 Nakulapitā, householder	asking for advice	SN22.1
 old person	advice for	SN22.1
+body (kāya)	not healthy for a minute	SN22.1
+sickness	though body is sick, mind should not be	SN22.1
+mind (citta)	should be healthy even if body is not	SN22.1
+aggregates	as self	SN22.1
+aggregates	decaying leads to suffering	SN22.1
+noble disciple (ariya sāvaka)	aggregates, understanding	SN22.1
+Sāriputta, Ven.	Buddha telling monks to take leave of	SN22.2
+mission, going on	how to answer questions	SN22.2
+desire (chanda)	Dhamma taught for giving up	SN22.2
+desire (chanda)	Dhamma taught for giving up	SN22.2
+desire (chanda)	for aggregates	SN22.2
+desire (chanda)	for aggregates	SN22.2
+aggregates	giving up desire and lust for	SN22.2
+aggregates	decaying leads to suffering	SN22.2
+unskillful qualities (akusala dhamma)	never lead to happiness	SN22.2
+unskillful qualities (akusala dhamma)	Buddha praises giving up	SN22.2
+skillful qualities (kusala dhamma)	leads to happiness	SN22.2
+skillful qualities (kusala dhamma)	Buddha praises developing	SN22.2
+Hāliddikāni, householder	asking about Chapter of the Eights	SN22.3
+Chapter of the Eights	The Questions of Māgandiya 	SN22.3
+aggregates	home for consciousness	SN22.3
+consciousness (viññāṇa)	aggregates as home for	SN22.3
+homelessness	metaphor for non attachment to aggregates	SN22.3
+aggregates	homeless metaphor	SN22.3
+future (anāgata)	aggregates	SN22.3
+sense pleasures (kāma, kāmaguṇa)	free from	SN22.3
+disputes (viggaha)	definition	SN22.3
+Sakka, Lord of Gods	Questions of Sakka (sakkapañha)	SN22.4
+well liberated in mind (suvimuttacitta)	definition	SN22.4
+aggregates	dependent origination	SN22.4
+dependent origination	aggregates	SN22.5
+concentration (samādhi)	understanding aggregates	SN22.5
+seclusion (paṭisallīna, vivitta)	understanding aggregates	SN22.6
+anxiety (paritassanā)	because of grasping at aggregates as self	SN22.7
+grasping (upādāna)	aggregates	SN22.7
+past, present, future	aggregates impermanent in	SN22.9
+impermanence	aggregates	SN22.9
+past, present, future	aggregates suffering in	SN22.10
+impermanence	aggregates	SN22.10
+past, present, future	aggregates not-self in	SN22.11
+impermanence	aggregates	SN22.11
+impermanence	is suffering	SN22.15
+suffering (dukkha)	is not-self	SN22.15
+not-self	“This is not mine, I am not this, this is not my self.”	SN22.15
+impermanence	cause is impermanent	SN22.18
+cessation (nirodha)	aggregates	SN22.21
+person (puggala)	bearer of burden	SN22.22
+burden (bhāra)	five aggregates of clinging	SN22.22
+aggregates of clinging (pañcupādānakkhandhā)	burden	SN22.22
+craving (taṇha)	picking up of burden	SN22.22
+full understanding (pariñña)	aggregates	SN22.23
+full understanding (pariñña)	definition	SN22.23
+directly knowing (abhijānanta)	aggregates	SN22.24
+palm trees	cut off, simile of desire for aggregates	SN22.25
+gratification, danger, escape	aggregates	SN22.26
+Bodhisatta	gratification, danger, escape	SN22.26
+gratification, danger, escape	search for in aggregates	SN22.27
+gratification, danger, escape	if there were no	SN22.28
+gratification (assāda)	if there were no	SN22.28
+danger (ādīnava)	if there were no	SN22.28
+escape (nissaraṇa)	if there were no	SN22.28
+aggregates	taking pleasure in, pleasure in suffering	SN22.29
+aggregates	arising of is suffering	SN22.30
+not yours	aggregates, give up	SN22.33
+Jeta’s Grove	people taking sticks and leaves, simile for not belonging to a self	SN22.33
+grass	people taking, simile for not belonging to a self	SN22.33
+sticks	people taking, simile for not belonging to a self	SN22.33
+leaves	people taking, simile for not belonging to a self	SN22.33
+Dhamma teaching	in brief (saṅkhittena), aggregates	SN22.35
+underlying tendencies (anusaya)	aggregates	SN22.35
+Dhamma teaching	in brief (saṅkhittena), aggregates	SN22.36
+underlying tendencies (anusaya)	aggregates	SN22.36
+arising, vanishing, and change (uppādo, vayo, aññathatta)	aggregates	SN22.37
+aggregates	arising, vanishing, change	SN22.37
+arising, vanishing, and change (uppādo, vayo, aññathatta)	aggregates	SN22.38
+aggregates	arising, vanishing, change	SN22.38
+disillusionment (nibbidā)	aggregates	SN22.39
+islands	“be your own”	SN22.43
+sorrow (soka)	aggregates	SN22.43
+identity (sakkāya)	aggregates	SN22.44
+impermanence	aggregates: suffering, not self, etc.	SN22.45
+aggregates	impermanent	SN22.45
+self (atta)	regarding things as	SN22.47
+aggregates of clinging (pañcupādānakkhandhā)	regarding things as self	SN22.47
+faculties, sense (indriya)	conceived	SN22.47
+aggregates (khandha)	compared to aggregates of clinging	SN22.48
+aggregates of clinging (pañcupādānakkhandhā)	compared to aggregates	SN22.48
+Soṇa, householder	conceit	SN22.49
+comparing	better, equal, worse	SN22.49
+“This is not mine, I am not this, this is not my self.”	aggregates	SN22.49
+origin, ending (samudayañca atthaṅgamañca)	aggregates	SN22.50
