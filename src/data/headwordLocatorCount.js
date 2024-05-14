@@ -3060,6 +3060,10 @@ export const indexObject =[
           4
      ],
      [
+          "Nakulapitā, householder",
+          4
+     ],
+     [
           "nāgas",
           4
      ],
@@ -3744,6 +3748,10 @@ export const indexObject =[
           3
      ],
      [
+          "old person",
+          3
+     ],
+     [
           "old age",
           3
      ],
@@ -3781,10 +3789,6 @@ export const indexObject =[
      ],
      [
           "noble right concentration (ariyo sammāsamādhi)",
-          3
-     ],
-     [
-          "Nakulapitā, householder",
           3
      ],
      [
@@ -5097,10 +5101,6 @@ export const indexObject =[
      ],
      [
           "one way path (ekāyano maggo)",
-          2
-     ],
-     [
-          "old person",
           2
      ],
      [

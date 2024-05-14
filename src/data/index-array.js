@@ -13287,7 +13287,7 @@ export const indexArray =[
      [
           "AN6.44",
           "temporary freedom (sāmāyikampi vimutti)",
-          ""
+          "having and not having"
      ],
      [
           "AN6.45",
@@ -13342,12 +13342,12 @@ export const indexArray =[
      [
           "AN6.49",
           "conceit of inferiority (omāna)",
-          ""
+          "arahants don’t have"
      ],
      [
           "AN6.49",
           "conceit of superiority (atimāna)",
-          ""
+          "arahants don’t have"
      ],
      [
           "AN6.49",
@@ -14077,7 +14077,7 @@ export const indexArray =[
      [
           "AN6.64",
           "possible and impossible (ṭhāna aṭṭhāna)",
-          ""
+          "Tathāgata understands"
      ],
      [
           "AN6.64",
@@ -15197,7 +15197,17 @@ export const indexArray =[
      [
           "AN7.20",
           "graduate, “ten-less” (niddasa)",
-          ""
+          "definition"
+     ],
+     [
+          "AN7.21",
+          "respect (gārava)",
+          "leads to growth"
+     ],
+     [
+          "AN7.21",
+          "Vajjis",
+          "taught the principles that prevent decline"
      ],
      [
           "AN7.21",
@@ -15211,7 +15221,7 @@ export const indexArray =[
      ],
      [
           "AN7.21",
-          "respect (gārava)",
+          "harmony (samagga)",
           "leads to growth"
      ],
      [
@@ -15226,23 +15236,13 @@ export const indexArray =[
      ],
      [
           "AN7.21",
-          "tradition (vaṁsa)",
-          "leads to growth"
-     ],
-     [
-          "AN7.21",
-          "Vajjis",
-          "taught the principles that prevent decline"
-     ],
-     [
-          "AN7.21",
-          "harmony (samagga)",
-          "leads to growth"
-     ],
-     [
-          "AN7.21",
           "society",
           "principles that lead to growth"
+     ],
+     [
+          "AN7.21",
+          "tradition (vaṁsa)",
+          "leads to growth"
      ],
      [
           "AN7.22",
@@ -15602,12 +15602,12 @@ export const indexArray =[
      [
           "AN7.42",
           "graduate, “ten-less” (niddasa)",
-          ""
+          "definition"
      ],
      [
           "AN7.43",
           "graduate, “ten-less” (niddasa)",
-          ""
+          "definition"
      ],
      [
           "AN7.44",
@@ -15677,7 +15677,7 @@ export const indexArray =[
      [
           "AN7.44",
           "planes of consciousness (viññāṇaṭṭhitiyo)",
-          ""
+          "definition"
      ],
      [
           "AN7.45",
@@ -15687,7 +15687,7 @@ export const indexArray =[
      [
           "AN7.45",
           "noble right concentration (ariyo sammāsamādhi)",
-          ""
+          "conditions of"
      ],
      [
           "AN7.46",
@@ -27572,7 +27572,7 @@ export const indexArray =[
      [
           "AN10.75",
           "temporary freedom (sāmāyikampi vimutti)",
-          ""
+          "having and not having"
      ],
      [
           "AN10.75",
@@ -59413,6 +59413,16 @@ export const indexArray =[
           "SN21.11",
           "death (maraṇa)",
           "of relative"
+     ],
+     [
+          "SN22.1",
+          "Nakulapitā, householder",
+          "asking for advice"
+     ],
+     [
+          "SN22.1",
+          "old person",
+          "advice for"
      ],
      [
           "SN22.3",

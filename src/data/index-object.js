@@ -12194,9 +12194,7 @@ export const indexObject ={
           },
           "conceit of inferiority (omāna)": {
                "": {
-                    "locators": [
-                         "AN6.49"
-                    ],
+                    "locators": [],
                     "xrefs": [
                          "xref comparing"
                     ]
@@ -12204,6 +12202,12 @@ export const indexObject ={
                "overcoming": {
                     "locators": [
                          "Thag6.9"
+                    ],
+                    "xrefs": []
+               },
+               "arahants don’t have": {
+                    "locators": [
+                         "AN6.49"
                     ],
                     "xrefs": []
                },
@@ -12222,9 +12226,7 @@ export const indexObject ={
           },
           "conceit of superiority (atimāna)": {
                "": {
-                    "locators": [
-                         "AN6.49"
-                    ],
+                    "locators": [],
                     "xrefs": [
                          "xref arrogance (thaddha)",
                          "xref comparing"
@@ -12234,6 +12236,12 @@ export const indexObject ={
                     "locators": [
                          "MN8",
                          "Thag6.9"
+                    ],
+                    "xrefs": []
+               },
+               "arahants don’t have": {
+                    "locators": [
+                         "AN6.49"
                     ],
                     "xrefs": []
                },
@@ -32520,7 +32528,7 @@ export const indexObject ={
                }
           },
           "graduate, “ten-less” (niddasa)": {
-               "": {
+               "definition": {
                     "locators": [
                          "AN7.20",
                          "AN7.42",
@@ -50144,6 +50152,12 @@ export const indexObject ={
                          "SN35.131"
                     ],
                     "xrefs": []
+               },
+               "asking for advice": {
+                    "locators": [
+                         "SN22.1"
+                    ],
+                    "xrefs": []
                }
           },
           "Nālaka, nephew of Asita": {
@@ -51649,12 +51663,7 @@ export const indexObject ={
                "conditions of": {
                     "locators": [
                          "MN117",
-                         "SN45.28"
-                    ],
-                    "xrefs": []
-               },
-               "": {
-                    "locators": [
+                         "SN45.28",
                          "AN7.45"
                     ],
                     "xrefs": []
@@ -52904,6 +52913,18 @@ export const indexObject ={
                     "locators": [
                          "MN130",
                          "AN3.36"
+                    ],
+                    "xrefs": []
+               },
+               "": {
+                    "locators": [],
+                    "xrefs": [
+                         "xref old age"
+                    ]
+               },
+               "advice for": {
+                    "locators": [
+                         "SN22.1"
                     ],
                     "xrefs": []
                }
@@ -56285,7 +56306,7 @@ export const indexObject ={
                }
           },
           "planes of consciousness (viññāṇaṭṭhitiyo)": {
-               "": {
+               "definition": {
                     "locators": [
                          "AN7.44"
                     ],
@@ -56659,7 +56680,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "": {
+               "Tathāgata understands": {
                     "locators": [
                          "AN6.64"
                     ],
@@ -72787,7 +72808,7 @@ export const indexObject ={
                }
           },
           "temporary freedom (sāmāyikampi vimutti)": {
-               "": {
+               "having and not having": {
                     "locators": [
                          "AN6.44",
                          "AN10.75"
