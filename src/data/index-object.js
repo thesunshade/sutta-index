@@ -1202,6 +1202,12 @@ export const indexObject ={
                }
           },
           "aggregates": {
+               "": {
+                    "locators": [
+                         "CUSTOM:SN:Khandhasaṁyutta:suttacentral.net/sn22"
+                    ],
+                    "xrefs": []
+               },
                "as self": {
                     "locators": [
                          "SN22.1"
@@ -1261,6 +1267,48 @@ export const indexObject ={
                "impermanent": {
                     "locators": [
                          "SN22.45"
+                    ],
+                    "xrefs": []
+               },
+               "gratification, danger, escape": {
+                    "locators": [
+                         "SN22.57"
+                    ],
+                    "xrefs": []
+               },
+               "not-self": {
+                    "locators": [
+                         "SN22.59"
+                    ],
+                    "xrefs": []
+               },
+               "past, future, present": {
+                    "locators": [
+                         "SN22.59"
+                    ],
+                    "xrefs": []
+               },
+               "disillusionment": {
+                    "locators": [
+                         "SN22.59"
+                    ],
+                    "xrefs": []
+               },
+               "not exclusively painful": {
+                    "locators": [
+                         "SN22.60"
+                    ],
+                    "xrefs": []
+               },
+               "pleasurable": {
+                    "locators": [
+                         "SN22.60"
+                    ],
+                    "xrefs": []
+               },
+               "burning": {
+                    "locators": [
+                         "SN22.61"
                     ],
                     "xrefs": []
                },
@@ -1608,6 +1656,12 @@ export const indexObject ={
                "compared to aggregates": {
                     "locators": [
                          "SN22.48"
+                    ],
+                    "xrefs": []
+               },
+               "truly understanding": {
+                    "locators": [
+                         "SN22.56"
                     ],
                     "xrefs": []
                }
@@ -8449,7 +8503,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "aggregates as": {
+               "aggregates": {
                     "locators": [
                          "AN9.36"
                     ],
@@ -10446,6 +10500,12 @@ export const indexObject ={
                          "SN35.83"
                     ],
                     "xrefs": []
+               },
+               "freed by not grasping": {
+                    "locators": [
+                         "SN22.58"
+                    ],
+                    "xrefs": []
                }
           },
           "Buddhas, seven": {
@@ -10529,6 +10589,12 @@ export const indexObject ={
                "sense bases": {
                     "locators": [
                          "SN35.28"
+                    ],
+                    "xrefs": []
+               },
+               "aggregates": {
+                    "locators": [
+                         "SN22.61"
                     ],
                     "xrefs": []
                }
@@ -12472,6 +12538,12 @@ export const indexObject ={
                          "SN35.248"
                     ],
                     "xrefs": []
+               },
+               "aggregates": {
+                    "locators": [
+                         "SN22.64"
+                    ],
+                    "xrefs": []
                }
           },
           "concentration (samādhi)": {
@@ -13238,7 +13310,9 @@ export const indexObject ={
                "definition": {
                     "locators": [
                          "MN9",
-                         "MN43"
+                         "MN43",
+                         "SN22.56",
+                         "SN22.57"
                     ],
                     "xrefs": []
                },
@@ -13409,6 +13483,26 @@ export const indexObject ={
                          "SN22.3"
                     ],
                     "xrefs": []
+               },
+               "aggregates, involved with": {
+                    "locators": [
+                         "SN22.53"
+                    ],
+                    "xrefs": []
+               },
+               "not apart from aggregates": {
+                    "locators": [
+                         "SN22.53",
+                         "SN22.54",
+                         "SN22.55"
+                    ],
+                    "xrefs": []
+               },
+               "like seeds": {
+                    "locators": [
+                         "SN22.54"
+                    ],
+                    "xrefs": []
                }
           },
           "consciousness element (viññāṇadhātu)": {
@@ -13432,6 +13526,12 @@ export const indexObject ={
                     "locators": [
                          "MN39",
                          "MN91"
+                    ],
+                    "xrefs": []
+               },
+               "no rebirth": {
+                    "locators": [
+                         "SN22.56"
                     ],
                     "xrefs": []
                }
@@ -13471,19 +13571,25 @@ export const indexObject ={
                },
                "cause of feeling aggregate": {
                     "locators": [
-                         "MN109"
+                         "MN109",
+                         "SN22.56",
+                         "SN22.57"
                     ],
                     "xrefs": []
                },
                "cause of perception aggregate": {
                     "locators": [
-                         "MN109"
+                         "MN109",
+                         "SN22.56",
+                         "SN22.57"
                     ],
                     "xrefs": []
                },
                "cause of formations aggregate": {
                     "locators": [
-                         "MN109"
+                         "MN109",
+                         "SN22.56",
+                         "SN22.57"
                     ],
                     "xrefs": []
                },
@@ -13965,7 +14071,8 @@ export const indexObject ={
                },
                "of sentient beings": {
                     "locators": [
-                         "MN60"
+                         "MN60",
+                         "SN22.60"
                     ],
                     "xrefs": []
                },
@@ -15158,7 +15265,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "aggregates as": {
+               "aggregates": {
                     "locators": [
                          "AN9.36"
                     ],
@@ -16376,6 +16483,12 @@ export const indexObject ={
                "like sinking in river": {
                     "locators": [
                          "SN35.241"
+                    ],
+                    "xrefs": []
+               },
+               "like water for seeds": {
+                    "locators": [
+                         "SN22.54"
                     ],
                     "xrefs": []
                },
@@ -18168,7 +18281,8 @@ export const indexObject ={
                "in brief (saṅkhittena), aggregates": {
                     "locators": [
                          "SN22.35",
-                         "SN22.36"
+                         "SN22.36",
+                         "SN22.63"
                     ],
                     "xrefs": []
                }
@@ -19482,7 +19596,8 @@ export const indexObject ={
                },
                "aggregates": {
                     "locators": [
-                         "SN22.39"
+                         "SN22.39",
+                         "SN22.59"
                     ],
                     "xrefs": []
                }
@@ -21724,7 +21839,8 @@ export const indexObject ={
                },
                "form (rūpa)": {
                     "locators": [
-                         "MN9"
+                         "MN9",
+                         "SN22.56"
                     ],
                     "xrefs": []
                },
@@ -22031,7 +22147,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "aggregates as": {
+               "aggregates": {
                     "locators": [
                          "AN9.36"
                     ],
@@ -25717,6 +25833,8 @@ export const indexObject ={
                     "locators": [
                          "MN9",
                          "MN43",
+                         "SN22.56",
+                         "SN22.57",
                          "AN6.63"
                     ],
                     "xrefs": []
@@ -27290,6 +27408,12 @@ export const indexObject ={
                          "AN10.69"
                     ],
                     "xrefs": []
+               },
+               "origin of form": {
+                    "locators": [
+                         "SN22.56"
+                    ],
+                    "xrefs": []
                }
           },
           "food, solid (kabaḷīkāra)": {
@@ -27678,6 +27802,12 @@ export const indexObject ={
                          "AN10.81"
                     ],
                     "xrefs": []
+               },
+               "definition": {
+                    "locators": [
+                         "SN22.56"
+                    ],
+                    "xrefs": []
                }
           },
           "form aggregate of clinging (rūpupādānakkhandha)": {
@@ -27720,7 +27850,9 @@ export const indexObject ={
                },
                "definition": {
                     "locators": [
-                         "MN9"
+                         "MN9",
+                         "SN22.56",
+                         "SN22.57"
                     ],
                     "xrefs": []
                },
@@ -28450,6 +28582,15 @@ export const indexObject ={
                     "xrefs": []
                }
           },
+          "four noble truths pattern": {
+               "aggregates": {
+                    "locators": [
+                         "SN22.56",
+                         "SN22.57"
+                    ],
+                    "xrefs": []
+               }
+          },
           "four pairs of people": {
                "gifts to": {
                     "locators": [
@@ -29122,6 +29263,15 @@ export const indexObject ={
                     "xrefs": []
                }
           },
+          "future": {
+               "language for": {
+                    "locators": [
+                         "SN22.62"
+                    ],
+                    "xrefs": []
+               },
+               "counter_value": 1
+          },
           "future (anāgata)": {
                "": {
                     "locators": [],
@@ -29153,7 +29303,8 @@ export const indexObject ={
                          "SN22.3"
                     ],
                     "xrefs": []
-               }
+               },
+               "counter_value": 2
           },
           "future lives": {
                "success in": {
@@ -32850,7 +33001,8 @@ export const indexObject ={
                "aggregates": {
                     "locators": [
                          "MN138",
-                         "SN22.7"
+                         "SN22.7",
+                         "SN22.63"
                     ],
                     "xrefs": []
                },
@@ -33036,7 +33188,8 @@ export const indexObject ={
                },
                "aggregates": {
                     "locators": [
-                         "SN22.26"
+                         "SN22.26",
+                         "SN22.57"
                     ],
                     "xrefs": []
                },
@@ -33338,6 +33491,12 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
+               "like water for seeds": {
+                    "locators": [
+                         "SN22.54"
+                    ],
+                    "xrefs": []
+               },
                "counter_value": 3
           },
           "greed, hatred, delusion": {
@@ -33596,6 +33755,12 @@ export const indexObject ={
                "abandoning the Bodhisatta": {
                     "locators": [
                          "MN36"
+                    ],
+                    "xrefs": []
+               },
+               "aggregates not-self": {
+                    "locators": [
+                         "SN22.59"
                     ],
                     "xrefs": []
                }
@@ -38223,10 +38388,11 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "suffering and": {
+               "suffering": {
                     "locators": [
                          "MN22",
-                         "MN109"
+                         "MN109",
+                         "SN22.59"
                     ],
                     "xrefs": []
                },
@@ -39734,6 +39900,12 @@ export const indexObject ={
                "equanimity": {
                     "locators": [
                          "MN106"
+                    ],
+                    "xrefs": []
+               },
+               "cutting off lower fetters": {
+                    "locators": [
+                         "SN22.55"
                     ],
                     "xrefs": []
                }
@@ -42282,6 +42454,12 @@ export const indexObject ={
                "don’t insist on local terminology": {
                     "locators": [
                          "MN139"
+                    ],
+                    "xrefs": []
+               },
+               "scopes; past, present, future": {
+                    "locators": [
+                         "SN22.62"
                     ],
                     "xrefs": []
                }
@@ -45526,6 +45704,12 @@ export const indexObject ={
                          "AN10.47"
                     ],
                     "xrefs": []
+               },
+               "corruption of beings": {
+                    "locators": [
+                         "SN22.60"
+                    ],
+                    "xrefs": []
                }
           },
           "makeup": {
@@ -45875,6 +46059,13 @@ export const indexObject ={
                "bonds of conceiving": {
                     "locators": [
                          "SN35.248"
+                    ],
+                    "xrefs": []
+               },
+               "bound by; aggregates": {
+                    "locators": [
+                         "SN22.63",
+                         "SN22.64"
                     ],
                     "xrefs": []
                }
@@ -50503,7 +50694,9 @@ export const indexObject ={
                },
                "cause of consciousness aggregate": {
                     "locators": [
-                         "MN109"
+                         "MN109",
+                         "SN22.56",
+                         "SN22.57"
                     ],
                     "xrefs": []
                },
@@ -51454,7 +51647,8 @@ export const indexObject ={
                },
                "aggregates, understanding": {
                     "locators": [
-                         "SN22.1"
+                         "SN22.1",
+                         "SN22.55"
                     ],
                     "xrefs": []
                }
@@ -51901,6 +52095,12 @@ export const indexObject ={
                "like path of messenger": {
                     "locators": [
                          "SN35.245"
+                    ],
+                    "xrefs": []
+               },
+               "end of aggregates": {
+                    "locators": [
+                         "SN22.56"
                     ],
                     "xrefs": []
                }
@@ -52623,7 +52823,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "aggregates as": {
+               "aggregates": {
                     "locators": [
                          "MN109"
                     ],
@@ -54693,6 +54893,12 @@ export const indexObject ={
                          "SN35.186"
                     ],
                     "xrefs": []
+               },
+               "language for": {
+                    "locators": [
+                         "SN22.62"
+                    ],
+                    "xrefs": []
                }
           },
           "past actions": {
@@ -56148,6 +56354,8 @@ export const indexObject ={
                "definition": {
                     "locators": [
                          "MN43",
+                         "SN22.56",
+                         "SN22.57",
                          "AN6.63"
                     ],
                     "xrefs": []
@@ -56680,6 +56888,12 @@ export const indexObject ={
                "definition": {
                     "locators": [
                          "AN7.44"
+                    ],
+                    "xrefs": []
+               },
+               "like the earth for seeds": {
+                    "locators": [
+                         "SN22.54"
                     ],
                     "xrefs": []
                }
@@ -58008,6 +58222,15 @@ export const indexObject ={
                     "xrefs": []
                }
           },
+          "present": {
+               "language for": {
+                    "locators": [
+                         "SN22.62"
+                    ],
+                    "xrefs": []
+               },
+               "counter_value": 1
+          },
           "present (paccuppanna)": {
                "indecision about": {
                     "locators": [
@@ -58027,7 +58250,8 @@ export const indexObject ={
                          "SN35.188"
                     ],
                     "xrefs": []
-               }
+               },
+               "counter_value": 2
           },
           "present life": {
                "success in": {
@@ -58716,6 +58940,12 @@ export const indexObject ={
                          "SN46.56"
                     ],
                     "xrefs": []
+               },
+               "no cause of corruption": {
+                    "locators": [
+                         "SN22.60"
+                    ],
+                    "xrefs": []
                }
           },
           "Purāṇa, householder": {
@@ -58793,7 +59023,17 @@ export const indexObject ={
                          "AN10.29"
                     ],
                     "xrefs": []
-               }
+               },
+               "counter_value": 1
+          },
+          "purification (visuddhi)": {
+               "of beings": {
+                    "locators": [
+                         "SN22.60"
+                    ],
+                    "xrefs": []
+               },
+               "counter_value": 2
           },
           "purification of knowledge and vision (ñāṇadassanavisuddhi)": {
                "and spiritual path": {
@@ -65375,6 +65615,18 @@ export const indexObject ={
                          "SN45.150"
                     ],
                     "xrefs": []
+               },
+               "five kinds of propagation": {
+                    "locators": [
+                         "SN22.54"
+                    ],
+                    "xrefs": []
+               },
+               "simile for consciousness dependently arisen": {
+                    "locators": [
+                         "SN22.54"
+                    ],
+                    "xrefs": []
                }
           },
           "seeing (passato)": {
@@ -65486,7 +65738,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "aggregates as": {
+               "aggregates": {
                     "locators": [
                          "MN138"
                     ],
@@ -66367,7 +66619,7 @@ export const indexObject ={
                },
                "": {
                     "locators": [
-                         "CUSTOM:SN:Saḷāyatanasaṁyutta Saṁyutta:suttacentral.net/sn35"
+                         "CUSTOM:SN:Saḷāyatanasaṁyutta:suttacentral.net/sn35"
                     ],
                     "xrefs": []
                },
@@ -71991,9 +72243,10 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "self and": {
+               "self": {
                     "locators": [
-                         "MN109"
+                         "MN109",
+                         "SN22.59"
                     ],
                     "xrefs": []
                },
@@ -72084,8 +72337,9 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "aggregates as": {
+               "aggregates": {
                     "locators": [
+                         "SN22.59",
                          "AN9.36"
                     ],
                     "xrefs": []
@@ -72179,6 +72433,12 @@ export const indexObject ={
                "is not-self": {
                     "locators": [
                          "SN22.15"
+                    ],
+                    "xrefs": []
+               },
+               "aggregates not exclusively painful": {
+                    "locators": [
+                         "SN22.60"
                     ],
                     "xrefs": []
                }
@@ -74879,6 +75139,12 @@ export const indexObject ={
                     "locators": [
                          "MN149",
                          "SN35.160"
+                    ],
+                    "xrefs": []
+               },
+               "aggregates": {
+                    "locators": [
+                         "SN22.55"
                     ],
                     "xrefs": []
                }
