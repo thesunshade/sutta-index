@@ -1195,7 +1195,6 @@ hate		xref hatred (dosa)
 corrupt wishes		xref evil wishes (pāpiccha)
 developed in physical endurance		xref developed in body (bhāvitakāya)
 rich people		xref wealthy people
-Māra’s daughters		xref daughters of Māra
 world system (lokadhātu)		xref galaxies
 convictions of outsiders		xref views of other sects
 extinguishment in this very life		xref nibbāna in this very life (paramadiṭṭhadhammanibbāna)
@@ -5673,10 +5672,10 @@ Sāriputta, Ven.	leading noisy monks	MN67
 Moggallāna, Ven.	leading noisy monks	MN67
 socializing	dismissed by the Buddha for being noisy	MN67
 noise	Buddha dismisses noisy monks	MN67
-seeds	young seedlings needing water, simile for young monks	MN67
-calf	simile for young monks	MN67
-going forth (pabbajja)	new monks needing care	MN67
-Sahampati, Brahmā	requesting the Buddha to support noisy monks	MN67
+seeds	young seedlings needing water, simile for young monastics	MN67
+calf	simile for young monastics	MN67
+going forth (pabbajja)	new monastics needing care	MN67
+Sahampati, Brahmā	requesting the Buddha to support new monastics	MN67
 monastic life	dangers to	MN67
 going forth (pabbajja)	in old age	MN67
 waves	simile for anger	MN67
@@ -6873,7 +6872,7 @@ disciples of the Buddha	different from the Buddha	MN108
 Buddha, the	discoverer of the path	MN108
 Vassakāra, brahmin	questions about the Buddha	MN108
 refuges	did Buddha appoint a refuge for when he was gone?	MN108
-refuges	after the Buddha passes away	MN109
+refuges	after the Buddha passes away	MN108
 leadership	of Saṅgha after Buddha’s passing	MN108
 Saṅgha	leader after the Buddha’s passing	MN108
 Dhamma	as refuge after passing of Buddha	MN108
@@ -12232,11 +12231,11 @@ removing (vinodana)	after appraisal	AN9.2
 friendship	helps with cetovimutti	AN9.3
 loving-kindness (mettā)	to give up hate	AN9.3
 loving-kindness (mettā)	to abandon ill-will	AN9.3
-misconduct by mind		AN9.3
+misconduct by mind	unripe mind	AN9.3
 mindfulness of breathing (ānāpānassati)	to cut off thinking	AN9.3
 perception of impermanence (aniccasaññā)	to remove conceit ‘I am’	AN9.3
 perception of ugliness (asubhasaññā)	to give up greed	AN9.3
-talk (kathā)		AN9.3
+talk (kathā)	getting to have good	AN9.3
 topics of discussion, good	getting to have	AN9.3
 Nandaka, Ven.	giving a talk while Buddha waited outside	AN9.4
 noble silence (ariya tuṇhībhāva)	when gathering together should either discuss Dhamma or maintain noble silence	AN9.4
@@ -12586,8 +12585,7 @@ first jhāna	sense perceptions cease	AN9.33
 applied and sustained thought (vitakkavicārā)	ceases in second jhāna	AN9.33
 second jhāna	applied and sustained thought ceases	AN9.33
 third jhāna	rapture ceases	AN9.33
-placing of the mind and keeping it connected (vitakkavicārā)		AN9.33
-directed thoughts and evaluations (vitakkavicārā)		AN9.33
+placing of the mind and keeping it connected (vitakkavicārā)	where sensual pleasures cease	AN9.33
 rapture (pīti)	ceases in third jhāna	AN9.33
 breathing (assāsapassāsa)	ceases in fourth jhāna	AN9.33
 fourth jhāna	breathing ceases	AN9.33
@@ -13011,9 +13009,8 @@ poor people	claiming to be rich as simile for false claims of enlightenment	AN10
 wealthy people	claiming to be rich as simile for true claims of enlightenment	AN10.24
 false spiritual claims	of enlightenment	AN10.24
 kasiṇas	ten	AN10.25
-daughters of Māra		AN10.26
-Mahā Kaccāna, Ven.		AN10.26
-Kāḷī of Kurughara, layperson		AN10.26
+Mahā Kaccāna, Ven.	asked about meditation	AN10.26
+Kāḷī of Kurughara, layperson	asking about Maiden’s Questions	AN10.26
 kasiṇas	not the goal	AN10.26
 gratification, danger, escape	Buddha sees	AN10.26
 directly knowing (abhijānanta)	difference between Buddha’s instruction and others	AN10.27
@@ -13052,7 +13049,7 @@ impermanence	of even best things	AN10.29
 perceptions (saññā)	limited, expansive, limitless	AN10.29
 dimension of nothingness (ākiñcaññāyatana)	“There is nothing at all”	AN10.29
 views of other sects	best of	AN10.29
-“I might not be, and it might not be mine. I will not be, and it will not be mine” (no cassaṁ, no ca me siyā, na bhavissāmi, na me bhavissatī’ti)		AN10.29
+“I might not be, and it might not be mine. I will not be, and it will not be mine” (no cassaṁ, no ca me siyā, na bhavissāmi, na me bhavissatī’ti)	will be repulsed by continued existence	AN10.29
 becoming (bhava)	disgust with	AN10.29
 dimension of neither perception nor non-perception (nevasaññanāsaññāyatana)	supreme purification	AN10.29
 nibbāna in this very life (paramadiṭṭhadhammanibbāna)	proclaiming	AN10.29
@@ -13106,7 +13103,7 @@ harmony in Saṅgha (saṅghasāmaggī)	definition	AN10.40
 harmony in Saṅgha (saṅghasāmaggī)	results	AN10.40
 disputes	cause	AN10.41
 Dhamma teaching	incorrectly causes disputes	AN10.42
-admonishment		AN10.44
+admonishment	how to do skillfully	AN10.44
 speech	reflecting on	AN10.44
 accusations	preparing to make an accusation	AN10.44
 self-reflection	preparing to make an accusation	AN10.44
@@ -13430,7 +13427,7 @@ memorizing	cause for growth in skillful qualities	AN10.68
 investigation of meaning (atthūpaparikkhā)	cause for growth in skillful qualities	AN10.68
 practicing according to the Dhamma (dhammānudhammappaṭipanna)	cause for growth in skillful qualities	AN10.68
 heedfulness (appamāda)	cause for growth in skillful qualities	AN10.68
-talk (kathā)		AN10.69
+talk (kathā)	good and bad topics	AN10.69
 speech	useless (tiraccha)	AN10.69
 useless speech (tiracchāna)	monks engaging in	AN10.69
 kings	useless speech about	AN10.69
@@ -13456,7 +13453,7 @@ wisdom (paññā)	speech about	AN10.69
 freedom (vimutti)	speech about	AN10.69
 knowledge and vision of freedom (vimuttiñāṇadassana)	speech about	AN10.69
 wanderers of other sects (aññatitthiya paribbājaka)	proper topics of discussion will make you outshine	AN10.69
-talk (kathā)		AN10.70
+talk (kathā)	good and bad topics	AN10.70
 speech	useless (tiraccha)	AN10.70
 praise (pasaṁsā)	reasons for based on topics of discussion	AN10.70
 few wishes (appiccha)	praise for person with who talks about	AN10.70
@@ -15982,3 +15979,105 @@ grasping (upādāna)	aggregates	SN22.63
 Māra	bound by; aggregates	SN22.63
 Māra	bound by; aggregates	SN22.64
 conceiving (maññita)	aggregates	SN22.64
+Dhamma teaching	in brief (saṅkhittena), aggregates	SN22.65
+delight (abhinanda)	in aggregates, bound to Māra	SN22.65
+impermanence	give up desire for what is	SN22.66
+impermanence	aggregates	SN22.66
+suffering (dukkha)	give up desire for what is	SN22.67
+suffering (dukkha)	aggregates	SN22.67
+not-self	give up desire for what is	SN22.68
+not-self	aggregates	SN22.68
+self (atta)	what belongs to	SN22.69
+Rādha, Ven.	knowing and seeing	SN22.71
+knowing and seeing	aggregates not self	SN22.71
+I making (ahaṅkāra)	knowing and seeing so that there is no	SN22.71
+Suādha, Ven.	knowing and seeing	SN22.72
+knowing and seeing	aggregates not self	SN22.72
+I making (ahaṅkāra)	knowing and seeing so that there is no	SN22.72
+gratification, danger, escape	aggregates	SN22.73
+ordinary person (puthujjana)	aggregates	SN22.73
+noble disciple (ariya sāvaka)	aggregates, understanding	SN22.73
+origin, ending (samudayañca atthaṅgamañca)	aggregates	SN22.74
+imperturbable (āneñja)	arahants	SN22.76
+arahants	best of all beings	SN22.77
+lions roar	simile for Buddha teaching	SN22.78
+devas	fear upon learning they are impermanent	SN22.78
+impermanence	devas learning they are not permanent	SN22.78
+identity (sakkāya)	Buddha teaches ending of	SN22.78
+fear (bhaya)	devas learning they are not permanent	SN22.78
+form (rūpa)	called because it is deformed	SN22.79
+feelings (vedanā)	called because it feels	SN22.79
+feelings (vedanā)	pleasure, pain, neutral	SN22.79
+perceptions (saññā)	called because it perceives	SN22.79
+perceptions (saññā)	blue, yellow, red, and white	SN22.79
+formations (saṅkhāra)	called because they produce conditioned phenomena	SN22.79
+consciousness (viññāṇa)	called because it cognizes	SN22.79
+consciousness (viññāṇa)	sour, bitter, pungent, sweet, hot, mild, salty, and bland 	SN22.79
+abandoning (pajahati, pahāna)	aggregates	SN22.79
+arahants	neither give up nor accumulate	SN22.79
+seeds	young seedlings needing water, simile for young monastics	SN22.80
+calf	simile for young monastics	SN22.80
+going forth (pabbajja)	new monastics needing care	SN22.80
+Sahampati, Brahmā	requesting the Buddha to support new monastics	SN22.80
+livelihood	monastic	SN22.80
+alms gathering practice	difficult	SN22.80
+firebrand	simile for poorly lived monastic life	SN22.80
+monastic life	wrongly practiced	SN22.80
+monastic life	goal of	SN22.80
+signless (animitta)	meditation	SN22.80
+foundations of mindfulness, four (satipaṭṭhāna)	ending of wrong thoughts	SN22.80
+views favoring continued existence (bhavadiṭṭhi)	overcoming	SN22.80
+views favoring ending existence (vibhavadiṭṭhi)	overcoming	SN22.80
+knowing and seeing	ending of taints	SN22.81
+bodhipakkhiyā dhammā	Buddha taught analytically	SN22.81
+self (atta)	possessing aggregates, aggregates being in	SN22.81
+aggregates	as self	SN22.81
+uposatha	sermon given on	SN22.82
+aggregates (khandha)	rooted in desire	SN22.82
+aggregates (khandha)	grasping, different kinds of	SN22.82
+aggregates (khandha)	desire for future	SN22.82
+aggregates (khandha)	scope of	SN22.82
+grasping (upādāna)	aggregates and	SN22.82
+contact (phassa)	cause of feeling aggregate	SN22.82
+contact (phassa)	cause of perception aggregate	SN22.82
+contact (phassa)	cause of formations aggregate	SN22.82
+name and form (nāma rūpa)	cause of consciousness aggregate	SN22.82
+elements, four great (cattāri mahābhūtāni)	cause of form aggregate	SN22.82
+identity view (sakkāyadiṭṭhi)	arises because of regarding aggregates as self	SN22.82
+gratification (assāda)	of aggregates	SN22.82
+danger (ādīnava)	of aggregates	SN22.82
+escape (nissaraṇa)	from aggregates	SN22.82
+aggregates (khandha)	as not self	SN22.82
+conceit (māna)	knowing and seeing so that there is no	SN22.82
+I making (ahaṅkāra)	knowing and seeing so that there is no	SN22.82
+not-self	aggregates	SN22.82
+underlying tendency to conceit (mānānusaya)	knowing and seeing so that there is no	SN22.82
+impermanence	of aggregates	SN22.82
+aggregates (khandha)	as not self	SN22.82
+not-self	what self will the deeds of not-self affect?	SN22.82
+impermanence	suffering	SN22.82
+suffering (dukkha)	self	SN22.82
+disillusionment and dispassion (nibbidāvirāga)	being freed	SN22.82
+“I am” (asmi)		xref conceit “I am” (asmimāna)
+conceit “I am” (asmimāna)		xref “I am” (asmi)
+precipice		xref cliff
+Ānanda, Ven.	Ven. Puṇṇa Mantāṇiputta was very helpful	SN22.83
+Puṇṇa Mantāṇiputta, Ven.	very helpful to Ven. Ānanda	SN22.83
+“I am” (asmi)	occurs because of grasping	SN22.83
+mirrors	simile for grasping at aggregates	SN22.83
+youth	checking reflection, simile for grasping	SN22.83
+grasping (upādāna)	like youth checking mirror	SN22.83
+Tissa, Ven.	Buddha’s cousin	SN22.84
+dissatisfaction (anabhirata)	living the spiritual life	SN22.84
+ordinary person (puthujjana)	like traveller not skilled in path	SN22.84
+travellers	simile for person skilled or not skilled in path	SN22.84
+doubt (vicikicchā)	like fork in the road	SN22.84
+wrong eightfold path	like left-hand path	SN22.84
+noble eightfold path (ariya aṭṭhangika magga)	like right-hand path	SN22.84
+forest	simile for ignorance	SN22.84
+ignorance (avijjā)	like sweltering forest grove	SN22.84
+marsh	simile for sense pleasures	SN22.84
+cliff	simile for anger	SN22.84
+anger (kodha)	like cliff	SN22.84
+nibbāna	like level parkland	SN22.84
+Buddha, the	helping monk	SN22.84
