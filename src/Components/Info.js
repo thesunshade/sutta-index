@@ -32,7 +32,7 @@ export default function Info() {
           </p>
           <p>In some instances, a specific word may be indexed but not appear in the sutta. </p>
           <p>
-            for the sake of simplicity, thee grammar of head and sub words may not always match. For example, <i>energetic, as protector</i> might be more accurately written as <i>energetic, being as protector</i>, which more verbosely would be written as <i>energetic, being energetic as protector.</i>
+            For the sake of simplicity, the grammar of head and sub words may not always match. For example, <i>energetic, as protector</i> might be more accurately written as <i>energetic, being as protector</i>, which more verbosely would be written as <i>energetic, being energetic serves as a protector.</i>
           </p>
           <p>In all cases, one should actually read the sutta being refrenced and not rely on the index headings or subheadings. For example, some wrong views may be indexed in a way that is not immediately apparent that they are such. So actually reading the sutta is critical for understanding the matter at hand.</p>
           <p>Diacritics are ignored for alphabetization.</p>
