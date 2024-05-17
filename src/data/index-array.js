@@ -60920,6 +60920,131 @@ export const indexArray =[
           "simile for conceit “I am”; scent of"
      ],
      [
+          "SN22.90",
+          "Ānanda, Ven.",
+          "teaching Ven. Channa"
+     ],
+     [
+          "SN22.90",
+          "anxiety (paritassanā)",
+          "because of grasping at aggregates as self"
+     ],
+     [
+          "SN22.90",
+          "Channa, Ven.",
+          "requesting teaching"
+     ],
+     [
+          "SN22.90",
+          "dependent origination",
+          "as middle way"
+     ],
+     [
+          "SN22.90",
+          "duality (dvaya)",
+          "existence and non-existence"
+     ],
+     [
+          "SN22.90",
+          "encouragement",
+          "capable of understanding Dhamma"
+     ],
+     [
+          "SN22.90",
+          "existence (atthitā)",
+          "duality of"
+     ],
+     [
+          "SN22.90",
+          "extremes (anta)",
+          "existence and non-existence"
+     ],
+     [
+          "SN22.90",
+          "mental barrenness (cetokhila)",
+          "Ven. Channa cutting through"
+     ],
+     [
+          "SN22.90",
+          "middle (majjha)",
+          "dependent origination as middle path"
+     ],
+     [
+          "SN22.90",
+          "non-existence (natthiā)",
+          "duality of"
+     ],
+     [
+          "SN22.90",
+          "spiritual companion (sabrahmacārī)",
+          "Ven. Channa praising"
+     ],
+     [
+          "SN22.90",
+          "world, the",
+          "shackled by attraction, grasping, and insisting "
+     ],
+     [
+          "SN22.91",
+          "I making (ahaṅkāra)",
+          "knowing and seeing so that there is no "
+     ],
+     [
+          "SN22.91",
+          "possessiveness (mamaṅkāra)",
+          "knowing and seeing so that there is no "
+     ],
+     [
+          "SN22.93",
+          "aggregates",
+          "like grasping plants on river bank"
+     ],
+     [
+          "SN22.93",
+          "rivers",
+          "simile for regarding aggregates for self; grasping plants on bank"
+     ],
+     [
+          "SN22.94",
+          "aggregates",
+          "permanent does not exist"
+     ],
+     [
+          "SN22.94",
+          "Buddha, the",
+          "doesn’t dispute with the world"
+     ],
+     [
+          "SN22.94",
+          "disputes (vivadati)",
+          "Buddha does not dispute with world"
+     ],
+     [
+          "SN22.94",
+          "existence (atthitā)",
+          "Buddha agrees with the world"
+     ],
+     [
+          "SN22.94",
+          "lotuses",
+          "simile for Buddha rising above the world"
+     ],
+     [
+          "SN22.94",
+          "non-existence (natthiā)",
+          "Buddha agrees with the world"
+     ],
+     [
+          "SN22.94",
+          "water lilies",
+          "simile for Buddha rising above the world"
+     ],
+     [
+          "SN22.94",
+          "worldly conditions (lokadhamma)",
+          "aggregates"
+     ],
+     [
           "SN29.11–50",
           "giving (dāna)",
           "to gain rebirth"

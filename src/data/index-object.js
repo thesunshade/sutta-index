@@ -1324,6 +1324,18 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
+               "like grasping plants on river bank": {
+                    "locators": [
+                         "SN22.93"
+                    ],
+                    "xrefs": []
+               },
+               "permanent does not exist": {
+                    "locators": [
+                         "SN22.94"
+                    ],
+                    "xrefs": []
+               },
                "counter_value": 1
           },
           "aggregates (khandha)": {
@@ -2586,6 +2598,12 @@ export const indexObject ={
                          "SN22.83"
                     ],
                     "xrefs": []
+               },
+               "teaching Ven. Channa": {
+                    "locators": [
+                         "SN22.90"
+                    ],
+                    "xrefs": []
                }
           },
           "ānantarika kamma": {
@@ -3380,7 +3398,8 @@ export const indexObject ={
                     "locators": [
                          "MN22",
                          "MN138",
-                         "SN22.7"
+                         "SN22.7",
+                         "SN22.90"
                     ],
                     "xrefs": []
                },
@@ -10371,6 +10390,12 @@ export const indexObject ={
                          "SN22.84"
                     ],
                     "xrefs": []
+               },
+               "doesn’t dispute with the world": {
+                    "locators": [
+                         "SN22.94"
+                    ],
+                    "xrefs": []
                }
           },
           "“Buddha”, the word": {
@@ -11524,6 +11549,12 @@ export const indexObject ={
                     "locators": [
                          "MN144",
                          "SN35.87"
+                    ],
+                    "xrefs": []
+               },
+               "requesting teaching": {
+                    "locators": [
+                         "SN22.90"
                     ],
                     "xrefs": []
                }
@@ -16951,6 +16982,12 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
+               "as middle way": {
+                    "locators": [
+                         "SN22.90"
+                    ],
+                    "xrefs": []
+               },
                "counter_value": 1
           },
           "dependent origination (paṭiccasamuppāda)": {
@@ -20077,6 +20114,15 @@ export const indexObject ={
                },
                "counter_value": 2
           },
+          "disputes (vivadati)": {
+               "Buddha does not dispute with world": {
+                    "locators": [
+                         "SN22.94"
+                    ],
+                    "xrefs": []
+               },
+               "counter_value": 3
+          },
           "disrepute": {
                "fear of": {
                     "locators": [
@@ -21074,6 +21120,12 @@ export const indexObject ={
                "consciousness dependent on": {
                     "locators": [
                          "SN35.93"
+                    ],
+                    "xrefs": []
+               },
+               "existence and non-existence": {
+                    "locators": [
+                         "SN22.90"
                     ],
                     "xrefs": []
                }
@@ -22504,6 +22556,12 @@ export const indexObject ={
                          "AN10.222"
                     ],
                     "xrefs": []
+               },
+               "capable of understanding Dhamma": {
+                    "locators": [
+                         "SN22.90"
+                    ],
+                    "xrefs": []
                }
           },
           "end maker (antakara)": {
@@ -23753,7 +23811,23 @@ export const indexObject ={
                          "Iti49"
                     ],
                     "xrefs": []
-               }
+               },
+               "counter_value": 1
+          },
+          "existence (atthitā)": {
+               "duality of": {
+                    "locators": [
+                         "SN22.90"
+                    ],
+                    "xrefs": []
+               },
+               "Buddha agrees with the world": {
+                    "locators": [
+                         "SN22.94"
+                    ],
+                    "xrefs": []
+               },
+               "counter_value": 2
           },
           "expansive release of heart (mahaggata cetovimutti)": {
                "": {
@@ -24145,6 +24219,14 @@ export const indexObject ={
                     "xrefs": [
                          "xref nibbāna in this very life (paramadiṭṭhadhammanibbāna)"
                     ]
+               }
+          },
+          "extremes (anta)": {
+               "existence and non-existence": {
+                    "locators": [
+                         "SN22.90"
+                    ],
+                    "xrefs": []
                }
           },
           "eye of wisdom (paññācakkhu)": {
@@ -38044,7 +38126,8 @@ export const indexObject ={
                          "MN112",
                          "SN22.71",
                          "SN22.72",
-                         "SN22.82"
+                         "SN22.82",
+                         "SN22.91"
                     ],
                     "xrefs": []
                }
@@ -44854,6 +44937,12 @@ export const indexObject ={
                          "SN22.89"
                     ],
                     "xrefs": []
+               },
+               "simile for Buddha rising above the world": {
+                    "locators": [
+                         "SN22.94"
+                    ],
+                    "xrefs": []
                }
           },
           "love": {
@@ -47327,6 +47416,12 @@ export const indexObject ={
                          "AN9.91"
                     ],
                     "xrefs": []
+               },
+               "Ven. Channa cutting through": {
+                    "locators": [
+                         "SN22.90"
+                    ],
+                    "xrefs": []
                }
           },
           "mental conduct (manosamācāra)": {
@@ -47761,6 +47856,14 @@ export const indexObject ={
                     "xrefs": [
                          "xref wrong livelihood (micchā ājīva)"
                     ]
+               }
+          },
+          "middle (majjha)": {
+               "dependent origination as middle path": {
+                    "locators": [
+                         "SN22.90"
+                    ],
+                    "xrefs": []
                }
           },
           "middle monastics": {
@@ -52713,6 +52816,20 @@ export const indexObject ={
                "definition": {
                     "locators": [
                          "AN10.113"
+                    ],
+                    "xrefs": []
+               }
+          },
+          "non-existence (natthiā)": {
+               "duality of": {
+                    "locators": [
+                         "SN22.90"
+                    ],
+                    "xrefs": []
+               },
+               "Buddha agrees with the world": {
+                    "locators": [
+                         "SN22.94"
                     ],
                     "xrefs": []
                }
@@ -57671,6 +57788,12 @@ export const indexObject ={
                "Buddha has abandoned all": {
                     "locators": [
                          "MN72"
+                    ],
+                    "xrefs": []
+               },
+               "knowing and seeing so that there is no": {
+                    "locators": [
+                         "SN22.91"
                     ],
                     "xrefs": []
                }
@@ -63925,6 +64048,12 @@ export const indexObject ={
                "great rivers slant to the east, simile for right efforts leading to nibbāna": {
                     "locators": [
                          "SN49.1"
+                    ],
+                    "xrefs": []
+               },
+               "simile for regarding aggregates for self; grasping plants on bank": {
+                    "locators": [
+                         "SN22.93"
                     ],
                     "xrefs": []
                }
@@ -71246,6 +71375,12 @@ export const indexObject ={
                     "locators": [
                          "AN10.88",
                          "AN11.6"
+                    ],
+                    "xrefs": []
+               },
+               "Ven. Channa praising": {
+                    "locators": [
+                         "SN22.90"
                     ],
                     "xrefs": []
                }
@@ -79438,6 +79573,12 @@ export const indexObject ={
                          "SN22.89"
                     ],
                     "xrefs": []
+               },
+               "simile for Buddha rising above the world": {
+                    "locators": [
+                         "SN22.94"
+                    ],
+                    "xrefs": []
                }
           },
           "waves": {
@@ -81646,6 +81787,12 @@ export const indexObject ={
                          "SN35.116"
                     ],
                     "xrefs": []
+               },
+               "shackled by attraction, grasping, and insisting": {
+                    "locators": [
+                         "SN22.90"
+                    ],
+                    "xrefs": []
                }
           },
           "worldling (puthujjana)": {
@@ -81687,6 +81834,12 @@ export const indexObject ={
                "definition": {
                     "locators": [
                          "AN8.5"
+                    ],
+                    "xrefs": []
+               },
+               "aggregates": {
+                    "locators": [
+                         "SN22.94"
                     ],
                     "xrefs": []
                }
