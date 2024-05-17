@@ -859,6 +859,7 @@ export const headwordsArray =[
      "floods (ogha)",
      "flowers",
      "flying",
+     "foam (pheṇa)",
      "follower by faith (saddhānusārī)",
      "follower of the teachings (dhammānusārī)",
      "followers",

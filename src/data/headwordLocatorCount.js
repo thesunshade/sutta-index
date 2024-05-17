@@ -536,6 +536,10 @@ export const indexObject =[
           19
      ],
      [
+          "aggregates",
+          19
+     ],
+     [
           "uposatha",
           18
      ],
@@ -581,10 +585,6 @@ export const indexObject =[
      ],
      [
           "bad people (asappurisa)",
-          18
-     ],
-     [
-          "aggregates",
           18
      ],
      [
@@ -8617,6 +8617,10 @@ export const indexObject =[
      ],
      [
           "following a line of inquiry (vīmaṁsānucarita)",
+          1
+     ],
+     [
+          "foam (pheṇa)",
           1
      ],
      [

@@ -24560,6 +24560,16 @@ export const locatorBookObject ={
       "aggregates"
     ],
     [
+      "SN22.95",
+      "aggregates",
+      "like lump of foam"
+    ],
+    [
+      "SN22.95",
+      "foam (pheṇa)",
+      "simile for aggregates"
+    ],
+    [
       "SN29.11–50",
       "giving (dāna)",
       "to gain rebirth"

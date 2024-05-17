@@ -1336,6 +1336,12 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
+               "like lump of foam": {
+                    "locators": [
+                         "SN22.95"
+                    ],
+                    "xrefs": []
+               },
                "counter_value": 1
           },
           "aggregates (khandha)": {
@@ -27518,6 +27524,14 @@ export const indexObject ={
                     "locators": [
                          "MN73",
                          "MN77"
+                    ],
+                    "xrefs": []
+               }
+          },
+          "foam (pheṇa)": {
+               "simile for aggregates": {
+                    "locators": [
+                         "SN22.95"
                     ],
                     "xrefs": []
                }
