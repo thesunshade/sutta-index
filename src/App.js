@@ -13,7 +13,6 @@ import Alphabet from "./Components/Alphabet.js";
 // images
 import settingsIcon from "./images/settings.png";
 import infoDot from "./images/info-dot.png";
-import upIcon from "./images/7122424_chevron_up_double_icon.png";
 import themeIcon from "./images/8673129_ic_fluent_dark_theme_filled.png";
 import VisuallyHidden from "./Components/VisuallyHidden.js";
 
@@ -40,13 +39,6 @@ function App() {
       }
     }
   });
-
-  function closeAllDrawers() {
-    const allHideableAreas = document.getElementsByClassName("hideable-area");
-    for (let i = 0; i < allHideableAreas.length; i++) {
-      allHideableAreas[i].classList.add("hidden");
-    }
-  }
 
   if (localStorage.theme === "dark") {
     document.body.classList.add("dark");
