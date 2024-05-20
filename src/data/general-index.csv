@@ -348,7 +348,7 @@ stupidity		xref unwise (duppañña)
 unwise (duppañña)		xref stupidity
 intention (saṅkappa)		xref inclination of the mind (cittuppāda)
 inclination of the mind (cittuppāda)		xref intention (saṅkappa)
-underlying tendencies (anusaya)		xref underlying tendency to conceit (mānānusaya)
+underlying tendencies (anusaya)		xref conceit, underlying tendency (mānānusaya)
 underlying tendencies (anusaya)		xref underlying tendency to greed (rāgānusaya)
 underlying tendencies (anusaya)		xref underlying tendency to ignorance (avijjānusaya)
 underlying tendencies (anusaya)		xref underlying tendency to repulsion (paṭighānusaya)
@@ -845,8 +845,8 @@ escape (nissaraṇa)		xref gratification (assāda)
 gratification (assāda)		xref danger (ādīnava)
 escape (nissaraṇa)		xref danger (ādīnava)
 danger (ādīnava)		xref escape (nissaraṇa)
-underlying tendency to conceit (mānānusaya)		xref conceit (māna)
-conceit (māna)		xref underlying tendency to conceit (mānānusaya)
+underlying tendency to conceit (mānānusaya)		xref conceit, underlying tendency (mānānusaya)
+conceit (māna)		xref conceit, underlying tendency (mānānusaya)
 integrity, person of		xref good people (sappurisa)
 malicious intentions		xref intentions of hate (paduṭṭhamanasaṅkappa)
 relinquishment		xref letting go (paṭinissagga)
@@ -3266,6 +3266,7 @@ perception of ugliness (asubhasaññā)	examining body inside and out	Thag6.4
 heedlessness (pamāda)	like a monkey swinging	Thag6.5
 sorrow	like water falls off of louts leaf	Thag6.5
 monastic life	not getting results for a long time	Thag6.6
+finger-snap	no peace even for a finger-snap	Thag6.6
 suicide	aborted attempt	Thag6.6
 monastic life	advice for	Thag6.7
 laziness (ālasya, anuṭṭhāna)	overcome	Thag6.7
@@ -4740,6 +4741,7 @@ breathless meditation	Bodhisatta practicing	MN36
 devas	Bodhisatta’s interaction with during meditation	MN36
 food	Bodhisatta cutting off, reducing	MN36
 rose-apple tree (jambu)	Bodhisatta meditating under	MN36
+ploughing	festival, Bodhisatta meditating during	MN36
 first jhāna	Bodhisatta experiencing as child	MN36
 pleasure (sukha)	not connected with sense pleasure	MN36
 group of five monks (pañcavaggiyā bhikkhū)	abandoning the Bodhisatta	MN36
@@ -4992,7 +4994,7 @@ identity (sakkāya)	origin, cessation, etc.	MN44
 aggregates (khandha)	identity	MN44
 craving (taṇha)	origin of identity	MN44
 noble eightfold path (ariya aṭṭhangika magga)	end of identity (sakkāya)	MN44
-grasping (upādāna)	aggregates and	MN44
+grasping (upādāna)	aggregates	MN44
 aggregates (khandha)	grasping and	MN44
 ordinary person (puthujjana)	identity view	MN44
 noble disciple (ariya sāvaka)	identity view	MN44
@@ -5566,7 +5568,7 @@ repulsion (paṭigha)	equanimity to give up	MN62
 meditation on ugliness (asubhabhāvanā)	to abandon lust	MN62
 lust (rāga)	meditation on ugliness to give up	MN62
 impermanence meditation (aniccasaññābhāvanā)	to abandon conceit “I am”	MN62
-conceit “I am” (asmimāna)	impermanence meditation to give up	MN62
+conceit “I am” (asmimāna)	perception of impermanence to remove	MN62
 Māluṅkyaputta, Ven.	undeclared points	MN63
 undeclared (abyākata)	things undeclared by the Buddha	MN63
 speculation about the world (lokacintā)	as finite or infinite	MN63
@@ -6541,7 +6543,7 @@ Sāriputta, Ven.	right livelihood	MN97
 wives	influencing husbands	MN97
 husbands	being influenced by wives	MN97
 heedfulness (appamāda)	lay life	MN97
-right livelihood (sammā ājīva)	in the face of difficulties	MN97
+livelihood	in the face of difficulties	MN97
 family	caring for by breaking precepts	MN97
 wardens of hell (nirayapāla)	pleading with	MN97
 hell (niraya)	avoiding by blaming others	MN97
@@ -6917,7 +6919,7 @@ aggregates (khandha)	rooted in desire	MN109
 aggregates (khandha)	grasping, different kinds of	MN109
 aggregates (khandha)	desire for future	MN109
 aggregates (khandha)	scope of	MN109
-grasping (upādāna)	aggregates and	MN109
+grasping (upādāna)	aggregates	MN109
 contact (phassa)	cause of feeling aggregate	MN109
 contact (phassa)	cause of perception aggregate	MN109
 contact (phassa)	cause of formations aggregate	MN109
@@ -6931,7 +6933,7 @@ aggregates (khandha)	as not self	MN109
 conceit (māna)	knowing and seeing so that there is no	MN109
 I making (ahaṅkāra)	knowing and seeing so that there is no	MN109
 not-self	aggregates	MN109
-underlying tendency to conceit (mānānusaya)	knowing and seeing so that there is no	MN109
+conceit, underlying tendency (mānānusaya)	knowing and seeing so that there is no	MN109
 impermanence	of aggregates	MN109
 aggregates (khandha)	as not self	MN109
 not-self	what self will the deeds of not-self affect?	MN109
@@ -7522,7 +7524,7 @@ aggregates (khandha)	future	MN131
 aggregates (khandha)	as self	MN131
 ordinary person (puthujjana)	identity view	MN131
 delight (nandi)	in aggregates	MN131
-views about the self (attavāda)	aggregates and	MN131
+views about the self (attavāda)	aggregates	MN131
 Samiddhi, Ven.	on One Fine Night	MN133
 Mahā Kaccāna, Ven.	explaining brief statement	MN133
 heartwood	simile of asking question from monk when should have asked the Buddha	MN133
@@ -8324,9 +8326,12 @@ giving (dāna)	moderation in	AN1.322
 giving (dāna)	moderation in	AN1.323
 receiving gifts	recipient should know moderation	AN1.323
 laziness (kusīta)	live in suffering	AN1.325
-rebirth	Buddha doesn’t approve	AN1.328-332
-rebirth	like small bit of excrement	AN1.328-332
-finger-snap	rebirth not approved for even a fingersnap	AN1.328-332
+rebirth	Buddha doesn’t approve	AN1.328
+rebirth	like small bit of excrement	AN1.328
+finger-snap	rebirth not approved for even a fingersnap	AN1.328
+rebirth	Buddha doesn’t approve	AN1.329
+rebirth	like small bit of excrement	AN1.329
+finger-snap	rebirth not approved for even a fingersnap	AN1.329
 punishment (daṇḍa)	as motivation to do good	AN2.1
 hell (niraya)	as motivation to do good	AN2.1
 lay life	duty to support saṅgha	AN2.2
@@ -11465,6 +11470,7 @@ purity (suddhi, pārisuddhi)	purifying good qualities by revealing them	AN7.70
 Sāriputta, Ven.	reflecting on good qualities	AN7.70
 skillful qualities (kusala dhamma)	how to develop	AN7.70
 development (bhāvanā)	being committed to	AN7.71
+undeveloped (abhāvita)	bodhipakkhiyā dhammā	AN7.71
 wishing (iccha)	just wishing doesn’t bring results	AN7.71
 chickens	simile for developing good qualities, not just wishing	AN7.71
 bodhipakkhiyā dhammā	development	AN7.71
@@ -11548,7 +11554,7 @@ virtue (sīla)	cause of wisdom	AN8.2
 learned (bahussutā)	cause of wisdom	AN8.2
 energetic (āraddhavīriya)	cause of wisdom	AN8.2
 talk (bhassa)	on Dhamma leads to wisdom	AN8.2
-noble silence (ariya tuṇhībhāva)		AN8.2
+noble silence (ariya tuṇhībhāva)	when gathering together should either discuss Dhamma or maintain noble silence	AN8.2
 aggregates (khandha)	observing rise and fall leads to wisdom	AN8.2
 knowing knows, seeing sees (jānaṁ jānāti passaṁ passatī)	mendicant with wisdom	AN8.2
 love (piya)	qualities that lead to	AN8.2
@@ -11575,8 +11581,8 @@ Devadatta	overwhelmed by worldly conditions	AN8.7
 evil wishes (pāpiccha)	overcome	AN8.7
 friends, bad	overcome	AN8.7
 Uttara, Ven.	whatever is well spoken is spoken by the Buddha	AN8.8
-Vessavaṇa, deva king		AN8.8
-Sakka, Lord of Gods		AN8.8
+Vessavaṇa, deva king	hearing a Dhamma talk	AN8.8
+Sakka, Lord of Gods	encouraging a monk to teach	AN8.8
 grains	simile of teachings coming from the Buddha	AN8.8
 well spoken (subhāsita)	whatever is well spoken is spoken by the Buddha	AN8.8
 fundamentals of the spiritual life (ādibrahmacariya)	qualities to overcome	AN8.8
@@ -12487,6 +12493,8 @@ dwellings (senāsana)	gift of dwelling to Saṅgha greater than gift of food	AN9
 refuges	going for is greater than gifts	AN9.20
 precepts, five	greater than going for refuge	AN9.20
 loving-kindness (mettā)	greater than following precepts	AN9.20
+cows	time to pull cow’s udder practicing loving-kindness	AN9.20
+finger-snap	perception of impermanence	AN9.20
 perception of impermanence (aniccasaññā)	for a finger snap	AN9.20
 perception of impermanence (aniccasaññā)	greater than loving-kindness	AN9.20
 Uttarakuru, people of	surpassing gods	AN9.21
@@ -16042,7 +16050,7 @@ aggregates (khandha)	rooted in desire	SN22.82
 aggregates (khandha)	grasping, different kinds of	SN22.82
 aggregates (khandha)	desire for future	SN22.82
 aggregates (khandha)	scope of	SN22.82
-grasping (upādāna)	aggregates and	SN22.82
+grasping (upādāna)	aggregates	SN22.82
 contact (phassa)	cause of feeling aggregate	SN22.82
 contact (phassa)	cause of perception aggregate	SN22.82
 contact (phassa)	cause of formations aggregate	SN22.82
@@ -16056,7 +16064,7 @@ aggregates (khandha)	as not self	SN22.82
 conceit (māna)	knowing and seeing so that there is no	SN22.82
 I making (ahaṅkāra)	knowing and seeing so that there is no	SN22.82
 not-self	aggregates	SN22.82
-underlying tendency to conceit (mānānusaya)	knowing and seeing so that there is no	SN22.82
+conceit, underlying tendency (mānānusaya)	knowing and seeing so that there is no	SN22.82
 impermanence	of aggregates	SN22.82
 aggregates (khandha)	as not self	SN22.82
 not-self	what self will the deeds of not-self affect?	SN22.82
@@ -16150,5 +16158,138 @@ aggregates	permanent does not exist	SN22.94
 worldly conditions (lokadhamma)	aggregates	SN22.94
 lotuses	simile for Buddha rising above the world	SN22.94
 water lilies	simile for Buddha rising above the world	SN22.94
-foam (pheṇa)	simile for aggregates	SN22.95
-aggregates	like lump of foam	SN22.95
+foam (pheṇa)	simile for form	SN22.95
+form (rūpa)	like foam	SN22.95
+aggregates	like lump of foam, bubble, etc	SN22.95
+bubbles	simile for feelings	SN22.95
+feelings (vedanā)	like bubble	SN22.95
+mirages	simile for perception	SN22.95
+perceptions (saññā)	like mirage	SN22.95
+banana tree	simile for volitional formations	SN22.95
+volitional formations (saṅkhāra)	like banana tree	SN22.95
+magic	simile for consciousness	SN22.95
+consciousness (viññāṇa)	like magic trick	SN22.95
+life force (āyu, āyusaṅkhāra)	death	SN22.95
+heat (uṇha, usmā)	death	SN22.95
+situational awareness (sampajañña)	aggregates	SN22.95
+refuge (saraṇa)	being ones own	SN22.95
+head on fire	how to live	SN22.95
+individuality (attabhāva)	impermanent	SN22.96
+dung	no incarnation being permanent	SN22.96
+spiritual path (brahmacariya)	not possible if incarnation was permanent	SN22.96
+Bodhisatta	reborn as wheel-turning monarch	SN22.96
+kings	Bodhisatta reborn as	SN22.96
+wheel-turning monarchs	Bodhisatta reborn as	SN22.96
+formations (saṅkhāra)	impermanent	SN22.96
+dirt	not even little amount of aggregates permanent	SN22.97
+fingernail (nakhasikhā)	not even little amount of aggregates permanent	SN22.97
+spiritual path (brahmacariya)	not possible if aggregates permanent	SN22.97
+posts		xref pillars
+inconceivable beginning (anamatagga)	no first point evident	SN22.99
+oceans	dries up in future	SN22.99
+Sineru, king of mountains	disintegrates in future	SN22.99
+earth, the	burnt up in future	SN22.99
+leash (gaddula)	simile for attachment to aggregates	SN22.99
+dogs	simile for attachment to aggregates; leashed dog	SN22.99
+pillars	simile for attachment to aggregates	SN22.99
+leash (gaddula)	simile for attachment to aggregates	SN22.100
+dogs	simile for attachment to aggregates; leashed dog	SN22.100
+pillars	simile for attachment to aggregates	SN22.100
+postures	aggregates	SN22.100
+reviewing (paccavekkhaṇā)	done regularly	SN22.100
+picture (citta)	“Conduct,” “Fairing on”	SN22.100
+mind (citta)	more elaborate than picture called “Conduct”	SN22.100
+animal realm	no other order so diversified	SN22.100
+painter	simile for mind creating future	SN22.100
+future lives	like artist painting a picture	SN22.100
+ordinary person (puthujjana)	aggregates	SN22.100
+knowing (jānato)	origin and ending of aggregates	SN22.101
+seeing (passato)	origin and ending of aggregates	SN22.101
+taints (āsava)	ended by knowing and seeing aggregates	SN22.101
+development (bhāvanā)	not committed to	SN22.101
+wishing (iccha)	just wishing doesn’t bring results	SN22.101
+undeveloped (abhāvita)	bodhipakkhiyā dhammā	SN22.101
+wishing (iccha)	like chicken not sitting on eggs	SN22.101
+wishing (iccha)	like chicken sitting on eggs	SN22.101
+adze handle	simile for gradual progress	SN22.101
+chickens	simile for developing good qualities, not just wishing	SN22.101
+bodhipakkhiyā dhammā	development	SN22.101
+adze handle	simile for gradual progress	SN22.101
+gradual training (anupubbasikkhā)	like changes in adze handle, hard to see progress day by day	SN22.101
+ships	simile for gradual progress	SN22.101
+ropes	simile for gradual progress	SN22.101
+perception of impermanence (aniccasaññā)	removes desire for sense pleasures, etc.	SN22.102
+sense desire (kāmarāga)	perception of impermanence to remove	SN22.102
+desire for material existence (rūparāga)	perception of impermanence to remove	SN22.102
+desire for existence (bhavarāga)	perception of impermanence to remove	SN22.102
+ignorance (avijjā)	perception of impermanence to remove	SN22.102
+conceit “I am” (asmimāna)	perception of impermanence to remove	SN22.102
+farmers (kassaka)		SN22.102
+ploughing	simile for cutting through desires, etc.	SN22.102
+perception of impermanence (aniccasaññā)	like farmer ploughing field, reed cutter, mangos falling, etc.	SN22.102
+reeds	simile for cutting through desires, etc.	SN22.102
+mangos	simile for cutting through desires, etc.; stalk cut all fall	SN22.102
+roof peak	simile for perception of impermanence	SN22.102
+spikenard	simile for perception of impermanence	SN22.102
+sandalwood	simile for perception of impermanence	SN22.102
+sandalwood	simile for perception of impermanence	SN22.102
+moon	simile for perception of impermanence	SN22.102
+sun (ādicca)	simile for perception of impermanence	SN22.102
+perception of impermanence (aniccasaññā)	aggregates	SN22.102
+four noble truths pattern	identity (sakkāya)	SN22.103
+identity (sakkāya)	four noble truths pattern	SN22.103
+noble eightfold path (ariya aṭṭhangika magga)	end of identity (sakkāya)	SN22.103
+aggregates of clinging (pañcupādānakkhandhā)	suffering	SN22.104
+suffering (dukkha)	aggregates of clinging	SN22.104
+identity (sakkāya)	four noble truths pattern	SN22.105
+aggregates	should be completely understood	SN22.106
+stream-enterers (sotāpanna)	aggregates, truly understanding	SN22.109
+arahants	aggregates, not grasping	SN22.110
+ignorance (avijjā)	definition	SN22.113
+knowledge (vijjā)	definition	SN22.114
+Dhamma teachers	definition	SN22.115
+Dhamma teachers	definition	SN22.116
+fetters (saṁyojana)	aggregates and desire	SN22.120
+grasping (upādāna)	aggregates	SN22.121
+Mahā Koṭṭhita, Ven.	discussion with Ven. Sāriputta	SN22.122
+Sāriputta, Ven.	discussion with Ven. Mahā Koṭṭhita 	SN22.122
+aggregates of clinging (pañcupādānakkhandhā)	as impermanent, suffering, diseased, boil, etc.	SN22.122
+proper attention (yoniso manasikāra)	aggregates	SN22.122
+stream-enterers (sotāpanna)	should apply their minds to	SN22.122
+once returner (sakadāgāmī)	should apply their minds to	SN22.122
+non-returner (anāgāmi)	should apply their minds to	SN22.122
+arahants	should apply their minds to	SN22.122
+happiness in the present life (diṭṭhadhammasukhavihāra)	proper attention leads to	SN22.122
+mindfulness and clear comprehension (satisampajañña)	proper attention leads to	SN22.122
+proper attention (yoniso manasikāra)	happiness in present life	SN22.122
+proper attention (yoniso manasikāra)	mindfulness and clear comprehension	SN22.122
+Mahā Koṭṭhita, Ven.	discussion with Ven. Sāriputta	SN22.123
+Sāriputta, Ven.	discussion with Ven. Mahā Koṭṭhita 	SN22.123
+stream-enterers (sotāpanna)	should apply their minds to	SN22.123
+once returner (sakadāgāmī)	should apply their minds to	SN22.123
+non-returner (anāgāmi)	should apply their minds to	SN22.123
+arahants	should apply their minds to	SN22.123
+Kappa, Ven.	asking about I-making, etc.	SN22.124
+I making (ahaṅkāra)	knowing and seeing so that there is no 	SN22.124
+possessiveness (mamaṅkāra)	knowing and seeing so that there is no 	SN22.124
+conceit, underlying tendency (mānānusaya)	knowing and seeing so that there is no 	SN22.124
+“This is not mine, I am not this, this is not my self.”	aggregates	SN22.124
+Kappa, Ven.	asking about I-making, etc.	SN22.125
+extinguishment by not grasping (anupādāparinibbāna)	aggregates	SN22.125
+ignorance (avijjā)	definition	SN22.126
+knowledge (vijjā)	definition	SN22.126
+coals, hot (kukkuḷa)		xref pits
+coals, hot (kukkuḷa)		xref Hell of Hot Coals (kukkulaniraya)
+coals, hot (kukkuḷa)	aggregates	SN22.136
+aggregates	burning coals	SN22.136
+desire (chanda)	for what is impermanent	SN22.137
+greed (rāga)	for what is impermanent	SN22.138
+pleasure (sukha)	because of grasping at aggregates	SN22.150
+pain (dukkha)	because of grasping at aggregates	SN22.150
+“This is mine, I am this, this is my self”	because of grasping at aggregates	SN22.151
+views (diṭṭhi)	self and world one	SN22.152
+views about the self	self and world one	SN22.152
+views about the world	self and world one	SN22.152
+“I might not be, and it might not be mine. I will not be, and it will not be mine” (no cassaṁ, no ca me siyā, na bhavissāmi, na me bhavissatī’ti)	why view arises	SN22.153
+wrong view (micchā diṭṭhi)	aggregates	SN22.154
+identity view (sakkāyadiṭṭhi)	aggregates	SN22.155
