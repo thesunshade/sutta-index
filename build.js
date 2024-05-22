@@ -255,7 +255,7 @@ function createIndexObject() {
   try {
     fs.writeFileSync("./src/data/uniqueLocators.js", `export const uniqueLocators =${totalUniqueLocatorsLength}`);
   } catch (err) {
-    console.log("❌There was an error writing updateDate");
+    console.log("❌There was an error writing total unique locators");
     console.error(err);
   }
 
@@ -603,6 +603,7 @@ const currentDate = new Date().toLocaleString("en-gb", {
 const currentTime = new Date().toLocaleTimeString([], { hour: "numeric", minute: "2-digit", hour12: true });
 try {
   fs.writeFileSync("./src/data/updateDate.js", `export const updateDate ="${currentDate + ", " + currentTime}"`);
+  console.log(`📅 ${currentDate} ${currentTime}`);
 } catch (err) {
   console.log("❌There was an error writing updateDate");
   console.error(err);

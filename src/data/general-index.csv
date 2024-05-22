@@ -91,6 +91,13 @@ disputes	about Dhamma	SN56.9
 talk (kathā)	suitable and unsuitable	SN56.10
 speech	useless (tiraccha)	SN56.10
 oceans		xref Ganges river
+practices (paṭipatti)		xref wrong practice (micchāpaṭipadā)
+practices (paṭipatti)		xref right practice (sammāpaṭipadā)
+wrong practice (micchāpaṭipadā)		xref practices (paṭipatti)
+right practice (sammāpaṭipadā)		xref practices (paṭipatti)
+coals, hot (kukkuḷa)		xref pits
+coals, hot (kukkuḷa)		xref Hell of Hot Coals (kukkulaniraya)
+posts		xref pillars
 people (puggala)		xref person (puggala)
 sense bases		xref faculties, sense (indriya)
 celibacy		xref spiritual path (brahmacariya)
@@ -539,6 +546,10 @@ old age (jarā)		xref old age, sickness, and death
 old age, sickness, and death		xref old age (jarā)
 sickness		xref old age, sickness, and death
 death (maraṇa)		xref old age, sickness, and death
+results of actions		xref rebirth
+rebirth		xref results of actions
+rebirth		xref good rebirth (sugati)
+rebirth		xref bad rebirth (duggati)
 offerings		xref giving (dāna)
 heinous actions, five (ānantarika kamma)		xref schisms
 heinous actions, five (ānantarika kamma)		xref six grave crimes (chaccābhiṭhānāni abhabba)
@@ -1652,7 +1663,7 @@ islands	simile for heedfulness	Dhp25
 heedfulness (appamāda)	as best treasure	Dhp26
 heedfulness (appamāda)	 	CUSTOM:Dhp:Dhammapada Chapter 2:suttacentral.net/dhp21-32/en/sujato
 heedfulness (appamāda)	like wise person on mountain-top	Dhp28
-mountains	simile of wise person standing on	Dhp28
+mountains	simile for wise person, standing on	Dhp28
 heedfulness (appamāda)	like swift horse	Dhp29
 horses	simile for heedfulness	Dhp29
 Sakka, Lord of Gods	reason for rebirth as	Dhp30
@@ -4125,7 +4136,7 @@ corpse	drawback of form	MN13
 jhānas	gratification of feeling	MN13
 hurting oneself or others	not while in jhāna	MN13
 feelings (vedanā)	danger of is their impermanence	MN13
-Mahā Nāma the Sakyan	asking about understanding greed, etc., vs being free of	MN14
+Mahānāma the Sakyan	asking about understanding greed, etc., vs being free of	MN14
 sense pleasures (kāma, kāmaguṇa)	giving little gratification	MN14
 jhānas	as escape from sensual pleasures	MN14
 Bodhisatta	sense pleasures and	MN14
@@ -5123,7 +5134,7 @@ Māra	encouraging Buddha not to teach	MN49
 palm trees	cut off, simile of Buddha’s defilements cut off 	MN49
 Moggallāna, Ven.	Māra	MN50
 Māra	tormenting Ven. Moggallāna	MN50
-Kakusandha Buddha	Ven. Moggallāna in time of	MN50
+Kakusandha, Buddha	Ven. Moggallāna in time of	MN50
 Vidhura, Ven.	chief disciple of Kakusandha Buddha	MN50
 Sañjīva, Ven.	chief disciple of Kakusandha Buddha	MN50
 cremation	of monk while still alive	MN50
@@ -5286,7 +5297,7 @@ teacher’s fee (ācariyadhana)	wish to pay	MN52
 buildings	to be first used by the Saṅgha	MN53
 Ānanda, Ven.	on the trainee	MN53
 Buddha, the	sore back	MN53
-Mahā Nāma the Sakyan	on the trainee	MN53
+Mahānāma the Sakyan	on the trainee	MN53
 accomplishment in virtue (sīlasampadā)	definition	MN53
 sense doors, guarding (indriyesu guttadvāra)	definition	MN53
 eating	reflection to be done before	MN53
@@ -8259,7 +8270,7 @@ Anāthapiṇḍika, householder	foremost as a donor	AN1.249
 giving (dāna)	foremost givers	AN1.249
 Citta Macchikāsaṇḍika, householder	foremost who speak on Dhamma	AN1.250
 Hatthaka of Āḷavī, householder	foremost who attract a group	AN1.251
-Mahā Nāma the Sakyan	foremost who donate fine things	AN1.252
+Mahānāma the Sakyan	foremost who donate fine things	AN1.252
 giving (dāna)	foremost givers	AN1.252
 Ugga of Vesālī, householder	foremost who donate what is agreeable	AN1.253
 giving (dāna)	foremost givers	AN1.253
@@ -8860,7 +8871,7 @@ lifespans	in heaven	AN3.70
 unwholesome roots (rāga, dosa, moha)	noble eightfold path removes	AN3.71
 unwholesome roots (rāga, dosa, moha)	teaching for giving up	AN3.72
 Buddha, the	illness of	AN3.73
-Mahā Nāma the Sakyan	concentration and wisdom	AN3.73
+Mahānāma the Sakyan	concentration and wisdom	AN3.73
 noble disciple (ariya sāvaka)	virtue, concentration and wisdom of	AN3.73
 trainee (sekha)	virtue, concentration and wisdom of	AN3.73
 Nigaṇṭha Nāṭaputta	teachings of	AN3.74
@@ -8885,7 +8896,7 @@ reputation	gained by generosity	AN3.79
 generosity (cāga)	as cause for good reputation	AN3.79
 reputation	like fragrance that goes against wind	AN3.79
 good people (sappurisa)	praised by gods	AN3.79
-Sikhī Buddha	and disciple	AN3.80
+Sikhī, Buddha	and disciple	AN3.80
 Abhibhū, disciple of Sikhi Buddha	voice spread through galaxy	AN3.80
 world system (lokadhātu)	size	AN3.80
 Jambudīpa (India)	one thousand in a world system	AN3.80
@@ -9602,7 +9613,7 @@ integrity	seeing that someone is consistent	AN4.192
 worldly conditions (lokadhamma)	judging someone by how they respond	AN4.192
 discussion	judging someone by	AN4.192
 judging	people like observing fish	AN4.192
-questions, asking		AN4.192
+questions, asking	judging someone by their questions	AN4.192
 Bhaddiya the Licchavi	asks if Buddha is magician	AN4.193
 oral tradition (anussava)	going by	AN4.193
 lineage (paramparā)	going by	AN4.193
@@ -9612,7 +9623,7 @@ magic	conversion magic of Buddha	AN4.193
 conversion	Buddha not trying to convert people	AN4.193
 trees	being converted to Buddhism	AN4.193
 purity (suddhi, pārisuddhi)	factors for	AN4.194
-Vappa the Sakyan		AN4.195
+Vappa the Sakyan	results of actions	AN4.195
 results of actions	getting used up	AN4.195
 arahants	interacting with the world	AN4.195
 arahants	like shadow of pillar completely destroyed	AN4.195
@@ -9760,14 +9771,14 @@ association	with good people grows wisdom	AN4.248
 listening to Dhamma	grows wisdom	AN4.248
 proper attention (yoniso manasikāra)	leads to wisdom	AN4.248
 practicing	in line with Dhamma leads to wisdom	AN4.248
-lying		AN4.250
+lying	types of	AN4.250
 speech	declarations	AN4.250
 speech	declarations	AN4.251
 speech	declarations	AN4.252
 speech	declarations	AN4.253
 speech	declarations	AN4.254
 speech	declarations	AN4.255
-truthfulness		AN4.251
+truthfulness	ways to be	AN4.251
 direct knowledges (abhiññā)	function of	AN4.254
 aggregates (khandha)	understood by direct knowledge	AN4.254
 ignorance (avijjā)	given up by direct knowledge	AN4.254
@@ -9845,7 +9856,8 @@ encouragement	not personally accomplished	AN5.18
 practicing	not benefiting anyone	AN5.19
 practicing	for benefit of all	AN5.20
 encouragement	for benefit of all	AN5.20
-wholesome chain of causality		AN5.20
+wholesome chain of causality	starting with respect	AN5.21
+respect (gārava)	points of etiquette	AN5.21
 hindrances (nīvaraṇa)	as corruptions of the mind	AN5.23
 corruptions (upakkilesa)	five hindrances	AN5.23
 gold	corruptions of like five hindrances	AN5.23
@@ -9967,7 +9979,7 @@ sorrow	pulling out sorrow’s arrow	AN5.50
 hindrances (nīvaraṇa)	parasites of the mind	AN5.51
 wisdom (paññā)	removing the hindrances	AN5.51
 hindrances (nīvaraṇa)	like channels that disperse a river	AN5.51
-knowing ones own good		AN5.51
+knowing ones own good	hard without wisdom	AN5.51
 hindrances (nīvaraṇa)	heap of the unskillful	AN5.52
 meditation	factors that support	AN5.53
 digestion	good digestion helps meditation	AN5.53
@@ -10007,7 +10019,7 @@ separation from the loved	universality of	AN5.57
 actions (kamma)	all are owner of their actions	AN5.57
 fetters (saṁyojana)	removed by reviewing five subjects	AN5.57
 underlying tendencies (anusaya)	removed by reviewing five subjects	AN5.57
-Mahā Nāma the Licchavi		AN5.58
+Mahānāma the Licchavi	commenting on youth	AN5.58
 wealth	using to care for family	AN5.58
 wealth	using to honor, respect and esteem	AN5.58
 offerings	to gods	AN5.58
@@ -10093,8 +10105,8 @@ mendicants	like warriors	AN5.76
 warriors	like mendicants	AN5.76
 monastics	tempted by women	AN5.76
 disrobing	sensual desire	AN5.76
-defeat (pārājika)		AN5.75
-defeat (pārājika)		AN5.76
+defeat (pārājika)	like death of warrior	AN5.75
+defeat (pārājika)	like death of warrior	AN5.76
 disrobing	encouragement not to	AN5.76
 sense pleasures (kāma, kāmaguṇa)	similes for	AN5.76
 monastic life	dissatisfaction with	AN5.76
@@ -10137,7 +10149,7 @@ reviewing (paccavekkhaṇā)	trainee	AN5.89
 work	having much and competent in	AN5.90
 seclusion	not dedicated to leads to decline	AN5.90
 socializing	leads to decline	AN5.90
-talk (kathā)		AN5.90
+talk (kathā)	leads to decline	AN5.90
 generosity (cāga)	as an accomplishment	AN5.91
 accomplishments	faith, ethics, learning, generosity, wisdom	AN5.91
 accomplishments	ethics, immersion, wisdom, freedom, the knowledge and vision of freedom	AN5.92
@@ -10181,17 +10193,17 @@ monastic life	advice for new monastics	AN5.114
 wilderness (arañña)	newly ordained monastics	AN5.114
 bhikkhunīs	qualities of and rebirth	AN5.115
 speech	praise and dispraise	AN5.116
-speech	praise and dispraise	AN5.117
-speech	praise and dispraise	AN5.118
-speech	praise and dispraise	AN5.119
-speech	praise and dispraise	AN5.120
 bhikkhunīs	qualities of and rebirth	AN5.116
-wasting gifts		AN5.116
+wasting gifts	leads to hell	AN5.116
+speech	praise and dispraise	AN5.117
 jealousy (issā)	leads to hell	AN5.117
+speech	praise and dispraise	AN5.118
 wrong intention (micchā saṅkappa)	leading to	AN5.118
 right intention (sammā saṅkappa)	leads to heaven	AN5.118
+speech	praise and dispraise	AN5.119
 wrong speech (micchā vācā)	leads to hell	AN5.119
 right speech (sammā vācā)	leads to heaven	AN5.119
+speech	praise and dispraise	AN5.120
 wrong effort (micchāvāyāma)	leads to hell	AN5.120
 right effort (sammā vāyāma)	leads to heaven	AN5.120
 sickness	meditations to practice while sick	AN5.121
@@ -10260,8 +10272,8 @@ equanimity (upekkhā)	towards repulsive an unrepulsive	AN5.144
 hell (niraya)	breaking five precepts leads to	AN5.145
 heaven (sagga)	not breaking five precepts leads to	AN5.145
 alcohol	causing rebirth in hell	AN5.145
-Dhamma discussion		AN5.146
-listening to Dhamma		AN5.146
+Dhamma discussion	because of good friends	AN5.146
+listening to Dhamma	because of good friends	AN5.146
 work	don’t associate with monk who starts lots of	AN5.146
 disputes	don’t associate with monk who makes	AN5.146
 travel	aimless wanderings	AN5.146
@@ -10270,7 +10282,6 @@ friends, bad	qualities of	AN5.146
 giving (dāna)	by bad person	AN5.147
 giving (dāna)	result of	AN5.147
 giving (dāna)	what to give	AN5.147
-listening to Dhamma		AN5.147
 giving (dāna)	how to give	AN5.147
 speech	four kinds of bad	AN5.148
 giving (dāna)	how to give	AN5.148
@@ -10315,10 +10326,10 @@ questions, asking	reasons for asking	AN5.165
 Sāriputta, Ven.	reasons he asks questions	AN5.165
 stupidity	asking questions because of	AN5.165
 Udāyī, Ven.	contradicting Ven. Sāriputta	AN5.166
-cessation of perception and feeling (saññāvedayitanirodha)		AN5.166
+cessation of perception and feeling (saññāvedayitanirodha)	heaven of mind made gods	AN5.166
 senior monastics	desirable qualities	AN5.166
 Upavāṇa, Ven.	qualities of senior monastics	AN5.166
-mind-made body (manomayena kāya)		AN5.166
+mind-made body (manomayena kāya)	heaven of mind made gods	AN5.166
 accusations	preparing to make an accusation	AN5.167
 self-reflection	preparing to make an accusation	AN5.167
 loving-kindness (mettā)	accusations and	AN5.167
@@ -10470,7 +10481,7 @@ hell (niraya)	from unvirtuous behavior	AN5.213
 wealth	gained by virtuous behavior	AN5.213
 false speech	likely when talking a lot	AN5.214
 harsh speech	likely when talking a lot	AN5.214
-divisive speech		AN5.214
+divisive speech	from talking a lot	AN5.214
 speech	gentle	AN5.214
 speech	non-divisive	AN5.214
 speech	speaking right amount	AN5.214
@@ -10505,7 +10516,7 @@ travel	advantages of moderate wandering	AN5.222
 friendship	increased by moderate wandering	AN5.221
 friendship	increased by moderate wandering	AN5.222
 work	lots of duties accumulated when staying in one place	AN5.223
-staying long in one place		AN5.223
+staying long in one place	drawbacks of	AN5.223
 socializing	from staying long in one place	AN5.223
 stinginess (maccharī)	from staying long in one place	AN5.224
 stinginess (maccharī)	with teachings	AN5.224
@@ -10531,13 +10542,13 @@ encouragement	resident monastics encouraging lay people to give to visiting mona
 giving (dāna)	encouraging others to	AN5.234
 monastics	showing compassion to laypeople	AN5.235
 mutual dependence	of monastics and laypeople	AN5.235
-wasting gifts		AN5.236
+wasting gifts	deserves criticism	AN5.236
 criticism	rightly directed	AN5.236
 criticism	wrongly directed	AN5.236
 speech	praise and dispraise	AN5.236
 speech	praise and dispraise	AN5.237
 speech	praise and dispraise	AN5.238
-wasting gifts		AN5.237
+wasting gifts	deserves criticism	AN5.237
 criticism	rightly directed	AN5.237
 criticism	wrongly directed	AN5.237
 stinginess (maccharī)	leads to hell	AN5.237
@@ -10589,7 +10600,7 @@ enduring (khama)	sense objects: makes one worthy of gifts	AN6.5
 enduring (khama)	sense objects: makes one worthy of gifts	AN6.6
 enduring (khama)	sense objects: makes one worthy of gifts	AN6.7
 recollection (anussati)	topics for	AN6.9
-Mahā Nāma the Sakyan	recollections	AN6.10
+Mahānāma the Sakyan	recollections	AN6.10
 recollection of deities (devatānussati)	practice of noble disciples	AN6.10
 recollection of Buddha (buddhānussati)	practice of noble disciples	AN6.10
 recollection of Dhamma (dhammānussati)	practice of noble disciples	AN6.10
@@ -10671,7 +10682,7 @@ days	perception of (divā saññā)	AN6.29
 perception of ugliness (asubhasaññā)	topic of reflection	AN6.29
 charnel ground contemplation (sivathikā)	topic of reflection	AN6.29
 mindfulness of body (kāyagatāsati)	topic of reflection	AN6.29
-unsurpassable things (anuttariya)		AN6.30
+unsurpassable things (anuttariya)	definition	AN6.30
 Buddhas	seeing a Buddha is unsurpassable	AN6.30
 listening to Dhamma	unsurpassable	AN6.30
 faith (saddhā)	unsurpassable acquisition	AN6.30
@@ -11301,8 +11312,8 @@ one attained to view (diṭṭhippatta)	known by gods of Brahmā’s Host	AN7.56
 one freed by faith (saddhāvimutta)	known by gods of Brahmā’s Host	AN7.56
 Dhamma follower (dhammānusārī)	known by gods of Brahmā’s Host	AN7.56
 Moggallāna, Ven.	visiting brahmā world	AN7.56
-signless meditator (animittavihāri)		AN7.56
-Sīha, general		AN7.57
+signless meditator (animittavihāri)	definition	AN7.56
+Sīha, general	asking about result of giving	AN7.57
 faith (saddhā)	not needed when truth is known	AN7.57
 giving (dāna)	cause for rebirth	AN7.57
 giving (dāna)	result directly visible	AN7.57
@@ -11480,7 +11491,7 @@ gradual training (anupubbasikkhā)	like changes in adze handle, hard to see prog
 ships	simile for gradual progress	AN7.71
 ropes	simile for gradual progress	AN7.71
 bonfires	simile for embracing woman	AN7.72
-bad monastics		AN7.72
+bad monastics	behavior of	AN7.72
 deadly pain	better than bad actions that cause bad rebirth	AN7.72
 suffering (dukkha)	better than bad actions that cause bad rebirth	AN7.72
 sense objects	danger of	AN7.72
@@ -11715,7 +11726,7 @@ giving (dāna)	friendship gained by	AN8.24
 speech	kind words	AN8.24
 wealth	reason people listen to someone	AN8.24
 past, present, future	attracting people is the same in	AN8.24
-Mahā Nāma the Sakyan	asking about definition of lay follower	AN8.25
+Mahānāma the Sakyan	asking about definition of lay follower	AN8.25
 lay follower (upāsaka, upāsikā)	definition	AN8.25
 lay follower (upāsaka, upāsikā)	virtuous: definition	AN8.25
 virtue (sīla)	virtuous lay disciple	AN8.25
@@ -14214,7 +14225,7 @@ loving-kindness (mettā)	as principle of cordiality	AN11.11
 robes	monks making robe for Buddha	AN11.11
 rains residence (vassāvāsa)	Buddha wandering after	AN11.11
 lay life	what to practice	AN11.11
-Mahā Nāma the Sakyan	asking about what to practice	AN11.11
+Mahānāma the Sakyan	asking about what to practice	AN11.11
 faith (saddhā)	faithful succeed	AN11.11
 energetic (āraddhavīriya)	energetic succeed	AN11.11
 laziness (kusīta)	lazy do not succeed	AN11.11
@@ -16143,7 +16154,7 @@ existence (atthitā)	duality of	SN22.90
 non-existence (natthiā)	duality of	SN22.90
 world, the	shackled by attraction, grasping, and insisting 	SN22.90
 extremes (anta)	existence and non-existence	SN22.90
-middle (majjha)	dependent origination as middle path	SN22.90
+middle (majjha)	dependent origination as middle way	SN22.90
 dependent origination	as middle way	SN22.90
 spiritual companion (sabrahmacārī)	Ven. Channa praising	SN22.90
 I making (ahaṅkāra)	knowing and seeing so that there is no 	SN22.91
@@ -16160,7 +16171,7 @@ lotuses	simile for Buddha rising above the world	SN22.94
 water lilies	simile for Buddha rising above the world	SN22.94
 foam (pheṇa)	simile for form	SN22.95
 form (rūpa)	like foam	SN22.95
-aggregates	like lump of foam, bubble, etc	SN22.95
+aggregates	like lump of foam, bubble, etc.	SN22.95
 bubbles	simile for feelings	SN22.95
 feelings (vedanā)	like bubble	SN22.95
 mirages	simile for perception	SN22.95
@@ -16184,7 +16195,6 @@ formations (saṅkhāra)	impermanent	SN22.96
 dirt	not even little amount of aggregates permanent	SN22.97
 fingernail (nakhasikhā)	not even little amount of aggregates permanent	SN22.97
 spiritual path (brahmacariya)	not possible if aggregates permanent	SN22.97
-posts		xref pillars
 inconceivable beginning (anamatagga)	no first point evident	SN22.99
 oceans	dries up in future	SN22.99
 Sineru, king of mountains	disintegrates in future	SN22.99
@@ -16224,7 +16234,7 @@ desire for material existence (rūparāga)	perception of impermanence to remove	
 desire for existence (bhavarāga)	perception of impermanence to remove	SN22.102
 ignorance (avijjā)	perception of impermanence to remove	SN22.102
 conceit “I am” (asmimāna)	perception of impermanence to remove	SN22.102
-farmers (kassaka)		SN22.102
+farmers (kassaka)	like cutting through desire	SN22.102
 ploughing	simile for cutting through desires, etc.	SN22.102
 perception of impermanence (aniccasaññā)	like farmer ploughing field, reed cutter, mangos falling, etc.	SN22.102
 reeds	simile for cutting through desires, etc.	SN22.102
@@ -16278,8 +16288,6 @@ Kappa, Ven.	asking about I-making, etc.	SN22.125
 extinguishment by not grasping (anupādāparinibbāna)	aggregates	SN22.125
 ignorance (avijjā)	definition	SN22.126
 knowledge (vijjā)	definition	SN22.126
-coals, hot (kukkuḷa)		xref pits
-coals, hot (kukkuḷa)		xref Hell of Hot Coals (kukkulaniraya)
 coals, hot (kukkuḷa)	aggregates	SN22.136
 aggregates	burning coals	SN22.136
 desire (chanda)	for what is impermanent	SN22.137
@@ -16293,3 +16301,175 @@ views about the world	self and world one	SN22.152
 “I might not be, and it might not be mine. I will not be, and it will not be mine” (no cassaṁ, no ca me siyā, na bhavissāmi, na me bhavissatī’ti)	why view arises	SN22.153
 wrong view (micchā diṭṭhi)	aggregates	SN22.154
 identity view (sakkāyadiṭṭhi)	aggregates	SN22.155
+fetters (saṁyojana)	aggregates and desire	SN22.157
+Dhamma teaching	in brief (saṅkhittena), aggregates 	SN22.159
+dependent origination (paṭiccasamuppāda)	definition	SN12.1
+ignorance (avijjā)	condition for volitional formations	SN12.1
+volitional formations (saṅkhāra)	conditioned by ignorance	SN12.1
+volitional formations (saṅkhāra)	condition for consciousness	SN12.1
+consciousness (viññāṇa)	conditioned by volitional formations	SN12.1
+consciousness (viññāṇa)	condition for name and form	SN12.1
+name and form (nāma rūpa)	conditioned by consciousness	SN12.1
+name and form (nāma rūpa)	condition for the six sense bases	SN12.1
+sense bases (āyatana)	conditioned by name and form	SN12.1
+sense bases (āyatana)	condition for contact	SN12.1
+contact (phassa)	conditioned by six sense bases	SN12.1
+contact (phassa)	condition for feeling	SN12.1
+feelings (vedanā)	conditioned by contact	SN12.1
+feelings (vedanā)	condition for craving	SN12.1
+craving (taṇha)	conditioned by feeling	SN12.1
+craving (taṇha)	condition for grasping	SN12.1
+grasping (upādāna)	conditioned by craving	SN12.1
+grasping (upādāna)	condition for becoming	SN12.1
+becoming (bhava)	conditioned by grasping	SN12.1
+becoming (bhava)	condition for rebirth/birth	SN12.1
+birth (jāti)	conditioned by becoming	SN12.1
+birth (jāti)	condition for old age, death, sorrow, etc.	SN12.1
+old age (jarā)	conditioned by birth	SN12.1
+death (maraṇa)	conditioned by birth	SN12.1
+sorrow (soka)	conditioned by birth	SN12.1
+lamentation (parideva)	conditioned by birth	SN12.1
+pain (dukkha)	conditioned by birth	SN12.1
+sadness (domanassa)	conditioned by birth	SN12.1
+dependent origination (paṭiccasamuppāda)	reverse cycle	SN12.1
+ignorance (avijjā)	cessation of	SN12.1
+volitional formations (saṅkhāra)	cessation of	SN12.1
+consciousness (viññāṇa)	cessation of	SN12.1
+name and form (nāma rūpa)	cessation of	SN12.1
+sense bases (āyatana)	cessation of	SN12.1
+contact (phassa)	cessation of	SN12.1
+feelings (vedanā)	cessation of	SN12.1
+craving (taṇha)	cessation of	SN12.1
+grasping (upādāna)	cessation of	SN12.1
+becoming (bhava)	cessation of	SN12.1
+birth (jāti)	cessation of	SN12.1
+old age (jarā)	cessation of	SN12.1
+death (maraṇa)	cessation of	SN12.1
+sorrow (soka)	cessation of	SN12.1
+lamentation (parideva)	cessation of	SN12.1
+pain (dukkha)	cessation of	SN12.1
+sadness (domanassa)	cessation of	SN12.1
+old age (jarā)	definition	SN12.2
+death (maraṇa)	definition	SN12.2
+birth (jāti)	definition	SN12.2
+becoming (bhava)	definition	SN12.2
+grasping (upādāna)	definition	SN12.2
+craving (taṇha)	definition	SN12.2
+feelings (vedanā)	definition	SN12.2
+contact (phassa)	definition	SN12.2
+sense bases (āyatana)	definition	SN12.2
+name and form (nāma rūpa)	definition	SN12.2
+consciousness (viññāṇa)	definition	SN12.2
+volitional formations (saṅkhāra)	definition	SN12.2
+ignorance (avijjā)	definition	SN12.2
+wrong practice (micchāpaṭipadā)	definition	SN12.3
+right practice (sammāpaṭipadā)	definition	SN12.3
+Vipassī, Buddha	dependent origination while bodhisatta	SN12.4
+proper attention (yoniso manasikāra)	dependent origination	SN12.5
+Sikhī, Buddha	dependent origination while bodhisatta	SN12.5
+Vessabhū, Buddha	dependent origination while bodhisatta	SN12.6
+Kakusandha, Buddha	dependent origination while bodhisatta	SN12.7
+Koṇāgamana, Buddha	dependent origination while bodhisatta	SN12.8
+Kassapa, Buddha	dependent origination while bodhisatta	SN12.9
+Buddha, the	dependent origination while bodhisatta	SN12.10
+proper attention (yoniso manasikāra)	dependent origination	SN12.10
+nutriment (āhāra)	four types and origin, dependent origination	SN12.11
+dependent origination	starting with four nutriments	SN12.11
+Phagguṇa, Ven.	asking about consciousness	SN12.12
+nutriment (āhāra)	four types and origin, dependent origination	SN12.12
+questions	improper	SN12.12
+consciousness (viññāṇa)	as fuel that conditions rebirth	SN12.12
+rebirth (punabbhava)	consciousness conditions	SN12.12
+ascetics and brahmins (samaṇabrāhmaṇa)	understanding dependent origination	SN12.13
+four noble truths pattern	dependent origination	SN12.14
+Kaccānagotta, Ven.	duality	SN12.15
+right view (sammā diṭṭhi)	definition, duality	SN12.15
+duality (dvaya)	existence and non-existence	SN12.15
+views about the world	existence and non-existence	SN12.15
+non-existence (natthiā)	views about the world	SN12.15
+existence (atthitā)	views about the world	SN12.15
+suffering (dukkha)	what arises is just suffering	SN12.15
+world (loka)	origin and ending	SN12.15
+middle (majjha)	dependent origination as middle way	SN12.15
+dependent origination	as middle way	SN12.15
+Dhamma speaker (dhammakathika)	definition	SN12.16
+Dhamma teaching	for disillusionment, etc.	SN12.16
+Dhamma teaching	dependent origination	SN12.16
+Kassapa, naked ascetic	asking about suffering	SN12.17
+suffering (dukkha)	made by oneself or another	SN12.17
+suffering (dukkha)	chance	SN12.17
+suffering (dukkha)	is real	SN12.17
+eternalism (sassatavāda)	suffering made by oneself	SN12.17
+annihilationism (ucchedavāda)	suffering made by another	SN12.17
+middle (majjha)	dependent origination as middle way	SN12.17
+Timbaruka, wanderer	asking about pleasure and pain	SN12.18
+duality (dvaya)	body and external name and form	SN12.19
+fools (bāla)	difference between astute person	SN12.19
+astute person (paṇḍita)	difference between fool	SN12.19
+sense bases (āyatana)	fools and wise people	SN12.19
+specific conditionality (idappaccayatā)		xref conditionality (idappaccayatā)
+conditionality (idappaccayatā)		xref dependent origination
+dependent origination		xref conditionality (idappaccayatā)
+conditionality (idappaccayatā)	whether Tathāgatas exist	SN12.20
+Tathāgatas	conditionality exists whether Tathāgats exist or not	SN12.20
+dependent origination (paṭiccasamuppāda)	whether Tathāgatas exist	SN12.20
+“when this exists, that comes to be…”	dependent origination	SN12.21
+powers (bala)	ten	SN12.21
+self-assurances (vesārajja)	Tathāgata has four	SN12.21
+determination	not to move until enlightened	SN12.22
+laziness (kusīta)	live in suffering	SN12.22
+energetic (āraddhavīriya)	live happily	SN12.22
+cream (maṇḍapeyya)	spiritual life is the	SN12.22
+brahmacariya	is the cream	SN12.22
+going forth (pabbajja)	not wasted	SN12.22
+requisites, four	donors collect merit when used by monastics 	SN12.22
+welfare	ones own and others	SN12.22
+proximate cause (upanisa)		xref dependent origination
+vital condition (upanisa)		xref proximate cause (upanisa)
+dependent origination		xref proximate cause (upanisa)
+knowing and seeing	dependent origination	SN12.23
+proximate cause (upanisa)	knowledge of ending	SN12.23
+freedom (vimutti)	vital condition is dispassion	SN12.23
+dispassion (virāga)	vital condition for freedom	SN12.23
+dispassion (virāga)	vital condition is disillusionment	SN12.23
+disillusionment (nibbidā)	vital condition for dispassion	SN12.23
+disillusionment (nibbidā)	vital condition is truly knowing and seeing	SN12.23
+true knowledge and vision (yathābhūtañāṇadassana)	vital condition for disillusionment	SN12.23
+true knowledge and vision (yathābhūtañāṇadassana)	vital condition is concentration	SN12.23
+concentration (samādhi)	vital condition for truly knowing and seeing	SN12.23
+concentration (samādhi)	vital condition is bliss/happiness	SN12.23
+happiness (sukha)	vital condition for concentration	SN12.23
+happiness (sukha)	vital condition is tranquility	SN12.23
+tranquillity (passaddhi)	vital condition for bliss/happiness	SN12.23
+tranquillity (passaddhi)	vital condition is rapture	SN12.23
+rapture (pīti)	vital condition for tranquility	SN12.23
+rapture (pīti)	vital condition is joy	SN12.23
+joy (pāmojja)	vital condition for rapture	SN12.23
+joy (pāmojja)	vital condition is faith	SN12.23
+faith (saddhā)	vital condition for joy	SN12.23
+faith (saddhā)	vital condition is suffering	SN12.23
+suffering (dukkha)	vital condition for faith	SN12.23
+suffering (dukkha)	vital condition is becoming	SN12.23
+becoming (bhava)	vital condition for grasping	SN12.23
+becoming (bhava)	vital condition is grasping	SN12.23
+grasping (upādāna)	vital condition for becoming	SN12.23
+grasping (upādāna)	vital condition is craving	SN12.23
+craving (taṇha)	vital condition for grasping	SN12.23
+craving (taṇha)	vital condition is feeling	SN12.23
+feelings (vedanā)	vital condition for craving 	SN12.23
+feelings (vedanā)	vital condition is contact	SN12.23
+contact (phassa)	vital condition for feeling	SN12.23
+contact (phassa)	vital condition is sense bases	SN12.23
+sense bases (āyatana)	vital condition for contact	SN12.23
+sense bases (āyatana)	vital condition is name and form	SN12.23
+name and form (nāma rūpa)	vital condition for sense bases	SN12.23
+name and form (nāma rūpa)	vital condition is consciousness	SN12.23
+consciousness (viññāṇa)	vital condition for name and form	SN12.23
+consciousness (viññāṇa)	vital condition is volitional formations	SN12.23
+volitional formations (saṅkhāra)	vital condition for consciousness	SN12.23
+volitional formations (saṅkhāra)	vital condition is ignorance	SN12.23
+ignorance (avijjā)	vital condition for volitional formations	SN12.23
+dependent origination	upward cycle	SN12.23
+dependent origination	like rain on mountain	SN12.23
+rain	on mountain top, simile for dependent origination	SN12.23
+mountains	simile for dependent origination, rain on	SN12.23

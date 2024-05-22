@@ -2794,7 +2794,7 @@ export const locatorBookObject ={
     ],
     [
       "MN14",
-      "Mahā Nāma the Sakyan",
+      "Mahānāma the Sakyan",
       "asking about understanding greed, etc., vs being free of"
     ],
     [
@@ -7769,7 +7769,7 @@ export const locatorBookObject ={
     ],
     [
       "MN50",
-      "Kakusandha Buddha",
+      "Kakusandha, Buddha",
       "Ven. Moggallāna in time of"
     ],
     [
@@ -8619,7 +8619,7 @@ export const locatorBookObject ={
     ],
     [
       "MN53",
-      "Mahā Nāma the Sakyan",
+      "Mahānāma the Sakyan",
       "on the trainee"
     ],
     [
@@ -22880,9 +22880,829 @@ export const locatorBookObject ={
       "whom to give to"
     ],
     [
+      "SN12.1",
+      "becoming (bhava)",
+      "cessation of"
+    ],
+    [
+      "SN12.1",
+      "becoming (bhava)",
+      "condition for rebirth/birth"
+    ],
+    [
+      "SN12.1",
+      "becoming (bhava)",
+      "conditioned by grasping"
+    ],
+    [
+      "SN12.1",
+      "birth (jāti)",
+      "cessation of"
+    ],
+    [
+      "SN12.1",
+      "birth (jāti)",
+      "condition for old age, death, sorrow, etc."
+    ],
+    [
+      "SN12.1",
+      "birth (jāti)",
+      "conditioned by becoming"
+    ],
+    [
+      "SN12.1",
+      "consciousness (viññāṇa)",
+      "cessation of"
+    ],
+    [
+      "SN12.1",
+      "consciousness (viññāṇa)",
+      "condition for name and form"
+    ],
+    [
+      "SN12.1",
+      "consciousness (viññāṇa)",
+      "conditioned by volitional formations"
+    ],
+    [
+      "SN12.1",
+      "contact (phassa)",
+      "cessation of"
+    ],
+    [
+      "SN12.1",
+      "contact (phassa)",
+      "condition for feeling"
+    ],
+    [
+      "SN12.1",
+      "contact (phassa)",
+      "conditioned by six sense bases"
+    ],
+    [
+      "SN12.1",
+      "craving (taṇha)",
+      "cessation of"
+    ],
+    [
+      "SN12.1",
+      "craving (taṇha)",
+      "condition for grasping"
+    ],
+    [
+      "SN12.1",
+      "craving (taṇha)",
+      "conditioned by feeling"
+    ],
+    [
+      "SN12.1",
+      "death (maraṇa)",
+      "cessation of"
+    ],
+    [
+      "SN12.1",
+      "death (maraṇa)",
+      "conditioned by birth"
+    ],
+    [
+      "SN12.1",
+      "dependent origination (paṭiccasamuppāda)",
+      "definition"
+    ],
+    [
+      "SN12.1",
+      "dependent origination (paṭiccasamuppāda)",
+      "reverse cycle"
+    ],
+    [
+      "SN12.1",
+      "feelings (vedanā)",
+      "cessation of"
+    ],
+    [
+      "SN12.1",
+      "feelings (vedanā)",
+      "condition for craving"
+    ],
+    [
+      "SN12.1",
+      "feelings (vedanā)",
+      "conditioned by contact"
+    ],
+    [
+      "SN12.1",
+      "grasping (upādāna)",
+      "cessation of"
+    ],
+    [
+      "SN12.1",
+      "grasping (upādāna)",
+      "condition for becoming"
+    ],
+    [
+      "SN12.1",
+      "grasping (upādāna)",
+      "conditioned by craving"
+    ],
+    [
+      "SN12.1",
+      "ignorance (avijjā)",
+      "cessation of"
+    ],
+    [
+      "SN12.1",
+      "ignorance (avijjā)",
+      "condition for volitional formations"
+    ],
+    [
+      "SN12.1",
+      "lamentation (parideva)",
+      "cessation of"
+    ],
+    [
+      "SN12.1",
+      "lamentation (parideva)",
+      "conditioned by birth"
+    ],
+    [
+      "SN12.1",
+      "name and form (nāma rūpa)",
+      "cessation of"
+    ],
+    [
+      "SN12.1",
+      "name and form (nāma rūpa)",
+      "condition for the six sense bases"
+    ],
+    [
+      "SN12.1",
+      "name and form (nāma rūpa)",
+      "conditioned by consciousness"
+    ],
+    [
+      "SN12.1",
+      "old age (jarā)",
+      "cessation of"
+    ],
+    [
+      "SN12.1",
+      "old age (jarā)",
+      "conditioned by birth"
+    ],
+    [
+      "SN12.1",
+      "pain (dukkha)",
+      "cessation of"
+    ],
+    [
+      "SN12.1",
+      "pain (dukkha)",
+      "conditioned by birth"
+    ],
+    [
+      "SN12.1",
+      "sadness (domanassa)",
+      "cessation of"
+    ],
+    [
+      "SN12.1",
+      "sadness (domanassa)",
+      "conditioned by birth"
+    ],
+    [
+      "SN12.1",
+      "sense bases (āyatana)",
+      "cessation of"
+    ],
+    [
+      "SN12.1",
+      "sense bases (āyatana)",
+      "condition for contact"
+    ],
+    [
+      "SN12.1",
+      "sense bases (āyatana)",
+      "conditioned by name and form"
+    ],
+    [
+      "SN12.1",
+      "sorrow (soka)",
+      "cessation of"
+    ],
+    [
+      "SN12.1",
+      "sorrow (soka)",
+      "conditioned by birth"
+    ],
+    [
+      "SN12.1",
+      "volitional formations (saṅkhāra)",
+      "cessation of"
+    ],
+    [
+      "SN12.1",
+      "volitional formations (saṅkhāra)",
+      "condition for consciousness"
+    ],
+    [
+      "SN12.1",
+      "volitional formations (saṅkhāra)",
+      "conditioned by ignorance"
+    ],
+    [
+      "SN12.2",
+      "becoming (bhava)",
+      "definition"
+    ],
+    [
+      "SN12.2",
+      "birth (jāti)",
+      "definition"
+    ],
+    [
+      "SN12.2",
+      "consciousness (viññāṇa)",
+      "definition"
+    ],
+    [
+      "SN12.2",
+      "contact (phassa)",
+      "definition"
+    ],
+    [
+      "SN12.2",
+      "craving (taṇha)",
+      "definition"
+    ],
+    [
       "SN12.2",
       "death (maraṇa)",
       "definition"
+    ],
+    [
+      "SN12.2",
+      "death (maraṇa)",
+      "definition"
+    ],
+    [
+      "SN12.2",
+      "feelings (vedanā)",
+      "definition"
+    ],
+    [
+      "SN12.2",
+      "grasping (upādāna)",
+      "definition"
+    ],
+    [
+      "SN12.2",
+      "ignorance (avijjā)",
+      "definition"
+    ],
+    [
+      "SN12.2",
+      "name and form (nāma rūpa)",
+      "definition"
+    ],
+    [
+      "SN12.2",
+      "old age (jarā)",
+      "definition"
+    ],
+    [
+      "SN12.2",
+      "sense bases (āyatana)",
+      "definition"
+    ],
+    [
+      "SN12.2",
+      "volitional formations (saṅkhāra)",
+      "definition"
+    ],
+    [
+      "SN12.3",
+      "right practice (sammāpaṭipadā)",
+      "definition"
+    ],
+    [
+      "SN12.3",
+      "wrong practice (micchāpaṭipadā)",
+      "definition"
+    ],
+    [
+      "SN12.4",
+      "Vipassī, Buddha",
+      "dependent origination while bodhisatta"
+    ],
+    [
+      "SN12.5",
+      "proper attention (yoniso manasikāra)",
+      "dependent origination"
+    ],
+    [
+      "SN12.5",
+      "Sikhī, Buddha",
+      "dependent origination while bodhisatta"
+    ],
+    [
+      "SN12.6",
+      "Vessabhū, Buddha",
+      "dependent origination while bodhisatta"
+    ],
+    [
+      "SN12.7",
+      "Kakusandha, Buddha",
+      "dependent origination while bodhisatta"
+    ],
+    [
+      "SN12.8",
+      "Koṇāgamana, Buddha",
+      "dependent origination while bodhisatta"
+    ],
+    [
+      "SN12.9",
+      "Kassapa, Buddha",
+      "dependent origination while bodhisatta"
+    ],
+    [
+      "SN12.10",
+      "Buddha, the",
+      "dependent origination while bodhisatta"
+    ],
+    [
+      "SN12.10",
+      "proper attention (yoniso manasikāra)",
+      "dependent origination"
+    ],
+    [
+      "SN12.11",
+      "dependent origination",
+      "starting with four nutriments"
+    ],
+    [
+      "SN12.11",
+      "nutriment (āhāra)",
+      "four types and origin, dependent origination"
+    ],
+    [
+      "SN12.12",
+      "consciousness (viññāṇa)",
+      "as fuel that conditions rebirth"
+    ],
+    [
+      "SN12.12",
+      "nutriment (āhāra)",
+      "four types and origin, dependent origination"
+    ],
+    [
+      "SN12.12",
+      "Phagguṇa, Ven.",
+      "asking about consciousness"
+    ],
+    [
+      "SN12.12",
+      "questions",
+      "improper"
+    ],
+    [
+      "SN12.12",
+      "rebirth (punabbhava)",
+      "consciousness conditions"
+    ],
+    [
+      "SN12.13",
+      "ascetics and brahmins (samaṇabrāhmaṇa)",
+      "understanding dependent origination"
+    ],
+    [
+      "SN12.14",
+      "four noble truths pattern",
+      "dependent origination"
+    ],
+    [
+      "SN12.15",
+      "dependent origination",
+      "as middle way"
+    ],
+    [
+      "SN12.15",
+      "duality (dvaya)",
+      "existence and non-existence"
+    ],
+    [
+      "SN12.15",
+      "existence (atthitā)",
+      "views about the world"
+    ],
+    [
+      "SN12.15",
+      "Kaccānagotta, Ven.",
+      "duality"
+    ],
+    [
+      "SN12.15",
+      "middle (majjha)",
+      "dependent origination as middle way"
+    ],
+    [
+      "SN12.15",
+      "non-existence (natthiā)",
+      "views about the world"
+    ],
+    [
+      "SN12.15",
+      "right view (sammā diṭṭhi)",
+      "definition, duality"
+    ],
+    [
+      "SN12.15",
+      "suffering (dukkha)",
+      "what arises is just suffering"
+    ],
+    [
+      "SN12.15",
+      "views about the world",
+      "existence and non-existence"
+    ],
+    [
+      "SN12.15",
+      "world (loka)",
+      "origin and ending"
+    ],
+    [
+      "SN12.16",
+      "Dhamma speaker (dhammakathika)",
+      "definition"
+    ],
+    [
+      "SN12.16",
+      "Dhamma teaching",
+      "dependent origination"
+    ],
+    [
+      "SN12.16",
+      "Dhamma teaching",
+      "for disillusionment, etc."
+    ],
+    [
+      "SN12.17",
+      "annihilationism (ucchedavāda)",
+      "suffering made by another"
+    ],
+    [
+      "SN12.17",
+      "eternalism (sassatavāda)",
+      "suffering made by oneself"
+    ],
+    [
+      "SN12.17",
+      "Kassapa, naked ascetic",
+      "asking about suffering"
+    ],
+    [
+      "SN12.17",
+      "middle (majjha)",
+      "dependent origination as middle way"
+    ],
+    [
+      "SN12.17",
+      "suffering (dukkha)",
+      "chance"
+    ],
+    [
+      "SN12.17",
+      "suffering (dukkha)",
+      "is real"
+    ],
+    [
+      "SN12.17",
+      "suffering (dukkha)",
+      "made by oneself or another"
+    ],
+    [
+      "SN12.18",
+      "Timbaruka, wanderer",
+      "asking about pleasure and pain"
+    ],
+    [
+      "SN12.19",
+      "astute person (paṇḍita)",
+      "difference between fool"
+    ],
+    [
+      "SN12.19",
+      "duality (dvaya)",
+      "body and external name and form"
+    ],
+    [
+      "SN12.19",
+      "fools (bāla)",
+      "difference between astute person"
+    ],
+    [
+      "SN12.19",
+      "sense bases (āyatana)",
+      "fools and wise people"
+    ],
+    [
+      "SN12.20",
+      "conditionality (idappaccayatā)",
+      "whether Tathāgatas exist"
+    ],
+    [
+      "SN12.20",
+      "dependent origination (paṭiccasamuppāda)",
+      "whether Tathāgatas exist"
+    ],
+    [
+      "SN12.20",
+      "Tathāgatas",
+      "conditionality exists whether Tathāgats exist or not"
+    ],
+    [
+      "SN12.21",
+      "“when this exists, that comes to be…”",
+      "dependent origination"
+    ],
+    [
+      "SN12.21",
+      "powers (bala)",
+      "ten"
+    ],
+    [
+      "SN12.21",
+      "self-assurances (vesārajja)",
+      "Tathāgata has four"
+    ],
+    [
+      "SN12.22",
+      "brahmacariya",
+      "is the cream"
+    ],
+    [
+      "SN12.22",
+      "cream (maṇḍapeyya)",
+      "spiritual life is the"
+    ],
+    [
+      "SN12.22",
+      "determination",
+      "not to move until enlightened"
+    ],
+    [
+      "SN12.22",
+      "energetic (āraddhavīriya)",
+      "live happily"
+    ],
+    [
+      "SN12.22",
+      "going forth (pabbajja)",
+      "not wasted"
+    ],
+    [
+      "SN12.22",
+      "laziness (kusīta)",
+      "live in suffering"
+    ],
+    [
+      "SN12.22",
+      "requisites, four",
+      "donors collect merit when used by monastics "
+    ],
+    [
+      "SN12.22",
+      "welfare",
+      "ones own and others"
+    ],
+    [
+      "SN12.23",
+      "becoming (bhava)",
+      "vital condition for grasping"
+    ],
+    [
+      "SN12.23",
+      "becoming (bhava)",
+      "vital condition is grasping"
+    ],
+    [
+      "SN12.23",
+      "concentration (samādhi)",
+      "vital condition for truly knowing and seeing"
+    ],
+    [
+      "SN12.23",
+      "concentration (samādhi)",
+      "vital condition is bliss/happiness"
+    ],
+    [
+      "SN12.23",
+      "consciousness (viññāṇa)",
+      "vital condition for name and form"
+    ],
+    [
+      "SN12.23",
+      "consciousness (viññāṇa)",
+      "vital condition is volitional formations"
+    ],
+    [
+      "SN12.23",
+      "contact (phassa)",
+      "vital condition for feeling"
+    ],
+    [
+      "SN12.23",
+      "contact (phassa)",
+      "vital condition is sense bases"
+    ],
+    [
+      "SN12.23",
+      "craving (taṇha)",
+      "vital condition for grasping"
+    ],
+    [
+      "SN12.23",
+      "craving (taṇha)",
+      "vital condition is feeling"
+    ],
+    [
+      "SN12.23",
+      "dependent origination",
+      "like rain on mountain"
+    ],
+    [
+      "SN12.23",
+      "dependent origination",
+      "upward cycle"
+    ],
+    [
+      "SN12.23",
+      "disillusionment (nibbidā)",
+      "vital condition for dispassion"
+    ],
+    [
+      "SN12.23",
+      "disillusionment (nibbidā)",
+      "vital condition is truly knowing and seeing"
+    ],
+    [
+      "SN12.23",
+      "dispassion (virāga)",
+      "vital condition for freedom"
+    ],
+    [
+      "SN12.23",
+      "dispassion (virāga)",
+      "vital condition is disillusionment"
+    ],
+    [
+      "SN12.23",
+      "faith (saddhā)",
+      "vital condition for joy"
+    ],
+    [
+      "SN12.23",
+      "faith (saddhā)",
+      "vital condition is suffering"
+    ],
+    [
+      "SN12.23",
+      "feelings (vedanā)",
+      "vital condition for craving "
+    ],
+    [
+      "SN12.23",
+      "feelings (vedanā)",
+      "vital condition is contact"
+    ],
+    [
+      "SN12.23",
+      "freedom (vimutti)",
+      "vital condition is dispassion"
+    ],
+    [
+      "SN12.23",
+      "grasping (upādāna)",
+      "vital condition for becoming"
+    ],
+    [
+      "SN12.23",
+      "grasping (upādāna)",
+      "vital condition is craving"
+    ],
+    [
+      "SN12.23",
+      "happiness (sukha)",
+      "vital condition for concentration"
+    ],
+    [
+      "SN12.23",
+      "happiness (sukha)",
+      "vital condition is tranquility"
+    ],
+    [
+      "SN12.23",
+      "ignorance (avijjā)",
+      "vital condition for volitional formations"
+    ],
+    [
+      "SN12.23",
+      "joy (pāmojja)",
+      "vital condition for rapture"
+    ],
+    [
+      "SN12.23",
+      "joy (pāmojja)",
+      "vital condition is faith"
+    ],
+    [
+      "SN12.23",
+      "knowing and seeing",
+      "dependent origination"
+    ],
+    [
+      "SN12.23",
+      "mountains",
+      "simile for dependent origination, rain on"
+    ],
+    [
+      "SN12.23",
+      "name and form (nāma rūpa)",
+      "vital condition for sense bases"
+    ],
+    [
+      "SN12.23",
+      "name and form (nāma rūpa)",
+      "vital condition is consciousness"
+    ],
+    [
+      "SN12.23",
+      "proximate cause (upanisa)",
+      "knowledge of ending"
+    ],
+    [
+      "SN12.23",
+      "rain",
+      "on mountain top, simile for dependent origination"
+    ],
+    [
+      "SN12.23",
+      "rapture (pīti)",
+      "vital condition for tranquility"
+    ],
+    [
+      "SN12.23",
+      "rapture (pīti)",
+      "vital condition is joy"
+    ],
+    [
+      "SN12.23",
+      "sense bases (āyatana)",
+      "vital condition for contact"
+    ],
+    [
+      "SN12.23",
+      "sense bases (āyatana)",
+      "vital condition is name and form"
+    ],
+    [
+      "SN12.23",
+      "suffering (dukkha)",
+      "vital condition for faith"
+    ],
+    [
+      "SN12.23",
+      "suffering (dukkha)",
+      "vital condition is becoming"
+    ],
+    [
+      "SN12.23",
+      "tranquillity (passaddhi)",
+      "vital condition for bliss/happiness"
+    ],
+    [
+      "SN12.23",
+      "tranquillity (passaddhi)",
+      "vital condition is rapture"
+    ],
+    [
+      "SN12.23",
+      "true knowledge and vision (yathābhūtañāṇadassana)",
+      "vital condition for disillusionment"
+    ],
+    [
+      "SN12.23",
+      "true knowledge and vision (yathābhūtañāṇadassana)",
+      "vital condition is concentration"
+    ],
+    [
+      "SN12.23",
+      "volitional formations (saṅkhāra)",
+      "vital condition for consciousness"
+    ],
+    [
+      "SN12.23",
+      "volitional formations (saṅkhāra)",
+      "vital condition is ignorance"
     ],
     [
       "SN17.11–20",
@@ -24487,7 +25307,7 @@ export const locatorBookObject ={
     [
       "SN22.90",
       "middle (majjha)",
-      "dependent origination as middle path"
+      "dependent origination as middle way"
     ],
     [
       "SN22.90",
@@ -24567,7 +25387,7 @@ export const locatorBookObject ={
     [
       "SN22.95",
       "aggregates",
-      "like lump of foam, bubble, etc"
+      "like lump of foam, bubble, etc."
     ],
     [
       "SN22.95",
@@ -24877,7 +25697,7 @@ export const locatorBookObject ={
     [
       "SN22.102",
       "farmers (kassaka)",
-      ""
+      "like cutting through desire"
     ],
     [
       "SN22.102",
@@ -25223,6 +26043,16 @@ export const locatorBookObject ={
       "SN22.155",
       "identity view (sakkāyadiṭṭhi)",
       "aggregates"
+    ],
+    [
+      "SN22.157",
+      "fetters (saṁyojana)",
+      "aggregates and desire"
+    ],
+    [
+      "SN22.159",
+      "Dhamma teaching",
+      "in brief (saṅkhittena), aggregates "
     ],
     [
       "SN29.11–50",
@@ -33283,7 +34113,7 @@ export const locatorBookObject ={
     ],
     [
       "AN1.252",
-      "Mahā Nāma the Sakyan",
+      "Mahānāma the Sakyan",
       "foremost who donate fine things"
     ],
     [
@@ -36283,7 +37113,7 @@ export const locatorBookObject ={
     ],
     [
       "AN3.73",
-      "Mahā Nāma the Sakyan",
+      "Mahānāma the Sakyan",
       "concentration and wisdom"
     ],
     [
@@ -36438,7 +37268,7 @@ export const locatorBookObject ={
     ],
     [
       "AN3.80",
-      "Sikhī Buddha",
+      "Sikhī, Buddha",
       "and disciple"
     ],
     [
@@ -39979,7 +40809,7 @@ export const locatorBookObject ={
     [
       "AN4.192",
       "questions, asking",
-      ""
+      "judging someone by their questions"
     ],
     [
       "AN4.192",
@@ -40039,7 +40869,7 @@ export const locatorBookObject ={
     [
       "AN4.195",
       "Vappa the Sakyan",
-      ""
+      "results of actions"
     ],
     [
       "AN4.195",
@@ -40779,7 +41609,7 @@ export const locatorBookObject ={
     [
       "AN4.250",
       "lying",
-      ""
+      "types of"
     ],
     [
       "AN4.250",
@@ -40794,7 +41624,7 @@ export const locatorBookObject ={
     [
       "AN4.251",
       "truthfulness",
-      ""
+      "ways to be"
     ],
     [
       "AN4.252",
@@ -41202,9 +42032,14 @@ export const locatorBookObject ={
       "for benefit of all"
     ],
     [
-      "AN5.20",
+      "AN5.21",
+      "respect (gārava)",
+      "points of etiquette"
+    ],
+    [
+      "AN5.21",
       "wholesome chain of causality",
-      ""
+      "starting with respect"
     ],
     [
       "AN5.23",
@@ -41819,7 +42654,7 @@ export const locatorBookObject ={
     [
       "AN5.51",
       "knowing ones own good",
-      ""
+      "hard without wisdom"
     ],
     [
       "AN5.51",
@@ -42028,8 +42863,8 @@ export const locatorBookObject ={
     ],
     [
       "AN5.58",
-      "Mahā Nāma the Licchavi",
-      ""
+      "Mahānāma the Licchavi",
+      "commenting on youth"
     ],
     [
       "AN5.58",
@@ -42414,7 +43249,7 @@ export const locatorBookObject ={
     [
       "AN5.75",
       "defeat (pārājika)",
-      ""
+      "like death of warrior"
     ],
     [
       "AN5.75",
@@ -42439,7 +43274,7 @@ export const locatorBookObject ={
     [
       "AN5.76",
       "defeat (pārājika)",
-      ""
+      "like death of warrior"
     ],
     [
       "AN5.76",
@@ -42669,7 +43504,7 @@ export const locatorBookObject ={
     [
       "AN5.90",
       "talk (kathā)",
-      ""
+      "leads to decline"
     ],
     [
       "AN5.90",
@@ -42899,7 +43734,7 @@ export const locatorBookObject ={
     [
       "AN5.116",
       "wasting gifts",
-      ""
+      "leads to hell"
     ],
     [
       "AN5.117",
@@ -43289,7 +44124,7 @@ export const locatorBookObject ={
     [
       "AN5.146",
       "Dhamma discussion",
-      ""
+      "because of good friends"
     ],
     [
       "AN5.146",
@@ -43309,7 +44144,7 @@ export const locatorBookObject ={
     [
       "AN5.146",
       "listening to Dhamma",
-      ""
+      "because of good friends"
     ],
     [
       "AN5.146",
@@ -43340,11 +44175,6 @@ export const locatorBookObject ={
       "AN5.147",
       "giving (dāna)",
       "what to give"
-    ],
-    [
-      "AN5.147",
-      "listening to Dhamma",
-      ""
     ],
     [
       "AN5.148",
@@ -43559,12 +44389,12 @@ export const locatorBookObject ={
     [
       "AN5.166",
       "cessation of perception and feeling (saññāvedayitanirodha)",
-      ""
+      "heaven of mind made gods"
     ],
     [
       "AN5.166",
       "mind-made body (manomayena kāya)",
-      ""
+      "heaven of mind made gods"
     ],
     [
       "AN5.166",
@@ -44329,12 +45159,12 @@ export const locatorBookObject ={
     [
       "AN5.214",
       "divisive speech",
-      ""
+      "from speaking much"
     ],
     [
       "AN5.214",
       "divisive speech",
-      "from speaking much"
+      "from talking a lot"
     ],
     [
       "AN5.214",
@@ -44514,7 +45344,7 @@ export const locatorBookObject ={
     [
       "AN5.223",
       "staying long in one place",
-      ""
+      "drawbacks of"
     ],
     [
       "AN5.223",
@@ -44659,7 +45489,7 @@ export const locatorBookObject ={
     [
       "AN5.236",
       "wasting gifts",
-      ""
+      "deserves criticism"
     ],
     [
       "AN5.237",
@@ -44684,7 +45514,7 @@ export const locatorBookObject ={
     [
       "AN5.237",
       "wasting gifts",
-      ""
+      "deserves criticism"
     ],
     [
       "AN5.238",
@@ -44933,7 +45763,7 @@ export const locatorBookObject ={
     ],
     [
       "AN6.10",
-      "Mahā Nāma the Sakyan",
+      "Mahānāma the Sakyan",
       "recollections"
     ],
     [
@@ -45384,7 +46214,7 @@ export const locatorBookObject ={
     [
       "AN6.30",
       "unsurpassable things (anuttariya)",
-      ""
+      "definition"
     ],
     [
       "AN6.31",
@@ -48489,7 +49319,7 @@ export const locatorBookObject ={
     [
       "AN7.56",
       "signless meditator (animittavihāri)",
-      ""
+      "definition"
     ],
     [
       "AN7.56",
@@ -48549,7 +49379,7 @@ export const locatorBookObject ={
     [
       "AN7.57",
       "Sīha, general",
-      ""
+      "asking about result of giving"
     ],
     [
       "AN7.58",
@@ -49389,7 +50219,7 @@ export const locatorBookObject ={
     [
       "AN7.72",
       "bad monastics",
-      ""
+      "behavior of"
     ],
     [
       "AN7.72",
@@ -50583,7 +51413,7 @@ export const locatorBookObject ={
     ],
     [
       "AN8.25",
-      "Mahā Nāma the Sakyan",
+      "Mahānāma the Sakyan",
       "asking about definition of lay follower"
     ],
     [
@@ -63063,7 +63893,7 @@ export const locatorBookObject ={
     ],
     [
       "AN11.11",
-      "Mahā Nāma the Sakyan",
+      "Mahānāma the Sakyan",
       "asking about what to practice"
     ],
     [
@@ -65038,7 +65868,7 @@ export const locatorBookObject ={
     [
       "Dhp28",
       "mountains",
-      "simile of wise person standing on"
+      "simile for wise person, standing on"
     ],
     [
       "Dhp29",
