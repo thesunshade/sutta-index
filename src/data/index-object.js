@@ -7714,6 +7714,20 @@ export const indexObject ={
                     "xrefs": []
                }
           },
+          "Bhūmija, Ven.": {
+               "answering prince Jayasena": {
+                    "locators": [
+                         "MN126"
+                    ],
+                    "xrefs": []
+               },
+               "asking about actions": {
+                    "locators": [
+                         "SN12.25"
+                    ],
+                    "xrefs": []
+               }
+          },
           "Bimbisāra, King": {
                "happiness of compared to Buddha": {
                     "locators": [
@@ -8650,6 +8664,12 @@ export const indexObject ={
                "not healthy for a minute": {
                     "locators": [
                          "SN22.1"
+                    ],
+                    "xrefs": []
+               },
+               "intention that gives rise to actions": {
+                    "locators": [
+                         "SN12.25"
                     ],
                     "xrefs": []
                },
@@ -14109,6 +14129,12 @@ export const indexObject ={
                "vital condition is sense bases": {
                     "locators": [
                          "SN12.23"
+                    ],
+                    "xrefs": []
+               },
+               "cause of suffering and happiness": {
+                    "locators": [
+                         "SN12.25"
                     ],
                     "xrefs": []
                }
@@ -21068,6 +21094,14 @@ export const indexObject ={
                "leading to rebirth in heaven": {
                     "locators": [
                          "MN71"
+                    ],
+                    "xrefs": []
+               }
+          },
+          "doctrine of causality (kammavāda)": {
+               "proponents of": {
+                    "locators": [
+                         "SN12.25"
                     ],
                     "xrefs": []
                }
@@ -35255,6 +35289,24 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
+               "dependent on contact": {
+                    "locators": [
+                         "SN12.25"
+                    ],
+                    "xrefs": []
+               },
+               "arises by chance": {
+                    "locators": [
+                         "SN12.25"
+                    ],
+                    "xrefs": []
+               },
+               "made by oneself or another": {
+                    "locators": [
+                         "SN12.25"
+                    ],
+                    "xrefs": []
+               },
                "counter_value": 2
           },
           "happiness in the present life (diṭṭhadhammasukhavihāra)": {
@@ -39184,6 +39236,18 @@ export const indexObject ={
                          "SN12.23"
                     ],
                     "xrefs": []
+               },
+               "intentions": {
+                    "locators": [
+                         "SN12.25"
+                    ],
+                    "xrefs": []
+               },
+               "without there is not body, speech, mind": {
+                    "locators": [
+                         "SN12.25"
+                    ],
+                    "xrefs": []
                }
           },
           "ill will (vyāpāda, byāpāda)": {
@@ -40541,6 +40605,12 @@ export const indexObject ={
                          "AN10.217",
                          "AN10.218",
                          "AN10.219"
+                    ],
+                    "xrefs": []
+               },
+               "bodily, verbal, mental intention": {
+                    "locators": [
+                         "SN12.25"
                     ],
                     "xrefs": []
                },
@@ -66793,6 +66863,18 @@ export const indexObject ={
                          "SN22.2"
                     ],
                     "xrefs": []
+               },
+               "discussion with wanderers of other sects": {
+                    "locators": [
+                         "SN12.24"
+                    ],
+                    "xrefs": []
+               },
+               "discussion with Ven. Bhūmija": {
+                    "locators": [
+                         "SN12.25"
+                    ],
+                    "xrefs": []
                }
           },
           "Sāti, Ven., the fisherman’s son": {
@@ -74447,13 +74529,16 @@ export const indexObject ={
                },
                "made by oneself or another": {
                     "locators": [
-                         "SN12.17"
+                         "SN12.17",
+                         "SN12.25",
+                         "SN12.25"
                     ],
                     "xrefs": []
                },
-               "chance": {
+               "arises by chance": {
                     "locators": [
-                         "SN12.17"
+                         "SN12.17",
+                         "SN12.25"
                     ],
                     "xrefs": []
                },
@@ -74472,6 +74557,12 @@ export const indexObject ={
                "vital condition is becoming": {
                     "locators": [
                          "SN12.23"
+                    ],
+                    "xrefs": []
+               },
+               "dependent on contact": {
+                    "locators": [
+                         "SN12.25"
                     ],
                     "xrefs": []
                }
@@ -79856,6 +79947,7 @@ export const indexObject ={
                },
                "all results are because of chance": {
                     "locators": [
+                         "SN12.25",
                          "AN3.61"
                     ],
                     "xrefs": []
@@ -80622,6 +80714,12 @@ export const indexObject ={
                "vital condition is ignorance": {
                     "locators": [
                          "SN12.23"
+                    ],
+                    "xrefs": []
+               },
+               "bodily, verbal, mental": {
+                    "locators": [
+                         "SN12.25"
                     ],
                     "xrefs": []
                }

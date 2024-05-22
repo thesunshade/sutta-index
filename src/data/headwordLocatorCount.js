@@ -41,7 +41,7 @@ export const indexObject =[
      ],
      [
           "Sāriputta, Ven.",
-          67
+          69
      ],
      [
           "virtue (sīla)",
@@ -72,12 +72,12 @@ export const indexObject =[
           54
      ],
      [
-          "Ānanda, Ven.",
+          "suffering (dukkha)",
           52
      ],
      [
-          "suffering (dukkha)",
-          51
+          "Ānanda, Ven.",
+          52
      ],
      [
           "foundations of mindfulness, four (satipaṭṭhāna)",
@@ -108,12 +108,12 @@ export const indexObject =[
           44
      ],
      [
-          "craving (taṇha)",
+          "happiness (sukha)",
           44
      ],
      [
-          "happiness (sukha)",
-          43
+          "craving (taṇha)",
+          44
      ],
      [
           "aggregates (khandha)",
@@ -276,6 +276,10 @@ export const indexObject =[
           28
      ],
      [
+          "contact (phassa)",
+          28
+     ],
+     [
           "Bodhisatta",
           28
      ],
@@ -305,10 +309,6 @@ export const indexObject =[
      ],
      [
           "dimension of nothingness (ākiñcaññāyatana)",
-          27
-     ],
-     [
-          "contact (phassa)",
           27
      ],
      [
@@ -364,6 +364,10 @@ export const indexObject =[
           24
      ],
      [
+          "ignorance (avijjā)",
+          24
+     ],
+     [
           "heaven (sagga)",
           24
      ],
@@ -393,10 +397,6 @@ export const indexObject =[
      ],
      [
           "ill will (vyāpāda, byāpāda)",
-          23
-     ],
-     [
-          "ignorance (avijjā)",
           23
      ],
      [
@@ -892,6 +892,10 @@ export const indexObject =[
           13
      ],
      [
+          "intention (cetana)",
+          13
+     ],
+     [
           "improper attention (ayoniso manasikāra)",
           13
      ],
@@ -1001,10 +1005,6 @@ export const indexObject =[
      ],
      [
           "joy (pāmojja)",
-          12
-     ],
-     [
-          "intention (cetana)",
           12
      ],
      [
@@ -1188,6 +1188,10 @@ export const indexObject =[
           10
      ],
      [
+          "views of other sects",
+          10
+     ],
+     [
           "training",
           10
      ],
@@ -1313,10 +1317,6 @@ export const indexObject =[
      ],
      [
           "wrong intention (micchā saṅkappa)",
-          9
-     ],
-     [
-          "views of other sects",
           9
      ],
      [
@@ -1669,6 +1669,10 @@ export const indexObject =[
      ],
      [
           "Brahmā",
+          8
+     ],
+     [
+          "body (kāya)",
           8
      ],
      [
@@ -2049,10 +2053,6 @@ export const indexObject =[
      ],
      [
           "brahmās",
-          7
-     ],
-     [
-          "body (kāya)",
           7
      ],
      [
@@ -2473,6 +2473,10 @@ export const indexObject =[
      ],
      [
           "wholesome roots (alobha, adosa, amoha)",
+          5
+     ],
+     [
+          "volitional formations (saṅkhāra)",
           5
      ],
      [
@@ -2929,10 +2933,6 @@ export const indexObject =[
      ],
      [
           "Way to the Beyond (Pārāyana)",
-          4
-     ],
-     [
-          "volitional formations (saṅkhāra)",
           4
      ],
      [
@@ -6184,6 +6184,10 @@ export const indexObject =[
           2
      ],
      [
+          "Bhūmija, Ven.",
+          2
+     ],
+     [
           "bhikkhus",
           2
      ],
@@ -8949,6 +8953,10 @@ export const indexObject =[
      ],
      [
           "donkey",
+          1
+     ],
+     [
+          "doctrine of causality (kammavāda)",
           1
      ],
      [
