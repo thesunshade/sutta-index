@@ -2488,6 +2488,7 @@ export const headwordsArray =[
      "times",
      "timidity (sārajja)",
      "Tissa, Brahma",
+     "Tissa, Brahmā",
      "Tissa, Ven.",
      "titans (asuras)",
      "tolerating bad thoughts",

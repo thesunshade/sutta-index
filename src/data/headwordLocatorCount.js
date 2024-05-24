@@ -4788,10 +4788,6 @@ export const indexObject =[
           2
      ],
      [
-          "Tissa, Brahma",
-          2
-     ],
-     [
           "time",
           2
      ],
@@ -6833,6 +6829,14 @@ export const indexObject =[
      ],
      [
           "Tissa, Ven.",
+          1
+     ],
+     [
+          "Tissa, Brahmā",
+          1
+     ],
+     [
+          "Tissa, Brahma",
           1
      ],
      [

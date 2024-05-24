@@ -49793,6 +49793,11 @@ export const locatorBookObject ={
     ],
     [
       "AN7.56",
+      "mendicants",
+      "reborn as gods"
+    ],
+    [
+      "AN7.56",
       "Moggallāna, Ven.",
       "visiting brahmā world"
     ],
@@ -49818,18 +49823,13 @@ export const locatorBookObject ={
     ],
     [
       "AN7.56",
-      "Tissa, Brahma",
-      "former monk"
-    ],
-    [
-      "AN7.56",
-      "mendicants",
-      "reborn as gods"
-    ],
-    [
-      "AN7.56",
       "signless meditator (animittavihāri)",
       "definition"
+    ],
+    [
+      "AN7.56",
+      "Tissa, Brahmā",
+      "former monk"
     ],
     [
       "AN7.57",

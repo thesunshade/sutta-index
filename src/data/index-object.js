@@ -9184,6 +9184,17 @@ export const indexObject ={
                }
           },
           "brahmās": {
+               "": {
+                    "locators": [],
+                    "xrefs": [
+                         "xref Baka Brahmā",
+                         "xref Mahābrahmā, the Great Brahmā",
+                         "xref Sahampati, Brahmā",
+                         "xref Sanaṅkumāra, Brahmā",
+                         "xref Tissa, Brahmā",
+                         "xref gods of Brahmā’s Host (brahmakāyika)"
+                    ]
+               },
                "rebirth as": {
                     "locators": [
                          "Iti22"
@@ -32497,6 +32508,7 @@ export const indexObject ={
                "": {
                     "locators": [],
                     "xrefs": [
+                         "xref Māra",
                          "xref brahmās",
                          "xref devas"
                     ]
@@ -76826,7 +76838,14 @@ export const indexObject ={
           "Tissa, Brahma": {
                "former monk": {
                     "locators": [
-                         "AN6.34",
+                         "AN6.34"
+                    ],
+                    "xrefs": []
+               }
+          },
+          "Tissa, Brahmā": {
+               "former monk": {
+                    "locators": [
                          "AN7.56"
                     ],
                     "xrefs": []
