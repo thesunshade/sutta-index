@@ -66,6 +66,13 @@ export default function Info() {
             </a>
             .
           </p>
+          <p>
+            The{" "}
+            <a href="https://digitalpalidictionary.github.io/" rel="noreferrer" target="_blank">
+              Digital Pāli Dictionary
+            </a>{" "}
+            is also an excellent resource.
+          </p>
         </div>
       </details>
       <details>

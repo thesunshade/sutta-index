@@ -3143,6 +3143,8 @@ travel	undisciplined	Thag1.37
 psychic powers (iddhi)	river standing still	Thag1.38
 rivers	standing still by psychic powers	Thag1.38
 arahants	praised by gods	Thag1.38
+Phagguṇa, Ven.		xref Moḷiyaphagguṇa, Ven.
+Moḷiyaphagguṇa, Ven.		xref Phagguṇa, Ven.
 urgency	to give up sensual desire	Thag1.39
 urgency	like ones head on fire	Thag1.39
 urgency	like ones head on fire	Thag1.40
@@ -3977,7 +3979,7 @@ mindfulness of breathing (ānāpānassati)	mindfulness of body (kāyānupassanā
 bodily formation (kāyasaṅkhāra)	mindfulness of breathing	MN10
 carpenters	simile for mindfulness of breathing	MN10
 mindfulness of breathing (ānāpānassati)	like carpenter making a cut	MN10
-internally (ajjhattaṃ)	mindfulness	MN10
+internally (ajjhattaṁ)	mindfulness	MN10
 externally (bahiddha)	mindfulness	MN10
 postures	mindfulness of body	MN10
 eating	mindfulness of body	MN10
@@ -4267,7 +4269,7 @@ strong person	crushing weak person, simile for crushing mind with mind	MN20
 mind (citta)	crushing mind with mind	MN20
 danger (ādīnava)	focusing on to remove thought	MN20
 thoughts (vitakka)	thinking what one wants to think	MN20
-Phagguṇa, Ven.	associating too much with a monk	MN21
+Moḷiyaphagguṇa, Ven.	associating too much with a monk	MN21
 bhikkhunīs	associating too much with bhikkhunī	MN21
 angry (kupita)	when friends are criticized	MN21
 bhikkhus	mixing with nuns	MN21
@@ -5091,7 +5093,7 @@ good actions	like beverages	MN46
 poisons	simile for bad actions	MN46
 medicine	simile for good actions	MN46
 sunrise	dispelling all darkness, simile for best practice	MN46
-investigation (vīmaṃsā)	of the Buddha	MN47
+investigation (vīmaṁsā)	of the Buddha	MN47
 Buddha, the	investigating	MN47
 corruptions (saṅkilesa)	not seen in the Buddha	MN47
 fame (yasas)	Buddha not corrupted by	MN47
@@ -7930,7 +7932,7 @@ Dhamma teaching	in brief (saṅkhittena)	MN145
 advice (ovāda)	in brief (saṅkhittena)	MN145
 delight (nandi)	origin of suffering	MN145
 suffering (dukkha)	delight (nandi) as origin	MN145
-suffering (dukkha)	origin of suffering	MN145
+suffering (dukkha)	origin	MN145
 sense objects	approving, welcoming, clinging to	MN145
 patience (khanti)	when being attacked	MN145
 enduring abuse	how to	MN145
@@ -8389,6 +8391,8 @@ Dhamma teaching	misrepresenting Dhamma	AN2.24
 explicit meaning	giving interpreted meaning	AN2.24
 interpreted meaning	giving explicit meaning	AN2.24
 Dhamma teaching	explicit vs. interpreted	AN2.24
+interpretation (neyyattha)	statements needing	AN2.24
+interpretation (neyyattha)	statements needing	AN2.25
 Dhamma teaching	explicit vs. interpreted	AN2.25
 Buddha, the	misrepresenting	AN2.25
 hiding misdeeds	result	AN2.26
@@ -9560,11 +9564,15 @@ earth element (pathavī dhātu)	“This is not mine”	AN4.177
 water element (āpo dhātu)	“This is not mine”	AN4.177
 fire element (tejo dhātu)	“This is not mine”	AN4.177
 air element (vāyo dhātu)	“This is not mine”	AN4.177
-Rāhula, Ven.		AN4.177
-heart’s release (cetovimutti)		AN4.178
+Rāhula, Ven.	elements	AN4.177
+heart’s release (cetovimutti)	identity (sakkāya)	AN4.178
+hands	grabbing branch with glue smeared hand, simile for identity	AN4.178
+glue	grabbing branch with glue smeared hand, simile for identity	AN4.178
+trees	grabbing branch with glue smeared hand, simile for identity	AN4.178
+hands	like grabbing branch with glue smeared hand	AN4.178
 nibbāna	in the present life	AN4.179
 Dhamma	how to evaluate what is and what isn’t	AN4.180
-great references (mahāpadesa)		AN4.180
+great references (mahāpadesa)	what is and is not Dhamma	AN4.180
 mendicants	worthy of gifts	AN4.181
 mendicants	like a warrior	AN4.181
 old age, sickness, and death	no one can be guarantor	AN4.182
@@ -11636,7 +11644,7 @@ doctrine of inaction/non-doing (akiriyavādā)	Buddha accused of holding	AN8.12
 Nigaṇṭha Nāṭaputta	discouraging disciple from visiting Buddha	AN8.12
 annihilationism (ucchedavāda)	how Buddha teaches	AN8.12
 doctrine of inaction/non-doing (akiriyavādā)	how Buddha teaches	AN8.12
-comfort (assāsaka)	Buddha offering highest	AN8.12
+comfort (assāsa)	Buddha offering highest	AN8.12
 conversion	Buddha urging caution for one considering converting	AN8.12
 Buddha, the	how he teaches	AN8.12
 giving (dāna)	“Gifts should only be given to the Buddha”	AN8.12
@@ -13824,7 +13832,7 @@ stream-enterers (sotāpanna)	virtues loved by noble ones	AN10.92
 Anāthapiṇḍika, householder	factors of stream-entry	AN10.92
 noble method (ariya ñāya)	dependent origination	AN10.92
 “when this exists, that comes to be…”	noble disciple reflects	AN10.92
-dependent origination (paṭiccasamuppāda)	as noble method	AN10.92
+dependent origination (paṭiccasamuppāda)	noble method	AN10.92
 wanderers of other sects (aññatitthiya paribbājaka)	Anāthapiṇḍika visiting	AN10.93
 Anāthapiṇḍika, householder	visiting wanderers of other sects	AN10.93
 views (diṭṭhi)	as conditioned	AN10.93
@@ -15500,7 +15508,7 @@ Dhamma teaching	in brief (saṅkhittena)	SN35.88
 advice (ovāda)	in brief (saṅkhittena)	SN35.88
 delight (nandi)	origin of suffering	SN35.88
 suffering (dukkha)	delight (nandi) as origin	SN35.88
-suffering (dukkha)	origin of suffering	SN35.88
+suffering (dukkha)	origin	SN35.88
 sense objects	approving, welcoming, clinging to	SN35.88
 patience (khanti)	when being attacked	SN35.88
 enduring abuse	how to	SN35.88
@@ -16304,6 +16312,7 @@ wrong view (micchā diṭṭhi)	aggregates	SN22.154
 identity view (sakkāyadiṭṭhi)	aggregates	SN22.155
 fetters (saṁyojana)	aggregates and desire	SN22.157
 Dhamma teaching	in brief (saṅkhittena), aggregates 	SN22.159
+dependent origination	 	CUSTOM:SN:Nidānasaṁyutta:suttacentral.net/sn22
 dependent origination (paṭiccasamuppāda)	definition	SN12.1
 ignorance (avijjā)	condition for volitional formations	SN12.1
 volitional formations (saṅkhāra)	conditioned by ignorance	SN12.1
@@ -16376,7 +16385,7 @@ Buddha, the	dependent origination while bodhisatta	SN12.10
 proper attention (yoniso manasikāra)	dependent origination	SN12.10
 nutriment (āhāra)	four types and origin, dependent origination	SN12.11
 dependent origination	starting with four nutriments	SN12.11
-Phagguṇa, Ven.	asking about consciousness	SN12.12
+Moḷiyaphagguṇa, Ven.	asking about consciousness	SN12.12
 nutriment (āhāra)	four types and origin, dependent origination	SN12.12
 questions	improper	SN12.12
 consciousness (viññāṇa)	as fuel that conditions rebirth	SN12.12
@@ -16492,3 +16501,81 @@ intention (cetana)	bodily, verbal, mental intention	SN12.25
 volitional formations (saṅkhāra)	bodily, verbal, mental	SN12.25
 ignorance (avijjā)	intentions	SN12.25
 ignorance (avijjā)	without there is not body, speech, mind	SN12.25
+Upavāṇa, Ven.	asking about suffering	SN12.26
+conditions (paccaya)	noble disciple understands	SN12.27
+noble disciple (ariya sāvaka)	understands conditions	SN12.27
+accomplishment in view (diṭṭhisampadā)	one who is	SN12.27
+accomplishment in vision (dassanasampadā)	one who is	SN12.27
+stream of Dhamma (dhammasota)	one who has entered	SN12.27
+penetration (nibbedha)	one with penetrative wisdom	SN12.27
+door to the deathless (amatadvāra)	one who stands pushing open	SN12.27
+Way to the Beyond (Pārāyana)	Questions of Ajita	SN12.31
+Kaḷāra Khattiya, Ven.	reporting a monk’s disrobing	SN12.32
+Moḷiyaphagguṇa, Ven.	disrobing	SN12.32
+comfort (assāsa)	in the Dhamma	SN12.32
+Sāriputta, Ven.	declaring enlightenment	SN12.32
+suffering (dukkha)	includes whatever is felt	SN12.32
+doubt (vicikicchā)	arahant has no doubt defilements are given up	SN12.32
+four noble truths pattern	dependent origination	SN12.33
+dependent origination	four noble truths pattern	SN12.33
+ascetics and brahmins (samaṇabrāhmaṇa)	knowledge of in past and future	SN12.33
+knowledges (ñāṇa)	two	SN12.33
+knowledge of principle (dhamme ñāṇa)	dependent origination	SN12.33
+knowledge of entailment (anvaye ñāṇa)	dependent origination	SN12.33
+accomplishment in view (diṭṭhisampadā)	one who is	SN12.33
+accomplishment in vision (dassanasampadā)	one who is	SN12.33
+stream of Dhamma (dhammasota)	one who has entered	SN12.33
+penetration (nibbedha)	one with penetrative wisdom	SN12.33
+door to the deathless (amatadvāra)	one who stands pushing open	SN12.33
+knowledge, grounds for (ñāṇavatthu)	forty-four	SN12.33
+knowledge, grounds for (ñāṇavatthu)	seventy-seven	SN12.34
+questions	improper	SN12.35
+old age (jarā)	who does it belong to	SN12.35
+death (maraṇa)	who does it belong to	SN12.35
+wrong views	preventing living the holy life	SN12.35
+extremes (anta)	regarding soul and body	SN12.35
+spiritual path (brahmacariya)	not possible with wrong views	SN12.35
+body (kāya)	old deeds, produced by volitional formations and intentions	SN12.37
+body (kāya)	doesn’t belong to anyone	SN12.37
+intention (cetana)	body	SN12.37
+conditioned (saṅkhata)	body	SN12.37
+intention (cetana)	supports existence	SN12.38
+underlying tendencies (anusaya)	supports existence	SN12.38
+tendency (nati)		xref inclination (nati)
+dangers		xref perils (bhaya)
+threats (vera)		xref hatred (vera)
+animosities (vera)		xref hatred (vera)
+noble system (ariya ñāya)		xref noble method (ariya ñāya)
+inclination (nati)	from consciousness	SN12.40
+coming and going (āgatigati)	from inclination	SN12.40
+death and rebirth (cutūpapāta)	from coming and going	SN12.40
+Anāthapiṇḍika, householder	factors of stream-entry	SN12.41
+perils (bhaya)	of breaking precepts	SN12.41
+hatred (vera)	through breaking precepts	SN12.41
+hatred (vera)	breaking is fear and threat (bhaya vera)	SN12.41
+factors of stream-entry (sotāpattiyaṅga)	definition	SN12.41
+stream-enterers (sotāpanna)	four factors of	SN12.41
+noble ones (ariya)	virtues loved by noble ones	SN12.41
+confidence (aveccappasāda)	factor of stream-entry	SN12.41
+virtue (sīla)	loved by noble ones, as factor of stream-entry	SN12.41
+stream-enterers (sotāpanna)	virtues loved by noble ones	SN12.41
+stream-enterers (sotāpanna)	declarations of	SN12.41
+noble method (ariya ñāya)	dependent origination	SN12.41
+dependent origination (paṭiccasamuppāda)	noble method	SN12.41
+dependent origination	reverse cycle	SN12.43
+suffering (dukkha)	ending	SN12.43
+suffering (dukkha)	origin	SN12.43
+dependent origination	through sense bases	SN12.43
+world (loka)	origin and ending	SN12.44
+sense bases	dependent origination	SN12.45
+middle (majjha)	dependent origination as middle way	SN12.46
+doer of deed	experiencing result	SN12.46
+extremes (anta)	doer experiencing results	SN12.46
+Jāṇussoṇi, brahmin	does all exist	SN12.47
+extremes (anta)	all exists	SN12.47
+cosmology (lokāyatika)	all exists, etc.	SN12.48
+unity (ekatta)	all is	SN12.48
+plurality (puthutta)	all is	SN12.48
+“when this exists, that comes to be…”	view of noble disciple	SN12.49
+noble disciple (ariya sāvaka)	dependent origination	SN12.49
+investigation (vīmaṁsā)	dependent origination	SN12.51
