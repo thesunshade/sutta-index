@@ -46,6 +46,13 @@ function App() {
     localStorage.theme = "light";
   }
 
+  if (localStorage.coloredLocators === "true") {
+    document.body.classList.add("colored-locators");
+  } else {
+    localStorage.coloredLocators = "false";
+    document.body.classList.remove("colored-locators");
+  }
+
   function toggleTheme() {
     if (localStorage.theme === "light") {
       document.body.classList.add("dark");
@@ -78,8 +85,13 @@ function App() {
   }
 
   function toggleColorView() {
-    const body = document.getElementsByTagName("body");
-    body[0].classList.toggle("colored-locators");
+    if (localStorage.coloredLocators === "true") {
+      document.body.classList.remove("colored-locators");
+      localStorage.coloredLocators = "false";
+    } else {
+      document.body.classList.add("colored-locators");
+      localStorage.coloredLocators = "true";
+    }
   }
 
   return (
