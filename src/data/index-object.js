@@ -3474,7 +3474,8 @@ export const indexObject ={
                },
                "removing through not grasping": {
                     "locators": [
-                         "MN37"
+                         "MN37",
+                         "SN12.51"
                     ],
                     "xrefs": []
                }
@@ -8716,6 +8717,12 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
+               "only remains after death": {
+                    "locators": [
+                         "SN12.51"
+                    ],
+                    "xrefs": []
+               },
                "counter_value": 2
           },
           "body (sarīra)": {
@@ -8776,6 +8783,14 @@ export const indexObject ={
                     "locators": [
                          "SN35.127",
                          "AN10.60"
+                    ],
+                    "xrefs": []
+               }
+          },
+          "body, ending with (kāyapariyantika)": {
+               "feeling": {
+                    "locators": [
+                         "SN12.51"
                     ],
                     "xrefs": []
                }
@@ -16077,6 +16092,12 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
+               "like clay pot cooling": {
+                    "locators": [
+                         "SN12.51"
+                    ],
+                    "xrefs": []
+               },
                "counter_value": 1
           },
           "death (maccu)": {
@@ -17493,6 +17514,12 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
+               "investigating": {
+                    "locators": [
+                         "SN12.51"
+                    ],
+                    "xrefs": []
+               },
                "counter_value": 1
           },
           "dependent origination (paṭiccasamuppāda)": {
@@ -17874,7 +17901,12 @@ export const indexObject ={
                     "locators": [
                          "CUSTOM:Vv:Vimānavatthu:SuttaFriends.org/vv"
                     ],
-                    "xrefs": []
+                    "xrefs": [
+                         "xref Candana, devaputta",
+                         "xref Kanthaka deva",
+                         "xref Sakka, Lord of Gods",
+                         "xref earth gods (bhummā devā)"
+                    ]
                },
                "once returners": {
                     "locators": [
@@ -17908,6 +17940,12 @@ export const indexObject ={
                          "MN23",
                          "Vv83",
                          "Vv84"
+                    ],
+                    "xrefs": []
+               },
+               "perceiving, directly knowing, etc.": {
+                    "locators": [
+                         "MN1"
                     ],
                     "xrefs": []
                },
@@ -26070,6 +26108,12 @@ export const indexObject ={
                          "SN12.23"
                     ],
                     "xrefs": []
+               },
+               "dependent origination": {
+                    "locators": [
+                         "SN12.51"
+                    ],
+                    "xrefs": []
                }
           },
           "faith follower": {
@@ -28417,6 +28461,12 @@ export const indexObject ={
                          "MN76"
                     ],
                     "xrefs": []
+               },
+               "": {
+                    "locators": [],
+                    "xrefs": [
+                         "xref investigation (vīmaṁsā)"
+                    ]
                }
           },
           "food": {
@@ -32681,17 +32731,7 @@ export const indexObject ={
                          "AN11.15"
                     ],
                     "xrefs": []
-               },
-               "counter_value": 1
-          },
-          "gods (deva)": {
-               "perceiving, directly knowing, etc.": {
-                    "locators": [
-                         "MN1"
-                    ],
-                    "xrefs": []
-               },
-               "counter_value": 2
+               }
           },
           "Gods Fair to See (sudassā devā)": {
                "aspiring to be reborn as": {
@@ -34210,7 +34250,8 @@ export const indexObject ={
                },
                "not grasping at anything in the world": {
                     "locators": [
-                         "MN140"
+                         "MN140",
+                         "SN12.51"
                     ],
                     "xrefs": []
                },
@@ -40041,6 +40082,12 @@ export const indexObject ={
                          "SN22.76"
                     ],
                     "xrefs": []
+               },
+               "volitional formations": {
+                    "locators": [
+                         "SN12.51"
+                    ],
+                    "xrefs": []
                }
           },
           "imperturbable meditation (āneñjasamādhi)": {
@@ -40416,6 +40463,14 @@ export const indexObject ={
                     "locators": [],
                     "xrefs": [
                          "xref opportunities"
+                    ]
+               }
+          },
+          "inquiry (vīmaṁsā)": {
+               "": {
+                    "locators": [],
+                    "xrefs": [
+                         "xref investigation (vīmaṁsā)"
                     ]
                }
           },
@@ -41196,6 +41251,12 @@ export const indexObject ={
                          "MN47"
                     ],
                     "xrefs": []
+               },
+               "": {
+                    "locators": [],
+                    "xrefs": [
+                         "xref following a line of inquiry (vīmaṁsānucarita)"
+                    ]
                },
                "dependent origination": {
                     "locators": [
@@ -45252,6 +45313,14 @@ export const indexObject ={
                },
                "counter_value": 2
           },
+          "life, ending with (jīvitapariyantika)": {
+               "feeling": {
+                    "locators": [
+                         "SN12.51"
+                    ],
+                    "xrefs": []
+               }
+          },
           "lifespans": {
                "": {
                     "locators": [],
@@ -48980,6 +49049,12 @@ export const indexObject ={
                "overflowing": {
                     "locators": [
                          "AN8.39"
+                    ],
+                    "xrefs": []
+               },
+               "volitional formations": {
+                    "locators": [
+                         "SN12.51"
                     ],
                     "xrefs": []
                }
@@ -52788,6 +52863,18 @@ export const indexObject ={
                          "SN48.37"
                     ],
                     "xrefs": []
+               },
+               "": {
+                    "locators": [],
+                    "xrefs": [
+                         "xref feelings (vedanā)"
+                    ]
+               },
+               "understanding impermanence, etc.": {
+                    "locators": [
+                         "SN12.51"
+                    ],
+                    "xrefs": []
                }
           },
           "never lying down practice": {
@@ -54244,7 +54331,7 @@ export const indexObject ={
                          "xref brahmās",
                          "xref devas",
                          "xref ghosts",
-                         "xref gods (deva)",
+                         "xref gods",
                          "xref kinnara (kiṁpurisa)",
                          "xref nymphs (accharā)",
                          "xref nāgas",
@@ -56441,6 +56528,18 @@ export const indexObject ={
                     "locators": [
                          "SN48.36",
                          "SN48.37"
+                    ],
+                    "xrefs": []
+               },
+               "": {
+                    "locators": [],
+                    "xrefs": [
+                         "xref feelings (vedanā)"
+                    ]
+               },
+               "understanding impermanence, etc.": {
+                    "locators": [
+                         "SN12.51"
                     ],
                     "xrefs": []
                },
@@ -59008,6 +59107,18 @@ export const indexObject ={
                          "SN48.37"
                     ],
                     "xrefs": []
+               },
+               "": {
+                    "locators": [],
+                    "xrefs": [
+                         "xref feelings (vedanā)"
+                    ]
+               },
+               "understanding impermanence, etc.": {
+                    "locators": [
+                         "SN12.51"
+                    ],
+                    "xrefs": []
                }
           },
           "pleasant practice (sukhā paṭipadā)": {
@@ -59458,6 +59569,12 @@ export const indexObject ={
                "with a stand, simile for mind": {
                     "locators": [
                          "SN45.27"
+                    ],
+                    "xrefs": []
+               },
+               "cooling after kiln, simile for body at death": {
+                    "locators": [
+                         "SN12.51"
                     ],
                     "xrefs": []
                }
@@ -74839,6 +74956,7 @@ export const indexObject ={
                "ending": {
                     "locators": [
                          "SN12.43",
+                         "SN12.51",
                          "AN10.219"
                     ],
                     "xrefs": []
@@ -81163,6 +81281,12 @@ export const indexObject ={
                "bodily, verbal, mental": {
                     "locators": [
                          "SN12.25"
+                    ],
+                    "xrefs": []
+               },
+               "meritorious and demeritorious": {
+                    "locators": [
+                         "SN12.51"
                     ],
                     "xrefs": []
                }

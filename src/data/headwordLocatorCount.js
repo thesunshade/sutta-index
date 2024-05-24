@@ -61,7 +61,11 @@ export const indexObject =[
      ],
      [
           "faith (saddhā)",
-          57
+          58
+     ],
+     [
+          "suffering (dukkha)",
+          55
      ],
      [
           "awakening factors, seven (bojjhaṅga)",
@@ -69,10 +73,6 @@ export const indexObject =[
      ],
      [
           "wisdom (paññā)",
-          54
-     ],
-     [
-          "suffering (dukkha)",
           54
      ],
      [
@@ -180,10 +180,6 @@ export const indexObject =[
           36
      ],
      [
-          "gods",
-          35
-     ],
-     [
           "disputes",
           35
      ],
@@ -193,6 +189,10 @@ export const indexObject =[
      ],
      [
           "sense bases (āyatana)",
+          34
+     ],
+     [
+          "gods",
           34
      ],
      [
@@ -236,6 +236,10 @@ export const indexObject =[
           31
      ],
      [
+          "merit (puñña)",
+          31
+     ],
+     [
           "Māra",
           31
      ],
@@ -245,10 +249,6 @@ export const indexObject =[
      ],
      [
           "mindfulness (sati)",
-          30
-     ],
-     [
-          "merit (puñña)",
           30
      ],
      [
@@ -324,6 +324,10 @@ export const indexObject =[
           26
      ],
      [
+          "grasping (upādāna)",
+          26
+     ],
+     [
           "generosity (cāga)",
           26
      ],
@@ -332,15 +336,15 @@ export const indexObject =[
           26
      ],
      [
-          "grasping (upādāna)",
-          25
-     ],
-     [
           "good actions",
           25
      ],
      [
           "encouragement",
+          25
+     ],
+     [
+          "devas",
           25
      ],
      [
@@ -385,10 +389,6 @@ export const indexObject =[
      ],
      [
           "eating",
-          24
-     ],
-     [
-          "devas",
           24
      ],
      [
@@ -792,6 +792,10 @@ export const indexObject =[
           15
      ],
      [
+          "dependent origination",
+          15
+     ],
+     [
           "delusion (moha)",
           15
      ],
@@ -845,10 +849,6 @@ export const indexObject =[
      ],
      [
           "Dhamma discussion",
-          14
-     ],
-     [
-          "dependent origination",
           14
      ],
      [
@@ -1308,6 +1308,10 @@ export const indexObject =[
           10
      ],
      [
+          "body (kāya)",
+          10
+     ],
+     [
           "bodhipakkhiyā dhammā",
           10
      ],
@@ -1464,10 +1468,6 @@ export const indexObject =[
           9
      ],
      [
-          "body (kāya)",
-          9
-     ],
-     [
           "blame",
           9
      ],
@@ -1545,6 +1545,10 @@ export const indexObject =[
      ],
      [
           "pleasure (sukha)",
+          8
+     ],
+     [
+          "pleasant feelings (sukhavedanā)",
           8
      ],
      [
@@ -1812,10 +1816,6 @@ export const indexObject =[
           7
      ],
      [
-          "pleasant feelings (sukhavedanā)",
-          7
-     ],
-     [
           "pillars",
           7
      ],
@@ -1840,6 +1840,10 @@ export const indexObject =[
           7
      ],
      [
+          "painful feelings (dukkhavedanā)",
+          7
+     ],
+     [
           "pain (dukkha)",
           7
      ],
@@ -1861,6 +1865,10 @@ export const indexObject =[
      ],
      [
           "noble silence (ariya tuṇhībhāva)",
+          7
+     ],
+     [
+          "neutral feelings (adukkhamasukhaṁ vedanā)",
           7
      ],
      [
@@ -2028,6 +2036,10 @@ export const indexObject =[
           7
      ],
      [
+          "death",
+          7
+     ],
+     [
           "danger in slightest fault",
           7
      ],
@@ -2101,6 +2113,10 @@ export const indexObject =[
      ],
      [
           "water element (āpo dhātu)",
+          6
+     ],
+     [
+          "volitional formations (saṅkhāra)",
           6
      ],
      [
@@ -2224,10 +2240,6 @@ export const indexObject =[
           6
      ],
      [
-          "painful feelings (dukkhavedanā)",
-          6
-     ],
-     [
           "painful feelings",
           6
      ],
@@ -2237,10 +2249,6 @@ export const indexObject =[
      ],
      [
           "omniscience",
-          6
-     ],
-     [
-          "neutral feelings (adukkhamasukhaṁ vedanā)",
           6
      ],
      [
@@ -2384,10 +2392,6 @@ export const indexObject =[
           6
      ],
      [
-          "death",
-          6
-     ],
-     [
           "deadly pain",
           6
      ],
@@ -2448,6 +2452,10 @@ export const indexObject =[
           6
      ],
      [
+          "anxiety (paritassanā)",
+          6
+     ],
+     [
           "annihilationism (ucchedavāda)",
           6
      ],
@@ -2481,10 +2489,6 @@ export const indexObject =[
      ],
      [
           "Way to the Beyond (Pārāyana)",
-          5
-     ],
-     [
-          "volitional formations (saṅkhāra)",
           5
      ],
      [
@@ -2593,6 +2597,10 @@ export const indexObject =[
      ],
      [
           "precepts, eight",
+          5
+     ],
+     [
+          "pots",
           5
      ],
      [
@@ -2729,6 +2737,10 @@ export const indexObject =[
      ],
      [
           "insects",
+          5
+     ],
+     [
+          "imperturbable (āneñja)",
           5
      ],
      [
@@ -2909,10 +2921,6 @@ export const indexObject =[
      ],
      [
           "applied and sustained thought (vitakkavicārā)",
-          5
-     ],
-     [
-          "anxiety (paritassanā)",
           5
      ],
      [
@@ -3124,10 +3132,6 @@ export const indexObject =[
           4
      ],
      [
-          "pots",
-          4
-     ],
-     [
           "possible and impossible (ṭhāna aṭṭhāna)",
           4
      ],
@@ -3285,10 +3289,6 @@ export const indexObject =[
      ],
      [
           "incredible and amazing (acchariyā abbhutā)",
-          4
-     ],
-     [
-          "imperturbable (āneñja)",
           4
      ],
      [
@@ -5800,10 +5800,6 @@ export const indexObject =[
           2
      ],
      [
-          "gods (deva)",
-          2
-     ],
-     [
           "glowworms",
           2
      ],
@@ -8132,6 +8128,10 @@ export const indexObject =[
           1
      ],
      [
+          "life, ending with (jīvitapariyantika)",
+          1
+     ],
+     [
           "liberations, peaceful (santā vimokkhā)",
           1
      ],
@@ -9505,6 +9505,10 @@ export const indexObject =[
      ],
      [
           "bog (paṅka)",
+          1
+     ],
+     [
+          "body, ending with (kāyapariyantika)",
           1
      ],
      [

@@ -36036,6 +36036,11 @@ export const indexArray =[
      ],
      [
           "MN1",
+          "devas",
+          "perceiving, directly knowing, etc."
+     ],
+     [
+          "MN1",
           "dimension of infinite consciousness (viññāṇañcāyatana)",
           "perceiving, directly knowing, etc."
      ],
@@ -36072,11 +36077,6 @@ export const indexArray =[
      [
           "MN1",
           "fire element (tejo dhātu)",
-          "perceiving, directly knowing, etc."
-     ],
-     [
-          "MN1",
-          "gods (deva)",
           "perceiving, directly knowing, etc."
      ],
      [
@@ -60711,8 +60711,88 @@ export const indexArray =[
      ],
      [
           "SN12.51",
+          "anxiety (paritassanā)",
+          "removing through not grasping"
+     ],
+     [
+          "SN12.51",
+          "body (kāya)",
+          "only remains after death"
+     ],
+     [
+          "SN12.51",
+          "body, ending with (kāyapariyantika)",
+          "feeling"
+     ],
+     [
+          "SN12.51",
+          "death",
+          "like clay pot cooling"
+     ],
+     [
+          "SN12.51",
+          "dependent origination",
+          "investigating"
+     ],
+     [
+          "SN12.51",
+          "faith (saddhā)",
+          "dependent origination"
+     ],
+     [
+          "SN12.51",
+          "grasping (upādāna)",
+          "not grasping at anything in the world"
+     ],
+     [
+          "SN12.51",
+          "imperturbable (āneñja)",
+          "volitional formations"
+     ],
+     [
+          "SN12.51",
           "investigation (vīmaṁsā)",
           "dependent origination"
+     ],
+     [
+          "SN12.51",
+          "life, ending with (jīvitapariyantika)",
+          "feeling"
+     ],
+     [
+          "SN12.51",
+          "merit (puñña)",
+          "volitional formations"
+     ],
+     [
+          "SN12.51",
+          "neutral feelings (adukkhamasukhaṁ vedanā)",
+          "understanding impermanence, etc."
+     ],
+     [
+          "SN12.51",
+          "painful feelings (dukkhavedanā)",
+          "understanding impermanence, etc."
+     ],
+     [
+          "SN12.51",
+          "pleasant feelings (sukhavedanā)",
+          "understanding impermanence, etc."
+     ],
+     [
+          "SN12.51",
+          "pots",
+          "cooling after kiln, simile for body at death"
+     ],
+     [
+          "SN12.51",
+          "suffering (dukkha)",
+          "ending"
+     ],
+     [
+          "SN12.51",
+          "volitional formations (saṅkhāra)",
+          "meritorious and demeritorious"
      ],
      [
           "SN17.11–20",
