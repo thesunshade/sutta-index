@@ -1,96 +1,23 @@
-false speech	definition	DN2
-harsh speech	definition	DN2
-divisive speech	definition	DN2
-speech	restraint	DN2
-speech	useless: definition	DN2
-loving-kindness (mettā)	like a conch blower	DN13
-loving-kindness (mettā)	as a path to brahma world	DN13
-death (maraṇa)	danger of	SN1.3
-death (maraṇa)	danger of	SN1.4
-death (maccu)	realm of death (maccudheyya)	SN1.9
-death (maraṇa)		SN1.20
-giving (dāna)	by bad person	SN1.32
-giving (dāna)	levels of	SN1.32
-giving (dāna)	result of	SN1.32
-stinginess (maccharī)		SN1.32
-giving (dāna)	faith and giving	SN1.33
-giving (dāna)	smallest gift has value	SN1.33
-stinginess (maccharī)		SN1.33
-death (maccu)	realm of death (maccudheyya)	SN1.34
-death (maccu)	realm of death (maccudheyya)	SN1.38
-giving (dāna)	cause for rebirth	SN1.41
-giving (dāna)	as good use of wealth	SN1.41
-giving (dāna)	what to give	SN1.41
-giving (dāna)	faith and giving	SN1.43
-giving (dāna)	result of	SN1.43
-stinginess (maccharī)	overcome for sake of next world	SN1.43
-generosity (cāga)	cause for rebirth	SN1.49
-generosity (cāga)	as cause for wealth	SN1.49
-death (maraṇa)	world beaten down by	SN1.66
-death (maccu)	has the world fastened shut	SN1.67
-speech	good and bad	SN1.78
-death (maraṇa)	danger of	SN2.19
-giving (dāna)	faith and giving	SN2.23
-giving (dāna)	result of	SN2.23
-death (maraṇa)	danger of	SN2.27
-death (maraṇa)	inevitability of	SN3.3
-false speech	for the sake of gain	SN3.7
-giving (dāna)	with regret	SN3.20
-death (maraṇa)	cause of grief	SN3.22
-death (maraṇa)	inevitability of	SN3.22
-giving (dāna)	qualities of recipient	SN3.24
-giving (dāna)	whom to give to	SN3.24
-death (maraṇa)	inevitability of	SN3.25
-death (maraṇa)	reason to make merit	SN3.25
-death (maraṇa)	inevitability of	SN4.9
-death (maccu)	realm of death (maccudheyya)	SN4.24
-death (maraṇa)	King of	SN4.25
-death (maraṇa)	army of	SN5.3
-criticizing noble ones	by Kokālika	SN6.9
-defamation	leads to hell	SN6.9
-speech	praise and dispraise	SN6.9
-speech	like axe	SN6.9
-criticizing noble ones	by Kokālika	SN6.10
-death (maraṇa)	army of	SN6.14
-giving (dāna)	whom to give to	SN7.13
-speech	well spoken	SN7.16
-speech	harmless	SN8.5
-speech	on Dhamma	SN8.5
-speech	well spoken	SN8.5
-speech	well spoken	SN8.6
-death (maraṇa)	King of	SN9.7
-loving-kindness (mettā)	to abandon enmity	SN10.4
-giving (dāna)	to get friends	SN10.12
-speech	well spoken	SN11.5
-giving (dāna)	to the Saṅgha	SN11.16
-giving (dāna)	whom to give to	SN11.16
-death (maraṇa)	definition	SN12.2
-false speech	for the sake of gain	SN17.11–20
-false speech	for the sake of gain	SN17.37–43
-loving-kindness (mettā)	liberation of mind by	SN20.3
-loving-kindness (mettā)	as a protection	SN20.3
-loving-kindness (mettā)	liberation of mind by	SN20.4
-loving-kindness (mettā)	more fruitful than giving	SN20.4
-loving-kindness (mettā)	liberation of mind by	SN20.5
-loving-kindness (mettā)	as a protection	SN20.5
-death (maraṇa)	comes quickly	SN20.6
-death (maraṇa)	of relative	SN21.11
-disputes	about Dhamma	SN22.3
-giving (dāna)	to gain rebirth	SN29.11–50
-giving (dāna)	to gain rebirth	SN30.10–46
-giving (dāna)	to gain rebirth	SN31.3–112
-giving (dāna)	to gain rebirth	SN32.3–52
-generosity (cāga)	quality of stream-enterer	SN55.6
-false speech	no one likes to be lied to	SN55.7
-death (maraṇa)	good	SN55.21
-death (maraṇa)	good	SN55.22
-death (maraṇa)	fear of	SN55.27
-generosity (cāga)	stream of merit	SN55.32
-generosity (cāga)	as an accomplishment	SN55.37
-disputes	about Dhamma	SN56.9
-talk (kathā)	suitable and unsuitable	SN56.10
-speech	useless (tiraccha)	SN56.10
 oceans		xref Ganges river
+specific conditionality (idappaccayatā)		xref conditionality (idappaccayatā)
+conditionality (idappaccayatā)		xref dependent origination
+dependent origination		xref conditionality (idappaccayatā)
+proximate cause (upanisa)		xref dependent origination
+vital condition (upanisa)		xref proximate cause (upanisa)
+dependent origination		xref proximate cause (upanisa)
+tendency (nati)		xref inclination (nati)
+dangers		xref perils (bhaya)
+threats (vera)		xref hatred (vera)
+animosities (vera)		xref hatred (vera)
+noble system (ariya ñāya)		xref noble method (ariya ñāya)
+following a line of inquiry (vīmaṁsānucarita)		xref investigation (vīmaṁsā)
+inquiry (vīmaṁsā)		xref investigation (vīmaṁsā)
+investigation (vīmaṁsā)		xref following a line of inquiry (vīmaṁsānucarita)
+pleasant feelings (sukhavedanā)		xref feelings (vedanā)
+painful feelings (dukkhavedanā)		xref feelings (vedanā)
+neutral feelings (adukkhamasukhaṁ vedanā)		xref feelings (vedanā)
+bonfires		xref fires
+sapling		xref trees
 gods		xref Māra
 brahmās		xref Baka Brahmā
 devas		xref Sakka, Lord of Gods
@@ -108,6 +35,7 @@ wrong practice (micchāpaṭipadā)		xref practices (paṭipatti)
 right practice (sammāpaṭipadā)		xref practices (paṭipatti)
 coals, hot (kukkuḷa)		xref pits
 coals, hot (kukkuḷa)		xref Hell of Hot Coals (kukkulaniraya)
+bliss (sukha)		xref happiness (sukha)
 posts		xref pillars
 people (puggala)		xref person (puggala)
 sense bases		xref faculties, sense (indriya)
@@ -1474,7 +1402,97 @@ false speech		xref true or false (bhūtena vā abhūtena)
 shovels		xref spade
 cobras		xref snakes
 trenches		xref moats
-bliss (sukha)		xref happiness (sukha)
+false speech	definition	DN2
+harsh speech	definition	DN2
+divisive speech	definition	DN2
+speech	restraint	DN2
+speech	useless: definition	DN2
+loving-kindness (mettā)	like a conch blower	DN13
+loving-kindness (mettā)	as a path to brahma world	DN13
+death (maraṇa)	danger of	SN1.3
+death (maraṇa)	danger of	SN1.4
+death (maccu)	realm of death (maccudheyya)	SN1.9
+death (maraṇa)		SN1.20
+giving (dāna)	by bad person	SN1.32
+giving (dāna)	levels of	SN1.32
+giving (dāna)	result of	SN1.32
+stinginess (maccharī)		SN1.32
+giving (dāna)	faith and giving	SN1.33
+giving (dāna)	smallest gift has value	SN1.33
+stinginess (maccharī)		SN1.33
+death (maccu)	realm of death (maccudheyya)	SN1.34
+death (maccu)	realm of death (maccudheyya)	SN1.38
+giving (dāna)	cause for rebirth	SN1.41
+giving (dāna)	as good use of wealth	SN1.41
+giving (dāna)	what to give	SN1.41
+giving (dāna)	faith and giving	SN1.43
+giving (dāna)	result of	SN1.43
+stinginess (maccharī)	overcome for sake of next world	SN1.43
+generosity (cāga)	cause for rebirth	SN1.49
+generosity (cāga)	as cause for wealth	SN1.49
+death (maraṇa)	world beaten down by	SN1.66
+death (maccu)	has the world fastened shut	SN1.67
+speech	good and bad	SN1.78
+death (maraṇa)	danger of	SN2.19
+giving (dāna)	faith and giving	SN2.23
+giving (dāna)	result of	SN2.23
+death (maraṇa)	danger of	SN2.27
+death (maraṇa)	inevitability of	SN3.3
+false speech	for the sake of gain	SN3.7
+giving (dāna)	with regret	SN3.20
+death (maraṇa)	cause of grief	SN3.22
+death (maraṇa)	inevitability of	SN3.22
+giving (dāna)	qualities of recipient	SN3.24
+giving (dāna)	whom to give to	SN3.24
+death (maraṇa)	inevitability of	SN3.25
+death (maraṇa)	reason to make merit	SN3.25
+death (maraṇa)	inevitability of	SN4.9
+death (maccu)	realm of death (maccudheyya)	SN4.24
+death (maraṇa)	King of	SN4.25
+death (maraṇa)	army of	SN5.3
+criticizing noble ones	by Kokālika	SN6.9
+defamation	leads to hell	SN6.9
+speech	praise and dispraise	SN6.9
+speech	like axe	SN6.9
+criticizing noble ones	by Kokālika	SN6.10
+death (maraṇa)	army of	SN6.14
+giving (dāna)	whom to give to	SN7.13
+speech	well spoken	SN7.16
+speech	harmless	SN8.5
+speech	on Dhamma	SN8.5
+speech	well spoken	SN8.5
+speech	well spoken	SN8.6
+death (maraṇa)	King of	SN9.7
+loving-kindness (mettā)	to abandon enmity	SN10.4
+giving (dāna)	to get friends	SN10.12
+speech	well spoken	SN11.5
+giving (dāna)	to the Saṅgha	SN11.16
+giving (dāna)	whom to give to	SN11.16
+death (maraṇa)	definition	SN12.2
+false speech	for the sake of gain	SN17.11–20
+false speech	for the sake of gain	SN17.37–43
+loving-kindness (mettā)	liberation of mind by	SN20.3
+loving-kindness (mettā)	as a protection	SN20.3
+loving-kindness (mettā)	liberation of mind by	SN20.4
+loving-kindness (mettā)	more fruitful than giving	SN20.4
+loving-kindness (mettā)	liberation of mind by	SN20.5
+loving-kindness (mettā)	as a protection	SN20.5
+death (maraṇa)	comes quickly	SN20.6
+death (maraṇa)	of relative	SN21.11
+giving (dāna)	to gain rebirth	SN29.11–50
+giving (dāna)	to gain rebirth	SN30.10–46
+giving (dāna)	to gain rebirth	SN31.3–112
+giving (dāna)	to gain rebirth	SN32.3–52
+generosity (cāga)	quality of stream-enterer	SN55.6
+false speech	no one likes to be lied to	SN55.7
+death (maraṇa)	good	SN55.21
+death (maraṇa)	good	SN55.22
+death (maraṇa)	fear of	SN55.27
+generosity (cāga)	stream of merit	SN55.32
+generosity (cāga)	as an accomplishment	SN55.37
+disputes	about Dhamma	SN56.9
+talk (kathā)	suitable and unsuitable	SN56.10
+speech	useless (tiraccha)	SN56.10
 refuges	formula for taking	Kp1
 precepts, ten	definition	Kp2
 samaneras	precepts of	Kp2
@@ -9886,7 +9904,7 @@ enlightenment	when hindrances are removed	AN5.23
 hindrances (nīvaraṇa)	blocking psychic powers	AN5.23
 hindrances (nīvaraṇa)	blocking enlightenment	AN5.23
 wholesome chain of causality	virtue to knowledge and vision of freedom	AN5.24
-trees	like one without conditions for wholesome	AN5.24
+trees	simile for one without conditions for wholesome	AN5.24
 right view (sammā diṭṭhi)	supporting factors	AN5.25
 Dhamma discussion	condition for right view	AN5.25
 insight (vipassanā)	condition for right view	AN5.25
@@ -9946,7 +9964,7 @@ giving (dāna)	benefits to receiver and giver similar	AN5.37
 faith (saddhā)	benefits	AN5.38
 faith (saddhā)	leads to heaven	AN5.38
 faith (saddhā)	person with like a tree	AN5.38
-trees	like person with faith	AN5.38
+trees	simile for person with faith	AN5.38
 parents	wanting children	AN5.39
 merit sharing	parents hope children will share	AN5.39
 children	caring for parents	AN5.39
@@ -10799,7 +10817,7 @@ right concentration (sammā samadhi)	as condition for true knowledge and vision	
 true knowledge and vision (yathābhūtañāṇadassana)	as condition for disillusionment and dispassion	AN6.50
 disillusionment and dispassion (nibbidāvirāga)	condition for knowledge and vision of freedom	AN6.50
 knowledge and vision of freedom (vimuttiñāṇadassana)	disillusionment and dispassion as condition for	AN6.50
-trees	like one without conditions	AN6.50
+trees	simile for one without conditions	AN6.50
 questions, asking	getting to hear teachings	AN6.51
 listening to Dhamma	how to get the opportunity	AN6.51
 Ānanda, Ven.	asking about getting to hear the Dhamma	AN6.51
@@ -12193,7 +12211,7 @@ true knowledge and vision (yathābhūtañāṇadassana)	conditioned by right con
 true knowledge and vision (yathābhūtañāṇadassana)	condition for disillusionment and dispassion	AN8.81
 disillusionment and dispassion (nibbidāvirāga)	conditioned by true knowledge and vision	AN8.81
 disillusionment and dispassion (nibbidāvirāga)	condition for knowledge and vision of freedom	AN8.81
-trees	like one without conditions	AN8.81
+trees	simile for one without conditions	AN8.81
 Puṇṇiya, Ven.	asking about inspiration for teaching	AN8.82
 Buddha, the	inspiration for teaching	AN8.82
 inspiration	things that inspire the Buddha to teach	AN8.82
@@ -16428,11 +16446,8 @@ duality (dvaya)	body and external name and form	SN12.19
 fools (bāla)	difference between astute person	SN12.19
 astute person (paṇḍita)	difference between fool	SN12.19
 sense bases (āyatana)	fools and wise people	SN12.19
-specific conditionality (idappaccayatā)		xref conditionality (idappaccayatā)
-conditionality (idappaccayatā)		xref dependent origination
-dependent origination		xref conditionality (idappaccayatā)
 conditionality (idappaccayatā)	whether Tathāgatas exist	SN12.20
-Tathāgatas	conditionality exists whether Tathāgats exist or not	SN12.20
+Tathāgatas	conditionality exists whether Tathāgatas exist or not	SN12.20
 dependent origination (paṭiccasamuppāda)	whether Tathāgatas exist	SN12.20
 “when this exists, that comes to be…”	dependent origination	SN12.21
 powers (bala)	ten	SN12.21
@@ -16445,9 +16460,6 @@ brahmacariya	is the cream	SN12.22
 going forth (pabbajja)	not wasted	SN12.22
 requisites, four	donors collect merit when used by monastics 	SN12.22
 welfare	ones own and others	SN12.22
-proximate cause (upanisa)		xref dependent origination
-vital condition (upanisa)		xref proximate cause (upanisa)
-dependent origination		xref proximate cause (upanisa)
 knowing and seeing	dependent origination	SN12.23
 proximate cause (upanisa)	knowledge of ending	SN12.23
 freedom (vimutti)	vital condition is dispassion	SN12.23
@@ -16552,11 +16564,6 @@ intention (cetana)	body	SN12.37
 conditioned (saṅkhata)	body	SN12.37
 intention (cetana)	supports existence	SN12.38
 underlying tendencies (anusaya)	supports existence	SN12.38
-tendency (nati)		xref inclination (nati)
-dangers		xref perils (bhaya)
-threats (vera)		xref hatred (vera)
-animosities (vera)		xref hatred (vera)
-noble system (ariya ñāya)		xref noble method (ariya ñāya)
 inclination (nati)	from consciousness	SN12.40
 coming and going (āgatigati)	from inclination	SN12.40
 death and rebirth (cutūpapāta)	from coming and going	SN12.40
@@ -16589,12 +16596,6 @@ unity (ekatta)	all is	SN12.48
 plurality (puthutta)	all is	SN12.48
 “when this exists, that comes to be…”	view of noble disciple	SN12.49
 noble disciple (ariya sāvaka)	dependent origination	SN12.49
-following a line of inquiry (vīmaṁsānucarita)		xref investigation (vīmaṁsā)
-inquiry (vīmaṁsā)		xref investigation (vīmaṁsā)
-investigation (vīmaṁsā)		xref following a line of inquiry (vīmaṁsānucarita)
-pleasant feelings (sukhavedanā)		xref feelings (vedanā)
-painful feelings (dukkhavedanā)		xref feelings (vedanā)
-neutral feelings (adukkhamasukhaṁ vedanā)		xref feelings (vedanā)
 investigation (vīmaṁsā)	dependent origination	SN12.51
 dependent origination	investigating	SN12.51
 merit (puñña)	volitional formations	SN12.51
@@ -16612,3 +16613,55 @@ pots	cooling after kiln, simile for body at death	SN12.51
 death	like clay pot cooling	SN12.51
 suffering (dukkha)	ending	SN12.51
 faith (saddhā)	dependent origination	SN12.51
+grasping (upādāna)	prone to being grasped	SN12.52
+craving (taṇha)	gratification	SN12.52
+gratification (assāda)	focusing on	SN12.52
+bonfires	simile for focusing on gratification	SN12.52
+gratification (assāda)	like bonfire fed by grass, etc.	SN12.52
+fetters (saṁyojana)	prone to being fettered	SN12.53
+oil lamps	simile for focusing on gratification	SN12.53
+gratification (assāda)	like oil lamp fed by oil	SN12.53
+trees	simile for focusing on gratification	SN12.55
+gratification (assāda)	like tree drawing up sap	SN12.55
+trees	simile for focusing on danger	SN12.55
+fetters (saṁyojana)	prone to being fettered	SN12.56
+trees	sapling cared for, simile for focusing on gratification/danger	SN12.56
+name and form (nāma rūpa)	through focusing on gratification	SN12.58
+trees	simile for focusing on gratification	SN12.58
+consciousness (viññāṇa)	through focusing on gratification	SN12.59
+Ānanda, Ven.	dependent origination is plain as can be	SN12.60
+dependent origination (paṭiccasamuppāda)	deep and appears deep	SN12.60
+body (kāya)	impermanence is more apparent	SN12.61
+“This is mine, I am this, this is my self”	mind easily appears this way	SN12.61
+disillusionment (nibbidā)	with body is easier	SN12.61
+mind (mano)	difficult to become disillusioned with	SN12.61
+monkey	going branch to branch, simile for mind	SN12.61
+fires		xref fire sticks
+fire sticks		xref fires
+fire sticks	simile for contact and feelings	SN12.62
+feelings (vedanā)	contact, like fire sticks	SN12.62
+contact (phassa)	feeling, like fire sticks	SN12.62
+nutriment (āhāra)	definition	SN12.63
+food, solid (kabaḷīkāra)	like how child’s flesh should be eaten	SN12.63
+food, solid (kabaḷīkāra)	nutriment	SN12.63
+children	child’s flesh, simile for food	SN12.63
+deserts (kantāra)	child’s flesh, simile for food	SN12.63
+sense pleasures (kāma, kāmaguṇa)	understanding	SN12.63
+contact (phassa)	like flayed cow	SN12.63
+contact (phassa)	nutriment	SN12.63
+cows	flayed, simile for contact	SN12.63
+feelings (vedanā)	understanding	SN12.63
+intention, mental (manosañcetanā)	like pit of glowing coals	SN12.63
+intention, mental (manosañcetanā)	nutriment	SN12.63
+pits	of glowing coals, simile for mental intention	SN12.63
+craving (taṇha)	understanding	SN12.63
+consciousness (viññāṇa)	nutriment	SN12.63
+consciousness (viññāṇa)	like being struck by spears	SN12.63
+spears	being struck by, simile for consciousness	SN12.63
+nutriment (āhāra)	dependent origination	SN12.64
+painter	simile for nutriment	SN12.64
+houses	light not landing on wall, simile for no desire	SN12.64
+light	not landing on wall, simile for no desire	SN12.64
+Bodhisatta	reflection on the world	SN12.65
+consciousness (viññāṇa)	condition for name and form	SN12.65
+name and form (nāma rūpa)	condition for consciousness	SN12.65
