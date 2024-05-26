@@ -11048,6 +11048,12 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
+               "simile for results of actions": {
+                    "locators": [
+                         "AN3.100"
+                    ],
+                    "xrefs": []
+               },
                "bad results": {
                     "locators": [
                          "AN6.18"
@@ -66775,6 +66781,14 @@ export const indexObject ={
                     "xrefs": []
                }
           },
+          "salt": {
+               "lump of in river, simile for results of action": {
+                    "locators": [
+                         "AN3.100"
+                    ],
+                    "xrefs": []
+               }
+          },
           "samādhi": {
                "": {
                     "locators": [],
@@ -76606,6 +76620,12 @@ export const indexObject ={
                     "locators": [
                          "AN3.50",
                          "AN5.103"
+                    ],
+                    "xrefs": []
+               },
+               "simile for results of actions": {
+                    "locators": [
+                         "AN3.100"
                     ],
                     "xrefs": []
                },

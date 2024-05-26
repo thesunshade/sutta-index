@@ -2124,6 +2124,7 @@ export const headwordsArray =[
      "Sakulā, Ven.",
      "Sakuludāyī, wanderer",
      "sal trees",
+     "salt",
      "samādhi",
      "samaṇasaññā",
      "Sāmaṇḍakāni, wanderer",

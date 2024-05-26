@@ -604,6 +604,10 @@ export const indexObject =[
           17
      ],
      [
+          "thieves (cora)",
+          17
+     ],
+     [
           "sexual misconduct",
           17
      ],
@@ -665,10 +669,6 @@ export const indexObject =[
      ],
      [
           "unskillful qualities (akusala dhamma)",
-          16
-     ],
-     [
-          "thieves (cora)",
           16
      ],
      [
@@ -2420,6 +2420,10 @@ export const indexObject =[
           6
      ],
      [
+          "butchers",
+          6
+     ],
+     [
           "business",
           6
      ],
@@ -2877,10 +2881,6 @@ export const indexObject =[
      ],
      [
           "caste (vaṇṇa)",
-          5
-     ],
-     [
-          "butchers",
           5
      ],
      [
@@ -7377,6 +7377,10 @@ export const indexObject =[
      ],
      [
           "samaneras",
+          1
+     ],
+     [
+          "salt",
           1
      ],
      [
