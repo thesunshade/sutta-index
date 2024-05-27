@@ -3116,7 +3116,7 @@ bad actions	limiting actions to limit results	Pv33
 speech	back-biting, results of	Pv34
 divisive speech	results of	Pv34
 relics	insulting relic puja	Pv35
-roads	fixing, result of	Pv36
+roads (magga)	fixing, result of	Pv36
 joking	results of	Pv36
 monastics	treating them badly	Pv36
 ghosts	giving advice	Pv36
@@ -4401,7 +4401,7 @@ thoughts (vitakka)	thinking all night	MN23
 brahmin	simile for the Buddha	MN23
 swords	simile for noble wisdom	MN23
 anger (kodha)	like a frog	MN23
-roads	fork in, simile for doubt	MN23
+roads (magga)	fork in, simile for doubt	MN23
 doubt (vicikicchā)	like fork in the road	MN23
 tortoises (kumma)	simile for five aggregates	MN23
 aggregates (khandha)	like tortoise	MN23
@@ -4700,7 +4700,7 @@ questions, asking	like knowing the ford	MN33
 learned (bahussutā)	asking learned person questions like knowing the ford	MN33
 inspiration	in the teachings	MN33
 listening to Dhamma	joy in listening	MN33
-roads	knowing the road, simile for knowing noble eightfold path	MN33
+roads (magga)	knowing the road, simile for knowing noble eightfold path	MN33
 noble eightfold path (ariya aṭṭhangika magga)	knowing, like knowing the road	MN33
 domain (gocara)	knowing, simile for knowing four foundations of mindfulness	MN33
 foundations of mindfulness, four (satipaṭṭhāna)	knowing, like knowing the pasture	MN33
@@ -5357,7 +5357,7 @@ noble disciple (ariya sāvaka)	seeing passing away and rebirth of beings	MN53
 noble disciple (ariya sāvaka)	heart’s release	MN53
 heart’s release (cetovimutti)	noble disciple’s	MN53
 knowledge of passing away and rebirth of beings (cutūpapātañāna)	noble disciple	MN53
-knowledge of past lives	noble disciple	MN53
+past lives, knowledge of (pubbenivāsānussatiñāṇa)	noble disciple	MN53
 conduct (caraṇa)	of noble disciple	MN53
 knowledge (vijjā)	of noble disciple	MN53
 vijjācaraṇasampanno	of noble disciple	MN53
@@ -14432,7 +14432,7 @@ questions, asking	like knowing the ford	AN11.17
 learned (bahussutā)	asking learned person questions like knowing the ford	AN11.17
 inspiration	in the teachings	AN11.17
 listening to Dhamma	joy in listening	AN11.17
-roads	knowing the road, simile for knowing noble eightfold path	AN11.17
+roads (magga)	knowing the road, simile for knowing noble eightfold path	AN11.17
 noble eightfold path (ariya aṭṭhangika magga)	knowing, like knowing the road	AN11.17
 domain (gocara)	knowing, simile for knowing four foundations of mindfulness	AN11.17
 foundations of mindfulness, four (satipaṭṭhāna)	knowing, like knowing the pasture	AN11.17
@@ -15415,9 +15415,6 @@ supaṇṇa	silk-cotton tree	SN48.70
 faculty of wisdom (paññindriya)	best like silk-cotton tree	SN48.70
 Ganges river	slants to the east, simile for spiritual faculties	SN48.71
 fetters (saṁyojana)	five higher, develop spiritual faculties to give up	SN48.115
-Ganges river	slants to the east, simile for right efforts leading to nibbāna	SN49.1
-rivers	great rivers slant to the east, simile for right efforts leading to nibbāna	SN49.1
-right effort, four (sammappadhāna)	 	CUSTOM:SN:Sammappadhāna Saṁyutta:suttacentral.net/sn49
 sense bases (āyatana)	 	CUSTOM:SN:Saḷāyatanasaṁyutta:suttacentral.net/sn35
 sense bases (āyatana)	impermanent	SN35.1
 impermanence	what’s impermanent is suffering 	SN35.1
@@ -16665,6 +16662,102 @@ nutriment (āhāra)	dependent origination	SN12.64
 painter	simile for nutriment	SN12.64
 houses	light not landing on wall, simile for no desire	SN12.64
 light	not landing on wall, simile for no desire	SN12.64
-Bodhisatta	reflection on the world	SN12.65
+apsara		xref nymphs (accharā)
+path (magga)		xref roads (magga)
+cups		xref beverages
+sheaves of reeds		xref reeds
+thirst		xref beverages
+Bodhisatta	reflection on the world, dependent origination	SN12.65
 consciousness (viññāṇa)	condition for name and form	SN12.65
 name and form (nāma rūpa)	condition for consciousness	SN12.65
+roads (magga)	ancient, simile for noble eightfold path	SN12.65
+city (nagara)	ancient, simile for noble eightfold path	SN12.65
+dependent origination	contemplated by Bodhisatta	SN12.65
+self-reflection (antaraṁ sammasa)	how to do; dependent origination	SN12.66
+sense bases	seem pleasant, agreeable	SN12.66
+ascetics and brahmins (samaṇabrāhmaṇa)	of the past, present, future: world is safe	SN12.66
+beverages	poisoned, simile for attachments for world	SN12.66
+Mahā Koṭṭhita, Ven.	discussion with Ven. Sāriputta	SN12.67
+Sāriputta, Ven.	discussion with Ven. Mahā Koṭṭhita 	SN12.67
+chance (adhicca)	old age and death arising by	SN12.67
+old age (jarā)	made by oneself or another	SN12.67
+death (maraṇa)	made by oneself or another	SN12.67
+consciousness (viññāṇa)	condition for name and form	SN12.67
+name and form (nāma rūpa)	condition for consciousness	SN12.67
+reeds	simile for consciousness, name and form	SN12.67
+Dhamma teachers	definition, dependent origination	SN12.67
+Musīla, Ven.	discussion on knowing for oneself	SN12.68
+Saviṭṭha, Ven.	discussion on knowing for oneself	SN12.68
+Nārada, Ven.	discussion on knowing for oneself	SN12.68
+Ānanda, Ven.	discussion on knowing for oneself	SN12.68
+faith (saddhā)	knowing apart from	SN12.68
+preference (ruci)	knowing apart from	SN12.68
+oral tradition (anussava)	knowing apart from	SN12.68
+reasoned contemplation (ākāraparivitakka)	knowing apart from	SN12.68
+acceptance of a view after consideration (diṭṭhinijjhānakkhanti)	knowing apart from	SN12.68
+dependent origination	knowing for oneself	SN12.68
+nibbāna	ending of becoming (bhavanirodha)	SN12.68
+wells (udapāna)	seeing water without touching, simile for non-returner	SN12.68
+declaring enlightenment	dependent origination	SN12.68
+oceans	simile for dependent origination	SN12.69
+rivers	simile for dependent origination	SN12.69
+streams (nadi)	simile for dependent origination	SN12.69
+lakes	simile for dependent origination	SN12.69
+dependent origination	like ocean, rivers etc. surging, receding	SN12.69
+dependent origination		xref knowledge of the stability of natural principles (dhammaṭṭhitiñāṇa)
+followers of other paths (aññatitthiya)	jealous of Buddha	SN12.70
+requisites, four	jealousy of other sects	SN12.70
+Susīma, wanderer	stealing the Dhamma	SN12.70
+declaring enlightenment	without psychic powers	SN12.70
+psychic powers (iddhi)	enlightenment without	SN12.70
+divine ear (dibbāsota)	enlightenment without	SN12.70
+divine ear (dibbāsota)	enlightenment without	SN12.70
+past lives, knowledge of (pubbenivāsānussatiñāṇa)	enlightenment without	SN12.70
+divine eye (dibbacakkhu)	enlightenment without	SN12.70
+formless attainments	enlightenment without	SN12.70
+freedom by wisdom (paññāvimutti)	without psychic powers, etc.	SN12.70
+knowledge of the stability of natural principles (dhammaṭṭhitiñāṇa)	comes before nibbāna	SN12.70
+“This is not mine, I am not this, this is not my self.”	dependent origination	SN12.70
+going forth (pabbajja)	thief of Dhamma	SN12.70
+thieves (cora)	simile for thief of Dhamma	SN12.70
+ascetics and brahmins (samaṇabrāhmaṇa)	true and not true; dependent origination	SN12.71
+right effort, four (sammappadhāna)	 	CUSTOM:SN:Sammappadhāna Saṁyutta:suttacentral.net/sn49
+Ganges river	slants to the east, simile for right efforts leading to nibbāna	SN49.1
+rivers	great rivers slant to the east, simile for right efforts leading to nibbāna	SN49.1
+right effort, four (sammappadhāna)	like Ganges slants to the east	SN49.1
+right effort, four (sammappadhāna)	definition	SN49.1
+powers (bala)	 	CUSTOM:SN:Bala Saṁyutta:suttacentral.net/sn50
+Ganges river	slants to the east, simile for five powers leading to nibbāna	SN50.1
+rivers	great rivers slant to the east, simile for five powers leading to nibbāna	SN50.1
+powers (bala)	like Ganges slants to the east	SN50.1
+powers (bala)	definition	SN50.1
+bases of psychic power (iddhipāda)	 	CUSTOM:SN:Iddhipāda Saṁyutta:suttacentral.net/sn51
+bases of psychic power (iddhipāda)	definition	SN51.1
+near shore (orima)	going from near shore to far, iddhipāda	SN51.1
+emancipating (niyyānika)	bases of psychic power	SN51.3
+bases of psychic power (iddhipāda)	emancipating	SN51.3
+bases of psychic power (iddhipāda)	lead to nibbāna	SN51.4
+psychic powers (iddhi)	bases of psychic power	SN51.5
+ascetics and brahmins (samaṇabrāhmaṇa)	psychic powers	SN51.5
+Buddha, the	enlightenment, iddhipāda	SN51.9
+Ānanda, Ven.	not asking Buddha to continue to live	SN51.10
+shrines (cetiya)	beauty of	SN51.10
+bases of psychic power (iddhipāda)	one who has developed could live for an eon	SN51.10
+eon (kappa)	one who has developed bases of psychic powers could live for	SN51.10
+Māra	encouraging Buddha to attain parinibbāna	SN51.10
+disciples of the Buddha	Buddha would not pass away until he had	SN51.10
+learned (bahussutā)	Buddha would not pass away until he had learned disciples	SN51.10
+bhikkhunīs	Buddha would not pass away until he had learned bhikkhunīs	SN51.10
+lay follower (upāsaka, upāsikā)	Buddha would not pass away until he had learned disciples	SN51.10
+life force (āyusaṅkhāra)	surrendering of	SN51.10
+Buddha, the	surrenders life force	SN51.10
+Cāpāla Tree-shrine	Buddha surrenders life force	SN51.10
+earthquakes	associated with events in Buddha’s life	SN51.10
+Bodhisatta	reflection on iddhipāda	SN51.11
+mind (citta)	shining	SN51.11
+psychic powers (iddhi)	definition	SN51.11
+divine ear (dibbāsota)	bases of psychic power	SN51.11
+divine ear (dibbāsota)	bases of psychic power	SN51.11
+past lives, knowledge of (pubbenivāsānussatiñāṇa)	bases of psychic power	SN51.11
+divine eye (dibbacakkhu)	bases of psychic power	SN51.11
+bases of psychic power (iddhipāda)	lead to nibbāna	SN51.11

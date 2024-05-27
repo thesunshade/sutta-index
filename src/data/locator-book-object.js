@@ -3924,7 +3924,7 @@ export const locatorBookObject ={
     ],
     [
       "MN23",
-      "roads",
+      "roads (magga)",
       "fork in, simile for doubt"
     ],
     [
@@ -5424,7 +5424,7 @@ export const locatorBookObject ={
     ],
     [
       "MN33",
-      "roads",
+      "roads (magga)",
       "knowing the road, simile for knowing noble eightfold path"
     ],
     [
@@ -8609,11 +8609,6 @@ export const locatorBookObject ={
     ],
     [
       "MN53",
-      "knowledge of past lives",
-      "noble disciple"
-    ],
-    [
-      "MN53",
       "lion’s posture (sīhaseyyā)",
       "wakefulness and"
     ],
@@ -8681,6 +8676,11 @@ export const locatorBookObject ={
       "MN53",
       "noble disciple (ariya sāvaka)",
       "wise"
+    ],
+    [
+      "MN53",
+      "past lives, knowledge of (pubbenivāsānussatiñāṇa)",
+      "noble disciple"
     ],
     [
       "MN53",
@@ -22555,8 +22555,18 @@ export const locatorBookObject ={
   ],
   "SN": [
     [
+      "CUSTOM:SN:Bala Saṁyutta:suttacentral.net/sn50",
+      "powers (bala)",
+      " "
+    ],
+    [
       "CUSTOM:SN:Bojjhaṅgasaṁyutta:suttacentral.net/sn46",
       "awakening factors, seven (bojjhaṅga)",
+      " "
+    ],
+    [
+      "CUSTOM:SN:Iddhipāda Saṁyutta:suttacentral.net/sn51",
+      "bases of psychic power (iddhipāda)",
       " "
     ],
     [
@@ -24487,7 +24497,12 @@ export const locatorBookObject ={
     [
       "SN12.65",
       "Bodhisatta",
-      "reflection on the world"
+      "reflection on the world, dependent origination"
+    ],
+    [
+      "SN12.65",
+      "city (nagara)",
+      "ancient, simile for noble eightfold path"
     ],
     [
       "SN12.65",
@@ -24496,8 +24511,253 @@ export const locatorBookObject ={
     ],
     [
       "SN12.65",
+      "dependent origination",
+      "contemplated by Bodhisatta"
+    ],
+    [
+      "SN12.65",
       "name and form (nāma rūpa)",
       "condition for consciousness"
+    ],
+    [
+      "SN12.65",
+      "roads (magga)",
+      "ancient, simile for noble eightfold path"
+    ],
+    [
+      "SN12.66",
+      "ascetics and brahmins (samaṇabrāhmaṇa)",
+      "of the past, present, future: world is safe"
+    ],
+    [
+      "SN12.66",
+      "beverages",
+      "poisoned, simile for attachments for world"
+    ],
+    [
+      "SN12.66",
+      "self-reflection (antaraṁ sammasa)",
+      "how to do; dependent origination"
+    ],
+    [
+      "SN12.66",
+      "sense bases",
+      "seem pleasant, agreeable"
+    ],
+    [
+      "SN12.67",
+      "Dhamma teachers",
+      "definition, dependent origination"
+    ],
+    [
+      "SN12.67",
+      "chance (adhicca)",
+      "old age and death arising by"
+    ],
+    [
+      "SN12.67",
+      "consciousness (viññāṇa)",
+      "condition for name and form"
+    ],
+    [
+      "SN12.67",
+      "death (maraṇa)",
+      "made by oneself or another"
+    ],
+    [
+      "SN12.67",
+      "Mahā Koṭṭhita, Ven.",
+      "discussion with Ven. Sāriputta"
+    ],
+    [
+      "SN12.67",
+      "name and form (nāma rūpa)",
+      "condition for consciousness"
+    ],
+    [
+      "SN12.67",
+      "old age (jarā)",
+      "made by oneself or another"
+    ],
+    [
+      "SN12.67",
+      "reeds",
+      "simile for consciousness, name and form"
+    ],
+    [
+      "SN12.67",
+      "Sāriputta, Ven.",
+      "discussion with Ven. Mahā Koṭṭhita "
+    ],
+    [
+      "SN12.68",
+      "acceptance of a view after consideration (diṭṭhinijjhānakkhanti)",
+      "knowing apart from"
+    ],
+    [
+      "SN12.68",
+      "Ānanda, Ven.",
+      "discussion on knowing for oneself"
+    ],
+    [
+      "SN12.68",
+      "declaring enlightenment",
+      "dependent origination"
+    ],
+    [
+      "SN12.68",
+      "dependent origination",
+      "knowing for oneself"
+    ],
+    [
+      "SN12.68",
+      "faith (saddhā)",
+      "knowing apart from"
+    ],
+    [
+      "SN12.68",
+      "Musīla, Ven.",
+      "discussion on knowing for oneself"
+    ],
+    [
+      "SN12.68",
+      "Nārada, Ven.",
+      "discussion on knowing for oneself"
+    ],
+    [
+      "SN12.68",
+      "nibbāna",
+      "ending of becoming (bhavanirodha)"
+    ],
+    [
+      "SN12.68",
+      "oral tradition (anussava)",
+      "knowing apart from"
+    ],
+    [
+      "SN12.68",
+      "preference (ruci)",
+      "knowing apart from"
+    ],
+    [
+      "SN12.68",
+      "reasoned contemplation (ākāraparivitakka)",
+      "knowing apart from"
+    ],
+    [
+      "SN12.68",
+      "Saviṭṭha, Ven.",
+      "discussion on knowing for oneself"
+    ],
+    [
+      "SN12.68",
+      "wells (udapāna)",
+      "seeing water without touching, simile for non-returner"
+    ],
+    [
+      "SN12.69",
+      "dependent origination",
+      "like ocean, rivers etc. surging, receding"
+    ],
+    [
+      "SN12.69",
+      "lakes",
+      "simile for dependent origination"
+    ],
+    [
+      "SN12.69",
+      "oceans",
+      "simile for dependent origination"
+    ],
+    [
+      "SN12.69",
+      "rivers",
+      "simile for dependent origination"
+    ],
+    [
+      "SN12.69",
+      "streams (nadi)",
+      "simile for dependent origination"
+    ],
+    [
+      "SN12.70",
+      "“This is not mine, I am not this, this is not my self.”",
+      "dependent origination"
+    ],
+    [
+      "SN12.70",
+      "declaring enlightenment",
+      "without psychic powers"
+    ],
+    [
+      "SN12.70",
+      "divine ear (dibbāsota)",
+      "enlightenment without"
+    ],
+    [
+      "SN12.70",
+      "divine ear (dibbāsota)",
+      "enlightenment without"
+    ],
+    [
+      "SN12.70",
+      "divine eye (dibbacakkhu)",
+      "enlightenment without"
+    ],
+    [
+      "SN12.70",
+      "followers of other paths (aññatitthiya)",
+      "jealous of Buddha"
+    ],
+    [
+      "SN12.70",
+      "formless attainments",
+      "enlightenment without"
+    ],
+    [
+      "SN12.70",
+      "freedom by wisdom (paññāvimutti)",
+      "without psychic powers, etc."
+    ],
+    [
+      "SN12.70",
+      "going forth (pabbajja)",
+      "thief of Dhamma"
+    ],
+    [
+      "SN12.70",
+      "knowledge of the stability of natural principles (dhammaṭṭhitiñāṇa)",
+      "comes before nibbāna"
+    ],
+    [
+      "SN12.70",
+      "past lives, knowledge of (pubbenivāsānussatiñāṇa)",
+      "enlightenment without"
+    ],
+    [
+      "SN12.70",
+      "psychic powers (iddhi)",
+      "enlightenment without"
+    ],
+    [
+      "SN12.70",
+      "requisites, four",
+      "jealousy of other sects"
+    ],
+    [
+      "SN12.70",
+      "Susīma, wanderer",
+      "stealing the Dhamma"
+    ],
+    [
+      "SN12.70",
+      "thieves (cora)",
+      "simile for thief of Dhamma"
+    ],
+    [
+      "SN12.71",
+      "ascetics and brahmins (samaṇabrāhmaṇa)",
+      "true and not true; dependent origination"
     ],
     [
       "SN17.11–20",
@@ -26001,23 +26261,8 @@ export const locatorBookObject ={
     ],
     [
       "SN22.89",
-      "conceit “I am” (asmimāna)",
-      "given up by arahant"
-    ],
-    [
-      "SN22.89",
-      "Dāsaka, Ven.",
-      " messenger to Ven. Khemaka"
-    ],
-    [
-      "SN22.89",
       "Dhamma teachers",
       "attaining enlightenment while teaching"
-    ],
-    [
-      "SN22.89",
-      "Khemaka, Ven.",
-      "enlightened while teaching"
     ],
     [
       "SN22.89",
@@ -26028,6 +26273,21 @@ export const locatorBookObject ={
       "SN22.89",
       "cloth",
       "simile for conceit “I am”; scent of cleaners remaining"
+    ],
+    [
+      "SN22.89",
+      "conceit “I am” (asmimāna)",
+      "given up by arahant"
+    ],
+    [
+      "SN22.89",
+      "Dāsaka, Ven.",
+      " messenger to Ven. Khemaka"
+    ],
+    [
+      "SN22.89",
+      "Khemaka, Ven.",
+      "enlightened while teaching"
     ],
     [
       "SN22.89",
@@ -27921,16 +28181,6 @@ export const locatorBookObject ={
     ],
     [
       "SN35.127",
-      "celibacy",
-      "how to practice"
-    ],
-    [
-      "SN35.127",
-      "mothers",
-      "thinking of all women as"
-    ],
-    [
-      "SN35.127",
       "Piṇḍola Bhāradvāja, Ven.",
       "asked about celibacy"
     ],
@@ -27941,7 +28191,17 @@ export const locatorBookObject ={
     ],
     [
       "SN35.127",
+      "celibacy",
+      "how to practice"
+    ],
+    [
+      "SN35.127",
       "daughters",
+      "thinking of all women as"
+    ],
+    [
+      "SN35.127",
+      "mothers",
       "thinking of all women as"
     ],
     [
@@ -28886,6 +29146,11 @@ export const locatorBookObject ={
     ],
     [
       "SN35.244",
+      "Ganges river",
+      "making Ganges slope west, simile for impossible to disrobe"
+    ],
+    [
+      "SN35.244",
       "aggregates (khandha)",
       "understanding origin and ending"
     ],
@@ -28893,11 +29158,6 @@ export const locatorBookObject ={
       "SN35.244",
       "covetousness (abhijjhā)",
       "living so doesn’t overwhelm"
-    ],
-    [
-      "SN35.244",
-      "Ganges river",
-      "making Ganges slope west, simile for impossible to disrobe"
     ],
     [
       "SN35.244",
@@ -29146,6 +29406,11 @@ export const locatorBookObject ={
     ],
     [
       "SN35.248",
+      "proliferation (papañca)",
+      "forms of"
+    ],
+    [
+      "SN35.248",
       "Sakka, Lord of Gods",
       "binding Vepacitti"
     ],
@@ -29173,11 +29438,6 @@ export const locatorBookObject ={
       "SN35.248",
       "pleasant and unpleasant sense objects",
       "struck by"
-    ],
-    [
-      "SN35.248",
-      "proliferation (papañca)",
-      "forms of"
     ],
     [
       "SN35.248",
@@ -33976,8 +34236,183 @@ export const locatorBookObject ={
     ],
     [
       "SN49.1",
+      "right effort, four (sammappadhāna)",
+      "definition"
+    ],
+    [
+      "SN49.1",
+      "right effort, four (sammappadhāna)",
+      "like Ganges slants to the east"
+    ],
+    [
+      "SN49.1",
       "rivers",
       "great rivers slant to the east, simile for right efforts leading to nibbāna"
+    ],
+    [
+      "SN50.1",
+      "Ganges river",
+      "slants to the east, simile for five powers leading to nibbāna"
+    ],
+    [
+      "SN50.1",
+      "powers (bala)",
+      "definition"
+    ],
+    [
+      "SN50.1",
+      "powers (bala)",
+      "like Ganges slants to the east"
+    ],
+    [
+      "SN50.1",
+      "rivers",
+      "great rivers slant to the east, simile for five powers leading to nibbāna"
+    ],
+    [
+      "SN51.1",
+      "bases of psychic power (iddhipāda)",
+      "definition"
+    ],
+    [
+      "SN51.1",
+      "near shore (orima)",
+      "going from near shore to far, iddhipāda"
+    ],
+    [
+      "SN51.3",
+      "bases of psychic power (iddhipāda)",
+      "emancipating"
+    ],
+    [
+      "SN51.3",
+      "emancipating (niyyānika)",
+      "bases of psychic power"
+    ],
+    [
+      "SN51.4",
+      "bases of psychic power (iddhipāda)",
+      "lead to nibbāna"
+    ],
+    [
+      "SN51.5",
+      "ascetics and brahmins (samaṇabrāhmaṇa)",
+      "psychic powers"
+    ],
+    [
+      "SN51.5",
+      "psychic powers (iddhi)",
+      "bases of psychic power"
+    ],
+    [
+      "SN51.9",
+      "Buddha, the",
+      "enlightenment, iddhipāda"
+    ],
+    [
+      "SN51.10",
+      "Ānanda, Ven.",
+      "not asking Buddha to continue to live"
+    ],
+    [
+      "SN51.10",
+      "bases of psychic power (iddhipāda)",
+      "one who has developed could live for an eon"
+    ],
+    [
+      "SN51.10",
+      "bhikkhunīs",
+      "Buddha would not pass away until he had learned bhikkhunīs"
+    ],
+    [
+      "SN51.10",
+      "Buddha, the",
+      "surrenders life force"
+    ],
+    [
+      "SN51.10",
+      "Cāpāla Tree-shrine",
+      "Buddha surrenders life force"
+    ],
+    [
+      "SN51.10",
+      "disciples of the Buddha",
+      "Buddha would not pass away until he had"
+    ],
+    [
+      "SN51.10",
+      "earthquakes",
+      "associated with events in Buddha’s life"
+    ],
+    [
+      "SN51.10",
+      "eon (kappa)",
+      "one who has developed bases of psychic powers could live for"
+    ],
+    [
+      "SN51.10",
+      "lay follower (upāsaka, upāsikā)",
+      "Buddha would not pass away until he had learned disciples"
+    ],
+    [
+      "SN51.10",
+      "learned (bahussutā)",
+      "Buddha would not pass away until he had learned disciples"
+    ],
+    [
+      "SN51.10",
+      "life force (āyusaṅkhāra)",
+      "surrendering of"
+    ],
+    [
+      "SN51.10",
+      "Māra",
+      "encouraging Buddha to attain parinibbāna"
+    ],
+    [
+      "SN51.10",
+      "shrines (cetiya)",
+      "beauty of"
+    ],
+    [
+      "SN51.11",
+      "bases of psychic power (iddhipāda)",
+      "lead to nibbāna"
+    ],
+    [
+      "SN51.11",
+      "Bodhisatta",
+      "reflection on iddhipāda"
+    ],
+    [
+      "SN51.11",
+      "divine ear (dibbāsota)",
+      "bases of psychic power"
+    ],
+    [
+      "SN51.11",
+      "divine ear (dibbāsota)",
+      "bases of psychic power"
+    ],
+    [
+      "SN51.11",
+      "divine eye (dibbacakkhu)",
+      "bases of psychic power"
+    ],
+    [
+      "SN51.11",
+      "mind (citta)",
+      "shining"
+    ],
+    [
+      "SN51.11",
+      "past lives, knowledge of (pubbenivāsānussatiñāṇa)",
+      "bases of psychic power"
+    ],
+    [
+      "SN51.11",
+      "psychic powers (iddhi)",
+      "definition"
     ],
     [
       "SN55.6",
@@ -65548,7 +65983,7 @@ export const locatorBookObject ={
     ],
     [
       "AN11.17",
-      "roads",
+      "roads (magga)",
       "knowing the road, simile for knowing noble eightfold path"
     ],
     [
@@ -73802,7 +74237,7 @@ export const locatorBookObject ={
     ],
     [
       "Pv36",
-      "roads",
+      "roads (magga)",
       "fixing, result of"
     ],
     [
