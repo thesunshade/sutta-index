@@ -1419,6 +1419,12 @@ thirst		xref beverages
 fires		xref fire sticks
 fire sticks		xref fires
 pain (dukkha)		xref deadly pain
+Phagguṇa, Ven.		xref Moḷiyaphagguṇa, Ven.
+Moḷiyaphagguṇa, Ven.		xref Phagguṇa, Ven.
+tiredness (kilamatha)		xref drowsiness (middha)
+drowsiness (middha)		xref tiredness (kilamatha)
+meditation on ugliness (asubhabhāvanā)		xref perception of ugliness (asubhasaññā)
+perception of ugliness (asubhasaññā)		xref meditation on ugliness (asubhabhāvanā)
 trenches		xref moats
 false speech	definition	DN2
 harsh speech	definition	DN2
@@ -1501,13 +1507,6 @@ giving (dāna)	to gain rebirth	SN29.11–50
 giving (dāna)	to gain rebirth	SN30.10–46
 giving (dāna)	to gain rebirth	SN31.3–112
 giving (dāna)	to gain rebirth	SN32.3–52
-generosity (cāga)	quality of stream-enterer	SN55.6
-false speech	no one likes to be lied to	SN55.7
-death (maraṇa)	good	SN55.21
-death (maraṇa)	good	SN55.22
-death (maraṇa)	fear of	SN55.27
-generosity (cāga)	stream of merit	SN55.32
-generosity (cāga)	as an accomplishment	SN55.37
 disputes	about Dhamma	SN56.9
 talk (kathā)	suitable and unsuitable	SN56.10
 speech	useless (tiraccha)	SN56.10
@@ -1544,7 +1543,7 @@ ten factors	of an arahant	Kp4
 gods	asking questions	Kp5
 blessings (maṅgala)	in detail	Kp5
 association	with good people	Kp5
-fools (bāla)	don’t associate with	Kp6
+fools (bāla)	don’t associate with	Kp5
 honor	honoring as a blessing	Kp5
 region	suitable to live in	Kp5
 merit (puñña)	done in the past	Kp5
@@ -1597,6 +1596,7 @@ six grave crimes (chaccābhiṭhānāni abhabba)	noble disciples unable to do	Kp
 Dhamma teaching	like flowering forest	Kp6
 flowers	simile for Dhamma teaching	Kp6
 nibbāna	like lamp going out	Kp6
+oil lamps	extinguished through lack of fuel, simile for parinibbana	Kp6
 departed relatives	sharing merit with	Kp7
 departed relatives	compassion towards	Kp7
 ghosts	sharing merit with	Kp7
@@ -3190,8 +3190,6 @@ travel	undisciplined	Thag1.37
 psychic powers (iddhi)	river standing still	Thag1.38
 rivers	standing still by psychic powers	Thag1.38
 arahants	praised by gods	Thag1.38
-Phagguṇa, Ven.		xref Moḷiyaphagguṇa, Ven.
-Moḷiyaphagguṇa, Ven.		xref Phagguṇa, Ven.
 urgency	to give up sensual desire	Thag1.39
 urgency	like ones head on fire	Thag1.39
 urgency	like ones head on fire	Thag1.40
@@ -13391,7 +13389,7 @@ wholesome chain of causality	from association with good people to knowledge and 
 knowledge and freedom (vijjāvimutti)	caused by seven awakening factors	AN10.61
 awakening factors, seven (bojjhaṅga)	cause of knowledge and freedom	AN10.61
 awakening factors, seven (bojjhaṅga)	caused by four kinds of mindfulness meditation	AN10.61
-foundations of mindfulness, four (satipaṭṭhāna)	cause seven awakening factor	AN10.61
+foundations of mindfulness, four (satipaṭṭhāna)	cause seven awakening factors	AN10.61
 foundations of mindfulness, four (satipaṭṭhāna)	caused by the three kinds of good conduct	AN10.61
 good actions	cause of the four kinds of mindfulness meditation	AN10.61
 good actions	caused by sense restraint	AN10.61
@@ -13435,7 +13433,7 @@ wholesome chain of causality	from association with good people to knowledge and 
 knowledge and freedom (vijjāvimutti)	caused by seven awakening factors	AN10.62
 awakening factors, seven (bojjhaṅga)	cause of knowledge and freedom	AN10.62
 awakening factors, seven (bojjhaṅga)	caused by four kinds of mindfulness meditation	AN10.62
-foundations of mindfulness, four (satipaṭṭhāna)	cause seven awakening factor	AN10.62
+foundations of mindfulness, four (satipaṭṭhāna)	cause seven awakening factors	AN10.62
 foundations of mindfulness, four (satipaṭṭhāna)	caused by the three kinds of good conduct	AN10.62
 good actions	cause of the four kinds of mindfulness meditation	AN10.62
 good actions	caused by sense restraint	AN10.62
@@ -15038,26 +15036,26 @@ Abhaya, prince	asking about knowing and seeing	SN46.56
 Pūraṇa Kassapa	knowing and seeing	SN46.56
 knowledge and vision (ñāṇadassana)	hindrances prevent	SN46.56
 knowledge and vision (ñāṇadassana)	awakening factors cause	SN46.56
-perception of skeleton (aṭṭhisaññā)	awakening factors and	SN46.57
-perception of corpse	awakening factors and	SN46.58
-perception of corpse	awakening factors and	SN46.59
-perception of corpse	awakening factors and	SN46.60
-perception of corpse	awakening factors and	SN46.61
-loving-kindness (mettā)	awakening factors and	SN46.62
-compassion (karuṇā)	awakening factors and	SN46.63
-rejoicing (mudita)	awakening factors and	SN46.64
-equanimity (upekkhā)	awakening factors and	SN46.65
-mindfulness of breathing (ānāpānassati)	awakening factors and	SN46.66
-perception of ugliness (asubhasaññā)	awakening factors and	SN46.67
-perception of death (maraṇasaññā)	awakening factors and	SN46.68
-perception of repulsiveness of food (āhāre paṭikūlasaññā)	awakening factors and	SN46.69
-perception of dissatisfaction with the whole world (sabbaloke anabhiratasaññā)	awakening factors and	SN46.70
-perception of impermanence (aniccasaññā)	awakening factors and	SN46.71
-perception of suffering in impermanence (anicce dukkhasaññā)	awakening factors and	SN46.72
-perception of not-self in suffering (dukkhe anattasaññā)	awakening factors and	SN46.73
-perception of giving up (pahānasaññā)	awakening factors and	SN46.74
-perception of fading away (virāgasaññā)	awakening factors and	SN46.75
-perception of cessation (nirodhasaññā)	awakening factors and	SN46.76
+perception of skeleton (aṭṭhisaññā)	awakening factors	SN46.57
+perception of corpse	awakening factors	SN46.58
+perception of corpse	awakening factors	SN46.59
+perception of corpse	awakening factors	SN46.60
+perception of corpse	awakening factors	SN46.61
+loving-kindness (mettā)	awakening factors	SN46.62
+compassion (karuṇā)	awakening factors	SN46.63
+rejoicing (mudita)	awakening factors	SN46.64
+equanimity (upekkhā)	awakening factors	SN46.65
+mindfulness of breathing (ānāpānassati)	awakening factors	SN46.66
+perception of ugliness (asubhasaññā)	awakening factors	SN46.67
+perception of death (maraṇasaññā)	awakening factors	SN46.68
+perception of repulsiveness of food (āhāre paṭikūlasaññā)	awakening factors	SN46.69
+perception of dissatisfaction with the whole world (sabbaloke anabhiratasaññā)	awakening factors	SN46.70
+perception of impermanence (aniccasaññā)	awakening factors	SN46.71
+perception of suffering in impermanence (anicce dukkhasaññā)	awakening factors	SN46.72
+perception of not-self in suffering (dukkhe anattasaññā)	awakening factors	SN46.73
+perception of giving up (pahānasaññā)	awakening factors	SN46.74
+perception of fading away (virāgasaññā)	awakening factors	SN46.75
+perception of cessation (nirodhasaññā)	awakening factors	SN46.76
 Ganges river	slants to the east, simile for awakening factors lead to nibbāna	SN46.77
 awakening factors, seven (bojjhaṅga)	like Ganges slants to the east	SN46.77
 Buddha, the	best of all beings	SN46.89
@@ -16881,4 +16879,92 @@ knowledge of passing away and rebirth of beings	knowing because of foundations o
 foundations of mindfulness, four (satipaṭṭhāna)	passing away and rebirth of beings	SN52.23
 taints (āsava)	ended by foundations of mindfulness	SN52.24
 foundations of mindfulness, four (satipaṭṭhāna)	ending of taints	SN52.24
+jhānas	 	CUSTOM:SN:SN 53 Jhāna Saṁyutta:suttacentral.net/sn53
 Ganges river	slants to the east, simile for jhānas lead to nibbāna	SN53.1
+mindfulness of breathing (ānāpānassati)	 	CUSTOM:SN:SN 54 Ānāpāna Saṁyutta:suttacentral.net/sn54
+mindfulness of breathing (ānāpānassati)	definition	SN54.1
+one thing (ekadhamma)	mindfulness of breathing	SN54.1
+one thing (ekadhamma)	mindfulness of breathing, awakening factors	SN54.2
+mindfulness of breathing (ānāpānassati)	awakening factors	SN54.2
+mindfulness of breathing (ānāpānassati)	leads to nibbāna	SN54.3
+mindfulness of breathing (ānāpānassati)	leads to non-returning	SN54.3
+nibbāna	early in this life, mindfulness of breathing	SN54.4
+nibbāna	at time of death, mindfulness of breathing	SN54.4
+extinguished in-between (antarāparinibbāyī)	mindfulness of breathing	SN54.4
+extinguished upon landing (upahaccaparinibbāyī)	mindfulness of breathing	SN54.4
+extinguished with extra effort (sasaṅkhāraparinibbāyī)	mindfulness of breathing	SN54.4
+heading upstream to the Akaniṭṭha realm (uddhaṁsotassa akaniṭṭhagāmino)	mindfulness of breathing	SN54.4
+mindfulness of breathing (ānāpānassati)	in brief	SN54.6
+Ariṭṭha, Ven.	mindfulness of breathing in brief	SN54.6
+Mahā Kappina, Ven.	no disturbance or trembling while meditating	SN54.7
+concentration (samādhi)	mindfulness of breathing	SN54.7
+Bodhisatta	meditation experience, mindfulness of breathing	SN54.8
+tiredness (kilamatha)	overcoming, mindfulness of breathing	SN54.8
+mind freed from defilements by not grasping (āsavehi cittaṁ vimuccati)	mindfulness of breathing	SN54.8
+lay life	giving up thoughts and memories of	SN54.8
+repulsive (paṭikūla)	seeing repulsive and unrepulsive, etc. 	SN54.8
+unrepulsive (appaṭikūla)	seeing repulsive and unrepulsive, etc. 	SN54.8
+jhānas	mindfulness of breathing	SN54.8
+mindfulness of breathing (ānāpānassati)	jhānas	SN54.8
+mindfulness of breathing (ānāpānassati)	formless attainments	SN54.8
+formless attainments	mindfulness of breathing	SN54.8
+mindfulness of breathing (ānāpānassati)	feelings, detached	SN54.8
+feelings (vedanā)	detachment towards, mindfulness of breathing	SN54.8
+body, ending with (kāyapariyantika)	feeling	SN54.8
+life, ending with (jīvitapariyantika)	feeling	SN54.8
+oil lamps	extinguished through lack of fuel, simile for parinibbana	SN54.8
+meditation on ugliness (asubhabhāvanā)	Buddha teaching monks, monks killing themselves	SN54.9
+Buddha, the	going into retreat 	SN54.9
+suicide	monks committing after meditation on ugliness	SN54.9
+mindfulness of breathing (ānāpānassati)	alternative to meditation on ugliness	SN54.9
+mindfulness of breathing (ānāpānassati)	like storm dispels dust	SN54.9
+storms	dispelling dust, simile for dispelling bad qualities 	SN54.9
+dust	dispelled by storm, simile for dispelling bad qualities	SN54.9
+mindfulness of breathing (ānāpānassati)	removes unwholesome qualities	SN54.9
+sand		xref soil (paṁsu)
+tendency		xref underlying tendencies (anusaya)
+Kimbila, Ven.	not answering the Buddha	SN54.10
+mindfulness of breathing (ānāpānassati)	four foundations of mindfulness	SN54.10
+foundations of mindfulness, four (satipaṭṭhāna)	mindfulness of breathing	SN54.10
+soil (paṁsu)	heap of, simile for foundations of mindfulness	SN54.10
+foundations of mindfulness, four (satipaṭṭhāna)	like heap of soil destroyed	SN54.10
+Buddha, the	going into retreat 	SN54.11
+rains residence (vassāvāsa)	Buddha’s meditation during	SN54.11
+wanderers of other sects (aññatitthiya paribbājaka)	asking about Buddha’s meditation	SN54.11
+noble dwelling (ariyavihāro)	mindfulness of breathing	SN54.11
+brahmaviharas	name for mindfulness of breathing	SN54.11
+Tathāgatas	“Tathāgata’s meditation”	SN54.11
+arahants	meditation on mindfulness of breathing	SN54.11
+present life	arahant’s blissful meditation in	SN54.11
+mindfulness of breathing (ānāpānassati)	arahants practice for blissful meditation	SN54.11
+mindfulness and clear comprehension (satisampajañña)	mindfulness of breathing	SN54.11
+mindfulness of breathing (ānāpānassati)	“noble meditation,” “divine meditation,” “realized one’s meditation”	SN54.11
+Lomasavaṅgīsa, Ven.	meditation of trainee and Buddha	SN54.12
+Mahānāma the Sakyan	meditation of trainee and Buddha	SN54.12
+hindrances (nīvaraṇa)	arahant has given up	SN54.12
+hindrances (nīvaraṇa)	removal by trainee	SN54.12
+trainee (sekha)	meditation different from arahant	SN54.12
+arahants	meditation different from trainee	SN54.12
+concentration (samādhi)	mindfulness of breathing	SN54.13
+mindfulness of breathing (ānāpānassati)	four foundations of mindfulness	SN54.13
+foundations of mindfulness, four (satipaṭṭhāna)	cause seven awakening factors	SN54.13
+awakening factors, seven (bojjhaṅga)	cause of knowledge and freedom 	SN54.13
+awakening factors, seven (bojjhaṅga)	caused by four kinds of mindfulness meditation 	SN54.13
+fetters (saṁyojana)	giving up through concentration due to mindfulness of breathing	SN54.17
+underlying tendencies (anusaya)	giving up through concentration due to mindfulness of breathing	SN54.18
+time	completely understanding course of	SN54.19
+taints (āsava)	giving up through concentration due to mindfulness of breathing	SN54.20
+stream-enterers (sotāpanna)	 	CUSTOM:SN:SN 55 Sotāpatti Saṁyutta:suttacentral.net/sn55
+wheel-turning monarchs	reborn in Tāvatiṁsa heaven, etc.	SN55.1
+Tāvatiṁsa heaven	wheel-turning monarchs reborn in	SN55.1
+wheel-turning monarchs	not freed from hell	SN55.1
+factors of stream-entry	exempt from hell	SN55.1
+factors of stream-entry	gaining four continents not worth sixteenth part of	SN55.1
+generosity (cāga)	quality of stream-enterer	SN55.6
+false speech	no one likes to be lied to	SN55.6
+death (maraṇa)	good	SN55.7
+death (maraṇa)	good	SN55.21
+death (maraṇa)	fear of	SN55.22
+generosity (cāga)	stream of merit	SN55.27
+generosity (cāga)	as an accomplishment	SN55.32
+generosity (cāga)	as an accomplishment	SN55.37
