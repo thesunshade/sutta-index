@@ -20,19 +20,14 @@ export default function LocatorSortedTable() {
           ""
         )}
         <tr key={book + "-" + index}>
-          <td>{data[1]}</td>
-          <td>{data[2]}</td>
           <td>
-            <a
-              href={`https://sc.readingfaithfully.org/?q=${data[0]}`}
-              target="_blank"
-              rel="noreferrer"
-              title={getSuttaTitleBlurb(stripRangesFromUrls(data[0]))}
-            >
+            <a href={`https://sc.readingfaithfully.org/?q=${data[0]}`} target="_blank" rel="noreferrer" title={getSuttaTitleBlurb(stripRangesFromUrls(data[0]))}>
               {data[0]}
             </a>{" "}
             <small>{getSuttaTitle(data[0])}</small>
           </td>
+          <td>{data[1]}</td>
+          <td>{data[2]}</td>
         </tr>
       </>
     ))
@@ -42,9 +37,9 @@ export default function LocatorSortedTable() {
     <table className="locator-sorted-table">
       <thead className="table-header-row">
         <tr>
+          <th className="first-column">Citation</th>
           <th className="second-column">Keyword</th>
           <th className="third-column">SubHead</th>
-          <th className="first-column">Citation</th>
         </tr>
       </thead>
       <tbody>{table}</tbody>

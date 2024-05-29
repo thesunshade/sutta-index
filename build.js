@@ -1,11 +1,10 @@
-const { match } = require("assert");
+// const { match } = require("assert");
 const fs = require("fs");
 
 let locatorFirstArray = [];
 let rawIndexArray = [];
 let alphabetKeys;
 let xrefArray = [];
-
 const newObject = {
   A: {},
   B: {},
@@ -33,8 +32,33 @@ const newObject = {
   Y: {},
   Z: {},
 };
-
-console.log("▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼");
+let alphabetGroupedObject = {
+  A: {},
+  B: {},
+  C: {},
+  D: {},
+  E: {},
+  F: {},
+  G: {},
+  H: {},
+  I: {},
+  J: {},
+  K: {},
+  L: {},
+  M: {},
+  N: {},
+  O: {},
+  P: {},
+  Q: {},
+  R: {},
+  S: {},
+  T: {},
+  U: {},
+  V: {},
+  W: {},
+  Y: {},
+  Z: {},
+};
 
 function natsort(options) {
   if (options === void 0) {
@@ -145,96 +169,62 @@ function natsort(options) {
   };
 }
 
-function sortCitationsList(citations) {
-  const orderedBooks = ["DN", "MN", "SN", "AN", "Kp", "Dhp", "Ud", "Iti", "Snp", "Vv", "Pv", "Thag", "Thig"];
-
-  const citationsObject = {
-    DN: [],
-    MN: [],
-    SN: [],
-    AN: [],
-    Kp: [],
-    Dhp: [],
-    Ud: [],
-    Iti: [],
-    Snp: [],
-    Vv: [],
-    Pv: [],
-    Thag: [],
-    Thig: [],
-  };
-
-  for (let i = 0; i < citations.length; i++) {
-    for (let x = 0; x < orderedBooks.length; x++) {
-      if (citations[i].match(RegExp(orderedBooks[x]))) {
-        citationsObject[orderedBooks[x]].push(citations[i]);
-      }
-    }
-  }
-
-  let bookSubList = [];
-  for (let i = 0; i < orderedBooks.length; i++) {
-    const book = orderedBooks[i];
-    const sortedCitations = citationsObject[book].sort(natsort());
-    bookSubList.push(sortedCitations);
-  }
-  bookSubList = bookSubList.flat();
-
-  if (citations.length > bookSubList.length) {
-    console.warn(`❌ There is an invalid ciation: ${citations[0]}`);
-  }
-
-  return bookSubList;
-}
-
-let alphabetGroupedObject = {
-  A: {},
-  B: {},
-  C: {},
-  D: {},
-  E: {},
-  F: {},
-  G: {},
-  H: {},
-  I: {},
-  J: {},
-  K: {},
-  L: {},
-  M: {},
-  N: {},
-  O: {},
-  P: {},
-  Q: {},
-  R: {},
-  S: {},
-  T: {},
-  U: {},
-  V: {},
-  W: {},
-  Y: {},
-  Z: {},
-};
-
-let csvData;
-
-// read csv file
-try {
-  const tsvFileContents = fs.readFileSync("./src/data/general-index.csv", "utf8");
-  csvData = tsvFileContents;
-  console.log("✅ successfully read");
-} catch (err) {
-  console.log("❌There was an error reading");
-  console.error(err);
-}
-
-function makeArrayOfXrefs(rawIndexArray) {
-  for (let i = 0; i < rawIndexArray.length; i++) {
-    if (/xref/.test(rawIndexArray[i][2])) xrefArray.push(rawIndexArray[i][2].replace("xref ", "").replace("\r", ""));
-  }
-}
-
 // build the index object
 function createIndexObject() {
+  let csvData;
+
+  function sortCitationsList(citations) {
+    const orderedBooks = ["DN", "MN", "SN", "AN", "Kp", "Dhp", "Ud", "Iti", "Snp", "Vv", "Pv", "Thag", "Thig"];
+
+    const citationsObject = {
+      DN: [],
+      MN: [],
+      SN: [],
+      AN: [],
+      Kp: [],
+      Dhp: [],
+      Ud: [],
+      Iti: [],
+      Snp: [],
+      Vv: [],
+      Pv: [],
+      Thag: [],
+      Thig: [],
+    };
+
+    for (let i = 0; i < citations.length; i++) {
+      for (let x = 0; x < orderedBooks.length; x++) {
+        if (citations[i].match(RegExp(orderedBooks[x]))) {
+          citationsObject[orderedBooks[x]].push(citations[i]);
+        }
+      }
+    }
+
+    let bookSubList = [];
+    for (let i = 0; i < orderedBooks.length; i++) {
+      const book = orderedBooks[i];
+      const sortedCitations = citationsObject[book].sort(natsort());
+      bookSubList.push(sortedCitations);
+    }
+    bookSubList = bookSubList.flat();
+
+    if (citations.length > bookSubList.length) {
+      console.warn(`❌ There is an invalid ciation: ${citations[0]}`);
+    }
+
+    return bookSubList;
+  }
+
+  // read csv file
+  try {
+    const tsvFileContents = fs.readFileSync("./src/data/general-index.csv", "utf8");
+    csvData = tsvFileContents;
+    console.log("✅ successfully read CSV file");
+  } catch (err) {
+    console.log("❌There was an error reading");
+    console.error(err);
+  }
+
   let lines = csvData.split("\n");
 
   for (let i = 0; i < lines.length; i++) {
@@ -259,6 +249,8 @@ function createIndexObject() {
     console.error(err);
   }
 
+  // end of total unique locators
+
   function normalizeDiacriticString(string) {
     return string
       .normalize("NFD") /*separates diacritics from letter */
@@ -278,9 +270,10 @@ function createIndexObject() {
     if (/xref/.test(head)) {
       console.warn(`❌ The headword  @${i + 1} "${head}" contains 'xref'`);
     }
-    if (/["']/.test(sub + head))
+    if (/["']/.test(sub + head)) {
       console.warn(`❌ The sub/headword @${i + 1} ${head}/${sub} contains straight quotes
-    This may indicate that the csv file format was incorrect`);
+      This may indicate that the csv file format was incorrect`);
+    }
     if (!alphabetGroupedObject[firstRealLetter].hasOwnProperty(head)) {
       // the key of the headword does not exist in the object yet, so create the key and add the locator-xref object
       alphabetGroupedObject[firstRealLetter][head] = { [sub]: { locators: [], xrefs: [] } };
@@ -429,31 +422,31 @@ function createIndexObject() {
   <html lang="en">
   
   <head>
-      <meta charset="UTF-8">
-      <meta http-equiv="X-UA-Compatible" content="IE=edge">
-      <meta name="viewport" content="width=device-width, initial-scale=1.0">
-      <link rel="icon" type="image/png" sizes="32x32" href="favicon-table.png">
-      <title>Headwords sorted by number of locators</title>
-      <style>
-        .table{
-          display:flex;
-          flex-direction:column;
-          max-width:20rem;
-          border-top:solid 1px black;
-          font-family:Arial, Helvetica, sans-serif
-        }
-        .row{
-          display:flex;
-          flex-direction:row;
-          border-bottom:solid 1px black;
-          justify-content: space-between;
-          padding:.2rem .5rem;
-          border-left:solid 1px black;
-          border-right:solid 1px black;
-        }
-        .row:nth-child(even) {background: #ee7121}
-        .row:nth-child(odd) {background: #fff9f1}
-      </style>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="icon" type="image/png" sizes="32x32" href="favicon-table.png">
+  <title>Headwords sorted by number of locators</title>
+  <style>
+  .table{
+    display:flex;
+    flex-direction:column;
+    max-width:20rem;
+    border-top:solid 1px black;
+    font-family:Arial, Helvetica, sans-serif
+  }
+  .row{
+    display:flex;
+    flex-direction:row;
+    border-bottom:solid 1px black;
+    justify-content: space-between;
+    padding:.2rem .5rem;
+    border-left:solid 1px black;
+    border-right:solid 1px black;
+  }
+  .row:nth-child(even) {background: #ee7121}
+  .row:nth-child(odd) {background: #fff9f1}
+  </style>
   </head>
   
   <body>
@@ -462,10 +455,10 @@ function createIndexObject() {
   headwordLocatorCountHTML += `<div class="table">`;
   for (let i = 0; i < locatorCountHeadwordsList.length; i++) {
     headwordLocatorCountHTML += `
-<div class="row">
-  <div class="headword">${locatorCountHeadwordsList[i][0]}</div>
-  <div class="count">${locatorCountHeadwordsList[i][1]}</div>
-</div>`;
+    <div class="row">
+    <div class="headword">${locatorCountHeadwordsList[i][0]}</div>
+    <div class="count">${locatorCountHeadwordsList[i][1]}</div>
+    </div>`;
   }
   headwordLocatorCountHTML += `
   <div>
@@ -481,6 +474,12 @@ function createIndexObject() {
 }
 
 function createHeadingsArray() {
+  function makeArrayOfXrefs(rawIndexArray) {
+    for (let i = 0; i < rawIndexArray.length; i++) {
+      if (/xref/.test(rawIndexArray[i][2])) xrefArray.push(rawIndexArray[i][2].replace("xref ", "").replace("\r", ""));
+    }
+  }
+
   let listOfHeadwords = [];
   for (let i = 0; i < alphabetKeys.length; i++) {
     const headwords = Object.keys(newObject[alphabetKeys[i]]);
@@ -510,7 +509,7 @@ function createHeadingsArray() {
 
 function createLocatorSortedArray() {
   for (let i = 0; i < rawIndexArray.length - 1; i++) {
-    if (!/xref/.test(rawIndexArray[i][2])) {
+    if (!/xref/.test(rawIndexArray[i][2]) && !/CUSTOM/.test(rawIndexArray[i][2])) {
       locatorFirstArray.push([rawIndexArray[i][2].replace(/\r/, ""), rawIndexArray[i][0], rawIndexArray[i][1]]);
     }
   }
@@ -544,15 +543,15 @@ function createLocatorSortedArray() {
   }
 }
 
-function createLocatorSortedObject() {
-  const locatorObject = {};
-  for (let i = 0; i < locatorFirstArray.length; i++) {
-    if (locatorObject.hasOwnProperty(locatorFirstArray[i][0])) {
-      locatorObject[locatorFirstArray[i][0]].push(locatorFirstArray[i][1] + ", " + locatorFirstArray[i][2]);
-    } else {
-      locatorObject[locatorFirstArray[i][0]] = [locatorFirstArray[i][1] + ", " + locatorFirstArray[i][2]];
-    }
-  }
+function createLocatorBookObject() {
+  // const locatorObject = {};
+  // for (let i = 0; i < locatorFirstArray.length; i++) {
+  //   if (locatorObject.hasOwnProperty(locatorFirstArray[i][0])) {
+  //     locatorObject[locatorFirstArray[i][0]].push(locatorFirstArray[i][1] + ", " + locatorFirstArray[i][2]);
+  //   } else {
+  //     locatorObject[locatorFirstArray[i][0]] = [locatorFirstArray[i][1] + ", " + locatorFirstArray[i][2]];
+  //   }
+  // }
 
   const locatorBookObject = {
     DN: [],
@@ -590,23 +589,28 @@ function createLocatorSortedObject() {
   }
 }
 
+function createDate() {
+  const currentDate = new Date().toLocaleString("en-gb", {
+    year: "numeric",
+    month: "long",
+    day: "numeric",
+  });
+  const currentTime = new Date().toLocaleTimeString([], { hour: "numeric", minute: "2-digit", hour12: true });
+  try {
+    fs.writeFileSync("./src/data/updateDate.js", `export const updateDate ="${currentDate + ", " + currentTime}"`);
+    console.log(`📅 ${currentDate} ${currentTime}`);
+  } catch (err) {
+    console.log("❌There was an error writing updateDate");
+    console.error(err);
+  }
+}
+
+console.log("▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼");
+
 createIndexObject();
 createLocatorSortedArray();
 createHeadingsArray();
-createLocatorSortedObject();
-
-const currentDate = new Date().toLocaleString("en-gb", {
-  year: "numeric",
-  month: "long",
-  day: "numeric",
-});
-const currentTime = new Date().toLocaleTimeString([], { hour: "numeric", minute: "2-digit", hour12: true });
-try {
-  fs.writeFileSync("./src/data/updateDate.js", `export const updateDate ="${currentDate + ", " + currentTime}"`);
-  console.log(`📅 ${currentDate} ${currentTime}`);
-} catch (err) {
-  console.log("❌There was an error writing updateDate");
-  console.error(err);
-}
+createLocatorBookObject();
+createDate();
 
 console.log("▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲");

@@ -48,7 +48,6 @@ function Headword(props) {
 
   function getUrl(destination, location) {
     let url = "";
-    // CUSTOM:Pv:Petavatthu:SuttaFriends.org/pv
     if (/^CUSTOM:/.test(location)) {
       const components = location.split(":");
       location = components[2];

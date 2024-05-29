@@ -39,10 +39,14 @@ function Locator(props) {
     url = `https://SuttaFriends.org/${convertVatthus(locationForUrl)}`;
   }
 
+  let customFlag = "";
+
   if (/^CUSTOM:/.test(location)) {
     const components = location.split(":");
     location = components[2];
+    console.log(location);
     url = "https://" + components[3];
+    customFlag = " custom";
   }
 
   function addSpace(location) {
@@ -54,7 +58,7 @@ function Locator(props) {
   return (
     <span>
       <Tippy content={<span dangerouslySetInnerHTML={{ __html: getSuttaTitleBlurb(stripRangesFromUrls(location)) }} />} allowHTML={false} delay={300} disabled={!getSuttaTitleBlurb(stripRangesFromUrls(location))}>
-        <a href={url} rel="noreferrer" target="_blank" className={justBook(location) + " locator"}>
+        <a href={url} rel="noreferrer" target="_blank" className={justBook(location) + " locator" + customFlag}>
           {addSpace(location)}
           {getSuttaTitle(location) ? suttaNameJsx : ""}
         </a>

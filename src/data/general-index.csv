@@ -1401,6 +1401,24 @@ harsh speech		xref gentle or harsh (saṇhena vā pharusena)
 false speech		xref true or false (bhūtena vā abhūtena)
 shovels		xref spade
 cobras		xref snakes
+zeal (chanda)		xref bases of psychic power (iddhipāda)
+investigation (vīmaṁsā)		xref bases of psychic power (iddhipāda)
+mind (citta)		xref bases of psychic power (iddhipāda)
+energy (vīriya)		xref bases of psychic power (iddhipāda)
+bases of psychic power (iddhipāda)		xref zeal (chanda)
+bases of psychic power (iddhipāda)		xref investigation (vīmaṁsā)
+bases of psychic power (iddhipāda)		xref mind (citta)
+bases of psychic power (iddhipāda)		xref energy (vīriya)
+effort (padhāna)		xref striving (padhāna)
+dependent origination		xref knowledge of the stability of natural principles (dhammaṭṭhitiñāṇa)
+apsara		xref nymphs (accharā)
+path (magga)		xref roads (magga)
+cups		xref beverages
+sheaves of reeds		xref reeds
+thirst		xref beverages
+fires		xref fire sticks
+fire sticks		xref fires
+pain (dukkha)		xref deadly pain
 trenches		xref moats
 false speech	definition	DN2
 harsh speech	definition	DN2
@@ -3996,6 +4014,7 @@ mental formations (cittasaṅkhāra)	type of saṅkhāra	MN9
 ignorance (avijjā)	definition	MN9
 taints (āsava)	definition	MN9
 one way path (ekāyano maggo)	foundations of mindfulness	MN10
+foundations of mindfulness, four (satipaṭṭhāna)	definition in detail	MN10
 mindfulness of body (kāyānupassanā)	definition	MN10
 keenness (ātāpi)	mindfulness	MN10
 situational awareness (sampajañña)	mindfulness	MN10
@@ -14466,7 +14485,7 @@ giving (dāna)	leads to wealth	SN42.9
 death (maraṇa)	cause of grief	SN42.11
 loving-kindness (mettā)	to prepare the mind for reflection	SN42.13
 false speech	praised by some	SN42.13
-noble eightfold path (ariya aṭṭhangika magga)	 	CUSTOM:SN:Maggasaṁyutta:suttacentral.net/sn45
+noble eightfold path (ariya aṭṭhangika magga)	 	CUSTOM:SN:MSN 45 Magga Saṁyutta:suttacentral.net/sn45
 ignorance (avijjā)	cause of unskillful qualities	SN45.1
 unskillful qualities (akusala dhamma)	caused by ignorance	SN45.1
 conscience and prudence (hiri ottappa)	lack of caused by ignorance	SN45.1
@@ -14692,7 +14711,7 @@ direct knowledges (abhiññā)	developing serenity and insight	SN45.159
 serenity (samatha)	developed with direct knowledge	SN45.159
 insight (vipassanā)	developed with direct knowledge	SN45.159
 Ganges river	making Ganges slope west, like relatives wishing	SN45.160
-crowd	crowd making it slope west, like relatives wishing	SN45.160
+crowd	making Ganges slope west, like relatives wishing	SN45.160
 disrobing	encouragement to collect merit at home instead	SN45.160
 disrobing	encouraging to	SN45.160
 disrobing	mendicant who develops eightfold path will not	SN45.160
@@ -14746,7 +14765,7 @@ noble eightfold path (ariya aṭṭhangika magga)	to give up five higher fetters
 nāgas	supported by Himalayas, simile for seven awakening factors supported by virtue	SN46.1
 virtue (sīla)	grounded on one develops seven awakening factors	SN46.1
 awakening factors, seven (bojjhaṅga)	grounded on virtue	SN46.1
-awakening factors, seven (bojjhaṅga)	 	CUSTOM:SN:Bojjhaṅgasaṁyutta:suttacentral.net/sn46
+awakening factors, seven (bojjhaṅga)	 	CUSTOM:SN:SN 46 Bojjhaṅga Saṁyutta:suttacentral.net/sn46
 body	supported by food, simile for hindrances	SN46.2
 hindrances (nīvaraṇa)	sustained by fuel	SN46.2
 sense desire (kāmacchanda)	caused by sign of the beautiful	SN46.2
@@ -15053,7 +15072,7 @@ floods (ogha)	of sensuality, desire to be reborn, views, and ignorance	SN46.121
 awakening factors, seven (bojjhaṅga)	to give up floods	SN46.121
 fetters (saṁyojana)	awakening factors to give up five higher	SN46.130
 awakening factors, seven (bojjhaṅga)	to give up five higher fetters	SN46.130
-foundations of mindfulness, four (satipaṭṭhāna)	 	CUSTOM:SN:SN 47 Satipaṭṭhānasaṁyutta:suttacentral.net/sn47
+foundations of mindfulness, four (satipaṭṭhāna)	 	CUSTOM:SN:SN 47 Satipaṭṭhāna Saṁyutta:suttacentral.net/sn47
 one way path (ekāyano maggo)	foundations of mindfulness	SN47.1
 foundations of mindfulness, four (satipaṭṭhāna)	definition in brief	SN47.1
 mindfulness (sati)	definition	SN47.2
@@ -15225,7 +15244,7 @@ family	establishing in foundations of mindfulness	SN47.48
 feelings (vedanā)	complete understanding of	SN47.49
 taints (āsava)	definition	SN47.50
 foundations of mindfulness, four (satipaṭṭhāna)	to give up taints	SN47.50
-faculties, spiritual (indriya)	 	CUSTOM:SN:Indriya Saṁyutta:suttacentral.net/sn48
+faculties, spiritual (indriya)	 	CUSTOM:SN:SN 48 Indriya Saṁyutta:suttacentral.net/sn48
 faculties, spiritual (indriya)	definition	SN48.1
 faculties, spiritual (indriya)	gratification, danger, escape	SN48.2
 gratification, danger, escape	five spiritual faculties	SN48.2
@@ -15415,7 +15434,7 @@ supaṇṇa	silk-cotton tree	SN48.70
 faculty of wisdom (paññindriya)	best like silk-cotton tree	SN48.70
 Ganges river	slants to the east, simile for spiritual faculties	SN48.71
 fetters (saṁyojana)	five higher, develop spiritual faculties to give up	SN48.115
-sense bases (āyatana)	 	CUSTOM:SN:Saḷāyatanasaṁyutta:suttacentral.net/sn35
+sense bases (āyatana)	 	CUSTOM:SN:SN 35 Saḷāyatana Saṁyutta:suttacentral.net/sn35
 sense bases (āyatana)	impermanent	SN35.1
 impermanence	what’s impermanent is suffering 	SN35.1
 impermanence	sense bases	SN35.1
@@ -15881,7 +15900,7 @@ conceiving (maññita)	forms of	SN35.248
 darts (salla)	conceiving	SN35.248
 proliferation (papañca)	forms of	SN35.248
 conceit (māna)	forms of	SN35.248
-aggregates	 	CUSTOM:SN:Khandhasaṁyutta:suttacentral.net/sn22
+aggregates	 	CUSTOM:SN:SN 22 Khandha Saṁyutta:suttacentral.net/sn22
 Nakulapitā, householder	asking for advice	SN22.1
 old person	advice for	SN22.1
 body (kāya)	not healthy for a minute	SN22.1
@@ -16341,7 +16360,7 @@ wrong view (micchā diṭṭhi)	aggregates	SN22.154
 identity view (sakkāyadiṭṭhi)	aggregates	SN22.155
 fetters (saṁyojana)	aggregates and desire	SN22.157
 Dhamma teaching	in brief (saṅkhittena), aggregates 	SN22.159
-dependent origination	 	CUSTOM:SN:Nidānasaṁyutta:suttacentral.net/sn22
+dependent origination	 	CUSTOM:SN:SN12 Nidāna Saṁyutta:suttacentral.net/sn12
 dependent origination (paṭiccasamuppāda)	definition	SN12.1
 ignorance (avijjā)	condition for volitional formations	SN12.1
 volitional formations (saṅkhāra)	conditioned by ignorance	SN12.1
@@ -16636,8 +16655,6 @@ body (kāya)	impermanence is more apparent	SN12.61
 disillusionment (nibbidā)	with body is easier	SN12.61
 mind (mano)	difficult to become disillusioned with	SN12.61
 monkey	going branch to branch, simile for mind	SN12.61
-fires		xref fire sticks
-fire sticks		xref fires
 fire sticks	simile for contact and feelings	SN12.62
 feelings (vedanā)	contact, like fire sticks	SN12.62
 contact (phassa)	feeling, like fire sticks	SN12.62
@@ -16662,11 +16679,6 @@ nutriment (āhāra)	dependent origination	SN12.64
 painter	simile for nutriment	SN12.64
 houses	light not landing on wall, simile for no desire	SN12.64
 light	not landing on wall, simile for no desire	SN12.64
-apsara		xref nymphs (accharā)
-path (magga)		xref roads (magga)
-cups		xref beverages
-sheaves of reeds		xref reeds
-thirst		xref beverages
 Bodhisatta	reflection on the world, dependent origination	SN12.65
 consciousness (viññāṇa)	condition for name and form	SN12.65
 name and form (nāma rūpa)	condition for consciousness	SN12.65
@@ -16704,7 +16716,6 @@ rivers	simile for dependent origination	SN12.69
 streams (nadi)	simile for dependent origination	SN12.69
 lakes	simile for dependent origination	SN12.69
 dependent origination	like ocean, rivers etc. surging, receding	SN12.69
-dependent origination		xref knowledge of the stability of natural principles (dhammaṭṭhitiñāṇa)
 followers of other paths (aññatitthiya)	jealous of Buddha	SN12.70
 requisites, four	jealousy of other sects	SN12.70
 Susīma, wanderer	stealing the Dhamma	SN12.70
@@ -16721,17 +16732,17 @@ knowledge of the stability of natural principles (dhammaṭṭhitiñāṇa)	come
 going forth (pabbajja)	thief of Dhamma	SN12.70
 thieves (cora)	simile for thief of Dhamma	SN12.70
 ascetics and brahmins (samaṇabrāhmaṇa)	true and not true; dependent origination	SN12.71
-right effort, four (sammappadhāna)	 	CUSTOM:SN:Sammappadhāna Saṁyutta:suttacentral.net/sn49
+right effort, four (sammappadhāna)	 	CUSTOM:SN:SN 49 Sammappadhāna Saṁyutta:suttacentral.net/sn49
 Ganges river	slants to the east, simile for right efforts leading to nibbāna	SN49.1
 rivers	great rivers slant to the east, simile for right efforts leading to nibbāna	SN49.1
 right effort, four (sammappadhāna)	like Ganges slants to the east	SN49.1
 right effort, four (sammappadhāna)	definition	SN49.1
-powers (bala)	 	CUSTOM:SN:Bala Saṁyutta:suttacentral.net/sn50
+powers (bala)	 	CUSTOM:SN:SN 50 Bala Saṁyutta:suttacentral.net/sn50
 Ganges river	slants to the east, simile for five powers leading to nibbāna	SN50.1
 rivers	great rivers slant to the east, simile for five powers leading to nibbāna	SN50.1
 powers (bala)	like Ganges slants to the east	SN50.1
 powers (bala)	definition	SN50.1
-bases of psychic power (iddhipāda)	 	CUSTOM:SN:Iddhipāda Saṁyutta:suttacentral.net/sn51
+bases of psychic power (iddhipāda)	 	CUSTOM:SN:SN 51 Iddhipāda Saṁyutta:suttacentral.net/sn51
 bases of psychic power (iddhipāda)	definition	SN51.1
 near shore (orima)	going from near shore to far, iddhipāda	SN51.1
 emancipating (niyyānika)	bases of psychic power	SN51.3
@@ -16755,9 +16766,119 @@ Cāpāla Tree-shrine	Buddha surrenders life force	SN51.10
 earthquakes	associated with events in Buddha’s life	SN51.10
 Bodhisatta	reflection on iddhipāda	SN51.11
 mind (citta)	shining	SN51.11
+direct knowledges, six	bases of psychic power	SN51.11
 psychic powers (iddhi)	definition	SN51.11
 divine ear (dibbāsota)	bases of psychic power	SN51.11
 divine ear (dibbāsota)	bases of psychic power	SN51.11
 past lives, knowledge of (pubbenivāsānussatiñāṇa)	bases of psychic power	SN51.11
 divine eye (dibbacakkhu)	bases of psychic power	SN51.11
 bases of psychic power (iddhipāda)	lead to nibbāna	SN51.11
+“as before, so after” etc.	bases of psychic power	SN51.12
+concentration (samādhi)	due to enthusiasm	SN51.13
+striving (padhāna)	bases of psychic power	SN51.13
+concentration (samādhi)	bases of psychic power	SN51.13
+Palace of Migara’s Mother	Ven. Moggallāna shaking with toe	SN51.14
+Moggallāna, Ven.	shaking Palace of Migara’s Mother with toe	SN51.14
+bad monastics	shocked by psychic powers	SN51.14
+urgency	shocked by psychic powers	SN51.14
+“as before, so after” etc.	bases of psychic power	SN51.14
+Moggallāna, Ven.	bases of psychic power	SN51.14
+Moggallāna, Ven.	psychic powers	SN51.14
+Uṇṇābha, brahmin	removing desire with desire	SN51.15
+Ānanda, Ven.	removing desire with desire	SN51.15
+spiritual path (brahmacariya)	purpose of, giving up desire (chanda)	SN51.15
+path (magga)	for giving up desire, bases of psychic power	SN51.15
+desire (chanda)	desire given up with desire	SN51.15
+desire (chanda)	desire for enlightenment like desire to go to park	SN51.15
+park (ārāma)	going to, simile for desire to attain enlightenment	SN51.15
+nibbāna	desire to attain removed once attained	SN51.15
+ascetics and brahmins (samaṇabrāhmaṇa)	of the past, present, future: bases of psychic power	SN51.16
+ascetics and brahmins (samaṇabrāhmaṇa)	of the past, present, future: bases of psychic power	SN51.17
+bases of psychic power (iddhipāda)	analysis	SN51.20
+direct knowledges, six	bases of psychic power	SN51.20
+“as before, so after” etc.	bases of psychic power	SN51.20
+“as below, so above” etc.	bases of psychic power	SN51.20
+perception of ugliness	“as below, so above” etc.	SN51.20
+body parts	“as below, so above” etc.	SN51.20
+“as by day, so by night”	bases of psychic power	SN51.20
+zeal (chanda)	lax, tense, constricted, scattered	SN51.20
+perception of light (ālokasaññā)	mind full of radiance	SN51.20
+investigation (vīmaṁsā)	lax, tense, constricted, scattered	SN51.20
+mind (citta)	lax, tense, constricted, scattered	SN51.20
+energy (vīriya)	lax, tense, constricted, scattered	SN51.20
+Bodhisatta	reflection on iddhipāda 	SN51.21
+brahmā realm (brahmaloka)	visiting using psychic powers	SN51.22
+mind-made body (manomayena kāya)	visiting brahmā world	SN51.22
+body (kāya)	visiting brahmā world with physical body	SN51.22
+Buddha, the	visiting brahmā world	SN51.22
+incredible and amazing (acchariyā abbhutā)	Buddha’s psychic powers	SN51.22
+psychic powers (iddhi)	how they work	SN51.22
+iron balls	simile for body and psychic powers	SN51.22
+body (kāya)	lighter, like heated iron ball, cotton wool	SN51.22
+cotton wool (tūlapicu)	simile for body and psychic powers	SN51.22
+non-returner (anāgāmi)	through bases of psychic power	SN51.25
+bases of psychic power (iddhipāda)	arahantship or non-returning	SN51.25
+nibbāna	early in this life, bases of psychic power	SN51.26
+nibbāna	at time of death, bases of psychic power	SN51.26
+extinguished in-between (antarāparinibbāyī)	bases of psychic power	SN51.26
+extinguished upon landing (upahaccaparinibbāyī)	bases of psychic power	SN51.26
+extinguished with extra effort (sasaṅkhāraparinibbāyī)	bases of psychic power	SN51.26
+heading upstream to the Akaniṭṭha realm (uddhaṁsotassa akaniṭṭhagāmino)	bases of psychic power	SN51.26
+psychic powers (iddhi)	definition	SN51.27
+bases of psychic power (iddhipāda)	definition	SN51.27
+noble eightfold path (ariya aṭṭhangika magga)	leads to bases of psychic power	SN51.27
+Moggallāna, Ven.	psychic powers, how he developed	SN51.31
+“as before, so after” etc.	Ven. Moggallāna	SN51.31
+“as below, so above” etc.	Ven. Moggallāna	SN51.31
+“as by day, so by night”	Ven. Moggallāna	SN51.31
+Buddha, the	psychic powers, how he developed	SN51.32
+“as before, so after” etc.	Buddha, the	SN51.32
+“as below, so above” etc.	Buddha, the	SN51.32
+“as by day, so by night”	Buddha, the	SN51.32
+direct knowledges, six	Buddha, the	SN51.32
+Ganges river	slants to the east, simile for five powers leading to nibbāna	SN51.33
+Anuruddha, Ven.	 	CUSTOM:SN:SN 52 Anuruddha Saṁyutta:suttacentral.net/sn52
+foundations of mindfulness, four (satipaṭṭhāna)	 	CUSTOM:SN:SN 52 Anuruddha Saṁyutta:suttacentral.net/sn52
+Anuruddha, Ven.	foundations of mindfulness	SN52.1
+foundations of mindfulness, four (satipaṭṭhāna)	arising and vanishing	SN52.1
+Moggallāna, Ven.	questioning Ven. Anuruddha	SN52.1
+decay (vaya)	being liable to; foundations of mindfulness	SN52.1
+origination (samudaya)	being liable to; foundations of mindfulness	SN52.1
+unrepulsive (appaṭikūla)	seeing repulsive and unrepulsive, etc.	SN52.1
+repulsive (paṭikūla)	seeing repulsive and unrepulsive, etc.	SN52.1
+equanimity (upekkhā)	towards repulsive an unrepulsive 	SN52.1
+direct knowledges (abhiññā)	foundations of mindfulness	SN52.3
+trainee (sekha)	should train in four foundations of mindfulness 	SN52.4
+craving (taṇha)	given up by foundations of mindfulness	SN52.7
+Ganges river	making Ganges slope west, simile for impossible to disrobe	SN52.8
+crowd	making Ganges slope west, like relatives wishing	SN52.8
+disrobing	encouragement to collect merit at home instead	SN52.8
+disrobing	encouraging to	SN52.8
+disrobing	mendicant who develops eightfold path will not	SN52.8
+noble eightfold path (ariya aṭṭhangika magga)	prevents disrobing	SN52.8
+Anuruddha, Ven.	ill	SN52.10
+pain (dukkha)	bodily, overcoming	SN52.10
+foundations of mindfulness, four (satipaṭṭhāna)	overcoming bodily pain	SN52.10
+eon (kappa)	recollecting a thousand	SN52.11
+foundations of mindfulness, four (satipaṭṭhāna)	psychic powers, divine ear, etc.	SN52.12
+psychic powers (iddhi)	foundations of mindfulness	SN52.12
+foundations of mindfulness, four (satipaṭṭhāna)	psychic powers, divine ear, etc.	SN52.13
+divine ear (dibbāsota)	foundations of mindfulness	SN52.13
+foundations of mindfulness, four (satipaṭṭhāna)	psychic powers, divine ear, etc.	SN52.14
+mind reading	foundations of mindfulness	SN52.14
+possible and impossible (ṭhāna aṭṭhāna)	foundations of mindfulness to know	SN52.15
+results of actions	knowing because of foundations of mindfulness	SN52.16
+foundations of mindfulness, four (satipaṭṭhāna)	results of actions	SN52.16
+elements (dhātu)	understanding because of foundations of mindfulness	SN52.18
+inclination (adhimutti)	understanding because of foundations of mindfulness	SN52.19
+faculties (indriya)	understanding because of foundations of mindfulness	SN52.20
+jhānas	understanding because of foundations of mindfulness	SN52.21
+liberations, eight (vimokkha)	understanding because of foundations of mindfulness	SN52.21
+foundations of mindfulness, four (satipaṭṭhāna)	jhānas, liberations	SN52.21
+past lives, knowledge of	knowing because of foundations of mindfulness	SN52.22
+foundations of mindfulness, four (satipaṭṭhāna)	knowing past lives	SN52.22
+knowledge of passing away and rebirth of beings	knowing because of foundations of mindfulness	SN52.23
+foundations of mindfulness, four (satipaṭṭhāna)	passing away and rebirth of beings	SN52.23
+taints (āsava)	ended by foundations of mindfulness	SN52.24
+foundations of mindfulness, four (satipaṭṭhāna)	ending of taints	SN52.24
+Ganges river	slants to the east, simile for jhānas lead to nibbāna	SN53.1

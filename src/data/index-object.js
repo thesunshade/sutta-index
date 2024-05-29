@@ -1239,7 +1239,7 @@ export const indexObject ={
           "aggregates": {
                "": {
                     "locators": [
-                         "CUSTOM:SN:Khandhasaṁyutta:suttacentral.net/sn22"
+                         "CUSTOM:SN:SN 22 Khandha Saṁyutta:suttacentral.net/sn22"
                     ],
                     "xrefs": []
                },
@@ -2671,6 +2671,12 @@ export const indexObject ={
                          "SN12.68"
                     ],
                     "xrefs": []
+               },
+               "removing desire with desire": {
+                    "locators": [
+                         "SN51.15"
+                    ],
+                    "xrefs": []
                }
           },
           "ānantarika kamma": {
@@ -3479,6 +3485,24 @@ export const indexObject ={
                          "SN47.28"
                     ],
                     "xrefs": []
+               },
+               "": {
+                    "locators": [
+                         "CUSTOM:SN:SN 52 Anuruddha Saṁyutta:suttacentral.net/sn52"
+                    ],
+                    "xrefs": []
+               },
+               "foundations of mindfulness": {
+                    "locators": [
+                         "SN52.1"
+                    ],
+                    "xrefs": []
+               },
+               "ill": {
+                    "locators": [
+                         "SN52.10"
+                    ],
+                    "xrefs": []
                }
           },
           "anxiety (paritassanā)": {
@@ -4243,6 +4267,68 @@ export const indexObject ={
                     "xrefs": []
                }
           },
+          "“as before, so after” etc.": {
+               "bases of psychic power": {
+                    "locators": [
+                         "SN51.12",
+                         "SN51.14",
+                         "SN51.20"
+                    ],
+                    "xrefs": []
+               },
+               "Ven. Moggallāna": {
+                    "locators": [
+                         "SN51.31"
+                    ],
+                    "xrefs": []
+               },
+               "Buddha, the": {
+                    "locators": [
+                         "SN51.32"
+                    ],
+                    "xrefs": []
+               }
+          },
+          "“as below, so above” etc.": {
+               "bases of psychic power": {
+                    "locators": [
+                         "SN51.20"
+                    ],
+                    "xrefs": []
+               },
+               "Ven. Moggallāna": {
+                    "locators": [
+                         "SN51.31"
+                    ],
+                    "xrefs": []
+               },
+               "Buddha, the": {
+                    "locators": [
+                         "SN51.32"
+                    ],
+                    "xrefs": []
+               }
+          },
+          "“as by day, so by night”": {
+               "bases of psychic power": {
+                    "locators": [
+                         "SN51.20"
+                    ],
+                    "xrefs": []
+               },
+               "Ven. Moggallāna": {
+                    "locators": [
+                         "SN51.31"
+                    ],
+                    "xrefs": []
+               },
+               "Buddha, the": {
+                    "locators": [
+                         "SN51.32"
+                    ],
+                    "xrefs": []
+               }
+          },
           "āsava": {
                "": {
                     "locators": [],
@@ -4473,6 +4559,13 @@ export const indexObject ={
                "psychic powers": {
                     "locators": [
                          "SN51.5"
+                    ],
+                    "xrefs": []
+               },
+               "of the past, present, future: bases of psychic power": {
+                    "locators": [
+                         "SN51.16",
+                         "SN51.17"
                     ],
                     "xrefs": []
                }
@@ -5744,7 +5837,7 @@ export const indexObject ={
           "awakening factors, seven (bojjhaṅga)": {
                "": {
                     "locators": [
-                         "CUSTOM:SN:Bojjhaṅgasaṁyutta:suttacentral.net/sn46"
+                         "CUSTOM:SN:SN 46 Bojjhaṅga Saṁyutta:suttacentral.net/sn46"
                     ],
                     "xrefs": [
                          "xref awakening factor of energy (vīriyasambojjhaṅga)",
@@ -6549,6 +6642,12 @@ export const indexObject ={
                          "AN10.77"
                     ],
                     "xrefs": []
+               },
+               "shocked by psychic powers": {
+                    "locators": [
+                         "SN51.14"
+                    ],
+                    "xrefs": []
                }
           },
           "bad people (asappurisa)": {
@@ -6939,10 +7038,14 @@ export const indexObject ={
           "bases of psychic power (iddhipāda)": {
                "": {
                     "locators": [
-                         "CUSTOM:SN:Iddhipāda Saṁyutta:suttacentral.net/sn51"
+                         "CUSTOM:SN:SN 51 Iddhipāda Saṁyutta:suttacentral.net/sn51"
                     ],
                     "xrefs": [
-                         "xref bodhipakkhiyā dhammā"
+                         "xref bodhipakkhiyā dhammā",
+                         "xref energy (vīriya)",
+                         "xref investigation (vīmaṁsā)",
+                         "xref mind (citta)",
+                         "xref zeal (chanda)"
                     ]
                },
                "lead to nibbāna": {
@@ -7060,13 +7163,26 @@ export const indexObject ={
                },
                "definition": {
                     "locators": [
-                         "SN51.1"
+                         "SN51.1",
+                         "SN51.27"
                     ],
                     "xrefs": []
                },
                "emancipating": {
                     "locators": [
                          "SN51.3"
+                    ],
+                    "xrefs": []
+               },
+               "analysis": {
+                    "locators": [
+                         "SN51.20"
+                    ],
+                    "xrefs": []
+               },
+               "arahantship or non-returning": {
+                    "locators": [
+                         "SN51.25"
                     ],
                     "xrefs": []
                }
@@ -8478,7 +8594,8 @@ export const indexObject ={
                },
                "reflection on iddhipāda": {
                     "locators": [
-                         "SN51.11"
+                         "SN51.11",
+                         "SN51.21"
                     ],
                     "xrefs": []
                }
@@ -8810,6 +8927,18 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
+               "visiting brahmā world with physical body": {
+                    "locators": [
+                         "SN51.22"
+                    ],
+                    "xrefs": []
+               },
+               "lighter, like heated iron ball, cotton wool": {
+                    "locators": [
+                         "SN51.22"
+                    ],
+                    "xrefs": []
+               },
                "counter_value": 2
           },
           "body (sarīra)": {
@@ -8870,6 +8999,12 @@ export const indexObject ={
                     "locators": [
                          "SN35.127",
                          "AN10.60"
+                    ],
+                    "xrefs": []
+               },
+               "“as below, so above” etc.": {
+                    "locators": [
+                         "SN51.20"
                     ],
                     "xrefs": []
                }
@@ -9252,7 +9387,8 @@ export const indexObject ={
                "visiting using psychic powers": {
                     "locators": [
                          "MN73",
-                         "MN77"
+                         "MN77",
+                         "SN51.22"
                     ],
                     "xrefs": []
                },
@@ -10733,6 +10869,18 @@ export const indexObject ={
                "enlightenment, iddhipāda": {
                     "locators": [
                          "SN51.9"
+                    ],
+                    "xrefs": []
+               },
+               "visiting brahmā world": {
+                    "locators": [
+                         "SN51.22"
+                    ],
+                    "xrefs": []
+               },
+               "psychic powers, how he developed": {
+                    "locators": [
+                         "SN51.32"
                     ],
                     "xrefs": []
                }
@@ -13408,6 +13556,18 @@ export const indexObject ={
                          "SN12.23"
                     ],
                     "xrefs": []
+               },
+               "due to enthusiasm": {
+                    "locators": [
+                         "SN51.13"
+                    ],
+                    "xrefs": []
+               },
+               "bases of psychic power": {
+                    "locators": [
+                         "SN51.13"
+                    ],
+                    "xrefs": []
                }
           },
           "concentration enlightenment factor": {
@@ -14876,6 +15036,14 @@ export const indexObject ={
                     ]
                }
           },
+          "cotton wool (tūlapicu)": {
+               "simile for body and psychic powers": {
+                    "locators": [
+                         "SN51.22"
+                    ],
+                    "xrefs": []
+               }
+          },
           "counterparts (paṭibhāga)": {
                "feelings, ignorance, knowledge, etc.": {
                     "locators": [
@@ -15485,6 +15653,12 @@ export const indexObject ={
                          "SN12.63"
                     ],
                     "xrefs": []
+               },
+               "given up by foundations of mindfulness": {
+                    "locators": [
+                         "SN52.7"
+                    ],
+                    "xrefs": []
                }
           },
           "craving for existence (bhavataṇhā)": {
@@ -15757,9 +15931,10 @@ export const indexObject ={
                }
           },
           "crowd": {
-               "crowd making it slope west, like relatives wishing": {
+               "making Ganges slope west, like relatives wishing": {
                     "locators": [
-                         "SN45.160"
+                         "SN45.160",
+                         "SN52.8"
                     ],
                     "xrefs": []
                }
@@ -16949,6 +17124,12 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
+               "being liable to; foundations of mindfulness": {
+                    "locators": [
+                         "SN52.1"
+                    ],
+                    "xrefs": []
+               },
                "counter_value": 3
           },
           "deceit (kuhaka/māyāvī)": {
@@ -17653,7 +17834,7 @@ export const indexObject ={
           "dependent origination": {
                "": {
                     "locators": [
-                         "CUSTOM:SN:Nidānasaṁyutta:suttacentral.net/sn22"
+                         "CUSTOM:SN:SN12 Nidāna Saṁyutta:suttacentral.net/sn12"
                     ],
                     "xrefs": [
                          "xref conditionality (idappaccayatā)",
@@ -17977,6 +18158,18 @@ export const indexObject ={
                "for what is impermanent": {
                     "locators": [
                          "SN22.137"
+                    ],
+                    "xrefs": []
+               },
+               "desire given up with desire": {
+                    "locators": [
+                         "SN51.15"
+                    ],
+                    "xrefs": []
+               },
+               "desire for enlightenment like desire to go to park": {
+                    "locators": [
+                         "SN51.15"
                     ],
                     "xrefs": []
                }
@@ -20266,6 +20459,27 @@ export const indexObject ={
                          "SN47.28"
                     ],
                     "xrefs": []
+               },
+               "foundations of mindfulness": {
+                    "locators": [
+                         "SN52.3"
+                    ],
+                    "xrefs": []
+               }
+          },
+          "direct knowledges, six": {
+               "bases of psychic power": {
+                    "locators": [
+                         "SN51.11",
+                         "SN51.20"
+                    ],
+                    "xrefs": []
+               },
+               "Buddha, the": {
+                    "locators": [
+                         "SN51.32"
+                    ],
+                    "xrefs": []
                }
           },
           "directed thoughts and evaluations (vitakkavicārā)": {
@@ -21072,6 +21286,7 @@ export const indexObject ={
                "encouraging to": {
                     "locators": [
                          "SN45.160",
+                         "SN52.8",
                          "Thig6.3",
                          "Thig7.3",
                          "Thig14.1"
@@ -21181,13 +21396,15 @@ export const indexObject ={
                "encouragement to collect merit at home instead": {
                     "locators": [
                          "SN35.244",
-                         "SN45.160"
+                         "SN45.160",
+                         "SN52.8"
                     ],
                     "xrefs": []
                },
                "mendicant who develops eightfold path will not": {
                     "locators": [
-                         "SN45.160"
+                         "SN45.160",
+                         "SN52.8"
                     ],
                     "xrefs": []
                },
@@ -21340,6 +21557,12 @@ export const indexObject ={
                     "locators": [
                          "SN51.11",
                          "SN51.11"
+                    ],
+                    "xrefs": []
+               },
+               "foundations of mindfulness": {
+                    "locators": [
+                         "SN52.13"
                     ],
                     "xrefs": []
                }
@@ -22892,6 +23115,14 @@ export const indexObject ={
                     "xrefs": []
                }
           },
+          "effort (padhāna)": {
+               "": {
+                    "locators": [],
+                    "xrefs": [
+                         "xref striving (padhāna)"
+                    ]
+               }
+          },
           "eggs": {
                "": {
                     "locators": [],
@@ -23071,6 +23302,12 @@ export const indexObject ={
                "diversity of": {
                     "locators": [
                          "SN35.129"
+                    ],
+                    "xrefs": []
+               },
+               "understanding because of foundations of mindfulness": {
+                    "locators": [
+                         "SN52.18"
                     ],
                     "xrefs": []
                }
@@ -23907,6 +24144,7 @@ export const indexObject ={
                     "locators": [],
                     "xrefs": [
                          "xref awakening factor of energy (vīriyasambojjhaṅga)",
+                         "xref bases of psychic power (iddhipāda)",
                          "xref energy, stirring up (vīriyārambha)",
                          "xref energy, stirring up (vīriyārambha)",
                          "xref excess energy (accāraddhavīriya)"
@@ -24029,6 +24267,12 @@ export const indexObject ={
                "causes growth of skillful qualities": {
                     "locators": [
                          "AN10.67"
+                    ],
+                    "xrefs": []
+               },
+               "lax, tense, constricted, scattered": {
+                    "locators": [
+                         "SN51.20"
                     ],
                     "xrefs": []
                }
@@ -24280,6 +24524,12 @@ export const indexObject ={
                          "AN8.70"
                     ],
                     "xrefs": []
+               },
+               "recollecting a thousand": {
+                    "locators": [
+                         "SN52.11"
+                    ],
+                    "xrefs": []
                }
           },
           "equality (samānattatā)": {
@@ -24386,6 +24636,7 @@ export const indexObject ={
                "towards repulsive an unrepulsive": {
                     "locators": [
                          "MN152",
+                         "SN52.1",
                          "AN5.144"
                     ],
                     "xrefs": []
@@ -25086,6 +25337,12 @@ export const indexObject ={
                          "SN48.15"
                     ],
                     "xrefs": []
+               },
+               "bases of psychic power": {
+                    "locators": [
+                         "SN51.26"
+                    ],
+                    "xrefs": []
                }
           },
           "extinguished upon landing (upahaccaparinibbāyī)": {
@@ -25125,6 +25382,12 @@ export const indexObject ={
                          "SN48.15"
                     ],
                     "xrefs": []
+               },
+               "bases of psychic power": {
+                    "locators": [
+                         "SN51.26"
+                    ],
+                    "xrefs": []
                }
           },
           "extinguished with extra effort (sasaṅkhāraparinibbāyī)": {
@@ -25162,6 +25425,12 @@ export const indexObject ={
                "five spiritual faculties": {
                     "locators": [
                          "SN48.15"
+                    ],
+                    "xrefs": []
+               },
+               "bases of psychic power": {
+                    "locators": [
+                         "SN51.26"
                     ],
                     "xrefs": []
                }
@@ -25425,6 +25694,12 @@ export const indexObject ={
                          "SN48.52"
                     ],
                     "xrefs": []
+               },
+               "understanding because of foundations of mindfulness": {
+                    "locators": [
+                         "SN52.20"
+                    ],
+                    "xrefs": []
                }
           },
           "faculties of individuals (purisindriya)": {
@@ -25539,7 +25814,7 @@ export const indexObject ={
           "faculties, spiritual (indriya)": {
                "": {
                     "locators": [
-                         "CUSTOM:SN:Indriya Saṁyutta:suttacentral.net/sn48"
+                         "CUSTOM:SN:SN 48 Indriya Saṁyutta:suttacentral.net/sn48"
                     ],
                     "xrefs": [
                          "xref bodhipakkhiyā dhammā",
@@ -28299,18 +28574,18 @@ export const indexObject ={
                }
           },
           "fire sticks": {
+               "": {
+                    "locators": [],
+                    "xrefs": [
+                         "xref fires"
+                    ]
+               },
                "simile for contact": {
                     "locators": [
                          "MN140",
                          "SN48.39"
                     ],
                     "xrefs": []
-               },
-               "": {
-                    "locators": [],
-                    "xrefs": [
-                         "xref fires"
-                    ]
                },
                "simile for contact and feelings": {
                     "locators": [
@@ -29665,11 +29940,18 @@ export const indexObject ={
           "foundations of mindfulness, four (satipaṭṭhāna)": {
                "": {
                     "locators": [
-                         "CUSTOM:SN:SN 47 Satipaṭṭhānasaṁyutta:suttacentral.net/sn47"
+                         "CUSTOM:SN:SN 47 Satipaṭṭhāna Saṁyutta:suttacentral.net/sn47",
+                         "CUSTOM:SN:SN 52 Anuruddha Saṁyutta:suttacentral.net/sn52"
                     ],
                     "xrefs": [
                          "xref bodhipakkhiyā dhammā"
                     ]
+               },
+               "definition in detail": {
+                    "locators": [
+                         "MN10"
+                    ],
+                    "xrefs": []
                },
                "knowing, like knowing the pasture": {
                     "locators": [
@@ -30008,6 +30290,56 @@ export const indexObject ={
                "ending of wrong thoughts": {
                     "locators": [
                          "SN22.80"
+                    ],
+                    "xrefs": []
+               },
+               "arising and vanishing": {
+                    "locators": [
+                         "SN52.1"
+                    ],
+                    "xrefs": []
+               },
+               "overcoming bodily pain": {
+                    "locators": [
+                         "SN52.10"
+                    ],
+                    "xrefs": []
+               },
+               "psychic powers, divine ear, etc.": {
+                    "locators": [
+                         "SN52.12",
+                         "SN52.13",
+                         "SN52.14"
+                    ],
+                    "xrefs": []
+               },
+               "results of actions": {
+                    "locators": [
+                         "SN52.16"
+                    ],
+                    "xrefs": []
+               },
+               "jhānas, liberations": {
+                    "locators": [
+                         "SN52.21"
+                    ],
+                    "xrefs": []
+               },
+               "knowing past lives": {
+                    "locators": [
+                         "SN52.22"
+                    ],
+                    "xrefs": []
+               },
+               "passing away and rebirth of beings": {
+                    "locators": [
+                         "SN52.23"
+                    ],
+                    "xrefs": []
+               },
+               "ending of taints": {
+                    "locators": [
+                         "SN52.24"
                     ],
                     "xrefs": []
                }
@@ -31141,7 +31473,8 @@ export const indexObject ={
                },
                "making Ganges slope west, simile for impossible to disrobe": {
                     "locators": [
-                         "SN35.244"
+                         "SN35.244",
+                         "SN52.8"
                     ],
                     "xrefs": []
                },
@@ -31153,7 +31486,14 @@ export const indexObject ={
                },
                "slants to the east, simile for five powers leading to nibbāna": {
                     "locators": [
-                         "SN50.1"
+                         "SN50.1",
+                         "SN51.33"
+                    ],
+                    "xrefs": []
+               },
+               "slants to the east, simile for jhānas lead to nibbāna": {
+                    "locators": [
+                         "SN53.1"
                     ],
                     "xrefs": []
                }
@@ -36709,6 +37049,12 @@ export const indexObject ={
                          "SN48.15"
                     ],
                     "xrefs": []
+               },
+               "bases of psychic power": {
+                    "locators": [
+                         "SN51.26"
+                    ],
+                    "xrefs": []
                }
           },
           "healer (bhisakka)": {
@@ -40651,13 +40997,23 @@ export const indexObject ={
                     "xrefs": []
                }
           },
+          "inclination (adhimutti)": {
+               "understanding because of foundations of mindfulness": {
+                    "locators": [
+                         "SN52.19"
+                    ],
+                    "xrefs": []
+               },
+               "counter_value": 1
+          },
           "inclination (nati)": {
                "from consciousness": {
                     "locators": [
                          "SN12.40"
                     ],
                     "xrefs": []
-               }
+               },
+               "counter_value": 2
           },
           "inclination of the mind (cittuppāda)": {
                "": {
@@ -40714,6 +41070,12 @@ export const indexObject ={
                "qualities of Ven. Bakkula": {
                     "locators": [
                          "MN124"
+                    ],
+                    "xrefs": []
+               },
+               "Buddha’s psychic powers": {
+                    "locators": [
+                         "SN51.22"
                     ],
                     "xrefs": []
                }
@@ -41675,6 +42037,7 @@ export const indexObject ={
                "": {
                     "locators": [],
                     "xrefs": [
+                         "xref bases of psychic power (iddhipāda)",
                          "xref following a line of inquiry (vīmaṁsānucarita)"
                     ]
                },
@@ -41687,6 +42050,12 @@ export const indexObject ={
                "dependent origination": {
                     "locators": [
                          "SN12.51"
+                    ],
+                    "xrefs": []
+               },
+               "lax, tense, constricted, scattered": {
+                    "locators": [
+                         "SN51.20"
                     ],
                     "xrefs": []
                }
@@ -41746,6 +42115,12 @@ export const indexObject ={
                     "locators": [
                          "Iti48",
                          "Iti91"
+                    ],
+                    "xrefs": []
+               },
+               "simile for body and psychic powers": {
+                    "locators": [
+                         "SN51.22"
                     ],
                     "xrefs": []
                }
@@ -42677,6 +43052,12 @@ export const indexObject ={
                "faculty of immersion (samādhindriya)": {
                     "locators": [
                          "SN48.8"
+                    ],
+                    "xrefs": []
+               },
+               "understanding because of foundations of mindfulness": {
+                    "locators": [
+                         "SN52.21"
                     ],
                     "xrefs": []
                }
@@ -44123,6 +44504,15 @@ export const indexObject ={
                     "xrefs": []
                }
           },
+          "knowledge of passing away and rebirth of beings": {
+               "knowing because of foundations of mindfulness": {
+                    "locators": [
+                         "SN52.23"
+                    ],
+                    "xrefs": []
+               },
+               "counter_value": 1
+          },
           "knowledge of passing away and rebirth of beings (cutūpapātañāna)": {
                "": {
                     "locators": [],
@@ -44243,7 +44633,8 @@ export const indexObject ={
                          "AN11.14"
                     ],
                     "xrefs": []
-               }
+               },
+               "counter_value": 2
           },
           "knowledge of past lives": {
                "": {
@@ -45679,6 +46070,12 @@ export const indexObject ={
                "to be realized with meditative experience": {
                     "locators": [
                          "AN4.189"
+                    ],
+                    "xrefs": []
+               },
+               "understanding because of foundations of mindfulness": {
+                    "locators": [
+                         "SN52.21"
                     ],
                     "xrefs": []
                }
@@ -49797,7 +50194,9 @@ export const indexObject ={
                     "locators": [
                          "CUSTOM:Dhp:Dhammapada Chapter 3:suttacentral.net/dhp33-43/en/sujato"
                     ],
-                    "xrefs": []
+                    "xrefs": [
+                         "xref bases of psychic power (iddhipāda)"
+                    ]
                },
                "simile of arrow maker": {
                     "locators": [
@@ -50203,6 +50602,12 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
+               "lax, tense, constricted, scattered": {
+                    "locators": [
+                         "SN51.20"
+                    ],
+                    "xrefs": []
+               },
                "counter_value": 3
           },
           "mind (mano)": {
@@ -50311,6 +50716,12 @@ export const indexObject ={
                          "AN10.97"
                     ],
                     "xrefs": []
+               },
+               "foundations of mindfulness": {
+                    "locators": [
+                         "SN52.14"
+                    ],
+                    "xrefs": []
                }
           },
           "mind-made body (manomayena kāya)": {
@@ -50329,6 +50740,12 @@ export const indexObject ={
                "heaven of mind made gods": {
                     "locators": [
                          "AN5.166"
+                    ],
+                    "xrefs": []
+               },
+               "visiting brahmā world": {
+                    "locators": [
+                         "SN51.22"
                     ],
                     "xrefs": []
                }
@@ -51374,7 +51791,8 @@ export const indexObject ={
                },
                "psychic powers": {
                     "locators": [
-                         "MN50"
+                         "MN50",
+                         "SN51.14"
                     ],
                     "xrefs": []
                },
@@ -51472,6 +51890,30 @@ export const indexObject ={
                "told by the Buddha to give a talk": {
                     "locators": [
                          "SN35.243"
+                    ],
+                    "xrefs": []
+               },
+               "shaking Palace of Migara’s Mother with toe": {
+                    "locators": [
+                         "SN51.14"
+                    ],
+                    "xrefs": []
+               },
+               "bases of psychic power": {
+                    "locators": [
+                         "SN51.14"
+                    ],
+                    "xrefs": []
+               },
+               "psychic powers, how he developed": {
+                    "locators": [
+                         "SN51.31"
+                    ],
+                    "xrefs": []
+               },
+               "questioning Ven. Anuruddha": {
+                    "locators": [
+                         "SN52.1"
                     ],
                     "xrefs": []
                }
@@ -53663,6 +54105,24 @@ export const indexObject ={
                          "SN12.68"
                     ],
                     "xrefs": []
+               },
+               "desire to attain removed once attained": {
+                    "locators": [
+                         "SN51.15"
+                    ],
+                    "xrefs": []
+               },
+               "early in this life, bases of psychic power": {
+                    "locators": [
+                         "SN51.26"
+                    ],
+                    "xrefs": []
+               },
+               "at time of death, bases of psychic power": {
+                    "locators": [
+                         "SN51.26"
+                    ],
+                    "xrefs": []
                }
           },
           "nibbāna directly visible (sandiṭṭhikaṁ nibbānaṁ)": {
@@ -54085,7 +54545,7 @@ export const indexObject ={
           "noble eightfold path (ariya aṭṭhangika magga)": {
                "": {
                     "locators": [
-                         "CUSTOM:SN:Maggasaṁyutta:suttacentral.net/sn45"
+                         "CUSTOM:SN:MSN 45 Magga Saṁyutta:suttacentral.net/sn45"
                     ],
                     "xrefs": [
                          "xref bodhipakkhiyā dhammā"
@@ -54408,7 +54868,8 @@ export const indexObject ={
                },
                "prevents disrobing": {
                     "locators": [
-                         "SN45.160"
+                         "SN45.160",
+                         "SN52.8"
                     ],
                     "xrefs": []
                },
@@ -54529,6 +54990,12 @@ export const indexObject ={
                "like right-hand path": {
                     "locators": [
                          "SN22.84"
+                    ],
+                    "xrefs": []
+               },
+               "leads to bases of psychic power": {
+                    "locators": [
+                         "SN51.27"
                     ],
                     "xrefs": []
                }
@@ -55150,6 +55617,12 @@ export const indexObject ={
                     "locators": [
                          "SN22.122",
                          "SN22.123"
+                    ],
+                    "xrefs": []
+               },
+               "through bases of psychic power": {
+                    "locators": [
+                         "SN51.25"
                     ],
                     "xrefs": []
                }
@@ -56616,6 +57089,12 @@ export const indexObject ={
                          "SN35.41"
                     ],
                     "xrefs": []
+               },
+               "being liable to; foundations of mindfulness": {
+                    "locators": [
+                         "SN52.1"
+                    ],
+                    "xrefs": []
                }
           },
           "other sects": {
@@ -56961,6 +57440,7 @@ export const indexObject ={
                "": {
                     "locators": [],
                     "xrefs": [
+                         "xref deadly pain",
                          "xref faculty of pain (dukkhindriya)",
                          "xref suffering (dukkha)"
                     ]
@@ -57005,6 +57485,12 @@ export const indexObject ={
                "cessation of": {
                     "locators": [
                          "SN12.1"
+                    ],
+                    "xrefs": []
+               },
+               "bodily, overcoming": {
+                    "locators": [
+                         "SN52.10"
                     ],
                     "xrefs": []
                }
@@ -57150,7 +57636,8 @@ export const indexObject ={
           "Palace of Migara’s Mother": {
                "Ven. Moggallāna shaking with toe": {
                     "locators": [
-                         "MN50"
+                         "MN50",
+                         "SN51.14"
                     ],
                     "xrefs": []
                },
@@ -57424,6 +57911,14 @@ export const indexObject ={
                     ]
                }
           },
+          "park (ārāma)": {
+               "going to, simile for desire to attain enlightenment": {
+                    "locators": [
+                         "SN51.15"
+                    ],
+                    "xrefs": []
+               }
+          },
           "Pasenadi Kosala, King": {
                "ascetics as spies": {
                     "locators": [
@@ -57557,6 +58052,12 @@ export const indexObject ={
                "five hundred eons": {
                     "locators": [
                          "Thag2.23"
+                    ],
+                    "xrefs": []
+               },
+               "knowing because of foundations of mindfulness": {
+                    "locators": [
+                         "SN52.22"
                     ],
                     "xrefs": []
                },
@@ -57764,6 +58265,12 @@ export const indexObject ={
                     "xrefs": [
                          "xref roads (magga)"
                     ]
+               },
+               "for giving up desire, bases of psychic power": {
+                    "locators": [
+                         "SN51.15"
+                    ],
+                    "xrefs": []
                }
           },
           "patience (khanti)": {
@@ -58461,6 +58968,12 @@ export const indexObject ={
                          "AN7.61"
                     ],
                     "xrefs": []
+               },
+               "mind full of radiance": {
+                    "locators": [
+                         "SN51.20"
+                    ],
+                    "xrefs": []
                }
           },
           "perception of non-cruelty (avihiṁsāsaññā)": {
@@ -58792,6 +59305,12 @@ export const indexObject ={
                "celibacy": {
                     "locators": [
                          "SN35.127"
+                    ],
+                    "xrefs": []
+               },
+               "“as below, so above” etc.": {
+                    "locators": [
+                         "SN51.20"
                     ],
                     "xrefs": []
                },
@@ -60022,6 +60541,12 @@ export const indexObject ={
                          "AN6.64"
                     ],
                     "xrefs": []
+               },
+               "foundations of mindfulness to know": {
+                    "locators": [
+                         "SN52.15"
+                    ],
+                    "xrefs": []
                }
           },
           "posts": {
@@ -60201,7 +60726,7 @@ export const indexObject ={
           "powers (bala)": {
                "": {
                     "locators": [
-                         "CUSTOM:SN:Bala Saṁyutta:suttacentral.net/sn50"
+                         "CUSTOM:SN:SN 50 Bala Saṁyutta:suttacentral.net/sn50"
                     ],
                     "xrefs": [
                          "xref bodhipakkhiyā dhammā",
@@ -61695,7 +62220,20 @@ export const indexObject ={
                },
                "definition": {
                     "locators": [
-                         "SN51.11"
+                         "SN51.11",
+                         "SN51.27"
+                    ],
+                    "xrefs": []
+               },
+               "how they work": {
+                    "locators": [
+                         "SN51.22"
+                    ],
+                    "xrefs": []
+               },
+               "foundations of mindfulness": {
+                    "locators": [
+                         "SN52.12"
                     ],
                     "xrefs": []
                }
@@ -64437,7 +64975,17 @@ export const indexObject ={
                          "AN9.11"
                     ],
                     "xrefs": []
-               }
+               },
+               "counter_value": 1
+          },
+          "repulsive (paṭikūla)": {
+               "seeing repulsive and unrepulsive, etc.": {
+                    "locators": [
+                         "SN52.1"
+                    ],
+                    "xrefs": []
+               },
+               "counter_value": 2
           },
           "reputation": {
                "": {
@@ -65296,6 +65844,12 @@ export const indexObject ={
                          "AN6.86"
                     ],
                     "xrefs": []
+               },
+               "knowing because of foundations of mindfulness": {
+                    "locators": [
+                         "SN52.16"
+                    ],
+                    "xrefs": []
                }
           },
           "retaliation": {
@@ -65690,7 +66244,7 @@ export const indexObject ={
           "right effort, four (sammappadhāna)": {
                "": {
                     "locators": [
-                         "CUSTOM:SN:Sammappadhāna Saṁyutta:suttacentral.net/sn49"
+                         "CUSTOM:SN:SN 49 Sammappadhāna Saṁyutta:suttacentral.net/sn49"
                     ],
                     "xrefs": [
                          "xref right effort (sammā vāyāma)",
@@ -69750,7 +70304,7 @@ export const indexObject ={
                },
                "": {
                     "locators": [
-                         "CUSTOM:SN:Saḷāyatanasaṁyutta:suttacentral.net/sn35"
+                         "CUSTOM:SN:SN 35 Saḷāyatana Saṁyutta:suttacentral.net/sn35"
                     ],
                     "xrefs": []
                },
@@ -74335,6 +74889,12 @@ export const indexObject ={
                          "SN12.35"
                     ],
                     "xrefs": []
+               },
+               "purpose of, giving up desire (chanda)": {
+                    "locators": [
+                         "SN51.15"
+                    ],
+                    "xrefs": []
                }
           },
           "spiritual urgency": {
@@ -75213,6 +75773,12 @@ export const indexObject ={
                "correctly": {
                     "locators": [
                          "MN101"
+                    ],
+                    "xrefs": []
+               },
+               "bases of psychic power": {
+                    "locators": [
+                         "SN51.13"
                     ],
                     "xrefs": []
                },
@@ -76516,6 +77082,12 @@ export const indexObject ={
                          "SN22.101"
                     ],
                     "xrefs": []
+               },
+               "ended by foundations of mindfulness": {
+                    "locators": [
+                         "SN52.24"
+                    ],
+                    "xrefs": []
                }
           },
           "talk": {
@@ -77161,18 +77733,18 @@ export const indexObject ={
                }
           },
           "thirst": {
+               "": {
+                    "locators": [],
+                    "xrefs": [
+                         "xref beverages"
+                    ]
+               },
                "to be given up by enduring": {
                     "locators": [
                          "MN2",
                          "AN6.58"
                     ],
                     "xrefs": []
-               },
-               "": {
-                    "locators": [],
-                    "xrefs": [
-                         "xref beverages"
-                    ]
                }
           },
           "thirty-seven aids to enlightenment": {
@@ -77992,7 +78564,8 @@ export const indexObject ={
                },
                "should train in four foundations of mindfulness": {
                     "locators": [
-                         "SN47.4"
+                         "SN47.4",
+                         "SN52.4"
                     ],
                     "xrefs": []
                },
@@ -79487,6 +80060,12 @@ export const indexObject ={
                          "SN48.42"
                     ],
                     "xrefs": []
+               },
+               "removing desire with desire": {
+                    "locators": [
+                         "SN51.15"
+                    ],
+                    "xrefs": []
                }
           },
           "unprincipled": {
@@ -79513,6 +80092,12 @@ export const indexObject ={
                "seeing unrepulsive in": {
                     "locators": [
                          "SN46.54"
+                    ],
+                    "xrefs": []
+               },
+               "seeing repulsive and unrepulsive, etc.": {
+                    "locators": [
+                         "SN52.1"
                     ],
                     "xrefs": []
                }
@@ -80300,6 +80885,12 @@ export const indexObject ={
                     "locators": [
                          "Thag1.39",
                          "Thag1.40"
+                    ],
+                    "xrefs": []
+               },
+               "shocked by psychic powers": {
+                    "locators": [
+                         "SN51.14"
                     ],
                     "xrefs": []
                },
@@ -85975,6 +86566,7 @@ export const indexObject ={
                "": {
                     "locators": [],
                     "xrefs": [
+                         "xref bases of psychic power (iddhipāda)",
                          "xref desire (chanda)"
                     ]
                },
@@ -86013,6 +86605,12 @@ export const indexObject ={
                "for giving up bad qualities": {
                     "locators": [
                          "AN10.51"
+                    ],
+                    "xrefs": []
+               },
+               "lax, tense, constricted, scattered": {
+                    "locators": [
+                         "SN51.20"
                     ],
                     "xrefs": []
                }
