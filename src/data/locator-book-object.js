@@ -774,6 +774,11 @@ export const locatorBookObject ={
     ],
     [
       "MN5",
+      "blemish (aṅgaṇa)",
+      "self reflection"
+    ],
+    [
+      "MN5",
       "Dhamma teaching",
       "unwholesome wish to teach"
     ],
@@ -801,11 +806,6 @@ export const locatorBookObject ={
       "MN5",
       "ascetic practices (dhutaṅga)",
       "not enough without giving up evil wishes"
-    ],
-    [
-      "MN5",
-      "blemish (aṅgaṇa)",
-      "self reflection"
     ],
     [
       "MN5",
@@ -1209,11 +1209,6 @@ export const locatorBookObject ={
     ],
     [
       "MN8",
-      "Dhamma teaching",
-      "when not ready"
-    ],
-    [
-      "MN8",
       "admonishment",
       "being difficult to"
     ],
@@ -1249,11 +1244,6 @@ export const locatorBookObject ={
     ],
     [
       "MN8",
-      "conscience and prudence (hiri ottappa)",
-      "developing"
-    ],
-    [
-      "MN8",
       "contemptuousness (paḷāsa)",
       "overcoming"
     ],
@@ -1276,6 +1266,16 @@ export const locatorBookObject ={
       "MN8",
       "deviousness (saṭha)",
       "overcoming"
+    ],
+    [
+      "MN8",
+      "Dhamma teaching",
+      "when not ready"
+    ],
+    [
+      "MN8",
+      "conscience and prudence (hiri ottappa)",
+      "developing"
     ],
     [
       "MN8",
@@ -2224,6 +2224,11 @@ export const locatorBookObject ={
     ],
     [
       "MN12",
+      "archers",
+      "simile for Buddha’s wisdom"
+    ],
+    [
+      "MN12",
       "attainments (samāpatti)",
       "Buddha knows"
     ],
@@ -2265,6 +2270,11 @@ export const locatorBookObject ={
     [
       "MN12",
       "Buddha, the",
+      "psychic powers"
+    ],
+    [
+      "MN12",
+      "Buddha, the",
       "self mortification of"
     ],
     [
@@ -2274,23 +2284,13 @@ export const locatorBookObject ={
     ],
     [
       "MN12",
-      "animal realm",
-      "like sewer"
-    ],
-    [
-      "MN12",
-      "archers",
-      "simile for Buddha’s wisdom"
-    ],
-    [
-      "MN12",
-      "Buddha, the",
-      "psychic powers"
-    ],
-    [
-      "MN12",
       "Dhamma",
       "not leading to the end of suffering"
+    ],
+    [
+      "MN12",
+      "animal realm",
+      "like sewer"
     ],
     [
       "MN12",
@@ -2349,18 +2349,33 @@ export const locatorBookObject ={
     ],
     [
       "MN12",
-      "faculties (indriya)",
-      "Buddha knows faculties of beings"
-    ],
-    [
-      "MN12",
       "fasting",
       "Buddha’s practice of"
     ],
     [
       "MN12",
+      "fire worship (aggika)",
+      "purity through"
+    ],
+    [
+      "MN12",
+      "ghost realm",
+      "like tree with thin foliage"
+    ],
+    [
+      "MN12",
+      "heaven (sagga)",
+      "like a palace"
+    ],
+    [
+      "MN12",
       "hell (niraya)",
       "like pit of glowing coals"
+    ],
+    [
+      "MN12",
+      "human birth",
+      "like tree with thick foliage"
     ],
     [
       "MN12",
@@ -2384,88 +2399,13 @@ export const locatorBookObject ={
     ],
     [
       "MN12",
-      "knowledges, three (vijjā)",
-      "as power of a Tathāgata"
-    ],
-    [
-      "MN12",
-      "liberations, eight (vimokkha)",
-      "Buddha knows"
-    ],
-    [
-      "MN12",
       "logic (takka)",
       "accusation of Buddha’s teaching being worked out by"
     ],
     [
       "MN12",
-      "mind reading",
-      "Buddha’s ability"
-    ],
-    [
-      "MN12",
       "moisture",
       "birth in"
-    ],
-    [
-      "MN12",
-      "obstructions (antarāyikā dhammā)",
-      "not really obstructions"
-    ],
-    [
-      "MN12",
-      "pits",
-      "of glowing coals, simile for hell"
-    ],
-    [
-      "MN12",
-      "possible and impossible (ṭhāna aṭṭhāna)",
-      "power of a Tathāgata"
-    ],
-    [
-      "MN12",
-      "powers of a Tathāgata (tathāgatabala)",
-      "ten"
-    ],
-    [
-      "MN12",
-      "practices (paṭipatti)",
-      "Buddha understands where they all lead"
-    ],
-    [
-      "MN12",
-      "results of actions",
-      "knowing is a power of a Tathāgata"
-    ],
-    [
-      "MN12",
-      "Sunakkhatta, Ven.",
-      "having disrobed"
-    ],
-    [
-      "MN12",
-      "fire worship (aggika)",
-      "purity through"
-    ],
-    [
-      "MN12",
-      "ghost realm",
-      "like tree with thin foliage"
-    ],
-    [
-      "MN12",
-      "heaven (sagga)",
-      "like a palace"
-    ],
-    [
-      "MN12",
-      "human birth",
-      "like tree with thick foliage"
-    ],
-    [
-      "MN12",
-      "lions roar",
-      "of the Buddha"
     ],
     [
       "MN12",
@@ -2494,8 +2434,18 @@ export const locatorBookObject ={
     ],
     [
       "MN12",
+      "obstructions (antarāyikā dhammā)",
+      "not really obstructions"
+    ],
+    [
+      "MN12",
       "palaces (pāsādā)",
       "simile for heaven"
+    ],
+    [
+      "MN12",
+      "pits",
+      "of glowing coals, simile for hell"
     ],
     [
       "MN12",
@@ -2504,8 +2454,13 @@ export const locatorBookObject ={
     ],
     [
       "MN12",
-      "psychic powers (iddhi)",
-      "Buddha having"
+      "possible and impossible (ṭhāna aṭṭhāna)",
+      "power of a Tathāgata"
+    ],
+    [
+      "MN12",
+      "practices (paṭipatti)",
+      "Buddha understands where they all lead"
     ],
     [
       "MN12",
@@ -2534,11 +2489,6 @@ export const locatorBookObject ={
     ],
     [
       "MN12",
-      "recollection of past lives",
-      "as power of a Tathāgata"
-    ],
-    [
-      "MN12",
       "reproduction (yoni)",
       "four types of"
     ],
@@ -2546,6 +2496,56 @@ export const locatorBookObject ={
       "MN12",
       "results of actions",
       "Buddha understands"
+    ],
+    [
+      "MN12",
+      "results of actions",
+      "knowing is a power of a Tathāgata"
+    ],
+    [
+      "MN12",
+      "Sunakkhatta, Ven.",
+      "having disrobed"
+    ],
+    [
+      "MN12",
+      "faculties (indriya)",
+      "Buddha knows faculties of beings"
+    ],
+    [
+      "MN12",
+      "knowledges, three (vijjā)",
+      "as power of a Tathāgata"
+    ],
+    [
+      "MN12",
+      "liberations, eight (vimokkha)",
+      "Buddha knows"
+    ],
+    [
+      "MN12",
+      "lions roar",
+      "of the Buddha"
+    ],
+    [
+      "MN12",
+      "mind reading",
+      "Buddha’s ability"
+    ],
+    [
+      "MN12",
+      "powers of a Tathāgata (tathāgatabala)",
+      "ten"
+    ],
+    [
+      "MN12",
+      "psychic powers (iddhi)",
+      "Buddha having"
+    ],
+    [
+      "MN12",
+      "recollection of past lives",
+      "as power of a Tathāgata"
     ],
     [
       "MN12",
@@ -3089,11 +3089,6 @@ export const locatorBookObject ={
     ],
     [
       "MN18",
-      "Dhamma",
-      "in brief"
-    ],
-    [
-      "MN18",
       "conflicts (viggahaya)",
       "Buddha not conflicting with anyone"
     ],
@@ -3111,6 +3106,11 @@ export const locatorBookObject ={
       "MN18",
       "Daṇḍapāṇi the Sakyan",
       "questioning the Buddha"
+    ],
+    [
+      "MN18",
+      "Dhamma",
+      "in brief"
     ],
     [
       "MN18",
@@ -3424,8 +3424,18 @@ export const locatorBookObject ={
     ],
     [
       "MN21",
+      "Ganges river",
+      "burning away, simile for enduring speech"
+    ],
+    [
+      "MN21",
       "bhikkhus",
       "mixing with nuns"
+    ],
+    [
+      "MN21",
+      "cat-skin bag",
+      "making noise, simile for enduring speech"
     ],
     [
       "MN21",
@@ -3466,16 +3476,6 @@ export const locatorBookObject ={
       "MN21",
       "eating in one sitting (ekāsanik)",
       "advice to"
-    ],
-    [
-      "MN21",
-      "Ganges river",
-      "burning away, simile for enduring speech"
-    ],
-    [
-      "MN21",
-      "cat-skin bag",
-      "making noise, simile for enduring speech"
     ],
     [
       "MN21",
@@ -3634,23 +3634,8 @@ export const locatorBookObject ={
     ],
     [
       "MN22",
-      "Dhamma",
-      "like a raft"
-    ],
-    [
-      "MN22",
-      "aggregates (khandha)",
-      "as not self"
-    ],
-    [
-      "MN22",
       "aggregates (khandha)",
       "not yours"
-    ],
-    [
-      "MN22",
-      "banner and burden put down",
-      "definition"
     ],
     [
       "MN22",
@@ -3661,6 +3646,21 @@ export const locatorBookObject ={
       "MN22",
       "craving (taṇha)",
       "given up, like pillar pulled up"
+    ],
+    [
+      "MN22",
+      "Dhamma",
+      "like a raft"
+    ],
+    [
+      "MN22",
+      "aggregates (khandha)",
+      "as not self"
+    ],
+    [
+      "MN22",
+      "banner and burden put down",
+      "definition"
     ],
     [
       "MN22",
@@ -4074,8 +4074,33 @@ export const locatorBookObject ={
     ],
     [
       "MN26",
+      "Buddha, the",
+      "attaining enlightenment"
+    ],
+    [
+      "MN26",
+      "animals",
+      "liable to rebirth, old age, sickness, etc."
+    ],
+    [
+      "MN26",
+      "ascetics and brahmins (samaṇabrāhmaṇa)",
+      "caught by sense pleasures"
+    ],
+    [
+      "MN26",
       "attachments, stilling of all (sabbūpadhipaṭinissaggo)",
       "hard to see"
+    ],
+    [
+      "MN26",
+      "austerities (dukkarakārikā)",
+      "Buddha gave up"
+    ],
+    [
+      "MN26",
+      "birth (jāti)",
+      "being liable to"
     ],
     [
       "MN26",
@@ -4094,43 +4119,13 @@ export const locatorBookObject ={
     ],
     [
       "MN26",
-      "animals",
-      "liable to rebirth, old age, sickness, etc."
-    ],
-    [
-      "MN26",
-      "ascetics and brahmins (samaṇabrāhmaṇa)",
-      "caught by sense pleasures"
-    ],
-    [
-      "MN26",
-      "austerities (dukkarakārikā)",
-      "Buddha gave up"
-    ],
-    [
-      "MN26",
-      "birth (jāti)",
-      "being liable to"
-    ],
-    [
-      "MN26",
       "bondservants (dāsa)",
       "liable to rebirth, old age, sickness, etc."
     ],
     [
       "MN26",
       "Buddha, the",
-      "attaining enlightenment"
-    ],
-    [
-      "MN26",
-      "Buddha, the",
       "has no teacher"
-    ],
-    [
-      "MN26",
-      "Dhamma",
-      "qualities of"
     ],
     [
       "MN26",
@@ -4151,6 +4146,11 @@ export const locatorBookObject ={
       "MN26",
       "Dhamma discussion",
       "proper way to spend time"
+    ],
+    [
+      "MN26",
+      "Dhamma",
+      "qualities of"
     ],
     [
       "MN26",
@@ -5104,33 +5104,18 @@ export const locatorBookObject ={
     ],
     [
       "MN31",
-      "Dīgha Parajana, yakkha",
-      "praising monks"
-    ],
-    [
-      "MN31",
-      "gods",
-      "rejoicing in disciple attaining enlightenment "
-    ],
-    [
-      "MN31",
-      "heedfulness (appamāda)",
-      "example of"
-    ],
-    [
-      "MN31",
-      "Kimbila, Ven.",
-      "living with Ven. Anuruddha and Nandiya "
-    ],
-    [
-      "MN31",
       "alms gathering practice",
       "logistics"
     ],
     [
       "MN31",
-      "good friends",
-      "example of"
+      "Dīgha Parajana, yakkha",
+      "praising monks"
+    ],
+    [
+      "MN31",
+      "Kimbila, Ven.",
+      "living with Ven. Anuruddha and Nandiya "
     ],
     [
       "MN31",
@@ -5154,7 +5139,22 @@ export const locatorBookObject ={
     ],
     [
       "MN31",
+      "gods",
+      "rejoicing in disciple attaining enlightenment "
+    ],
+    [
+      "MN31",
+      "good friends",
+      "example of"
+    ],
+    [
+      "MN31",
       "harmony (samagga)",
+      "example of"
+    ],
+    [
+      "MN31",
+      "heedfulness (appamāda)",
       "example of"
     ],
     [
@@ -5534,6 +5534,21 @@ export const locatorBookObject ={
     ],
     [
       "MN35",
+      "aggregates (khandha)",
+      "as impermanent, suffering, not self"
+    ],
+    [
+      "MN35",
+      "aggregates (khandha)",
+      "as self"
+    ],
+    [
+      "MN35",
+      "arahants",
+      "definition"
+    ],
+    [
+      "MN35",
       "Assaji, Ven.",
       "speaking with Saccaka Nigaṇṭhaputta"
     ],
@@ -5550,22 +5565,7 @@ export const locatorBookObject ={
     [
       "MN35",
       "aggregates (khandha)",
-      "as impermanent, suffering, not self"
-    ],
-    [
-      "MN35",
-      "aggregates (khandha)",
-      "as self"
-    ],
-    [
-      "MN35",
-      "aggregates (khandha)",
       "not like king controlling kingdom"
-    ],
-    [
-      "MN35",
-      "arahants",
-      "definition"
     ],
     [
       "MN35",
@@ -5679,16 +5679,6 @@ export const locatorBookObject ={
     ],
     [
       "MN36",
-      "awakening (sambodha)",
-      "person capable of"
-    ],
-    [
-      "MN36",
-      "blood",
-      "spewing hot"
-    ],
-    [
-      "MN36",
       "Buddha, the",
       "feelings, painful/pleasant don’t occupy mind"
     ],
@@ -5701,6 +5691,11 @@ export const locatorBookObject ={
       "MN36",
       "Buddha, the",
       "skin brightens when attacked"
+    ],
+    [
+      "MN36",
+      "awakening (sambodha)",
+      "person capable of"
     ],
     [
       "MN36",
@@ -5719,13 +5714,23 @@ export const locatorBookObject ={
     ],
     [
       "MN36",
-      "development (bhāvanā)",
-      "mental and physical"
+      "dimension of neither perception nor non-perception (nevasaññanāsaññāyatana)",
+      "Uddaka Rāmaputta’s teachings leading to"
     ],
     [
       "MN36",
-      "dimension of neither perception nor non-perception (nevasaññanāsaññāyatana)",
-      "Uddaka Rāmaputta’s teachings leading to"
+      "Nanda Vaccha",
+      "ascetic practices of"
+    ],
+    [
+      "MN36",
+      "blood",
+      "spewing hot"
+    ],
+    [
+      "MN36",
+      "development (bhāvanā)",
+      "mental and physical"
     ],
     [
       "MN36",
@@ -5764,6 +5769,11 @@ export const locatorBookObject ={
     ],
     [
       "MN36",
+      "logs",
+      "green and dried, simile for simile for people capable or not of attaining enlightenment"
+    ],
+    [
+      "MN36",
       "luxuries",
       "returning to after ascetic practices"
     ],
@@ -5771,16 +5781,6 @@ export const locatorBookObject ={
       "MN36",
       "Makkhali Gosāla",
       "ascetic practices of"
-    ],
-    [
-      "MN36",
-      "Nanda Vaccha",
-      "ascetic practices of"
-    ],
-    [
-      "MN36",
-      "logs",
-      "green and dried, simile for simile for people capable or not of attaining enlightenment"
     ],
     [
       "MN36",
@@ -5879,6 +5879,11 @@ export const locatorBookObject ={
     ],
     [
       "MN37",
+      "Palace of Victory",
+      "tour of"
+    ],
+    [
+      "MN37",
       "asuras",
       "war with devas"
     ],
@@ -5919,16 +5924,6 @@ export const locatorBookObject ={
     ],
     [
       "MN37",
-      "nymphs (accharā)",
-      "in Palace of Victory"
-    ],
-    [
-      "MN37",
-      "Palace of Victory",
-      "tour of"
-    ],
-    [
-      "MN37",
       "Sakka, Lord of Gods",
       "asking about arahants"
     ],
@@ -5936,6 +5931,11 @@ export const locatorBookObject ={
       "MN37",
       "insisting on (abhinivesa)",
       "nothing worth insisting on"
+    ],
+    [
+      "MN37",
+      "nymphs (accharā)",
+      "in Palace of Victory"
     ],
     [
       "MN37",
@@ -5954,6 +5954,16 @@ export const locatorBookObject ={
     ],
     [
       "MN38",
+      "Dhamma applied to oneself (opanayika, opaneyyika)",
+      "definition"
+    ],
+    [
+      "MN38",
+      "Dhamma inviting inspection (ehipassika)",
+      "definition"
+    ],
+    [
+      "MN38",
       "ceremonies",
       "believing in noisy ceremonies of other sects"
     ],
@@ -5961,6 +5971,11 @@ export const locatorBookObject ={
       "MN38",
       "changing teachers",
       "not changing because of right view"
+    ],
+    [
+      "MN38",
+      "children",
+      "playing childish games"
     ],
     [
       "MN38",
@@ -5979,8 +5994,8 @@ export const locatorBookObject ={
     ],
     [
       "MN38",
-      "Dhamma applied to oneself (opanayika, opaneyyika)",
-      "definition"
+      "delight (nandi)",
+      "from liking and disliking"
     ],
     [
       "MN38",
@@ -5991,21 +6006,6 @@ export const locatorBookObject ={
       "MN38",
       "Dhamma immediately effective, timeless (akālika)",
       "definition"
-    ],
-    [
-      "MN38",
-      "Dhamma inviting inspection (ehipassika)",
-      "definition"
-    ],
-    [
-      "MN38",
-      "children",
-      "playing childish games"
-    ],
-    [
-      "MN38",
-      "delight (nandi)",
-      "from liking and disliking"
     ],
     [
       "MN38",
@@ -6154,6 +6154,11 @@ export const locatorBookObject ={
     ],
     [
       "MN39",
+      "arahants",
+      "how to become"
+    ],
+    [
+      "MN39",
       "ascetics (samaṇa)",
       "how to become"
     ],
@@ -6185,11 +6190,6 @@ export const locatorBookObject ={
     [
       "MN39",
       "Buddhas",
-      "how to become"
-    ],
-    [
-      "MN39",
-      "arahants",
       "how to become"
     ],
     [
@@ -7609,16 +7609,6 @@ export const locatorBookObject ={
     ],
     [
       "MN49",
-      "Baka Brahmā",
-      "wrong views"
-    ],
-    [
-      "MN49",
-      "Buddha, the",
-      "teaching gods"
-    ],
-    [
-      "MN49",
       "air",
       "attachment to"
     ],
@@ -7626,6 +7616,11 @@ export const locatorBookObject ={
       "MN49",
       "attachments (ajjhosāna)",
       "to elements, beings, gods, etc"
+    ],
+    [
+      "MN49",
+      "Baka Brahmā",
+      "wrong views"
     ],
     [
       "MN49",
@@ -7641,6 +7636,11 @@ export const locatorBookObject ={
       "MN49",
       "Buddha, the",
       "psychic powers, vanishing and reappearing"
+    ],
+    [
+      "MN49",
+      "Buddha, the",
+      "teaching gods"
     ],
     [
       "MN49",
@@ -8724,6 +8724,11 @@ export const locatorBookObject ={
     ],
     [
       "MN54",
+      "fetters (saṁyojana)",
+      "giving up"
+    ],
+    [
+      "MN54",
       "Potaliya the householder",
       "cutting off household life"
     ],
@@ -8771,11 +8776,6 @@ export const locatorBookObject ={
       "MN54",
       "fetters (saṁyojana)",
       "bad actions as fetter"
-    ],
-    [
-      "MN54",
-      "fetters (saṁyojana)",
-      "giving up"
     ],
     [
       "MN54",
@@ -8924,8 +8924,8 @@ export const locatorBookObject ={
     ],
     [
       "MN55",
-      "brahmās",
-      "abiding in brahmaviharas"
+      "brahmaviharas",
+      "dwelling of brahmās"
     ],
     [
       "MN55",
@@ -8959,8 +8959,8 @@ export const locatorBookObject ={
     ],
     [
       "MN55",
-      "brahmaviharas",
-      "dwelling of brahmās"
+      "brahmās",
+      "abiding in brahmaviharas"
     ],
     [
       "MN55",
@@ -9025,7 +9025,7 @@ export const locatorBookObject ={
     [
       "MN56",
       "Buddha, the",
-      "urging support of other mendicants"
+      "qualities of"
     ],
     [
       "MN56",
@@ -9039,6 +9039,11 @@ export const locatorBookObject ={
     ],
     [
       "MN56",
+      "Buddha, the",
+      "urging support of other mendicants"
+    ],
+    [
+      "MN56",
       "actions (kamma)",
       "threefold"
     ],
@@ -9046,11 +9051,6 @@ export const locatorBookObject ={
       "MN56",
       "bait",
       "Buddha has spat out world’s"
-    ],
-    [
-      "MN56",
-      "Buddha, the",
-      "qualities of"
     ],
     [
       "MN56",
@@ -9429,16 +9429,6 @@ export const locatorBookObject ={
     ],
     [
       "MN60",
-      "Buddha, the",
-      "reputation"
-    ],
-    [
-      "MN60",
-      "Dhamma",
-      "good in beginning, middle, end"
-    ],
-    [
-      "MN60",
       "actions (kamma)",
       "having effects"
     ],
@@ -9451,6 +9441,16 @@ export const locatorBookObject ={
       "MN60",
       "ascetics and brahmins (samaṇabrāhmaṇa)",
       "with right and wrong view"
+    ],
+    [
+      "MN60",
+      "Buddha, the",
+      "reputation"
+    ],
+    [
+      "MN60",
+      "Dhamma",
+      "good in beginning, middle, end"
     ],
     [
       "MN60",
@@ -10039,8 +10039,23 @@ export const locatorBookObject ={
     ],
     [
       "MN64",
+      "Ganges river",
+      "simile for giving up lower fetters"
+    ],
+    [
+      "MN64",
       "babies",
       "simile for five lower fetters"
+    ],
+    [
+      "MN64",
+      "deathless (amata)",
+      "applying mind to"
+    ],
+    [
+      "MN64",
+      "diversity of faculties (indriyavemattatā)",
+      "cause for differences in enlightenment"
     ],
     [
       "MN64",
@@ -10056,21 +10071,6 @@ export const locatorBookObject ={
       "MN64",
       "fetters (saṁyojana)",
       "path to give up like heartwood"
-    ],
-    [
-      "MN64",
-      "Ganges river",
-      "simile for giving up lower fetters"
-    ],
-    [
-      "MN64",
-      "deathless (amata)",
-      "applying mind to"
-    ],
-    [
-      "MN64",
-      "diversity of faculties (indriyavemattatā)",
-      "cause for differences in enlightenment"
     ],
     [
       "MN64",
@@ -10704,6 +10704,11 @@ export const locatorBookObject ={
     ],
     [
       "MN68",
+      "Kimbila, Ven.",
+      "listening to a sermon by the Buddha"
+    ],
+    [
+      "MN68",
       "arahants",
       "Buddha declaring someone has attained"
     ],
@@ -10734,13 +10739,18 @@ export const locatorBookObject ={
     ],
     [
       "MN68",
-      "Kimbila, Ven.",
-      "listening to a sermon by the Buddha"
+      "going forth (pabbajja)",
+      "as youth"
     ],
     [
       "MN68",
       "going forth (pabbajja)",
       "reasons for"
+    ],
+    [
+      "MN68",
+      "hindrances (nīvaraṇa)",
+      "one who removes, one who doesn’t"
     ],
     [
       "MN68",
@@ -10756,16 +10766,6 @@ export const locatorBookObject ={
       "MN68",
       "Revata, Ven.",
       "listening to a sermon by the Buddha"
-    ],
-    [
-      "MN68",
-      "going forth (pabbajja)",
-      "as youth"
-    ],
-    [
-      "MN68",
-      "hindrances (nīvaraṇa)",
-      "one who removes, one who doesn’t"
     ],
     [
       "MN68",
@@ -11224,11 +11224,6 @@ export const locatorBookObject ={
     ],
     [
       "MN71",
-      "laypeople",
-      "rebirth in heaven"
-    ],
-    [
-      "MN71",
       "past lives, knowledge of (pubbenivāsānussatiñāṇa)",
       "Buddha’s knowledge of"
     ],
@@ -11236,6 +11231,11 @@ export const locatorBookObject ={
       "MN71",
       "Vacchagotta, wanderer",
       "asking about omniscience"
+    ],
+    [
+      "MN71",
+      "laypeople",
+      "rebirth in heaven"
     ],
     [
       "MN71",
@@ -11314,6 +11314,11 @@ export const locatorBookObject ={
     ],
     [
       "MN72",
+      "infinite (ananta)",
+      "world as"
+    ],
+    [
+      "MN72",
       "nibbāna",
       "like flame going out"
     ],
@@ -11359,18 +11364,13 @@ export const locatorBookObject ={
     ],
     [
       "MN72",
-      "Vacchagotta, wanderer",
-      "asking about views and rebirth"
-    ],
-    [
-      "MN72",
-      "infinite (ananta)",
-      "world as"
-    ],
-    [
-      "MN72",
       "Tathāgatas",
       "existing after death"
+    ],
+    [
+      "MN72",
+      "Vacchagotta, wanderer",
+      "asking about views and rebirth"
     ],
     [
       "MN72",
@@ -11404,8 +11404,13 @@ export const locatorBookObject ={
     ],
     [
       "MN73",
-      "craving (taṇha)",
-      "like palm tree cut off"
+      "doubt (vicikicchā)",
+      "gone beyond (tiṇṇavicikiccha)"
+    ],
+    [
+      "MN73",
+      "Ganges river",
+      "sloping towards ocean, simile for disciples moving towards enlightenment"
     ],
     [
       "MN73",
@@ -11416,6 +11421,11 @@ export const locatorBookObject ={
       "MN73",
       "covetousness, giving up",
       "skillful"
+    ],
+    [
+      "MN73",
+      "craving (taṇha)",
+      "like palm tree cut off"
     ],
     [
       "MN73",
@@ -11446,16 +11456,6 @@ export const locatorBookObject ={
       "MN73",
       "divisive speech",
       "unskillful"
-    ],
-    [
-      "MN73",
-      "doubt (vicikicchā)",
-      "gone beyond (tiṇṇavicikiccha)"
-    ],
-    [
-      "MN73",
-      "Ganges river",
-      "sloping towards ocean, simile for disciples moving towards enlightenment"
     ],
     [
       "MN73",
@@ -11924,6 +11924,11 @@ export const locatorBookObject ={
     ],
     [
       "MN75",
+      "practicing",
+      "in line with Dhamma"
+    ],
+    [
+      "MN75",
       "probation (parivāsa)",
       "for followers of other sects"
     ],
@@ -12195,6 +12200,16 @@ export const locatorBookObject ={
     [
       "MN77",
       "Buddha, the",
+      "compared to disciples"
+    ],
+    [
+      "MN77",
+      "Buddha, the",
+      "teaches with direct knowledge, reason, demonstrable base"
+    ],
+    [
+      "MN77",
+      "Buddha, the",
       "visiting wanderers of other sects"
     ],
     [
@@ -12250,16 +12265,6 @@ export const locatorBookObject ={
     [
       "MN77",
       "Buddha, the",
-      "compared to disciples"
-    ],
-    [
-      "MN77",
-      "Buddha, the",
-      "teaches with direct knowledge, reason, demonstrable base"
-    ],
-    [
-      "MN77",
-      "Buddha, the",
       "why disciples respect"
     ],
     [
@@ -12271,11 +12276,6 @@ export const locatorBookObject ={
       "MN77",
       "carvers",
       "ivory, simile for psychic powers"
-    ],
-    [
-      "MN77",
-      "clay",
-      "simile for psychic powers"
     ],
     [
       "MN77",
@@ -12296,6 +12296,11 @@ export const locatorBookObject ={
       "MN77",
       "Dhamma teaching",
       "how Buddha teaches"
+    ],
+    [
+      "MN77",
+      "clay",
+      "simile for psychic powers"
     ],
     [
       "MN77",
@@ -13064,6 +13069,11 @@ export const locatorBookObject ={
     ],
     [
       "MN80",
+      "enlightenment",
+      "like baby released from swaddling"
+    ],
+    [
+      "MN80",
       "false spiritual claims",
       "of enlightenment"
     ],
@@ -13094,6 +13104,11 @@ export const locatorBookObject ={
     ],
     [
       "MN80",
+      "oil lamps",
+      "outshining a glowworm"
+    ],
+    [
+      "MN80",
       "sense pleasures (kāma, kāmaguṇa)",
       "best kind of"
     ],
@@ -13116,16 +13131,6 @@ export const locatorBookObject ={
       "MN80",
       "Vekhanasa, wanderer",
       "sense pleasures best"
-    ],
-    [
-      "MN80",
-      "enlightenment",
-      "like baby released from swaddling"
-    ],
-    [
-      "MN80",
-      "oil lamps",
-      "outshining a glowworm"
     ],
     [
       "MN81",
@@ -13444,6 +13449,11 @@ export const locatorBookObject ={
     ],
     [
       "MN83",
+      "Sakka, Lord of Gods",
+      "fetching King Nimi to meet gods of thirty three"
+    ],
+    [
+      "MN83",
       "going forth (pabbajja)",
       "non-Buddhist"
     ],
@@ -13451,26 +13461,6 @@ export const locatorBookObject ={
       "MN83",
       "hair",
       "grey"
-    ],
-    [
-      "MN83",
-      "Makhādeva, king",
-      "bodhisatta"
-    ],
-    [
-      "MN83",
-      "nibbāna",
-      "practice leading to"
-    ],
-    [
-      "MN83",
-      "noble eightfold path (ariya aṭṭhangika magga)",
-      "established by the Buddha"
-    ],
-    [
-      "MN83",
-      "Sakka, Lord of Gods",
-      "fetching King Nimi to meet gods of thirty three"
     ],
     [
       "MN83",
@@ -13484,8 +13474,23 @@ export const locatorBookObject ={
     ],
     [
       "MN83",
+      "Makhādeva, king",
+      "bodhisatta"
+    ],
+    [
+      "MN83",
       "Mātali, charioteer",
       "fetching King Nimi to meet gods of thirty three"
+    ],
+    [
+      "MN83",
+      "nibbāna",
+      "practice leading to"
+    ],
+    [
+      "MN83",
+      "noble eightfold path (ariya aṭṭhangika magga)",
+      "established by the Buddha"
     ],
     [
       "MN83",
@@ -13879,11 +13884,6 @@ export const locatorBookObject ={
     ],
     [
       "MN89",
-      "Pasenadi Kosala, King",
-      "devotion to the Buddha"
-    ],
-    [
-      "MN89",
       "debates",
       "seeking with the Buddha"
     ],
@@ -13894,6 +13894,16 @@ export const locatorBookObject ={
     ],
     [
       "MN89",
+      "harmony in Saṅgha (saṅghasāmaggī)",
+      "as cause of confidence"
+    ],
+    [
+      "MN89",
+      "Pasenadi Kosala, King",
+      "devotion to the Buddha"
+    ],
+    [
+      "MN89",
       "disputes",
       "within groups"
     ],
@@ -13901,11 +13911,6 @@ export const locatorBookObject ={
       "MN89",
       "feet kissing",
       "King Pasenadi kisses Buddha’s feet"
-    ],
-    [
-      "MN89",
-      "harmony in Saṅgha (saṅghasāmaggī)",
-      "as cause of confidence"
     ],
     [
       "MN89",
@@ -13979,13 +13984,18 @@ export const locatorBookObject ={
     ],
     [
       "MN90",
-      "fires",
-      "of different kinds of wood, simile for castes"
+      "gods of the Thirty-Three (tāvatiṁsā devā)",
+      "simile for gods having power over other gods"
     ],
     [
       "MN90",
-      "gods of the Thirty-Three (tāvatiṁsā devā)",
+      "Pasenadi Kosala, King",
       "simile for gods having power over other gods"
+    ],
+    [
+      "MN90",
+      "fires",
+      "of different kinds of wood, simile for castes"
     ],
     [
       "MN90",
@@ -14021,11 +14031,6 @@ export const locatorBookObject ={
       "MN90",
       "omniscience",
       "Buddha’s statement on"
-    ],
-    [
-      "MN90",
-      "Pasenadi Kosala, King",
-      "simile for gods having power over other gods"
     ],
     [
       "MN90",
@@ -14249,6 +14254,11 @@ export const locatorBookObject ={
     ],
     [
       "MN92",
+      "lions roar",
+      "Buddha roars like"
+    ],
+    [
+      "MN92",
       "Saṅgha",
       "best recipient"
     ],
@@ -14256,11 +14266,6 @@ export const locatorBookObject ={
       "MN92",
       "Sela, brahmin",
       "going forth; praising Buddha"
-    ],
-    [
-      "MN92",
-      "lions roar",
-      "Buddha roars like"
     ],
     [
       "MN92",
@@ -14291,6 +14296,11 @@ export const locatorBookObject ={
       "MN93",
       "Assalāyana, brahmin",
       "arguing in favor of caste"
+    ],
+    [
+      "MN93",
+      "Devala the Dark",
+      "refuting caste"
     ],
     [
       "MN93",
@@ -14326,11 +14336,6 @@ export const locatorBookObject ={
       "MN93",
       "caste (vaṇṇa)",
       "refuting"
-    ],
-    [
-      "MN93",
-      "Devala the Dark",
-      "refuting caste"
     ],
     [
       "MN93",
@@ -14404,16 +14409,6 @@ export const locatorBookObject ={
     ],
     [
       "MN94",
-      "Ghoṭamukha, brahmin",
-      "principled renunciate life"
-    ],
-    [
-      "MN94",
-      "Udena, Ven.",
-      "principled renunciate life"
-    ],
-    [
-      "MN94",
       "bathing",
       "ascetic practices and"
     ],
@@ -14436,6 +14431,16 @@ export const locatorBookObject ={
       "MN94",
       "food",
       "ascetic practices and"
+    ],
+    [
+      "MN94",
+      "Ghoṭamukha, brahmin",
+      "principled renunciate life"
+    ],
+    [
+      "MN94",
+      "Udena, Ven.",
+      "principled renunciate life"
     ],
     [
       "MN94",
@@ -14950,6 +14955,11 @@ export const locatorBookObject ={
     [
       "MN98",
       "actions (kamma)",
+      "makes one a brahmin"
+    ],
+    [
+      "MN98",
+      "actions (kamma)",
       "not birth defines a person"
     ],
     [
@@ -14966,11 +14976,6 @@ export const locatorBookObject ={
       "MN98",
       "Clear-eyed One (cakkhumant)",
       "the Buddha"
-    ],
-    [
-      "MN98",
-      "actions (kamma)",
-      "makes one a brahmin"
     ],
     [
       "MN98",
@@ -16039,6 +16044,11 @@ export const locatorBookObject ={
     ],
     [
       "MN105",
+      "beverages",
+      "poisoned, avoiding, like restraint towards sense fields"
+    ],
+    [
+      "MN105",
       "darts (salla)",
       "craving"
     ],
@@ -16124,8 +16134,8 @@ export const locatorBookObject ={
     ],
     [
       "MN105",
-      "poisons",
-      "ignorance"
+      "probing",
+      "simile for mindfulness"
     ],
     [
       "MN105",
@@ -16144,18 +16154,13 @@ export const locatorBookObject ={
     ],
     [
       "MN105",
-      "beverages",
-      "poisoned, avoiding, like restraint towards sense fields"
-    ],
-    [
-      "MN105",
       "palm trees",
       "cannot regrow like someone given up interest in lesser topics"
     ],
     [
       "MN105",
-      "probing",
-      "simile for mindfulness"
+      "poisons",
+      "ignorance"
     ],
     [
       "MN105",
@@ -17124,11 +17129,6 @@ export const locatorBookObject ={
     ],
     [
       "MN113",
-      "ascetic practices (dhutaṅga)",
-      "not a reason to become arrogant"
-    ],
-    [
-      "MN113",
       "Dhamma teachers",
       "not a reason to become arrogant"
     ],
@@ -17136,6 +17136,11 @@ export const locatorBookObject ={
       "MN113",
       "arrogance",
       "because of high family, fame, etc."
+    ],
+    [
+      "MN113",
+      "ascetic practices (dhutaṅga)",
+      "not a reason to become arrogant"
     ],
     [
       "MN113",
@@ -17524,6 +17529,16 @@ export const locatorBookObject ={
     ],
     [
       "MN115",
+      "bad actions",
+      "impossible for good results to come from"
+    ],
+    [
+      "MN115",
+      "bad actions",
+      "impossible to lead to good destination"
+    ],
+    [
+      "MN115",
       "Brahmā",
       "impossible for woman to be"
     ],
@@ -17541,11 +17556,6 @@ export const locatorBookObject ={
       "MN115",
       "Buddhas",
       "impossible for woman to be"
-    ],
-    [
-      "MN115",
-      "bad actions",
-      "impossible for good results to come from"
     ],
     [
       "MN115",
@@ -17629,6 +17639,16 @@ export const locatorBookObject ={
     ],
     [
       "MN115",
+      "good actions",
+      "impossible for bad results to come from"
+    ],
+    [
+      "MN115",
+      "good actions",
+      "impossible to lead to bad destination"
+    ],
+    [
+      "MN115",
       "houses",
       "simile for danger of fools spreading like fire"
     ],
@@ -17671,21 +17691,6 @@ export const locatorBookObject ={
       "MN115",
       "Sakka, Lord of Gods",
       "impossible for woman to be"
-    ],
-    [
-      "MN115",
-      "bad actions",
-      "impossible to lead to good destination"
-    ],
-    [
-      "MN115",
-      "good actions",
-      "impossible for bad results to come from"
-    ],
-    [
-      "MN115",
-      "good actions",
-      "impossible to lead to bad destination"
     ],
     [
       "MN115",
@@ -17969,6 +17974,16 @@ export const locatorBookObject ={
     ],
     [
       "MN118",
+      "fading away (virāga)",
+      "mindfulness of breathing"
+    ],
+    [
+      "MN118",
+      "foundations of mindfulness, four (satipaṭṭhāna)",
+      "fulfilled by mindfulness of breathing"
+    ],
+    [
+      "MN118",
       "foundations of mindfulness, four (satipaṭṭhāna)",
       "fulfils the seven awakening factors"
     ],
@@ -17986,16 +18001,6 @@ export const locatorBookObject ={
       "MN118",
       "faculties, spiritual (indriya)",
       "monks committed to developing"
-    ],
-    [
-      "MN118",
-      "fading away (virāga)",
-      "mindfulness of breathing"
-    ],
-    [
-      "MN118",
-      "foundations of mindfulness, four (satipaṭṭhāna)",
-      "fulfilled by mindfulness of breathing"
     ],
     [
       "MN118",
@@ -18834,11 +18839,6 @@ export const locatorBookObject ={
     ],
     [
       "MN124",
-      "Kassapa, naked ascetic",
-      "friend of Ven. Bakkula"
-    ],
-    [
-      "MN124",
       "going forth (pabbajja)",
       "Ven. Bakkula never giving"
     ],
@@ -18851,6 +18851,11 @@ export const locatorBookObject ={
       "MN124",
       "incredible and amazing (acchariyā abbhutā)",
       "qualities of Ven. Bakkula"
+    ],
+    [
+      "MN124",
+      "Kassapa, naked ascetic",
+      "friend of Ven. Bakkula"
     ],
     [
       "MN124",
@@ -18889,21 +18894,6 @@ export const locatorBookObject ={
     ],
     [
       "MN125",
-      "Jayasena, prince",
-      "asking about training"
-    ],
-    [
-      "MN125",
-      "elephants",
-      "simile for gradual training"
-    ],
-    [
-      "MN125",
-      "elephants",
-      "trained and untrained, simile of"
-    ],
-    [
-      "MN125",
       "enduring (khama)",
       "criticism"
     ],
@@ -18926,6 +18916,21 @@ export const locatorBookObject ={
       "MN125",
       "foundations of mindfulness, four (satipaṭṭhāna)",
       "part of gradual training"
+    ],
+    [
+      "MN125",
+      "Jayasena, prince",
+      "asking about training"
+    ],
+    [
+      "MN125",
+      "elephants",
+      "simile for gradual training"
+    ],
+    [
+      "MN125",
+      "elephants",
+      "trained and untrained, simile of"
     ],
     [
       "MN125",
@@ -19139,8 +19144,23 @@ export const locatorBookObject ={
     ],
     [
       "MN128",
+      "attention (manasikāra)",
+      "loss of ending concentration"
+    ],
+    [
+      "MN128",
+      "Bhagu, Ven.",
+      "living alone"
+    ],
+    [
+      "MN128",
       "Bodhisatta",
       "meditation experience"
+    ],
+    [
+      "MN128",
+      "concentration (samādhi)",
+      "problems maintaining"
     ],
     [
       "MN128",
@@ -19149,18 +19169,18 @@ export const locatorBookObject ={
     ],
     [
       "MN128",
-      "alms gathering practice",
-      "logistics"
+      "discomfort (duṭṭhulla)",
+      "ending concentration"
     ],
     [
       "MN128",
-      "attention (manasikāra)",
-      "loss of ending concentration"
+      "diversified perception (nānattasaññī)",
+      "ending concentration"
     ],
     [
       "MN128",
-      "Bhagu, Ven.",
-      "living alone"
+      "heedfulness (appamāda)",
+      "example of"
     ],
     [
       "MN128",
@@ -19179,13 +19199,13 @@ export const locatorBookObject ={
     ],
     [
       "MN128",
-      "companionship",
-      "good"
+      "alms gathering practice",
+      "logistics"
     ],
     [
       "MN128",
-      "concentration (samādhi)",
-      "problems maintaining"
+      "companionship",
+      "good"
     ],
     [
       "MN128",
@@ -19194,18 +19214,8 @@ export const locatorBookObject ={
     ],
     [
       "MN128",
-      "discomfort (duṭṭhulla)",
-      "ending concentration"
-    ],
-    [
-      "MN128",
       "disputes",
       "at Kosambi"
-    ],
-    [
-      "MN128",
-      "diversified perception (nānattasaññī)",
-      "ending concentration"
     ],
     [
       "MN128",
@@ -19245,11 +19255,6 @@ export const locatorBookObject ={
     [
       "MN128",
       "harmony (samagga)",
-      "example of"
-    ],
-    [
-      "MN128",
-      "heedfulness (appamāda)",
       "example of"
     ],
     [
@@ -19614,6 +19619,11 @@ export const locatorBookObject ={
     ],
     [
       "MN130",
+      "hell (niraya)",
+      "description of"
+    ],
+    [
+      "MN130",
       "knowledge of passing away and rebirth of beings (cutūpapātañāna)",
       "in hell"
     ],
@@ -19636,11 +19646,6 @@ export const locatorBookObject ={
       "MN130",
       "Yama, King",
       "questioning beings reborn in hell"
-    ],
-    [
-      "MN130",
-      "hell (niraya)",
-      "description of"
     ],
     [
       "MN130",
@@ -19759,8 +19764,8 @@ export const locatorBookObject ={
     ],
     [
       "MN133",
-      "delight (nandi)",
-      "in sense bases"
+      "heartwood",
+      "simile of asking question from monk when should have asked the Buddha"
     ],
     [
       "MN133",
@@ -19774,8 +19779,8 @@ export const locatorBookObject ={
     ],
     [
       "MN133",
-      "heartwood",
-      "simile of asking question from monk when should have asked the Buddha"
+      "delight (nandi)",
+      "in sense bases"
     ],
     [
       "MN133",
@@ -20155,7 +20160,7 @@ export const locatorBookObject ={
     [
       "MN136",
       "actions (kamma)",
-      "feelings resulting from"
+      "effective and ineffective, seeming to be"
     ],
     [
       "MN136",
@@ -20179,16 +20184,6 @@ export const locatorBookObject ={
     ],
     [
       "MN136",
-      "feelings (vedanā)",
-      "caused by actions"
-    ],
-    [
-      "MN136",
-      "knowledge of passing away and rebirth of beings (cutūpapātañāna)",
-      "wrong conclusions because of"
-    ],
-    [
-      "MN136",
       "Potaliputta, wanderer",
       "asking about actions"
     ],
@@ -20200,7 +20195,7 @@ export const locatorBookObject ={
     [
       "MN136",
       "actions (kamma)",
-      "effective and ineffective, seeming to be"
+      "feelings resulting from"
     ],
     [
       "MN136",
@@ -20214,6 +20209,11 @@ export const locatorBookObject ={
     ],
     [
       "MN136",
+      "feelings (vedanā)",
+      "caused by actions"
+    ],
+    [
+      "MN136",
       "good actions",
       "results coming at different times"
     ],
@@ -20221,6 +20221,11 @@ export const locatorBookObject ={
       "MN136",
       "good people (sappurisa)",
       "experiencing bad results"
+    ],
+    [
+      "MN136",
+      "knowledge of passing away and rebirth of beings (cutūpapātañāna)",
+      "wrong conclusions because of"
     ],
     [
       "MN136",
@@ -20419,6 +20424,11 @@ export const locatorBookObject ={
     ],
     [
       "MN138",
+      "anxiety (paritassanā)",
+      "because of grasping at aggregates as self"
+    ],
+    [
+      "MN138",
       "Buddha, the",
       "praise of"
     ],
@@ -20436,11 +20446,6 @@ export const locatorBookObject ={
       "MN138",
       "aggregates (khandha)",
       "regarding as self"
-    ],
-    [
-      "MN138",
-      "anxiety (paritassanā)",
-      "because of grasping at aggregates as self"
     ],
     [
       "MN138",
@@ -21519,21 +21524,6 @@ export const locatorBookObject ={
     ],
     [
       "MN143",
-      "aggregates (khandha)",
-      "not grasping"
-    ],
-    [
-      "MN143",
-      "Anāthapiṇḍika, householder",
-      "reborn in Tusita heaven"
-    ],
-    [
-      "MN143",
-      "Anāthapiṇḍika, householder",
-      "requesting deep teachings for householders"
-    ],
-    [
-      "MN143",
       "Anāthapiṇḍika, householder",
       "sick"
     ],
@@ -21546,6 +21536,21 @@ export const locatorBookObject ={
       "MN143",
       "Dhamma teaching",
       "to householders"
+    ],
+    [
+      "MN143",
+      "aggregates (khandha)",
+      "not grasping"
+    ],
+    [
+      "MN143",
+      "Anāthapiṇḍika, householder",
+      "reborn in Tusita heaven"
+    ],
+    [
+      "MN143",
+      "Anāthapiṇḍika, householder",
+      "requesting deep teachings for householders"
     ],
     [
       "MN143",
@@ -21755,6 +21760,11 @@ export const locatorBookObject ={
     [
       "MN146",
       "bhikkhunīs",
+      "Dhamma talk given to"
+    ],
+    [
+      "MN146",
+      "bhikkhunīs",
       "instructing"
     ],
     [
@@ -21949,6 +21959,11 @@ export const locatorBookObject ={
     ],
     [
       "MN148",
+      "Dhamma",
+      "good in beginning, middle, end"
+    ],
+    [
+      "MN148",
       "contact (phassa)",
       "meeting of consciousness and internal and external base"
     ],
@@ -21971,11 +21986,6 @@ export const locatorBookObject ={
       "MN148",
       "craving (taṇha)",
       "six classes of"
-    ],
-    [
-      "MN148",
-      "Dhamma",
-      "good in beginning, middle, end"
     ],
     [
       "MN148",
@@ -26131,6 +26141,11 @@ export const locatorBookObject ={
     ],
     [
       "SN22.87",
+      "declaring enlightenment",
+      "aggregates impermanent"
+    ],
+    [
+      "SN22.87",
       "decline (parihāna)",
       "fear of"
     ],
@@ -26141,6 +26156,16 @@ export const locatorBookObject ={
     ],
     [
       "SN22.87",
+      "Vakkali, Ven.",
+      "sick, wanting to see the Buddha"
+    ],
+    [
+      "SN22.87",
+      "devas",
+      "conveying message from the Buddha"
+    ],
+    [
+      "SN22.87",
       "Māra",
       "cannot find arahant’s consciousness"
     ],
@@ -26148,21 +26173,6 @@ export const locatorBookObject ={
       "SN22.87",
       "smoke",
       "Māra as cloud of smoke"
-    ],
-    [
-      "SN22.87",
-      "Vakkali, Ven.",
-      "sick, wanting to see the Buddha"
-    ],
-    [
-      "SN22.87",
-      "declaring enlightenment",
-      "aggregates impermanent"
-    ],
-    [
-      "SN22.87",
-      "devas",
-      "conveying message from the Buddha"
     ],
     [
       "SN22.87",
@@ -26216,11 +26226,6 @@ export const locatorBookObject ={
     ],
     [
       "SN22.89",
-      "arahants",
-      "regarding aggregates as not-self does not make one a"
-    ],
-    [
-      "SN22.89",
       "cloth",
       "simile for conceit “I am”; scent of cleaners remaining"
     ],
@@ -26243,6 +26248,11 @@ export const locatorBookObject ={
       "SN22.89",
       "Khemaka, Ven.",
       "enlightened while teaching"
+    ],
+    [
+      "SN22.89",
+      "arahants",
+      "regarding aggregates as not-self does not make one a"
     ],
     [
       "SN22.89",
@@ -28136,11 +28146,6 @@ export const locatorBookObject ={
     ],
     [
       "SN35.127",
-      "perception of ugliness",
-      "celibacy"
-    ],
-    [
-      "SN35.127",
       "Piṇḍola Bhāradvāja, Ven.",
       "asked about celibacy"
     ],
@@ -28163,6 +28168,11 @@ export const locatorBookObject ={
       "SN35.127",
       "mothers",
       "thinking of all women as"
+    ],
+    [
+      "SN35.127",
+      "perception of ugliness",
+      "celibacy"
     ],
     [
       "SN35.127",
@@ -28216,11 +28226,6 @@ export const locatorBookObject ={
     ],
     [
       "SN35.132",
-      "Brahmā",
-      "path to attain"
-    ],
-    [
-      "SN35.132",
       "Lohicca, Brahmin",
       "asking about guarding senses"
     ],
@@ -28228,6 +28233,11 @@ export const locatorBookObject ={
       "SN35.132",
       "ascetic practices",
       "to generate profits"
+    ],
+    [
+      "SN35.132",
+      "Brahmā",
+      "path to attain"
     ],
     [
       "SN35.132",
@@ -29006,13 +29016,8 @@ export const locatorBookObject ={
     ],
     [
       "SN35.241",
-      "Nanda, Ven., cowherd",
-      "ordaining after Dhamma talk"
-    ],
-    [
-      "SN35.241",
-      "cowherd",
-      "ordaining after Dhamma talk"
+      "delight (nandi)",
+      "like sinking in river"
     ],
     [
       "SN35.241",
@@ -29031,23 +29036,28 @@ export const locatorBookObject ={
     ],
     [
       "SN35.241",
-      "delight (nandi)",
-      "like sinking in river"
-    ],
-    [
-      "SN35.241",
       "external sense bases",
       "like far shore"
     ],
     [
       "SN35.241",
-      "false spiritual claims",
-      "like log rotting away"
+      "greed (rāga)",
+      "like sinking in river"
     ],
     [
       "SN35.241",
-      "greed (rāga)",
-      "like sinking in river"
+      "Nanda, Ven., cowherd",
+      "ordaining after Dhamma talk"
+    ],
+    [
+      "SN35.241",
+      "cowherd",
+      "ordaining after Dhamma talk"
+    ],
+    [
+      "SN35.241",
+      "false spiritual claims",
+      "like log rotting away"
     ],
     [
       "SN35.241",
@@ -29101,11 +29111,6 @@ export const locatorBookObject ={
     ],
     [
       "SN35.244",
-      "Ganges river",
-      "making Ganges slope west, simile for impossible to disrobe"
-    ],
-    [
-      "SN35.244",
       "aggregates (khandha)",
       "understanding origin and ending"
     ],
@@ -29113,6 +29118,11 @@ export const locatorBookObject ={
       "SN35.244",
       "covetousness (abhijjhā)",
       "living so doesn’t overwhelm"
+    ],
+    [
+      "SN35.244",
+      "Ganges river",
+      "making Ganges slope west, simile for impossible to disrobe"
     ],
     [
       "SN35.244",
@@ -29341,6 +29351,11 @@ export const locatorBookObject ={
     ],
     [
       "SN35.248",
+      "asuras",
+      "war with devas"
+    ],
+    [
+      "SN35.248",
       "conceit (māna)",
       "forms of"
     ],
@@ -29361,6 +29376,11 @@ export const locatorBookObject ={
     ],
     [
       "SN35.248",
+      "pleasant and unpleasant sense objects",
+      "struck by"
+    ],
+    [
+      "SN35.248",
       "proliferation (papañca)",
       "forms of"
     ],
@@ -29376,11 +29396,6 @@ export const locatorBookObject ={
     ],
     [
       "SN35.248",
-      "asuras",
-      "war with devas"
-    ],
-    [
-      "SN35.248",
       "darts (salla)",
       "conceiving"
     ],
@@ -29388,11 +29403,6 @@ export const locatorBookObject ={
       "SN35.248",
       "devas",
       "war with asuras"
-    ],
-    [
-      "SN35.248",
-      "pleasant and unpleasant sense objects",
-      "struck by"
     ],
     [
       "SN35.248",
@@ -32731,23 +32741,23 @@ export const locatorBookObject ={
     ],
     [
       "SN47.13",
-      "best",
-      "of best"
-    ],
-    [
-      "SN47.13",
       "Cunda, Ven.",
       "reporting Ven. Sāriputta’s death"
     ],
     [
       "SN47.13",
-      "death (maraṇa)",
-      "reaction to hearing about"
+      "Dhamma",
+      "as island"
     ],
     [
       "SN47.13",
-      "Dhamma",
-      "as island"
+      "best",
+      "of best"
+    ],
+    [
+      "SN47.13",
+      "death (maraṇa)",
+      "reaction to hearing about"
     ],
     [
       "SN47.13",
@@ -35285,9 +35295,119 @@ export const locatorBookObject ={
       "reborn in Tāvatiṁsa heaven, etc."
     ],
     [
+      "SN55.3",
+      "Dīghāvu, layperson",
+      "illness"
+    ],
+    [
+      "SN55.3",
+      "factors of stream-entry (sotāpattiyaṅga)",
+      "practices for one who has"
+    ],
+    [
+      "SN55.3",
+      "grieving",
+      "concern that family will grieve after death"
+    ],
+    [
+      "SN55.3",
+      "Jotika, householder",
+      "father of Dīghāvu"
+    ],
+    [
+      "SN55.3",
+      "non-returner (anāgāmi)",
+      "examples of"
+    ],
+    [
+      "SN55.3",
+      "perception of cessation (nirodhasaññā)",
+      "practice for stream-enterer"
+    ],
+    [
+      "SN55.3",
+      "perception of fading away (virāgasaññā)",
+      "practice for stream-enterer"
+    ],
+    [
+      "SN55.3",
+      "perception of giving up (pahānasaññā)",
+      "practice for stream-enterer"
+    ],
+    [
+      "SN55.3",
+      "perception of not-self in suffering (dukkhe anattasaññā)",
+      "practice for stream-enterer"
+    ],
+    [
+      "SN55.3",
+      "perception of suffering in impermanence (anicce dukkhasaññā)",
+      "practice for stream-enterer"
+    ],
+    [
+      "SN55.3",
+      "perception of the impermanence of all conditions (sabbasaṅkhāresu anicchāsaññā)",
+      "practice for stream-enterer"
+    ],
+    [
+      "SN55.3",
+      "sick person",
+      "advice for"
+    ],
+    [
+      "SN55.3",
+      "stream-enterers (sotāpanna)",
+      "death of, example"
+    ],
+    [
+      "SN55.3",
+      "stream-enterers (sotāpanna)",
+      "practice of"
+    ],
+    [
+      "SN55.5",
+      "association (saṁseva)",
+      "with true persons, factor of stream entry"
+    ],
+    [
+      "SN55.5",
+      "factors of stream-entry (sotāpattiyaṅga)",
+      "definition: associating with true persons, etc."
+    ],
+    [
+      "SN55.5",
+      "hearing the Dhamma (dhammassavana)",
+      "factor of stream entry"
+    ],
+    [
+      "SN55.5",
+      "noble eightfold path (ariya aṭṭhangika magga)",
+      "stream, the (sota)"
+    ],
+    [
+      "SN55.5",
+      "practicing according to the Dhamma (dhammānudhammappaṭipanna)",
+      "factor of stream entry"
+    ],
+    [
+      "SN55.5",
+      "proper attention (yoniso manasikāra)",
+      "factor of stream entry"
+    ],
+    [
+      "SN55.5",
+      "stream-enterers (sotāpanna)",
+      "definition"
+    ],
+    [
+      "SN55.5",
+      "stream, the (sota)",
+      "definition"
+    ],
+    [
       "SN55.6",
-      "false speech",
-      "no one likes to be lied to"
+      "confidence (aveccappasāda)",
+      "factor of stream entry"
     ],
     [
       "SN55.6",
@@ -35295,9 +35415,314 @@ export const locatorBookObject ={
       "quality of stream-enterer"
     ],
     [
+      "SN55.6",
+      "Isidatta, householder",
+      "happy to be near the Buddha"
+    ],
+    [
+      "SN55.6",
+      "factors of stream-entry",
+      "confirmed confidence and generosity"
+    ],
+    [
+      "SN55.6",
+      "lay life",
+      "crowded and dusty"
+    ],
+    [
+      "SN55.6",
+      "lay life",
+      "living close to the Buddha"
+    ],
+    [
+      "SN55.6",
+      "laypeople",
+      "sense desire"
+    ],
+    [
+      "SN55.6",
+      "Purāṇa, householder",
+      "happy to be near the Buddha"
+    ],
+    [
       "SN55.7",
+      "bodily conduct (kāyasamācāra)",
+      "purified in three points"
+    ],
+    [
+      "SN55.7",
+      "Buddha, the",
+      "reputation"
+    ],
+    [
+      "SN55.7",
+      "Dhamma teaching",
+      "that applies to oneself"
+    ],
+    [
+      "SN55.7",
+      "encouragement",
+      "to do good: right action, right speech"
+    ],
+    [
+      "SN55.7",
+      "factors of stream-entry",
+      "lay disciples"
+    ],
+    [
+      "SN55.7",
+      "golden rule motif",
+      "wrong action and wrong speech"
+    ],
+    [
+      "SN55.7",
+      "lay life",
+      "enjoying sense pleasures"
+    ],
+    [
+      "SN55.7",
+      "lay life",
+      "wish to be reborn in heaven"
+    ],
+    [
+      "SN55.7",
+      "praise (vaṇṇa)",
+      "of good deeds"
+    ],
+    [
+      "SN55.7",
+      "reflection (paṭisañcikkhati)",
+      "how we like to be treated"
+    ],
+    [
+      "SN55.7",
+      "right action (sammā kammanta)",
+      "reflecting on how we like to be treated"
+    ],
+    [
+      "SN55.7",
+      "right speech (sammā vācā)",
+      "reflecting on how we like to be treated"
+    ],
+    [
+      "SN55.7",
+      "sense pleasures, five",
+      "enjoying and rebirth in heaven"
+    ],
+    [
+      "SN55.7",
+      "verbal conduct (vacīsamācāra)",
+      "purified in four points"
+    ],
+    [
+      "SN55.8",
+      "bhikkhunīs",
+      "Buddha declaring attainments of "
+    ],
+    [
+      "SN55.8",
+      "Buddha, the",
+      "declaring attainments of individuals "
+    ],
+    [
+      "SN55.8",
+      "Buddha, the",
+      "declaring rebirth of individuals "
+    ],
+    [
+      "SN55.8",
+      "Mirror of Dhamma",
+      "definition"
+    ],
+    [
+      "SN55.8",
+      "factors of stream-entry",
+      "Mirror of Dhamma"
+    ],
+    [
+      "SN55.8",
+      "Nandā, Ven.",
+      "Buddha declares attainment"
+    ],
+    [
+      "SN55.8",
+      "questions, asking",
+      "about disciples’ attainments"
+    ],
+    [
+      "SN55.8",
+      "Sāḷha, Ven.",
+      "Buddha declares attainment"
+    ],
+    [
+      "SN55.8",
+      "stream-enterers (sotāpanna)",
+      "declarations of, how to make "
+    ],
+    [
+      "SN55.8",
+      "Sudatta, householder",
+      "Buddha declares attainment"
+    ],
+    [
+      "SN55.8",
+      "Sujātā, householder",
+      "Buddha declares attainment"
+    ],
+    [
+      "SN55.9",
+      "Buddha, the",
+      "declaring attainments of individuals "
+    ],
+    [
+      "SN55.9",
+      "Buddha, the",
+      "declaring rebirth of individuals "
+    ],
+    [
+      "SN55.10",
+      "Buddha, the",
+      "declaring attainments of individuals "
+    ],
+    [
+      "SN55.10",
+      "Buddha, the",
+      "declaring rebirth of individuals "
+    ],
+    [
+      "SN55.11",
+      "bhikkhunīs",
+      "Dhamma talk given to"
+    ],
+    [
+      "SN55.12",
+      "brahmins",
+      "ceremonies of "
+    ],
+    [
+      "SN55.12",
+      "ceremonies",
+      "of “going upwards” (udayagāmī)"
+    ],
+    [
+      "SN55.12",
+      "factors of stream-entry",
+      "“going upwards” (udayagāmī)"
+    ],
+    [
+      "SN55.12",
+      "practices (paṭipatti)",
+      "wrong"
+    ],
+    [
+      "SN55.13",
+      "factors of stream-entry",
+      "what has been given up"
+    ],
+    [
+      "SN55.14",
+      "bad rebirth (duggati)",
+      "escaping through stream entry"
+    ],
+    [
+      "SN55.14",
+      "fear of bad rebirth (duggatibhaya)",
+      "not having "
+    ],
+    [
+      "SN55.16",
+      "factors of stream-entry",
+      "encouraging those for whom you have sympathy"
+    ],
+    [
+      "SN55.16",
+      "family",
+      "factors of stream-entry"
+    ],
+    [
+      "SN55.16",
+      "friends",
+      "factors of stream-entry"
+    ],
+    [
+      "SN55.16",
+      "proselytizing",
+      "to those for whom you have sympathy"
+    ],
+    [
+      "SN55.17",
+      "change (aññathatta)",
+      "in confirmed confidence"
+    ],
+    [
+      "SN55.17",
+      "confidence (aveccappasāda)",
+      "change"
+    ],
+    [
+      "SN55.17",
+      "elements, four great (cattāri mahābhūtāni)",
+      "may change"
+    ],
+    [
+      "SN55.17",
+      "factors of stream-entry",
+      "encouraging those for whom you have sympathy"
+    ],
+    [
+      "SN55.17",
+      "family",
+      "factors of stream-entry"
+    ],
+    [
+      "SN55.17",
+      "friends",
+      "factors of stream-entry"
+    ],
+    [
+      "SN55.17",
+      "proselytizing",
+      "to those for whom you have sympathy"
+    ],
+    [
+      "SN55.17",
+      "stream-enterers (sotāpanna)",
+      "will not be reborn in lower worlds"
+    ],
+    [
+      "SN55.18",
+      "confidence (aveccappasāda)",
+      "reason for rebirth in good destination"
+    ],
+    [
+      "SN55.18",
+      "good rebirth (sugati)",
+      "confidence and virtue cause of"
+    ],
+    [
+      "SN55.18",
+      "Moggallāna, Ven.",
+      "visiting deva world"
+    ],
+    [
+      "SN55.18",
+      "virtue (sīla)",
+      "reason for rebirth in good destination"
+    ],
+    [
+      "SN55.20",
+      "Buddha, the",
+      "visiting deva world"
+    ],
+    [
+      "SN55.21",
+      "corpse",
+      "rots away while mind rises up"
+    ],
+    [
+      "SN55.21",
       "death (maraṇa)",
-      "good"
+      "fear of"
     ],
     [
       "SN55.21",
@@ -35305,24 +35730,414 @@ export const locatorBookObject ={
       "good"
     ],
     [
+      "SN55.21",
+      "elephants",
+      "distracted by at time of death"
+    ],
+    [
+      "SN55.21",
+      "factors of stream-entry",
+      "like ghee floating to top"
+    ],
+    [
+      "SN55.21",
+      "ghee",
+      "in broken pot rising up, simile for death"
+    ],
+    [
+      "SN55.21",
+      "lay life",
+      "distractions in"
+    ],
+    [
+      "SN55.21",
+      "mind (citta)",
+      "imbued with faith, ethics, learning, generosity, wisdom "
+    ],
+    [
+      "SN55.21",
+      "mind (citta)",
+      "rises up to good place after death"
+    ],
+    [
+      "SN55.21",
+      "mindfulness (sati)",
+      "losing "
+    ],
+    [
+      "SN55.21",
+      "pots",
+      "of ghee sinking down, simile for death"
+    ],
+    [
       "SN55.22",
       "death (maraṇa)",
       "fear of"
     ],
     [
+      "SN55.22",
+      "factors of stream-entry",
+      "like tree slanting to the east"
+    ],
+    [
+      "SN55.22",
+      "lay life",
+      "distractions in"
+    ],
+    [
+      "SN55.22",
+      "trees",
+      "slanting to the east, simile for disciple with factors of stream entry"
+    ],
+    [
+      "SN55.23",
+      "Buddha, the",
+      "siding with no matter what"
+    ],
+    [
+      "SN55.23",
+      "Godhā the Sakyan",
+      "discussing factors of stream entry"
+    ],
+    [
+      "SN55.23",
+      "Mahānāma the Sakyan",
+      "discussing factors of stream entry"
+    ],
+    [
+      "SN55.24",
+      "Dhamma follower",
+      "not reborn in bad destination"
+    ],
+    [
+      "SN55.24",
+      "alcohol",
+      "one who drank becoming stream-enterer"
+    ],
+    [
+      "SN55.24",
+      "deathbed",
+      "undertaking the training upon"
+    ],
+    [
+      "SN55.24",
+      "factors of stream-entry",
+      "various different"
+    ],
+    [
+      "SN55.24",
+      "follower by faith",
+      "not reborn in bad destination"
+    ],
+    [
+      "SN55.24",
+      "freedom (vimutti)",
+      "endowed with"
+    ],
+    [
+      "SN55.24",
+      "Mahānāma the Sakyan",
+      "asking about person who drank alcohol"
+    ],
+    [
+      "SN55.24",
+      "measure of faith and love (saddhāmatta pemamatta)",
+      "faith follower"
+    ],
+    [
+      "SN55.24",
+      "non-returner (anāgāmi)",
+      "qualities of"
+    ],
+    [
+      "SN55.24",
+      "once returner (sakadāgāmī)",
+      "qualities of"
+    ],
+    [
+      "SN55.24",
+      "refuges",
+      "for a long time, not going to bad destination"
+    ],
+    [
+      "SN55.24",
+      "Sarakāni the Sakyan",
+      "drinking alcohol"
+    ],
+    [
+      "SN55.24",
+      "stream-enterers (sotāpanna)",
+      "examples of"
+    ],
+    [
+      "SN55.24",
+      "stream-enterers (sotāpanna)",
+      "qualities of"
+    ],
+    [
+      "SN55.24",
+      "trees",
+      "becoming stream-enterers"
+    ],
+    [
+      "SN55.24",
+      "wisdom, joyful (hāsapañña)",
+      "arahants"
+    ],
+    [
+      "SN55.24",
+      "wisdom, swift (javanapañña)",
+      "arahants"
+    ],
+    [
+      "SN55.25",
+      "extinguished upon landing (upahaccaparinibbāyī)",
+      "not reborn in bad destination"
+    ],
+    [
+      "SN55.25",
+      "extinguished with extra effort (sasaṅkhāraparinibbāyī)",
+      "not reborn in bad destination"
+    ],
+    [
+      "SN55.25",
+      "extinguished without extra effort (asaṅkhāraparinibbāyī)",
+      "not reborn in bad destination"
+    ],
+    [
+      "SN55.25",
+      "fields",
+      "barren and fertile, simile for well and poorly explained teaching"
+    ],
+    [
+      "SN55.25",
+      "heading upstream to the Akaniṭṭha realm (uddhaṁsotassa akaniṭṭhagāmino)",
+      "not reborn in bad destination"
+    ],
+    [
+      "SN55.25",
+      "Sāriputta, Ven.",
+      "teaching Anāthapiṇḍika "
+    ],
+    [
+      "SN55.25",
+      "well explained (svākkhāta)",
+      "Dhamma that is produces results"
+    ],
+    [
+      "SN55.26",
+      "Anāthapiṇḍika, householder",
+      "sick"
+    ],
+    [
+      "SN55.26",
+      "confidence (aveccappasāda)",
+      "definition"
+    ],
+    [
+      "SN55.26",
+      "confidence (aveccappasāda)",
+      "overcoming illness"
+    ],
+    [
+      "SN55.26",
+      "factors of stream-entry (sotāpattiyaṅga)",
+      "ten respects"
+    ],
+    [
+      "SN55.26",
+      "noble eightfold path (ariya aṭṭhangika magga)",
+      "overcoming illness"
+    ],
+    [
+      "SN55.26",
+      "right freedom (sammā vimutti)",
+      "overcoming illness"
+    ],
+    [
+      "SN55.26",
+      "right knowledge (sammā ñāṇa)",
+      "overcoming illness"
+    ],
+    [
+      "SN55.26",
+      "sickness",
+      "cured by Dhamma talk"
+    ],
+    [
       "SN55.27",
-      "generosity (cāga)",
-      "stream of merit"
+      "Ānanda, Ven.",
+      "teaching Anāthapiṇḍika"
+    ],
+    [
+      "SN55.27",
+      "Anāthapiṇḍika, householder",
+      "sick"
+    ],
+    [
+      "SN55.27",
+      "death (maraṇa)",
+      "fear of, removed by factors of stream entry"
+    ],
+    [
+      "SN55.27",
+      "factors of stream-entry (sotāpattiyaṅga)",
+      "fear at time of death"
+    ],
+    [
+      "SN55.27",
+      "stream-enterers (sotāpanna)",
+      "declarations of"
+    ],
+    [
+      "SN55.28",
+      "Anāthapiṇḍika, householder",
+      "factors of stream-entry"
+    ],
+    [
+      "SN55.28",
+      "confidence (aveccappasāda)",
+      "factor of stream-entry"
+    ],
+    [
+      "SN55.28",
+      "dangers",
+      "from breaking precepts"
+    ],
+    [
+      "SN55.28",
+      "factors of stream-entry (sotāpattiyaṅga)",
+      "definition"
+    ],
+    [
+      "SN55.28",
+      "precepts, five",
+      "preventing dangers in present and future lives"
+    ],
+    [
+      "SN55.28",
+      "precepts, five",
+      "stream entry and"
+    ],
+    [
+      "SN55.28",
+      "stream-enterers (sotāpanna)",
+      "declarations of"
+    ],
+    [
+      "SN55.28",
+      "stream-enterers (sotāpanna)",
+      "four factors of"
+    ],
+    [
+      "SN55.28",
+      "stream-enterers (sotāpanna)",
+      "virtues loved by noble ones"
+    ],
+    [
+      "SN55.28",
+      "virtue (sīla)",
+      "loved by noble ones, as factor of stream-entry"
+    ],
+    [
+      "SN55.30",
+      "bathing",
+      "with “the inner bathing”: confidence in the Buddha"
+    ],
+    [
+      "SN55.30",
+      "beauty (vaṇṇa)",
+      "result of factors of stream-entry"
+    ],
+    [
+      "SN55.30",
+      "fame (yasas)",
+      "result of factors of stream-entry"
+    ],
+    [
+      "SN55.30",
+      "happiness (sukha)",
+      "result of factors of stream-entry"
+    ],
+    [
+      "SN55.30",
+      "long life (āyu)",
+      "result of factors of stream-entry"
+    ],
+    [
+      "SN55.30",
+      "Nandaka the Licchavi ",
+      "interior bathing"
+    ],
+    [
+      "SN55.30",
+      "sovereignty (ādhipateyya)",
+      "result of factors of stream-entry"
+    ],
+    [
+      "SN55.31",
+      "merit (puñña)",
+      "factors of stream-entry"
+    ],
+    [
+      "SN55.31",
+      "merit (puñña)",
+      "overflowing"
     ],
     [
       "SN55.32",
-      "generosity (cāga)",
-      "as an accomplishment"
+      "factors of stream-entry",
+      "confirmed confidence and generosity"
     ],
     [
-      "SN55.37",
-      "generosity (cāga)",
-      "as an accomplishment"
+      "SN55.32",
+      "merit (puñña)",
+      "factors of stream-entry"
+    ],
+    [
+      "SN55.33",
+      "factors of stream-entry",
+      "confirmed confidence and wisdom"
+    ],
+    [
+      "SN55.33",
+      "merit (puñña)",
+      "factors of stream-entry"
+    ],
+    [
+      "SN55.34",
+      "footprints of the gods (devapada)",
+      "factors of stream-entry"
+    ],
+    [
+      "SN55.34",
+      "purification (visuddhi)",
+      "of beings: factors of stream-entry"
+    ],
+    [
+      "SN55.35",
+      "footprints of the gods (devapada)",
+      "factors of stream-entry"
+    ],
+    [
+      "SN55.35",
+      "purification (visuddhi)",
+      "of beings: factors of stream-entry"
+    ],
+    [
+      "SN55.36",
+      "devas",
+      "comparing themselves with humans who have factors of stream-entry"
+    ],
+    [
+      "SN55.36",
+      "factors of stream-entry",
+      "and devas"
+    ],
+    [
+      "SN55.36",
+      "results of actions",
+      "gods with factors of stream-entry"
     ],
     [
       "SN56.9",
@@ -38308,6 +39123,11 @@ export const locatorBookObject ={
     ],
     [
       "AN3.36",
+      "Yama, King",
+      "questioning beings reborn in hell"
+    ],
+    [
+      "AN3.36",
       "corpse",
       "as divine messenger"
     ],
@@ -38315,11 +39135,6 @@ export const locatorBookObject ={
       "AN3.36",
       "divine messengers (devadūta)",
       "description of"
-    ],
-    [
-      "AN3.36",
-      "Yama, King",
-      "questioning beings reborn in hell"
     ],
     [
       "AN3.36",
@@ -48403,11 +49218,6 @@ export const locatorBookObject ={
     ],
     [
       "AN6.34",
-      "stream-enterers (sotāpanna)",
-      "gods that have become"
-    ],
-    [
-      "AN6.34",
       "Tissa, Brahma",
       "former monk"
     ],
@@ -48425,6 +49235,11 @@ export const locatorBookObject ={
       "AN6.34",
       "Moggallāna, Ven.",
       "visiting brahmā world"
+    ],
+    [
+      "AN6.34",
+      "stream-enterers (sotāpanna)",
+      "gods that have become"
     ],
     [
       "AN6.36",
@@ -50603,6 +51418,16 @@ export const locatorBookObject ={
     ],
     [
       "AN7.21",
+      "growth",
+      "principles that lead to"
+    ],
+    [
+      "AN7.21",
+      "society",
+      "principles that lead to growth"
+    ],
+    [
+      "AN7.21",
       "tradition (vaṁsa)",
       "leads to growth"
     ],
@@ -50615,11 +51440,6 @@ export const locatorBookObject ={
       "AN7.21",
       "arahants",
       "protecting leads to growth"
-    ],
-    [
-      "AN7.21",
-      "growth",
-      "principles that lead to"
     ],
     [
       "AN7.21",
@@ -50640,11 +51460,6 @@ export const locatorBookObject ={
       "AN7.21",
       "shrines (cetiya)",
       "venerating"
-    ],
-    [
-      "AN7.21",
-      "society",
-      "principles that lead to growth"
     ],
     [
       "AN7.22",
@@ -53073,11 +53888,6 @@ export const locatorBookObject ={
     ],
     [
       "AN8.12",
-      "almsfood",
-      "meat"
-    ],
-    [
-      "AN8.12",
       "comfort (assāsa)",
       "Buddha offering highest"
     ],
@@ -53085,6 +53895,11 @@ export const locatorBookObject ={
       "AN8.12",
       "Dhamma teaching",
       "not secretly, hoping to profit."
+    ],
+    [
+      "AN8.12",
+      "almsfood",
+      "meat"
     ],
     [
       "AN8.12",
@@ -53803,6 +54618,11 @@ export const locatorBookObject ={
     ],
     [
       "AN8.30",
+      "Buddha, the",
+      "visiting monks"
+    ],
+    [
+      "AN8.30",
       "almsfood",
       "contentment with"
     ],
@@ -53810,11 +54630,6 @@ export const locatorBookObject ={
       "AN8.30",
       "Anuruddha, Ven.",
       "thoughts of a great man (mahāpurisavitakka)"
-    ],
-    [
-      "AN8.30",
-      "Buddha, the",
-      "visiting monks"
     ],
     [
       "AN8.30",
@@ -56273,6 +57088,11 @@ export const locatorBookObject ={
     ],
     [
       "AN9.4",
+      "animals",
+      "four footed, simile for incomplete spiritual development"
+    ],
+    [
+      "AN9.4",
       "esteem (sambhāveti)",
       "from teaching"
     ],
@@ -56295,11 +57115,6 @@ export const locatorBookObject ={
       "AN9.4",
       "Nandaka, Ven.",
       "giving a talk while Buddha waited outside"
-    ],
-    [
-      "AN9.4",
-      "animals",
-      "four footed, simile for incomplete spiritual development"
     ],
     [
       "AN9.4",
@@ -58478,11 +59293,6 @@ export const locatorBookObject ={
     ],
     [
       "AN9.41",
-      "formless attainments",
-      "without attaining, Buddha does not declare enlightenment"
-    ],
-    [
-      "AN9.41",
       "jhānas",
       "as peaceful"
     ],
@@ -58500,6 +59310,11 @@ export const locatorBookObject ={
       "AN9.41",
       "formless attainments",
       "factors blocking"
+    ],
+    [
+      "AN9.41",
+      "formless attainments",
+      "without attaining, Buddha does not declare enlightenment"
     ],
     [
       "AN9.41",
@@ -60213,18 +61028,8 @@ export const locatorBookObject ={
     ],
     [
       "AN10.29",
-      "becoming (bhava)",
-      "disgust with"
-    ],
-    [
-      "AN10.29",
       "cloth",
       "from Bārāṇasī, simile for visions in meditation"
-    ],
-    [
-      "AN10.29",
-      "dimension of neither perception nor non-perception (nevasaññanāsaññāyatana)",
-      "supreme purification"
     ],
     [
       "AN10.29",
@@ -60238,6 +61043,26 @@ export const locatorBookObject ={
     ],
     [
       "AN10.29",
+      "Pasenadi Kosala, King",
+      "impermanence of"
+    ],
+    [
+      "AN10.29",
+      "becoming (bhava)",
+      "disgust with"
+    ],
+    [
+      "AN10.29",
+      "colors",
+      "in meditation"
+    ],
+    [
+      "AN10.29",
+      "dimension of neither perception nor non-perception (nevasaññanāsaññāyatana)",
+      "supreme purification"
+    ],
+    [
+      "AN10.29",
       "extinguishment by not grasping (anupādāparinibbāna)",
       "taught by Buddha"
     ],
@@ -60248,38 +61073,23 @@ export const locatorBookObject ={
     ],
     [
       "AN10.29",
-      "form (rūpa)",
-      "complete understanding of"
-    ],
-    [
-      "AN10.29",
-      "Gods of Streaming Radiance (ābhassarā devā)",
-      "foremost when world system is contracting"
-    ],
-    [
-      "AN10.29",
-      "painful practice (dukkhā paṭipadā)",
-      "with quick insight"
-    ],
-    [
-      "AN10.29",
-      "Pasenadi Kosala, King",
-      "impermanence of"
-    ],
-    [
-      "AN10.29",
-      "colors",
-      "in meditation"
-    ],
-    [
-      "AN10.29",
       "flowers",
       "flax etc., simile for visions in meditation"
     ],
     [
       "AN10.29",
+      "form (rūpa)",
+      "complete understanding of"
+    ],
+    [
+      "AN10.29",
       "galaxies",
       "impermanence of"
+    ],
+    [
+      "AN10.29",
+      "Gods of Streaming Radiance (ābhassarā devā)",
+      "foremost when world system is contracting"
     ],
     [
       "AN10.29",
@@ -60305,6 +61115,11 @@ export const locatorBookObject ={
       "AN10.29",
       "nibbāna in this very life (paramadiṭṭhadhammanibbāna)",
       "proclaiming"
+    ],
+    [
+      "AN10.29",
+      "painful practice (dukkhā paṭipadā)",
+      "with quick insight"
     ],
     [
       "AN10.29",
@@ -64893,13 +65708,18 @@ export const locatorBookObject ={
     ],
     [
       "AN10.176",
-      "Cunda the smith",
-      "purity"
+      "animal realm",
+      "cause for rebirth in"
     ],
     [
       "AN10.176",
-      "animal realm",
-      "cause for rebirth in"
+      "covetousness (abhijjhā)",
+      "definition"
+    ],
+    [
+      "AN10.176",
+      "Cunda the smith",
+      "purity"
     ],
     [
       "AN10.176",
@@ -64910,11 +65730,6 @@ export const locatorBookObject ={
       "AN10.176",
       "ceremonies",
       "Buddha gives his meaning of"
-    ],
-    [
-      "AN10.176",
-      "covetousness (abhijjhā)",
-      "definition"
     ],
     [
       "AN10.176",
@@ -65843,18 +66658,8 @@ export const locatorBookObject ={
     ],
     [
       "AN11.9",
-      "earth",
-      "meditating dependent on"
-    ],
-    [
-      "AN11.9",
       "fire",
       "meditating dependent on"
-    ],
-    [
-      "AN11.9",
-      "gods",
-      "worshiping meditators"
     ],
     [
       "AN11.9",
@@ -65868,13 +66673,18 @@ export const locatorBookObject ={
     ],
     [
       "AN11.9",
-      "jhānas",
-      "gods not understanding the mind of one in"
+      "Sandha, Ven.",
+      "meditation instructions"
     ],
     [
       "AN11.9",
-      "Sandha, Ven.",
-      "meditation instructions"
+      "earth",
+      "meditating dependent on"
+    ],
+    [
+      "AN11.9",
+      "gods",
+      "worshiping meditators"
     ],
     [
       "AN11.9",
@@ -65890,6 +66700,11 @@ export const locatorBookObject ={
       "AN11.9",
       "horses",
       "simile for meditation"
+    ],
+    [
+      "AN11.9",
+      "jhānas",
+      "gods not understanding the mind of one in"
     ],
     [
       "AN11.9",
@@ -66243,11 +67058,6 @@ export const locatorBookObject ={
     ],
     [
       "AN11.13",
-      "laziness (kusīta)",
-      "lazy do not succeed"
-    ],
-    [
-      "AN11.13",
       "Nandiya the Sakyan",
       "observing rains residence"
     ],
@@ -66265,6 +67075,11 @@ export const locatorBookObject ={
       "AN11.13",
       "lay life",
       "what to practice"
+    ],
+    [
+      "AN11.13",
+      "laziness (kusīta)",
+      "lazy do not succeed"
     ],
     [
       "AN11.13",
@@ -66383,11 +67198,6 @@ export const locatorBookObject ={
     ],
     [
       "AN11.14",
-      "past lives, knowledge of (pubbenivāsānussatiñāṇa)",
-      "result of faith"
-    ],
-    [
-      "AN11.14",
       "Saddha, Ven.",
       "with the manifestations of faith"
     ],
@@ -66404,6 +67214,11 @@ export const locatorBookObject ={
     [
       "AN11.14",
       "love for the Dhamma (dhammakāma)",
+      "result of faith"
+    ],
+    [
+      "AN11.14",
+      "past lives, knowledge of (pubbenivāsānussatiñāṇa)",
       "result of faith"
     ],
     [
@@ -70384,6 +71199,11 @@ export const locatorBookObject ={
     ],
     [
       "Ud3.7",
+      "giving (dāna)",
+      "by gods"
+    ],
+    [
+      "Ud3.7",
       "Sakka, Lord of Gods",
       "offering food"
     ],
@@ -70396,11 +71216,6 @@ export const locatorBookObject ={
       "Ud3.7",
       "arahants",
       "envied by gods"
-    ],
-    [
-      "Ud3.7",
-      "giving (dāna)",
-      "by gods"
     ],
     [
       "Ud3.7",
@@ -70479,6 +71294,11 @@ export const locatorBookObject ={
     ],
     [
       "Ud4.1",
+      "loving-kindness (mettā)",
+      "to give up hate"
+    ],
+    [
+      "Ud4.1",
       "Meghiya, Ven.",
       "attendant of the Buddha"
     ],
@@ -70491,11 +71311,6 @@ export const locatorBookObject ={
       "Ud4.1",
       "friendship",
       "helps with cetovimutti"
-    ],
-    [
-      "Ud4.1",
-      "loving-kindness (mettā)",
-      "to give up hate"
     ],
     [
       "Ud4.1",
@@ -70674,6 +71489,11 @@ export const locatorBookObject ={
     ],
     [
       "Ud5.3",
+      "paccekabuddhas",
+      "Tagarasikhī"
+    ],
+    [
+      "Ud5.3",
       "Suppabuddha, leper",
       "enlightenment of"
     ],
@@ -70689,11 +71509,6 @@ export const locatorBookObject ={
     ],
     [
       "Ud5.3",
-      "paccekabuddhas",
-      "Tagarasikhī"
-    ],
-    [
-      "Ud5.3",
       "Tagarasikhī, paccekabuddha",
       "being insulted"
     ],
@@ -70705,7 +71520,12 @@ export const locatorBookObject ={
     [
       "Ud5.5",
       "Dhamma",
-      "like ocean"
+      "has many treasures"
+    ],
+    [
+      "Ud5.5",
+      "Dhamma",
+      "has one taste"
     ],
     [
       "Ud5.5",
@@ -70720,12 +71540,7 @@ export const locatorBookObject ={
     [
       "Ud5.5",
       "Dhamma",
-      "has many treasures"
-    ],
-    [
-      "Ud5.5",
-      "Dhamma",
-      "has one taste"
+      "like ocean"
     ],
     [
       "Ud5.5",
@@ -73213,6 +74028,11 @@ export const locatorBookObject ={
     ],
     [
       "Snp3.7",
+      "appreciating (anumodati)",
+      "after meal"
+    ],
+    [
+      "Snp3.7",
       "Buddha, the",
       "Māra’s army"
     ],
@@ -73243,11 +74063,6 @@ export const locatorBookObject ={
     ],
     [
       "Snp3.7",
-      "appreciating (anumodati)",
-      "after meal"
-    ],
-    [
-      "Snp3.7",
       "general of the Dhamma (senāpati)",
       "Ven. Sāriputta"
     ],
@@ -73255,6 +74070,11 @@ export const locatorBookObject ={
       "Snp3.7",
       "giving (dāna)",
       "encouraging others to, example of"
+    ],
+    [
+      "Snp3.7",
+      "inspiration",
+      "seeing the Buddha"
     ],
     [
       "Snp3.7",
@@ -73270,11 +74090,6 @@ export const locatorBookObject ={
       "Snp3.7",
       "Sela, brahmin",
       "going forth; praising Buddha"
-    ],
-    [
-      "Snp3.7",
-      "inspiration",
-      "seeing the Buddha"
     ],
     [
       "Snp3.7",
@@ -73333,21 +74148,6 @@ export const locatorBookObject ={
     ],
     [
       "Snp3.9",
-      "actions (kamma)",
-      "not birth defines a person"
-    ],
-    [
-      "Snp3.9",
-      "Bhāradvāja, brahmin",
-      "questioning how one becomes a brahmin"
-    ],
-    [
-      "Snp3.9",
-      "birth (jāti)",
-      "does not make one a brahmin"
-    ],
-    [
-      "Snp3.9",
       "Clear-eyed One (cakkhumant)",
       "the Buddha"
     ],
@@ -73363,13 +74163,28 @@ export const locatorBookObject ={
     ],
     [
       "Snp3.9",
+      "actions (kamma)",
+      "not birth defines a person"
+    ],
+    [
+      "Snp3.9",
       "arahants",
       "description"
     ],
     [
       "Snp3.9",
+      "Bhāradvāja, brahmin",
+      "questioning how one becomes a brahmin"
+    ],
+    [
+      "Snp3.9",
       "birds",
       "defined by birth"
+    ],
+    [
+      "Snp3.9",
+      "birth (jāti)",
+      "does not make one a brahmin"
     ],
     [
       "Snp3.9",
@@ -73564,11 +74379,6 @@ export const locatorBookObject ={
     [
       "Snp3.11",
       "monastic life",
-      "advice for"
-    ],
-    [
-      "Snp3.11",
-      "monastic life",
       "like licking razor’s edge"
     ],
     [
@@ -73580,6 +74390,11 @@ export const locatorBookObject ={
       "Snp3.11",
       "Suddhodana, king",
       "bodhisatta"
+    ],
+    [
+      "Snp3.11",
+      "monastic life",
+      "advice for"
     ],
     [
       "Snp3.11",

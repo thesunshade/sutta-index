@@ -1094,9 +1094,9 @@ bowls		xref alms bowl
 mental misconduct		xref misconduct by mind
 higher wisdom of discernment of principles		xref higher wisdom of insight into phenomena (adhipaññādhammavipassanā)
 insight (vipassanā)		xref higher wisdom of insight into phenomena (adhipaññādhammavipassanā)
-stream-entry, factors of (sotāpattiyaṅga)		xref factors of stream-entry (sotāpattiyaṅga)
+stream-entry, factors of (sotāpattiyaṅga)		xref factors of stream-entry
 confirmed confidence (aveccappasāda)		xref confidence (aveccappasāda)
-stream-enterers (sotāpanna)		xref factors of stream-entry (sotāpattiyaṅga)
+stream-enterers (sotāpanna)		xref factors of stream-entry
 India		xref Jambudīpa (India)
 stream-enterers (sotāpanna)		xref one-seeder (ekabījī)
 stream-enterers (sotāpanna)		xref family to family (kolaṅkola)
@@ -1425,6 +1425,22 @@ tiredness (kilamatha)		xref drowsiness (middha)
 drowsiness (middha)		xref tiredness (kilamatha)
 meditation on ugliness (asubhabhāvanā)		xref perception of ugliness (asubhasaññā)
 perception of ugliness (asubhasaññā)		xref meditation on ugliness (asubhabhāvanā)
+lay life		xref laypeople
+laypeople		xref lay life
+stealing		xref right action (sammā kammanta)
+killing		xref right action (sammā kammanta)
+sexual misconduct		xref right action (sammā kammanta)
+false speech		xref right speech (sammā vācā)
+divisive speech		xref right speech (sammā vācā)
+harsh speech		xref right speech (sammā vācā)
+useless speech (samphappalāpa)		xref right speech (sammā vācā)
+stealing		xref bodily conduct (kāyasamācāra)
+killing		xref bodily conduct (kāyasamācāra)
+sexual misconduct		xref bodily conduct (kāyasamācāra)
+false speech		xref verbal conduct (vacīsamācāra)
+divisive speech		xref verbal conduct (vacīsamācāra)
+harsh speech		xref verbal conduct (vacīsamācāra)
+useless speech (samphappalāpa)		xref verbal conduct (vacīsamācāra)
 trenches		xref moats
 false speech	definition	DN2
 harsh speech	definition	DN2
@@ -6031,6 +6047,7 @@ mind (citta)	cheated, tricked, deceived by	MN75
 dependent origination (paṭiccasamuppāda)	short version and aggregates	MN75
 good people (sappurisa)	association with leads to hearing teachings	MN75
 hearing the Dhamma (saddhammaṁ sossati)	leads to practicing in line with the Dhamma	MN75
+practicing	in line with Dhamma	MN75
 probation (parivāsa)	for followers of other sects	MN75
 Sandaka, wanderer	discussion with Ven. Ānanda	MN76
 useless speech (tiracchāna)	wanderers of other sects engaging in	MN76
@@ -7988,6 +8005,7 @@ conversion	monk successfully converting people	MN145
 Mahā Pajāpatī Gotamī, Ven.	requesting instruction (anusāsana)	MN146
 Nandaka, Ven.	teaching bhikkhunīs	MN146
 bhikkhunīs	instructing	MN146
+bhikkhunīs	Dhamma talk given to	MN146
 sense bases (āyatana)	as impermanent, suffering, not self	MN146
 not-self	sense bases	MN146
 impermanence	of sense bases and objects	MN146
@@ -16955,16 +16973,185 @@ underlying tendencies (anusaya)	giving up through concentration due to mindfulne
 time	completely understanding course of	SN54.19
 taints (āsava)	giving up through concentration due to mindfulness of breathing	SN54.20
 stream-enterers (sotāpanna)	 	CUSTOM:SN:SN 55 Sotāpatti Saṁyutta:suttacentral.net/sn55
+factors of stream-entry	 	CUSTOM:SN:SN 55 Sotāpatti Saṁyutta:suttacentral.net/sn55
 wheel-turning monarchs	reborn in Tāvatiṁsa heaven, etc.	SN55.1
 Tāvatiṁsa heaven	wheel-turning monarchs reborn in	SN55.1
 wheel-turning monarchs	not freed from hell	SN55.1
 factors of stream-entry	exempt from hell	SN55.1
 factors of stream-entry	gaining four continents not worth sixteenth part of	SN55.1
+Dīghāvu, layperson	illness	SN55.3
+Jotika, householder	father of Dīghāvu	SN55.3
+factors of stream-entry (sotāpattiyaṅga)	practices for one who has	SN55.3
+sick person	advice for	SN55.3
+stream-enterers (sotāpanna)	practice of	SN55.3
+perception of the impermanence of all conditions (sabbasaṅkhāresu anicchāsaññā)	practice for stream-enterer	SN55.3
+perception of suffering in impermanence (anicce dukkhasaññā)	practice for stream-enterer	SN55.3
+perception of not-self in suffering (dukkhe anattasaññā)	practice for stream-enterer	SN55.3
+perception of giving up (pahānasaññā)	practice for stream-enterer	SN55.3
+perception of fading away (virāgasaññā)	practice for stream-enterer	SN55.3
+perception of cessation (nirodhasaññā)	practice for stream-enterer	SN55.3
+non-returner (anāgāmi)	examples of	SN55.3
+grieving	concern that family will grieve after death	SN55.3
+stream-enterers (sotāpanna)	death of, example	SN55.3
+factors of stream-entry (sotāpattiyaṅga)	definition: associating with true persons, etc.	SN55.5
+association (saṁseva)	with true persons, factor of stream entry	SN55.5
+hearing the Dhamma (dhammassavana)	factor of stream entry	SN55.5
+proper attention (yoniso manasikāra)	factor of stream entry	SN55.5
+practicing according to the Dhamma (dhammānudhammappaṭipanna)	factor of stream entry	SN55.5
+stream, the (sota)	definition	SN55.5
+noble eightfold path (ariya aṭṭhangika magga)	stream, the (sota)	SN55.5
+stream-enterers (sotāpanna)	definition	SN55.5
+Isidatta, householder	happy to be near the Buddha	SN55.6
+Purāṇa, householder	happy to be near the Buddha	SN55.6
+lay life	living close to the Buddha	SN55.6
+lay life	crowded and dusty	SN55.6
+laypeople	sense desire	SN55.6
+factors of stream-entry	confirmed confidence and generosity	SN55.6
+confidence (aveccappasāda)	factor of stream entry	SN55.6
 generosity (cāga)	quality of stream-enterer	SN55.6
-false speech	no one likes to be lied to	SN55.6
-death (maraṇa)	good	SN55.7
+Buddha, the	reputation	SN55.7
+lay life	enjoying sense pleasures	SN55.7
+lay life	wish to be reborn in heaven	SN55.7
+sense pleasures, five	enjoying and rebirth in heaven	SN55.7
+Dhamma teaching	that applies to oneself	SN55.7
+golden rule motif	wrong action and wrong speech	SN55.7
+reflection (paṭisañcikkhati)	how we like to be treated	SN55.7
+right action (sammā kammanta)	reflecting on how we like to be treated	SN55.7
+right speech (sammā vācā)	reflecting on how we like to be treated	SN55.7
+bodily conduct (kāyasamācāra)	purified in three points	SN55.7
+verbal conduct (vacīsamācāra)	purified in four points	SN55.7
+praise (vaṇṇa)	of good deeds	SN55.7
+encouragement	to do good: right action, right speech	SN55.7
+factors of stream-entry	lay disciples	SN55.7
+Sāḷha, Ven.	Buddha declares attainment	SN55.8
+Nandā, Ven.	Buddha declares attainment	SN55.8
+Sudatta, householder	Buddha declares attainment	SN55.8
+Sujātā, householder	Buddha declares attainment	SN55.8
+bhikkhunīs	Buddha declaring attainments of 	SN55.8
+Mirror of Dhamma	definition	SN55.8
+factors of stream-entry	Mirror of Dhamma	SN55.8
+Buddha, the	declaring rebirth of individuals 	SN55.8
+Buddha, the	declaring attainments of individuals 	SN55.8
+questions, asking	about disciples’ attainments	SN55.8
+stream-enterers (sotāpanna)	declarations of, how to make 	SN55.8
+Buddha, the	declaring rebirth of individuals 	SN55.9
+Buddha, the	declaring attainments of individuals 	SN55.9
+Buddha, the	declaring rebirth of individuals 	SN55.10
+Buddha, the	declaring attainments of individuals 	SN55.10
+rituals		xref ceremonies
+ceremonies		xref practices
+bad rebirth (duggati)		xref fear of bad rebirth (duggatibhaya)
+fear of bad rebirth (duggatibhaya)		xref bad rebirth (duggati)
+arising, vanishing, and change (uppādo, vayo, aññathatta)		xref change (aññathatta)
+change (aññathatta)		xref arising, vanishing, and change (uppādo, vayo, aññathatta)
+virtue (sīla)		xref factors of stream-entry
+bhikkhunīs	Dhamma talk given to	SN55.11
+brahmins	ceremonies of 	SN55.12
+practices (paṭipatti)	wrong	SN55.12
+ceremonies	of “going upwards” (udayagāmī)	SN55.12
+factors of stream-entry	“going upwards” (udayagāmī)	SN55.12
+factors of stream-entry	what has been given up	SN55.13
+fear of bad rebirth (duggatibhaya)	not having 	SN55.14
+bad rebirth (duggati)	escaping through stream entry	SN55.14
+proselytizing	to those for whom you have sympathy	SN55.16
+factors of stream-entry	encouraging those for whom you have sympathy	SN55.16
+friends	factors of stream-entry	SN55.16
+family	factors of stream-entry	SN55.16
+proselytizing	to those for whom you have sympathy	SN55.17
+factors of stream-entry	encouraging those for whom you have sympathy	SN55.17
+friends	factors of stream-entry	SN55.17
+family	factors of stream-entry	SN55.17
+change (aññathatta)	in confirmed confidence	SN55.17
+confidence (aveccappasāda)	change	SN55.17
+elements, four great (cattāri mahābhūtāni)	may change	SN55.17
+stream-enterers (sotāpanna)	will not be reborn in lower worlds	SN55.17
+Moggallāna, Ven.	visiting deva world	SN55.18
+confidence (aveccappasāda)	reason for rebirth in good destination	SN55.18
+virtue (sīla)	reason for rebirth in good destination	SN55.18
+good rebirth (sugati)	confidence and virtue cause of	SN55.18
+Buddha, the	visiting deva world	SN55.20
 death (maraṇa)	good	SN55.21
+mindfulness (sati)	losing 	SN55.21
+mind (citta)	rises up to good place after death	SN55.21
+corpse	rots away while mind rises up	SN55.21
+pots	of ghee sinking down, simile for death	SN55.21
+ghee	in broken pot rising up, simile for death	SN55.21
+factors of stream-entry	like ghee floating to top	SN55.21
+mind (citta)	imbued with faith, ethics, learning, generosity, wisdom 	SN55.21
+lay life	distractions in	SN55.21
+elephants	distracted by at time of death	SN55.21
+death (maraṇa)	fear of	SN55.21
+lay life	distractions in	SN55.22
 death (maraṇa)	fear of	SN55.22
-generosity (cāga)	stream of merit	SN55.27
-generosity (cāga)	as an accomplishment	SN55.32
-generosity (cāga)	as an accomplishment	SN55.37
+trees	slanting to the east, simile for disciple with factors of stream entry	SN55.22
+factors of stream-entry	like tree slanting to the east	SN55.22
+Mahānāma the Sakyan	discussing factors of stream entry	SN55.23
+Godhā the Sakyan	discussing factors of stream entry	SN55.23
+Buddha, the	siding with no matter what	SN55.23
+Sarakāni the Sakyan	drinking alcohol	SN55.24
+alcohol	one who drank becoming stream-enterer	SN55.24
+Mahānāma the Sakyan	asking about person who drank alcohol	SN55.24
+refuges	for a long time, not going to bad destination	SN55.24
+stream-enterers (sotāpanna)	examples of	SN55.24
+freedom (vimutti)	endowed with	SN55.24
+wisdom, joyful (hāsapañña)	arahants	SN55.24
+wisdom, swift (javanapañña)	arahants	SN55.24
+factors of stream-entry	various different	SN55.24
+non-returner (anāgāmi)	qualities of	SN55.24
+once returner (sakadāgāmī)	qualities of	SN55.24
+stream-enterers (sotāpanna)	qualities of	SN55.24
+Dhamma follower	not reborn in bad destination	SN55.24
+follower by faith	not reborn in bad destination	SN55.24
+measure of faith and love (saddhāmatta pemamatta)	faith follower	SN55.24
+trees	becoming stream-enterers	SN55.24
+deathbed	undertaking the training upon	SN55.24
+extinguished upon landing (upahaccaparinibbāyī)	not reborn in bad destination	SN55.25
+extinguished without extra effort (asaṅkhāraparinibbāyī)	not reborn in bad destination	SN55.25
+extinguished with extra effort (sasaṅkhāraparinibbāyī)	not reborn in bad destination	SN55.25
+heading upstream to the Akaniṭṭha realm (uddhaṁsotassa akaniṭṭhagāmino)	not reborn in bad destination	SN55.25
+fields	barren and fertile, simile for well and poorly explained teaching	SN55.25
+well explained (svākkhāta)	Dhamma that is produces results	SN55.25
+Sāriputta, Ven.	teaching Anāthapiṇḍika 	SN55.25
+Anāthapiṇḍika, householder	sick	SN55.26
+confidence (aveccappasāda)	definition	SN55.26
+confidence (aveccappasāda)	overcoming illness	SN55.26
+noble eightfold path (ariya aṭṭhangika magga)	overcoming illness	SN55.26
+right knowledge (sammā ñāṇa)	overcoming illness	SN55.26
+right freedom (sammā vimutti)	overcoming illness	SN55.26
+sickness	cured by Dhamma talk	SN55.26
+factors of stream-entry (sotāpattiyaṅga)	ten respects	SN55.26
+Ānanda, Ven.	teaching Anāthapiṇḍika	SN55.27
+Anāthapiṇḍika, householder	sick	SN55.27
+death (maraṇa)	fear of, removed by factors of stream entry	SN55.27
+factors of stream-entry (sotāpattiyaṅga)	fear at time of death	SN55.27
+stream-enterers (sotāpanna)	declarations of	SN55.27
+precepts, five	preventing dangers in present and future lives	SN55.28
+precepts, five	stream entry and	SN55.28
+stream-enterers (sotāpanna)	four factors of	SN55.28
+factors of stream-entry (sotāpattiyaṅga)	definition	SN55.28
+stream-enterers (sotāpanna)	declarations of	SN55.28
+dangers	from breaking precepts	SN55.28
+confidence (aveccappasāda)	factor of stream-entry	SN55.28
+virtue (sīla)	loved by noble ones, as factor of stream-entry	SN55.28
+stream-enterers (sotāpanna)	virtues loved by noble ones	SN55.28
+Anāthapiṇḍika, householder	factors of stream-entry	SN55.28
+Nandaka the Licchavi 	interior bathing	SN55.30
+long life (āyu)	result of factors of stream-entry	SN55.30
+beauty (vaṇṇa)	result of factors of stream-entry	SN55.30
+happiness (sukha)	result of factors of stream-entry	SN55.30
+fame (yasas)	result of factors of stream-entry	SN55.30
+sovereignty (ādhipateyya)	result of factors of stream-entry	SN55.30
+bathing	with “the inner bathing”: confidence in the Buddha	SN55.30
+merit (puñña)	overflowing	SN55.31
+merit (puñña)	factors of stream-entry	SN55.31
+merit (puñña)	factors of stream-entry	SN55.32
+factors of stream-entry	confirmed confidence and generosity	SN55.32
+factors of stream-entry	confirmed confidence and wisdom	SN55.33
+merit (puñña)	factors of stream-entry	SN55.33
+footprints of the gods (devapada)	factors of stream-entry	SN55.34
+purification (visuddhi)	of beings: factors of stream-entry	SN55.34
+footprints of the gods (devapada)	factors of stream-entry	SN55.35
+purification (visuddhi)	of beings: factors of stream-entry	SN55.35
+devas	comparing themselves with humans who have factors of stream-entry	SN55.36
+results of actions	gods with factors of stream-entry	SN55.36
+factors of stream-entry	and devas	SN55.36
