@@ -1027,7 +1027,7 @@ Dhamma		xref Dhamma teaching
 Dhamma		xref recollection of Dhamma (dhammānussati)
 work		xref wrong livelihood (micchā ājīva)
 work		xref livelihood
-gentleman (kulaputta)		xref son of good family (kulaputta)
+gentleman (kulaputta)		xref sons of good family (kulaputta)
 eggs		xref chickens
 self-knowledge (attaññū)		xref self-reflection
 self-reflection		xref self-knowledge (attaññū)
@@ -1441,6 +1441,28 @@ false speech		xref verbal conduct (vacīsamācāra)
 divisive speech		xref verbal conduct (vacīsamācāra)
 harsh speech		xref verbal conduct (vacīsamācāra)
 useless speech (samphappalāpa)		xref verbal conduct (vacīsamācāra)
+spiritual path (brahmacariya)		xref fundamentals of the spiritual life (ādibrahmacariya)
+fundamentals of the spiritual life (ādibrahmacariya)		xref spiritual path (brahmacariya)
+views about the soul and body		xref soul (jīva)
+soul (jīva)		xref views about the soul and body
+body (sarīra)		xref views about the soul and body
+views about the soul and body		xref body (sarīra)
+views about the Tathāgata		xref Tathāgatas
+Tathāgatas		xref views about the Tathāgata
+talk (kathā)		xref useless speech (tiracchāna)
+useless speech (tiracchāna)		xref talk (kathā)
+mountains		xref rain
+deathbed		xref death
+death		xref deathbed
+rituals		xref ceremonies
+ceremonies		xref practices
+bad rebirth (duggati)		xref fear of bad rebirth (duggatibhaya)
+fear of bad rebirth (duggatibhaya)		xref bad rebirth (duggati)
+arising, vanishing, and change (uppādo, vayo, aññathatta)		xref change (aññathatta)
+change (aññathatta)		xref arising, vanishing, and change (uppādo, vayo, aññathatta)
+virtue (sīla)		xref factors of stream-entry
+sand		xref soil (paṁsu)
+tendency		xref underlying tendencies (anusaya)
 trenches		xref moats
 false speech	definition	DN2
 harsh speech	definition	DN2
@@ -1524,8 +1546,6 @@ giving (dāna)	to gain rebirth	SN30.10–46
 giving (dāna)	to gain rebirth	SN31.3–112
 giving (dāna)	to gain rebirth	SN32.3–52
 disputes	about Dhamma	SN56.9
-talk (kathā)	suitable and unsuitable	SN56.10
-speech	useless (tiraccha)	SN56.10
 refuges	formula for taking	Kp1
 precepts, ten	definition	Kp2
 samaneras	precepts of	Kp2
@@ -6620,6 +6640,7 @@ wives	influencing husbands	MN97
 husbands	being influenced by wives	MN97
 heedfulness (appamāda)	lay life	MN97
 livelihood	in the face of difficulties	MN97
+precepts	to earn money for family	MN97
 family	caring for by breaking precepts	MN97
 wardens of hell (nirayapāla)	pleading with	MN97
 hell (niraya)	avoiding by blaming others	MN97
@@ -11580,6 +11601,7 @@ requisites, four	danger of receiving	AN7.72
 almsfood	danger of receiving	AN7.72
 disrobing	after hearing a Dhamma talk	AN7.72
 blood	spewing hot	AN7.72
+vomiting	hot blood	AN7.72
 listening to Dhamma	attaining enlightenment while	AN7.72
 Sunetta, teacher	teaching rebirth in Brahma realm	AN7.73
 brahmās	rebirth in company of	AN7.73
@@ -11674,7 +11696,7 @@ grains	simile of teachings coming from the Buddha	AN8.8
 well spoken (subhāsita)	whatever is well spoken is spoken by the Buddha	AN8.8
 fundamentals of the spiritual life (ādibrahmacariya)	qualities to overcome	AN8.8
 Nanda, Ven.	clear comprehension	AN8.9
-son of good family (kulaputta)	Ven. Nanda	AN8.9
+sons of good family (kulaputta)	Ven. Nanda	AN8.9
 intense lust (tibbarāga)	Ven. Nanda	AN8.9
 lust (rāga)	how to overcome	AN8.9
 eating in moderation	how to	AN8.9
@@ -11805,11 +11827,13 @@ past, present, future	attracting people is the same in	AN8.24
 Mahānāma the Sakyan	asking about definition of lay follower	AN8.25
 lay follower (upāsaka, upāsikā)	definition	AN8.25
 lay follower (upāsaka, upāsikā)	virtuous: definition	AN8.25
+refuges	definition of a lay follower	AN8.25
 virtue (sīla)	virtuous lay disciple	AN8.25
 lay follower (upāsaka, upāsikā)	benefiting themselves and others	AN8.25
 encouragement	to do good	AN8.25
-vomiting	hot blood	AN7.72
+welfare (hita)	ones own and others	AN8.25
 memorizing	helping oneself and others	AN8.25
+lay follower (upāsaka, upāsikā)	practices of	AN8.25
 Jīvaka Komārabhacca, householder	asking about definition of lay follower	AN8.26
 lay follower (upāsaka, upāsikā)	definition	AN8.26
 lay follower (upāsaka, upāsikā)	virtuous: definition	AN8.26
@@ -11818,9 +11842,7 @@ listening to Dhamma	like to listen	AN8.26
 memorizing	helping oneself and others	AN8.26
 giving (dāna)	encouraging others to	AN8.26
 monastics	visiting	AN8.26
-lay follower (upāsaka, upāsikā)	practices of	AN8.25
 lay follower (upāsaka, upāsikā)	practices of	AN8.26
-welfare (hita)	ones own and others	AN8.25
 welfare (hita)	ones own and others	AN8.26
 powers (bala)	of different people	AN8.27
 babies	crying as power	AN8.27
@@ -16939,8 +16961,6 @@ mindfulness of breathing (ānāpānassati)	like storm dispels dust	SN54.9
 storms	dispelling dust, simile for dispelling bad qualities 	SN54.9
 dust	dispelled by storm, simile for dispelling bad qualities	SN54.9
 mindfulness of breathing (ānāpānassati)	removes unwholesome qualities	SN54.9
-sand		xref soil (paṁsu)
-tendency		xref underlying tendencies (anusaya)
 Kimbila, Ven.	not answering the Buddha	SN54.10
 mindfulness of breathing (ānāpānassati)	four foundations of mindfulness	SN54.10
 foundations of mindfulness, four (satipaṭṭhāna)	mindfulness of breathing	SN54.10
@@ -16992,6 +17012,7 @@ perception of fading away (virāgasaññā)	practice for stream-enterer	SN55.3
 perception of cessation (nirodhasaññā)	practice for stream-enterer	SN55.3
 non-returner (anāgāmi)	examples of	SN55.3
 grieving	concern that family will grieve after death	SN55.3
+deathbed	concern for relatives	SN55.3
 stream-enterers (sotāpanna)	death of, example	SN55.3
 factors of stream-entry (sotāpattiyaṅga)	definition: associating with true persons, etc.	SN55.5
 association (saṁseva)	with true persons, factor of stream entry	SN55.5
@@ -17038,13 +17059,6 @@ Buddha, the	declaring rebirth of individuals 	SN55.9
 Buddha, the	declaring attainments of individuals 	SN55.9
 Buddha, the	declaring rebirth of individuals 	SN55.10
 Buddha, the	declaring attainments of individuals 	SN55.10
-rituals		xref ceremonies
-ceremonies		xref practices
-bad rebirth (duggati)		xref fear of bad rebirth (duggatibhaya)
-fear of bad rebirth (duggatibhaya)		xref bad rebirth (duggati)
-arising, vanishing, and change (uppādo, vayo, aññathatta)		xref change (aññathatta)
-change (aññathatta)		xref arising, vanishing, and change (uppādo, vayo, aññathatta)
-virtue (sīla)		xref factors of stream-entry
 bhikkhunīs	Dhamma talk given to	SN55.11
 brahmins	ceremonies of 	SN55.12
 practices (paṭipatti)	wrong	SN55.12
@@ -17155,3 +17169,127 @@ purification (visuddhi)	of beings: factors of stream-entry	SN55.35
 devas	comparing themselves with humans who have factors of stream-entry	SN55.36
 results of actions	gods with factors of stream-entry	SN55.36
 factors of stream-entry	and devas	SN55.36
+Mahānāma the Sakyan	asking about definition of lay follower	SN55.37
+lay follower (upāsaka, upāsikā)	definition	SN55.37
+refuges	definition of a lay follower	SN55.37
+virtue (sīla)	virtuous lay disciple	SN55.37
+faith (saddhā)	lay follower, faithful	SN55.37
+generosity (cāga)	lay follower, generous	SN55.37
+wisdom (paññā)	lay follower, wise	SN55.37
+rain	on mountain top, simile for factors of stream entry	SN55.38
+factors of stream-entry	like rain on mountain flowing to ocean	SN55.38
+Kāḷigodhā the Sakyan	declaring stream entry	SN55.39
+stream-enterers (sotāpanna)	examples of	SN55.39
+stream-enterers (sotāpanna)	Buddha declaring someone has attained	SN55.39
+Nandiya the Sakyan	asking about living negligently	SN55.40
+factors of stream-entry (sotāpattiyaṅga)	living negligently with	SN55.40
+ordinary person (puthujjana)	lacking factors of stream-entry	SN55.40
+noble disciple (ariya sāvaka)	living negligently	SN55.40
+contentment	with partial attainments	SN55.40
+heedlessness (pamāda)	no joy	SN55.40
+heedlessness (pamāda)	noble disciples	SN55.40
+virtue (sīla)	contentment with as partial attainment	SN55.40
+heedfulness (appamāda)	leads to joy	SN55.40
+heedfulness (appamāda)	noble disciple	SN55.40
+merit (puñña)	overflowing	SN55.41
+merit (puñña)	factors of stream-entry	SN55.41
+water	measuring ocean’s, simile for merit	SN55.41
+oceans	measuring water in, simile for merit	SN55.41
+merit (puñña)	immeasurable 	SN55.41
+rivers	bring water to oceans, simile for merit	SN55.41
+beds	giving	SN55.41
+factors of stream-entry	confirmed confidence and wisdom	SN55.43
+wealth	factors of stream-entry	SN55.44
+factors of stream-entry	as wealth	SN55.44
+fame (yasas)	factors of stream-entry	SN55.45
+factors of stream-entry (sotāpattiyaṅga)	definition: associating with true persons, etc. 	SN55.50
+association (saṁseva)	with true persons, factor of stream entry	SN55.50
+hearing the Dhamma (dhammassavana)	factor of stream entry	SN55.50
+proper attention (yoniso manasikāra)	factor of stream entry	SN55.50
+practicing according to the Dhamma (dhammānudhammappaṭipanna)	factor of stream entry	SN55.50
+arahants	fewer than non-returners	SN55.52
+non-returner (anāgāmi)	fewer than once returners	SN55.52
+once returner (sakadāgāmī)	fewer than stream-enterers	SN55.52
+stream-enterers (sotāpanna)	more numerous than once returners	SN55.52
+Dhammadinna, lay follower	lay practice; declaring stream-entry	SN55.53
+lay life	practices for 	SN55.53
+listening to Dhamma	laypeople should listen to deep Dhamma	SN55.53
+stream-enterers (sotāpanna)	examples of	SN55.53
+stream-enterers (sotāpanna)	Buddha declaring someone has attained	SN55.53
+Dhamma	for laypeople	SN55.53
+Mahānāma the Sakyan	advising sick people	SN55.54
+sick person	how they should be advised	SN55.54
+sick person	concern for relatives	SN55.54
+sickness	practicing while	SN55.54
+deathbed	concern for relatives	SN55.54
+deathbed	practice on	SN55.54
+sense pleasures (kāma, kāmaguṇa)	clinging to at time of death	SN55.54
+sense pleasures (kāma, kāmaguṇa)	heavenly compared to human	SN55.54
+heavenly realms	ranked	SN55.54
+identity (sakkāya)	cessation of	SN55.54
+laypeople	arahants	SN55.54
+arahants	laypeople	SN55.54
+factors of stream-entry	definition: associating with true persons, etc. 	SN55.55
+stream-enterers (sotāpanna)	factors that lead to; association with true persons, etc.	SN55.55
+association (saṁseva)	with true persons, leads to stream entry	SN55.55
+hearing the Dhamma (dhammassavana)	leads to stream entry	SN55.55
+proper attention (yoniso manasikāra)	leads to stream entry	SN55.55
+practicing according to the Dhamma (dhammānudhammappaṭipanna)	leads to stream entry	SN55.55
+once returner (sakadāgāmī)	factors that lead to; association with true persons, etc.	SN55.56
+non-returner (anāgāmi)	factors that lead to; association with true persons, etc.	SN55.57
+arahantship	factors that lead to; association with true persons, etc.	SN55.58
+association (saṁseva)	with true persons, leads to arahantship	SN55.58
+hearing the Dhamma (dhammassavana)	leads to arahantship	SN55.58
+proper attention (yoniso manasikāra)	leads to arahantship	SN55.58
+practicing according to the Dhamma (dhammānudhammappaṭipanna)	leads to arahantship	SN55.58
+wisdom (paññā)	factors that lead to; association with true persons, etc.	SN55.59
+association (saṁseva)	with true persons, leads to wisdom	SN55.59
+hearing the Dhamma (dhammassavana)	leads to wisdom	SN55.59
+proper attention (yoniso manasikāra)	leads to wisdom	SN55.59
+practicing according to the Dhamma (dhammānudhammappaṭipanna)	leads to wisdom	SN55.59
+four noble truths	 	CUSTOM:SN:SN 56 Sacca Saṁyutta:suttacentral.net/sn56
+concentration (samādhi)	seeing things as they truly are	SN56.1
+concentration (samādhi)	understanding the four noble truths	SN56.1
+seclusion (paṭisallīna, vivitta)	understanding the four noble truths	SN56.2
+sons of good family (kulaputta)	all go forth to understand four noble truths	SN56.3
+going forth (pabbajja)	to understand the four noble truths	SN56.3
+ascetics and brahmins (samaṇabrāhmaṇa)	of the past, present, future: four noble truths	SN56.5
+sensual thoughts (kāmavitakka)	not relevant to fundamentals of spiritual life	SN56.7
+malicious thoughts (byāpādavitakka)	not relevant to fundamentals of spiritual life	SN56.7
+cruel thoughts (vihiṁsāvitakka)	not relevant to fundamentals of spiritual life	SN56.7
+fundamentals of the spiritual life (ādibrahmacariya)	thoughts relevant/not relevant to	SN56.7
+four noble truths	relevant to fundamentals of spiritual life	SN56.7
+views about the world	not relevant to fundamentals of spiritual life	SN56.8
+views about the soul and body	not relevant to fundamentals of spiritual life	SN56.8
+views about the Tathāgata	not relevant to fundamentals of spiritual life	SN56.8
+four noble truths	relevant to fundamentals of spiritual life	SN56.8
+disputes (viggaha)	not relevant to fundamentals of spiritual life	SN56.9
+talk (kathā)	four noble truths	SN56.9
+useless speech (tiracchāna)	not relevant to fundamentals of spiritual life	SN56.10
+talk (kathā)	suitable and unsuitable	SN56.10
+speech	useless (tiraccha)	SN56.10
+first sermon	to the five monks	SN56.11
+extremes (anta)	sense pleasures and self mortification	SN56.11
+middle path (majjhimā paṭipadā)	between sensual pleasure and mortification	SN56.11
+vision (cakkhu)	middle path gives	SN56.11
+mortification (attakilamatha)	painful, ignoble, pointless	SN56.11
+middle path (majjhimā paṭipadā)	definition	SN56.11
+noble eightfold path (ariya aṭṭhangika magga)	middle path	SN56.11
+four noble truths	definition	SN56.11
+Aññā Koṇḍañña, Ven.	attains stream-entry	SN56.11
+origination (samudaya)	everything that has ends	SN56.11
+wheel of Dhamma	Buddha starts rolling	SN56.11
+earthquakes	first sermon	SN56.11
+gods	rejoicing in Dhamma	SN56.11
+aggregates of clinging (pañcupādānakkhandhā)	suffering	SN56.13
+four noble truths	definition	SN56.13
+craving (taṇha)	cause of suffering	SN56.13
+noble truth of suffering	aggregates of clinging	SN56.13
+noble truth of suffering	interior sense bases	SN56.14
+ignorance (avijjā)	not knowing four noble truths	SN56.17
+knowledge (vijjā)	knowing four noble truths	SN56.18
+four noble truths	limitless explanations about	SN56.19
+four noble truths	real, not unreal	SN56.20
+rebirth	because of not knowing four noble truths	SN56.21
+rebirth	because of not knowing four noble truths	SN56.21
+ascetics and brahmins (samaṇabrāhmaṇa)	knowing and not knowing four noble truths	SN56.22
