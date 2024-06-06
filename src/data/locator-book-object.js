@@ -36646,8 +36646,18 @@ export const locatorBookObject ={
     ],
     [
       "SN56.11",
+      "abandoning (pajahati, pahāna)",
+      "noble truth of the cessation of suffering"
+    ],
+    [
+      "SN56.11",
       "Aññā Koṇḍañña, Ven.",
       "attains stream-entry"
+    ],
+    [
+      "SN56.11",
+      "development (bhāvanā)",
+      "noble truth of the practice that leads to the cessation of suffering"
     ],
     [
       "SN56.11",
@@ -36668,6 +36678,16 @@ export const locatorBookObject ={
       "SN56.11",
       "four noble truths",
       "definition"
+    ],
+    [
+      "SN56.11",
+      "four noble truths",
+      "tasks to be done for each"
+    ],
+    [
+      "SN56.11",
+      "full understanding (pariñña)",
+      "noble truth of suffering"
     ],
     [
       "SN56.11",
@@ -36698,6 +36718,11 @@ export const locatorBookObject ={
       "SN56.11",
       "origination (samudaya)",
       "everything that has ends"
+    ],
+    [
+      "SN56.11",
+      "realized (sacchi)",
+      "noble truth of the origin of suffering"
     ],
     [
       "SN56.11",
@@ -36756,6 +36781,11 @@ export const locatorBookObject ={
     ],
     [
       "SN56.21",
+      "four noble truths",
+      "ending of rebirth"
+    ],
+    [
+      "SN56.21",
       "rebirth",
       "because of not knowing four noble truths"
     ],
@@ -36768,6 +36798,151 @@ export const locatorBookObject ={
       "SN56.22",
       "ascetics and brahmins (samaṇabrāhmaṇa)",
       "knowing and not knowing four noble truths"
+    ],
+    [
+      "SN56.23",
+      "Buddha, the",
+      "sammāsambuddha"
+    ],
+    [
+      "SN56.23",
+      "sammāsambuddha",
+      "definition"
+    ],
+    [
+      "SN56.24",
+      "arahants",
+      "all awaken to four noble truths"
+    ],
+    [
+      "SN56.25",
+      "four noble truths",
+      "ending of taints"
+    ],
+    [
+      "SN56.25",
+      "taints (āsava)",
+      "ended by four noble truths"
+    ],
+    [
+      "SN56.26",
+      "compassion (anukampā)",
+      "sharing four noble truths"
+    ],
+    [
+      "SN56.26",
+      "family",
+      "should be established in four noble truths"
+    ],
+    [
+      "SN56.26",
+      "four noble truths",
+      "family, friends; sharing with"
+    ],
+    [
+      "SN56.26",
+      "friends",
+      "should be established in four noble truths"
+    ],
+    [
+      "SN56.26",
+      "proselytizing",
+      "to those for whom you have sympathy: four noble truths"
+    ],
+    [
+      "SN56.27",
+      "noble truth (ariyasacca)",
+      "why they are called"
+    ],
+    [
+      "SN56.28",
+      "noble truth (ariyasacca)",
+      "why they are called"
+    ],
+    [
+      "SN56.28",
+      "Tathāgatas",
+      "“noble one”"
+    ],
+    [
+      "SN56.29",
+      "abandoning (pajahati, pahāna)",
+      "noble truth of the cessation of suffering"
+    ],
+    [
+      "SN56.29",
+      "development (bhāvanā)",
+      "noble truth of the practice that leads to the cessation of suffering"
+    ],
+    [
+      "SN56.29",
+      "four noble truths",
+      "tasks to be done for each"
+    ],
+    [
+      "SN56.29",
+      "full understanding (pariñña)",
+      "noble truth of suffering"
+    ],
+    [
+      "SN56.29",
+      "realized (sacchi)",
+      "noble truth of the origin of suffering"
+    ],
+    [
+      "SN56.30",
+      "Gavampati, Ven.",
+      "seeing four noble truths"
+    ],
+    [
+      "SN56.30",
+      "four noble truths",
+      "seeing one, sees all"
+    ],
+    [
+      "SN56.31",
+      "Buddha, the",
+      "knowledge he shared"
+    ],
+    [
+      "SN56.31",
+      "Buddha, the",
+      "teaches only what is necessary"
+    ],
+    [
+      "SN56.31",
+      "Dhamma teaching",
+      "what is needed for enlightenment"
+    ],
+    [
+      "SN56.31",
+      "fundamentals of the spiritual life (ādibrahmacariya)",
+      "Buddha only teaches what is"
+    ],
+    [
+      "SN56.31",
+      "leaves",
+      "simsapa, simile for Buddha’s knowledge"
+    ],
+    [
+      "SN56.31",
+      "simsapa",
+      "simile for Buddha’s knowledge"
+    ],
+    [
+      "SN56.32",
+      "four noble truths",
+      "ending suffering without making the breakthrough"
+    ],
+    [
+      "SN56.32",
+      "leaves",
+      "making basket from, simile for noble truths"
+    ],
+    [
+      "SN56.33",
+      "sticks",
+      "landing in different ways, simile for not seeing four noble truths"
     ]
   ],
   "AN": [

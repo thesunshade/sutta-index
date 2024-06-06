@@ -37,6 +37,13 @@ export const indexObject ={
                          "SN22.79"
                     ],
                     "xrefs": []
+               },
+               "noble truth of the cessation of suffering": {
+                    "locators": [
+                         "SN56.11",
+                         "SN56.29"
+                    ],
+                    "xrefs": []
                }
           },
           "Abhaya, prince": {
@@ -4087,6 +4094,12 @@ export const indexObject ={
                "laypeople": {
                     "locators": [
                          "SN55.54"
+                    ],
+                    "xrefs": []
+               },
+               "all awaken to four noble truths": {
+                    "locators": [
+                         "SN56.24"
                     ],
                     "xrefs": []
                }
@@ -11080,6 +11093,24 @@ export const indexObject ={
                          "SN55.23"
                     ],
                     "xrefs": []
+               },
+               "sammāsambuddha": {
+                    "locators": [
+                         "SN56.23"
+                    ],
+                    "xrefs": []
+               },
+               "knowledge he shared": {
+                    "locators": [
+                         "SN56.31"
+                    ],
+                    "xrefs": []
+               },
+               "teaches only what is necessary": {
+                    "locators": [
+                         "SN56.31"
+                    ],
+                    "xrefs": []
                }
           },
           "“Buddha”, the word": {
@@ -13146,6 +13177,12 @@ export const indexObject ={
                "in admonishment": {
                     "locators": [
                          "AN10.18"
+                    ],
+                    "xrefs": []
+               },
+               "sharing four noble truths": {
+                    "locators": [
+                         "SN56.26"
                     ],
                     "xrefs": []
                },
@@ -18848,6 +18885,13 @@ export const indexObject ={
                          "SN22.101"
                     ],
                     "xrefs": []
+               },
+               "noble truth of the practice that leads to the cessation of suffering": {
+                    "locators": [
+                         "SN56.11",
+                         "SN56.29"
+                    ],
+                    "xrefs": []
                }
           },
           "deviousness (saṭha)": {
@@ -19919,6 +19963,12 @@ export const indexObject ={
                "that applies to oneself": {
                     "locators": [
                          "SN55.7"
+                    ],
+                    "xrefs": []
+               },
+               "what is needed for enlightenment": {
+                    "locators": [
+                         "SN56.31"
                     ],
                     "xrefs": []
                }
@@ -27691,6 +27741,12 @@ export const indexObject ={
                          "SN55.17"
                     ],
                     "xrefs": []
+               },
+               "should be established in four noble truths": {
+                    "locators": [
+                         "SN56.26"
+                    ],
+                    "xrefs": []
                }
           },
           "family to family (kolaṅkola)": {
@@ -31158,7 +31214,13 @@ export const indexObject ={
                     "locators": [
                          "CUSTOM:SN:SN 56 Sacca Saṁyutta:suttacentral.net/sn56"
                     ],
-                    "xrefs": []
+                    "xrefs": [
+                         "xref noble truth (ariyasacca)",
+                         "xref noble truth of suffering",
+                         "xref noble truth of the cessation of suffering",
+                         "xref noble truth of the origin of suffering",
+                         "xref noble truth of the practice that leads to the cessation of suffering"
+                    ]
                },
                "relevant to fundamentals of spiritual life": {
                     "locators": [
@@ -31174,6 +31236,13 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
+               "tasks to be done for each": {
+                    "locators": [
+                         "SN56.11",
+                         "SN56.29"
+                    ],
+                    "xrefs": []
+               },
                "limitless explanations about": {
                     "locators": [
                          "SN56.19"
@@ -31183,6 +31252,36 @@ export const indexObject ={
                "real, not unreal": {
                     "locators": [
                          "SN56.20"
+                    ],
+                    "xrefs": []
+               },
+               "ending of rebirth": {
+                    "locators": [
+                         "SN56.21"
+                    ],
+                    "xrefs": []
+               },
+               "ending of taints": {
+                    "locators": [
+                         "SN56.25"
+                    ],
+                    "xrefs": []
+               },
+               "family, friends; sharing with": {
+                    "locators": [
+                         "SN56.26"
+                    ],
+                    "xrefs": []
+               },
+               "seeing one, sees all": {
+                    "locators": [
+                         "SN56.30"
+                    ],
+                    "xrefs": []
+               },
+               "ending suffering without making the breakthrough": {
+                    "locators": [
+                         "SN56.32"
                     ],
                     "xrefs": []
                }
@@ -31484,6 +31583,12 @@ export const indexObject ={
                     "locators": [
                          "SN55.16",
                          "SN55.17"
+                    ],
+                    "xrefs": []
+               },
+               "should be established in four noble truths": {
+                    "locators": [
+                         "SN56.26"
                     ],
                     "xrefs": []
                }
@@ -31870,6 +31975,13 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
+               "noble truth of suffering": {
+                    "locators": [
+                         "SN56.11",
+                         "SN56.29"
+                    ],
+                    "xrefs": []
+               },
                "counter_value": 2
           },
           "fundamentals of the spiritual life (ādibrahmacariya)": {
@@ -31906,6 +32018,12 @@ export const indexObject ={
                "thoughts relevant/not relevant to": {
                     "locators": [
                          "SN56.7"
+                    ],
+                    "xrefs": []
+               },
+               "Buddha only teaches what is": {
+                    "locators": [
+                         "SN56.31"
                     ],
                     "xrefs": []
                }
@@ -32286,6 +32404,14 @@ export const indexObject ={
                "simile for internal sense bases": {
                     "locators": [
                          "SN35.245"
+                    ],
+                    "xrefs": []
+               }
+          },
+          "Gavampati, Ven.": {
+               "seeing four noble truths": {
+                    "locators": [
+                         "SN56.30"
                     ],
                     "xrefs": []
                }
@@ -37133,6 +37259,12 @@ export const indexObject ={
                          "AN4.61"
                     ],
                     "xrefs": []
+               },
+               "": {
+                    "locators": [],
+                    "xrefs": [
+                         "xref opportunities (khaṇa)"
+                    ]
                }
           },
           "hares": {
@@ -42100,7 +42232,7 @@ export const indexObject ={
                "": {
                     "locators": [],
                     "xrefs": [
-                         "xref opportunities"
+                         "xref opportunities (khaṇa)"
                     ]
                }
           },
@@ -46887,6 +47019,18 @@ export const indexObject ={
                "unable to become green like someone given up interest in lesser topics": {
                     "locators": [
                          "MN105"
+                    ],
+                    "xrefs": []
+               },
+               "simsapa, simile for Buddha’s knowledge": {
+                    "locators": [
+                         "SN56.31"
+                    ],
+                    "xrefs": []
+               },
+               "making basket from, simile for noble truths": {
+                    "locators": [
+                         "SN56.32"
                     ],
                     "xrefs": []
                }
@@ -56376,6 +56520,19 @@ export const indexObject ={
                          "MN140"
                     ],
                     "xrefs": []
+               },
+               "": {
+                    "locators": [],
+                    "xrefs": [
+                         "xref four noble truths"
+                    ]
+               },
+               "why they are called": {
+                    "locators": [
+                         "SN56.27",
+                         "SN56.28"
+                    ],
+                    "xrefs": []
                }
           },
           "noble truth of suffering": {
@@ -56402,6 +56559,12 @@ export const indexObject ={
                          "SN56.14"
                     ],
                     "xrefs": []
+               },
+               "": {
+                    "locators": [],
+                    "xrefs": [
+                         "xref four noble truths"
+                    ]
                }
           },
           "noble truth of the cessation of suffering": {
@@ -56410,6 +56573,12 @@ export const indexObject ={
                          "MN141"
                     ],
                     "xrefs": []
+               },
+               "": {
+                    "locators": [],
+                    "xrefs": [
+                         "xref four noble truths"
+                    ]
                }
           },
           "noble truth of the origin of suffering": {
@@ -56418,6 +56587,12 @@ export const indexObject ={
                          "MN141"
                     ],
                     "xrefs": []
+               },
+               "": {
+                    "locators": [],
+                    "xrefs": [
+                         "xref four noble truths"
+                    ]
                }
           },
           "noble truth of the practice that leads to the cessation of suffering": {
@@ -56426,6 +56601,12 @@ export const indexObject ={
                          "MN141"
                     ],
                     "xrefs": []
+               },
+               "": {
+                    "locators": [],
+                    "xrefs": [
+                         "xref four noble truths"
+                    ]
                }
           },
           "noble wisdom (ariyā paññā)": {
@@ -58166,6 +58347,12 @@ export const indexObject ={
                          "SN35.135"
                     ],
                     "xrefs": []
+               },
+               "": {
+                    "locators": [],
+                    "xrefs": [
+                         "xref hard to obtain (dullabha)"
+                    ]
                }
           },
           "opposites": {
@@ -63377,6 +63564,12 @@ export const indexObject ={
                          "AN3.75"
                     ],
                     "xrefs": []
+               },
+               "to those for whom you have sympathy: four noble truths": {
+                    "locators": [
+                         "SN56.26"
+                    ],
+                    "xrefs": []
                }
           },
           "prosperity": {
@@ -64752,6 +64945,15 @@ export const indexObject ={
                     ]
                }
           },
+          "rare": {
+               "": {
+                    "locators": [],
+                    "xrefs": [
+                         "xref hard to obtain (dullabha)",
+                         "xref opportunities (khaṇa)"
+                    ]
+               }
+          },
           "Raṭṭhapāla, Ven.": {
                "going forth, etc.": {
                     "locators": [
@@ -64770,6 +64972,15 @@ export const indexObject ={
                "cutting tongue": {
                     "locators": [
                          "SN35.235"
+                    ],
+                    "xrefs": []
+               }
+          },
+          "realized (sacchi)": {
+               "noble truth of the origin of suffering": {
+                    "locators": [
+                         "SN56.11",
+                         "SN56.29"
                     ],
                     "xrefs": []
                }
@@ -69361,6 +69572,14 @@ export const indexObject ={
                     "xrefs": [
                          "xref right speech (sammā vācā)"
                     ]
+               }
+          },
+          "sammāsambuddha": {
+               "definition": {
+                    "locators": [
+                         "SN56.23"
+                    ],
+                    "xrefs": []
                }
           },
           "sampajañña": {
@@ -74299,6 +74518,14 @@ export const indexObject ={
                     "xrefs": []
                }
           },
+          "simsapa": {
+               "simile for Buddha’s knowledge": {
+                    "locators": [
+                         "SN56.31"
+                    ],
+                    "xrefs": []
+               }
+          },
           "Sineru, king of mountains": {
                "Ven. Moggallāna touching": {
                     "locators": [
@@ -76896,6 +77123,12 @@ export const indexObject ={
                          "SN35.138"
                     ],
                     "xrefs": []
+               },
+               "landing in different ways, simile for not seeing four noble truths": {
+                    "locators": [
+                         "SN56.33"
+                    ],
+                    "xrefs": []
                }
           },
           "stilling of all formations (sabbasaṅkhārasamatha)": {
@@ -78853,6 +79086,12 @@ export const indexObject ={
                          "SN54.20"
                     ],
                     "xrefs": []
+               },
+               "ended by four noble truths": {
+                    "locators": [
+                         "SN56.25"
+                    ],
+                    "xrefs": []
                }
           },
           "talk": {
@@ -79108,6 +79347,12 @@ export const indexObject ={
                "“Tathāgata’s meditation”": {
                     "locators": [
                          "SN54.11"
+                    ],
+                    "xrefs": []
+               },
+               "“noble one”": {
+                    "locators": [
+                         "SN56.28"
                     ],
                     "xrefs": []
                }
