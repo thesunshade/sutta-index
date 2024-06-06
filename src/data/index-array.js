@@ -62646,11 +62646,6 @@ export const indexArray =[
      ],
      [
           "SN22.87",
-          "declaring enlightenment",
-          "aggregates impermanent"
-     ],
-     [
-          "SN22.87",
           "decline (parihāna)",
           "fear of"
      ],
@@ -62661,18 +62656,23 @@ export const indexArray =[
      ],
      [
           "SN22.87",
+          "Māra",
+          "cannot find arahant’s consciousness"
+     ],
+     [
+          "SN22.87",
           "Vakkali, Ven.",
           "sick, wanting to see the Buddha"
      ],
      [
           "SN22.87",
-          "devas",
-          "conveying message from the Buddha"
+          "declaring enlightenment",
+          "aggregates impermanent"
      ],
      [
           "SN22.87",
-          "Māra",
-          "cannot find arahant’s consciousness"
+          "devas",
+          "conveying message from the Buddha"
      ],
      [
           "SN22.87",
@@ -64831,6 +64831,11 @@ export const indexArray =[
      ],
      [
           "SN35.135",
+          "brahmacariya",
+          "rare in the world"
+     ],
+     [
+          "SN35.135",
           "heaven (sagga)",
           "called the six fields of contact"
      ],
@@ -65521,8 +65526,23 @@ export const indexArray =[
      ],
      [
           "SN35.241",
+          "Nanda, Ven., cowherd",
+          "ordaining after Dhamma talk"
+     ],
+     [
+          "SN35.241",
+          "cowherd",
+          "ordaining after Dhamma talk"
+     ],
+     [
+          "SN35.241",
           "delight (nandi)",
           "like sinking in river"
+     ],
+     [
+          "SN35.241",
+          "false spiritual claims",
+          "like log rotting away"
      ],
      [
           "SN35.241",
@@ -65548,21 +65568,6 @@ export const indexArray =[
           "SN35.241",
           "greed (rāga)",
           "like sinking in river"
-     ],
-     [
-          "SN35.241",
-          "Nanda, Ven., cowherd",
-          "ordaining after Dhamma talk"
-     ],
-     [
-          "SN35.241",
-          "cowherd",
-          "ordaining after Dhamma talk"
-     ],
-     [
-          "SN35.241",
-          "false spiritual claims",
-          "like log rotting away"
      ],
      [
           "SN35.241",
@@ -65856,6 +65861,16 @@ export const indexArray =[
      ],
      [
           "SN35.248",
+          "Sakka, Lord of Gods",
+          "binding Vepacitti"
+     ],
+     [
+          "SN35.248",
+          "Vepacitti, asura",
+          "bound after battle"
+     ],
+     [
+          "SN35.248",
           "asuras",
           "war with devas"
      ],
@@ -65876,6 +65891,16 @@ export const indexArray =[
      ],
      [
           "SN35.248",
+          "darts (salla)",
+          "conceiving"
+     ],
+     [
+          "SN35.248",
+          "devas",
+          "war with asuras"
+     ],
+     [
+          "SN35.248",
           "Māra",
           "bonds of conceiving"
      ],
@@ -65888,26 +65913,6 @@ export const indexArray =[
           "SN35.248",
           "proliferation (papañca)",
           "forms of"
-     ],
-     [
-          "SN35.248",
-          "Sakka, Lord of Gods",
-          "binding Vepacitti"
-     ],
-     [
-          "SN35.248",
-          "Vepacitti, asura",
-          "bound after battle"
-     ],
-     [
-          "SN35.248",
-          "darts (salla)",
-          "conceiving"
-     ],
-     [
-          "SN35.248",
-          "devas",
-          "war with asuras"
      ],
      [
           "SN35.248",
@@ -72721,16 +72726,6 @@ export const indexArray =[
      ],
      [
           "SN55.40",
-          "Nandiya the Sakyan",
-          "asking about living negligently"
-     ],
-     [
-          "SN55.40",
-          "contentment",
-          "with partial attainments"
-     ],
-     [
-          "SN55.40",
           "heedfulness (appamāda)",
           "noble disciple"
      ],
@@ -72743,6 +72738,16 @@ export const indexArray =[
           "SN55.40",
           "heedlessness (pamāda)",
           "noble disciples"
+     ],
+     [
+          "SN55.40",
+          "Nandiya the Sakyan",
+          "asking about living negligently"
+     ],
+     [
+          "SN55.40",
+          "contentment",
+          "with partial attainments"
      ],
      [
           "SN55.40",

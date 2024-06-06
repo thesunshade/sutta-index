@@ -9603,6 +9603,12 @@ export const indexObject ={
                          "xref spiritual path (brahmacariya)"
                     ]
                },
+               "rare in the world": {
+                    "locators": [
+                         "SN35.135"
+                    ],
+                    "xrefs": []
+               },
                "is the cream": {
                     "locators": [
                          "SN12.22"
@@ -34751,6 +34757,7 @@ export const indexObject ={
                "": {
                     "locators": [],
                     "xrefs": [
+                         "xref brahmacariya",
                          "xref monastic life",
                          "xref ordination (upasampadā)"
                     ]
@@ -58533,6 +58540,7 @@ export const indexObject ={
                "": {
                     "locators": [],
                     "xrefs": [
+                         "xref brahmacariya",
                          "xref going forth (pabbajja)"
                     ]
                },
@@ -76580,7 +76588,9 @@ export const indexObject ={
                     "locators": [],
                     "xrefs": [
                          "xref fundamentals of the spiritual life (ādibrahmacariya)",
-                         "xref monastic life"
+                         "xref going forth (pabbajja)",
+                         "xref monastic life",
+                         "xref ordination (upasampadā)"
                     ]
                },
                "rejected in youth": {

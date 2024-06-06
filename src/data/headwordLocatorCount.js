@@ -6368,6 +6368,10 @@ export const indexObject =[
           2
      ],
      [
+          "brahmacariya",
+          2
+     ],
+     [
           "Brahmā, Great",
           2
      ],
@@ -9717,10 +9721,6 @@ export const indexObject =[
      ],
      [
           "Brahmāyu, brahmin",
-          1
-     ],
-     [
-          "brahmacariya",
           1
      ],
      [
