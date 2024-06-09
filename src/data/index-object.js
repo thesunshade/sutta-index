@@ -263,6 +263,7 @@ export const indexObject ={
                     "locators": [],
                     "xrefs": [
                          "xref right view (sammā diṭṭhi)",
+                         "xref right view, person accomplished in (diṭṭhisampanna puggala)",
                          "xref stream-enterers (sotāpanna)"
                     ]
                },
@@ -319,6 +320,12 @@ export const indexObject ={
                     "locators": [
                          "SN12.27",
                          "SN12.33"
+                    ],
+                    "xrefs": []
+               },
+               "understands four noble truths": {
+                    "locators": [
+                         "SN56.36"
                     ],
                     "xrefs": []
                }
@@ -1998,6 +2005,12 @@ export const indexObject ={
                          "SN55.24"
                     ],
                     "xrefs": []
+               },
+               "people who refrain from are few": {
+                    "locators": [
+                         "SN56.64"
+                    ],
+                    "xrefs": []
                }
           },
           "alcoholics": {
@@ -3310,6 +3323,12 @@ export const indexObject ={
                          "AN10.216"
                     ],
                     "xrefs": []
+               },
+               "in the ocean are more numerous": {
+                    "locators": [
+                         "SN56.36"
+                    ],
+                    "xrefs": []
                }
           },
           "animosities (vera)": {
@@ -4222,6 +4241,12 @@ export const indexObject ={
                          "AN10.69"
                     ],
                     "xrefs": []
+               },
+               "entering lotus stalk": {
+                    "locators": [
+                         "SN56.41"
+                    ],
+                    "xrefs": []
                }
           },
           "arousing energy": {
@@ -4322,6 +4347,12 @@ export const indexObject ={
                          "MN63",
                          "MN101",
                          "MN105"
+                    ],
+                    "xrefs": []
+               },
+               "shot through keyhole": {
+                    "locators": [
+                         "SN56.45"
                     ],
                     "xrefs": []
                }
@@ -4555,6 +4586,12 @@ export const indexObject ={
                          "AN8.85"
                     ],
                     "xrefs": []
+               },
+               "people who respect are few": {
+                    "locators": [
+                         "SN56.68"
+                    ],
+                    "xrefs": []
                }
           },
           "ascetics and brahmins (samaṇabrāhmaṇa)": {
@@ -4654,7 +4691,9 @@ export const indexObject ={
                },
                "knowing and not knowing four noble truths": {
                     "locators": [
-                         "SN56.22"
+                         "SN56.22",
+                         "SN56.42",
+                         "SN56.43"
                     ],
                     "xrefs": []
                }
@@ -5311,6 +5350,7 @@ export const indexObject ={
                     "locators": [
                          "MN37",
                          "SN35.248",
+                         "SN56.41",
                          "AN9.39"
                     ],
                     "xrefs": []
@@ -7053,6 +7093,15 @@ export const indexObject ={
                "simile for sense bases, tangled": {
                     "locators": [
                          "SN35.229"
+                    ],
+                    "xrefs": []
+               }
+          },
+          "balls of clay": {
+               "compared to earth, simile for suffering removed by stream-enterer": {
+                    "locators": [
+                         "SN56.55",
+                         "SN56.56"
                     ],
                     "xrefs": []
                }
@@ -10001,6 +10050,12 @@ export const indexObject ={
                          "SN35.132"
                     ],
                     "xrefs": []
+               },
+               "people who respect are few": {
+                    "locators": [
+                         "SN56.69"
+                    ],
+                    "xrefs": []
                }
           },
           "breathing (assāsapassāsa)": {
@@ -12850,6 +12905,12 @@ export const indexObject ={
                          "SN22.84"
                     ],
                     "xrefs": []
+               },
+               "of saṁsara is more dangerous": {
+                    "locators": [
+                         "SN56.42"
+                    ],
+                    "xrefs": []
                }
           },
           "clinging": {
@@ -15349,10 +15410,16 @@ export const indexObject ={
                     ]
                }
           },
-          "cotton wool (tūlapicu)": {
+          "cotton wool (kappāsapicu, tūlapicu)": {
                "simile for body and psychic powers": {
                     "locators": [
                          "SN51.22"
+                    ],
+                    "xrefs": []
+               },
+               "simile for one not grounded in four noble truths": {
+                    "locators": [
+                         "SN56.39"
                     ],
                     "xrefs": []
                }
@@ -16676,6 +16743,18 @@ export const indexObject ={
                "forerunner of sunrise, simile for one with proper attention": {
                     "locators": [
                          "SN46.13"
+                    ],
+                    "xrefs": []
+               },
+               "": {
+                    "locators": [],
+                    "xrefs": [
+                         "xref sunrise"
+                    ]
+               },
+               "precedes sunrise, simile for right view and four noble truths": {
+                    "locators": [
+                         "SN56.37"
                     ],
                     "xrefs": []
                }
@@ -18758,7 +18837,8 @@ export const indexObject ={
                "war with asuras": {
                     "locators": [
                          "MN37",
-                         "SN35.248"
+                         "SN35.248",
+                         "SN56.41"
                     ],
                     "xrefs": []
                },
@@ -19343,6 +19423,12 @@ export const indexObject ={
                "for laypeople": {
                     "locators": [
                          "SN55.53"
+                    ],
+                    "xrefs": []
+               },
+               "rarity of, simile of blind turtle": {
+                    "locators": [
+                         "SN56.48"
                     ],
                     "xrefs": []
                }
@@ -22140,6 +22226,12 @@ export const indexObject ={
                          "AN9.23"
                     ],
                     "xrefs": []
+               },
+               "people who refrain from are few": {
+                    "locators": [
+                         "SN56.75"
+                    ],
+                    "xrefs": []
                }
           },
           "divisive speech, giving up": {
@@ -23220,6 +23312,31 @@ export const indexObject ={
                          "SN22.99"
                     ],
                     "xrefs": []
+               },
+               "simile of suffering removed by stream-enterer": {
+                    "locators": [
+                         "SN56.51"
+                    ],
+                    "xrefs": []
+               },
+               "simile for suffering removed by stream-enterer": {
+                    "locators": [
+                         "SN56.55",
+                         "SN56.56"
+                    ],
+                    "xrefs": []
+               },
+               "simile for humans being few": {
+                    "locators": [
+                         "SN56.61"
+                    ],
+                    "xrefs": []
+               },
+               "simile for people born in middle country being few": {
+                    "locators": [
+                         "SN56.62"
+                    ],
+                    "xrefs": []
                }
           },
           "earthquakes": {
@@ -23426,6 +23543,12 @@ export const indexObject ={
                          "AN8.80"
                     ],
                     "xrefs": []
+               },
+               "people who refrain from eating in wrong time are few": {
+                    "locators": [
+                         "SN56.79"
+                    ],
+                    "xrefs": []
                }
           },
           "eating in moderation": {
@@ -23598,12 +23721,18 @@ export const indexObject ={
                     "xrefs": []
                }
           },
-          "elders": {
+          "elders (jeṭṭha)": {
                "": {
                     "locators": [],
                     "xrefs": [
                          "xref seniority"
                     ]
+               },
+               "people who honour are few": {
+                    "locators": [
+                         "SN56.70"
+                    ],
+                    "xrefs": []
                }
           },
           "element of extinguishment (nibbānadhātu)": {
@@ -26036,6 +26165,12 @@ export const indexObject ={
                          "Iti61"
                     ],
                     "xrefs": []
+               },
+               "people with are few": {
+                    "locators": [
+                         "SN56.63"
+                    ],
+                    "xrefs": []
                }
           },
           "eyes": {
@@ -27890,6 +28025,12 @@ export const indexObject ={
                     "xrefs": [
                          "xref parents"
                     ]
+               },
+               "people who respect are few": {
+                    "locators": [
+                         "SN56.67"
+                    ],
+                    "xrefs": []
                }
           },
           "fault-finding": {
@@ -29069,6 +29210,24 @@ export const indexObject ={
                "not even little amount of aggregates permanent": {
                     "locators": [
                          "SN22.97"
+                    ],
+                    "xrefs": []
+               },
+               "dirt, simile of suffering removed by stream-enterer": {
+                    "locators": [
+                         "SN56.51"
+                    ],
+                    "xrefs": []
+               },
+               "simile for humans being few": {
+                    "locators": [
+                         "SN56.61"
+                    ],
+                    "xrefs": []
+               },
+               "simile for people born in middle country being few": {
+                    "locators": [
+                         "SN56.62"
                     ],
                     "xrefs": []
                }
@@ -31168,9 +31327,10 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "as fundamentals of the spiritual life": {
+               "fundamentals of the spiritual life": {
                     "locators": [
-                         "MN63"
+                         "MN63",
+                         "SN56.41"
                     ],
                     "xrefs": []
                },
@@ -31288,6 +31448,42 @@ export const indexObject ={
                "ending suffering without making the breakthrough": {
                     "locators": [
                          "SN56.32"
+                    ],
+                    "xrefs": []
+               },
+               "more important than head on fire": {
+                    "locators": [
+                         "SN56.34"
+                    ],
+                    "xrefs": []
+               },
+               "understanding does not cause suffering": {
+                    "locators": [
+                         "SN56.35"
+                    ],
+                    "xrefs": []
+               },
+               "like sunrise follows dawn": {
+                    "locators": [
+                         "SN56.37"
+                    ],
+                    "xrefs": []
+               },
+               "when Buddha appears": {
+                    "locators": [
+                         "SN56.38"
+                    ],
+                    "xrefs": []
+               },
+               "harder to penetrate than horsehair": {
+                    "locators": [
+                         "SN56.45"
+                    ],
+                    "xrefs": []
+               },
+               "not understanding is darker than space": {
+                    "locators": [
+                         "SN56.46"
                     ],
                     "xrefs": []
                }
@@ -32030,6 +32226,12 @@ export const indexObject ={
                "Buddha only teaches what is": {
                     "locators": [
                          "SN56.31"
+                    ],
+                    "xrefs": []
+               },
+               "four noble truths": {
+                    "locators": [
+                         "SN56.41"
                     ],
                     "xrefs": []
                }
@@ -35982,6 +36184,18 @@ export const indexObject ={
                          "SN35.138"
                     ],
                     "xrefs": []
+               },
+               "compared to creatures in the ocean": {
+                    "locators": [
+                         "SN56.36"
+                    ],
+                    "xrefs": []
+               },
+               "water on tip of, simile for suffering removed by stream-enterer": {
+                    "locators": [
+                         "SN56.52"
+                    ],
+                    "xrefs": []
                }
           },
           "grateful person": {
@@ -36836,6 +37050,18 @@ export const indexObject ={
                          "MN83"
                     ],
                     "xrefs": []
+               },
+               "": {
+                    "locators": [],
+                    "xrefs": [
+                         "xref head on fire"
+                    ]
+               },
+               "horse hair split seven times": {
+                    "locators": [
+                         "SN56.45"
+                    ],
+                    "xrefs": []
                }
           },
           "Hāliddikāni, householder": {
@@ -37605,6 +37831,12 @@ export const indexObject ={
                          "AN8.40"
                     ],
                     "xrefs": []
+               },
+               "people who refrain from are few": {
+                    "locators": [
+                         "SN56.76"
+                    ],
+                    "xrefs": []
                }
           },
           "harsh speech, giving up": {
@@ -37902,6 +38134,12 @@ export const indexObject ={
                "how to live": {
                     "locators": [
                          "SN22.95"
+                    ],
+                    "xrefs": []
+               },
+               "ignore to understand four noble truths": {
+                    "locators": [
+                         "SN56.34"
                     ],
                     "xrefs": []
                }
@@ -39436,6 +39674,7 @@ export const indexObject ={
                          "CUSTOM:Dhp:Dhammapada Chapter 22:suttacentral.net/dhp306-319/en/sujato"
                     ],
                     "xrefs": [
+                         "xref underworld (vinipāta)",
                          "xref wrong views"
                     ]
                },
@@ -39676,6 +39915,12 @@ export const indexObject ={
                          "SN35.235"
                     ],
                     "xrefs": []
+               },
+               "“The Great Conflagration”": {
+                    "locators": [
+                         "SN56.43"
+                    ],
+                    "xrefs": []
                }
           },
           "Hell of Excrement": {
@@ -39853,6 +40098,13 @@ export const indexObject ={
                "simile for good people": {
                     "locators": [
                          "Dhp304"
+                    ],
+                    "xrefs": []
+               },
+               "simile for suffering removed by stream-enterer": {
+                    "locators": [
+                         "SN56.59",
+                         "SN56.60"
                     ],
                     "xrefs": []
                }
@@ -40621,11 +40873,22 @@ export const indexObject ={
                          "SN12.64"
                     ],
                     "xrefs": []
-               }
+               },
+               "counter_value": 1
+          },
+          "houses (kūṭāgāra)": {
+               "climbing to upper story before lower is built, simile for ending suffering without understanding four noble truths": {
+                    "locators": [
+                         "SN56.44"
+                    ],
+                    "xrefs": []
+               },
+               "counter_value": 2
           },
           "human birth": {
                "rarity of": {
                     "locators": [
+                         "SN56.61",
                          "Dhp182"
                     ],
                     "xrefs": []
@@ -42276,6 +42539,12 @@ export const indexObject ={
                "caused by thinking about inconceivable things": {
                     "locators": [
                          "AN4.77"
+                    ],
+                    "xrefs": []
+               },
+               "because of speculation about the world": {
+                    "locators": [
+                         "SN56.41"
                     ],
                     "xrefs": []
                },
@@ -44846,6 +45115,12 @@ export const indexObject ={
                          "AN6.18"
                     ],
                     "xrefs": []
+               },
+               "people who refrain from are few": {
+                    "locators": [
+                         "SN56.71"
+                    ],
+                    "xrefs": []
                }
           },
           "killing, giving up": {
@@ -47040,6 +47315,12 @@ export const indexObject ={
                          "SN56.32"
                     ],
                     "xrefs": []
+               },
+               "compared to creatures in the ocean": {
+                    "locators": [
+                         "SN56.36"
+                    ],
+                    "xrefs": []
                }
           },
           "left over, with something (saupādisesa)": {
@@ -47186,6 +47467,20 @@ export const indexObject ={
                "how to obtain": {
                     "locators": [
                          "MN6"
+                    ],
+                    "xrefs": []
+               }
+          },
+          "Licchavi youth": {
+               "showing respect to the Buddha": {
+                    "locators": [
+                         "AN5.58"
+                    ],
+                    "xrefs": []
+               },
+               "practicing archery": {
+                    "locators": [
+                         "SN56.45"
                     ],
                     "xrefs": []
                }
@@ -48210,6 +48505,18 @@ export const indexObject ={
                          "SN22.94"
                     ],
                     "xrefs": []
+               },
+               "army entering": {
+                    "locators": [
+                         "SN56.41"
+                    ],
+                    "xrefs": []
+               },
+               "": {
+                    "locators": [],
+                    "xrefs": [
+                         "xref ponds"
+                    ]
                }
           },
           "love": {
@@ -49032,6 +49339,12 @@ export const indexObject ={
                          "AN10.73"
                     ],
                     "xrefs": []
+               },
+               "people who refrain from are few": {
+                    "locators": [
+                         "SN56.74"
+                    ],
+                    "xrefs": []
                }
           },
           "lying posture": {
@@ -49085,6 +49398,15 @@ export const indexObject ={
           }
      },
      "M": {
+          "madness": {
+               "": {
+                    "locators": [],
+                    "xrefs": [
+                         "xref insanity (amūḷha)",
+                         "xref insanity (ummāda)"
+                    ]
+               }
+          },
           "Māgaṇḍiya": {
                "father of Māgaṇḍiyā": {
                     "locators": [
@@ -51017,6 +51339,13 @@ export const indexObject ={
                "grounds for making, brahmins’": {
                     "locators": [
                          "MN99"
+                    ],
+                    "xrefs": []
+               },
+               "none in hell": {
+                    "locators": [
+                         "MN129",
+                         "SN56.47"
                     ],
                     "xrefs": []
                },
@@ -52979,6 +53308,12 @@ export const indexObject ={
                          "Ud7.2"
                     ],
                     "xrefs": []
+               },
+               "because of not knowing four noble truths": {
+                    "locators": [
+                         "SN56.39"
+                    ],
+                    "xrefs": []
                }
           },
           "mission, going on": {
@@ -54232,6 +54567,12 @@ export const indexObject ={
                          "SN22.102"
                     ],
                     "xrefs": []
+               },
+               "simile for Buddha arising in world": {
+                    "locators": [
+                         "SN56.38"
+                    ],
+                    "xrefs": []
                }
           },
           "morality": {
@@ -54414,6 +54755,12 @@ export const indexObject ={
                "thinking of all women as": {
                     "locators": [
                          "SN35.127"
+                    ],
+                    "xrefs": []
+               },
+               "people who respect are few": {
+                    "locators": [
+                         "SN56.66"
                     ],
                     "xrefs": []
                }
@@ -55714,7 +56061,8 @@ export const indexObject ={
                "": {
                     "locators": [],
                     "xrefs": [
-                         "xref learned noble disciple (sutavā ariyasāvaka)"
+                         "xref learned noble disciple (sutavā ariyasāvaka)",
+                         "xref right view, person accomplished in (diṭṭhisampanna puggala)"
                     ]
                },
                "definition": {
@@ -57551,6 +57899,19 @@ export const indexObject ={
                "measuring water in, simile for merit": {
                     "locators": [
                          "SN55.41"
+                    ],
+                    "xrefs": []
+               },
+               "animals in are more numerous": {
+                    "locators": [
+                         "SN56.36"
+                    ],
+                    "xrefs": []
+               },
+               "simile for suffering removed by stream-enterer": {
+                    "locators": [
+                         "SN56.57",
+                         "SN56.58"
                     ],
                     "xrefs": []
                }
@@ -59940,6 +60301,28 @@ export const indexObject ={
                     "xrefs": []
                }
           },
+          "pebbles": {
+               "": {
+                    "locators": [],
+                    "xrefs": [
+                         "xref stones"
+                    ]
+               },
+               "compared to Mt. Sineru, simile for suffering ended": {
+                    "locators": [
+                         "SN56.49",
+                         "SN56.50"
+                    ],
+                    "xrefs": []
+               },
+               "compared to Himalayas, simile for suffering ended": {
+                    "locators": [
+                         "SN56.59",
+                         "SN56.60"
+                    ],
+                    "xrefs": []
+               }
+          },
           "peg": {
                "simile for replacing unwholesome with wholesome": {
                     "locators": [
@@ -61563,6 +61946,13 @@ export const indexObject ={
                          "SN22.100"
                     ],
                     "xrefs": []
+               },
+               "simile for one grounded in four noble truths": {
+                    "locators": [
+                         "SN56.39",
+                         "SN56.40"
+                    ],
+                    "xrefs": []
                }
           },
           "Pilotika, wanderer": {
@@ -61706,6 +62096,12 @@ export const indexObject ={
                "simile for self in aggregates": {
                     "locators": [
                          "MN35"
+                    ],
+                    "xrefs": []
+               },
+               "people who refrain from injuring are few": {
+                    "locators": [
+                         "SN56.78"
                     ],
                     "xrefs": []
                }
@@ -61980,6 +62376,12 @@ export const indexObject ={
                "lotus, simile for Māra finding vulnerabilities": {
                     "locators": [
                          "MN119"
+                    ],
+                    "xrefs": []
+               },
+               "giant, simile for suffering removed by stream-enterer": {
+                    "locators": [
+                         "SN56.52"
                     ],
                     "xrefs": []
                }
@@ -68684,12 +69086,58 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
+               "like dawn precedes sunrise": {
+                    "locators": [
+                         "SN56.37"
+                    ],
+                    "xrefs": []
+               },
                "counter_value": 2
           },
           "right view, person accomplished in (diṭṭhisampanna puggala)": {
                "impossibilities": {
                     "locators": [
                          "AN1.268-276"
+                    ],
+                    "xrefs": []
+               },
+               "": {
+                    "locators": [],
+                    "xrefs": [
+                         "xref accomplishment in view (diṭṭhisampadā)",
+                         "xref noble disciple (ariya sāvaka)",
+                         "xref stream-enterers (sotāpanna)"
+                    ]
+               },
+               "suffering removed like Mt. Sineru": {
+                    "locators": [
+                         "SN56.49",
+                         "SN56.50"
+                    ],
+                    "xrefs": []
+               },
+               "suffering removed like great earth": {
+                    "locators": [
+                         "SN56.51",
+                         "SN56.55"
+                    ],
+                    "xrefs": []
+               },
+               "suffering removed like giant pond": {
+                    "locators": [
+                         "SN56.52"
+                    ],
+                    "xrefs": []
+               },
+               "suffering removed like water in rivers": {
+                    "locators": [
+                         "SN56.54"
+                    ],
+                    "xrefs": []
+               },
+               "water in oceans like suffering removed": {
+                    "locators": [
+                         "SN56.57"
                     ],
                     "xrefs": []
                }
@@ -68809,6 +69257,13 @@ export const indexObject ={
                "bring water to oceans, simile for merit": {
                     "locators": [
                          "SN55.41"
+                    ],
+                    "xrefs": []
+               },
+               "great rives converge, simile for suffering removed by stream-enterer": {
+                    "locators": [
+                         "SN56.53",
+                         "SN56.54"
                     ],
                     "xrefs": []
                }
@@ -69632,6 +70087,24 @@ export const indexObject ={
                "only lasting for a specific time": {
                     "locators": [
                          "MN76"
+                    ],
+                    "xrefs": []
+               },
+               "no known beginning": {
+                    "locators": [
+                         "SN56.35"
+                    ],
+                    "xrefs": []
+               },
+               "worse than a dangerous cliff": {
+                    "locators": [
+                         "SN56.42"
+                    ],
+                    "xrefs": []
+               },
+               "worse than hell": {
+                    "locators": [
+                         "SN56.43"
                     ],
                     "xrefs": []
                }
@@ -72430,6 +72903,12 @@ export const indexObject ={
                          "AN7.72"
                     ],
                     "xrefs": []
+               },
+               "all painful in hell": {
+                    "locators": [
+                         "SN56.43"
+                    ],
+                    "xrefs": []
                }
           },
           "sense perceptions (kāmasaññā)": {
@@ -73524,6 +74003,16 @@ export const indexObject ={
                     ]
                }
           },
+          "seven lives": {
+               "for stream-enterer": {
+                    "locators": [
+                         "SN56.50",
+                         "SN56.50",
+                         "SN56.51"
+                    ],
+                    "xrefs": []
+               }
+          },
           "sewer": {
                "simile for animal realm": {
                     "locators": [
@@ -73742,6 +74231,12 @@ export const indexObject ={
                "leading to rivalry and enmity": {
                     "locators": [
                          "AN8.40"
+                    ],
+                    "xrefs": []
+               },
+               "people who refrain from are few": {
+                    "locators": [
+                         "SN56.73"
                     ],
                     "xrefs": []
                }
@@ -74551,6 +75046,13 @@ export const indexObject ={
                     "locators": [
                          "SN22.99",
                          "AN7.66"
+                    ],
+                    "xrefs": []
+               },
+               "compared to pebbles, simile for suffering ended": {
+                    "locators": [
+                         "SN56.49",
+                         "SN56.50"
                     ],
                     "xrefs": []
                }
@@ -75715,6 +76217,14 @@ export const indexObject ={
                     "xrefs": []
                }
           },
+          "space between worlds (lokantarika)": {
+               "not as dark as not understanding four noble truths": {
+                    "locators": [
+                         "SN56.46"
+                    ],
+                    "xrefs": []
+               }
+          },
           "space element (ākāsa dhātu)": {
                "definition": {
                     "locators": [
@@ -75791,6 +76301,12 @@ export const indexObject ={
                          "SN12.63"
                     ],
                     "xrefs": []
+               },
+               "worth pain of 300 if it could help understand four noble truths": {
+                    "locators": [
+                         "SN56.35"
+                    ],
+                    "xrefs": []
                }
           },
           "specific conditionality (idappaccayatā)": {
@@ -75830,6 +76346,18 @@ export const indexObject ={
                "as inconceivable": {
                     "locators": [
                          "AN4.77"
+                    ],
+                    "xrefs": []
+               },
+               "leading to insanity": {
+                    "locators": [
+                         "SN56.41"
+                    ],
+                    "xrefs": []
+               },
+               "definition": {
+                    "locators": [
+                         "SN56.41"
                     ],
                     "xrefs": []
                }
@@ -77081,6 +77609,12 @@ export const indexObject ={
                          "AN8.84"
                     ],
                     "xrefs": []
+               },
+               "people who refrain from are few": {
+                    "locators": [
+                         "SN56.72"
+                    ],
+                    "xrefs": []
                }
           },
           "stealing, giving up": {
@@ -77137,6 +77671,12 @@ export const indexObject ={
                "landing in different ways, simile for not seeing four noble truths": {
                     "locators": [
                          "SN56.33"
+                    ],
+                    "xrefs": []
+               },
+               "compared to creatures in the ocean": {
+                    "locators": [
+                         "SN56.36"
                     ],
                     "xrefs": []
                }
@@ -77387,6 +77927,12 @@ export const indexObject ={
                          "MN119"
                     ],
                     "xrefs": []
+               },
+               "": {
+                    "locators": [],
+                    "xrefs": [
+                         "xref pebbles"
+                    ]
                }
           },
           "stopping when more left to do": {
@@ -77446,6 +77992,7 @@ export const indexObject ={
                          "xref factors of stream-entry",
                          "xref family to family (kolaṅkola)",
                          "xref one-seeder (ekabījī)",
+                         "xref right view, person accomplished in (diṭṭhisampanna puggala)",
                          "xref stages of enlightenment"
                     ]
                },
@@ -78543,6 +79090,12 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
+               "simile for Buddha arising in world": {
+                    "locators": [
+                         "SN56.38"
+                    ],
+                    "xrefs": []
+               },
                "counter_value": 2
           },
           "Sunakkhatta, Ven.": {
@@ -78607,6 +79160,18 @@ export const indexObject ={
                "follows dawn, simile for one with proper attention": {
                     "locators": [
                          "SN46.13"
+                    ],
+                    "xrefs": []
+               },
+               "": {
+                    "locators": [],
+                    "xrefs": [
+                         "xref dawn"
+                    ]
+               },
+               "follows dawn, simile for right view and four noble truths": {
+                    "locators": [
+                         "SN56.37"
                     ],
                     "xrefs": []
                }
@@ -79363,6 +79928,18 @@ export const indexObject ={
                "“noble one”": {
                     "locators": [
                          "SN56.28"
+                    ],
+                    "xrefs": []
+               },
+               "like sun arising in the world": {
+                    "locators": [
+                         "SN56.38"
+                    ],
+                    "xrefs": []
+               },
+               "rarity of, simile of blind turtle": {
+                    "locators": [
+                         "SN56.48"
                     ],
                     "xrefs": []
                }
@@ -81506,6 +82083,8 @@ export const indexObject ={
                },
                "simile for rebirth in human world; yoke": {
                     "locators": [
+                         "SN56.47",
+                         "SN56.48",
                          "Thig16.1"
                     ],
                     "xrefs": []
@@ -81513,6 +82092,18 @@ export const indexObject ={
                "simile for beings in lower world reborn as human; turtle": {
                     "locators": [
                          "MN129"
+                    ],
+                    "xrefs": []
+               },
+               "simile for Buddha arising in world": {
+                    "locators": [
+                         "SN56.48"
+                    ],
+                    "xrefs": []
+               },
+               "simile for Dhamma being rare": {
+                    "locators": [
+                         "SN56.48"
                     ],
                     "xrefs": []
                }
@@ -82003,9 +82594,16 @@ export const indexObject ={
           "underworld (vinipāta)": {
                "no good conduct in": {
                     "locators": [
-                         "MN129"
+                         "MN129",
+                         "SN56.47"
                     ],
                     "xrefs": []
+               },
+               "": {
+                    "locators": [],
+                    "xrefs": [
+                         "xref hell (niraya)"
+                    ]
                }
           },
           "undeveloped (abhāvita)": {
@@ -83107,6 +83705,12 @@ export const indexObject ={
                "causing no one to take you seriously": {
                     "locators": [
                          "AN8.40"
+                    ],
+                    "xrefs": []
+               },
+               "people who refrain from are few": {
+                    "locators": [
+                         "SN56.77"
                     ],
                     "xrefs": []
                },
@@ -84836,6 +85440,13 @@ export const indexObject ={
                "meritorious and demeritorious": {
                     "locators": [
                          "SN12.51"
+                    ],
+                    "xrefs": []
+               },
+               "taking pleasure in": {
+                    "locators": [
+                         "SN56.42",
+                         "SN56.43"
                     ],
                     "xrefs": []
                }
@@ -88710,6 +89321,8 @@ export const indexObject ={
           "yokes": {
                "simile for rebirth in human world rare": {
                     "locators": [
+                         "SN56.47",
+                         "SN56.48",
                          "Thig16.1"
                     ],
                     "xrefs": []
@@ -88723,6 +89336,18 @@ export const indexObject ={
                "simile for sense bases; black yoked to white": {
                     "locators": [
                          "SN35.232"
+                    ],
+                    "xrefs": []
+               },
+               "simile for Buddha arising in world": {
+                    "locators": [
+                         "SN56.48"
+                    ],
+                    "xrefs": []
+               },
+               "simile for Dhamma being rare": {
+                    "locators": [
+                         "SN56.48"
                     ],
                     "xrefs": []
                }

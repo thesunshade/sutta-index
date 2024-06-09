@@ -1,4 +1,4 @@
-import { useState, createContext } from "react";
+import { useState, createContext, useEffect } from "react";
 import "./App.css";
 // Components
 import SuttaIndex from "./Components/SuttaIndex.js";
@@ -23,6 +23,16 @@ function App() {
   const [isLocatorView, setIsLocatorView] = useState(false);
 
   const [searchText, setSearchText] = useState("");
+
+  useEffect(() => {
+    if (process.env.NODE_ENV === "production") {
+      const script = document.createElement("script");
+      script.setAttribute("data-goatcounter", "https://readingfaithfully.goatcounter.com/count");
+      script.async = true;
+      script.src = "//gc.zgo.at/count.js";
+      document.body.appendChild(script);
+    }
+  }, []);
 
   // hide submenus when clicking outsid them
   document.addEventListener("click", e => {
