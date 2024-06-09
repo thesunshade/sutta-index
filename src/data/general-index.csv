@@ -1463,6 +1463,41 @@ change (aññathatta)		xref arising, vanishing, and change (uppādo, vayo, aññ
 virtue (sīla)		xref factors of stream-entry
 sand		xref soil (paṁsu)
 tendency		xref underlying tendencies (anusaya)
+underworld (vinipāta)		xref hell (niraya)
+hell (niraya)		xref underworld (vinipāta)
+stones		xref pebbles
+pebbles		xref stones
+right view, person accomplished in (diṭṭhisampanna puggala)		xref accomplishment in view (diṭṭhisampadā)
+accomplishment in view (diṭṭhisampadā)		xref right view, person accomplished in (diṭṭhisampanna puggala)
+stream-enterers (sotāpanna)		xref right view, person accomplished in (diṭṭhisampanna puggala)
+right view, person accomplished in (diṭṭhisampanna puggala)		xref stream-enterers (sotāpanna)
+noble disciple (ariya sāvaka)		xref right view, person accomplished in (diṭṭhisampanna puggala)
+right view, person accomplished in (diṭṭhisampanna puggala)		xref noble disciple (ariya sāvaka)
+lotuses		xref ponds
+cosmetics		xref makeup
+rare		xref hard to obtain (dullabha)
+rare		xref opportunities (khaṇa)
+hard to obtain (dullabha)		xref opportunities (khaṇa)
+opportunities (khaṇa)		xref hard to obtain (dullabha)
+going forth (pabbajja)		xref brahmacariya
+ordination (upasampadā)		xref brahmacariya
+spiritual path (brahmacariya)		xref going forth (pabbajja)
+spiritual path (brahmacariya)		xref ordination (upasampadā)
+hair		xref head on fire
+sunrise		xref dawn
+dawn		xref sunrise
+madness		xref insanity (ummāda)
+madness		xref insanity (amūḷha)
+noble truth (ariyasacca)		xref four noble truths
+noble truth of suffering		xref four noble truths
+noble truth of the cessation of suffering		xref four noble truths
+noble truth of the origin of suffering		xref four noble truths
+noble truth of the practice that leads to the cessation of suffering		xref four noble truths
+four noble truths		xref noble truth (ariyasacca)
+four noble truths		xref noble truth of suffering
+four noble truths		xref noble truth of the cessation of suffering
+four noble truths		xref noble truth of the origin of suffering
+four noble truths		xref noble truth of the practice that leads to the cessation of suffering
 trenches		xref moats
 false speech	definition	DN2
 harsh speech	definition	DN2
@@ -1545,7 +1580,6 @@ giving (dāna)	to gain rebirth	SN29.11–50
 giving (dāna)	to gain rebirth	SN30.10–46
 giving (dāna)	to gain rebirth	SN31.3–112
 giving (dāna)	to gain rebirth	SN32.3–52
-disputes	about Dhamma	SN56.9
 refuges	formula for taking	Kp1
 precepts, ten	definition	Kp2
 samaneras	precepts of	Kp2
@@ -1558,9 +1592,12 @@ alcohol	ten precepts	Kp2
 eating	in one part of the day, ten precepts	Kp2
 dancing	abstaining from, ten precepts	Kp2
 singing	abstaining from, ten precepts	Kp2
+perfume	abstaining from, ten precepts	Kp2
+makeup	abstaining from, ten precepts	Kp2
 music	abstaining from, ten precepts	Kp2
 shows	abstaining from, ten precepts	Kp2
 luxuries	abstaining from, ten precepts	Kp2
+beds	high and large, abstaining from, ten precepts	Kp2
 money	abstaining from, ten precepts	Kp2
 gold	abstaining from, ten precepts	Kp2
 body	thirty-two parts	Kp3
@@ -17268,6 +17305,7 @@ views about the Tathāgata	not relevant to fundamentals of spiritual life	SN56.8
 four noble truths	relevant to fundamentals of spiritual life	SN56.8
 disputes (viggaha)	not relevant to fundamentals of spiritual life	SN56.9
 talk (kathā)	four noble truths	SN56.9
+disputes	about Dhamma	SN56.9
 useless speech (tiracchāna)	not relevant to fundamentals of spiritual life	SN56.10
 talk (kathā)	suitable and unsuitable	SN56.10
 speech	useless (tiraccha)	SN56.10
@@ -17312,16 +17350,6 @@ proselytizing	to those for whom you have sympathy: four noble truths	SN56.26
 friends	should be established in four noble truths	SN56.26
 family	should be established in four noble truths	SN56.26
 four noble truths	family, friends; sharing with	SN56.26
-noble truth (ariyasacca)		xref four noble truths
-noble truth of suffering		xref four noble truths
-noble truth of the cessation of suffering		xref four noble truths
-noble truth of the origin of suffering		xref four noble truths
-noble truth of the practice that leads to the cessation of suffering		xref four noble truths
-four noble truths		xref noble truth (ariyasacca)
-four noble truths		xref noble truth of suffering
-four noble truths		xref noble truth of the cessation of suffering
-four noble truths		xref noble truth of the origin of suffering
-four noble truths		xref noble truth of the practice that leads to the cessation of suffering
 noble truth (ariyasacca)	why they are called	SN56.27
 Tathāgatas	“noble one”	SN56.28
 noble truth (ariyasacca)	why they are called	SN56.28
@@ -17335,19 +17363,6 @@ four noble truths	seeing one, sees all	SN56.30
 leaves	simsapa, simile for Buddha’s knowledge	SN56.31
 simsapa	simile for Buddha’s knowledge	SN56.31
 Buddha, the	knowledge he shared	SN56.31
-rare		xref hard to obtain (dullabha)
-rare		xref opportunities (khaṇa)
-hard to obtain (dullabha)		xref opportunities (khaṇa)
-opportunities (khaṇa)		xref hard to obtain (dullabha)
-going forth (pabbajja)		xref brahmacariya
-ordination (upasampadā)		xref brahmacariya
-spiritual path (brahmacariya)		xref going forth (pabbajja)
-spiritual path (brahmacariya)		xref ordination (upasampadā)
-hair		xref head on fire
-sunrise		xref dawn
-dawn		xref sunrise
-madness		xref insanity (ummāda)
-madness		xref insanity (amūḷha)
 Dhamma teaching	what is needed for enlightenment	SN56.31
 Buddha, the	teaches only what is necessary	SN56.31
 fundamentals of the spiritual life (ādibrahmacariya)	Buddha only teaches what is	SN56.31
@@ -17402,17 +17417,6 @@ Licchavi youth	practicing archery	SN56.45
 four noble truths	harder to penetrate than horsehair	SN56.45
 space between worlds (lokantarika)	not as dark as not understanding four noble truths	SN56.46
 four noble truths	not understanding is darker than space	SN56.46
-underworld (vinipāta)		xref hell (niraya)
-hell (niraya)		xref underworld (vinipāta)
-stones		xref pebbles
-pebbles		xref stones
-right view, person accomplished in (diṭṭhisampanna puggala)		xref accomplishment in view (diṭṭhisampadā)
-accomplishment in view (diṭṭhisampadā)		xref right view, person accomplished in (diṭṭhisampanna puggala)
-stream-enterers (sotāpanna)		xref right view, person accomplished in (diṭṭhisampanna puggala)
-right view, person accomplished in (diṭṭhisampanna puggala)		xref stream-enterers (sotāpanna)
-noble disciple (ariya sāvaka)		xref right view, person accomplished in (diṭṭhisampanna puggala)
-right view, person accomplished in (diṭṭhisampanna puggala)		xref noble disciple (ariya sāvaka)
-lotuses		xref ponds
 turtles	simile for rebirth in human world; yoke	SN56.47
 yokes	simile for rebirth in human world rare 	SN56.47
 underworld (vinipāta)	no good conduct in	SN56.47
@@ -17476,3 +17480,105 @@ harsh speech	people who refrain from are few	SN56.76
 useless speech (samphappalāpa)	people who refrain from are few	SN56.77
 plants	people who refrain from injuring are few	SN56.78
 eating	people who refrain from eating in wrong time are few	SN56.79
+perfume	people who refrain from are few	SN56.80
+makeup	people who refrain from are few	SN56.80
+dancing	people who refrain from are few	SN56.81
+singing	people who refrain from are few	SN56.81
+beds	people who refrain from high and large are few	SN56.82
+money	people who refrain from are few	SN56.83
+gold	people who refrain from are few	SN56.83
+grains	people who refrain from accepting raw are few	SN56.84
+meat	people who refrain from accepting raw are few	SN56.85
+women	people who refrain from accepting are few	SN56.86
+girls	people who refrain from accepting are few	SN56.86
+bondservants (dāsa)	people who refrain from accepting are few	SN56.87
+animals	people who refrain from accepting are few	SN56.88
+animals	people who refrain from accepting are few	SN56.89
+elephants	people who refrain from accepting are few	SN56.90
+cows	people who refrain from accepting are few	SN56.90
+fields	people who refrain from accepting are few	SN56.91
+buying and selling	people who refrain from are few	SN56.92
+errands	people who refrain from running are few	SN56.93
+false weights	people who refrain from using are few	SN56.94
+bribery 	people who refrain from are few	SN56.95
+fraud 	people who refrain from are few	SN56.95
+cheating 	people who refrain from are few	SN56.95
+killing	people who refrain from are few	SN56.96
+human birth	dying as human and reborn as human are few	SN56.102
+human birth	dying as human and reborn in hell are many	SN56.102
+hell (niraya)	dying as human and reborn in hell are many	SN56.102
+human birth	dying as human and reborn as human are few	SN56.103
+human birth	dying as human and reborn as animal are many	SN56.103
+animal realm	dying as human and reborn as animal are many	SN56.103
+human birth	dying as human and reborn as human are few	SN56.104
+human birth	dying as human and reborn as ghosts are many	SN56.104
+ghost realm	dying as human and reborn as ghosts are many	SN56.104
+human birth	dying as human and reborn as gods are few	SN56.105
+human birth	dying as human and reborn in hell are many	SN56.105
+heavenly realms	dying as human and reborn as gods are few	SN56.105
+right view, person accomplished in (diṭṭhisampanna puggala)	suffering removed like great earth	SN13.1
+fingernail (nakhasikhā)	dirt, simile of suffering removed by stream-enterer	SN13.1
+ponds	giant, simile for suffering removed by stream-enterer	SN13.2
+grass	water on tip of, simile for suffering removed by stream-enterer	SN13.2
+right view, person accomplished in (diṭṭhisampanna puggala)	suffering removed like giant pond	SN13.2
+rivers	great rives converge, simile for suffering removed by stream-enterer	SN13.3
+rivers	great rives converge, simile for suffering removed by stream-enterer	SN13.4
+right view, person accomplished in (diṭṭhisampanna puggala)	suffering removed like water in rivers	SN13.4
+balls of clay	compared to earth, simile for suffering removed by stream-enterer	SN13.5
+earth, the	simile for suffering removed by stream-enterer	SN13.5
+right view, person accomplished in (diṭṭhisampanna puggala)	suffering removed like great earth	SN13.5
+balls of clay	compared to earth, simile for suffering removed by stream-enterer	SN13.6
+earth, the	simile for suffering removed by stream-enterer	SN13.6
+oceans	simile for suffering removed by stream-enterer	SN13.7
+right view, person accomplished in (diṭṭhisampanna puggala)	water in oceans like suffering removed	SN13.7
+oceans	simile for suffering removed by stream-enterer	SN13.8
+Himalayas	simile for suffering removed by stream-enterer	SN13.9
+pebbles	compared to Himalayas, simile for suffering ended 	SN13.9
+Himalayas	simile for suffering removed by stream-enterer	SN13.10
+pebbles	compared to Himalayas, simile for suffering ended 	SN13.10
+Sineru, king of mountains	compared to pebbles, simile for suffering ended	SN13.11
+pebbles	compared to Mt. Sineru, simile for suffering ended	SN13.11
+right view, person accomplished in (diṭṭhisampanna puggala)	suffering removed like Mt. Sineru	SN13.11
+elements (dhātu)	 	CUSTOM:SN:SN 14 Dhātu Saṁyutta:suttacentral.net/sn14
+elements (dhātu)	diversity of	SN14.1
+sense bases	as elements	SN14.1
+contact (phassa)	sense bases	SN14.2
+sense bases	as elements with contact	SN14.2
+contact (phassa)	sense bases	SN14.3
+sense bases	as elements with contact	SN14.3
+contact (phassa)	does not give rise to sense base	SN14.3
+feelings (vedanā)	sense bases	SN14.4
+sense bases	as elements with feeling	SN14.4
+feelings (vedanā)	sense bases	SN14.5
+sense bases	as elements with feeling	SN14.5
+feelings (vedanā)	does not give rise to sense base	SN14.5
+elements (dhātu)	diversity of	SN14.6
+perceptions (saññā)	gives rise to intention	SN14.7
+intention (saṅkappa)	gives rise to desire	SN14.7
+desire (chanda)	gives rise to passion (pariḷāha)	SN14.7
+passion (pariḷāha)	gives rise to search	SN14.7
+searches (esana, pariyesanā)	from passion (pariḷāha)	SN14.7
+searches (esana, pariyesanā)	gives rise to gain	SN14.9
+gain (lābha)	from search	SN14.9
+element of light (ābhādhātu)	because of element of darkness	SN14.11
+element of beauty (subhadhātu)	because of element of ugliness	SN14.11
+element of the dimension of infinity of space (ākāsānañcāyatanadhātu)	because of element of form	SN14.11
+element of the dimension of infinite consciousness (viññāṇañcāyatanadhātu)	because of element of dimension of infinite space	SN14.11
+element of the dimension of nothingness (ākiñcaññāyatanadhātu)	because of element of dimension of infinite consciousness	SN14.11
+element of the dimension of neither perception nor non-perception (nevasaññānāsaññāyatanadhātu)	because of element of dimension of nothingness	SN14.11
+element of the cessation of perception and feeling (saññāvedayitanirodhadhātu)	because of element of element of cessation	SN14.11
+sensual thoughts (kāmavitakka)	how they arise	SN14.12
+malicious thoughts (byāpādavitakka)	how they arise	SN14.12
+cruel thoughts (vihiṁsāvitakka)	how they arise	SN14.12
+body (kāya)	good and bad behaiour	SN14.12
+speech (vācā)	good and bad behaiour	SN14.12
+mind (manas)	good and bad behaiour	SN14.12
+thoughts of renunciation (nekkhammavitakka)	how they arise	SN14.12
+thoughts of non-ill will (abyāpādavitakka)	how they arise	SN14.12
+thoughts of non-cruelty (avihiṁsāvitakka)	how they arise	SN14.12
+torches	simile for corrupt perceptions spreading	SN14.12
+grass	burning, simile for corrupt perceptions spreading	SN14.12
+elements (dhātu)	gives rise to perception, view, thought	SN14.13
+overestimation	that one is a Buddha, reason for	SN14.13
+rebirth (upapatti)	inferior, medium, superior	SN14.13
+association	with similar people/like elements	SN14.14

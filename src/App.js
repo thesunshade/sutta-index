@@ -24,6 +24,7 @@ function App() {
 
   const [searchText, setSearchText] = useState("");
 
+  // only add GoatCounter script on production
   useEffect(() => {
     if (process.env.NODE_ENV === "production") {
       const script = document.createElement("script");
