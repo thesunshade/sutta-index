@@ -2322,6 +2322,12 @@ export const indexObject ={
                          "AN10.70"
                     ],
                     "xrefs": []
+               },
+               "cut off by being": {
+                    "locators": [
+                         "SN14.16"
+                    ],
+                    "xrefs": []
                }
           },
           "amata": {
@@ -2708,6 +2714,12 @@ export const indexObject ={
                "teaching Anāthapiṇḍika": {
                     "locators": [
                          "SN55.27"
+                    ],
+                    "xrefs": []
+               },
+               "associating with monks of great learning": {
+                    "locators": [
+                         "SN14.15"
                     ],
                     "xrefs": []
                }
@@ -3562,6 +3574,12 @@ export const indexObject ={
                "ill": {
                     "locators": [
                          "SN52.10"
+                    ],
+                    "xrefs": []
+               },
+               "associating with monks who have divine eye": {
+                    "locators": [
+                         "SN14.15"
                     ],
                     "xrefs": []
                }
@@ -4976,6 +4994,8 @@ export const indexObject ={
                "with similar people/like elements": {
                     "locators": [
                          "SN14.14",
+                         "SN14.15",
+                         "SN14.17",
                          "AN3.26",
                          "AN4.91",
                          "AN5.249",
@@ -5083,6 +5103,12 @@ export const indexObject ={
                "causing good qualities to spread": {
                     "locators": [
                          "AN8.54"
+                    ],
+                    "xrefs": []
+               },
+               "with similar people, like dung comes together with dung, etc.": {
+                    "locators": [
+                         "SN14.16"
                     ],
                     "xrefs": []
                },
@@ -8548,6 +8574,12 @@ export const indexObject ={
                          "AN7.72"
                     ],
                     "xrefs": []
+               },
+               "comes together with blood, simile for association": {
+                    "locators": [
+                         "SN14.16"
+                    ],
+                    "xrefs": []
                }
           },
           "boasting": {
@@ -9186,7 +9218,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "good and bad behaiour": {
+               "good and bad behaviour": {
                     "locators": [
                          "SN14.12"
                     ],
@@ -18868,6 +18900,12 @@ export const indexObject ={
                          "AN9.26"
                     ],
                     "xrefs": []
+               },
+               "associating with monks with evil wishes": {
+                    "locators": [
+                         "SN14.15"
+                    ],
+                    "xrefs": []
                }
           },
           "Devala the Dark": {
@@ -23053,6 +23091,12 @@ export const indexObject ={
                "no incarnation being permanent": {
                     "locators": [
                          "SN22.96"
+                    ],
+                    "xrefs": []
+               },
+               "comes together with dung, simile for association": {
+                    "locators": [
+                         "SN14.16"
                     ],
                     "xrefs": []
                }
@@ -27673,6 +27717,14 @@ export const indexObject ={
                "result of practice": {
                     "locators": [
                          "MN70"
+                    ],
+                    "xrefs": []
+               }
+          },
+          "faithless (assaddha)": {
+               "come together with faithless": {
+                    "locators": [
+                         "SN14.17"
                     ],
                     "xrefs": []
                }
@@ -33105,6 +33157,12 @@ export const indexObject ={
                "in broken pot rising up, simile for death": {
                     "locators": [
                          "SN55.21"
+                    ],
+                    "xrefs": []
+               },
+               "comes together with ghee, simile for association": {
+                    "locators": [
+                         "SN14.16"
                     ],
                     "xrefs": []
                }
@@ -40640,6 +40698,12 @@ export const indexObject ={
                          "MN77"
                     ],
                     "xrefs": []
+               },
+               "comes together with honey, simile for association": {
+                    "locators": [
+                         "SN14.16"
+                    ],
+                    "xrefs": []
                }
           },
           "honey cake": {
@@ -42527,6 +42591,14 @@ export const indexObject ={
                "leading the spiritual life": {
                     "locators": [
                          "MN126"
+                    ],
+                    "xrefs": []
+               }
+          },
+          "imprudent (anottappī)": {
+               "come together with imprudent": {
+                    "locators": [
+                         "SN14.17"
                     ],
                     "xrefs": []
                }
@@ -45130,6 +45202,14 @@ export const indexObject ={
                     "xrefs": []
                }
           },
+          "Kassapa, Ven.": {
+               "": {
+                    "locators": [],
+                    "xrefs": [
+                         "xref Mahā Kassapa, Ven."
+                    ]
+               }
+          },
           "Kātiyānī, householder": {
                "foremost with confirmed confidence": {
                     "locators": [
@@ -47150,6 +47230,12 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
+               "come together with the lazy": {
+                    "locators": [
+                         "SN14.17"
+                    ],
+                    "xrefs": []
+               },
                "counter_value": 3
           },
           "leadership": {
@@ -48592,6 +48678,12 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
+               "hanging on in ocean, simile for relying on lazy person": {
+                    "locators": [
+                         "SN14.16"
+                    ],
+                    "xrefs": []
+               },
                "counter_value": 1
           },
           "logs (dārukkhandha)": {
@@ -49890,6 +49982,12 @@ export const indexObject ={
                "awakening factors when ill": {
                     "locators": [
                          "SN46.14"
+                    ],
+                    "xrefs": []
+               },
+               "associating with monks who practice austerities": {
+                    "locators": [
+                         "SN14.15"
                     ],
                     "xrefs": []
                }
@@ -51972,6 +52070,12 @@ export const indexObject ={
                          "AN10.91"
                     ],
                     "xrefs": []
+               },
+               "comes together with milk, simile for association": {
+                    "locators": [
+                         "SN14.16"
+                    ],
+                    "xrefs": []
                }
           },
           "milking": {
@@ -52483,7 +52587,7 @@ export const indexObject ={
                "counter_value": 3
           },
           "mind (manas)": {
-               "good and bad behaiour": {
+               "good and bad behaviour": {
                     "locators": [
                          "SN14.12"
                     ],
@@ -53912,6 +54016,12 @@ export const indexObject ={
                "visiting deva world": {
                     "locators": [
                          "SN55.18"
+                    ],
+                    "xrefs": []
+               },
+               "associating with monks of great psychic power": {
+                    "locators": [
+                         "SN14.15"
                     ],
                     "xrefs": []
                }
@@ -57161,6 +57271,12 @@ export const indexObject ={
                          "SN12.41"
                     ],
                     "xrefs": []
+               },
+               "associate with": {
+                    "locators": [
+                         "SN14.16"
+                    ],
+                    "xrefs": []
                }
           },
           "noble right concentration (ariyo sammāsamādhi)": {
@@ -58261,7 +58377,17 @@ export const indexObject ={
                          "SN56.58"
                     ],
                     "xrefs": []
-               }
+               },
+               "counter_value": 1
+          },
+          "oceans (aṇṇava)": {
+               "hanging on small log, simile for relying on lazy person": {
+                    "locators": [
+                         "SN14.16"
+                    ],
+                    "xrefs": []
+               },
+               "counter_value": 2
           },
           "offences against monastic rules (āpatti)": {
                "": {
@@ -58355,6 +58481,12 @@ export const indexObject ={
                "person needing, simile of right and wrong practice": {
                     "locators": [
                          "MN126"
+                    ],
+                    "xrefs": []
+               },
+               "comes together with oil, simile for association": {
+                    "locators": [
+                         "SN14.16"
                     ],
                     "xrefs": []
                }
@@ -64744,6 +64876,12 @@ export const indexObject ={
                "very helpful to Ven. Ānanda": {
                     "locators": [
                          "SN22.83"
+                    ],
+                    "xrefs": []
+               },
+               "associating with monks who are Dhamma speakers": {
+                    "locators": [
+                         "SN14.15"
                     ],
                     "xrefs": []
                }
@@ -71275,6 +71413,12 @@ export const indexObject ={
                          "SN12.32"
                     ],
                     "xrefs": []
+               },
+               "associating with monks of great wisdom": {
+                    "locators": [
+                         "SN14.15"
+                    ],
+                    "xrefs": []
                }
           },
           "Sāti, Ven., the fisherman’s son": {
@@ -74749,6 +74893,14 @@ export const indexObject ={
                     "xrefs": []
                }
           },
+          "shameless (ahirika)": {
+               "come together with shameless": {
+                    "locators": [
+                         "SN14.17"
+                    ],
+                    "xrefs": []
+               }
+          },
           "sharing": {
                "as principle of cordiality": {
                     "locators": [
@@ -76350,7 +76502,17 @@ export const indexObject ={
                          "AN10.86"
                     ],
                     "xrefs": []
-               }
+               },
+               "counter_value": 1
+          },
+          "socializing (saṁsagga)": {
+               "promotes entanglement": {
+                    "locators": [
+                         "SN14.16"
+                    ],
+                    "xrefs": []
+               },
+               "counter_value": 2
           },
           "society": {
                "principles that lead to growth": {
@@ -77349,7 +77511,7 @@ export const indexObject ={
                "counter_value": 1
           },
           "speech (vācā)": {
-               "good and bad behaiour": {
+               "good and bad behaviour": {
                     "locators": [
                          "SN14.12"
                     ],
@@ -77803,6 +77965,12 @@ export const indexObject ={
                "simile for shortness of life": {
                     "locators": [
                          "AN7.74"
+                    ],
+                    "xrefs": []
+               },
+               "comes together with spit, simile for association": {
+                    "locators": [
+                         "SN14.16"
                     ],
                     "xrefs": []
                }
@@ -81481,7 +81649,7 @@ export const indexObject ={
                "": {
                     "locators": [],
                     "xrefs": [
-                         "xref speech"
+                         "xref useless speech (tiracchāna)"
                     ]
                }
           },
@@ -83187,6 +83355,12 @@ export const indexObject ={
                          "MN8"
                     ],
                     "xrefs": []
+               },
+               "come together with unlearned": {
+                    "locators": [
+                         "SN14.17"
+                    ],
+                    "xrefs": []
                }
           },
           "unlearned person": {
@@ -83197,13 +83371,21 @@ export const indexObject ={
                     "xrefs": []
                }
           },
-          "unmindfulness (muṭṭhassacca)": {
+          "unmindful (muṭṭhassatī)": {
                "": {
                     "locators": [],
                     "xrefs": [
-                         "xref muddle-mindedness (muṭṭhassacca)"
+                         "xref unmindfulness (muṭṭhassacca)"
                     ]
                },
+               "come together with unmindful": {
+                    "locators": [
+                         "SN14.17"
+                    ],
+                    "xrefs": []
+               }
+          },
+          "unmindfulness (muṭṭhassacca)": {
                "leads to fear": {
                     "locators": [
                          "MN4"
@@ -83766,6 +83948,12 @@ export const indexObject ={
                          "SN46.44"
                     ],
                     "xrefs": []
+               },
+               "come together with unwise": {
+                    "locators": [
+                         "SN14.17"
+                    ],
+                    "xrefs": []
                }
           },
           "unwise attention": {
@@ -83830,6 +84018,12 @@ export const indexObject ={
                "asking to live in wilderness": {
                     "locators": [
                          "AN10.99"
+                    ],
+                    "xrefs": []
+               },
+               "associating with monks who are experts in Vinaya": {
+                    "locators": [
+                         "SN14.15"
                     ],
                     "xrefs": []
                }

@@ -24987,7 +24987,7 @@ export const locatorBookObject ={
     [
       "SN14.12",
       "body (kāya)",
-      "good and bad behaiour"
+      "good and bad behaviour"
     ],
     [
       "SN14.12",
@@ -25007,7 +25007,7 @@ export const locatorBookObject ={
     [
       "SN14.12",
       "mind (manas)",
-      "good and bad behaiour"
+      "good and bad behaviour"
     ],
     [
       "SN14.12",
@@ -25017,7 +25017,7 @@ export const locatorBookObject ={
     [
       "SN14.12",
       "speech (vācā)",
-      "good and bad behaiour"
+      "good and bad behaviour"
     ],
     [
       "SN14.12",
@@ -25058,6 +25058,156 @@ export const locatorBookObject ={
       "SN14.14",
       "association",
       "with similar people/like elements"
+    ],
+    [
+      "SN14.15",
+      "Ānanda, Ven.",
+      "associating with monks of great learning"
+    ],
+    [
+      "SN14.15",
+      "Anuruddha, Ven.",
+      "associating with monks who have divine eye"
+    ],
+    [
+      "SN14.15",
+      "Devadatta",
+      "associating with monks with evil wishes"
+    ],
+    [
+      "SN14.15",
+      "association",
+      "with similar people/like elements"
+    ],
+    [
+      "SN14.15",
+      "Mahā Kassapa, Ven.",
+      "associating with monks who practice austerities"
+    ],
+    [
+      "SN14.15",
+      "Moggallāna, Ven.",
+      "associating with monks of great psychic power"
+    ],
+    [
+      "SN14.15",
+      "Puṇṇa Mantāṇiputta, Ven.",
+      "associating with monks who are Dhamma speakers"
+    ],
+    [
+      "SN14.15",
+      "Sāriputta, Ven.",
+      "associating with monks of great wisdom"
+    ],
+    [
+      "SN14.15",
+      "Upāli, Ven.",
+      "associating with monks who are experts in Vinaya"
+    ],
+    [
+      "SN14.16",
+      "aloofness (asaṁsagga)",
+      "cut off by being"
+    ],
+    [
+      "SN14.16",
+      "association",
+      "with similar people, like dung comes together with dung, etc."
+    ],
+    [
+      "SN14.16",
+      "blood",
+      "comes together with blood, simile for association"
+    ],
+    [
+      "SN14.16",
+      "dung",
+      "comes together with dung, simile for association"
+    ],
+    [
+      "SN14.16",
+      "ghee",
+      "comes together with ghee, simile for association"
+    ],
+    [
+      "SN14.16",
+      "honey",
+      "comes together with honey, simile for association"
+    ],
+    [
+      "SN14.16",
+      "logs",
+      "hanging on in ocean, simile for relying on lazy person"
+    ],
+    [
+      "SN14.16",
+      "milk",
+      "comes together with milk, simile for association"
+    ],
+    [
+      "SN14.16",
+      "noble ones (ariya)",
+      "associate with"
+    ],
+    [
+      "SN14.16",
+      "oceans (aṇṇava)",
+      "hanging on small log, simile for relying on lazy person"
+    ],
+    [
+      "SN14.16",
+      "oil",
+      "comes together with oil, simile for association"
+    ],
+    [
+      "SN14.16",
+      "socializing (saṁsagga)",
+      "promotes entanglement"
+    ],
+    [
+      "SN14.16",
+      "spit",
+      "comes together with spit, simile for association"
+    ],
+    [
+      "SN14.17",
+      "association",
+      "with similar people/like elements"
+    ],
+    [
+      "SN14.17",
+      "faithless (assaddha)",
+      "come together with faithless"
+    ],
+    [
+      "SN14.17",
+      "imprudent (anottappī)",
+      "come together with imprudent"
+    ],
+    [
+      "SN14.17",
+      "laziness (kusīta)",
+      "come together with the lazy"
+    ],
+    [
+      "SN14.17",
+      "shameless (ahirika)",
+      "come together with shameless"
+    ],
+    [
+      "SN14.17",
+      "unlearned (appassuta)",
+      "come together with unlearned"
+    ],
+    [
+      "SN14.17",
+      "unmindful (muṭṭhassatī)",
+      "come together with unmindful"
+    ],
+    [
+      "SN14.17",
+      "unwise (duppañña)",
+      "come together with unwise"
     ],
     [
       "SN17.11–20",
