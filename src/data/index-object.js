@@ -1350,7 +1350,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "pleasurable": {
+               "not exclusively pleasurable": {
                     "locators": [
                          "SN22.60"
                     ],
@@ -4727,6 +4727,12 @@ export const indexObject ={
                          "SN56.43"
                     ],
                     "xrefs": []
+               },
+               "truly understanding elements": {
+                    "locators": [
+                         "SN14.37"
+                    ],
+                    "xrefs": []
                }
           },
           "Asita, hermit": {
@@ -7144,6 +7150,12 @@ export const indexObject ={
                          "SN13.6",
                          "SN56.55",
                          "SN56.56"
+                    ],
+                    "xrefs": []
+               },
+               "simile for number of fathers": {
+                    "locators": [
+                         "SN15.2"
                     ],
                     "xrefs": []
                }
@@ -14000,6 +14012,12 @@ export const indexObject ={
                          "SN56.1"
                     ],
                     "xrefs": []
+               },
+               "come together with concentrated": {
+                    "locators": [
+                         "SN14.23"
+                    ],
+                    "xrefs": []
                }
           },
           "concentration enlightenment factor": {
@@ -14375,6 +14393,12 @@ export const indexObject ={
                "quality of a noble disciple": {
                     "locators": [
                          "AN7.67"
+                    ],
+                    "xrefs": []
+               },
+               "come together with conscientious": {
+                    "locators": [
+                         "SN14.17"
                     ],
                     "xrefs": []
                }
@@ -15687,6 +15711,12 @@ export const indexObject ={
                "living so doesn’t overwhelm": {
                     "locators": [
                          "SN35.244"
+                    ],
+                    "xrefs": []
+               },
+               "come together with people who are": {
+                    "locators": [
+                         "SN14.27"
                     ],
                     "xrefs": []
                }
@@ -18068,6 +18098,12 @@ export const indexObject ={
                "in aggregates, bound to Māra": {
                     "locators": [
                          "SN22.65"
+                    ],
+                    "xrefs": []
+               },
+               "in elements is pleasure in suffering": {
+                    "locators": [
+                         "SN14.35"
                     ],
                     "xrefs": []
                },
@@ -22374,6 +22410,12 @@ export const indexObject ={
                          "SN56.75"
                     ],
                     "xrefs": []
+               },
+               "come together with people who use": {
+                    "locators": [
+                         "SN14.26"
+                    ],
+                    "xrefs": []
                }
           },
           "divisive speech, giving up": {
@@ -23487,6 +23529,12 @@ export const indexObject ={
                          "SN56.62"
                     ],
                     "xrefs": []
+               },
+               "made into clay balls, simile for number of fathers": {
+                    "locators": [
+                         "SN15.2"
+                    ],
+                    "xrefs": []
                }
           },
           "earthquakes": {
@@ -24089,6 +24137,31 @@ export const indexObject ={
                "gives rise to perception, view, thought": {
                     "locators": [
                          "SN14.13"
+                    ],
+                    "xrefs": []
+               },
+               "earth, water, fire, air": {
+                    "locators": [
+                         "SN14.30"
+                    ],
+                    "xrefs": []
+               },
+               "gratification, danger, escape": {
+                    "locators": [
+                         "SN14.31",
+                         "SN14.32"
+                    ],
+                    "xrefs": []
+               },
+               "not exclusively painful": {
+                    "locators": [
+                         "SN14.34"
+                    ],
+                    "xrefs": []
+               },
+               "not exclusively pleasurable": {
+                    "locators": [
+                         "SN14.34"
                     ],
                     "xrefs": []
                }
@@ -24940,6 +25013,12 @@ export const indexObject ={
                "live happily": {
                     "locators": [
                          "SN12.22"
+                    ],
+                    "xrefs": []
+               },
+               "come together with energetic": {
+                    "locators": [
+                         "SN14.17"
                     ],
                     "xrefs": []
                }
@@ -27695,6 +27774,12 @@ export const indexObject ={
                "lay follower, faithful": {
                     "locators": [
                          "SN55.37"
+                    ],
+                    "xrefs": []
+               },
+               "come together with faithful": {
+                    "locators": [
+                         "SN14.17"
                     ],
                     "xrefs": []
                }
@@ -36116,6 +36201,12 @@ export const indexObject ={
                          "SN45.4"
                     ],
                     "xrefs": []
+               },
+               "come together with people who are": {
+                    "locators": [
+                         "SN14.27"
+                    ],
+                    "xrefs": []
                }
           },
           "Gopakamoggallāna, brahmin": {
@@ -36506,6 +36597,12 @@ export const indexObject ={
                          "SN14.12"
                     ],
                     "xrefs": []
+               },
+               "simile for number of mothers": {
+                    "locators": [
+                         "SN15.1"
+                    ],
+                    "xrefs": []
                }
           },
           "grateful person": {
@@ -36632,8 +36729,10 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "if there were no…": {
+               "if there were no": {
                     "locators": [
+                         "SN14.33",
+                         "SN22.28",
                          "SN35.17"
                     ],
                     "xrefs": []
@@ -36652,9 +36751,10 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "if there were no": {
+               "four elements": {
                     "locators": [
-                         "SN22.28"
+                         "SN14.31",
+                         "SN14.32"
                     ],
                     "xrefs": []
                }
@@ -38145,6 +38245,13 @@ export const indexObject ={
                "people who refrain from are few": {
                     "locators": [
                          "SN56.76"
+                    ],
+                    "xrefs": []
+               },
+               "come together with people who use": {
+                    "locators": [
+                         "SN14.26",
+                         "SN14.27"
                     ],
                     "xrefs": []
                }
@@ -42027,6 +42134,12 @@ export const indexObject ={
                          "SN46.55"
                     ],
                     "xrefs": []
+               },
+               "come together with people who are": {
+                    "locators": [
+                         "SN14.27"
+                    ],
+                    "xrefs": []
                }
           },
           "ill will, giving up": {
@@ -43946,6 +44059,12 @@ export const indexObject ={
                "people of": {
                     "locators": [
                          "AN9.21"
+                    ],
+                    "xrefs": []
+               },
+               "sticks in, simile for number of mothers": {
+                    "locators": [
+                         "SN15.1"
                     ],
                     "xrefs": []
                }
@@ -47471,6 +47590,12 @@ export const indexObject ={
                          "AN11.14"
                     ],
                     "xrefs": []
+               },
+               "come together with learned": {
+                    "locators": [
+                         "SN14.17"
+                    ],
+                    "xrefs": []
                }
           },
           "learned memorizer (bahussuto sutadharo)": {
@@ -47711,6 +47836,12 @@ export const indexObject ={
                "compared to creatures in the ocean": {
                     "locators": [
                          "SN56.36"
+                    ],
+                    "xrefs": []
+               },
+               "simile for number of mothers": {
+                    "locators": [
+                         "SN15.1"
                     ],
                     "xrefs": []
                }
@@ -52786,6 +52917,12 @@ export const indexObject ={
                          "AN11.13"
                     ],
                     "xrefs": []
+               },
+               "come together with mindful": {
+                    "locators": [
+                         "SN14.17"
+                    ],
+                    "xrefs": []
                }
           },
           "mindfulness (sati)": {
@@ -55218,6 +55355,12 @@ export const indexObject ={
                          "SN56.66"
                     ],
                     "xrefs": []
+               },
+               "like stick and leaves in Jambudipa": {
+                    "locators": [
+                         "SN15.1"
+                    ],
+                    "xrefs": []
                }
           },
           "moths": {
@@ -57191,6 +57334,13 @@ export const indexObject ={
                          "SN56.11"
                     ],
                     "xrefs": []
+               },
+               "people who practice come together with people who practice, etc.": {
+                    "locators": [
+                         "SN14.28",
+                         "SN14.29"
+                    ],
+                    "xrefs": []
                }
           },
           "noble method (ariya ñāya)": {
@@ -57466,6 +57616,14 @@ export const indexObject ={
                "analysis of": {
                     "locators": [
                          "MN139"
+                    ],
+                    "xrefs": []
+               }
+          },
+          "non-covetousness (anabhijjhā)": {
+               "come together with people who are": {
+                    "locators": [
+                         "SN14.27"
                     ],
                     "xrefs": []
                }
@@ -62755,9 +62913,21 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
+               "aggregates not exclusively pleasurable": {
+                    "locators": [
+                         "SN22.60"
+                    ],
+                    "xrefs": []
+               },
                "because of grasping at aggregates": {
                     "locators": [
                          "SN22.150"
+                    ],
+                    "xrefs": []
+               },
+               "elements not exclusively pleasurable": {
+                    "locators": [
+                         "SN14.34"
                     ],
                     "xrefs": []
                }
@@ -64000,6 +64170,13 @@ export const indexObject ={
                          "AN10.167"
                     ],
                     "xrefs": []
+               },
+               "people who break associate with people who break, etc": {
+                    "locators": [
+                         "SN14.25",
+                         "SN14.26"
+                    ],
+                    "xrefs": []
                }
           },
           "precepts, ten": {
@@ -64641,6 +64818,12 @@ export const indexObject ={
                "quality of a noble disciple": {
                     "locators": [
                          "AN7.67"
+                    ],
+                    "xrefs": []
+               },
+               "come together with prudent": {
+                    "locators": [
+                         "SN14.17"
                     ],
                     "xrefs": []
                }
@@ -69085,6 +69268,12 @@ export const indexObject ={
                          "SN55.26"
                     ],
                     "xrefs": []
+               },
+               "people who have come together": {
+                    "locators": [
+                         "SN14.29"
+                    ],
+                    "xrefs": []
                }
           },
           "right immersion (sammā samadhi)": {
@@ -69215,6 +69404,12 @@ export const indexObject ={
                "overcoming illness": {
                     "locators": [
                          "SN55.26"
+                    ],
+                    "xrefs": []
+               },
+               "people who have come together": {
+                    "locators": [
+                         "SN14.29"
                     ],
                     "xrefs": []
                }
@@ -69623,6 +69818,12 @@ export const indexObject ={
                "like dawn precedes sunrise": {
                     "locators": [
                          "SN56.37"
+                    ],
+                    "xrefs": []
+               },
+               "come together with people who have": {
+                    "locators": [
+                         "SN14.27"
                     ],
                     "xrefs": []
                },
@@ -70649,6 +70850,12 @@ export const indexObject ={
                          "SN56.43"
                     ],
                     "xrefs": []
+               },
+               "without discoverable beginning": {
+                    "locators": [
+                         "CUSTOM:SN:SN 15 Anamatagga Saṁyutta:suttacentral.net/sn15"
+                    ],
+                    "xrefs": []
                }
           },
           "saṁyojana": {
@@ -71624,6 +71831,12 @@ export const indexObject ={
                "gives rise to gain": {
                     "locators": [
                          "SN14.9"
+                    ],
+                    "xrefs": []
+               },
+               "elements gratification, danger, escape": {
+                    "locators": [
+                         "SN14.32"
                     ],
                     "xrefs": []
                }
@@ -78306,6 +78519,12 @@ export const indexObject ={
                          "SN56.36"
                     ],
                     "xrefs": []
+               },
+               "simile for number of mothers": {
+                    "locators": [
+                         "SN15.1"
+                    ],
+                    "xrefs": []
                }
           },
           "stilling of all formations (sabbasaṅkhārasamatha)": {
@@ -79445,6 +79664,7 @@ export const indexObject ={
                },
                "taking delight in": {
                     "locators": [
+                         "SN14.35",
                          "SN35.19"
                     ],
                     "xrefs": []
@@ -79534,6 +79754,24 @@ export const indexObject ={
                "includes whatever is felt": {
                     "locators": [
                          "SN12.32"
+                    ],
+                    "xrefs": []
+               },
+               "elements not exclusively painful": {
+                    "locators": [
+                         "SN14.34"
+                    ],
+                    "xrefs": []
+               },
+               "arising of elements is arising of suffering": {
+                    "locators": [
+                         "SN14.36"
+                    ],
+                    "xrefs": []
+               },
+               "ending of elements is ending of suffering": {
+                    "locators": [
+                         "SN14.36"
                     ],
                     "xrefs": []
                }
@@ -80734,6 +80972,14 @@ export const indexObject ={
                     "xrefs": [
                          "xref Dhamma visible here and now (sandiṭṭhika)"
                     ]
+               }
+          },
+          "tears (assu)": {
+               "": {
+                    "locators": [
+                         "SN15.3"
+                    ],
+                    "xrefs": []
                }
           },
           "teasing": {
@@ -82122,6 +82368,14 @@ export const indexObject ={
                     ]
                }
           },
+          "transmigration": {
+               "": {
+                    "locators": [],
+                    "xrefs": [
+                         "xref saṁsara"
+                    ]
+               }
+          },
           "trash": {
                "Buddha tells monks to take out the trash": {
                     "locators": [
@@ -83056,6 +83310,14 @@ export const indexObject ={
                     "xrefs": []
                }
           },
+          "unconcentrated (asamāhita)": {
+               "come together with unconcentrated": {
+                    "locators": [
+                         "SN14.23"
+                    ],
+                    "xrefs": []
+               }
+          },
           "unconditioned (asaṅkhata)": {
                "characteristics": {
                     "locators": [
@@ -83749,6 +84011,14 @@ export const indexObject ={
                     "xrefs": []
                }
           },
+          "unvirtuous (dussīla)": {
+               "come together with unvirtuous": {
+                    "locators": [
+                         "SN14.24"
+                    ],
+                    "xrefs": []
+               }
+          },
           "unvirtuous people": {
                "": {
                     "locators": [],
@@ -84388,6 +84658,13 @@ export const indexObject ={
                "people who refrain from are few": {
                     "locators": [
                          "SN56.77"
+                    ],
+                    "xrefs": []
+               },
+               "come together with people who use": {
+                    "locators": [
+                         "SN14.26",
+                         "SN14.27"
                     ],
                     "xrefs": []
                },
@@ -85906,6 +86183,12 @@ export const indexObject ={
                "contentment with as partial attainment": {
                     "locators": [
                          "SN55.40"
+                    ],
+                    "xrefs": []
+               },
+               "come together with virtuous": {
+                    "locators": [
+                         "SN14.24"
                     ],
                     "xrefs": []
                }
@@ -88260,6 +88543,12 @@ export const indexObject ={
                          "AN11.13"
                     ],
                     "xrefs": []
+               },
+               "come together with wise": {
+                    "locators": [
+                         "SN14.17"
+                    ],
+                    "xrefs": []
                }
           },
           "wish": {
@@ -89782,6 +90071,12 @@ export const indexObject ={
                "aggregates": {
                     "locators": [
                          "SN22.154"
+                    ],
+                    "xrefs": []
+               },
+               "come together with people who have": {
+                    "locators": [
+                         "SN14.27"
                     ],
                     "xrefs": []
                }
