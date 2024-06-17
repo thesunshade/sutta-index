@@ -8203,6 +8203,24 @@ export const indexObject ={
                "": {
                     "locators": [],
                     "xrefs": [
+                         "xref Bhadda Kaccānā, Ven.",
+                         "xref Bhaddā Kuṇḍalakesā, Ven.",
+                         "xref Bhaddā Kāpilānī, Ven.",
+                         "xref Dhammadinnā, Ven.",
+                         "xref Dhammadinnā, Ven.",
+                         "xref Jaṭilagāhikā, Ven.",
+                         "xref Kajaṅgalikā, Ven.",
+                         "xref Khemā, Ven.",
+                         "xref Kisāgotamī, Ven.",
+                         "xref Mahā Pajāpatī Gotamī, Ven.",
+                         "xref Nandā, Ven.",
+                         "xref Nandā, Ven.",
+                         "xref Paṭācārā, Ven.",
+                         "xref Sakulā, Ven.",
+                         "xref Siṅgālakamātā, Ven.",
+                         "xref Soṇā, Ven.",
+                         "xref Thullatissā, Ven.",
+                         "xref Uppalavaṇṇā, Ven.",
                          "xref monastics"
                     ]
                },
