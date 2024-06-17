@@ -5569,7 +5569,7 @@ export const locatorBookObject ={
     ],
     [
       "MN35",
-      "banana tree",
+      "banana trees",
       "simile for hollow argument"
     ],
     [
@@ -25781,11 +25781,6 @@ export const locatorBookObject ={
     ],
     [
       "SN16.3",
-      "compassion (anukampā)",
-      "teaching Dhamma"
-    ],
-    [
-      "SN16.3",
       "Dhamma teaching",
       "how to"
     ],
@@ -25798,6 +25793,11 @@ export const locatorBookObject ={
       "SN16.3",
       "cliffs",
       "simile for carefully approaching families"
+    ],
+    [
+      "SN16.3",
+      "compassion (anukampā)",
+      "teaching Dhamma"
     ],
     [
       "SN16.3",
@@ -25976,13 +25976,333 @@ export const locatorBookObject ={
     ],
     [
       "SN16.10",
+      "elephants",
+      "hiding behind a palm leaf, simile for Ven. Mahā Kassapa"
+    ],
+    [
+      "SN16.10",
+      "Mahā Kassapa, Ven.",
+      "Buddha compares himself to"
+    ],
+    [
+      "SN16.10",
+      "Mahā Kassapa, Ven.",
+      "scolded by Ven. Thullatissā"
+    ],
+    [
+      "SN16.10",
       "Mahā Kassapa, Ven.",
       "visiting bhikkhunīs with Ven. Ānanda"
     ],
     [
       "SN16.10",
-      "Thullatissā, Ven",
+      "needles",
+      "selling to needle seller, insult of Ven. Thullatissā"
+    ],
+    [
+      "SN16.10",
+      "Thullatissā, Ven.",
       "scolding Ven. Mahā Kassapa"
+    ],
+    [
+      "SN16.11",
+      "Ānanda, Ven.",
+      "called a boy by Ven. Mahā Kassapa"
+    ],
+    [
+      "SN16.11",
+      "Ānanda, Ven.",
+      "pupils disrobing"
+    ],
+    [
+      "SN16.11",
+      "Buddha, the",
+      "exchanging robes with Ven. Mahā Kassapa"
+    ],
+    [
+      "SN16.11",
+      "crops (sassa)",
+      "wrecking, simile for not leading well"
+    ],
+    [
+      "SN16.11",
+      "elephants",
+      "hiding behind a palm leaf, simile for Ven. Mahā Kassapa"
+    ],
+    [
+      "SN16.11",
+      "junior monastics",
+      "sense of conscience and prudence towards"
+    ],
+    [
+      "SN16.11",
+      "listening attentively (ohitasota)",
+      "Buddha advises Ven. Mahā Kassapa"
+    ],
+    [
+      "SN16.11",
+      "Mahā Kassapa, Ven.",
+      "meeting Buddha and receiving teaching"
+    ],
+    [
+      "SN16.11",
+      "Mahā Kassapa, Ven.",
+      "scolded by Ven. Thullatissā"
+    ],
+    [
+      "SN16.11",
+      "middle monastics",
+      "sense of conscience and prudence towards"
+    ],
+    [
+      "SN16.11",
+      "mindfulness of body (kāyagatāsati)",
+      "full of pleasure"
+    ],
+    [
+      "SN16.11",
+      "monastic rules (vinaya)",
+      "eating in groups of more than three"
+    ],
+    [
+      "SN16.11",
+      "schisms",
+      "rules to prevent"
+    ],
+    [
+      "SN16.11",
+      "senior monastics",
+      "sense of conscience and prudence towards"
+    ],
+    [
+      "SN16.11",
+      "Thullatissā, Ven.",
+      "scolding Ven. Mahā Kassapa"
+    ],
+    [
+      "SN16.12",
+      "Tathāgatas",
+      "existing after death"
+    ],
+    [
+      "SN16.13",
+      "concentration (samādhi)",
+      "respect for"
+    ],
+    [
+      "SN16.13",
+      "Dhamma",
+      "decline, factors leading to"
+    ],
+    [
+      "SN16.13",
+      "decline",
+      "more training rules when beings are in decline"
+    ],
+    [
+      "SN16.13",
+      "elements (dhātu)",
+      "don’t make teaching disappear"
+    ],
+    [
+      "SN16.13",
+      "fools (moghapurisa)",
+      "cause of disappearance of Dhamma"
+    ],
+    [
+      "SN16.13",
+      "gold",
+      "counterfeit gold, simile for untrue teachings"
+    ],
+    [
+      "SN16.13",
+      "ships",
+      "simile for Dhamma not disappearing all at once"
+    ],
+    [
+      "SN16.13",
+      "training (sikkhā)",
+      "respect for and continuation of Dhamma"
+    ],
+    [
+      "SN16.13",
+      "training rules (sikkhāpada)",
+      "why more now"
+    ],
+    [
+      "SN16.13",
+      "triple gem",
+      "respect for and continuation of Dhamma"
+    ],
+    [
+      "SN16.13",
+      "untrue teachings (asaddhamma)",
+      "arising"
+    ],
+    [
+      "SN17.2",
+      "fame (siloka)",
+      "like fish hook"
+    ],
+    [
+      "SN17.2",
+      "fish hook",
+      "simile for gain and honor"
+    ],
+    [
+      "SN17.2",
+      "fisherman",
+      "simile for Mara"
+    ],
+    [
+      "SN17.2",
+      "gain (lābha)",
+      "like fish hook"
+    ],
+    [
+      "SN17.2",
+      "honor (sakkāra)",
+      "like fish hook"
+    ],
+    [
+      "SN17.2",
+      "Māra",
+      "like fisherman"
+    ],
+    [
+      "SN17.3",
+      "delight (nandi)",
+      "like cord"
+    ],
+    [
+      "SN17.3",
+      "fame (siloka)",
+      "like turtle struck with harpoon"
+    ],
+    [
+      "SN17.3",
+      "gain (lābha)",
+      "like turtle struck with harpoon"
+    ],
+    [
+      "SN17.3",
+      "greed (rāga)",
+      "like cord"
+    ],
+    [
+      "SN17.3",
+      "honor (sakkāra)",
+      "like turtle struck with harpoon"
+    ],
+    [
+      "SN17.3",
+      "Māra",
+      "like hunter"
+    ],
+    [
+      "SN17.3",
+      "ropes",
+      "simile for greed and relishing"
+    ],
+    [
+      "SN17.3",
+      "spears",
+      "simile for gain and honor"
+    ],
+    [
+      "SN17.3",
+      "turtles",
+      "struck by harpoon, simile for gain and honor"
+    ],
+    [
+      "SN17.4",
+      "sheep",
+      "simile for being trapped by gain and honor"
+    ],
+    [
+      "SN17.5",
+      "dung ",
+      "simile for requisites"
+    ],
+    [
+      "SN17.5",
+      "dung beetle",
+      "simile for gain and honor"
+    ],
+    [
+      "SN17.5",
+      "fame (siloka)",
+      "like dung"
+    ],
+    [
+      "SN17.5",
+      "gain (lābha)",
+      "like dung"
+    ],
+    [
+      "SN17.5",
+      "honor (sakkāra)",
+      "like dung"
+    ],
+    [
+      "SN17.5",
+      "requisites, four",
+      "like dung"
+    ],
+    [
+      "SN17.6",
+      "lightening",
+      "simile for gain and honor"
+    ],
+    [
+      "SN17.7",
+      "arrows",
+      "poisoned, simile for gain and honor"
+    ],
+    [
+      "SN17.8",
+      "fame (siloka)",
+      "mind overcome with is never happy"
+    ],
+    [
+      "SN17.8",
+      "gain (lābha)",
+      "mind overcome with is never happy"
+    ],
+    [
+      "SN17.8",
+      "honor (sakkāra)",
+      "mind overcome with is never happy"
+    ],
+    [
+      "SN17.8",
+      "jackals (siṅgāla)",
+      "simile for gain and honor"
+    ],
+    [
+      "SN17.9",
+      "birds",
+      "simile for monk attached to gain and honor"
+    ],
+    [
+      "SN17.9",
+      "disrobing",
+      "sense pleasures"
+    ],
+    [
+      "SN17.9",
+      "lust (rāga)",
+      "disrobing"
+    ],
+    [
+      "SN17.9",
+      "wind (vāyo)",
+      "simile for gain and honor"
+    ],
+    [
+      "SN17.10",
+      "honor (sakkāra)",
+      "obsessed with getting and not getting"
     ],
     [
       "SN17.11–20",
@@ -25990,9 +26310,259 @@ export const locatorBookObject ={
       "for the sake of gain"
     ],
     [
+      "SN17.11",
+      "bowls",
+      "not lying for the sake of"
+    ],
+    [
+      "SN17.11",
+      "lying",
+      "for the sake of gain and honor"
+    ],
+    [
+      "SN17.12",
+      "bowls",
+      "not lying for the sake of"
+    ],
+    [
+      "SN17.12",
+      "lying",
+      "for the sake of gain and honor"
+    ],
+    [
+      "SN17.13",
+      "gold",
+      "not lying for the sake of"
+    ],
+    [
+      "SN17.13",
+      "lying",
+      "for the sake of gain and honor"
+    ],
+    [
+      "SN17.21",
+      "fame (siloka)",
+      "more powerful than sense desire"
+    ],
+    [
+      "SN17.21",
+      "gain (lābha)",
+      "more powerful than sense desire"
+    ],
+    [
+      "SN17.21",
+      "honor (sakkāra)",
+      "more powerful than sense desire"
+    ],
+    [
+      "SN17.22",
+      "fame (siloka)",
+      "more powerful than sense desire"
+    ],
+    [
+      "SN17.22",
+      "gain (lābha)",
+      "more powerful than sense desire"
+    ],
+    [
+      "SN17.22",
+      "honor (sakkāra)",
+      "more powerful than sense desire"
+    ],
+    [
+      "SN17.22",
+      "most beautiful girl in this country (janapadakalyāṇī)",
+      "distraction, simile for gain and honor"
+    ],
+    [
+      "SN17.23",
+      "Citta of Āḷavī, householder",
+      "mothers wish for sons to be like"
+    ],
+    [
+      "SN17.23",
+      "Hatthaka of Āḷavī, householder",
+      "mothers wish for sons to be like"
+    ],
+    [
+      "SN17.23",
+      "Mahā Moggallāna, Ven.",
+      "mothers wish for sons to be like"
+    ],
+    [
+      "SN17.23",
+      "Sāriputta, Ven.",
+      "mothers wish for sons to be like"
+    ],
+    [
+      "SN17.24",
+      "Khemā, Ven.",
+      "mothers wish for daughters to be like"
+    ],
+    [
+      "SN17.24",
+      "Khujjuttarā, householder",
+      "mothers wish for daughters to be like"
+    ],
+    [
+      "SN17.24",
+      "Uppalavaṇṇā, Ven.",
+      "mothers wish for daughters to be like"
+    ],
+    [
+      "SN17.24",
+      "Veḷukaṇṭakī Nandamāta, householder",
+      "mothers wish for daughters to be like"
+    ],
+    [
+      "SN17.25",
+      "ascetics and brahmins (samaṇabrāhmaṇa)",
+      "understanding gain and honor"
+    ],
+    [
+      "SN17.25",
+      "gratification, danger, escape",
+      "in gain and honor"
+    ],
+    [
+      "SN17.26",
+      "origin, ending (samudayañca atthaṅgamañca)",
+      "understanding gain and honor"
+    ],
+    [
+      "SN17.27",
+      "fame (siloka)",
+      "four noble truths pattern"
+    ],
+    [
+      "SN17.27",
+      "four noble truths pattern",
+      "gain and honor"
+    ],
+    [
+      "SN17.27",
+      "gain (lābha)",
+      "four noble truths pattern"
+    ],
+    [
+      "SN17.27",
+      "honor (sakkāra)",
+      "four noble truths pattern"
+    ],
+    [
+      "SN17.28",
+      "fame (siloka)",
+      "cutting through skin, flesh, sinews, bones"
+    ],
+    [
+      "SN17.28",
+      "gain (lābha)",
+      "cutting through skin, flesh, sinews, bones"
+    ],
+    [
+      "SN17.28",
+      "honor (sakkāra)",
+      "cutting through skin, flesh, sinews, bones"
+    ],
+    [
+      "SN17.29",
+      "ropes",
+      "cutting through skin, flesh, etc.; simile for gain and honor"
+    ],
+    [
+      "SN17.29",
+      "strong person",
+      "cutting through skin, flesh, etc.; simile for gain and honor"
+    ],
+    [
+      "SN17.30",
+      "fame (siloka)",
+      "obstruction even for arahant’s blissful meditation"
+    ],
+    [
+      "SN17.30",
+      "gain (lābha)",
+      "obstruction even for arahant’s blissful meditation"
+    ],
+    [
+      "SN17.30",
+      "happiness in the present life (diṭṭhadhammasukhavihāra)",
+      "gain and honor obstruction even for arahant"
+    ],
+    [
+      "SN17.30",
+      "honor (sakkāra)",
+      "obstruction even for arahant’s blissful meditation"
+    ],
+    [
+      "SN17.31",
+      "Devadatta",
+      "split saṅgha because of gain and honor"
+    ],
+    [
+      "SN17.31",
+      "schisms",
+      "Devadatta creating"
+    ],
+    [
+      "SN17.32",
+      "Devadatta",
+      "cut off skillful root"
+    ],
+    [
+      "SN17.33",
+      "Devadatta",
+      "cut off skillful qualities"
+    ],
+    [
+      "SN17.33",
+      "skillful qualities (kusala dhamma)",
+      "Devadatta cut off"
+    ],
+    [
+      "SN17.35",
+      "bamboo",
+      "simile for causing own ruin"
+    ],
+    [
+      "SN17.35",
+      "banana trees",
+      "simile for causing own ruin"
+    ],
+    [
+      "SN17.35",
+      "mules",
+      "simile for causing own ruin"
+    ],
+    [
+      "SN17.35",
+      "reeds",
+      "simile for causing own ruin"
+    ],
+    [
+      "SN17.36",
+      "Ajātasattu",
+      "attending on Devadatta"
+    ],
+    [
+      "SN17.36",
+      "Devadatta",
+      "attended on by Prince Ajātasattu"
+    ],
+    [
+      "SN17.36",
+      "dogs",
+      "becoming even wilder, simile for Devadatta"
+    ],
+    [
       "SN17.37–43",
       "false speech",
       "for the sake of gain"
+    ],
+    [
+      "SN17.37",
+      "lying",
+      "for the sake of gain and honor"
     ],
     [
       "SN20.3",
@@ -27671,7 +28241,7 @@ export const locatorBookObject ={
     ],
     [
       "SN22.95",
-      "banana tree",
+      "banana trees",
       "simile for volitional formations"
     ],
     [
@@ -29961,6 +30531,11 @@ export const locatorBookObject ={
     ],
     [
       "SN35.230",
+      "Māra",
+      "like fisherman"
+    ],
+    [
+      "SN35.230",
       "sense bases",
       "like fish hook"
     ],
@@ -30026,7 +30601,7 @@ export const locatorBookObject ={
     ],
     [
       "SN35.234",
-      "banana tree",
+      "banana trees",
       "simile for no self in sense bases"
     ],
     [
@@ -30286,11 +30861,6 @@ export const locatorBookObject ={
     ],
     [
       "SN35.241",
-      "Nanda, Ven., cowherd",
-      "ordaining after Dhamma talk"
-    ],
-    [
-      "SN35.241",
       "cowherd",
       "ordaining after Dhamma talk"
     ],
@@ -30341,6 +30911,11 @@ export const locatorBookObject ={
     ],
     [
       "SN35.241",
+      "Nanda, Ven., cowherd",
+      "ordaining after Dhamma talk"
+    ],
+    [
+      "SN35.241",
       "near shore (orima)",
       "simile for internal sense bases"
     ],
@@ -30381,11 +30956,6 @@ export const locatorBookObject ={
     ],
     [
       "SN35.244",
-      "Ganges river",
-      "making Ganges slope west, simile for impossible to disrobe"
-    ],
-    [
-      "SN35.244",
       "aggregates (khandha)",
       "understanding origin and ending"
     ],
@@ -30393,6 +30963,11 @@ export const locatorBookObject ={
       "SN35.244",
       "covetousness (abhijjhā)",
       "living so doesn’t overwhelm"
+    ],
+    [
+      "SN35.244",
+      "Ganges river",
+      "making Ganges slope west, simile for impossible to disrobe"
     ],
     [
       "SN35.244",
@@ -30636,6 +31211,11 @@ export const locatorBookObject ={
     ],
     [
       "SN35.248",
+      "darts (salla)",
+      "conceiving"
+    ],
+    [
+      "SN35.248",
       "Māra",
       "bonds of conceiving"
     ],
@@ -30658,11 +31238,6 @@ export const locatorBookObject ={
       "SN35.248",
       "asuras",
       "war with devas"
-    ],
-    [
-      "SN35.248",
-      "darts (salla)",
-      "conceiving"
     ],
     [
       "SN35.248",
@@ -37481,16 +38056,6 @@ export const locatorBookObject ={
     ],
     [
       "SN55.40",
-      "Nandiya the Sakyan",
-      "asking about living negligently"
-    ],
-    [
-      "SN55.40",
-      "contentment",
-      "with partial attainments"
-    ],
-    [
-      "SN55.40",
       "heedfulness (appamāda)",
       "leads to joy"
     ],
@@ -37498,6 +38063,16 @@ export const locatorBookObject ={
       "SN55.40",
       "heedfulness (appamāda)",
       "noble disciple"
+    ],
+    [
+      "SN55.40",
+      "Nandiya the Sakyan",
+      "asking about living negligently"
+    ],
+    [
+      "SN55.40",
+      "contentment",
+      "with partial attainments"
     ],
     [
       "SN55.40",
@@ -46453,7 +47028,7 @@ export const locatorBookObject ={
     ],
     [
       "AN4.188",
-      "Ajātasattu, king",
+      "Ajātasattu",
       "praising the Buddha"
     ],
     [
@@ -54258,7 +54833,7 @@ export const locatorBookObject ={
     ],
     [
       "AN7.22",
-      "Ajātasattu, king",
+      "Ajātasattu",
       "wanting to invade Vajjis"
     ],
     [
