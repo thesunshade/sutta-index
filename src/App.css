@@ -1050,3 +1050,26 @@ tr:nth-child(even) {
   padding: 0;
   border: 0;
 }
+
+.snack-bar {
+  font-size: 1.2rem;
+  position: fixed;
+  top: 7rem;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 8rem;
+  border-radius: 10px;
+  background-color: var(--primary);
+  color: var(--offblack);
+  text-align: center;
+  padding: 10px;
+  box-shadow: 1px -1px 3px rgba(0, 0, 0, 0.2);
+  opacity: 1;
+  transition: opacity 0.15s ease-in-out;
+}
+
+.hide-snack-bar .snack-bar {
+  opacity: 0;
+  transition: opacity 0.15s ease-in-out;
+  pointer-events: none;
+}

@@ -24,7 +24,6 @@ window.addEventListener("load", event => {
     let target = document.querySelector(hash);
     if (target) {
       // Scroll to the element with a slight delay to ensure it's loaded
-      console.log("scrolled");
       setTimeout(() => {
         target.scrollIntoView();
       }, 500); // Adjust the timeout as needed

@@ -44,7 +44,6 @@ function Locator(props) {
   if (/^CUSTOM:/.test(location)) {
     const components = location.split(":");
     location = components[2];
-    console.log(location);
     url = "https://" + components[3];
     customFlag = " custom";
   }

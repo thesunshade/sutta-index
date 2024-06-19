@@ -17,7 +17,7 @@ export const indexObject =[
      ],
      [
           "Dhamma",
-          83
+          84
      ],
      [
           "speech",
@@ -89,7 +89,7 @@ export const indexObject =[
      ],
      [
           "feelings (vedanā)",
-          54
+          55
      ],
      [
           "listening to Dhamma",
@@ -104,11 +104,11 @@ export const indexObject =[
           49
      ],
      [
-          "nibbāna",
-          48
+          "craving (taṇha)",
+          49
      ],
      [
-          "craving (taṇha)",
+          "nibbāna",
           48
      ],
      [
@@ -128,8 +128,16 @@ export const indexObject =[
           43
      ],
      [
+          "sense bases",
+          42
+     ],
+     [
           "non-returner (anāgāmi)",
           42
+     ],
+     [
+          "consciousness (viññāṇa)",
+          41
      ],
      [
           "aggregates (khandha)",
@@ -156,16 +164,8 @@ export const indexObject =[
           40
      ],
      [
-          "consciousness (viññāṇa)",
-          40
-     ],
-     [
           "Buddhas",
           40
-     ],
-     [
-          "sense bases",
-          39
      ],
      [
           "impermanence",
@@ -244,6 +244,10 @@ export const indexObject =[
           33
      ],
      [
+          "contact (phassa)",
+          33
+     ],
+     [
           "respect (gārava)",
           32
      ],
@@ -253,10 +257,6 @@ export const indexObject =[
      ],
      [
           "learned (bahussutā)",
-          32
-     ],
-     [
-          "contact (phassa)",
           32
      ],
      [
@@ -288,6 +288,10 @@ export const indexObject =[
           29
      ],
      [
+          "perceptions (saññā)",
+          29
+     ],
+     [
           "Moggallāna, Ven.",
           29
      ],
@@ -306,10 +310,6 @@ export const indexObject =[
      [
           "anger (kodha)",
           29
-     ],
-     [
-          "perceptions (saññā)",
-          28
      ],
      [
           "lying",
@@ -360,6 +360,10 @@ export const indexObject =[
           26
      ],
      [
+          "women",
+          26
+     ],
+     [
           "psychic powers (iddhi)",
           26
      ],
@@ -368,12 +372,16 @@ export const indexObject =[
           26
      ],
      [
-          "encouragement",
+          "ignorance (avijjā)",
           26
      ],
      [
-          "women",
-          25
+          "family",
+          26
+     ],
+     [
+          "encouragement",
+          26
      ],
      [
           "wheel-turning monarchs",
@@ -392,19 +400,11 @@ export const indexObject =[
           25
      ],
      [
-          "ignorance (avijjā)",
-          25
-     ],
-     [
           "good actions",
           25
      ],
      [
           "generosity (cāga)",
-          25
-     ],
-     [
-          "family",
           25
      ],
      [
@@ -436,6 +436,10 @@ export const indexObject =[
           24
      ],
      [
+          "elements (dhātu)",
+          24
+     ],
+     [
           "ascetics and brahmins (samaṇabrāhmaṇa)",
           24
      ],
@@ -460,12 +464,20 @@ export const indexObject =[
           23
      ],
      [
-          "elements (dhātu)",
+          "dimension of neither perception nor non-perception (nevasaññanāsaññāyatana)",
           23
      ],
      [
-          "dimension of neither perception nor non-perception (nevasaññanāsaññāyatana)",
+          "bad monastics",
           23
+     ],
+     [
+          "aggregates",
+          23
+     ],
+     [
+          "robes",
+          22
      ],
      [
           "parents",
@@ -492,19 +504,11 @@ export const indexObject =[
           22
      ],
      [
-          "bad monastics",
-          22
-     ],
-     [
           "stages of enlightenment",
           21
      ],
      [
           "sickness",
-          21
-     ],
-     [
-          "robes",
           21
      ],
      [
@@ -528,10 +532,6 @@ export const indexObject =[
           21
      ],
      [
-          "aggregates",
-          21
-     ],
-     [
           "wrong views",
           20
      ],
@@ -549,6 +549,10 @@ export const indexObject =[
      ],
      [
           "skillful qualities (kusala dhamma)",
+          20
+     ],
+     [
+          "sexual misconduct",
           20
      ],
      [
@@ -586,6 +590,10 @@ export const indexObject =[
      [
           "factors of stream-entry",
           20
+     ],
+     [
+          "thieves (cora)",
+          19
      ],
      [
           "practicing",
@@ -628,11 +636,7 @@ export const indexObject =[
           18
      ],
      [
-          "thieves (cora)",
-          18
-     ],
-     [
-          "sexual misconduct",
+          "unskillful qualities (akusala dhamma)",
           18
      ],
      [
@@ -685,10 +689,6 @@ export const indexObject =[
      ],
      [
           "wilderness (arañña)",
-          17
-     ],
-     [
-          "unskillful qualities (akusala dhamma)",
           17
      ],
      [
@@ -904,11 +904,19 @@ export const indexObject =[
           14
      ],
      [
+          "meat",
+          14
+     ],
+     [
           "Mahā Kassapa, Ven.",
           14
      ],
      [
           "insight (vipassanā)",
+          14
+     ],
+     [
+          "human birth",
           14
      ],
      [
@@ -921,10 +929,6 @@ export const indexObject =[
      ],
      [
           "form (rūpa)",
-          14
-     ],
-     [
-          "false speech",
           14
      ],
      [
@@ -1024,10 +1028,6 @@ export const indexObject =[
           13
      ],
      [
-          "human birth",
-          13
-     ],
-     [
           "health",
           13
      ],
@@ -1108,10 +1108,6 @@ export const indexObject =[
           12
      ],
      [
-          "meat",
-          12
-     ],
-     [
           "Mahānāma the Sakyan",
           12
      ],
@@ -1160,6 +1156,10 @@ export const indexObject =[
           12
      ],
      [
+          "false speech",
+          12
+     ],
+     [
           "faculties, sense (indriya)",
           12
      ],
@@ -1197,6 +1197,10 @@ export const indexObject =[
      ],
      [
           "Udāyī, Ven.",
+          11
+     ],
+     [
+          "“This is not mine, I am not this, this is not my self.”",
           11
      ],
      [
@@ -1316,10 +1320,6 @@ export const indexObject =[
           10
      ],
      [
-          "“This is not mine, I am not this, this is not my self.”",
-          10
-     ],
-     [
           "stupidity",
           10
      ],
@@ -1369,6 +1369,10 @@ export const indexObject =[
      ],
      [
           "killing, giving up",
+          10
+     ],
+     [
+          "I making (ahaṅkāra)",
           10
      ],
      [
@@ -1445,6 +1449,10 @@ export const indexObject =[
      ],
      [
           "compassion (anukampā)",
+          10
+     ],
+     [
+          "butchers",
           10
      ],
      [
@@ -1584,10 +1592,6 @@ export const indexObject =[
           9
      ],
      [
-          "I making (ahaṅkāra)",
-          9
-     ],
-     [
           "humility",
           9
      ],
@@ -1697,6 +1701,14 @@ export const indexObject =[
      ],
      [
           "sadness (domanassa)",
+          8
+     ],
+     [
+          "roof peak",
+          8
+     ],
+     [
+          "Rāhula, Ven.",
           8
      ],
      [
@@ -1960,10 +1972,6 @@ export const indexObject =[
           7
      ],
      [
-          "roof peak",
-          7
-     ],
-     [
           "resentment (āghāta)",
           7
      ],
@@ -1977,10 +1985,6 @@ export const indexObject =[
      ],
      [
           "recollection of deities (devatānussati)",
-          7
-     ],
-     [
-          "Rāhula, Ven.",
           7
      ],
      [
@@ -2181,6 +2185,10 @@ export const indexObject =[
      ],
      [
           "earth",
+          7
+     ],
+     [
+          "dung",
           7
      ],
      [
@@ -2564,6 +2572,10 @@ export const indexObject =[
           6
      ],
      [
+          "fingernail (nakhasikhā)",
+          6
+     ],
+     [
           "fields",
           6
      ],
@@ -2573,10 +2585,6 @@ export const indexObject =[
      ],
      [
           "dwellings",
-          6
-     ],
-     [
-          "dung",
           6
      ],
      [
@@ -2625,10 +2633,6 @@ export const indexObject =[
      ],
      [
           "compassion (karuṇā)",
-          6
-     ],
-     [
-          "butchers",
           6
      ],
      [
@@ -2733,6 +2737,10 @@ export const indexObject =[
      ],
      [
           "tradition (vaṁsa)",
+          5
+     ],
+     [
+          "torture",
           5
      ],
      [
@@ -2972,6 +2980,10 @@ export const indexObject =[
           5
      ],
      [
+          "hunters",
+          5
+     ],
+     [
           "Himalayas",
           5
      ],
@@ -3009,10 +3021,6 @@ export const indexObject =[
      ],
      [
           "fish",
-          5
-     ],
-     [
-          "fingernail (nakhasikhā)",
           5
      ],
      [
@@ -3077,6 +3085,10 @@ export const indexObject =[
      ],
      [
           "conditioned (saṅkhata)",
+          5
+     ],
+     [
+          "conceit, underlying tendency (mānānusaya)",
           5
      ],
      [
@@ -3248,10 +3260,6 @@ export const indexObject =[
           4
      ],
      [
-          "torture",
-          4
-     ],
-     [
           "tolerating bad thoughts",
           4
      ],
@@ -3365,6 +3373,10 @@ export const indexObject =[
      ],
      [
           "poverty",
+          4
+     ],
+     [
+          "possessiveness (mamaṅkāra)",
           4
      ],
      [
@@ -3685,10 +3697,6 @@ export const indexObject =[
      ],
      [
           "conditions (saṅkāra)",
-          4
-     ],
-     [
-          "conceit, underlying tendency (mānānusaya)",
           4
      ],
      [
@@ -4120,10 +4128,6 @@ export const indexObject =[
           3
      ],
      [
-          "possessiveness (mamaṅkāra)",
-          3
-     ],
-     [
           "poor people",
           3
      ],
@@ -4205,6 +4209,10 @@ export const indexObject =[
      ],
      [
           "non-identification (atammayatā)",
+          3
+     ],
+     [
+          "non-humans (amanussa)",
           3
      ],
      [
@@ -4424,11 +4432,11 @@ export const indexObject =[
           3
      ],
      [
-          "hunters",
+          "house builder",
           3
      ],
      [
-          "house builder",
+          "horse trainers",
           3
      ],
      [
@@ -5208,6 +5216,10 @@ export const indexObject =[
           2
      ],
      [
+          "skeleton",
+          2
+     ],
+     [
           "sisters",
           2
      ],
@@ -5592,10 +5604,6 @@ export const indexObject =[
           2
      ],
      [
-          "non-humans (amanussa)",
-          2
-     ],
-     [
           "non-hatred (adosa)",
           2
      ],
@@ -5753,6 +5761,10 @@ export const indexObject =[
      ],
      [
           "Mahāli the Licchavi",
+          2
+     ],
+     [
+          "Mahā Moggallāna, Ven.",
           2
      ],
      [
@@ -5924,6 +5936,10 @@ export const indexObject =[
           2
      ],
      [
+          "intention (sañcetanā)",
+          2
+     ],
+     [
           "insulting (paribhāsati)",
           2
      ],
@@ -5989,10 +6005,6 @@ export const indexObject =[
      ],
      [
           "household management",
-          2
-     ],
-     [
-          "horse trainers",
           2
      ],
      [
@@ -6121,6 +6133,10 @@ export const indexObject =[
      ],
      [
           "glowworms",
+          2
+     ],
+     [
+          "Gijjhakūṭa, mountain",
           2
      ],
      [
@@ -7284,6 +7300,10 @@ export const indexObject =[
           1
      ],
      [
+          "testicles",
+          1
+     ],
+     [
           "tendency (nati)",
           1
      ],
@@ -7532,11 +7552,11 @@ export const indexObject =[
           1
      ],
      [
-          "sky",
+          "slander",
           1
      ],
      [
-          "skeleton",
+          "sky",
           1
      ],
      [
@@ -8476,10 +8496,6 @@ export const indexObject =[
           1
      ],
      [
-          "Mahā Moggallāna, Ven.",
-          1
-     ],
-     [
           "Māgaṇḍiyā",
           1
      ],
@@ -8549,6 +8565,10 @@ export const indexObject =[
      ],
      [
           "latex",
+          1
+     ],
+     [
+          "Lakkhaṇa, Ven.",
           1
      ],
      [
@@ -9084,10 +9104,6 @@ export const indexObject =[
           1
      ],
      [
-          "Gijjhakūṭa, mountain",
-          1
-     ],
-     [
           "gift of the teaching (dhammadāna)",
           1
      ],
@@ -9169,6 +9185,10 @@ export const indexObject =[
      ],
      [
           "foundations (adhiṭṭhāna)",
+          1
+     ],
+     [
+          "fortune-tellers",
           1
      ],
      [
@@ -9313,6 +9333,10 @@ export const indexObject =[
      ],
      [
           "explicit meaning",
+          1
+     ],
+     [
+          "executioners",
           1
      ],
      [

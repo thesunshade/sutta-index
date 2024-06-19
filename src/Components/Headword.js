@@ -73,6 +73,14 @@ function Headword(props) {
     return url;
   }
 
+  function toggleSnackBar() {
+    const appElement = document.getElementById("app");
+    appElement.classList.remove("hide-snack-bar");
+    setTimeout(() => {
+      appElement.classList.add("hide-snack-bar");
+    }, 900);
+  }
+
   function copyText(headword, headwordObject) {
     let textEntry = headword + "\n";
     if (sortedSubWords.length > 0) {
@@ -95,13 +103,13 @@ function Headword(props) {
       }
     }
     navigator.clipboard.writeText(textEntry);
+    toggleSnackBar();
   }
 
   function copyMarkdown(headword, headwordObject) {
     let textEntry = "## " + headword + "\n\n";
     if (sortedSubWords.length > 0) {
       for (let i = 0; i < sortedSubWords.length; i++) {
-        console.log(sortedSubWords[i]);
         if (sortedSubWords[i]) textEntry += "* " + sortedSubWords[i];
         if (sortedSubWords[i].length > 0) {
           textEntry += " ";
@@ -128,6 +136,7 @@ function Headword(props) {
       }
     }
     navigator.clipboard.writeText(textEntry);
+    toggleSnackBar();
   }
 
   function copyHtml(headword, headwordObject) {
@@ -161,6 +170,7 @@ function Headword(props) {
     }
     textEntry += "</ul>";
     navigator.clipboard.writeText(textEntry);
+    toggleSnackBar();
   }
 
   return (
@@ -177,6 +187,7 @@ function Headword(props) {
               onClick={e => {
                 e.preventDefault();
                 navigator.clipboard.writeText(headword);
+                toggleSnackBar();
               }}
             />
             <img
@@ -188,6 +199,7 @@ function Headword(props) {
               onClick={e => {
                 e.preventDefault();
                 navigator.clipboard.writeText(`index.readingfaithfully.org/#${makeNormalizedId(headword)}`);
+                toggleSnackBar();
               }}
             />
             <span className="keyword">{headwordWithCount}</span>

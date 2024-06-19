@@ -3,7 +3,6 @@ bhikkhunīs		xref Mahā Pajāpatī Gotamī, Ven.
 bhikkhunīs		xref Khemā, Ven.
 bhikkhunīs		xref Uppalavaṇṇā, Ven.
 bhikkhunīs		xref Paṭācārā, Ven.
-bhikkhunīs		xref Dhammadinnā, Ven.
 bhikkhunīs		xref Nandā, Ven.
 bhikkhunīs		xref Soṇā, Ven.
 bhikkhunīs		xref Sakulā, Ven.
@@ -17,6 +16,23 @@ bhikkhunīs		xref Kajaṅgalikā, Ven.
 bhikkhunīs		xref Nandā, Ven.
 bhikkhunīs		xref Thullatissā, Ven.
 oceans		xref Ganges river
+topics of discussion		xref useless speech (tiracchāna)
+Kassapa, Ven.		xref Mahā Kassapa, Ven.
+unmindful (muṭṭhassatī)		xref unmindfulness (muṭṭhassacca)
+transmigration		xref saṁsāra
+brothers		xref siblings
+sisters		xref siblings
+family		xref lay follower (upāsaka, upāsikā)
+lay follower (upāsaka, upāsikā)		xref family
+giving (dāna)		xref receiving gifts
+admonishment		xref hard to admonish (dovacassa)
+hard to admonish (dovacassa)		xref admonishment
+seedlings		xref seeds
+monastic rules (pātimokkha)		xref training rules (sikkhāpada)
+monastic rules (vinaya)		xref training rules (sikkhāpada)
+training rules (sikkhāpada)		xref monastic rules (pātimokkha)
+training rules (sikkhāpada)		xref monastic rules (vinaya)
+houses (kūṭāgāra)		xref roof peak
 specific conditionality (idappaccayatā)		xref conditionality (idappaccayatā)
 conditionality (idappaccayatā)		xref dependent origination
 dependent origination		xref conditionality (idappaccayatā)
@@ -1582,8 +1598,6 @@ speech	well spoken	SN11.5
 giving (dāna)	to the Saṅgha	SN11.16
 giving (dāna)	whom to give to	SN11.16
 death (maraṇa)	definition	SN12.2
-false speech	for the sake of gain	SN17.11–20
-false speech	for the sake of gain	SN17.37–43
 loving-kindness (mettā)	liberation of mind by	SN20.3
 loving-kindness (mettā)	as a protection	SN20.3
 loving-kindness (mettā)	liberation of mind by	SN20.4
@@ -17604,9 +17618,6 @@ grass	burning, simile for corrupt perceptions spreading	SN14.12
 elements (dhātu)	gives rise to perception, view, thought	SN14.13
 overestimation	that one is a Buddha, reason for	SN14.13
 rebirth (upapatti)	inferior, medium, superior	SN14.13
-topics of discussion		xref useless speech (tiracchāna)
-Kassapa, Ven.		xref Mahā Kassapa, Ven.
-unmindful (muṭṭhassatī)		xref unmindfulness (muṭṭhassacca)
 association	with similar people/like elements	SN14.14
 association	with similar people/like elements	SN14.15
 Sāriputta, Ven.	associating with monks of great wisdom	SN14.15
@@ -17682,11 +17693,6 @@ suffering (dukkha)	taking delight in	SN14.35
 suffering (dukkha)	arising of elements is arising of suffering	SN14.36
 suffering (dukkha)	ending of elements is ending of suffering	SN14.36
 ascetics and brahmins (samaṇabrāhmaṇa)	truly understanding elements	SN14.37
-transmigration		xref saṁsāra
-brothers		xref siblings
-sisters		xref siblings
-family		xref lay follower (upāsaka, upāsikā)
-lay follower (upāsaka, upāsikā)		xref family
 saṁsāra	without discoverable beginning	CUSTOM:SN:SN 15 Anamatagga Saṁyutta:suttacentral.net/sn15
 grass	less than number of mothers	SN15.1
 sticks	less than number of mothers	SN15.1
@@ -17766,10 +17772,6 @@ Dhamma teaching	how to	SN16.3
 Dhamma	excellence of	SN16.3
 compassion (anukampā)	teaching Dhamma	SN16.3
 compassion (karuṇā)	teaching Dhamma	SN16.3
-giving (dāna)		xref receiving gifts
-admonishment		xref hard to admonish (dovacassa)
-hard to admonish (dovacassa)		xref admonishment
-seedlings		xref seeds
 monastics	visiting families, worthwhile and not worthwhile 	SN16.4
 receiving gifts	without expectations	SN16.4
 Mahā Kassapa, Ven.	encouraged to give up ascetic practices by the Buddha	SN16.5
@@ -17818,10 +17820,6 @@ junior monastics	sense of conscience and prudence towards	SN16.11
 middle monastics	sense of conscience and prudence towards	SN16.11
 listening attentively (ohitasota)	Buddha advises Ven. Mahā Kassapa	SN16.11
 mindfulness of body (kāyagatāsati)	full of pleasure	SN16.11
-monastic rules (pātimokkha)		xref training rules (sikkhāpada)
-monastic rules (vinaya)		xref training rules (sikkhāpada)
-training rules (sikkhāpada)		xref monastic rules (pātimokkha)
-training rules (sikkhāpada)		xref monastic rules (vinaya)
 Tathāgatas	existing after death	SN16.12
 training rules (sikkhāpada)	why more now	SN16.13
 decline	more training rules when beings are in decline	SN16.13
@@ -17920,3 +17918,53 @@ Ajātasattu	attending on Devadatta	SN17.36
 Devadatta	attended on by Prince Ajātasattu	SN17.36
 dogs	becoming even wilder, simile for Devadatta	SN17.36
 lying	for the sake of gain and honor	SN17.37
+Rāhula, Ven.	 	CUSTOM:SN:SN 18 Rāhula Saṁyutta:suttacentral.net/sn18
+Dhamma	in brief	SN18.1
+sense bases	impermanent	SN18.1
+sense bases	impermanent	SN18.2
+consciousness (viññāṇa)	impermanent	SN18.3
+contact (phassa)	impermanent	SN18.4
+feelings (vedanā)	impermanent	SN18.5
+perceptions (saññā)	impermanent	SN18.6
+intention (sañcetanā)	impermanent	SN18.7
+craving (taṇha)	impermanent	SN18.8
+elements (dhātu)	impermanent	SN18.9
+aggregates	impermanent	SN18.10
+sense bases	impermanent, suffering	SN18.11
+I making (ahaṅkāra)	knowing and seeing so that there is no	SN18.21
+possessiveness (mamaṅkāra)	knowing and seeing so that there is no	SN18.21
+conceit, underlying tendency (mānānusaya)	knowing and seeing so that there is no	SN18.21
+aggregates	‘This is not mine, I am not this, this is not my self.’ 	SN18.21
+“This is not mine, I am not this, this is not my self.”	aggregates	SN18.21
+Lakkhaṇa, Ven.	seeing ghosts	CUSTOM:SN:SN 19 Lakkhaṇa Saṁyutta:suttacentral.net/sn19
+Mahā Moggallāna, Ven.	seeing ghosts	CUSTOM:SN:SN 19 Lakkhaṇa Saṁyutta:suttacentral.net/sn19
+Gijjhakūṭa, mountain	non-humans on	CUSTOM:SN:SN 19 Lakkhaṇa Saṁyutta:suttacentral.net/sn19
+skeleton	former butcher	SN19.1
+butchers	bad rebirth	SN19.1
+meat	former butcher	SN19.2
+butchers	bad rebirth	SN19.2
+meat	former hunter	SN19.3
+hunters	bad rebirth	SN19.3
+butchers	bad rebirth	SN19.4
+butchers	bad rebirth	SN19.5
+hunters	bad rebirth	SN19.6
+torture	cause of bad rebirth	SN19.7
+horse trainers	bad rebirth	SN19.8
+slander	cause of bad rebirth	SN19.9
+testicles	size of pots; former corrupt official	SN19.10
+sexual misconduct	cause of bad rebirth	SN19.11
+dung	eater; person who offered dung	SN19.12
+sexual misconduct	cause of bad rebirth	SN19.13
+fortune-tellers	cause of bad rebirth	SN19.14
+executioners	cause of bad rebirth	SN19.16
+bad monastics	rebirth	SN19.17
+robes	burning, result of bad conduct	SN19.17
+roof peak	simile for all unskillful rooted in ignorance	SN20.1
+unskillful qualities (akusala dhamma)	like rafters going to roof peak	SN20.1
+ignorance (avijjā)	like rafters going to roof peak	SN20.1
+human birth	rarity of	SN20.2
+fingernail (nakhasikhā)	simile for humans being few	SN20.2
+family	with many women and few men, simile for mendicant	SN20.3
+women	family with many and few men, simile for mendicant	SN20.3
+thieves (cora)	easy to prey on family with few men	SN20.3
+non-humans (amanussa)	easy to prey on mendicant without developed mind	SN20.3
