@@ -1066,10 +1066,17 @@ tr:nth-child(even) {
   box-shadow: 1px -1px 3px rgba(0, 0, 0, 0.2);
   opacity: 1;
   transition: opacity 0.15s ease-in-out;
+  z-index: 9999;
 }
 
 .hide-snack-bar .snack-bar {
   opacity: 0;
   transition: opacity 0.15s ease-in-out;
   pointer-events: none;
+}
+
+.dark .snack-bar {
+  background-color: var(--offwhite);
+  color: var(--dark-primary);
+  box-shadow: 1px -1px 3px rgb(0, 0, 0);
 }

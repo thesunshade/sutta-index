@@ -107,6 +107,7 @@ function App() {
 
   return (
     <div id="app" className="App hide-snack-bar">
+      <div className="snack-bar">Copied!</div>
       <div className="settings-bar">
         <div className="top-row">
           <HeadwordsSearchTool searchText={searchText} setSearchText={setSearchText} />
@@ -229,7 +230,6 @@ function App() {
           <SuttaIndex />
         </ContextDestination.Provider>
       )}
-      <div className="snack-bar">Copied!</div>
     </div>
   );
 }
