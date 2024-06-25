@@ -520,7 +520,7 @@ export const indexObject ={
                "": {
                     "locators": [],
                     "xrefs": [
-                         "xref attachment"
+                         "xref attachments"
                     ]
                },
                "memories and thoughts of": {
@@ -577,6 +577,12 @@ export const indexObject ={
                "done in pain and sadness": {
                     "locators": [
                          "MN46"
+                    ],
+                    "xrefs": []
+               },
+               "no result (wrong view)": {
+                    "locators": [
+                         "SN24.6"
                     ],
                     "xrefs": []
                },
@@ -1449,6 +1455,18 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
+               "understanding and stream entry, etc.": {
+                    "locators": [
+                         "SN25.10"
+                    ],
+                    "xrefs": []
+               },
+               "as suffering": {
+                    "locators": [
+                         "SN26.10"
+                    ],
+                    "xrefs": []
+               },
                "counter_value": 1
           },
           "aggregates (khandha)": {
@@ -2311,7 +2329,8 @@ export const indexObject ={
                },
                "blameless": {
                     "locators": [
-                         "MN55"
+                         "MN55",
+                         "SN28.10"
                     ],
                     "xrefs": []
                },
@@ -6848,6 +6867,19 @@ export const indexObject ={
                          "AN10.219"
                     ],
                     "xrefs": []
+               },
+               "cause for rebirth as nāga": {
+                    "locators": [
+                         "SN29.7"
+                    ],
+                    "xrefs": []
+               },
+               "cause for rebirth as supaṇṇa": {
+                    "locators": [
+                         "SN30.3",
+                         "SN30.4-6"
+                    ],
+                    "xrefs": []
                }
           },
           "bad conduct": {
@@ -9954,6 +9986,12 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
+               "Buddha knows paths that lead to": {
+                    "locators": [
+                         "MN99"
+                    ],
+                    "xrefs": []
+               },
                "one thousand in a world system": {
                     "locators": [
                          "AN3.80"
@@ -12694,6 +12732,12 @@ export const indexObject ={
                          "SN48.40"
                     ],
                     "xrefs": []
+               },
+               "Ven. Sāriputta practicing": {
+                    "locators": [
+                         "SN28.9"
+                    ],
+                    "xrefs": []
                }
           },
           "cesspit": {
@@ -13428,6 +13472,14 @@ export const indexObject ={
                     "xrefs": []
                }
           },
+          "cloud devas": {
+               "types of": {
+                    "locators": [
+                         "SN32.1"
+                    ],
+                    "xrefs": []
+               }
+          },
           "clouds": {
                "simile for good person benefiting others": {
                     "locators": [
@@ -13957,7 +14009,8 @@ export const indexObject ={
                },
                "Ven. Sāriputta has long ago eradicated": {
                     "locators": [
-                         "SN21.2"
+                         "SN21.2",
+                         "SN28.1"
                     ],
                     "xrefs": []
                }
@@ -14437,6 +14490,12 @@ export const indexObject ={
                "noble disciple understands": {
                     "locators": [
                          "SN12.27"
+                    ],
+                    "xrefs": []
+               },
+               "no cause of corruption (wrong view)": {
+                    "locators": [
+                         "SN24.7"
                     ],
                     "xrefs": []
                },
@@ -15189,6 +15248,12 @@ export const indexObject ={
                          "SN18.3"
                     ],
                     "xrefs": []
+               },
+               "not knowing is cause for wrong views": {
+                    "locators": [
+                         "SN33.5"
+                    ],
+                    "xrefs": []
                }
           },
           "consciousness element (viññāṇadhātu)": {
@@ -15885,6 +15950,12 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
+               "": {
+                    "locators": [
+                         "CUSTOM:SN:SN 27 Kilesa Saṁyutta:suttacentral.net/sn27"
+                    ],
+                    "xrefs": []
+               },
                "counter_value": 2
           },
           "cosmetics": {
@@ -16235,6 +16306,13 @@ export const indexObject ={
                "people who refrain from accepting are few": {
                     "locators": [
                          "SN56.90"
+                    ],
+                    "xrefs": []
+               },
+               "to milk, to curds, etc., simile for jhānas": {
+                    "locators": [
+                         "SN34.1",
+                         "SN34.2"
                     ],
                     "xrefs": []
                }
@@ -20231,6 +20309,12 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
+               "definition: sense bases impermanent": {
+                    "locators": [
+                         "SN25.1"
+                    ],
+                    "xrefs": []
+               },
                "counter_value": 2
           },
           "Dhamma immediately effective, timeless (akālika)": {
@@ -21046,6 +21130,12 @@ export const indexObject ={
                          "SN46.54"
                     ],
                     "xrefs": []
+               },
+               "Ven. Sāriputta practicing": {
+                    "locators": [
+                         "SN28.6"
+                    ],
+                    "xrefs": []
                }
           },
           "dimension of infinite space (ākāsānañcāyatana)": {
@@ -21189,6 +21279,12 @@ export const indexObject ={
                "culmination of heart’s release by compassion": {
                     "locators": [
                          "SN46.54"
+                    ],
+                    "xrefs": []
+               },
+               "Ven. Sāriputta practicing": {
+                    "locators": [
+                         "SN28.5"
                     ],
                     "xrefs": []
                }
@@ -21344,6 +21440,12 @@ export const indexObject ={
                "meditating dependent on": {
                     "locators": [
                          "AN11.9"
+                    ],
+                    "xrefs": []
+               },
+               "Ven. Sāriputta practicing": {
+                    "locators": [
+                         "SN28.8"
                     ],
                     "xrefs": []
                }
@@ -21519,6 +21621,12 @@ export const indexObject ={
                          "SN46.54"
                     ],
                     "xrefs": []
+               },
+               "Ven. Sāriputta practicing": {
+                    "locators": [
+                         "SN28.7"
+                    ],
+                    "xrefs": []
                }
           },
           "dimensions of mastery (abhibhāyatana)": {
@@ -21652,6 +21760,20 @@ export const indexObject ={
                     "xrefs": [
                          "xref applied and sustained thought (vitakkavicārā)"
                     ]
+               }
+          },
+          "directions": {
+               "simile for Buddha knowing path to brahmā realm": {
+                    "locators": [
+                         "MN99"
+                    ],
+                    "xrefs": []
+               },
+               "simile for not everyone attaining nibbāna": {
+                    "locators": [
+                         "MN107"
+                    ],
+                    "xrefs": []
                }
           },
           "directly knowing (abhijānanta)": {
@@ -23426,6 +23548,14 @@ export const indexObject ={
                     "xrefs": []
                }
           },
+          "dragons": {
+               "": {
+                    "locators": [],
+                    "xrefs": [
+                         "xref nāgas"
+                    ]
+               }
+          },
           "drawback (ādīnava)": {
                "": {
                     "locators": [],
@@ -24722,6 +24852,18 @@ export const indexObject ={
                          "SN18.9"
                     ],
                     "xrefs": []
+               },
+               "understanding and stream entry, etc.": {
+                    "locators": [
+                         "SN25.9"
+                    ],
+                    "xrefs": []
+               },
+               "as suffering": {
+                    "locators": [
+                         "SN26.9"
+                    ],
+                    "xrefs": []
                }
           },
           "elements, four great (cattāri mahābhūtāni)": {
@@ -25840,13 +25982,6 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "will all attain?": {
-                    "locators": [
-                         "MN107",
-                         "AN10.95"
-                    ],
-                    "xrefs": []
-               },
                "without triple knowledge": {
                     "locators": [
                          "MN112"
@@ -25874,6 +26009,12 @@ export const indexObject ={
                "not possible without concentration": {
                     "locators": [
                          "AN6.70"
+                    ],
+                    "xrefs": []
+               },
+               "will all attain?": {
+                    "locators": [
+                         "AN10.95"
                     ],
                     "xrefs": []
                },
@@ -28009,6 +28150,14 @@ export const indexObject ={
                     "xrefs": []
                }
           },
+          "fairies": {
+               "": {
+                    "locators": [],
+                    "xrefs": [
+                         "xref gandhabbas"
+                    ]
+               }
+          },
           "faith (saddhā)": {
                "": {
                     "locators": [],
@@ -29668,6 +29817,12 @@ export const indexObject ={
                          "SN18.5"
                     ],
                     "xrefs": []
+               },
+               "not knowing is cause for wrong views": {
+                    "locators": [
+                         "SN33.2"
+                    ],
+                    "xrefs": []
                }
           },
           "feet": {
@@ -30705,6 +30860,12 @@ export const indexObject ={
                          "SN48.40"
                     ],
                     "xrefs": []
+               },
+               "Ven. Sāriputta practicing": {
+                    "locators": [
+                         "SN28.1"
+                    ],
+                    "xrefs": []
                }
           },
           "first sermon": {
@@ -30933,6 +31094,12 @@ export const indexObject ={
                "five spiritual faculties": {
                     "locators": [
                          "SN48.12"
+                    ],
+                    "xrefs": []
+               },
+               "definition: sense bases impermanent": {
+                    "locators": [
+                         "SN25.1"
                     ],
                     "xrefs": []
                },
@@ -31573,6 +31740,12 @@ export const indexObject ={
                          "SN22.95"
                     ],
                     "xrefs": []
+               },
+               "not knowing is cause for wrong views": {
+                    "locators": [
+                         "SN33.1"
+                    ],
+                    "xrefs": []
                }
           },
           "form aggregate of clinging (rūpupādānakkhandha)": {
@@ -31674,6 +31847,12 @@ export const indexObject ={
                "impermanent": {
                     "locators": [
                          "SN22.96"
+                    ],
+                    "xrefs": []
+               },
+               "not knowing is cause for wrong views": {
+                    "locators": [
+                         "SN33.4"
                     ],
                     "xrefs": []
                }
@@ -32646,6 +32825,12 @@ export const indexObject ={
                "faculty of happiness ends": {
                     "locators": [
                          "SN48.40"
+                    ],
+                    "xrefs": []
+               },
+               "Ven. Sāriputta practicing": {
+                    "locators": [
+                         "SN28.4"
                     ],
                     "xrefs": []
                }
@@ -33641,10 +33826,28 @@ export const indexObject ={
                     "xrefs": []
                }
           },
-          "gandhabba": {
+          "gandhabbas": {
                "conception of embryo": {
                     "locators": [
                          "MN38"
+                    ],
+                    "xrefs": []
+               },
+               "": {
+                    "locators": [
+                         "CUSTOM:SN:SN 31 Gandhabba Saṁyutta:suttacentral.net/sn31"
+                    ],
+                    "xrefs": []
+               },
+               "types of": {
+                    "locators": [
+                         "SN31.1"
+                    ],
+                    "xrefs": []
+               },
+               "cause for rebirth as": {
+                    "locators": [
+                         "SN31.2"
                     ],
                     "xrefs": []
                }
@@ -34615,10 +34818,18 @@ export const indexObject ={
                },
                "to gain rebirth": {
                     "locators": [
-                         "SN29.11–50",
-                         "SN30.10–46",
+                         "SN29.11–20",
+                         "SN29.21-50",
+                         "SN30.7-16",
+                         "SN30.17-46",
+                         "SN31.3",
                          "SN31.3–112",
-                         "SN32.3–52"
+                         "SN31.4-12",
+                         "SN31.13-22",
+                         "SN31.23-112",
+                         "SN32.3-12",
+                         "SN32.3–52",
+                         "SN32.13-52"
                     ],
                     "xrefs": []
                },
@@ -35436,6 +35647,12 @@ export const indexObject ={
                "compared to meditation": {
                     "locators": [
                          "SN20.4"
+                    ],
+                    "xrefs": []
+               },
+               "no result (wrong view)": {
+                    "locators": [
+                         "SN24.5"
                     ],
                     "xrefs": []
                }
@@ -36669,6 +36886,31 @@ export const indexObject ={
                "three types fulfilled by sense restraint": {
                     "locators": [
                          "SN46.6"
+                    ],
+                    "xrefs": []
+               },
+               "cause for rebirth as nāga": {
+                    "locators": [
+                         "SN29.7"
+                    ],
+                    "xrefs": []
+               },
+               "cause for rebirth as supaṇṇa": {
+                    "locators": [
+                         "SN30.3",
+                         "SN30.4-6"
+                    ],
+                    "xrefs": []
+               },
+               "cause for rebirth as gandhabba": {
+                    "locators": [
+                         "SN31.2"
+                    ],
+                    "xrefs": []
+               },
+               "cause for birth as cloud deva": {
+                    "locators": [
+                         "SN32.2"
                     ],
                     "xrefs": []
                }
@@ -42620,7 +42862,8 @@ export const indexObject ={
                },
                "Ven. Sāriputta has long ago eradicated": {
                     "locators": [
-                         "SN21.2"
+                         "SN21.2",
+                         "SN28.1"
                     ],
                     "xrefs": []
                }
@@ -42634,7 +42877,8 @@ export const indexObject ={
                },
                "why view arises": {
                     "locators": [
-                         "SN22.153"
+                         "SN22.153",
+                         "SN24.4"
                     ],
                     "xrefs": []
                }
@@ -45403,6 +45647,7 @@ export const indexObject ={
           "jhānas": {
                "": {
                     "locators": [
+                         "CUSTOM:SN:SN 34 Jhana Saṁyutta:suttacentral.net/sn34",
                          "CUSTOM:SN:SN 53 Jhāna Saṁyutta:suttacentral.net/sn53"
                     ],
                     "xrefs": [
@@ -45894,6 +46139,20 @@ export const indexObject ={
                "mindfulness of breathing": {
                     "locators": [
                          "SN54.8"
+                    ],
+                    "xrefs": []
+               },
+               "like dependence of milk on cows, etc.": {
+                    "locators": [
+                         "SN34.1",
+                         "SN34.2"
+                    ],
+                    "xrefs": []
+               },
+               "skills in": {
+                    "locators": [
+                         "SN34.1",
+                         "SN34.2"
                     ],
                     "xrefs": []
                }
@@ -52663,6 +52922,12 @@ export const indexObject ={
                          "AN7.40"
                     ],
                     "xrefs": []
+               },
+               "skills in": {
+                    "locators": [
+                         "SN34.6"
+                    ],
+                    "xrefs": []
                }
           },
           "meditator": {
@@ -53247,7 +53512,8 @@ export const indexObject ={
                },
                "no result (wrong view)": {
                     "locators": [
-                         "MN60"
+                         "MN60",
+                         "SN24.5"
                     ],
                     "xrefs": []
                },
@@ -57093,6 +57359,34 @@ export const indexObject ={
                          "SN46.1"
                     ],
                     "xrefs": []
+               },
+               "": {
+                    "locators": [
+                         "CUSTOM:SN:SN 29 Nāga Saṁyutta:suttacentral.net/sn29"
+                    ],
+                    "xrefs": []
+               },
+               "birth of": {
+                    "locators": [
+                         "SN29.1",
+                         "SN29.2"
+                    ],
+                    "xrefs": []
+               },
+               "observing uposatha": {
+                    "locators": [
+                         "SN29.3",
+                         "SN29.4",
+                         "SN29.5",
+                         "SN29.6"
+                    ],
+                    "xrefs": []
+               },
+               "cause for rebirth as": {
+                    "locators": [
+                         "SN29.7"
+                    ],
+                    "xrefs": []
                }
           },
           "Nāgasamāla, Ven.": {
@@ -57614,6 +57908,7 @@ export const indexObject ={
                     "locators": [],
                     "xrefs": [
                          "xref arahants",
+                         "xref enlightenment",
                          "xref nibbāna element (nibbānadhātu)"
                     ]
                },
@@ -57724,6 +58019,12 @@ export const indexObject ={
                "being intent on": {
                     "locators": [
                          "MN105"
+                    ],
+                    "xrefs": []
+               },
+               "will all attain?": {
+                    "locators": [
+                         "MN107"
                     ],
                     "xrefs": []
                },
@@ -63843,6 +64144,12 @@ export const indexObject ={
                          "SN18.6"
                     ],
                     "xrefs": []
+               },
+               "not knowing is cause for wrong views": {
+                    "locators": [
+                         "SN33.3"
+                    ],
+                    "xrefs": []
                }
           },
           "perceptions for ascetics (samaṇasaññā)": {
@@ -64112,6 +64419,14 @@ export const indexObject ={
                          "SN47.42"
                     ],
                     "xrefs": []
+               }
+          },
+          "phoenixes": {
+               "": {
+                    "locators": [],
+                    "xrefs": [
+                         "xref supaṇṇas"
+                    ]
                }
           },
           "phrasing (byañjana)": {
@@ -64733,7 +65048,8 @@ export const indexObject ={
                },
                "Ven. Sāriputta has long ago eradicated": {
                     "locators": [
-                         "SN21.2"
+                         "SN21.2",
+                         "SN28.1"
                     ],
                     "xrefs": []
                }
@@ -67991,7 +68307,12 @@ export const indexObject ={
                },
                "by choice/aspiration": {
                     "locators": [
-                         "MN120"
+                         "MN120",
+                         "SN29.7",
+                         "SN30.3",
+                         "SN30.4-6",
+                         "SN31.2",
+                         "SN32.2"
                     ],
                     "xrefs": []
                },
@@ -69392,6 +69713,12 @@ export const indexObject ={
                "as peaceful": {
                     "locators": [
                          "AN9.41"
+                    ],
+                    "xrefs": []
+               },
+               "inclining towards": {
+                    "locators": [
+                         "CUSTOM:SN:SN 27 Kilesa Saṁyutta:suttacentral.net/sn27"
                     ],
                     "xrefs": []
                },
@@ -73133,6 +73460,7 @@ export const indexObject ={
                },
                "": {
                     "locators": [
+                         "CUSTOM:SN:SN 28 Sāriputta Saṁyutta:suttacentral.net/sn28",
                          "AN4.173",
                          "AN4.175"
                     ],
@@ -73956,6 +74284,12 @@ export const indexObject ={
                "noble silence": {
                     "locators": [
                          "SN21.1"
+                    ],
+                    "xrefs": []
+               },
+               "Ven. Sāriputta practicing": {
+                    "locators": [
+                         "SN28.2"
                     ],
                     "xrefs": []
                }
@@ -74842,6 +75176,7 @@ export const indexObject ={
                },
                "as suffering": {
                     "locators": [
+                         "SN26.1",
                          "SN35.81"
                     ],
                     "xrefs": []
@@ -75016,6 +75351,18 @@ export const indexObject ={
                "impermanent, suffering": {
                     "locators": [
                          "SN18.11"
+                    ],
+                    "xrefs": []
+               },
+               "understanding and stream entry, etc.": {
+                    "locators": [
+                         "SN25.1"
+                    ],
+                    "xrefs": []
+               },
+               "desire for": {
+                    "locators": [
+                         "SN27.1"
                     ],
                     "xrefs": []
                },
@@ -80749,6 +81096,7 @@ export const indexObject ={
           "stream-enterers (sotāpanna)": {
                "": {
                     "locators": [
+                         "CUSTOM:SN:SN 25 Okkanta Saṁyutta:suttacentral.net/sn25",
                          "CUSTOM:SN:SN 55 Sotāpatti Saṁyutta:suttacentral.net/sn55"
                     ],
                     "xrefs": [
@@ -80997,6 +81345,12 @@ export const indexObject ={
                "doubt, removal of": {
                     "locators": [
                          "SN24.1"
+                    ],
+                    "xrefs": []
+               },
+               "definition: sense bases impermanent": {
+                    "locators": [
+                         "SN25.1"
                     ],
                     "xrefs": []
                }
@@ -81326,6 +81680,14 @@ export const indexObject ={
                "Dhamma is": {
                     "locators": [
                          "MN26"
+                    ],
+                    "xrefs": []
+               }
+          },
+          "Sucimukhī, wanderer": {
+               "questioning Ven. Sāriputta": {
+                    "locators": [
+                         "SN28.10"
                     ],
                     "xrefs": []
                }
@@ -81992,10 +82354,36 @@ export const indexObject ={
                     "xrefs": []
                }
           },
-          "supaṇṇa": {
+          "supaṇṇas": {
                "silk-cotton tree": {
                     "locators": [
                          "SN48.70"
+                    ],
+                    "xrefs": []
+               },
+               "": {
+                    "locators": [
+                         "CUSTOM:SN:SN 30 Supaṇṇa Saṁyutta:suttacentral.net/sn30"
+                    ],
+                    "xrefs": []
+               },
+               "birth of": {
+                    "locators": [
+                         "SN30.1",
+                         "SN30.2"
+                    ],
+                    "xrefs": []
+               },
+               "carrying off nāgas": {
+                    "locators": [
+                         "SN30.2"
+                    ],
+                    "xrefs": []
+               },
+               "cause for rebirth as": {
+                    "locators": [
+                         "SN30.3",
+                         "SN30.4-6"
                     ],
                     "xrefs": []
                }
@@ -83202,6 +83590,12 @@ export const indexObject ={
                "faculty of pleasure ends": {
                     "locators": [
                          "SN48.40"
+                    ],
+                    "xrefs": []
+               },
+               "Ven. Sāriputta practicing": {
+                    "locators": [
+                         "SN28.3"
                     ],
                     "xrefs": []
                }
@@ -86530,6 +86924,15 @@ export const indexObject ={
                          "AN10.67"
                     ],
                     "xrefs": []
+               },
+               "nāgas observing": {
+                    "locators": [
+                         "SN29.3",
+                         "SN29.4",
+                         "SN29.5",
+                         "SN29.6"
+                    ],
+                    "xrefs": []
                }
           },
           "Uppalavaṇṇā, Ven.": {
@@ -86899,6 +87302,12 @@ export const indexObject ={
                "asking about giving": {
                     "locators": [
                          "AN3.57"
+                    ],
+                    "xrefs": []
+               },
+               "": {
+                    "locators": [
+                         "CUSTOM:SN:SN 33 Vacchagotta Saṁyutta:suttacentral.net/sn33"
                     ],
                     "xrefs": []
                }
@@ -87483,6 +87892,19 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
+               "cause of": {
+                    "locators": [
+                         "SN24.37",
+                         "SN24.38",
+                         "SN24.39",
+                         "SN24.40",
+                         "SN24.41",
+                         "SN24.42",
+                         "SN24.43",
+                         "SN24.44"
+                    ],
+                    "xrefs": []
+               },
                "counter_value": 1
           },
           "views about the self (attavāda)": {
@@ -87543,6 +87965,13 @@ export const indexObject ={
                          "SN56.8"
                     ],
                     "xrefs": []
+               },
+               "cause of": {
+                    "locators": [
+                         "SN24.13",
+                         "SN24.14"
+                    ],
+                    "xrefs": []
                }
           },
           "views about the Tathāgata": {
@@ -87555,6 +87984,15 @@ export const indexObject ={
                "not relevant to fundamentals of spiritual life": {
                     "locators": [
                          "SN56.8"
+                    ],
+                    "xrefs": []
+               },
+               "cause of": {
+                    "locators": [
+                         "SN24.15",
+                         "SN24.16",
+                         "SN24.17",
+                         "SN24.18"
                     ],
                     "xrefs": []
                }
@@ -87575,6 +88013,15 @@ export const indexObject ={
                "not relevant to fundamentals of spiritual life": {
                     "locators": [
                          "SN56.8"
+                    ],
+                    "xrefs": []
+               },
+               "cause of": {
+                    "locators": [
+                         "SN24.9",
+                         "SN24.10",
+                         "SN24.11",
+                         "SN24.12"
                     ],
                     "xrefs": []
                },
@@ -89484,6 +89931,12 @@ export const indexObject ={
                "reasons for": {
                     "locators": [
                          "AN5.197"
+                    ],
+                    "xrefs": []
+               },
+               "reasons for; cloud devas": {
+                    "locators": [
+                         "SN32.53"
                     ],
                     "xrefs": []
                }
@@ -91850,6 +92303,15 @@ export const indexObject ={
                     "xrefs": []
                }
           },
+          "wrong livelihood": {
+               "for monastics": {
+                    "locators": [
+                         "SN28.10"
+                    ],
+                    "xrefs": []
+               },
+               "counter_value": 1
+          },
           "wrong livelihood (micchā ājīva)": {
                "": {
                     "locators": [],
@@ -91893,7 +92355,8 @@ export const indexObject ={
                          "AN6.18"
                     ],
                     "xrefs": []
-               }
+               },
+               "counter_value": 2
           },
           "wrong mindfulness (micchāsati)": {
                "overcome by right mindfulness": {
@@ -92219,6 +92682,7 @@ export const indexObject ={
                     "locators": [],
                     "xrefs": [
                          "xref personal truths (paccekasacca)",
+                         "xref views (diṭṭhi)",
                          "xref views of other sects",
                          "xref wrong view (micchā diṭṭhi)",
                          "xref wrong views (diṭṭhigata)"
@@ -92360,6 +92824,16 @@ export const indexObject ={
                "annihilationism": {
                     "locators": [
                          "SN22.85"
+                    ],
+                    "xrefs": []
+               },
+               "reasons for": {
+                    "locators": [
+                         "SN33.1",
+                         "SN33.2",
+                         "SN33.3",
+                         "SN33.4",
+                         "SN33.5"
                     ],
                     "xrefs": []
                },
