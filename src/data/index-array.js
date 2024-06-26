@@ -69380,6 +69380,486 @@ export const indexArray =[
           "six levels of"
      ],
      [
+          "SN36.12",
+          "feelings (vedanā)",
+          "like winds"
+     ],
+     [
+          "SN36.12",
+          "knowledge master (vedagu)",
+          "feelings"
+     ],
+     [
+          "SN36.12",
+          "wind (vāyo)",
+          "simile for feelings"
+     ],
+     [
+          "SN36.13",
+          "feelings (vedanā)",
+          "like lodgers in guest house"
+     ],
+     [
+          "SN36.13",
+          "guest houses",
+          "simile for feelings"
+     ],
+     [
+          "SN36.15",
+          "four noble truths pattern",
+          "feelings"
+     ],
+     [
+          "SN36.15",
+          "gratification, danger, escape",
+          "feelings"
+     ],
+     [
+          "SN36.15",
+          "origin, ending (samudayañca atthaṅgamañca)",
+          "feelings"
+     ],
+     [
+          "SN36.19",
+          "cessation of perception and feeling (saññāvedayitanirodha)",
+          "pleasant feeling"
+     ],
+     [
+          "SN36.19",
+          "disputes",
+          "caused by not agreeing with well spoken"
+     ],
+     [
+          "SN36.19",
+          "feelings (vedanā)",
+          "neutral as peaceful pleasure"
+     ],
+     [
+          "SN36.19",
+          "feelings (vedanā)",
+          "three"
+     ],
+     [
+          "SN36.19",
+          "feelings (vedanā)",
+          "two"
+     ],
+     [
+          "SN36.19",
+          "formless attainments",
+          "pleasure and"
+     ],
+     [
+          "SN36.19",
+          "happiness (sukha)",
+          "jhanas and formless attainments"
+     ],
+     [
+          "SN36.19",
+          "happiness (sukha)",
+          "many kinds of"
+     ],
+     [
+          "SN36.19",
+          "harmony (samagga)",
+          "through agreeing with the well spoken"
+     ],
+     [
+          "SN36.19",
+          "milk",
+          "water and, simile for harmony"
+     ],
+     [
+          "SN36.19",
+          "Pañcakaṅga, master builder",
+          "feelings"
+     ],
+     [
+          "SN36.19",
+          "sense pleasures, five",
+          "definition"
+     ],
+     [
+          "SN36.19",
+          "Udāyī, Ven.",
+          "feelings"
+     ],
+     [
+          "SN36.19",
+          "water",
+          "milk and, simile for harmony"
+     ],
+     [
+          "SN36.21",
+          "feelings (vedanā)",
+          "all because of past actions"
+     ],
+     [
+          "SN36.21",
+          "Moḷiyasīvaka, wanderer",
+          "all experiences because of past deeds"
+     ],
+     [
+          "SN36.21",
+          "past actions",
+          "everything is caused by"
+     ],
+     [
+          "SN36.21",
+          "results of actions",
+          "one cause for feelings"
+     ],
+     [
+          "SN36.21",
+          "sickness",
+          "feelings caused by"
+     ],
+     [
+          "SN36.21",
+          "wrong views",
+          "all feelings cause by past actions"
+     ],
+     [
+          "SN36.22",
+          "equanimity (upekkhā)",
+          "laypeople’s and monastics’"
+     ],
+     [
+          "SN36.22",
+          "happiness (somanassa)",
+          "laypeople’s and monastics’"
+     ],
+     [
+          "SN36.22",
+          "laypeople",
+          "equanimity of"
+     ],
+     [
+          "SN36.22",
+          "laypeople",
+          "happiness of"
+     ],
+     [
+          "SN36.22",
+          "laypeople",
+          "sadness of"
+     ],
+     [
+          "SN36.22",
+          "monastics",
+          "equanimity of"
+     ],
+     [
+          "SN36.22",
+          "monastics",
+          "happiness of"
+     ],
+     [
+          "SN36.22",
+          "monastics",
+          "sadness of as yearning for enlightenment"
+     ],
+     [
+          "SN36.22",
+          "sadness",
+          "laypeople’s and monastics’"
+     ],
+     [
+          "SN36.24",
+          "Bodhisatta",
+          "reflection on feeling"
+     ],
+     [
+          "SN36.24",
+          "Bodhisatta",
+          "reflection on gratification, danger, escape"
+     ],
+     [
+          "SN36.31",
+          "equanimity (upekkhā)",
+          "worldly, spiritual"
+     ],
+     [
+          "SN36.31",
+          "jhānas",
+          "pleasure of compared to sense pleasures"
+     ],
+     [
+          "SN36.31",
+          "liberation (vimokkha)",
+          "worldly, spiritual"
+     ],
+     [
+          "SN36.31",
+          "pleasure (sukha)",
+          "worldly, spiritual"
+     ],
+     [
+          "SN36.31",
+          "rapture (pīti)",
+          "worldly, spiritual"
+     ],
+     [
+          "SN36.31",
+          "spiritual (nirāmisa)",
+          "rapture, pleasure, equanimity, etc. "
+     ],
+     [
+          "SN36.31",
+          "worldly (āmisa, sāmisa)",
+          "rapture, pleasure, equanimity, etc. "
+     ],
+     [
+          "SN37.1",
+          "women",
+          "desirable/undesirable to man"
+     ],
+     [
+          "SN37.1",
+          "women",
+          "not having children"
+     ],
+     [
+          "SN37.2",
+          "men",
+          "desirable/undesirable to woman"
+     ],
+     [
+          "SN37.2",
+          "men",
+          "not having children"
+     ],
+     [
+          "SN37.3",
+          "menstruation",
+          "suffering of women"
+     ],
+     [
+          "SN37.3",
+          "pregnancy",
+          "suffering of women"
+     ],
+     [
+          "SN37.3",
+          "relatives",
+          "separation from"
+     ],
+     [
+          "SN37.3",
+          "women",
+          "suffering of"
+     ],
+     [
+          "SN37.4",
+          "women",
+          "reborn in hell because of jealousy"
+     ],
+     [
+          "SN37.4",
+          "women",
+          "reborn in hell because of sexual desire"
+     ],
+     [
+          "SN37.4",
+          "women",
+          "reborn in hell because of stinginess"
+     ],
+     [
+          "SN37.5",
+          "Anuruddha, Ven.",
+          "seeing women born in hell"
+     ],
+     [
+          "SN37.5",
+          "women",
+          "reborn in hell"
+     ],
+     [
+          "SN37.6",
+          "women",
+          "reborn in hell"
+     ],
+     [
+          "SN37.7",
+          "women",
+          "reborn in hell"
+     ],
+     [
+          "SN37.8",
+          "women",
+          "reborn in hell"
+     ],
+     [
+          "SN37.9",
+          "women",
+          "reborn in hell"
+     ],
+     [
+          "SN37.10",
+          "women",
+          "reborn in hell"
+     ],
+     [
+          "SN37.11",
+          "women",
+          "reborn in hell"
+     ],
+     [
+          "SN37.12",
+          "women",
+          "reborn in hell"
+     ],
+     [
+          "SN37.13",
+          "women",
+          "reborn in hell"
+     ],
+     [
+          "SN37.14",
+          "women",
+          "reborn in hell"
+     ],
+     [
+          "SN37.15",
+          "Anuruddha, Ven.",
+          "seeing women born in heaven"
+     ],
+     [
+          "SN37.15",
+          "women",
+          "reborn in heaven"
+     ],
+     [
+          "SN37.16",
+          "women",
+          "reborn in heaven"
+     ],
+     [
+          "SN37.17",
+          "women",
+          "reborn in heaven"
+     ],
+     [
+          "SN37.18",
+          "women",
+          "reborn in heaven"
+     ],
+     [
+          "SN37.19",
+          "women",
+          "reborn in heaven"
+     ],
+     [
+          "SN37.20",
+          "women",
+          "reborn in heaven"
+     ],
+     [
+          "SN37.21",
+          "women",
+          "reborn in heaven"
+     ],
+     [
+          "SN37.22",
+          "women",
+          "reborn in heaven"
+     ],
+     [
+          "SN37.23",
+          "women",
+          "reborn in heaven"
+     ],
+     [
+          "SN37.24",
+          "women",
+          "reborn in heaven"
+     ],
+     [
+          "SN37.25",
+          "beauty (rūpa)",
+          "power of woman"
+     ],
+     [
+          "SN37.25",
+          "children",
+          "power of woman"
+     ],
+     [
+          "SN37.25",
+          "relatives",
+          "power of woman"
+     ],
+     [
+          "SN37.25",
+          "virtue (sīla)",
+          "power of woman"
+     ],
+     [
+          "SN37.25",
+          "wealth",
+          "power of woman"
+     ],
+     [
+          "SN37.25",
+          "women",
+          "powers of"
+     ],
+     [
+          "SN37.26",
+          "women",
+          "power over husband"
+     ],
+     [
+          "SN37.27",
+          "women",
+          "power over husband"
+     ],
+     [
+          "SN37.28",
+          "husbands",
+          "power over wife"
+     ],
+     [
+          "SN37.29",
+          "women",
+          "powers of"
+     ],
+     [
+          "SN37.30",
+          "women",
+          "being sent away from family"
+     ],
+     [
+          "SN37.30",
+          "women",
+          "powers of"
+     ],
+     [
+          "SN37.31",
+          "women",
+          "reborn in heaven"
+     ],
+     [
+          "SN37.32",
+          "children",
+          "hard to get"
+     ],
+     [
+          "SN37.32",
+          "co-wives",
+          "hard to avoid"
+     ],
+     [
+          "SN37.32",
+          "merit (puñña)",
+          "helps wives get beneficial things"
+     ],
+     [
+          "SN37.32",
+          "women",
+          "things hard to get"
+     ],
+     [
           "SN41.7",
           "loving-kindness (mettā)",
           "measureless liberation of mind"

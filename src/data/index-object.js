@@ -3732,6 +3732,18 @@ export const indexObject ={
                          "SN16.6"
                     ],
                     "xrefs": []
+               },
+               "seeing women born in hell": {
+                    "locators": [
+                         "SN37.5"
+                    ],
+                    "xrefs": []
+               },
+               "seeing women born in heaven": {
+                    "locators": [
+                         "SN37.15"
+                    ],
+                    "xrefs": []
                }
           },
           "anxiety (paritassanā)": {
@@ -7863,6 +7875,15 @@ export const indexObject ={
                },
                "counter_value": 1
           },
+          "beauty (rūpa)": {
+               "power of woman": {
+                    "locators": [
+                         "SN37.25"
+                    ],
+                    "xrefs": []
+               },
+               "counter_value": 2
+          },
           "beauty (vaṇṇa)": {
                "result of factors of stream-entry": {
                     "locators": [
@@ -7876,7 +7897,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "counter_value": 2
+               "counter_value": 3
           },
           "becoming (bhava)": {
                "": {
@@ -9115,6 +9136,7 @@ export const indexObject ={
                },
                "reflection on gratification, danger, escape": {
                     "locators": [
+                         "SN36.24",
                          "AN3.103"
                     ],
                     "xrefs": []
@@ -9165,6 +9187,12 @@ export const indexObject ={
                "meditation experience, mindfulness of breathing": {
                     "locators": [
                          "SN54.8"
+                    ],
+                    "xrefs": []
+               },
+               "reflection on feeling": {
+                    "locators": [
+                         "SN36.24"
                     ],
                     "xrefs": []
                }
@@ -12640,7 +12668,8 @@ export const indexObject ={
                },
                "pleasant feeling": {
                     "locators": [
-                         "MN59"
+                         "MN59",
+                         "SN36.19"
                     ],
                     "xrefs": []
                },
@@ -13190,6 +13219,18 @@ export const indexObject ={
                          "SN12.63"
                     ],
                     "xrefs": []
+               },
+               "power of woman": {
+                    "locators": [
+                         "SN37.25"
+                    ],
+                    "xrefs": []
+               },
+               "hard to get": {
+                    "locators": [
+                         "SN37.32"
+                    ],
+                    "xrefs": []
                }
           },
           "children and wives (puttabhariya)": {
@@ -13513,6 +13554,12 @@ export const indexObject ={
                "bhikkhunīs who were": {
                     "locators": [
                          "Thig11.1"
+                    ],
+                    "xrefs": []
+               },
+               "hard to avoid": {
+                    "locators": [
+                         "SN37.32"
                     ],
                     "xrefs": []
                }
@@ -22439,7 +22486,8 @@ export const indexObject ={
                },
                "caused by not agreeing with well spoken": {
                     "locators": [
-                         "MN59"
+                         "MN59",
+                         "SN36.19"
                     ],
                     "xrefs": []
                },
@@ -26275,7 +26323,8 @@ export const indexObject ={
                },
                "laypeople’s and monastics’": {
                     "locators": [
-                         "MN137"
+                         "MN137",
+                         "SN36.22"
                     ],
                     "xrefs": []
                },
@@ -26346,6 +26395,12 @@ export const indexObject ={
                "basis for": {
                     "locators": [
                          "SN35.130"
+                    ],
+                    "xrefs": []
+               },
+               "worldly, spiritual": {
+                    "locators": [
+                         "SN36.31"
                     ],
                     "xrefs": []
                }
@@ -29497,7 +29552,9 @@ export const indexObject ={
           },
           "feelings (vedanā)": {
                "": {
-                    "locators": [],
+                    "locators": [
+                         "CUSTOM:SN:SN 36 Vedanā Saṁyutta:suttacentral.net/sn36"
+                    ],
                     "xrefs": [
                          "xref dependent origination (paṭiccasamuppāda)",
                          "xref neutral feelings (adukkhamasukhaṁ vedanā)",
@@ -29512,6 +29569,7 @@ export const indexObject ={
                          "MN74",
                          "SN36.1",
                          "SN36.3",
+                         "SN36.19",
                          "Kp4",
                          "Iti52",
                          "Iti53"
@@ -29604,13 +29662,15 @@ export const indexObject ={
                },
                "two": {
                     "locators": [
-                         "MN59"
+                         "MN59",
+                         "SN36.19"
                     ],
                     "xrefs": []
                },
                "neutral as peaceful pleasure": {
                     "locators": [
-                         "MN59"
+                         "MN59",
+                         "SN36.19"
                     ],
                     "xrefs": []
                },
@@ -29885,6 +29945,24 @@ export const indexObject ={
                "origin, ending": {
                     "locators": [
                          "SN36.6"
+                    ],
+                    "xrefs": []
+               },
+               "like winds": {
+                    "locators": [
+                         "SN36.12"
+                    ],
+                    "xrefs": []
+               },
+               "like lodgers in guest house": {
+                    "locators": [
+                         "SN36.13"
+                    ],
+                    "xrefs": []
+               },
+               "all because of past actions": {
+                    "locators": [
+                         "SN36.21"
                     ],
                     "xrefs": []
                }
@@ -31963,7 +32041,8 @@ export const indexObject ={
                },
                "pleasure and": {
                     "locators": [
-                         "MN59"
+                         "MN59",
+                         "SN36.19"
                     ],
                     "xrefs": []
                },
@@ -32841,6 +32920,12 @@ export const indexObject ={
                "gain and honor": {
                     "locators": [
                          "SN17.27"
+                    ],
+                    "xrefs": []
+               },
+               "feelings": {
+                    "locators": [
+                         "SN36.15"
                     ],
                     "xrefs": []
                }
@@ -37928,6 +38013,12 @@ export const indexObject ={
                          "SN17.25"
                     ],
                     "xrefs": []
+               },
+               "feelings": {
+                    "locators": [
+                         "SN36.15"
+                    ],
+                    "xrefs": []
                }
           },
           "gratitude": {
@@ -38573,6 +38664,12 @@ export const indexObject ={
                          "SN45.159"
                     ],
                     "xrefs": []
+               },
+               "simile for feelings": {
+                    "locators": [
+                         "SN36.13"
+                    ],
+                    "xrefs": []
                }
           },
           "guests (atithi)": {
@@ -38722,7 +38819,8 @@ export const indexObject ={
                },
                "laypeople’s and monastics’": {
                     "locators": [
-                         "MN137"
+                         "MN137",
+                         "SN36.22"
                     ],
                     "xrefs": []
                },
@@ -38816,13 +38914,15 @@ export const indexObject ={
                },
                "jhanas and formless attainments": {
                     "locators": [
-                         "MN59"
+                         "MN59",
+                         "SN36.19"
                     ],
                     "xrefs": []
                },
                "many kinds of": {
                     "locators": [
-                         "MN59"
+                         "MN59",
+                         "SN36.19"
                     ],
                     "xrefs": []
                },
@@ -39234,7 +39334,8 @@ export const indexObject ={
                },
                "through agreeing with the well spoken": {
                     "locators": [
-                         "MN59"
+                         "MN59",
+                         "SN36.19"
                     ],
                     "xrefs": []
                },
@@ -42879,6 +42980,12 @@ export const indexObject ={
                          "MN97"
                     ],
                     "xrefs": []
+               },
+               "power over wife": {
+                    "locators": [
+                         "SN37.28"
+                    ],
+                    "xrefs": []
                }
           }
      },
@@ -45966,7 +46073,8 @@ export const indexObject ={
                },
                "pleasure of compared to sense pleasures": {
                     "locators": [
-                         "MN139"
+                         "MN139",
+                         "SN36.31"
                     ],
                     "xrefs": []
                },
@@ -47708,6 +47816,12 @@ export const indexObject ={
                          "SN35.103"
                     ],
                     "xrefs": []
+               },
+               "feelings": {
+                    "locators": [
+                         "SN36.12"
+                    ],
+                    "xrefs": []
                }
           },
           "knowledge of destruction of the taints (āsavakkhayañāṇa)": {
@@ -48614,19 +48728,22 @@ export const indexObject ={
                },
                "happiness of": {
                     "locators": [
-                         "MN137"
+                         "MN137",
+                         "SN36.22"
                     ],
                     "xrefs": []
                },
                "sadness of": {
                     "locators": [
-                         "MN137"
+                         "MN137",
+                         "SN36.22"
                     ],
                     "xrefs": []
                },
                "equanimity of": {
                     "locators": [
-                         "MN137"
+                         "MN137",
+                         "SN36.22"
                     ],
                     "xrefs": []
                },
@@ -49412,6 +49529,12 @@ export const indexObject ={
                "eight": {
                     "locators": [
                          "AN8.66"
+                    ],
+                    "xrefs": []
+               },
+               "worldly, spiritual": {
+                    "locators": [
+                         "SN36.31"
                     ],
                     "xrefs": []
                }
@@ -53159,6 +53282,18 @@ export const indexObject ={
                          "AN8.18"
                     ],
                     "xrefs": []
+               },
+               "desirable/undesirable to woman": {
+                    "locators": [
+                         "SN37.2"
+                    ],
+                    "xrefs": []
+               },
+               "not having children": {
+                    "locators": [
+                         "SN37.2"
+                    ],
+                    "xrefs": []
                }
           },
           "mendicants": {
@@ -53270,6 +53405,14 @@ export const indexObject ={
                     "xrefs": [
                          "xref workers (sudda)"
                     ]
+               }
+          },
+          "menstruation": {
+               "suffering of women": {
+                    "locators": [
+                         "SN37.3"
+                    ],
+                    "xrefs": []
                }
           },
           "mental action (manokamma)": {
@@ -53680,6 +53823,12 @@ export const indexObject ={
                          "SN55.41"
                     ],
                     "xrefs": []
+               },
+               "helps wives get beneficial things": {
+                    "locators": [
+                         "SN37.32"
+                    ],
+                    "xrefs": []
                }
           },
           "merit sharing": {
@@ -53899,7 +54048,8 @@ export const indexObject ={
                },
                "water and, simile for harmony": {
                     "locators": [
-                         "MN59"
+                         "MN59",
+                         "SN36.19"
                     ],
                     "xrefs": []
                },
@@ -55963,6 +56113,14 @@ export const indexObject ={
                     "xrefs": []
                }
           },
+          "Moḷiyasīvaka, wanderer": {
+               "all experiences because of past deeds": {
+                    "locators": [
+                         "SN36.21"
+                    ],
+                    "xrefs": []
+               }
+          },
           "monastery": {
                "": {
                     "locators": [],
@@ -56638,19 +56796,22 @@ export const indexObject ={
                },
                "happiness of": {
                     "locators": [
-                         "MN137"
+                         "MN137",
+                         "SN36.22"
                     ],
                     "xrefs": []
                },
                "sadness of as yearning for enlightenment": {
                     "locators": [
-                         "MN137"
+                         "MN137",
+                         "SN36.22"
                     ],
                     "xrefs": []
                },
                "equanimity of": {
                     "locators": [
-                         "MN137"
+                         "MN137",
+                         "SN36.22"
                     ],
                     "xrefs": []
                },
@@ -61537,6 +61698,12 @@ export const indexObject ={
                          "SN17.26"
                     ],
                     "xrefs": []
+               },
+               "feelings": {
+                    "locators": [
+                         "SN36.15"
+                    ],
+                    "xrefs": []
                }
           },
           "origination (samudaya)": {
@@ -62207,7 +62374,8 @@ export const indexObject ={
           "Pañcakaṅga, master builder": {
                "feelings": {
                     "locators": [
-                         "MN59"
+                         "MN59",
+                         "SN36.19"
                     ],
                     "xrefs": []
                },
@@ -62520,7 +62688,8 @@ export const indexObject ={
                },
                "everything is caused by": {
                     "locators": [
-                         "MN101"
+                         "MN101",
+                         "SN36.21"
                     ],
                     "xrefs": []
                }
@@ -64920,6 +65089,12 @@ export const indexObject ={
                          "SN14.34"
                     ],
                     "xrefs": []
+               },
+               "worldly, spiritual": {
+                    "locators": [
+                         "SN36.31"
+                    ],
+                    "xrefs": []
                }
           },
           "pleasure seekers (kāmabhogī)": {
@@ -66275,6 +66450,12 @@ export const indexObject ={
                "desire for giving birth is never satisfied": {
                     "locators": [
                          "AN2.61"
+                    ],
+                    "xrefs": []
+               },
+               "suffering of women": {
+                    "locators": [
+                         "SN37.3"
                     ],
                     "xrefs": []
                }
@@ -68089,6 +68270,12 @@ export const indexObject ={
                          "SN12.23"
                     ],
                     "xrefs": []
+               },
+               "worldly, spiritual": {
+                    "locators": [
+                         "SN36.31"
+                    ],
+                    "xrefs": []
                }
           },
           "rapture enlightenment factor": {
@@ -69618,6 +69805,18 @@ export const indexObject ={
                          "SN15.3"
                     ],
                     "xrefs": []
+               },
+               "separation from": {
+                    "locators": [
+                         "SN37.3"
+                    ],
+                    "xrefs": []
+               },
+               "power of woman": {
+                    "locators": [
+                         "SN37.25"
+                    ],
+                    "xrefs": []
                }
           },
           "release by wisdom (paññāvimutti)": {
@@ -70794,6 +70993,12 @@ export const indexObject ={
                "gods with factors of stream-entry": {
                     "locators": [
                          "SN55.36"
+                    ],
+                    "xrefs": []
+               },
+               "one cause for feelings": {
+                    "locators": [
+                         "SN36.21"
                     ],
                     "xrefs": []
                }
@@ -72564,7 +72769,8 @@ export const indexObject ={
                },
                "laypeople’s and monastics’": {
                     "locators": [
-                         "MN137"
+                         "MN137",
+                         "SN36.22"
                     ],
                     "xrefs": []
                },
@@ -76587,6 +76793,7 @@ export const indexObject ={
                "definition": {
                     "locators": [
                          "MN59",
+                         "SN36.19",
                          "SN45.30",
                          "SN45.175"
                     ],
@@ -77725,6 +77932,12 @@ export const indexObject ={
                "cured by Dhamma talk": {
                     "locators": [
                          "SN55.26"
+                    ],
+                    "xrefs": []
+               },
+               "feelings caused by": {
+                    "locators": [
+                         "SN36.21"
                     ],
                     "xrefs": []
                },
@@ -80152,6 +80365,12 @@ export const indexObject ={
                "happiness": {
                     "locators": [
                          "AN2.68"
+                    ],
+                    "xrefs": []
+               },
+               "rapture, pleasure, equanimity, etc.": {
+                    "locators": [
+                         "SN36.31"
                     ],
                     "xrefs": []
                }
@@ -85593,7 +85812,8 @@ export const indexObject ={
           "Udāyī, Ven.": {
                "feelings": {
                     "locators": [
-                         "MN59"
+                         "MN59",
+                         "SN36.19"
                     ],
                     "xrefs": []
                },
@@ -88876,6 +89096,12 @@ export const indexObject ={
                          "SN14.24"
                     ],
                     "xrefs": []
+               },
+               "power of woman": {
+                    "locators": [
+                         "SN37.25"
+                    ],
+                    "xrefs": []
                }
           },
           "virtue, concentration, and wisdom (sīla, samadhi, paññā)": {
@@ -89433,7 +89659,8 @@ export const indexObject ={
                },
                "milk and, simile for harmony": {
                     "locators": [
-                         "MN59"
+                         "MN59",
+                         "SN36.19"
                     ],
                     "xrefs": []
                },
@@ -90001,6 +90228,12 @@ export const indexObject ={
                "factors of stream-entry": {
                     "locators": [
                          "SN55.44"
+                    ],
+                    "xrefs": []
+               },
+               "power of woman": {
+                    "locators": [
+                         "SN37.25"
                     ],
                     "xrefs": []
                }
@@ -90761,6 +90994,12 @@ export const indexObject ={
                          "SN17.9"
                     ],
                     "xrefs": []
+               },
+               "simile for feelings": {
+                    "locators": [
+                         "SN36.12"
+                    ],
+                    "xrefs": []
                }
           },
           "wings to awakening": {
@@ -91471,7 +91710,9 @@ export const indexObject ={
           },
           "women": {
                "": {
-                    "locators": [],
+                    "locators": [
+                         "CUSTOM:SN:SN 37 Mātugāma Saṁyutta:suttacentral.net/sn37"
+                    ],
                     "xrefs": [
                          "xref youth"
                     ]
@@ -91520,6 +91761,7 @@ export const indexObject ={
                },
                "reborn in hell because of stinginess": {
                     "locators": [
+                         "SN37.4",
                          "AN3.129"
                     ],
                     "xrefs": []
@@ -91624,6 +91866,94 @@ export const indexObject ={
                "family with many and few men, simile for mendicant": {
                     "locators": [
                          "SN20.3"
+                    ],
+                    "xrefs": []
+               },
+               "desirable/undesirable to man": {
+                    "locators": [
+                         "SN37.1"
+                    ],
+                    "xrefs": []
+               },
+               "not having children": {
+                    "locators": [
+                         "SN37.1"
+                    ],
+                    "xrefs": []
+               },
+               "suffering of": {
+                    "locators": [
+                         "SN37.3"
+                    ],
+                    "xrefs": []
+               },
+               "reborn in hell because of jealousy": {
+                    "locators": [
+                         "SN37.4"
+                    ],
+                    "xrefs": []
+               },
+               "reborn in hell because of sexual desire": {
+                    "locators": [
+                         "SN37.4"
+                    ],
+                    "xrefs": []
+               },
+               "reborn in hell": {
+                    "locators": [
+                         "SN37.5",
+                         "SN37.6",
+                         "SN37.7",
+                         "SN37.8",
+                         "SN37.9",
+                         "SN37.10",
+                         "SN37.11",
+                         "SN37.12",
+                         "SN37.13",
+                         "SN37.14"
+                    ],
+                    "xrefs": []
+               },
+               "reborn in heaven": {
+                    "locators": [
+                         "SN37.15",
+                         "SN37.16",
+                         "SN37.17",
+                         "SN37.18",
+                         "SN37.19",
+                         "SN37.20",
+                         "SN37.21",
+                         "SN37.22",
+                         "SN37.23",
+                         "SN37.24",
+                         "SN37.31"
+                    ],
+                    "xrefs": []
+               },
+               "powers of": {
+                    "locators": [
+                         "SN37.25",
+                         "SN37.29",
+                         "SN37.30"
+                    ],
+                    "xrefs": []
+               },
+               "power over husband": {
+                    "locators": [
+                         "SN37.26",
+                         "SN37.27"
+                    ],
+                    "xrefs": []
+               },
+               "being sent away from family": {
+                    "locators": [
+                         "SN37.30"
+                    ],
+                    "xrefs": []
+               },
+               "things hard to get": {
+                    "locators": [
+                         "SN37.32"
                     ],
                     "xrefs": []
                }
@@ -92037,6 +92367,12 @@ export const indexObject ={
                "happiness": {
                     "locators": [
                          "AN2.68"
+                    ],
+                    "xrefs": []
+               },
+               "rapture, pleasure, equanimity, etc.": {
+                    "locators": [
+                         "SN36.31"
                     ],
                     "xrefs": []
                }
@@ -92943,6 +93279,12 @@ export const indexObject ={
                "preventing living the holy life": {
                     "locators": [
                          "SN12.35"
+                    ],
+                    "xrefs": []
+               },
+               "all feelings cause by past actions": {
+                    "locators": [
+                         "SN36.21"
                     ],
                     "xrefs": []
                },
