@@ -3,6 +3,7 @@ export const headwordsArray =[
      "Abhaya, prince",
      "Abhibhū, disciple of Sikhi Buddha",
      "abodes of beings",
+     "abyss",
      "acceptance of a view after consideration (diṭṭhinijjhānakkhanti)",
      "acceptance of Dhamma after consideration (dhammanijjhānakhanti)",
      "accomplishment in concentration (samādhisampannā)",

@@ -25706,11 +25706,6 @@ export const locatorBookObject ={
     ],
     [
       "SN15.20",
-      "impermanence",
-      "example of mountain"
-    ],
-    [
-      "SN15.20",
       "Koṇāgamana, Buddha",
       "chief disciples"
     ],
@@ -25718,6 +25713,11 @@ export const locatorBookObject ={
       "SN15.20",
       "Vepulla, mountain",
       "name changing"
+    ],
+    [
+      "SN15.20",
+      "impermanence",
+      "example of mountain"
     ],
     [
       "SN15.20",
@@ -25801,6 +25801,16 @@ export const locatorBookObject ={
     ],
     [
       "SN16.3",
+      "Dhamma teaching",
+      "how to"
+    ],
+    [
+      "SN16.3",
+      "Dhamma",
+      "excellence of"
+    ],
+    [
+      "SN16.3",
       "cliffs",
       "simile for carefully approaching families"
     ],
@@ -25813,16 +25823,6 @@ export const locatorBookObject ={
       "SN16.3",
       "compassion (karuṇā)",
       "teaching Dhamma"
-    ],
-    [
-      "SN16.3",
-      "Dhamma teaching",
-      "how to"
-    ],
-    [
-      "SN16.3",
-      "Dhamma",
-      "excellence of"
     ],
     [
       "SN16.3",
@@ -28686,6 +28686,11 @@ export const locatorBookObject ={
     ],
     [
       "SN22.88",
+      "nibbāna",
+      "like oil lamp going out"
+    ],
+    [
+      "SN22.88",
       "oil lamps",
       "simile of arahant passing away"
     ],
@@ -28701,16 +28706,6 @@ export const locatorBookObject ={
     ],
     [
       "SN22.89",
-      "arahants",
-      "regarding aggregates as not-self does not make one a"
-    ],
-    [
-      "SN22.89",
-      "cloth",
-      "simile for conceit “I am”; scent of cleaners remaining"
-    ],
-    [
-      "SN22.89",
       "conceit “I am” (asmimāna)",
       "given up by arahant"
     ],
@@ -28721,13 +28716,23 @@ export const locatorBookObject ={
     ],
     [
       "SN22.89",
-      "Dhamma teachers",
-      "attaining enlightenment while teaching"
+      "Khemaka, Ven.",
+      "enlightened while teaching"
     ],
     [
       "SN22.89",
-      "Khemaka, Ven.",
-      "enlightened while teaching"
+      "arahants",
+      "regarding aggregates as not-self does not make one a"
+    ],
+    [
+      "SN22.89",
+      "cloth",
+      "simile for conceit “I am”; scent of cleaners remaining"
+    ],
+    [
+      "SN22.89",
+      "Dhamma teachers",
+      "attaining enlightenment while teaching"
     ],
     [
       "SN22.89",
@@ -32638,6 +32643,206 @@ export const locatorBookObject ={
       "SN35.248",
       "sheaves of grain",
       "simile for sense objects; struck by seven flails"
+    ],
+    [
+      "SN36.1",
+      "feelings (vedanā)",
+      "three"
+    ],
+    [
+      "SN36.3",
+      "escape (nissaraṇa)",
+      "feelings"
+    ],
+    [
+      "SN36.3",
+      "feelings (vedanā)",
+      "complete understanding of"
+    ],
+    [
+      "SN36.3",
+      "feelings (vedanā)",
+      "three"
+    ],
+    [
+      "SN36.3",
+      "neutral feelings (adukkhamasukhaṁ vedanā)",
+      "underlying tendency to ignorance (avijjānusaya)"
+    ],
+    [
+      "SN36.3",
+      "painful feelings (dukkhavedanā)",
+      "underlying tendency to repulsion (paṭighānusaya)"
+    ],
+    [
+      "SN36.3",
+      "pleasant feelings (sukhavedanā)",
+      "underlying tendency to greed (rāgānusaya)"
+    ],
+    [
+      "SN36.3",
+      "underlying tendencies (anusaya)",
+      "giving up"
+    ],
+    [
+      "SN36.3",
+      "underlying tendency to greed (rāgānusaya)",
+      "pleasant feelings"
+    ],
+    [
+      "SN36.3",
+      "underlying tendency to ignorance (avijjānusaya)",
+      "neutral feelings"
+    ],
+    [
+      "SN36.3",
+      "underlying tendency to repulsion (paṭighānusaya)",
+      "painful feelings"
+    ],
+    [
+      "SN36.4",
+      "abyss",
+      "term for painful feelings"
+    ],
+    [
+      "SN36.4",
+      "painful feelings (dukkhavedanā)",
+      "ordinary person vs. noble disciple"
+    ],
+    [
+      "SN36.6",
+      "darts (salla)",
+      "simile for feelings"
+    ],
+    [
+      "SN36.6",
+      "feelings (vedanā)",
+      "gratification, danger, escape"
+    ],
+    [
+      "SN36.6",
+      "feelings (vedanā)",
+      "like dart"
+    ],
+    [
+      "SN36.6",
+      "feelings (vedanā)",
+      "ordinary person vs. noble disciple"
+    ],
+    [
+      "SN36.6",
+      "feelings (vedanā)",
+      "origin, ending"
+    ],
+    [
+      "SN36.6",
+      "noble disciple (ariya sāvaka)",
+      "feelings, like dart"
+    ],
+    [
+      "SN36.6",
+      "ordinary person (puthujjana)",
+      "feelings, like dart"
+    ],
+    [
+      "SN36.6",
+      "underlying tendency to greed (rāgānusaya)",
+      "pleasant feelings"
+    ],
+    [
+      "SN36.6",
+      "underlying tendency to ignorance (avijjānusaya)",
+      "neutral feelings"
+    ],
+    [
+      "SN36.6",
+      "underlying tendency to repulsion (paṭighānusaya)",
+      "painful feelings"
+    ],
+    [
+      "SN36.7",
+      "advice",
+      "for sick monks"
+    ],
+    [
+      "SN36.7",
+      "body, ending with (kāyapariyantika)",
+      "feeling"
+    ],
+    [
+      "SN36.7",
+      "feelings (vedanā)",
+      "contemplation of"
+    ],
+    [
+      "SN36.7",
+      "foundations of mindfulness, four (satipaṭṭhāna)",
+      "sickness and"
+    ],
+    [
+      "SN36.7",
+      "nibbāna",
+      "like oil lamp going out"
+    ],
+    [
+      "SN36.7",
+      "oil lamps",
+      "simile of arahant passing away"
+    ],
+    [
+      "SN36.7",
+      "sick person",
+      "advice for"
+    ],
+    [
+      "SN36.7",
+      "situational awareness (sampajañña)",
+      "sickness and"
+    ],
+    [
+      "SN36.9",
+      "feelings (vedanā)",
+      "contact, like fire sticks"
+    ],
+    [
+      "SN36.9",
+      "feelings (vedanā)",
+      "impermanent"
+    ],
+    [
+      "SN36.11",
+      "cessation (nirodha)",
+      "progressive cessation of conditions"
+    ],
+    [
+      "SN36.11",
+      "formless attainments",
+      "progressive cessation of conditions"
+    ],
+    [
+      "SN36.11",
+      "jhānas",
+      "progressive cessation of conditions"
+    ],
+    [
+      "SN36.11",
+      "settled (vūpasama)",
+      "progressive stilling of conditions"
+    ],
+    [
+      "SN36.11",
+      "suffering (dukkha)",
+      "includes whatever is felt"
+    ],
+    [
+      "SN36.11",
+      "taints (āsava)",
+      "tranquillizing"
+    ],
+    [
+      "SN36.11",
+      "tranquillity (passaddhi)",
+      "six levels of"
     ],
     [
       "SN41.7",
@@ -39281,11 +39486,6 @@ export const locatorBookObject ={
     ],
     [
       "SN55.30",
-      "fame (yasas)",
-      "result of factors of stream-entry"
-    ],
-    [
-      "SN55.30",
       "happiness (sukha)",
       "result of factors of stream-entry"
     ],
@@ -39298,6 +39498,11 @@ export const locatorBookObject ={
       "SN55.30",
       "Nandaka the Licchavi ",
       "interior bathing"
+    ],
+    [
+      "SN55.30",
+      "fame (yasas)",
+      "result of factors of stream-entry"
     ],
     [
       "SN55.30",

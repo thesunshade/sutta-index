@@ -92,6 +92,14 @@ export const indexObject ={
                     "xrefs": []
                }
           },
+          "abyss": {
+               "term for painful feelings": {
+                    "locators": [
+                         "SN36.4"
+                    ],
+                    "xrefs": []
+               }
+          },
           "acceptance of a view after consideration (diṭṭhinijjhānakkhanti)": {
                "can turn out two ways": {
                     "locators": [
@@ -1113,6 +1121,12 @@ export const indexObject ={
                "for new monastics": {
                     "locators": [
                          "SN47.4"
+                    ],
+                    "xrefs": []
+               },
+               "for sick monks": {
+                    "locators": [
+                         "SN36.7"
                     ],
                     "xrefs": []
                },
@@ -9586,6 +9600,7 @@ export const indexObject ={
                "feeling": {
                     "locators": [
                          "SN12.51",
+                         "SN36.7",
                          "SN54.8"
                     ],
                     "xrefs": []
@@ -12592,6 +12607,12 @@ export const indexObject ={
                "aggregates": {
                     "locators": [
                          "SN22.21"
+                    ],
+                    "xrefs": []
+               },
+               "progressive cessation of conditions": {
+                    "locators": [
+                         "SN36.11"
                     ],
                     "xrefs": []
                }
@@ -17309,6 +17330,18 @@ export const indexObject ={
                "conceiving": {
                     "locators": [
                          "SN35.248"
+                    ],
+                    "xrefs": []
+               },
+               "": {
+                    "locators": [],
+                    "xrefs": [
+                         "xref arrows"
+                    ]
+               },
+               "simile for feelings": {
+                    "locators": [
+                         "SN36.6"
                     ],
                     "xrefs": []
                }
@@ -26400,6 +26433,12 @@ export const indexObject ={
                          "SN16.1"
                     ],
                     "xrefs": []
+               },
+               "feelings": {
+                    "locators": [
+                         "SN36.3"
+                    ],
+                    "xrefs": []
                }
           },
           "essence (sāra)": {
@@ -29471,6 +29510,8 @@ export const indexObject ={
                          "MN44",
                          "MN59",
                          "MN74",
+                         "SN36.1",
+                         "SN36.3",
                          "Kp4",
                          "Iti52",
                          "Iti53"
@@ -29502,13 +29543,15 @@ export const indexObject ={
                },
                "contemplation of": {
                     "locators": [
-                         "MN10"
+                         "MN10",
+                         "SN36.7"
                     ],
                     "xrefs": []
                },
                "complete understanding of": {
                     "locators": [
                          "MN13",
+                         "SN36.3",
                          "SN47.38",
                          "SN47.49",
                          "AN10.29"
@@ -29517,7 +29560,8 @@ export const indexObject ={
                },
                "gratification, danger, escape": {
                     "locators": [
-                         "MN13"
+                         "MN13",
+                         "SN36.6"
                     ],
                     "xrefs": []
                },
@@ -29790,7 +29834,8 @@ export const indexObject ={
                },
                "contact, like fire sticks": {
                     "locators": [
-                         "SN12.62"
+                         "SN12.62",
+                         "SN36.9"
                     ],
                     "xrefs": []
                },
@@ -29814,13 +29859,32 @@ export const indexObject ={
                },
                "impermanent": {
                     "locators": [
-                         "SN18.5"
+                         "SN18.5",
+                         "SN36.9"
                     ],
                     "xrefs": []
                },
                "not knowing is cause for wrong views": {
                     "locators": [
                          "SN33.2"
+                    ],
+                    "xrefs": []
+               },
+               "ordinary person vs. noble disciple": {
+                    "locators": [
+                         "SN36.6"
+                    ],
+                    "xrefs": []
+               },
+               "like dart": {
+                    "locators": [
+                         "SN36.6"
+                    ],
+                    "xrefs": []
+               },
+               "origin, ending": {
+                    "locators": [
+                         "SN36.6"
                     ],
                     "xrefs": []
                }
@@ -31998,6 +32062,12 @@ export const indexObject ={
                          "SN54.8"
                     ],
                     "xrefs": []
+               },
+               "progressive cessation of conditions": {
+                    "locators": [
+                         "SN36.11"
+                    ],
+                    "xrefs": []
                }
           },
           "formless liberations": {
@@ -32386,6 +32456,7 @@ export const indexObject ={
                },
                "sickness and": {
                     "locators": [
+                         "SN36.7",
                          "SN47.30"
                     ],
                     "xrefs": []
@@ -46155,6 +46226,12 @@ export const indexObject ={
                          "SN34.2"
                     ],
                     "xrefs": []
+               },
+               "progressive cessation of conditions": {
+                    "locators": [
+                         "SN36.11"
+                    ],
+                    "xrefs": []
                }
           },
           "Jīvaka Komārabhacca, householder": {
@@ -57878,7 +57955,8 @@ export const indexObject ={
                },
                "underlying tendency to ignorance (avijjānusaya)": {
                     "locators": [
-                         "MN148"
+                         "MN148",
+                         "SN36.3"
                     ],
                     "xrefs": []
                },
@@ -58185,6 +58263,13 @@ export const indexObject ={
                "like level parkland": {
                     "locators": [
                          "SN22.84"
+                    ],
+                    "xrefs": []
+               },
+               "like oil lamp going out": {
+                    "locators": [
+                         "SN22.88",
+                         "SN36.7"
                     ],
                     "xrefs": []
                },
@@ -58637,6 +58722,12 @@ export const indexObject ={
                "living negligently": {
                     "locators": [
                          "SN55.40"
+                    ],
+                    "xrefs": []
+               },
+               "feelings, like dart": {
+                    "locators": [
+                         "SN36.6"
                     ],
                     "xrefs": []
                }
@@ -60517,7 +60608,8 @@ export const indexObject ={
                "simile of arahant passing away": {
                     "locators": [
                          "MN140",
-                         "SN22.88"
+                         "SN22.88",
+                         "SN36.7"
                     ],
                     "xrefs": []
                },
@@ -61370,6 +61462,12 @@ export const indexObject ={
                          "SN55.40"
                     ],
                     "xrefs": []
+               },
+               "feelings, like dart": {
+                    "locators": [
+                         "SN36.6"
+                    ],
+                    "xrefs": []
                }
           },
           "ordination (upasampadā)": {
@@ -61939,6 +62037,18 @@ export const indexObject ={
                "understanding impermanence, etc.": {
                     "locators": [
                          "SN12.51"
+                    ],
+                    "xrefs": []
+               },
+               "underlying tendency to repulsion (paṭighānusaya)": {
+                    "locators": [
+                         "SN36.3"
+                    ],
+                    "xrefs": []
+               },
+               "ordinary person vs. noble disciple": {
+                    "locators": [
+                         "SN36.4"
                     ],
                     "xrefs": []
                },
@@ -64708,7 +64818,8 @@ export const indexObject ={
                },
                "underlying tendency to greed (rāgānusaya)": {
                     "locators": [
-                         "MN148"
+                         "MN148",
+                         "SN36.3"
                     ],
                     "xrefs": []
                },
@@ -76930,6 +77041,12 @@ export const indexObject ={
                          "SN46.51"
                     ],
                     "xrefs": []
+               },
+               "progressive stilling of conditions": {
+                    "locators": [
+                         "SN36.11"
+                    ],
+                    "xrefs": []
                }
           },
           "seven factors of enlightenment": {
@@ -77468,6 +77585,7 @@ export const indexObject ={
                },
                "advice for": {
                     "locators": [
+                         "SN36.7",
                          "SN55.3"
                     ],
                     "xrefs": []
@@ -78204,6 +78322,12 @@ export const indexObject ={
                "aggregates": {
                     "locators": [
                          "SN22.95"
+                    ],
+                    "xrefs": []
+               },
+               "sickness and": {
+                    "locators": [
+                         "SN36.7"
                     ],
                     "xrefs": []
                }
@@ -82052,7 +82176,8 @@ export const indexObject ={
                },
                "includes whatever is felt": {
                     "locators": [
-                         "SN12.32"
+                         "SN12.32",
+                         "SN36.11"
                     ],
                     "xrefs": []
                },
@@ -82869,6 +82994,12 @@ export const indexObject ={
                "ended by four noble truths": {
                     "locators": [
                          "SN56.25"
+                    ],
+                    "xrefs": []
+               },
+               "tranquillizing": {
+                    "locators": [
+                         "SN36.11"
                     ],
                     "xrefs": []
                }
@@ -84770,6 +84901,12 @@ export const indexObject ={
                          "SN12.23"
                     ],
                     "xrefs": []
+               },
+               "six levels of": {
+                    "locators": [
+                         "SN36.11"
+                    ],
+                    "xrefs": []
                }
           },
           "tranquillity enlightenment factor": {
@@ -85783,7 +85920,8 @@ export const indexObject ={
                },
                "giving up": {
                     "locators": [
-                         "MN9"
+                         "MN9",
+                         "SN36.3"
                     ],
                     "xrefs": []
                },
@@ -85888,6 +86026,13 @@ export const indexObject ={
                          "MN148"
                     ],
                     "xrefs": []
+               },
+               "pleasant feelings": {
+                    "locators": [
+                         "SN36.3",
+                         "SN36.6"
+                    ],
+                    "xrefs": []
                }
           },
           "underlying tendency to ignorance (avijjānusaya)": {
@@ -85896,12 +86041,26 @@ export const indexObject ={
                          "MN148"
                     ],
                     "xrefs": []
+               },
+               "neutral feelings": {
+                    "locators": [
+                         "SN36.3",
+                         "SN36.6"
+                    ],
+                    "xrefs": []
                }
           },
           "underlying tendency to repulsion (paṭighānusaya)": {
                "from sorrow of painful feeling": {
                     "locators": [
                          "MN148"
+                    ],
+                    "xrefs": []
+               },
+               "painful feelings": {
+                    "locators": [
+                         "SN36.3",
+                         "SN36.6"
                     ],
                     "xrefs": []
                }
