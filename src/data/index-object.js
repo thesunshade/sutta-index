@@ -4335,6 +4335,24 @@ export const indexObject ={
                          "SN55.58"
                     ],
                     "xrefs": []
+               },
+               "definition": {
+                    "locators": [
+                         "SN38.2"
+                    ],
+                    "xrefs": []
+               },
+               "path for attaining": {
+                    "locators": [
+                         "SN38.2"
+                    ],
+                    "xrefs": []
+               },
+               "won’t take long for one who practices in line with Dhamma": {
+                    "locators": [
+                         "SN38.16"
+                    ],
+                    "xrefs": []
                }
           },
           "Araka, teacher": {
@@ -7910,6 +7928,7 @@ export const indexObject ={
                     "locators": [
                          "MN9",
                          "SN12.2",
+                         "SN38.13",
                          "AN3.76"
                     ],
                     "xrefs": []
@@ -7966,6 +7985,12 @@ export const indexObject ={
                "conduit to": {
                     "locators": [
                          "SN23.3"
+                    ],
+                    "xrefs": []
+               },
+               "complete understanding of": {
+                    "locators": [
+                         "SN38.13"
                     ],
                     "xrefs": []
                }
@@ -13644,6 +13669,13 @@ export const indexObject ={
                          "SN12.32"
                     ],
                     "xrefs": []
+               },
+               "understanding six fields of contact’s origin, ending, etc.": {
+                    "locators": [
+                         "SN38.5",
+                         "SN38.6"
+                    ],
+                    "xrefs": []
                }
           },
           "coming and going (āgatigati)": {
@@ -18785,6 +18817,12 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
+               "hard for those gone forth": {
+                    "locators": [
+                         "SN38.16"
+                    ],
+                    "xrefs": []
+               },
                "counter_value": 3
           },
           "deliverance (vimutti)": {
@@ -20894,6 +20932,12 @@ export const indexObject ={
                "wise should teach": {
                     "locators": [
                          "SN21.7"
+                    ],
+                    "xrefs": []
+               },
+               "to give up greed, hatred, delusion": {
+                    "locators": [
+                         "SN38.3"
                     ],
                     "xrefs": []
                }
@@ -31167,6 +31211,12 @@ export const indexObject ={
                          "SN46.121"
                     ],
                     "xrefs": []
+               },
+               "definition": {
+                    "locators": [
+                         "SN38.11"
+                    ],
+                    "xrefs": []
                }
           },
           "flowers": {
@@ -36771,6 +36821,12 @@ export const indexObject ={
                          "SN56.3"
                     ],
                     "xrefs": []
+               },
+               "hard to do": {
+                    "locators": [
+                         "SN38.16"
+                    ],
+                    "xrefs": []
                }
           },
           "gold": {
@@ -37684,13 +37740,15 @@ export const indexObject ={
                "definition": {
                     "locators": [
                          "MN9",
-                         "SN12.2"
+                         "SN12.2",
+                         "SN38.12"
                     ],
                     "xrefs": []
                },
                "complete understanding of": {
                     "locators": [
-                         "MN11"
+                         "MN11",
+                         "SN38.12"
                     ],
                     "xrefs": []
                },
@@ -38632,6 +38690,7 @@ export const indexObject ={
                },
                "faith, ethics, learning, generosity, wisdom": {
                     "locators": [
+                         "SN37.34",
                          "AN5.63"
                     ],
                     "xrefs": []
@@ -43114,7 +43173,8 @@ export const indexObject ={
           "identity (sakkāya)": {
                "definition": {
                     "locators": [
-                         "MN44"
+                         "MN44",
+                         "SN38.15"
                     ],
                     "xrefs": []
                },
@@ -43207,6 +43267,12 @@ export const indexObject ={
                "cessation of": {
                     "locators": [
                          "SN55.54"
+                    ],
+                    "xrefs": []
+               },
+               "complete understanding of": {
+                    "locators": [
+                         "SN38.15"
                     ],
                     "xrefs": []
                }
@@ -43328,7 +43394,8 @@ export const indexObject ={
                "giving up": {
                     "locators": [
                          "MN148",
-                         "SN35.79"
+                         "SN35.79",
+                         "SN38.9"
                     ],
                     "xrefs": []
                },
@@ -45553,6 +45620,14 @@ export const indexObject ={
                "sticks in, less than number of mothers": {
                     "locators": [
                          "SN15.1"
+                    ],
+                    "xrefs": []
+               }
+          },
+          "Jambukhādaka, wanderer": {
+               "": {
+                    "locators": [
+                         "CUSTOM:SN:SN 38 Jambukhādaka Saṁyutta:suttacentral.net/sn38"
                     ],
                     "xrefs": []
                }
@@ -58324,6 +58399,7 @@ export const indexObject ={
                },
                "definition": {
                     "locators": [
+                         "SN38.1",
                          "AN9.48"
                     ],
                     "xrefs": []
@@ -58485,6 +58561,12 @@ export const indexObject ={
                "at time of death, mindfulness of breathing": {
                     "locators": [
                          "SN54.4"
+                    ],
+                    "xrefs": []
+               },
+               "path for attaining": {
+                    "locators": [
+                         "SN38.1"
                     ],
                     "xrefs": []
                }
@@ -59406,6 +59488,49 @@ export const indexObject ={
                     "locators": [
                          "SN14.28",
                          "SN14.29"
+                    ],
+                    "xrefs": []
+               },
+               "for giving up greed and hate, etc.": {
+                    "locators": [
+                         "SN38.3"
+                    ],
+                    "xrefs": []
+               },
+               "complete understanding of suffering": {
+                    "locators": [
+                         "SN38.4",
+                         "SN38.14"
+                    ],
+                    "xrefs": []
+               },
+               "complete understanding of taints": {
+                    "locators": [
+                         "SN38.8"
+                    ],
+                    "xrefs": []
+               },
+               "complete understanding of floods": {
+                    "locators": [
+                         "SN38.11"
+                    ],
+                    "xrefs": []
+               },
+               "complete understanding of grasping": {
+                    "locators": [
+                         "SN38.12"
+                    ],
+                    "xrefs": []
+               },
+               "complete understanding of becoming": {
+                    "locators": [
+                         "SN38.13"
+                    ],
+                    "xrefs": []
+               },
+               "complete understanding of identity": {
+                    "locators": [
+                         "SN38.15"
                     ],
                     "xrefs": []
                }
@@ -66060,6 +66185,20 @@ export const indexObject ={
                          "SN55.59"
                     ],
                     "xrefs": []
+               },
+               "hard to do": {
+                    "locators": [
+                         "SN38.16"
+                    ],
+                    "xrefs": []
+               }
+          },
+          "practicing well (suppaṭipannā)": {
+               "definition": {
+                    "locators": [
+                         "SN38.3"
+                    ],
+                    "xrefs": []
                }
           },
           "praise": {
@@ -66373,6 +66512,12 @@ export const indexObject ={
                     "locators": [
                          "SN14.25",
                          "SN14.26"
+                    ],
+                    "xrefs": []
+               },
+               "self-assured": {
+                    "locators": [
+                         "SN37.33"
                     ],
                     "xrefs": []
                }
@@ -74929,6 +75074,12 @@ export const indexObject ={
                          "AN7.57"
                     ],
                     "xrefs": []
+               },
+               "keeping precepts": {
+                    "locators": [
+                         "SN37.33"
+                    ],
+                    "xrefs": []
                }
           },
           "self-control": {
@@ -79669,6 +79820,12 @@ export const indexObject ={
                          "MN93"
                     ],
                     "xrefs": []
+               },
+               "definition": {
+                    "locators": [
+                         "SN38.3"
+                    ],
+                    "xrefs": []
                }
           },
           "speaking truth": {
@@ -80776,6 +80933,12 @@ export const indexObject ={
                "peril of": {
                     "locators": [
                          "SN16.8"
+                    ],
+                    "xrefs": []
+               },
+               "purpose of: complete understanding of suffering": {
+                    "locators": [
+                         "SN38.4"
                     ],
                     "xrefs": []
                }
@@ -82441,6 +82604,24 @@ export const indexObject ={
                          "SN23.15"
                     ],
                     "xrefs": []
+               },
+               "definition: three kinds": {
+                    "locators": [
+                         "SN38.14"
+                    ],
+                    "xrefs": []
+               },
+               "three kinds": {
+                    "locators": [
+                         "SN38.14"
+                    ],
+                    "xrefs": []
+               },
+               "complete understanding of": {
+                    "locators": [
+                         "SN38.14"
+                    ],
+                    "xrefs": []
                }
           },
           "suffering due to change (vipariṇāmadukkha)": {
@@ -83237,6 +83418,12 @@ export const indexObject ={
                "tranquillizing": {
                     "locators": [
                          "SN36.11"
+                    ],
+                    "xrefs": []
+               },
+               "complete understanding of": {
+                    "locators": [
+                         "SN38.8"
                     ],
                     "xrefs": []
                }
@@ -90436,6 +90623,7 @@ export const indexObject ={
           "Well Gone One (sugato)": {
                "definition": {
                     "locators": [
+                         "SN38.3",
                          "AN4.160"
                     ],
                     "xrefs": []

@@ -69875,6 +69875,196 @@ export const indexArray =[
           "things hard to get"
      ],
      [
+          "SN37.33",
+          "precepts, five",
+          "self-assured"
+     ],
+     [
+          "SN37.33",
+          "self-assured (visārada)",
+          "keeping precepts"
+     ],
+     [
+          "SN37.34",
+          "growth",
+          "faith, ethics, learning, generosity, wisdom"
+     ],
+     [
+          "SN38.1",
+          "nibbāna",
+          "definition"
+     ],
+     [
+          "SN38.1",
+          "nibbāna",
+          "path for attaining"
+     ],
+     [
+          "SN38.2",
+          "arahantship",
+          "definition"
+     ],
+     [
+          "SN38.2",
+          "arahantship",
+          "path for attaining"
+     ],
+     [
+          "SN38.3",
+          "Dhamma teaching",
+          "to give up greed, hatred, delusion"
+     ],
+     [
+          "SN38.3",
+          "noble eightfold path (ariya aṭṭhangika magga)",
+          "for giving up greed and hate, etc."
+     ],
+     [
+          "SN38.3",
+          "practicing well (suppaṭipannā)",
+          "definition"
+     ],
+     [
+          "SN38.3",
+          "speaker of Dhamma (dhammavādī)",
+          "definition"
+     ],
+     [
+          "SN38.3",
+          "Well Gone One (sugato)",
+          "definition"
+     ],
+     [
+          "SN38.4",
+          "noble eightfold path (ariya aṭṭhangika magga)",
+          "complete understanding of suffering"
+     ],
+     [
+          "SN38.4",
+          "spiritual path (brahmacariya)",
+          "purpose of: complete understanding of suffering"
+     ],
+     [
+          "SN38.5",
+          "comfort (assāsa)",
+          "understanding six fields of contact’s origin, ending, etc."
+     ],
+     [
+          "SN38.6",
+          "comfort (assāsa)",
+          "understanding six fields of contact’s origin, ending, etc."
+     ],
+     [
+          "SN38.8",
+          "noble eightfold path (ariya aṭṭhangika magga)",
+          "complete understanding of taints"
+     ],
+     [
+          "SN38.8",
+          "taints (āsava)",
+          "complete understanding of"
+     ],
+     [
+          "SN38.9",
+          "ignorance (avijjā)",
+          "giving up"
+     ],
+     [
+          "SN38.11",
+          "floods (ogha)",
+          "definition"
+     ],
+     [
+          "SN38.11",
+          "noble eightfold path (ariya aṭṭhangika magga)",
+          "complete understanding of floods"
+     ],
+     [
+          "SN38.12",
+          "grasping (upādāna)",
+          "complete understanding of"
+     ],
+     [
+          "SN38.12",
+          "grasping (upādāna)",
+          "definition"
+     ],
+     [
+          "SN38.12",
+          "noble eightfold path (ariya aṭṭhangika magga)",
+          "complete understanding of grasping"
+     ],
+     [
+          "SN38.13",
+          "becoming (bhava)",
+          "complete understanding of"
+     ],
+     [
+          "SN38.13",
+          "becoming (bhava)",
+          "definition"
+     ],
+     [
+          "SN38.13",
+          "noble eightfold path (ariya aṭṭhangika magga)",
+          "complete understanding of becoming"
+     ],
+     [
+          "SN38.14",
+          "noble eightfold path (ariya aṭṭhangika magga)",
+          "complete understanding of suffering"
+     ],
+     [
+          "SN38.14",
+          "suffering (dukkha)",
+          "complete understanding of"
+     ],
+     [
+          "SN38.14",
+          "suffering (dukkha)",
+          "definition: three kinds"
+     ],
+     [
+          "SN38.14",
+          "suffering (dukkha)",
+          "three kinds"
+     ],
+     [
+          "SN38.15",
+          "identity (sakkāya)",
+          "complete understanding of"
+     ],
+     [
+          "SN38.15",
+          "identity (sakkāya)",
+          "definition"
+     ],
+     [
+          "SN38.15",
+          "noble eightfold path (ariya aṭṭhangika magga)",
+          "complete understanding of identity"
+     ],
+     [
+          "SN38.16",
+          "arahantship",
+          "won’t take long for one who practices in line with Dhamma"
+     ],
+     [
+          "SN38.16",
+          "delight (rati)",
+          "hard for those gone forth"
+     ],
+     [
+          "SN38.16",
+          "going forth (pabbajja)",
+          "hard to do"
+     ],
+     [
+          "SN38.16",
+          "practicing according to the Dhamma (dhammānudhammappaṭipanna)",
+          "hard to do"
+     ],
+     [
           "SN41.7",
           "loving-kindness (mettā)",
           "measureless liberation of mind"
