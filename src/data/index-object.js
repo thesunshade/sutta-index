@@ -19678,6 +19678,12 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
+               "listening to Dhamma": {
+                    "locators": [
+                         "AN4.191"
+                    ],
+                    "xrefs": []
+               },
                "visiting laypeople": {
                     "locators": [
                          "AN7.53",
@@ -23733,6 +23739,12 @@ export const indexObject ={
                }
           },
           "drums": {
+               "simile for remembering Dhamma": {
+                    "locators": [
+                         "AN4.191"
+                    ],
+                    "xrefs": []
+               },
                "simile for true Dhamma being replaced": {
                     "locators": [
                          "SN20.7"
@@ -50116,6 +50128,12 @@ export const indexObject ={
                "amazing that people with defilements would listen": {
                     "locators": [
                          "AN4.128"
+                    ],
+                    "xrefs": []
+               },
+               "deva realm": {
+                    "locators": [
+                         "AN4.191"
                     ],
                     "xrefs": []
                },

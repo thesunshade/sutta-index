@@ -100,11 +100,11 @@ export const indexObject =[
           55
      ],
      [
-          "nibbāna",
-          52
+          "listening to Dhamma",
+          53
      ],
      [
-          "listening to Dhamma",
+          "nibbāna",
           52
      ],
      [
@@ -336,6 +336,10 @@ export const indexObject =[
           28
      ],
      [
+          "devas",
+          28
+     ],
+     [
           "brahmins",
           28
      ],
@@ -365,10 +369,6 @@ export const indexObject =[
      ],
      [
           "grasping (upādāna)",
-          27
-     ],
-     [
-          "devas",
           27
      ],
      [
@@ -6428,6 +6428,10 @@ export const indexObject =[
           2
      ],
      [
+          "drums",
+          2
+     ],
+     [
           "drowsiness (middha)",
           2
      ],
@@ -9525,10 +9529,6 @@ export const indexObject =[
      ],
      [
           "dung beetle",
-          1
-     ],
-     [
-          "drums",
           1
      ],
      [
