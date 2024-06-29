@@ -58774,6 +58774,14 @@ export const indexObject ={
                     "xrefs": []
                }
           },
+          "nirodhasamāpatti": {
+               "": {
+                    "locators": [],
+                    "xrefs": [
+                         "xref cessation of perception and feeling (saññāvedayitanirodha)"
+                    ]
+               }
+          },
           "nissaraṇa": {
                "": {
                     "locators": [],

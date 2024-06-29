@@ -1749,6 +1749,7 @@ export const headwordsArray =[
      "Nigrodhakappa, Ven.",
      "nihilism",
      "nine types of teachings",
+     "nirodhasamāpatti",
      "nissaraṇa",
      "nīvaraṇa",
      "noble cycle (ariya ñāya)",
