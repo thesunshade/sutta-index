@@ -62855,7 +62855,7 @@ export const indexObject ={
                }
           },
           "painter": {
-               "making pictures in, simile for enduring speech": {
+               "making pictures in space, simile for enduring speech": {
                     "locators": [
                          "MN21"
                     ],
@@ -80323,7 +80323,7 @@ export const indexObject ={
                "counter_value": 2
           },
           "space (ākāsa)": {
-               "making pictures in space, simile for enduring speech": {
+               "painting pictures in space, simile for enduring speech": {
                     "locators": [
                          "MN21"
                     ],

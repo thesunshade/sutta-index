@@ -3525,7 +3525,7 @@ export const locatorBookObject ={
     [
       "MN21",
       "painter",
-      "making pictures in, simile for enduring speech"
+      "making pictures in space, simile for enduring speech"
     ],
     [
       "MN21",
@@ -3560,7 +3560,7 @@ export const locatorBookObject ={
     [
       "MN21",
       "space (ākāsa)",
-      "making pictures in space, simile for enduring speech"
+      "painting pictures in space, simile for enduring speech"
     ],
     [
       "MN21",
