@@ -17,13 +17,22 @@ function Locator(props) {
 
   const locationForUrl = stripRangesFromUrls(location).toLowerCase();
 
+  function getSegmentId(location) {
+    if (location.includes(":")) {
+      return "#" + location.toLowerCase();
+    }
+    return "";
+  }
+
+  const segmentId = getSegmentId(location);
+
   let url = "";
   switch (destination) {
     case "SC":
-      url = `https://suttacentral.net/${locationForUrl}/en/sujato`;
+      url = `https://suttacentral.net/${locationForUrl}/en/sujato${segmentId}`;
       break;
     case "SCL":
-      url = `https://sc.readingfaithfully.org/?q=${locationForUrl}`;
+      url = `https://sc.readingfaithfully.org/?q=${locationForUrl}${segmentId}`;
       break;
     case "CH":
       url = `https://sutta.readingfaithfully.org/?q=${locationForUrl}`;

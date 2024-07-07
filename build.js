@@ -219,10 +219,23 @@ function createIndexObject() {
   try {
     const tsvFileContents = fs.readFileSync("./src/data/general-index.csv", "utf8");
     csvData = tsvFileContents;
-    console.log("✅ successfully read CSV file");
+    console.log("✅ successfully read TSV file");
   } catch (err) {
     console.log("❌There was an error reading");
     console.error(err);
+  }
+
+  try {
+    const tsvStatsObject = fs.statSync("./src/data/general-index.csv", "utf8");
+    const formattedMtime = tsvStatsObject.mtime.toLocaleTimeString([], { hour: "numeric", minute: "2-digit", hour12: true });
+    const formattedMtimeDate = tsvStatsObject.mtime.toLocaleString("en-gb", {
+      year: "numeric",
+      month: "long",
+      day: "numeric",
+    });
+    console.log(`📅 TSV creation date: ${formattedMtimeDate} ${formattedMtime}`);
+  } catch (err) {
+    console.log(err);
   }
 
   let lines = csvData.split("\n");
@@ -598,7 +611,7 @@ function createDate() {
   const currentTime = new Date().toLocaleTimeString([], { hour: "numeric", minute: "2-digit", hour12: true });
   try {
     fs.writeFileSync("./src/data/updateDate.js", `export const updateDate ="${currentDate + ", " + currentTime}"`);
-    console.log(`📅 ${currentDate} ${currentTime}`);
+    console.log(`📅 Job completed: ${currentDate} ${currentTime}`);
   } catch (err) {
     console.log("❌There was an error writing updateDate");
     console.error(err);

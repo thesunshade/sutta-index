@@ -1,6 +1,7 @@
 import { allSuttasPaliNameDictionary } from "../data/allSuttasPaliNameDictionary";
 
 export default function getSuttaTitle(citation) {
-  let title = allSuttasPaliNameDictionary[citation] ? allSuttasPaliNameDictionary[citation] : "";
-  return title.replace(/ \[.+?\]/g, "");
+  const strippedCitation = citation.replace(/:.*/, "");
+  let title = allSuttasPaliNameDictionary[strippedCitation] ? allSuttasPaliNameDictionary[strippedCitation] : "";
+  return title.replace(/ \[.+?\]/g, ""); // this strips out extra titles in brackets
 }
