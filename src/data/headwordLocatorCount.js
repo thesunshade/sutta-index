@@ -1628,6 +1628,10 @@ export const indexObject =[
           9
      ],
      [
+          "knowing and seeing",
+          9
+     ],
+     [
           "judging",
           9
      ],
@@ -1821,10 +1825,6 @@ export const indexObject =[
      ],
      [
           "lay follower (upāsaka, upāsikā)",
-          8
-     ],
-     [
-          "knowing and seeing",
           8
      ],
      [

@@ -27,7 +27,7 @@ export default function HeadwordsSearchTool(props) {
 
   return (
     <>
-      <div className="filter-area">
+      <div className="search-area">
         <img className="icon search-icon" width="24px" src={searchIcon} alt="Settings Toggle" title="Search Headwords"></img>
         <label id="user-input-label" htmlFor="user-input">
           <input
@@ -52,7 +52,7 @@ export default function HeadwordsSearchTool(props) {
             onKeyPress={handleKeyPress}
           />
           <button
-            className="clear-filter-button"
+            className="clear-search-button"
             onClick={() => {
               setSearchText("");
               document.getElementById("search-input").focus();

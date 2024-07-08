@@ -1,6 +1,4 @@
-import { useState, createContext, useEffect } from "react";
-import "./App.css";
-// Components
+import { useState, useEffect } from "react";
 import SuttaIndex from "./Components/SuttaIndex.js";
 import Info from "./Components/Info.js";
 import OtherToolsIcons from "./Components/OtherToolsIcons.js";
@@ -9,25 +7,17 @@ import SearchResults from "./Components/SearchResults.js";
 import LocatorSortedTable from "./Components/LocatorSortedTable.js";
 import BookSelector from "./Components/BookSelector";
 import Alphabet from "./Components/Alphabet.js";
-// images
 import settingsIcon from "./images/settings.png";
 import infoDot from "./images/info-dot.png";
 import themeIcon from "./images/8673129_ic_fluent_dark_theme_filled.png";
 import VisuallyHidden from "./Components/VisuallyHidden.js";
-// functions
-import { initializeSettings } from "./functions/initializeSettings.js";
-import { toggleArea } from "./functions/toggleArea.js";
-import { toggleTheme } from "./functions/toggleTheme.js";
+import { ContextDestination } from "./App.js";
 
-export const ContextDestination = createContext();
-
-function App() {
+export function App() {
   const [destination, setDestination] = useState(localStorage.destination ? localStorage.destination : "SC");
   const [isLocatorView, setIsLocatorView] = useState(false);
 
   const [searchText, setSearchText] = useState("");
-
-  initializeSettings();
 
   // only add GoatCounter script on production
   useEffect(() => {
@@ -55,6 +45,44 @@ function App() {
       }
     }
   });
+
+  initializeSettings();
+
+  function initializeSettings() {
+    if (localStorage.theme === "dark") {
+      document.body.classList.add("dark");
+    } else {
+      localStorage.theme = "light";
+    }
+
+    if (localStorage.coloredLocators === "true") {
+      document.body.classList.add("colored-locators");
+    } else {
+      localStorage.coloredLocators = "false";
+      document.body.classList.remove("colored-locators");
+    }
+  }
+
+  function toggleTheme() {
+    if (localStorage.theme === "light") {
+      document.body.classList.add("dark");
+      localStorage.theme = "dark";
+    } else {
+      document.body.classList.remove("dark");
+      localStorage.theme = "light";
+    }
+  }
+
+  function toggleArea(areaName) {
+    const area = document.getElementById(areaName);
+    if (area.classList.contains("hidden")) {
+      const allHideableAreas = document.getElementsByClassName("hideable-area");
+      for (let i = 0; i < allHideableAreas.length; i++) {
+        allHideableAreas[i].classList.add("hidden");
+      }
+      area.classList.remove("hidden");
+    } else area.classList.add("hidden");
+  }
 
   function toggleTableView() {
     if (isLocatorView === false) {
@@ -160,6 +188,36 @@ function App() {
               </label>
             </div>
           </div>{" "}
+          {/* <label>
+              <input
+                type="checkbox"
+                checked={showVisited}
+                onChange={e => {
+                  if (showVisited === "on") {
+                    setShowVisited("off");
+                  } else if (showVisited === "off") {
+                    setShowVisited("on");
+                  }
+                  localStorage.showVisited = e.target.checked;
+                }}
+              ></input>{" "}
+              Indicate visited links
+            </label> */}
+          {/* <label>
+              <input
+                type="checkbox"
+                id="sutta-names-setting"
+                name="sutta-names"
+                value="sutta-names"
+                checked={namesIsChecked}
+                onChange={e => {
+                  setNamesIsChecked(!namesIsChecked);
+                  localStorage.namesIsChecked = JSON.stringify(!e.target.value);
+                }}
+              />
+              Show Pāli Sutta Title
+            </label> */}
+          {/* <Stats /> */}
           <OtherToolsIcons />
         </div>
       </div>
@@ -174,5 +232,3 @@ function App() {
     </div>
   );
 }
-
-export default App;

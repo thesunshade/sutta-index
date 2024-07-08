@@ -86,6 +86,10 @@
   font-style: normal;
 }
 
+App {
+  width: 100vw;
+}
+
 body {
   font-family: "Fira Sans";
   min-height: 100vh;
@@ -112,9 +116,6 @@ html {
   box-sizing: border-box
 }
 
-App {
-  width: 100vw;
-}
 
 .icon {
   filter: brightness(0);
@@ -152,70 +153,6 @@ App {
   min-width: 360px;
 
 }
-
-/* .favorites-button {
-  position: relative;
-  top: .25rem
-} */
-
-/* .favorites-area {
-  max-width: var(--max-width);
-  padding: 1rem;
-  min-width: 10rem
-} */
-
-/* @media only screen and (max-width: 475px) {
-  .favorites-area {
-    max-width: 100vw;
-
-  }
-} */
-
-/* .favorites-header {
-  display: flex;
-  justify-content: space-between;
-} */
-
-/* .to-be-added-area {
-  border: solid 1px black;
-  padding: .2rem .2rem .2rem .4rem
-} */
-
-/* .to-be-added {
-  font-style: italic;
-  padding-right: .5rem;
-} */
-
-/* .to-be-added-area button {
-  border: solid 1px black;
-  background-color: #dddddd;
-  border-radius: 0;
-} */
-
-
-/* .favorites-area h2 {
-  margin: 0;
-  font-size: 1.2rem;
-  font-weight: normal;
-  color: #dddddd
-} */
-
-/* .favorites-instructions {
-  font-size: .9rem;
-  font-style: italic;
-  color: #716363
-} */
-
-/* .bottom-fav-row {
-  display: flex;
-  justify-content: flex-end;
-} */
-
-/* .clear-button {
-  margin-top: 0rem;
-} */
-
-
 
 .alphabet {
   font-family: "Fira Code";
@@ -318,12 +255,12 @@ App {
   margin-top: 1rem;
 }
 
-.filter-area {
+.search-area {
   display: flex;
   align-items: center;
 }
 
-.clear-filter-button {
+.clear-search-button {
   height: 1.72rem;
   border: none;
   background: none;
@@ -867,7 +804,7 @@ tr:nth-child(even) {
     text-indent: initial;
   }
 
-  .filter-area {
+  .search-area {
     display: none;
   }
 }
@@ -945,11 +882,6 @@ tr:nth-child(even) {
   color: black;
 }
 
-/*not sure what this does*/
-.link-list .menu-item:hover {
-  background-color: var(--primary);
-  color: black;
-}
 
 .link-list li {
   list-style: none;
@@ -961,6 +893,11 @@ tr:nth-child(even) {
   padding-left: 1rem;
   display: block;
   cursor: pointer;
+}
+
+.link-list .menu-item:hover {
+  background-color: var(--primary);
+  color: black;
 }
 
 .link-list a {

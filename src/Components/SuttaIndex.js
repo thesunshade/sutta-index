@@ -4,7 +4,7 @@ import { memo } from "react";
 
 function SuttaIndex() {
   let alphabet = Object.keys(indexObject);
-
+  console.log("index " + new Date().toISOString());
   return (
     <>
       <div id="sutta-index" className="sutta-index">
@@ -17,13 +17,7 @@ function SuttaIndex() {
                 {letter}
               </div>
               {headwordsArray.map(headword => {
-                return (
-                  <Headword
-                    key={headword + "-headword"}
-                    headword={headword}
-                    headwordObject={headwordsObject[headword]}
-                  />
-                );
+                return <Headword key={headword + "-headword"} headword={headword} headwordObject={headwordsObject[headword]} />;
               })}
             </div>
           );

@@ -2481,7 +2481,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "": {
+               "will never run out of things to say": {
                     "locators": [
                          "AN4.140"
                     ],
@@ -2654,7 +2654,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "": {
+               "discussion with Ven. Mahā Koṭṭhita": {
                     "locators": [
                          "AN4.174"
                     ],
@@ -8404,17 +8404,17 @@ export const indexObject ={
                }
           },
           "Bhaddiya, Ven.": {
-               "listening to a sermon by the Buddha": {
-                    "locators": [
-                         "MN68"
-                    ],
-                    "xrefs": []
-               },
                "": {
                     "locators": [],
                     "xrefs": [
                          "xref Lakuṇṭaka Bhaddiya, Ven."
                     ]
+               },
+               "listening to a sermon by the Buddha": {
+                    "locators": [
+                         "MN68"
+                    ],
+                    "xrefs": []
                }
           },
           "Bhagu, Ven.": {
@@ -17513,6 +17513,12 @@ export const indexObject ={
                }
           },
           "darts (salla)": {
+               "": {
+                    "locators": [],
+                    "xrefs": [
+                         "xref arrows"
+                    ]
+               },
                "craving": {
                     "locators": [
                          "MN105"
@@ -17543,12 +17549,6 @@ export const indexObject ={
                          "SN35.248"
                     ],
                     "xrefs": []
-               },
-               "": {
-                    "locators": [],
-                    "xrefs": [
-                         "xref arrows"
-                    ]
                },
                "simile for feelings": {
                     "locators": [
@@ -25685,7 +25685,7 @@ export const indexObject ={
                }
           },
           "end maker (antakara)": {
-               "": {
+               "knowing and seeing things as they are": {
                     "locators": [
                          "AN4.175"
                     ],
@@ -40207,12 +40207,16 @@ export const indexObject ={
           },
           "heading upstream to the Akaniṭṭha realm (uddhaṁsotassa akaniṭṭhagāmino)": {
                "": {
-                    "locators": [
-                         "AN4.131"
-                    ],
+                    "locators": [],
                     "xrefs": [
                          "xref stages of enlightenment"
                     ]
+               },
+               "non-returners": {
+                    "locators": [
+                         "AN4.131"
+                    ],
+                    "xrefs": []
                },
                "like a spark": {
                     "locators": [
@@ -47927,6 +47931,12 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
+               "end maker": {
+                    "locators": [
+                         "AN4.175"
+                    ],
+                    "xrefs": []
+               },
                "sense bases to give up wrong view": {
                     "locators": [
                          "SN35.165"
@@ -48797,6 +48807,12 @@ export const indexObject ={
                }
           },
           "Lakuṇṭaka Bhaddiya, Ven.": {
+               "": {
+                    "locators": [],
+                    "xrefs": [
+                         "xref Bhaddiya, Ven."
+                    ]
+               },
                "being taught by Ven. Sāriputta": {
                     "locators": [
                          "Ud7.1",
@@ -48809,12 +48825,6 @@ export const indexObject ={
                          "AN1.194"
                     ],
                     "xrefs": []
-               },
-               "": {
-                    "locators": [],
-                    "xrefs": [
-                         "xref Bhaddiya, Ven."
-                    ]
                },
                "Buddha declares attainment": {
                     "locators": [
@@ -50110,6 +50120,12 @@ export const indexObject ={
                }
           },
           "life": {
+               "": {
+                    "locators": [],
+                    "xrefs": [
+                         "xref life force (āyu, āyusaṅkhāra)"
+                    ]
+               },
                "shortness of": {
                     "locators": [
                          "AN7.74",
@@ -50129,12 +50145,6 @@ export const indexObject ={
                          "AN3.52"
                     ],
                     "xrefs": []
-               },
-               "": {
-                    "locators": [],
-                    "xrefs": [
-                         "xref life force (āyu, āyusaṅkhāra)"
-                    ]
                }
           },
           "life force (āyu, āyusaṅkhāra)": {
@@ -52381,7 +52391,8 @@ export const indexObject ={
                          "MN43",
                          "SN12.67",
                          "SN22.122",
-                         "SN22.123"
+                         "SN22.123",
+                         "AN4.173"
                     ],
                     "xrefs": []
                },
@@ -52397,9 +52408,8 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "": {
+               "discussion with Ven. Ānanda": {
                     "locators": [
-                         "AN4.173",
                          "AN4.174"
                     ],
                     "xrefs": []
@@ -68017,7 +68027,7 @@ export const indexObject ={
                }
           },
           "pure abodes (suddhāvāsā)": {
-               "": {
+               "cause for rebirth in": {
                     "locators": [
                          "AN4.124"
                     ],
@@ -72303,7 +72313,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "": {
+               "on retreat by mind": {
                     "locators": [
                          "AN4.138"
                     ],
@@ -74354,7 +74364,8 @@ export const indexObject ={
                          "MN43",
                          "SN12.67",
                          "SN22.122",
-                         "SN22.123"
+                         "SN22.123",
+                         "AN4.173"
                     ],
                     "xrefs": []
                },
@@ -74478,10 +74489,8 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "": {
+               "discussion with Ven. Upavāṇa": {
                     "locators": [
-                         "CUSTOM:SN:SN 28 Sāriputta Saṁyutta:suttacentral.net/sn28",
-                         "AN4.173",
                          "AN4.175"
                     ],
                     "xrefs": []
@@ -74714,6 +74723,12 @@ export const indexObject ={
                "praise of by Ven. Moggallāna": {
                     "locators": [
                          "SN21.3"
+                    ],
+                    "xrefs": []
+               },
+               "": {
+                    "locators": [
+                         "CUSTOM:SN:SN 28 Sāriputta Saṁyutta:suttacentral.net/sn28"
                     ],
                     "xrefs": []
                }
@@ -87928,7 +87943,7 @@ export const indexObject ={
                }
           },
           "Upavāṇa, Ven.": {
-               "": {
+               "discussion with Ven. Sāriputta": {
                     "locators": [
                          "AN4.175"
                     ],
