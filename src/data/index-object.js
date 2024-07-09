@@ -2416,6 +2416,12 @@ export const indexObject ={
                          "AN9.20"
                     ],
                     "xrefs": []
+               },
+               "offering never leads to ruin of families": {
+                    "locators": [
+                         "SN42.9"
+                    ],
+                    "xrefs": []
                }
           },
           "aloofness (asaṁsagga)": {
@@ -5006,6 +5012,12 @@ export const indexObject ={
                          "SN42.8"
                     ],
                     "xrefs": []
+               },
+               "trying to trick the Buddha": {
+                    "locators": [
+                         "SN42.9"
+                    ],
+                    "xrefs": []
                }
           },
           "Asita, hermit": {
@@ -6974,6 +6986,12 @@ export const indexObject ={
                          "SN30.4-6"
                     ],
                     "xrefs": []
+               },
+               "having done, how to live": {
+                    "locators": [
+                         "SN42.8"
+                    ],
+                    "xrefs": []
                }
           },
           "bad conduct": {
@@ -7494,6 +7512,14 @@ export const indexObject ={
                     "xrefs": [
                          "xref thieves (cora)"
                     ]
+               }
+          },
+          "banishment": {
+               "of monk for bad behaviour": {
+                    "locators": [
+                         "AN6.55"
+                    ],
+                    "xrefs": []
                }
           },
           "banner": {
@@ -8413,6 +8439,14 @@ export const indexObject ={
                "listening to a sermon by the Buddha": {
                     "locators": [
                          "MN68"
+                    ],
+                    "xrefs": []
+               }
+          },
+          "Bhadraka, chief": {
+               "asking about suffering": {
+                    "locators": [
+                         "SN42.11"
                     ],
                     "xrefs": []
                }
@@ -10319,6 +10353,12 @@ export const indexObject ={
                          "SN54.11"
                     ],
                     "xrefs": []
+               },
+               "like conch blower": {
+                    "locators": [
+                         "SN42.8"
+                    ],
+                    "xrefs": []
                }
           },
           "Brahmāyu, brahmin": {
@@ -11497,6 +11537,7 @@ export const indexObject ={
                },
                "criticizing": {
                     "locators": [
+                         "SN42.9",
                          "AN8.87"
                     ],
                     "xrefs": []
@@ -13957,6 +13998,12 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
+               "Buddha’s compassion for families during famine": {
+                    "locators": [
+                         "SN42.9"
+                    ],
+                    "xrefs": []
+               },
                "counter_value": 1
           },
           "compassion (karuṇā)": {
@@ -14643,6 +14690,12 @@ export const indexObject ={
                "simile for divine ear": {
                     "locators": [
                          "MN77"
+                    ],
+                    "xrefs": []
+               },
+               "simile for spreading brahmaviharas": {
+                    "locators": [
+                         "SN42.8"
                     ],
                     "xrefs": []
                }
@@ -19069,6 +19122,12 @@ export const indexObject ={
                          "AN10.47"
                     ],
                     "xrefs": []
+               },
+               "giving up in present life": {
+                    "locators": [
+                         "SN42.12"
+                    ],
+                    "xrefs": []
                }
           },
           "demons (asuras)": {
@@ -19542,6 +19601,18 @@ export const indexObject ={
                "gives rise to passion (pariḷāha)": {
                     "locators": [
                          "SN14.7"
+                    ],
+                    "xrefs": []
+               },
+               "cause of suffering": {
+                    "locators": [
+                         "SN42.11"
+                    ],
+                    "xrefs": []
+               },
+               "root of suffering": {
+                    "locators": [
+                         "SN42.11"
                     ],
                     "xrefs": []
                }
@@ -27526,6 +27597,7 @@ export const indexObject ={
                },
                "sense pleasures and self mortification": {
                     "locators": [
+                         "SN42.12",
                          "SN56.11"
                     ],
                     "xrefs": []
@@ -29296,6 +29368,7 @@ export const indexObject ={
                },
                "making happy with wealth": {
                     "locators": [
+                         "SN42.12",
                          "AN4.61",
                          "AN10.91"
                     ],
@@ -29373,6 +29446,12 @@ export const indexObject ={
                          "SN20.3"
                     ],
                     "xrefs": []
+               },
+               "causes for ruin of": {
+                    "locators": [
+                         "SN42.9"
+                    ],
+                    "xrefs": []
                }
           },
           "family to family (kolaṅkola)": {
@@ -29400,6 +29479,12 @@ export const indexObject ={
                "situation not good for meditation": {
                     "locators": [
                          "AN5.78"
+                    ],
+                    "xrefs": []
+               },
+               "Buddha’s compassion for families during": {
+                    "locators": [
+                         "SN42.9"
                     ],
                     "xrefs": []
                }
@@ -33988,6 +34073,12 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
+               "using present to infer about": {
+                    "locators": [
+                         "SN42.11"
+                    ],
+                    "xrefs": []
+               },
                "counter_value": 2
           },
           "future lives": {
@@ -37121,6 +37212,18 @@ export const indexObject ={
                          "MN27"
                     ],
                     "xrefs": []
+               },
+               "monastics not permitted": {
+                    "locators": [
+                         "SN42.10"
+                    ],
+                    "xrefs": []
+               },
+               "sense pleasures": {
+                    "locators": [
+                         "SN42.10"
+                    ],
+                    "xrefs": []
                }
           },
           "gold coins": {
@@ -38623,6 +38726,12 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
+               "giving up in present life": {
+                    "locators": [
+                         "SN42.12"
+                    ],
+                    "xrefs": []
+               },
                "counter_value": 3
           },
           "greed, hatred, delusion": {
@@ -40046,6 +40155,12 @@ export const indexObject ={
                "cause of bad actions": {
                     "locators": [
                          "AN10.47"
+                    ],
+                    "xrefs": []
+               },
+               "giving up in present life": {
+                    "locators": [
+                         "SN42.12"
                     ],
                     "xrefs": []
                },
@@ -42012,6 +42127,12 @@ export const indexObject ={
                "dying as human and reborn in hell are many": {
                     "locators": [
                          "SN56.102"
+                    ],
+                    "xrefs": []
+               },
+               "anyone who does bad action must go to": {
+                    "locators": [
+                         "SN42.8"
                     ],
                     "xrefs": []
                }
@@ -45266,6 +45387,12 @@ export const indexObject ={
                "supports existence": {
                     "locators": [
                          "SN12.38"
+                    ],
+                    "xrefs": []
+               },
+               "to hurt oneself or others": {
+                    "locators": [
+                         "SN42.12"
                     ],
                     "xrefs": []
                },
@@ -51903,6 +52030,12 @@ export const indexObject ={
                          "SN17.9"
                     ],
                     "xrefs": []
+               },
+               "cause of suffering": {
+                    "locators": [
+                         "SN42.11"
+                    ],
+                    "xrefs": []
                }
           },
           "lute (vīṇā)": {
@@ -52787,6 +52920,14 @@ export const indexObject ={
                "simile for cutting through desires, etc.; stalk cut all fall": {
                     "locators": [
                          "SN22.102"
+                    ],
+                    "xrefs": []
+               }
+          },
+          "Maṇicūḷaka, chief": {
+               "asking about monastics and money": {
+                    "locators": [
+                         "SN42.10"
                     ],
                     "xrefs": []
                }
@@ -54510,6 +54651,7 @@ export const indexObject ={
                "between sensual pleasure and mortification": {
                     "locators": [
                          "MN139",
+                         "SN42.12",
                          "SN56.11"
                     ],
                     "xrefs": []
@@ -56969,6 +57111,15 @@ export const indexObject ={
                     "xrefs": []
                }
           },
+          "monastic rules": {
+               "not accepting gold and money": {
+                    "locators": [
+                         "SN42.10"
+                    ],
+                    "xrefs": []
+               },
+               "counter_value": 1
+          },
           "monastic rules (pātimokkha)": {
                "": {
                     "locators": [],
@@ -56983,7 +57134,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "counter_value": 1
+               "counter_value": 2
           },
           "monastic rules (vinaya)": {
                "": {
@@ -57229,7 +57380,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "counter_value": 2
+               "counter_value": 3
           },
           "monastics": {
                "": {
@@ -57705,6 +57856,18 @@ export const indexObject ={
                "purification through": {
                     "locators": [
                          "MN101"
+                    ],
+                    "xrefs": []
+               },
+               "Buddha condemning or not": {
+                    "locators": [
+                         "SN42.12"
+                    ],
+                    "xrefs": []
+               },
+               "giving results or not": {
+                    "locators": [
+                         "SN42.12"
                     ],
                     "xrefs": []
                },
@@ -59945,6 +60108,7 @@ export const indexObject ={
                },
                "middle path": {
                     "locators": [
+                         "SN42.12",
                          "SN56.11"
                     ],
                     "xrefs": []
@@ -63286,6 +63450,12 @@ export const indexObject ={
                          "SN22.62"
                     ],
                     "xrefs": []
+               },
+               "using present to infer about": {
+                    "locators": [
+                         "SN42.11"
+                    ],
+                    "xrefs": []
                }
           },
           "past actions": {
@@ -65733,6 +65903,7 @@ export const indexObject ={
           "pleasure seekers (kāmabhogī)": {
                "gaining wealth using legitimate and illegitimate means": {
                     "locators": [
+                         "SN42.12",
                          "AN10.91"
                     ],
                     "xrefs": []
@@ -67133,6 +67304,12 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
+               "using to infer about past and future": {
+                    "locators": [
+                         "SN42.11"
+                    ],
+                    "xrefs": []
+               },
                "counter_value": 1
           },
           "present (paccuppanna)": {
@@ -67198,6 +67375,12 @@ export const indexObject ={
                "arahant’s blissful meditation in": {
                     "locators": [
                          "SN54.11"
+                    ],
+                    "xrefs": []
+               },
+               "wearing away visible in": {
+                    "locators": [
+                         "SN42.12"
                     ],
                     "xrefs": []
                }
@@ -68968,6 +69151,14 @@ export const indexObject ={
                     ]
                }
           },
+          "Rāsiya, chief": {
+               "asking about mortification": {
+                    "locators": [
+                         "SN42.12"
+                    ],
+                    "xrefs": []
+               }
+          },
           "Raṭṭhapāla, Ven.": {
                "going forth, etc.": {
                     "locators": [
@@ -69427,6 +69618,12 @@ export const indexObject ={
                "can’t be changed by others prayers": {
                     "locators": [
                          "SN42.6"
+                    ],
+                    "xrefs": []
+               },
+               "based on what you usually do": {
+                    "locators": [
+                         "SN42.8"
                     ],
                     "xrefs": []
                },
@@ -71684,6 +71881,18 @@ export const indexObject ={
                "one cause for feelings": {
                     "locators": [
                          "SN36.21"
+                    ],
+                    "xrefs": []
+               },
+               "what you usually do": {
+                    "locators": [
+                         "SN42.8"
+                    ],
+                    "xrefs": []
+               },
+               "Nigaṇṭhas teachings on": {
+                    "locators": [
+                         "SN42.8"
                     ],
                     "xrefs": []
                }
@@ -77505,6 +77714,12 @@ export const indexObject ={
                          "SN55.54"
                     ],
                     "xrefs": []
+               },
+               "gold and money": {
+                    "locators": [
+                         "SN42.10"
+                    ],
+                    "xrefs": []
                }
           },
           "sense pleasures, five": {
@@ -78485,6 +78700,14 @@ export const indexObject ={
                     "xrefs": []
                }
           },
+          "shunning": {
+               "": {
+                    "locators": [],
+                    "xrefs": [
+                         "xref banishment"
+                    ]
+               }
+          },
           "siblings": {
                "caring for": {
                     "locators": [
@@ -79451,6 +79674,12 @@ export const indexObject ={
                "Devadatta cut off": {
                     "locators": [
                          "SN17.33"
+                    ],
+                    "xrefs": []
+               },
+               "through mortification": {
+                    "locators": [
+                         "SN42.12"
                     ],
                     "xrefs": []
                }
@@ -83209,6 +83438,18 @@ export const indexObject ={
                          "SN38.14"
                     ],
                     "xrefs": []
+               },
+               "origin and ending": {
+                    "locators": [
+                         "SN42.11"
+                    ],
+                    "xrefs": []
+               },
+               "present origin and ending": {
+                    "locators": [
+                         "SN42.11"
+                    ],
+                    "xrefs": []
                }
           },
           "suffering due to change (vipariṇāmadukkha)": {
@@ -83547,6 +83788,12 @@ export const indexObject ={
                "laypeople attaining": {
                     "locators": [
                          "SN41.9"
+                    ],
+                    "xrefs": []
+               },
+               "through mortification": {
+                    "locators": [
+                         "SN42.12"
                     ],
                     "xrefs": []
                }
@@ -90767,6 +91014,7 @@ export const indexObject ={
                },
                "not making good use of": {
                     "locators": [
+                         "SN42.12",
                          "AN10.91",
                          "Pv11"
                     ],
@@ -90873,6 +91121,7 @@ export const indexObject ={
                },
                "using to make people happy": {
                     "locators": [
+                         "SN42.12",
                          "AN4.61",
                          "AN5.41",
                          "AN10.91"
@@ -90912,6 +91161,7 @@ export const indexObject ={
                },
                "using to care for family": {
                     "locators": [
+                         "SN42.12",
                          "AN5.58",
                          "AN5.227",
                          "AN10.91"
@@ -91022,36 +91272,42 @@ export const indexObject ={
                },
                "gained legitimately and illegitimately": {
                     "locators": [
+                         "SN42.12",
                          "AN10.91"
                     ],
                     "xrefs": []
                },
                "not using to make people happy": {
                     "locators": [
+                         "SN42.12",
                          "AN10.91"
                     ],
                     "xrefs": []
                },
                "not using to make merit": {
                     "locators": [
+                         "SN42.12",
                          "AN10.91"
                     ],
                     "xrefs": []
                },
                "using to make merit": {
                     "locators": [
+                         "SN42.12",
                          "AN10.91"
                     ],
                     "xrefs": []
                },
                "attachment to": {
                     "locators": [
+                         "SN42.12",
                          "AN10.91"
                     ],
                     "xrefs": []
                },
                "enjoying without attachment": {
                     "locators": [
+                         "SN42.12",
                          "AN10.91"
                     ],
                     "xrefs": []
@@ -91138,6 +91394,14 @@ export const indexObject ={
                "do not harm those who practice loving-kindness": {
                     "locators": [
                          "AN11.15"
+                    ],
+                    "xrefs": []
+               }
+          },
+          "wearing away (nijjarā)": {
+               "three kinds": {
+                    "locators": [
+                         "SN42.12"
                     ],
                     "xrefs": []
                }

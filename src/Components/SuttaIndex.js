@@ -4,7 +4,6 @@ import { memo } from "react";
 
 function SuttaIndex() {
   let alphabet = Object.keys(indexObject);
-  console.log("index " + new Date().toISOString());
   return (
     <>
       <div id="sutta-index" className="sutta-index">
