@@ -70991,13 +70991,88 @@ export const indexArray =[
      ],
      [
           "SN42.13",
+          "brahmaviharas",
+          "evaluating views"
+     ],
+     [
+          "SN42.13",
+          "concentration of Dhamma (dhammasamādhi)",
+          "giving up uncertainty"
+     ],
+     [
+          "SN42.13",
+          "doubt (vicikicchā)",
+          "about uncertain matter (kaṅkhanīya)"
+     ],
+     [
+          "SN42.13",
           "false speech",
           "praised by some"
      ],
      [
           "SN42.13",
+          "killing",
+          "rewarded for"
+     ],
+     [
+          "SN42.13",
           "loving-kindness (mettā)",
           "to prepare the mind for reflection"
+     ],
+     [
+          "SN42.13",
+          "lying",
+          "rewarded for"
+     ],
+     [
+          "SN42.13",
+          "magic",
+          "Buddha knows, but is not a magician"
+     ],
+     [
+          "SN42.13",
+          "Pāṭaliya, chief",
+          "asking about magic"
+     ],
+     [
+          "SN42.13",
+          "practices (paṭipatti)",
+          "wrong"
+     ],
+     [
+          "SN42.13",
+          "present life",
+          "not seeing results of actions in"
+     ],
+     [
+          "SN42.13",
+          "results of actions",
+          "not seeing in present life"
+     ],
+     [
+          "SN42.13",
+          "sexual misconduct",
+          "rewarded for"
+     ],
+     [
+          "SN42.13",
+          "stealing",
+          "rewarded for"
+     ],
+     [
+          "SN42.13",
+          "wholesome chain of causality",
+          "virtue to concentration"
+     ],
+     [
+          "SN42.13",
+          "wrong view (micchā diṭṭhi)",
+          "having confidence in one who holds"
+     ],
+     [
+          "SN42.13",
+          "wrong views",
+          "about actions"
      ],
      [
           "SN45.1",

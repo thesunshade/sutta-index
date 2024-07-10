@@ -160,6 +160,10 @@ export const indexObject =[
           41
      ],
      [
+          "wrong view (micchā diṭṭhi)",
+          40
+     ],
+     [
           "right view (sammā diṭṭhi)",
           40
      ],
@@ -184,10 +188,6 @@ export const indexObject =[
           40
      ],
      [
-          "wrong view (micchā diṭṭhi)",
-          39
-     ],
-     [
           "merit (puñña)",
           39
      ],
@@ -200,16 +200,16 @@ export const indexObject =[
           38
      ],
      [
+          "results of actions",
+          38
+     ],
+     [
           "association",
           38
      ],
      [
           "actions (kamma)",
           38
-     ],
-     [
-          "results of actions",
-          37
      ],
      [
           "Moggallāna, Ven.",
@@ -312,15 +312,19 @@ export const indexObject =[
           30
      ],
      [
+          "doubt (vicikicchā)",
+          30
+     ],
+     [
           "trees",
           29
      ],
      [
-          "fools (bāla)",
+          "lying",
           29
      ],
      [
-          "doubt (vicikicchā)",
+          "fools (bāla)",
           29
      ],
      [
@@ -337,10 +341,6 @@ export const indexObject =[
      ],
      [
           "psychic powers (iddhi)",
-          28
-     ],
-     [
-          "lying",
           28
      ],
      [
@@ -424,6 +424,10 @@ export const indexObject =[
           25
      ],
      [
+          "killing",
+          25
+     ],
+     [
           "heaven (sagga)",
           25
      ],
@@ -445,10 +449,6 @@ export const indexObject =[
      ],
      [
           "knowledge of passing away and rebirth of beings (cutūpapātañāna)",
-          24
-     ],
-     [
-          "killing",
           24
      ],
      [
@@ -496,6 +496,10 @@ export const indexObject =[
           23
      ],
      [
+          "wrong views",
+          22
+     ],
+     [
           "uposatha",
           22
      ],
@@ -524,10 +528,6 @@ export const indexObject =[
           22
      ],
      [
-          "wrong views",
-          21
-     ],
-     [
           "water",
           21
      ],
@@ -537,6 +537,10 @@ export const indexObject =[
      ],
      [
           "skillful qualities (kusala dhamma)",
+          21
+     ],
+     [
+          "sexual misconduct",
           21
      ],
      [
@@ -569,10 +573,6 @@ export const indexObject =[
      ],
      [
           "world, the",
-          20
-     ],
-     [
-          "sexual misconduct",
           20
      ],
      [
@@ -756,6 +756,10 @@ export const indexObject =[
           17
      ],
      [
+          "brahmaviharas",
+          17
+     ],
+     [
           "assemblies",
           17
      ],
@@ -769,6 +773,10 @@ export const indexObject =[
      ],
      [
           "wrong eightfold path",
+          16
+     ],
+     [
+          "wholesome chain of causality",
           16
      ],
      [
@@ -844,14 +852,6 @@ export const indexObject =[
           16
      ],
      [
-          "brahmaviharas",
-          16
-     ],
-     [
-          "wholesome chain of causality",
-          15
-     ],
-     [
           "situational awareness (sampajañña)",
           15
      ],
@@ -902,6 +902,10 @@ export const indexObject =[
      [
           "cessation (nirodha)",
           15
+     ],
+     [
+          "stealing",
+          14
      ],
      [
           "sacrifices (yañña)",
@@ -973,10 +977,6 @@ export const indexObject =[
      ],
      [
           "wrong speech (micchā vācā)",
-          13
-     ],
-     [
-          "stealing",
           13
      ],
      [
@@ -1392,6 +1392,10 @@ export const indexObject =[
           10
      ],
      [
+          "present life",
+          10
+     ],
+     [
           "practicing according to the Dhamma (dhammānudhammappaṭipanna)",
           10
      ],
@@ -1592,11 +1596,11 @@ export const indexObject =[
           9
      ],
      [
-          "present life",
+          "pregnancy",
           9
      ],
      [
-          "pregnancy",
+          "practices (paṭipatti)",
           9
      ],
      [
@@ -1769,10 +1773,6 @@ export const indexObject =[
      ],
      [
           "purification",
-          8
-     ],
-     [
-          "practices (paṭipatti)",
           8
      ],
      [
@@ -3612,6 +3612,10 @@ export const indexObject =[
           4
      ],
      [
+          "magic",
+          4
+     ],
+     [
           "love (pema)",
           4
      ],
@@ -4445,10 +4449,6 @@ export const indexObject =[
      ],
      [
           "Mahā Kappina, Ven.",
-          3
-     ],
-     [
-          "magic",
           3
      ],
      [
@@ -8312,6 +8312,10 @@ export const indexObject =[
           1
      ],
      [
+          "Pāṭaliya, chief",
+          1
+     ],
+     [
           "Paṭācārā, Ven.",
           1
      ],
@@ -9921,6 +9925,10 @@ export const indexObject =[
      ],
      [
           "conditionality (idappaccayatā)",
+          1
+     ],
+     [
+          "concentration of Dhamma (dhammasamādhi)",
           1
      ],
      [

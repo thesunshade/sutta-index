@@ -46,8 +46,7 @@ export default function SearchResults(props) {
                     e.preventDefault();
                     document.getElementById(makeNormalizedId(headword)).scrollIntoView(true);
                     window.history.pushState({ page: 1 }, "foo", "#" + makeNormalizedId(headword));
-                  }}
-                >
+                  }}>
                   <li>{headword}</li>
                 </span>
               );
@@ -61,11 +60,7 @@ export default function SearchResults(props) {
               Most nouns are plural. E.g. <i>leaves</i> not <i>leaf</i>
               <br />
               Or send us a report so we know what is missing:{" "}
-              <a
-                href={`https://docs.google.com/forms/d/e/1FAIpQLSfxPp1rQrFuvFvQOY2vq1IoSJGmnOHG0VgWadAA-qeWNMD8qA/viewform?usp=pp_url&entry.1763012355=${searchText}`}
-                rel="noreferrer"
-                target="_blank"
-              >
+              <a href={`https://docs.google.com/forms/d/e/1FAIpQLSfxPp1rQrFuvFvQOY2vq1IoSJGmnOHG0VgWadAA-qeWNMD8qA/viewform?usp=pp_url&entry.1763012355=${searchText}`} rel="noreferrer" target="_blank">
                 <img className="icon locator-icon" width="20px" alt="" src={formIcon} />
                 Fill the simple form.
               </a>

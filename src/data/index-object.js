@@ -10359,6 +10359,12 @@ export const indexObject ={
                          "SN42.8"
                     ],
                     "xrefs": []
+               },
+               "evaluating views": {
+                    "locators": [
+                         "SN42.13"
+                    ],
+                    "xrefs": []
                }
           },
           "Brahmāyu, brahmin": {
@@ -12484,6 +12490,13 @@ export const indexObject ={
                          "MN60"
                     ],
                     "xrefs": []
+               },
+               "": {
+                    "locators": [],
+                    "xrefs": [
+                         "xref unwholesome chain of causality",
+                         "xref wholesome chain of causality"
+                    ]
                }
           },
           "causes (nidāna)": {
@@ -14684,6 +14697,14 @@ export const indexObject ={
                     "xrefs": [
                          "xref awakening factor of immersion (samādhisambojjhaṅga)"
                     ]
+               }
+          },
+          "concentration of Dhamma (dhammasamādhi)": {
+               "giving up uncertainty": {
+                    "locators": [
+                         "SN42.13"
+                    ],
+                    "xrefs": []
                }
           },
           "conch blowers": {
@@ -23878,6 +23899,12 @@ export const indexObject ={
                "arahant has no doubt defilements are given up": {
                     "locators": [
                          "SN12.32"
+                    ],
+                    "xrefs": []
+               },
+               "about uncertain matter (kaṅkhanīya)": {
+                    "locators": [
+                         "SN42.13"
                     ],
                     "xrefs": []
                },
@@ -47752,6 +47779,12 @@ export const indexObject ={
                          "SN56.96"
                     ],
                     "xrefs": []
+               },
+               "rewarded for": {
+                    "locators": [
+                         "SN42.13"
+                    ],
+                    "xrefs": []
                }
           },
           "killing, giving up": {
@@ -52205,6 +52238,12 @@ export const indexObject ={
                          "SN17.37"
                     ],
                     "xrefs": []
+               },
+               "rewarded for": {
+                    "locators": [
+                         "SN42.13"
+                    ],
+                    "xrefs": []
                }
           },
           "lying posture": {
@@ -52306,6 +52345,12 @@ export const indexObject ={
                "simile for consciousness": {
                     "locators": [
                          "SN22.95"
+                    ],
+                    "xrefs": []
+               },
+               "Buddha knows, but is not a magician": {
+                    "locators": [
+                         "SN42.13"
                     ],
                     "xrefs": []
                }
@@ -63712,6 +63757,14 @@ export const indexObject ={
                     "xrefs": []
                }
           },
+          "Pāṭaliya, chief": {
+               "asking about magic": {
+                    "locators": [
+                         "SN42.13"
+                    ],
+                    "xrefs": []
+               }
+          },
           "path (magga)": {
                "": {
                     "locators": [],
@@ -66672,6 +66725,7 @@ export const indexObject ={
                },
                "wrong": {
                     "locators": [
+                         "SN42.13",
                          "SN55.12"
                     ],
                     "xrefs": []
@@ -67381,6 +67435,12 @@ export const indexObject ={
                "wearing away visible in": {
                     "locators": [
                          "SN42.12"
+                    ],
+                    "xrefs": []
+               },
+               "not seeing results of actions in": {
+                    "locators": [
+                         "SN42.13"
                     ],
                     "xrefs": []
                }
@@ -71893,6 +71953,12 @@ export const indexObject ={
                "Nigaṇṭhas teachings on": {
                     "locators": [
                          "SN42.8"
+                    ],
+                    "xrefs": []
+               },
+               "not seeing in present life": {
+                    "locators": [
+                         "SN42.13"
                     ],
                     "xrefs": []
                }
@@ -78458,6 +78524,12 @@ export const indexObject ={
                          "SN19.13"
                     ],
                     "xrefs": []
+               },
+               "rewarded for": {
+                    "locators": [
+                         "SN42.13"
+                    ],
+                    "xrefs": []
                }
           },
           "sexual misconduct, giving up": {
@@ -82052,6 +82124,12 @@ export const indexObject ={
                "people who refrain from are few": {
                     "locators": [
                          "SN56.72"
+                    ],
+                    "xrefs": []
+               },
+               "rewarded for": {
+                    "locators": [
+                         "SN42.13"
                     ],
                     "xrefs": []
                }
@@ -91873,6 +91951,12 @@ export const indexObject ={
                          "AN11.11"
                     ],
                     "xrefs": []
+               },
+               "virtue to concentration": {
+                    "locators": [
+                         "SN42.13"
+                    ],
+                    "xrefs": []
                }
           },
           "wholesome roots (alobha, adosa, amoha)": {
@@ -94290,6 +94374,12 @@ export const indexObject ={
                          "SN42.3"
                     ],
                     "xrefs": []
+               },
+               "having confidence in one who holds": {
+                    "locators": [
+                         "SN42.13"
+                    ],
+                    "xrefs": []
                }
           },
           "wrong view, giving up": {
@@ -94364,7 +94454,8 @@ export const indexObject ={
                },
                "about actions": {
                     "locators": [
-                         "MN136"
+                         "MN136",
+                         "SN42.13"
                     ],
                     "xrefs": []
                },
