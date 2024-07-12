@@ -1,6 +1,6 @@
 # Offering feedback
 
-Your feedback on this project is very valueable. Please take a look at the information below to know what will be most useful.
+Your feedback on this project is very valueable. Please take a look at the information below to know what will be most useful. You can reach out to info@readingfaithfully.org or create an issue here on GitHub if you find a problem.
 
 To see what books have been covered so far, click on the info icon in the app.
 
@@ -9,7 +9,7 @@ To see a book sorted list of locators, click on the gear icon and then click "To
 ## Known issues
 
 - The index is a draft. As such, it may have some redundancies that will be worked out later during the editing stage.
-- This app is written using ReactJS. It seems to be very slow and possibly broken a bit when viewed on mobile. Anyone with React experiece is more than welcome to give advice on this problem.
+- This app is written using ReactJS. It seems to be very slow when viewed on mobile. Anyone with React experiece is more than welcome to give advice on this problem.
 
 ## Helpful types of feedback
 

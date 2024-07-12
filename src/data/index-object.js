@@ -562,6 +562,12 @@ export const indexObject ={
                          "AN2.66"
                     ],
                     "xrefs": []
+               },
+               "source of delight and sorrow": {
+                    "locators": [
+                         "SN1.12"
+                    ],
+                    "xrefs": []
                }
           },
           "acrobats": {
@@ -609,7 +615,8 @@ export const indexObject ={
                },
                "blameless": {
                     "locators": [
-                         "Kp5"
+                         "Kp5",
+                         "Snp2.4"
                     ],
                     "xrefs": []
                },
@@ -955,7 +962,8 @@ export const indexObject ={
                          "AN5.167",
                          "AN6.69",
                          "AN7.34",
-                         "Kp5"
+                         "Kp5",
+                         "Snp2.4"
                     ],
                     "xrefs": []
                },
@@ -2091,7 +2099,8 @@ export const indexObject ={
                },
                "abstaining from is a blessing": {
                     "locators": [
-                         "Kp5"
+                         "Kp5",
+                         "Snp2.4"
                     ],
                     "xrefs": []
                },
@@ -2990,7 +2999,7 @@ export const indexObject ={
           "anger (kodha)": {
                "": {
                     "locators": [
-                         "CUSTOM:Dhp:Dhammapada Chapter 17:suttacentral.net/dhp221-234/en/sujato"
+                         "CUSTOM:Dhp:Dhp Chapter 17:suttacentral.net/dhp221-234/en/sujato"
                     ],
                     "xrefs": [
                          "xref anger, giving up (kodha)",
@@ -5261,6 +5270,7 @@ export const indexObject ={
                     "locators": [
                          "AN4.31",
                          "Kp5",
+                         "Snp2.4",
                          "Thag1.75",
                          "Thag2.14",
                          "Thag17.3",
@@ -5277,7 +5287,8 @@ export const indexObject ={
                          "Dhp207",
                          "Iti76",
                          "Iti78",
-                         "Snp1.3"
+                         "Snp1.3",
+                         "Snp2.4"
                     ],
                     "xrefs": []
                },
@@ -6020,7 +6031,8 @@ export const indexObject ={
           "austerity": {
                "as a blessing": {
                     "locators": [
-                         "Kp5"
+                         "Kp5",
+                         "Snp2.4"
                     ],
                     "xrefs": []
                }
@@ -8920,7 +8932,8 @@ export const indexObject ={
           "blessings (maṅgala)": {
                "in detail": {
                     "locators": [
-                         "Kp5"
+                         "Kp5",
+                         "Snp2.4"
                     ],
                     "xrefs": []
                }
@@ -10445,7 +10458,7 @@ export const indexObject ={
                },
                "true meaning": {
                     "locators": [
-                         "CUSTOM:Dhp:Dhammapada Chapter 26:suttacentral.net/dhp383-423/en/sujato",
+                         "CUSTOM:Dhp:Dhp Chapter 26:suttacentral.net/dhp383-423/en/sujato",
                          "Ud1.4",
                          "Ud1.5",
                          "Ud1.6",
@@ -10757,7 +10770,7 @@ export const indexObject ={
           "Buddha, the": {
                "": {
                     "locators": [
-                         "CUSTOM:Dhp:Dhammapada Chapter 14:suttacentral.net/dhp179-196/en/sujato"
+                         "CUSTOM:Dhp:Dhp Chapter 14:suttacentral.net/dhp179-196/en/sujato"
                     ],
                     "xrefs": [
                          "xref Bodhisatta",
@@ -12615,7 +12628,8 @@ export const indexObject ={
                },
                "as a blessing": {
                     "locators": [
-                         "Kp5"
+                         "Kp5",
+                         "Snp2.4"
                     ],
                     "xrefs": []
                },
@@ -13364,7 +13378,8 @@ export const indexObject ={
                },
                "caring for": {
                     "locators": [
-                         "Kp5"
+                         "Kp5",
+                         "Snp2.4"
                     ],
                     "xrefs": []
                },
@@ -13457,6 +13472,18 @@ export const indexObject ={
                "hard to get": {
                     "locators": [
                          "SN37.32"
+                    ],
+                    "xrefs": []
+               },
+               "source of delight and sorrow": {
+                    "locators": [
+                         "SN1.12"
+                    ],
+                    "xrefs": []
+               },
+               "love for": {
+                    "locators": [
+                         "SN1.13"
                     ],
                     "xrefs": []
                }
@@ -14208,6 +14235,12 @@ export const indexObject ={
                "forms of": {
                     "locators": [
                          "SN35.248"
+                    ],
+                    "xrefs": []
+               },
+               "giving up": {
+                    "locators": [
+                         "SN1.9"
                     ],
                     "xrefs": []
                }
@@ -15933,7 +15966,8 @@ export const indexObject ={
           "contentment (santuṭṭhi)": {
                "as a blessing": {
                     "locators": [
-                         "Kp5"
+                         "Kp5",
+                         "Snp2.4"
                     ],
                     "xrefs": []
                },
@@ -16689,6 +16723,12 @@ export const indexObject ={
                          "SN56.90"
                     ],
                     "xrefs": []
+               },
+               "source of delight and sorrow": {
+                    "locators": [
+                         "SN1.12"
+                    ],
+                    "xrefs": []
                }
           },
           "crabs": {
@@ -16711,7 +16751,7 @@ export const indexObject ={
           "craving (taṇha)": {
                "": {
                     "locators": [
-                         "CUSTOM:Dhp:Dhammapada Chapter 24:suttacentral.net/dhp334-359/en/sujato"
+                         "CUSTOM:Dhp:Dhp Chapter 24:suttacentral.net/dhp334-359/en/sujato"
                     ],
                     "xrefs": [
                          "xref craving for existence (bhavataṇhā)",
@@ -19100,6 +19140,12 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
+               "in attachments": {
+                    "locators": [
+                         "SN1.12"
+                    ],
+                    "xrefs": []
+               },
                "counter_value": 2
           },
           "delight (rati)": {
@@ -19818,7 +19864,8 @@ export const indexObject ={
                },
                "as a blessing": {
                     "locators": [
-                         "Kp5"
+                         "Kp5",
+                         "Snp2.4"
                     ],
                     "xrefs": []
                },
@@ -20680,7 +20727,8 @@ export const indexObject ={
                          "AN4.146",
                          "AN4.147",
                          "AN9.4",
-                         "Kp5"
+                         "Kp5",
+                         "Snp2.4"
                     ],
                     "xrefs": []
                },
@@ -22384,7 +22432,8 @@ export const indexObject ={
                },
                "as a blessing": {
                     "locators": [
-                         "Kp5"
+                         "Kp5",
+                         "Snp2.4"
                     ],
                     "xrefs": []
                }
@@ -25041,7 +25090,8 @@ export const indexObject ={
           "education": {
                "as a blessing": {
                     "locators": [
-                         "Kp5"
+                         "Kp5",
+                         "Snp2.4"
                     ],
                     "xrefs": []
                }
@@ -25475,7 +25525,7 @@ export const indexObject ={
           "elephants": {
                "": {
                     "locators": [
-                         "CUSTOM:Dhp:Dhammapada Chapter 23:suttacentral.net/dhp320-333/en/sujato"
+                         "CUSTOM:Dhp:Dhp Chapter 23:suttacentral.net/dhp320-333/en/sujato"
                     ],
                     "xrefs": []
                },
@@ -26047,6 +26097,14 @@ export const indexObject ={
                "counter_value": 5
           },
           "enduring abuse": {
+               "": {
+                    "locators": [
+                         "AN4.114"
+                    ],
+                    "xrefs": [
+                         "xref patience"
+                    ]
+               },
                "like elephant": {
                     "locators": [
                          "Dhp320"
@@ -26089,12 +26147,6 @@ export const indexObject ={
                "through dependent origination": {
                     "locators": [
                          "MN28"
-                    ],
-                    "xrefs": []
-               },
-               "": {
-                    "locators": [
-                         "AN4.114"
                     ],
                     "xrefs": []
                },
@@ -27032,7 +27084,8 @@ export const indexObject ={
           "evil (pāpa)": {
                "abandoning": {
                     "locators": [
-                         "Kp5"
+                         "Kp5",
+                         "Snp2.4"
                     ],
                     "xrefs": []
                },
@@ -29489,7 +29542,8 @@ export const indexObject ={
                },
                "caring for as a blessing": {
                     "locators": [
-                         "Kp5"
+                         "Kp5",
+                         "Snp2.4"
                     ],
                     "xrefs": []
                },
@@ -31998,13 +32052,14 @@ export const indexObject ={
                "don’t associate with": {
                     "locators": [
                          "Kp5",
-                         "Dhp61"
+                         "Dhp61",
+                         "Snp2.4"
                     ],
                     "xrefs": []
                },
                "": {
                     "locators": [
-                         "CUSTOM:Dhp:Dhammapada Chapter 5:suttacentral.net/dhp60-75/en/sujato"
+                         "CUSTOM:Dhp:Dhp Chapter 5:suttacentral.net/dhp60-75/en/sujato"
                     ],
                     "xrefs": []
                },
@@ -32169,6 +32224,12 @@ export const indexObject ={
                "difference between astute person": {
                     "locators": [
                          "SN12.19"
+                    ],
+                    "xrefs": []
+               },
+               "like reed mowed down": {
+                    "locators": [
+                         "SN1.10"
                     ],
                     "xrefs": []
                },
@@ -33243,7 +33304,8 @@ export const indexObject ={
                },
                "as a blessing": {
                     "locators": [
-                         "Kp5"
+                         "Kp5",
+                         "Snp2.4"
                     ],
                     "xrefs": []
                },
@@ -34260,7 +34322,8 @@ export const indexObject ={
                },
                "hope for": {
                     "locators": [
-                         "MN131"
+                         "MN131",
+                         "SN1.10"
                     ],
                     "xrefs": []
                },
@@ -34661,6 +34724,14 @@ export const indexObject ={
                "slants to the east, simile for jhānas lead to nibbāna": {
                     "locators": [
                          "SN53.1"
+                    ],
+                    "xrefs": []
+               }
+          },
+          "Garden of Delight (Nandana)": {
+               "example of peak pleasure": {
+                    "locators": [
+                         "SN1.11"
                     ],
                     "xrefs": []
                }
@@ -35550,7 +35621,8 @@ export const indexObject ={
                },
                "as a blessing": {
                     "locators": [
-                         "Kp5"
+                         "Kp5",
+                         "Snp2.4"
                     ],
                     "xrefs": []
                },
@@ -36530,6 +36602,7 @@ export const indexObject ={
                     "locators": [
                          "Kp5",
                          "Snp1.6",
+                         "Snp2.4",
                          "Snp3.6"
                     ],
                     "xrefs": []
@@ -38632,7 +38705,8 @@ export const indexObject ={
           "gratitude": {
                "as a blessing": {
                     "locators": [
-                         "Kp5"
+                         "Kp5",
+                         "Snp2.4"
                     ],
                     "xrefs": []
                },
@@ -39475,7 +39549,7 @@ export const indexObject ={
           "happiness (sukha)": {
                "": {
                     "locators": [
-                         "CUSTOM:Dhp:Dhammapada Chapter 15:suttacentral.net/dhp197-208/en/sujato"
+                         "CUSTOM:Dhp:Dhp Chapter 15:suttacentral.net/dhp197-208/en/sujato"
                     ],
                     "xrefs": [
                          "xref bliss of renunciation (nekkhammasukha)"
@@ -41615,7 +41689,7 @@ export const indexObject ={
                     "locators": [
                          "AN4.116",
                          "AN4.117",
-                         "CUSTOM:Dhp:Dhammapada Chapter 2:suttacentral.net/dhp21-32/en/sujato"
+                         "CUSTOM:Dhp:Dhp Chapter 2:suttacentral.net/dhp21-32/en/sujato"
                     ],
                     "xrefs": [
                          "xref heedlessness (pamāda)"
@@ -41623,7 +41697,8 @@ export const indexObject ={
                },
                "as a blessing": {
                     "locators": [
-                         "Kp5"
+                         "Kp5",
+                         "Snp2.4"
                     ],
                     "xrefs": []
                },
@@ -42098,7 +42173,7 @@ export const indexObject ={
           "hell (niraya)": {
                "": {
                     "locators": [
-                         "CUSTOM:Dhp:Dhammapada Chapter 22:suttacentral.net/dhp306-319/en/sujato"
+                         "CUSTOM:Dhp:Dhp Chapter 22:suttacentral.net/dhp306-319/en/sujato"
                     ],
                     "xrefs": [
                          "xref underworld (vinipāta)",
@@ -42856,7 +42931,8 @@ export const indexObject ={
           "honor": {
                "honoring as a blessing": {
                     "locators": [
-                         "Kp5"
+                         "Kp5",
+                         "Snp2.4"
                     ],
                     "xrefs": []
                },
@@ -43547,7 +43623,8 @@ export const indexObject ={
           "humility": {
                "as a blessing": {
                     "locators": [
-                         "Kp5"
+                         "Kp5",
+                         "Snp2.4"
                     ],
                     "xrefs": []
                },
@@ -44474,6 +44551,7 @@ export const indexObject ={
                },
                "all conditioned things are": {
                     "locators": [
+                         "SN1.11",
                          "Dhp277"
                     ],
                     "xrefs": []
@@ -47772,6 +47850,12 @@ export const indexObject ={
                          "AN11.10"
                     ],
                     "xrefs": []
+               },
+               "best of bipeds": {
+                    "locators": [
+                         "SN1.14"
+                    ],
+                    "xrefs": []
                }
           },
           "Khemā, Ven.": {
@@ -50667,6 +50751,12 @@ export const indexObject ={
                          "SN12.64"
                     ],
                     "xrefs": []
+               },
+               "wisdom": {
+                    "locators": [
+                         "SN1.13"
+                    ],
+                    "xrefs": []
                }
           },
           "lightening": {
@@ -50854,7 +50944,8 @@ export const indexObject ={
                     "locators": [
                          "AN4.146",
                          "AN4.147",
-                         "Kp5"
+                         "Kp5",
+                         "Snp2.4"
                     ],
                     "xrefs": []
                },
@@ -51636,12 +51727,18 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
+               "for a child": {
+                    "locators": [
+                         "SN1.13"
+                    ],
+                    "xrefs": []
+               },
                "counter_value": 2
           },
           "love (piya)": {
                "": {
                     "locators": [
-                         "CUSTOM:Dhp:Dhammapada Chapter 16:suttacentral.net/dhp209-220/en/sujato"
+                         "CUSTOM:Dhp:Dhp Chapter 16:suttacentral.net/dhp209-220/en/sujato"
                     ],
                     "xrefs": []
                },
@@ -54542,7 +54639,8 @@ export const indexObject ={
                "done in the past": {
                     "locators": [
                          "AN4.31",
-                         "Kp5"
+                         "Kp5",
+                         "Snp2.4"
                     ],
                     "xrefs": []
                },
@@ -55071,7 +55169,7 @@ export const indexObject ={
           "mind (citta)": {
                "": {
                     "locators": [
-                         "CUSTOM:Dhp:Dhammapada Chapter 3:suttacentral.net/dhp33-43/en/sujato"
+                         "CUSTOM:Dhp:Dhp Chapter 3:suttacentral.net/dhp33-43/en/sujato"
                     ],
                     "xrefs": [
                          "xref bases of psychic power (iddhipāda)"
@@ -59132,7 +59230,8 @@ export const indexObject ={
                },
                "as a blessing": {
                     "locators": [
-                         "Kp5"
+                         "Kp5",
+                         "Snp2.4"
                     ],
                     "xrefs": []
                },
@@ -61868,7 +61967,7 @@ export const indexObject ={
           "old age (jarā)": {
                "": {
                     "locators": [
-                         "CUSTOM:Dhp:Dhammapada Chapter 11:suttacentral.net/dhp146-156/en/sujato"
+                         "CUSTOM:Dhp:Dhp Chapter 11:suttacentral.net/dhp146-156/en/sujato"
                     ],
                     "xrefs": [
                          "xref dependent origination (paṭiccasamuppāda)",
@@ -63503,6 +63602,7 @@ export const indexObject ={
                          "Kp5",
                          "Kp8",
                          "Dhp332",
+                         "Snp2.4",
                          "Vv75",
                          "Vv76",
                          "Vv83"
@@ -63756,6 +63856,12 @@ export const indexObject ={
                "using present to infer about": {
                     "locators": [
                          "SN42.11"
+                    ],
+                    "xrefs": []
+               },
+               "grieving for": {
+                    "locators": [
+                         "SN1.10"
                     ],
                     "xrefs": []
                }
@@ -64036,10 +64142,26 @@ export const indexObject ={
                     "xrefs": []
                }
           },
+          "patience": {
+               "": {
+                    "locators": [],
+                    "xrefs": [
+                         "xref enduring abuse"
+                    ]
+               },
+               "how to develop": {
+                    "locators": [
+                         "MN21"
+                    ],
+                    "xrefs": []
+               },
+               "counter_value": 1
+          },
           "patience (khanti)": {
                "as a blessing": {
                     "locators": [
-                         "Kp5"
+                         "Kp5",
+                         "Snp2.4"
                     ],
                     "xrefs": []
                },
@@ -64080,7 +64202,8 @@ export const indexObject ={
                          "AN8.27"
                     ],
                     "xrefs": []
-               }
+               },
+               "counter_value": 2
           },
           "patients": {
                "kinds of patients similar to kinds of people": {
@@ -70664,6 +70787,12 @@ export const indexObject ={
                          "SN35.229"
                     ],
                     "xrefs": []
+               },
+               "simile for fool longing for future": {
+                    "locators": [
+                         "SN1.10"
+                    ],
+                    "xrefs": []
                }
           },
           "reflection (paṭisañcikkhati)": {
@@ -70856,7 +70985,8 @@ export const indexObject ={
           "region": {
                "suitable to live in": {
                     "locators": [
-                         "Kp5"
+                         "Kp5",
+                         "Snp2.4"
                     ],
                     "xrefs": []
                },
@@ -71655,7 +71785,8 @@ export const indexObject ={
                },
                "as a blessing": {
                     "locators": [
-                         "Kp5"
+                         "Kp5",
+                         "Snp2.4"
                     ],
                     "xrefs": []
                },
@@ -73452,7 +73583,8 @@ export const indexObject ={
           "righteous conduct (dhammacārī)": {
                "as a blessing": {
                     "locators": [
-                         "Kp5"
+                         "Kp5",
+                         "Snp2.4"
                     ],
                     "xrefs": []
                },
@@ -75927,7 +76059,8 @@ export const indexObject ={
           "security (khema)": {
                "mind that is": {
                     "locators": [
-                         "Kp5"
+                         "Kp5",
+                         "Snp2.4"
                     ],
                     "xrefs": []
                },
@@ -76184,6 +76317,12 @@ export const indexObject ={
                "does the self survive": {
                     "locators": [
                          "SN44.10"
+                    ],
+                    "xrefs": []
+               },
+               "love for": {
+                    "locators": [
+                         "SN1.13"
                     ],
                     "xrefs": []
                }
@@ -80818,6 +80957,12 @@ export const indexObject ={
                          "SN15.18"
                     ],
                     "xrefs": []
+               },
+               "best type of": {
+                    "locators": [
+                         "SN1.14"
+                    ],
+                    "xrefs": []
                }
           },
           "sons of good family (kulaputta)": {
@@ -80898,7 +81043,8 @@ export const indexObject ={
           "sorrowless (asoka)": {
                "mind that is": {
                     "locators": [
-                         "Kp5"
+                         "Kp5",
+                         "Snp2.4"
                     ],
                     "xrefs": []
                }
@@ -81243,7 +81389,8 @@ export const indexObject ={
                },
                "well-spoken": {
                     "locators": [
-                         "Kp5"
+                         "Kp5",
+                         "Snp2.4"
                     ],
                     "xrefs": []
                },
@@ -86359,7 +86506,8 @@ export const indexObject ={
           "training": {
                "as a blessing": {
                     "locators": [
-                         "Kp5"
+                         "Kp5",
+                         "Snp2.4"
                     ],
                     "xrefs": []
                },
@@ -92614,6 +92762,24 @@ export const indexObject ={
                          "AN10.8"
                     ],
                     "xrefs": []
+               },
+               "living diligent in": {
+                    "locators": [
+                         "SN1.9"
+                    ],
+                    "xrefs": []
+               },
+               "living in beneficial": {
+                    "locators": [
+                         "SN1.10"
+                    ],
+                    "xrefs": []
+               },
+               "delightful or frightening": {
+                    "locators": [
+                         "SN1.15"
+                    ],
+                    "xrefs": []
                }
           },
           "wilderness dwelling monk (āraññika)": {
@@ -93096,6 +93262,12 @@ export const indexObject ={
                          "SN55.59"
                     ],
                     "xrefs": []
+               },
+               "light": {
+                    "locators": [
+                         "SN1.13"
+                    ],
+                    "xrefs": []
                }
           },
           "wisdom, higher (adhipaññā)": {
@@ -93334,6 +93506,12 @@ export const indexObject ={
                "noble disciple grows nobly when they grow in": {
                     "locators": [
                          "AN10.74"
+                    ],
+                    "xrefs": []
+               },
+               "best type of": {
+                    "locators": [
+                         "SN1.14"
                     ],
                     "xrefs": []
                }
@@ -93657,7 +93835,8 @@ export const indexObject ={
                },
                "as a blessing": {
                     "locators": [
-                         "Kp5"
+                         "Kp5",
+                         "Snp2.4"
                     ],
                     "xrefs": []
                },
@@ -94068,6 +94247,7 @@ export const indexObject ={
                "not affected by": {
                     "locators": [
                          "Kp5",
+                         "Snp2.4",
                          "Thag14.2"
                     ],
                     "xrefs": []
