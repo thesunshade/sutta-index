@@ -843,12 +843,21 @@ tr:nth-child(even) {
 .link-list {
   overflow-y: auto;
   overflow-x: hidden;
-  max-height: 60vh;
+  max-height: 50vh;
   background-color: var(--offwhite);
   margin: 0 0 1rem 0;
   max-width: var(--max-width);
   overscroll-behavior: contain;
   padding: 10px;
+}
+
+.link-list.string-start {
+  max-height: 30vh;
+  margin: 0 0 .5rem 0;
+}
+
+.link-list.string-start:empty {
+  padding: 0;
 }
 
 .dark .link-list {

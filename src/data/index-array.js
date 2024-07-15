@@ -59455,6 +59455,36 @@ export const indexArray =[
           "delightful or frightening"
      ],
      [
+          "SN1.16",
+          "sleepiness",
+          "blocking noble path"
+     ],
+     [
+          "SN1.17",
+          "monastic life",
+          "hard to endure"
+     ],
+     [
+          "SN1.17",
+          "thoughts (vitakka)",
+          "drawing in like tortoise"
+     ],
+     [
+          "SN1.17",
+          "tortoises (kumma)",
+          "drawing in limbs, simile for thoughts"
+     ],
+     [
+          "SN1.18",
+          "conscience (hiri)",
+          "like whip constrains horse"
+     ],
+     [
+          "SN1.18",
+          "horses",
+          "constrained by whip, simile for conscience"
+     ],
+     [
           "SN1.20",
           "death (maraṇa)",
           ""

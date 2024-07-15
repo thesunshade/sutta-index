@@ -56,12 +56,12 @@ export const indexObject =[
           67
      ],
      [
-          "Dhamma teaching",
+          "monastic life",
           65
      ],
      [
-          "monastic life",
-          64
+          "Dhamma teaching",
+          65
      ],
      [
           "faith (saddhā)",
@@ -1176,6 +1176,10 @@ export const indexObject =[
           12
      ],
      [
+          "horses",
+          12
+     ],
+     [
           "hope (āsa)",
           12
      ],
@@ -1233,6 +1237,10 @@ export const indexObject =[
      ],
      [
           "training",
+          11
+     ],
+     [
+          "thoughts (vitakka)",
           11
      ],
      [
@@ -1308,10 +1316,6 @@ export const indexObject =[
           11
      ],
      [
-          "horses",
-          11
-     ],
-     [
           "heading upstream to the Akaniṭṭha realm (uddhaṁsotassa akaniṭṭhagāmino)",
           11
      ],
@@ -1377,10 +1381,6 @@ export const indexObject =[
      ],
      [
           "tranquillity (passaddhi)",
-          10
-     ],
-     [
-          "thoughts (vitakka)",
           10
      ],
      [
@@ -1944,6 +1944,10 @@ export const indexObject =[
           8
      ],
      [
+          "conscience (hiri)",
+          8
+     ],
+     [
           "chariots",
           8
      ],
@@ -2337,10 +2341,6 @@ export const indexObject =[
      ],
      [
           "corpse",
-          7
-     ],
-     [
-          "conscience (hiri)",
           7
      ],
      [
@@ -2880,6 +2880,10 @@ export const indexObject =[
           5
      ],
      [
+          "sleepiness",
+          5
+     ],
+     [
           "singing",
           5
      ],
@@ -3409,10 +3413,6 @@ export const indexObject =[
      ],
      [
           "sons",
-          4
-     ],
-     [
-          "sleepiness",
           4
      ],
      [
@@ -4077,6 +4077,10 @@ export const indexObject =[
      ],
      [
           "traders (vāṇija)",
+          3
+     ],
+     [
+          "tortoises (kumma)",
           3
      ],
      [
@@ -5241,10 +5245,6 @@ export const indexObject =[
      ],
      [
           "traders",
-          2
-     ],
-     [
-          "tortoises (kumma)",
           2
      ],
      [

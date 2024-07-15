@@ -15207,6 +15207,12 @@ export const indexObject ={
                          "SN16.7"
                     ],
                     "xrefs": []
+               },
+               "like whip constrains horse": {
+                    "locators": [
+                         "SN1.18"
+                    ],
+                    "xrefs": []
                }
           },
           "conscience and prudence (hiri ottappa)": {
@@ -43276,6 +43282,12 @@ export const indexObject ={
                          "AN11.9"
                     ],
                     "xrefs": []
+               },
+               "constrained by whip, simile for conscience": {
+                    "locators": [
+                         "SN1.18"
+                    ],
+                    "xrefs": []
                }
           },
           "hospitality (paṭisanthāra)": {
@@ -57477,6 +57489,12 @@ export const indexObject ={
                "definition": {
                     "locators": [
                          "SN45.35"
+                    ],
+                    "xrefs": []
+               },
+               "hard to endure": {
+                    "locators": [
+                         "SN1.17"
                     ],
                     "xrefs": []
                }
@@ -80544,6 +80562,12 @@ export const indexObject ={
                          "SN46.51"
                     ],
                     "xrefs": []
+               },
+               "blocking noble path": {
+                    "locators": [
+                         "SN1.16"
+                    ],
+                    "xrefs": []
                }
           },
           "slow spiritual progress": {
@@ -85857,6 +85881,12 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
+               "drawing in like tortoise": {
+                    "locators": [
+                         "SN1.17"
+                    ],
+                    "xrefs": []
+               },
                "counter_value": 3
           },
           "thoughts of a great man (mahāpurisavitakka)": {
@@ -86308,6 +86338,12 @@ export const indexObject ={
                "simile for guarding sense doors": {
                     "locators": [
                          "SN35.240"
+                    ],
+                    "xrefs": []
+               },
+               "drawing in limbs, simile for thoughts": {
+                    "locators": [
+                         "SN1.17"
                     ],
                     "xrefs": []
                }

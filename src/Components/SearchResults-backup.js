@@ -19,15 +19,14 @@ export default function SearchResults(props) {
   }
 
   let hasResults = false;
-  let headwordsArrayLength = headwordsArray.length;
 
   return (
     <>
       <div id="search-results" className="search-results dropdown-list hidden hideable-area">
-        <ul className="link-list string-start">
+        <ul className="link-list">
           {headwordsArray.map((headword, index) => {
             if (searchText.length < 2) return null;
-            const regex = new RegExp(`^${fuzz(searchText)}`, "gi");
+            const regex = new RegExp(fuzz(searchText), "gi");
             if (regex.test(fuzz(headword))) {
               hasResults = true;
               return (
@@ -35,37 +34,6 @@ export default function SearchResults(props) {
                   key={headword}
                   className="menu-item search-result"
                   tabIndex={index + 2}
-                  onKeyPress={e => {
-                    e.preventDefault();
-                    if (e.key === "Enter") {
-                      document.getElementById(makeNormalizedId(e.target.innerText)).scrollIntoView(true);
-                      window.history.pushState({ page: 1 }, "foo", "#" + makeNormalizedId(e.target.innerText));
-                      hideAllHideable();
-                    }
-                  }}
-                  onClick={e => {
-                    e.preventDefault();
-                    document.getElementById(makeNormalizedId(headword)).scrollIntoView(true);
-                    window.history.pushState({ page: 1 }, "foo", "#" + makeNormalizedId(headword));
-                  }}>
-                  <li>{headword}</li>
-                </span>
-              );
-            }
-            return null;
-          })}
-        </ul>
-        <ul className="link-list">
-          {headwordsArray.map((headword, index) => {
-            if (searchText.length < 2) return null;
-            const regex = new RegExp(`(?<!^)${fuzz(searchText)}`, "gi");
-            if (regex.test(fuzz(headword))) {
-              hasResults = true;
-              return (
-                <span
-                  key={headword}
-                  className="menu-item search-result"
-                  tabIndex={headwordsArrayLength + index + 2}
                   onKeyPress={e => {
                     e.preventDefault();
                     if (e.key === "Enter") {
