@@ -24,7 +24,7 @@ export default function Stats() {
         xrefsCount++;
     }
   }
-  // console.log(xrefsCount);
+
   return (
     <>
       <div className="stats">
