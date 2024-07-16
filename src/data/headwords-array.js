@@ -2589,6 +2589,7 @@ export const headwordsArray =[
      "talking without doing",
      "tamed (danta)",
      "tangibles",
+     "tangle (jaṭā)",
      "taṇha",
      "Tapussa and Bhallika, merchants",
      "Tapussa, householder",

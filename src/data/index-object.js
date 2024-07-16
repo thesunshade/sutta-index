@@ -4396,6 +4396,12 @@ export const indexObject ={
                          "SN56.24"
                     ],
                     "xrefs": []
+               },
+               "using the word “I” and “me” skillfully": {
+                    "locators": [
+                         "SN1.25"
+                    ],
+                    "xrefs": []
                }
           },
           "arahantship": {
@@ -14244,6 +14250,12 @@ export const indexObject ={
                          "SN1.20"
                     ],
                     "xrefs": []
+               },
+               "using the word “I” and “me” skillfully": {
+                    "locators": [
+                         "SN1.25"
+                    ],
+                    "xrefs": []
                }
           },
           "conceit “I am” (asmimāna)": {
@@ -16474,6 +16486,7 @@ export const indexObject ={
                "": {
                     "locators": [],
                     "xrefs": [
+                         "xref jealousy (issā)",
                          "xref mental action (manokamma)"
                     ]
                },
@@ -24421,6 +24434,12 @@ export const indexObject ={
                     "locators": [
                          "SN45.156",
                          "SN54.9"
+                    ],
+                    "xrefs": []
+               },
+               "thrown into wind, simile for harming pure person": {
+                    "locators": [
+                         "SN1.22"
                     ],
                     "xrefs": []
                }
@@ -46585,6 +46604,7 @@ export const indexObject ={
                "": {
                     "locators": [],
                     "xrefs": [
+                         "xref covetousness (abhijjhā)",
                          "xref envy (issā)"
                     ]
                },
@@ -50807,6 +50827,12 @@ export const indexObject ={
                "wisdom": {
                     "locators": [
                          "SN1.13"
+                    ],
+                    "xrefs": []
+               },
+               "four sources of": {
+                    "locators": [
+                         "SN1.26"
                     ],
                     "xrefs": []
                }
@@ -55691,6 +55717,12 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
+               "shielding": {
+                    "locators": [
+                         "SN1.24"
+                    ],
+                    "xrefs": []
+               },
                "counter_value": 5
           },
           "mind contact (manosamphassa)": {
@@ -58869,6 +58901,7 @@ export const indexObject ={
                },
                "ceasing": {
                     "locators": [
+                         "SN1.27",
                          "Snp5.2"
                     ],
                     "xrefs": []
@@ -83386,6 +83419,12 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
+               "turning back": {
+                    "locators": [
+                         "SN1.27"
+                    ],
+                    "xrefs": []
+               },
                "counter_value": 2
           },
           "strength": {
@@ -85062,6 +85101,14 @@ export const indexObject ={
                     "xrefs": [
                          "xref touches (phoṭṭhabba)"
                     ]
+               }
+          },
+          "tangle (jaṭā)": {
+               "who can untangle the world": {
+                    "locators": [
+                         "SN1.23"
+                    ],
+                    "xrefs": []
                }
           },
           "taṇha": {

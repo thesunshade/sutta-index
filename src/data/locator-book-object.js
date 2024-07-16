@@ -22990,6 +22990,46 @@ export const locatorBookObject ={
       "struck by, living as if"
     ],
     [
+      "SN1.22",
+      "dust",
+      "thrown into wind, simile for harming pure person"
+    ],
+    [
+      "SN1.23",
+      "tangle (jaṭā)",
+      "who can untangle the world"
+    ],
+    [
+      "SN1.24",
+      "mind (mano)",
+      "shielding"
+    ],
+    [
+      "SN1.25",
+      "arahants",
+      "using the word “I” and “me” skillfully"
+    ],
+    [
+      "SN1.25",
+      "conceit (māna)",
+      "using the word “I” and “me” skillfully"
+    ],
+    [
+      "SN1.26",
+      "light",
+      "four sources of"
+    ],
+    [
+      "SN1.27",
+      "name and form (nāma rūpa)",
+      "ceasing"
+    ],
+    [
+      "SN1.27",
+      "streams (saritā)",
+      "turning back"
+    ],
+    [
       "SN1.32",
       "giving (dāna)",
       "by bad person"

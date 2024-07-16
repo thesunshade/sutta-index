@@ -25,7 +25,7 @@ export const indexObject =[
      ],
      [
           "arahants",
-          79
+          80
      ],
      [
           "speech",
@@ -624,6 +624,10 @@ export const indexObject =[
           20
      ],
      [
+          "conceit (māna)",
+          20
+     ],
+     [
           "celibacy",
           20
      ],
@@ -653,10 +657,6 @@ export const indexObject =[
      ],
      [
           "few wishes (appiccha)",
-          19
-     ],
-     [
-          "conceit (māna)",
           19
      ],
      [
@@ -744,6 +744,10 @@ export const indexObject =[
           17
      ],
      [
+          "name and form (nāma rūpa)",
+          17
+     ],
+     [
           "greed, hatred, delusion",
           17
      ],
@@ -813,10 +817,6 @@ export const indexObject =[
      ],
      [
           "renunciation (nekkhamma)",
-          16
-     ],
-     [
-          "name and form (nāma rūpa)",
           16
      ],
      [
@@ -1836,6 +1836,10 @@ export const indexObject =[
           8
      ],
      [
+          "light",
+          8
+     ],
+     [
           "leaves",
           8
      ],
@@ -2189,10 +2193,6 @@ export const indexObject =[
      ],
      [
           "logic (takka)",
-          7
-     ],
-     [
-          "light",
           7
      ],
      [
@@ -2616,6 +2616,10 @@ export const indexObject =[
           6
      ],
      [
+          "mind (mano)",
+          6
+     ],
+     [
           "men",
           6
      ],
@@ -3032,10 +3036,6 @@ export const indexObject =[
           5
      ],
      [
-          "mind (mano)",
-          5
-     ],
-     [
           "middle path (majjhimā paṭipadā)",
           5
      ],
@@ -3409,6 +3409,10 @@ export const indexObject =[
      ],
      [
           "strong person",
+          4
+     ],
+     [
+          "streams (saritā)",
           4
      ],
      [
@@ -3796,6 +3800,10 @@ export const indexObject =[
           4
      ],
      [
+          "dust",
+          4
+     ],
+     [
           "dreams",
           4
      ],
@@ -4121,10 +4129,6 @@ export const indexObject =[
      ],
      [
           "striving (ussāha)",
-          3
-     ],
-     [
-          "streams (saritā)",
           3
      ],
      [
@@ -4805,10 +4809,6 @@ export const indexObject =[
      ],
      [
           "eggs",
-          3
-     ],
-     [
-          "dust",
           3
      ],
      [
@@ -7505,6 +7505,10 @@ export const indexObject =[
      ],
      [
           "Tapussa and Bhallika, merchants",
+          1
+     ],
+     [
+          "tangle (jaṭā)",
           1
      ],
      [
