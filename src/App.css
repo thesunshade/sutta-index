@@ -856,8 +856,12 @@ tr:nth-child(even) {
   margin: 0 0 .5rem 0;
 }
 
-.link-list.string-start:empty {
+.link-list:empty {
   padding: 0;
+}
+
+strong {
+  font-weight: 900;
 }
 
 .dark .link-list {

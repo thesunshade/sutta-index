@@ -14240,7 +14240,8 @@ export const indexObject ={
                },
                "giving up": {
                     "locators": [
-                         "SN1.9"
+                         "SN1.9",
+                         "SN1.20"
                     ],
                     "xrefs": []
                }
@@ -21376,6 +21377,12 @@ export const indexObject ={
                          "SN35.70"
                     ],
                     "xrefs": []
+               },
+               "compared to sense pleasures": {
+                    "locators": [
+                         "SN1.20"
+                    ],
+                    "xrefs": []
                }
           },
           "Dhammadinna, lay follower": {
@@ -23077,6 +23084,12 @@ export const indexObject ={
                "Buddha does not dispute with world": {
                     "locators": [
                          "SN22.94"
+                    ],
+                    "xrefs": []
+               },
+               "“I’m better”, “I’m equal”, “I’m worse”": {
+                    "locators": [
+                         "SN1.20"
                     ],
                     "xrefs": []
                },
@@ -40594,6 +40607,7 @@ export const indexObject ={
                },
                "how to live": {
                     "locators": [
+                         "SN1.21",
                          "SN22.95"
                     ],
                     "xrefs": []
@@ -43780,6 +43794,14 @@ export const indexObject ={
                     ],
                     "xrefs": []
                }
+          },
+          "huts": {
+               "": {
+                    "locators": [],
+                    "xrefs": [
+                         "xref kuṭis"
+                    ]
+               }
           }
      },
      "I": {
@@ -43864,6 +43886,12 @@ export const indexObject ={
                "kinds of discrimination": {
                     "locators": [
                          "SN45.162"
+                    ],
+                    "xrefs": []
+               },
+               "arguments": {
+                    "locators": [
+                         "SN1.20"
                     ],
                     "xrefs": []
                }
@@ -44071,6 +44099,12 @@ export const indexObject ={
                "cause of": {
                     "locators": [
                          "SN41.3"
+                    ],
+                    "xrefs": []
+               },
+               "giving up as if head were on fire": {
+                    "locators": [
+                         "SN1.21"
                     ],
                     "xrefs": []
                }
@@ -46704,7 +46738,7 @@ export const indexObject ={
                          "xref first jhāna",
                          "xref fourth jhāna",
                          "xref meditation (jhāyati)",
-                         "xref right concentration (sammā samadhi)",
+                         "xref right concentration (sammā samādhi)",
                          "xref second jhāna",
                          "xref third jhāna"
                     ]
@@ -46950,7 +46984,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "in definition of right concentration (sammā samadhi)": {
+               "in definition of right concentration (sammā samādhi)": {
                     "locators": [
                          "MN141"
                     ],
@@ -49216,6 +49250,12 @@ export const indexObject ={
                "attachment to": {
                     "locators": [
                          "Thag1.57"
+                    ],
+                    "xrefs": []
+               },
+               "metaphor for mother": {
+                    "locators": [
+                         "SN1.19"
                     ],
                     "xrefs": []
                }
@@ -59170,6 +59210,14 @@ export const indexObject ={
                     "xrefs": [
                          "xref neutral feelings (adukkhamasukhaṁ vedanā)"
                     ]
+               }
+          },
+          "nest": {
+               "metaphor for wife": {
+                    "locators": [
+                         "SN1.19"
+                    ],
+                    "xrefs": []
                }
           },
           "neutral feelings (adukkhamasukhaṁ vedanā)": {
@@ -72618,7 +72666,7 @@ export const indexObject ={
                     "xrefs": []
                }
           },
-          "right concentration (sammā samadhi)": {
+          "right concentration (sammā samādhi)": {
                "": {
                     "locators": [],
                     "xrefs": [
@@ -72983,11 +73031,11 @@ export const indexObject ={
                     "xrefs": []
                }
           },
-          "right immersion (sammā samadhi)": {
+          "right immersion (sammā samādhi)": {
                "": {
                     "locators": [],
                     "xrefs": [
-                         "xref right concentration (sammā samadhi)"
+                         "xref right concentration (sammā samādhi)"
                     ]
                }
           },
@@ -74540,6 +74588,12 @@ export const indexObject ={
                "asking about Māra": {
                     "locators": [
                          "SN35.65"
+                    ],
+                    "xrefs": []
+               },
+               "deva tells to enjoy sense pleasures": {
+                    "locators": [
+                         "SN1.20"
                     ],
                     "xrefs": []
                }
@@ -77468,6 +77522,12 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
+               "giving up as if head were on fire": {
+                    "locators": [
+                         "SN1.21"
+                    ],
+                    "xrefs": []
+               },
                "counter_value": 2
           },
           "sense doors, guarding (indriyesu guttadvāra)": {
@@ -78247,6 +78307,18 @@ export const indexObject ={
                "heavenly compared to human": {
                     "locators": [
                          "SN55.54"
+                    ],
+                    "xrefs": []
+               },
+               "apparent in the present": {
+                    "locators": [
+                         "SN1.20"
+                    ],
+                    "xrefs": []
+               },
+               "encouraging someone to enjoy": {
+                    "locators": [
+                         "SN1.20"
                     ],
                     "xrefs": []
                }
@@ -84532,6 +84604,12 @@ export const indexObject ={
                          "AN7.72"
                     ],
                     "xrefs": []
+               },
+               "struck by, living as if": {
+                    "locators": [
+                         "SN1.21"
+                    ],
+                    "xrefs": []
                }
           },
           "sympathetic joy": {
@@ -86144,6 +86222,12 @@ export const indexObject ={
                "passes quickly": {
                     "locators": [
                          "SN1.4"
+                    ],
+                    "xrefs": []
+               },
+               "sense pleasures take time": {
+                    "locators": [
+                         "SN1.20"
                     ],
                     "xrefs": []
                }
@@ -93548,6 +93632,12 @@ export const indexObject ={
                "best type of": {
                     "locators": [
                          "SN1.14"
+                    ],
+                    "xrefs": []
+               },
+               "like nest": {
+                    "locators": [
+                         "SN1.19"
                     ],
                     "xrefs": []
                }

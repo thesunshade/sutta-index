@@ -14,6 +14,19 @@ export default function SearchResults(props) {
     }
   }
 
+  function highlight(string, searchText) {
+    // Escape special characters in the searchText to avoid issues with the RegExp
+    const escapedSearchText = searchText.replace(/[-\/\\^$*+?.()|[\]{}]/g, "\\$&");
+
+    // Create a regular expression with the escaped searchText
+    const regex = new RegExp(`(${escapedSearchText})`, "gi");
+
+    // Replace the matching text with the same text enclosed in <strong> tags
+    const highlightedString = string.replace(regex, "<strong>$1</strong>");
+
+    return highlightedString;
+  }
+
   if (searchText.length >= 2) {
     document.getElementById("search-results").classList.remove("hidden");
   }
@@ -48,7 +61,7 @@ export default function SearchResults(props) {
                     document.getElementById(makeNormalizedId(headword)).scrollIntoView(true);
                     window.history.pushState({ page: 1 }, "foo", "#" + makeNormalizedId(headword));
                   }}>
-                  <li>{headword}</li>
+                  <li dangerouslySetInnerHTML={{ __html: highlight(headword, searchText) }} />
                 </span>
               );
             }
@@ -79,7 +92,7 @@ export default function SearchResults(props) {
                     document.getElementById(makeNormalizedId(headword)).scrollIntoView(true);
                     window.history.pushState({ page: 1 }, "foo", "#" + makeNormalizedId(headword));
                   }}>
-                  <li>{headword}</li>
+                  <li dangerouslySetInnerHTML={{ __html: highlight(headword, searchText) }} />
                 </span>
               );
             }

@@ -7269,7 +7269,7 @@ export const locatorBookObject ={
     ],
     [
       "MN44",
-      "right concentration (sammā samadhi)",
+      "right concentration (sammā samādhi)",
       "aggregate of concentration (samādhikkhandha)"
     ],
     [
@@ -21245,7 +21245,7 @@ export const locatorBookObject ={
     [
       "MN141",
       "jhānas",
-      "in definition of right concentration (sammā samadhi)"
+      "in definition of right concentration (sammā samādhi)"
     ],
     [
       "MN141",
@@ -21364,7 +21364,7 @@ export const locatorBookObject ={
     ],
     [
       "MN141",
-      "right concentration (sammā samadhi)",
+      "right concentration (sammā samādhi)",
       "definition"
     ],
     [
@@ -22269,7 +22269,7 @@ export const locatorBookObject ={
     ],
     [
       "MN149",
-      "right concentration (sammā samadhi)",
+      "right concentration (sammā samādhi)",
       "when truly knowing and seeing"
     ],
     [
@@ -22910,9 +22910,84 @@ export const locatorBookObject ={
       "constrained by whip, simile for conscience"
     ],
     [
+      "SN1.19",
+      "kuṭis",
+      "metaphor for mother"
+    ],
+    [
+      "SN1.19",
+      "nest",
+      "metaphor for wife"
+    ],
+    [
+      "SN1.19",
+      "wives",
+      "like nest"
+    ],
+    [
+      "SN1.20",
+      "“I’m better”, “I’m equal”, “I’m worse”",
+      "arguments"
+    ],
+    [
+      "SN1.20",
+      "conceit (māna)",
+      "giving up"
+    ],
+    [
       "SN1.20",
       "death (maraṇa)",
       ""
+    ],
+    [
+      "SN1.20",
+      "Dhamma visible here and now (sandiṭṭhika)",
+      "compared to sense pleasures"
+    ],
+    [
+      "SN1.20",
+      "disputes (vivadati)",
+      "“I’m better”, “I’m equal”, “I’m worse”"
+    ],
+    [
+      "SN1.20",
+      "Samiddhi, Ven.",
+      "deva tells to enjoy sense pleasures"
+    ],
+    [
+      "SN1.20",
+      "sense pleasures (kāma, kāmaguṇa)",
+      "apparent in the present"
+    ],
+    [
+      "SN1.20",
+      "sense pleasures (kāma, kāmaguṇa)",
+      "encouraging someone to enjoy"
+    ],
+    [
+      "SN1.20",
+      "time",
+      "sense pleasures take time"
+    ],
+    [
+      "SN1.21",
+      "head on fire",
+      "how to live"
+    ],
+    [
+      "SN1.21",
+      "identity view (sakkāyadiṭṭhi)",
+      "giving up as if head were on fire"
+    ],
+    [
+      "SN1.21",
+      "sense desire (kāmarāga)",
+      "giving up as if head were on fire"
+    ],
+    [
+      "SN1.21",
+      "swords",
+      "struck by, living as if"
     ],
     [
       "SN1.32",
@@ -35296,7 +35371,7 @@ export const locatorBookObject ={
     ],
     [
       "SN45.8",
-      "right concentration (sammā samadhi)",
+      "right concentration (sammā samādhi)",
       "definition"
     ],
     [
@@ -48588,7 +48663,7 @@ export const locatorBookObject ={
     ],
     [
       "AN4.29",
-      "right concentration (sammā samadhi)",
+      "right concentration (sammā samādhi)",
       "as footprint of the Dhamma"
     ],
     [
@@ -52248,27 +52323,27 @@ export const locatorBookObject ={
     ],
     [
       "AN5.28",
-      "right concentration (sammā samadhi)",
+      "right concentration (sammā samādhi)",
       "five factors"
     ],
     [
       "AN5.28",
-      "right concentration (sammā samadhi)",
+      "right concentration (sammā samādhi)",
       "like chariot and charioteer"
     ],
     [
       "AN5.28",
-      "right concentration (sammā samadhi)",
+      "right concentration (sammā samādhi)",
       "like lotus pond filled to brim"
     ],
     [
       "AN5.28",
-      "right concentration (sammā samadhi)",
+      "right concentration (sammā samādhi)",
       "like water jar filled to brim"
     ],
     [
       "AN5.28",
-      "right concentration (sammā samadhi)",
+      "right concentration (sammā samādhi)",
       "psychic powers"
     ],
     [
@@ -56733,7 +56808,7 @@ export const locatorBookObject ={
     ],
     [
       "AN6.50",
-      "right concentration (sammā samadhi)",
+      "right concentration (sammā samādhi)",
       "as condition for true knowledge and vision"
     ],
     [
@@ -59813,12 +59888,12 @@ export const locatorBookObject ={
     ],
     [
       "AN7.65",
-      "right concentration (sammā samadhi)",
+      "right concentration (sammā samādhi)",
       "condition for true knowledge and vision"
     ],
     [
       "AN7.65",
-      "right concentration (sammā samadhi)",
+      "right concentration (sammā samādhi)",
       "lack of prevents true knowledge and vision"
     ],
     [
@@ -63683,12 +63758,12 @@ export const locatorBookObject ={
     ],
     [
       "AN8.81",
-      "right concentration (sammā samadhi)",
+      "right concentration (sammā samādhi)",
       "condition for true knowledge and vision"
     ],
     [
       "AN8.81",
-      "right concentration (sammā samadhi)",
+      "right concentration (sammā samādhi)",
       "conditioned by virtue"
     ],
     [
