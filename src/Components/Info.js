@@ -30,7 +30,7 @@ export default function Info() {
           <p>
             First, look things up by <em>noun</em> followed by an <em>adjective</em>. If that doesn't work, then try the adjective.
           </p>
-          <p>In some instances, a specific word may be indexed but not appear in the sutta. </p>
+          <p>Checking cross references is essential. If you don't find what you need always check cross references. </p>
           <p>
             For the sake of simplicity, the grammar of head and sub words may not always match. For example, <i>energetic, as protector</i> might be more accurately written as <i>energetic, being as protector</i>, which more verbosely would be written as <i>energetic, being energetic serves as a protector.</i>
           </p>

@@ -1569,30 +1569,6 @@ speech	restraint	DN2
 speech	useless: definition	DN2
 loving-kindness (mettā)	like a conch blower	DN13
 loving-kindness (mettā)	as a path to brahma world	DN13
-death (maraṇa)	danger of	SN1.3
-death (maraṇa)	danger of	SN1.4
-death (maccu)	realm of death (maccudheyya)	SN1.9
-death (maraṇa)		SN1.20
-giving (dāna)	by bad person	SN1.32
-giving (dāna)	levels of	SN1.32
-giving (dāna)	result of	SN1.32
-stinginess (maccharī)		SN1.32
-giving (dāna)	faith and giving	SN1.33
-giving (dāna)	smallest gift has value	SN1.33
-stinginess (maccharī)		SN1.33
-death (maccu)	realm of death (maccudheyya)	SN1.34
-death (maccu)	realm of death (maccudheyya)	SN1.38
-giving (dāna)	cause for rebirth	SN1.41
-giving (dāna)	as good use of wealth	SN1.41
-giving (dāna)	what to give	SN1.41
-giving (dāna)	faith and giving	SN1.43
-giving (dāna)	result of	SN1.43
-stinginess (maccharī)	overcome for sake of next world	SN1.43
-generosity (cāga)	cause for rebirth	SN1.49
-generosity (cāga)	as cause for wealth	SN1.49
-death (maraṇa)	world beaten down by	SN1.66
-death (maccu)	has the world fastened shut	SN1.67
-speech	good and bad	SN1.78
 death (maraṇa)	danger of	SN2.19
 giving (dāna)	faith and giving	SN2.23
 giving (dāna)	result of	SN2.23
@@ -1730,7 +1706,8 @@ Saṅgha	field of merit	Kp7
 departed relatives	honoring	Kp7
 departed relatives	duty towards	Kp7
 merit (puñña)	taken to next life	Kp8
-money	saving	Kp8
+money	savings	Kp8
+savings		xref money
 heirs (dāyāda)	stealing money	Kp8
 giving (dāna)	to protect wealth	Kp8
 virtue (sīla)	as merit	Kp8
@@ -2144,7 +2121,7 @@ sexual misconduct	result	Dhp309
 sexual misconduct	result	Dhp310
 monastic life	wrongly practiced	Dhp311
 monastic life	like kusa grass	Dhp311
-kusa grass	simile for monastic life	Dhp311
+kusa grass	grasping, simile for monastic life	Dhp311
 monastic life	wrongly practiced	Dhp313
 self-guarding	like a citadel	Dhp315
 shame	should and should not be ashamed of	Dhp316
@@ -3446,6 +3423,7 @@ monastic life	living with the Saṅgha	Thag3.11
 Dhamma teaching	to ones family	Thag3.13
 rebirth	in various realms	Thag3.14
 talking without doing	wise recognize one	Thag3.15
+promises	keeping	Thag3.15
 association	with fools like floating on a small log at sea	Thag3.16
 women	danger for monks	Thag4.1
 walking meditation	to overcome drowsiness	Thag4.2
@@ -4906,14 +4884,14 @@ Assaji, Ven.	speaking with Saccaka Nigaṇṭhaputta	MN35
 Buddha, the	debating with	MN35
 debates	like tossing around sheep, strainer, etc.	MN35
 Buddha, the	how he teaches	MN35
-aggregates (khandha)	as impermanent, suffering, not self	MN35
+aggregates	as impermanent, suffering, not self	MN35
 conditions (saṅkāra)	impermanent	MN35
 things (dhamma)	not self	MN35
 plants	simile for self in aggregates	MN35
 seeds	simile for self in aggregates	MN35
-aggregates (khandha)	as self	MN35
+aggregates	as self	MN35
 kings (rāja)	simile for control over aggregates as self	MN35
-aggregates (khandha)	not like king controlling kingdom	MN35
+aggregates	not like king controlling kingdom	MN35
 Vajirapāṇī 	threatening to strike with thunderbolt	MN35
 questions, answering	not answering and head exploding	MN35
 “This is mine, I am this, this is my self”	clinging to suffering	MN35
@@ -8938,6 +8916,7 @@ bad actions	doing because of vanity of youth, health, life	AN3.39
 determination	putting oneself in charge	AN3.40
 Dhamma	putting the Dhamma in charge	AN3.40
 mind reading	guarding ones behaviour for fear of mind readers	AN3.40
+devas	watching people’s behaviour	AN3.40
 giving (dāna)	faith and giving	AN3.41
 giving (dāna)	worthy of gifts	AN3.41
 giving (dāna)	conditions for	AN3.41
@@ -8970,7 +8949,10 @@ brahmins	wasted their lives	AN3.52
 old age (jarā)	regret at end of life over not practicing	AN3.52
 regret	over life poorly lived	AN3.52
 life	wasted	AN3.52
+old age (jarā)	world on fire with	AN3.52
+death (maraṇa)	world on fire with	AN3.52
 giving (dāna)	like rescuing pot from fire	AN3.52
+pots	rescuing from fire, simile for giving	AN3.52
 giving (dāna)	protects our next life	AN3.52
 Dhamma visible here and now (sandiṭṭhika)	definition	AN3.53
 unwholesome roots (rāga, dosa, moha)	revealing “visible here and now” quality of the Dhamma	AN3.53
@@ -11142,6 +11124,7 @@ definitive (ekaṁsena) statements	about Devadatta	AN6.62
 Devadatta	like person fallen into sewer	AN6.62
 Buddha, the	knowing the minds of others	AN6.62
 psychic powers (iddhi)	knowing the minds of others	AN6.62
+hell (niraya)	not metaphorical	AN6.62
 faculties of individuals (purisindriya)	analysis of	AN6.63
 sense pleasures (kāma, kāmaguṇa)	definition	AN6.63
 feelings (vedanā)	definition	AN6.63
@@ -14022,7 +14005,7 @@ offences against monastic rules (āpatti)	committing as result of criticizing	AN
 overestimation (adhimāna)	criticizing noble ones	AN10.88
 sickness	from criticizing noble ones	AN10.88
 mental illness	from criticizing noble ones	AN10.88
-Kokālika	criticizes chief disciples	AN10.89
+Kokālika, Ven.	criticizes chief disciples	AN10.89
 criticizing noble ones	result of	AN10.89
 Tudu the independent brahmā	warning Kokālika	AN10.89
 non-returner (anāgāmi)	wrong idea that they cannot visit other worlds	AN10.89
@@ -18730,6 +18713,7 @@ consciousness (viññāṇa)	finishing of	SN1.2
 delight (nandi)	in becoming	SN1.2
 fear (bhaya)	in death	SN1.3
 death (maraṇa)	reason to do merit and practice	SN1.3
+death (maraṇa)	danger of	SN1.4
 merit (puñña)	death and old age as encouragement to do	SN1.3
 old age (jarā)	reason to do merit	SN1.3
 bait	dropping the world’s	SN1.3
@@ -18738,6 +18722,7 @@ time		xref urgency
 bait	dropping the world’s	SN1.4
 urgency	for practice	SN1.4
 death (maraṇa)	reason to do merit and practice	SN1.4
+death (maraṇa)	danger of	SN1.4
 time	passes quickly	SN1.4
 flood crossing	how to	SN1.5
 waking up	as metaphor for enlightenment	SN1.7
@@ -18745,6 +18730,7 @@ waking up	as metaphor for enlightenment	SN1.8
 confused (susammuṭṭha)	about the Dhamma	SN1.8
 conceit (māna)	giving up	SN1.9
 wilderness (arañña)	living diligent in	SN1.9
+death (maccu)	realm of death (maccudheyya)	SN1.9
 wilderness (arañña)	living in beneficial	SN1.10
 fools (bāla)	like reed mowed down	SN1.10
 reeds	simile for fool longing for future	SN1.10
@@ -18783,6 +18769,7 @@ time	sense pleasures take time	SN1.20
 “I’m better”, “I’m equal”, “I’m worse”	arguments	SN1.20
 disputes (vivadati)	“I’m better”, “I’m equal”, “I’m worse”	SN1.20
 conceit (māna)	giving up	SN1.20
+death (maccu)	yoke of	SN1.20
 head on fire	how to live	SN1.21
 swords	struck by, living as if	SN1.21
 sense desire (kāmarāga)	giving up as if head were on fire	SN1.21
@@ -18794,6 +18781,230 @@ arahants	using the word “I” and “me” skillfully	SN1.25
 conceit (māna)	using the word “I” and “me” skillfully	SN1.25
 covetousness (abhijjhā)		xref jealousy (issā)
 jealousy (issā)		xref covetousness (abhijjhā)
+greedy (luddha)		xref stinginess (maccharī)
+stinginess (maccharī)		xref greedy (luddha)
 light	four sources of	SN1.26
+light	Buddha is best	SN1.26
+Buddha, the	best of lights	SN1.26
 name and form (nāma rūpa)	ceasing	SN1.27
 streams (saritā)	turning back	SN1.27
+suffering (dukkha)	release from	SN1.30
+sense pleasures (kāma, kāmaguṇa)	desire for	SN1.30
+mind (mano)	desire for	SN1.30
+association	with good people	SN1.31
+stinginess (maccharī)	prevents giving	SN1.32
+heedlessness (pamāda)	prevents giving	SN1.32
+giving (dāna)	prevented by stinginess, heedlessness, fear	SN1.32
+fear (bhaya)	prevents giving	SN1.32
+giving (dāna)	when you have little	SN1.32
+giving (dāna)	what is hard to give	SN1.32
+giving (dāna)	by bad person	SN1.32
+giving (dāna)	levels of	SN1.32
+giving (dāna)	result of	SN1.32
+wealthy people	not giving	SN1.32
+wives	supporting 	SN1.32
+giving (dāna)	having killed	SN1.32
+killing	in order to give	SN1.32
+giving (dāna)	hoping for merit	SN1.33
+giving (dāna)	small amount	SN1.33
+wealthy people	not giving	SN1.33
+warfare	similar to giving	SN1.33
+giving (dāna)	similar to warfare	SN1.33
+wealth	righteously earned	SN1.33
+giving (dāna)	faith and giving	SN1.33
+giving (dāna)	smallest gift has value	SN1.33
+seeds	simile for giving	SN1.33
+Dhamma	better than giving	SN1.33
+sense pleasures (kāma, kāmaguṇa)	impermanent	SN1.34
+desire (chanda)	cause of suffering	SN1.34
+intention (saṅkappa)	greedy	SN1.34
+death (maccu)	realm of death (maccudheyya)	SN1.34
+talking without doing	wise recognize one	SN1.35
+gamblers	simile for pretending to be something else	SN1.35
+promises	keeping	SN1.35
+asking forgiveness	example of	SN1.35
+forgiving	one who asks for forgiveness	SN1.35
+confession	accepting	SN1.35
+faith (saddhā)	as partner	SN1.36
+pure abodes (suddhāvāsā)	gods of reciting verses	SN1.37
+charioteers	simile for mendicant guarding senses	SN1.37
+faculties, sense (indriya)	guarding, like charioteer	SN1.37
+pillars	pulled up	SN1.37
+refuge (saraṇa)	leads to heaven	SN1.37
+splinter (sakalikā)	in Buddha’s foot	SN1.38
+death (maccu)	realm of death (maccudheyya)	SN1.38
+suffering (dukkha)	enduring	SN1.38
+Buddha, the	enduring pain	SN1.38
+Buddha, the	praise of	SN1.38
+mortification (tapas)	not effective	SN1.38
+Kokanadā, deva	noble disciple	SN1.39
+Dhamma	criticizing	SN1.39
+hell (niraya)	result of criticizing Dhamma	SN1.39
+Kokanadā, deva	Dhamma in brief	SN1.40
+Dhamma	in brief: from a deva	SN1.40
+giving (dāna)	like rescuing pot from fire	SN1.41
+pots	rescuing from fire, simile for giving	SN1.41
+giving (dāna)	protects our next life	SN1.41
+giving (dāna)	to protect wealth	SN1.41
+old age (jarā)	world on fire with	SN1.41
+death (maraṇa)	world on fire with	SN1.41
+giving (dāna)	cause for rebirth	SN1.41
+giving (dāna)	as good use of wealth	SN1.41
+giving (dāna)	what to give	SN1.41
+giving (dāna)		xref gift of the teaching (dhammadāna)
+strength	by giving food	SN1.42
+food	giving gives strength	SN1.42
+beauty (vaṇṇa)	by giving clothes	SN1.42
+clothes	giving gives beauty	SN1.42
+vehicles	giving gives happiness	SN1.42
+happiness (sukha)	by giving vehicles	SN1.42
+vision (cakkhu)	by giving lamp	SN1.42
+oil lamps	giving gives vision	SN1.42
+dwellings (upassaya)	giving gives all	SN1.42
+giving (dāna)	Dhamma gives freedom from death	SN1.42
+giving (dāna)	faith and giving	SN1.43
+giving (dāna)	result of	SN1.43
+stinginess (maccharī)	overcome for sake of next world	SN1.43
+Buddha, the	praise of	SN1.45
+chariots	simile for spiritual path	SN1.46
+mindfulness (sati)	like upholstery	SN1.46
+vehicles	simile for spiritual path	SN1.46
+merit (puñña)	growing day and night	SN1.47
+trees	planting, merit grows day and night	SN1.47
+park (ārāma)	planting, merit grows day and night	SN1.47
+forest	planting, merit grows day and night	SN1.47
+bridges	building, merit grows day and night	SN1.47
+wells (udapāna)	building, merit grows day and night	SN1.47
+dwellings (upassaya)	giving, merit grows day and night	SN1.47
+heaven (sagga)	cause for rebirth in	SN1.47
+Anāthapiṇḍika, householder	as deva praising Jeta’s grove and Ven. Sāriputta	SN1.48
+Jeta’s Grove	praised by god Anāthapiṇḍika	SN1.48
+Sāriputta, Ven.	praise of	SN1.48
+generosity (cāga)	cause for rebirth	SN1.49
+generosity (cāga)	as cause for wealth	SN1.49
+stinginess (maccharī)	rebirth in hell	SN1.49
+insulting (paribhāsati)	rebirth in hell	SN1.49
+giving (dāna)	preventing	SN1.49
+hell (niraya)	cause for rebirth in	SN1.49
+poverty	as a result of not giving	SN1.49
+confidence (pasāda)	in triple gem	SN1.49
+wealthy people	cause for rebirth as	SN1.49
+Ghaṭīkāra, householder	reborn as deva	SN1.50
+celibacy	laypeople	SN1.50
+old age (jarā)	virtue good in	SN1.51
+virtue (sīla)	good in old age	SN1.51
+faith (saddhā)	good when grounded	SN1.51
+wisdom (paññā)	treasure	SN1.51
+merit (puñña)	thieves can’t take	SN1.51
+thieves (cora)	cannot steal merit	SN1.51
+faith (saddhā)	good when secure	SN1.52
+wisdom (paññā)	treasure	SN1.52
+merit (puñña)	thieves can’t take	SN1.52
+thieves (cora)	cannot steal merit	SN1.52
+virtue (sīla)	doesn’t get old	SN1.52
+mothers	friend at home	SN1.53
+friends	in time of need	SN1.53
+merit (puñña)	friend in next life	SN1.53
+future lives	merit is friend in	SN1.53
+children	support for humans	SN1.54
+wives	best companion	SN1.54
+rain	supports creatures on earth	SN1.54
+death		xref life
+craving (taṇha)	gives birth to a person	SN1.55
+mind (citta)	runs about	SN1.55
+saṁsāra	being enters	SN1.55
+fear (bhaya)	greatest is suffering	SN1.55
+suffering (dukkha)	greatest fear	SN1.55
+actions (kamma)	destiny	SN1.57
+lust (rāga)	deviation; wrong path	SN1.58
+life	ending day and night	SN1.58
+celibacy	stain of	SN1.58
+celibacy	waterless bath	SN1.58
+mortification (tapas)	waterless bath	SN1.58
+faith (saddhā)	partner	SN1.59
+nibbāna	delight in	SN1.59
+poetry	metre, syllables	SN1.60
+name (nāma)	has everything under its sway	SN1.61
+mind (citta)	has everything under its sway	SN1.62
+craving (taṇha)	has everything under its sway	SN1.63
+world (loka)	delight fetters	SN1.64
+delight (nandi)	fetters the world	SN1.64
+delight (nandi)	binds the world	SN1.65
+world (loka)	beaten down by death	SN1.66
+death (maraṇa)	world beaten down by	SN1.66
+world (loka)	craving has trapped	SN1.67
+death (maccu)	has the world fastened shut	SN1.67
+world (loka)	arisen in six	SN1.70
+killing	anger should be killed	SN1.71
+anger (kodha)	should be killed	SN1.71
+anger (kodha)	poisoned tip, honey root	SN1.71
+honey	root of anger	SN1.71
+poisons	tip of anger	SN1.71
+husbands	token of woman	SN1.72
+women	husband is token of	SN1.72
+faith (saddhā)	wealth	SN1.73
+Dhamma	brings happiness	SN1.73
+truth (sacca)	sweetest taste	SN1.73
+wisdom (paññā)	best life living by	SN1.73
+knowledge (vijjā)	best of things that rise	SN1.74
+ignorance (avijjā)	best thing that falls	SN1.74
+Saṅgha	best thing that goes forth	SN1.74
+Buddha, the	best speaker	SN1.74
+fear (bhaya)	how to not fear next life	SN1.75
+women	stain of celibacy	SN1.76
+life	ending day and night	SN1.76
+celibacy	waterless bath	SN1.76
+mortification (tapas)	waterless bath	SN1.76
+wealth	holes that wealth leaks out	SN1.76
+laziness (ālasya, anuṭṭhāna)	wealth leaks because of	SN1.76
+heedlessness (pamāda)	wealth leaks because of	SN1.76
+restraint	lack of leaks wealth	SN1.76
+sleep	wealth leaks because of	SN1.76
+women	best of valuables	SN1.77
+anger (kodha)	rusty sword	SN1.77
+thieves (cora)	plague on the world	SN1.77
+ascetics (samaṇa)	loved when they take things away	SN1.77
+astute person (paṇḍita)	approves of ascetics	SN1.77
+speech (vācā)	good and bad	SN1.78
+birds	caught in trap, simile for beings and desire	SN1.79
+wishing (iccha)	like birds caught in trap	SN1.79
+wisdom (paññā)	light	SN1.80
+rain	supports creatures on earth	SN1.80
+ascetics (samaṇa)	life of is not lost	SN1.81
+ascetics (samaṇa)	fully understand desire	SN1.81
+caste	khattiyas bow to low born ascetics	SN1.81
+ascetics (samaṇa)	transcending caste	SN1.81
+khattiyas	bow to ascetics of low caste	SN1.81
+devaputta		CUSTOM:SN:SN 2 Devaputta Saṁyutta:suttacentral.net/sn2
+advice	mendicants should train in good	SN2.1
+Kassapa, devaputta	discussion with Buddha	SN2.1
+Kassapa, devaputta	discussion with Buddha	SN2.2
+meditator	should know arising and passing	SN2.2
+killing	anger should be killed	SN2.3
+anger (kodha)	should be killed	SN2.3
+anger (kodha)	poisoned tip, honey root	SN2.3
+honey	root of anger	SN2.3
+poisons	tip of anger	SN2.3
+Māgha, devaputta	anger 	SN2.3
+Buddha, the	best of lights	SN2.4
+light	four sources of	SN2.4
+light	Buddha is best	SN2.4
+rivers	simile for saṁsara	SN2.5
+brahmin	like person crossing river	SN2.5
+far shore (pārima)	no longer need to strive	SN2.5
+hard to do (dukkara)	spiritual path	SN2.6
+hard to obtain (dullabha)	contentment	SN2.6
+contentment (tuṭṭhi)	hard to find in monastic life	SN2.6
+concentration (samādhi)	hard to do	SN2.6
+path (magga)	hard to follow	SN2.6
+noble ones (ariya)	path of is smooth	SN2.6
+noble ones (ariya)	smooth amid rough	SN2.6
+confinement (sambādha)	opening amid	SN2.7
+Tāyana, devaputta	encouraging striving	SN2.8
+stream, the (sota)	cut	SN2.8
+sense pleasures (kāma, kāmaguṇa)	dispel	SN2.8
+dust	lax monastic life stirs up	SN2.8
+striving (parakkama)	monastic life	SN2.8
+bad actions	better left undone	SN2.8
+kusa grass	grasping, simile for monastic life	SN2.8
+memorizing	teaching to be	SN2.8

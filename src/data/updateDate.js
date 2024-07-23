@@ -1,1 +1,1 @@
-export const updateDate ="16 July 2024, 6:57 PM"
+export const updateDate ="23 July 2024, 8:37 PM"
