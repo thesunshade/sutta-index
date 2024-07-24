@@ -12446,6 +12446,14 @@ export const indexObject ={
                     "xrefs": []
                }
           },
+          "Candima, devaputta": {
+               "caught by Rāhu": {
+                    "locators": [
+                         "SN2.9"
+                    ],
+                    "xrefs": []
+               }
+          },
           "Caṅkī, brahmin": {
                "visiting the Buddha": {
                     "locators": [
@@ -19178,6 +19186,12 @@ export const indexObject ={
                "simile for happy monastics": {
                     "locators": [
                          "MN89"
+                    ],
+                    "xrefs": []
+               },
+               "simile for meditator": {
+                    "locators": [
+                         "SN2.11"
                     ],
                     "xrefs": []
                }
@@ -32003,6 +32017,12 @@ export const indexObject ={
                          "Thag6.14"
                     ],
                     "xrefs": []
+               },
+               "simile for meditator": {
+                    "locators": [
+                         "SN2.11"
+                    ],
+                    "xrefs": []
                }
           },
           "fish hook": {
@@ -32096,6 +32116,12 @@ export const indexObject ={
                     "locators": [
                          "SN1.1",
                          "SN1.5"
+                    ],
+                    "xrefs": []
+               },
+               "who can cross": {
+                    "locators": [
+                         "SN2.15"
                     ],
                     "xrefs": []
                }
@@ -37229,6 +37255,12 @@ export const indexObject ={
                          "AN11.15"
                     ],
                     "xrefs": []
+               },
+               "worshiping arahants": {
+                    "locators": [
+                         "SN2.14"
+                    ],
+                    "xrefs": []
                }
           },
           "Gods Fair to See (sudassā devā)": {
@@ -41076,6 +41108,7 @@ export const indexObject ={
                "how to live": {
                     "locators": [
                          "SN1.21",
+                         "SN2.16",
                          "SN22.95"
                     ],
                     "xrefs": []
@@ -41103,6 +41136,13 @@ export const indexObject ={
                "from making false accusation": {
                     "locators": [
                          "AN9.11"
+                    ],
+                    "xrefs": []
+               },
+               "Rāhu": {
+                    "locators": [
+                         "SN2.9",
+                         "SN2.10"
                     ],
                     "xrefs": []
                }
@@ -44611,7 +44651,8 @@ export const indexObject ={
                },
                "giving up as if head were on fire": {
                     "locators": [
-                         "SN1.21"
+                         "SN1.21",
+                         "SN2.15"
                     ],
                     "xrefs": []
                }
@@ -58893,6 +58934,12 @@ export const indexObject ={
                          "SN56.38"
                     ],
                     "xrefs": []
+               },
+               "": {
+                    "locators": [],
+                    "xrefs": [
+                         "xref Candima, devaputta"
+                    ]
                }
           },
           "morality": {
@@ -60791,7 +60838,15 @@ export const indexObject ={
                          "CUSTOM:SN:MSN 45 Magga Saṁyutta:suttacentral.net/sn45"
                     ],
                     "xrefs": [
-                         "xref bodhipakkhiyā dhammā"
+                         "xref bodhipakkhiyā dhammā",
+                         "xref right action (sammā kammanta)",
+                         "xref right concentration (sammā samādhi)",
+                         "xref right effort (sammā vāyāma)",
+                         "xref right intention (sammā saṅkappa)",
+                         "xref right livelihood (sammā ājīva)",
+                         "xref right mindfulness (sammā sati)",
+                         "xref right speech (sammā vācā)",
+                         "xref right view (sammā diṭṭhi)"
                     ]
                },
                "as eight things": {
@@ -61939,7 +61994,8 @@ export const indexObject ={
                          "SN48.42",
                          "SN55.3",
                          "AN8.21",
-                         "AN8.22"
+                         "AN8.22",
+                         "AN10.89"
                     ],
                     "xrefs": []
                },
@@ -70167,6 +70223,20 @@ export const indexObject ={
                     ]
                }
           },
+          "Rāhu": {
+               "catching Candima": {
+                    "locators": [
+                         "SN2.9"
+                    ],
+                    "xrefs": []
+               },
+               "catching Sūriya": {
+                    "locators": [
+                         "SN2.10"
+                    ],
+                    "xrefs": []
+               }
+          },
           "Rāhula, Ven.": {
                "fortunate": {
                     "locators": [
@@ -71729,6 +71799,18 @@ export const indexObject ={
                     "locators": [
                          "SN1.37",
                          "SN40.10"
+                    ],
+                    "xrefs": []
+               },
+               "Candima seeking Buddha’s help": {
+                    "locators": [
+                         "SN2.9"
+                    ],
+                    "xrefs": []
+               },
+               "Sūriya seeking Buddha’s help": {
+                    "locators": [
+                         "SN2.10"
                     ],
                     "xrefs": []
                }
@@ -78354,7 +78436,8 @@ export const indexObject ={
                },
                "giving up as if head were on fire": {
                     "locators": [
-                         "SN1.21"
+                         "SN1.21",
+                         "SN2.16"
                     ],
                     "xrefs": []
                },
@@ -85204,6 +85287,12 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
+               "": {
+                    "locators": [],
+                    "xrefs": [
+                         "xref Sūriya, devaputta"
+                    ]
+               },
                "counter_value": 2
           },
           "Sunakkhatta, Ven.": {
@@ -85440,6 +85529,14 @@ export const indexObject ={
                     "xrefs": []
                }
           },
+          "Sūriya, devaputta": {
+               "caught by Rāhu": {
+                    "locators": [
+                         "SN2.10"
+                    ],
+                    "xrefs": []
+               }
+          },
           "Susīma, wanderer": {
                "stealing the Dhamma": {
                     "locators": [
@@ -85519,7 +85616,8 @@ export const indexObject ={
                },
                "struck by, living as if": {
                     "locators": [
-                         "SN1.21"
+                         "SN1.21",
+                         "SN2.15"
                     ],
                     "xrefs": []
                }
@@ -90775,6 +90873,13 @@ export const indexObject ={
                          "SN35.248"
                     ],
                     "xrefs": []
+               },
+               "speaking to Rāhu": {
+                    "locators": [
+                         "SN2.9",
+                         "SN2.10"
+                    ],
+                    "xrefs": []
                }
           },
           "Vepulla, mountain": {
@@ -92000,6 +92105,12 @@ export const indexObject ={
                "heaven and human world": {
                     "locators": [
                          "AN2.29"
+                    ],
+                    "xrefs": []
+               },
+               "definition": {
+                    "locators": [
+                         "SN2.14"
                     ],
                     "xrefs": []
                }

@@ -24125,6 +24125,101 @@ export const locatorBookObject ={
       "encouraging striving"
     ],
     [
+      "SN2.9",
+      "Candima, devaputta",
+      "caught by Rāhu"
+    ],
+    [
+      "SN2.9",
+      "head-splitting",
+      "Rāhu"
+    ],
+    [
+      "SN2.9",
+      "Rāhu",
+      "catching Candima"
+    ],
+    [
+      "SN2.9",
+      "refuge (saraṇa)",
+      "Candima seeking Buddha’s help"
+    ],
+    [
+      "SN2.9",
+      "Vepacitti, asura",
+      "speaking to Rāhu"
+    ],
+    [
+      "SN2.10",
+      "head-splitting",
+      "Rāhu"
+    ],
+    [
+      "SN2.10",
+      "Rāhu",
+      "catching Sūriya"
+    ],
+    [
+      "SN2.10",
+      "refuge (saraṇa)",
+      "Sūriya seeking Buddha’s help"
+    ],
+    [
+      "SN2.10",
+      "Sūriya, devaputta",
+      "caught by Rāhu"
+    ],
+    [
+      "SN2.10",
+      "Vepacitti, asura",
+      "speaking to Rāhu"
+    ],
+    [
+      "SN2.11",
+      "deer",
+      "simile for meditator"
+    ],
+    [
+      "SN2.11",
+      "fish",
+      "simile for meditator"
+    ],
+    [
+      "SN2.14",
+      "gods",
+      "worshiping arahants"
+    ],
+    [
+      "SN2.14",
+      "virtuous people",
+      "definition"
+    ],
+    [
+      "SN2.15",
+      "flood crossing",
+      "who can cross"
+    ],
+    [
+      "SN2.15",
+      "identity view (sakkāyadiṭṭhi)",
+      "giving up as if head were on fire"
+    ],
+    [
+      "SN2.15",
+      "swords",
+      "struck by, living as if"
+    ],
+    [
+      "SN2.16",
+      "head on fire",
+      "how to live"
+    ],
+    [
+      "SN2.16",
+      "sense desire (kāmarāga)",
+      "giving up as if head were on fire"
+    ],
+    [
       "SN2.19",
       "death (maraṇa)",
       "danger of"
@@ -25941,11 +26036,6 @@ export const locatorBookObject ={
     ],
     [
       "SN12.67",
-      "Dhamma teachers",
-      "definition, dependent origination"
-    ],
-    [
-      "SN12.67",
       "chance (adhicca)",
       "old age and death arising by"
     ],
@@ -25958,6 +26048,11 @@ export const locatorBookObject ={
       "SN12.67",
       "death (maraṇa)",
       "made by oneself or another"
+    ],
+    [
+      "SN12.67",
+      "Dhamma teachers",
+      "definition, dependent origination"
     ],
     [
       "SN12.67",
@@ -26256,11 +26351,6 @@ export const locatorBookObject ={
     ],
     [
       "SN13.11",
-      "right view, person accomplished in (diṭṭhisampanna puggala)",
-      "suffering removed like Mt. Sineru"
-    ],
-    [
-      "SN13.11",
       "Sineru, king of mountains",
       "compared to pebbles, simile for suffering ended"
     ],
@@ -26268,6 +26358,11 @@ export const locatorBookObject ={
       "SN13.11",
       "pebbles",
       "compared to Mt. Sineru, simile for suffering ended"
+    ],
+    [
+      "SN13.11",
+      "right view, person accomplished in (diṭṭhisampanna puggala)",
+      "suffering removed like Mt. Sineru"
     ],
     [
       "SN14.1",
@@ -27176,11 +27271,6 @@ export const locatorBookObject ={
     ],
     [
       "SN16.3",
-      "compassion (karuṇā)",
-      "teaching Dhamma"
-    ],
-    [
-      "SN16.3",
       "Dhamma teaching",
       "how to"
     ],
@@ -27197,6 +27287,11 @@ export const locatorBookObject ={
     [
       "SN16.3",
       "compassion (anukampā)",
+      "teaching Dhamma"
+    ],
+    [
+      "SN16.3",
+      "compassion (karuṇā)",
       "teaching Dhamma"
     ],
     [
@@ -33611,21 +33706,6 @@ export const locatorBookObject ={
     ],
     [
       "SN35.241",
-      "far shore (pārima)",
-      "simile for external sense bases"
-    ],
-    [
-      "SN35.241",
-      "Ganges river",
-      "log being carried down"
-    ],
-    [
-      "SN35.241",
-      "Ganges river",
-      "sloping towards ocean, simile for disciples moving towards enlightenment "
-    ],
-    [
-      "SN35.241",
       "Nanda, Ven., cowherd",
       "ordaining after Dhamma talk"
     ],
@@ -33648,6 +33728,21 @@ export const locatorBookObject ={
       "SN35.241",
       "false spiritual claims",
       "like log rotting away"
+    ],
+    [
+      "SN35.241",
+      "far shore (pārima)",
+      "simile for external sense bases"
+    ],
+    [
+      "SN35.241",
+      "Ganges river",
+      "log being carried down"
+    ],
+    [
+      "SN35.241",
+      "Ganges river",
+      "sloping towards ocean, simile for disciples moving towards enlightenment "
     ],
     [
       "SN35.241",
@@ -33706,6 +33801,11 @@ export const locatorBookObject ={
     ],
     [
       "SN35.244",
+      "Ganges river",
+      "making Ganges slope west, simile for impossible to disrobe"
+    ],
+    [
+      "SN35.244",
       "aggregates (khandha)",
       "understanding origin and ending"
     ],
@@ -33713,11 +33813,6 @@ export const locatorBookObject ={
       "SN35.244",
       "covetousness (abhijjhā)",
       "living so doesn’t overwhelm"
-    ],
-    [
-      "SN35.244",
-      "Ganges river",
-      "making Ganges slope west, simile for impossible to disrobe"
     ],
     [
       "SN35.244",
@@ -39426,6 +39521,11 @@ export const locatorBookObject ={
     ],
     [
       "SN47.13",
+      "death (maraṇa)",
+      "reaction to hearing about"
+    ],
+    [
+      "SN47.13",
       "Dhamma",
       "as island"
     ],
@@ -39433,11 +39533,6 @@ export const locatorBookObject ={
       "SN47.13",
       "best",
       "of best"
-    ],
-    [
-      "SN47.13",
-      "death (maraṇa)",
-      "reaction to hearing about"
     ],
     [
       "SN47.13",
@@ -42736,16 +42831,6 @@ export const locatorBookObject ={
     ],
     [
       "SN55.30",
-      "long life (āyu)",
-      "result of factors of stream-entry"
-    ],
-    [
-      "SN55.30",
-      "Nandaka the Licchavi ",
-      "interior bathing"
-    ],
-    [
-      "SN55.30",
       "fame (yasas)",
       "result of factors of stream-entry"
     ],
@@ -42753,6 +42838,16 @@ export const locatorBookObject ={
       "SN55.30",
       "happiness (sukha)",
       "result of factors of stream-entry"
+    ],
+    [
+      "SN55.30",
+      "long life (āyu)",
+      "result of factors of stream-entry"
+    ],
+    [
+      "SN55.30",
+      "Nandaka the Licchavi ",
+      "interior bathing"
     ],
     [
       "SN55.30",
@@ -42891,6 +42986,21 @@ export const locatorBookObject ={
     ],
     [
       "SN55.40",
+      "heedfulness (appamāda)",
+      "leads to joy"
+    ],
+    [
+      "SN55.40",
+      "heedlessness (pamāda)",
+      "no joy"
+    ],
+    [
+      "SN55.40",
+      "heedlessness (pamāda)",
+      "noble disciples"
+    ],
+    [
+      "SN55.40",
       "Nandiya the Sakyan",
       "asking about living negligently"
     ],
@@ -42902,22 +43012,7 @@ export const locatorBookObject ={
     [
       "SN55.40",
       "heedfulness (appamāda)",
-      "leads to joy"
-    ],
-    [
-      "SN55.40",
-      "heedfulness (appamāda)",
       "noble disciple"
-    ],
-    [
-      "SN55.40",
-      "heedlessness (pamāda)",
-      "no joy"
-    ],
-    [
-      "SN55.40",
-      "heedlessness (pamāda)",
-      "noble disciples"
     ],
     [
       "SN55.40",
@@ -43921,6 +44016,11 @@ export const locatorBookObject ={
     ],
     [
       "SN56.49",
+      "right view, person accomplished in (diṭṭhisampanna puggala)",
+      "suffering removed like Mt. Sineru"
+    ],
+    [
+      "SN56.49",
       "Sineru, king of mountains",
       "compared to pebbles, simile for suffering ended"
     ],
@@ -43928,16 +44028,6 @@ export const locatorBookObject ={
       "SN56.49",
       "pebbles",
       "compared to Mt. Sineru, simile for suffering ended"
-    ],
-    [
-      "SN56.49",
-      "right view, person accomplished in (diṭṭhisampanna puggala)",
-      "suffering removed like Mt. Sineru"
-    ],
-    [
-      "SN56.50",
-      "Sineru, king of mountains",
-      "compared to pebbles, simile for suffering ended"
     ],
     [
       "SN56.50",
@@ -43948,6 +44038,11 @@ export const locatorBookObject ={
       "SN56.50",
       "right view, person accomplished in (diṭṭhisampanna puggala)",
       "suffering removed like Mt. Sineru"
+    ],
+    [
+      "SN56.50",
+      "Sineru, king of mountains",
+      "compared to pebbles, simile for suffering ended"
     ],
     [
       "SN56.50",
@@ -72899,6 +72994,11 @@ export const locatorBookObject ={
     [
       "AN10.89",
       "non-returner (anāgāmi)",
+      "examples of"
+    ],
+    [
+      "AN10.89",
+      "non-returner (anāgāmi)",
       "wrong idea that they cannot visit other worlds"
     ],
     [
@@ -75348,18 +75448,13 @@ export const locatorBookObject ={
     ],
     [
       "AN11.13",
-      "fire",
-      "not re-burning, simile of person giving up bad qualities"
-    ],
-    [
-      "AN11.13",
-      "laziness (kusīta)",
-      "lazy do not succeed"
-    ],
-    [
-      "AN11.13",
       "Nandiya the Sakyan",
       "observing rains residence"
+    ],
+    [
+      "AN11.13",
+      "fire",
+      "not re-burning, simile of person giving up bad qualities"
     ],
     [
       "AN11.13",
@@ -75370,6 +75465,11 @@ export const locatorBookObject ={
       "AN11.13",
       "lay life",
       "what to practice"
+    ],
+    [
+      "AN11.13",
+      "laziness (kusīta)",
+      "lazy do not succeed"
     ],
     [
       "AN11.13",
@@ -75463,11 +75563,6 @@ export const locatorBookObject ={
     ],
     [
       "AN11.14",
-      "learned (bahussutā)",
-      "result of faith"
-    ],
-    [
-      "AN11.14",
       "Saddha, Ven.",
       "with the manifestations of faith"
     ],
@@ -75499,6 +75594,11 @@ export const locatorBookObject ={
     [
       "AN11.14",
       "knowledge of passing away and rebirth of beings (cutūpapātañāna)",
+      "result of faith"
+    ],
+    [
+      "AN11.14",
+      "learned (bahussutā)",
       "result of faith"
     ],
     [
