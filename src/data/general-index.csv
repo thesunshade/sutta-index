@@ -1577,9 +1577,6 @@ speech	restraint	DN2
 speech	useless: definition	DN2
 loving-kindness (mettā)	like a conch blower	DN13
 loving-kindness (mettā)	as a path to brahma world	DN13
-death (maraṇa)	danger of	SN2.19
-death (maraṇa)	danger of	SN2.27
-death (maraṇa)	inevitability of	SN3.3
 false speech	for the sake of gain	SN3.7
 giving (dāna)	with regret	SN3.20
 death (maraṇa)	cause of grief	SN3.22
@@ -2361,7 +2358,8 @@ enduring (adhivāsana)	abuse	Ud4.8
 gratitude	of arahants	Ud4.9
 suffering (dukkha)	no one likes	Ud5.1
 happiness (sukha)	those who desire	Ud5.1
-love (piya)	oneself as most dear	Ud5.2
+love (piya)	oneself as most dear	Ud5.1
+Mallikā, Queen	oneself as most dear	Ud5.1
 death (maraṇa)	reason to make merit	Ud5.2
 Bodhisatta	mother	Ud5.2
 death (maraṇa)	as universal	Ud5.2
@@ -2410,8 +2408,16 @@ Buddha, the	surrenders life force	Ud6.1
 earthquakes	associated with events in Buddha’s life	Ud6.1
 Pasenadi Kosala, King	ascetics as spies	Ud6.2
 jaṭilā ascetics	spies for King Pasenadi	Ud6.2
+Nigaṇṭhas	spies for King Pasenadi	Ud6.2
+naked ascetics (acelaka)	spies for King Pasenadi	Ud6.2
+wanderers (paribbājaka)	spies for King Pasenadi	Ud6.2
 judging	familiarity needed to	Ud6.2
+external appearance	as deceiving	Ud6.2
+laypeople	difficult for them to know who is enlightened	Ud6.2
+virtue (sīla)	known through association	Ud6.2
+purity (soceyya)	known through association	Ud6.2
 wisdom (paññā)	knowable through discussion	Ud6.2
+resilience (thāmas)	known in times of trouble	Ud6.2
 misjudging others	through lack of association	Ud6.2
 Dhamma	for money making	Ud6.2
 Buddha, the	reviewing his attainments	Ud6.3
@@ -2452,8 +2458,8 @@ clinging	to sensual pleasures	Ud7.3
 sense pleasures (kāma, kāmaguṇa)	clinging to	Ud7.3
 fetters (saṁyojana)	clinging to	Ud7.3
 flood crossing	clinging prevents	Ud7.3
-sense pleasures (kāma, kāmaguṇa)	like fish in net	Ud7.4
-fish	simile for sense pleasures	Ud7.4
+sense pleasures (kāma, kāmaguṇa)	like trap for fish	Ud7.4
+fish	trapped, simile for sense pleasures	Ud7.4
 kinsman of the negligent (pamattabandhu)	catching those blinded by sense pleasures	Ud7.4
 external appearance	not matching internal	Ud7.5
 good people (sappurisa)	praised by gods	Ud7.6
@@ -5083,7 +5089,7 @@ evil wishes (pāpiccha)	quality of bad ascetic	MN40
 wrong view (micchā diṭṭhi)	quality of bad ascetic	MN40
 weapons	wrapped in robe, simile for bad ascetic	MN40
 robes	wearing does not earn the name	MN40
-naked ascetic (acelaka)	being does not earn the name	MN40
+naked ascetics (acelaka)	being does not earn the name	MN40
 tree root dwelling (rukkhamūlika)	living does not earn the name	MN40
 vedas	memorizing does not earn the name	MN40
 jaṭilā ascetics	being does not earn the name	MN40
@@ -5892,6 +5898,7 @@ jhānas	perturbable aspects	MN66
 jhānas	factors blocking	MN66
 formless liberations	not enough just to have	MN66
 fetters (saṁyojana)	giving up large and small	MN66
+shackles (bandha)	strong and weak	MN66
 dimension of neither perception nor non-perception (nevasaññanāsaññāyatana)	giving up even this	MN66
 Ānanda, Ven.	explaining noisy monks to Buddha	MN67
 Sāriputta, Ven.	leading noisy monks	MN67
@@ -16876,7 +16883,7 @@ sarcasm	regarding teachings of naked ascetics	SN41.9
 superhuman states (uttari manussadhamma)	laypeople attaining	SN41.9
 non-returner (anāgāmi)	examples of	SN41.9
 Citta Macchikāsaṇḍika, householder	non-returner	SN41.9
-naked ascetic (acelaka)	converting	SN41.9
+naked ascetics (acelaka)	converting	SN41.9
 jhānas	laypeople attaining	SN41.9
 Citta Macchikāsaṇḍika, householder	illness and death of	SN41.10
 wheel-turning monarchs	rejection of rebirth as	SN41.10
@@ -19039,6 +19046,7 @@ sense desire (kāmarāga)	giving up as if head were on fire	SN2.16
 identity view (sakkāyadiṭṭhi)	giving up as if head were on fire	SN2.15
 delight (nandi)	not found in the Buddha	SN2.18
 delight (nandi)	born from misery	SN2.18
+death (maraṇa)	danger of	SN2.19
 association	with good people	SN2.21
 enemies	acting as ones own	SN2.22
 bad actions	better left undone	SN2.22
@@ -19056,13 +19064,16 @@ Rohitassa, devaputta	end of the world by traveling	SN2.26
 world, the	end of by traveling	SN2.26
 psychic powers (iddhi)	walking to end of world	SN2.26
 world, the	body, in fathom long	SN2.26
+death (maraṇa)	danger of	SN2.27
 Sāriputta, Ven.	qualities of	SN2.29
 Sāriputta, Ven.	praise of	SN2.29
 teachers of other religions	praise of	SN2.30
 Māra	taking possession of a god	SN2.30
 bait	simile for wrong views	SN2.30
 Buddha, the	best of all beings	SN2.30
-Pasenadi Kosala, King		CUSTOM:SN:SN 3 Kosala Saṁyutta:suttacentral.net/sn3
+Pasenadi Kosala, King	 	CUSTOM:SN:SN 3 Kosala Saṁyutta:suttacentral.net/sn3
+bamboo		xref reeds
+reeds		xref bamboo
 Buddha, the	accused of being young	SN3.1
 declaring enlightenment	Buddha declares	SN3.1
 youth	when not to look down on	SN3.1
@@ -19073,9 +19084,46 @@ bhikkhus	young, not to be looked down on	SN3.1
 greed (lobha)	arises from within	SN3.2
 hatred (dosa)	arises from within	SN3.2
 delusion (moha)	arises from within	SN3.2
-tacasāraṁva 	simile for causing own ruin	SN3.2
+reeds	simile for causing own ruin	SN3.2
 old age (jarā)	no escape from	SN3.3
 death (maraṇa)	no escape from	SN3.3
 arahants	not exempt from old age and death	SN3.3
 Dhamma	never gets old	SN3.3
 chariots	get old	SN3.3
+happiness (sukha)	those who desire	SN3.4
+love (piya)	oneself as most dear	SN3.4
+merit (puñña)	as true possession	SN3.4
+shadows	that never leaves, simile for merit	SN3.4
+merit (puñña)	like shadow that never leaves	SN3.4
+protection (rakkha)	who protects themselves; internal/external	SN3.5
+bad actions	do not protect	SN3.5
+good actions	protect	SN3.5
+restraint (saṁvara)	as protection	SN3.5
+wealth	cause of negligence	SN3.6
+deer	simile for being trapped by sense pleasures	SN3.7
+judging (aḍḍakaraṇa)	King Pasenadi not wanting to do	SN3.7
+lying	for the sake of sensual pleasures	SN3.7
+fish	trapped, simile for sense pleasures	SN3.7
+sense pleasures (kāma, kāmaguṇa)	like trap for fish	SN3.7
+suffering (dukkha)	no one likes	SN3.8
+happiness (sukha)	those who desire	SN3.8
+love (piya)	oneself as most dear	SN3.8
+Mallikā, Queen	oneself as most dear	SN3.8
+sacrifices (yañña)	good and bad	SN3.9
+shackles (bandha)	strong and weak	SN3.10
+sense pleasures (kāma, kāmaguṇa)	as shackle	SN3.10
+jaṭilā ascetics	spies for King Pasenadi	SN3.11
+Nigaṇṭhas	spies for King Pasenadi	SN3.11
+naked ascetics (acelaka)	spies for King Pasenadi	SN3.11
+wanderers (paribbājaka)	spies for King Pasenadi	SN3.11
+Pasenadi Kosala, King	ascetics as spies	SN3.11
+judging	familiarity needed to	SN3.11
+wisdom (paññā)	knowable through discussion	SN3.11
+misjudging others	through lack of association	SN3.11
+laypeople	difficult for them to know who is enlightened	SN3.11
+virtue (sīla)	known through association	SN3.11
+purity (soceyya)	known through association	SN3.11
+resilience (thāmas)	known in times of trouble	SN3.11
+external appearance	as deceiving	SN3.11
+earring (kuṇḍala)	fake, simile for misjudging others	SN3.11
+coins	fake, simile for misjudging others	SN3.11
