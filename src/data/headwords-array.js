@@ -893,6 +893,7 @@ export const headwordsArray =[
      "fear of disrepute (asilokabhaya)",
      "fearless (abhaya)",
      "feature of harshness (paṭighanimitta)",
+     "feedback",
      "feelings (vedanā)",
      "feet",
      "feet kissing",

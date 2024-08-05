@@ -954,6 +954,7 @@ export const indexObject ={
                     "xrefs": [
                          "xref accusations",
                          "xref easy to admonish (suvaca)",
+                         "xref enduring abuse",
                          "xref hard to admonish (dovacassa)",
                          "xref monastic rules (vinaya)",
                          "xref offences against monastic rules (āpatti)",
@@ -17566,6 +17567,12 @@ export const indexObject ={
                          "AN5.238"
                     ],
                     "xrefs": []
+               },
+               "": {
+                    "locators": [],
+                    "xrefs": [
+                         "xref admonishment"
+                    ]
                }
           },
           "criticizing noble ones": {
@@ -30624,6 +30631,14 @@ export const indexObject ={
                     "xrefs": []
                }
           },
+          "feedback": {
+               "": {
+                    "locators": [],
+                    "xrefs": [
+                         "xref admonishment"
+                    ]
+               }
+          },
           "feelings (vedanā)": {
                "": {
                     "locators": [
@@ -32410,7 +32425,13 @@ export const indexObject ={
                "": {
                     "locators": [],
                     "xrefs": [
-                         "xref wanderers of other sects (aññatitthiya paribbājaka)"
+                         "xref Nigaṇṭhas",
+                         "xref ascetics (samaṇa)",
+                         "xref ascetics and brahmins (samaṇabrāhmaṇa)",
+                         "xref jaṭilā ascetics",
+                         "xref naked ascetics (acelaka)",
+                         "xref wanderers of other sects (aññatitthiya paribbājaka)",
+                         "xref ājīvakas"
                     ]
                },
                "arguing about views": {
