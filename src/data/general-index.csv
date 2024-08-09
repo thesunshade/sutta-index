@@ -1577,12 +1577,6 @@ speech	restraint	DN2
 speech	useless: definition	DN2
 loving-kindness (mettā)	like a conch blower	DN13
 loving-kindness (mettā)	as a path to brahma world	DN13
-false speech	for the sake of gain	SN3.7
-giving (dāna)	with regret	SN3.20
-death (maraṇa)	cause of grief	SN3.22
-death (maraṇa)	inevitability of	SN3.22
-giving (dāna)	qualities of recipient	SN3.24
-giving (dāna)	whom to give to	SN3.24
 death (maraṇa)	inevitability of	SN3.25
 death (maraṇa)	reason to make merit	SN3.25
 death (maraṇa)	inevitability of	SN4.9
@@ -9742,6 +9736,10 @@ admonishment	being difficult to (dovacassatā)	AN4.160
 Dhamma	repetition of	AN4.160
 Dhamma	memorization of	AN4.160
 practicing	four ways of	AN4.161
+practicing	painful	AN4.161
+practicing	pleasant	AN4.161
+practicing	painful	AN4.162
+practicing	pleasant	AN4.162
 greed, hatred, delusion	causing pain	AN4.162
 practicing	four ways of	AN4.162
 faculties, spiritual (indriya)	manifesting strongly and weakly	AN4.162
@@ -13338,6 +13336,9 @@ sense pleasures (kāma, kāmaguṇa)	complete understanding of	AN10.29
 form (rūpa)	complete understanding of	AN10.29
 feelings (vedanā)	complete understanding of	AN10.29
 extinguishment by not grasping (anupādāparinibbāna)	taught by Buddha	AN10.29
+practicing	four ways of	AN10.29
+practicing	painful	AN10.29
+practicing	pleasant	AN10.29
 Pasenadi Kosala, King	devotion to the Buddha	AN10.30
 gratitude	towards the Buddha	AN10.30
 welfare (hita)	Buddha practicing for the sake of other’s	AN10.30
@@ -19112,6 +19113,7 @@ wealth	cause of negligence	SN3.6
 deer	simile for being trapped by sense pleasures	SN3.7
 judging (aḍḍakaraṇa)	King Pasenadi not wanting to do	SN3.7
 lying	for the sake of sensual pleasures	SN3.7
+false speech	for the sake of gain	SN3.7
 fish	trapped, simile for sense pleasures	SN3.7
 sense pleasures (kāma, kāmaguṇa)	like trap for fish	SN3.7
 suffering (dukkha)	no one likes	SN3.8
@@ -19136,3 +19138,109 @@ resilience (thāmas)	known in times of trouble	SN3.11
 external appearance	as deceiving	SN3.11
 earring (kuṇḍala)	fake, simile for misjudging others	SN3.11
 coins	fake, simile for misjudging others	SN3.11
+sense pleasures (kāma, kāmaguṇa)	which is the best	SN3.12
+preference	for different sense pleasures	SN3.12
+Buddha, the	praise of	SN3.12
+diet		xref eating in moderation
+eating in moderation	advice for king Pasenadi	SN3.13
+Pasenadi Kosala, King	diet	SN3.13
+present life	welfare in; food	SN3.13
+Pasenadi Kosala, King	battle with Ajātasattu	SN3.14
+Ajātasattu	battle with king Pasenadi	SN3.14
+friends, bad	Ajātasattu has	SN3.14
+friends, good	King Pasenadi has	SN3.14
+hatred (vera)	from victory	SN3.14
+sleep	peaceful people	SN3.14
+war	between king Pasenadi and Ajātasattu	SN3.15
+war	between king Pasenadi and Ajātasattu	SN3.15
+Pasenadi Kosala, King	battle with Ajātasattu	SN3.15
+Ajātasattu	battle with king Pasenadi	SN3.15
+killers	creating killers	SN3.15
+results of actions	delay in seeing	SN3.15
+insulting (akkosa)	created by insulter	SN3.15
+Mallikā, Queen	giving birth to daughter	SN3.16
+Pasenadi Kosala, King	birth of daughter	SN3.16
+women	better than men	SN3.16
+heedfulness (appamāda)	results now and in future	SN3.17
+heedfulness (appamāda)	like elephant footprint	SN3.17
+elephants	footprints, simile for heedfulness	SN3.17
+long life (āyu)	result of heedfulness	SN3.17
+beauty (vaṇṇa)	result of heedfulness	SN3.17
+health (arogiya)	result of heedfulness	SN3.17
+heaven (sagga)	cause for rebirth in	SN3.17
+Dhamma	for one with good friends	SN3.18
+well explained (svākkhāta)	Dhamma	SN3.18
+good friends	Dhamma for one with	SN3.18
+Ānanda, Ven.	half the spiritual life	SN3.18
+spiritual friends (kalyāṇamitta)	whole of the spiritual life	SN3.18
+spiritual friends (kalyāṇamitta)	one with will develop noble eightfold path	SN3.18
+seclusion (viveka, paviveka)	developing eightfold path based on	SN3.18
+fading away (virāga)	developing eightfold path based on	SN3.18
+cessation (nirodha)	developing eightfold path based on	SN3.18
+letting go (vossagga)	developing eightfold path based on	SN3.18
+Buddha, the	relying on as spiritual friend	SN3.18
+spiritual friends (kalyāṇamitta)	Buddha as	SN3.18
+heedfulness (appamāda)	in skillful qualities	SN3.18
+kings	inspiring others in heedfulness	SN3.18
+inspiration	of kings for subjects	SN3.18
+heedfulness (appamāda)	results now and in future	SN3.18
+wealth	result of heedfulness	SN3.18
+children	not having 	SN3.19
+wealthy people	not enjoying wealth	SN3.19
+wealth	not using to make people happy	SN3.19
+wealth	not enjoying	SN3.19
+ponds	unused, simile for not enjoying wealth	SN3.19
+wealth	not enjoying, like unused pond	SN3.19
+good people (sappurisa)	use wealth to support others	SN3.19
+independent Buddhas		xref paccekabuddhas
+merit (puñña)		xref actions (kamma)
+actions (kamma)		xref merit (puñña)
+good rebirth (sugati)		xref heaven (sagga)
+heaven (sagga)		xref good rebirth (sugati)
+children	not having 	SN3.20
+wealthy people	not enjoying wealth	SN3.20
+paccekabuddhas	Tagarasikhī	SN3.20
+Tagarasikhī, paccekabuddha	regret after giving alms to	SN3.20
+paccekabuddhas	regret after giving alms to	SN3.20
+giving (dāna)	regret after giving	SN3.20
+enjoyment (bhoga)	not able to enjoy wealth	SN3.20
+children	cause for not having	SN3.20
+killing	brother’s children	SN3.20
+Hell of Screams	cause for rebirth in	SN3.20
+wealth	not making good use of	SN3.20
+actions (kamma)	taken to next life	SN3.20
+shadows	that never leaves, simile for merit	SN3.20
+darkness, people living in	going to light	SN3.21
+light	people living in, going to darkness	SN3.21
+elephants	up or down from, simile for rebirth	SN3.21
+palaces (pāsādā)	up or down from, simile for rebirth	SN3.21
+horses	up or down from, simile for rebirth	SN3.21
+giving (dāna)	preventing	SN3.21
+poor people	who are generous	SN3.21
+wealthy people	not giving	SN3.21
+faith (saddhā)	people with and without being generous or stingy	SN3.21
+grandmother	death of	SN3.22
+Pasenadi Kosala, King	death of grandmother	SN3.22
+love (piya)	for departed relative	SN3.22
+death (maraṇa)	as universal	SN3.22
+death (maraṇa)	cause of grief	SN3.22
+pots	liable to break, simile for death	SN3.22
+merit (puñña)	support for next life	SN3.22
+good rebirth (sugati)	cause of	SN3.22
+hell (niraya)	cause for rebirth in	SN3.22
+bamboo	simile for causing own ruin	SN3.23
+greed (lobha)	harm	SN3.23
+hatred (dosa)	harm	SN3.23
+delusion (moha)	harm	SN3.23
+giving (dāna)	qualities of recipient	SN3.24
+giving (dāna)	whom to give to	SN3.24
+warriors	choosing, simile for where to give	SN3.24
+archers	choosing, simile for where to give	SN3.24
+hindrances (nīvaraṇa)	removal in one who receives gifts	SN3.24
+aggregate of virtue (sīlakkhandha)	in recipient of gift	SN3.24
+aggregate of wisdom (paññākkhandha)	in recipient of gift	SN3.24
+aggregate of concentration (samādhikkhandha)	in recipient of gift	SN3.24
+aggregate of liberation (vimuttikkhandha)	in recipient of gift	SN3.24
+aggregate of knowledge and vision of liberation (vimuttiñāṇadassanakkhandha)	in recipient of gift	SN3.24
+gifts, specific types of	monastery	SN3.24
+clouds	simile for giving	SN3.24
