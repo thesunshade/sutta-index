@@ -1,7 +1,7 @@
 export const indexObject =[
      [
           "Buddha, the",
-          185
+          186
      ],
      [
           "giving (dāna)",
@@ -37,7 +37,7 @@ export const indexObject =[
      ],
      [
           "virtue (sīla)",
-          77
+          78
      ],
      [
           "speech",
@@ -125,11 +125,11 @@ export const indexObject =[
      ],
      [
           "wealth",
-          48
+          49
      ],
      [
           "merit (puñña)",
-          47
+          48
      ],
      [
           "spiritual path (brahmacariya)",
@@ -168,6 +168,10 @@ export const indexObject =[
           42
      ],
      [
+          "Māra",
+          41
+     ],
+     [
           "actions (kamma)",
           41
      ],
@@ -189,10 +193,6 @@ export const indexObject =[
      ],
      [
           "monastic rules (vinaya)",
-          40
-     ],
-     [
-          "Māra",
           40
      ],
      [
@@ -328,6 +328,10 @@ export const indexObject =[
           30
      ],
      [
+          "old age (jarā)",
+          30
+     ],
+     [
           "lying",
           30
      ],
@@ -341,10 +345,6 @@ export const indexObject =[
      ],
      [
           "psychic powers (iddhi)",
-          29
-     ],
-     [
-          "old age (jarā)",
           29
      ],
      [
@@ -1160,6 +1160,10 @@ export const indexObject =[
           12
      ],
      [
+          "mountains",
+          12
+     ],
+     [
           "Mahānāma the Sakyan",
           12
      ],
@@ -1316,7 +1320,7 @@ export const indexObject =[
           11
      ],
      [
-          "mountains",
+          "mortification (tapas)",
           11
      ],
      [
@@ -1465,10 +1469,6 @@ export const indexObject =[
      ],
      [
           "mortification (tapojigucchā)",
-          10
-     ],
-     [
-          "mortification (tapas)",
           10
      ],
      [
@@ -2864,6 +2864,10 @@ export const indexObject =[
           6
      ],
      [
+          "armies",
+          6
+     ],
+     [
           "anxiety (paritassanā)",
           6
      ],
@@ -3128,6 +3132,10 @@ export const indexObject =[
           5
      ],
      [
+          "kings (rāja)",
+          5
+     ],
+     [
           "Khemā, Ven.",
           5
      ],
@@ -3353,10 +3361,6 @@ export const indexObject =[
      ],
      [
           "arrogance",
-          5
-     ],
-     [
-          "armies",
           5
      ],
      [
@@ -3729,10 +3733,6 @@ export const indexObject =[
      ],
      [
           "Lakuṇṭaka Bhaddiya, Ven.",
-          4
-     ],
-     [
-          "kings (rāja)",
           4
      ],
      [
@@ -4981,6 +4981,10 @@ export const indexObject =[
      ],
      [
           "conflicts",
+          3
+     ],
+     [
+          "conduct (caraṇa, cariya)",
           3
      ],
      [
@@ -6832,10 +6836,6 @@ export const indexObject =[
           2
      ],
      [
-          "conduct (caraṇa)",
-          2
-     ],
-     [
           "conch blowers",
           2
      ],
@@ -7041,6 +7041,10 @@ export const indexObject =[
      ],
      [
           "austerity",
+          2
+     ],
+     [
+          "austerities (dukkarakārikā)",
           2
      ],
      [
@@ -8128,6 +8132,10 @@ export const indexObject =[
           1
      ],
      [
+          "rudders",
+          1
+     ],
+     [
           "rotten body (pūtikāya)",
           1
      ],
@@ -8549,6 +8557,10 @@ export const indexObject =[
      ],
      [
           "oblations",
+          1
+     ],
+     [
+          "oars",
           1
      ],
      [
@@ -9860,6 +9872,10 @@ export const indexObject =[
           1
      ],
      [
+          "diplomacy",
+          1
+     ],
+     [
           "Dīghāvu, layperson",
           1
      ],
@@ -10425,10 +10441,6 @@ export const indexObject =[
      ],
      [
           "Avantiputta, king",
-          1
-     ],
-     [
-          "austerities (dukkarakārikā)",
           1
      ],
      [

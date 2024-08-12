@@ -4654,6 +4654,12 @@ export const indexObject ={
                          "SN56.41"
                     ],
                     "xrefs": []
+               },
+               "cannot overcome old age and death": {
+                    "locators": [
+                         "SN3.25"
+                    ],
+                    "xrefs": []
                }
           },
           "arousing energy": {
@@ -6165,6 +6171,12 @@ export const indexObject ={
                "Buddha gave up": {
                     "locators": [
                          "MN26"
+                    ],
+                    "xrefs": []
+               },
+               "Buddha freed from": {
+                    "locators": [
+                         "SN4.1"
                     ],
                     "xrefs": []
                }
@@ -12082,6 +12094,12 @@ export const indexObject ={
                          "SN3.1"
                     ],
                     "xrefs": []
+               },
+               "after enlightenment": {
+                    "locators": [
+                         "SN4.1"
+                    ],
+                    "xrefs": []
                }
           },
           "“Buddha”, the word": {
@@ -15256,7 +15274,7 @@ export const indexObject ={
                },
                "counter_value": 2
           },
-          "conduct (caraṇa)": {
+          "conduct (caraṇa, cariya)": {
                "of noble disciple": {
                     "locators": [
                          "MN53"
@@ -15266,6 +15284,12 @@ export const indexObject ={
                "quality of arahant": {
                     "locators": [
                          "AN11.10"
+                    ],
+                    "xrefs": []
+               },
+               "in line with Dhamma": {
+                    "locators": [
+                         "SN3.25"
                     ],
                     "xrefs": []
                }
@@ -18397,6 +18421,7 @@ export const indexObject ={
                "inevitability of": {
                     "locators": [
                          "SN3.25",
+                         "SN3.25",
                          "SN4.9",
                          "AN7.74",
                          "Snp3.8",
@@ -18837,6 +18862,12 @@ export const indexObject ={
                "no escape from": {
                     "locators": [
                          "SN3.3"
+                    ],
+                    "xrefs": []
+               },
+               "like mountain crushing": {
+                    "locators": [
+                         "SN3.25"
                     ],
                     "xrefs": []
                },
@@ -20253,13 +20284,13 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "desire given up with desire": {
+               "given up with desire": {
                     "locators": [
                          "SN51.15"
                     ],
                     "xrefs": []
                },
-               "desire for enlightenment like desire to go to park": {
+               "for enlightenment like desire to go to park": {
                     "locators": [
                          "SN51.15"
                     ],
@@ -22694,6 +22725,14 @@ export const indexObject ={
                     "xrefs": [
                          "xref bases of overcoming (abhibhāyatana)"
                     ]
+               }
+          },
+          "diplomacy": {
+               "cannot overcome old age and death": {
+                    "locators": [
+                         "SN3.25"
+                    ],
+                    "xrefs": []
                }
           },
           "direct knowledges (abhiññā)": {
@@ -49407,6 +49446,12 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
+               "infatuation with authority": {
+                    "locators": [
+                         "SN3.25"
+                    ],
+                    "xrefs": []
+               },
                "counter_value": 2
           },
           "kingship": {
@@ -54763,6 +54808,12 @@ export const indexObject ={
                          "SN2.30"
                     ],
                     "xrefs": []
+               },
+               "": {
+                    "locators": [
+                         "CUSTOM:SN:SN 4 Māra Saṁyutta:suttacentral.net/sn4"
+                    ],
+                    "xrefs": []
                }
           },
           "Māra’s domain (māradheyya)": {
@@ -56119,6 +56170,12 @@ export const indexObject ={
                "support for next life": {
                     "locators": [
                          "SN3.22"
+                    ],
+                    "xrefs": []
+               },
+               "when faced with death": {
+                    "locators": [
+                         "SN3.25"
                     ],
                     "xrefs": []
                }
@@ -59513,6 +59570,12 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
+               "": {
+                    "locators": [],
+                    "xrefs": [
+                         "xref austerities (dukkarakārikā)"
+                    ]
+               },
                "counter_value": 1
           },
           "mortification (tapas)": {
@@ -59566,7 +59629,8 @@ export const indexObject ={
                },
                "not effective": {
                     "locators": [
-                         "SN1.38"
+                         "SN1.38",
+                         "SN4.1"
                     ],
                     "xrefs": []
                },
@@ -59574,6 +59638,18 @@ export const indexObject ={
                     "locators": [
                          "SN1.58",
                          "SN1.76"
+                    ],
+                    "xrefs": []
+               },
+               "Buddha freed from": {
+                    "locators": [
+                         "SN4.1"
+                    ],
+                    "xrefs": []
+               },
+               "like oars and rudder on dry land": {
+                    "locators": [
+                         "SN4.1"
                     ],
                     "xrefs": []
                },
@@ -59826,6 +59902,12 @@ export const indexObject ={
                "wearing away, compared to length of eon": {
                     "locators": [
                          "SN15.5"
+                    ],
+                    "xrefs": []
+               },
+               "simile for old age and death": {
+                    "locators": [
+                         "SN3.25"
                     ],
                     "xrefs": []
                }
@@ -62960,6 +63042,14 @@ export const indexObject ={
           }
      },
      "O": {
+          "oars": {
+               "on dry land, simile for mortification": {
+                    "locators": [
+                         "SN4.1"
+                    ],
+                    "xrefs": []
+               }
+          },
           "oblations": {
                "": {
                     "locators": [
@@ -63535,6 +63625,18 @@ export const indexObject ={
                "no escape from": {
                     "locators": [
                          "SN3.3"
+                    ],
+                    "xrefs": []
+               },
+               "inevitability of": {
+                    "locators": [
+                         "SN3.25"
+                    ],
+                    "xrefs": []
+               },
+               "like mountain crushing": {
+                    "locators": [
+                         "SN3.25"
                     ],
                     "xrefs": []
                },
@@ -75652,6 +75754,14 @@ export const indexObject ={
                "repulsiveness of": {
                     "locators": [
                          "AN9.11"
+                    ],
+                    "xrefs": []
+               }
+          },
+          "rudders": {
+               "on dry land, simile for mortification": {
+                    "locators": [
+                         "SN4.1"
                     ],
                     "xrefs": []
                }
@@ -92846,6 +92956,12 @@ export const indexObject ={
                          "SN1.52"
                     ],
                     "xrefs": []
+               },
+               "when faced with death": {
+                    "locators": [
+                         "SN3.25"
+                    ],
+                    "xrefs": []
                }
           },
           "virtue, concentration, and wisdom (sīla, samadhi, paññā)": {
@@ -94097,6 +94213,12 @@ export const indexObject ={
                "not enjoying, like unused pond": {
                     "locators": [
                          "SN3.19"
+                    ],
+                    "xrefs": []
+               },
+               "cannot overcome old age and death": {
+                    "locators": [
+                         "SN3.25"
                     ],
                     "xrefs": []
                }

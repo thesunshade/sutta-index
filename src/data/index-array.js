@@ -30711,7 +30711,7 @@ export const indexArray =[
      ],
      [
           "AN11.10",
-          "conduct (caraṇa)",
+          "conduct (caraṇa, cariya)",
           "quality of arahant"
      ],
      [
@@ -44591,7 +44591,7 @@ export const indexArray =[
      ],
      [
           "MN53",
-          "conduct (caraṇa)",
+          "conduct (caraṇa, cariya)",
           "of noble disciple"
      ],
      [
@@ -61771,13 +61771,108 @@ export const indexArray =[
      ],
      [
           "SN3.25",
+          "armies",
+          "cannot overcome old age and death"
+     ],
+     [
+          "SN3.25",
+          "conduct (caraṇa, cariya)",
+          "in line with Dhamma"
+     ],
+     [
+          "SN3.25",
           "death (maraṇa)",
           "inevitability of"
      ],
      [
           "SN3.25",
           "death (maraṇa)",
+          "inevitability of"
+     ],
+     [
+          "SN3.25",
+          "death (maraṇa)",
+          "like mountain crushing"
+     ],
+     [
+          "SN3.25",
+          "death (maraṇa)",
           "reason to make merit"
+     ],
+     [
+          "SN3.25",
+          "diplomacy",
+          "cannot overcome old age and death"
+     ],
+     [
+          "SN3.25",
+          "kings (rāja)",
+          "infatuation with authority"
+     ],
+     [
+          "SN3.25",
+          "merit (puñña)",
+          "when faced with death"
+     ],
+     [
+          "SN3.25",
+          "mountains",
+          "simile for old age and death"
+     ],
+     [
+          "SN3.25",
+          "old age (jarā)",
+          "inevitability of"
+     ],
+     [
+          "SN3.25",
+          "old age (jarā)",
+          "like mountain crushing"
+     ],
+     [
+          "SN3.25",
+          "virtue (sīla)",
+          "when faced with death"
+     ],
+     [
+          "SN3.25",
+          "wealth",
+          "cannot overcome old age and death"
+     ],
+     [
+          "SN4.1",
+          "austerities (dukkarakārikā)",
+          "Buddha freed from"
+     ],
+     [
+          "SN4.1",
+          "Buddha, the",
+          "after enlightenment"
+     ],
+     [
+          "SN4.1",
+          "mortification (tapas)",
+          "Buddha freed from"
+     ],
+     [
+          "SN4.1",
+          "mortification (tapas)",
+          "like oars and rudder on dry land"
+     ],
+     [
+          "SN4.1",
+          "mortification (tapas)",
+          "not effective"
+     ],
+     [
+          "SN4.1",
+          "oars",
+          "on dry land, simile for mortification"
+     ],
+     [
+          "SN4.1",
+          "rudders",
+          "on dry land, simile for mortification"
      ],
      [
           "SN4.9",
@@ -78717,12 +78812,12 @@ export const indexArray =[
      [
           "SN51.15",
           "desire (chanda)",
-          "desire for enlightenment like desire to go to park"
+          "for enlightenment like desire to go to park"
      ],
      [
           "SN51.15",
           "desire (chanda)",
-          "desire given up with desire"
+          "given up with desire"
      ],
      [
           "SN51.15",
