@@ -1,7 +1,7 @@
 export const indexObject =[
      [
           "Buddha, the",
-          186
+          188
      ],
      [
           "giving (dāna)",
@@ -64,11 +64,11 @@ export const indexObject =[
           66
      ],
      [
-          "monastic life",
-          65
+          "Dhamma teaching",
+          66
      ],
      [
-          "Dhamma teaching",
+          "monastic life",
           65
      ],
      [
@@ -156,6 +156,10 @@ export const indexObject =[
           43
      ],
      [
+          "Māra",
+          43
+     ],
+     [
           "heedfulness (appamāda)",
           43
      ],
@@ -166,10 +170,6 @@ export const indexObject =[
      [
           "association",
           42
-     ],
-     [
-          "Māra",
-          41
      ],
      [
           "actions (kamma)",
@@ -344,6 +344,10 @@ export const indexObject =[
           30
      ],
      [
+          "Saṅgha",
+          29
+     ],
+     [
           "psychic powers (iddhi)",
           29
      ],
@@ -372,7 +376,7 @@ export const indexObject =[
           28
      ],
      [
-          "Saṅgha",
+          "proper attention (yoniso manasikāra)",
           28
      ],
      [
@@ -389,10 +393,6 @@ export const indexObject =[
      ],
      [
           "sense restraint (indriyasaṁvara)",
-          27
-     ],
-     [
-          "proper attention (yoniso manasikāra)",
           27
      ],
      [
@@ -712,6 +712,10 @@ export const indexObject =[
           18
      ],
      [
+          "right effort, four (sammappadhāna)",
+          18
+     ],
+     [
           "rapture (pīti)",
           18
      ],
@@ -757,10 +761,6 @@ export const indexObject =[
      ],
      [
           "spiritual friends (kalyāṇamitta)",
-          17
-     ],
-     [
-          "right effort, four (sammappadhāna)",
           17
      ],
      [
@@ -1016,6 +1016,10 @@ export const indexObject =[
           14
      ],
      [
+          "animals",
+          14
+     ],
+     [
           "animal realm",
           14
      ],
@@ -1117,10 +1121,6 @@ export const indexObject =[
      ],
      [
           "body (kāya)",
-          13
-     ],
-     [
-          "animals",
           13
      ],
      [
@@ -1820,6 +1820,10 @@ export const indexObject =[
           8
      ],
      [
+          "snakes",
+          8
+     ],
+     [
           "skillfulness and unskillfulness",
           8
      ],
@@ -2028,6 +2032,10 @@ export const indexObject =[
           8
      ],
      [
+          "arrows",
+          8
+     ],
+     [
           "applied and sustained thought (vitakkavicārā)",
           8
      ],
@@ -2089,10 +2097,6 @@ export const indexObject =[
      ],
      [
           "sticks",
-          7
-     ],
-     [
-          "snakes",
           7
      ],
      [
@@ -2425,10 +2429,6 @@ export const indexObject =[
      ],
      [
           "attention (manasikāra)",
-          7
-     ],
-     [
-          "arrows",
           7
      ],
      [
@@ -2768,7 +2768,15 @@ export const indexObject =[
           6
      ],
      [
+          "earthquakes",
+          6
+     ],
+     [
           "dwellings",
+          6
+     ],
+     [
+          "dust",
           6
      ],
      [
@@ -3236,14 +3244,6 @@ export const indexObject =[
           5
      ],
      [
-          "earthquakes",
-          5
-     ],
-     [
-          "dust",
-          5
-     ],
-     [
           "duality (dvaya)",
           5
      ],
@@ -3497,6 +3497,10 @@ export const indexObject =[
      ],
      [
           "sons",
+          4
+     ],
+     [
+          "snare (pāsa)",
           4
      ],
      [
@@ -4892,6 +4896,10 @@ export const indexObject =[
           3
      ],
      [
+          "empty huts (suññāgāra, suññageha)",
+          3
+     ],
+     [
           "employees",
           3
      ],
@@ -5537,10 +5545,6 @@ export const indexObject =[
      ],
      [
           "snare (saṅga)",
-          2
-     ],
-     [
-          "snare (pāsa)",
           2
      ],
      [
@@ -6661,10 +6665,6 @@ export const indexObject =[
      ],
      [
           "enduring (khanta)",
-          2
-     ],
-     [
-          "empty huts (suññāgāra)",
           2
      ],
      [
@@ -9341,6 +9341,10 @@ export const indexObject =[
      ],
      [
           "great references (mahāpadesa)",
+          1
+     ],
+     [
+          "Great Commission, the",
           1
      ],
      [

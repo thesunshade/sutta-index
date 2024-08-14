@@ -27201,7 +27201,7 @@ export const indexArray =[
      ],
      [
           "AN10.71",
-          "empty huts (suññāgāra)",
+          "empty huts (suññāgāra, suññageha)",
           "frequenting"
      ],
      [
@@ -32195,7 +32195,7 @@ export const indexArray =[
           "guarded leads to happiness"
      ],
      [
-          "Dhp37",
+          "Dhp38",
           "faith (saddhā)",
           "lack of prevents wisdom"
      ],
@@ -36921,7 +36921,7 @@ export const indexArray =[
      ],
      [
           "MN6",
-          "empty huts (suññāgāra)",
+          "empty huts (suññāgāra, suññageha)",
           "frequenting"
      ],
      [
@@ -61873,6 +61873,96 @@ export const indexArray =[
           "SN4.1",
           "rudders",
           "on dry land, simile for mortification"
+     ],
+     [
+          "SN4.2",
+          "Buddha, the",
+          "after enlightenment"
+     ],
+     [
+          "SN4.2",
+          "Māra",
+          "elephant, taking the form of"
+     ],
+     [
+          "SN4.3",
+          "Buddha, the",
+          "after enlightenment"
+     ],
+     [
+          "SN4.4",
+          "proper attention (yoniso manasikāra)",
+          "leads to freedom"
+     ],
+     [
+          "SN4.4",
+          "right effort, four (sammappadhāna)",
+          "proper (yoniso)"
+     ],
+     [
+          "SN4.4",
+          "snare (pāsa)",
+          "Māra’s "
+     ],
+     [
+          "SN4.5",
+          "Dhamma teaching",
+          "Buddha sends monks out to teach"
+     ],
+     [
+          "SN4.5",
+          "Great Commission, the",
+          "Buddha sends monks out to teach"
+     ],
+     [
+          "SN4.5",
+          "dust",
+          "little dust in eyes"
+     ],
+     [
+          "SN4.5",
+          "Saṅgha",
+          "Buddha sends out to teach"
+     ],
+     [
+          "SN4.5",
+          "snare (pāsa)",
+          "Buddha freed from all"
+     ],
+     [
+          "SN4.5",
+          "snare (pāsa)",
+          "Māra’s "
+     ],
+     [
+          "SN4.6",
+          "animals",
+          "not frightening sage"
+     ],
+     [
+          "SN4.6",
+          "arrows",
+          "not frightening sage"
+     ],
+     [
+          "SN4.6",
+          "earthquakes",
+          "not frightening sage"
+     ],
+     [
+          "SN4.6",
+          "empty huts (suññāgāra, suññageha)",
+          "proper place"
+     ],
+     [
+          "SN4.6",
+          "Māra",
+          "snake, taking form of"
+     ],
+     [
+          "SN4.6",
+          "snakes",
+          "Māra appearing as"
      ],
      [
           "SN4.9",

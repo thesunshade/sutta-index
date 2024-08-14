@@ -3621,6 +3621,12 @@ export const indexObject ={
                          "SN56.89"
                     ],
                     "xrefs": []
+               },
+               "not frightening sage": {
+                    "locators": [
+                         "SN4.6"
+                    ],
+                    "xrefs": []
                }
           },
           "animosities (vera)": {
@@ -4772,6 +4778,12 @@ export const indexObject ={
                "shot through keyhole": {
                     "locators": [
                          "SN56.45"
+                    ],
+                    "xrefs": []
+               },
+               "not frightening sage": {
+                    "locators": [
+                         "SN4.6"
                     ],
                     "xrefs": []
                }
@@ -12097,7 +12109,9 @@ export const indexObject ={
                },
                "after enlightenment": {
                     "locators": [
-                         "SN4.1"
+                         "SN4.1",
+                         "SN4.2",
+                         "SN4.3"
                     ],
                     "xrefs": []
                }
@@ -12349,7 +12363,7 @@ export const indexObject ={
                     "xrefs": [
                          "xref citadel",
                          "xref dwellings (senāsana)",
-                         "xref empty huts (suññāgāra)",
+                         "xref empty huts (suññāgāra, suññageha)",
                          "xref fire chamber",
                          "xref guest houses",
                          "xref houses",
@@ -21886,6 +21900,12 @@ export const indexObject ={
                          "SN56.31"
                     ],
                     "xrefs": []
+               },
+               "Buddha sends monks out to teach": {
+                    "locators": [
+                         "SN4.5"
+                    ],
+                    "xrefs": []
                }
           },
           "Dhamma understood by wise (paccattaṁ veditabbo viññūhi)": {
@@ -24965,7 +24985,8 @@ export const indexObject ={
           "dust": {
                "little dust in eyes": {
                     "locators": [
-                         "MN26"
+                         "MN26",
+                         "SN4.5"
                     ],
                     "xrefs": []
                },
@@ -25393,6 +25414,12 @@ export const indexObject ={
                "first sermon": {
                     "locators": [
                          "SN56.11"
+                    ],
+                    "xrefs": []
+               },
+               "not frightening sage": {
+                    "locators": [
+                         "SN4.6"
                     ],
                     "xrefs": []
                }
@@ -26434,7 +26461,7 @@ export const indexObject ={
                     "xrefs": []
                }
           },
-          "empty huts (suññāgāra)": {
+          "empty huts (suññāgāra, suññageha)": {
                "": {
                     "locators": [],
                     "xrefs": [
@@ -26445,6 +26472,12 @@ export const indexObject ={
                     "locators": [
                          "MN6",
                          "AN10.71"
+                    ],
+                    "xrefs": []
+               },
+               "proper place": {
+                    "locators": [
+                         "SN4.6"
                     ],
                     "xrefs": []
                }
@@ -29418,7 +29451,7 @@ export const indexObject ={
                },
                "lack of prevents wisdom": {
                     "locators": [
-                         "Dhp37"
+                         "Dhp38"
                     ],
                     "xrefs": []
                },
@@ -39631,6 +39664,14 @@ export const indexObject ={
                     "locators": [
                          "AN5.143",
                          "AN5.195"
+                    ],
+                    "xrefs": []
+               }
+          },
+          "Great Commission, the": {
+               "Buddha sends monks out to teach": {
+                    "locators": [
+                         "SN4.5"
                     ],
                     "xrefs": []
                }
@@ -54814,6 +54855,18 @@ export const indexObject ={
                          "CUSTOM:SN:SN 4 Māra Saṁyutta:suttacentral.net/sn4"
                     ],
                     "xrefs": []
+               },
+               "elephant, taking the form of": {
+                    "locators": [
+                         "SN4.2"
+                    ],
+                    "xrefs": []
+               },
+               "snake, taking form of": {
+                    "locators": [
+                         "SN4.6"
+                    ],
+                    "xrefs": []
                }
           },
           "Māra’s domain (māradheyya)": {
@@ -69785,6 +69838,12 @@ export const indexObject ={
                          "SN55.58"
                     ],
                     "xrefs": []
+               },
+               "leads to freedom": {
+                    "locators": [
+                         "SN4.4"
+                    ],
+                    "xrefs": []
                }
           },
           "properly (yoniso)": {
@@ -74647,6 +74706,12 @@ export const indexObject ={
                          "SN49.1"
                     ],
                     "xrefs": []
+               },
+               "proper (yoniso)": {
+                    "locators": [
+                         "SN4.4"
+                    ],
+                    "xrefs": []
                }
           },
           "right freedom (sammā vimutti)": {
@@ -76709,6 +76774,12 @@ export const indexObject ={
                          "SN1.74"
                     ],
                     "xrefs": []
+               },
+               "Buddha sends out to teach": {
+                    "locators": [
+                         "SN4.5"
+                    ],
+                    "xrefs": []
                }
           },
           "saṅghānussati": {
@@ -77594,7 +77665,7 @@ export const indexObject ={
                "": {
                     "locators": [],
                     "xrefs": [
-                         "xref empty huts (suññāgāra)"
+                         "xref empty huts (suññāgāra, suññageha)"
                     ]
                },
                "Buddha’s practice of": {
@@ -82532,12 +82603,31 @@ export const indexObject ={
                          "SN3.1"
                     ],
                     "xrefs": []
+               },
+               "Māra appearing as": {
+                    "locators": [
+                         "SN4.6"
+                    ],
+                    "xrefs": []
                }
           },
           "snare (pāsa)": {
                "pile of, simile for sense pleasures": {
                     "locators": [
                          "MN26"
+                    ],
+                    "xrefs": []
+               },
+               "Māra’s": {
+                    "locators": [
+                         "SN4.4",
+                         "SN4.5"
+                    ],
+                    "xrefs": []
+               },
+               "Buddha freed from all": {
+                    "locators": [
+                         "SN4.5"
                     ],
                     "xrefs": []
                },
