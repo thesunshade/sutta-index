@@ -565,7 +565,8 @@ export const indexObject ={
                },
                "source of delight and sorrow": {
                     "locators": [
-                         "SN1.12"
+                         "SN1.12",
+                         "SN4.8"
                     ],
                     "xrefs": []
                }
@@ -2248,6 +2249,12 @@ export const indexObject ={
                "turning upside down, reason for": {
                     "locators": [
                          "AN8.87"
+                    ],
+                    "xrefs": []
+               },
+               "Māra pretends to break": {
+                    "locators": [
+                         "SN4.15"
                     ],
                     "xrefs": []
                }
@@ -11593,7 +11600,8 @@ export const indexObject ={
                },
                "teaches with compassion": {
                     "locators": [
-                         "MN122"
+                         "MN122",
+                         "SN4.14"
                     ],
                     "xrefs": []
                },
@@ -12112,6 +12120,12 @@ export const indexObject ={
                          "SN4.1",
                          "SN4.2",
                          "SN4.3"
+                    ],
+                    "xrefs": []
+               },
+               "splinter injury": {
+                    "locators": [
+                         "SN4.13"
                     ],
                     "xrefs": []
                }
@@ -13799,7 +13813,8 @@ export const indexObject ={
                },
                "source of delight and sorrow": {
                     "locators": [
-                         "SN1.12"
+                         "SN1.12",
+                         "SN4.8"
                     ],
                     "xrefs": []
                },
@@ -17137,7 +17152,8 @@ export const indexObject ={
                },
                "source of delight and sorrow": {
                     "locators": [
-                         "SN1.12"
+                         "SN1.12",
+                         "SN4.8"
                     ],
                     "xrefs": []
                }
@@ -18356,7 +18372,8 @@ export const indexObject ={
                     "locators": [],
                     "xrefs": [
                          "xref deathbed",
-                         "xref life"
+                         "xref life",
+                         "xref lifespans"
                     ]
                },
                "preparing for": {
@@ -18418,6 +18435,12 @@ export const indexObject ={
                "has the world fastened shut": {
                     "locators": [
                          "SN1.67"
+                    ],
+                    "xrefs": []
+               },
+               "all experience": {
+                    "locators": [
+                         "SN4.9"
                     ],
                     "xrefs": []
                },
@@ -19609,7 +19632,8 @@ export const indexObject ={
                },
                "in attachments": {
                     "locators": [
-                         "SN1.12"
+                         "SN1.12",
+                         "SN4.8"
                     ],
                     "xrefs": []
                },
@@ -21904,6 +21928,12 @@ export const indexObject ={
                "Buddha sends monks out to teach": {
                     "locators": [
                          "SN4.5"
+                    ],
+                    "xrefs": []
+               },
+               "why Buddha teaches": {
+                    "locators": [
+                         "SN4.14"
                     ],
                     "xrefs": []
                }
@@ -41584,6 +41614,12 @@ export const indexObject ={
                          "SN56.34"
                     ],
                     "xrefs": []
+               },
+               "lifespan is short": {
+                    "locators": [
+                         "SN4.9"
+                    ],
+                    "xrefs": []
                }
           },
           "head-splitting": {
@@ -51963,6 +51999,13 @@ export const indexObject ={
                          "SN21.3"
                     ],
                     "xrefs": []
+               },
+               "of humans is short": {
+                    "locators": [
+                         "SN4.9",
+                         "SN4.10"
+                    ],
+                    "xrefs": []
                }
           },
           "lifestyles": {
@@ -52075,27 +52118,7 @@ export const indexObject ={
                     "xrefs": []
                }
           },
-          "lions": {
-               "simile for the Buddha": {
-                    "locators": [
-                         "AN10.21"
-                    ],
-                    "xrefs": []
-               },
-               "all fear, simile for arahants": {
-                    "locators": [
-                         "SN21.6"
-                    ],
-                    "xrefs": []
-               },
-               "simile for wisdom being best": {
-                    "locators": [
-                         "SN48.51"
-                    ],
-                    "xrefs": []
-               }
-          },
-          "lions roar": {
+          "lion’s roar": {
                "Buddha roars like": {
                     "locators": [
                          "MN92",
@@ -52130,6 +52153,32 @@ export const indexObject ={
                "simile for Buddha teaching": {
                     "locators": [
                          "SN22.78"
+                    ],
+                    "xrefs": []
+               },
+               "Māra questioning": {
+                    "locators": [
+                         "SN4.12"
+                    ],
+                    "xrefs": []
+               }
+          },
+          "lions": {
+               "simile for the Buddha": {
+                    "locators": [
+                         "AN10.21"
+                    ],
+                    "xrefs": []
+               },
+               "all fear, simile for arahants": {
+                    "locators": [
+                         "SN21.6"
+                    ],
+                    "xrefs": []
+               },
+               "simile for wisdom being best": {
+                    "locators": [
+                         "SN48.51"
                     ],
                     "xrefs": []
                }
@@ -54865,6 +54914,12 @@ export const indexObject ={
                "snake, taking form of": {
                     "locators": [
                          "SN4.6"
+                    ],
+                    "xrefs": []
+               },
+               "criticizing Buddha for sleeping": {
+                    "locators": [
+                         "SN4.7"
                     ],
                     "xrefs": []
                }
@@ -79017,6 +79072,12 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
+               "bait": {
+                    "locators": [
+                         "SN4.17"
+                    ],
+                    "xrefs": []
+               },
                "counter_value": 1
           },
           "sense bases (āyatana)": {
@@ -82373,7 +82434,15 @@ export const indexObject ={
                },
                "in daytime": {
                     "locators": [
-                         "MN36"
+                         "MN36",
+                         "SN4.7"
+                    ],
+                    "xrefs": []
+               },
+               "Buddha criticized for": {
+                    "locators": [
+                         "MN36",
+                         "SN4.7"
                     ],
                     "xrefs": []
                },
@@ -84326,7 +84395,8 @@ export const indexObject ={
           "splinter (sakalikā)": {
                "in Buddha’s foot": {
                     "locators": [
-                         "SN1.38"
+                         "SN1.38",
+                         "SN4.13"
                     ],
                     "xrefs": []
                }
@@ -85288,6 +85358,12 @@ export const indexObject ={
                "simile for dependent origination": {
                     "locators": [
                          "SN12.69"
+                    ],
+                    "xrefs": []
+               },
+               "simile for life wasting away": {
+                    "locators": [
+                         "SN4.10"
                     ],
                     "xrefs": []
                },
@@ -93429,6 +93505,12 @@ export const indexObject ={
                          "AN5.29"
                     ],
                     "xrefs": []
+               },
+               "Buddha practicing": {
+                    "locators": [
+                         "SN4.7"
+                    ],
+                    "xrefs": []
                }
           },
           "wall": {
@@ -94768,6 +94850,12 @@ export const indexObject ={
                          "SN41.5"
                     ],
                     "xrefs": []
+               },
+               "simile for life rolling on": {
+                    "locators": [
+                         "SN4.10"
+                    ],
+                    "xrefs": []
                }
           },
           "“when this exists, that comes to be…”": {
@@ -95163,6 +95251,20 @@ export const indexObject ={
                     "xrefs": [
                          "xref bodhipakkhiyā dhammā"
                     ]
+               }
+          },
+          "winnowing": {
+               "simile for fault finding": {
+                    "locators": [
+                         "Dhp252"
+                    ],
+                    "xrefs": []
+               },
+               "destroyed seeds, simile for destruction of unwholesome roots": {
+                    "locators": [
+                         "AN3.34"
+                    ],
+                    "xrefs": []
                }
           },
           "wisdom (paññā)": {
