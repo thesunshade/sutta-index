@@ -31750,6 +31750,266 @@ export const indexArray =[
           "asked about concentration"
      ],
      [
+          "DN1:1.0",
+          "Brahmadatta, wanderer",
+          "praising the triple gem"
+     ],
+     [
+          "DN1:1.0",
+          "Suppiya, wanderer",
+          "criticizing the triple gem"
+     ],
+     [
+          "DN1:1.0",
+          "criticism",
+          "how to respond to"
+     ],
+     [
+          "DN1:1.0",
+          "criticism",
+          "of triple gem"
+     ],
+     [
+          "DN1:1.0",
+          "praise (vaṇṇa)",
+          "of triple gem"
+     ],
+     [
+          "DN1:1.7.0.1",
+          "animals",
+          "not accepting as offering"
+     ],
+     [
+          "DN1:1.7.0.1",
+          "beds",
+          "luxurious, abstaining from"
+     ],
+     [
+          "DN1:1.7.0.1",
+          "bondservants (dāsa)",
+          "not accepting as offering"
+     ],
+     [
+          "DN1:1.7.0.1",
+          "business",
+          "wrong livelihood for monastics"
+     ],
+     [
+          "DN1:1.7.0.1",
+          "casting spells",
+          "abstaining from"
+     ],
+     [
+          "DN1:1.7.0.1",
+          "celibacy",
+          "Buddha practices"
+     ],
+     [
+          "DN1:1.7.0.1",
+          "celibacy",
+          "definition"
+     ],
+     [
+          "DN1:1.7.0.1",
+          "dancing",
+          "abstaining from"
+     ],
+     [
+          "DN1:1.7.0.1",
+          "deceit (kuhaka/māyāvī)",
+          "abstaining from"
+     ],
+     [
+          "DN1:1.7.0.1",
+          "disputes (viggaha)",
+          "abstaining from"
+     ],
+     [
+          "DN1:1.7.0.1",
+          "divisive speech, giving up",
+          "Buddha has"
+     ],
+     [
+          "DN1:1.7.0.1",
+          "divisive speech, giving up",
+          "definition"
+     ],
+     [
+          "DN1:1.7.0.1",
+          "eating in one time (ekabhattika)",
+          "Buddha practices"
+     ],
+     [
+          "DN1:1.7.0.1",
+          "entertainment",
+          "abstaining from"
+     ],
+     [
+          "DN1:1.7.0.1",
+          "errands",
+          "not running"
+     ],
+     [
+          "DN1:1.7.0.1",
+          "false speech, giving up",
+          "Buddha has"
+     ],
+     [
+          "DN1:1.7.0.1",
+          "false speech, giving up",
+          "definition"
+     ],
+     [
+          "DN1:1.7.0.1",
+          "fields",
+          "not accepting as offering"
+     ],
+     [
+          "DN1:1.7.0.1",
+          "fortune-tellers",
+          "abstaining from being"
+     ],
+     [
+          "DN1:1.7.0.1",
+          "fragrances",
+          "abstaining from"
+     ],
+     [
+          "DN1:1.7.0.1",
+          "gambling",
+          "monastics abstaining from"
+     ],
+     [
+          "DN1:1.7.0.1",
+          "girls",
+          "not accepting as offering"
+     ],
+     [
+          "DN1:1.7.0.1",
+          "gold and money (jātarūparajata)",
+          "abstaining from, monastic training"
+     ],
+     [
+          "DN1:1.7.0.1",
+          "grains",
+          "raw, not accepting"
+     ],
+     [
+          "DN1:1.7.0.1",
+          "killing, giving up",
+          "Buddha has"
+     ],
+     [
+          "DN1:1.7.0.1",
+          "killing, giving up",
+          "definition"
+     ],
+     [
+          "DN1:1.7.0.1",
+          "luxuries",
+          "abstaining from"
+     ],
+     [
+          "DN1:1.7.0.1",
+          "makeup",
+          "abstaining from"
+     ],
+     [
+          "DN1:1.7.0.1",
+          "matchmaking",
+          "abstaining from"
+     ],
+     [
+          "DN1:1.7.0.1",
+          "meat",
+          "raw, not accepting"
+     ],
+     [
+          "DN1:1.7.0.1",
+          "medicine",
+          "monastics not practicing"
+     ],
+     [
+          "DN1:1.7.0.1",
+          "messages",
+          "not running"
+     ],
+     [
+          "DN1:1.7.0.1",
+          "music",
+          "abstaining from"
+     ],
+     [
+          "DN1:1.7.0.1",
+          "plants",
+          "not injuring"
+     ],
+     [
+          "DN1:1.7.0.1",
+          "seeds",
+          "not injuring"
+     ],
+     [
+          "DN1:1.7.0.1",
+          "shows",
+          "abstaining from"
+     ],
+     [
+          "DN1:1.7.0.1",
+          "shows",
+          "in detail"
+     ],
+     [
+          "DN1:1.7.0.1",
+          "singing",
+          "abstaining from"
+     ],
+     [
+          "DN1:1.7.0.1",
+          "stealing, giving up",
+          "Buddha has"
+     ],
+     [
+          "DN1:1.7.0.1",
+          "stealing, giving up",
+          "definition"
+     ],
+     [
+          "DN1:1.7.0.1",
+          "storing up things",
+          "abstaining from"
+     ],
+     [
+          "DN1:1.7.0.1",
+          "useless speech (tiracchāna)",
+          "abstaining from"
+     ],
+     [
+          "DN1:1.7.0.1",
+          "useless speech, giving up",
+          "Buddha has"
+     ],
+     [
+          "DN1:1.7.0.1",
+          "useless speech, giving up",
+          "definition"
+     ],
+     [
+          "DN1:1.7.0.1",
+          "virtue (sīla)",
+          "trivial praise of Tathāgata"
+     ],
+     [
+          "DN1:1.7.0.1",
+          "women",
+          "not accepting as offering"
+     ],
+     [
+          "DN1:1.7.0.1",
+          "wrong livelihood (micchā ājīva)",
+          "abstaining from"
+     ],
+     [
           "DN2",
           "divisive speech",
           "definition"
@@ -40387,7 +40647,7 @@ export const indexArray =[
      [
           "MN27",
           "beds",
-          "luxurious, avoiding"
+          "luxurious, abstaining from"
      ],
      [
           "MN27",
@@ -40482,12 +40742,12 @@ export const indexArray =[
      [
           "MN27",
           "entertainment",
-          "avoiding"
+          "abstaining from"
      ],
      [
           "MN27",
           "errands",
-          "avoid running"
+          "not running"
      ],
      [
           "MN27",
@@ -40517,7 +40777,7 @@ export const indexArray =[
      [
           "MN27",
           "gold and money (jātarūparajata)",
-          "avoiding, monastic training"
+          "abstaining from, monastic training"
      ],
      [
           "MN27",
@@ -40592,7 +40852,7 @@ export const indexArray =[
      [
           "MN27",
           "makeup",
-          "avoiding"
+          "abstaining from"
      ],
      [
           "MN27",
@@ -40602,7 +40862,7 @@ export const indexArray =[
      [
           "MN27",
           "messages",
-          "avoid running"
+          "not running"
      ],
      [
           "MN27",
@@ -40622,7 +40882,7 @@ export const indexArray =[
      [
           "MN27",
           "perfume",
-          "avoiding"
+          "abstaining from"
      ],
      [
           "MN27",
@@ -40677,7 +40937,7 @@ export const indexArray =[
      [
           "MN27",
           "shows",
-          "avoiding"
+          "abstaining from"
      ],
      [
           "MN27",

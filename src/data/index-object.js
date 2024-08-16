@@ -3594,6 +3594,7 @@ export const indexObject ={
                },
                "not accepting as offering": {
                     "locators": [
+                         "DN1:1.7.0.1",
                          "MN27",
                          "MN51"
                     ],
@@ -8389,9 +8390,15 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
+               "luxurious, abstaining from": {
+                    "locators": [
+                         "DN1:1.7.0.1",
+                         "MN27"
+                    ],
+                    "xrefs": []
+               },
                "luxurious, avoiding": {
                     "locators": [
-                         "MN27",
                          "MN51"
                     ],
                     "xrefs": []
@@ -10157,6 +10164,7 @@ export const indexObject ={
                },
                "not accepting as offering": {
                     "locators": [
+                         "DN1:1.7.0.1",
                          "MN27",
                          "MN51"
                     ],
@@ -10495,6 +10503,14 @@ export const indexObject ={
                     "xrefs": [
                          "xref spiritual path (brahmacariya)"
                     ]
+               }
+          },
+          "Brahmadatta, wanderer": {
+               "praising the triple gem": {
+                    "locators": [
+                         "DN1:1.0"
+                    ],
+                    "xrefs": []
                }
           },
           "brahmās": {
@@ -12483,6 +12499,7 @@ export const indexObject ={
                },
                "wrong livelihood for monastics": {
                     "locators": [
+                         "DN1:1.7.0.1",
                          "MN27",
                          "MN51"
                     ],
@@ -12843,6 +12860,14 @@ export const indexObject ={
                },
                "counter_value": 2
           },
+          "casting spells": {
+               "abstaining from": {
+                    "locators": [
+                         "DN1:1.7.0.1"
+                    ],
+                    "xrefs": []
+               }
+          },
           "cat-skin bag": {
                "mind like a": {
                     "locators": [
@@ -13064,6 +13089,18 @@ export const indexObject ={
                     "locators": [
                          "SN1.58",
                          "SN1.76"
+                    ],
+                    "xrefs": []
+               },
+               "Buddha practices": {
+                    "locators": [
+                         "DN1:1.7.0.1"
+                    ],
+                    "xrefs": []
+               },
+               "definition": {
+                    "locators": [
+                         "DN1:1.7.0.1"
                     ],
                     "xrefs": []
                }
@@ -17705,6 +17742,7 @@ export const indexObject ={
                },
                "how to respond to": {
                     "locators": [
+                         "DN1:1.0",
                          "MN21"
                     ],
                     "xrefs": []
@@ -17727,6 +17765,12 @@ export const indexObject ={
                     "xrefs": [
                          "xref admonishment"
                     ]
+               },
+               "of triple gem": {
+                    "locators": [
+                         "DN1:1.0"
+                    ],
+                    "xrefs": []
                }
           },
           "criticizing noble ones": {
@@ -18015,6 +18059,12 @@ export const indexObject ={
                "people who refrain from are few": {
                     "locators": [
                          "SN56.81"
+                    ],
+                    "xrefs": []
+               },
+               "abstaining from": {
+                    "locators": [
+                         "DN1:1.7.0.1"
                     ],
                     "xrefs": []
                }
@@ -19259,6 +19309,12 @@ export const indexObject ={
                "not having leads to respect and harmony": {
                     "locators": [
                          "AN10.87"
+                    ],
+                    "xrefs": []
+               },
+               "abstaining from": {
+                    "locators": [
+                         "DN1:1.7.0.1"
                     ],
                     "xrefs": []
                }
@@ -23708,6 +23764,12 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
+               "abstaining from": {
+                    "locators": [
+                         "DN1:1.7.0.1"
+                    ],
+                    "xrefs": []
+               },
                "counter_value": 2
           },
           "disputes (vivadati)": {
@@ -24267,6 +24329,7 @@ export const indexObject ={
                },
                "definition": {
                     "locators": [
+                         "DN1:1.7.0.1",
                          "MN51",
                          "MN114",
                          "AN10.176"
@@ -24276,6 +24339,12 @@ export const indexObject ={
                "causes skillful qualities to grow": {
                     "locators": [
                          "MN114"
+                    ],
+                    "xrefs": []
+               },
+               "Buddha has": {
+                    "locators": [
+                         "DN1:1.7.0.1"
                     ],
                     "xrefs": []
                }
@@ -25766,6 +25835,12 @@ export const indexObject ={
                "monastic training": {
                     "locators": [
                          "MN27"
+                    ],
+                    "xrefs": []
+               },
+               "Buddha practices": {
+                    "locators": [
+                         "DN1:1.7.0.1"
                     ],
                     "xrefs": []
                }
@@ -27360,8 +27435,9 @@ export const indexObject ={
                          "xref singing"
                     ]
                },
-               "avoiding": {
+               "abstaining from": {
                     "locators": [
+                         "DN1:1.7.0.1",
                          "MN27"
                     ],
                     "xrefs": []
@@ -27638,9 +27714,15 @@ export const indexObject ={
                }
           },
           "errands": {
+               "not running": {
+                    "locators": [
+                         "DN1:1.7.0.1",
+                         "MN27"
+                    ],
+                    "xrefs": []
+               },
                "avoid running": {
                     "locators": [
-                         "MN27",
                          "MN51"
                     ],
                     "xrefs": []
@@ -30101,6 +30183,18 @@ export const indexObject ={
                          "MN27"
                     ],
                     "xrefs": []
+               },
+               "Buddha has": {
+                    "locators": [
+                         "DN1:1.7.0.1"
+                    ],
+                    "xrefs": []
+               },
+               "definition": {
+                    "locators": [
+                         "DN1:1.7.0.1"
+                    ],
+                    "xrefs": []
                }
           },
           "false spiritual claims": {
@@ -31821,6 +31915,7 @@ export const indexObject ={
           "fields": {
                "not accepting as offering": {
                     "locators": [
+                         "DN1:1.7.0.1",
                          "MN27",
                          "MN51"
                     ],
@@ -33668,6 +33763,12 @@ export const indexObject ={
                          "SN19.14"
                     ],
                     "xrefs": []
+               },
+               "abstaining from being": {
+                    "locators": [
+                         "DN1:1.7.0.1"
+                    ],
+                    "xrefs": []
                }
           },
           "foulness of body": {
@@ -34465,6 +34566,18 @@ export const indexObject ={
                "useless speech about": {
                     "locators": [
                          "AN10.69"
+                    ],
+                    "xrefs": []
+               },
+               "": {
+                    "locators": [],
+                    "xrefs": [
+                         "xref fragrances"
+                    ]
+               },
+               "abstaining from": {
+                    "locators": [
+                         "DN1:1.7.0.1"
                     ],
                     "xrefs": []
                }
@@ -35473,6 +35586,20 @@ export const indexObject ={
                          "AN8.54"
                     ],
                     "xrefs": []
+               },
+               "monastics abstaining from": {
+                    "locators": [
+                         "DN1:1.7.0.1"
+                    ],
+                    "xrefs": []
+               }
+          },
+          "games": {
+               "": {
+                    "locators": [],
+                    "xrefs": [
+                         "xref gambling"
+                    ]
                }
           },
           "Gaṇakamoggallāna, accountant": {
@@ -36330,6 +36457,7 @@ export const indexObject ={
           "girls": {
                "not accepting as offering": {
                     "locators": [
+                         "DN1:1.7.0.1",
                          "MN27",
                          "MN51"
                     ],
@@ -38445,8 +38573,9 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "avoiding, monastic training": {
+               "abstaining from, monastic training": {
                     "locators": [
+                         "DN1:1.7.0.1",
                          "MN27"
                     ],
                     "xrefs": []
@@ -39285,6 +39414,7 @@ export const indexObject ={
                },
                "raw, not accepting": {
                     "locators": [
+                         "DN1:1.7.0.1",
                          "MN27",
                          "MN51"
                     ],
@@ -49415,6 +49545,7 @@ export const indexObject ={
                },
                "definition": {
                     "locators": [
+                         "DN1:1.7.0.1",
                          "MN51",
                          "MN114",
                          "MN135",
@@ -49437,6 +49568,12 @@ export const indexObject ={
                "cause of long life": {
                     "locators": [
                          "MN135"
+                    ],
+                    "xrefs": []
+               },
+               "Buddha has": {
+                    "locators": [
+                         "DN1:1.7.0.1"
                     ],
                     "xrefs": []
                }
@@ -53810,6 +53947,12 @@ export const indexObject ={
                          "AN3.63"
                     ],
                     "xrefs": []
+               },
+               "abstaining from": {
+                    "locators": [
+                         "DN1:1.7.0.1"
+                    ],
+                    "xrefs": []
                }
           },
           "lying": {
@@ -54522,9 +54665,15 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
+               "abstaining from": {
+                    "locators": [
+                         "DN1:1.7.0.1",
+                         "MN27"
+                    ],
+                    "xrefs": []
+               },
                "avoiding": {
                     "locators": [
-                         "MN27",
                          "MN51"
                     ],
                     "xrefs": []
@@ -55122,6 +55271,14 @@ export const indexObject ={
                     "xrefs": []
                }
           },
+          "matchmaking": {
+               "abstaining from": {
+                    "locators": [
+                         "DN1:1.7.0.1"
+                    ],
+                    "xrefs": []
+               }
+          },
           "material things (āmisa)": {
                "not being heirs in": {
                     "locators": [
@@ -55227,6 +55384,7 @@ export const indexObject ={
                },
                "raw, not accepting": {
                     "locators": [
+                         "DN1:1.7.0.1",
                          "MN27",
                          "MN51"
                     ],
@@ -55333,6 +55491,12 @@ export const indexObject ={
                "simile for food": {
                     "locators": [
                          "SN35.239"
+                    ],
+                    "xrefs": []
+               },
+               "monastics not practicing": {
+                    "locators": [
+                         "DN1:1.7.0.1"
                     ],
                     "xrefs": []
                }
@@ -56443,9 +56607,15 @@ export const indexObject ={
                }
           },
           "messages": {
+               "not running": {
+                    "locators": [
+                         "DN1:1.7.0.1",
+                         "MN27"
+                    ],
+                    "xrefs": []
+               },
                "avoid running": {
                     "locators": [
-                         "MN27",
                          "MN51"
                     ],
                     "xrefs": []
@@ -60196,6 +60366,12 @@ export const indexObject ={
                "Bodhisatta and": {
                     "locators": [
                          "MN75"
+                    ],
+                    "xrefs": []
+               },
+               "abstaining from": {
+                    "locators": [
+                         "DN1:1.7.0.1"
                     ],
                     "xrefs": []
                }
@@ -67490,9 +67666,14 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
+               "abstaining from": {
+                    "locators": [
+                         "MN27"
+                    ],
+                    "xrefs": []
+               },
                "avoiding": {
                     "locators": [
-                         "MN27",
                          "MN51"
                     ],
                     "xrefs": []
@@ -67502,6 +67683,12 @@ export const indexObject ={
                          "SN56.80"
                     ],
                     "xrefs": []
+               },
+               "": {
+                    "locators": [],
+                    "xrefs": [
+                         "xref perfume"
+                    ]
                }
           },
           "perils (bhaya)": {
@@ -67940,6 +68127,7 @@ export const indexObject ={
                },
                "not injuring": {
                     "locators": [
+                         "DN1:1.7.0.1",
                          "MN27",
                          "MN51"
                     ],
@@ -69206,6 +69394,12 @@ export const indexObject ={
                "of good deeds": {
                     "locators": [
                          "SN55.7"
+                    ],
+                    "xrefs": []
+               },
+               "of triple gem": {
+                    "locators": [
+                         "DN1:1.0"
                     ],
                     "xrefs": []
                },
@@ -78142,6 +78336,7 @@ export const indexObject ={
           "seeds": {
                "not injuring": {
                     "locators": [
+                         "DN1:1.7.0.1",
                          "MN27",
                          "MN51"
                     ],
@@ -81287,10 +81482,22 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
+               "abstaining from": {
+                    "locators": [
+                         "DN1:1.7.0.1",
+                         "MN27"
+                    ],
+                    "xrefs": []
+               },
                "avoiding": {
                     "locators": [
-                         "MN27",
                          "MN51"
+                    ],
+                    "xrefs": []
+               },
+               "in detail": {
+                    "locators": [
+                         "DN1:1.7.0.1"
                     ],
                     "xrefs": []
                }
@@ -82024,6 +82231,12 @@ export const indexObject ={
                "people who refrain from are few": {
                     "locators": [
                          "SN56.81"
+                    ],
+                    "xrefs": []
+               },
+               "abstaining from": {
+                    "locators": [
+                         "DN1:1.7.0.1"
                     ],
                     "xrefs": []
                }
@@ -84811,6 +85024,7 @@ export const indexObject ={
                },
                "definition": {
                     "locators": [
+                         "DN1:1.7.0.1",
                          "MN51",
                          "MN114",
                          "AN10.176"
@@ -84820,6 +85034,12 @@ export const indexObject ={
                "causes skillful qualities to grow": {
                     "locators": [
                          "MN114"
+                    ],
+                    "xrefs": []
+               },
+               "Buddha has": {
+                    "locators": [
+                         "DN1:1.7.0.1"
                     ],
                     "xrefs": []
                }
@@ -85147,6 +85367,12 @@ export const indexObject ={
                "arahants": {
                     "locators": [
                          "Dhp92"
+                    ],
+                    "xrefs": []
+               },
+               "abstaining from": {
+                    "locators": [
+                         "DN1:1.7.0.1"
                     ],
                     "xrefs": []
                }
@@ -86641,6 +86867,14 @@ export const indexObject ={
                "foremost who care for the sick": {
                     "locators": [
                          "AN1.264"
+                    ],
+                    "xrefs": []
+               }
+          },
+          "Suppiya, wanderer": {
+               "criticizing the triple gem": {
+                    "locators": [
+                         "DN1:1.0"
                     ],
                     "xrefs": []
                }
@@ -91585,6 +91819,12 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
+               "abstaining from": {
+                    "locators": [
+                         "DN1:1.7.0.1"
+                    ],
+                    "xrefs": []
+               },
                "counter_value": 2
           },
           "useless speech, giving up": {
@@ -91609,6 +91849,7 @@ export const indexObject ={
                },
                "definition": {
                     "locators": [
+                         "DN1:1.7.0.1",
                          "MN51",
                          "MN114",
                          "AN10.176"
@@ -91618,6 +91859,12 @@ export const indexObject ={
                "causes skillful qualities to grow": {
                     "locators": [
                          "MN114"
+                    ],
+                    "xrefs": []
+               },
+               "Buddha has": {
+                    "locators": [
+                         "DN1:1.7.0.1"
                     ],
                     "xrefs": []
                }
@@ -93247,6 +93494,12 @@ export const indexObject ={
                "when faced with death": {
                     "locators": [
                          "SN3.25"
+                    ],
+                    "xrefs": []
+               },
+               "trivial praise of Tathāgata": {
+                    "locators": [
+                         "DN1:1.7.0.1"
                     ],
                     "xrefs": []
                }
@@ -96158,6 +96411,7 @@ export const indexObject ={
                },
                "not accepting as offering": {
                     "locators": [
+                         "DN1:1.7.0.1",
                          "MN27",
                          "MN51"
                     ],
@@ -97347,6 +97601,12 @@ export const indexObject ={
                "killers don’t prosper": {
                     "locators": [
                          "AN6.18"
+                    ],
+                    "xrefs": []
+               },
+               "abstaining from": {
+                    "locators": [
+                         "DN1:1.7.0.1"
                     ],
                     "xrefs": []
                },
