@@ -569,6 +569,13 @@ export const indexObject ={
                          "SN4.8"
                     ],
                     "xrefs": []
+               },
+               "snare": {
+                    "locators": [
+                         "SN4.20",
+                         "SN4.21"
+                    ],
+                    "xrefs": []
                }
           },
           "acrobats": {
@@ -12128,6 +12135,18 @@ export const indexObject ={
                          "SN4.13"
                     ],
                     "xrefs": []
+               },
+               "not getting almsfood": {
+                    "locators": [
+                         "SN4.18"
+                    ],
+                    "xrefs": []
+               },
+               "meditation after enlightenment": {
+                    "locators": [
+                         "SN4.24"
+                    ],
+                    "xrefs": []
                }
           },
           "“Buddha”, the word": {
@@ -17161,7 +17180,8 @@ export const indexObject ={
           "crabs": {
                "simile for defeat in argument": {
                     "locators": [
-                         "MN35"
+                         "MN35",
+                         "SN4.24"
                     ],
                     "xrefs": []
                }
@@ -17802,6 +17822,13 @@ export const indexObject ={
                }
           },
           "crows": {
+               "not finding something tasty, simile for Māra": {
+                    "locators": [
+                         "SN4.24",
+                         "Snp3.2"
+                    ],
+                    "xrefs": []
+               },
                "ten bad qualities of": {
                     "locators": [
                          "AN10.77"
@@ -18421,6 +18448,7 @@ export const indexObject ={
                          "SN1.9",
                          "SN1.34",
                          "SN1.38",
+                         "SN4.24",
                          "SN4.24",
                          "SN47.16"
                     ],
@@ -29911,6 +29939,12 @@ export const indexObject ={
                          "SN3.21"
                     ],
                     "xrefs": []
+               },
+               "going forth out of": {
+                    "locators": [
+                         "SN4.22"
+                    ],
+                    "xrefs": []
                }
           },
           "faith follower": {
@@ -37499,6 +37533,14 @@ export const indexObject ={
                     "xrefs": []
                }
           },
+          "Godhika, Ven.": {
+               "suicide": {
+                    "locators": [
+                         "SN4.23"
+                    ],
+                    "xrefs": []
+               }
+          },
           "gods": {
                "": {
                     "locators": [],
@@ -39771,6 +39813,16 @@ export const indexObject ={
                     "xrefs": []
                }
           },
+          "greed": {
+               "insatiable": {
+                    "locators": [
+                         "SN4.20",
+                         "Dhp186"
+                    ],
+                    "xrefs": []
+               },
+               "counter_value": 1
+          },
           "greed (giddhi)": {
                "giving up": {
                     "locators": [
@@ -39778,7 +39830,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "counter_value": 1
+               "counter_value": 2
           },
           "greed (lobha)": {
                "": {
@@ -39842,7 +39894,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "counter_value": 2
+               "counter_value": 3
           },
           "greed (rāga)": {
                "": {
@@ -39988,7 +40040,7 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
-               "counter_value": 3
+               "counter_value": 4
           },
           "greed, hatred, delusion": {
                "": {
@@ -41980,6 +42032,12 @@ export const indexObject ={
                          "AN4.178"
                     ],
                     "xrefs": []
+               },
+               "temporary": {
+                    "locators": [
+                         "SN4.23"
+                    ],
+                    "xrefs": []
                }
           },
           "heart’s release by compassion (karuṇā cetovimutti)": {
@@ -43735,6 +43793,12 @@ export const indexObject ={
                "compared to gravel, simile for Ven. Moggallāna": {
                     "locators": [
                          "SN21.3"
+                    ],
+                    "xrefs": []
+               },
+               "Buddha turning to gold": {
+                    "locators": [
+                         "SN4.20"
                     ],
                     "xrefs": []
                }
@@ -49537,6 +49601,12 @@ export const indexObject ={
                          "AN8.42"
                     ],
                     "xrefs": []
+               },
+               "without killing, etc.": {
+                    "locators": [
+                         "SN4.20"
+                    ],
+                    "xrefs": []
                }
           },
           "kinnara (kiṁpurisa)": {
@@ -54758,7 +54828,8 @@ export const indexObject ={
                },
                "encouraging Buddha not to teach": {
                     "locators": [
-                         "MN49"
+                         "MN49",
+                         "SN4.24"
                     ],
                     "xrefs": []
                },
@@ -54840,6 +54911,7 @@ export const indexObject ={
                },
                "cannot find arahant’s consciousness": {
                     "locators": [
+                         "SN4.23",
                          "SN22.87"
                     ],
                     "xrefs": []
@@ -54920,6 +54992,12 @@ export const indexObject ={
                "criticizing Buddha for sleeping": {
                     "locators": [
                          "SN4.7"
+                    ],
+                    "xrefs": []
+               },
+               "preventing Buddha from getting almsfood": {
+                    "locators": [
+                         "SN4.18"
                     ],
                     "xrefs": []
                }
@@ -69595,6 +69673,12 @@ export const indexObject ={
                          "SN3.13"
                     ],
                     "xrefs": []
+               },
+               "Dhamma visible in": {
+                    "locators": [
+                         "SN4.21"
+                    ],
+                    "xrefs": []
                }
           },
           "presumption (sārambha)": {
@@ -75904,6 +75988,14 @@ export const indexObject ={
                },
                "counter_value": 2
           },
+          "ruling": {
+               "": {
+                    "locators": [],
+                    "xrefs": [
+                         "xref kingship"
+                    ]
+               }
+          },
           "rumors": {
                "about the Buddha": {
                     "locators": [
@@ -76420,6 +76512,12 @@ export const indexObject ={
                "deva tells to enjoy sense pleasures": {
                     "locators": [
                          "SN1.20"
+                    ],
+                    "xrefs": []
+               },
+               "bothered by Māra": {
+                    "locators": [
+                         "SN4.22"
                     ],
                     "xrefs": []
                }
@@ -79078,6 +79176,12 @@ export const indexObject ={
                     ],
                     "xrefs": []
                },
+               "Māra having power over": {
+                    "locators": [
+                         "SN4.19"
+                    ],
+                    "xrefs": []
+               },
                "counter_value": 1
           },
           "sense bases (āyatana)": {
@@ -79595,8 +79699,9 @@ export const indexObject ={
                }
           },
           "sense pleasures (kāma, kāmaguṇa)": {
-               "as insatiable": {
+               "insatiable": {
                     "locators": [
+                         "SN4.20",
                          "Dhp186"
                     ],
                     "xrefs": []
@@ -80194,7 +80299,8 @@ export const indexObject ={
                },
                "encouraging someone to enjoy": {
                     "locators": [
-                         "SN1.20"
+                         "SN1.20",
+                         "SN4.21"
                     ],
                     "xrefs": []
                },
@@ -85753,6 +85859,8 @@ export const indexObject ={
                },
                "cause": {
                     "locators": [
+                         "SN4.20",
+                         "SN4.21",
                          "Snp5.5"
                     ],
                     "xrefs": []
@@ -86133,6 +86241,12 @@ export const indexObject ={
                          "SN1.55"
                     ],
                     "xrefs": []
+               },
+               "": {
+                    "locators": [],
+                    "xrefs": [
+                         "xref four noble truths"
+                    ]
                }
           },
           "suffering due to change (vipariṇāmadukkha)": {
@@ -86222,6 +86336,12 @@ export const indexObject ={
                "monks committing after meditation on ugliness": {
                     "locators": [
                          "SN54.9"
+                    ],
+                    "xrefs": []
+               },
+               "Ven. Godhika": {
+                    "locators": [
+                         "SN4.23"
                     ],
                     "xrefs": []
                }
@@ -88320,7 +88440,8 @@ export const indexObject ={
                },
                "sense pleasures take time": {
                     "locators": [
-                         "SN1.20"
+                         "SN1.20",
+                         "SN4.21"
                     ],
                     "xrefs": []
                }
