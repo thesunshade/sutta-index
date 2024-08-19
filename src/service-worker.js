@@ -43,7 +43,7 @@ registerRoute(
     }
     
     // Skip Netlify redirects (adjust this pattern as needed)
-    if (url.pathname.startsWith('/table') || url.pathname.startsWith('/.netlify')) {
+    if (url.pathname.startsWith('/table')) {
       return false;
     }
 
