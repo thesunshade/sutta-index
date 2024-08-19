@@ -10425,12 +10425,30 @@ export const indexObject ={
                          "SN45.4"
                     ],
                     "xrefs": []
+               },
+               "arising first in world system": {
+                    "locators": [
+                         "DN1:1.28.0.1"
+                    ],
+                    "xrefs": []
+               },
+               "ignorance": {
+                    "locators": [
+                         "DN1:1.28.0.1"
+                    ],
+                    "xrefs": []
                }
           },
           "Brahmā mansions": {
                "rebirth in": {
                     "locators": [
                          "Iti22"
+                    ],
+                    "xrefs": []
+               },
+               "empty appearing": {
+                    "locators": [
+                         "DN1:1.28.0.1"
                     ],
                     "xrefs": []
                }
@@ -10493,6 +10511,12 @@ export const indexObject ={
                "Baka Brahmā": {
                     "locators": [
                          "MN49"
+                    ],
+                    "xrefs": []
+               },
+               "arising first in world system": {
+                    "locators": [
+                         "DN1:1.28.0.1"
                     ],
                     "xrefs": []
                }
@@ -16873,8 +16897,15 @@ export const indexObject ={
                "": {
                     "locators": [],
                     "xrefs": [
+                         "xref eternalism (sassatavāda)",
                          "xref world system (lokadhātu)"
                     ]
+               },
+               "contracting and expanding": {
+                    "locators": [
+                         "DN1:1.28.0.1"
+                    ],
+                    "xrefs": []
                }
           },
           "cotton wool (kappāsapicu, tūlapicu)": {
@@ -20781,6 +20812,12 @@ export const indexObject ={
                "admonishing monks": {
                     "locators": [
                          "SN2.25"
+                    ],
+                    "xrefs": []
+               },
+               "depraved/corrupted by play": {
+                    "locators": [
+                         "DN1:1.28.0.1"
                     ],
                     "xrefs": []
                }
@@ -27883,6 +27920,18 @@ export const indexObject ={
                "Buddha not siding with": {
                     "locators": [
                          "SN44.10"
+                    ],
+                    "xrefs": []
+               },
+               "in detail": {
+                    "locators": [
+                         "DN1:1.28.0.1"
+                    ],
+                    "xrefs": []
+               },
+               "partial": {
+                    "locators": [
+                         "DN1:1.28.0.1"
                     ],
                     "xrefs": []
                }
@@ -47485,6 +47534,12 @@ export const indexObject ={
                          "SN51.20"
                     ],
                     "xrefs": []
+               },
+               "views about the self, etc.": {
+                    "locators": [
+                         "DN1:1.28.0.1"
+                    ],
+                    "xrefs": []
                }
           },
           "investigation of meaning (atthūpaparikkhā)": {
@@ -52965,6 +53020,12 @@ export const indexObject ={
                          "AN3.65",
                          "AN3.66",
                          "AN4.193"
+                    ],
+                    "xrefs": []
+               },
+               "views about the self, etc.": {
+                    "locators": [
+                         "DN1:1.28.0.1"
                     ],
                     "xrefs": []
                }
@@ -60264,6 +60325,12 @@ export const indexObject ={
                "simile for old age and death": {
                     "locators": [
                          "SN3.25"
+                    ],
+                    "xrefs": []
+               },
+               "self stable like": {
+                    "locators": [
+                         "DN1:1.28.0.1"
                     ],
                     "xrefs": []
                }
@@ -67984,6 +68051,12 @@ export const indexObject ={
                          "SN1.37"
                     ],
                     "xrefs": []
+               },
+               "self stable like": {
+                    "locators": [
+                         "DN1:1.28.0.1"
+                    ],
+                    "xrefs": []
                }
           },
           "pillow": {
@@ -68040,6 +68113,14 @@ export const indexObject ={
                "praising the Buddha": {
                     "locators": [
                          "AN5.195"
+                    ],
+                    "xrefs": []
+               }
+          },
+          "pītibhakkhā": {
+               "feeding on": {
+                    "locators": [
+                         "DN1:1.28.0.1"
                     ],
                     "xrefs": []
                }
@@ -72698,6 +72779,12 @@ export const indexObject ={
                "worthy of gifts": {
                     "locators": [
                          "AN10.97"
+                    ],
+                    "xrefs": []
+               },
+               "leading to views": {
+                    "locators": [
+                         "DN1:1.28.0.1"
                     ],
                     "xrefs": []
                }
@@ -92508,6 +92595,7 @@ export const indexObject ={
                },
                "grounds for (diṭṭhiṭṭhāna)": {
                     "locators": [
+                         "DN1:1.28.0.1",
                          "MN22"
                     ],
                     "xrefs": []
@@ -92582,6 +92670,12 @@ export const indexObject ={
                     "locators": [
                          "SN47.3",
                          "SN47.15"
+                    ],
+                    "xrefs": []
+               },
+               "various": {
+                    "locators": [
+                         "DN1:1.28.0.1"
                     ],
                     "xrefs": []
                }
@@ -92674,6 +92768,12 @@ export const indexObject ={
                "aggregates": {
                     "locators": [
                          "MN131"
+                    ],
+                    "xrefs": []
+               },
+               "in detail": {
+                    "locators": [
+                         "DN1:1.28.0.1"
                     ],
                     "xrefs": []
                },

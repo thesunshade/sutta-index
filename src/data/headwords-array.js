@@ -2015,6 +2015,7 @@ export const headwordsArray =[
      "Piṇḍola Bhāradvāja, Ven.",
      "Piṅgalakoccha, brahmin",
      "Piṅgiyānī, brahmin",
+     "pītibhakkhā",
      "pits",
      "places",
      "placing of the mind and keeping it connected (vitakkavicārā)",

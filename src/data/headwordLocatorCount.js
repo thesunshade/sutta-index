@@ -296,6 +296,10 @@ export const indexObject =[
           32
      ],
      [
+          "devas",
+          32
+     ],
+     [
           "anger (kodha)",
           32
      ],
@@ -317,10 +321,6 @@ export const indexObject =[
      ],
      [
           "faculties, spiritual (indriya)",
-          31
-     ],
-     [
-          "devas",
           31
      ],
      [
@@ -652,6 +652,10 @@ export const indexObject =[
           20
      ],
      [
+          "views (diṭṭhi)",
+          19
+     ],
+     [
           "questions, answering",
           19
      ],
@@ -689,10 +693,6 @@ export const indexObject =[
      ],
      [
           "wanderers of other sects (aññatitthiya paribbājaka)",
-          18
-     ],
-     [
-          "views (diṭṭhi)",
           18
      ],
      [
@@ -1060,6 +1060,10 @@ export const indexObject =[
           13
      ],
      [
+          "mountains",
+          13
+     ],
+     [
           "moon",
           13
      ],
@@ -1173,10 +1177,6 @@ export const indexObject =[
      ],
      [
           "nāgas",
-          12
-     ],
-     [
-          "mountains",
           12
      ],
      [
@@ -1309,6 +1309,10 @@ export const indexObject =[
      ],
      [
           "pleasure (sukha)",
+          11
+     ],
+     [
+          "pillars",
           11
      ],
      [
@@ -1457,10 +1461,6 @@ export const indexObject =[
      ],
      [
           "pots",
-          10
-     ],
-     [
-          "pillars",
           10
      ],
      [
@@ -1736,6 +1736,10 @@ export const indexObject =[
           9
      ],
      [
+          "eternalism (sassatavāda)",
+          9
+     ],
+     [
           "enduring (adhivāsana)",
           9
      ],
@@ -1761,6 +1765,10 @@ export const indexObject =[
      ],
      [
           "caste",
+          9
+     ],
+     [
+          "Brahmā",
           9
      ],
      [
@@ -1809,6 +1817,10 @@ export const indexObject =[
      ],
      [
           "views about the world",
+          8
+     ],
+     [
+          "views about the self (attavāda)",
           8
      ],
      [
@@ -1908,6 +1920,10 @@ export const indexObject =[
           8
      ],
      [
+          "logic (takka)",
+          8
+     ],
+     [
           "leaves",
           8
      ],
@@ -1996,10 +2012,6 @@ export const indexObject =[
           8
      ],
      [
-          "eternalism (sassatavāda)",
-          8
-     ],
-     [
           "energy, stirring up (vīriyārambha)",
           8
      ],
@@ -2037,10 +2049,6 @@ export const indexObject =[
      ],
      [
           "brahmā realm (brahmaloka)",
-          8
-     ],
-     [
-          "Brahmā",
           8
      ],
      [
@@ -2093,10 +2101,6 @@ export const indexObject =[
      ],
      [
           "water lilies",
-          7
-     ],
-     [
-          "views about the self (attavāda)",
           7
      ],
      [
@@ -2165,6 +2169,10 @@ export const indexObject =[
      ],
      [
           "reeds",
+          7
+     ],
+     [
+          "recollection of past lives",
           7
      ],
      [
@@ -2269,10 +2277,6 @@ export const indexObject =[
      ],
      [
           "loved ones",
-          7
-     ],
-     [
-          "logic (takka)",
           7
      ],
      [
@@ -2597,10 +2601,6 @@ export const indexObject =[
      ],
      [
           "recollection of virtue (sīlānussati)",
-          6
-     ],
-     [
-          "recollection of past lives",
           6
      ],
      [
@@ -3796,6 +3796,10 @@ export const indexObject =[
           4
      ],
      [
+          "investigation (vīmaṁsā)",
+          4
+     ],
+     [
           "integrity",
           4
      ],
@@ -4664,10 +4668,6 @@ export const indexObject =[
           3
      ],
      [
-          "investigation (vīmaṁsā)",
-          3
-     ],
-     [
           "internal serenity of mind (ajjhattaṁ cetosamatha)",
           3
      ],
@@ -5069,6 +5069,10 @@ export const indexObject =[
      ],
      [
           "bubbles",
+          3
+     ],
+     [
+          "Brahmā, Great",
           3
      ],
      [
@@ -6956,7 +6960,7 @@ export const indexObject =[
           2
      ],
      [
-          "Brahmā, Great",
+          "Brahmā mansions",
           2
      ],
      [
@@ -8417,6 +8421,10 @@ export const indexObject =[
      ],
      [
           "placing of the mind and keeping it connected (vitakkavicārā)",
+          1
+     ],
+     [
+          "pītibhakkhā",
           1
      ],
      [
@@ -10108,6 +10116,10 @@ export const indexObject =[
           1
      ],
      [
+          "cosmos",
+          1
+     ],
+     [
           "corrupted mind (saṅkiliṭṭhacitta)",
           1
      ],
@@ -10333,10 +10345,6 @@ export const indexObject =[
      ],
      [
           "Brahmā of a thousand (sahasso brahmā)",
-          1
-     ],
-     [
-          "Brahmā mansions",
           1
      ],
      [
