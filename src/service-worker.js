@@ -26,25 +26,33 @@ precacheAndRoute(self.__WB_MANIFEST);
 // https://developers.google.com/web/fundamentals/architecture/app-shell
 const fileExtensionRegexp = new RegExp('/[^/?]+\\.[^/]+$');
 registerRoute(
-  // Return false to exempt requests from being fulfilled by index.html.
   ({ request, url }) => {
     // If this isn't a navigation, skip.
     if (request.mode !== 'navigate') {
       return false;
-    } // If this is a URL that starts with /_, skip.
-
+    }
+    
+    // Skip URLs that start with /_ (e.g., API calls)
     if (url.pathname.startsWith('/_')) {
       return false;
-    } // If this looks like a URL for a resource, because it contains // a file extension, skip.
-
+    }
+    
+    // Skip URLs that look like a file (e.g., /some/file.png)
     if (url.pathname.match(fileExtensionRegexp)) {
       return false;
-    } // Return true to signal that we want to use the handler.
+    }
+    
+    // Skip Netlify redirects (adjust this pattern as needed)
+    if (url.pathname.startsWith('/table') || url.pathname.startsWith('/.netlify')) {
+      return false;
+    }
 
+    // If all checks pass, handle the request with index.html
     return true;
   },
   createHandlerBoundToURL(process.env.PUBLIC_URL + '/index.html')
 );
+
 
 // An example runtime caching route for requests that aren't handled by the
 // precache, in this case same-origin .png requests like those from in public/
