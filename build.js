@@ -478,7 +478,7 @@ function createIndexObject() {
   </body>`;
 
   try {
-    fs.writeFileSync("./public/locatorCountTable.html", headwordLocatorCountHTML);
+    fs.writeFileSync("./public/locatorcounttable.html", headwordLocatorCountHTML);
     console.log("✅ headwordLocatorCountHTML written");
   } catch (err) {
     console.log("❌There was an error writing headwordLocatorCountHTML");
