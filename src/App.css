@@ -164,28 +164,7 @@ html {
 
 }
 
-/* .book-selector {
-  display: flex;
-  flex-direction: row;
-  justify-content: space-between;
-  max-width: 35rem;
-  min-width: 0;
-}
 
-.book-button {
-  color: black;
-  font-family: "Fira Code";
-  padding: 4px 4px 3px 3px;
-  text-decoration: none !important;
-}
-
-.book-button:visited {
-  color: black;
-}
-
-.dark .book-button:visited {
-  color: var(--offwhite);
-} */
 
 @media only screen and (max-width: 475px) {
   .alphabet {
@@ -492,9 +471,7 @@ a:visited {
   color: purple
 }
 
-/* .dont-show-visited .sub-word a:visited {
-  color: #0066cc
-} */
+
 
 .xref-link {
   color: #007b00
@@ -528,8 +505,6 @@ a:visited {
 }
 
 .head-word-area {
-  /* padding-left: var(--indent);
-  text-indent: calc(-1 * var(--indent)); */
   padding-top: .7rem;
   padding-bottom: .2rem;
   position: sticky;
@@ -550,7 +525,6 @@ a:visited {
 .headword-link,
 .headword-link:visited {
   color: var(--offblack);
-  /* padding-right: 1.5rem; */
   word-spacing: inherit;
   position: relative;
   text-decoration: none !important;
@@ -563,48 +537,28 @@ a:visited {
 }
 
 .link-icon {
-  /* position: relative;
-  top: .2rem; */
   padding-right: .1rem;
 }
 
 .copy-icon {
-  /* position: relative;
-  top: .1rem; */
   padding-right: .1rem;
 }
 
-.filter-icon {
-  /* position: relative;
-  top: .2rem; */
-}
-
-.search-icon {
-  /* position: relative;
-  top: .3rem; */
-}
 
 .stats-icon {
-  /* position: relative;
-  top: .2rem; */
   padding-right: .2rem;
 }
 
 .head-icon {
-  /* position: relative;
-  top: .1rem; */
   margin-right: .2rem;
 }
 
 .locator-icon {
-  /* position: relative;
-  top: .1rem; */
   right: .1rem;
   margin-right: .1rem;
 }
 
 .search-results {
-  /* height: 10rem; */
   overflow-y: auto;
   overflow-x: hidden;
 }
@@ -698,57 +652,6 @@ a:visited {
   font-size: .7rem;
   text-align: right;
 }
-
-/* .locator-sorted-table {
-  font-family: "Fira Sans ExtraCompressed";
-  border-collapse: collapse;
-  width: 40rem;
-  table-layout: fixed;
-  margin-top: 5rem;
-  border: 1px solid
-}
-
-.table-header-row {
-  top: 4.6rem;
-  position: sticky;
-  border: solid 1px;
-  background: var(--primary)
-}
-
-.book-header-row {
-  background: var(--primary) !important
-}
-
-.dark .table-header-row,
-.dark .book-header-row {
-  background: var(--dark-primary) !important
-}
-
-td h2 {
-  padding-top: 1rem
-}
-
-td,
-th {
-  border: 1px solid #a8a8a8;
-  text-align: left;
-  padding: 2px;
-}
-
-.dark td,
-.dark th {
-  border: 1px solid #716363;
-  text-align: left;
-  padding: 8px;
-}
-
-tr:nth-child(even) {
-  background-color: #dddddd;
-}
-
-.dark tr:nth-child(even) {
-  background-color: #2b201f;
-} */
 
 .no-results {
   max-width: 30rem;
@@ -911,10 +814,6 @@ strong {
   .settings-bar {
     display: none
   }
-
-}
-
-.color-view {
 
 }
 
