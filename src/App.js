@@ -23,7 +23,6 @@ export const ContextDestination = createContext();
 
 function App() {
   const [destination, setDestination] = useState(localStorage.destination ? localStorage.destination : "SC");
-  const [isLocatorView, setIsLocatorView] = useState(false);
 
   const [searchText, setSearchText] = useState("");
 
@@ -56,15 +55,7 @@ function App() {
     }
   });
 
-  function toggleTableView() {
-    if (isLocatorView === false) {
-      setIsLocatorView(true);
-      sessionStorage.locatorView = true;
-    } else {
-      setIsLocatorView(false);
-      sessionStorage.locatorView = false;
-    }
-  }
+
 
   function toggleColorView() {
     if (localStorage.coloredLocators === "true") {
@@ -110,7 +101,7 @@ function App() {
               }}></img>
           </div>
         </div>
-        {isLocatorView ? <BookSelector /> : <Alphabet />}
+        <Alphabet />
         <div id="info-area" className="info-area hidden hideable-area">
           <Info />
         </div>
@@ -155,13 +146,9 @@ function App() {
         </div>
       </div>
       {/* close settings bar */}
-      {isLocatorView ? (
-        <LocatorSortedTable />
-      ) : (
         <ContextDestination.Provider value={destination}>
           <SuttaIndex />
         </ContextDestination.Provider>
-      )}
     </div>
   );
 }
