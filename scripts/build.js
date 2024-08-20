@@ -619,32 +619,32 @@ function createLocatorSortedTableHtml(locatorBookObject) {
 
   @font-face {
   font-family: "Fira Sans ExtraCompressed";
-  src: url("../src/fonts/firasansextracondensed-regular-webfont.woff") format('woff'),
-    url("../src/fonts/firasansextracondensed-regular-webfont.woff2") format('woff2');
+  src: url("../static/media/firasansextracondensed-regular-webfont.woff") format('woff'),
+    url("../static/media/firasansextracondensed-regular-webfont.woff2") format('woff2');
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
   font-family: "Fira Sans ExtraCompressed";
-  src: url("../src/fonts/firasansextracondensed-medium-webfont.woff") format('woff'),
-    url("../src/fonts/firasansextracondensed-medium-webfont.woff2") format('woff2');
+  src: url("../static/media/firasansextracondensed-medium-webfont.woff") format('woff'),
+    url("../static/media/firasansextracondensed-medium-webfont.woff2") format('woff2');
   font-weight: bold;
   font-style: normal;
 }
 
 @font-face {
   font-family: "Fira Sans ExtraCompressed";
-  src: url("../src/fonts/firasansextracondensed-italic-webfont.woff") format('woff'),
-    url("../src/fonts/firasansextracondensed-italic-webfont.woff2") format('woff2');
+  src: url("../static/media/firasansextracondensed-italic-webfont.woff") format('woff'),
+    url("../static/media/firasansextracondensed-italic-webfont.woff2") format('woff2');
   font-weight: normal;
   font-style: italic;
 }
 
 @font-face {
   font-family: "Fira Code";
-  src: url("../src/fonts/firacode-bold-webfont.woff") format('woff'),
-    url("../src/fonts/firacode-bold-webfont.woff2") format('woff2');
+  src: url("../static/media/firacode-bold-webfont.woff") format('woff'),
+    url("../static/media/firacode-bold-webfont.woff2") format('woff2');
   font-weight: bold;
   font-style: normal;
 }
