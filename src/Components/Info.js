@@ -100,6 +100,12 @@ export default function Info() {
             </a>{" "}
             sorted by number of unique locators.
           </p>
+          <p>
+            <a href="/sutta-table" rel="noreferrer" target="_blank">
+              Table of suttas
+            </a>{" "}
+            with headwords and sub-heads.
+          </p>
           <p>Proper names may refer to multiple distinct individuals. Also note that some identical looking names may be gendered versions, e.g. Visākhā and Visākha.</p>
           <p>Some mobile devices may allow you to install this site for offline use. On Android, click on the browser menu and look for an option to “Add to home screen” or “Install.” On Apple devices, from the sharesheet choose “add to homescreen” on iOS or “add to dock” on MacOS.</p>
         </div>

@@ -164,7 +164,7 @@ html {
 
 }
 
-.book-selector {
+/* .book-selector {
   display: flex;
   flex-direction: row;
   justify-content: space-between;
@@ -185,7 +185,7 @@ html {
 
 .dark .book-button:visited {
   color: var(--offwhite);
-}
+} */
 
 @media only screen and (max-width: 475px) {
   .alphabet {
@@ -699,7 +699,7 @@ a:visited {
   text-align: right;
 }
 
-.locator-sorted-table {
+/* .locator-sorted-table {
   font-family: "Fira Sans ExtraCompressed";
   border-collapse: collapse;
   width: 40rem;
@@ -728,17 +728,6 @@ td h2 {
   padding-top: 1rem
 }
 
-
-/*This was needed before the sutta name was added to the table*/
-/* thead th.first-column {
-  width: 15% !important;
-}
-
-head th.second-column,
-head th.third-column {
-  width: 40% !important;
-} */
-
 td,
 th {
   border: 1px solid #a8a8a8;
@@ -759,7 +748,7 @@ tr:nth-child(even) {
 
 .dark tr:nth-child(even) {
   background-color: #2b201f;
-}
+} */
 
 .no-results {
   max-width: 30rem;

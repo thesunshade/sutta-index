@@ -1,4 +1,4 @@
-import { allSuttasPaliNameDictionary } from "../data/allSuttasPaliNameDictionary";
+import { allSuttasPaliNameDictionary } from "../data/allSuttasPaliNameDictionary.js";
 
 export default function getSuttaTitle(citation) {
   const strippedCitation = citation.replace(/:.*/, "");

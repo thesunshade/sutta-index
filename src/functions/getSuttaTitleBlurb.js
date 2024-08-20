@@ -1,5 +1,5 @@
-import { allSuttasPaliNameDictionary } from "../data/allSuttasPaliNameDictionary";
-import { blurbs } from "../data/blurbs";
+import { allSuttasPaliNameDictionary } from "../data/allSuttasPaliNameDictionary.js";
+import { blurbs } from "../data/blurbs.js";
 
 export default function getSuttaTitleBlurb(citation) {
   let title = "";

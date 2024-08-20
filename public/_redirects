@@ -1,3 +1,5 @@
 # Redirects from what the browser requests to what we serve
 
 /table /locatorcounttable.html 200!
+/sutta-table /locatorsortedtable.html 200!
+
