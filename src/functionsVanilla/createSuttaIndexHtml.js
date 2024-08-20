@@ -40,13 +40,13 @@ export default function createSuttaIndexHtml(indexObject) {
         <div class="top-row">
           <div class="search-area"></div>
           <div id="theme-button" class="theme-button">
-            <img class="icon" height="20" alt="Toggle theme" src="../src/images/8673129_ic_fluent_dark_theme_filled.png" />
+            <img class="icon" height="20"  src="../src/images/8673129_ic_fluent_dark_theme_filled.png" />
           </div>
           <div class="settings-button">
-            <img class="icon" width="17px" alt="Settings Toggle" src="../src/images/settings.png"/>
+            <img class="icon" width="17px"  src="../src/images/settings.png"/>
           </div>
           <div className="settings-button">
-            <img class="icon" width="17px" alt="Settings Toggle" src="../src/images/info-dot.png" />
+            <img class="icon" width="17px"  src="../src/images/info-dot.png" />
           </div>
         </div>
         <div class="alphabet">
