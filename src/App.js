@@ -116,22 +116,13 @@ function App() {
         </div>
         <SearchResults searchText={searchText} setSearchText={setSearchText} />
         <div id="options-area" className="options-area hidden  hideable-area">
-          <label className="table-view">
-            <button
-              onClick={() => {
-                toggleTableView();
-              }}>
-              Toggle Table View
-            </button>{" "}
-            To see listing by book
-          </label>
           <label className="color-view">
             <button
               onClick={() => {
                 toggleColorView();
               }}>
               Toggle Color
-            </button>
+            </button> of citations by book
           </label>
           <div
             className="radiobuttonarea"
