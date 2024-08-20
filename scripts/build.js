@@ -617,37 +617,7 @@ function createLocatorSortedTableHtml(locatorBookObject) {
   <title>Locators sorted by sutta</title>
   <style>
 
-  @font-face {
-  font-family: "Fira Sans ExtraCompressed";
-  src: url("../static/media/firasansextracondensed-regular-webfont.woff") format('woff'),
-    url("../static/media/firasansextracondensed-regular-webfont.woff2") format('woff2');
-  font-weight: normal;
-  font-style: normal;
-}
-
-@font-face {
-  font-family: "Fira Sans ExtraCompressed";
-  src: url("../static/media/firasansextracondensed-medium-webfont.woff") format('woff'),
-    url("../static/media/firasansextracondensed-medium-webfont.woff2") format('woff2');
-  font-weight: bold;
-  font-style: normal;
-}
-
-@font-face {
-  font-family: "Fira Sans ExtraCompressed";
-  src: url("../static/media/firasansextracondensed-italic-webfont.woff") format('woff'),
-    url("../static/media/firasansextracondensed-italic-webfont.woff2") format('woff2');
-  font-weight: normal;
-  font-style: italic;
-}
-
-@font-face {
-  font-family: "Fira Code";
-  src: url("../static/media/firacode-bold-webfont.woff") format('woff'),
-    url("../static/media/firacode-bold-webfont.woff2") format('woff2');
-  font-weight: bold;
-  font-style: normal;
-}
+ @import url('https://fonts.googleapis.com/css2?family=Fira+Sans+Extra+Condensed:wght@400;700&display=swap');
 
   :root {
   --indent: 3.5rem;
@@ -685,13 +655,15 @@ function createLocatorSortedTableHtml(locatorBookObject) {
   top: 0rem;
   position: sticky;
   height:2rem;
+  border-bottom: .1rem solid black;
 }
 
 .book-button {
   color: black;
-  font-family: "Fira Code";
+  font-family: "Fira Sans Extra Condensed";
   padding: 4px 4px 3px 3px;
   text-decoration: none !important;
+  font-weight:bold;
 }
 
 .book-button:visited {
@@ -703,7 +675,7 @@ function createLocatorSortedTableHtml(locatorBookObject) {
 }
 
 .locator-sorted-table {
-  font-family: "Fira Sans ExtraCompressed";
+  font-family: "Fira Sans Extra Condensed";
   border-collapse: collapse;
   width: 40rem;
   table-layout: fixed;
@@ -711,14 +683,15 @@ function createLocatorSortedTableHtml(locatorBookObject) {
 }
 
 .table-header-row {
-  top: 2rem;
+  top: 2.1rem;
   position: sticky;
   border: solid 1px;
-  background: var(--primary)
+  background: var(--primary);
+
 }
 
 .book-header-row {
-  background: var(--primary) !important
+  background: var(--primary) !important;
 }
 
 .dark .table-header-row,
@@ -726,9 +699,7 @@ function createLocatorSortedTableHtml(locatorBookObject) {
   background: var(--dark-primary) !important
 }
 
-td h2 {
-  padding-top: 1rem
-}
+
 
 td,
 th {
