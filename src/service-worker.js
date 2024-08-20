@@ -45,7 +45,7 @@ registerRoute(
     console.log(url.pathname);
 
     // Skip Netlify redirects (adjust this pattern as needed)
-    if (url.pathname.startsWith('/table') || url.pathname.startsWith('/sutta-table') ) {
+    if (url.pathname.startsWith('/table') || url.pathname.startsWith('/sutta-table') || url.pathname.startsWith('/src/fonts') ) {
       return false;
     }
 
