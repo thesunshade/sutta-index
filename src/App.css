@@ -151,7 +151,6 @@ html {
   align-items: center;
   padding: .5rem 0;
   min-width: 360px;
-
 }
 
 .alphabet {
@@ -161,7 +160,6 @@ html {
   justify-content: space-between;
   max-width: 35rem;
   min-width: 0;
-
 }
 
 
@@ -685,9 +683,6 @@ a:visited {
   }
 
   .head-word-area {
-    /* padding-left: var(--mobile-indent);
-    text-indent: calc(-1 * var(--mobile-indent)); 
-    padding-top: 1.6rem */
     top: 5.2rem;
   }
 

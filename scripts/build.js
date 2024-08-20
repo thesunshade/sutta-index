@@ -2,12 +2,13 @@
 import fs from "fs";
 import getSuttaTitle from "../src/functions/getSuttaTitle.js";
 import getSuttaBlurb from "../src/functions/getSuttaBlurb.js";
+import createSuttaIndexHtml from "../src/functionsVanilla/createSuttaIndexHtml.js";
 
 let locatorFirstArray = [];
 let rawIndexArray = [];
 let alphabetKeys;
 let xrefArray = [];
-const newObject = {
+const indexObject = {
   A: {},
   B: {},
   C: {},
@@ -345,13 +346,13 @@ function createIndexObject() {
     });
   }
 
-  alphabetKeys = Object.keys(newObject);
+  alphabetKeys = Object.keys(indexObject);
 
   for (let i = 0; i < alphabetKeys.length; i++) {
     const unsortHeadwObj = alphabetGroupedObject[alphabetKeys[i]];
     const sortedHeadwObjArr = sortedKeys(unsortHeadwObj);
     for (let x = 0; x < sortedHeadwObjArr.length; x++) {
-      newObject[alphabetKeys[i]][sortedHeadwObjArr[x]] = alphabetGroupedObject[alphabetKeys[i]][sortedHeadwObjArr[x]];
+      indexObject[alphabetKeys[i]][sortedHeadwObjArr[x]] = alphabetGroupedObject[alphabetKeys[i]][sortedHeadwObjArr[x]];
     }
   }
 
@@ -361,19 +362,19 @@ function createIndexObject() {
 
   for (let i = 0; i < alphabetKeys.length; i++) {
     const letter = alphabetKeys[i];
-    const headwords = Object.keys(newObject[letter]);
+    const headwords = Object.keys(indexObject[letter]);
     let counter = 1;
     for (let x = 0; x < headwords.length - 1; x++) {
       const currentHeadword = headwords[x];
       const currentRootHeadword = getRootHeadword(headwords[x]);
       const nextRootHeadword = getRootHeadword(headwords[x + 1]);
       if (currentRootHeadword === nextRootHeadword) {
-        newObject[letter][currentHeadword].counter_value = counter;
+        indexObject[letter][currentHeadword].counter_value = counter;
         counter++;
       } else if (x > 0) {
         const previousRootHeadword = getRootHeadword(headwords[x - 1]);
         if (currentRootHeadword === previousRootHeadword) {
-          newObject[letter][currentHeadword].counter_value = counter;
+          indexObject[letter][currentHeadword].counter_value = counter;
           counter = 1;
         }
       }
@@ -383,10 +384,10 @@ function createIndexObject() {
   // count number of unique locators per headword
 
   let locatorCountHeadwordsList = [];
-  const alphabetList = Object.keys(newObject);
+  const alphabetList = Object.keys(indexObject);
   for (let i = 0; i < alphabetList.length; i++) {
     const letter = alphabetList[i];
-    const letterObject = newObject[letter];
+    const letterObject = indexObject[letter];
     const headwordArray = Object.keys(letterObject);
 
     // console.log(letterObject[headwordArray[0]]);
@@ -414,7 +415,7 @@ function createIndexObject() {
   });
   locatorCountHeadwordsList.reverse();
 
-  const object = `export const indexObject =${JSON.stringify(newObject, null, 5)}`;
+  const object = `export const indexObject =${JSON.stringify(indexObject, null, 5)}`;
   try {
     fs.writeFileSync("../src/data/index-object.js", object);
     console.log("✅ indexObject written");
@@ -486,6 +487,8 @@ function createIndexObject() {
     console.log("❌There was an error writing headwordLocatorCountHTML");
     console.error(err);
   }
+
+  createSuttaIndexHtml(indexObject);
 }
 
 function createHeadingsArray() {
@@ -497,7 +500,7 @@ function createHeadingsArray() {
 
   let listOfHeadwords = [];
   for (let i = 0; i < alphabetKeys.length; i++) {
-    const headwords = Object.keys(newObject[alphabetKeys[i]]);
+    const headwords = Object.keys(indexObject[alphabetKeys[i]]);
     listOfHeadwords.push(headwords);
   }
   listOfHeadwords = listOfHeadwords.flat();

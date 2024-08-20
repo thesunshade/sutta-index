@@ -20,7 +20,6 @@ import iconCopyText from "../images/copy-text.png";
 function Headword(props) {
   let { headword, headwordObject } = props;
   let sortedSubWords = sortedKeys(headwordObject);
-
   sortedSubWords = sortedSubWords.filter(item => item !== "counter_value");
 
   let headwordWithCount;
