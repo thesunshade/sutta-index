@@ -6,8 +6,6 @@ import Info from "./Components/Info.js";
 import OtherToolsIcons from "./Components/OtherToolsIcons.js";
 import HeadwordsSearchTool from "./Components/HeadwordsSearchTool.js";
 import SearchResults from "./Components/SearchResults.js";
-import LocatorSortedTable from "./Components/LocatorSortedTable.js";
-import BookSelector from "./Components/BookSelector";
 import Alphabet from "./Components/Alphabet.js";
 // images
 import settingsIcon from "./images/settings.png";
@@ -54,8 +52,6 @@ function App() {
       }
     }
   });
-
-
 
   function toggleColorView() {
     if (localStorage.coloredLocators === "true") {
@@ -113,7 +109,8 @@ function App() {
                 toggleColorView();
               }}>
               Toggle Color
-            </button> of citations by book
+            </button>{" "}
+            of citations by book
           </label>
           <div
             className="radiobuttonarea"
@@ -146,9 +143,9 @@ function App() {
         </div>
       </div>
       {/* close settings bar */}
-        <ContextDestination.Provider value={destination}>
-          <SuttaIndex />
-        </ContextDestination.Provider>
+      <ContextDestination.Provider value={destination}>
+        <SuttaIndex />
+      </ContextDestination.Provider>
     </div>
   );
 }
