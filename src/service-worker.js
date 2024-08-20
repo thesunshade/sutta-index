@@ -43,7 +43,7 @@ registerRoute(
     }
     
     // Skip Netlify redirects (adjust this pattern as needed)
-    if (url.pathname.startsWith('/table')) {
+    if (url.pathname.startsWith('/table') || url.pathname.startsWith('/sutta-table') ) {
       return false;
     }
 
