@@ -64,6 +64,17 @@ html {
   box-sizing: border-box
 }
 
+p {
+  margin: 0;
+  font-family: "Fira Sans Extra Condensed";
+}
+
+a {
+  text-decoration: none;
+  white-space: nowrap;
+  word-spacing: -3px;
+}
+
 .settings-bar {
   background-color: var(--primary);
   position: fixed;
@@ -204,6 +215,28 @@ html {
   padding-left: 6.5rem;
   text-indent: -2rem;
   line-height: 1.4rem;
+}
+
+a.xref-link {
+  white-space: inherit;
+  word-spacing: inherit;
+}
+
+.xref-link {
+  color: #007b00;
+  font-style: italic;
+}
+
+.xref-link:visited {
+  color: #007b00
+}
+
+.dark .xref-link {
+  color: #00af00
+}
+
+.dark .xref-link:visited {
+  color: #00af00
 }
 
 .locator {

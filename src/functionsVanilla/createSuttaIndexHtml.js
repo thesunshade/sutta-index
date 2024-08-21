@@ -83,13 +83,23 @@ export default function createSuttaIndexHtml(indexObject) {
           ${sortedSubWords
             .map(subhead => {
               let locatorListObject = headwordsObject[headword][subhead];
-              return `<div class="sub-word">${subhead}
+              return `<div class="sub-word">${subhead === "" ? (sortedSubWords.length === 1 ? "see " : "see also ") : subhead}
               <span class="locator-list">
+
+              ${locatorListObject.xrefs
+                .map((xref, index) => {
+                  xref = xref.replace("xref ", "");
+                  return `<a href="#${makeNormalizedId(xref)}" class="xref-link"> 
+                  ${xref} </a>${index + 1 === locatorListObject.xrefs.length ? "" : "; <br>"} `;
+                })
+                .join("")}
+
+
               ${locatorListObject.locators
                 .map((locator, index) => {
-                  return `<a href="${`https://suttacentral.net/${citationOnly(locator)}/en/sujato${segmentOnly(locator)}`}" title="${getSuttaBlurb(locator)}" target="_blank" rel="noreferrer" class="${justBook(locator) + " locator"}"> 
-              ${locator} <small class="sutta-name">${getSuttaTitle(locator)}</small>
-            </a>${index + 1 === locatorListObject.locators.length ? "" : ", "} `;
+                  return `<a href="${`https://suttacentral.net/${citationOnly(locator)}/en/sujato${segmentOnly(locator)}`}" target="_blank" rel="noreferrer" class="${justBook(locator) + " locator"}"> 
+                  ${locator} <small class="sutta-name">${getSuttaTitle(locator)}</small>
+                </a>${index + 1 === locatorListObject.locators.length ? "" : ", "} `;
                 })
                 .join("")}
               </div>
