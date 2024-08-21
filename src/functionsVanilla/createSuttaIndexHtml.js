@@ -97,7 +97,7 @@ export default function createSuttaIndexHtml(indexObject) {
 
               ${locatorListObject.locators
                 .map((locator, index) => {
-                  return `<a href="${`https://suttacentral.net/${citationOnly(locator)}/en/sujato${segmentOnly(locator)}`}" target="_blank" rel="noreferrer" class="${justBook(locator) + " locator"}"> 
+                  return `<a href="${`https://suttacentral.net/${citationOnly(locator)}/en/sujato${segmentOnly(locator)}`}" target="_blank" rel="noreferrer" class="${justBook(locator) + " locator"}"  title="${getSuttaBlurb(locator)}"> 
                   ${locator} <small class="sutta-name">${getSuttaTitle(locator)}</small>
                 </a>${index + 1 === locatorListObject.locators.length ? "" : ", "} `;
                 })
