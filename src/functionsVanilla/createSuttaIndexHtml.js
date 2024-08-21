@@ -34,7 +34,7 @@ export default function createSuttaIndexHtml(indexObject) {
       <title>HTML Index</title>
       ${suttaIndexHtmlStyles}
       </head>
-      <body>
+      <body class="colored-locators">
       <div id="sutta-index" className="sutta-index">
       <div class="settings-bar">
         <div class="top-row">
@@ -73,10 +73,12 @@ export default function createSuttaIndexHtml(indexObject) {
             let sortedSubWords = sortedKeys(headwordsObject[headword]);
 
             sortedSubWords = sortedSubWords.filter(item => item !== "counter_value");
-            return `<div class="head-word-area">
+            return `
+            <div id="${makeNormalizedId(headword)}">
+            <div class="head-word-area">
           <a class="headword-link" href=${"#" + makeNormalizedId(headword)}>
           <span class="head-word">
-          ${headword}</span>
+          ${headword}</span></a>
           </div>
           ${sortedSubWords
             .map(subhead => {
@@ -86,12 +88,10 @@ export default function createSuttaIndexHtml(indexObject) {
               ${locatorListObject.locators
                 .map(locator => {
                   return `<a href="${`https://suttacentral.net/${citationOnly(locator)}/en/sujato${segmentOnly(locator)}`}" title="${getSuttaBlurb(locator)}" target="_blank" rel="noreferrer" class="${justBook(locator) + " locator"}"> 
-              ${locator} <small>${getSuttaTitle(locator)}</small>
-            </a>
-                  , `;
+              ${locator} <small class="sutta-name">${getSuttaTitle(locator)}</small>
+            </a>, `;
                 })
                 .join("")}
-              </div>
               </div>
               `;
             })

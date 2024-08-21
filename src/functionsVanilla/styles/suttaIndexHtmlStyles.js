@@ -174,7 +174,6 @@ html {
   position: sticky;
   top: 4.2rem;
   background-color: var(--offwhite);
-  z-index:1;
 }
 
 .dark .head-word-area {
@@ -212,7 +211,6 @@ text-decoration: none
 }
 
 .colored-locators .locator {
-  padding: 1.5px;
   border: solid 1px rgb(220, 220, 220);
 }
 
@@ -267,6 +265,50 @@ text-decoration: none
 .colored-locators .thig {
   background-color: var(--thig);
 }
+
+@media only screen and (max-width: 475px) {
+  .alphabet {
+    max-width: 100% !important;
+  }
+}
+
+@media only screen and (max-width: 475px) {
+  body {
+    font-family: "Fira Sans Extra Condensed";
+  }
+
+  .sutta-index {
+    line-height: 130%;
+    margin: 6rem 1rem;
+  }
+
+  input {
+    max-width: 9rem;
+  }
+
+  .head-word-area {
+    top: 5.2rem;
+  }
+
+  .sub-word {
+    padding-left: var(--mobile-indent);
+    text-indent: initial;
+  }
+
+}
+
+@media only screen and (max-width: 475px) {
+
+  .alphabet {
+    margin-top: .75rem;
+    margin-bottom: .75rem;
+  }
+
+  .sutta-name {
+    display: none;
+  }
+}
+
 
   </style>
 `;
