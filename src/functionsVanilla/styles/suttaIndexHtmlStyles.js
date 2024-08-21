@@ -1,7 +1,12 @@
 export const suttaIndexHtmlStyles = `
 <style>
 
-@import url('https://fonts.googleapis.com/css2?family=Fira+Sans+Extra+Condensed:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans+Extra+Condensed:wght@400;500&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans:ital,wght@0,400;0,500;1,400&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@700&display=swap');
+
 *,
 *::before,
 *::after {
@@ -39,7 +44,7 @@ App {
 }
 
 body {
-  font-family: "Fira Sans Extra Condensed";
+  font-family: "Fira Sans";
   min-height: 100vh;
   line-height: 125%;
   background-color: var(--offwhite);
@@ -66,7 +71,7 @@ html {
 
 p {
   margin: 0;
-  font-family: "Fira Sans Extra Condensed";
+  font-family: "Fira Sans";
 }
 
 a {
@@ -120,7 +125,7 @@ a {
 }
 
 .alphabet {
-  font-family: "Fira Sans Extra Condensed";
+  font-family: "Fira Code";
   display: flex;
   flex-direction: row;
   justify-content: space-between;
@@ -160,6 +165,60 @@ a {
   background-color: var(--dark-primary);
 }
 
+/*.search-results {
+  overflow-y: auto;
+  overflow-x: hidden;
+}*/
+
+.link-list, .search-results {
+  overflow-y: auto;
+  overflow-x: hidden;
+  max-height: 50vh;
+  background-color: var(--offwhite);
+  margin: 0 0 1rem 0;
+  max-width: var(--max-width);
+  overscroll-behavior: contain;
+  padding: 10px;
+}
+
+.search-results:empty {
+  display: none;
+}
+
+.link-list a:hover {
+  background-color: var(--primary);
+  color: black;
+}
+
+
+.link-list div {
+  list-style: none;
+  text-indent: -1rem;
+}
+
+
+.menu-item {
+  padding-left: 1rem;
+  text-indent: -1rem;
+  display: block;
+  cursor: pointer;
+}
+
+.menu-item:hover {
+  background-color: var(--primary);
+  color: black;
+}
+
+.link-list div {
+  padding-left: 1rem;
+  display: block
+}
+
+.separator {
+    border-top: 1px solid #ddd;
+    margin: 0.5rem 0;
+}
+
 .alphabet-anchor {
   font-size: 1.6rem;
   border-bottom: solid #3f3f3f 2px;
@@ -167,7 +226,7 @@ a {
   margin-left: 1rem;
   color: #3f3f3f;
   padding-bottom: .5rem;
-  font-weight: bold;
+  font-weight: 500;
   font-family: "Fira Code";
 
 }
@@ -192,9 +251,15 @@ a {
 }
 
 .head-word {
-  font-weight: bold;
+  font-weight: 500;
   display: flex;
   align-items: center;
+}
+
+.counter {
+  align-self: flex-start; 
+  font-size: .83em;
+  color: gray;
 }
 
 .headword-link,

@@ -1,6 +1,8 @@
 import fs from "fs";
 import makeNormalizedId from "../functions/makeNormalizedId.js";
 import { suttaIndexHtmlStyles } from "./styles/suttaIndexHtmlStyles.js";
+import { scriptsText } from "./scriptsText.js";
+import { headwordsArray } from "../data/headwords-array.js";
 import sortedKeys from "../functions/sortedKeys.js";
 import getSuttaBlurb from "../functions/getSuttaBlurb.js";
 import getSuttaTitle from "../functions/getSuttaTitle.js";
@@ -38,7 +40,9 @@ export default function createSuttaIndexHtml(indexObject) {
       <div id="sutta-index" className="sutta-index">
       <div class="settings-bar">
         <div class="top-row">
-          <div class="search-area"></div>
+          <div class="search-area">
+          <input type="text" id="search-box" placeholder="Search...">
+          </div>
           <div id="theme-button" class="theme-button">
             <img class="icon" height="20"  src="8673129_ic_fluent_dark_theme_filled.png" />
           </div>
@@ -58,7 +62,22 @@ export default function createSuttaIndexHtml(indexObject) {
           })
           .join("")}
         </div>
+        <div id="results" class="search-results"></div>
       </div>`;
+
+  function injectCounterNumber(headword, counterNumber) {
+    let headwordWithCount;
+    if (counterNumber) {
+      let rootHeadword = headword.split(" (");
+      if (rootHeadword.length === 1) {
+        headwordWithCount = `${rootHeadword[0]} <span class="counter">${counterNumber}</span>`;
+        return headwordWithCount;
+      } else {
+        headwordWithCount = `${rootHeadword[0]} <span class="counter">${counterNumber}</span> (${rootHeadword[1]}`;
+        return headwordWithCount;
+      }
+    } else return headword;
+  }
 
   const index = alphabet
     .map(letter => {
@@ -78,7 +97,8 @@ export default function createSuttaIndexHtml(indexObject) {
             <div class="head-word-area">
           <a class="headword-link" href=${"#" + makeNormalizedId(headword)}>
           <span class="head-word">
-          ${headword}</span></a>
+          ${injectCounterNumber(headword, headwordsObject[headword].counter_value)}
+          </span></a>
           </div>
           ${sortedSubWords
             .map(subhead => {
@@ -115,7 +135,8 @@ export default function createSuttaIndexHtml(indexObject) {
 
   suttaIndexHtml +=
     index +
-    `<div>
+    `</div>
+    <script type="module" src="scripts.js"></script>
   </body>
   </html>`;
 
@@ -124,6 +145,18 @@ export default function createSuttaIndexHtml(indexObject) {
     console.log("🌐 suttaIndexHtml written");
   } catch (err) {
     console.log("❌There was an error writing suttaIndexHtml");
+    console.error(err);
+  }
+
+  let headwordsArraryText = "const headwordsArray =" + JSON.stringify(headwordsArray, null, 2);
+
+  const script = headwordsArraryText + "\n\n" + scriptsText;
+
+  try {
+    fs.writeFileSync("../public/scripts.js", script);
+    console.log("🛠️ scripts.js written");
+  } catch (err) {
+    console.log("❌There was an error writing scripts.js");
     console.error(err);
   }
 }
