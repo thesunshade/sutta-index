@@ -86,10 +86,10 @@ export default function createSuttaIndexHtml(indexObject) {
               return `<div class="sub-word">${subhead}
               <span class="locator-list">
               ${locatorListObject.locators
-                .map(locator => {
+                .map((locator, index) => {
                   return `<a href="${`https://suttacentral.net/${citationOnly(locator)}/en/sujato${segmentOnly(locator)}`}" title="${getSuttaBlurb(locator)}" target="_blank" rel="noreferrer" class="${justBook(locator) + " locator"}"> 
               ${locator} <small class="sutta-name">${getSuttaTitle(locator)}</small>
-            </a>, `;
+            </a>${index + 1 === locatorListObject.locators.length ? "" : ", "} `;
                 })
                 .join("")}
               </div>
