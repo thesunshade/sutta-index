@@ -5,6 +5,7 @@ import { scriptsText } from "./scriptsText.js";
 import { copyScriptsText } from "./copyScriptsText.js";
 import { themeScriptsText } from "./themeScriptsText.js";
 import { headwordsArray } from "../data/headwords-array.js";
+import { infoAreaHtml } from "./infoAreaHtml.js";
 import sortedKeys from "../functions/sortedKeys.js";
 import getSuttaBlurb from "../functions/getSuttaBlurb.js";
 import getSuttaTitle from "../functions/getSuttaTitle.js";
@@ -12,11 +13,38 @@ import justBook from "../functions/justBook.js";
 import convertVatthus from "../functions/convertVatthus.js";
 
 export default function createSuttaIndexHtml(indexObject) {
+  function makeUrl(locator) {
+    if (/^CUSTOM:/.test(locator)) {
+      const components = locator.split(":");
+      return "https://" + components[3];
+    } else if (isVatthu(locator)) {
+      return `https://suttafriends.org/${convertVatthus(locator)}`;
+    } else {
+      return `https://suttacentral.net/${citationOnly(locator)}/en/sujato${segmentOnly(locator)}`;
+    }
+  }
+  function makeLinkText(locator) {
+    if (/^CUSTOM:/.test(locator)) {
+      const components = locator.split(":");
+      return components[2];
+    } else {
+      return locator;
+    }
+  }
+  function makeLinkClass(locator) {
+    if (/^CUSTOM:/.test(locator)) {
+      const components = locator.split(":");
+      return "custom " + components[1].toLowerCase();
+    } else {
+      return justBook(locator);
+    }
+  }
+
   function citationOnly(locator) {
     if (locator.includes(":")) {
       return locator.split(":")[0].toLowerCase();
     }
-    return locator.replace(/–.+/, "");
+    return locator.replace(/–.+/, "").toLowerCase();
   }
 
   function segmentOnly(locator) {
@@ -42,7 +70,7 @@ export default function createSuttaIndexHtml(indexObject) {
       <meta http-equiv="X-UA-Compatible" content="IE=edge">
       <meta name="viewport" content="width=device-width, initial-scale=1.0">
       <link rel="icon" type="image/png" sizes="32x32" href="favicon-html.png">
-      <title>HTML Index</title>
+      <title>Comprehensive Index of Pāli Suttas</title>
       ${suttaIndexHtmlStyles}
       </head>
       <body id="app" class="app colored-locators hide-snack-bar">
@@ -59,9 +87,9 @@ export default function createSuttaIndexHtml(indexObject) {
           <!-- <div class="settings-button">
             <img class="icon" width="17px"  src="settings.png"/>
           </div> -->
-          <!-- <div class="settings-button">
+          <div id="info-button" class="settings-button">
             <img class="icon" width="17px"  src="info-dot.png" />
-          </div> -->
+          </div>
         </div>
         <div class="alphabet">
         ${alphabet
@@ -73,6 +101,7 @@ export default function createSuttaIndexHtml(indexObject) {
           .join("")}
         </div>
         <div id="results" class="search-results"></div>
+        <div id="info-area" class="info-area hidden">${infoAreaHtml}</div>
       </div>
       <div id="sutta-index" class="sutta-index">`;
 
@@ -125,8 +154,8 @@ export default function createSuttaIndexHtml(indexObject) {
                 .join("")}
               ${locatorListObject.locators
                 .map((locator, index) => {
-                  return `<a href="${isVatthu(locator) ? `https://suttafriends.org/${convertVatthus(locator)}` : `https://suttacentral.net/${citationOnly(locator)}/en/sujato${segmentOnly(locator)}`}" target="_blank" rel="noreferrer" class="${justBook(locator) + " locator"}"  title="${getSuttaBlurb(locator)}"> 
-                  ${locator} <small class="sutta-name">${getSuttaTitle(locator)}</small>
+                  return `<a href="${makeUrl(locator)}" target="_blank" rel="noreferrer" class="${makeLinkClass(locator) + " locator"}"  ${getSuttaBlurb(locator) ? `title="${getSuttaBlurb(locator)}"` : ""}> 
+                  ${makeLinkText(locator)} ${getSuttaTitle(locator) ? `<small class="sutta-name">${getSuttaTitle(locator)}</small>` : ""}
                 </a>${index + 1 === locatorListObject.locators.length ? "" : ", "} `;
                 })
                 .join("")}

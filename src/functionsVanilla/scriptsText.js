@@ -12,6 +12,7 @@ function normalizeString(str) {
 }
 
 function renderResults({query, firstOnly}) {
+    hideInfo()
     resultsContainer.innerHTML = '';
     if (!query) return;
 
@@ -85,6 +86,7 @@ const regex = new RegExp('(' + escapedQuery + ')', 'gi');
 function clearResults() {
     resultsContainer.innerHTML = '';
     activeIndex = -1;
+    hideInfo()
 }
 
 function handleKeyboardNavigation(e) {
@@ -105,6 +107,7 @@ function handleKeyboardNavigation(e) {
     } else if (e.key === 'Escape') {
         searchBox.value = '';
         clearResults();
+        hideInfo()
         searchBox.focus();
     }
     items.forEach((item, index) => {
@@ -124,6 +127,7 @@ document.addEventListener('keydown', (e) => {
     if (e.key === 'Escape' && document.activeElement !== searchBox) {
         searchBox.value = '';
         clearResults();
+        hideInfo()
         searchBox.focus();
     }
 });
@@ -160,9 +164,47 @@ function handleBodyClick(event) {
         return;
     }
     clearResults();
+    hideInfo()
 }
 
 document.body.addEventListener('click', handleBodyClick);
+
+// info area
+
+// Add event listener to the info button
+    document.getElementById('info-button').addEventListener('click', toggleInfo);
+    
+    function hideInfo(){
+    const infoArea = document.getElementById('info-area')
+    infoArea.classList.add('hidden');
+    }
+
+    function toggleInfo(){
+        const infoArea = document.getElementById('info-area')
+
+        if (infoArea.classList.contains("hidden")){
+        clearResults();
+        infoArea.classList.remove('hidden');
+        } else {
+        infoArea.classList.add("hidden") 
+        }
+    }
+
+      const allDetails = document.querySelectorAll("details");
+
+  allDetails.forEach(details => {
+    details.addEventListener("toggle", e => {
+      if (details.open) {
+        allDetails.forEach(details => {
+          if (details !== e.target && details.open) {
+            details.open = false;
+          }
+        });
+      }
+    });
+  });
+
+
 
 // ---------------------------------
 

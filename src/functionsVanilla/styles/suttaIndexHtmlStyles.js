@@ -89,15 +89,10 @@ export const suttaIndexHtmlStyles = `
   accent-color: black;
 }
 
-app {
-  max-width: 100vw;
-  max-height:100vh;
-}
-
 body {
+  max-height:100vh;
   max-width: 100vw;
   font-family: "Fira Sans";
-  min-height: 100vh;
   line-height: 125%;
   background-color: var(--offwhite);
   margin: 0;
@@ -138,7 +133,6 @@ a {
   position: fixed;
   top: 0;
   width: 100vw;
-
   box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
   padding: 0 10px;
   z-index: 100;
@@ -541,6 +535,39 @@ text-decoration: none
   box-shadow: 1px -1px 3px rgb(0, 0, 0);
 }
 
+.info-area {
+  padding: 1rem 0 1rem;
+  min-width: 10rem;
+  max-height: 70vh;
+  overflow-y: auto;
+  border-top: solid 1px;
+  overscroll-behavior: contain;
+}
+
+.hidden {
+display:none
+}
+
+.info-area p {
+  line-height: 130%;
+  margin-bottom: .7rem;
+
+}
+
+.info-area a,
+.info-area a:visited {
+  color: rgb(0, 48, 207)
+}
+
+details summary {
+  cursor: pointer;
+}
+
+details>div {
+  border-left: solid 2px black;
+  margin-left: .7rem;
+  padding-left: .7rem;
+}
 
 
   </style>
