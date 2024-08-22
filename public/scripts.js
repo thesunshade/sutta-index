@@ -3055,11 +3055,11 @@ function normalizeString(str) {
     return str
         .normalize('NFD')                       // Decompose diacritics
         .replace(/[̀-ͯ]/g, '')        // Remove diacritics
-        .replace(/[s,;.“”'"’/()]/g, '')        // Remove spaces and punctuation
+        .replace(/[\s,;.“”'"’/()]/g, '')        // Remove spaces and punctuation
         .toLowerCase();
 }
 
-function renderResults(query) {
+function renderResults({query, firstOnly}) {
     resultsContainer.innerHTML = '';
     if (!query) return;
 
@@ -3072,18 +3072,19 @@ function renderResults(query) {
         const normalizedItem = normalizeString(item);
         if (normalizedItem.startsWith(normalizedQuery)) {
             startsWith.push(item);
-        } else if (normalizedItem.includes(normalizedQuery)) {
+        } else if (normalizedItem.includes(normalizedQuery)&&!firstOnly) {
             contains.push(item);
         }
     });
 
-    startsWith.forEach(item => createResultItem(item, query));
+    startsWith.forEach(item => createResultItem(item, query, firstOnly));
     if (startsWith.length && contains.length) {
         const separator = document.createElement('div');
         separator.className = 'separator';
         resultsContainer.appendChild(separator);
     }
-    contains.forEach(item => createResultItem(item, query));
+    contains.forEach(item => createResultItem(item, query, firstOnly));
+    resultsContainer.scrollTop = 0
 }
 
 function makeNormalizedId(text) {
@@ -3100,7 +3101,7 @@ function makeNormalizedId(text) {
         .replace(/[,;.“”'"’/()]/g, "");
 }
 
-function createResultItem(item, query) {
+function createResultItem(item, query, firstOnly) {
     const resultItem = document.createElement('div');
     resultItem.className = 'menu-item search-result';
 
@@ -3111,7 +3112,12 @@ function createResultItem(item, query) {
     const escapedQuery = query.replace(/[-/\^$*+?.()|[]{}]/g, '\$&');
 const regex = new RegExp('(' + escapedQuery + ')', 'gi');
 
-    const highlightedItem = item.replace(regex, '<strong>$1</strong>');
+    let highlightedItem;
+
+    if (firstOnly){
+    highlightedItem = item;
+    } else {
+     highlightedItem = item.replace(regex, '<strong>$1</strong>');}
 
     resultItem.innerHTML = highlightedItem;
 
@@ -3154,7 +3160,7 @@ function handleKeyboardNavigation(e) {
     });
 }
 
-searchBox.addEventListener('input', () => renderResults(searchBox.value));
+searchBox.addEventListener('input', () => renderResults({query: searchBox.value, firstOnly: false}));
 searchBox.addEventListener('keydown', handleKeyboardNavigation);
 
 document.addEventListener('keydown', (e) => {
@@ -3165,11 +3171,45 @@ document.addEventListener('keydown', (e) => {
     }
 });
 
+
+// Function to focus on search box and select all its content
+        function focusAndSelectSearchBox() {
+            const searchBox = document.getElementById('search-box');
+            searchBox.focus();
+            searchBox.setSelectionRange(searchBox.value.length, searchBox.value.length);
+            searchBox.select();
+        }
+
+// Add event listener for window focus
+window.addEventListener('focus', focusAndSelectSearchBox);
+
+        
+// Function to handle letter button clicks
+function handleLetterClick(event) {
+    const clickedLetter = event.target.textContent.trim();
+    renderResults({query: clickedLetter, firstOnly: true});
+}
+
+// Attach event listeners to all letter buttons
+document.querySelectorAll('.letter').forEach(button => {
+    button.addEventListener('click', handleLetterClick);
+});
+
+
 function handleBodyClick(event) {
-            console.log(event)
-            clearResults()
-            }
+    const settingsBar = document.getElementById('settings-bar');
+    if (settingsBar.contains(event.target)) {
+        // If the click is inside the settings-bar, do nothing
+        return;
+    }
+    console.log(event);
+    clearResults();
+}
+
 document.body.addEventListener('click', handleBodyClick);
+
+
+
 
 
 // copy heading to clipboard
@@ -3197,6 +3237,10 @@ document.addEventListener('DOMContentLoaded', () => {
     }, 900);
   }
 
+
+
+
+
 // Function to apply the theme based on localStorage
         function applyTheme() {
             const theme = localStorage.getItem('theme');
@@ -3215,7 +3259,6 @@ document.addEventListener('DOMContentLoaded', () => {
                 document.body.classList.remove('dark');
                 document.body.classList.add('light');
                 localStorage.setItem('theme', 'light');
-                console.log("toggle")
             } else {
                 document.body.classList.remove('light');
                 document.body.classList.add('dark');
@@ -3229,13 +3272,4 @@ document.addEventListener('DOMContentLoaded', () => {
         // Add event listener to the theme button
         document.getElementById('theme-button').addEventListener('click', toggleTheme);
 
-// Function to focus on search box and select all its content
-        function focusAndSelectSearchBox() {
-            const searchBox = document.getElementById('search-box');
-            searchBox.focus();
-            searchBox.setSelectionRange(searchBox.value.length, searchBox.value.length);
-            searchBox.select();
-        }
 
-        // Add event listener for window focus
-        window.addEventListener('focus', focusAndSelectSearchBox);

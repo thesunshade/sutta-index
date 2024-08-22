@@ -2,18 +2,21 @@ import fs from "fs";
 import makeNormalizedId from "../functions/makeNormalizedId.js";
 import { suttaIndexHtmlStyles } from "./styles/suttaIndexHtmlStyles.js";
 import { scriptsText } from "./scriptsText.js";
+import { copyScriptsText } from "./copyScriptsText.js";
+import { themeScriptsText } from "./themeScriptsText.js";
 import { headwordsArray } from "../data/headwords-array.js";
 import sortedKeys from "../functions/sortedKeys.js";
 import getSuttaBlurb from "../functions/getSuttaBlurb.js";
 import getSuttaTitle from "../functions/getSuttaTitle.js";
 import justBook from "../functions/justBook.js";
+import convertVatthus from "../functions/convertVatthus.js";
 
 export default function createSuttaIndexHtml(indexObject) {
   function citationOnly(locator) {
     if (locator.includes(":")) {
       return locator.split(":")[0].toLowerCase();
     }
-    return locator;
+    return locator.replace(/–.+/, "");
   }
 
   function segmentOnly(locator) {
@@ -21,6 +24,12 @@ export default function createSuttaIndexHtml(indexObject) {
       return "#" + locator.toLowerCase();
     }
     return "";
+  }
+
+  function isVatthu(locator) {
+    if (justBook(locator) === "vv" || justBook(locator) === "pv") {
+      return true;
+    }
   }
 
   let alphabet = Object.keys(indexObject);
@@ -39,7 +48,7 @@ export default function createSuttaIndexHtml(indexObject) {
       <body id="app" class="colored-locators hide-snack-bar">
       <div class="snack-bar">Copied!</div>
       <div id="sutta-index" class="sutta-index">
-      <div class="settings-bar">
+      <div id="settings-bar" class="settings-bar">
         <div class="top-row">
           <div class="search-area">
           <input type="text" id="search-box" placeholder="Search...">
@@ -117,7 +126,7 @@ export default function createSuttaIndexHtml(indexObject) {
                 .join("")}
               ${locatorListObject.locators
                 .map((locator, index) => {
-                  return `<a href="${`https://suttacentral.net/${citationOnly(locator)}/en/sujato${segmentOnly(locator)}`}" target="_blank" rel="noreferrer" class="${justBook(locator) + " locator"}"  title="${getSuttaBlurb(locator)}"> 
+                  return `<a href="${isVatthu(locator) ? `https://suttafriends.org/${convertVatthus(locator)}` : `https://suttacentral.net/${citationOnly(locator)}/en/sujato${segmentOnly(locator)}`}" target="_blank" rel="noreferrer" class="${justBook(locator) + " locator"}"  title="${getSuttaBlurb(locator)}"> 
                   ${locator} <small class="sutta-name">${getSuttaTitle(locator)}</small>
                 </a>${index + 1 === locatorListObject.locators.length ? "" : ", "} `;
                 })
@@ -150,7 +159,7 @@ export default function createSuttaIndexHtml(indexObject) {
 
   let headwordsArraryText = "const headwordsArray =" + JSON.stringify(headwordsArray, null, 2);
 
-  const script = headwordsArraryText + "\n\n" + scriptsText;
+  const script = headwordsArraryText + "\n\n" + scriptsText + copyScriptsText + themeScriptsText;
 
   try {
     fs.writeFileSync("../public/scripts.js", script);

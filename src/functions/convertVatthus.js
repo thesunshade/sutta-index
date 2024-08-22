@@ -137,6 +137,5 @@ export default function convertVatthus(citation) {
     pv50: "pv4-15",
     pv51: "pv4-16",
   };
-
-  return conversion[citation];
+  return conversion[citation.toLowerCase()];
 }
