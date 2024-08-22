@@ -272,7 +272,6 @@ html {
 .dark .input-box {
   border-color: var(--offwhite);
   background-color: var(--dark-primary);
-
 }
 
 .input-box:focus {
@@ -311,14 +310,6 @@ html {
   cursor: pointer;
 }
 
-.up-icon {
-  background: none;
-  border: none;
-  position: relative;
-  top: .2rem;
-  cursor: pointer;
-}
-
 .hidden {
   display: none
 }
@@ -335,16 +326,16 @@ html {
   rotate: 90deg;
 }
 
-.settings-notice {
+/* .settings-notice {
   font-size: .9rem;
   font-style: italic;
 }
 
 .dark .settings-notice {
   color: #ededed
-}
+} */
 
-.table-view button {
+/* .table-view button {
   background-color: black;
   color: var(--primary);
   border: 0px solid;
@@ -368,7 +359,7 @@ html {
 .dark .table-view button:hover {
   color: var(--offwhite);
   background-color: black;
-}
+} */
 
 
 .info-area {
@@ -445,15 +436,6 @@ a {
 a.custom {
   word-spacing: inherit;
 }
-
-/* a.custom::before {
-  background-image: url("/src/images/7424569_book_library_knowledge_magazine_literature_icon.png");
-  height: 15px;
-  width: 20px;
-  display: inline-block;
-  background-size: 20px 20px;
-  content: ""
-} */
 
 a.xref-link {
   white-space: inherit;

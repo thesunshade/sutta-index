@@ -36,22 +36,23 @@ export default function createSuttaIndexHtml(indexObject) {
       <title>HTML Index</title>
       ${suttaIndexHtmlStyles}
       </head>
-      <body class="colored-locators">
-      <div id="sutta-index" className="sutta-index">
+      <body id="app" class="colored-locators hide-snack-bar">
+      <div class="snack-bar">Copied!</div>
+      <div id="sutta-index" class="sutta-index">
       <div class="settings-bar">
         <div class="top-row">
           <div class="search-area">
           <input type="text" id="search-box" placeholder="Search...">
           </div>
-          <div id="theme-button" class="theme-button">
+          <div id="theme-button" class="theme-button settings-button">
             <img class="icon" height="20"  src="8673129_ic_fluent_dark_theme_filled.png" />
           </div>
-          <div class="settings-button">
+          <!-- <div class="settings-button">
             <img class="icon" width="17px"  src="settings.png"/>
-          </div>
-          <div className="settings-button">
+          </div> -->
+          <!-- <div class="settings-button">
             <img class="icon" width="17px"  src="info-dot.png" />
-          </div>
+          </div> -->
         </div>
         <div class="alphabet">
         ${alphabet
@@ -97,6 +98,8 @@ export default function createSuttaIndexHtml(indexObject) {
             <div class="head-word-area">
           <a class="headword-link" href=${"#" + makeNormalizedId(headword)}>
           <span class="head-word">
+          <img src="images/copy-icon2.png" alt="copy icon" class="icon copy-icon click-to-copy" height="16 title="Copy Heading Text" data-clipboard-text="${headword}">
+          <img src="images/link-icon.png" alt="link copy icon" class="icon link-icon click-to-copy" height="16 title="Copy Heading Text" data-clipboard-text="index.readingfaithfully.org/html#${makeNormalizedId(headword)}">
           ${injectCounterNumber(headword, headwordsObject[headword].counter_value)}
           </span></a>
           </div>
@@ -105,7 +108,6 @@ export default function createSuttaIndexHtml(indexObject) {
               let locatorListObject = headwordsObject[headword][subhead];
               return `<div class="sub-word">${subhead === "" ? (sortedSubWords.length === 1 ? "see " : "see also ") : subhead}
               <span class="locator-list">
-
               ${locatorListObject.xrefs
                 .map((xref, index) => {
                   xref = xref.replace("xref ", "");
@@ -113,8 +115,6 @@ export default function createSuttaIndexHtml(indexObject) {
                   ${xref} </a>${index + 1 === locatorListObject.xrefs.length ? "" : "; <br>"} `;
                 })
                 .join("")}
-
-
               ${locatorListObject.locators
                 .map((locator, index) => {
                   return `<a href="${`https://suttacentral.net/${citationOnly(locator)}/en/sujato${segmentOnly(locator)}`}" target="_blank" rel="noreferrer" class="${justBook(locator) + " locator"}"  title="${getSuttaBlurb(locator)}"> 

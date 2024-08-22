@@ -44,11 +44,13 @@ App {
 }
 
 body {
+  width: 100vw;
   font-family: "Fira Sans";
   min-height: 100vh;
   line-height: 125%;
   background-color: var(--offwhite);
-
+  margin: 0;
+  padding: 0;
 }
 
 ::selection {
@@ -61,7 +63,7 @@ body.dark {
 }
 
 html {
-  scroll-padding-top: 5rem;
+  scroll-padding-top: 4rem;
   scroll-behavior: smooth;
 }
 
@@ -100,6 +102,11 @@ a {
   align-items: center;
   padding: .5rem 0;
   min-width: 360px;
+}
+
+.dark .input-box {
+  border-color: var(--offwhite);
+  background-color: var(--dark-primary);
 }
 
 .settings-button img {
@@ -196,6 +203,11 @@ a {
   text-indent: -1rem;
 }
 
+.dark .link-list, .dark .search-results {
+
+  background-color: var(--offblack);
+
+}
 
 .menu-item {
   padding-left: 1rem;
@@ -204,7 +216,7 @@ a {
   cursor: pointer;
 }
 
-.menu-item:hover {
+.menu-item:hover, .menu-item.active {
   background-color: var(--primary);
   color: black;
 }
@@ -275,6 +287,34 @@ a {
 .dark .headword-link:visited {
   color: var(--dark-offwhite)
 }
+
+/* headword icons */
+
+.copy-icon, .link-icon {
+  padding-right: .1rem;
+}
+
+
+.headword-link .link-icon,
+.headword-link .copy-icon {
+  visibility: hidden;
+}
+
+.headword-link:hover .link-icon,
+.link-icon:hover,
+.headword-link:hover .copy-icon,
+.copy-icon:hover {
+  visibility: inherit;
+}
+
+@media only screen and (max-width: 475px) {
+
+  .link-icon,
+  .copy-icon {
+    display: none
+  }
+}
+
 
 .sub-word {
   padding-left: 6.5rem;
@@ -407,6 +447,35 @@ text-decoration: none
   }
 }
 
+.snack-bar {
+  font-size: 1.2rem;
+  position: fixed;
+  top: 7rem;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 8rem;
+  border-radius: 10px;
+  background-color: var(--primary);
+  color: var(--offblack);
+  text-align: center;
+  padding: 10px;
+  box-shadow: 1px -1px 3px rgba(0, 0, 0, 0.2);
+  opacity: 1;
+  transition: opacity 0.15s ease-in-out;
+  z-index: 9999;
+}
+
+.hide-snack-bar .snack-bar {
+  opacity: 0;
+  transition: opacity 0.15s ease-in-out;
+  pointer-events: none;
+}
+
+.dark .snack-bar {
+  background-color: var(--offwhite);
+  color: var(--dark-primary);
+  box-shadow: 1px -1px 3px rgb(0, 0, 0);
+}
 
   </style>
 `;

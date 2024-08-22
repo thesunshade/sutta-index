@@ -117,4 +117,78 @@ document.addEventListener('keydown', (e) => {
     }
 });
 
+function handleBodyClick(event) {
+            console.log(event)
+            clearResults()
+            }
+document.body.addEventListener('click', handleBodyClick);
+
+
+// copy heading to clipboard
+document.addEventListener('DOMContentLoaded', () => {
+    document.body.addEventListener('click', (event) => {
+        if (event.target.tagName === 'IMG' && event.target.classList.contains('click-to-copy')) {
+            event.preventDefault(); 
+            const textToCopy = event.target.getAttribute('data-clipboard-text');
+            if (textToCopy) {
+                navigator.clipboard.writeText(textToCopy).then(() => {
+                    toggleSnackBar()
+                }).catch(err => {
+                    console.error('Failed to copy text:', err);
+                });
+            }
+        }
+    });
+});
+
+  function toggleSnackBar() {
+    const appElement = document.getElementById("app");
+    appElement.classList.remove("hide-snack-bar");
+    setTimeout(() => {
+      appElement.classList.add("hide-snack-bar");
+    }, 900);
+  }
+
+// Function to apply the theme based on localStorage
+        function applyTheme() {
+            const theme = localStorage.getItem('theme');
+            if (theme === 'dark') {
+                document.body.classList.add('dark');
+                document.body.classList.remove('light');
+            } else {
+                document.body.classList.remove('dark');
+                document.body.classList.add('light');
+            }
+        }
+
+        // Function to toggle the theme
+        function toggleTheme() {
+            if (document.body.classList.contains('dark')) {
+                document.body.classList.remove('dark');
+                document.body.classList.add('light');
+                localStorage.setItem('theme', 'light');
+                console.log("toggle")
+            } else {
+                document.body.classList.remove('light');
+                document.body.classList.add('dark');
+                localStorage.setItem('theme', 'dark');
+            }
+        }
+
+        // Initialize the theme on page load
+        document.addEventListener('DOMContentLoaded', applyTheme);
+
+        // Add event listener to the theme button
+        document.getElementById('theme-button').addEventListener('click', toggleTheme);
+
+// Function to focus on search box and select all its content
+        function focusAndSelectSearchBox() {
+            const searchBox = document.getElementById('search-box');
+            searchBox.focus();
+            searchBox.setSelectionRange(searchBox.value.length, searchBox.value.length);
+            searchBox.select();
+        }
+
+        // Add event listener for window focus
+        window.addEventListener('focus', focusAndSelectSearchBox);
 `;
