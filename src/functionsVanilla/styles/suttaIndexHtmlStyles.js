@@ -105,7 +105,7 @@ a {
 }
 
 input {
-font-family: "Fira Sans"
+font-family: "Fira Sans";
 font-size: inherit;
 }
 
