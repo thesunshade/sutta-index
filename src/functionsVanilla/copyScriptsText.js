@@ -25,6 +25,4 @@ document.addEventListener('DOMContentLoaded', () => {
     }, 900);
   }
 
-
-
 `;

@@ -47,7 +47,7 @@ export default function createSuttaIndexHtml(indexObject) {
       </head>
       <body id="app" class="colored-locators hide-snack-bar">
       <div class="snack-bar">Copied!</div>
-      <div id="sutta-index" class="sutta-index">
+      
       <div id="settings-bar" class="settings-bar">
         <div class="top-row">
           <div class="search-area">
@@ -73,7 +73,8 @@ export default function createSuttaIndexHtml(indexObject) {
           .join("")}
         </div>
         <div id="results" class="search-results"></div>
-      </div>`;
+      </div>
+      <div id="sutta-index" class="sutta-index">`;
 
   function injectCounterNumber(headword, counterNumber) {
     let headwordWithCount;
@@ -108,9 +109,7 @@ export default function createSuttaIndexHtml(indexObject) {
           <a class="headword-link" href=${"#" + makeNormalizedId(headword)}>
           <span class="head-word">
           <img src="images/copy-icon2.png" alt="copy icon" class="icon copy-icon click-to-copy" height="16 title="Copy Heading Text" data-clipboard-text="${headword}">
-          <img src="images/link-icon.png" alt="link copy icon" class="icon link-icon click-to-copy" height="16 title="Copy Heading Text" data-clipboard-text="index.readingfaithfully.org/html#${makeNormalizedId(headword)}">
-          ${injectCounterNumber(headword, headwordsObject[headword].counter_value)}
-          </span></a>
+          <img src="images/link-icon.png" alt="link copy icon" class="icon link-icon click-to-copy" height="16 title="Copy Heading Text" data-clipboard-text="index.readingfaithfully.org/html#${makeNormalizedId(headword)}">${injectCounterNumber(headword, headwordsObject[headword].counter_value)}</span></a>
           </div>
           ${sortedSubWords
             .map(subhead => {

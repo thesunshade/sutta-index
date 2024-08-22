@@ -154,7 +154,6 @@ function handleBodyClick(event) {
         // If the click is inside the settings-bar, do nothing
         return;
     }
-    console.log(event);
     clearResults();
 }
 

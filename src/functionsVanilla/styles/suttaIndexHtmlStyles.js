@@ -44,7 +44,7 @@ App {
 }
 
 body {
-  width: 100vw;
+  max-width: 100vw;
   font-family: "Fira Sans";
   min-height: 100vh;
   line-height: 125%;
@@ -405,8 +405,25 @@ text-decoration: none
 }
 
 @media only screen and (max-width: 475px) {
+
   .alphabet {
+    margin-top: .75rem;
+    margin-bottom: .75rem;
     max-width: 100% !important;
+  }
+
+  .alphabet span {
+    padding: 0px;
+  }
+
+  .alphabet span:hover {
+    color: rgb(109, 109, 109);
+    background-color: inherit;
+  }
+
+  .dark .alphabet a:hover {
+    color: var(--primary) !important;
+    background-color: inherit;
   }
 }
 
@@ -417,7 +434,7 @@ text-decoration: none
 
   .sutta-index {
     line-height: 130%;
-    margin: 6rem 1rem;
+    margin: 6rem .5rem;
   }
 
   input {
@@ -437,10 +454,7 @@ text-decoration: none
 
 @media only screen and (max-width: 475px) {
 
-  .alphabet {
-    margin-top: .75rem;
-    margin-bottom: .75rem;
-  }
+
 
   .sutta-name {
     display: none;
@@ -476,6 +490,8 @@ text-decoration: none
   color: var(--dark-primary);
   box-shadow: 1px -1px 3px rgb(0, 0, 0);
 }
+
+
 
   </style>
 `;

@@ -3202,7 +3202,6 @@ function handleBodyClick(event) {
         // If the click is inside the settings-bar, do nothing
         return;
     }
-    console.log(event);
     clearResults();
 }
 
@@ -3236,8 +3235,6 @@ document.addEventListener('DOMContentLoaded', () => {
       appElement.classList.add("hide-snack-bar");
     }, 900);
   }
-
-
 
 
 
