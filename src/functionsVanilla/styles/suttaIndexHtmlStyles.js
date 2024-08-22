@@ -1,14 +1,6 @@
 export const suttaIndexHtmlStyles = `
 <style>
 
-/*@import url('https://fonts.googleapis.com/css2?family=Fira+Sans+Extra+Condensed:wght@400;500&display=swap');
-
-@import url('https://fonts.googleapis.com/css2?family=Fira+Sans:ital,wght@0,400;0,500;1,400&display=swap');
-
-@import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@700&display=swap');
-*/
-
-
 @font-face {
     font-family: "Fira Sans";
     src: url("fonts/firasans-regular-webfont.woff") format('woff'),
@@ -97,7 +89,7 @@ export const suttaIndexHtmlStyles = `
   accent-color: black;
 }
 
-App {
+app {
   max-width: 100vw;
   max-height:100vh;
 }
@@ -281,7 +273,7 @@ font-size: inherit;
 }
 
 .menu-item strong{
-font-weight: 500;
+font-weight: bold;
 }
 
 .menu-item:hover, .menu-item.active {
@@ -306,7 +298,7 @@ font-weight: 500;
   margin-left: 1rem;
   color: #3f3f3f;
   padding-bottom: .5rem;
-  font-weight: 500;
+  font-weight: bold;
   font-family: "Fira Code";
 
 }
@@ -330,7 +322,7 @@ font-weight: 500;
 }
 
 .head-word {
-  font-weight: 500;
+  font-weight: bold;
   display: flex;
   align-items: center;
 }
@@ -508,7 +500,6 @@ text-decoration: none
     text-indent: initial;
   }
 
-
   .sutta-name {
     display: none;
   }
@@ -517,6 +508,7 @@ text-decoration: none
   .copy-icon {
     display: none
   }
+
 }
 
 .snack-bar {

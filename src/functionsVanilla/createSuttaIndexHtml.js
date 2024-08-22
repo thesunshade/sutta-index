@@ -45,7 +45,7 @@ export default function createSuttaIndexHtml(indexObject) {
       <title>HTML Index</title>
       ${suttaIndexHtmlStyles}
       </head>
-      <body id="app" class="colored-locators hide-snack-bar">
+      <body id="app" class="app colored-locators hide-snack-bar">
       <div class="snack-bar">Copied!</div>
       
       <div id="settings-bar" class="settings-bar">
