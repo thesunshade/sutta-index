@@ -3207,6 +3207,30 @@ function handleBodyClick(event) {
 
 document.body.addEventListener('click', handleBodyClick);
 
+// ---------------------------------
+
+function copyElementDOMToClipboard(elementId) {
+    // Get the element by its ID
+    const element = document.getElementById(elementId);
+
+    if (!element) {
+        console.error('Element not found');
+        return;
+    }
+
+    // Convert the element's outer HTML to a string
+    let elementHTML = element.outerHTML;
+
+    elementHTML=elementHTML.replace(/ target="_blank" rel="noreferrer"/g,"")
+        .replace(/ (class|title|id)=".+?"/g, "")
+        .replace(/<img.+?>/g,"")
+        .replace(/<small>(.+?)<\/small>/g, "$1")
+
+  //console.log(elementHTML)
+}
+
+// Usage
+copyElementDOMToClipboard('wrong-path-kummagga');
 
 
 

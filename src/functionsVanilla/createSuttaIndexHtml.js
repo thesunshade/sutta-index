@@ -51,7 +51,7 @@ export default function createSuttaIndexHtml(indexObject) {
       <div id="settings-bar" class="settings-bar">
         <div class="top-row">
           <div class="search-area">
-          <input type="text" id="search-box" placeholder="Search...">
+          <input type="text" id="search-box" placeholder="Search..." spellcheck="false">
           </div>
           <div id="theme-button" class="theme-button settings-button">
             <img class="icon" height="20"  src="8673129_ic_fluent_dark_theme_filled.png" />

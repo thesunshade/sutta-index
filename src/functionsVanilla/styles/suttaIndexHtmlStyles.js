@@ -104,6 +104,11 @@ a {
   min-width: 360px;
 }
 
+input {
+font-family: "Fira Sans"
+font-size: inherit;
+}
+
 .dark .input-box {
   border-color: var(--offwhite);
   background-color: var(--dark-primary);
@@ -216,6 +221,10 @@ a {
   cursor: pointer;
 }
 
+.menu-item strong{
+font-weight: 500;
+}
+
 .menu-item:hover, .menu-item.active {
   background-color: var(--primary);
   color: black;
@@ -251,8 +260,7 @@ a {
 }
 
 .head-word-area {
-  padding-top: .7rem;
-  padding-bottom: .2rem;
+  padding-top: .4rem;
   position: sticky;
   top: 4.2rem;
   background-color: var(--offwhite);
@@ -269,7 +277,8 @@ a {
 }
 
 .counter {
-  align-self: flex-start; 
+  padding-bottom:.3rem;
+  padding-right:.25rem;
   font-size: .83em;
   color: gray;
 }
@@ -405,6 +414,10 @@ text-decoration: none
 }
 
 @media only screen and (max-width: 475px) {
+
+    input {
+    font-family: "Fira Sans Extra Condensed";
+    }
 
   .alphabet {
     margin-top: .75rem;
