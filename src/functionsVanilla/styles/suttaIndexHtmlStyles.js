@@ -40,7 +40,8 @@ export const suttaIndexHtmlStyles = `
 }
 
 App {
-  width: 100vw;
+  max-width: 100vw;
+  max-height:100vh;
 }
 
 body {
@@ -86,13 +87,12 @@ a {
   background-color: var(--primary);
   position: fixed;
   top: 0;
-  width: 100%;
-  display: flex;
-  flex-direction: column;
-  flex-wrap: wrap;
+  width: 100vw;
+
   box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
   padding: 0 10px;
   z-index: 100;
+  min-height:4.5rem;
 }
 
 .top-row {
@@ -177,10 +177,12 @@ font-size: inherit;
   background-color: var(--dark-primary);
 }
 
-/*.search-results {
+.search-results {
   overflow-y: auto;
-  overflow-x: hidden;
-}*/
+  overflow-x: auto;
+  max-width:calc(100vw - 25px);
+  text-wrap: wrap;
+}
 
 .link-list, .search-results {
   overflow-y: auto;
@@ -188,7 +190,6 @@ font-size: inherit;
   max-height: 50vh;
   background-color: var(--offwhite);
   margin: 0 0 1rem 0;
-  max-width: var(--max-width);
   overscroll-behavior: contain;
   padding: 10px;
 }
@@ -316,14 +317,6 @@ font-weight: 500;
   visibility: inherit;
 }
 
-@media only screen and (max-width: 475px) {
-
-  .link-icon,
-  .copy-icon {
-    display: none
-  }
-}
-
 
 .sub-word {
   padding-left: 6.5rem;
@@ -415,13 +408,22 @@ text-decoration: none
 
 @media only screen and (max-width: 475px) {
 
-    input {
+  body {
+    font-family: "Fira Sans Extra Condensed";
+  }
+
+  .sutta-index {
+    line-height: 130%;
+    margin: 6rem .5rem;
+  }
+
+  input {
+    max-width: 12rem;
     font-family: "Fira Sans Extra Condensed";
     }
 
   .alphabet {
-    margin-top: .75rem;
-    margin-bottom: .75rem;
+
     max-width: 100% !important;
   }
 
@@ -438,24 +440,9 @@ text-decoration: none
     color: var(--primary) !important;
     background-color: inherit;
   }
-}
-
-@media only screen and (max-width: 475px) {
-  body {
-    font-family: "Fira Sans Extra Condensed";
-  }
-
-  .sutta-index {
-    line-height: 130%;
-    margin: 6rem .5rem;
-  }
-
-  input {
-    max-width: 9rem;
-  }
 
   .head-word-area {
-    top: 5.2rem;
+    /* top: 5.2rem; */
   }
 
   .sub-word {
@@ -463,14 +450,14 @@ text-decoration: none
     text-indent: initial;
   }
 
-}
-
-@media only screen and (max-width: 475px) {
-
-
 
   .sutta-name {
     display: none;
+  }
+
+  .link-icon,
+  .copy-icon {
+    display: none
   }
 }
 

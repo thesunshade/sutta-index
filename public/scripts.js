@@ -3158,6 +3158,11 @@ function handleKeyboardNavigation(e) {
     items.forEach((item, index) => {
         item.classList.toggle('active', index === activeIndex);
     });
+
+    if (activeIndex > -1) {
+        const activeItem = items[activeIndex];
+        activeItem.scrollIntoView({ block: 'nearest', inline: 'nearest' });
+    }
 }
 
 searchBox.addEventListener('input', () => renderResults({query: searchBox.value, firstOnly: false}));
