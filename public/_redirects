@@ -3,4 +3,4 @@
 /table /locatorcounttable.html 200! 
 /sutta-table /locatorsortedtable.html 200! 
 /html /suttaindexhtml.html 200!
-
+/ /suttaindexhtml.html 301!
