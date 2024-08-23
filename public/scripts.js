@@ -3135,7 +3135,6 @@ function clearResults() {
     resultsContainer.innerHTML = '';
     activeIndex = -1;
     hideInfo()
-    console.log("clear")
 }
 
 function handleKeyboardNavigation(e) {
@@ -3234,7 +3233,6 @@ document.body.addEventListener('click', handleBodyClick);
         if (infoArea.classList.contains("hidden")){
         clearResults();
         infoArea.classList.remove('hidden');
-        console.log("remove hidden")
         } else {
         infoArea.classList.add("hidden") 
         }
@@ -3271,16 +3269,30 @@ function copyElementDOMToClipboard(elementId) {
     let elementHTML = element.outerHTML;
 
     elementHTML=elementHTML.replace(/ target="_blank" rel="noreferrer"/g,"")
-        .replace(/ (class|title|id)=".+?"/g, "")
+        .replace(/ (title)=".+?"/g, "")
         .replace(/<img.+?>/g,"")
-        .replace(/<small>(.+?)<\/small>/g, "$1")
+        .replace(/<small class="sutta-name">(.+?)<\/small>/g, "$1")
+        .replace(/>\s+?</g, "><")
+        .replace(/(\S)\s+?</g, "$1<")
+        .replace(/>\s+?(\S.)/g, ">$1")
+        .replace(/<div id=".+?">(.+)<\/div>/, "$1")
+        //.replace(/<span/g, "\n     <span")
+        //.replace(/<div/g, "\n\n<div")
+        .replace(/<div class="head-word-area"><a class="headword-link" href="#(.+?)"><span class="head-word">(.+?)<\/span><\/a><\/div>/,'{\n  "$2": {\n    "anchor": "$1",\n    "subheads": [\n')
+        .replace(/<div class="sub-word">(.+?)<span class="locator-list">/g, '      {\n        "title": "$1",\n        "links": [\n')
+        .replace(/<a href="(.+?)" class=".+?">(.+?)<\/a>,*/g, '\t{\n\t\t"url": "$1",\n\t\t"location": "$2"\n\t},\n' )
+        .replace(/<\/span><\/div>/g, "        ]\n      },\n")
+        .replace(/;<br>/g,"")
+        .replace(/,\s*(}|\])/g, '$1') // Remove trailing comma before } or ]
+        .replace(/(\{|\[)\s*,\s*(?![\{\[])/g, '$1') // Remove trailing comma after { or [
+        + "\n    ]\n  }\n}"
 
-  //console.log(elementHTML)
+        console.log(elementHTML)
+  console.log(JSON.parse(elementHTML))
 }
 
 // Usage
-copyElementDOMToClipboard('wrong-path-kummagga');
-
+copyElementDOMToClipboard('glorifying-one-self');
 
 
 

@@ -138,7 +138,7 @@ export default function createSuttaIndexHtml(indexObject) {
           <a class="headword-link" href=${"#" + makeNormalizedId(headword)}>
           <span class="head-word">
           <img src="images/copy-icon2.png" alt="copy icon" class="icon copy-icon click-to-copy" height="16 title="Copy Heading Text" data-clipboard-text="${headword}">
-          <img src="images/link-icon.png" alt="link copy icon" class="icon link-icon click-to-copy" height="16 title="Copy Heading Text" data-clipboard-text="index.readingfaithfully.org/html#${makeNormalizedId(headword)}">${injectCounterNumber(headword, headwordsObject[headword].counter_value)}</span></a>
+          <img src="images/link-icon.png" alt="link copy icon" class="icon link-icon click-to-copy" height="16 title="Copy Heading Text" data-clipboard-text="index.readingfaithfully.org/#${makeNormalizedId(headword)}">${injectCounterNumber(headword, headwordsObject[headword].counter_value)}</span></a>
           </div>
           ${sortedSubWords
             .map(subhead => {
