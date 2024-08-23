@@ -237,10 +237,10 @@ function copyElementDOMToClipboard(elementId) {
         .replace(/;<br>/g,"")
         .replace(/,\\s*(}|\\])/g, '$1') // Remove trailing comma before } or ]
         .replace(/(\\{|\\[)\\s*,\\s*(?![\\{\\[])/g, '$1') // Remove trailing comma after { or [
-        + "\\n    ]\\n  }\\n}"
+        + "\\n    ]\\n  }\\n}";
 
-        \\console.log(elementHTML)
-        \\console.log(JSON.parse(elementHTML))
+        //console.log(elementHTML)
+        //console.log(JSON.parse(elementHTML))
 }
 
 // Usage
