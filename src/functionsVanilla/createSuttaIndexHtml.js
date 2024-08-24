@@ -71,8 +71,8 @@ export default function createSuttaIndexHtml(indexObject) {
       <meta name="viewport" content="width=device-width, initial-scale=1.0">
       <link rel="icon" type="image/png" sizes="32x32" href="favicon-html.png">
       <title>Comprehensive Index of Pāli Suttas</title>
-      <script src="https://unpkg.com/@yaireo/title-tooltip@latest"></script>
-      <script src="https://unpkg.com/@yaireo/position@latest"></script>
+      <script type="module" src="title-tooltip.js"></script>
+      <script type="module" src="position.umd.js"></script>
 
       ${suttaIndexHtmlStyles}
       </head>
