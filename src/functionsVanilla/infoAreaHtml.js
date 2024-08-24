@@ -6,6 +6,9 @@ export const infoAreaHtml = `
     <div id="color-button" class="settings-button" data-tippy-content="toggle colorized citations">
       <img class="icon" height="20" src="images/palette.png">
     </div>
+    <div id="eye-button" class="settings-button" data-tippy-content="Toggle visibility of copy buttons">
+      <img class="icon" height="20" src="images/eye.png">
+    </div>
   </div>
       <p>
         This is an incomplete and unpublished draft of an index of the Sutta Piṭaka. For more information, visit the

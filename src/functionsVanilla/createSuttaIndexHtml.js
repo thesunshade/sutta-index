@@ -173,6 +173,12 @@ export default function createSuttaIndexHtml(indexObject) {
     <script type="module" src="scripts.js"></script>
     <script>
         tippy('[data-tippy-content]',{allowHTML: true, delay: [100, null], touch: ['hold', 500],})
+        tippy('.copy-icon', {
+        content: 'Copy headword text to the clipboard',
+              });
+        tippy('.link-icon', {
+        content: 'Copy a link to this entry to the clipboard',
+              });
     </script>
   </body>
   </html>`;

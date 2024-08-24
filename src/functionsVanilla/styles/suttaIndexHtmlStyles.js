@@ -347,6 +347,7 @@ font-weight: bold;
 
 .copy-icon, .link-icon {
   padding-right: .1rem;
+  padding-left: .1rem;
 }
 
 
@@ -501,9 +502,15 @@ text-decoration: none
 
   .link-icon,
   .copy-icon {
-    display: none
-  }
+    display:none;
+  padding-right: .2rem;
+  padding-left: .2rem;
+}
 
+ body.copy-buttons-visible .link-icon,
+ body.copy-buttons-visible .copy-icon {
+    display:inherit;
+  }
 }
 
 .snack-bar {
@@ -555,6 +562,11 @@ column-gap: 1rem;
 margin-top: .5rem;
 margin-bottom: .5rem;
 }
+
+body.copy-buttons-visible .link-icon,
+body.copy-buttons-visible .copy-icon {
+    visibility: inherit;
+  }
 
 .hidden {
 display:none
