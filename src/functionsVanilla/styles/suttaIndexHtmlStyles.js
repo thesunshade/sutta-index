@@ -575,9 +575,7 @@ details>div {
  * @yaireo/title-tooltip/title-tooltip.css
 */
 
-[title]{
-  cursor: help;
-}
+
 
 #titleTtip{
   font-size: 16px;
@@ -586,7 +584,7 @@ details>div {
 #titleTtip{
   --radius: 6px;
   --trans-duration: .2s;
-  max-width: 220px;
+  max-width: 420px;
   position: fixed;
   z-index: max;
   box-sizing: border-box;

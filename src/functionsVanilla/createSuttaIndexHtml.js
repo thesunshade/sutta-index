@@ -178,18 +178,18 @@ export default function createSuttaIndexHtml(indexObject) {
     `</div>
     <script type="module" src="scripts.js"></script>
     <script>
-    titleTooltip({ 
-  onShow: function(reference, popper){
-    position.default({ 
-      target    : popper, 
-      useRaf    : false, 
-      ref       : reference, 
-      offset    : [0, 8],
-      placement : "center below",
+        titleTooltip({ 
+        onShow: function(reference, popper){
+            position.default({ 
+            target    : popper, 
+            useRaf    : false, 
+            ref       : reference, 
+            offset    : [0, 8],
+            placement : "center below",
+            })
+        }
     })
-  }
-})
-  </script>
+    </script>
   </body>
   </html>`;
 
