@@ -3276,23 +3276,22 @@ function copyElementDOMToClipboard(elementId) {
         .replace(/(\S)\s+?</g, "$1<")
         .replace(/>\s+?(\S.)/g, ">$1")
         .replace(/<div id=".+?">(.+)<\/div>/, "$1")
-        //.replace(/<span/g, "\n     <span")
-        //.replace(/<div/g, "\n\n<div")
-        .replace(/<div class="head-word-area"><a class="headword-link" href="#(.+?)"><span class="head-word">(.+?)<\/span><\/a><\/div>/,'{\n  "$2": {\n    "anchor": "$1",\n    "subheads": [\n')
-        .replace(/<div class="sub-word">(.+?)<span class="locator-list">/g, '      {\n        "title": "$1",\n        "links": [\n')
-        .replace(/<a href="(.+?)" class=".+?">(.+?)<\/a>,*/g, '\t{\n\t\t"url": "$1",\n\t\t"location": "$2"\n\t},\n' )
-        .replace(/<\/span><\/div>/g, "        ]\n      },\n")
+        .replace(/<div class="head-word-area"><a class="headword-link" href="#(.+?)"><span class="head-word">(.+?)<\/span><\/a><\/div>/,'{  "$2": { "anchor": "$1", "subheads": [')
+        .replace(/<div class="sub-word">(.+?)<span class="locator-list">/g, '{"title": "$1", "links": [')
+        .replace(/<a href="(.+?)" class=".+?">(.+?)<\/a>,*/g, '{"url": "$1","location": "$2"},' )
+        .replace(/<\/span><\/div>/g, "]},")
         .replace(/;<br>/g,"")
-        .replace(/,\s*(}|\])/g, '$1') // Remove trailing comma before } or ]
-        .replace(/(\{|\[)\s*,\s*(?![\{\[])/g, '$1') // Remove trailing comma after { or [
-        + "\n    ]\n  }\n}";
+        .replace(/,$/,"")
+        .replace(/,\]/g, "]");
 
-        //console.log(elementHTML)
-        //console.log(JSON.parse(elementHTML))
+
+        elementHTML+= "]}}";
+
+        console.log(elementHTML)
+        console.log(JSON.parse(elementHTML))
 }
 
-// Usage
-copyElementDOMToClipboard('glorifying-one-self');
+
 
 
 
