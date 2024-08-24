@@ -71,8 +71,8 @@ export default function createSuttaIndexHtml(indexObject) {
       <meta name="viewport" content="width=device-width, initial-scale=1.0">
       <link rel="icon" type="image/png" sizes="32x32" href="favicon-html.png">
       <title>Comprehensive Index of Pāli Suttas</title>
-      <script src="https://unpkg.com/@yaireo/title-tooltip@latest"></script>
-      <script src="https://unpkg.com/@yaireo/position@latest"></script>
+      <script src="https://unpkg.com/@popperjs/core@2"></script>
+      <script src="https://unpkg.com/tippy.js@6"></script>
 
       ${suttaIndexHtmlStyles}
       </head>
@@ -157,7 +157,7 @@ export default function createSuttaIndexHtml(indexObject) {
                 .join("")}
               ${locatorListObject.locators
                 .map((locator, index) => {
-                  return `<a href="${makeUrl(locator)}" target="_blank" rel="noreferrer" class="${makeLinkClass(locator) + " locator"}"  ${getSuttaBlurb(locator) ? `title="${getSuttaBlurb(locator)}"` : ""}> 
+                  return `<a href="${makeUrl(locator)}" target="_blank" rel="noreferrer" class="${makeLinkClass(locator) + " locator"}"  ${getSuttaBlurb(locator) ? `data-tippy-content="${getSuttaBlurb(locator)}"` : ""}> 
                   ${makeLinkText(locator)} ${getSuttaTitle(locator) ? `<small class="sutta-name">${getSuttaTitle(locator)}</small>` : ""}
                 </a>${index + 1 === locatorListObject.locators.length ? "" : ", "} `;
                 })
@@ -178,17 +178,7 @@ export default function createSuttaIndexHtml(indexObject) {
     `</div>
     <script type="module" src="scripts.js"></script>
     <script>
-        titleTooltip({ 
-        onShow: function(reference, popper){
-            position.default({ 
-            target    : popper, 
-            useRaf    : false, 
-            ref       : reference, 
-            offset    : [0, 8],
-            placement : "center below",
-            })
-        }
-    })
+        tippy('[data-tippy-content]',{allowHTML: true,})
     </script>
   </body>
   </html>`;
