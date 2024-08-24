@@ -1,4 +1,12 @@
 export const infoAreaHtml = `
+  <div class="settings-button-row">
+    <div id="theme-button" class="theme-button settings-button" data-tippy-content="toggle light/dark theme">
+      <img class="icon" height="20"  src="8673129_ic_fluent_dark_theme_filled.png" />
+    </div>
+    <div id="color-button" class="settings-button" data-tippy-content="toggle colorized citations">
+      <img class="icon" height="20" src="images/palette.png">
+    </div>
+  </div>
       <p>
         This is an incomplete and unpublished draft of an index of the Sutta Piṭaka. For more information, visit the
         <a href="https://github.com/thesunshade/sutta-index#readme" rel="noreferrer" target="_blank">

@@ -76,7 +76,7 @@ export default function createSuttaIndexHtml(indexObject) {
 
       ${suttaIndexHtmlStyles}
       </head>
-      <body id="app" class="app colored-locators hide-snack-bar">
+      <body id="app" class="app hide-snack-bar">
       <div class="snack-bar">Copied!</div>
       
       <div id="settings-bar" class="settings-bar">
@@ -84,12 +84,6 @@ export default function createSuttaIndexHtml(indexObject) {
           <div class="search-area">
           <input type="text" id="search-box" placeholder="Search..." spellcheck="false">
           </div>
-          <div id="theme-button" class="theme-button settings-button">
-            <img class="icon" height="20"  src="8673129_ic_fluent_dark_theme_filled.png" />
-          </div>
-          <!-- <div class="settings-button">
-            <img class="icon" width="17px"  src="settings.png"/>
-          </div> -->
           <div id="info-button" class="settings-button">
             <img class="icon" width="17px"  src="info-dot.png" />
           </div>

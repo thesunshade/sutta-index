@@ -180,6 +180,7 @@ font-size: inherit;
   filter: invert(100%);
 }
 
+
 .alphabet {
   font-family: "Fira Code";
   display: flex;
@@ -536,12 +537,23 @@ text-decoration: none
 }
 
 .info-area {
-  padding: 1rem 0 1rem;
+  padding: 0rem 0 1rem;
   min-width: 10rem;
+  max-width: 35rem;
   max-height: 70vh;
   overflow-y: auto;
   border-top: solid 1px;
   overscroll-behavior: contain;
+}
+
+.settings-button-row {
+display:flex;
+flex-direction:row;
+justify-content: center;
+align-items: center;
+column-gap: 1rem;
+margin-top: .5rem;
+margin-bottom: .5rem;
 }
 
 .hidden {

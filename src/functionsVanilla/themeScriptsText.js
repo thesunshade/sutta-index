@@ -31,5 +31,34 @@ export const themeScriptsText = `
         // Add event listener to the theme button
         document.getElementById('theme-button').addEventListener('click', toggleTheme);
 
+// Function to apply the citation colors based on localStorage
+        function applyColor() {
+            const color = localStorage.getItem('color');
+            if (color === 'true') {
+                document.body.classList.add('colored-locators');
+                
+            } else {
+                document.body.classList.remove('colored-locators');
+               
+            }
+        }
+
+        // Function to toggle the color
+        function toggleColor() {
+            if (document.body.classList.contains('colored-locators')) {
+                document.body.classList.remove('colored-locators');
+                localStorage.setItem('color', 'false');
+            } else {
+
+                document.body.classList.add('colored-locators');
+                localStorage.setItem('color', 'true');
+            }
+        }
+
+        // Initialize the color on page load
+        document.addEventListener('DOMContentLoaded', applyColor);
+
+        // Add event listener to the color button
+        document.getElementById('color-button').addEventListener('click', toggleColor);
 
 `;
