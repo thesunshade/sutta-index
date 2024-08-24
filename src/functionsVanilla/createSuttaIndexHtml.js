@@ -178,7 +178,7 @@ export default function createSuttaIndexHtml(indexObject) {
     `</div>
     <script type="module" src="scripts.js"></script>
     <script>
-        tippy('[data-tippy-content]',{allowHTML: true,})
+        tippy('[data-tippy-content]',{allowHTML: true, delay: [100, null], touch: ['hold', 500],})
     </script>
   </body>
   </html>`;
