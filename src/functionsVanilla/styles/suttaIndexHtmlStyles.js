@@ -464,7 +464,7 @@ text-decoration: none
   }
 
   input {
-    max-width: 12rem;
+    max-width: 16rem;
     font-family: "Fira Sans Extra Condensed";
     }
 

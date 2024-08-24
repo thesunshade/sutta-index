@@ -84,7 +84,7 @@ export default function createSuttaIndexHtml(indexObject) {
           <div class="search-area">
           <input type="text" id="search-box" placeholder="Search..." spellcheck="false">
           </div>
-          <div id="info-button" class="settings-button">
+          <div id="info-button" class="settings-button" data-tippy-content="Settings and information.">
             <img class="icon" width="17px"  src="info-dot.png" />
           </div>
         </div>
@@ -132,10 +132,16 @@ export default function createSuttaIndexHtml(indexObject) {
             return `
             <div id="${makeNormalizedId(headword)}">
             <div class="head-word-area">
-          <a class="headword-link" href=${"#" + makeNormalizedId(headword)}>
-          <span class="head-word">
-          <img src="images/copy-icon2.png" alt="copy icon" class="icon copy-icon click-to-copy" height="16 title="Copy Heading Text" data-clipboard-text="${headword}">
-          <img src="images/link-icon.png" alt="link copy icon" class="icon link-icon click-to-copy" height="16 title="Copy Heading Text" data-clipboard-text="index.readingfaithfully.org/#${makeNormalizedId(headword)}">${injectCounterNumber(headword, headwordsObject[headword].counter_value)}</span></a>
+                <a class="headword-link" href=${"#" + makeNormalizedId(headword)}>
+                    <span class="head-word">
+                    <img src="images/copy-icon2.png" alt="copy icon" class="icon copy-icon click-to-copy" height="16 title="Copy Heading Text" data-clipboard-text="${headword}">
+                    <img src="images/link-icon.png" alt="link copy icon" class="icon link-icon click-to-copy" height="16 title="Copy Heading Text" data-clipboard-text="index.readingfaithfully.org/#${makeNormalizedId(headword)}">
+                    ${injectCounterNumber(headword, headwordsObject[headword].counter_value)}
+                    <img src="images/copy-text.png" alt="text copy icon" class="icon text-icon copy-icon" height="16 title="Copy text of entry" data-headword="${headword}" data-tippy-content="Copy plain text of this entry">
+                    <img src="images/copy-html.png" alt="text copy icon" class="icon html-icon copy-icon" height="16 title="Copy text of entry" data-headword="${headword}" data-tippy-content="Copy html version of this entry">
+                    <img src="images/copy-markdown.png" alt="text copy icon" class="icon markdown-icon copy-icon" height="16 title="Copy text of entry" data-headword="${headword}" data-tippy-content="Copy Markdown version of this entry">
+                    </span>
+                </a>
           </div>
           ${sortedSubWords
             .map(subhead => {

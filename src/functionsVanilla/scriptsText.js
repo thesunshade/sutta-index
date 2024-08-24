@@ -208,40 +208,7 @@ document.body.addEventListener('click', handleBodyClick);
 
 // ---------------------------------
 
-function copyElementDOMToClipboard(elementId) {
-    // Get the element by its ID
-    const element = document.getElementById(elementId);
 
-    if (!element) {
-        console.error('Element not found');
-        return;
-    }
-
-    // Convert the element's outer HTML to a string
-    let elementHTML = element.outerHTML;
-
-    elementHTML=elementHTML.replace(/ target="_blank" rel="noreferrer"/g,"")
-        .replace(/ (title)=".+?"/g, "")
-        .replace(/<img.+?>/g,"")
-        .replace(/<small class="sutta-name">(.+?)<\\/small>/g, "$1")
-        .replace(/>\\s+?</g, "><")
-        .replace(/(\\S)\\s+?</g, "$1<")
-        .replace(/>\\s+?(\\S.)/g, ">$1")
-        .replace(/<div id=".+?">(.+)<\\/div>/, "$1")
-        .replace(/<div class="head-word-area"><a class="headword-link" href="#(.+?)"><span class="head-word">(.+?)<\\/span><\\/a><\\/div>/,'{  "$2": { "anchor": "$1", "subheads": [')
-        .replace(/<div class="sub-word">(.+?)<span class="locator-list">/g, '{"title": "$1", "links": [')
-        .replace(/<a href="(.+?)" class=".+?">(.+?)<\\/a>,*/g, '{"url": "$1","location": "$2"},' )
-        .replace(/<\\/span><\\/div>/g, "]},")
-        .replace(/;<br>/g,"")
-        .replace(/,$/,"")
-        .replace(/,\\]/g, "]");
-
-
-        elementHTML+= "]}}";
-
-        console.log(elementHTML)
-        console.log(JSON.parse(elementHTML))
-}
 
 
 

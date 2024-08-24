@@ -42,7 +42,7 @@ export const infoAreaHtml = `
       <details>
         <summary>Sutta Summaries</summary>
         <div>
-          <p>Desktop users can hover over citations to see a summary of the sutta.</p>
+          <p>Desktop users can hover over citations with the mouse to see a summary of the sutta. Mobile and touch users can try a long press to see them.</p>
         </div>
       </details>
       <details>
