@@ -64,7 +64,6 @@ export default function createSuttaIndexHtml(indexObject) {
 
   let suttaIndexHtml = `<!DOCTYPE html>
       <html lang="en">
-      
       <head>
       <meta charset="UTF-8">
       <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -73,8 +72,6 @@ export default function createSuttaIndexHtml(indexObject) {
       <title>Comprehensive Index of Pāli Suttas</title>
       <script src="https://unpkg.com/@popperjs/core@2"></script>
       <script src="https://unpkg.com/tippy.js@6"></script>
-      
-
       ${suttaIndexHtmlStyles}
       </head>
       <body id="app" class="app hide-snack-bar">

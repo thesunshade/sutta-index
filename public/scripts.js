@@ -3127,8 +3127,13 @@ const regex = new RegExp('(' + escapedQuery + ')', 'gi');
         resultsContainer.innerHTML = '';
         const anchorId = makeNormalizedId(item);
         document.getElementById(anchorId).scrollIntoView({ behavior: 'smooth' });
-        window.history.pushState(null, null, "#"+ anchorId);
-    });
+        // window.history.pushState(null, null, "#"+ anchorId);
+        document.title = item + "—CIPS";
+
+requestAnimationFrame(() => {
+    window.location.hash = "#new-anchor";
+});
+        });
 
     resultsContainer.appendChild(resultItem);
 }
