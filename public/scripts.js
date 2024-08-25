@@ -3125,7 +3125,9 @@ const regex = new RegExp('(' + escapedQuery + ')', 'gi');
     resultItem.addEventListener('click', () => {
         searchBox.value = '';
         resultsContainer.innerHTML = '';
-        document.getElementById(makeNormalizedId(item)).scrollIntoView({ behavior: 'smooth' });
+        const anchorId = makeNormalizedId(item);
+        document.getElementById(anchorId).scrollIntoView({ behavior: 'smooth' });
+        window.history.pushState(null, null, "#"+ anchorId);
     });
 
     resultsContainer.appendChild(resultItem);

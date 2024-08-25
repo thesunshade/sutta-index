@@ -83,7 +83,7 @@ export default function createSuttaIndexHtml(indexObject) {
       <div id="settings-bar" class="settings-bar">
         <div class="top-row">
           <div class="search-area">
-          <input type="text" id="search-box" placeholder="Search..." spellcheck="false">
+          <input type="text" id="search-box" placeholder="Search headwords..." spellcheck="false">
           </div>
           <div id="info-button" class="settings-button info" data-tippy-content="Settings and information.">
             <img class="icon" width="17px"  src="info-dot.png" />
