@@ -593,6 +593,29 @@ details>div {
   padding-left: .7rem;
 }
 
+.stats {
+  margin-top: 1rem;
+  padding: 10px 15px;
+  line-height: 1.6rem;
+  border: solid 2px black;
+  border-radius: 5px;
+  max-width: 16rem
+}
+
+.dark .stats {
+  border-color: var(--offwhite);
+}
+
+.answer {
+  font-weight: bold;
+  display: inline;
+}
+
+.update-date {
+  font-size: .7rem;
+  text-align: right;
+}
+
 .tippy-box[data-theme~='info'] {
   background-color: #c9c9c9;
   color: black;

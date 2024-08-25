@@ -247,26 +247,6 @@ function createIndexObject() {
     rawIndexArray[i] = lines[i].split("\t");
   }
 
-  // count total unique locators
-  const allLocatorsArray = [];
-  for (let i = 0; i < rawIndexArray.length - 1; i++) {
-    const locator = rawIndexArray[i][2].trim();
-    if (!locator.match(/xref/)) {
-      allLocatorsArray.push(locator);
-    }
-  }
-  const totalUniqueLocatorsLength = [...new Set(allLocatorsArray.flat())].length;
-  console.log(`#️⃣  Total unique locators: ${totalUniqueLocatorsLength}`);
-
-  try {
-    fs.writeFileSync("../src/data/uniqueLocators.js", `export const uniqueLocators =${totalUniqueLocatorsLength}`);
-  } catch (err) {
-    console.log("❌There was an error writing total unique locators");
-    console.error(err);
-  }
-
-  // end of total unique locators
-
   function normalizeDiacriticString(string) {
     return string
       .normalize("NFD") /*separates diacritics from letter */
@@ -424,7 +404,7 @@ function createIndexObject() {
     console.error(err);
   }
 
-  const headwordLocatorCount = `export const indexObject =${JSON.stringify(locatorCountHeadwordsList, null, 5)}`;
+  const headwordLocatorCount = `export const headwordLocatorCount =${JSON.stringify(locatorCountHeadwordsList, null, 5)}`;
 
   try {
     fs.writeFileSync("../src/data/headwordLocatorCount.js", headwordLocatorCount);
@@ -487,6 +467,48 @@ function createIndexObject() {
     console.log("❌There was an error writing headwordLocatorCountHTML");
     console.error(err);
   }
+
+  // ---------- S T A T S --------------
+  // count total unique locators
+  const allLocatorsArray = [];
+  for (let i = 0; i < rawIndexArray.length - 1; i++) {
+    const locator = rawIndexArray[i][2].trim();
+    if (!locator.match(/xref/)) {
+      allLocatorsArray.push(locator);
+    }
+  }
+
+  const alphabetLetters = Object.keys(indexObject);
+
+  let xrefsCount = 0;
+  for (let i = 0; i < alphabetLetters.length; i++) {
+    const thisLetterObject = indexObject[alphabetLetters[i]];
+    const thisLetterHeadKeys = Object.keys(thisLetterObject);
+    for (let x = 0; x < thisLetterHeadKeys.length; x++) {
+      const headWord = thisLetterHeadKeys[x];
+      const headwordObject = thisLetterObject[thisLetterHeadKeys[x]];
+      const subheads = Object.keys(headwordObject);
+      const xrefObject = thisLetterObject[headWord][""];
+      if (xrefObject) {
+        const pureXrefTest = headwordObject[""].locators;
+        if (subheads.length === 1 && pureXrefTest.length === 0) xrefsCount++;
+      }
+    }
+  }
+
+  const totalUniqueLocatorsLength = [...new Set(allLocatorsArray.flat())].length;
+  console.log(`#️⃣  Total unique locators: ${totalUniqueLocatorsLength}`);
+
+  // uniqueLocators.js needs to be fixed for React app
+
+  try {
+    fs.writeFileSync("../src/data/statsData.js", `export const statsData ={ uniqueLocators: ${totalUniqueLocatorsLength}, xrefsCount: ${xrefsCount}}`);
+  } catch (err) {
+    console.log("❌There was an error writing total unique locators");
+    console.error(err);
+  }
+
+  // end of total unique locators
 
   createSuttaIndexHtml(indexObject);
 }

@@ -1,4 +1,4 @@
-export const indexObject =[
+export const headwordLocatorCount =[
      [
           "Buddha, the",
           192

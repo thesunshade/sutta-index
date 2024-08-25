@@ -1,3 +1,8 @@
+import { updateDate } from "../data/updateDate.js";
+import { statsData } from "../data/statsData.js";
+import { headwordsArray } from "../data/headwords-array.js";
+import { indexArray } from "../data/index-array.js";
+
 export const infoAreaHtml = `
   <div class="settings-button-row">
     <div id="theme-button" class="theme-button settings-button info" data-tippy-content="toggle light/dark theme">
@@ -70,14 +75,35 @@ export const infoAreaHtml = `
       </details>
       <details>
         <summary>Coverage</summary>
-        <div className="row-2">
+        <div class="row-2">
           <div>
-            Complete: <span className="answer">MN; SN 1–3, 12–56; AN; Kp; Dhp; Ud; Iti; Snp; Vv; Pv; Thag; Thig</span>
+            Complete: <span class="answer">MN; SN 1–3, 12–56; AN; Kp; Dhp; Ud; Iti; Snp; Vv; Pv; Thag; Thig</span>
           </div>
           <div>
-            Planned: <span className="answer">DN, SN</span>
+            Planned: <span class="answer">DN, SN</span>
           </div>
-          <Stats />
+            <div class="stats">
+            <div class="settings-notice">
+              Stats:
+            </div>
+            <div class="row-1">
+              <div>
+                <span class="answer">${headwordsArray.length}</span> Headwords
+              </div>
+              <div>
+                <span class="answer">${(indexArray.length - statsData.xrefsCount).toLocaleString("en-US")}</span> Locators
+              </div>
+              <div>
+                <span class="answer">${statsData.uniqueLocators.toLocaleString("en-US")}</span> Unique Locators
+              </div>
+              <div>
+                <span class="answer">${statsData.xrefsCount.toLocaleString("en-US")}</span> Xref headwords
+              </div>
+            </div>
+            <p class="update-date">
+              <i>Last updated</i>: ${updateDate}
+            </p>
+          </div>
         </div>
         <p>
           <br />
