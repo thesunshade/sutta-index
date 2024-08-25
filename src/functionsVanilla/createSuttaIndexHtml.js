@@ -73,6 +73,7 @@ export default function createSuttaIndexHtml(indexObject) {
       <title>Comprehensive Index of Pāli Suttas</title>
       <script src="https://unpkg.com/@popperjs/core@2"></script>
       <script src="https://unpkg.com/tippy.js@6"></script>
+      
 
       ${suttaIndexHtmlStyles}
       </head>
@@ -84,7 +85,7 @@ export default function createSuttaIndexHtml(indexObject) {
           <div class="search-area">
           <input type="text" id="search-box" placeholder="Search..." spellcheck="false">
           </div>
-          <div id="info-button" class="settings-button" data-tippy-content="Settings and information.">
+          <div id="info-button" class="settings-button info" data-tippy-content="Settings and information.">
             <img class="icon" width="17px"  src="info-dot.png" />
           </div>
         </div>
@@ -134,12 +135,12 @@ export default function createSuttaIndexHtml(indexObject) {
             <div class="head-word-area">
                 <a class="headword-link" href=${"#" + makeNormalizedId(headword)}>
                     <span class="head-word">
-                    <img src="images/copy-icon2.png" alt="copy icon" class="icon copy-icon click-to-copy" height="16 title="Copy Heading Text" data-clipboard-text="${headword}">
-                    <img src="images/link-icon.png" alt="link copy icon" class="icon link-icon click-to-copy" height="16 title="Copy Heading Text" data-clipboard-text="index.readingfaithfully.org/#${makeNormalizedId(headword)}">
+                    <img src="images/copy-heading.png" alt="copy icon" class="icon copy-icon click-to-copy info" height="16" data-tippy-content="Copy headword text to the clipboard" data-clipboard-text="${headword}">
+                    <img src="images/link-icon.png" alt="link copy icon" class="icon link-icon click-to-copy info" height="16" data-tippy-content="Copy a link to this entry to the clipboard" data-clipboard-text="index.readingfaithfully.org/#${makeNormalizedId(headword)}">
                     ${injectCounterNumber(headword, headwordsObject[headword].counter_value)}
-                    <img src="images/copy-text.png" alt="text copy icon" class="icon text-icon copy-icon" height="16 title="Copy text of entry" data-headword="${headword}" data-tippy-content="Copy plain text of this entry">
-                    <img src="images/copy-html.png" alt="text copy icon" class="icon html-icon copy-icon" height="16 title="Copy text of entry" data-headword="${headword}" data-tippy-content="Copy html version of this entry">
-                    <img src="images/copy-markdown.png" alt="text copy icon" class="icon markdown-icon copy-icon" height="16 title="Copy text of entry" data-headword="${headword}" data-tippy-content="Copy Markdown version of this entry">
+                    <img src="images/copy-text-up.png" alt="text copy icon" class="icon text-icon copy-icon info" height="16 title="Copy text of entry" data-headword="${headword}" data-tippy-content="Copy plain text of this entry">
+                    <img src="images/copy-html-up.png" alt="text copy icon" class="icon html-icon copy-icon info" height="16 title="Copy text of entry" data-headword="${headword}" data-tippy-content="Copy html version of this entry">
+                    <img src="images/copy-markdown-up.png" alt="text copy icon" class="icon markdown-icon copy-icon info" height="16 title="Copy text of entry" data-headword="${headword}" data-tippy-content="Copy Markdown version of this entry">
                     </span>
                 </a>
           </div>
@@ -178,13 +179,8 @@ export default function createSuttaIndexHtml(indexObject) {
     `</div>
     <script type="module" src="scripts.js"></script>
     <script>
-        tippy('[data-tippy-content]',{allowHTML: true, delay: [100, null], touch: ['hold', 500],})
-        tippy('.copy-icon', {
-        content: 'Copy headword text to the clipboard',
-              });
-        tippy('.link-icon', {
-        content: 'Copy a link to this entry to the clipboard',
-              });
+        tippy('.locator',{allowHTML: true, delay: [300, null], touch: ['hold', 500],})
+        tippy('.info', {theme: 'info', touch: ['hold', 500], delay: [500, null],});
     </script>
   </body>
   </html>`;

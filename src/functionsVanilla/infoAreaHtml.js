@@ -1,12 +1,12 @@
 export const infoAreaHtml = `
   <div class="settings-button-row">
-    <div id="theme-button" class="theme-button settings-button" data-tippy-content="toggle light/dark theme">
+    <div id="theme-button" class="theme-button settings-button info" data-tippy-content="toggle light/dark theme">
       <img class="icon" height="20"  src="8673129_ic_fluent_dark_theme_filled.png" />
     </div>
-    <div id="color-button" class="settings-button" data-tippy-content="toggle colorized citations">
+    <div id="color-button" class="settings-button info" data-tippy-content="toggle colorized citations">
       <img class="icon" height="20" src="images/palette.png">
     </div>
-    <div id="eye-button" class="settings-button" data-tippy-content="Toggle visibility of copy buttons">
+    <div id="eye-button" class="settings-button info" data-tippy-content="Toggle visibility of copy buttons">
       <img class="icon" height="20" src="images/eye.png">
     </div>
   </div>
